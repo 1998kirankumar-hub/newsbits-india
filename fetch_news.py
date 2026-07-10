@@ -29,18 +29,23 @@ MAX_ITEMS_PER_CATEGORY = 12
 MAX_TOP_STORIES = 14
 
 # --- AI rewrite settings -----------------------------------------------
-# If GROQ_API_KEY is set (as a GitHub Actions secret), each article's
-# summary is rewritten in original wording via Groq's free API instead of
-# just truncating the publisher's RSS snippet. Groq's developer tier is
-# free with no credit card required (console.groq.com), rate-limited but
-# plenty for this use case. Results are cached in summary_cache.json so a
-# given article is only ever rewritten once, keeping well within the free
-# rate limits even though the workflow runs frequently.
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
-AI_MODEL = "openai/gpt-oss-20b"  # free on Groq; check console.groq.com/docs/models if this is deprecated
+# If GEMINI_API_KEY is set (as a GitHub Actions secret), each article's
+# summary is rewritten in original wording via Google's free Gemini API
+# instead of just truncating the publisher's RSS snippet. Gemini's free
+# tier (aistudio.google.com) needs no credit card. Results are cached in
+# summary_cache.json so a given article is only ever rewritten once,
+# keeping well within the free rate limits even though the workflow runs
+# frequently.
+#
+# NOTE: this used to call Groq, but Groq's Cloudflare-based anti-abuse
+# rules block requests from datacenter/CI IPs (including GitHub Actions
+# runners) with a blanket 403 -- confirmed by Groq's own team on their
+# community forum. Gemini does not have this restriction.
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+AI_MODEL = "gemini-2.5-flash-lite"  # free on Google AI Studio; highest free daily quota
 CACHE_FILE = "summary_cache.json"
-MAX_NEW_AI_CALLS_PER_RUN = 20  # stays well under Groq's free-tier per-minute limits
-AI_CALL_DELAY_SECONDS = 1.5  # small pause between calls to stay under rate limits
+MAX_NEW_AI_CALLS_PER_RUN = 15  # stays under the free tier's 15 requests/minute limit
+AI_CALL_DELAY_SECONDS = 4.5  # keeps us under 15 requests/minute even in the worst case
 
 # category -> list of (source name, RSS feed URL)
 FEEDS = {
@@ -175,7 +180,7 @@ def save_cache(cache):
 
 
 def ai_rewrite(title, source_name, snippet):
-    """Ask Groq (free, no card required) to rewrite the snippet in original
+    """Ask Gemini (free, no card required) to rewrite the snippet in original
     words. Returns None on any failure so the caller can fall back to the
     plain truncated snippet -- nothing breaks if the free API is unreachable
     or rate-limited."""
@@ -192,23 +197,23 @@ def ai_rewrite(title, source_name, snippet):
         f"Snippet: {snippet or '(no snippet available, headline only -- keep it brief)'}"
     )
     body = json.dumps({
-        "model": AI_MODEL,
-        "max_tokens": 250,
-        "messages": [{"role": "user", "content": prompt}],
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"maxOutputTokens": 300},
     }).encode("utf-8")
+    url = (
+        f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
+        f"?key={GEMINI_API_KEY}"
+    )
     req = urllib.request.Request(
-        "https://api.groq.com/openai/v1/chat/completions",
+        url,
         data=body,
-        headers={
-            "Authorization": f"Bearer {GROQ_API_KEY}",
-            "Content-Type": "application/json",
-        },
+        headers={"Content-Type": "application/json"},
         method="POST",
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = json.loads(resp.read())
-        text = data["choices"][0]["message"]["content"].strip()
+        text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
         return text or None
     except Exception as e:
         print(f"  [warn] AI rewrite failed for '{title[:60]}': {e}", file=sys.stderr)
@@ -241,7 +246,7 @@ def main():
     for link, it in representative.items():
         if link in cache:
             rewritten_by_link[link] = cache[link]
-        elif GROQ_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
+        elif GEMINI_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
             rewritten = ai_rewrite(it["title"], it["source"], it["summary"])
             ai_calls_used += 1
             if rewritten:
@@ -277,10 +282,10 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in output["categories"].values())
-    if GROQ_API_KEY:
-        note = f", {ai_calls_used} new AI rewrite(s) this run"
+    if GEMINI_API_KEY:
+        note = f", {ai_calls_used} new AI rewrite attempt(s) this run"
     else:
-        note = " (GROQ_API_KEY not set -- using original publisher snippets)"
+        note = " (GEMINI_API_KEY not set -- using original publisher snippets)"
     print(f"Wrote news.json with {total} items across {len(output['categories'])} categories{note}.")
 
 
