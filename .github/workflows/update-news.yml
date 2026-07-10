@@ -23,11 +23,11 @@ jobs:
 
       - name: Fetch latest news
         env:
-          # Optional: add GROQ_API_KEY as a repo secret (Settings -> Secrets
+          # Optional: add GEMINI_API_KEY as a repo secret (Settings -> Secrets
           # and variables -> Actions) to have summaries rewritten in original
-          # wording via Groq's free API instead of using the raw publisher
-          # snippet. Free, no credit card required: console.groq.com
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          # wording via Google's free Gemini API instead of using the raw
+          # publisher snippet. Free, no credit card required: aistudio.google.com
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 fetch_news.py
 
       - name: Commit and push if changed
