@@ -22,16 +22,21 @@ jobs:
           python-version: "3.11"
 
       - name: Fetch latest news
+        env:
+          # Optional: add ANTHROPIC_API_KEY as a repo secret (Settings -> Secrets
+          # and variables -> Actions) to have summaries rewritten in original
+          # wording via Claude instead of using the raw publisher snippet.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python3 fetch_news.py
 
-      - name: Commit and push if news.json changed
+      - name: Commit and push if changed
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          if git diff --quiet -- news.json; then
-            echo "No changes to news.json — nothing to commit."
+          git add news.json summary_cache.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            git add news.json
             git commit -m "Update news feed [automated]"
             git push
           fi
