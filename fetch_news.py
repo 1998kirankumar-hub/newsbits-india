@@ -17,6 +17,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -28,15 +29,18 @@ MAX_ITEMS_PER_CATEGORY = 12
 MAX_TOP_STORIES = 14
 
 # --- AI rewrite settings -----------------------------------------------
-# If ANTHROPIC_API_KEY is set (as a GitHub Actions secret), each article's
-# summary is rewritten in original wording via the Claude API instead of
-# just truncating the publisher's RSS snippet. Results are cached in
-# summary_cache.json so a given article is only ever rewritten once,
-# keeping API cost minimal even though the workflow runs frequently.
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-AI_MODEL = "claude-haiku-4-5-20251001"
+# If GROQ_API_KEY is set (as a GitHub Actions secret), each article's
+# summary is rewritten in original wording via Groq's free API instead of
+# just truncating the publisher's RSS snippet. Groq's developer tier is
+# free with no credit card required (console.groq.com), rate-limited but
+# plenty for this use case. Results are cached in summary_cache.json so a
+# given article is only ever rewritten once, keeping well within the free
+# rate limits even though the workflow runs frequently.
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
+AI_MODEL = "openai/gpt-oss-20b"  # free on Groq; check console.groq.com/docs/models if this is deprecated
 CACHE_FILE = "summary_cache.json"
-MAX_NEW_AI_CALLS_PER_RUN = 40  # caps cost/runtime if many new articles appear at once
+MAX_NEW_AI_CALLS_PER_RUN = 20  # stays well under Groq's free-tier per-minute limits
+AI_CALL_DELAY_SECONDS = 1.5  # small pause between calls to stay under rate limits
 
 # category -> list of (source name, RSS feed URL)
 FEEDS = {
@@ -171,8 +175,10 @@ def save_cache(cache):
 
 
 def ai_rewrite(title, source_name, snippet):
-    """Ask Claude to rewrite the snippet in original words. Returns None on
-    any failure so the caller can fall back to the plain truncated snippet."""
+    """Ask Groq (free, no card required) to rewrite the snippet in original
+    words. Returns None on any failure so the caller can fall back to the
+    plain truncated snippet -- nothing breaks if the free API is unreachable
+    or rate-limited."""
     prompt = (
         "You are writing a short news digest blurb for a site called NewsBits India. "
         "Using ONLY the headline and snippet below, write an original summary in your "
@@ -187,25 +193,22 @@ def ai_rewrite(title, source_name, snippet):
     )
     body = json.dumps({
         "model": AI_MODEL,
-        "max_tokens": 400,
+        "max_tokens": 250,
         "messages": [{"role": "user", "content": prompt}],
     }).encode("utf-8")
     req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
+        "https://api.groq.com/openai/v1/chat/completions",
         data=body,
         headers={
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json",
         },
         method="POST",
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = json.loads(resp.read())
-        text = "".join(
-            part.get("text", "") for part in data.get("content", []) if part.get("type") == "text"
-        ).strip()
+        text = data["choices"][0]["message"]["content"].strip()
         return text or None
     except Exception as e:
         print(f"  [warn] AI rewrite failed for '{title[:60]}': {e}", file=sys.stderr)
@@ -238,11 +241,12 @@ def main():
     for link, it in representative.items():
         if link in cache:
             rewritten_by_link[link] = cache[link]
-        elif ANTHROPIC_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
+        elif GROQ_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
             rewritten = ai_rewrite(it["title"], it["source"], it["summary"])
             ai_calls_used += 1
             if rewritten:
                 rewritten_by_link[link] = rewritten
+            time.sleep(AI_CALL_DELAY_SECONDS)
 
     for items in categories_raw.values():
         for it in items:
@@ -273,10 +277,10 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in output["categories"].values())
-    if ANTHROPIC_API_KEY:
+    if GROQ_API_KEY:
         note = f", {ai_calls_used} new AI rewrite(s) this run"
     else:
-        note = " (ANTHROPIC_API_KEY not set -- using original publisher snippets)"
+        note = " (GROQ_API_KEY not set -- using original publisher snippets)"
     print(f"Wrote news.json with {total} items across {len(output['categories'])} categories{note}.")
 
 

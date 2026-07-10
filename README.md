@@ -78,25 +78,26 @@ Ad networks review sites for genuine content and transparency. Before applying:
 
 ---
 
-## 4. Turning on AI-rewritten summaries
+## 4. Turning on AI-rewritten summaries (free)
 
 By default each summary is the publisher's own RSS snippet, truncated. To
 have summaries rewritten in original wording instead (longer, in NewsBits'
-own voice, not copied text):
+own voice, not copied text) using **Groq's free API — no credit card
+required**:
 
-1. Get an API key at **console.anthropic.com** (create an account, add a
-   small amount of credit, generate an API key).
+1. Go to **console.groq.com**, sign up with email or Google, and create an
+   API key (Settings → API Keys). No payment details needed.
 2. In your repo: **Settings → Secrets and variables → Actions → New
-   repository secret**. Name it `ANTHROPIC_API_KEY`, paste the key value,
-   save.
+   repository secret**. Name it `GROQ_API_KEY`, paste the key value, save.
 3. Trigger the **Update News Feed** workflow once (Actions tab → Run
    workflow) — from then on, every new article gets rewritten automatically.
 
-Cost is small: each rewrite is a fraction of a cent, and a
-`summary_cache.json` file (committed alongside `news.json`) makes sure a
-given article is only ever rewritten once, even though the feed refreshes
-every 30 minutes. If the secret isn't set, the site just falls back to the
-plain publisher snippet — nothing breaks.
+Groq's free developer tier has no per-token cost, just rate limits (well
+within what this site needs). A `summary_cache.json` file (committed
+alongside `news.json`) makes sure a given article is only ever rewritten
+once, so re-runs every 30 minutes don't waste calls on articles already
+seen. If the secret isn't set, the site just falls back to the plain
+publisher snippet — nothing breaks.
 
 ---
 
