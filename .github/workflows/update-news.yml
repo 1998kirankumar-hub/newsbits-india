@@ -2,8 +2,12 @@ name: Update News Feed
 
 on:
   schedule:
-    # Runs every 30 minutes. Edit this cron expression to change frequency.
-    - cron: "*/30 * * * *"
+    # Runs every 30 minutes, at :07 and :37 rather than :00/:30. GitHub's
+    # own docs warn that scheduled workflows can be delayed or silently
+    # skipped during high-load periods, and the top of the hour / half hour
+    # is the busiest time on their scheduler -- offsetting a few minutes
+    # avoids that. Edit this cron expression to change frequency.
+    - cron: "7,37 * * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
