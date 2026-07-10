@@ -78,8 +78,10 @@ function renderList() {
     // Drop an in-feed ad slot after the 6th headline in the active list
     if (idx === 5 && items.length > 6) {
       const adLi = document.createElement("li");
+      adLi.className = "ad-item";
       adLi.style.display = "block";
       adLi.style.border = "none";
+      adLi.style.padding = "0";
       adLi.innerHTML = `<div class="ad-slot" id="ad-infeed">Ad slot &mdash; paste your AdSense in-feed ad unit code here</div>`;
       listEl.appendChild(adLi);
     }
