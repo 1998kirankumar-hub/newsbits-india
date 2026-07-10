@@ -14,6 +14,7 @@ To change the news sources, edit the FEEDS dictionary below. Any standard
 RSS 2.0 or Atom feed URL will work.
 """
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -25,6 +26,17 @@ USER_AGENT = "Mozilla/5.0 (compatible; SimpleNewsBot/1.0)"
 TIMEOUT = 15
 MAX_ITEMS_PER_CATEGORY = 12
 MAX_TOP_STORIES = 14
+
+# --- AI rewrite settings -----------------------------------------------
+# If ANTHROPIC_API_KEY is set (as a GitHub Actions secret), each article's
+# summary is rewritten in original wording via the Claude API instead of
+# just truncating the publisher's RSS snippet. Results are cached in
+# summary_cache.json so a given article is only ever rewritten once,
+# keeping API cost minimal even though the workflow runs frequently.
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+AI_MODEL = "claude-haiku-4-5-20251001"
+CACHE_FILE = "summary_cache.json"
+MAX_NEW_AI_CALLS_PER_RUN = 40  # caps cost/runtime if many new articles appear at once
 
 # category -> list of (source name, RSS feed URL)
 FEEDS = {
@@ -145,9 +157,63 @@ def dedupe(items):
     return out
 
 
+def load_cache():
+    try:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def ai_rewrite(title, source_name, snippet):
+    """Ask Claude to rewrite the snippet in original words. Returns None on
+    any failure so the caller can fall back to the plain truncated snippet."""
+    prompt = (
+        "You are writing a short news digest blurb for a site called NewsBits India. "
+        "Using ONLY the headline and snippet below, write an original summary in your "
+        "own words -- not copied phrasing -- that gives a busy reader the full gist of "
+        "this story in roughly 7 to 10 short lines. If the snippet is thin, write less "
+        "rather than padding it out -- never invent facts, numbers, quotes, or details "
+        "that are not present in the input. Plain, clear, conversational language. "
+        "Output only the summary text, no headings or preamble.\n\n"
+        f"Headline: {title}\n"
+        f"Source: {source_name}\n"
+        f"Snippet: {snippet or '(no snippet available, headline only -- keep it brief)'}"
+    )
+    body = json.dumps({
+        "model": AI_MODEL,
+        "max_tokens": 400,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=body,
+        headers={
+            "x-api-key": ANTHROPIC_API_KEY,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read())
+        text = "".join(
+            part.get("text", "") for part in data.get("content", []) if part.get("type") == "text"
+        ).strip()
+        return text or None
+    except Exception as e:
+        print(f"  [warn] AI rewrite failed for '{title[:60]}': {e}", file=sys.stderr)
+        return None
+
+
 def main():
-    categories = {}
-    all_items = []
+    categories_raw = {}
 
     for category, sources in FEEDS.items():
         print(f"Fetching category: {category}")
@@ -156,10 +222,44 @@ def main():
             cat_items.extend(fetch_feed(source_name, url))
         cat_items = dedupe(cat_items)
         cat_items.sort(key=lambda x: x["_sort"], reverse=True)
-        cat_items = cat_items[:MAX_ITEMS_PER_CATEGORY]
-        all_items.extend(cat_items)
-        categories[category] = [{k: v for k, v in it.items() if k != "_sort"} for it in cat_items]
+        categories_raw[category] = cat_items[:MAX_ITEMS_PER_CATEGORY]
 
+    # One representative item per unique article link, so a story that
+    # appears in multiple categories only gets rewritten (and paid for) once.
+    representative = {}
+    for items in categories_raw.values():
+        for it in items:
+            representative.setdefault(it["link"], it)
+
+    cache = load_cache()
+    rewritten_by_link = {}
+    ai_calls_used = 0
+
+    for link, it in representative.items():
+        if link in cache:
+            rewritten_by_link[link] = cache[link]
+        elif ANTHROPIC_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
+            rewritten = ai_rewrite(it["title"], it["source"], it["summary"])
+            ai_calls_used += 1
+            if rewritten:
+                rewritten_by_link[link] = rewritten
+
+    for items in categories_raw.values():
+        for it in items:
+            if it["link"] in rewritten_by_link:
+                it["summary"] = rewritten_by_link[it["link"]]
+
+    # Persist only the links currently on-site, so the cache doesn't grow forever
+    save_cache({link: text for link, text in rewritten_by_link.items() if link in representative})
+
+    categories = {
+        cat: [{k: v for k, v in it.items() if k != "_sort"} for it in items]
+        for cat, items in categories_raw.items()
+    }
+
+    all_items = []
+    for items in categories_raw.values():
+        all_items.extend(items)
     all_items = dedupe(all_items)
     all_items.sort(key=lambda x: x["_sort"], reverse=True)
     top_stories = [{k: v for k, v in it.items() if k != "_sort"} for it in all_items[:MAX_TOP_STORIES]]
@@ -173,7 +273,11 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in output["categories"].values())
-    print(f"Wrote news.json with {total} items across {len(output['categories'])} categories.")
+    if ANTHROPIC_API_KEY:
+        note = f", {ai_calls_used} new AI rewrite(s) this run"
+    else:
+        note = " (ANTHROPIC_API_KEY not set -- using original publisher snippets)"
+    print(f"Wrote news.json with {total} items across {len(output['categories'])} categories{note}.")
 
 
 if __name__ == "__main__":

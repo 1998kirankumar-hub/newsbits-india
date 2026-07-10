@@ -78,7 +78,29 @@ Ad networks review sites for genuine content and transparency. Before applying:
 
 ---
 
-## 4. Customizing the news sources
+## 4. Turning on AI-rewritten summaries
+
+By default each summary is the publisher's own RSS snippet, truncated. To
+have summaries rewritten in original wording instead (longer, in NewsBits'
+own voice, not copied text):
+
+1. Get an API key at **console.anthropic.com** (create an account, add a
+   small amount of credit, generate an API key).
+2. In your repo: **Settings → Secrets and variables → Actions → New
+   repository secret**. Name it `ANTHROPIC_API_KEY`, paste the key value,
+   save.
+3. Trigger the **Update News Feed** workflow once (Actions tab → Run
+   workflow) — from then on, every new article gets rewritten automatically.
+
+Cost is small: each rewrite is a fraction of a cent, and a
+`summary_cache.json` file (committed alongside `news.json`) makes sure a
+given article is only ever rewritten once, even though the feed refreshes
+every 30 minutes. If the secret isn't set, the site just falls back to the
+plain publisher snippet — nothing breaks.
+
+---
+
+## 5. Customizing the news sources
 
 Open `fetch_news.py` and edit the `FEEDS` dictionary — it's a plain list of
 `(source name, RSS feed URL)` pairs grouped by category. Add, remove, or
