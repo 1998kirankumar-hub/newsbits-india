@@ -92,12 +92,22 @@ required**:
 3. Trigger the **Update News Feed** workflow once (Actions tab → Run
    workflow) — from then on, every new article gets rewritten automatically.
 
-Gemini's free tier has no per-token cost, just rate limits (well within
-what this site needs). A `summary_cache.json` file (committed alongside
-`news.json`) makes sure a given article is only ever rewritten once, so
-re-runs every 30 minutes don't waste calls on articles already seen. If
-the secret isn't set, the site just falls back to the plain publisher
-snippet — nothing breaks.
+Gemini's free tier has no per-token cost, just rate limits. A
+`summary_cache.json` file (committed alongside `news.json`) makes sure a
+given article is only ever rewritten once, so re-runs every 30 minutes
+don't waste calls on articles already seen. If the secret isn't set, the
+site just falls back to the plain publisher snippet — nothing breaks.
+
+**Heads up on the free tier's real limits:** Google documents fairly
+generous free-tier numbers, but the actual limit granted to a given
+account can be lower — check yours at
+[aistudio.google.com/rate-limit](https://aistudio.google.com/rate-limit).
+`fetch_news.py` defaults to a conservative 15 rewrites/day (`DAILY_AI_CALL_LIMIT`)
+tracked in a committed `ai_usage.json` file, which resets at midnight
+Pacific time. This means summaries get rewritten gradually — roughly 15
+articles a day — rather than all at once, until every current headline
+has been rewritten and cached. If your account's dashboard shows higher
+limits, raise `DAILY_AI_CALL_LIMIT` in `fetch_news.py` accordingly.
 
 (This site originally used Groq's free API instead. Groq turned out to
 block requests from datacenter/CI IPs — including GitHub Actions runners —

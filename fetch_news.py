@@ -23,6 +23,12 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
+try:
+    from zoneinfo import ZoneInfo
+    PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
+except Exception:
+    PACIFIC_TZ = None  # fall back to UTC date if tzdata isn't available
+
 USER_AGENT = "Mozilla/5.0 (compatible; SimpleNewsBot/1.0)"
 TIMEOUT = 15
 MAX_ITEMS_PER_CATEGORY = 12
@@ -41,11 +47,23 @@ MAX_TOP_STORIES = 14
 # rules block requests from datacenter/CI IPs (including GitHub Actions
 # runners) with a blanket 403 -- confirmed by Groq's own team on their
 # community forum. Gemini does not have this restriction.
+#
+# NOTE 2: Google's documented free-tier limits for this model (15 RPM /
+# 1000 RPD) turned out not to match what this specific account was
+# actually granted -- checking aistudio.google.com/rate-limit showed this
+# project's real cap is only 10 requests/minute and 20 requests/day. Since
+# the workflow runs every 30 minutes (48x/day), a per-run cap alone isn't
+# enough to stay under a *daily* limit -- so usage is tracked persistently
+# across runs in ai_usage.json (committed alongside summary_cache.json),
+# resetting at midnight Pacific time to match Google's reset schedule.
+# If your account has higher limits, raise DAILY_AI_CALL_LIMIT accordingly
+# (check your own numbers at the URL above).
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-AI_MODEL = "gemini-2.5-flash-lite"  # free on Google AI Studio; highest free daily quota
+AI_MODEL = "gemini-2.5-flash-lite"
 CACHE_FILE = "summary_cache.json"
-MAX_NEW_AI_CALLS_PER_RUN = 15  # stays under the free tier's 15 requests/minute limit
-AI_CALL_DELAY_SECONDS = 4.5  # keeps us under 15 requests/minute even in the worst case
+USAGE_FILE = "ai_usage.json"
+DAILY_AI_CALL_LIMIT = 15  # stays under this account's observed 20 requests/day cap
+AI_CALL_DELAY_SECONDS = 7  # stays under this account's observed 10 requests/minute cap
 
 # category -> list of (source name, RSS feed URL)
 FEEDS = {
@@ -179,6 +197,29 @@ def save_cache(cache):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
+def today_str():
+    now = datetime.now(PACIFIC_TZ) if PACIFIC_TZ else datetime.now(timezone.utc)
+    return now.strftime("%Y-%m-%d")
+
+
+def load_usage():
+    """Returns how many AI calls have already been made today (resets when
+    the Pacific-time date rolls over, matching Google's quota reset)."""
+    try:
+        with open(USAGE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if data.get("date") == today_str():
+            return int(data.get("count", 0))
+    except Exception:
+        pass
+    return 0
+
+
+def save_usage(count):
+    with open(USAGE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"date": today_str(), "count": count}, f)
+
+
 def ai_rewrite(title, source_name, snippet):
     """Ask Gemini (free, no card required) to rewrite the snippet in original
     words. Returns None on any failure so the caller can fall back to the
@@ -242,16 +283,21 @@ def main():
     cache = load_cache()
     rewritten_by_link = {}
     ai_calls_used = 0
+    calls_today = load_usage()
+    budget_left = max(0, DAILY_AI_CALL_LIMIT - calls_today)
 
     for link, it in representative.items():
         if link in cache:
             rewritten_by_link[link] = cache[link]
-        elif GEMINI_API_KEY and ai_calls_used < MAX_NEW_AI_CALLS_PER_RUN:
+        elif GEMINI_API_KEY and budget_left > 0:
             rewritten = ai_rewrite(it["title"], it["source"], it["summary"])
             ai_calls_used += 1
+            budget_left -= 1
             if rewritten:
                 rewritten_by_link[link] = rewritten
             time.sleep(AI_CALL_DELAY_SECONDS)
+
+    save_usage(calls_today + ai_calls_used)
 
     for items in categories_raw.values():
         for it in items:
@@ -283,7 +329,10 @@ def main():
 
     total = sum(len(v) for v in output["categories"].values())
     if GEMINI_API_KEY:
-        note = f", {ai_calls_used} new AI rewrite attempt(s) this run"
+        note = (
+            f", {ai_calls_used} new AI rewrite attempt(s) this run "
+            f"({calls_today + ai_calls_used}/{DAILY_AI_CALL_LIMIT} of today's AI budget used)"
+        )
     else:
         note = " (GEMINI_API_KEY not set -- using original publisher snippets)"
     print(f"Wrote news.json with {total} items across {len(output['categories'])} categories{note}.")
