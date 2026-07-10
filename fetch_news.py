@@ -68,7 +68,7 @@ def clean_text(text):
     return text.strip()
 
 
-def summarize(text, max_len=200):
+def summarize(text, max_len=420):
     text = clean_text(text)
     if not text:
         return ""
