@@ -68,6 +68,16 @@ def clean_text(text):
     return text.strip()
 
 
+def summarize(text, max_len=200):
+    text = clean_text(text)
+    if not text:
+        return ""
+    if len(text) <= max_len:
+        return text
+    truncated = text[:max_len].rsplit(" ", 1)[0]
+    return truncated.rstrip(",.;:-") + "…"
+
+
 def parse_date(raw):
     if not raw:
         return None
@@ -98,12 +108,23 @@ def fetch_feed(source_name, url):
                 link = link_el.get("href") if link_el is not None else ""
             pub_raw = entry.findtext("pubDate") or entry.findtext(f"{ATOM_NS}published")
             pub_dt = parse_date(pub_raw)
+            desc_raw = (
+                entry.findtext("description")
+                or entry.findtext(f"{ATOM_NS}summary")
+                or entry.findtext(f"{ATOM_NS}content")
+                or ""
+            )
+            summary = summarize(desc_raw)
+            # Some feeds just repeat the title in the description — skip those
+            if summary and summary.lower().rstrip(".…") == title.lower().rstrip(".…"):
+                summary = ""
             if not title or not link:
                 continue
             items.append({
                 "title": title,
                 "link": link.strip(),
                 "source": source_name,
+                "summary": summary,
                 "published": pub_dt.isoformat() if pub_dt else None,
                 "_sort": pub_dt or datetime.min.replace(tzinfo=timezone.utc),
             })

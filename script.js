@@ -72,6 +72,22 @@ function renderList() {
 
     body.appendChild(a);
     body.appendChild(meta);
+
+    if (item.summary) {
+      const summary = document.createElement("p");
+      summary.className = "item-summary";
+      summary.textContent = item.summary;
+      body.appendChild(summary);
+    }
+
+    const continueLink = document.createElement("a");
+    continueLink.className = "continue-link";
+    continueLink.href = item.link;
+    continueLink.target = "_blank";
+    continueLink.rel = "noopener noreferrer";
+    continueLink.textContent = `Continue reading on ${item.source || "source"} →`;
+    body.appendChild(continueLink);
+
     li.appendChild(body);
     listEl.appendChild(li);
 
