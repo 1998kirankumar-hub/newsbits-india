@@ -135,7 +135,8 @@ nav.tabs::-webkit-scrollbar {
 }
 
 .top-badge {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   background: var(--accent);
   color: #fff;
   font-size: 10.5px;
