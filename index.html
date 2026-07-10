@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NewsBits India — Latest Headlines in Bullet Points</title>
+<meta name="description" content="The latest India and world news in short, scannable bullet points. Updated automatically throughout the day." />
+
+<!--
+  GOOGLE ADSENSE: once your AdSense account is approved, paste your
+  auto ads script tag here, right before </head>. Example:
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+-->
+
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site-header">
+    <div class="header-top">
+      <div class="brand">
+        <h1>News<span>Bits</span> India</h1>
+      </div>
+      <div class="header-controls">
+        <span id="last-updated">Updated —</span>
+        <button id="theme-toggle">Dark mode</button>
+      </div>
+    </div>
+    <p class="tagline">The day's top headlines, in short bullet points. Refreshed automatically.</p>
+    <nav class="tabs" id="tabs"></nav>
+  </header>
+
+  <!-- AD SLOT: top banner. Paste your AdSense display ad unit code inside this div. -->
+  <div class="ad-slot" id="ad-top">Ad slot &mdash; paste your AdSense banner ad unit code here</div>
+
+  <main>
+    <p id="status-msg" style="display:none;">Loading latest headlines…</p>
+    <ul class="news-list" id="news-list"></ul>
+  </main>
+
+  <!-- AD SLOT: footer banner. Paste your AdSense display ad unit code inside this div. -->
+  <div class="ad-slot" id="ad-footer">Ad slot &mdash; paste your AdSense banner ad unit code here</div>
+
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="about.html">About</a> ·
+      <a href="privacy.html">Privacy Policy</a> ·
+      <a href="mailto:1998kirankumar@gmail.com">Contact</a>
+    </div>
+    <div>Headlines aggregated from public RSS feeds. All content belongs to the original publishers; click a headline to read the full story at the source.</div>
+    <div>&copy; <span id="year"></span> NewsBits India</div>
+  </footer>
+
+</div>
+
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+<script src="script.js"></script>
+</body>
+</html>
