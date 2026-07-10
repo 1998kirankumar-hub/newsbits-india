@@ -1,6 +1,19 @@
 const NEWS_URL = "news.json";
 const REFRESH_MS = 5 * 60 * 1000; // re-check for fresh news every 5 minutes
 
+// Gives each category its own voice instead of a generic "Top Stories" list.
+// tagline = shown under the tabs for the active category.
+// badge = shown on the lead story in that category.
+const CATEGORY_INFO = {
+  "Top Stories": { tagline: "What's blowing up right now, across everything.", badge: "🔥 Trending Now" },
+  "India": { tagline: "What's happening back home.", badge: "📍 Must Read" },
+  "World": { tagline: "The world, in a nutshell.", badge: "🌍 Big Story" },
+  "Business": { tagline: "Follow the money.", badge: "💰 Market Alert" },
+  "Sports": { tagline: "Score, drama, repeat.", badge: "🏆 Game Alert" },
+  "Technology": { tagline: "What's new, what's next.", badge: "⚡ Just Dropped" },
+  "Entertainment": { tagline: "Off-duty reading.", badge: "🎬 Buzzing" },
+};
+
 let newsData = null;
 let activeCategory = "Top Stories";
 
@@ -8,6 +21,7 @@ const listEl = document.getElementById("news-list");
 const statusEl = document.getElementById("status-msg");
 const tabsEl = document.getElementById("tabs");
 const lastUpdatedEl = document.getElementById("last-updated");
+const taglineEl = document.getElementById("category-tagline");
 
 function timeAgo(iso) {
   if (!iso) return "";
@@ -35,6 +49,9 @@ function renderTabs(categories) {
     });
     tabsEl.appendChild(btn);
   });
+  if (taglineEl) {
+    taglineEl.textContent = (CATEGORY_INFO[activeCategory] || {}).tagline || "";
+  }
 }
 
 function renderList() {
@@ -54,6 +71,13 @@ function renderList() {
 
     const body = document.createElement("div");
     body.className = "item-body";
+
+    if (idx === 0) {
+      const badge = document.createElement("span");
+      badge.className = "top-badge";
+      badge.textContent = (CATEGORY_INFO[activeCategory] || {}).badge || "🔥 Top Pick";
+      body.appendChild(badge);
+    }
 
     const a = document.createElement("a");
     a.className = "headline";
