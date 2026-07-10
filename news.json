@@ -1,19 +1,535 @@
 {
-  "updated_at": "2026-07-10T00:00:00+00:00",
+  "updated_at": "2026-07-10T09:28:06.017802+00:00",
   "categories": {
     "Top Stories": [
       {
-        "title": "Sample headline — this placeholder will be replaced automatically after your first GitHub Action run",
-        "link": "https://example.com",
-        "source": "NewsBits India",
-        "published": "2026-07-10T00:00:00+00:00"
+        "title": "15 Killed In Philippines Landslide As Typhoon Bavi Nears Taiwan",
+        "link": "https://www.ndtv.com/world-news/15-killed-in-philippines-landslide-as-typhoon-bavi-nears-taiwan-11752831#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:49:52+05:30"
+      },
+      {
+        "title": "Vijay Karur visit LIVE: Chief Minister announces memorial for stampede victims on behalf of TVK",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-karur-visit-live-updates-stampede-victim-families-meet-tvk-party-meeting-job-order/article71205273.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:42:09+05:30"
+      },
+      {
+        "title": "US firm CorroHealth closure in Kerala: No breakthrough in Minister-level meeting",
+        "link": "https://www.thehindu.com/news/national/kerala/us-firm-corrohealth-closure-in-kerala-no-breakthrough-in-minister-level-meeting/article71205819.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:41:09+05:30"
+      },
+      {
+        "title": "Delhi HC upholds Rajpal Yadav's conviction in cheque bounce case, cuts jail term to 3 months",
+        "link": "https://www.hindustantimes.com/india-news/delhi-hc-upholds-rajpal-yadavs-conviction-in-cheque-bounce-case-cuts-jail-term-to-3-months-101783674627321.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:40:59+05:30"
+      },
+      {
+        "title": "Monsoon tracker LIVE: Monsoon fury batters several states, over 10 dead in rain-related incidents across country",
+        "link": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-mumbai-india-imd-forecast-train-flight-cancellations-latest-updates-july-10-2026/article71205158.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:39:05+05:30"
+      },
+      {
+        "title": "Take up GST cut on commercial LPG with Centre, hoteliers ask Andhra government",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/take-up-gst-cut-on-commercial-lpg-with-centre-hoteliers-ask-andhra-government/article71205536.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:38:54+05:30"
+      },
+      {
+        "title": "Panel to be formed soon to examine liquor retail models in other States: T.N. Minister for Prohibition Vignesh",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/panel-to-be-formed-soon-to-examine-liquor-retail-models-in-other-states-says-the-minister-for-prohibition-and-excise/article71203583.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:36:47+05:30"
+      },
+      {
+        "title": "Derek O'Brien slams TMC accounts freeze amid Ram Temple donation row: ‘When will ED freeze temple funds’",
+        "link": "https://www.hindustantimes.com/india-news/derek-obrien-slams-tmc-accounts-freeze-amid-ram-temple-donation-row-when-will-ed-freeze-temple-funds-101783663880273.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:36:38+05:30"
+      },
+      {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T09:06:02+00:00"
+      },
+      {
+        "title": "23% Karnataka Youth Neither Working, Nor Studying. Bengaluru Bears The Load",
+        "link": "https://www.ndtv.com/india-news/karnataka-youth-jobless-studying-bengaluru-migration-workforce-report-11753068#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:35:59+05:30"
+      },
+      {
+        "title": "France Returns 23 Syrian Treasures After 15 Years As Macron Visits Damascus",
+        "link": "https://www.ndtv.com/world-news/france-returns-23-syrian-treasures-after-15-years-as-macron-visits-damascus-11752610#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:35:52+05:30"
+      },
+      {
+        "title": "Not a Modi breakthrough, Australia's ruling party approved uranium sales to India in 2011: Jairam Ramesh",
+        "link": "https://www.hindustantimes.com/india-news/not-a-modi-breakthrough-australias-ruling-party-approved-uranium-sales-to-india-in-2011-jairam-ramesh-101783664896995.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:35:49+05:30"
+      },
+      {
+        "title": "Adani Partners With French Firm To Develop Low-Carbon Chemicals In India",
+        "link": "https://www.ndtv.com/india-news/adani-partners-with-french-firm-dioxycle-to-develop-low-carbon-chemicals-in-india-11753219#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:34:38+05:30"
+      },
+      {
+        "title": "Bitcoin Holds Above $63,800 as Lower Oil Prices Lift Crypto Market Sentiment",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-holds-above-usd-63800-as-lower-oil-prices-lift-crypto-sentiment-crypto-markets-prices-july-2026-11753138",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T14:32:31+05:30"
       }
     ],
-    "India": [],
-    "World": [],
-    "Business": [],
-    "Sports": [],
-    "Technology": [],
-    "Entertainment": []
+    "India": [
+      {
+        "title": "15 Killed In Philippines Landslide As Typhoon Bavi Nears Taiwan",
+        "link": "https://www.ndtv.com/world-news/15-killed-in-philippines-landslide-as-typhoon-bavi-nears-taiwan-11752831#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:49:52+05:30"
+      },
+      {
+        "title": "Vijay Karur visit LIVE: Chief Minister announces memorial for stampede victims on behalf of TVK",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-karur-visit-live-updates-stampede-victim-families-meet-tvk-party-meeting-job-order/article71205273.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:42:09+05:30"
+      },
+      {
+        "title": "US firm CorroHealth closure in Kerala: No breakthrough in Minister-level meeting",
+        "link": "https://www.thehindu.com/news/national/kerala/us-firm-corrohealth-closure-in-kerala-no-breakthrough-in-minister-level-meeting/article71205819.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:41:09+05:30"
+      },
+      {
+        "title": "Delhi HC upholds Rajpal Yadav's conviction in cheque bounce case, cuts jail term to 3 months",
+        "link": "https://www.hindustantimes.com/india-news/delhi-hc-upholds-rajpal-yadavs-conviction-in-cheque-bounce-case-cuts-jail-term-to-3-months-101783674627321.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:40:59+05:30"
+      },
+      {
+        "title": "Monsoon tracker LIVE: Monsoon fury batters several states, over 10 dead in rain-related incidents across country",
+        "link": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-mumbai-india-imd-forecast-train-flight-cancellations-latest-updates-july-10-2026/article71205158.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:39:05+05:30"
+      },
+      {
+        "title": "Take up GST cut on commercial LPG with Centre, hoteliers ask Andhra government",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/take-up-gst-cut-on-commercial-lpg-with-centre-hoteliers-ask-andhra-government/article71205536.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:38:54+05:30"
+      },
+      {
+        "title": "Panel to be formed soon to examine liquor retail models in other States: T.N. Minister for Prohibition Vignesh",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/panel-to-be-formed-soon-to-examine-liquor-retail-models-in-other-states-says-the-minister-for-prohibition-and-excise/article71203583.ece",
+        "source": "The Hindu",
+        "published": "2026-07-10T14:36:47+05:30"
+      },
+      {
+        "title": "Derek O'Brien slams TMC accounts freeze amid Ram Temple donation row: ‘When will ED freeze temple funds’",
+        "link": "https://www.hindustantimes.com/india-news/derek-obrien-slams-tmc-accounts-freeze-amid-ram-temple-donation-row-when-will-ed-freeze-temple-funds-101783663880273.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:36:38+05:30"
+      },
+      {
+        "title": "23% Karnataka Youth Neither Working, Nor Studying. Bengaluru Bears The Load",
+        "link": "https://www.ndtv.com/india-news/karnataka-youth-jobless-studying-bengaluru-migration-workforce-report-11753068#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:35:59+05:30"
+      },
+      {
+        "title": "France Returns 23 Syrian Treasures After 15 Years As Macron Visits Damascus",
+        "link": "https://www.ndtv.com/world-news/france-returns-23-syrian-treasures-after-15-years-as-macron-visits-damascus-11752610#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:35:52+05:30"
+      },
+      {
+        "title": "Not a Modi breakthrough, Australia's ruling party approved uranium sales to India in 2011: Jairam Ramesh",
+        "link": "https://www.hindustantimes.com/india-news/not-a-modi-breakthrough-australias-ruling-party-approved-uranium-sales-to-india-in-2011-jairam-ramesh-101783664896995.html",
+        "source": "Hindustan Times",
+        "published": "2026-07-10T14:35:49+05:30"
+      },
+      {
+        "title": "Adani Partners With French Firm To Develop Low-Carbon Chemicals In India",
+        "link": "https://www.ndtv.com/india-news/adani-partners-with-french-firm-dioxycle-to-develop-low-carbon-chemicals-in-india-11753219#publisher=newsstand",
+        "source": "NDTV",
+        "published": "2026-07-10T14:34:38+05:30"
+      }
+    ],
+    "World": [
+      {
+        "title": "Degree but no job: The battle against unemployment in Gaza",
+        "link": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T08:48:59+00:00"
+      },
+      {
+        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-10T08:26:00+00:00"
+      },
+      {
+        "title": "Bodies found in cars as deadly Spain wildfire kills at least 12",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/bodies-found-in-cars-as-deadly-spain-wildfire-kills-at-least-12?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T08:07:49+00:00"
+      },
+      {
+        "title": "Administration without sovereignty will not free Palestine",
+        "link": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T08:03:44+00:00"
+      },
+      {
+        "title": "Bayeux Tapestry smuggled into Britain for first visit in 1,000 years",
+        "link": "https://www.aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:59:32+00:00"
+      },
+      {
+        "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:55:25+00:00"
+      },
+      {
+        "title": "Wildfires in southern Spain kill at least 12",
+        "link": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:43:19+00:00"
+      },
+      {
+        "title": "The US is building a new pressure architecture against Iran",
+        "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:29:09+00:00"
+      },
+      {
+        "title": "‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/unstoppable-force-mbappes-france-crush-moroccos-world-cup-dreams?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:15:06+00:00"
+      },
+      {
+        "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
+        "link": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T07:02:05+00:00"
+      },
+      {
+        "title": "China lands reusable rocket for first time, state media says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-10T06:44:21+00:00"
+      },
+      {
+        "title": "Spain vs Belgium: World Cup quarterfinal – prediction, start time, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/spain-vs-belgium-world-cup-quarterfinal-prediction-start-time-lineups?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-10T06:12:59+00:00"
+      }
+    ],
+    "Business": [
+      {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T09:06:02+00:00"
+      },
+      {
+        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T08:26:00+00:00"
+      },
+      {
+        "title": "Vedanta Power, Vedanta Oil &amp; Gas, other Vedanta stocks surge up to 6%. What lies ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-vedanta-oil-gas-other-vedanta-stocks-surge-up-to-6-what-lies-ahead/articleshow/132305390.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T12:30:31+05:30"
+      },
+      {
+        "title": "Cupid shares jump 6%, stock skyrockets 900% in one year. Should you buy now?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-6-stock-skyrockets-900-in-one-year-should-you-buy-now/articleshow/132304818.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T12:05:55+05:30"
+      },
+      {
+        "title": "HFCL shares rally 4% after Rs 495-crore order win. Should you buy after 200% surge in 2026?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rally-4-after-rs-495-crore-order-win-should-you-buy-after-200-surge-in-2026/articleshow/132304675.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T11:56:42+05:30"
+      },
+      {
+        "title": "Blue Jet Healthcare shares rally 9% after Rs 800 crore QIP allotment",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/blue-jet-healthcare-shares-rally-9-after-rs-800-crore-qip-allotment/articleshow/132304507.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T11:46:26+05:30"
+      },
+      {
+        "title": "Dixon Tech shares jump 4% on govt nod to form JV with Vivo. What are experts saying?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-jump-4-on-govt-nod-to-form-jv-with-vivo-what-are-experts-saying/articleshow/132303973.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T11:15:57+05:30"
+      },
+      {
+        "title": "Drivers urged to shop around amid 11p fuel gap",
+        "link": "https://www.bbc.co.uk/news/articles/cg53l34g8p3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T05:19:17+00:00"
+      },
+      {
+        "title": "Why has the price of fish and chips gone up?",
+        "link": "https://www.bbc.co.uk/news/articles/c0ly5g3854xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T05:09:26+00:00"
+      },
+      {
+        "title": "Kalyan Jewellers jumps 9%, m-cap swells by Rs 13,280 crore in 3 days. What's next?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-jumps-9-extends-3-day-rally-to-36-whats-next/articleshow/132303291.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T10:28:14+05:30"
+      },
+      {
+        "title": "China awards two village boys, one studied by lamplight to power a third of world's EVs, the other cracked english in two months to give fighter jets x-ray vision",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/china-awards-two-village-boys-one-studied-by-lamplight-to-power-a-third-of-worlds-evs-the-other-cracked-english-in-two-months-to-give-fighter-jets-x-ray-vision/articleshow/132302599.cms",
+        "source": "Economic Times",
+        "published": "2026-07-10T09:58:55+05:30"
+      },
+      {
+        "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+        "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "2026-07-10T02:48:18+00:00"
+      }
+    ],
+    "Sports": [
+      {
+        "title": "Morocco Coach Makes Big 'Handball' Claim Over Kylian Mbappe Goal: \"Some Players Stopped\"",
+        "link": "https://sports.ndtv.com/football/new-var-row-hits-fifa-world-cup-2026-morocco-coachs-handball-claim-over-kylian-mbappe-goal-11752741#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T13:20:37+05:30"
+      },
+      {
+        "title": "Ashwin ruled out of rest of MLC 2026 with knee injury",
+        "link": "https://www.cricinfo.com/ci/content/story/1545008.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-10T07:16:20+00:00"
+      },
+      {
+        "title": "BCCI To Take Big Step After India's T20I Series Loss Against England: Report",
+        "link": "https://sports.ndtv.com/cricket/gautam-gambhirs-job-in-trouble-after-indias-t20i-series-loss-against-england-report-says-this-11752462#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T12:19:08+05:30"
+      },
+      {
+        "title": "Australia To Host An IPL Game? Report Makes Explosive 'Private Talks' Claim",
+        "link": "https://sports.ndtv.com/cricket/australia-to-host-an-ipl-game-report-makes-explosive-private-talks-claim-11752335#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T11:06:49+05:30"
+      },
+      {
+        "title": "From Gujarat To Centre Court: The Indian Link Behind Wimbledon's Iconic Towels",
+        "link": "https://sports.ndtv.com/tennis/from-gujarat-to-centre-court-the-indian-link-behind-wimbledons-iconic-towels-11752276#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T10:55:01+05:30"
+      },
+      {
+        "title": "Tromp, Fletcher and Russell lift LAKR to No. 3",
+        "link": "https://www.cricinfo.com/ci/content/story/1545075.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-10T05:23:59+00:00"
+      },
+      {
+        "title": "FIFA World Cup 2026: Erling Haaland Reacts To Kylian Mbappe Penalty Delay Against Morocco, Gives Blunt Verdict",
+        "link": "https://sports.ndtv.com/football/fifa-world-cup-2026-erling-haaland-reacts-to-kylian-mbappe-penalty-delay-against-morocco-gives-blunt-verdict-11752108#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T10:13:29+05:30"
+      },
+      {
+        "title": "Norway's 'Viking Row' Fever Reaches India, Ambassador Celebrates World Cup Run",
+        "link": "https://sports.ndtv.com/football/norways-viking-row-fever-reaches-india-ambassador-celebrates-world-cup-run-11751993#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T09:47:24+05:30"
+      },
+      {
+        "title": "Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
+        "link": "https://www.cricinfo.com/ci/content/story/1545065.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-10T04:13:14+00:00"
+      },
+      {
+        "title": "\"I've Been Saying He Should Be Dropped\": India's Star Batter Labelled \"Clueless\" By 1983 World Cup Winner",
+        "link": "https://sports.ndtv.com/cricket/ive-been-saying-he-should-be-dropped-indias-star-batter-labelled-clueless-by-1983-world-cup-winner-11750386#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T09:11:14+05:30"
+      },
+      {
+        "title": "Grimmond replaces injured Henry in West Indies squad for Ireland ODIs",
+        "link": "https://www.cricinfo.com/ci/content/story/1545066.html?ex_cid=OTC-RSS",
+        "source": "ESPN Cricinfo",
+        "published": "2026-07-10T03:40:30+00:00"
+      },
+      {
+        "title": "Bruno Fernandes Breaks Silence On Portugal's World Cup Exit, Sends Big Message To Cristiano Ronaldo And Co",
+        "link": "https://sports.ndtv.com/football/bruno-fernandes-breaks-silence-on-portugals-world-cup-exit-sends-big-message-to-cristiano-ronaldo-and-co-11751487#publisher=newsstand",
+        "source": "NDTV Sports",
+        "published": "2026-07-10T09:06:13+05:30"
+      }
+    ],
+    "Technology": [
+      {
+        "title": "Bitcoin Holds Above $63,800 as Lower Oil Prices Lift Crypto Market Sentiment",
+        "link": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-holds-above-usd-63800-as-lower-oil-prices-lift-crypto-sentiment-crypto-markets-prices-july-2026-11753138",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T14:32:31+05:30"
+      },
+      {
+        "title": "Apple's iPhone Ultra Tipped to Feature Near Crease-Free Foldable Display Using Novel Hinge Technology",
+        "link": "https://www.gadgets360.com/mobiles/news/iphone-ultra-crease-free-display-hinge-technology-leak-11752969",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T13:52:15+05:30"
+      },
+      {
+        "title": "Vivo T5 Lite 5G India Launch Date Revealed Alongside Key Specifications, Features",
+        "link": "https://www.gadgets360.com/mobiles/news/vivo-t5-lite-5g-india-launch-date-specifications-flipkart-teaser-11752752",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T12:58:33+05:30"
+      },
+      {
+        "title": "Sony IER-M500 In-Ear Monitors Launched With 5mm Driver, Hi-Res Audio: Price, Features",
+        "link": "https://www.gadgets360.com/audio/news/sony-ier-m500-price-launch-availability-specifications-features-11752708",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T12:55:17+05:30"
+      },
+      {
+        "title": "Oppo Find N7 Leak Hints at Launch Timeline and Presence of 6,500mAh Battery, Snapdragon 8 Elite Gen 6 Chip",
+        "link": "https://www.gadgets360.com/mobiles/news/oppo-find-n7-battery-chipset-launch-timeline-specifications-features-weibo-leak-11752535",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T12:29:05+05:30"
+      },
+      {
+        "title": "Assassin's Creed Black Flag Resynced Becomes Biggest Steam Launch in Series' History",
+        "link": "https://www.gadgets360.com/games/news/assassins-creed-black-flag-resynced-launch-steam-peak-concurrent-player-record-ubisoft-11752444",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:57:48+05:30"
+      },
+      {
+        "title": "Meta Unveils Muse Spark 1.1 AI Model With 1 Million-Token Context Window, Model API Preview",
+        "link": "https://www.gadgets360.com/ai/news/meta-muse-spark-1-1-launch-features-ai-model-11752502",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:56:46+05:30"
+      },
+      {
+        "title": "Vivo X Fold 6 Reportedly Gets Indonesian SDPPI Approval; May Arrive in Global Markets Soon",
+        "link": "https://www.gadgets360.com/mobiles/news/vivo-x-fold-6-sdppi-certification-listing-model-number-leak-11752280",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:14:50+05:30"
+      },
+      {
+        "title": "HMD Arc 2 Launched With Unisoc T603 Chip, 5,000mAh Battery: Price, Features",
+        "link": "https://www.gadgets360.com/mobiles/news/hmd-arc-2-price-launch-availability-specifications-features-11752311",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:12:15+05:30"
+      },
+      {
+        "title": "Laptops for Students in 2026: Top Picks for Every Category",
+        "link": "https://www.gadgets360.com/laptops/sponsored/laptops-for-students-in-2026-top-picks-for-every-category-11752355",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:10:50+05:30"
+      },
+      {
+        "title": "Government Removes Import Duty on Some Electronics, Smartphone Parts",
+        "link": "https://www.gadgets360.com/mobiles/news/government-removes-import-duty-on-some-electronics-smartphone-parts-11752327",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T11:01:13+05:30"
+      },
+      {
+        "title": "iPhone 18 Pro Max Component Cost Could Jump Nearly $300 Over iPhone 17 Pro Max: Report",
+        "link": "https://www.gadgets360.com/mobiles/news/iphone-18-pro-max-vs-iphone-17-pro-max-bill-of-materials-comparison-price-11752125",
+        "source": "Gadgets 360",
+        "published": "2026-07-10T10:01:32+05:30"
+      }
+    ],
+    "Entertainment": [
+      {
+        "title": "Warning over fading tradition of sending postcards",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy3n415l2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-10T05:03:10+00:00"
+      },
+      {
+        "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+        "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-10T05:00:04+00:00"
+      },
+      {
+        "title": "Melanie C says Spice Girls' 30th anniversary was 'emotional'",
+        "link": "https://www.bbc.co.uk/news/articles/c8x2kyr4wv5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-10T02:08:37+00:00"
+      },
+      {
+        "title": "BBC radio DJ Paul Gambaccini diagnosed with Alzheimer's",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-10T01:39:35+00:00"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "link": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T23:07:47+00:00"
+      },
+      {
+        "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
+        "link": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T22:41:08+00:00"
+      },
+      {
+        "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
+        "link": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T21:20:54+00:00"
+      },
+      {
+        "title": "Graham Linehan receives settlement from Met over online post arrest",
+        "link": "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T18:29:46+00:00"
+      },
+      {
+        "title": "Duchess Sophie makes The Archers cameo appearance",
+        "link": "https://www.bbc.co.uk/news/articles/cyv0z8g0975o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T18:16:33+00:00"
+      },
+      {
+        "title": "Love Island star Cach Mercer joins Strictly line-up",
+        "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T16:49:37+00:00"
+      },
+      {
+        "title": "Justin Baldoni describes painful saga as he breaks silence on Blake Lively dispute",
+        "link": "https://www.bbc.co.uk/news/articles/c0my34g9edpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T16:28:20+00:00"
+      },
+      {
+        "title": "Pontypridd, Birkenhead and Isle of Bute among shortlist for first UK Town of Culture",
+        "link": "https://www.bbc.co.uk/news/articles/c3dy7rr3kpmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Entertainment",
+        "published": "2026-07-09T16:00:17+00:00"
+      }
+    ]
   }
 }
