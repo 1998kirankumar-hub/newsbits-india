@@ -1,0 +1,37 @@
+name: Update News Feed
+
+on:
+  schedule:
+    # Runs every 30 minutes. Edit this cron expression to change frequency.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch latest news
+        run: python3 fetch_news.py
+
+      - name: Commit and push if news.json changed
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          if git diff --quiet -- news.json; then
+            echo "No changes to news.json — nothing to commit."
+          else
+            git add news.json
+            git commit -m "Update news feed [automated]"
+            git push
+          fi
