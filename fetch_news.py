@@ -125,36 +125,34 @@ FEEDS_BY_LANG = {
         ],
     },
     "hi": {
+        # Navbharat Times, Patrika 404'd/timed out from the GitHub Actions
+        # runner (confirmed via production log) even though some looked fine
+        # from direct manual checks -- removed rather than left as dead weight.
         "Top Stories": [
             ("BBC Hindi", "https://feeds.bbci.co.uk/hindi/rss.xml"),
             ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-news-fb.xml"),
             ("Amar Ujala", "https://www.amarujala.com/rss/breaking-news.xml"),
-            ("Navbharat Times", "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"),
             ("Dainik Bhaskar", "https://www.bhaskar.com/rss-feed/1061/"),
             ("Live Hindustan", "https://feed.livehindustan.com/rss/3127"),
-            ("Patrika", "http://api.patrika.com/rss/india-news"),
         ],
         "Entertainment": [
             ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-entertainment-fb.xml"),
         ],
     },
     "gu": {
+        # Gujarat Samachar and Oneindia Gujarati's entertainment/cinema feeds
+        # 404'd from the GitHub Actions runner -- removed.
         "Top Stories": [
             ("BBC Gujarati", "https://feeds.bbci.co.uk/gujarati/rss.xml"),
             ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-news-fb.xml"),
-            ("Gujarat Samachar", "https://www.gujaratsamachar.com/rss/top-stories"),
             ("Divya Bhaskar", "https://www.divyabhaskar.co.in/rss-feed/1037/"),
-        ],
-        "Entertainment": [
-            ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-entertainment-fb.xml"),
-            ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-cinema-fb.xml"),
         ],
     },
     "ta": {
+        # Puthiya Thalaimurai 404'd from the GitHub Actions runner -- removed.
         "Top Stories": [
             ("BBC Tamil", "https://feeds.bbci.co.uk/tamil/rss.xml"),
             ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml"),
-            ("Puthiya Thalaimurai", "https://www.puthiyathalaimurai.com/rss.xml"),
         ],
         "Entertainment": [
             # Oneindia Tamil calls this category "cinema", not "entertainment"
@@ -162,6 +160,7 @@ FEEDS_BY_LANG = {
         ],
     },
     "te": {
+        # Oneindia Telugu's "cinema" feed 404'd (only "entertainment" works).
         "Top Stories": [
             ("BBC Telugu", "https://feeds.bbci.co.uk/telugu/rss.xml"),
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-news-fb.xml"),
@@ -169,7 +168,6 @@ FEEDS_BY_LANG = {
         ],
         "Entertainment": [
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-entertainment-fb.xml"),
-            ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-cinema-fb.xml"),
         ],
     },
     "kn": {
@@ -184,15 +182,16 @@ FEEDS_BY_LANG = {
         ],
     },
     "bn": {
+        # Oneindia Bengali's whole rss/feeds/* family (news, entertainment,
+        # cinema) 404'd from the GitHub Actions runner, and Ei Samay's
+        # domain doesn't resolve at all (DNS failure) -- both removed.
+        # Only BBC Bangla is confirmed reliable for this language right now;
+        # still actively looking for a second verified Bengali source
+        # (Anandabazar Patrika's own domain is unreachable to verify from
+        # here, and Zee News Bangla's RSS path for this edition isn't
+        # published anywhere findable -- so nothing unverified was added).
         "Top Stories": [
             ("BBC Bangla", "https://feeds.bbci.co.uk/bengali/rss.xml"),
-            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-news-fb.xml"),
-            # Times Group's Bengali portal, same reliable CMS as Times of India.
-            ("Ei Samay", "https://eisamay.indiatimes.com/rssfeedsdefault.cms"),
-        ],
-        "Entertainment": [
-            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-entertainment-fb.xml"),
-            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-cinema-fb.xml"),
         ],
     },
 }
@@ -388,6 +387,16 @@ def ai_rewrite_batch(items, ai_name):
             f"(got {len(parsed) if isinstance(parsed, list) else type(parsed).__name__}, wanted {len(items)})",
             file=sys.stderr,
         )
+        return [None] * len(items)
+    except urllib.error.HTTPError as e:
+        # The default str(e) is just "HTTP Error 404: Not Found" -- Google's
+        # actual error body (in the response) says exactly what's wrong
+        # (bad API key, model not found, quota exceeded, etc), so surface it.
+        try:
+            body = e.read().decode("utf-8", errors="replace")[:500]
+        except Exception:
+            body = "(could not read error body)"
+        print(f"  [warn] batch AI rewrite failed for {len(items)} item(s): HTTP {e.code}: {body}", file=sys.stderr)
         return [None] * len(items)
     except Exception as e:
         print(f"  [warn] batch AI rewrite failed for {len(items)} item(s): {e}", file=sys.stderr)
