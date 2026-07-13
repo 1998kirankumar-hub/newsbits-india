@@ -1,9 +1,18 @@
 const NEWS_URL = "news.json";
 const REFRESH_MS = 5 * 60 * 1000; // re-check for fresh news every 5 minutes
 
+// Fixed display order for the language tab bar (news.json may not list
+// them in this order, and may not include all of them if a fetch run
+// failed for a given language — we only render tabs for languages that
+// are actually present in the data).
+const LANGUAGE_ORDER = ["en", "hi", "gu", "ta", "te", "kn"];
+
 // Gives each category its own voice instead of a generic "Top Stories" list.
 // tagline = shown under the tabs for the active category.
 // badge = shown on the lead story in that category.
+// Keyed by the category name as it appears in news.json (English internal
+// names are used for all languages; label translations for the tab text
+// itself live in CATEGORY_LABELS below).
 const CATEGORY_INFO = {
   "Top Stories": { tagline: "What's blowing up right now, across everything.", badge: "🔥 Trending Now" },
   "India": { tagline: "What's happening back home.", badge: "📍 Must Read" },
@@ -14,14 +23,28 @@ const CATEGORY_INFO = {
   "Entertainment": { tagline: "Off-duty reading.", badge: "🎬 Buzzing" },
 };
 
+// Native-script tab labels per language for the (few) category names that
+// appear outside English. Falls back to the plain English category name
+// if a language/category combination isn't listed here.
+const CATEGORY_LABELS = {
+  "Top Stories": { hi: "मुख्य समाचार", gu: "મુખ્ય સમાચાર", ta: "முதன்மை செய்திகள்", te: "ప్రధాన వార్తలు", kn: "ಪ್ರಮುಖ ಸುದ್ದಿ" },
+  "Entertainment": { hi: "मनोरंजन", gu: "મનોરંજન", ta: "பொழுதுபோக்கு", te: "వినోదం", kn: "ಮನರಂಜನೆ" },
+};
+
 let newsData = null;
+let activeLanguage = "en";
 let activeCategory = "Top Stories";
 
 const listEl = document.getElementById("news-list");
 const statusEl = document.getElementById("status-msg");
+const langTabsEl = document.getElementById("lang-tabs");
 const tabsEl = document.getElementById("tabs");
 const lastUpdatedEl = document.getElementById("last-updated");
 const taglineEl = document.getElementById("category-tagline");
+
+function categoryLabel(cat, lang) {
+  return (CATEGORY_LABELS[cat] || {})[lang] || cat;
+}
 
 function timeAgo(iso) {
   if (!iso) return "";
@@ -36,15 +59,39 @@ function timeAgo(iso) {
   return `${diffDay}d ago`;
 }
 
-function renderTabs(categories) {
+function renderLangTabs(languages) {
+  langTabsEl.innerHTML = "";
+  const codes = LANGUAGE_ORDER.filter((code) => languages[code]);
+  codes.forEach((code) => {
+    const btn = document.createElement("button");
+    btn.className = "tab-btn lang-tab-btn" + (code === activeLanguage ? " active" : "");
+    btn.textContent = languages[code].label || code;
+    btn.lang = code;
+    btn.addEventListener("click", () => {
+      if (activeLanguage === code) return;
+      activeLanguage = code;
+      // Reset to this language's first category (usually "Top Stories")
+      const cats = Object.keys(newsData.languages[activeLanguage].categories);
+      activeCategory = cats.includes("Top Stories") ? "Top Stories" : cats[0];
+      renderLangTabs(languages);
+      renderCategoryTabs();
+      renderList();
+    });
+    langTabsEl.appendChild(btn);
+  });
+}
+
+function renderCategoryTabs() {
+  const categories = newsData.languages[activeLanguage].categories;
   tabsEl.innerHTML = "";
   Object.keys(categories).forEach((cat) => {
     const btn = document.createElement("button");
     btn.className = "tab-btn" + (cat === activeCategory ? " active" : "");
-    btn.textContent = cat;
+    btn.textContent = categoryLabel(cat, activeLanguage);
+    btn.lang = activeLanguage;
     btn.addEventListener("click", () => {
       activeCategory = cat;
-      renderTabs(categories);
+      renderCategoryTabs();
       renderList();
     });
     tabsEl.appendChild(btn);
@@ -56,8 +103,10 @@ function renderTabs(categories) {
 
 function renderList() {
   if (!newsData) return;
-  const items = newsData.categories[activeCategory] || [];
+  const categories = newsData.languages[activeLanguage].categories;
+  const items = categories[activeCategory] || [];
   listEl.innerHTML = "";
+  listEl.lang = activeLanguage;
 
   if (items.length === 0) {
     statusEl.textContent = "No stories in this category yet. Check back soon.";
@@ -134,8 +183,20 @@ async function loadNews() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     newsData = data;
+
+    // If the previously active language/category no longer exists in the
+    // fresh data (e.g. first load), fall back to sane defaults.
+    if (!newsData.languages[activeLanguage]) {
+      activeLanguage = LANGUAGE_ORDER.find((c) => newsData.languages[c]) || Object.keys(newsData.languages)[0];
+    }
+    const cats = Object.keys(newsData.languages[activeLanguage].categories);
+    if (!cats.includes(activeCategory)) {
+      activeCategory = cats.includes("Top Stories") ? "Top Stories" : cats[0];
+    }
+
     lastUpdatedEl.textContent = `Updated ${timeAgo(data.updated_at)}`;
-    renderTabs(data.categories);
+    renderLangTabs(data.languages);
+    renderCategoryTabs();
     renderList();
   } catch (err) {
     statusEl.textContent = "Couldn't load the news feed. Run fetch_news.py or check back shortly.";

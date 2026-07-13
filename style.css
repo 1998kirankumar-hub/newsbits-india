@@ -30,7 +30,9 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    "Noto Sans Devanagari", "Noto Sans Gujarati", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Kannada",
+    sans-serif;
   background: var(--bg);
   color: var(--text);
   transition: background 0.2s ease, color 0.2s ease;
@@ -109,6 +111,13 @@ nav.tabs::-webkit-scrollbar {
   display: none;
 }
 
+nav.lang-tabs {
+  padding-top: 14px;
+  padding-bottom: 0;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 10px;
+}
+
 .tab-btn {
   flex: 0 0 auto;
   border: 1px solid var(--border);
@@ -125,6 +134,18 @@ nav.tabs::-webkit-scrollbar {
   background: var(--accent);
   border-color: var(--accent);
   color: #fff;
+}
+
+.lang-tab-btn {
+  font-size: 13.5px;
+  font-weight: 600;
+  background: transparent;
+  border-color: transparent;
+}
+
+.lang-tab-btn.active {
+  background: var(--text);
+  border-color: var(--text);
 }
 
 .category-tagline {

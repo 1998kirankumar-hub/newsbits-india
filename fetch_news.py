@@ -2,16 +2,18 @@
 """
 fetch_news.py
 
-Fetches the latest headlines from a set of public RSS feeds (India + world
-news) and writes them to news.json as short bullet-point items grouped by
+Fetches the latest headlines from a set of public RSS feeds -- in English
+plus five Indian regional languages (Hindi, Gujarati, Tamil, Telugu,
+Kannada) -- and writes them to news.json, grouped by language then
 category. Uses only the Python standard library, so it needs no extra
 dependencies to run (works out of the box in GitHub Actions).
 
 Run manually:      python3 fetch_news.py
 Run automatically: see .github/workflows/update-news.yml (runs on a schedule)
 
-To change the news sources, edit the FEEDS dictionary below. Any standard
-RSS 2.0 or Atom feed URL will work.
+To change the news sources, edit the FEEDS_BY_LANG dictionary below. Any
+standard RSS 2.0 or Atom feed URL will work. To add another language,
+add an entry to LANGUAGES and a matching entry to FEEDS_BY_LANG.
 """
 import json
 import os
@@ -58,6 +60,11 @@ MAX_TOP_STORIES = 14
 # resetting at midnight Pacific time to match Google's reset schedule.
 # If your account has higher limits, raise DAILY_AI_CALL_LIMIT accordingly
 # (check your own numbers at the URL above).
+#
+# NOTE 3: this budget is now SHARED across all six languages (English +
+# 5 regional). With the default of 15/day, AI-rewritten summaries roll
+# out slowly across all languages combined, not 15 per language. Raise
+# DAILY_AI_CALL_LIMIT if your account's real quota supports it.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 AI_MODEL = "gemini-2.5-flash-lite"
 CACHE_FILE = "summary_cache.json"
@@ -65,35 +72,92 @@ USAGE_FILE = "ai_usage.json"
 DAILY_AI_CALL_LIMIT = 15  # stays under this account's observed 20 requests/day cap
 AI_CALL_DELAY_SECONDS = 7  # stays under this account's observed 10 requests/minute cap
 
-# category -> list of (source name, RSS feed URL)
-FEEDS = {
-    "India": [
-        ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
-        ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
-        ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
-        ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"),
-    ],
-    "World": [
-        ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
-        ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-    ],
-    "Business": [
-        ("Economic Times", "https://economictimes.indiatimes.com/rssfeedsdefault.cms"),
-        ("BBC Business", "http://feeds.bbci.co.uk/news/business/rss.xml"),
-        ("Moneycontrol", "https://www.moneycontrol.com/rss/latestnews.xml"),
-    ],
-    "Sports": [
-        ("NDTV Sports", "https://feeds.feedburner.com/ndtvsports-latest"),
-        ("ESPN Cricinfo", "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"),
-    ],
-    "Technology": [
-        ("Gadgets 360", "https://feeds.feedburner.com/gadgets360-latest"),
-        ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
-    ],
-    "Entertainment": [
-        ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms"),
-        ("BBC Entertainment", "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
-    ],
+# code -> display label (native script) + English name used in the AI prompt
+LANGUAGES = {
+    "en": {"label": "English", "ai_name": None},
+    "hi": {"label": "हिन्दी", "ai_name": "Hindi"},
+    "gu": {"label": "ગુજરાતી", "ai_name": "Gujarati"},
+    "ta": {"label": "தமிழ்", "ai_name": "Tamil"},
+    "te": {"label": "తెలుగు", "ai_name": "Telugu"},
+    "kn": {"label": "ಕನ್ನಡ", "ai_name": "Kannada"},
+}
+
+# language code -> category -> list of (source name, RSS feed URL)
+FEEDS_BY_LANG = {
+    "en": {
+        "India": [
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
+            ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
+            ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
+            ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"),
+        ],
+        "World": [
+            ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
+            ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+        ],
+        "Business": [
+            ("Economic Times", "https://economictimes.indiatimes.com/rssfeedsdefault.cms"),
+            ("BBC Business", "http://feeds.bbci.co.uk/news/business/rss.xml"),
+            ("Moneycontrol", "https://www.moneycontrol.com/rss/latestnews.xml"),
+        ],
+        "Sports": [
+            ("NDTV Sports", "https://feeds.feedburner.com/ndtvsports-latest"),
+            ("ESPN Cricinfo", "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"),
+        ],
+        "Technology": [
+            ("Gadgets 360", "https://feeds.feedburner.com/gadgets360-latest"),
+            ("BBC Technology", "http://feeds.bbci.co.uk/news/technology/rss.xml"),
+        ],
+        "Entertainment": [
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms"),
+            ("BBC Entertainment", "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
+        ],
+    },
+    "hi": {
+        "Top Stories": [
+            ("BBC Hindi", "https://feeds.bbci.co.uk/hindi/rss.xml"),
+            ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-entertainment-fb.xml"),
+        ],
+    },
+    "gu": {
+        "Top Stories": [
+            ("BBC Gujarati", "https://feeds.bbci.co.uk/gujarati/rss.xml"),
+            ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-entertainment-fb.xml"),
+        ],
+    },
+    "ta": {
+        "Top Stories": [
+            ("BBC Tamil", "https://feeds.bbci.co.uk/tamil/rss.xml"),
+            ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-entertainment-fb.xml"),
+        ],
+    },
+    "te": {
+        "Top Stories": [
+            ("BBC Telugu", "https://feeds.bbci.co.uk/telugu/rss.xml"),
+            ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-entertainment-fb.xml"),
+        ],
+    },
+    "kn": {
+        # No BBC Kannada edition exists, so this language relies on Oneindia only.
+        "Top Stories": [
+            ("Oneindia Kannada", "https://kannada.oneindia.com/rss/feeds/kannada-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Kannada", "https://kannada.oneindia.com/rss/feeds/kannada-entertainment-fb.xml"),
+        ],
+    },
 }
 
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
@@ -220,16 +284,25 @@ def save_usage(count):
         json.dump({"date": today_str(), "count": count}, f)
 
 
-def ai_rewrite(title, source_name, snippet):
+def ai_rewrite(title, source_name, snippet, ai_name):
     """Ask Gemini (free, no card required) to rewrite the snippet in original
     words. Returns None on any failure so the caller can fall back to the
     plain truncated snippet -- nothing breaks if the free API is unreachable
-    or rate-limited."""
+    or rate-limited. ai_name is the English name of the target language
+    (e.g. "Hindi"), or None for English."""
+    language_instruction = (
+        f"Write the summary in {ai_name} language, using {ai_name} script "
+        f"(not English, not transliterated) -- the headline and snippet below "
+        f"are already in {ai_name}, so match that. "
+        if ai_name else ""
+    )
     prompt = (
         "You are writing a short news digest blurb for a site called NewsBits India. "
         "Using ONLY the headline and snippet below, write an original summary in your "
         "own words -- not copied phrasing -- that gives a busy reader the full gist of "
-        "this story in roughly 7 to 10 short lines. If the snippet is thin, write less "
+        "this story in roughly 7 to 10 short lines. "
+        f"{language_instruction}"
+        "If the snippet is thin, write less "
         "rather than padding it out -- never invent facts, numbers, quotes, or details "
         "that are not present in the input. Plain, clear, conversational language. "
         "Output only the summary text, no headings or preamble.\n\n"
@@ -261,11 +334,12 @@ def ai_rewrite(title, source_name, snippet):
         return None
 
 
-def main():
+def fetch_language(lang_code, feeds_by_category):
+    """Fetches + dedupes all categories for one language. Returns
+    (categories_raw dict, representative dict of link -> item)."""
     categories_raw = {}
-
-    for category, sources in FEEDS.items():
-        print(f"Fetching category: {category}")
+    for category, sources in feeds_by_category.items():
+        print(f"  Fetching category: {category}")
         cat_items = []
         for source_name, url in sources:
             cat_items.extend(fetch_feed(source_name, url))
@@ -273,69 +347,100 @@ def main():
         cat_items.sort(key=lambda x: x["_sort"], reverse=True)
         categories_raw[category] = cat_items[:MAX_ITEMS_PER_CATEGORY]
 
-    # One representative item per unique article link, so a story that
-    # appears in multiple categories only gets rewritten (and paid for) once.
     representative = {}
     for items in categories_raw.values():
         for it in items:
             representative.setdefault(it["link"], it)
 
+    return categories_raw, representative
+
+
+def main():
     cache = load_cache()
-    rewritten_by_link = {}
-    ai_calls_used = 0
     calls_today = load_usage()
     budget_left = max(0, DAILY_AI_CALL_LIMIT - calls_today)
+    ai_calls_used = 0
 
-    for link, it in representative.items():
-        if link in cache:
-            rewritten_by_link[link] = cache[link]
-        elif GEMINI_API_KEY and budget_left > 0:
-            rewritten = ai_rewrite(it["title"], it["source"], it["summary"])
-            ai_calls_used += 1
-            budget_left -= 1
-            if rewritten:
-                rewritten_by_link[link] = rewritten
-            time.sleep(AI_CALL_DELAY_SECONDS)
+    all_rewritten_by_link = {}
+    languages_output = {}
+
+    for lang_code, lang_info in LANGUAGES.items():
+        print(f"Fetching language: {lang_info['label']} ({lang_code})")
+        feeds_by_category = FEEDS_BY_LANG.get(lang_code, {})
+        categories_raw, representative = fetch_language(lang_code, feeds_by_category)
+
+        rewritten_by_link = {}
+        for link, it in representative.items():
+            if link in cache:
+                rewritten_by_link[link] = cache[link]
+            elif GEMINI_API_KEY and budget_left > 0:
+                rewritten = ai_rewrite(it["title"], it["source"], it["summary"], lang_info["ai_name"])
+                ai_calls_used += 1
+                budget_left -= 1
+                if rewritten:
+                    rewritten_by_link[link] = rewritten
+                time.sleep(AI_CALL_DELAY_SECONDS)
+
+        for items in categories_raw.values():
+            for it in items:
+                if it["link"] in rewritten_by_link:
+                    it["summary"] = rewritten_by_link[it["link"]]
+
+        all_rewritten_by_link.update(rewritten_by_link)
+
+        categories = {
+            cat: [{k: v for k, v in it.items() if k != "_sort"} for it in items]
+            for cat, items in categories_raw.items()
+        }
+
+        all_items = []
+        for items in categories_raw.values():
+            all_items.extend(items)
+        all_items = dedupe(all_items)
+        all_items.sort(key=lambda x: x["_sort"], reverse=True)
+        top_stories = [{k: v for k, v in it.items() if k != "_sort"} for it in all_items[:MAX_TOP_STORIES]]
+
+        # English keeps its own curated category set; regional languages get
+        # an aggregated "Top Stories" plus whatever categories they define.
+        if "Top Stories" in categories:
+            ordered_categories = categories
+        else:
+            ordered_categories = {"Top Stories": top_stories, **categories}
+
+        languages_output[lang_code] = {
+            "label": lang_info["label"],
+            "categories": ordered_categories,
+        }
 
     save_usage(calls_today + ai_calls_used)
 
-    for items in categories_raw.values():
-        for it in items:
-            if it["link"] in rewritten_by_link:
-                it["summary"] = rewritten_by_link[it["link"]]
-
     # Persist only the links currently on-site, so the cache doesn't grow forever
-    save_cache({link: text for link, text in rewritten_by_link.items() if link in representative})
-
-    categories = {
-        cat: [{k: v for k, v in it.items() if k != "_sort"} for it in items]
-        for cat, items in categories_raw.items()
-    }
-
-    all_items = []
-    for items in categories_raw.values():
-        all_items.extend(items)
-    all_items = dedupe(all_items)
-    all_items.sort(key=lambda x: x["_sort"], reverse=True)
-    top_stories = [{k: v for k, v in it.items() if k != "_sort"} for it in all_items[:MAX_TOP_STORIES]]
+    all_representative_links = set()
+    for lang_data in languages_output.values():
+        for items in lang_data["categories"].values():
+            for it in items:
+                all_representative_links.add(it["link"])
+    save_cache({link: text for link, text in all_rewritten_by_link.items() if link in all_representative_links})
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "categories": {"Top Stories": top_stories, **categories},
+        "languages": languages_output,
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    total = sum(len(v) for v in output["categories"].values())
+    total = sum(
+        len(items) for lang_data in languages_output.values() for items in lang_data["categories"].values()
+    )
     if GEMINI_API_KEY:
         note = (
             f", {ai_calls_used} new AI rewrite attempt(s) this run "
-            f"({calls_today + ai_calls_used}/{DAILY_AI_CALL_LIMIT} of today's AI budget used)"
+            f"({calls_today + ai_calls_used}/{DAILY_AI_CALL_LIMIT} of today's shared AI budget used)"
         )
     else:
         note = " (GEMINI_API_KEY not set -- using original publisher snippets)"
-    print(f"Wrote news.json with {total} items across {len(output['categories'])} categories{note}.")
+    print(f"Wrote news.json with {total} items across {len(languages_output)} languages{note}.")
 
 
 if __name__ == "__main__":
