@@ -3,10 +3,10 @@
 fetch_news.py
 
 Fetches the latest headlines from a set of public RSS feeds -- in English
-plus five Indian regional languages (Hindi, Gujarati, Tamil, Telugu,
-Kannada) -- and writes them to news.json, grouped by language then
-category. Uses only the Python standard library, so it needs no extra
-dependencies to run (works out of the box in GitHub Actions).
+plus six Indian regional languages (Hindi, Gujarati, Tamil, Telugu,
+Kannada, Bengali) -- and writes them to news.json, grouped by language
+then category. Uses only the Python standard library, so it needs no
+extra dependencies to run (works out of the box in GitHub Actions).
 
 Run manually:      python3 fetch_news.py
 Run automatically: see .github/workflows/update-news.yml (runs on a schedule)
@@ -37,13 +37,11 @@ MAX_ITEMS_PER_CATEGORY = 12
 MAX_TOP_STORIES = 14
 
 # --- AI rewrite settings -----------------------------------------------
-# If GEMINI_API_KEY is set (as a GitHub Actions secret), each article's
-# summary is rewritten in original wording via Google's free Gemini API
-# instead of just truncating the publisher's RSS snippet. Gemini's free
-# tier (aistudio.google.com) needs no credit card. Results are cached in
-# summary_cache.json so a given article is only ever rewritten once,
-# keeping well within the free rate limits even though the workflow runs
-# frequently.
+# If GEMINI_API_KEY is set (as a GitHub Actions secret), articles get
+# rewritten in original wording via Google's free Gemini API instead of
+# just using the publisher's raw RSS snippet. Gemini's free tier
+# (aistudio.google.com) needs no credit card. Results are cached in
+# summary_cache.json so a given article is only ever rewritten once.
 #
 # NOTE: this used to call Groq, but Groq's Cloudflare-based anti-abuse
 # rules block requests from datacenter/CI IPs (including GitHub Actions
@@ -53,24 +51,30 @@ MAX_TOP_STORIES = 14
 # NOTE 2: Google's documented free-tier limits for this model (15 RPM /
 # 1000 RPD) turned out not to match what this specific account was
 # actually granted -- checking aistudio.google.com/rate-limit showed this
-# project's real cap is only 10 requests/minute and 20 requests/day. Since
-# the workflow runs every 30 minutes (48x/day), a per-run cap alone isn't
-# enough to stay under a *daily* limit -- so usage is tracked persistently
-# across runs in ai_usage.json (committed alongside summary_cache.json),
-# resetting at midnight Pacific time to match Google's reset schedule.
-# If your account has higher limits, raise DAILY_AI_CALL_LIMIT accordingly
-# (check your own numbers at the URL above).
+# project's real cap is only 10 requests/minute and 20 requests/day. Usage
+# is tracked persistently across runs in ai_usage.json (committed
+# alongside summary_cache.json), resetting at midnight Pacific time to
+# match Google's reset schedule. If your account has higher limits, raise
+# DAILY_AI_CALL_LIMIT accordingly (check your own numbers at the URL
+# above).
 #
-# NOTE 3: this budget is now SHARED across all six languages (English +
-# 5 regional). With the default of 15/day, AI-rewritten summaries roll
-# out slowly across all languages combined, not 15 per language. Raise
-# DAILY_AI_CALL_LIMIT if your account's real quota supports it.
+# NOTE 3: this budget is SHARED across all seven languages. To make it go
+# much further, articles are rewritten in BATCHES (BATCH_SIZE per API
+# call) instead of one call per article -- one call can cover several
+# articles' worth of summaries, which is what makes full-language AI
+# coverage realistic under a ~15-20 calls/day cap. Non-English languages
+# are processed BEFORE English, since their raw RSS snippets are often in
+# English even when the headline is in the native script (a quirk of some
+# regional publishers' feeds) -- until an article gets its AI rewrite, no
+# summary is shown at all for non-English languages, rather than risking
+# an English snippet appearing under a native-language headline.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 AI_MODEL = "gemini-2.5-flash-lite"
 CACHE_FILE = "summary_cache.json"
 USAGE_FILE = "ai_usage.json"
 DAILY_AI_CALL_LIMIT = 15  # stays under this account's observed 20 requests/day cap
 AI_CALL_DELAY_SECONDS = 7  # stays under this account's observed 10 requests/minute cap
+BATCH_SIZE = 6  # articles rewritten per Gemini call, to stretch the daily budget
 
 # code -> display label (native script) + English name used in the AI prompt
 LANGUAGES = {
@@ -80,6 +84,7 @@ LANGUAGES = {
     "ta": {"label": "தமிழ்", "ai_name": "Tamil"},
     "te": {"label": "తెలుగు", "ai_name": "Telugu"},
     "kn": {"label": "ಕನ್ನಡ", "ai_name": "Kannada"},
+    "bn": {"label": "বাংলা", "ai_name": "Bengali"},
 }
 
 # language code -> category -> list of (source name, RSS feed URL)
@@ -129,6 +134,7 @@ FEEDS_BY_LANG = {
         ],
         "Entertainment": [
             ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-entertainment-fb.xml"),
+            ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-cinema-fb.xml"),
         ],
     },
     "ta": {
@@ -137,7 +143,8 @@ FEEDS_BY_LANG = {
             ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml"),
         ],
         "Entertainment": [
-            ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-entertainment-fb.xml"),
+            # Oneindia Tamil calls this category "cinema", not "entertainment"
+            ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-cinema-fb.xml"),
         ],
     },
     "te": {
@@ -147,6 +154,7 @@ FEEDS_BY_LANG = {
         ],
         "Entertainment": [
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-entertainment-fb.xml"),
+            ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-cinema-fb.xml"),
         ],
     },
     "kn": {
@@ -156,6 +164,16 @@ FEEDS_BY_LANG = {
         ],
         "Entertainment": [
             ("Oneindia Kannada", "https://kannada.oneindia.com/rss/feeds/kannada-entertainment-fb.xml"),
+        ],
+    },
+    "bn": {
+        "Top Stories": [
+            ("BBC Bangla", "https://feeds.bbci.co.uk/bengali/rss.xml"),
+            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-news-fb.xml"),
+        ],
+        "Entertainment": [
+            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-entertainment-fb.xml"),
+            ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-cinema-fb.xml"),
         ],
     },
 }
@@ -284,35 +302,43 @@ def save_usage(count):
         json.dump({"date": today_str(), "count": count}, f)
 
 
-def ai_rewrite(title, source_name, snippet, ai_name):
-    """Ask Gemini (free, no card required) to rewrite the snippet in original
-    words. Returns None on any failure so the caller can fall back to the
-    plain truncated snippet -- nothing breaks if the free API is unreachable
-    or rate-limited. ai_name is the English name of the target language
-    (e.g. "Hindi"), or None for English."""
+def ai_rewrite_batch(items, ai_name):
+    """Ask Gemini to rewrite a BATCH of articles' summaries in one call
+    (much cheaper against the daily rate limit than one call per article).
+    items: list of dicts with 'title', 'source', 'summary' (raw snippet).
+    Returns a list the same length as items, each element either the
+    rewritten text or None (on per-item or whole-batch failure) -- callers
+    fall back to no summary on None, nothing breaks."""
     language_instruction = (
-        f"Write the summary in {ai_name} language, using {ai_name} script "
-        f"(not English, not transliterated) -- the headline and snippet below "
-        f"are already in {ai_name}, so match that. "
+        f"Write every summary ENTIRELY in {ai_name} language, using {ai_name} script throughout. "
+        f"Even if the headline or snippet below is partly or fully in English (this happens with "
+        f"some regional feeds), translate and rewrite it into natural, fluent {ai_name} -- do not "
+        f"leave any English sentences in your output (well-known proper nouns or brand names may "
+        f"stay as-is if there's no natural translation). "
         if ai_name else ""
     )
+    numbered = "\n\n".join(
+        f"Item {i}:\nHeadline: {it['title']}\nSource: {it['source']}\n"
+        f"Snippet: {it['summary'] or '(no snippet, headline only -- keep it brief)'}"
+        for i, it in enumerate(items)
+    )
     prompt = (
-        "You are writing a short news digest blurb for a site called NewsBits India. "
-        "Using ONLY the headline and snippet below, write an original summary in your "
-        "own words -- not copied phrasing -- that gives a busy reader the full gist of "
-        "this story in roughly 7 to 10 short lines. "
+        "You are writing short news digest blurbs for a site called NewsBits India. "
+        f"Below are {len(items)} separate news items, each numbered starting at 0. For EACH item, "
+        "write an original summary in your own words -- not copied phrasing -- that gives a busy "
+        "reader the full gist of that story in roughly 5 to 8 short lines. "
         f"{language_instruction}"
-        "If the snippet is thin, write less "
-        "rather than padding it out -- never invent facts, numbers, quotes, or details "
-        "that are not present in the input. Plain, clear, conversational language. "
-        "Output only the summary text, no headings or preamble.\n\n"
-        f"Headline: {title}\n"
-        f"Source: {source_name}\n"
-        f"Snippet: {snippet or '(no snippet available, headline only -- keep it brief)'}"
+        "If an item's snippet is thin, write less rather than padding it out -- never invent facts, "
+        "numbers, quotes, or details that are not present in that item's own input. Plain, clear, "
+        "conversational language.\n\n"
+        f"Respond with ONLY a JSON array of {len(items)} strings, in the same order as the items "
+        "below (element 0 = Item 0's summary, element 1 = Item 1's summary, etc). No other text, "
+        "no markdown code fences, no explanation -- just the raw JSON array.\n\n"
+        f"{numbered}"
     )
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"maxOutputTokens": 300},
+        "generationConfig": {"maxOutputTokens": 400 * max(1, len(items))},
     }).encode("utf-8")
     url = (
         f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
@@ -325,13 +351,25 @@ def ai_rewrite(title, source_name, snippet, ai_name):
         method="POST",
     )
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             data = json.loads(resp.read())
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
-        return text or None
+        # Be tolerant of markdown fences / stray commentary around the array
+        start, end = text.find("["), text.rfind("]")
+        if start != -1 and end != -1 and end > start:
+            text = text[start:end + 1]
+        parsed = json.loads(text)
+        if isinstance(parsed, list) and len(parsed) == len(items):
+            return [(s.strip() if isinstance(s, str) and s.strip() else None) for s in parsed]
+        print(
+            f"  [warn] batch AI rewrite returned unexpected shape "
+            f"(got {len(parsed) if isinstance(parsed, list) else type(parsed).__name__}, wanted {len(items)})",
+            file=sys.stderr,
+        )
+        return [None] * len(items)
     except Exception as e:
-        print(f"  [warn] AI rewrite failed for '{title[:60]}': {e}", file=sys.stderr)
-        return None
+        print(f"  [warn] batch AI rewrite failed for {len(items)} item(s): {e}", file=sys.stderr)
+        return [None] * len(items)
 
 
 def fetch_language(lang_code, feeds_by_category):
@@ -361,32 +399,61 @@ def main():
     budget_left = max(0, DAILY_AI_CALL_LIMIT - calls_today)
     ai_calls_used = 0
 
-    all_rewritten_by_link = {}
-    languages_output = {}
-
+    # --- Phase 1: fetch every language's RSS feeds -------------------------
+    fetched = {}
     for lang_code, lang_info in LANGUAGES.items():
         print(f"Fetching language: {lang_info['label']} ({lang_code})")
         feeds_by_category = FEEDS_BY_LANG.get(lang_code, {})
-        categories_raw, representative = fetch_language(lang_code, feeds_by_category)
+        fetched[lang_code] = fetch_language(lang_code, feeds_by_category)
 
-        rewritten_by_link = {}
-        for link, it in representative.items():
+    # --- Phase 2: AI rewrite, batched, non-English languages first ---------
+    # Non-English feeds sometimes carry English-language RSS descriptions
+    # even when the headline is in the native script, so they get first
+    # claim on the shared daily AI budget -- English's raw snippet is at
+    # least readable as a fallback while it waits its turn.
+    process_order = [c for c in LANGUAGES if c != "en"] + (["en"] if "en" in LANGUAGES else [])
+    all_rewritten_by_link = {}
+
+    for lang_code in process_order:
+        lang_info = LANGUAGES[lang_code]
+        _, representative = fetched[lang_code]
+
+        for link in representative:
             if link in cache:
-                rewritten_by_link[link] = cache[link]
-            elif GEMINI_API_KEY and budget_left > 0:
-                rewritten = ai_rewrite(it["title"], it["source"], it["summary"], lang_info["ai_name"])
-                ai_calls_used += 1
-                budget_left -= 1
+                all_rewritten_by_link[link] = cache[link]
+
+        to_rewrite = [(link, it) for link, it in representative.items() if link not in cache]
+        idx = 0
+        while idx < len(to_rewrite) and GEMINI_API_KEY and budget_left > 0:
+            batch = to_rewrite[idx: idx + BATCH_SIZE]
+            results = ai_rewrite_batch(
+                [{"title": it["title"], "source": it["source"], "summary": it["summary"]} for _, it in batch],
+                lang_info["ai_name"],
+            )
+            ai_calls_used += 1
+            budget_left -= 1
+            for (link, _it), rewritten in zip(batch, results):
                 if rewritten:
-                    rewritten_by_link[link] = rewritten
+                    all_rewritten_by_link[link] = rewritten
+            idx += BATCH_SIZE
+            if budget_left > 0 and idx < len(to_rewrite):
                 time.sleep(AI_CALL_DELAY_SECONDS)
+
+    save_usage(calls_today + ai_calls_used)
+
+    # --- Phase 3: apply rewrites and build the output ----------------------
+    languages_output = {}
+    for lang_code, lang_info in LANGUAGES.items():
+        categories_raw, _representative = fetched[lang_code]
 
         for items in categories_raw.values():
             for it in items:
-                if it["link"] in rewritten_by_link:
-                    it["summary"] = rewritten_by_link[it["link"]]
-
-        all_rewritten_by_link.update(rewritten_by_link)
+                if it["link"] in all_rewritten_by_link:
+                    it["summary"] = all_rewritten_by_link[it["link"]]
+                elif lang_code != "en":
+                    # No AI rewrite yet for this non-English article -- don't
+                    # risk showing a raw snippet that might be in English.
+                    it["summary"] = ""
 
         categories = {
             cat: [{k: v for k, v in it.items() if k != "_sort"} for it in items]
@@ -412,8 +479,6 @@ def main():
             "categories": ordered_categories,
         }
 
-    save_usage(calls_today + ai_calls_used)
-
     # Persist only the links currently on-site, so the cache doesn't grow forever
     all_representative_links = set()
     for lang_data in languages_output.values():
@@ -435,11 +500,11 @@ def main():
     )
     if GEMINI_API_KEY:
         note = (
-            f", {ai_calls_used} new AI rewrite attempt(s) this run "
+            f", {ai_calls_used} new AI batch call(s) this run "
             f"({calls_today + ai_calls_used}/{DAILY_AI_CALL_LIMIT} of today's shared AI budget used)"
         )
     else:
-        note = " (GEMINI_API_KEY not set -- using original publisher snippets)"
+        note = " (GEMINI_API_KEY not set -- using original publisher snippets for English only)"
     print(f"Wrote news.json with {total} items across {len(languages_output)} languages{note}.")
 
 

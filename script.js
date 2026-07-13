@@ -5,7 +5,7 @@ const REFRESH_MS = 5 * 60 * 1000; // re-check for fresh news every 5 minutes
 // them in this order, and may not include all of them if a fetch run
 // failed for a given language — we only render tabs for languages that
 // are actually present in the data).
-const LANGUAGE_ORDER = ["en", "hi", "gu", "ta", "te", "kn"];
+const LANGUAGE_ORDER = ["en", "hi", "gu", "ta", "te", "kn", "bn"];
 
 // Gives each category its own voice instead of a generic "Top Stories" list.
 // tagline = shown under the tabs for the active category.
@@ -27,8 +27,8 @@ const CATEGORY_INFO = {
 // appear outside English. Falls back to the plain English category name
 // if a language/category combination isn't listed here.
 const CATEGORY_LABELS = {
-  "Top Stories": { hi: "मुख्य समाचार", gu: "મુખ્ય સમાચાર", ta: "முதன்மை செய்திகள்", te: "ప్రధాన వార్తలు", kn: "ಪ್ರಮುಖ ಸುದ್ದಿ" },
-  "Entertainment": { hi: "मनोरंजन", gu: "મનોરંજન", ta: "பொழுதுபோக்கு", te: "వినోదం", kn: "ಮನರಂಜನೆ" },
+  "Top Stories": { hi: "मुख्य समाचार", gu: "મુખ્ય સમાચાર", ta: "முதன்மை செய்திகள்", te: "ప్రధాన వార్తలు", kn: "ಪ್ರಮುಖ ಸುದ್ದಿ", bn: "প্রধান খবর" },
+  "Entertainment": { hi: "मनोरंजन", gu: "મનોરંજન", ta: "பொழுதுபோக்கு", te: "వినోదం", kn: "ಮನರಂಜನೆ", bn: "বিনোদন" },
 };
 
 let newsData = null;
