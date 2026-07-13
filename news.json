@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-07-13T11:09:39.460796+00:00",
+  "updated_at": "2026-07-13T11:17:23.040307+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+            "published": "2026-07-13T11:10:58+00:00"
+          },
+          {
+            "title": "Datia bypoll: BJP candidate Ashutosh Tiwari files nomination",
+            "link": "https://www.thehindu.com/news/national/datia-bypoll-bjp-candidate-ashutosh-tiwari-files-nomination/article71217008.ece",
+            "source": "The Hindu",
+            "summary": "The bypoll was necessitated after Congress MLA Rajendra Bharti lost his assembly membership following his conviction in a cheating case",
+            "published": "2026-07-13T16:38:57+05:30"
+          },
+          {
             "title": "CAG flags Kochi Corporation’s idling vehicle fleet bleeding public money",
             "link": "https://www.thehindu.com/news/national/kerala/cag-flags-kochi-corporations-idling-vehicle-fleet-bleeding-public-money/article71216289.ece",
             "source": "The Hindu",
             "summary": "CAG reports finds that out of the Corporation’s 143 vehicles, 72 had to be auctioned off as unserviceable, while another 34 were off the roads for want of fitness or maintenance",
             "published": "2026-07-13T16:34:06+05:30"
+          },
+          {
+            "title": "Opinion: Opinion | Sharad Pawar Has An Old 'Two Plus Two' Bargain For Delhi",
+            "link": "https://www.ndtv.com/opinion/opinion-what-is-two-plus-two-inside-sharad-pawars-grand-bargain-in-delhi-11764902#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Sharad Pawar appears to be keeping two doors open, and the political cost could be huge for both opposition and the NDA.",
+            "published": "2026-07-13T16:34:04+05:30"
           },
           {
             "title": "Three warkari pilgrims killed, four injured in road accident",
@@ -48,6 +69,13 @@
             "published": "2026-07-13T16:29:24+05:30"
           },
           {
+            "title": "Can You Stop Boys And Girls From Eloping: Supreme Court On POCSO Act Misuse",
+            "link": "https://www.ndtv.com/india-news/can-you-stop-boys-and-girls-from-eloping-supreme-court-on-pocso-act-misuse-11764866#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The Supreme Court was hearing a suo motu case concerning the right to privacy of adolescents",
+            "published": "2026-07-13T16:28:33+05:30"
+          },
+          {
             "title": "Srisailam temple management gears for Shakambari festival",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-temple-management-gears-for-shakambari-festival/article71216793.ece",
             "source": "The Hindu",
@@ -62,32 +90,11 @@
             "published": "2026-07-13T16:24:44+05:30"
           },
           {
-            "title": "Amid ‘restrictions’, J&K parties pay tributes to 1931 ‘martyrs’",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/amid-restrictions-jk-parties-pay-tributes-to-1931-martyrs/article71216679.ece",
-            "source": "The Hindu",
-            "summary": "Died fighting Britishers, nothing religious about 1931 uprising, says Omar Abdullah",
-            "published": "2026-07-13T16:21:07+05:30"
-          },
-          {
-            "title": "SC asks Centre to place on record new aviation rules to regulate volatile airfares",
-            "link": "https://www.thehindu.com/news/national/sc-asks-centre-to-place-on-record-new-aviation-rules-to-regulate-volatile-airfares/article71216157.ece",
-            "source": "The Hindu",
-            "summary": "New regulations have been finalised, the government says, they are being translated into Hindi and other official languages before being tabled in Parliament",
-            "published": "2026-07-13T16:19:57+05:30"
-          },
-          {
-            "title": "Traffic restrictions in several parts of Chandigarh in view of farmers' protest",
-            "link": "https://www.thehindu.com/news/national/chandigarh/traffic-restrictions-in-several-parts-of-chandigarh-in-view-of-farmers-protest/article71216483.ece",
-            "source": "The Hindu",
-            "summary": "Chandigarh police have announced traffic restrictions for Monday, July 13, from 10.30 a.m. to 3 p.m. on several major roads across the city.",
-            "published": "2026-07-13T16:18:50+05:30"
-          },
-          {
-            "title": "USS Columbia: The US nuclear submarine built to run 42 years without reactor refueling",
-            "link": "https://timesofindia.indiatimes.com/defence/international/uss-columbia-the-us-nuclear-submarine-built-to-run-42-years-without-reactor-refueling/articleshow/132364289.cms",
-            "source": "Times of India",
-            "summary": "The United States is in the process of building its advanced Columbia-class submarines, designed to strengthen its nuclear deterrent. These submarines will incorporate a life-of-ship nuclear reactor, which will eliminate the need for mid-life refueling, enhancing operational readiness and lowering long-term costs. Set to replace the older Ohio-class vessels, the first of these submarines is expected to be delivered…",
-            "published": "2026-07-13T16:17:40+05:30"
+            "title": "Ahead Of Rath Yatra, Bengal Announces Rs 5 Lakh Aid To 60 Committees",
+            "link": "https://www.ndtv.com/india-news/ahead-of-rath-yatra-bengal-announces-rs-5-lakh-aid-to-60-committees-11764836#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The state government will also make special arrangements for Kanwar pilgrims during this year's Shravan Mela, with Suvendu Adhikari visiting Tarakeswar on July 14.",
+            "published": "2026-07-13T16:22:30+05:30"
           },
           {
             "title": "Sony LinkBuds Clip Launched in India With Open-Ear Clip Design, Up to 37 Hours of Battery Life: Price, Features",
@@ -95,22 +102,29 @@
             "source": "Gadgets 360",
             "summary": "Sony has launched the LinkBuds Clip open-ear true wireless earbuds in India after debuting them in North America earlier this year. Priced at Rs. 18,990, the earbuds feature an open-ear clip design, 10mm drivers, AI-assisted call processing and Bluetooth 5.3 with multipoint connectivity. They also support three listening modes, Google Fast Pair, Swift Pair and Google Gemini. Sony claims up to 37 hours of total…",
             "published": "2026-07-13T16:15:27+05:30"
-          },
-          {
-            "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
-            "link": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.",
-            "published": "2026-07-13T10:32:25+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Datia bypoll: BJP candidate Ashutosh Tiwari files nomination",
+            "link": "https://www.thehindu.com/news/national/datia-bypoll-bjp-candidate-ashutosh-tiwari-files-nomination/article71217008.ece",
+            "source": "The Hindu",
+            "summary": "The bypoll was necessitated after Congress MLA Rajendra Bharti lost his assembly membership following his conviction in a cheating case",
+            "published": "2026-07-13T16:38:57+05:30"
+          },
           {
             "title": "CAG flags Kochi Corporation’s idling vehicle fleet bleeding public money",
             "link": "https://www.thehindu.com/news/national/kerala/cag-flags-kochi-corporations-idling-vehicle-fleet-bleeding-public-money/article71216289.ece",
             "source": "The Hindu",
             "summary": "CAG reports finds that out of the Corporation’s 143 vehicles, 72 had to be auctioned off as unserviceable, while another 34 were off the roads for want of fitness or maintenance",
             "published": "2026-07-13T16:34:06+05:30"
+          },
+          {
+            "title": "Opinion: Opinion | Sharad Pawar Has An Old 'Two Plus Two' Bargain For Delhi",
+            "link": "https://www.ndtv.com/opinion/opinion-what-is-two-plus-two-inside-sharad-pawars-grand-bargain-in-delhi-11764902#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Sharad Pawar appears to be keeping two doors open, and the political cost could be huge for both opposition and the NDA.",
+            "published": "2026-07-13T16:34:04+05:30"
           },
           {
             "title": "Three warkari pilgrims killed, four injured in road accident",
@@ -148,6 +162,13 @@
             "published": "2026-07-13T16:29:24+05:30"
           },
           {
+            "title": "Can You Stop Boys And Girls From Eloping: Supreme Court On POCSO Act Misuse",
+            "link": "https://www.ndtv.com/india-news/can-you-stop-boys-and-girls-from-eloping-supreme-court-on-pocso-act-misuse-11764866#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The Supreme Court was hearing a suo motu case concerning the right to privacy of adolescents",
+            "published": "2026-07-13T16:28:33+05:30"
+          },
+          {
             "title": "Srisailam temple management gears for Shakambari festival",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-temple-management-gears-for-shakambari-festival/article71216793.ece",
             "source": "The Hindu",
@@ -162,35 +183,21 @@
             "published": "2026-07-13T16:24:44+05:30"
           },
           {
-            "title": "Amid ‘restrictions’, J&K parties pay tributes to 1931 ‘martyrs’",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/amid-restrictions-jk-parties-pay-tributes-to-1931-martyrs/article71216679.ece",
-            "source": "The Hindu",
-            "summary": "Died fighting Britishers, nothing religious about 1931 uprising, says Omar Abdullah",
-            "published": "2026-07-13T16:21:07+05:30"
-          },
-          {
-            "title": "SC asks Centre to place on record new aviation rules to regulate volatile airfares",
-            "link": "https://www.thehindu.com/news/national/sc-asks-centre-to-place-on-record-new-aviation-rules-to-regulate-volatile-airfares/article71216157.ece",
-            "source": "The Hindu",
-            "summary": "New regulations have been finalised, the government says, they are being translated into Hindi and other official languages before being tabled in Parliament",
-            "published": "2026-07-13T16:19:57+05:30"
-          },
-          {
-            "title": "Traffic restrictions in several parts of Chandigarh in view of farmers' protest",
-            "link": "https://www.thehindu.com/news/national/chandigarh/traffic-restrictions-in-several-parts-of-chandigarh-in-view-of-farmers-protest/article71216483.ece",
-            "source": "The Hindu",
-            "summary": "Chandigarh police have announced traffic restrictions for Monday, July 13, from 10.30 a.m. to 3 p.m. on several major roads across the city.",
-            "published": "2026-07-13T16:18:50+05:30"
-          },
-          {
-            "title": "USS Columbia: The US nuclear submarine built to run 42 years without reactor refueling",
-            "link": "https://timesofindia.indiatimes.com/defence/international/uss-columbia-the-us-nuclear-submarine-built-to-run-42-years-without-reactor-refueling/articleshow/132364289.cms",
-            "source": "Times of India",
-            "summary": "The United States is in the process of building its advanced Columbia-class submarines, designed to strengthen its nuclear deterrent. These submarines will incorporate a life-of-ship nuclear reactor, which will eliminate the need for mid-life refueling, enhancing operational readiness and lowering long-term costs. Set to replace the older Ohio-class vessels, the first of these submarines is expected to be delivered…",
-            "published": "2026-07-13T16:17:40+05:30"
+            "title": "Ahead Of Rath Yatra, Bengal Announces Rs 5 Lakh Aid To 60 Committees",
+            "link": "https://www.ndtv.com/india-news/ahead-of-rath-yatra-bengal-announces-rs-5-lakh-aid-to-60-committees-11764836#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The state government will also make special arrangements for Kanwar pilgrims during this year's Shravan Mela, with Suvendu Adhikari visiting Tarakeswar on July 14.",
+            "published": "2026-07-13T16:22:30+05:30"
           }
         ],
         "World": [
+          {
+            "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+            "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+            "published": "2026-07-13T11:10:58+00:00"
+          },
           {
             "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
             "link": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss",
@@ -199,11 +206,32 @@
             "published": "2026-07-13T10:32:25+00:00"
           },
           {
+            "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+            "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
+            "published": "2026-07-13T10:30:51+00:00"
+          },
+          {
             "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
             "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
             "published": "2026-07-13T10:29:17+00:00"
+          },
+          {
+            "title": "People flee Bangkok bar as huge flames shoot out from doorway",
+            "link": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "At least 27 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
+            "published": "2026-07-13T10:17:13+00:00"
+          },
+          {
+            "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+            "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
+            "published": "2026-07-13T10:14:01+00:00"
           },
           {
             "title": "France vs Spain: World Cup semifinal – Mbappe, Yamal, predictions, kickoff",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.",
             "published": "2026-07-13T09:16:08+00:00"
-          },
-          {
-            "title": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-            "link": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Diana Williams embroiders names of 300 babies killed by Israel on gown, an evocative work she hopes will reach New York.",
-            "published": "2026-07-13T09:05:54+00:00"
-          },
-          {
-            "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-            "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iran&#039;s IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
-            "published": "2026-07-13T09:01:48+00:00"
-          },
-          {
-            "title": "Typhoon Bavi pummels China’s eastern coast",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/typhoon-bavi-pummels-chinas-eastern-coast?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Dramatic video captured the moment waves caused by Typhoon Bavi slammed into a house in China’s Zhejiang province.",
-            "published": "2026-07-13T08:53:41+00:00"
-          },
-          {
-            "title": "Watch World Cup: Preview ahead of Spain-France semifinal 1",
-            "link": "https://www.aljazeera.com/video/2026/7/13/video-world-cup-2026-highlights?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-            "published": "2026-07-13T08:15:41+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Australia Star Ashleigh Gardner Accused Of Cheating By Wife, Having Affair With Teammate",
+            "link": "https://sports.ndtv.com/cricket/australia-star-ashleigh-gardner-accused-of-cheating-by-wife-having-affair-with-teammate-11764731#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Australian women's cricket team was rocked by a massive controversy just a week after their T20 World Cup triumph, after Ashleigh Gardner's estranged wife, Monica Wright, publicly accused her of having an affair with Georgia Voll.",
+            "published": "2026-07-13T15:58:02+05:30"
+          },
+          {
             "title": "Fleming steps down as CSK head coach",
             "link": "https://www.cricinfo.com/ci/content/story/1545416.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "The third-seeded duo, who pulled out of the Indonesia Open last month after Satwik aggravated a recurring shoulder injury, will be eager to resume from where they left off after ending a two-year title drought with the Singapore Open crown.",
             "published": "2026-07-13T12:58:15+05:30"
-          },
-          {
-            "title": "1st ODI: India Turn To Ro-Ko To Find Winning Touch Against Rampaging England",
-            "link": "https://sports.ndtv.com/cricket/1st-odi-under-fire-india-turn-to-ro-ko-to-find-winning-touch-against-rampaging-england-11763795#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Veterans Virat Kohli and Rohit Sharma will not only have to perform for themselves but also play a key role in lifting the sagging Indian spirits against an upbeat England when the two sides clash in a three-match ODI series.",
-            "published": "2026-07-13T12:53:40+05:30"
           }
         ],
         "Technology": [
@@ -630,84 +630,84 @@
             "title": "देवर ने दी न्यूड फोटो वायरल करने की धमकी, इंस्पेक्टर पति ने की 20 लाख दहेज की मांग, पत्नि का बड़ा खुलासा",
             "link": "https://hindi.oneindia.com/news/bihar/patna-traffic-inspector-wife-nitu-allegations-affair-dowry-miscarriage-20-lakh-demand-1607823.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "बिहार की राजधानी पटना से एक बेहद चौंकाने वाला मामला सामने आया है, जहाँ ट्रैफिक पुलिस में इंस्पेक्टर के पद पर तैनात अविनाश राज रंजन पर उनकी ही पत्नी नीतू कुमारी ने गंभीर आरोप लगाए हैं। नीतू कुमारी ने पुलिस में दी गई अपनी शिकायत में बताया है कि उनके पति का किसी अन्य महिला दरोगा के साथ अवैध संबंध है। इसके अलावा, उन पर दहेज के रूप में 20 लाख रुपये की मोटी रकम मांगने का भी आरोप लगा है। मामला तब और गंभीर हो गया जब पत्नी ने दावा किया कि उनके पति ने उन्हें बेरहमी से पीटा और उनका जबरन गर्भपात भी करवा दिया। सबसे डरावनी बात यह है कि आरोपी देवर ने उनकी निजी तस्वीरें सोशल मीडिया पर वायरल करने की धमकी दी है। इस पूरे मामले ने खाकी की छवि पर बड़े सवाल खड़े कर दिए हैं और न्याय के लिए महिला पुलिस प्रशासन पर दबाव बना रही है। यह मामला घरेलू हिंसा और महिला सुरक्षा जैसे संवेदनशील विषयों पर समाज और पुलिस विभाग की अंदरूनी स्थिति को उजागर करता है, जिस पर अब गहन जांच की मांग उठ रही है।",
             "published": "2026-07-13T16:24:16+05:30"
           },
           {
             "title": "Ladki Bahin Yojana: महाराष्‍ट्र की 92 लाख महिलाओं को योजना से किया गया आउट, नहीं मिलेंगे 1500? क्‍या है वजह",
             "link": "https://hindi.oneindia.com/news/maharashtra/majhi-ladki-bahin-yojana-92-lakh-women-disqualified-in-maharashtra-1-500-installment-stopd-reason-1607817.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "महाराष्ट्र सरकार की महत्वाकांक्षी 'मुख्यमंत्री माझी लाडकी बहीण योजना' चर्चाओं में है, लेकिन इस बार इसके लाभार्थियों की सूची को लेकर विवाद खड़ा हो गया है। हालिया आंकड़ों के अनुसार, सरकार ने करीब 92 लाख महिलाओं को इस योजना के लिए अपात्र घोषित कर दिया है, जिसके कारण उन्हें अब हर महीने मिलने वाले 1500 रुपये के लाभ से वंचित रहना पड़ेगा। इस निर्णय के पीछे मुख्य कारण पात्रता मापदंडों का कड़ाई से पालन बताया जा रहा है। सरकार का कहना है कि कई आवेदनों में दस्तावेजों की कमी, आय सीमा का अधिक होना या अन्य सरकारी योजनाओं के साथ टकराव जैसे कारण पाए गए हैं, जिसकी वजह से इन महिलाओं को सूची से बाहर करना पड़ा। यह फैसला उन लाखों महिलाओं के लिए एक बड़ा झटका है जो आर्थिक मदद की उम्मीद लगाए बैठी थीं। राज्य सरकार के इस कदम के बाद विपक्ष ने भी सवाल उठाना शुरू कर दिया है। यह स्थिति स्पष्ट करती है कि सरकारी योजनाओं के प्रभावी कार्यान्वयन के लिए आवेदकों का सत्यापन कितना महत्वपूर्ण है और कैसे छोटी सी चूक किसी जरूरतमंद का लाभ रोक सकती है।",
             "published": "2026-07-13T16:22:51+05:30"
           },
           {
             "title": "पाकिस्तान के मुफ़्ती का क्रिप्टोकरेंसी के ख़िलाफ़ फ़तवा, इस एक वजह से बताया हराम",
             "link": "https://www.bbc.com/hindi/articles/cm205p9n34xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
-            "summary": "",
+            "summary": "पाकिस्तान के प्रमुख धार्मिक विद्वान मुफ्ती तकी उस्मानी और पांच अन्य उलेमाओं ने मिलकर क्रिप्टोकरेंसी के खिलाफ एक कड़ा फतवा जारी किया है, जिसने चर्चा छेड़ दी है। इस फतवे में क्रिप्टोकरेंसी को पूरी तरह से 'हराम' या गैर-इस्लामी घोषित किया गया है। मुफ्ती ने अपने फतवे के समर्थन में एक गहन शोध का हवाला देते हुए तर्क दिया है कि डिजिटल करेंसी की प्रकृति और इसमें होने वाले निवेश के तरीके इस्लामी आर्थिक सिद्धांतों के अनुरूप नहीं हैं। उनका दावा है कि इसमें अत्यधिक जोखिम और अनिश्चितता है, जो जुए की श्रेणी में आता है। इस फतवे के जरिए क्रिप्टोकरेंसी के माध्यम से की जाने वाली हर तरह की खरीदारी और व्यापार पर रोक लगाने का आह्वान किया गया है। यह निर्णय डिजिटल मुद्रा के बढ़ते चलन और धार्मिक व्याख्याओं के बीच चल रही बहस का एक नया हिस्सा है। पाकिस्तान जैसे देशों में जहां आर्थिक स्थिरता एक बड़ा मुद्दा है, वहां इस तरह के फतवे का असर बाजार और निवेशकों की मानसिकता पर पड़ना स्वाभाविक है, क्योंकि यह सीधे तौर पर लोगों की आर्थिक गतिविधियों को धार्मिक नजरिए से प्रभावित करता है।",
             "published": "2026-07-13T10:42:18+00:00"
           },
           {
             "title": "Bankipur Bypoll: Tej Pratap की पार्टी की प्रत्याशी वीणा मानवी कौन? नामांकन के बाद हिरासत में क्यों? रोने लगीं",
             "link": "https://hindi.oneindia.com/news/bihar/bankipur-bypoll-who-is-veena-manvi-tej-pratap-candidate-detained-after-nomination-crying-video-1607803.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "बिहार के बांकीपुर विधानसभा सीट पर हो रहे उपचुनाव के दौरान सोमवार को बेहद नाटकीय दृश्य देखने को मिला। जनशक्ति जनता दल (JJD) की उम्मीदवार वीणा मानवी ने जैसे ही अपना नामांकन पत्र दाखिल किया, पटना पुलिस ने उन्हें तत्काल प्रभाव से हिरासत में ले लिया। इस अचानक हुई कार्रवाई से समाहरणालय परिसर में अफरातफरी मच गई और वहां मौजूद समर्थकों के बीच भारी हंगामा शुरू हो गया। पुलिस की इस कार्रवाई को देखते हुए वीणा मानवी मौके पर ही फूट-फूट कर रोने लगीं। नामांकन के बाद हिरासत में लिए जाने की इस घटना ने सियासी गलियारों में कई सवाल खड़े कर दिए हैं और विपक्षी दलों द्वारा इसे प्रतिशोध की राजनीति करार दिया जा रहा है। हालांकि, पुलिस का इस पर क्या आधिकारिक पक्ष है, यह अभी स्पष्ट होना बाकी है, लेकिन इस पूरी घटना ने चुनाव प्रक्रिया के दौरान सुरक्षा और निष्पक्षता पर गंभीर बहस को जन्म दिया है। यह मामला बिहार की राजनीति में बढ़ते तनाव और चुनाव के अंतिम दिनों में होने वाली उठापटक का एक जीता-जागता उदाहरण है, जिसने पूरे राज्य का ध्यान अपनी ओर आकर्षित किया है।",
             "published": "2026-07-13T16:05:27+05:30"
           },
           {
             "title": "गुजरात में फैला चांदीपुरा वायरस:एक महीने में 12 बच्चों की मौत, 3 की रिपोर्ट पॉजिटिव; मक्खी से फैलती है बीमारी, वैक्सीन भी नहीं बनी",
             "link": "https://www.bhaskar.com/national/news/gujarat-children-death-chapura-virus-cases-138432874.html",
             "source": "Dainik Bhaskar",
-            "summary": "",
+            "summary": "गुजरात इस समय चांदीपुरा वायरस के कहर से जूझ रहा है, जिसने राज्य में स्वास्थ्य संकट पैदा कर दिया है। पिछले एक महीने के भीतर इस वायरस की चपेट में आकर 12 बच्चों की मौत होने की खबर ने प्रशासन को हिला दिया है। स्वास्थ्य अधिकारियों के अनुसार, अब तक तीन बच्चों में चांदीपुरा वायरस की पुष्टि हो चुकी है, जबकि अन्य 9 बच्चों की मौत भी इसी वायरस से होने की प्रबल आशंका जताई जा रही है, जिनकी रिपोर्ट अभी आनी बाकी है। यह संक्रमण गांधीनगर, साबरकांठा, खेड़ा, अरावली और पंचमहल जैसे जिलों में तेजी से फैल रहा है। स्वास्थ्य मंत्री प्रफुल्ल पानसेरिया ने स्थिति की गंभीरता को स्वीकार करते हुए बताया कि यह वायरस मक्खियों के काटने से फैलता है और फिलहाल इसका कोई इलाज या वैक्सीन उपलब्ध नहीं है। यह वायरस बच्चों को विशेष रूप से अपना निशाना बना रहा है, जिससे अभिभावकों में दहशत का माहौल है। सरकार ने प्रभावित क्षेत्रों में सतर्कता बढ़ा दी है और बचाव के उपायों पर जोर दिया जा रहा है, ताकि वायरस के प्रसार को रोका जा सके और मासूमों की जान बचाई जा सके।",
             "published": "2026-07-13T10:32:10+00:00"
           },
           {
             "title": "Bihar Heli Tourism: अब आसमान से निहारें बिहार की खूबसूरती, आज से हेलीकॉप्टर बुकिंग शुरू, सरकार दे रही सब्सिडी",
             "link": "https://hindi.oneindia.com/news/bihar/bihar-heli-tourism-booking-started-helicopter-service-route-fare-subsidy-details-hindi-1607801.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "बिहार में पर्यटन को बढ़ावा देने के उद्देश्य से राज्य सरकार ने 'हेली-टूरिज्म सेवा योजना 2026' का आधिकारिक तौर पर आगाज कर दिया है। इस नई पहल के माध्यम से अब आम लोग भी हेलीकॉप्टर के जरिए हवाई यात्रा का अनुभव ले सकेंगे। सरकार की इस योजना में यात्रियों को काफी सब्सिडी दी जा रही है, जिससे टिकटों का किराया काफी किफायती हो गया है। पर्यटक अब पटना से राजगीर, कैमूर और वाल्मीकिनगर जैसे प्रमुख स्थानों की हवाई यात्रा का आनंद उठा सकते हैं। इसके अलावा, जो लोग केवल शहर का हवाई नजारा देखना चाहते हैं, वे मात्र 2,100 रुपये में पटना जॉय राइड का लाभ ले सकते हैं। यह सेवा बिहार की सुंदरता को ऊपर से निहारने का एक बेहतरीन मौका प्रदान करती है। इस बुकिंग प्रक्रिया और किराए के ढांचे को लेकर पूरी जानकारी आधिकारिक पोर्टल पर उपलब्ध कराई गई है। राज्य सरकार का मानना है कि इस पहल से बिहार में पर्यटन के क्षेत्र में नए आयाम जुड़ेंगे और अधिक संख्या में लोग राज्य के ऐतिहासिक और प्राकृतिक स्थलों की ओर आकर्षित होंगे। बुकिंग आज से ही शुरू कर दी गई है, जिससे पर्यटक अब आसानी से अपनी यात्रा की योजना बना सकते हैं।",
             "published": "2026-07-13T16:00:34+05:30"
           },
           {
             "title": "Adarsh Baal Vidyalaya Trailer Out: वेब सीरीज 'आदर्श बाल विद्यालय' का ट्रेलर रिलीज, टीचर्स से बढ़कर निकले बच्चे",
             "link": "https://hindi.oneindia.com/news/entertainment/adarsh-baal-vidyalaya-trailer-out-kay-kay-menon-web-series-on-ott-platform-amazon-prime-video-1607791.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "वेब सीरीज 'आदर्श बाल विद्यालय' का ट्रेलर हाल ही में रिलीज हुआ है, जो दर्शकों को एक बेहद अलग और मजेदार स्कूल की दुनिया में ले जाता है। ट्रेलर की शुरुआत ही दर्शकों का स्वागत 'आदर्श बाल विद्यालय' के परिसर में करने के साथ होती है, जहाँ का माहौल किसी भी सामान्य स्कूल से बिल्कुल अलग दिखाई पड़ता है। यहाँ के नियम बेहद लचीले हैं और स्कूल के किरदार अपने आप में काफी अनोखे और दिलचस्प हैं। इस सीरीज की सबसे बड़ी खासियत यह है कि यहाँ बच्चे अपने शिक्षकों से भी अधिक होशियार और शरारती नजर आते हैं। कहानी में यह दिखाया गया है कि कैसे इस स्कूल में कोई भी दो दिन एक जैसे नहीं होते, जिससे हर पल एक नया कौतूहल और मस्ती बनी रहती है। ट्रेलर के दृश्यों में जो ऊर्जा और हास्य देखने को मिल रहा है, उससे यह साफ है कि यह शो स्कूल लाइफ के एक नए और मजाकिया पहलू को उजागर करेगा। छात्र और शिक्षक के बीच की यह अनोखी जुगलबंदी और उनके अजीबोगरीब किस्से दर्शकों को एक बेहतरीन मनोरंजन का वादा करते हैं। सोशल मीडिया पर इस ट्रेलर को काफी पसंद किया जा रहा है और लोग सीरीज की रिलीज का बेसब्री से इंतजार कर रहे हैं।",
             "published": "2026-07-13T15:56:40+05:30"
           },
           {
             "title": "वैभव सूर्यवंशी ने विंबलडन में पहने लाखों के कपड़े, 15 की उम्र में खर्च कर डाली मोटी रकम, कितनी है टोटल प्राइस",
             "link": "https://hindi.oneindia.com/news/sports/cricket/vaibhav-sooryavanshi-wore-an-outfit-worth-how-many-rupees-at-wimbledon-1607789.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "क्रिकेट की दुनिया में अपनी पहचान बना रहे युवा खिलाड़ी वैभव सूर्यवंशी इन दिनों विंबलडन में अपनी मौजूदगी को लेकर चर्चा का केंद्र बने हुए हैं। विंबलडन के दौरान उनके पहनावे और स्टाइलिश लुक्स ने सोशल मीडिया पर काफी सुर्खियां बटोरी हैं। लोगों का ध्यान उनके द्वारा पहने गए महंगे कपड़ों पर गया है, जिसके बाद फैंस के बीच उनके आउटफिट्स की कीमत को लेकर तरह-तरह के कयास लगाए जा रहे हैं। सोशल मीडिया पर यूजर्स उनके कपड़ों की कीमत को लेकर अलग-अलग दावे कर रहे हैं, जो चर्चा का विषय बन गया है। महज 15 वर्ष की आयु में इस स्तर पर पहुँचना और इतने महंगे कपड़ों में दिखना फैंस के लिए काफी उत्सुकता की बात है। हालांकि, इन दावों की वास्तविकता और कपड़ों के सही मूल्य को लेकर सोशल मीडिया पर बहस छिड़ी हुई है, जहाँ लोग अलग-अलग तरह के विश्लेषण कर रहे हैं। वैभव का खेल के साथ-साथ उनका यह नया स्टाइल स्टेटमेंट लोगों को काफी आकर्षित कर रहा है। आने वाले समय में वैभव का करियर और उनकी बढ़ती लोकप्रियता निश्चित रूप से खेल जगत में नए कीर्तिमान स्थापित करेगी, लेकिन फिलहाल उनकी विंबलडन उपस्थिति उनके लुक्स और कपड़ों के कारण सुर्खियों में छाई हुई है।",
             "published": "2026-07-13T15:54:17+05:30"
           },
           {
             "title": "कौन हैं नृपेंद्र मिश्रा? बन सकते हैं राम मंदिर के CEO? PM मोदी के हैं सबसे भरोसेमंद अफसर,परिवार में कौन-कौन?",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/who-is-nripendra-misra-profile-family-son-daughter-pm-modi-close-aide-ram-mandir-trust-secretary-ceo-1597519.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "राम मंदिर ट्रस्ट में होने वाले संभावित बदलावों के बीच नृपेंद्र मिश्रा का नाम चर्चाओं के केंद्र में है। नृपेंद्र मिश्रा प्रधानमंत्री नरेंद्र मोदी के सबसे भरोसेमंद और अनुभवी अधिकारियों में से एक माने जाते हैं। वर्तमान में वे राम मंदिर निर्माण समिति के अध्यक्ष के रूप में अपनी महत्वपूर्ण भूमिका निभा रहे हैं। उनके करियर की बात करें तो वे पूर्व में प्रधान सचिव भी रह चुके हैं, जहाँ उन्होंने अपनी प्रशासनिक कुशलता का परिचय दिया था। अब कयास यह लगाए जा रहे हैं कि क्या उन्हें राम मंदिर ट्रस्ट का नया सीईओ या महासचिव नियुक्त किया जा सकता है। नृपेंद्र मिश्रा के व्यक्तिगत जीवन में उनका परिवार भी काफी चर्चा में रहता है, जिसमें उनके बेटे साकेत मिश्रा और उनकी बेटियों के बारे में लोग विस्तार से जानना चाहते हैं। उनकी प्रशासनिक सूझबूझ और पीएम मोदी के साथ उनका गहरा विश्वास का रिश्ता उन्हें इस बड़ी जिम्मेदारी के लिए सबसे उपयुक्त उम्मीदवार बनाता है। इस विषय पर आधिकारिक घोषणा का इंतजार किया जा रहा है, लेकिन नृपेंद्र मिश्रा के नाम की चर्चा यह दर्शाती है कि राम मंदिर के प्रबंधन में एक कुशल और अनुभवी नेतृत्व की तलाश की जा रही है, जो भविष्य की सभी चुनौतियों का सामना कर सके।",
             "published": "2026-07-13T15:51:22+05:30"
           },
           {
             "title": "Imtiaz Ali की बेटी इदा ने लॉन्ग टाइम बॉयफ्रेंड से की सगाई, कौन है दामाद? तस्वीरें वायरल",
             "link": "https://hindi.oneindia.com/news/entertainment/imtiaz-ali-daughter-idaa-got-engaged-long-time-boyfriend-who-is-son-in-law-photos-viral-hindi-1607773.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "प्रसिद्ध फिल्म निर्देशक इम्तियाज अली की बेटी इदा अली ने अपने लॉन्ग टाइम बॉयफ्रेंड कृष अग्रवाल के साथ सगाई कर ली है, जिससे वे सुर्खियों में हैं। यह एक बेहद खुशी का अवसर है जिसकी तस्वीरें सोशल मीडिया पर तेजी से वायरल हो रही हैं। इदा अली, जो अपने पिता की तरह ही क्रिएटिव दुनिया का हिस्सा हैं, उन्होंने अपने निजी जीवन के इस अहम पड़ाव को सोशल मीडिया के माध्यम से अपने प्रशंसकों के साथ साझा किया। कृष अग्रवाल, जो इदा के काफी लंबे समय से बॉयफ्रेंड रहे हैं, अब उनके जीवन के इस नए सफर के हमसफर बन गए हैं। वायरल हो रही तस्वीरों में दोनों की केमिस्ट्री और खुशियां साफ देखी जा सकती हैं। सगाई की खबरों के सामने आते ही सोशल मीडिया पर उन्हें बधाइयों का तांता लग गया है। इम्तियाज अली के परिवार में इस नई खुशी का आगमन उनके करीबी दोस्तों और प्रशंसकों के लिए काफी उत्साहजनक है। हालांकि कृष अग्रवाल के बारे में अधिक जानकारी अभी साझा नहीं की गई है, लेकिन इदा के प्रशंसकों के बीच उनके होने वाले पति को लेकर खासी उत्सुकता बनी हुई है। दोनों की जोड़ी को फैंस का भरपूर प्यार मिल रहा है और सोशल मीडिया पर उनकी सगाई की तस्वीरें चर्चा का मुख्य विषय बनी हुई हैं।",
             "published": "2026-07-13T15:36:15+05:30"
           },
           {
             "title": "Mahesh Manjrekar की पत्नी मेधा मांजरेकर को हुआ कैंसर, फेमस एक्ट्रेस की हुई ऐसी हालत, बयां किया दर्द",
             "link": "https://hindi.oneindia.com/news/entertainment/mahesh-manjrekar-wife-medha-manjrekar-cancer-actress-shared-post-expressing-her-lot-of-pain-1607753.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "मराठी और हिंदी सिनेमा के दिग्गज अभिनेता-निर्देशक महेश मांजरेकर की पत्नी और खुद एक चर्चित अभिनेत्री मेधा मांजरेकर के कैंसर से पीड़ित होने की खबर ने प्रशंसकों को झकझोर कर रख दिया है। हाल ही में मेधा ने अपने आधिकारिक इंस्टाग्राम अकाउंट के माध्यम से इस कठिन दौर के बारे में जानकारी साझा की है। उन्होंने एक बेहद भावुक और लंबा नोट लिखा है, जिसमें उन्होंने अपनी बीमारी, संघर्ष और इलाज के दौरान महसूस किए गए दर्द को बयां किया है। इस पोस्ट के साथ उन्होंने अस्पताल की कुछ झलकियां और अपनी तस्वीरें भी साझा की हैं, जो उनकी स्थिति की गंभीरता को दर्शाती हैं। मेधा मांजरेकर का यह खुलासा दिखाता है कि कैसे कैंसर जैसी गंभीर बीमारी व्यक्ति के जीवन को अचानक से बदल कर रख देती है। हालांकि, उनके इस पोस्ट से उनकी हिम्मत और सकारात्मकता भी झलकती है। सोशल मीडिया पर उनके फैंस और इंडस्ट्री के साथी लगातार उनके जल्द स्वस्थ होने की कामना कर रहे हैं और उनके साहस की सराहना कर रहे हैं। यह घटना एक बार फिर स्वास्थ्य के प्रति जागरूकता और कठिन समय में मानसिक मजबूती की आवश्यकता पर प्रकाश डालती है।",
             "published": "2026-07-13T15:12:00+05:30"
           },
           {
             "title": "कलकत्ता हाईकोर्ट बोला-TTE सब्जी की तरह खाली बर्थ बेचते हैं:इसी वजह से ट्रेनों में लूट की घटनाएं होती हैं, रेलवे एक्शन ले",
             "link": "https://www.bhaskar.com/g/national/news/kolkata-high-court-tte-loot-action-railway-138432455.html",
             "source": "Dainik Bhaskar",
-            "summary": "",
+            "summary": "कलकत्ता हाईकोर्ट ने भारतीय ट्रेनों में टीटीई (TTE) द्वारा की जाने वाली अनियमितताओं को लेकर बेहद सख्त रुख अपनाया है। जस्टिस राजशेखर मंथा और जस्टिस बिस्वरूप चौधरी की खंडपीठ ने एक सुनवाई के दौरान टिप्पणी करते हुए कहा कि ट्रेन में टीटीई खाली बर्थ को बिल्कुल वैसे ही बेचते हैं जैसे बाजार में सब्जियां बेची जाती हैं। कोर्ट ने यह कड़ा रुख 2009 की तीस्ता-तोरसा एक्सप्रेस में हुई लूट और हत्या के मामले की सुनवाई के दौरान अपनाया है। कोर्ट का मानना है कि टिकट चेकिंग स्टाफ द्वारा अनाधिकृत रूप से बर्थ आवंटित करने की प्रथा के कारण ही ट्रेनों में यात्रियों की सुरक्षा से समझौता होता है, जिसका फायदा उठाकर अपराधी यात्रियों को नशीला पदार्थ खिलाकर लूट की घटनाओं को अंजाम देते हैं। न्यायालय ने रेलवे प्रशासन को इस गंभीर मुद्दे पर संज्ञान लेने और तत्काल सुधारात्मक कार्रवाई करने के निर्देश दिए हैं। यह मामला रेलवे की कार्यप्रणाली और यात्रियों की सुरक्षा पर बड़े सवाल खड़े करता है, जहाँ भ्रष्टाचार और मिलीभगत सीधे तौर पर आम आदमी की जान जोखिम में डाल रही है। कोर्ट की यह टिप्पणी रेलवे के लिए एक कड़ा संदेश है कि वे अपनी प्रणाली में पारदर्शिता लाएं और भ्रष्टाचार को जड़ से खत्म करें।",
             "published": "2026-07-13T09:40:14+00:00"
           }
         ],
@@ -716,84 +716,84 @@
             "title": "Adarsh Baal Vidyalaya Trailer Out: वेब सीरीज 'आदर्श बाल विद्यालय' का ट्रेलर रिलीज, टीचर्स से बढ़कर निकले बच्चे",
             "link": "https://hindi.oneindia.com/news/entertainment/adarsh-baal-vidyalaya-trailer-out-kay-kay-menon-web-series-on-ott-platform-amazon-prime-video-1607791.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "वेब सीरीज 'आदर्श बाल विद्यालय' का ट्रेलर हाल ही में रिलीज हुआ है, जो दर्शकों को एक बेहद अलग और मजेदार स्कूल की दुनिया में ले जाता है। ट्रेलर की शुरुआत ही दर्शकों का स्वागत 'आदर्श बाल विद्यालय' के परिसर में करने के साथ होती है, जहाँ का माहौल किसी भी सामान्य स्कूल से बिल्कुल अलग दिखाई पड़ता है। यहाँ के नियम बेहद लचीले हैं और स्कूल के किरदार अपने आप में काफी अनोखे और दिलचस्प हैं। इस सीरीज की सबसे बड़ी खासियत यह है कि यहाँ बच्चे अपने शिक्षकों से भी अधिक होशियार और शरारती नजर आते हैं। कहानी में यह दिखाया गया है कि कैसे इस स्कूल में कोई भी दो दिन एक जैसे नहीं होते, जिससे हर पल एक नया कौतूहल और मस्ती बनी रहती है। ट्रेलर के दृश्यों में जो ऊर्जा और हास्य देखने को मिल रहा है, उससे यह साफ है कि यह शो स्कूल लाइफ के एक नए और मजाकिया पहलू को उजागर करेगा। छात्र और शिक्षक के बीच की यह अनोखी जुगलबंदी और उनके अजीबोगरीब किस्से दर्शकों को एक बेहतरीन मनोरंजन का वादा करते हैं। सोशल मीडिया पर इस ट्रेलर को काफी पसंद किया जा रहा है और लोग सीरीज की रिलीज का बेसब्री से इंतजार कर रहे हैं।",
             "published": "2026-07-13T15:56:40+05:30"
           },
           {
             "title": "Imtiaz Ali की बेटी इदा ने लॉन्ग टाइम बॉयफ्रेंड से की सगाई, कौन है दामाद? तस्वीरें वायरल",
             "link": "https://hindi.oneindia.com/news/entertainment/imtiaz-ali-daughter-idaa-got-engaged-long-time-boyfriend-who-is-son-in-law-photos-viral-hindi-1607773.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "प्रसिद्ध फिल्म निर्देशक इम्तियाज अली की बेटी इदा अली ने अपने लॉन्ग टाइम बॉयफ्रेंड कृष अग्रवाल के साथ सगाई कर ली है, जिससे वे सुर्खियों में हैं। यह एक बेहद खुशी का अवसर है जिसकी तस्वीरें सोशल मीडिया पर तेजी से वायरल हो रही हैं। इदा अली, जो अपने पिता की तरह ही क्रिएटिव दुनिया का हिस्सा हैं, उन्होंने अपने निजी जीवन के इस अहम पड़ाव को सोशल मीडिया के माध्यम से अपने प्रशंसकों के साथ साझा किया। कृष अग्रवाल, जो इदा के काफी लंबे समय से बॉयफ्रेंड रहे हैं, अब उनके जीवन के इस नए सफर के हमसफर बन गए हैं। वायरल हो रही तस्वीरों में दोनों की केमिस्ट्री और खुशियां साफ देखी जा सकती हैं। सगाई की खबरों के सामने आते ही सोशल मीडिया पर उन्हें बधाइयों का तांता लग गया है। इम्तियाज अली के परिवार में इस नई खुशी का आगमन उनके करीबी दोस्तों और प्रशंसकों के लिए काफी उत्साहजनक है। हालांकि कृष अग्रवाल के बारे में अधिक जानकारी अभी साझा नहीं की गई है, लेकिन इदा के प्रशंसकों के बीच उनके होने वाले पति को लेकर खासी उत्सुकता बनी हुई है। दोनों की जोड़ी को फैंस का भरपूर प्यार मिल रहा है और सोशल मीडिया पर उनकी सगाई की तस्वीरें चर्चा का मुख्य विषय बनी हुई हैं।",
             "published": "2026-07-13T15:36:15+05:30"
           },
           {
             "title": "Mahesh Manjrekar की पत्नी मेधा मांजरेकर को हुआ कैंसर, फेमस एक्ट्रेस की हुई ऐसी हालत, बयां किया दर्द",
             "link": "https://hindi.oneindia.com/news/entertainment/mahesh-manjrekar-wife-medha-manjrekar-cancer-actress-shared-post-expressing-her-lot-of-pain-1607753.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "मराठी और हिंदी सिनेमा के दिग्गज अभिनेता-निर्देशक महेश मांजरेकर की पत्नी और खुद एक चर्चित अभिनेत्री मेधा मांजरेकर के कैंसर से पीड़ित होने की खबर ने प्रशंसकों को झकझोर कर रख दिया है। हाल ही में मेधा ने अपने आधिकारिक इंस्टाग्राम अकाउंट के माध्यम से इस कठिन दौर के बारे में जानकारी साझा की है। उन्होंने एक बेहद भावुक और लंबा नोट लिखा है, जिसमें उन्होंने अपनी बीमारी, संघर्ष और इलाज के दौरान महसूस किए गए दर्द को बयां किया है। इस पोस्ट के साथ उन्होंने अस्पताल की कुछ झलकियां और अपनी तस्वीरें भी साझा की हैं, जो उनकी स्थिति की गंभीरता को दर्शाती हैं। मेधा मांजरेकर का यह खुलासा दिखाता है कि कैसे कैंसर जैसी गंभीर बीमारी व्यक्ति के जीवन को अचानक से बदल कर रख देती है। हालांकि, उनके इस पोस्ट से उनकी हिम्मत और सकारात्मकता भी झलकती है। सोशल मीडिया पर उनके फैंस और इंडस्ट्री के साथी लगातार उनके जल्द स्वस्थ होने की कामना कर रहे हैं और उनके साहस की सराहना कर रहे हैं। यह घटना एक बार फिर स्वास्थ्य के प्रति जागरूकता और कठिन समय में मानसिक मजबूती की आवश्यकता पर प्रकाश डालती है।",
             "published": "2026-07-13T15:12:00+05:30"
           },
           {
             "title": "'कंबल के नीचे उसने मुझे गंदे तरीके से छुआ और फिर जो किया', 52 साल के एक्टर का बड़ा खुलासा, रोने लगीं Genelia",
             "link": "https://hindi.oneindia.com/news/entertainment/ram-kapoor-52-age-actor-said-he-touched-me-badly-under-blanket-did-this-genelia-deshmukh-crying-1607695.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "मशहूर अभिनेता राम कपूर ने हाल ही में अपने जीवन के एक बेहद अंधेरे और व्यक्तिगत पहलू का खुलासा किया है, जिसने सबको चौंका दिया है। एक इंटरव्यू के दौरान राम कपूर ने बताया कि जब वह महज 13 साल के थे और बोर्डिंग स्कूल में पढ़ रहे थे, तब उनके साथ यौन शोषण हुआ था। उन्होंने साझा किया कि इस घटना ने उन्हें अंदर से तोड़ दिया था और इतने सालों तक उन्होंने इस दर्द को दुनिया से छिपाकर रखा था। उन्होंने बताया कि केवल उनकी पत्नी गौतमी कपूर ही थीं, जिन्हें इस बारे में जानकारी थी। उनके इस खुलासे पर शो के दौरान जेनेलिया डिसूजा भी भावुक हो गईं और रोने लगीं। राम कपूर की यह स्वीकारोक्ति न केवल उनके साहस को दर्शाती है, बल्कि उन लोगों के लिए भी एक मिसाल है जो बचपन में हुए दुर्व्यवहार के दंश को अकेले झेल रहे हैं। उनके इस बयान ने इंडस्ट्री में एक गंभीर विमर्श को जन्म दिया है कि कैसे चाइल्ड एब्यूज का प्रभाव व्यक्ति के जीवन पर लंबे समय तक बना रहता है। इस संवेदनशील विषय पर अभिनेता का खुलकर बोलना यह बताता है कि दर्द को साझा करने से ही जख्म भरने की प्रक्रिया शुरू होती है।",
             "published": "2026-07-13T13:25:06+05:30"
           },
           {
             "title": "'तारक मेहता' Shailesh Lodha ने बेटी स्वरा की शादी में मेहमानों को ये क्या दिया? वेडिंग में ये कैसा Gift?",
             "link": "https://hindi.oneindia.com/news/entertainment/taarak-mehta-shailesh-lodha-give-special-return-gift-to-guests-at-daughter-swara-wedding-1607641.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "मशहूर टीवी शो 'तारक मेहता का उल्टा चश्मा' के प्रसिद्ध अभिनेता शैलेश लोढ़ा ने हाल ही में अपनी बेटी स्वरा लोढ़ा की शादी को लेकर सुर्खियों में हैं। अपनी इकलौती बेटी के इस विशेष दिन को यादगार बनाने के लिए शैलेश लोढ़ा ने करोड़ों रुपये पानी की तरह बहाए हैं। यह शादी समारोह चर्चा का विषय केवल अपने शाही अंदाज के कारण नहीं है, बल्कि इसमें शामिल हुई बड़ी हस्तियों के कारण भी है। शादी में राजस्थान के मुख्यमंत्री भजनलाल शर्मा से लेकर बॉलीवुड अभिनेता विक्की कौशल तक कई बड़ी शख्सियतें शामिल हुईं, जिसने इस आयोजन की भव्यता को और बढ़ा दिया। लोग इस बात को लेकर काफी उत्सुक हैं कि शैलेश लोढ़ा ने अपनी बेटी की शादी में मेहमानों को क्या खास तोहफे दिए, क्योंकि सोशल मीडिया पर इसको लेकर काफी चर्चा हो रही है। अपनी सादगी और गंभीर छवि के लिए पहचाने जाने वाले शैलेश लोढ़ा ने इस शादी के माध्यम से अपने पारिवारिक रिश्तों के प्रति लगाव को साबित किया है। एक बेटी की शादी का जश्न, जिसमें राजनीति और ग्लैमर जगत के दिग्गज एक साथ दिखे, निश्चित रूप से इस सीजन की सबसे भव्य शादियों में से एक मानी जा रही है।",
             "published": "2026-07-13T11:53:21+05:30"
           },
           {
             "title": "'मैंने Deepika Padukone को छोड़ा, वो तो', एक्ट्रेस के 39 साल के मुस्लिम Ex-बॉयफ्रेंड ने ये क्या कह दिया?",
             "link": "https://hindi.oneindia.com/news/entertainment/deepika-padukone-ex-boyfriend-muzammil-ibrahim-said-i-left-her-39-age-muslim-actor-revelation-1607597.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "अभिनेत्री दीपिका पादुकोण के फिल्मी करियर के शुरुआती दिनों को लेकर एक बड़ा खुलासा हुआ है। दीपिका के एक्स-बॉयफ्रेंड और मॉडल मुजम्मिल इब्राहिम ने एक इंटरव्यू में अपनी पुरानी यादों को ताजा किया है। 39 वर्षीय मुजम्मिल ने दावा किया कि दीपिका के करियर के शुरुआती दौर में वे दोनों लगभग दो साल तक रिलेशनशिप में थे। मुजम्मिल ने यह भी कहा कि जब दीपिका पहली बार मुंबई आई थीं, तब उन्होंने सबसे पहले उनसे ही मुलाकात की थी। मुजम्मिल का कहना है कि उन्होंने खुद दीपिका से रिश्ता खत्म किया था, जो कि चर्चा का विषय बना हुआ है। दीपिका का नाम अक्सर उनके शुरुआती करियर से जुड़े लोगों के साथ जोड़ा जाता रहा है, और मुजम्मिल को अक्सर उनका पहला प्रेमी माना जाता है। मनोरंजन जगत में अभिनेताओं के पुराने रिश्तों को लेकर अक्सर तरह-तरह की बातें होती हैं, लेकिन मुजम्मिल का यह बयान उस समय की यादें ताजा करता है जब दीपिका ने अपनी पहचान बनानी शुरू ही की थी। यह खुलासा दीपिका के संघर्ष के दिनों और उनके निजी जीवन के पहलुओं पर नई रोशनी डालता है, जो उनके प्रशंसकों के लिए काफी दिलचस्प जानकारी है।",
             "published": "2026-07-13T10:20:57+05:30"
           },
           {
             "title": "Kumar Sanu के बेटे जान को हुआ COVID, हुई ऐसी हालत, अस्पताल से शेयर किया वीडियो, लोग मांग रहे दुआ",
             "link": "https://hindi.oneindia.com/news/entertainment/kumar-sanu-son-jaan-tests-positive-for-covid-19-shares-video-from-hospital-people-pray-for-him-1607583.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "प्रसिद्ध गायक कुमार सानू के बेटे जान कुमार सानू के स्वास्थ्य को लेकर इस वक्त उनके प्रशंसक काफी चिंतित नजर आ रहे हैं। हाल ही में जान ने सोशल मीडिया पर अस्पताल से एक वीडियो साझा किया है, जिसमें उनके हाथ पर आइवी (IV) ड्रिप लगी हुई साफ दिखाई दे रही है। इस वीडियो के साथ उन्होंने जो कैप्शन लिखा है, उसने लोगों की चिंता को और भी ज्यादा बढ़ा दिया है। हालांकि, जान ने अपनी स्थिति के बारे में बहुत अधिक जानकारी नहीं दी है, लेकिन उनके इस वीडियो ने सोशल मीडिया पर हलचल मचा दी है। फैंस और शुभचिंतक लगातार कमेंट्स के जरिए उनके जल्दी स्वस्थ होने की कामना कर रहे हैं। गौरतलब है कि जान 'बिग बॉस' जैसे शो में नजर आने के बाद से चर्चा में रहते हैं। स्वास्थ्य संबंधी ऐसी तस्वीरें अक्सर सेलेब्स के फैंस को भावुक कर देती हैं। फिलहाल, सभी को उनके स्वास्थ्य में सुधार की अपडेट का इंतजार है और लोग अपनी प्रार्थनाएं लगातार उन तक पहुँचा रहे हैं ताकि वे जल्द से जल्द इस कठिन समय से बाहर आ सकें।",
             "published": "2026-07-13T09:26:55+05:30"
           },
           {
             "title": "'संजय दत्‍त रोक सकते थे 1993 का मुंबई अटैक', कौन हैं उज्‍जवल निकम? बॉलीवुड एक्‍टर को लेकर किया बड़ा दावा",
             "link": "https://hindi.oneindia.com/ /sanjay-dutt-have-prevented-1993-mumbai-attacks-who-is-ujjwal-nikam-he-makes-big-claim-1607531.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "1993 के मुंबई सीरियल धमाकों का जख्म आज भी देश के लिए एक गहरे दर्द की तरह है। हाल ही में इस मामले में सरकारी वकील रहे वरिष्ठ अधिवक्ता उज्ज्वल निकम ने एक चौंकाने वाला दावा करके सबको हैरान कर दिया है। निकम का कहना है कि यदि बॉलीवुड अभिनेता संजय दत्त चाहते, तो उस भयावह हमले को रोका जा सकता था। उन्होंने विस्तार से अपनी बात रखते हुए संकेत दिए कि अभिनेता के पास ऐसी जानकारी थी जिससे तबाही को टाला जा सकता था। उज्ज्वल निकम देश के सबसे चर्चित सरकारी वकीलों में से एक हैं, जिन्होंने अजमल कसाब जैसे आतंकवादियों को फांसी के तख्ते तक पहुँचाने में महत्वपूर्ण भूमिका निभाई है। उनके इस दावे ने बॉलीवुड और राजनीति के गलियारों में बहस छेड़ दी है। लोग अब इस बात पर चर्चा कर रहे हैं कि इतने सालों बाद आखिर उन्होंने यह खुलासा क्यों किया है और इसके पीछे के क्या कानूनी या अन्य आधार हैं। यह मामला फिर से एक पुरानी बहस को जीवित कर गया है कि क्या सेलिब्रिटीज का प्रभाव राष्ट्रीय सुरक्षा से जुड़े मामलों को प्रभावित कर सकता है।",
             "published": "2026-07-13T07:45:07+05:30"
           },
           {
             "title": "Yash Ahuja कौन हैं? गोविंदा का बेटा डेब्यू को है तैयार,सितंबर में रिलीज हो रही फिल्‍म में सुनीता भी आएंगी नजर",
             "link": "https://hindi.oneindia.com/news/entertainment/govinda-son-yash-ahuja-debut-sunita-ahuja-will-also-appear-in-film-releasing-in-september-1607403.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "बॉलीवुड के दिग्गज अभिनेता गोविंदा के बेटे यश अहूजा अब अभिनय की दुनिया में कदम रखने के लिए पूरी तरह तैयार हैं। लंबे समय से यश के डेब्यू को लेकर कयास लगाए जा रहे थे, और अब यह पुष्टि हो गई है कि उनकी पहली फिल्म आगामी सितंबर महीने में बड़े पर्दे पर रिलीज होगी। इस फिल्म की चर्चा इसलिए भी अधिक हो रही है क्योंकि इसमें न केवल यश मुख्य भूमिका में नजर आएंगे, बल्कि गोविंदा की पत्नी सुनीता अहूजा भी एक खास किरदार निभाती दिखाई देंगी। खुद सुनीता अहूजा ने हाल ही में एक इंटरव्यू के दौरान इस बात का खुलासा किया है, जिससे उनके चाहने वालों में उत्साह का माहौल है। गोविंदा के परिवार के लिए यह एक बड़ा क्षण है क्योंकि अब अगली पीढ़ी फिल्म इंडस्ट्री में अपनी जगह बनाने की कोशिश कर रही है। फैंस इस बात के लिए उत्साहित हैं कि क्या यश अपने पिता की तरह ही अभिनय का जादू दिखा पाएंगे। सुनीता अहूजा का इसमें होना फिल्म के कौतूहल को और बढ़ा रहा है, जिससे प्रशंसकों की नजरें अब सितंबर पर टिकी हैं।",
             "published": "2026-07-12T19:46:33+05:30"
           },
           {
             "title": "Rohit Chandel: 'रोहित झूठा है, उसने धोखा दिया', कौन हैं फर्नाज शेट्टी? एक्टर पर लगाए बेवफाई के आरोप",
             "link": "https://hindi.oneindia.com/news/entertainment/meet-rohit-chandel-ex-girl-friend-farnaz-shetty-who-accused-the-actor-of-infidelity-profile-hindi-1607335.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "टीवी अभिनेता रोहित चंदेल का नाम इन दिनों विवादों के घेरे में है, और इस कड़ी में उनकी पुरानी प्रेम कहानी फिर से चर्चा का विषय बन गई है। रोहित की एक्स-गर्लफ्रेंड और अभिनेत्री फरनाज़ शेट्टी ने उन पर सार्वजनिक रूप से बेवफाई और धोखे के गंभीर आरोप लगाए थे। हालांकि, उस समय रोहित ने इन दावों को पूरी तरह से नकार दिया था और उन्हें सरासर झूठ बताया था। फरनाज़ का यह आरोप उस वक्त काफी सुर्खियों में रहा था, क्योंकि दोनों की केमिस्ट्री को लेकर काफी चर्चा थी। बेवफाई के इन आरोपों के कारण रोहित की छवि को काफी नुकसान पहुँचा था, लेकिन अभिनेता ने इसे हमेशा अपनी निजी जिंदगी का एक विवादित हिस्सा ही बताया। अब जब रोहित नए कानूनी विवादों में फंसे हैं, तो सोशल मीडिया पर लोग उनके अतीत के इन दावों को फिर से कुरेद रहे हैं। यह स्थिति बताती है कि कैसे किसी कलाकार का निजी जीवन और उनके अतीत के विवाद उनके करियर के मुश्किल समय में फिर से सामने आकर उनकी मुसीबतें बढ़ा सकते हैं।",
             "published": "2026-07-12T17:38:14+05:30"
           },
           {
             "title": "Rohit Chandel: 'पहले धमकाया फिर पीछा किया', कौन हैं सैराब फेम रोहित? कोस्टार बोली-अगर गलती की है तो मिले सजा",
             "link": "https://hindi.oneindia.com/news/entertainment/tv-actor-rohit-chandel-arrested-for-alleged-stalking-assaulting-minor-know-profile-hindi-1607069.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "स्टार प्लस के चर्चित शो 'सैराब' में सिंगर ईशान का किरदार निभाकर घर-घर में पहचान बनाने वाले अभिनेता रोहित चंदेल एक गंभीर कानूनी मुसीबत में फंस गए हैं। रिपोर्ट्स के मुताबिक, उन्हें एक नाबालिग को धमकाने, उसका पीछा करने और मारपीट करने के आरोप में गिरफ्तार किया गया है। उनके खिलाफ यह केस सामने आने के बाद मनोरंजन जगत में हड़कंप मच गया है। उनकी एक को-स्टार ने भी इस घटना पर कड़ा रुख अपनाते हुए कहा है कि अगर उन्होंने वास्तव में ऐसा अपराध किया है, तो उन्हें कानून के मुताबिक सख्त से सख्त सजा मिलनी चाहिए। रोहित चंदेल की पहचान अब तक एक उभरते हुए कलाकार की थी, लेकिन इन आरोपों ने उनकी प्रोफेशनल लाइफ पर बड़ा प्रश्नचिह्न लगा दिया है। पुलिस मामले की गहन जांच कर रही है और यह जानने की कोशिश की जा रही है कि आखिर ऐसी क्या स्थिति बनी जो उन्हें इस कृत्य तक ले गई। एक कलाकार के तौर पर अपनी पहचान बनाने वाले रोहित के लिए यह कानूनी लड़ाई अब उनके करियर का सबसे चुनौतीपूर्ण मोड़ साबित हो रही है।",
             "published": "2026-07-12T12:11:46+05:30"
           },
           {
             "title": "कौन थीं दिग्गज सिंगर एस जानकी? 88 साल की उम्र में निधन से संगीत जगत में मातम, क्यों ठुकरा दिया था पद्म भूषण?",
             "link": "https://hindi.oneindia.com/news/entertainment/who-was-singer-s-janaki-passed-away-biography-family-career-padma-bhushan-all-details-1606947.html",
             "source": "Oneindia Hindi",
-            "summary": "",
+            "summary": "दक्षिण भारतीय संगीत जगत की महान पार्श्व गायिका एस. जानकी का 88 वर्ष की आयु में निधन हो गया है, जिससे पूरे देश में शोक की लहर दौड़ गई है। एस. जानकी को भारतीय सिनेमा की सबसे बहुमुखी और प्रभावशाली गायिकाओं में से एक माना जाता था, जिन्होंने अपने सुरीले करियर के दौरान कई भाषाओं में हजारों गाने गाए। उन्होंने दक्षिण भारतीय संगीत को एक नई ऊंचाई दी और दशकों तक श्रोताओं के दिलों पर राज किया। उनके निधन से संगीत प्रेमियों के बीच एक गहरा खालीपन आ गया है। उनके जीवन का एक चर्चित पहलू पद्म भूषण पुरस्कार को ठुकराना रहा है। जानकी ने साल 2013 में सरकार द्वारा दिए जाने वाले इस प्रतिष्ठित सम्मान को यह कहते हुए लेने से मना कर दिया था कि उन्हें यह सम्मान बहुत देरी से दिया जा रहा है और वे उस समय तक इसे स्वीकार करने के लिए तैयार नहीं थीं। उनका मानना था कि उनके योगदान को बहुत पहले ही पहचान मिल जानी चाहिए थी। उनके इस साहसी फैसले ने खूब सुर्खियां बटोरी थीं। एस. जानकी न केवल अपनी मखमली आवाज के लिए जानी जाती थीं, बल्कि अपने सिद्धांतों पर अडिग रहने वाली शख्सियत के रूप में भी उन्हें हमेशा याद किया जाएगा। उनका संगीत सफर कई पीढ़ियों के लिए प्रेरणा का स्रोत रहेगा और उनकी आवाज हमेशा अमर रहेगी।",
             "published": "2026-07-11T21:39:45+05:30"
           }
         ]
@@ -842,49 +842,49 @@
             "title": "સુપ્રીમ કોર્ટના ગૌહત્યા પર પ્રતિબંધના આદેશ પર રોક:કહ્યું- આમાં સુધારાની જરૂર છે, મદ્રાસ હાઈકોર્ટે કહ્યું હતું- આ ઇસ્લામમાં જરૂરી પ્રથા નથી",
             "link": "https://www.divyabhaskar.co.in/national/news/supreme-court-stays-madras-high-court-cow-slaughter-ban-order-tamil-nadu-138431909.html",
             "source": "Divya Bhaskar",
-            "summary": "",
+            "summary": "સુપ્રીમ કોર્ટે તાજેતરમાં મદ્રાસ હાઈકોર્ટના તે વિવાદાસ્પદ આદેશ પર રોક લગાવી દીધી છે, જેમાં તમિલનાડુ સરકારને બકરીદ કે અન્ય કોઈપણ દિવસે ગાય અને વાછરડાઓના વધ પર સંપૂર્ણ પ્રતિબંધ મૂકવા માટે નિર્દેશ આપવામાં આવ્યો હતો. મદ્રાસ હાઈકોર્ટે પોતાની અવલોકન નોંધમાં જણાવ્યું હતું કે ગાયના વધની પ્રથા ઇસ્લામમાં કોઈ અનિવાર્ય પ્રથા નથી. જોકે, રાજ્ય સરકાર આ આદેશને સુપ્રીમ કોર્ટમાં પડકાર્યો હતો. અરજીમાં તર્ક રજૂ કરવામાં આવ્યો છે કે પ્રવર્તમાન કાયદો અમુક ચોક્કસ શ્રેણીના પ્રાણીઓના વધને કાયદેસરની મંજૂરી આપે છે, તેથી હાઈકોર્ટનો આદેશ કાયદાકીય માળખાની વિરુદ્ધ જઈ રહ્યો છે. સુપ્રીમ કોર્ટે મામલાની ગંભીરતાને ધ્યાનમાં લેતા કહ્યું કે હાઈકોર્ટના આદેશમાં સુધારાની તાતી જરૂર છે. આ વિષય માત્ર ધાર્મિક માન્યતાઓ સાથે જ નહીં, પરંતુ કાયદાના અમલીકરણ અને બંધારણીય અધિકારો સાથે પણ સંકળાયેલો છે. સર્વોચ્ચ અદાલતનું આ પગલું મહત્વનું છે કારણ કે તે સ્પષ્ટ કરે છે કે કાયદાકીય પ્રક્રિયાઓ અને સામાજિક રિવાજો વચ્ચે સંતુલન જાળવવું કેટલું જરૂરી છે. હવે આ મામલે આગળની કાયદાકીય કાર્યવાહી પર સૌની નજર ટકેલી છે, કારણ કે આ આદેશ સમગ્ર દેશમાં પ્રાણીઓના વધ અને ધાર્મિક સ્વતંત્રતાના વિષયો પર પણ અસર કરી શકે છે.",
             "published": "2026-07-13T08:02:44+00:00"
           },
           {
             "title": "ગર્ભાવસ્થા દરમિયાન લેવાયેલી દવાઓ બાળક સુધી ખરેખર પહોંચે છે? 'પ્લેસેન્ટા-ઑન-એ-ચિપ' આપશે જવાબ",
             "link": "https://www.bbc.com/gujarati/articles/cd0m975d5vno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
-            "summary": "",
+            "summary": "ગર્ભાવસ્થા અને બાળકના જન્મની પ્રક્રિયા અત્યંત જટિલ અને સંવેદનશીલ હોય છે, જેના પર વર્ષોથી વૈજ્ઞાનિક સંશોધનો ચાલી રહ્યા છે. ગર્ભમાં રહેલા બાળકને માતાના શરીરમાંથી પોષણ અને સુરક્ષા કેવી રીતે મળે છે, તે વિજ્ઞાન જગત માટે હંમેશા જિજ્ઞાસાનો વિષય રહ્યો છે. આ જ દિશામાં હવે 'પ્લેસેન્ટા-ઑન-એ-ચિપ' ટેક્નોલોજી પર કામ કરવામાં આવી રહ્યું છે, જે એક ક્રાંતિકારી પગલું સાબિત થઈ શકે છે. આ ટેક્નોલોજી દ્વારા વૈજ્ઞાનિકો એ વાતનો સચોટ જવાબ મેળવવા માગે છે કે ગર્ભાવસ્થા દરમિયાન માતા દ્વારા લેવામાં આવેલી દવાઓ ખરેખર ગર્ભસ્થ બાળક સુધી કેટલી અને કેવી રીતે પહોંચે છે. ઘણીવાર દવાઓની ગર્ભ પર થતી અસર અંગે ચોક્કસ માર્ગદર્શિકા હોતી નથી, જે જોખમી સાબિત થઈ શકે છે. આ ચિપ ટેક્નોલોજી પ્લેસેન્ટાની કાર્યપ્રણાલીને લેબોરેટરીમાં પુનઃનિર્મિત કરશે, જેનાથી દવાઓના પરીક્ષણમાં વધુ ચોકસાઈ આવશે. આ સંશોધન ભવિષ્યમાં ગર્ભવતી મહિલાઓ માટે સલામત સારવાર નક્કી કરવામાં ખૂબ જ ઉપયોગી નીવડશે. બાળકનું રક્ષણ કરવું અને તેને જન્મ પહેલાં થતી કોઈપણ વિપરિત અસરથી બચાવવી એ આ સંશોધનનું મુખ્ય ધ્યેય છે. આ પ્રકારની આધુનિક તકનીકો તબીબી ક્ષેત્રે નવી દિશા ખોલશે અને માતૃત્વ તથા બાળ-સુરક્ષાને વધુ સુરક્ષિત બનાવવામાં મદદ કરશે.",
             "published": "2026-07-13T07:41:10+00:00"
           },
           {
             "title": "ચાલતી ટ્રેનમાં પૂજા-પાઠનો વીડિયો વાયરલ:3 લાખનું એડવાન્સ પેમેન્ટ, મુંબઈ સુધી સ્પેશિયલ કોચ; હનીમૂન ડેકોરેશન પછી સેલૂન કોચને લઈને વિવાદ, યુઝર્સ ભડક્યાં",
             "link": "https://www.divyabhaskar.co.in/national/news/mumbai-salon-coach-controversy-special-train-booking-138431725.html",
             "source": "Divya Bhaskar",
-            "summary": "",
+            "summary": "સોશિયલ મીડિયા પર અત્યારે ટ્રેનિંગના સેલૂન કોચમાં કરવામાં આવેલા પૂજા-પાઠ અને રુદ્રાભિષેકનો વીડિયો ભારે ચર્ચા અને વિવાદનું કેન્દ્ર બન્યો છે. આ પહેલાં ટ્રેનના કોચમાં હનીમૂન જેવી ડેકોરેશનની ઘટના સામે આવી હતી, જેણે લોકોમાં રોષ જન્માવ્યો હતો. હવે આ નવો કિસ્સો સામે આવતા રેલવેની સુવિધાઓના દુરુપયોગ અંગે ગંભીર સવાલો ઉભા થયા છે. રિપોર્ટ્સ મુજબ, આ માટે 3 લાખ રૂપિયાનું એડવાન્સ પેમેન્ટ કરવામાં આવ્યું હતું અને સ્પેશિયલ કોચ મુંબઈ સુધી બુક કરાયો હતો. વીડિયોમાં સ્પષ્ટ દેખાય છે કે એક પૂજારી ટ્રેનના ફ્લોર પર બેસીને ધાર્મિક વિધિ કરી રહ્યા છે, જ્યારે તેમની આસપાસ સફેદ વસ્ત્રોમાં શ્રદ્ધાળુઓ બેઠા છે. સામાન્ય લોકો સોશિયલ મીડિયા પર આ ઘટનાને લઈને ભડક્યા છે અને પૂછ્યું છે કે શું રેલવેના કોચનો ઉપયોગ આવી રીતે વ્યક્તિગત ધાર્મિક કાર્યક્રમો માટે કરી શકાય છે? જાહેર પરિવહનના સાધનમાં આવી રીતે પૂજા-પાઠનું આયોજન કરવું કેટલું વ્યાજબી છે તે અંગે ટ્રોલર્સ અને સામાન્ય નાગરિકો ટીકા કરી રહ્યા છે. આ ઘટનાએ રેલવે તંત્રની આંતરિક નીતિઓ અને 'સેલૂન કોચ' બુકિંગની પારદર્શિતા સામે પણ અનેક પ્રશ્નો ઉભા કર્યા છે.",
             "published": "2026-07-13T07:29:57+00:00"
           },
           {
             "title": "ઉનાકાંડનો એક દાયકો : અધિકારો પ્રત્યે જાગૃતિ વધી, પરંતુ દલિતો સામેના 'અત્યાચારો' ઘટ્યા?",
             "link": "https://www.bbc.com/gujarati/articles/cq51p3wp8n4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
-            "summary": "",
+            "summary": "ઉનામાં દલિત યુવાનો પર થયેલી જાહેર મારપીટની ઘટનાને દસ વર્ષ પૂર્ણ થયા છે, જેણે 2016માં સમગ્ર ગુજરાતમાં દલિત અધિકારોની ચર્ચાને એક નવો વળાંક આપ્યો હતો. આ ઘટના બાદ રાજ્યવ્યાપી આંદોલન ઊભું થયું હતું, જેના પરિણામે સમાજમાં દલિતોના અધિકારો પ્રત્યે જાગૃતિમાં ચોક્કસપણે વધારો થયો છે. ઘણા લોકો હવે પોતાના બંધારણીય અધિકારો વિશે વધુ સભાન બન્યા છે અને અત્યાચાર સામે અવાજ ઉઠાવતા થયા છે. પરંતુ, શું દસ વર્ષ પછી દલિતો સામેના અત્યાચારો ખરેખર ઘટ્યા છે? આ એક ગંભીર પ્રશ્ન છે જે આજે પણ ચર્ચાસ્પદ છે. ભલે કાયદાકીય જાગૃતિ આવી હોય, પરંતુ જમીની હકીકત હજુ પણ ચિંતાજનક છે. ઉનાકાંડ પછી સમાજમાં દલિતો માટે જે સહાનુભૂતિ અને એકતા જોવા મળી હતી, તે સમય જતાં કેટલી ટકી રહી છે તે તપાસવાનો વિષય છે. અધિકારોની જાગૃતિ અને સામાજિક સ્વીકૃતિ વચ્ચે મોટું અંતર છે, જેને દૂર કરવા માટે હજુ ઘણું કામ બાકી છે. દલિત યુવાનો પર થયેલો એ અત્યાચાર આજે પણ ગુજરાતના ઇતિહાસમાં એક કાળા અધ્યાય સમાન છે. આ દાયકા પછીનું મૂલ્યાંકન એ વાતની યાદ અપાવે છે કે સમાનતા અને સન્માન પ્રાપ્ત કરવા માટેની લડાઈ સતત ચાલુ રાખવી પડે તેમ છે.",
             "published": "2026-07-13T07:19:30+00:00"
           },
           {
             "title": "સુપ્રીમ કોર્ટે કહ્યું- નાગરિકતાનો નિર્ણય નિષ્પક્ષ પ્રક્રિયાથી થવો જોઈએ:આસામમાં વિદેશી જાહેર કરાયેલા 27 લોકોને રાહત, નાગરિકતા રદ કરવાનો આદેશ પલટાયો",
             "link": "https://www.divyabhaskar.co.in/national/news/assam-27-foreigners-citizenship-order-overturned-supreme-court-138431520.html",
             "source": "Divya Bhaskar",
-            "summary": "",
+            "summary": "સુપ્રીમ કોર્ટે આસામમાં વિદેશી જાહેર કરવામાં આવેલા 27 લોકોના કેસમાં મહત્વનો ચુકાદો આપતા ગુવાહાટી હાઈકોર્ટના નિર્ણયોને રદ કર્યા છે. જસ્ટિસ વિક્રમ નાથ અને જસ્ટિસ સંદીપ મહેતાની બેન્ચે સ્પષ્ટ કર્યું છે કે કોઈ વ્યક્તિની નાગરિકતા છીનવી લેવી કે તેને વિદેશી જાહેર કરવો એ અત્યંત ગંભીર બાબત છે. કોર્ટે કહ્યું કે આ પ્રક્રિયામાં નિષ્પક્ષતા, કાયદેસરતા અને ન્યાયિક ચોકસાઈ હોવી અનિવાર્ય છે. કોઈપણ વ્યક્તિને નાગરિકતાથી વંચિત રાખતા પહેલાં તમામ બંધારણીય અને કાયદાકીય જોગવાઈઓનું પાલન થવું જોઈએ, જે આ કિસ્સામાં યોગ્ય રીતે નથી થયું તેવું જણાય છે. આ આદેશ દ્વારા 27 લોકોને મોટી રાહત મળી છે, જેમના માટે નાગરિકતાનો નિર્ણય ફરીથી એક નિષ્પક્ષ પ્રક્રિયા હેઠળ લેવાશે. દેશની નાગરિકતા સાથે જોડાયેલા વિષયો બંધારણના પાયા સાથે જોડાયેલા હોય છે, અને તેમાં કોઈ પણ પ્રકારની ઉતાવળ કે પક્ષપાતપૂર્ણ વલણ ન હોવું જોઈએ. સુપ્રીમ કોર્ટનો આ અભિગમ એ સાબિત કરે છે કે કાયદાની પ્રક્રિયા હંમેશા તાર્કિક અને બંધારણીય મર્યાદાઓમાં રહીને જ થવી જોઈએ. આ ચુકાદો આસામમાં નાગરિકતા સંબંધિત બાકીના પેન્ડિંગ કેસોમાં પણ એક મજબૂત દાખલો બેસાડશે.",
             "published": "2026-07-13T06:51:37+00:00"
           },
           {
             "title": "પંચમહાલ : 'શંકાસ્પદ ચાંદીપુરા વાઇરસ'ને કારણે વધુ બે બાળકોનાં મોત – ન્યૂઝ અપડેટ",
             "link": "https://www.bbc.com/gujarati/articles/c3eygpp4lg9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
-            "summary": "",
+            "summary": "ગુજરાતના પંચમહાલ જિલ્લામાંથી એક અત્યંત ચિંતાજનક સમાચાર સામે આવ્યા છે, જ્યાં શંકાસ્પદ ચાંદીપુરા વાઇરસના કારણે વધુ બે બાળકોએ પોતાનો જીવ ગુમાવ્યો છે. ચાંદીપુરા વાઇરસ એ અત્યંત ઘાતક અને ઝડપથી ફેલાતો વાઇરસ માનવામાં આવે છે, જે ખાસ કરીને બાળકોમાં ગંભીર લક્ષણો પેદા કરે છે. આ ઘટના બાદ સ્થાનિક આરોગ્ય તંત્ર અને વહીવટી વિભાગમાં દોડધામ મચી ગઈ છે. આરોગ્ય અધિકારીઓ સતર્ક થઈ ગયા છે અને અસરગ્રસ્ત વિસ્તારોમાં રોગચાળાને કાબૂમાં લેવા માટે સર્વેલન્સની કામગીરી હાથ ધરવામાં આવી છે. આ વાઇરસ મચ્છર અથવા અન્ય કીટકો દ્વારા ફેલાતો હોવાની શક્યતા હોય છે, તેથી સ્વચ્છતા જાળવવી અને તાવ જેવા લક્ષણો દેખાય ત્યારે તરત જ તબીબી સારવાર લેવી અનિવાર્ય છે. પંચમહાલમાં બનેલી આ ઘટનાએ સમગ્ર રાજ્યમાં વાલીઓ અને તંત્રમાં ચિંતાનું મોજું ફેલાવી દીધું છે. આવા ગંભીર સમયમાં લોકોએ અંધશ્રદ્ધા કે બેદરકારી રાખવાને બદલે સત્તાવાર આરોગ્ય માર્ગદર્શિકાનું ચુસ્તપણે પાલન કરવું જોઈએ. આ વાઇરસથી બચવા માટે ઘરની આસપાસ પાણીનો ભરાવો ન થવા દેવો અને બાળકોને મચ્છર કરડવાથી બચાવવા તે સૌથી મહત્વના ઉપાયો છે. આગામી સમયમાં તંત્ર આ વાઇરસના ફેલાવાને રોકવા માટે કયા કડક પગલાં લેશે, તેના પર સૌની નજર છે.",
             "published": "2026-07-13T06:36:04+00:00"
           },
           {
             "title": "કાશી, મથુરા, સંભલમાં સુપ્રીમ કોર્ટની મધ્યસ્થીનો ઇનકાર:હિંદુ-મુસ્લિમ પક્ષે કહ્યું- વાતચીતથી સમાધાન નહીં, કેસ લડીને નિર્ણય ઇચ્છીએ છીએ",
             "link": "https://www.divyabhaskar.co.in/national/news/hindu-muslim-parties-reject-supreme-court-mediation-kashi-mathura-sambhal-138431388.html",
             "source": "Divya Bhaskar",
-            "summary": "",
+            "summary": "ઉત્તર પ્રદેશના ત્રણ અત્યંત સંવેદનશીલ ધાર્મિક વિવાદો, જેમાં વારાણસીની જ્ઞાનવાપી મસ્જિદ, મથુરાની શ્રીકૃષ્ણ જન્મભૂમિ-શાહી ઈદગાહ અને સંભલની શાહી જામા મસ્જિદનો સમાવેશ થાય છે, તે મુદ્દે સુપ્રીમ કોર્ટે એક મોટો પ્રયાસ કર્યો હતો. કોર્ટે 'સમાધાન સમારોહ ૨૦૨૬' અંતર્ગત બંને હિંદુ અને મુસ્લિમ પક્ષોને પત્ર લખીને પરસ્પર વાતચીત દ્વારા શાંતિપૂર્ણ રીતે વિવાદ ઉકેલવા માટે મધ્યસ્થીનો પ્રસ્તાવ મૂક્યો હતો. જોકે, સોમવારે બંને પક્ષોએ કોર્ટના આ મધ્યસ્થીના પ્રસ્તાવને સત્તાવાર રીતે ઠુકરાવી દીધો છે. બંને પક્ષોનું સ્પષ્ટ માનવું છે કે આ મામલે વાતચીત દ્વારા કોઈ સમાધાન શક્ય નથી અને તેઓ ઈચ્છે છે કે અદાલત કાયદાકીય રીતે કેસ સાંભળીને જ અંતિમ ચુકાદો આપે. આ નિર્ણયથી સ્પષ્ટ થાય છે કે પક્ષકારો પોતપોતાની દલીલો સાથે કોર્ટમાં કાયદાકીય લડત ચાલુ રાખવા માટે મક્કમ છે. આ વિવાદો દાયકાઓથી દેશના સામાજિક અને રાજકીય વાતાવરણમાં ચર્ચાનો વિષય રહ્યા છે. સુપ્રીમ કોર્ટનો આ મધ્યસ્થીનો પ્રયાસ વિવાદોને જલ્દી ઉકેલવા અને સમાજમાં શાંતિ જાળવવાની એક કવાયત હતી, પરંતુ પક્ષોની નારાજગીને કારણે હવે કાયદાકીય પ્રક્રિયા જ આગળ વધશે. આ કેસનો નિર્ણય ભવિષ્ય માટે ખૂબ જ મહત્વપૂર્ણ માનવામાં આવી રહ્યો છે, કારણ કે આ ત્રણ સ્થળો સાથે કરોડો લોકોની આસ્થા જોડાયેલી છે.",
             "published": "2026-07-13T06:28:30+00:00"
           }
         ]
@@ -968,14 +968,14 @@
             "title": "தாய்லாந்து பாரில் சோகம்.. நள்ளிரவில் ஏற்பட்ட கோர தீ விபத்து.. 27 பேர் உயிரிழப்பு.. 63 பேர் படுகாயம்!",
             "link": "https://tamil.oneindia.com/news/international/thailand-pub-fire-27-dead-63-hurt-after-massive-blaze-in-bangkok-815845.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "தாய்லாந்தின் தலைநகரான பேங்காக் நகரில் உள்ள ஒரு மதுக்கடை (pub) வளாகத்தில் திங்கள்கிழமை அதிகாலை ஏற்பட்ட பயங்கரமான தீ விபத்து ஒட்டுமொத்த நாட்டையும் சோகத்தில் ஆழ்த்தியுள்ளது. இந்த கோர விபத்தில் சிக்கி குறைந்தது 27 பேர் பரிதாபமாக உயிரிழந்துள்ளனர் என்பது உறுதிப்படுத்தப்பட்டுள்ளது. மேலும், இந்த விபத்தில் 63-க்கும் மேற்பட்டோர் படுகாயமடைந்துள்ளதாக அதிகாரப்பூர்வ தகவல்கள் தெரிவிக்கின்றன. நள்ளிரவு நேரத்தில் மக்கள் மகிழ்ச்சியாக நேரத்தை செலவிட்டுக்கொண்டிருந்தபோது திடீரென தீப்பிடித்ததால், அங்கிருந்து தப்பிக்க முடியாமல் பலர் சிக்கிக்கொண்டனர். தீயின் வேகம் மிக அதிகமாக இருந்ததால் மீட்புப் பணிகளில் பெரும் சுணக்கம் ஏற்பட்டது. விபத்து நடந்த இடம் குறுகிய வழித்தடங்களைக் கொண்டதாக இருந்திருக்கலாம் என முதற்கட்ட விசாரணையில் சந்தேகிக்கப்படுகிறது. இந்தச் சம்பவத்தில் உயிரிழந்தவர்களின் குடும்பத்தினருக்கு அந்நாட்டு அரசு இரங்கல் தெரிவித்து வருவதுடன், காயமடைந்தவர்களுக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. இத்தகைய பொது இடங்களில் பாதுகாப்பு விதிமுறைகள் முறையாகப் பின்பற்றப்படுகின்றனவா என்பதை உறுதிப்படுத்த வேண்டும் என்ற கோரிக்கை சமூக ஆர்வலர்கள் மத்தியில் எழுந்துள்ளது. தீ விபத்துக்கான சரியான காரணம் குறித்து தடயவியல் நிபுணர்கள் மற்றும் காவல்துறையினர் தீவிர விசாரணை நடத்தி வருகின்றனர். இதுபோன்ற துயரமான நிகழ்வுகள் இரவு நேர விடுதிகளில் பாதுகாப்பு மற்றும் அவசரகால வெளியேற்ற வசதிகளின் முக்கியத்துவத்தை மீண்டும் ஒருமுறை உலகிற்கு உணர்த்தியுள்ளது.",
             "published": "2026-07-13T08:36:18+05:30"
           },
           {
             "title": "வைபவ் சூர்யவன்ஷி மற்றும் இந்திய கிரிக்கெட் பற்றி பாகிஸ்தானில் என்ன பேசப்படுகிறது?",
             "link": "https://www.bbc.com/tamil/articles/c4gyn7q3g6no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
-            "summary": "",
+            "summary": "இந்திய கிரிக்கெட் அணியின் சமீபத்திய செயல்பாடுகள் மற்றும் இங்கிலாந்து, அயர்லாந்துக்கு எதிரான டி20 தொடர்களில் ஏற்பட்ட தோல்விகள் பாகிஸ்தான் கிரிக்கெட் வட்டாரங்களில் கடும் விவாதத்தை உருவாக்கியுள்ளன. குறிப்பாக, 15 வயதே ஆன இளம் திறமைசாலி வைபவ் சூர்யவன்ஷியை அணியில் இருந்து நீக்கியது மற்றும் அணியின் வியூகங்களை வகுப்பதில் இருந்த குளறுபடிகள் குறித்து விமர்சனங்கள் எழுந்துள்ளன. பயிற்சியாளர் கௌதம் கம்பீர் மற்றும் கேப்டன் ஸ்ரேயாஸ் ஐயரின் அணுகுமுறைகள் மீது பாகிஸ்தான் கிரிக்கெட் விமர்சகர்கள் மற்றும் ரசிகர்கள் கடுமையான அதிருப்தியை வெளிப்படுத்தி வருகின்றனர். தொடர் தோல்விகளுக்கு இந்த தலைவர்களின் முடிவுகளே காரணம் என்று அவர்கள் வாதிடுகின்றனர். அணியின் எதிர்கால நலனை கருத்தில் கொண்டு இளம் வீரர்களுக்கு வாய்ப்பளிக்க வேண்டும் என்றும், அனுபவமற்ற முறையில் வியூகங்களை அமைப்பது அணியின் சரிவுக்கு வழிவகுக்கும் என்றும் பாகிஸ்தான் ஊடகங்களில் விவாதிக்கப்படுகிறது. இந்திய அணியின் இந்த தோல்வி உலக கிரிக்கெட் ரசிகர்களிடையே ஆச்சரியத்தையும் விவாதத்தையும் கிளப்பியுள்ளது. கேப்டன் மற்றும் பயிற்சியாளர் ஜோடியின் செயல்பாடு வரும் காலங்களில் இந்திய அணியின் வெற்றி வாய்ப்பை எவ்வாறு பாதிக்கும் என்பதுதான் தற்போது பெரிய கேள்வியாக உள்ளது. சர்வதேச அளவில் இந்திய கிரிக்கெட் அணியின் தற்போதைய நிலை மற்றும் நிர்வாக குளறுபடிகள் குறித்து அண்டை நாட்டு கிரிக்கெட் வல்லுநர்கள் கூர்ந்து கவனித்து வருகின்றனர்.",
             "published": "2026-07-13T03:00:20+00:00"
           }
         ],
@@ -984,84 +984,84 @@
             "title": "பாக்யராஜ் உடலுக்கு முதல்வர் விஜய் நேரில் அஞ்சலி.. கண்கலங்கி நின்ற சாந்தனுவுக்கு ஆரத்தழுவி ஆறுதல்",
             "link": "https://tamil.oneindia.com/cinema/vijay-pays-last-respects-to-bhagyaraj-consoles-shanthanu-with-an-emotional-embrace-811927.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "திரைப்பட உலகின் மூத்த இயக்குனர் மற்றும் நடிகர் கே. பாக்யராஜ் அவர்களின் மறைவு ஒட்டுமொத்த திரையுலகையும் சோகத்தில் ஆழ்த்தியுள்ளது. அவரது மறைவைத் தொடர்ந்து, தமிழக முதல்வர் மற்றும் முன்னணி நடிகர் விஜய் அவர்கள் நேரில் சென்று இறுதி மரியாதை செலுத்தினர். இந்தத் தருணத்தில் விஜய் அங்கு சென்றது பலரது கவனத்தை ஈர்த்தது. பாக்யராஜின் மகனும் நடிகருமான சாந்தனு, தனது தந்தையை இழந்து மிகுந்த மனவேதனையில் தவித்துக் கொண்டிருந்தார். அவரைப் பார்த்த விஜய், மிகவும் உருக்கமாக சாந்தனுவை ஆரத்தழுவி ஆறுதல் கூறினார். விஜய்யின் இந்த மனிதநேயமிக்க செயல் அங்கிருந்தவர்களையும், ரசிகர்களையும் நெகிழச் செய்தது. ஒரு முன்னணி நடிகராக இருந்தாலும், சக கலைஞரின் குடும்பத்தினர் துயரத்தில் இருக்கும்போது நேரில் சென்று ஆதரவு தெரிவிப்பது அவரது நற்பண்பை வெளிப்படுத்துவதாகப் பாராட்டுகள் குவிகின்றன. இறுதிச்சடங்கு நிகழ்வுகளில் கலந்துகொண்டு மும்முரமாக செயல்பட்ட விஜய், சாந்தனுவிற்கு உறுதுணையாக நின்றார். திரையுலகில் பலரின் மரியாதைக்குரியவராகத் திகழ்ந்த பாக்யராஜின் பிரிவை ஏற்றுக்கொண்டு, அவரது குடும்பத்தினர் மீண்டு வர வேண்டும் என்பதே அனைவரின் விருப்பமாக உள்ளது. விஜய்யின் இந்த வருகையும் ஆறுதல் வார்த்தைகளும் சோகத்தில் இருந்த குடும்பத்தினருக்குச் சற்று நிம்மதியைத் தந்திருக்கும் என்று நம்பப்படுகிறது.",
             "published": "2026-06-27T14:20:59+05:30"
           },
           {
             "title": "60 வயதிலும் ஆசை வரும்.. நடிகர் அமீர்கான் 61 வயதில் 3வது திருமணம்.. யார் இந்த 47 வயது காதலி கவுரி?",
             "link": "https://tamil.oneindia.com/cinema/aamir-khan-marriage-61-year-old-actor-to-marry-gauri-spratt-on-july-5-805293.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "இந்தி திரையுலகின் முன்னணி நட்சத்திரமான அமீர்கான், தனது 61-வது வயதில் மூன்றாவது முறையாகத் திருமணம் செய்துகொள்ள முடிவெடுத்திருப்பது இணையத்தில் பேசுபொருளாகியுள்ளது. வரும் ஜூலை 5-ம் தேதி, தனது நீண்டகாலக் காதலியான கௌரி ஸ்ப்ராட் என்பவரை அவர் திருமணம் செய்துகொள்ள உள்ளார். 47 வயதான கௌரி ஸ்ப்ராட் யார் என்பது குறித்த தகவல்களைத் தேடுவதில் ரசிகர்கள் ஆர்வம் காட்டி வருகின்றனர். 60 வயதைக் கடந்த நிலையிலும், காதலும் திருமணமும் சாத்தியமே என்பதை அமீர்கான் இந்த முடிவின் மூலம் நிரூபித்துள்ளார். அமீர்கானின் முந்தைய இரண்டு திருமணங்கள் விவாகரத்தில் முடிந்த நிலையில், அவரது தனிப்பட்ட வாழ்க்கை பலமுறை ஊடகங்களின் பார்வையில் பட்டுள்ளது. இப்போது கௌரி ஸ்ப்ராட்டுடனான அவரது இந்த புதிய பந்தம் குறித்துப் பலரும் வாழ்த்துகளையும் கருத்துகளையும் தெரிவித்து வருகின்றனர். கௌரியின் பின்புலம் மற்றும் அவர்களது பழக்கம் குறித்து சமூக வலைதளங்களில் சுவாரஸ்யமான தகவல்கள் பகிரப்பட்டு வருகின்றன. பிரபலங்கள் வயதைக் கடந்து தங்கள் மகிழ்ச்சியைத் தேடிக்கொள்வதில் தவறில்லை என்று ஒரு தரப்பு ஆதரவு தெரிவிக்க, மறுபுறம் திரையுலகினர் இவர்களது திருமண விழாவிற்காகக் காத்திருக்கின்றனர். அமீர்கானின் இந்த அறிவிப்பு பாலிவுட் திரையுலகில் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியுள்ளது.",
             "published": "2026-06-03T19:14:20+05:30"
           },
           {
             "title": "சூர்யாவின் கருப்பு பட வெற்றிக்காக இப்படியும் செய்வாரா? ஆர்.ஜே.பாலாஜி கொடுத்த பிரம்மாண்ட காணிக்கை",
             "link": "https://tamil.oneindia.com/cinema/for-karuppu-s-success-rj-balaji-did-this-director-s-grand-temple-offering-goes-viral-802369.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "நடிகர் சூர்யாவின் 'கருப்பு' திரைப்படம் பெரும் வெற்றி பெற்றதை அடுத்து, அதன் மகிழ்ச்சியில் இயக்குனர் ஆர்.ஜே.பாலாஜி செய்துள்ள செயல் இணையத்தில் வைரலாகி வருகிறது. திரைப்படத்தின் வெற்றியைத் தேவதைக்குக் காணிக்கையாகச் செலுத்த நினைத்த அவர், ஒரு பிரம்மாண்டமான 18 அடி நீளமுள்ள அரிவாளைச் செய்து புகழ்மிக்க கோவில் ஒன்றில் நேர்த்திக்கடனாகச் சமர்ப்பித்துள்ளார். இவ்வளவு பிரம்மாண்டமான ஒரு பொருளை அவர் கோவிலுக்குக் காணிக்கையாகக் கொடுத்தது அனைவரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது. வெற்றி பெற்ற படத்தின் மீதான அவரது பற்றையும், இறைநம்பிக்கையையும் இது வெளிப்படுத்துவதாக ரசிகர்கள் பதிவிட்டு வருகின்றனர். சமூக வலைதளங்களில் இந்த அரிவாளின் புகைப்படங்கள் மற்றும் காணொளிகள் வேகமாகப் பரவி வருகின்றன. ஒரு படைப்பாளியாக, தான் இயக்கிய படத்தின் வெற்றிக்கு இவ்வளவு முக்கியத்துவம் கொடுத்து அவர் செய்துள்ள இந்தச் செயல், திரையுலகில் சலசலப்பை ஏற்படுத்தியுள்ளது. சினிமா துறையில் வெற்றிக்காகப் பலரும் பலவிதமான வேண்டுதல்களைச் செய்வது வழக்கம் என்றாலும், ஆர்.ஜே.பாலாஜியின் இந்த வித்தியாசமான அணுகுமுறை பலரது புருவத்தை உயர்த்தியுள்ளது. படக்குழுவினரும் ரசிகர்களும் அவரது இந்தச் செயலைத் தங்களது மகிழ்ச்சியுடன் பகிர்ந்து வருகின்றனர். கருப்பு படத்தின் வெற்றி அவருக்குத் தந்துள்ள உற்சாகத்தை இந்தச் செயலின் மூலம் அவர் வெளிப்படுத்தியுள்ளார்.",
             "published": "2026-05-24T13:57:12+05:30"
           },
           {
             "title": "8வது நாளிலும் கருப்பு மாஸ்... சூர்யாவின் பாக்ஸ் ஆபிஸ் வேட்டை இன்னும் ஓயல! அதுவும் எத்தனை கோடி கலெக்ஷன் தெரியுமா?",
             "link": "https://tamil.oneindia.com/cinema/karuppu-box-office-day-8-karuppu-continues-box-office-rampage-on-day-8-suriya-s-collection-hunt-sh-802047.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "நடிகர் சூர்யாவின் நடிப்பில் உருவாகியுள்ள 'கருப்பு' திரைப்படம் திரையரங்குகளில் வெளியாகி எட்டு நாட்களைக் கடந்த பின்னரும், பாக்ஸ் ஆபிஸில் தனது அசுர வேகத்தைத் தொடர்ந்து கொண்டிருக்கிறது. படம் வெளியான நாள் முதல் ரசிகர்களின் ஏகோபித்த ஆதரவைப் பெற்று வரும் இப்படம், இந்தியாவிலும் சர்வதேச அளவிலும் வசூல் சாதனை படைத்து வருகிறது. எட்டாவது நாளிலும் வசூலில் எந்தவித தொய்வும் இன்றி, குடும்ப ரசிகர்களையும் இளைஞர்களையும் திரையரங்குகளை நோக்கி ஈர்த்து வருகிறது. நீண்ட நாட்களாக ஒரு வலுவான வெற்றிக்காகக் காத்திருந்த சூர்யாவின் ரசிகர்களுக்கு, இந்தப் படம் ஒரு மாபெரும் விருந்தாக அமைந்துள்ளது. பாக்ஸ் ஆபிஸ் வட்டாரங்களின் தகவல்படி, இப்படம் பல கோடிகளை வசூலித்து வெற்றிப் பாதையில் நடைபோட்டு வருவது கோலிவுட் திரையுலகில் பெரும் ஆச்சரியத்தை ஏற்படுத்தியுள்ளது. சூர்யாவின் கேரியரில் மிக முக்கியமான படமாக இது கருதப்படுகிறது. படத்தின் வெற்றிக்கு முக்கிய காரணமாக திரைக்கதையும், சூர்யாவின் சிறப்பான நடிப்பும் முன்வைக்கப்படுகிறது. வரும் நாட்களில் இந்தப் படம் இன்னும் பல மைல்கற்களை எட்டும் என்று எதிர்பார்க்கப்படுகிறது. சமூக வலைதளங்களில் ரசிகர்கள் இந்த வெற்றியைக் கொண்டாடி வருகின்றனர், மேலும் வசூல் விவரங்கள் தொடர்ந்து அதிகரித்து வருவதால், திரையரங்குகளில் கூட்டமும் குறையாமல் காணப்படுகிறது.",
             "published": "2026-05-23T12:00:35+05:30"
           },
           {
             "title": "ஒரே ஆபாசம்.. ஓடிடியில் வெளியானது சென்சார் செய்யாத 'துரந்தர்: ரா அண்ட் அன்டெகா' வெர்ஷன்!",
             "link": "https://tamil.oneindia.com/cinema/dhurandhar-raw-and-undekha-review-uncut-version-explored-on-netflix-jiohotstar-801891.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "நடிகர் ரன்வீர் சிங் நடிப்பில் உருவான 'துரந்தர்: ரா அண்ட் அன்டெகா' திரைப்படம் தற்போது ஓடிடி தளங்களில் வெளியாகி உள்ளது. திரையரங்குகளில் வெளியான பதிப்பிற்கும், தற்போது ஓடிடியில் வெளியாகியுள்ள இந்த பதிப்பிற்கும் இடையே பல முக்கிய வேறுபாடுகள் இருப்பதாகக் கூறப்படுகிறது. குறிப்பாக, திரையரங்குகளில் தணிக்கை செய்யப்பட்ட பல காட்சிகள் மற்றும் உரையாடல்கள், இந்த ஓடிடி பதிப்பில் மாற்றங்கள் இன்றி அப்படியே இடம்பெற்றுள்ளது ரசிகர்களிடையே பெரும் விவாதத்தை ஏற்படுத்தியுள்ளது. சென்சார் செய்யப்படாத இந்த uncut பதிப்பு, படத்தின் உண்மையான தீவிரத்தை வெளிப்படுத்துவதாகப் படக்குழுவினர் தெரிவிக்கின்றனர். ஆபாசமாக இருப்பதாகக் கூறப்பட்ட சில காட்சிகள் மற்றும் வசனங்கள் தணிக்கை இல்லாமல் வெளிவந்துள்ளதால், இது குறித்த கருத்துக்கள் சமூக வலைதளங்களில் பரவலாகப் பகிரப்படுகின்றன. திரையரங்குகளில் ரசித்த ரசிகர்கள், இந்த மாற்றங்கள் படத்தின் கதையோட்டத்தை எப்படி மாற்றுகிறது என்பதை அறிய ஆர்வமாக உள்ளனர். ரன்வீர் சிங்கின் கதாபாத்திர வடிவமைப்பு இந்த பதிப்பில் இன்னும் கூர்மையாகவும், அழுத்தமாகவும் காட்டப்பட்டுள்ளதாகக் கூறப்படுகிறது. பெரிய திரையில் பார்க்கத் தவறவிட்டவர்கள் மற்றும் தணிக்கை இல்லாத காட்சிகளைப் பார்க்க விரும்புபவர்கள் ஓடிடியில் இந்தப் பதிப்பைக் கண்டு ரசித்து வருகின்றனர். இது படத்தின் மீதான எதிர்பார்ப்பை மீண்டும் அதிகரிக்கச் செய்துள்ளது.",
             "published": "2026-05-22T18:51:59+05:30"
           },
           {
             "title": "மேன் ஆப் தி மேட்ச் டாப் ஸ்டார் பிரசாந்த்! காலத்தை வென்ற 1998-ம் ஆண்டு தமிழ் திரைப்படங்கள்!",
             "link": "https://tamil.oneindia.com/cinema/1998-tamil-movies-list-the-undisputed-era-of-top-star-prashanth-and-cult-blockbusters-801667.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "தமிழ் சினிமாவில் 1998-ம் ஆண்டு பொற்காலமாகப் பார்க்கப்படுகிறது. அந்த ஆண்டில் வெளியான படங்கள் இன்றும் ரசிகர்களின் நினைவில் நீங்கா இடம்பிடித்துள்ளன. குறிப்பாக 'டாப் ஸ்டார்' பிரசாந்த் அந்த ஆண்டில் கோலிவுட்டின் பாக்ஸ் ஆபிஸ் நாயகனாகத் திகழ்ந்தார். 'ஜீன்ஸ்', 'கண்ணெதிரே தோன்றினாள்' மற்றும் 'காதல் கவிதை' போன்ற படங்கள் மூலம் பிரசாந்த் தனது மார்க்கெட்டை உச்சத்திற்கு எடுத்துச் சென்றார். 1998 என்பது வெறும் நட்சத்திரங்களின் ஆண்டு மட்டுமல்ல, அழுத்தமான கதையம்சம் கொண்ட படங்கள் வெளிவந்த காலமாகும். 'உன்னிடத்தில் என்னைக் கொடுத்தேன்', 'பிரியமுடன்', 'காதலா காதலா' போன்ற படங்கள் அந்த ஆண்டின் மிகச்சிறந்த படைப்புகளாக இன்றும் போற்றப்படுகின்றன. ஒவ்வொரு படமும் ஒரு புதிய பரிமாணத்தைத் தமிழ் சினிமாவுக்கு அறிமுகப்படுத்தியது. விக்ரம் முதல் கமல் ஹாசன் வரை பல முன்னணி நடிகர்களின் வளர்ச்சிக்கு இந்த ஆண்டு முக்கிய அடித்தளமாக அமைந்தது. தற்போதைய நவீன தொழில்நுட்ப வசதிகள் இல்லாத அந்த காலத்திலேயே, பாடல்களும் காட்சிகளும் ரசிகர்களை வெகுவாகக் கவர்ந்தன. அந்தத் திரைப்படங்களின் பாடல்கள் இன்றும் எவர் கிரீன் ஹிட்களாகக் கொண்டாடப்படுகின்றன. 1998-ம் ஆண்டின் இந்தத் திரைப்படங்கள், ஒரு ரசிகனாகத் திரும்பிப் பார்க்கும் போது தமிழ் சினிமாவின் வளர்ச்சியையும், அப்போதைய மக்களின் ரசனையையும் தெளிவாகப் பிரதிபலிக்கிறது.",
             "published": "2026-05-22T14:17:30+05:30"
           },
           {
             "title": "Karuppu box office: “7 நாளில் சூர்யா செய்த சம்பவம்! கருப்பு வசூலை பார்த்து ரசிகர்கள் கொண்டாட்டம்!” ஆட்டம் ஆரம்பம்",
             "link": "https://tamil.oneindia.com/cinema/karuppu-box-office-day-7-suriya-s-karuppu-creates-box-office-stormmassive-1-week-collection-stuns-f-801759.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "சூர்யா மற்றும் ஆர்ஜே பாலாஜி கூட்டணியில் உருவான 'கருப்பு' திரைப்படம், வெளியான ஏழு நாட்களிலேயே பாக்ஸ் ஆபிஸில் மிகப்பெரிய சாதனையைப் படைத்துள்ளது. ஒரு வாரத்தில் இப்படம் வசூலில் செய்துள்ள இந்தச் சம்பவம், திரையுலகினரை வியப்பில் ஆழ்த்தியுள்ளது. நீண்ட இடைவெளிக்குப் பிறகு சூர்யாவின் இந்த கம்பேக் வெற்றிக்கு ரசிகர்கள் பெரும் வரவேற்பளித்து வருகின்றனர். படத்தின் வசூல் தரவுகள் நாளுக்கு நாள் அதிகரித்து வருவதால், திரையரங்குகளில் காட்சிகள் அதிகரிக்கப்பட்டுள்ளன. ரசிகர்கள் கொண்டாட்டத்தில் ஈடுபட்டு வரும் நிலையில், இப்படம் வசூல் வேட்டையில் இன்னும் பல சாதனைகளை முறியடிக்கும் என எதிர்பார்க்கப்படுகிறது. சூர்யாவின் ரசிகர் பட்டாளம் இந்த வெற்றியைத் தங்கள் சமூக ஊடகப் பக்கங்களில் பகிர்ந்து பெருமிதம் கொள்கின்றனர். படத்தின் கதைக்களம் மற்றும் ஆர்ஜே பாலாஜியின் பங்களிப்பு ரசிகர்களுக்குப் பிடித்துப்போக, இது ஒரு 'மாஸ்' என்டர்டெய்னராக மாறியுள்ளது. வெறும் ஒரு வாரத்தில் இந்த அளவுக்கு வசூல் செய்திருப்பது சூர்யாவின் பாக்ஸ் ஆபிஸ் பலத்தை மீண்டும் ஒருமுறை நிரூபித்துள்ளது. அடுத்து வரும் விடுமுறை நாட்களிலும் இந்த வசூல் வேட்டை தொடரும் என்பதில் சந்தேகமில்லை. கருப்பு படத்தின் இந்த அபார வெற்றி, தமிழ் திரையுலகிற்கு பெரும் ஊக்கத்தைத் தந்துள்ளதோடு, நீண்ட நாட்களாகச் சரிவைச் சந்தித்து வந்த சினிமா சந்தைக்குப் புத்துயிர் அளித்துள்ளது.",
             "published": "2026-05-22T11:32:30+05:30"
           },
           {
             "title": "திரிஷ்யம் 3 எப்படி இருக்கு? கதை இதுதான்... ப்ளூ சட்டை மாறன் விமர்சனம் ரசிகர்களை அதிர்ச்சியடைய வைத்தது",
             "link": "https://tamil.oneindia.com/cinema/drishyam-3-review-how-is-drishyam-3-story-revealed-blue-sattai-maran-s-review-leaves-fans-shock-801719.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "திரிஷ்யம் திரைப்படத் தொடரின் மூன்றாவது பாகமான 'திரிஷ்யம் 3' குறித்த நீல சட்டை மாறனின் விமர்சனம் தற்போது இணையத்தில் பெரும் விவாதத்தைக் கிளப்பியுள்ளது. தனது விமர்சனத்தின் மூலம் ரசிகர்களை அதிர்ச்சியடைய வைத்துள்ள மாறன், முந்தைய பாகங்களில் இருந்த அந்தப் பரபரப்பும் மர்மமும் இந்தப் படத்தில் இல்லை என்று கருத்து தெரிவித்துள்ளார். திரிஷ்யம் 1 மற்றும் 2 படங்கள் ரசிகர்களை இருக்கையின் நுனியில் உட்கார வைக்கும் வகையில் அமைந்திருந்த நிலையில், மூன்றாவது பாகம் அந்த மாயையைத் தக்கவைக்கத் தவறிவிட்டதாக அவர் விமர்சித்துள்ளார். கதையின் ஓட்டம், திருப்பங்கள் மற்றும் கதாபாத்திரங்களின் நம்பகத்தன்மை ஆகியவை முந்தைய பாகங்களை விடக் குறைவாக இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார். இந்த விமர்சனம் சமூக வலைதளங்களில் பரபரப்பாகப் பேசப்பட்டு வருவதால், ரசிகர்களிடையே ஆதரவும் எதிர்ப்பும் மாறி மாறிப் பதிவிடப்பட்டு வருகின்றன. ஒரு தரப்பினர் மாறனின் கருத்துக்களை ஏற்றுக்கொண்டாலும், மற்றொரு தரப்பினர் இது ஒரு தொடர்ச்சி என்பதால் கதையை ரசிக்க வேண்டும் என்று வாதிடுகின்றனர். எது எப்படியிருந்தாலும், இந்த விமர்சனம் படத்தின் மீதான கவனத்தை மீண்டும் ஒருமுறை திருப்பியுள்ளது. விமர்சகர்களின் பார்வையில் படம் சறுக்கியிருந்தாலும், திரிஷ்யம் பிராண்டின் மீதுள்ள ஈர்ப்பு காரணமாக ரசிகர்கள் தொடர்ந்து படத்தைக் குறித்து விவாதித்துக் கொண்டே இருக்கிறார்கள்.",
             "published": "2026-05-22T09:42:10+05:30"
           },
           {
             "title": "Karuppu day 6 box office: தள்ளிப்போன ரிலீஸ்... ஆனா வசூலில் ருத்ரதாண்டவம்! 6 நாளில் கருப்பு செய்த மாஸ் சாதனை",
             "link": "https://tamil.oneindia.com/cinema/karuppu-day-6-box-office-delayed-release-but-massive-box-office-storm-suriya-s-karuppu-roars-past-801403.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "சூர்யா நடிப்பில் சமீபத்தில் திரையரங்குகளில் வெளியான 'கருப்பு' திரைப்படம், வசூல் வேட்டையில் புதிய மைல்கற்களை எட்டி வருகிறது. படம் திட்டமிட்டபடி வெளியாகாமல், சில காரணங்களால் ரிலீஸ் தள்ளிப்போனது ரசிகர்களிடையே ஒருவித சலசலப்பை ஏற்படுத்தியிருந்தது. ஆனால், படம் வெளியான பிறகு அந்த ஏமாற்றமெல்லாம் மறைந்து, தற்போது பாக்ஸ் ஆபிஸில் ஒரு ருத்ரதாண்டவத்தை நிகழ்த்தி வருகிறது. உலக அளவில் வெறும் ஆறு நாட்களில் இப்படம் 175 கோடி ரூபாய்க்கும் மேல் வசூலித்து சாதனை படைத்துள்ளது. படத்தின் மீதான எதிர்பார்ப்பும், சூர்யாவின் அதிரடி நடிப்பும் ரசிகர்களைக் கவர்ந்துள்ளதால், திரையரங்குகளில் கூட்டம் குறையாமல் நிரம்பி வழிகிறது. முன்னணி நட்சத்திரங்களின் படங்களுக்கு இணையாக, மிகக் குறுகிய காலத்தில் இவ்வளவு பெரிய தொகையை வசூலித்திருப்பது, சூர்யாவின் மார்க்கெட் மதிப்பையும், திரையுலகில் அவர் கொண்டுள்ள செல்வாக்கையும் மீண்டும் ஒருமுறை நிரூபித்துள்ளது. இந்த வெற்றி, படத்தின் தயாரிப்பாளர்களுக்கு பெரும் லாபத்தை ஈட்டித் தந்துள்ளதோடு, சூர்யாவின் திரைப்பயணத்தில் மிக முக்கியமானதொரு வெற்றியாகவும் பார்க்கப்படுகிறது. வசூல் சாதனை தொடர்வதால், படம் விரைவில் இன்னும் பல புதிய சாதனைகளைப் படைக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
             "published": "2026-05-21T10:23:30+05:30"
           },
           {
             "title": "ரஜினிகாந்த் அலையிலும் விஜய் வென்று காட்டிய 1997-வது ஆண்டு! 2 கல்ட் கிளாசிக் படங்கள் ரிலீஸ்",
             "link": "https://tamil.oneindia.com/cinema/1997-tamil-movies-list-the-golden-year-that-gave-vijay-his-biggest-break-tamil-cinemas-cult-clas-801179.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "தமிழ் சினிமாவின் பொற்காலமாக கருதப்படும் 1997-ஆம் ஆண்டு, பல முக்கிய மாற்றங்களை உள்ளடக்கியது. அந்த காலகட்டத்தில் ரஜினிகாந்தின் அலை திரையுலகையே ஆட்டிப்படைத்துக் கொண்டிருந்தது. 'அருணாச்சலம்' போன்ற மெகா ஹிட் படங்கள் மூலம் ரஜினி தனது ஆதிக்கத்தை நிலைநாட்டியிருந்தாலும், அதே ஆண்டில் விஜய் தனது அபார திறமையால் ஒரு பெரிய வெற்றியைச் சுவைத்தார். 'காதலுக்கு மரியாதை' திரைப்படம் வெளிவந்து, இளைஞர்களின் மனதை வென்று ஒரு கல்ட் கிளாசிக் அந்தஸ்தைப் பெற்றது. அந்த படம் விஜய்யின் திரைப்பயணத்தில் ஒரு மிகப்பெரிய திருப்புமுனையாக அமைந்தது. அதே சமயம், அஜித் குமார் தனது காதல் கதைகள் மற்றும் ஸ்டைலான நடிப்பால் ரசிகர்களிடையே தனக்கென ஒரு தனி இடத்தை உருவாக்கி வந்தார். 1997-ல் வெளியான 'சூர்யவம்சம்' போன்ற படங்கள் குடும்ப ரசிகர்களை வெகுவாகக் கவர்ந்தன. ரஜினியின் பிரம்மாண்ட வெற்றிக்கும் மத்தியில், வளர்ந்து வந்த இளம் நடிகர்களான விஜய்யும் அஜித்தும் தங்களது தனித்துவமான படங்கள் மூலம் ரசிகர்களை ஈர்த்த விதம் வியக்கத்தக்கது. அந்த ஆண்டின் சினிமா சூழல், இன்றைய நட்சத்திரங்களின் ஆரம்ப கால போராட்டங்களையும், அவர்கள் எப்படி தங்களை நிலைநிறுத்திக் கொண்டனர் என்பதையும் அழகாகப் படம்பிடித்துக் காட்டுகிறது.",
             "published": "2026-05-20T16:23:14+05:30"
           },
           {
             "title": "மனம் உடைந்த ரவி மோகன்... விவாகரத்து முடிவுக்கு பிறகு எடுத்த புதிய அதிரடி ஆக்ஷன்! பாராட்டும் ரசிகர்கள்",
             "link": "https://tamil.oneindia.com/cinema/ravi-mohan-emotional-breakdown-leads-to-major-life-decision-after-divorce-battle-801233.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "பிரபல நடிகர் ரவி மோகன், தனது தனிப்பட்ட வாழ்க்கையில் ஏற்பட்டுள்ள விவாகரத்து தொடர்பான சர்ச்சைகளால் பெரும் மன உளைச்சலுக்கு ஆளாகியிருப்பதாக தகவல்கள் தெரிவிக்கின்றன. குடும்பத்தில் நிகழ்ந்த இந்த கசப்பான சம்பவங்களுக்குப் பிறகு, அவர் தனது மன அமைதியைத் தேடி ஆன்மீகப் பாதையை நோக்கி நகர்ந்துள்ளதாகக் கூறப்படுகிறது. இதற்கென அவர் தீவிரமான முடிவுகளை எடுத்துள்ளதை உறுதிப்படுத்தும் வகையில், சமூக வலைதளங்களில் சில புகைப்படங்கள் வைரலாகி வருகின்றன. அந்தப் புகைப்படங்களில் அவர் சபரிமலை ஐயப்பனுக்காக விரதம் மேற்கொள்ளும் தோற்றத்தில் இருப்பது ரசிகர்களிடையே பெரும் ஆச்சரியத்தையும் நெகிழ்ச்சியையும் ஏற்படுத்தியுள்ளது. கடினமான சூழ்நிலைகளை எதிர்கொள்ள ஆன்மீகத்தைத் தேர்ந்தெடுத்திருக்கும் அவரது முடிவை பல ரசிகர்கள் மனதாரப் பாராட்டி வருகின்றனர். திரைத்துறையில் பரபரப்பாக இயங்கிக் கொண்டிருந்த ஒருவர், இத்தகைய சூழலில் பொறுமையுடனும் நிதானத்துடனும் ஆன்மீகத்தில் தன்னை ஈடுபடுத்திக்கொள்வது அவரது முதிர்ச்சியான அணுகுமுறையைக் காட்டுகிறது. இந்த கடினமான காலத்தை ஆன்மீக பலத்துடன் அவர் கடந்து வருவார் என்று ரசிகர்கள் நம்பிக்கை தெரிவித்துள்ளனர். அவரது இந்த புதிய அதிரடி ஆக்ஷன் அல்லது செயல்பாடு, ஊடகங்களிலும் இணையத்திலும் பெரும் விவாதப் பொருளாக மாறியுள்ளது.",
             "published": "2026-05-20T15:50:04+05:30"
           },
           {
             "title": "Karuppu Day 5 Box Office: 5 நாளில் பாக்ஸ் ஆபிஸை புரட்டிய ‘கருப்பு’.. எத்தனை கோடி வசூல் தெரியுமா? சூர்யாவின் கம்பேக்",
             "link": "https://tamil.oneindia.com/cinema/karuppu-day-5-box-office-suriya-s-karuppu-storms-box-office-in-massive-comeback-with-161-crore-run-801075.html",
             "source": "Oneindia Tamil",
-            "summary": "",
+            "summary": "ஆர்.ஜே. பாலாஜி இயக்கத்தில் சூர்யா நடித்து வெளிவந்துள்ள 'கருப்பு' திரைப்படம், பாக்ஸ் ஆபிஸில் தனது ஆதிக்கத்தைத் தொடர்ந்து வருகிறது. படத்தின் முதல் ஐந்து நாள் வசூல் குறித்த அதிகாரப்பூர்வமான தகவல்கள், திரையுலகையே வியப்பில் ஆழ்த்தியுள்ளன. ஒரு வலுவான கம்பேக் என்று சொல்லக்கூடிய அளவிற்கு, இந்தப் படம் வணிக ரீதியாக மிகப் பெரிய வெற்றியைப் பெற்றுள்ளது. வசூல் வேட்டை குறித்த புள்ளிவிவரங்கள் படத்தின் மீதான ரசிகர்களின் வரவேற்பை அப்பட்டமாக உணர்த்துகின்றன. சூர்யாவின் திரைப்பயணத்தில் இது ஒரு முக்கியமான வெற்றியாகக் கருதப்படுவதற்கு, அவரது நடிப்பு மற்றும் ஆர்.ஜே. பாலாஜியின் நேர்த்தியான மேக்கிங் முக்கியக் காரணமாக அமைகிறது. ஐந்து நாட்களிலேயே கோடிக்கணக்கான ரூபாய்களைக் குவித்து, பாக்ஸ் ஆபிஸை புரட்டிப் போட்டிருக்கும் 'கருப்பு', படத்தின் தயாரிப்பு நிறுவனத்திற்கு பெரும் உற்சாகத்தைத் தந்துள்ளது. படத்தின் வெற்றி விழாவிற்காக ரசிகர்கள் ஆர்வத்துடன் காத்திருக்கும் வேளையில், தியேட்டர்களில் ஹவுஸ்புல் காட்சிகளாக படம் ஓடிக்கொண்டிருப்பது சூர்யாவின் ரசிகர்களுக்கு இரட்டிப்பு மகிழ்ச்சியை அளித்துள்ளது. பாக்ஸ் ஆபிஸில் ஏற்பட்டுள்ள இந்த பெரும் எழுச்சி, இனிவரும் காலங்களில் சூர்யாவின் படங்களுக்கான எதிர்பார்ப்பை இன்னும் பல மடங்கு உயர்த்தியுள்ளது.",
             "published": "2026-05-20T11:43:57+05:30"
           }
         ]
@@ -1075,85 +1075,85 @@
             "title": "సీఎం రేవంత్ వైఫల్యమే కారణం - హరీష్..!!",
             "link": "https://telugu.oneindia.com/news/telangana/brs-leader-harish-rao-made-serious-comments-against-cm-revanth-leads-to-new-controversy-496885.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "తెలంగాణ ముఖ్యమంత్రి రేవంత్ రెడ్డి వైఫల్యాల వల్లే రాష్ట్రంలో అశాంతి నెలకొందని బీఆర్ఎస్ సీనియర్ నేత హరీష్ రావు తీవ్రస్థాయిలో మండిపడ్డారు. ముఖ్యంగా రాజ్ కుమార్ అనే వ్యక్తికి సంబంధించిన వివాదాస్పద అంశంపై హరీష్ రావు స్పందిస్తూ, ప్రభుత్వం బాధ్యతారాహిత్యంగా వ్యవహరిస్తోందని విమర్శించారు. రాష్ట్రంలో శాంతిభద్రతల పరిస్థితి దిగజారడానికి ప్రభుత్వ అలసత్వమే కారణమని ఆయన ఆరోపించారు. ఒక బాధ్యతాయుతమైన పదవిలో ఉండి, ప్రజల భద్రతను కాపాడటంలో సీఎం విఫలమయ్యారని ఆయన దుయ్యబట్టారు. రాజకీయంగా ఈ వ్యాఖ్యలు ఇప్పుడు రాష్ట్రంలో పెద్ద చర్చకు దారితీశాయి. ప్రభుత్వం గనుక సరైన చర్యలు తీసుకుని ఉంటే, ఇలాంటి పరిణామాలు చోటుచేసుకునేవి కావని హరీష్ రావు పేర్కొన్నారు. ప్రతిపక్ష నేతగా ఆయన చేస్తున్న ఈ ఆరోపణలు, ప్రభుత్వ పనితీరుపై ప్రజల్లో అనుమానాలను కలిగిస్తున్నాయి. ముఖ్యమంత్రి అనాలోచిత నిర్ణయాలు మరియు పరిపాలనలోని లోపాల వల్లే ఇటువంటి సంఘటనలు పదేపదే జరుగుతున్నాయని ఆయన అభిప్రాయపడ్డారు. ఈ వ్యవహారంపై ప్రభుత్వం ఎలా స్పందిస్తుందనేది ఆసక్తికరంగా మారింది. హరీష్ రావు చేసిన ఈ కీలక వ్యాఖ్యలు సోషల్ మీడియాలోనూ, రాజకీయ వర్గాల్లోనూ పెద్ద ఎత్తున వైరల్ అవుతున్నాయి, ఇది రాబోయే రోజుల్లో అధికార మరియు ప్రతిపక్షాల మధ్య మరింత ఘర్షణకు దారితీసే అవకాశం కనిపిస్తోంది.",
             "published": "2026-07-13T16:34:22+05:30"
+          },
+          {
+            "title": "సెక్స్, స్ట్రాటజీ, పవర్: ఒడిస్సీ కథను మహిళలు ఎలా మలుపు తిప్పారు?",
+            "link": "https://www.bbc.com/telugu/articles/cg53rdpjm7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "ప్రముఖ గ్రీకు పురాణగాథ 'ఒడిస్సీ'కి సంబంధించి ఆసక్తికరమైన విషయాలు వెలుగులోకి వస్తున్నాయి. సాధారణంగా ఈ కథలో ఒడిస్సియస్ అనే వీరుడి ప్రయాణం, ఆయన చేసిన సాహసాల గురించి మాత్రమే అందరూ మాట్లాడుకుంటారు. కానీ, అసలు కథ వెనుక ఉన్న మహిళల పాత్రలు, వారి వ్యూహాలు మరియు శృంగారభరితమైన ఎత్తుగడలు ఈ ప్రయాణ గమనాన్ని ఎలా మార్చాయనేది ఇప్పుడు ప్రధాన అంశంగా మారింది. అధికారం కోసం, తమ ఉనికిని కాపాడుకోవడం కోసం పురాణ కాలపు మహిళలు ఎలా పావులు కదిలారో ఈ కథ వివరిస్తుంది. త్వరలోనే ఈ ప్రాచీన గాథను వెండితెరపై ఆవిష్కరించడానికి ప్రయత్నాలు జరుగుతున్నాయి. ఒడిస్సియస్ వంటి యోధుడిని సైతం తమ తెలివితేటలతో ప్రభావితం చేసిన మహిళల నేపథ్యం ప్రేక్షకులను కొత్త లోకంలోకి తీసుకెళ్తుంది. కేవలం యుద్ధాలు, వీరత్వం మాత్రమే కాకుండా, మానవ సంబంధాల మధ్య ఉండే రాజకీయాలు, అధికారం కోసం జరిగే పోరాటాలు ఇందులో కీలకం కానున్నాయి. ఈ క్లాసిక్ కథను ఆధునిక ప్రేక్షకులకు అర్థమయ్యేలా కొత్త కోణంలో చూపించడం విశేషం. చరిత్ర పుటల్లో ఎక్కడో దాగి ఉన్న స్త్రీల పాత్రల ప్రాముఖ్యతను ఈ సినిమా వెలుగులోకి తీసుకురానుంది. ఒడిస్సీ ప్రయాణం కేవలం సముద్ర మార్గం గుండానే కాదు, స్త్రీల ఆలోచనల చుట్టూ ఎలా తిరుగుతుందో తెలియాలంటే వెండితెరపై ఈ దృశ్యకావ్యం చూడాల్సిందే.",
+            "published": "2026-07-13T11:04:19+00:00"
           },
           {
             "title": "అమెరికా- ఇరాన్ మధ్య భీకర దాడులు.. అగ్నిగుండంలా మారిన పశ్చిమాసియా..",
             "link": "https://telugu.oneindia.com/news/international/westasia-tensions-in-west-asia-show-no-signs-of-abating-attacks-between-iran-usa-are-intensifying-496881.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ప్రస్తుతం పశ్చిమాసియా ప్రాంతం అగ్నిగుండంగా మారుతోంది, దీనికి ప్రధాన కారణం అమెరికా మరియు ఇరాన్ దేశాల మధ్య పెరుగుతున్న ఉద్రిక్తతలు. ఈ రెండు దేశాల మధ్య జరుగుతున్న పరస్పర దాడులు అంతర్జాతీయ స్థాయిలో ఆందోళన కలిగిస్తున్నాయి. ఏళ్ళ తరబడి కొనసాగుతున్న ఈ విభేదాలు, ఇటీవల కాలంలో మరింత తీవ్రరూపం దాల్చాయి. ఒకరిపై ఒకరు దాడులు చేసుకోవడం వల్ల ఆ ప్రాంతంలో భద్రతా పరిస్థితులు పూర్తిగా అదుపు తప్పుతున్నాయి. దీని ప్రభావం కేవలం ఆ రెండు దేశాలకే పరిమితం కాకుండా, ప్రపంచ ఇంధన సరఫరాపై మరియు ఆర్థిక వ్యవస్థపై కూడా పడవచ్చు. శాంతి చర్చలు జరపాలని ప్రపంచ దేశాలు కోరుతున్నప్పటికీ, క్షేత్రస్థాయిలో పరిస్థితులు మాత్రం రోజురోజుకూ దిగజారుతున్నాయి. సైనికపరంగా రెండు దేశాలు తమ బలాన్ని ప్రదర్శిస్తుండటంతో, ఎప్పుడు ఏమి జరుగుతుందోనని స్థానికులు భయాందోళనకు గురవుతున్నారు. ఇరాన్ యొక్క వ్యూహాత్మక అడుగులు మరియు అమెరికా యొక్క ప్రతిచర్యలు ఈ ప్రాంతాన్ని యుద్ధ క్షేత్రంగా మారుస్తున్నాయి. ప్రపంచ శాంతికి ఇదొక పెద్ద సవాలుగా పరిణమించింది. భవిష్యత్తులో ఈ ఘర్షణలు ఎక్కడికి దారితీస్తాయో మరియు దీనిని అడ్డుకోవడానికి అంతర్జాతీయ సమాజం ఎటువంటి చర్యలు తీసుకుంటుందో వేచి చూడాలి. ఈ ఉద్రిక్తతలు ప్రపంచ దేశాల మధ్య దౌత్యపరమైన సంబంధాలను కూడా ప్రభావితం చేస్తున్నాయి.",
             "published": "2026-07-13T16:24:11+05:30"
           },
           {
             "title": "ఆరు హత్యల నిందితుడు రాజ్ కుమార్ ఆత్మహత్య.!!",
             "link": "https://telugu.oneindia.com/news/telangana/police-identified-shabad-six-murders-accused-raj-kumar-dead-body-in-kohtur-as-reports-496879.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "కొత్తూరు మండలంలో జరిగిన వరుస హత్యల ఘటనతో ప్రజలు ఒక్కసారిగా షాక్‌కు గురయ్యారు. ఈ కేసులో ప్రధాన నిందితుడిగా ఉన్న రాజ్ కుమార్, పోలీసుల గాలింపు చర్యల నేపథ్యంలో చివరకు ఆత్మహత్య చేసుకున్నట్లు సమాచారం అందింది. నిందితుడి మృతదేహాన్ని గుర్తించినట్లు పోలీసు అధికారులు ధృవీకరించారు. ఆరు హత్యలకు బాధ్యుడిగా ఉన్న వ్యక్తి మృతి చెందడంతో, ఈ కేసు దర్యాప్తు ఇప్పుడు కొత్త మలుపు తీసుకుంది. నిందితుడు మరణించడంతో చట్టపరమైన ప్రక్రియలు ఎలా కొనసాగుతాయనేది ఇప్పుడు ప్రశ్నార్థకంగా మారింది. ఈ హత్యల వెనుక అసలు ఉద్దేశ్యం ఏమిటి మరియు రాజ్ కుమార్ ఎందుకు ఇంతటి దారుణానికి ఒడిగట్టాడనే కోణంలో పోలీసులు లోతుగా దర్యాప్తు చేస్తున్నారు. బాధితుల కుటుంబాలు న్యాయం కోసం ఎదురుచూస్తున్న తరుణంలో, నిందితుడు ఆత్మహత్య చేసుకోవడం బాధాకరమైన విషయం. ఘటన జరిగిన ప్రదేశంలో ఫోరెన్సిక్ బృందాలు సేకరించిన ఆధారాలు, విచారణలో కీలక పాత్ర పోషించనున్నాయి. నిందితుడి మరణం కేసు ముగింపుకు దారితీస్తుందా లేక ఇంకా ఎవరైనా ఇందులో ప్రమేయం ఉందా అన్నది విచారణలో తేలాల్సి ఉంది. సమాజంలో ఇటువంటి అమానవీయ ఘటనలు జరగడం పట్ల ప్రజలు ఆందోళన చెందుతున్నారు. పోలీసులు పూర్తిస్థాయిలో విచారణ జరిపి, నిజానిజాలను వెలికితీయాలని స్థానికులు డిమాండ్ చేస్తున్నారు.",
             "published": "2026-07-13T16:23:07+05:30"
           },
           {
             "title": "గోదావరి కేంద్రంగా చంద్రబాబు కీలక ప్రకటన..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/cm-chandra-babu-inaugurated-the-refurbishment-works-and-unveiled-the-foundation-plaque-for-the-proje-496875.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు తన మూడు జిల్లాల పర్యటనలో భాగంగా గోదావరి జిల్లా అభివృద్ధిపై కీలక దృష్టి సారించారు. ఇందులో భాగంగా ధవళేశ్వరం బ్యారేజీ వద్ద ఉన్న గేట్ల ఆధునికీకరణ పనులను ఆయన అధికారికంగా ప్రారంభించారు. దశాబ్దాలుగా గోదావరి డెల్టాకు జీవనాధారంగా ఉన్న ఈ బ్యారేజీని భవిష్యత్తు అవసరాలకు అనుగుణంగా బలోపేతం చేయడమే ఈ ప్రాజెక్టు ప్రధాన ఉద్దేశ్యం. వరద సమయంలో గేట్ల నిర్వహణ అత్యంత కీలకం కావడంతో, ఆధునిక సాంకేతికతతో కూడిన గేట్లను ఏర్పాటు చేయడం ద్వారా ఎటువంటి ప్రమాదాలు జరగకుండా చూడాలని ప్రభుత్వం భావిస్తోంది. ఈ సందర్భంగా సీఎం మాట్లాడుతూ, సాగునీటి ప్రాజెక్టుల ఆధునికీకరణ తమ ప్రభుత్వానికి అత్యంత ప్రాధాన్యత కలిగిన అంశమని స్పష్టం చేశారు. రైతుల ప్రయోజనాలను కాపాడటంలో రాజీ పడేది లేదని, గోదావరి నీటిని వృథా కాకుండా సమర్థవంతంగా వినియోగించుకోవడమే లక్ష్యమని ఆయన పేర్కొన్నారు. ఈ అభివృద్ధి పనులు పూర్తయితే రైతులకు మరింత భరోసా కలుగుతుందని, నీటి పారుదల వ్యవస్థ మెరుగుపడుతుందని ఆశాభావం వ్యక్తం చేశారు. స్థానిక రైతులు మరియు అధికారుల సమక్షంలో ఈ కార్యక్రమం నిర్వహించడం ప్రాధాన్యత సంతరించుకుంది. పర్యటనలో భాగంగా మరికొన్ని అభివృద్ధి పనులకు కూడా ఆయన శ్రీకారం చుట్టారు. ఈ ఆధునికీకరణ ప్రక్రియ రాష్ట్ర వ్యవసాయ రంగానికి కొత్త ఊపును ఇస్తుందని ఆశిస్తున్నారు.",
             "published": "2026-07-13T15:55:50+05:30"
           },
           {
             "title": "అక్కడ దరిద్రదేవతకు ఉత్సవం... ఎందుకో తెలుసా!",
             "link": "https://telugu.oneindia.com/news/telangana/jettakka-utsavam-in-rudrangi-in-rajanna-siricilla-district-villagers-pujas-for-ward-off-poverty-go-496871.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "రాజన్న సిరిసిల్ల జిల్లాలోని రుద్రంగి గ్రామంలో ఇటీవల 'జెట్టక్క ఉత్సవం' అత్యంత వైభవంగా జరిగింది. ఈ వేడుకకు స్థానిక గ్రామీణ సంస్కృతిలో ప్రత్యేకమైన ప్రాముఖ్యత ఉంది. పూర్వం నుండి వస్తున్న ఆచారం ప్రకారం, గ్రామస్తులు దరిద్ర దేవతను బయటకు పంపి, తమ గ్రామంలో సుభిక్షం కలగాలని ప్రార్థిస్తారు. ఈ ఉత్సవంలో భాగంగా గ్రామస్తులందరూ కలిసి ప్రత్యేక పూజలు నిర్వహిస్తారు. దరిద్రం తొలగిపోయి, ఐశ్వర్యం వెల్లివిరియాలని, పంటలు బాగా పండటానికి సమృద్ధిగా వర్షాలు కురవాలని కోరుకుంటారు. దేవిని ఊరేగింపుగా తీసుకెళ్తూ, గ్రామంలోని ప్రతి గడపకూ ఆశీస్సులు అందేలా చేయడం ఈ వేడుక ముఖ్య ఉద్దేశ్యం. జెట్టక్కను ఆరాధించడం వల్ల కష్టాలు తొలగి, కుటుంబాలు సుఖసంతోషాలతో ఉంటాయని స్థానికులు గట్టిగా నమ్ముతారు. ఆధునిక కాలంలో కూడా ఇటువంటి సాంప్రదాయాలను పాటిస్తూ, గ్రామీణ ప్రజలు తమ మూలాలను కాపాడుకుంటున్నారు. రుద్రంగిలో జరిగిన ఈ జెట్టక్క ఉత్సవం గ్రామ ఐక్యతకు నిదర్శనంగా నిలిచింది. ఈ ఆచారంలో పాల్గొనేందుకు చుట్టుపక్కల గ్రామాల ప్రజలు కూడా పెద్ద సంఖ్యలో తరలివస్తారు, ఇది ఆ ప్రాంత ఆధ్యాత్మిక వాతావరణాన్ని మరింత మెరుగుపరుస్తుంది.",
             "published": "2026-07-13T15:49:00+05:30"
           },
           {
             "title": "తెలంగాణలో సీక్రెట్ వాటర్ ఫాల్స్.. అడ్వెంచర్ లవర్స్ కు బెస్ట్ స్పాట్..",
             "link": "https://telugu.oneindia.com/news/telangana/ontimamidi-waterfall-mulugu-district-renowned-as-one-of-telanganas-secret-waterfalls-prime-spot-496869.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "తెలంగాణలోని ములుగు జిల్లాలో ప్రకృతి ప్రేమికులకు మరియు సాహస యాత్రికులకు కనువిందు చేసే ఒక అద్భుతమైన ప్రదేశం ఉంది. అదే ఒంటిమామిడి జలపాతం. దీనిని తెలంగాణాలోని 'సీక్రెట్ వాటర్ ఫాల్స్' అని పిలుస్తారు, ఎందుకంటే ఇది చాలా కాలం పాటు పర్యాటకుల కంట పడకుండా ప్రకృతి ఒడిలో దాగి ఉంది. అడ్వెంచర్ అంటే ఆసక్తి ఉన్న వారికి, ప్రకృతి ఒడిలో ప్రశాంతతను వెతుక్కునే వారికి ఇది ఒక అద్భుతమైన పర్యాటక కేంద్రం. దట్టమైన అడవుల మధ్య ఉన్న ఈ జలపాతం అందాలు సందర్శకులను మంత్రముగ్ధులను చేస్తాయి. ములుగు జిల్లాలో ఎన్నో ప్రకృతి ప్రదేశాలు ఉన్నప్పటికీ, ఒంటిమామిడి తన సహజసిద్ధమైన అందంతో భిన్నంగా కనిపిస్తుంది. సాహస యాత్రికులు కాలి నడకన అడవి మార్గాల గుండా ప్రయాణిస్తూ ఈ జలపాతాన్ని చేరుకోవడం ఒక ప్రత్యేక అనుభూతిని ఇస్తుంది. అయితే, ఇలాంటి ప్రదేశాలకు వెళ్లేటప్పుడు జాగ్రత్తలు వహించడం కూడా అంతే ముఖ్యం. ప్రకృతిని ఆస్వాదించే క్రమంలో పర్యావరణానికి ఎటువంటి హాని కలగకుండా చూడటం పర్యాటకుల బాధ్యత. సాహస యాత్రికులకు ఇది ఒక అద్భుతమైన స్పాట్ కావడంతో, రాబోయే రోజుల్లో మరిన్ని వసతులు కల్పించి దీనిని మరింత మెరుగైన పర్యాటక కేంద్రంగా తీర్చిదిద్దే అవకాశం ఉంది.",
             "published": "2026-07-13T15:36:59+05:30"
           },
           {
             "title": "లండన్ లో స్టాలిన్ పై విజయ్ నిఘా? ఇంటెల్ రిపోర్ట్..!",
             "link": "https://telugu.oneindia.com/news/india/what-is-mk-stalin-doing-in-london-for-two-weeks-vijay-seeks-intelligence-report-496867.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "డీఎంకే అధినేత ఎం.కె. స్టాలిన్ లండన్ పర్యటన ప్రస్తుతం రాజకీయ వర్గాల్లో పెద్ద చర్చకు దారితీసింది. స్టాలిన్ రెండు వారాల పాటు లండన్‌లో పర్యటించడం వెనుక అసలు ఉద్దేశ్యం ఏమిటనే దానిపై అనేక ఊహాగానాలు వినిపిస్తున్నాయి. ఈ నేపథ్యంలో, సీఎం విజయ్ స్టాలిన్ పర్యటనపై ప్రత్యేక దృష్టి సారించినట్లు సమాచారం. ముఖ్యంగా, ప్రతిపక్ష నేత అంత సుదీర్ఘకాలం విదేశాల్లో గడపడంపై ఉన్న అనుమానాలను నివృత్తి చేసుకునేందుకు సీఎం, నిఘా వర్గాలను (ఇంటెలిజెన్స్) అప్రమత్తం చేసినట్లు తెలుస్తోంది. ఈ పర్యటనకు సంబంధించి పూర్తి స్థాయి నివేదికను సమర్పించాలని ఇంటెలిజెన్స్ అధికారులను ఆయన ఆదేశించినట్లు వార్తలు వస్తున్నాయి. రాజకీయ నాయకుల విదేశీ పర్యటనలు తరచుగా ప్రభుత్వాల దృష్టికి వస్తుంటాయి, అయితే ఈసారి స్టాలిన్ పర్యటనపై ఇంతటి స్థాయి నిఘా ఉండటం చర్చనీయాంశంగా మారింది. అసలు ఈ పర్యటన వెనుక రాజకీయ కారణాలు ఉన్నాయా లేదా వ్యక్తిగత పర్యటనేనా అనేది ఇప్పుడు ఆసక్తికరంగా మారింది. ఈ అంశంపై నిఘా వర్గాలు ఇచ్చే నివేదిక తర్వాత మరిన్ని వివరాలు తెలిసే అవకాశం ఉంది. రాజకీయ రంగంలో ఒకరి పర్యటనలపై మరొకరు నిఘా ఉంచడం కొత్తేమీ కాకపోయినా, ఈ ఉదంతం మాత్రం తమిళనాడు రాజకీయాల్లో వేడిని పెంచింది.",
             "published": "2026-07-13T15:31:14+05:30"
           },
           {
             "title": "పెళ్లిలో బిగ్ షాక్.. కాబోయే వదిన కొంగులాగిన మరిది.. నెక్స్ట్ ఏం జరిగిందంటే ???",
             "link": "https://telugu.oneindia.com/news/india/marriage-at-uttar-pradesh-became-talk-of-the-town-that-groom-brother-and-bride-issue-first-as-funny-496863.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "వివాహం అనేది కేవలం ఇద్దరు వ్యక్తుల కలయిక మాత్రమే కాదు, అది రెండు కుటుంబాల మధ్య ఏర్పడే ఒక సుదీర్ఘ బంధం. మన భారతీయ సంస్కృతిలో పెళ్లికి ఎంతో విలువ ఉంది, అయితే అటువంటి పవిత్రమైన వేడుకల్లో కూడా కొన్నిసార్లు ఊహించని పరిణామాలు చోటుచేసుకుంటాయి. ఇటీవలి కాలంలో వివాహ వేడుకల్లో అపశృతులు లేదా వింత సంఘటనలు సోషల్ మీడియాలో ఎక్కువగా కనిపిస్తున్నాయి. అటువంటి ఒక సంఘటన అందరినీ ఆశ్చర్యానికి గురిచేసింది. సాధారణంగా పెళ్లి అంటే అందరి దృష్టి వధూవరులపైనే ఉంటుంది, కానీ అటువంటి వేడుకల్లో జరిగే చిన్నపాటి పొరపాట్లు లేదా చేష్టలు వివాదాలకు దారితీస్తాయి. మరిది కాబోయే వదిన కొంగు లాగడం వంటి ఘటనలు సంస్కృతికి విరుద్ధమని, ఇవి పెళ్లి వేడుకలోని పవిత్రతను దెబ్బతీస్తాయని చాలామంది అభిప్రాయపడుతున్నారు. ఇలాంటి సంఘటనలు జరిగినప్పుడు కుటుంబ సభ్యుల మధ్య గొడవలు జరగడం లేదా పెళ్లి ఆగిపోయే పరిస్థితులు రావడం మనం చూస్తూనే ఉన్నాము. వివాహ వేడుకలు ఎంతో గౌరవప్రదంగా, నిబద్ధతతో జరగాలని పెద్దలు చెబుతుంటారు. ఇటువంటి వింత మరియు అనవసరపు ఘటనలు పెళ్లి వేడుకల్లో జరగడం వల్ల ఆనందంగా జరగాల్సిన వేడుక రసాభాసగా మారుతుంది. ఇది అందరికీ ఒక హెచ్చరిక లాంటిది.",
             "published": "2026-07-13T14:56:23+05:30"
           },
           {
             "title": "పెన్షన్ కోసం వెళ్లిన వృద్ధుడి ఖాతాలో రూ.1500 కోట్లు.. అవాక్కైన అధికారులు!",
             "link": "https://telugu.oneindia.com/news/india/bihar-pensioner-finds-over-rs-1500-crores-in-bank-accounts-due-to-technical-glitch-full-details-496861.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "బీహార్ రాష్ట్రంలోని ముజఫర్‌పూర్‌లో అత్యంత విస్మయకరమైన సంఘటన వెలుగులోకి వచ్చింది. పెన్షన్ కోసం బ్యాంకుకు వెళ్లిన ఒక వృద్ధుడికి అక్కడ ఎదురైన అనుభవం అతడిని ఒక్కసారిగా షాక్‌కు గురిచేసింది. సాధారణంగా తమ ఖాతాలో ఎంత డబ్బు ఉందో చూసుకునేందుకు వెళ్లిన ఆ వ్యక్తి, తన మరియు తన దివ్యాంగుడైన కుమారుడి బ్యాంక్ అకౌంట్లను పరిశీలించగా, అందులో ఏకంగా 1500 కోట్ల రూపాయలకు పైగా నగదు కనిపించింది. ఇంత భారీ మొత్తం ఉండటంతో ఆ వృద్ధుడు ఆశ్చర్యానికి గురికాగా, బ్యాంక్ అధికారులు కూడా ఈ విషయాన్ని చూసి నోరెళ్లబెట్టారు. సామాన్య పెన్షనర్‌గా జీవిస్తున్న తమ ఖాతాల్లో ఇన్ని కోట్ల రూపాయలు ఎలా వచ్చాయోనని ఆ కుటుంబ సభ్యులు ఆందోళన చెందుతున్నారు. ఇది సాంకేతిక లోపం వల్ల జరిగిందా లేదా మరేదైనా కారణం ఉందా అనే కోణంలో అధికారులు దర్యాప్తు చేస్తున్నారు. సాధారణంగా సామాజిక భద్రత కోసం వచ్చే చిన్నపాటి పెన్షన్ డబ్బు కోసం వెళ్లిన వ్యక్తికి ఇలా కోట్లలో నిధులు కనిపించడం స్థానికంగా సంచలనంగా మారింది. సంబంధిత బ్యాంకు సిబ్బంది ఈ ఖాతాలను పరిశీలించి, అది పొరపాటున జరిగిందా లేదా అనే విషయాన్ని నిర్ధారించాల్సి ఉంది. ఈ ఘటన ఇప్పుడు దేశవ్యాప్తంగా చర్చకు దారితీసింది.",
             "published": "2026-07-13T14:39:47+05:30"
           },
           {
             "title": "కూటమి vs వైసీపీ, అసలు పరీక్ష- 2029కి ముందే ఫలితం.. సెమీ ఫైనల్..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/local-body-elections-ap-government-likely-to-conduct-in-the-month-of-october-key-directions-for-nda-496859.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ఆంధ్రప్రదేశ్ రాజకీయాల్లో స్థానిక సంస్థల ఎన్నికలు కీలక మలుపుగా మారబోతున్నాయి. కూటమి ప్రభుత్వం అధికారంలోకి వచ్చిన తర్వాత జరుగుతున్న మొదటి పెద్ద ఎన్నికలు కావడంతో, వీటిని 2029 సార్వత్రిక ఎన్నికలకు సెమీ ఫైనల్‌గా రాజకీయ విశ్లేషకులు భావిస్తున్నారు. ప్రభుత్వ పనితీరుకు ప్రజల నుంచి ఎలాంటి ఆదరణ ఉందో పరీక్షించుకోవడానికి ఇది ఒక చక్కని అవకాశం అని చెప్పవచ్చు. తాజా సమాచారం ప్రకారం, రాష్ట్ర ప్రభుత్వం అక్టోబర్ నెలలో ఈ ఎన్నికలను నిర్వహించాలని ప్రణాళికలు సిద్ధం చేస్తోంది. వైఎస్సార్ కాంగ్రెస్ పార్టీకి ఇది ఒక నిజమైన పరీక్ష వంటిది. ఒకవైపు అభివృద్ధిని, మరోవైపు సంక్షేమాన్ని ప్రజల్లోకి తీసుకెళ్లాలని ప్రభుత్వం భావిస్తుండగా, ప్రతిపక్షం కూడా గట్టి పోటీ ఇచ్చేందుకు సిద్ధమవుతోంది. ఈ ఎన్నికల ఫలితాలు రాబోయే కాలంలో రాష్ట్ర రాజకీయ దిశను నిర్దేశిస్తాయని ఆయా పార్టీలు బలంగా నమ్ముతున్నాయి. ప్రజలు ఎవరి వైపు మొగ్గు చూపుతారో, ప్రభుత్వానికి వ్యతిరేకత ఉందా లేదా అనేది ఈ ఎన్నికల ద్వారా స్పష్టం కానుంది. పరిపాలనలో పారదర్శకతను పెంచాలని భావిస్తున్న కూటమికి ఈ ఎన్నికల నిర్వహణ ఒక సవాలుగా మారింది. మొత్తానికి స్థానిక సంస్థల పోరు ఏపీ రాజకీయాల్లో వేడిని పెంచడమే కాకుండా, రాబోయే ఐదేళ్ల రాజకీయ భవిష్యత్తును కూడా నిర్ణయించనుంది.",
             "published": "2026-07-13T14:35:37+05:30"
           },
           {
             "title": "వియత్నాం బోటు ప్రమాదం: ‘‘నీళ్లలో అర కిలోమీటరు దూరం కూడా వెళ్లక ముందే మునిగిపోవడం మొదలైంది’.. ప్రత్యక్ష సాక్షి ‘బీబీసీ’తో చెప్పిన వివరాలు...",
             "link": "https://www.bbc.com/telugu/articles/cdx71dl7vl7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
-            "summary": "",
+            "summary": "వియత్నాంలోని ఫూ-క్వాక్ స్టేట్ సమీపంలో జరిగిన స్పీడ్ బోటు ప్రమాదం తెలుగు రాష్ట్రాలను తీవ్ర విషాదంలోకి నెట్టింది. పర్యాటకులు విహారయాత్ర కోసం వెళ్లిన బోటు పెరల్ ఐలాండ్ వద్ద అకస్మాత్తుగా నీటిలో బోల్తా పడటంతో ఈ దారుణం జరిగింది. ఈ దుర్ఘటనలో ఆంధ్రప్రదేశ్‌కు చెందిన ముగ్గురు వ్యక్తులు ప్రాణాలు కోల్పోవడం అత్యంత బాధాకరం. కృష్ణా జిల్లా మచిలీపట్నానికి చెందిన గెల్లి జయశ్రీ, కడప జిల్లాకు చెందిన శ్రీధర్, మరియు హిందూపురం పట్టణానికి చెందిన రవితేజ మరణించిన వారిలో ఉన్నారు. ప్రమాద సమయంలో అక్కడే ఉన్న ఒక ప్రత్యక్ష సాక్షి బిబిసికి ఇచ్చిన ఇంటర్వ్యూలో భయంకరమైన విషయాలను పంచుకున్నారు. బోటు బయలుదేరిన అర కిలోమీటరు దూరం కూడా వెళ్లకముందే అది మునిగిపోవడం ప్రారంభించిందని, క్షణాల్లోనే అదృశ్యమైందని ఆయన ఆవేదన వ్యక్తం చేశారు. సరైన రక్షణ ప్రమాణాలు లేకపోవడం లేదా సాంకేతిక లోపాల వల్ల ఈ ఘటన జరిగి ఉండవచ్చని ప్రాథమికంగా అనుమానిస్తున్నారు. విదేశీ పర్యటనలకు వెళ్లేటప్పుడు పర్యాటకులు అత్యంత అప్రమత్తంగా ఉండాలని ఈ ఘటన మరోసారి హెచ్చరిస్తోంది. మృతుల కుటుంబీకులు ఈ వార్తతో తీవ్ర శోకసంద్రంలో మునిగిపోయారు. మృతదేహాలను స్వస్థలాలకు తరలించేందుకు అధికారులు తగిన చర్యలు తీసుకుంటున్నారు.",
             "published": "2026-07-13T09:00:03+00:00"
-          },
-          {
-            "title": "కర్ణాటక నేతలు, వీఐపీలకు తిరుమలలో మొదటి పూజ యోగం: సీఎం డీకే శివకుమార్ ప్లాన్",
-            "link": "https://telugu.oneindia.com/news/india/cm-dk-shivakumar-move-as-tirumala-temple-state-aarathi-now-for-karnataka-vips-plan-sparks-debate-496857.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-13T14:27:34+05:30"
           }
         ],
         "Entertainment": [
@@ -1161,84 +1161,84 @@
             "title": "ఈ రెండు బొమ్మల మధ్య ఉన్న మూడు తేడాలను చూశారా..?",
             "link": "https://telugu.oneindia.com/entertainment/illusion-of-finding-the-three-differences-from-this-photo-for-test-to-eyes-also-memory-power-496877.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "నేటి వేగవంతమైన డిజిటల్ యుగంలో సోషల్ మీడియా వినియోగం పెరగడంతో, అనేక కొత్త తరహా వినోదాలు ప్రాచుర్యంలోకి వస్తున్నాయి. ముఖ్యంగా 'స్పాట్ ది డిఫరెన్స్' అంటే రెండు బొమ్మల మధ్య ఉన్న తేడాలను గుర్తించే పజిల్స్‌కు నెటిజన్లు విశేష ఆదరణ లభిస్తోంది. చూడటానికి చాలా సాధారణంగా కనిపించే ఈ చిత్రాల్లో చిన్న చిన్న మార్పులు దాగి ఉంటాయి. వీక్షకులు ఏకాగ్రతతో వెతికితే తప్ప ఆ వ్యత్యాసాలు బయటపడవు. ఇవి కేవలం కాలక్షేపానికే కాకుండా, మనిషి యొక్క మెదడు చురుకుదనాన్ని, కళ్ల యొక్క పదునును మరియు విశ్లేషణాత్మక సామర్థ్యాన్ని పరీక్షించడానికి ఒక చక్కని సాధనంగా పనిచేస్తాయి. పిల్లల నుంచి పెద్దల వరకు అందరూ వీటిని ఆడటానికి ఆసక్తి చూపుతున్నారు. రోజువారీ ఒత్తిడి నుంచి ఉపశమనం పొందేందుకు ఇటువంటి పజిల్స్ చాలా బాగా సహాయపడతాయి. అయితే, కొన్ని బొమ్మలు కన్ఫ్యూజింగ్‌గా ఉండి, ఎంత చూసినా తేడాలు కనిపించని విధంగా రూపొందించబడతాయి. ఒకేలా ఉండే రెండు చిత్రాల మధ్య చిన్న మార్పులను కనుగొనడం మన మెదడును ఎంతగానో ఉత్తేజపరుస్తుంది. ఇలాంటి కంటెంట్‌ను సోషల్ మీడియాలో షేర్ చేయడం వల్ల ఇతరుల మేధస్సుకు కూడా సవాలు విసిరినట్లు అవుతుంది. అందుకే ఇంటర్నెట్‌లో ఇలాంటి పజిల్స్‌కు విపరీతమైన క్రేజ్ పెరిగిపోయింది.",
             "published": "2026-07-13T16:06:37+05:30"
           },
           {
             "title": "ఐషూ చల్లా మెస్మరైజ్- మన ఆలూ బోండాకు యూఎస్ మాస్టర్ చెఫ్ లో పట్టం",
             "link": "https://telugu.oneindia.com/entertainment/masterchef-usa-global-gauntlet-by-the-aishu-challa-s-aloo-bonda-stuns-gordon-ramsay-savory-donut-496865.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "అమెరికాలో జరుగుతున్న ప్రముఖ పాకశాస్త్ర పోటీ 'మాస్టర్ చెఫ్'లో భారతీయ వంటకాలు సత్తా చాటుతున్నాయి. తాజాగా 'గ్లోబల్ గాంట్లెట్' రౌండ్‌లో ఐషూ చల్లా అనే భారతీయ సంతతికి చెందిన వ్యక్తి తన ప్రతిభతో అందరినీ ఆశ్చర్యపరిచారు. ఆమె మన దేశపు సంప్రదాయ వంటకమైన 'ఆలూ బోండా'ను తయారు చేసి ప్రదర్శించడం విశేషం. ప్రపంచ స్థాయి వంటల నిపుణుడు మరియు కఠినమైన జడ్జి అయిన గోర్డాన్ రామ్సే సైతం ఈ రుచికి ఫిదా అయిపోయారు. ఆలూ బోండాను ఒక సావరీ డోనట్‌లా ఆమె వడ్డించిన తీరు, వెజిటేరియన్ ఇండియన్ వంటకాల్లోని లోతును ప్రపంచానికి చాటిచెప్పింది. ప్రదర్శనలో భాగంగా ఆమె చూపిన వంట నైపుణ్యాలకు జడ్జీల నుంచి ప్రశంసల జల్లు కురిసింది. కేవలం రుచికరంగా ఉండటమే కాకుండా, ప్రెజెంటేషన్ కూడా అద్భుతంగా ఉండటంతో ఐషూ ఏకంగా 'ఇమ్యూనిటీ పిన్'ను గెలుచుకున్నారు. దీనివల్ల ఆమె తదుపరి రౌండ్‌లోకి ఎటువంటి ఆటంకం లేకుండా నేరుగా దూసుకెళ్లారు. భారతీయ వంటకాలకు అంతర్జాతీయ వేదికపై ఇంతటి గుర్తింపు లభించడం మనందరికీ గర్వకారణం. ఒక సాధారణ చిరుతిండిని అంతర్జాతీయ స్థాయికి తీసుకెళ్లడంలో ఆమె చూపిన సృజనాత్మకత నిజంగా ప్రశంసనీయం. ఈ విజయం ఆమెకు మాస్టర్ చెఫ్ పోటీలో మరింత ఆత్మవిశ్వాసాన్ని ఇచ్చిందని చెప్పవచ్చు.",
             "published": "2026-07-13T15:08:22+05:30"
           },
           {
             "title": "'సారంగ దరియా' పాటకు తేజస్విని ఎనర్జిటిక్ స్టెప్పులు.. వీడియో వైరల్ !",
             "link": "https://telugu.oneindia.com/entertainment/tejaswini-daughter-of-actor-nandamuri-balakrishna-one-more-dance-video-got-full-viral-on-social-medi-496851.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "తెలుగు చిత్ర పరిశ్రమలో నందమూరి కుటుంబానికి ఒక ప్రత్యేకమైన చరిత్ర మరియు వారసత్వం ఉంది. నందమూరి తారక రామారావు గారి అడుగుజాడల్లో నడుస్తూ, నందమూరి బాలకృష్ణ గారు తనకంటూ ఒక ప్రత్యేక గుర్తింపును సంపాదించుకున్నారు. ఆయన వరుసగా సినిమాలు చేస్తూ స్టార్ హీరోగా తన జోరును కొనసాగిస్తున్నారు. ఈ క్రమంలోనే ఇప్పుడు నందమూరి కుటుంబం నుంచి మరో వారసుడు వస్తున్నాడన్న వార్త అభిమానుల్లో జోష్ నింపుతోంది. బాలకృష్ణ గారి కుమారుడు మోక్షజ్ఞ త్వరలోనే వెండితెరపై తన అదృష్టాన్ని పరీక్షించుకోవడానికి సిద్ధమవుతున్నారు. ఆయన ఎంట్రీ కోసం నందమూరి అభిమానులు ఎంతో కాలంగా వేచి చూస్తున్నారు. అయితే, ఇదే సమయంలో కుటుంబ సభ్యుల ఇతర వినోద కార్యక్రమాలు కూడా సోషల్ మీడియాలో వైరల్ అవుతున్నాయి. తాజాగా ఒక వీడియోలో నందమూరి కుటుంబానికి చెందిన తేజస్విని 'సారంగ దరియా' పాటకు ఎంతో ఉత్సాహంగా, ఎనర్జిటిక్ స్టెప్పులతో డాన్స్ చేయడం నెట్టింట సంచలనంగా మారింది. ఆ పాటకు ఆమె వేసిన స్టెప్పులు చూస్తుంటే కళల పట్ల నందమూరి కుటుంబానికి ఉన్న ఆసక్తి మరోసారి స్పష్టమవుతోంది. ఈ వీడియో సోషల్ మీడియాలో షేర్ కావడంతో అది కాస్తా వైరల్‌గా మారి, నెటిజన్ల నుంచి ప్రశంసలు అందుకుంటోంది.",
             "published": "2026-07-13T13:38:16+05:30"
           },
           {
             "title": "జురాసిక్ పార్క్ ఐకన్ స్టార్ కన్నుమూత: డాక్టర్ అలిన్ గ్రాంట్‌ గా చెరగని ముద్ర",
             "link": "https://telugu.oneindia.com/entertainment/jurassic-park-icon-star-sir-sam-neill-dies-at-aged-78-family-confirms-death-in-sydney-deep-gratitude-496841.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ప్రముఖ హాలీవుడ్ నటుడు, జురాసిక్ పార్క్ ఫ్రాంచైజీ ద్వారా ప్రపంచవ్యాప్త గుర్తింపు పొందిన సార్ శామ్ నీల్ 78 ఏళ్ల వయసులో కన్నుమూశారు. సిడ్నీలో ఆయన తుదిశ్వాస విడిచినట్లు కుటుంబ సభ్యులు అధికారికంగా ధృవీకరించారు. స్టీవెన్ స్పీల్‌బర్గ్ దర్శకత్వంలో వచ్చిన అత్యంత ప్రజాదరణ పొందిన జురాసిక్ పార్క్ చిత్రాల్లో 'డాక్టర్ అలిన్ గ్రాంట్' పాత్రలో ఆయన నటించిన తీరు ప్రేక్షకులకు చిరకాలం గుర్తుండిపోతుంది. కేవలం జురాసిక్ పార్క్ మాత్రమే కాకుండా, ఆస్కార్ అవార్డు గెలుచుకున్న 'ది పియానో' వంటి ఎన్నో అద్భుతమైన చిత్రాల్లో శామ్ నీల్ తన అద్భుతమైన నటనతో మెప్పించారు. ఆయన మరణవార్త తెలుసుకున్న ప్రపంచవ్యాప్త సినిమా అభిమానులు, సినీ ప్రముఖులు తీవ్ర దిగ్భ్రాంతికి లోనయ్యారు. సోషల్ మీడియా వేదికగా ఆయనకు కన్నీటి నివాళులు అర్పిస్తున్నారు. దశాబ్దాల పాటు తన విభిన్నమైన పాత్రలతో ప్రేక్షకులను అలరించిన ఒక గొప్ప నటుడు మన మధ్య లేకపోవడం హాలీవుడ్ పరిశ్రమకు తీరని లోటు. శామ్ నీల్ అందించిన కళాత్మక సేవలను ఎప్పటికీ గుర్తుంచుకుంటామని అభిమానులు పేర్కొంటున్నారు.",
             "published": "2026-07-13T12:52:23+05:30"
           },
           {
             "title": "సౌత్‌లో హైయెస్ట్ కలెక్షన్స్ సాధించిన లేడి ఓరియేంటేడ్ సినిమాలు ఇవే..!",
             "link": "https://telugu.oneindia.com/entertainment/lady-oriented-films-that-have-achieved-the-highest-collections-in-the-south-indian-film-industry-496839.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ఒకప్పుడు సినీ పరిశ్రమ అంటే కేవలం స్టార్ హీరోల ఆధిపత్యం మాత్రమే ఉండేది. బాక్సాఫీస్ వద్ద రికార్డులు సృష్టించడం, వంద రోజుల ప్రదర్శనలు పూర్తి చేసుకోవడం, భారీ కలెక్షన్లు రాబట్టడం వంటివి కేవలం హీరోల సినిమాలకు మాత్రమే పరిమితమైన అంశాలుగా ఉండేవి. అయితే కాలక్రమేణా ట్రెండ్ మారుతూ వస్తోంది. ప్రస్తుతం లేడీ ఓరియెంటెడ్ సినిమాల హవా నడుస్తోంది. నాయిక ప్రధాన చిత్రాలు కూడా బాక్సాఫీస్ వద్ద సంచలనం సృష్టిస్తున్నాయి. పాన్ ఇండియా స్థాయి గుర్తింపును, భారీ ఓపెనింగ్స్‌ను సొంతం చేసుకుంటూ అగ్ర హీరోల సినిమాలతో సమానంగా విజయాలను అందుకుంటున్నాయి. కథాబలం ఉన్న చిత్రాలకు ప్రేక్షకులు ఎప్పుడూ ఆదరణ చూపిస్తారనే దానికి ఈ లేడీ ఓరియెంటెడ్ చిత్రాల విజయాలే నిదర్శనం. గతంలో ఉన్న మూసధోరణిని పక్కన పెట్టి, మహిళా ప్రాధాన్యత కలిగిన కంటెంట్‌ను ప్రేక్షకులు కోరుకుంటున్నారు. స్టార్ హీరోయిన్లు తమ నటనతో సినిమాలను భుజాలపై మోస్తూ, పరిశ్రమలో సరికొత్త చరిత్రను సృష్టిస్తున్నారు. సౌత్ ఇండస్ట్రీలో ఇప్పుడు లేడీ ఓరియెంటెడ్ సినిమాల వసూళ్లు సినీ విశ్లేషకులను సైతం ఆశ్చర్యపరిచే స్థాయికి చేరుకున్నాయి.",
             "published": "2026-07-13T12:44:09+05:30"
           },
           {
             "title": "ఆ హీరో అంటే పిచ్చి.. సినిమా ఛాన్స్ వస్తే ఎగిరి గంతేస్తా - నాగదుర్గ",
             "link": "https://telugu.oneindia.com/entertainment/youtube-fame-naga-durga-interesting-comments-on-favourite-hero-prabhas-and-favourite-actress-goes-vi-496821.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "యూట్యూబ్ స్టార్‌గా రెండు తెలుగు రాష్ట్రాల్లో తనకంటూ ఒక ప్రత్యేక గుర్తింపు తెచ్చుకున్న నాగదుర్గ గురించి ప్రత్యేక పరిచయం అవసరం లేదు. తెలంగాణకు చెందిన ఈ యువతి, జానపద గీతాలు మరియు ఆకట్టుకునే నృత్య ప్రదర్శనలతో యూట్యూబ్‌లో లక్షలాది మంది అభిమానులను సంపాదించుకుంది. సోషల్ మీడియాలో ఎంతో యాక్టివ్‌గా ఉంటూ, తన ప్రతిభతో నెటిజన్లను అలరిస్తూ వస్తోంది. తాజాగా జరిగిన ఒక ఇంటర్వ్యూలో నాగదుర్గ తన మనసులోని మాటలను పంచుకుంది. ఒక స్టార్ హీరో అంటే తనకు ఎంతో ఇష్టమని, ఆయనతో కలిసి నటించే అవకాశం వస్తే కచ్చితంగా వదులుకోనని ఉత్సాహంగా చెప్పింది. తనకు సినిమా అవకాశాల పట్ల ఉన్న ఆసక్తిని వ్యక్తం చేయడంతో పాటు, కెరీర్ విషయంలో తన లక్ష్యాలను స్పష్టం చేసింది. జానపద కళారూపాలను ప్రమోట్ చేయడంలో నాగదుర్గ చేస్తున్న కృషిని నెటిజన్లు మెచ్చుకుంటున్నారు. యూట్యూబ్ వేదికగా పాపులర్ అయిన ఈ తెలంగాణ అమ్మాయి, వెండితెరపై కూడా మెరిసేందుకు సిద్ధంగా ఉన్నట్లు సంకేతాలు ఇవ్వడంతో ఆమె అభిమానులు సంతోషం వ్యక్తం చేస్తున్నారు.",
             "published": "2026-07-13T11:34:08+05:30"
           },
           {
             "title": "టాలీవుడ్‌లో ఎవరూ ఊహించని ట్విస్ట్: చరిత్ర సృష్టించిన సమంత!",
             "link": "https://telugu.oneindia.com/entertainment/actress-samantha-creates-history-maa-inti-bangaram-becomes-first-female-led-telugu-movie-to-cross-1-496813.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "టాలీవుడ్ బాక్సాఫీస్ వద్ద సమంత నటించిన 'మా ఇంటి బంగారం' చిత్రం ఒక అరుదైన ఘనతను సాధించి చరిత్ర సృష్టించింది. ఇప్పటివరకు తెలుగు చలనచిత్ర చరిత్రలో లేని విధంగా, ఒక మహిళ ప్రధాన పాత్రలో నటించిన సినిమా 100 కోట్ల రూపాయల వసూళ్లను ప్రపంచవ్యాప్తంగా దాటడం విశేషం. ఇది కేవలం ఒక సినిమా విజయం మాత్రమే కాకుండా, తెలుగు సినీ పరిశ్రమలో కథానాయికల సత్తాకు నిదర్శనంగా నిలుస్తోంది. సమంత అద్భుతమైన నటన, కథా ఎంపికలో ఆమె చూపిస్తున్న వైవిధ్యం ప్రేక్షకులను బాగా ఆకట్టుకున్నాయి. ఈ సినిమా విజయం టాలీవుడ్‌లో అనేక మంది నిర్మాతలకు, దర్శకులకు లేడీ ఓరియెంటెడ్ సినిమాలపై కొత్త నమ్మకాన్ని కలిగించింది. స్టార్ హీరోల సినిమాలకు మాత్రమే వంద కోట్ల మార్క్ సాధ్యమని భావించే రోజుల్లో, సమంత తన సినిమాతో ఆ అడ్డంకులను అధిగమించి కొత్త ఒరవడిని సృష్టించింది. ఈ ఘనత సాధించిన తొలి తెలుగు మహిళా ప్రధాన చిత్రంగా ఇది నిలిచిపోతుంది. దీనితో సమంత తన స్టార్‌డమ్‌ను మరోస్థాయికి తీసుకెళ్లడమే కాకుండా, హీరోయిన్లకు ఉన్న మార్కెట్ విలువను భారీగా పెంచేసింది.",
             "published": "2026-07-13T10:54:36+05:30"
           },
           {
             "title": "Jr NTR: జూలై 18న జరిగే ఈవెంట్‌ పేరు ఇదే!",
             "link": "https://telugu.oneindia.com/entertainment/jr-ntr-team-denies-political-entry-rumors-clarifies-july-18-event-is-just-for-ooru-vaada-program-496787.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "జూనియర్ ఎన్టీఆర్ రాజకీయ ప్రవేశంపై గత కొద్ది రోజులుగా జరుగుతున్న ప్రచారానికి ఆయన బృందం తెరదించింది. జూలై 18న జరగబోయే ఈవెంట్ గురించి తప్పుడు వార్తలు ప్రచారం అవుతున్నాయని, వాటిని నమ్మవద్దని అధికారికంగా స్పష్టం చేశారు. ఆ రోజున ఎన్టీఆర్ ఎటువంటి రాజకీయ ప్రకటనలు చేయబోరని, ఆ ఈవెంట్ పూర్తిగా 'ఊరు వాడ' అనే కార్యక్రమం ప్రారంభోత్సవం కోసం మాత్రమే ఉద్దేశించినదని పేర్కొన్నారు. ఊహాగానాలకు తావులేకుండా, కార్యక్రమం యొక్క ఉద్దేశ్యం కేవలం ఈ ప్రోగ్రామ్ లాంచ్ మాత్రమేనని స్పష్టత ఇచ్చారు. సోషల్ మీడియాలో జరుగుతున్న రాజకీయ ప్రచారం పూర్తిగా అవాస్తవమని, అభిమానులు గందరగోళానికి గురికావద్దని వారు కోరారు. ఎన్టీఆర్ సినిమాలతో పాటు పలు సామాజిక కార్యక్రమాల్లో కూడా చురుగ్గా ఉంటారు, అందులో భాగంగానే ఈ కార్యక్రమం చేపట్టినట్లు తెలుస్తోంది. ఎలాంటి అనవసరపు ఊహాగానాలు, పుకార్లను నమ్మవద్దని ఆయన టీమ్ విజ్ఞప్తి చేసింది. కేవలం అధికారికంగా విడుదలయ్యే ప్రకటనలను మాత్రమే పరిగణనలోకి తీసుకోవాలని స్పష్టం చేస్తూ, ఈ కార్యక్రమం గురించి ఉన్న సందేహాలకు స్వస్తి పలికారు.",
             "published": "2026-07-12T22:41:07+05:30"
           },
           {
             "title": "అల్లు అర్జున్ - బసిల్ జోసెఫ్‌ మూవీలో చేయబోయేది ఈ పాత్రే !!",
             "link": "https://telugu.oneindia.com/entertainment/allu-arjun-and-basil-joseph-movie-social-media-speculations-that-hero-is-playing-shakti-man-charac-496769.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ఐకాన్ స్టార్ అల్లు అర్జున్ తన అద్భుతమైన నటనతో పాన్ ఇండియా స్థాయిలో తిరుగులేని క్రేజ్ సంపాదించుకున్నారు. ముఖ్యంగా 'పుష్ప: ది రైజ్' చిత్రం ఆయనను దేశవ్యాప్త స్టార్‌గా మార్చగా, ఇటీవల విడుదలైన 'పుష్ప 2' బాక్సాఫీస్ వద్ద రికార్డు స్థాయి వసూళ్లను సాధించి ఆయనను గ్లోబల్ స్టార్ స్థాయికి తీసుకెళ్లింది. ఈ విజయాల నేపథ్యంలో అల్లు అర్జున్ తదుపరి ప్రాజెక్టులపై అందరి దృష్టి ఉంది. తాజా సమాచారం ప్రకారం, ప్రముఖ మలయాళ దర్శకుడు బసిల్ జోసెఫ్ దర్శకత్వంలో ఆయన ఒక భారీ చిత్రంలో నటించబోతున్నట్లు వార్తలు వస్తున్నాయి. ఈ సినిమాలో అల్లు అర్జున్ చేయబోయే పాత్ర ఏమిటి అనే దానిపై ఫ్యాన్స్ మధ్య ఆసక్తికరమైన చర్చలు జరుగుతున్నాయి. గతంలోనే బసిల్ జోసెఫ్ దర్శకత్వంలో అల్లు అర్జున్ సినిమా ఉండబోతుందని వార్తలు రాగా, ఇప్పుడు ఆ ప్రాజెక్టు పట్టాలెక్కే దిశగా అడుగులు పడుతున్నాయి. భిన్నమైన కథాంశాలతో అలరించే బసిల్ జోసెఫ్, బన్నీ కోసం ఎలాంటి పాత్రను సిద్ధం చేశారనేది ఇప్పుడు సినీ వర్గాల్లో హాట్ టాపిక్‌గా మారింది. ఈ కాంబినేషన్ సెట్ అయితే కచ్చితంగా మరో సంచలనం సృష్టిస్తుందని అభిమానులు ఆశిస్తున్నారు. అల్లు అర్జున్ కెరీర్‌లో ఈ చిత్రం ఒక మైలురాయిగా నిలిచిపోయే అవకాశం ఉందని ట్రేడ్ పండితులు అభిప్రాయపడుతున్నారు.",
             "published": "2026-07-12T18:45:11+05:30"
           },
           {
             "title": "శకం ముగిసింది: అమ్మ లాలిపాట శాశ్వతంగా ఆగిపోయింది..",
             "link": "https://telugu.oneindia.com/entertainment/legendary-playback-singer-s-janaki-passes-away-cremated-with-official-state-honors-in-mysuru-496765.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "భారతీయ సినీ సంగీత ప్రపంచంలో ఒక శకం ముగిసింది. దశాబ్దాలుగా తన మధురమైన గాత్రంతో కోట్ల మందిని అలరించిన దిగ్గజ నేపథ్య గాయని ఎస్. జానకి గారు 88 ఏళ్ల వయసులో కన్నుమూశారు. ఆయన మరణవార్త తెలుసుకున్న అభిమానులు, సినీ ప్రముఖులు తీవ్ర దిగ్భ్రాంతికి గురయ్యారు. అమ్మ లాలిపాటగా పిలుచుకునే జానకమ్మ ఇక లేరనే వార్త సంగీత ప్రపంచాన్ని విషాదంలో ముంచెత్తింది. ఆమె చివరి నివాసమైన మైసూరులో భౌతికకాయాన్ని ఉంచగా, వేలాది మంది అభిమానులు, ప్రముఖులు తరలివచ్చి కన్నీటి వీడ్కోలు పలికారు. ప్రభుత్వం ఆమె సేవలను గుర్తించి, పూర్తి అధికార లాంఛనాలతో అంత్యక్రియలు నిర్వహించడం విశేషం. ఆమె పాడిన వేలకొద్దీ పాటలు, అందించిన మధురమైన అనుభూతులు తరతరాలకు గుర్తుండిపోతాయి. జానకమ్మ మరణం సంగీత పరిశ్రమకు తీరని లోటు అని, ఆమె లేని లోటు ఎవరూ భర్తీ చేయలేరని సినీ తారలు నివాళులర్పించారు. ఆమె పాడిన అనేక భాషల పాటలు ఎప్పటికీ నిలిచి ఉంటాయి. భౌతికంగా ఆమె దూరమైనా, ఆమె పాడిన పాటల రూపంలో జానకమ్మ ఎప్పటికీ మన మధ్యే ఉంటారని అభిమానులు భావోద్వేగానికి లోనయ్యారు. ఈ దుఃఖ సమయంలో ఆమె కుటుంబ సభ్యులకు ప్రగాఢ సానుభూతి తెలియజేస్తూ, ఆమె ఆత్మకు శాంతి చేకూరాలని అందరూ ప్రార్థిస్తున్నారు.",
             "published": "2026-07-12T18:25:33+05:30"
           },
           {
             "title": "ఈ చిత్రాల్లో ఉన్న తేడాలను కనిపెట్టగలరా..?",
             "link": "https://telugu.oneindia.com/entertainment/illusion-of-the-finding-three-differences-from-this-photo-for-test-to-eyes-also-memory-power-496759.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "ప్రస్తుత సోషల్ మీడియా కాలంలో వినోదం కోసం రకరకాల పద్ధతులు వాడుకలోకి వచ్చాయి. అందులో భాగంగానే నెటిజన్లను ఎక్కువగా ఆకర్షిస్తున్న అంశం 'స్పాట్ ది డిఫరెన్స్' అంటే చిత్రాలలోని తేడాలను కనుగొనే పజిల్స్. చూడటానికి ఈ చిత్రాలు చాలా సులభంగా అనిపించినా, వాటిలో దాగి ఉన్న సూక్ష్మమైన తేడాలను కనిపెట్టడం అంత తేలికైన విషయం కాదు. చాలా మంది ఈ పజిల్స్‌ను చూసి సులభంగా కనిపెట్టేయవచ్చు అనుకుంటారు, కానీ ఆ తేడాలను గుర్తించాలంటే చాలా ఏకాగ్రత మరియు పదునైన కంటి చూపు అవసరం. ఈ పజిల్స్ కేవలం కాలక్షేపానికే కాకుండా, మెదడుకు పదును పెట్టడానికి మరియు ఏకాగ్రతను పెంచుకోవడానికి కూడా ఎంతో ఉపయోగపడతాయని నిపుణులు చెబుతున్నారు. అందుకే ఫేస్‌బుక్, ఇన్‌స్టాగ్రామ్ వంటి వేదికలపై ఈ పజిల్స్ కు విపరీతమైన ఆదరణ లభిస్తోంది. చిన్న పిల్లల నుండి పెద్దల వరకు అందరూ వీటిని సవాలుగా తీసుకుని తమ తెలివితేటలను పరీక్షిస్తున్నారు. ఇంటర్నెట్‌లో ఇలాంటి కంటెంట్‌ను షేర్ చేయడం వల్ల స్నేహితులు మరియు కుటుంబ సభ్యుల మధ్య ఆరోగ్యకరమైన పోటీని కూడా పెంచుతుంది. మీరు కూడా మీ దృష్టి సామర్థ్యాన్ని మరియు ఏకాగ్రతను పరీక్షించుకోవాలనుకుంటే, ఇలాంటి 'స్పాట్ ది డిఫరెన్స్' పజిల్స్‌లో పాల్గొనడం ఒక మంచి మార్గం.",
             "published": "2026-07-12T17:55:56+05:30"
           },
           {
             "title": "ఆ బాధను అబ్బాయిలు తట్టుకోలేరు.. అణు యుద్ధాలే జరుగుతాయ్ - పెద్ది బ్యూటీ",
             "link": "https://telugu.oneindia.com/entertainment/bollywood-actress-janhvi-kapoor-shocking-comments-on-periods-to-boys-got-full-viral-on-social-media-496737.html",
             "source": "Oneindia Telugu",
-            "summary": "",
+            "summary": "అతిలోక సుందరి శ్రీదేవి తనయురాలిగా బాలీవుడ్ పరిశ్రమలోకి గ్రాండ్ ఎంట్రీ ఇచ్చిన నటి జాన్వీ కపూర్, తనకంటూ ప్రత్యేకమైన గుర్తింపు కోసం ప్రయత్నిస్తున్నారు. అయితే, సినిమాలతో పాటు వ్యక్తిగత విషయాల పట్ల కూడా ఆమె స్పష్టమైన వైఖరితో ఉంటున్నారు. తాజాగా ఆమె పీరియడ్స్ (నెలసరి) గురించి చేసిన వ్యాఖ్యలు సోషల్ మీడియాలో పెద్ద చర్చకు దారితీశాయి. పీరియడ్స్ సమయంలో మహిళలు అనుభవించే బాధను అబ్బాయిలు తట్టుకోలేరని, ఒకవేళ ఆ నొప్పి వారికి తెలిస్తే అణు యుద్ధాలు కూడా జరుగుతాయని ఆమె తనదైన శైలిలో వ్యాఖ్యానించారు. నెలసరి నొప్పి తీవ్రత ఎంత ఎక్కువగా ఉంటుందో తెలియజేయడమే ఆమె ఉద్దేశ్యమని అర్థమవుతోంది. మహిళల ఆరోగ్యం మరియు వారి జీవనశైలి గురించి ఇలాంటి బహిరంగ చర్చలు జరగడం వల్ల సమాజంలో అవగాహన పెరుగుతుందని నెటిజన్లు అభిప్రాయపడుతున్నారు. జాన్వీ మాటలు పట్ల కొందరు భిన్నాభిప్రాయాలు వ్యక్తం చేస్తున్నప్పటికీ, చాలా మంది ఆమె నిజాయితీని మెచ్చుకుంటున్నారు. ఒక సెలబ్రిటీ అయి ఉండి, ఇలాంటి సున్నితమైన అంశంపై నోరు విప్పడం అభినందనీయమని కొందరు పేర్కొంటున్నారు. ఏది ఏమైనా, జాన్వీ చేసిన ఈ కామెంట్ ఇప్పుడు బాలీవుడ్‌లో మాత్రమే కాకుండా, సోషల్ మీడియా వేదికల్లో కూడా హాట్ టాపిక్‌గా మారింది.",
             "published": "2026-07-12T16:45:18+05:30"
           }
         ]
