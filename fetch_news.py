@@ -68,13 +68,19 @@ MAX_TOP_STORIES = 14
 # regional publishers' feeds) -- until an article gets its AI rewrite, no
 # summary is shown at all for non-English languages, rather than risking
 # an English snippet appearing under a native-language headline.
+#
+# NOTE 4: every summary (all languages, including English) is a detailed
+# 10-15 line rewrite, not a short blurb -- see the prompt in
+# ai_rewrite_batch(). This costs more output tokens per call, which is
+# why BATCH_SIZE is kept modest (5) even though a single call could
+# technically ask for more articles at once.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 AI_MODEL = "gemini-2.5-flash-lite"
 CACHE_FILE = "summary_cache.json"
 USAGE_FILE = "ai_usage.json"
-DAILY_AI_CALL_LIMIT = 15  # stays under this account's observed 20 requests/day cap
+DAILY_AI_CALL_LIMIT = 18  # stays under this account's observed 20 requests/day cap
 AI_CALL_DELAY_SECONDS = 7  # stays under this account's observed 10 requests/minute cap
-BATCH_SIZE = 6  # articles rewritten per Gemini call, to stretch the daily budget
+BATCH_SIZE = 5  # articles rewritten per Gemini call, to stretch the daily budget
 
 # code -> display label (native script) + English name used in the AI prompt
 LANGUAGES = {
@@ -122,6 +128,11 @@ FEEDS_BY_LANG = {
         "Top Stories": [
             ("BBC Hindi", "https://feeds.bbci.co.uk/hindi/rss.xml"),
             ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-news-fb.xml"),
+            ("Amar Ujala", "https://www.amarujala.com/rss/breaking-news.xml"),
+            ("Navbharat Times", "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"),
+            ("Dainik Bhaskar", "https://www.bhaskar.com/rss-feed/1061/"),
+            ("Live Hindustan", "https://feed.livehindustan.com/rss/3127"),
+            ("Patrika", "http://api.patrika.com/rss/india-news"),
         ],
         "Entertainment": [
             ("Oneindia Hindi", "https://hindi.oneindia.com/rss/feeds/hindi-entertainment-fb.xml"),
@@ -131,6 +142,8 @@ FEEDS_BY_LANG = {
         "Top Stories": [
             ("BBC Gujarati", "https://feeds.bbci.co.uk/gujarati/rss.xml"),
             ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-news-fb.xml"),
+            ("Gujarat Samachar", "https://www.gujaratsamachar.com/rss/top-stories"),
+            ("Divya Bhaskar", "https://www.divyabhaskar.co.in/rss-feed/1037/"),
         ],
         "Entertainment": [
             ("Oneindia Gujarati", "https://gujarati.oneindia.com/rss/feeds/gujarati-entertainment-fb.xml"),
@@ -141,6 +154,7 @@ FEEDS_BY_LANG = {
         "Top Stories": [
             ("BBC Tamil", "https://feeds.bbci.co.uk/tamil/rss.xml"),
             ("Oneindia Tamil", "https://tamil.oneindia.com/rss/feeds/tamil-news-fb.xml"),
+            ("Puthiya Thalaimurai", "https://www.puthiyathalaimurai.com/rss.xml"),
         ],
         "Entertainment": [
             # Oneindia Tamil calls this category "cinema", not "entertainment"
@@ -151,6 +165,7 @@ FEEDS_BY_LANG = {
         "Top Stories": [
             ("BBC Telugu", "https://feeds.bbci.co.uk/telugu/rss.xml"),
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-news-fb.xml"),
+            ("Sakshi", "https://www.sakshi.com/rss.xml"),
         ],
         "Entertainment": [
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-entertainment-fb.xml"),
@@ -158,9 +173,11 @@ FEEDS_BY_LANG = {
         ],
     },
     "kn": {
-        # No BBC Kannada edition exists, so this language relies on Oneindia only.
+        # No BBC Kannada edition exists, so this language leans on Oneindia +
+        # Vijay Karnataka (Times Group, same reliable CMS as Times of India).
         "Top Stories": [
             ("Oneindia Kannada", "https://kannada.oneindia.com/rss/feeds/kannada-news-fb.xml"),
+            ("Vijay Karnataka", "https://vijaykarnataka.com/rssfeedsdefault.cms"),
         ],
         "Entertainment": [
             ("Oneindia Kannada", "https://kannada.oneindia.com/rss/feeds/kannada-entertainment-fb.xml"),
@@ -170,6 +187,8 @@ FEEDS_BY_LANG = {
         "Top Stories": [
             ("BBC Bangla", "https://feeds.bbci.co.uk/bengali/rss.xml"),
             ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-news-fb.xml"),
+            # Times Group's Bengali portal, same reliable CMS as Times of India.
+            ("Ei Samay", "https://eisamay.indiatimes.com/rssfeedsdefault.cms"),
         ],
         "Entertainment": [
             ("Oneindia Bengali", "https://bengali.oneindia.com/rss/feeds/bengali-entertainment-fb.xml"),
@@ -323,14 +342,17 @@ def ai_rewrite_batch(items, ai_name):
         for i, it in enumerate(items)
     )
     prompt = (
-        "You are writing short news digest blurbs for a site called NewsBits India. "
+        "You are writing detailed news digest summaries for a site called NewsBits India. "
         f"Below are {len(items)} separate news items, each numbered starting at 0. For EACH item, "
-        "write an original summary in your own words -- not copied phrasing -- that gives a busy "
-        "reader the full gist of that story in roughly 5 to 8 short lines. "
+        "write an original summary in your own words -- not copied phrasing -- that gives a reader "
+        "the full context and gist of that story. Each summary must be a MINIMUM of 10 to 15 lines "
+        "(roughly 120-200 words) -- expand on the who/what/when/where/why, background context, and "
+        "why it matters, using only what's supported by the headline and snippet. "
         f"{language_instruction}"
-        "If an item's snippet is thin, write less rather than padding it out -- never invent facts, "
-        "numbers, quotes, or details that are not present in that item's own input. Plain, clear, "
-        "conversational language.\n\n"
+        "Only write fewer lines than that if the item's snippet is so thin there is genuinely "
+        "nothing more to say without inventing facts, numbers, quotes, or details that are not "
+        "present in that item's own input -- never fabricate specifics. Plain, clear, conversational "
+        "language, multiple sentences forming a real paragraph (not a bare bullet list).\n\n"
         f"Respond with ONLY a JSON array of {len(items)} strings, in the same order as the items "
         "below (element 0 = Item 0's summary, element 1 = Item 1's summary, etc). No other text, "
         "no markdown code fences, no explanation -- just the raw JSON array.\n\n"
@@ -338,7 +360,7 @@ def ai_rewrite_batch(items, ai_name):
     )
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"maxOutputTokens": 400 * max(1, len(items))},
+        "generationConfig": {"maxOutputTokens": 1200 * max(1, len(items))},
     }).encode("utf-8")
     url = (
         f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
@@ -351,7 +373,7 @@ def ai_rewrite_batch(items, ai_name):
         method="POST",
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=90) as resp:
             data = json.loads(resp.read())
         text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
         # Be tolerant of markdown fences / stray commentary around the array
