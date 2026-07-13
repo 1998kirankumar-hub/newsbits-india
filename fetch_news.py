@@ -75,7 +75,12 @@ MAX_TOP_STORIES = 14
 # why BATCH_SIZE is kept modest (5) even though a single call could
 # technically ask for more articles at once.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-AI_MODEL = "gemini-2.5-flash-lite"
+# gemini-2.5-flash-lite was retired for new API keys/projects (confirmed via
+# the actual Gemini error body: "This model models/gemini-2.5-flash-lite is
+# no longer available to new users") -- gemini-3.1-flash-lite is its current
+# direct replacement: same low-latency/low-cost tier, still free-tier
+# eligible, same generateContent REST endpoint shape.
+AI_MODEL = "gemini-3.1-flash-lite"
 CACHE_FILE = "summary_cache.json"
 USAGE_FILE = "ai_usage.json"
 DAILY_AI_CALL_LIMIT = 18  # stays under this account's observed 20 requests/day cap
