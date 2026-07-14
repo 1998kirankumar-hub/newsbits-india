@@ -243,6 +243,25 @@ def parse_date(raw):
         return None
 
 
+def is_low_quality_title(title):
+    """Google-News-search-based feeds (used for sources with no native RSS,
+    like Anandabazar Patrika and Eenadu) sometimes return non-article
+    results instead of a single real headline: e-paper index/listing pages,
+    or "digest" blocks that mash several unrelated headlines together.
+    Filter those out rather than showing them as if they were one story."""
+    t = title.lower()
+    if "epaper" in t or "e-paper" in t:
+        return True
+    if re.search(r"-\s*page\s*\d+", t):
+        return True
+    # Multiple sentence-ending dandas ("।", used in both Bengali and Telugu
+    # prose) in one title is a strong signal of several headlines glued
+    # together rather than one clean headline.
+    if title.count("।") >= 2:
+        return True
+    return False
+
+
 def fetch_feed(source_name, url):
     items = []
     try:
@@ -272,6 +291,8 @@ def fetch_feed(source_name, url):
             if summary and summary.lower().rstrip(".…") == title.lower().rstrip(".…"):
                 summary = ""
             if not title or not link:
+                continue
+            if is_low_quality_title(title):
                 continue
             items.append({
                 "title": title,
@@ -451,38 +472,59 @@ def main():
         feeds_by_category = FEEDS_BY_LANG.get(lang_code, {})
         fetched[lang_code] = fetch_language(lang_code, feeds_by_category)
 
-    # --- Phase 2: AI rewrite, batched, non-English languages first ---------
+    # --- Phase 2: AI rewrite, batched, ROUND-ROBIN across languages --------
     # Non-English feeds sometimes carry English-language RSS descriptions
-    # even when the headline is in the native script, so they get first
-    # claim on the shared daily AI budget -- English's raw snippet is at
-    # least readable as a fallback while it waits its turn.
+    # even when the headline is in the native script, so non-English
+    # languages get first claim on the shared daily AI budget -- English's
+    # raw snippet is at least readable as a fallback while it waits its turn.
+    #
+    # IMPORTANT: this must cycle ONE BATCH PER LANGUAGE AT A TIME, not
+    # exhaust language A's entire backlog before touching language B. An
+    # earlier version did exactly that (in dict order hi/gu/ta/te/kn/bn) --
+    # since Hindi/Gujarati/Tamil/Telugu alone regularly had 18+ calls worth
+    # of uncached articles, Kannada and Bengali were pushed to the back of
+    # the line every single run and never got a single AI summary, no
+    # matter how many days passed. Round-robin guarantees every language
+    # gets a turn each run as long as any shared budget remains.
     process_order = [c for c in LANGUAGES if c != "en"] + (["en"] if "en" in LANGUAGES else [])
     all_rewritten_by_link = {}
 
+    to_rewrite_by_lang = {}
     for lang_code in process_order:
-        lang_info = LANGUAGES[lang_code]
         _, representative = fetched[lang_code]
-
         for link in representative:
             if link in cache:
                 all_rewritten_by_link[link] = cache[link]
+        to_rewrite_by_lang[lang_code] = [(link, it) for link, it in representative.items() if link not in cache]
 
-        to_rewrite = [(link, it) for link, it in representative.items() if link not in cache]
-        idx = 0
-        while idx < len(to_rewrite) and GEMINI_API_KEY and budget_left > 0:
-            batch = to_rewrite[idx: idx + BATCH_SIZE]
+    cursor = {lang_code: 0 for lang_code in process_order}
+    is_first_call = True
+    while GEMINI_API_KEY and budget_left > 0:
+        made_progress = False
+        for lang_code in process_order:
+            if budget_left <= 0:
+                break
+            items_left = to_rewrite_by_lang[lang_code]
+            start = cursor[lang_code]
+            if start >= len(items_left):
+                continue
+            made_progress = True
+            batch = items_left[start: start + BATCH_SIZE]
+            if not is_first_call:
+                time.sleep(AI_CALL_DELAY_SECONDS)
+            is_first_call = False
             results = ai_rewrite_batch(
                 [{"title": it["title"], "source": it["source"], "summary": it["summary"]} for _, it in batch],
-                lang_info["ai_name"],
+                LANGUAGES[lang_code]["ai_name"],
             )
             ai_calls_used += 1
             budget_left -= 1
             for (link, _it), rewritten in zip(batch, results):
                 if rewritten:
                     all_rewritten_by_link[link] = rewritten
-            idx += BATCH_SIZE
-            if budget_left > 0 and idx < len(to_rewrite):
-                time.sleep(AI_CALL_DELAY_SECONDS)
+            cursor[lang_code] = start + BATCH_SIZE
+        if not made_progress:
+            break
 
     save_usage(calls_today + ai_calls_used)
 
