@@ -166,10 +166,17 @@ FEEDS_BY_LANG = {
     },
     "te": {
         # Oneindia Telugu's "cinema" feed 404'd (only "entertainment" works).
+        # Eenadu has no confirmed native RSS feed, so it's pulled via a
+        # site-filtered Google News RSS search instead -- verified working
+        # (100 items, real eenadu.net article titles) even though it wasn't
+        # findable as a direct feed. Article links route through a Google
+        # News redirect rather than straight to eenadu.net, but they resolve
+        # fine for readers.
         "Top Stories": [
             ("BBC Telugu", "https://feeds.bbci.co.uk/telugu/rss.xml"),
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-news-fb.xml"),
             ("Sakshi", "https://www.sakshi.com/rss.xml"),
+            ("Eenadu", "https://news.google.com/rss/search?q=site:eenadu.net&hl=te&gl=IN&ceid=IN:te"),
         ],
         "Entertainment": [
             ("Oneindia Telugu", "https://telugu.oneindia.com/rss/feeds/telugu-entertainment-fb.xml"),
@@ -190,13 +197,15 @@ FEEDS_BY_LANG = {
         # Oneindia Bengali's whole rss/feeds/* family (news, entertainment,
         # cinema) 404'd from the GitHub Actions runner, and Ei Samay's
         # domain doesn't resolve at all (DNS failure) -- both removed.
-        # Only BBC Bangla is confirmed reliable for this language right now;
-        # still actively looking for a second verified Bengali source
-        # (Anandabazar Patrika's own domain is unreachable to verify from
-        # here, and Zee News Bangla's RSS path for this edition isn't
-        # published anywhere findable -- so nothing unverified was added).
+        # Anandabazar Patrika has no discoverable native RSS feed (checked
+        # common paths, all 404), so it's pulled via a site-filtered Google
+        # News RSS search instead -- verified working (100 items, real
+        # Anandabazar article titles in Bengali). Article links route
+        # through a Google News redirect rather than straight to
+        # anandabazar.com, but they resolve fine for readers.
         "Top Stories": [
             ("BBC Bangla", "https://feeds.bbci.co.uk/bengali/rss.xml"),
+            ("Anandabazar Patrika", "https://news.google.com/rss/search?q=site:anandabazar.com&hl=bn&gl=IN&ceid=IN:bn"),
         ],
     },
 }
