@@ -1,10 +1,59 @@
 {
-  "updated_at": "2026-07-15T02:01:37.590965+00:00",
+  "updated_at": "2026-07-15T02:31:25.040711+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "China economic growth falls sharply, missing target",
+            "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+            "published": "2026-07-15T02:22:23+00:00"
+          },
+          {
+            "title": "Oil price today: Crude tops $85 a barrel as US restores Strait of Hormuz blockade",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-tops-85-a-barrel-as-us-restores-strait-of-hormuz-blockade/articleshow/132404076.cms",
+            "source": "Times of India",
+            "summary": "Oil prices surged beyond eighty-five dollars per barrel on Wednesday. This occurred after the United States reinstated a naval blockade on Iran. Fighting between Washington and Tehran escalated, raising concerns over crude supplies. The United Arab Emirates reported Iranian cruise missile attacks on oil tankers. American forces continued strikes on Iranian military targets across the region.",
+            "published": "2026-07-15T07:39:41+05:30"
+          },
+          {
+            "title": "Cuss remarks against CJI: Two law students arrested over courtroom disruption",
+            "link": "https://timesofindia.indiatimes.com/india/cuss-remarks-against-cji-two-law-students-arrested-over-courtroom-disruption/articleshow/132404025.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-15T07:39:04+05:30"
+          },
+          {
+            "title": "Trump pressures Netanyahu to pull Israeli forces out of Syria, Lebanon",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-pressures-netanyahu-to-pull-israeli-forces-out-of-syria-lebanon/articleshow/132404058.cms",
+            "source": "Times of India",
+            "summary": "In a significant move, President Trump has called on Prime Minister Netanyahu to retract Israeli military presence in Syria. However, Netanyahu remains steadfast, emphasizing the necessity of border security due to external threats. Meanwhile, the US is advocating for a mutual security arrangement between Israel and Syria. Escalating incidents in southern Syria and Lebanon have raised regional tensions, while…",
+            "published": "2026-07-15T07:38:35+05:30"
+          },
+          {
+            "title": "Science students face uncertainty as flagship ₹80,000-a-year scholarship remains in limbo",
+            "link": "https://www.hindustantimes.com/india-news/science-students-face-uncertainty-as-flagship-80-000-a-year-scholarship-remains-in-limbo-101784080001058.html",
+            "source": "Hindustan Times",
+            "summary": "The cycle of applications begins every year around September – after college admissions and competitive exam results – and ends by October-November.",
+            "published": "2026-07-15T07:34:30+05:30"
+          },
+          {
+            "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
+            "published": "2026-07-15T02:01:39+00:00"
+          },
+          {
+            "title": "Spain crashes Paris party by beating France in the World Cup semis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.",
+            "published": "2026-07-15T02:00:03+00:00"
+          },
           {
             "title": "Korea’s AI stock rout is becoming a lesson in leveraged excess",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-ai-stock-rout-is-becoming-a-lesson-in-leveraged-excess/articleshow/132403971.cms",
@@ -13,6 +62,20 @@
             "published": "2026-07-15T07:29:59+05:30"
           },
           {
+            "title": "Gold edges higher on soft US inflation, Gulf conflict clouds rate outlook",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-soft-us-inflation-gulf-conflict-clouds-rate-outlook/articleshow/132403970.cms",
+            "source": "Economic Times",
+            "summary": "Gold prices saw a slight increase on Wednesday as inflation data eased rate hike worries. Renewed Middle East conflict and rising oil prices, however, limited gains for the precious metal. Traders now anticipate a lower probability of a U.S. interest rate increase this year. Investors await China's economic data, which could impact gold demand from the nation.",
+            "published": "2026-07-15T07:28:11+05:30"
+          },
+          {
+            "title": "Tahir Hussain, armed mob dragged and murdered IB officer Ankit Sharma: Delhi court",
+            "link": "https://www.hindustantimes.com/india-news/tahir-hussain-armed-mob-dragged-and-murdered-ib-officer-ankit-sharma-delhi-court-delhi-riots-101784079119198.html",
+            "source": "Hindustan Times",
+            "summary": "The Delhi court held Tahir Hussain and four others guilty in the murder of Ankit Sharma. Six others were acquitted of all charges in the case.",
+            "published": "2026-07-15T07:14:49+05:30"
+          },
+          {
             "title": "Congress seeks SIR deadline extension in Telangana",
             "link": "https://www.thehindu.com/news/national/telangana/congress-seeks-sir-deadline-extension-in-telangana/article71222530.ece",
             "source": "The Hindu",
@@ -39,73 +102,45 @@
             "source": "Hindustan Times",
             "summary": "Addressing reporters in Pune, Giri Maharaj said his “penance” was to prevent a recurrence, not resignation.",
             "published": "2026-07-15T07:03:41+05:30"
-          },
-          {
-            "title": "Weather LIVE Updates: Warm Day In Delhi, Rain Expected From July 14 To 18",
-            "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-warm-day-in-delhi-rain-expected-from-july-14-to-18-11772639#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Weather Today, Delhi-NCR Rain, Monsoon Live Updates: Delhi sees a max temperature of 38.6C with heat index at 45.8C and monsoon rainfall forecast till July 20.",
-            "published": "2026-07-15T07:03:29+05:30"
-          },
-          {
-            "title": "Thief Posing As Beggar Steals Rs 1.5 Lakh Phone From Karnataka Shop",
-            "link": "https://www.ndtv.com/india-news/thief-posing-as-beggar-steals-rs-1-5-lakh-phone-from-karnataka-shop-11772651#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "In a shocking incident in Karnataka's Belagavi, a thief disguised as a beggar allegedly stole a mobile phone worth around Rs 1.5 lakh from a mobile store.",
-            "published": "2026-07-15T07:02:44+05:30"
-          },
-          {
-            "title": "Is the undocumented migrant counted?",
-            "link": "https://www.thehindu.com/data/is-the-undocumented-migrant-counted/article71221038.ece",
-            "source": "The Hindu",
-            "summary": "Contrary to the claims that there could be 20 million “illegal Bangladeshi migrants” staying in India, an analysis based on Census data suggests that there is no surge of undocumented migrants from Bangladesh, at least between 1991 and 2011",
-            "published": "2026-07-15T07:01:23+05:30"
-          },
-          {
-            "title": "FTA with UK comes into effect today, exports to get a boost",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/fta-with-uk-comes-into-effect-today-exports-to-get-a-boost/articleshow/132403758.cms",
-            "source": "Times of India",
-            "summary": "The India-UK free trade agreement begins implementation, boosting Indian exports to the UK. Indian service providers and professionals will gain greater access to the United Kingdom market. Many Indian products will enter the UK duty-free, enhancing export competitiveness significantly. Digital service delivery is fully opened, benefiting global capability centers in India. A double contribution convention will save…",
-            "published": "2026-07-15T06:58:40+05:30"
-          },
-          {
-            "title": "Iran Says US' Hormuz Blockade \"Dismantles\" Deal, Both Countries Trade Fire Again",
-            "link": "https://www.ndtv.com/world-news/us-iran-war-iran-says-us-hormuz-blockade-has-dismantled-deal-as-both-countries-exchange-fire-again-trump-issues-new-warning-11772589#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Days of retaliatory strikes across the Middle East by Iran — and both nations' attempts to vie for control of the waterway through which a fifth of the world's oil and natural gas passes during peacetime — threaten to push the region back to all-out war.",
-            "published": "2026-07-15T06:57:22+05:30"
-          },
-          {
-            "title": "20 rebel TMC MPs likely to get new Lok Sabha seats: 'Speaker has assured us'",
-            "link": "https://www.hindustantimes.com/india-news/20-rebel-tmc-mps-likely-to-get-new-lok-sabha-seats-speaker-has-assured-us-101784077658490.html",
-            "source": "Hindustan Times",
-            "summary": "20 of the party’s 28 Lok Sabha MPs decided to merge with the NCPI and aligned themselves with the ruling National Democratic Alliance (NDA).",
-            "published": "2026-07-15T06:55:21+05:30"
-          },
-          {
-            "title": "Quote of the day by Johnny Depp",
-            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-johnny-depp-my-sickness-is-that-im-fascinated-by-human-behaviour-by-whats-underneath-the-surface-by-the-worlds-inside-people-when-the-pirates-of-the-caribbean-star-explained-why-he-chooses-the-most-unconventional-roles/articleshow/132403690.cms",
-            "source": "Times of India",
-            "summary": "In a surprising turn, Johnny Depp is set to bring Ebenezer Scrooge to life in 'Ebenezer: A Christmas Carol,' releasing in late 2026. This role highlights Depp's ongoing fascination with the complexities of human nature. Alongside this, he stars in the thriller 'Day Drinker' alongside Penélope Cruz. His unique career choices reflect his passion for diving deep into character portrayals with psychological depth.",
-            "published": "2026-07-15T06:54:18+05:30"
-          },
-          {
-            "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
-            "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Striker says FIFA&#039;s decision to suspend his one-match ban led to &#039;a lot of outside noise&#039; before USA&#039;s knockout match.",
-            "published": "2026-07-15T01:23:22+00:00"
-          },
-          {
-            "title": "Delhi Police cop who shot wife dead kills self using same service pistol",
-            "link": "https://www.hindustantimes.com/india-news/delhi-police-cop-who-shot-wife-dead-kills-self-using-same-service-pistol-101784078041480.html",
-            "source": "Hindustan Times",
-            "summary": "Prima facie, Kumar said, it appeared that the constable had shot himself 10 to 15 minutes before his body was discovered.",
-            "published": "2026-07-15T06:51:24+05:30"
           }
         ],
         "India": [
           {
+            "title": "Oil price today: Crude tops $85 a barrel as US restores Strait of Hormuz blockade",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-tops-85-a-barrel-as-us-restores-strait-of-hormuz-blockade/articleshow/132404076.cms",
+            "source": "Times of India",
+            "summary": "Oil prices surged beyond eighty-five dollars per barrel on Wednesday. This occurred after the United States reinstated a naval blockade on Iran. Fighting between Washington and Tehran escalated, raising concerns over crude supplies. The United Arab Emirates reported Iranian cruise missile attacks on oil tankers. American forces continued strikes on Iranian military targets across the region.",
+            "published": "2026-07-15T07:39:41+05:30"
+          },
+          {
+            "title": "Cuss remarks against CJI: Two law students arrested over courtroom disruption",
+            "link": "https://timesofindia.indiatimes.com/india/cuss-remarks-against-cji-two-law-students-arrested-over-courtroom-disruption/articleshow/132404025.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-15T07:39:04+05:30"
+          },
+          {
+            "title": "Trump pressures Netanyahu to pull Israeli forces out of Syria, Lebanon",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-pressures-netanyahu-to-pull-israeli-forces-out-of-syria-lebanon/articleshow/132404058.cms",
+            "source": "Times of India",
+            "summary": "In a significant move, President Trump has called on Prime Minister Netanyahu to retract Israeli military presence in Syria. However, Netanyahu remains steadfast, emphasizing the necessity of border security due to external threats. Meanwhile, the US is advocating for a mutual security arrangement between Israel and Syria. Escalating incidents in southern Syria and Lebanon have raised regional tensions, while…",
+            "published": "2026-07-15T07:38:35+05:30"
+          },
+          {
+            "title": "Science students face uncertainty as flagship ₹80,000-a-year scholarship remains in limbo",
+            "link": "https://www.hindustantimes.com/india-news/science-students-face-uncertainty-as-flagship-80-000-a-year-scholarship-remains-in-limbo-101784080001058.html",
+            "source": "Hindustan Times",
+            "summary": "The cycle of applications begins every year around September – after college admissions and competitive exam results – and ends by October-November.",
+            "published": "2026-07-15T07:34:30+05:30"
+          },
+          {
+            "title": "Tahir Hussain, armed mob dragged and murdered IB officer Ankit Sharma: Delhi court",
+            "link": "https://www.hindustantimes.com/india-news/tahir-hussain-armed-mob-dragged-and-murdered-ib-officer-ankit-sharma-delhi-court-delhi-riots-101784079119198.html",
+            "source": "Hindustan Times",
+            "summary": "The Delhi court held Tahir Hussain and four others guilty in the murder of Ankit Sharma. Six others were acquitted of all charges in the case.",
+            "published": "2026-07-15T07:14:49+05:30"
+          },
+          {
             "title": "Congress seeks SIR deadline extension in Telangana",
             "link": "https://www.thehindu.com/news/national/telangana/congress-seeks-sir-deadline-extension-in-telangana/article71222530.ece",
             "source": "The Hindu",
@@ -141,56 +176,35 @@
             "published": "2026-07-15T07:03:29+05:30"
           },
           {
+            "title": "Thailand scraps plan to end visa-free entry for Indians",
+            "link": "https://timesofindia.indiatimes.com/india/thailand-scraps-plan-to-end-visa-free-entry-for-indians/articleshow/132403788.cms",
+            "source": "Times of India",
+            "summary": "Thailand will now allow thirty-day visa-exempt entries for Indian visitors. This decision follows a recent drop in arrivals from India impacting tourism. The government aims to align with Indian tourist travel behavior and boost visitor numbers. Previously, Indian tourists enjoyed sixty days visa-free entry to the country. This change reverses an earlier proposal to eliminate visa-free access for many nations.",
+            "published": "2026-07-15T07:02:48+05:30"
+          },
+          {
             "title": "Thief Posing As Beggar Steals Rs 1.5 Lakh Phone From Karnataka Shop",
             "link": "https://www.ndtv.com/india-news/thief-posing-as-beggar-steals-rs-1-5-lakh-phone-from-karnataka-shop-11772651#publisher=newsstand",
             "source": "NDTV",
             "summary": "In a shocking incident in Karnataka's Belagavi, a thief disguised as a beggar allegedly stole a mobile phone worth around Rs 1.5 lakh from a mobile store.",
             "published": "2026-07-15T07:02:44+05:30"
-          },
-          {
-            "title": "Is the undocumented migrant counted?",
-            "link": "https://www.thehindu.com/data/is-the-undocumented-migrant-counted/article71221038.ece",
-            "source": "The Hindu",
-            "summary": "Contrary to the claims that there could be 20 million “illegal Bangladeshi migrants” staying in India, an analysis based on Census data suggests that there is no surge of undocumented migrants from Bangladesh, at least between 1991 and 2011",
-            "published": "2026-07-15T07:01:23+05:30"
-          },
-          {
-            "title": "FTA with UK comes into effect today, exports to get a boost",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/fta-with-uk-comes-into-effect-today-exports-to-get-a-boost/articleshow/132403758.cms",
-            "source": "Times of India",
-            "summary": "The India-UK free trade agreement begins implementation, boosting Indian exports to the UK. Indian service providers and professionals will gain greater access to the United Kingdom market. Many Indian products will enter the UK duty-free, enhancing export competitiveness significantly. Digital service delivery is fully opened, benefiting global capability centers in India. A double contribution convention will save…",
-            "published": "2026-07-15T06:58:40+05:30"
-          },
-          {
-            "title": "Iran Says US' Hormuz Blockade \"Dismantles\" Deal, Both Countries Trade Fire Again",
-            "link": "https://www.ndtv.com/world-news/us-iran-war-iran-says-us-hormuz-blockade-has-dismantled-deal-as-both-countries-exchange-fire-again-trump-issues-new-warning-11772589#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Days of retaliatory strikes across the Middle East by Iran — and both nations' attempts to vie for control of the waterway through which a fifth of the world's oil and natural gas passes during peacetime — threaten to push the region back to all-out war.",
-            "published": "2026-07-15T06:57:22+05:30"
-          },
-          {
-            "title": "20 rebel TMC MPs likely to get new Lok Sabha seats: 'Speaker has assured us'",
-            "link": "https://www.hindustantimes.com/india-news/20-rebel-tmc-mps-likely-to-get-new-lok-sabha-seats-speaker-has-assured-us-101784077658490.html",
-            "source": "Hindustan Times",
-            "summary": "20 of the party’s 28 Lok Sabha MPs decided to merge with the NCPI and aligned themselves with the ruling National Democratic Alliance (NDA).",
-            "published": "2026-07-15T06:55:21+05:30"
-          },
-          {
-            "title": "Quote of the day by Johnny Depp",
-            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-johnny-depp-my-sickness-is-that-im-fascinated-by-human-behaviour-by-whats-underneath-the-surface-by-the-worlds-inside-people-when-the-pirates-of-the-caribbean-star-explained-why-he-chooses-the-most-unconventional-roles/articleshow/132403690.cms",
-            "source": "Times of India",
-            "summary": "In a surprising turn, Johnny Depp is set to bring Ebenezer Scrooge to life in 'Ebenezer: A Christmas Carol,' releasing in late 2026. This role highlights Depp's ongoing fascination with the complexities of human nature. Alongside this, he stars in the thriller 'Day Drinker' alongside Penélope Cruz. His unique career choices reflect his passion for diving deep into character portrayals with psychological depth.",
-            "published": "2026-07-15T06:54:18+05:30"
-          },
-          {
-            "title": "Delhi Police cop who shot wife dead kills self using same service pistol",
-            "link": "https://www.hindustantimes.com/india-news/delhi-police-cop-who-shot-wife-dead-kills-self-using-same-service-pistol-101784078041480.html",
-            "source": "Hindustan Times",
-            "summary": "Prima facie, Kumar said, it appeared that the constable had shot himself 10 to 15 minutes before his body was discovered.",
-            "published": "2026-07-15T06:51:24+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+            "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
+            "published": "2026-07-15T02:01:39+00:00"
+          },
+          {
+            "title": "Spain crashes Paris party by beating France in the World Cup semis",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.",
+            "published": "2026-07-15T02:00:03+00:00"
+          },
           {
             "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
             "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
@@ -260,23 +274,16 @@
             "source": "Al Jazeera",
             "summary": "",
             "published": "2026-07-14T21:51:14+00:00"
-          },
-          {
-            "title": "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
-            "link": "https://www.aljazeera.com/sports/2026/7/14/spain-deliver-masterclass-to-beat-france-2-0-and-reach-world-cup-final?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "European champions Spain beat France with controlled display to book final against Argentina or England.",
-            "published": "2026-07-14T21:39:16+00:00"
-          },
-          {
-            "title": "Are countries prepared to cope with extreme weather?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/14/are-countries-prepared-to-cope-with-extreme-weather?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Severe weather conditions are likely to get worse due to climate change.",
-            "published": "2026-07-14T21:26:07+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "China economic growth falls sharply, missing target",
+            "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+            "published": "2026-07-15T02:22:23+00:00"
+          },
           {
             "title": "Korea’s AI stock rout is becoming a lesson in leveraged excess",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-ai-stock-rout-is-becoming-a-lesson-in-leveraged-excess/articleshow/132403971.cms",
@@ -285,11 +292,11 @@
             "published": "2026-07-15T07:29:59+05:30"
           },
           {
-            "title": "Oil rises after US-Iran hostilities flare again with strikes on energy targets",
-            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-us-iran-hostilities-flare-again-with-strikes-on-energy-targets/articleshow/132403669.cms",
+            "title": "Gold edges higher on soft US inflation, Gulf conflict clouds rate outlook",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-soft-us-inflation-gulf-conflict-clouds-rate-outlook/articleshow/132403970.cms",
             "source": "Economic Times",
-            "summary": "Oil prices increased as President Donald Trump reimposed naval blockades on Iranian ports. Iran retaliated with strikes on United States infrastructure in the region. Brent and West Texas Intermediate crude oil reached their highest levels in weeks. Attacks have deepened supply disruptions in the vital Strait of Hormuz. Hostilities have reignited doubts about a permanent halt to the ongoing conflict.",
-            "published": "2026-07-15T06:41:39+05:30"
+            "summary": "Gold prices saw a slight increase on Wednesday as inflation data eased rate hike worries. Renewed Middle East conflict and rising oil prices, however, limited gains for the precious metal. Traders now anticipate a lower probability of a U.S. interest rate increase this year. Investors await China's economic data, which could impact gold demand from the nation.",
+            "published": "2026-07-15T07:28:11+05:30"
           },
           {
             "title": "Mutual funds boost equity bets in June, favour largecaps and private banks",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
             "published": "2026-07-14T23:00:41+00:00"
-          },
-          {
-            "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-            "link": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-            "published": "2026-07-14T22:17:43+00:00"
           }
         ],
         "Sports": [
@@ -634,6 +634,27 @@
             "published": "2026-07-15T12:28:03+05:30"
           },
           {
+            "title": "IRCTC New Website: ट्रेन यात्रियों को झटका! आज नहीं आएगी IRCTC की नई वेबसाइट, जानिए कब तक करना होगा इंतजार",
+            "link": "https://www.amarujala.com/photo-gallery/utility/irctc-new-website-is-not-launching-on-15-july-2026-ko-irctc-ka-new-portal-launch-nhi-hoga-2026-07-15",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-07-15T07:36:21+05:30"
+          },
+          {
+            "title": "Trump On Hormuz: डोनाल्ड ट्रंप का 24 घंटे में यू-टर्न! होर्मुज पर अचानक बदला फैसला, ईरान ने दी युद्ध की धमकी",
+            "link": "https://hindi.oneindia.com/news/international/trump-takes-u-turn-on-hormuz-strait-tariff-threat-announces-new-policy-as-iran-warns-retaliation-1609089.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-15T07:35:44+05:30"
+          },
+          {
+            "title": "सऊदी अरब ईरान से सीधे लड़ने से क्यों बचता है, 10 गुना ज़्यादा क़ीमत पर क्यों ख़रीद रहा है ड्रोन?",
+            "link": "https://www.bbc.com/hindi/articles/cgeveg5jdd8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-07-15T02:01:46+00:00"
+          },
+          {
             "title": "पुरी रथयात्रा कल से, 6 महीने पहले से होटल बुकिंग:₹1500 का कमरा ₹50 हजार में मिल रहा; हावड़ा में जगन्नाथ यात्रा गोद में निकलती है",
             "link": "https://www.bhaskar.com/g/national/news/puri-jagannath-rath-yatra-hotel-booking-surge-price-odisha-news-138446990.html",
             "source": "Dainik Bhaskar",
@@ -646,13 +667,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-07-15T06:45:31+05:30"
-          },
-          {
-            "title": "Rajasthan IPS Transfers: राजस्थान पुलिस में देर रात बड़ा फेरबदल, 18 आईपीएस अधिकारियों के तबादले",
-            "link": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-government-transfers-18-ips-officers-in-major-police-reshuffle-2026-07-15",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-07-15T06:40:01+05:30"
           },
           {
             "title": "AMC: अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026 के लिए आवेदन आज से शुरू, आवेदन भेजने की अंतिम तिथि 30 जुलाई",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-07-15T06:05:13+05:30"
-          },
-          {
-            "title": "Top News: स्पेन दूसरी बार फीफा विश्वकप के फाइनल में; मैदानी इलाकों में थमा मानसून, होर्मुज में नाकेबंदी शुरू",
-            "link": "https://www.amarujala.com/india-news/top-headlines-today-important-and-big-news-stories-of-15-july-2026-updates-on-amar-ujala-2026-07-15",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-07-15T05:56:50+05:30"
-          },
-          {
-            "title": "गडकरी बोले- 2004 से पेट्रोल में एथेनॉल मिल रहा:गाड़ियों को नुकसान का कोई सबूत नहीं, माइलेज सड़क और ट्रैफिक की स्थिति पर निर्भर",
-            "link": "https://www.bhaskar.com/g/national/news/nitin-gadkari-interview-e20-ethanol-petrol-mileage-car-statement-india-138446861.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-07-15T00:20:47+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ટ્રમ્પને મારી નાખવાની માગ ઈરાનમાં કેમ ઊઠી રહી છે?",
+            "link": "https://www.bbc.com/gujarati/articles/cly8yr3jlxqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-07-15T02:24:56+00:00"
+          },
+          {
             "title": "સરકારે ફરી દોહરાવ્યું- પાસપોર્ટ નાગરિકતાનો પુરાવો નથી:આ વિદેશ યાત્રા માટે જારી થતો દસ્તાવેજ, 8%થી પણ ઓછા ભારતીયો પાસે છે",
             "link": "https://www.divyabhaskar.co.in/national/news/india-government-clarifies-passport-not-proof-of-citizenship-138446981.html",
             "source": "Divya Bhaskar",
@@ -823,13 +830,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-07-14T23:30:00+00:00"
-          },
-          {
-            "title": "ધોલેરા ઍરપૉર્ટ ક્યારે શરૂ થશે, કેન્દ્રીય મંત્રીએ કરી જાહેરાત – ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/cevlvywyz49o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-07-14T16:11:58+00:00"
           },
           {
             "title": "કિરણ મોરેએ એવું શું કર્યું હતું કે જાવેદે કૂદવાનું શરૂ કરી દીધું હતું, મિયાંદાદની કહાણી",
@@ -894,6 +894,20 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "\"டபுள் டீமிங்\" எம்பாப்பே வேகத்தை நிறுத்திய அந்த வியூகம்.. ஸ்பெயினுக்கு வெற்றியை கொடுத்த 2 பேர்!",
+            "link": "https://tamil.oneindia.com/news/sports/fifa-world-cup-how-spain-shackled-france-left-winger-kylian-mbappe-to-reach-the-fifa-world-cup-fina-816333.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-07-15T07:41:27+05:30"
+          },
+          {
+            "title": "ஃபிஃபா உலகக் கோப்பை: பிரான்ஸை வீழ்த்தி ஸ்பெயின் இறுதிப் போட்டிக்கு தகுதி; எம்பாப்பேயின் கனவு கலைந்தது",
+            "link": "https://www.bbc.com/tamil/articles/cr7x7192md8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-07-15T02:04:18+00:00"
+          },
           {
             "title": "வௌவால் கடித்தால் ரேபிஸ் நோய் ஏற்படுமா? - தெரிந்து கொள்ள வேண்டிய தகவல்கள்",
             "link": "https://www.bbc.com/tamil/articles/clyxy3k00j9o?at_medium=RSS&at_campaign=rss",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-07-14T13:56:14+00:00"
-          },
-          {
-            "title": "சாம்சன் - சூர்யவன்ஷியை கையாண்ட விதம் சரியா? கம்பீர் மீது எழும் விமர்சனம்",
-            "link": "https://www.bbc.com/tamil/articles/c6212g2j0g7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-07-14T13:08:50+00:00"
-          },
-          {
-            "title": "'17 நாட்கள் உண்ணாவிரதம்': 8.2 கிலோ எடை இழந்த சோனம் வாங்சுக் - உடல்நிலை குறித்து அதிகரிக்கும் கவலை",
-            "link": "https://www.bbc.com/tamil/articles/c8626j7n32go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-07-14T12:04:23+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,18 +1072,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Karnataka: ఔరా..ఆరు రోజులకే ఆధారా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmxTRUw4OTZNNzd0bHdWcFdvRDdfdDMxdVlza2VabTY4Rkt4aUdHM3JKOUlEc2k5NndlbDgzdFFEZVVtdTZCVW5obDViTzg4VXhUb3dGYzVReXJfbTFaS190RkFuMWo0M3hnd2NqWklBdk4zR2poR1A1RzZSRHRGelRDZ3BwYkVYczBvYWlNeW9ZNzk2YXc?oc=5",
-            "source": "Eenadu",
+            "title": "నేడు భీమవరం, కిర్లంపూడికి వైఎస్ జగన్: ముద్రగడ భౌతికకాయానికి నివాళి",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-to-visit-bhimavaram-and-kirlampudi-today-and-pays-tribute-to-mudragada-padmanabham-497121.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-07-15T01:27:00+00:00"
+            "published": "2026-07-15T07:51:21+05:30"
           },
           {
-            "title": "‘రక్తం’తో రాజకీయం అవసరం లేదు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kMGx5VlRlLWYxRVczOFFrLXktc3JuOWIyUWMxTVF6MXFhY0p3eVNPRXlXWkNYQ3ZLNEdKS2Q1allKb1lOU0U0azdfWnhFZmdWY25PeUdoUTM2cUxXX05ON3phUGlfVkl5djZpMVoteU9OQ1ZGdWfSAXZBVV95cUxPZDBseVZUZS1mMUVXMzhRay15LXNybjliMlFjMU1RejFxYWNKd3lTT0V5V1pDWEN2SzRHSktkNWpZSm9ZTlNFNGs3X1p4RWZnVmNuT3lHaFEzNnFMV19OTjd6YVBpX1ZJeXY2aTFaLXlPTkNWRnVn?oc=5",
+            "title": "వీబీ-జీ రామ్‌జీ: దక్షిణాదిలో ఆంధ్ర, తెలంగాణలోనే వేతనాలు తక్కువగా ఎందుకున్నాయి?",
+            "link": "https://www.bbc.com/telugu/articles/c04y4d136r9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-07-15T02:15:41+00:00"
+          },
+          {
+            "title": "నిచ్చెన ఎక్కాలంటే.. నిబంధనలు పాటించాల్సిందే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ITXBTS1RDeEwwUWNSX3pVeTBDUUJkZWZlRnpiQ2RSM2oxRVJscGtJcGFrTkFPQnlpRUo2UG1VbmNrS0FOMWJYbkp5blVhaEFELUw5S0xRbHBKSFp1T1luSzZxNUhWTnQtWWZXc2NqV2Y4UXF2blHSAXZBVV95cUxPSE1wU0tUQ3hMMFFjUl96VXkwQ1FCZGVmZUZ6YkNkUjNqMUVSbHBrSXBha05BT0J5aUVKNlBtVW5ja0tBTjFiWG5KeW5VYWhBRC1MOUtMUWxwSkhadU9Zbks2cTVIVk50LVlmV3NjaldmOFFxdm5R?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-15T00:36:37+00:00"
+            "published": "2026-07-15T00:35:24+00:00"
           },
           {
             "title": "డోంట్‌కేర్‌.. ఉందిగా బంధుకేర్‌ - Eenadu",
@@ -1093,25 +1100,18 @@
             "published": "2026-07-15T00:35:09+00:00"
           },
           {
-            "title": "వైద్య విద్యలో క్వాంటమ్‌ బయాలజీ, ఫిజిక్స్‌ కోర్సులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FX2gxWVJ0UTFjUXFTUTZLS2tEaUNaWVRxajFCZlZLaHM0VXhFSjdkSUQxZ2tMZVhhdHl2Y2hWeFJ1aW91ZnRkbTJzY2FuNGViRlJjYWVCcHBWOGVfekhxZk9ueTRxSVh2Nl84YzhvMEtJSDVjT28yMW1oN1rSAXxBVV95cUxNRV9oMVlSdFExY1FxU1E2S0trRGlDWllUcWoxQmZWS2hzNFV4RUo3ZElEMWdrTGVYYXR5dmNoVnhSdWlvdWZ0ZG0yc2NhbjRlYkZSY2FlQnBwVjhlX3pIcWZPbnk0cUlYdjZfOGM4bzBLSUg1Y09vMjFtaDda?oc=5",
+            "title": "భవిష్యత్తులో కీలకం కానున్న ఎస్‌ఐఆర్‌-2026 ఓటరు జాబితా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfV2d2dXpRcTM1dkkyanZaLUs2VUNmVVcxcGlDTDlPb1otbm80UjdhSWl4VGplM1gtWUVFdGxnazlNMkhaeU9jb3VBZGFSdkRMVTM0UUx1c1BrVGJvZUwtRHJyVDRxVnM5V1FfVVB0QmhTNTRiMlHSAXZBVV95cUxQX1dndnV6UXEzNXZJMmp2Wi1LNlVDZlVXMXBpQ0w5T29aLW5vNFI3YUlpeFRqZTNYLVlFRXRsZ2s5TTJIWnlPY291QWRhUnZETFUzNFFMdXNQa1Rib2VMLURyclQ0cVZzOVdRX1VQdEJoUzU0YjJR?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-15T00:27:00+00:00"
+            "published": "2026-07-15T00:26:52+00:00"
           },
           {
-            "title": "శ్రీవారి భక్తులను మోసగిస్తున్న తితిదే మాజీ ఉద్యోగి అరెస్టు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03R2tEUkM0UW0xUXBQS1hnWlNVdmxXYjNTSzhSVU1vdEpqcGEtRjJIR2lJbEFMd2YxUWRUQUthd0ZsVFQtMmVEQllSQVVjNVk0cENpbE9SckprNkNRQU9PTG0xTE9KSDBjQ29HS1FpSTRPREh3RU1qeEQ2aE3SAXxBVV95cUxNN0drRFJDNFFtMVFwUEtYZ1pTVXZsV2IzU0s4UlVNb3RKanBhLUYySEdpSWxBTHdmMVFkVEFLYXdGbFRULTJlREJZUkFVYzVZNHBDaWxPUnJKazZDUUFPT0xtMUxPSkgwY0NvR0tRaUk0T0RId0VNanhENmhN?oc=5",
+            "title": "మద్యం రవాణా కేసు.. నిందితుల పీటీ వారంట్లకు కోర్టు అనుమతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFZkJPLU50ckg4anJwT2tEY1FURGhMcjJoWWJWRmhkZlByelRHaUZjMER1enJHaFpaV2pSMnJ0T29zWXlOVi1mY0ZIVEF2aE9XU0FOM0VqN3Exa3RVTjZKSERqbWpzajZqY2VPX1RiYWo1cG9mdENkNFBqRWrSAXxBVV95cUxQRWZCTy1OdHJIOGpycE9rRGNRVERoTHIyaFliVkZoZGZQcnpUR2lGYzBEdXpyR2haWldqUjJydE9vc1l5TlYtZmNGSFRBdmhPV1NBTjNFajdxMWt0VU42SkhEam1qc2o2amNlT19UYmFqNXBvZnRDZDRQakVq?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-15T00:20:56+00:00"
-          },
-          {
-            "title": "సీబీఐ విచారణ కోసం వేసిన పిటిషన్‌ గురించి నాకు సమాచారం లేదు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93V2c1aUk1MkR6YmhaR1pmWXJubndHeHJ1dUtJQjNYYmMxUUx3QmJmTFBDbWlscGtkR3FVeVA4MFVmSDRPZU5tY1dZajl5OVZNa0tBdU5RdDg5ZDQtWHpuMmtoMjBtTDFqMjVDLVhvYm16a3hfMTNCemwwM3jSAXxBVV95cUxPd1dnNWlJNTJEemJoWkdaZllybm53R3hydXVLSUIzWGJjMVFMd0JiZkxQQ21pbHBrZEdxVXlQODBVZkg0T2VObWNXWWo5eTlWTWtLQXVOUXQ4OWQ0LVh6bjJraDIwbUwxajI1Qy1Yb2Jtemt4XzEzQnpsMDN4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-15T00:14:19+00:00"
+            "published": "2026-07-15T00:20:30+00:00"
           },
           {
             "title": "ఓపిక పట్టండి.. రోజువారీ విచారణ చేపడతాం - Eenadu",
@@ -1119,6 +1119,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-14T23:59:42+00:00"
+          },
+          {
+            "title": "చూడి గేదె పొట్టలో నుంచి 66 లోహపు వస్తువుల వెలికితీత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92aFpOYjhyREVrTjgtSWVIUEhJdEJGbUVOVVlieVJVM1hnSElIR08yTFF0WlZjLTBtWmJ2YlhXZjJvZ0p5NllqaTVMWTFOZXBDcl92SngtVXF3ZzhrLVdtbE5wNXBveDNmTW95R2tWT0HSAXBBVV95cUxPdmhaTmI4ckRFa044LUllSFBISXRCRm1FTlVZYnlSVTNYZ0hJSEdPMkxRdFpWYy0wbVpidmJYV2Yyb2dKeTZZamk1TFkxTmVwQ3Jfdkp4LVVxd2c4ay1XbWxOcDVwb3gzZk1veUdrVk9B?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-14T23:59:07+00:00"
           },
           {
             "title": "లేరా.. రారా! - Eenadu",
@@ -1135,25 +1142,18 @@
             "published": "2026-07-14T23:43:57+00:00"
           },
           {
-            "title": "అదగదిగో గోదావరి! - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDNWV3dqRmFLcFczTjhIdnBhdHVsWnhzbk10NmhpcUx1NV9TajUxZUtYRnVFbDZJMVNWZEtlcmhOV2p6Qjd6TXFpUlRudERCd3pNZ2k2eU5UYl9sLU5TTFhWMGhkZnN1aGQtMmh6WXZoTjl2c2dCOENnZko4eEtoc3p3?oc=5",
+            "title": "కదలని కాడి.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGkzejZiZndfTlNDeHdyTkItRm5EY2NPOEptZFNqUEE0dlNOeHpVc1o4eUV6SjkyTmR1ZDVXM2xqTy1za2F4bW44WjZtMjdmTXhFQllNRVg0ZjQ2d1pQZGcxWkpQYi11Q2NVX0JPam85MXpnOHpia0tiS1UxXzdSdFVB?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-14T23:35:33+00:00"
+            "published": "2026-07-14T23:42:35+00:00"
           },
           {
-            "title": "7 జిల్లాల్లో 2 లక్షలకు పైనే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RmoxV2Y0aDEzLXlWQVRWMUtGSXhBNng3RFpuSnVjVldWMmdfSU82NnNwQ3NoSjRqdUVPZlpHamNIZTI2TXM0NTZmYUh4TVpNaWFmY3JnaWJNdUdGVURHQ1p4VXNiT1RhM0JubTBsYU5kSi1ibE02YWRWTlrSAXxBVV95cUxONkZqMVdmNGgxMy15VkFUVjFLRkl4QTZ4N0Rabkp1Y1ZXVjJnX0lPNjZzcENzaEo0anVFT2ZaR2pjSGUyNk1zNDU2ZmFIeE1aTWlhZmNyZ2liTXVHRlVER0NaeFVzYk9UYTNCbm0wbGFOZEotYmxNNmFkVk5a?oc=5",
+            "title": "పోలవరం ప్రాజెక్టుపై ప్రభుత్వం శ్వేతపత్రం విడుదల చేయాలి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqR2pjM0lEYVJoUlZuemdNbXdKTmsydWIxdlV6S3dJWWcxemQ1S1p1RlRKSFFwMGtsR2ZhXzBPeWFBUVhxX3NpbVdGcko0a2FYMkRhVXB5TDZycDVmdVVXQzhFOFdlUDEwLWtsLThrU3dTNzU4bWZUNFhpY0TSAXxBVV95cUxQakdqYzNJRGFSaFJWbnpnTW13Sk5rMnViMXZVekt3SVlnMXpkNUtadUZUSkhRcDBrbEdmYV8wT3lhQVFYcV9zaW1XRnJKNGthWDJEYVVweUw2cnA1ZnVVV0M4RThXZVAxMC1rbC04a1N3Uzc1OG1mVDRYaWNE?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-14T23:17:25+00:00"
-          },
-          {
-            "title": "సమస్య తెలుసు.. అయినా అలుసు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PN0RkOFdlOXo2Skx1M0owSkZwMExwSFQ0WTNQN0tFd25LNzlQN0xPQmFwN09ObkNweGJ2N1o0RVFNaERtVnZwMjh2WlBLM05HYXo0azFWR3dxVzNEb2ZQb0djZVNzWU15U2tmOGtVV2JLUVhLbzZlRGpPOA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-14T23:14:44+00:00"
+            "published": "2026-07-14T23:39:27+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন মিথুন রাশি- ১৫ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFaa1VaVmVVTC1YRnNMM216SzY5WDN5SGVaOV9NZWxZNDY2N2pkdzFfMnJaSll6azVwRnNkcGZlRGFaX1ExQnJUZEZNOVFkUXJxWU1RT0ZQcEIwZFZqUDhLQVFGU0xWSVFNMXhORUFwVktOYTlHOHYwS2pmb1ZGdzJFTjJ6dDRuR3RTNGk0VUt0c2FuU0lUUUhwTXJ3dHR2UHZhZFRUQUJELU3SAbABQVVfeXFMTTVYNUtfZ2F2ZkxXQTl4U0F3SG5PNjhGZnJlampKb3lVN3ItelFYbDl4R0lUVEdudFZDOEh0aTJUdEtxaTZKQnVlR3RWTFFkWncyazA5MEdjT25ES2lBaHJ6ZlE0a3dTaEs1Mlh6OUxDQ2wtVHpVVWdwRG5LbGliVUNOLTFwUkhUbVZ0UXhJLWhELW5weVFNSjFsN1lMQ19UNWVkRFhjbWRBNzJueFJsaUc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-15T02:25:38+00:00"
+          },
+          {
             "title": "সাইবার সুরক্ষা আইনে কী পরিবর্তন এলো?",
             "link": "https://www.bbc.com/bengali/articles/cql1le56w34o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-14T20:45:55+00:00"
-          },
-          {
-            "title": "অন্নপূর্ণা প্রকল্পে দুর্নীতির অভিযোগ তুলে কর্মাধ্যক্ষের বাড়ি ঘেরাও করে বিক্ষোভ বিজেপির, উঠল পদত্যাগ লেখানো ও ডিম ছোড়ার অভিযোগও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEJjaVdWUTY1c2ZPTzh2SEFicVh2S1dvNzY3SE92Szk2NEJNeFdhaTA3QUNBUU15VllqOEdrS0phYkxXNWp1LWtJX2l2bmtSeGVWci1WcDNhYnlxdUxuN0JCUTRLa1lUeVNlSDItTlJ0bjNWOHBCM2Q1RS03a2RlaWc4SkJtNGZNTWpIT2RyV01rT1lDVHp6ekEtZEk4TzFiT0ZWZmFVYXdYR051ZEF4VHFNd0JvVjZBeDBDbXU5bUXSAcABQVVfeXFMTXRCY2lXVlE2NXNmT084dkhBYnFYdktXbzc2N0hPdks5NjRCTXhXYWkwN0FDQVFNeVZZajhHa0tKYWJMVzVqdS1rSV9pdm5rUnhlVnItVnAzYWJ5cXVMbjdCQlE0S2tZVHlTZUgyLU5SdG4zVjhwQjNkNUUtN2tkZWlnOEpCbTRmTU1qSE9kcldNa09ZQ1R6enpBLWRJOE8xYk9GVmZhVWF3WEdOdWRBeFRxTXdCb1Y2QXgwQ211OW1F?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-14T20:37:39+00:00"
           }
         ]
       }
