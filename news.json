@@ -1,202 +1,223 @@
 {
-  "updated_at": "2026-07-15T17:31:41.367424+00:00",
+  "updated_at": "2026-07-15T18:01:47.008553+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Bengaluru: Police nab four inter-State drug peddlers who challenged cops; MDMA worth ₹34 crore seized",
+            "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-police-nab-four-inter-state-drug-peddlers-who-challenged-cops-mdma-worth-34-crore-seized/article71226666.ece",
+            "source": "The Hindu",
+            "summary": "One of the accused, a Nigerian national, had allegedly posted on social media that he would continue peddling drugs in the State despite the police crackdown.",
+            "published": "2026-07-15T23:28:44+05:30"
+          },
+          {
+            "title": "Minor earthquake strikes Krishnagiri district",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/minor-earthquake-strikes-krishnagiri-district/article71226792.ece",
+            "source": "The Hindu",
+            "summary": "The Regional Meteorological Centre said the earthquake originated at a depth of 10 km",
+            "published": "2026-07-15T23:25:25+05:30"
+          },
+          {
+            "title": "VIT gets ₹50 lakh endowment fund for student innovation programmes",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vit-gets-50-lakh-endowment-fund-for-student-innovation-programmes/article71226026.ece",
+            "source": "The Hindu",
+            "summary": "The initiative will extend beyond financial assistance by offering industry mentorship, startup guidance, and leadership development opportunities",
+            "published": "2026-07-15T23:25:09+05:30"
+          },
+          {
+            "title": "SC declines to interfere with HC relief to ex-DMK Minister E.V. Velu in Highways scam case",
+            "link": "https://www.thehindu.com/news/national/sc-declines-to-interfere-with-hc-relief-to-ex-dmk-minister-ev-velu-in-highways-scam-case/article71225163.ece",
+            "source": "The Hindu",
+            "summary": "The DVAC registered the FIR against Mr. Velu, certain government officials and a contractor on June 24 based on a complaint filed in 2022 by anti-corruption NGO Arappor Iyakkam",
+            "published": "2026-07-15T23:20:07+05:30"
+          },
+          {
+            "title": "Bidadi project: Hours after Karnataka Chief Minister announces review panel, govt. issues final land notification for acquiring 4,944.49 acres across four villages",
+            "link": "https://www.thehindu.com/news/cities/bangalore/bidadi-project-hours-after-karnataka-chief-minister-announces-review-panel-govt-issues-final-land-notification-for-acquiring-494449-acres-across-four-villages/article71226465.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-07-15T23:18:48+05:30"
+          },
+          {
+            "title": "Clamour for new police station at Vyttila grows louder",
+            "link": "https://www.thehindu.com/news/national/kerala/clamour-for-new-police-station-at-vyttila-grows-louder/article71225983.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-07-15T23:16:38+05:30"
+          },
+          {
+            "title": "TCS opens industrial AI solutions Lab in Bengaluru with NVIDIA",
+            "link": "https://www.thehindu.com/news/national/karnataka/tcs-opens-industrial-ai-solutions-lab-in-bengaluru-with-nvidia/article71226361.ece",
+            "source": "The Hindu",
+            "summary": "The new facility is expected to serve as a physical AI hub to accelerate the development and real-world deployment of AI-led solutions across mobility and manufacturing using NVIDIA AI Infrastructure.",
+            "published": "2026-07-15T23:15:47+05:30"
+          },
+          {
+            "title": "Centre approves two multitracking projects costing ₹3,907 crore across Odisha and Jharkhand",
+            "link": "https://www.thehindu.com/news/national/centre-approves-two-multitracking-projects-costing-3907-crore-across-odisha-and-jharkhand/article71225365.ece",
+            "source": "The Hindu",
+            "summary": "The two projects covering four districts across the States of Odisha and Jharkhand will increase the existing network of Indian Railways by about 145 kms",
+            "published": "2026-07-15T23:13:50+05:30"
+          },
+          {
+            "title": "NDA-ally National People’s Party seeks fortification of police station in Manipur’s Ukhrul",
+            "link": "https://www.thehindu.com/news/national/manipur/nda-ally-national-peoples-party-seeks-fortification-of-police-station-in-manipurs-ukhrul/article71225772.ece",
+            "source": "The Hindu",
+            "summary": "In a letter to the Home Minister of Manipur, the party said that a field inspection of the region, which saw a fresh wave of violence, had revealed ‘significant challenges’ confronting law enforcement authorities",
+            "published": "2026-07-15T23:11:43+05:30"
+          },
+          {
+            "title": "Agnikul ropes in former ISRO chairman Somanath ahead of Mission 02",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/agnikul-ropes-in-former-isro-chairman-somanath-ahead-of-mission-02/article71226592.ece",
+            "source": "The Hindu",
+            "summary": "Mission 02 will fly a two-stage Agnibaan configuration in which the first-stage booster, after separation, will attempt a controlled descent and ocean recovery",
+            "published": "2026-07-15T23:09:32+05:30"
+          },
+          {
+            "title": "Over 10,000 students from government schools across Chennai take part in cleanliness campaign",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/over-10000-students-from-government-schools-across-chennai-take-part-in-cleanliness-campaign/article71226862.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-07-15T23:08:56+05:30"
+          },
+          {
+            "title": "Mapping the latest US strikes across Iran",
+            "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US attacks kill dozens in Iran as Iranian forces target regional bases, pushing a fragile ceasefire closer to collapse.",
+            "published": "2026-07-15T17:38:54+00:00"
+          },
+          {
+            "title": "Roads Ministry issues public consultation guidelines for highway projects after Public Accounts Committee makes recommendations",
+            "link": "https://www.thehindu.com/news/national/roads-ministry-issues-public-consultation-guidelines-for-highway-projects-after-public-accounts-committee-makes-recommendations/article71226727.ece",
+            "source": "The Hindu",
+            "summary": "NHAI to register larger sub-contractors; MPs flag toll plaza facilities, traffic underreporting, and commuter concerns",
+            "published": "2026-07-15T23:06:29+05:30"
+          },
+          {
             "title": "Taylor's second straight ton seals 3-0 sweep for West Indies",
             "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Afy Fletcher led the bowling attack with three key wickets as Ireland were bowled out for 193 in the chase of 258",
-            "published": "2026-07-15T17:25:26+00:00"
-          },
-          {
-            "title": "SpaceX share price drops below stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-            "published": "2026-07-15T17:23:25+00:00"
-          },
-          {
-            "title": "Jones Act waiver extension on the table as Iran tensions threaten US fuel prices - report",
-            "link": "https://timesofindia.indiatimes.com/world/us/jones-act-waiver-extension-on-the-table-as-iran-tensions-threaten-us-fuel-prices-report/articleshow/132421196.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-07-15T22:45:32+05:30"
-          },
-          {
-            "title": "Proposed apartment law may not be perfect, but it is a good start: Greater Bengaluru Development Minister Krishna Byre Gowda",
-            "link": "https://www.thehindu.com/news/cities/bangalore/proposed-apartment-law-may-not-be-perfect-but-it-is-a-good-start-greater-bengaluru-development-minister-krishna-byre-gowda/article71227042.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Gowda pointed out that the existing laws were enacted over 50 years ago, and the city had grown by leaps and bounds since then.",
-            "published": "2026-07-15T22:44:11+05:30"
-          },
-          {
-            "title": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
-            "link": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Blanche&#039;s actions have raised questions over the independence of the Department of Justice, which he currently leads.",
-            "published": "2026-07-15T17:14:07+00:00"
-          },
-          {
-            "title": "IAS officers reshuffled in Tamil Nadu: J. Radhakrishnan, Supriya Sahu transferred",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/ias-officers-reshuffled-in-tamil-nadu-j-radhakrishnan-supriya-sahu-transferred/article71226990.ece",
-            "source": "The Hindu",
-            "summary": "P. Umanath, formerly Chairman and Managing Director, Tamil Nadu Civil Supplies Corporation, is posted as Industries Commissioner and Director of Industries and Commerce, replacing Nirmal Raj",
-            "published": "2026-07-15T22:43:31+05:30"
-          },
-          {
-            "title": "PM Modi to virtually inaugurate upgraded Hi-Tech City railway station on July 17",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/pm-modi-to-virtually-inaugurate-upgraded-hi-tech-city-railway-station-on-july-17/article71225603.ece",
-            "source": "The Hindu",
-            "summary": "The station, which has been redeveloped at a cost of ₹26 crore, features a 12-metre-wide foot overbridge, additional lifts and escalators, improved signage and other passenger amenities",
-            "published": "2026-07-15T22:42:42+05:30"
-          },
-          {
-            "title": "US stocks today: Markets open in green despite Iran war tensions, oil price swings",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-15-july-2026-markets-open-in-green-despite-iran-war-tensions-oil-price-swings/articleshow/132421177.cms",
-            "source": "Times of India",
-            "summary": "US stock markets saw gains on Wednesday, driven by strong corporate earnings reports. Investors also reacted positively to recent inflation data, which showed a notable slowdown. This easing inflation reduced expectations for an imminent interest rate hike by the Federal Reserve. However, ongoing Middle East tensions kept global energy supply concerns elevated. Asian and European markets also posted gains, with…",
-            "published": "2026-07-15T22:40:23+05:30"
-          },
-          {
-            "title": "Doc killed in Dharwad flat; mentally ill son found injured",
-            "link": "https://timesofindia.indiatimes.com/city/hubballi/doc-killed-in-dharwad-flat-mentally-ill-son-found-injured/articleshow/132420367.cms",
-            "source": "Times of India",
-            "summary": "Wife detained as police probe conflicting statements; motive yet to be ascertained",
-            "published": "2026-07-15T22:37:42+05:30"
-          },
-          {
-            "title": "Complete road improvement works in Mysuru a week before Dasara starts, Minister tells MCC",
-            "link": "https://www.thehindu.com/news/national/karnataka/complete-road-improvement-works-in-mysuru-a-week-before-dasara-starts-minister-tells-mcc/article71225664.ece",
-            "source": "The Hindu",
-            "summary": "Road works have prolonged and continued through Dasara in the past years.",
-            "published": "2026-07-15T22:35:03+05:30"
-          },
-          {
-            "title": "The Odyssey is a 'colossal piece of cinema', critics say in rave reviews",
-            "link": "https://www.bbc.co.uk/news/articles/c20y0rn9052o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The film, starring Matt Damon and Zendaya, is director Sir Christopher Nolan's first since Oppenheimer.",
-            "published": "2026-07-15T17:04:58+00:00"
-          },
-          {
-            "title": "Mysuru: Yathindra Siddaramaiah hints at induction of new faces into Cabinet",
-            "link": "https://www.thehindu.com/news/national/karnataka/mysuru-yathindra-siddaramaiah-hints-at-induction-of-new-faces-into-cabinet/article71225737.ece",
-            "source": "The Hindu",
-            "summary": "Dr. Yathindra said the Cabinet expansion had been delayed owing to elections to the Legislative Council and the Rajya Sabha, but expressed hope that the exercise would be taken up soon.",
-            "published": "2026-07-15T22:34:57+05:30"
-          },
-          {
-            "title": "Yathindra Siddaramaiah reviews preparations for Ashada Fridays at Chamundi Hills in Mysuru",
-            "link": "https://www.thehindu.com/news/national/karnataka/yathindra-siddaramaiah-reviews-preparations-for-ashada-fridays-at-chamundi-hills-in-mysuru/article71225562.ece",
-            "source": "The Hindu",
-            "summary": "Though arrangements had been made for VIP darshan on Ashada Fridays, Dr. Yathindra said there would be no inconvenience to other devotees.",
-            "published": "2026-07-15T22:34:50+05:30"
-          },
-          {
-            "title": "Doctor found dead in Dharwad, 8-year-old son battling for life",
-            "link": "https://www.thehindu.com/news/national/karnataka/doctor-found-dead-in-dharwad-8-year-old-son-battling-for-life/article71226849.ece",
-            "source": "The Hindu",
-            "summary": "Doctor’s wife who is also a doctor has been taken into custody",
-            "published": "2026-07-15T22:31:53+05:30"
+            "published": "2026-07-15T17:34:49+00:00"
           }
         ],
         "India": [
           {
-            "title": "Jones Act waiver extension on the table as Iran tensions threaten US fuel prices - report",
-            "link": "https://timesofindia.indiatimes.com/world/us/jones-act-waiver-extension-on-the-table-as-iran-tensions-threaten-us-fuel-prices-report/articleshow/132421196.cms",
-            "source": "Times of India",
+            "title": "Bengaluru: Police nab four inter-State drug peddlers who challenged cops; MDMA worth ₹34 crore seized",
+            "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-police-nab-four-inter-state-drug-peddlers-who-challenged-cops-mdma-worth-34-crore-seized/article71226666.ece",
+            "source": "The Hindu",
+            "summary": "One of the accused, a Nigerian national, had allegedly posted on social media that he would continue peddling drugs in the State despite the police crackdown.",
+            "published": "2026-07-15T23:28:44+05:30"
+          },
+          {
+            "title": "Minor earthquake strikes Krishnagiri district",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/minor-earthquake-strikes-krishnagiri-district/article71226792.ece",
+            "source": "The Hindu",
+            "summary": "The Regional Meteorological Centre said the earthquake originated at a depth of 10 km",
+            "published": "2026-07-15T23:25:25+05:30"
+          },
+          {
+            "title": "VIT gets ₹50 lakh endowment fund for student innovation programmes",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vit-gets-50-lakh-endowment-fund-for-student-innovation-programmes/article71226026.ece",
+            "source": "The Hindu",
+            "summary": "The initiative will extend beyond financial assistance by offering industry mentorship, startup guidance, and leadership development opportunities",
+            "published": "2026-07-15T23:25:09+05:30"
+          },
+          {
+            "title": "SC declines to interfere with HC relief to ex-DMK Minister E.V. Velu in Highways scam case",
+            "link": "https://www.thehindu.com/news/national/sc-declines-to-interfere-with-hc-relief-to-ex-dmk-minister-ev-velu-in-highways-scam-case/article71225163.ece",
+            "source": "The Hindu",
+            "summary": "The DVAC registered the FIR against Mr. Velu, certain government officials and a contractor on June 24 based on a complaint filed in 2022 by anti-corruption NGO Arappor Iyakkam",
+            "published": "2026-07-15T23:20:07+05:30"
+          },
+          {
+            "title": "Bidadi project: Hours after Karnataka Chief Minister announces review panel, govt. issues final land notification for acquiring 4,944.49 acres across four villages",
+            "link": "https://www.thehindu.com/news/cities/bangalore/bidadi-project-hours-after-karnataka-chief-minister-announces-review-panel-govt-issues-final-land-notification-for-acquiring-494449-acres-across-four-villages/article71226465.ece",
+            "source": "The Hindu",
             "summary": "",
-            "published": "2026-07-15T22:45:32+05:30"
+            "published": "2026-07-15T23:18:48+05:30"
           },
           {
-            "title": "Proposed apartment law may not be perfect, but it is a good start: Greater Bengaluru Development Minister Krishna Byre Gowda",
-            "link": "https://www.thehindu.com/news/cities/bangalore/proposed-apartment-law-may-not-be-perfect-but-it-is-a-good-start-greater-bengaluru-development-minister-krishna-byre-gowda/article71227042.ece",
+            "title": "Clamour for new police station at Vyttila grows louder",
+            "link": "https://www.thehindu.com/news/national/kerala/clamour-for-new-police-station-at-vyttila-grows-louder/article71225983.ece",
             "source": "The Hindu",
-            "summary": "Mr. Gowda pointed out that the existing laws were enacted over 50 years ago, and the city had grown by leaps and bounds since then.",
-            "published": "2026-07-15T22:44:11+05:30"
-          },
-          {
-            "title": "IAS officers reshuffled in Tamil Nadu: J. Radhakrishnan, Supriya Sahu transferred",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/ias-officers-reshuffled-in-tamil-nadu-j-radhakrishnan-supriya-sahu-transferred/article71226990.ece",
-            "source": "The Hindu",
-            "summary": "P. Umanath, formerly Chairman and Managing Director, Tamil Nadu Civil Supplies Corporation, is posted as Industries Commissioner and Director of Industries and Commerce, replacing Nirmal Raj",
-            "published": "2026-07-15T22:43:31+05:30"
-          },
-          {
-            "title": "PM Modi to virtually inaugurate upgraded Hi-Tech City railway station on July 17",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/pm-modi-to-virtually-inaugurate-upgraded-hi-tech-city-railway-station-on-july-17/article71225603.ece",
-            "source": "The Hindu",
-            "summary": "The station, which has been redeveloped at a cost of ₹26 crore, features a 12-metre-wide foot overbridge, additional lifts and escalators, improved signage and other passenger amenities",
-            "published": "2026-07-15T22:42:42+05:30"
-          },
-          {
-            "title": "US stocks today: Markets open in green despite Iran war tensions, oil price swings",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-15-july-2026-markets-open-in-green-despite-iran-war-tensions-oil-price-swings/articleshow/132421177.cms",
-            "source": "Times of India",
-            "summary": "US stock markets saw gains on Wednesday, driven by strong corporate earnings reports. Investors also reacted positively to recent inflation data, which showed a notable slowdown. This easing inflation reduced expectations for an imminent interest rate hike by the Federal Reserve. However, ongoing Middle East tensions kept global energy supply concerns elevated. Asian and European markets also posted gains, with…",
-            "published": "2026-07-15T22:40:23+05:30"
-          },
-          {
-            "title": "Doc killed in Dharwad flat; mentally ill son found injured",
-            "link": "https://timesofindia.indiatimes.com/city/hubballi/doc-killed-in-dharwad-flat-mentally-ill-son-found-injured/articleshow/132420367.cms",
-            "source": "Times of India",
-            "summary": "Wife detained as police probe conflicting statements; motive yet to be ascertained",
-            "published": "2026-07-15T22:37:42+05:30"
-          },
-          {
-            "title": "Complete road improvement works in Mysuru a week before Dasara starts, Minister tells MCC",
-            "link": "https://www.thehindu.com/news/national/karnataka/complete-road-improvement-works-in-mysuru-a-week-before-dasara-starts-minister-tells-mcc/article71225664.ece",
-            "source": "The Hindu",
-            "summary": "Road works have prolonged and continued through Dasara in the past years.",
-            "published": "2026-07-15T22:35:03+05:30"
-          },
-          {
-            "title": "Mysuru: Yathindra Siddaramaiah hints at induction of new faces into Cabinet",
-            "link": "https://www.thehindu.com/news/national/karnataka/mysuru-yathindra-siddaramaiah-hints-at-induction-of-new-faces-into-cabinet/article71225737.ece",
-            "source": "The Hindu",
-            "summary": "Dr. Yathindra said the Cabinet expansion had been delayed owing to elections to the Legislative Council and the Rajya Sabha, but expressed hope that the exercise would be taken up soon.",
-            "published": "2026-07-15T22:34:57+05:30"
-          },
-          {
-            "title": "Yathindra Siddaramaiah reviews preparations for Ashada Fridays at Chamundi Hills in Mysuru",
-            "link": "https://www.thehindu.com/news/national/karnataka/yathindra-siddaramaiah-reviews-preparations-for-ashada-fridays-at-chamundi-hills-in-mysuru/article71225562.ece",
-            "source": "The Hindu",
-            "summary": "Though arrangements had been made for VIP darshan on Ashada Fridays, Dr. Yathindra said there would be no inconvenience to other devotees.",
-            "published": "2026-07-15T22:34:50+05:30"
-          },
-          {
-            "title": "Doctor found dead in Dharwad, 8-year-old son battling for life",
-            "link": "https://www.thehindu.com/news/national/karnataka/doctor-found-dead-in-dharwad-8-year-old-son-battling-for-life/article71226849.ece",
-            "source": "The Hindu",
-            "summary": "Doctor’s wife who is also a doctor has been taken into custody",
-            "published": "2026-07-15T22:31:53+05:30"
-          },
-          {
-            "title": "Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi",
-            "link": "https://timesofindia.indiatimes.com/india/cabinet-approves-rs-25000-cr-ganga-varuna-corridors-for-varanasi/articleshow/132421106.cms",
-            "source": "Times of India",
             "summary": "",
-            "published": "2026-07-15T22:31:07+05:30"
+            "published": "2026-07-15T23:16:38+05:30"
           },
           {
-            "title": "Ram Temple embezzlement episode has hurt devotees, says CM Yogi",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/ayodhya-incident-hurt-faith-of-ram-devotees-uttar-pradesh-chief-minister-adityanath-on-donation-theft-issue/article71224674.ece",
+            "title": "TCS opens industrial AI solutions Lab in Bengaluru with NVIDIA",
+            "link": "https://www.thehindu.com/news/national/karnataka/tcs-opens-industrial-ai-solutions-lab-in-bengaluru-with-nvidia/article71226361.ece",
             "source": "The Hindu",
-            "summary": "Uttar Pradesh Chief Minister Yogi Adityanath accused the opposition of politicising the issue and lacking moral standing to speak on the matter",
-            "published": "2026-07-15T22:29:05+05:30"
+            "summary": "The new facility is expected to serve as a physical AI hub to accelerate the development and real-world deployment of AI-led solutions across mobility and manufacturing using NVIDIA AI Infrastructure.",
+            "published": "2026-07-15T23:15:47+05:30"
+          },
+          {
+            "title": "Centre approves two multitracking projects costing ₹3,907 crore across Odisha and Jharkhand",
+            "link": "https://www.thehindu.com/news/national/centre-approves-two-multitracking-projects-costing-3907-crore-across-odisha-and-jharkhand/article71225365.ece",
+            "source": "The Hindu",
+            "summary": "The two projects covering four districts across the States of Odisha and Jharkhand will increase the existing network of Indian Railways by about 145 kms",
+            "published": "2026-07-15T23:13:50+05:30"
+          },
+          {
+            "title": "NDA-ally National People’s Party seeks fortification of police station in Manipur’s Ukhrul",
+            "link": "https://www.thehindu.com/news/national/manipur/nda-ally-national-peoples-party-seeks-fortification-of-police-station-in-manipurs-ukhrul/article71225772.ece",
+            "source": "The Hindu",
+            "summary": "In a letter to the Home Minister of Manipur, the party said that a field inspection of the region, which saw a fresh wave of violence, had revealed ‘significant challenges’ confronting law enforcement authorities",
+            "published": "2026-07-15T23:11:43+05:30"
+          },
+          {
+            "title": "Agnikul ropes in former ISRO chairman Somanath ahead of Mission 02",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/agnikul-ropes-in-former-isro-chairman-somanath-ahead-of-mission-02/article71226592.ece",
+            "source": "The Hindu",
+            "summary": "Mission 02 will fly a two-stage Agnibaan configuration in which the first-stage booster, after separation, will attempt a controlled descent and ocean recovery",
+            "published": "2026-07-15T23:09:32+05:30"
+          },
+          {
+            "title": "Over 10,000 students from government schools across Chennai take part in cleanliness campaign",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/over-10000-students-from-government-schools-across-chennai-take-part-in-cleanliness-campaign/article71226862.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-07-15T23:08:56+05:30"
+          },
+          {
+            "title": "Roads Ministry issues public consultation guidelines for highway projects after Public Accounts Committee makes recommendations",
+            "link": "https://www.thehindu.com/news/national/roads-ministry-issues-public-consultation-guidelines-for-highway-projects-after-public-accounts-committee-makes-recommendations/article71226727.ece",
+            "source": "The Hindu",
+            "summary": "NHAI to register larger sub-contractors; MPs flag toll plaza facilities, traffic underreporting, and commuter concerns",
+            "published": "2026-07-15T23:06:29+05:30"
           }
         ],
         "World": [
           {
+            "title": "Mapping the latest US strikes across Iran",
+            "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US attacks kill dozens in Iran as Iranian forces target regional bases, pushing a fragile ceasefire closer to collapse.",
+            "published": "2026-07-15T17:38:54+00:00"
+          },
+          {
+            "title": "French MPs approve assisted dying law with strict rules after years of argument",
+            "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+            "published": "2026-07-15T17:29:26+00:00"
+          },
+          {
             "title": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
             "link": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Blanche&#039;s actions have raised questions over the independence of the Department of Justice, which he currently leads.",
+            "summary": "Blanche&#039;s actions have raised questions about the independence of the Department of Justice, which he currently leads.",
             "published": "2026-07-15T17:14:07+00:00"
+          },
+          {
+            "title": "More people around the world now favour China over the US, Pew study suggests",
+            "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+            "published": "2026-07-15T17:02:41+00:00"
           },
           {
             "title": "Why are right-wing parties gaining ground in Latin America?",
@@ -218,6 +239,13 @@
             "source": "Al Jazeera",
             "summary": "A cruise ship-turned-luxury floating hotel that has been idle for about 14 years rolled onto its side while docked.",
             "published": "2026-07-15T16:55:01+00:00"
+          },
+          {
+            "title": "Five arrested after Hong Kong police raid independent bookshops",
+            "link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
+            "published": "2026-07-15T16:51:07+00:00"
           },
           {
             "title": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
             "published": "2026-07-15T16:24:39+00:00"
-          },
-          {
-            "title": "World Cup: Spain and Barcelona star Yamal’s home hit by attempted burglary",
-            "link": "https://www.aljazeera.com/sports/2026/7/15/world-cup-spain-and-barcelona-star-yamals-home-hit-by-attempted-burglary?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Lamine Yamal&#039;s targeted home was formerly owned by Barca great Gerard Pique and Colombian music star Shakira.",
-            "published": "2026-07-15T16:22:28+00:00"
-          },
-          {
-            "title": "Revamped Cricket World Cup format could see an additional India-Pakistan match",
-            "link": "https://www.aljazeera.com/sports/2026/7/15/revamped-cricket-world-cup-format-could-see-an-additional-india-pakistan-match?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The 14-team 2027 ODI tournament in Africa will have a Super Seven stage but no quarterfinals.",
-            "published": "2026-07-15T16:14:05+00:00"
-          },
-          {
-            "title": "Atlanta police gear up for trouble at England vs Argentina World Cup match",
-            "link": "https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The host city will have advanced security in place as a proactive measure against any potential crowd trouble between fans.",
-            "published": "2026-07-15T16:12:32+00:00"
-          },
-          {
-            "title": "Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.",
-            "published": "2026-07-15T16:02:21+00:00"
           }
         ],
         "Business": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1545756.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Afy Fletcher led the bowling attack with three key wickets as Ireland were bowled out for 193 in the chase of 258",
-            "published": "2026-07-15T17:25:26+00:00"
+            "published": "2026-07-15T17:34:49+00:00"
           },
           {
             "title": "Netherlands recall Pringle, Zulfiqar for ODIs against Nepal and Namibia",
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "MCD–NDDB के बीच MoU साइन, यमुना नहीं होगी प्रदूषित, टनों गोबर से रोज बनेगी कंप्रेस्ड बायो गैस और ऑर्गेनिक खाद",
+            "link": "https://hindi.oneindia.com/news/delhi/mcd-nddb-mou-for-cbg-project-in-delhi-yamuna-to-be-cleaned-compressed-biogas-and-organic-manure-to-1609747.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-15T23:20:12+05:30"
+          },
+          {
             "title": "Azam Khan की यूनिवर्सिटी चलेगा CM Yogi सरकार का बुलडोजर, रामपुर में ढहेंगी 20 साल पुरानी 38 इमारतें",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/rampur-azam-khan-mohammad-ali-jauhar-university-38-buildings-demolished-cm-yogi-bulldozers-action-1609733.html",
             "source": "Oneindia Hindi",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-07-15T20:31:10+05:30"
-          },
-          {
-            "title": "राजनीतिक दलों के वादे, करोड़ों खर्च फिर क्यों साफ़ नहीं हो पा रही यमुना? ग्राउंड रिपोर्ट",
-            "link": "https://www.bbc.com/hindi/articles/cg747x0rgn9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-07-15T14:47:44+00:00"
           }
         ],
         "Entertainment": [
@@ -1121,13 +1121,6 @@
             "published": "2026-07-15T20:56:06+05:30"
           },
           {
-            "title": "ఏపీ మద్యం రవాణా కేసు.. నిందితుల కస్టడీకి కోర్టు అనుమతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN3Zodnc5ZmhGLXk5Z3pxOUMtdkY1NXJZSmJENzR3TmRTM3N1cF92SDQ0V0hGNWxJbDdnWUlQMnZIaENPWU03SHZHRG9JU1M0SXR5YThzV2pFSWl2V2Rrb2hJQ1VKWlYwZWFfdHlPQUtPNDRPbVJET3BMVnVwTkg5NHpTX0J1TGNRMG9ONERJZlRZUS1DcG9EX0FFSnc3OFdPMFJmNTZZNGlLTVU4YjRrVXBKRkx0dndOQV83ZE02OFBubnMyT2VLYXNSX0NWUWNwb0pZMVhn0gHWAUFVX3lxTE03dmh2dzlmaEYteTlnenE5Qy12RjU1cllKYkQ3NHdOZFMzc3VwX3ZINDRXSEY1bElsN2dZSVAydkhoQ09ZTTdIdkdEb0lTUzRJdHlhOHNXakVJaXZXZGtvaElDVUpaVjBlYV90eU9BS080NE9tUkRPcExWdXBOSDk0elNfQnVMY1Ewb040RElmVFlRLUNwb0RfQUVKdzc4V08wUmY1Nlk0aUtNVThiNGtVcEpGTHR2d05BXzdkTTY4UG5uczJPZUthc1JfQ1ZRY3BvSlkxWGc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-15T14:53:54+00:00"
-          },
-          {
             "title": "Sheikh Hasina: షేక్ హసీనాకు బంగ్లాదేశ్ సర్కార్ ఆహ్వానం..! బంపర్ ఆఫర్..!",
             "link": "https://telugu.oneindia.com/news/international/bangladesh-welcomes-sheikh-hasinas-return-challenged-to-bring-the-best-lawyers-in-the-world-497253.html",
             "source": "Oneindia Telugu",
@@ -1154,6 +1147,13 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-07-15T13:58:09+00:00"
+          },
+          {
+            "title": "ముద్రగడ పద్మనాభం: 'పట్టుదలకు, దీక్షలకు మారుపేరు' అనిపించుకున్న నాయకుడు",
+            "link": "https://www.bbc.com/telugu/articles/cnv9v086r76o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-07-15T13:07:56+00:00"
           }
         ],
         "Entertainment": [
@@ -1335,6 +1335,13 @@
         ],
         "Entertainment": [
           {
+            "title": "ಕ್ಯಾನ್ಸರ್ ವಿರುದ್ಧ ನಟಿ ಉಮಾ ಶಂಕರಿ ಹೋರಾಟ: ಭಾವುಕ ಪೋಸ್ಟ್ ಹಂಚಿಕೊಂಡ ಉಪ್ಪಿದಾದಾ MBBS ನಟಿ",
+            "link": "https://kannada.oneindia.com/entertainment/uppi-dada-mbbs-actress-uma-shankari-battles-cancer-shares-emotional-health-update-post-461585.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-07-15T23:25:53+05:30"
+          },
+          {
             "title": "ಸಾಮಾನ್ಯರಿಗೆ ನೋ ಎಂಟ್ರಿ: ದಳಪತಿ ವಿಜಯ್ ಕೊನೆಯ ಸಿನಿಮಾ 'ಜನನಾಯಗನ್' ನೋಡಲು ಹೊಸ ರೂಲ್ಸ್",
             "link": "https://kannada.oneindia.com/entertainment/thalapathy-vijay-final-film-jana-nayagan-creates-buzz-vip-ticket-sales-begin-in-canada-461583.html",
             "source": "Oneindia Kannada",
@@ -1410,13 +1417,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-07-14T16:56:53+05:30"
-          },
-          {
-            "title": "ತಾತನಂತೆ ಪಾಲಿಟಿಕ್ಸ್‌ಗೆ ಬರಲು ರೆಡಿಯಾದ್ರಾ ನಟ ಜೂನಿಯರ್‌ ಎನ್‌ಟಿಆರ್‌? ಆ ಪಕ್ಷದಿಂದಲೇ ಗೆಲ್ತಾರೆ ಎಂದ ಜನ",
-            "link": "https://kannada.oneindia.com/entertainment/tollywood-star-jr-ntr-political-entry-rumours-actors-team-breaks-silence-on-viral-speculation-461401.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-07-14T16:50:51+05:30"
           }
         ]
       }
@@ -1426,18 +1426,18 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন মিথুন রাশি- ১৫ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFaa1VaVmVVTC1YRnNMM216SzY5WDN5SGVaOV9NZWxZNDY2N2pkdzFfMnJaSll6azVwRnNkcGZlRGFaX1ExQnJUZEZNOVFkUXJxWU1RT0ZQcEIwZFZqUDhLQVFGU0xWSVFNMXhORUFwVktOYTlHOHYwS2pmb1ZGdzJFTjJ6dDRuR3RTNGk0VUt0c2FuU0lUUUhwTXJ3dHR2UHZhZFRUQUJELU3SAbABQVVfeXFMTTVYNUtfZ2F2ZkxXQTl4U0F3SG5PNjhGZnJlampKb3lVN3ItelFYbDl4R0lUVEdudFZDOEh0aTJUdEtxaTZKQnVlR3RWTFFkWncyazA5MEdjT25ES2lBaHJ6ZlE0a3dTaEs1Mlh6OUxDQ2wtVHpVVWdwRG5LbGliVUNOLTFwUkhUbVZ0UXhJLWhELW5weVFNSjFsN1lMQ19UNWVkRFhjbWRBNzJueFJsaUc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-15T17:33:54+00:00"
+          },
+          {
             "title": "কালীঘাট ছেড়ে ঋতব্রত শিবিরে, অবস্থান বদলে মদন বললেন, ‘ও ঘর থেকে এ ঘরে এলাম’ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0ZaWi0wSlFETkViX2FBaXRQdHJxdlBaVEliNUgxVFFXOWMzRnlfNjNnLURHZExSUnRZY2Itb003R2ttSkhGcE1HcHRWUmNVRjcyZDJUTUJBQ3ZleDNWWE5LaS16OUNnUmt4ZnJ0UFE0MU9oNG1qVkI0d3B5c2JMX3RXbVQtNjdJT1lNdmo4UjY3QWh6OFdVbjN30gGfAUFVX3lxTE1XZGpLYnBCRnVWdllYQWpLNmNfX0d0X3k4TFpWVlRqMC1yMU1ReHVrM0JsWnotbDd4TmFrR1JQdnVnNjdrdUZwYWxpN0lnT211aFk3OFFueHFpT0ZXVnpWaG9wTENYNVBtTE0taWlRdHlXTkxyZENpUW04QXlFV0diSFIzR1RpQTJ4bURuOFNia2xjMml0WkJuYjczZG1mYw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-15T15:41:16+00:00"
-          },
-          {
-            "title": "আজকের দিন মিথুন রাশি- ১৫ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXFaa1VaVmVVTC1YRnNMM216SzY5WDN5SGVaOV9NZWxZNDY2N2pkdzFfMnJaSll6azVwRnNkcGZlRGFaX1ExQnJUZEZNOVFkUXJxWU1RT0ZQcEIwZFZqUDhLQVFGU0xWSVFNMXhORUFwVktOYTlHOHYwS2pmb1ZGdzJFTjJ6dDRuR3RTNGk0VUt0c2FuU0lUUUhwTXJ3dHR2UHZhZFRUQUJELU3SAbABQVVfeXFMTTVYNUtfZ2F2ZkxXQTl4U0F3SG5PNjhGZnJlampKb3lVN3ItelFYbDl4R0lUVEdudFZDOEh0aTJUdEtxaTZKQnVlR3RWTFFkWncyazA5MEdjT25ES2lBaHJ6ZlE0a3dTaEs1Mlh6OUxDQ2wtVHpVVWdwRG5LbGliVUNOLTFwUkhUbVZ0UXhJLWhELW5weVFNSjFsN1lMQ19UNWVkRFhjbWRBNzJueFJsaUc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-15T14:33:09+00:00"
           },
           {
             "title": "স্বর্ণের দাম কমছে কেন এবং আরো কমার সম্ভাবনা কতটুকু?",
@@ -1459,6 +1459,13 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-07-15T12:46:23+00:00"
+          },
+          {
+            "title": "আজকের দিন সিংহ রাশি- ১৬ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODIxMkNEYUNnOXpGbTN2VVFXeTJhOE5HSHIzWlREOXRKZUdFc1o0ZWNUczBhdXMyYUwxS05hbUp6WWtjRl9OR2hWQjV2TGExRXRmc25UTDdkS0l1bUZib2RIZFRMMmpkS0NqVmMwbXhjNFNiTXJqMFFwT3dlYnNCOW4wRTl2eG4wZDd1SkZkZm1ENkRUbVhoVkJOVlBNUGJ2UG9UMzQ5VdIBrAFBVV95cUxPb0d0UXc2dGRCLTZic2FNVlJpWFFLcF9yckJSeHFfRE5WNjAwS19ZTFFscUlrSUpyRnNsQUV1U01VQmNIbXV5VmR0STZ1YlZBVFNJZzRMb0lZSkNwRE1WVjdRbXlJOXZSU21YUmR1eXlwNEFRQ09XRnVhcW12VHdZS0haZFZuQklucndGNzdvSUg1MnVUREdtZ3lsTEg1OGdnUURTblVEbER1QjVw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-15T12:08:14+00:00"
           },
           {
             "title": "বেনারস থেকে এসেছে বেনারসি, নিজে হাতে তৈরি করবেন মালপোয়া, জগন্নাথপুজোর প্রস্তুতি নিয়ে কী বললেন ইমন? - Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-15T05:19:10+00:00"
-          },
-          {
-            "title": "অসমে বন্যা পরিস্থিতির অবনতি! ছয় জেলার ৩৭ হাজার বাসিন্দা বন্যাকবলিত, সবচেয়ে ক্ষতিগ্রস্ত লখিমপুর, রাজ্যে মৃত ৪ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN25xa1dieE0wRjdvT0FHSGN1cjBjRGtNRTRiXy1qcTFlQWVUZGRrTjV0c21sUE5aQnJBRTR5NG11Q3pXN0I3ZHA3T1dLY25RX3FYdmtsWG1Tak5faVRSd3ZWT19oMkpTdzJvOEtST2lFMzRSdlg0b1VpbzVlVmtiNi1aWTJGSmdCeGEzRjZ5TU1aV3E2UjNTbkNZYkZ6NDdtUm9pNmNjclZLWVhuRWY2R2lsNDTSAbQBQVVfeXFMTTducWtXYnhNMEY3b09BR0hjdXIwY0RrTUU0Yl8tanExZUFlVGRka041dHNtbFBOWkJyQUU0eTRtdUN6VzdCN2RwN09XS2NuUV9xWHZrbFhtU2pOX2lUUnd2Vk9faDJKU3cybzhLUk9pRTM0UnZYNG9VaW81ZVZrYjYtWlkyRkpnQnhhM0Y2eU1NWldxNlIzU25DWWJGejQ3bVJvaTZjY3JWS1lYbkVmNkdpbDQ0?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-15T05:15:19+00:00"
           }
         ]
       }
