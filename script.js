@@ -41,6 +41,23 @@ const langTabsEl = document.getElementById("lang-tabs");
 const tabsEl = document.getElementById("tabs");
 const lastUpdatedEl = document.getElementById("last-updated");
 const taglineEl = document.getElementById("category-tagline");
+const istClockEl = document.getElementById("ist-clock");
+
+// Live India date/time (IST, UTC+5:30) shown in the top-right of the header.
+const IST_FORMATTER = new Intl.DateTimeFormat("en-IN", {
+  timeZone: "Asia/Kolkata",
+  weekday: "short",
+  day: "2-digit",
+  month: "short",
+  hour: "2-digit",
+  minute: "2-digit",
+  hour12: true,
+});
+
+function updateISTClock() {
+  if (!istClockEl) return;
+  istClockEl.textContent = `${IST_FORMATTER.format(new Date())} IST`;
+}
 
 function categoryLabel(cat, lang) {
   return (CATEGORY_LABELS[cat] || {})[lang] || cat;
@@ -234,3 +251,6 @@ applyLangAttr();
 initTheme();
 loadNews();
 setInterval(loadNews, REFRESH_MS);
+
+updateISTClock();
+setInterval(updateISTClock, 15 * 1000);

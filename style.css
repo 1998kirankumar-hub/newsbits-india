@@ -99,6 +99,12 @@ header.site-header {
   white-space: nowrap;
 }
 
+#ist-clock {
+  white-space: nowrap;
+  padding-right: 10px;
+  border-right: 1px solid var(--border);
+}
+
 nav.tabs {
   display: flex;
   gap: 6px;
