@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <g fill="#5c4030" fill-opacity="0.06">
+    <rect x="300" y="430" width="200" height="16"/>
+    <path fill-rule="evenodd" d="M310,430 L310,280 Q400,210 490,280 L490,430 L450,430 L450,300 Q400,255 350,300 L350,430 Z"/>
+    <g>
+      <rect x="255" y="200" width="20" height="240"/>
+      <path d="M255,200 Q265,160 275,200 Z"/>
+      <circle cx="265" cy="155" r="8"/>
+    </g>
+    <g>
+      <rect x="525" y="200" width="20" height="240"/>
+      <path d="M525,200 Q535,160 545,200 Z"/>
+      <circle cx="535" cy="155" r="8"/>
+    </g>
+    <g>
+      <rect x="330" y="150" width="16" height="130"/>
+      <circle cx="338" cy="145" r="7"/>
+    </g>
+    <g>
+      <rect x="454" y="150" width="16" height="130"/>
+      <circle cx="462" cy="145" r="7"/>
+    </g>
+  </g>
+</svg>

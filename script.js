@@ -59,6 +59,12 @@ function timeAgo(iso) {
   return `${diffDay}d ago`;
 }
 
+// Reflects the active language onto <html data-lang="..."> so style.css can
+// swap in that language's landmark watermark background (see style.css).
+function applyLangAttr() {
+  document.documentElement.setAttribute("data-lang", activeLanguage);
+}
+
 function renderLangTabs(languages) {
   langTabsEl.innerHTML = "";
   const codes = LANGUAGE_ORDER.filter((code) => languages[code]);
@@ -70,6 +76,7 @@ function renderLangTabs(languages) {
     btn.addEventListener("click", () => {
       if (activeLanguage === code) return;
       activeLanguage = code;
+      applyLangAttr();
       // Reset to this language's first category (usually "Top Stories")
       const cats = Object.keys(newsData.languages[activeLanguage].categories);
       activeCategory = cats.includes("Top Stories") ? "Top Stories" : cats[0];
@@ -189,6 +196,7 @@ async function loadNews() {
     if (!newsData.languages[activeLanguage]) {
       activeLanguage = LANGUAGE_ORDER.find((c) => newsData.languages[c]) || Object.keys(newsData.languages)[0];
     }
+    applyLangAttr();
     const cats = Object.keys(newsData.languages[activeLanguage].categories);
     if (!cats.includes(activeCategory)) {
       activeCategory = cats.includes("Top Stories") ? "Top Stories" : cats[0];
@@ -222,6 +230,7 @@ function toggleTheme() {
 
 document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
 
+applyLangAttr();
 initTheme();
 loadNews();
 setInterval(loadNews, REFRESH_MS);

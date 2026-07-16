@@ -33,10 +33,29 @@ body {
   font-family: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
     "Noto Sans Devanagari", "Noto Sans Gujarati", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Kannada",
     "Noto Sans Bengali", sans-serif;
-  background: var(--bg);
   color: var(--text);
-  transition: background 0.2s ease, color 0.2s ease;
+  background-color: var(--bg);
+  background-repeat: no-repeat;
+  background-position: top 130px center;
+  background-size: min(620px, 88vw) auto;
+  transition: background-color 0.2s ease, color 0.2s ease, background-image 0.25s ease;
 }
+
+/*
+  Per-language landmark watermarks: each language tab gets a very
+  low-opacity (baked into the SVG itself, ~6%) silhouette of a landmark
+  associated with that language/region, so the background stays visibly
+  "light" and text contrast is untouched -- these are original line-art
+  illustrations, not photos, kept subtle on purpose. Only applied in light
+  theme; dark theme keeps its plain dark background.
+*/
+[data-theme="light"][data-lang="en"] body { background-image: url("landmark-en.svg"); } /* India Gate */
+[data-theme="light"][data-lang="hi"] body { background-image: url("landmark-hi.svg"); } /* Taj Mahal */
+[data-theme="light"][data-lang="gu"] body { background-image: url("landmark-gu.svg"); } /* Statue of Unity */
+[data-theme="light"][data-lang="ta"] body { background-image: url("landmark-ta.svg"); } /* Meenakshi Temple gopuram */
+[data-theme="light"][data-lang="te"] body { background-image: url("landmark-te.svg"); } /* Charminar */
+[data-theme="light"][data-lang="kn"] body { background-image: url("landmark-kn.svg"); } /* Mysore Palace */
+[data-theme="light"][data-lang="bn"] body { background-image: url("landmark-bn.svg"); } /* Howrah Bridge */
 
 .wrap {
   max-width: 760px;
