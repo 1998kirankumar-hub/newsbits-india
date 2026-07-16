@@ -1,116 +1,172 @@
 {
-  "updated_at": "2026-07-16T22:01:35.815675+00:00",
+  "updated_at": "2026-07-16T22:31:12.413686+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Blasts reported in Iran as US launches new wave of strikes",
-            "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+            "title": "Govt plans bill to punish those who insult, block Vande Mataram singing",
+            "link": "https://timesofindia.indiatimes.com/india/govt-plans-bill-to-punish-those-who-insult-block-vande-singing/articleshow/132449995.cms",
+            "source": "Times of India",
+            "summary": "Delimitation, women's quota bills not on agenda yet",
+            "published": "2026-07-17T03:48:08+05:30"
+          },
+          {
+            "title": "Higher education Bill may lead to concentration of powers in single central regulator: House panel",
+            "link": "https://www.thehindu.com/news/national/higher-education-bill-may-lead-to-concentration-of-powers-in-single-central-regulator-house-panel/article71231445.ece",
+            "source": "The Hindu",
+            "summary": "The Bill was introduced in the Lok Sabha in December last year, following which it was referred to a joint committee of Parliament",
+            "published": "2026-07-17T03:41:55+05:30"
+          },
+          {
+            "title": "Army chief visits military base near Siliguri Corridor to review operational preparedness",
+            "link": "https://timesofindia.indiatimes.com/defence/news/army-chief-visits-military-base-near-siliguri-corridor-to-review-operational-preparedness/articleshow/132449354.cms",
+            "source": "Times of India",
+            "summary": "Army chief General Dhiraj Seth reviewed operational preparedness of Eastern Command formations. He visited IV Corps, XXXIII Corps, and III Corps during his tour. General Seth was briefed on security situations and capability development initiatives. He commended formations for internal security and disaster relief contributions. The chief urged troops to remain mission-focused and enhance inter-agency synergy.",
+            "published": "2026-07-17T03:39:38+05:30"
+          },
+          {
+            "title": "US Strikes Hit Bridges, Airport, Railway Station In Iran: Report",
+            "link": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "US strikes overnight hit an airport and two bridges in southern Iran near the Strait of Hormuz, Iranian state media said Friday.",
+            "published": "2026-07-17T03:38:13+05:30"
+          },
+          {
+            "title": "At least one dead in Texas floods ravaging same area where campers died",
+            "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
-            "published": "2026-07-16T21:44:37+00:00"
+            "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+            "published": "2026-07-16T22:08:13+00:00"
+          },
+          {
+            "title": "Skyroot Aerospace to launch India’s first private orbital rocket on Saturday",
+            "link": "https://timesofindia.indiatimes.com/india/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-on-saturday/articleshow/132448633.cms",
+            "source": "Times of India",
+            "summary": "India's private space sector is poised for a significant advancement this Saturday. Skyroot Aerospace will launch the Vikram-1, its first orbital-class rocket. This historic mission, named Mission Aagaman, will lift off from Sriharikota. The rocket carries technology demonstration payloads and unique artwork into space. This launch marks a major milestone for India's burgeoning private space industry.",
+            "published": "2026-07-17T03:34:51+05:30"
+          },
+          {
+            "title": "Former Italian motorway chief sentenced over bridge collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The former CEO of Italy’s main highway operator has been given 12 years in prison.",
+            "published": "2026-07-16T22:04:06+00:00"
+          },
+          {
+            "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
+            "link": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
+            "published": "2026-07-16T22:01:32+00:00"
+          },
+          {
+            "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
+            "link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
+            "published": "2026-07-16T22:01:29+00:00"
+          },
+          {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+            "published": "2026-07-16T22:01:19+00:00"
+          },
+          {
+            "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
+            "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The resolution comes days after US Secretary of State Marco Rubio pledged to &#039;dismantle&#039; the international court.",
+            "published": "2026-07-16T21:57:21+00:00"
           },
           {
             "title": "Joe Root happy to sacrifice ton for victory",
             "link": "https://www.cricinfo.com/ci/content/story/1545955.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Batter tells Gus Atkinson not to worry about leaving him on 99 not out as England level ODI series with India",
-            "published": "2026-07-16T21:44:22+00:00"
+            "published": "2026-07-16T21:57:19+00:00"
           },
           {
-            "title": "Avoid deploying Indian sailors on vessels moving via Strait of Hormuz: DGMA to shipping companies",
-            "link": "https://www.thehindu.com/news/national/avoid-deploying-indian-sailors-on-vessels-moving-via-strait-of-hormuz-dgma-to-shipping-companies/article71231440.ece",
-            "source": "The Hindu",
-            "summary": "The advisory came after the attacks this week on two vessels, in which 30 Indian seafarers were among a combined crew of 46",
-            "published": "2026-07-17T03:07:21+05:30"
-          },
-          {
-            "title": "Acquitted 45 yrs on, after serving life term; murder in 1977, conviction 1981, clean chit 2026",
-            "link": "https://timesofindia.indiatimes.com/india/acquitted-45-years-on-after-serving-life-term-murder-in-1977-conviction-1981-clean-chit-2026/articleshow/132448236.cms",
+            "title": "'Not a blanket bar': Supreme Court clarifies bulldozer order",
+            "link": "https://timesofindia.indiatimes.com/india/not-a-blanket-bar-supreme-court-clarifies-bulldozer-order/articleshow/132448249.cms",
             "source": "Times of India",
-            "summary": "The Supreme Court acquitted three surviving accused in a 49-year-old murder case. This decision came after the accused had served life imprisonment sentences. The court found serious infirmities in the prosecution's case and witness testimonies. Inconsistencies in witness accounts led to granting the benefit of doubt. The prosecution failed to establish guilt beyond reasonable doubt, leading to acquittal.",
-            "published": "2026-07-17T03:06:36+05:30"
+            "summary": "The Supreme Court clarified its prior ruling on demolitions. Bulldozers can remove illegal constructions and encroachments on public land. This action requires strict adherence to municipal laws and procedures. Individual contempt petitions will be handled by jurisdictional High Courts. Fact-finding exercises will ascertain if authorities acted arbitrarily in demolitions.",
+            "published": "2026-07-17T03:23:09+05:30"
           },
           {
-            "title": "Grand Mosque of Paris celebrates 100-year anniversary",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Grand Mosque of Paris is celebrating 100 years since its inauguration.",
-            "published": "2026-07-16T21:28:03+00:00"
-          },
-          {
-            "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-            "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.",
-            "published": "2026-07-16T21:23:05+00:00"
-          },
-          {
-            "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
-            "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iranian media reports airport, bridge and communications tower targeted.",
-            "published": "2026-07-16T21:02:11+00:00"
-          },
-          {
-            "title": "After ambushes, CRPF tells forces in Manipur to use armoured vehicles, avoid sudden deployment",
-            "link": "https://www.thehindu.com/news/national/after-ambushes-crpf-tells-forces-in-manipur-to-use-armoured-vehicles-avoid-sudden-deployment/article71231213.ece",
-            "source": "The Hindu",
-            "summary": "An official said the forces have been told to take action against armed miscreants and “anyone found with a gun is to be arrested or fired upon, if they do not surrender”",
-            "published": "2026-07-17T02:29:41+05:30"
-          },
-          {
-            "title": "Donald Trump live: US president to deliver primetime address on elections",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Critics fear Trump may use his podium to spread spread doubt about election integrity before the 2026 midterms.",
-            "published": "2026-07-16T20:59:18+00:00"
-          },
-          {
-            "title": "End Of Road For Rohit Sharma After England ODIs? BCCI Selectors Inform 2027 World Cup Decision: Report",
-            "link": "https://sports.ndtv.com/cricket/rohit-sharma-will-no-longer-be-picked-for-india-after-3rd-odi-vs-england-report-says-bcci-selectors-want-to-look-forward-11781430#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The question marks were already there, and after Rohit Sharma's latest score of 26 in the second India vs England ODI on Thursday, the doubts over his future have only increased",
-            "published": "2026-07-17T02:23:01+05:30"
-          },
-          {
-            "title": "The hardest party to manage in the Iran talks isn’t Iran",
-            "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Washington&#039;s spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.",
-            "published": "2026-07-16T20:40:53+00:00"
-          },
-          {
-            "title": "Palestinians injured in Israeli settler attacks across West Bank",
-            "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
-            "published": "2026-07-16T20:37:23+00:00"
-          },
-          {
-            "title": "Argentina Break Silence On Falkland Islands Banner After FIFA World Cup 2026 Semi-final Win Over England",
-            "link": "https://sports.ndtv.com/football/argentina-break-silence-on-falkland-islands-banner-after-fifa-world-cup-2026-semi-final-win-over-england-11781164#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Argentina came back from 0-1 down against England until the 84th minute of the FIFA World Cup semi-final to win the match 2-1",
-            "published": "2026-07-17T02:06:30+05:30"
-          },
-          {
-            "title": "How Ultimate Table Tennis Has Introduced AI And Technology For Season 7",
-            "link": "https://sports.ndtv.com/table-tennis/how-ultimate-table-tennis-has-introduced-ai-and-technology-for-season-7-11781989#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "As Butterfly Ultimate Table Tennis (UTT) Season 7 marks the debut of India's first AI-powered Decision Review System, the Table Tennis Review (TTR) system, Stupa Sports' latest officiating technology, takes centre stage in one of India's premier franchise leagues.",
-            "published": "2026-07-17T02:03:42+05:30"
+            "title": "Avoid deploying sailors on vessels moving via Strait, DGMA tells companies",
+            "link": "https://timesofindia.indiatimes.com/india/avoid-deploying-sailors-on-vessels-moving-via-strait-dgma-tells-companies/articleshow/132448245.cms",
+            "source": "Times of India",
+            "summary": "India's shipping regulator has advised against deploying seafarers in the Strait of Hormuz. This directive follows recent attacks on merchant vessels in the West Asia region. Two attacks on Tuesday involved commercial ships carrying thirty Indian seafarers. The directorate cited heightened security and ongoing conflict as reasons for enhanced measures. Fleet owners were previously asked to restrict seafarer…",
+            "published": "2026-07-17T03:20:06+05:30"
           }
         ],
         "India": [
           {
+            "title": "Govt plans bill to punish those who insult, block Vande Mataram singing",
+            "link": "https://timesofindia.indiatimes.com/india/govt-plans-bill-to-punish-those-who-insult-block-vande-singing/articleshow/132449995.cms",
+            "source": "Times of India",
+            "summary": "Delimitation, women's quota bills not on agenda yet",
+            "published": "2026-07-17T03:48:08+05:30"
+          },
+          {
+            "title": "Higher education Bill may lead to concentration of powers in single central regulator: House panel",
+            "link": "https://www.thehindu.com/news/national/higher-education-bill-may-lead-to-concentration-of-powers-in-single-central-regulator-house-panel/article71231445.ece",
+            "source": "The Hindu",
+            "summary": "The Bill was introduced in the Lok Sabha in December last year, following which it was referred to a joint committee of Parliament",
+            "published": "2026-07-17T03:41:55+05:30"
+          },
+          {
+            "title": "Army chief visits military base near Siliguri Corridor to review operational preparedness",
+            "link": "https://timesofindia.indiatimes.com/defence/news/army-chief-visits-military-base-near-siliguri-corridor-to-review-operational-preparedness/articleshow/132449354.cms",
+            "source": "Times of India",
+            "summary": "Army chief General Dhiraj Seth reviewed operational preparedness of Eastern Command formations. He visited IV Corps, XXXIII Corps, and III Corps during his tour. General Seth was briefed on security situations and capability development initiatives. He commended formations for internal security and disaster relief contributions. The chief urged troops to remain mission-focused and enhance inter-agency synergy.",
+            "published": "2026-07-17T03:39:38+05:30"
+          },
+          {
+            "title": "US Strikes Hit Bridges, Airport, Railway Station In Iran: Report",
+            "link": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "US strikes overnight hit an airport and two bridges in southern Iran near the Strait of Hormuz, Iranian state media said Friday.",
+            "published": "2026-07-17T03:38:13+05:30"
+          },
+          {
+            "title": "Skyroot Aerospace to launch India’s first private orbital rocket on Saturday",
+            "link": "https://timesofindia.indiatimes.com/india/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-on-saturday/articleshow/132448633.cms",
+            "source": "Times of India",
+            "summary": "India's private space sector is poised for a significant advancement this Saturday. Skyroot Aerospace will launch the Vikram-1, its first orbital-class rocket. This historic mission, named Mission Aagaman, will lift off from Sriharikota. The rocket carries technology demonstration payloads and unique artwork into space. This launch marks a major milestone for India's burgeoning private space industry.",
+            "published": "2026-07-17T03:34:51+05:30"
+          },
+          {
+            "title": "'Not a blanket bar': Supreme Court clarifies bulldozer order",
+            "link": "https://timesofindia.indiatimes.com/india/not-a-blanket-bar-supreme-court-clarifies-bulldozer-order/articleshow/132448249.cms",
+            "source": "Times of India",
+            "summary": "The Supreme Court clarified its prior ruling on demolitions. Bulldozers can remove illegal constructions and encroachments on public land. This action requires strict adherence to municipal laws and procedures. Individual contempt petitions will be handled by jurisdictional High Courts. Fact-finding exercises will ascertain if authorities acted arbitrarily in demolitions.",
+            "published": "2026-07-17T03:23:09+05:30"
+          },
+          {
+            "title": "Avoid deploying sailors on vessels moving via Strait, DGMA tells companies",
+            "link": "https://timesofindia.indiatimes.com/india/avoid-deploying-sailors-on-vessels-moving-via-strait-dgma-tells-companies/articleshow/132448245.cms",
+            "source": "Times of India",
+            "summary": "India's shipping regulator has advised against deploying seafarers in the Strait of Hormuz. This directive follows recent attacks on merchant vessels in the West Asia region. Two attacks on Tuesday involved commercial ships carrying thirty Indian seafarers. The directorate cited heightened security and ongoing conflict as reasons for enhanced measures. Fleet owners were previously asked to restrict seafarer…",
+            "published": "2026-07-17T03:20:06+05:30"
+          },
+          {
             "title": "Avoid deploying Indian sailors on vessels moving via Strait of Hormuz: DGMA to shipping companies",
             "link": "https://www.thehindu.com/news/national/avoid-deploying-indian-sailors-on-vessels-moving-via-strait-of-hormuz-dgma-to-shipping-companies/article71231440.ece",
             "source": "The Hindu",
             "summary": "The advisory came after the attacks this week on two vessels, in which 30 Indian seafarers were among a combined crew of 46",
             "published": "2026-07-17T03:07:21+05:30"
+          },
+          {
+            "title": "US Forces Continue \"Wave Of Strikes\" Against Iran For 6th Consecutive Night",
+            "link": "https://www.ndtv.com/world-news/us-forces-continue-wave-of-strikes-against-iran-for-6th-consecutive-night-11782065#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "According to the US Central Command (CENTCOM), the attack was aimed at further degrading Iran's military capabilities, as Tehran poses a threat to commercial vessels transiting through the Strait of Hormuz, which Washington claims.",
+            "published": "2026-07-17T03:06:54+05:30"
           },
           {
             "title": "Acquitted 45 yrs on, after serving life term; murder in 1977, conviction 1981, clean chit 2026",
@@ -120,77 +176,56 @@
             "published": "2026-07-17T03:06:36+05:30"
           },
           {
+            "title": "US-Iran War News LIVE: US Launches 6th Consecutive Night Of Strikes Against Iran",
+            "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "US-Iran War Live Updates: A fifth of all traded crude oil and natural gas passed through the Strait of Hormuz before the war, when it was open to all without tolls.",
+            "published": "2026-07-17T03:02:56+05:30"
+          },
+          {
             "title": "After ambushes, CRPF tells forces in Manipur to use armoured vehicles, avoid sudden deployment",
             "link": "https://www.thehindu.com/news/national/after-ambushes-crpf-tells-forces-in-manipur-to-use-armoured-vehicles-avoid-sudden-deployment/article71231213.ece",
             "source": "The Hindu",
             "summary": "An official said the forces have been told to take action against armed miscreants and “anyone found with a gun is to be arrested or fired upon, if they do not surrender”",
             "published": "2026-07-17T02:29:41+05:30"
-          },
-          {
-            "title": "Third language from Class IX will cause undue stress, says Supreme Court",
-            "link": "https://timesofindia.indiatimes.com/india/third-language-from-class-ix-will-cause-undue-stress-says-supreme-court/articleshow/132447934.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-07-17T02:01:30+05:30"
-          },
-          {
-            "title": "Fact check: Is Kylian Mbappé really planning to switch to Spanish nationality?",
-            "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fact-check-is-kylian-mbapp-set-to-switch-to-spanish-nationality-amid-his-relationship-with-ester-expsito-and-2026-world-cup-loss/articleshow/132447906.cms",
-            "source": "Times of India",
-            "summary": "The French captain and star player Kylian Mbappé experienced a tough loss against Spain in the quarter finals of the 2026 World Cup as it crushed the dreams of millions in the country, sparking chaos among fans. While France gears up to face England in the next few hours, a rumor about Kylian Mbappé changing his nationality because of his girlfriend, Ester Expósito, has sparked chaos.",
-            "published": "2026-07-17T01:59:03+05:30"
-          },
-          {
-            "title": "Xi Jinping To Present China's AI Dream At Major Conference Today",
-            "link": "https://www.ndtv.com/world-news/xi-jinping-to-present-chinas-ai-dream-at-major-conference-today-11781947#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "President Xi Jinping presents China's vision for the development and regulation of artificial intelligence on Friday, at a major conference showcasing cutting-edge technology he hopes will soon rival that of the United States.",
-            "published": "2026-07-17T01:53:31+05:30"
-          },
-          {
-            "title": "NEET-UG results declared: 2 score 715/720, 19 cross 700",
-            "link": "https://timesofindia.indiatimes.com/india/neet-ug-results-declared-2-score-715/720-19-cross-700/articleshow/132447910.cms",
-            "source": "Times of India",
-            "summary": "NEET-UG 2026 results revealed higher top scores following a nationwide retest. Aryan Gupta from Punjab secured the top position with a score of 715. Over 93% of candidates scoring above 690 were first-time test-takers. Women accounted for over 58% of the qualified candidates this year. The National Testing Agency declared results to keep medical admissions on track.",
-            "published": "2026-07-17T01:46:22+05:30"
-          },
-          {
-            "title": "Supreme Court judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent",
-            "link": "https://www.thehindu.com/news/national/supreme-court-judgments-on-indefinite-fast-state-duty-to-preserve-life-sonam-wangchuk/article71230585.ece",
-            "source": "The Hindu",
-            "summary": "The Union government has responded to activist Sonam Wanghuk’s ongoing fasting at Jantar Mantar with silence for the past 19 days even as an alarmed Delhi High Court asserted on July 16 that the ‘life of any citizen is precious’",
-            "published": "2026-07-17T01:42:48+05:30"
-          },
-          {
-            "title": "Fema a civil law, RBI alone can compound offences, says ED",
-            "link": "https://timesofindia.indiatimes.com/india/fema-a-civil-law-rbi-alone-can-compound-offences-says-ed/articleshow/132447870.cms",
-            "source": "Times of India",
-            "summary": "The Enforcement Directorate clarified Fema's role as civil legislation for voluntary compliance. Reserve Bank of India is the competent authority for compounding eligible contraventions. The ED issues a no-objection certificate to the central bank for compounding offenses. RBI recently closed a Fema case against Apothecon Pharmaceuticals after a penalty. This action follows master directions prescribing a…",
-            "published": "2026-07-17T01:38:04+05:30"
-          },
-          {
-            "title": "Tirupati’s bus shelter inauguration evokes nostalgia",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tirupatis-bus-shelter-inauguration-evokes-nostalgia/article71230283.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-07-17T01:35:44+05:30"
-          },
-          {
-            "title": "Odisha Government Confirms 2 Deaths, Denies Stampede At Puri Rath Yatra",
-            "link": "https://www.ndtv.com/india-news/odisha-government-confirms-2-deaths-denies-stampede-at-puri-rath-yatra-11781910#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Odisha government has confirmed the deaths of two devotees but denied reports of any stampede-like incident during the annual Rath Yatra festival.",
-            "published": "2026-07-17T01:35:02+05:30"
-          },
-          {
-            "title": "Does marital rape law shield men from unnatural sex prosecution?",
-            "link": "https://timesofindia.indiatimes.com/india/does-marital-rape-law-shield-men-from-unnatural-sex-prosecution/articleshow/132447793.cms",
-            "source": "Times of India",
-            "summary": "The Supreme Court will examine if husbands can face charges for sexual acts causing harm. This question arises despite existing exemptions for marital rape under penal laws. The court will begin final hearings on these pending pleas from September ninth. The central issue is whether the court can create a new offense by striking down exceptions. The Centre opposes criminalizing marital rape, citing marriage as a…",
-            "published": "2026-07-17T01:16:34+05:30"
           }
         ],
         "World": [
+          {
+            "title": "At least one dead in Texas floods ravaging same area where campers died",
+            "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+            "published": "2026-07-16T22:08:13+00:00"
+          },
+          {
+            "title": "Former Italian motorway chief sentenced over bridge collapse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The former CEO of Italy’s main highway operator has been given 12 years in prison.",
+            "published": "2026-07-16T22:04:06+00:00"
+          },
+          {
+            "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
+            "link": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
+            "published": "2026-07-16T22:01:32+00:00"
+          },
+          {
+            "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
+            "link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
+            "published": "2026-07-16T22:01:29+00:00"
+          },
+          {
+            "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
+            "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The resolution comes days after US Secretary of State Marco Rubio pledged to &#039;dismantle&#039; the international court.",
+            "published": "2026-07-16T21:57:21+00:00"
+          },
           {
             "title": "Blasts reported in Iran as US launches new wave of strikes",
             "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
@@ -213,6 +248,13 @@
             "published": "2026-07-16T21:23:05+00:00"
           },
           {
+            "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+            "published": "2026-07-16T21:22:09+00:00"
+          },
+          {
             "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
             "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
             "source": "Al Jazeera",
@@ -232,51 +274,16 @@
             "source": "Al Jazeera",
             "summary": "Washington&#039;s spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.",
             "published": "2026-07-16T20:40:53+00:00"
-          },
-          {
-            "title": "Palestinians injured in Israeli settler attacks across West Bank",
-            "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
-            "published": "2026-07-16T20:37:23+00:00"
-          },
-          {
-            "title": "Syria says it foiled Hezbollah weapons shipment",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Syrian authorities say they intercepted a shipment of missiles and drones allegedly destined for Hezbollah in Lebanon.",
-            "published": "2026-07-16T20:30:29+00:00"
-          },
-          {
-            "title": "Wildfire smoke blankets World Cup final stadium before kickoff",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Footage shows smoke from Canadian wildfires shrouding the New York New Jersey Stadium ahead of Sunday’s World Cup.",
-            "published": "2026-07-16T20:25:39+00:00"
-          },
-          {
-            "title": "Kris Jenner's mother Mary Jo dies aged 91",
-            "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-            "published": "2026-07-16T20:24:54+00:00"
-          },
-          {
-            "title": "How Syria is redefining ties with Russia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/how-syria-is-redefining-ties-with-russia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "After Bashar al-Assad&#039;s fall in 2024, Syria cut ties with some former allies but redefined its relationship with Russia.",
-            "published": "2026-07-16T20:21:22+00:00"
-          },
-          {
-            "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-            "link": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Hezbollah denies activity in Syria after interception of arms shipment including missiles, rockets and drones via Iraq.",
-            "published": "2026-07-16T20:03:58+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+            "published": "2026-07-16T22:01:19+00:00"
+          },
           {
             "title": "US stocks today: Nasdaq ends lower as chip weakness offsets solid earnings, economic data",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-chip-weakness-offsets-solid-earnings-economic-data/articleshow/132447866.cms",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
             "published": "2026-07-16T10:23:00+00:00"
-          },
-          {
-            "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
-            "source": "Economic Times",
-            "summary": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty Smallcap 100 indices closing up to 0.4% lower.",
-            "published": "2026-07-16T15:46:10+05:30"
           }
         ],
         "Sports": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1545955.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Batter tells Gus Atkinson not to worry about leaving him on 99 not out as England level ODI series with India",
-            "published": "2026-07-16T21:44:22+00:00"
+            "published": "2026-07-16T21:57:19+00:00"
           },
           {
             "title": "End Of Road For Rohit Sharma After England ODIs? BCCI Selectors Inform 2027 World Cup Decision: Report",
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+            "published": "2026-07-16T22:01:19+00:00"
+          },
+          {
             "title": "Google Rebrands NotebookLM as Gemini Notebook; Brings Cloud Computing and Search Integration",
             "link": "https://www.gadgets360.com/ai/news/google-rebrands-notebooklm-as-gemini-notebook-cloud-computing-search-integration-features-11780141",
             "source": "Gadgets 360",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Realme India has reportedly confirmed that future smartphones in the country will ship with ColorOS 17 instead of Realme UI. According to a recent report, eligible existing devices will also receive the new software through future operating system updates. The reported transition is intended to simplify software development and software updates. The Realme GT 8 Pro is expected to move to ColorOS 17 as part of its…",
             "published": "2026-07-16T16:30:37+05:30"
-          },
-          {
-            "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-            "published": "2026-07-16T10:52:26+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Argentina: చివర్లో తన్నుకుపోతారు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFUta2Roa1VMSmllcVgtVHBTSzRxQUY1MGxDTnNZU041eXh1LUtBZGZBU2xrMUpZZ0E1cnZnb2ZjMW1MX3dvN05pOFpZTjFGUDdwbUdsR21VRUtlamR3WDRrdnhRVTlzak9NWDJ2c1VDOXNhTE1VajNMc19uLWlKaFdlOXFEUWJZa3VnZ1AxSGRmdDRQXzRrMGYtSdIBmwFBVV95cUxNbFUta2Roa1VMSmllcVgtVHBTSzRxQUY1MGxDTnNZU041eXh1LUtBZGZBU2xrMUpZZ0E1cnZnb2ZjMW1MX3dvN05pOFpZTjFGUDdwbUdsR21VRUtlamR3WDRrdnhRVTlzak9NWDJ2c1VDOXNhTE1VajNMc19uLWlKaFdlOXFEUWJZa3VnZ1AxSGRmdDRQXzRrMGYtSQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-16T21:57:07+00:00"
+          },
+          {
             "title": "బాలికల భద్రతకు భరోసా - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IaXZndXVBdFNVa1FUSzhrSVE4ek1FQTNBX0pDZFBXb0Z5cGZFT1l5S1hZc2Y5WUpBVHpCU2RfZlktTjdONVZhSzA5S0ZMSzRpUEZMbUJoaUxyVkVUTW5adkQtSFNZSXZsRmFoc0FGU0NrSGRVYXZVc0pLOEFyQQ?oc=5",
             "source": "Eenadu",
@@ -1091,6 +1098,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-07-16T23:05:13+05:30"
+          },
+          {
+            "title": "NEET UG 2026 Results: నీట్‌ (యూజీ) రీ-టెస్ట్‌ ఫలితాలు విడుదల.. స్కోరుకార్డు కోసం క్లిక్‌ చేయండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORklLS19rQVFYWl9zRzlUb3dCTjJncGNjUHU4bkozS1VELUtIZTRVRDBOalZoTm9JVkxfclFOUFB5NTJfdTFMclZqdnpBZDJIYjhtQUpyOVI2NzhKeDJVQ0x6eEppbjlSQndHNFZYR2tMY3NvUzIxbUQtVWFja3ozMDQwWjFaZ0lzTXRNc0tad2hEeC1GajFfQkNkcTHSAZwBQVVfeXFMTkZJS0tfa0FRWFpfc0c5VG93Qk4yZ3BjY1B1OG5KM0tVRC1LSGU0VUQwTmpWaE5vSVZMX3JRTlBQeTUyX3UxTHJWanZ6QWQySGI4bUFKcjlSNjc4SngyVUNMenhKaW45UkJ3RzRWWEdrTGNzb1MyMW1ELVVhY2t6MzA0MFoxWmdJc010TXNLWndoRHgtRmoxX0JDZHEx?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-16T16:57:15+00:00"
           },
           {
             "title": "Underwear Thief: వీడేం దొంగరా బాబు.. మహిళల అండర్ వేర్లు దొంగిలించి.. రాత్రంతా వేసుకుని..",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-16T14:30:43+00:00"
-          },
-          {
-            "title": "అమరావతిలో జగన్నాథ రథయాత్ర..! చంద్రబాబు ఏం కోరుకున్నారంటే?",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/chandrababu-flags-off-jagannath-rath-yatra-urges-stronger-spiritual-values-for-a-harmonious-society-497427.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-16T19:51:56+05:30"
-          },
-          {
-            "title": "Big Shock: డేంజర్ లో 13 కోట్ల మంది భారతీయులు.. సంచలన రిపోర్టు బయటకు",
-            "link": "https://telugu.oneindia.com/news/india/climatechange-night-time-temperatures-rising-sharply-many-cities-causing-people-sleep-deprivation-497423.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-16T19:40:46+05:30"
           }
         ],
         "Entertainment": [
