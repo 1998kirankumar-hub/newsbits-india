@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-07-17T01:01:24.427869+00:00",
+  "updated_at": "2026-07-17T01:31:10.409279+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+            "published": "2026-07-17T01:27:36+00:00"
+          },
+          {
+            "title": "Mithali Raj: Mandhana should have been India captain 'two-three years back'",
+            "link": "https://www.cricinfo.com/ci/content/story/1545907.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Raj says India need a clearer succession plan keeping in mind Harmanpreet's fitness",
+            "published": "2026-07-17T01:23:35+00:00"
+          },
+          {
             "title": "Lennox stars again as New Zealand take series lead after West Indies collapse",
             "link": "https://www.cricinfo.com/ci/content/story/1545959.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "The left-arm spinner picked up another four wickets as the hosts crumbled to 140 all out, losing six wickets for 19",
-            "published": "2026-07-17T00:51:49+00:00"
+            "published": "2026-07-17T01:05:12+00:00"
+          },
+          {
+            "title": "Aryan Gupta, Panshul Bansal top NEET-UG with 715/720 as 1.1 million clear exam",
+            "link": "https://www.hindustantimes.com/india-news/11-million-students-clear-neet-ug-two-share-top-spot-with-715-720-marks-101784249720538.html",
+            "source": "Hindustan Times",
+            "summary": "The highest score of 715 out of 720 was obtained jointly by Aryan Gupta of Punjab and Panshul Bansal of Haryana",
+            "published": "2026-07-17T06:34:18+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
+            "source": "Economic Times",
+            "summary": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations. Heightened geopolitical tensions fueled inflation worries and potential interest rate hikes. Consumers continue spending and the labor market…",
+            "published": "2026-07-17T06:31:03+05:30"
+          },
+          {
+            "title": "Wipro's strong deal wins offset by weak revenue and margin decline",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipros-strong-deal-wins-offset-by-weak-revenue-and-margin-decline/articleshow/132450336.cms",
+            "source": "Economic Times",
+            "summary": "Wipro reported strong order bookings but saw revenue decline and margins contract. The company's management noted no significant demand changes from the prior quarter. Future revenue guidance remains cautious, expecting a slight drop or marginal improvement. However, annual revenue trends show moderation, aided by acquisitions and steady orders. Stock valuation reflects investor sentiment, awaiting revenue and…",
+            "published": "2026-07-17T06:27:05+05:30"
+          },
+          {
+            "title": "Rot in KPSC recruitment runs deep",
+            "link": "https://www.thehindu.com/news/national/karnataka/rot-in-recruitment-runs-deep/article71228841.ece",
+            "source": "The Hindu",
+            "summary": "The recent scandal to hit the recruitment process in the Karnataka State Public Service Commission, with the Chairperson facing allegations of nepotism, is only the latest in a series over the last few decades. Sharath S. Srivatsa takes an overview of the system",
+            "published": "2026-07-17T06:26:17+05:30"
           },
           {
             "title": "Logistics firms set for strong Q1 revenue growth despite margin pressure",
@@ -18,6 +60,20 @@
             "source": "Economic Times",
             "summary": "Logistics sector revenue is poised for healthy growth in the June quarter. This expansion is driven by e-commerce demand and increased supply-chain outsourcing. However, elevated fuel costs and pricing pressures may impact profitability across companies. Container Corporation of India and Delhivery anticipate revenue increases with margin challenges. Blue Dart Express and TCI also expect revenue growth, with fuel…",
             "published": "2026-07-17T06:20:11+05:30"
+          },
+          {
+            "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.",
+            "published": "2026-07-17T00:50:09+00:00"
+          },
+          {
+            "title": "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+            "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.",
+            "published": "2026-07-17T00:44:37+00:00"
           },
           {
             "title": "Six murders, a dead suspect and a chilling trail gone cold",
@@ -41,70 +97,28 @@
             "published": "2026-07-17T06:00:00+05:30"
           },
           {
-            "title": "Tata, SP Group explore share swap to unlock Tata Sons stake amid valuation divide",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sp-group-explore-share-swap-to-unlock-tata-sons-stake-amid-valuation-divide/articleshow/132450280.cms",
-            "source": "Economic Times",
-            "summary": "Tata Sons and the Shapoorji Pallonji Group are currently negotiating the monetization of a stake but are at an impasse concerning the transaction's structure and valuation. Among the options discussed is a share-swap deal. The SP Group is eyeing this opportunity to tackle its significant debt. Their recent refinancing attempts indicate a solid confidence level in the pledged Tata Sons shares.",
-            "published": "2026-07-17T06:00:00+05:30"
-          },
-          {
-            "title": "Foreign or local? Investors at lossover GIFT funds",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-or-local-investors-at-lossover-gift-funds/articleshow/132450287.cms",
-            "source": "Economic Times",
-            "summary": "Investors are grappling with confusion when it comes to reporting GIFT City fund investments in their tax returns. Fund houses provide varying guidance on whether these should be categorized as foreign assets. While GIFT City falls under the foreign category per FEMA regulations, it's treated as a domestic entity for income tax.",
-            "published": "2026-07-17T06:00:00+05:30"
-          },
-          {
             "title": "State committed to complete SRLIP expeditiously, utilising Godavari waters optimally: Bhatti Vikramarka",
             "link": "https://www.thehindu.com/news/national/telangana/state-committed-to-complete-srlip-expeditiously-utilising-godavari-waters-optimally-bhatti-vikramarka/article71230054.ece",
             "source": "The Hindu",
             "summary": "",
             "published": "2026-07-17T05:56:29+05:30"
-          },
-          {
-            "title": "Telangana now has 10,000 MBBS seats after NMC approves 810 additional seats",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-now-has-10000-mbbs-seats-after-nmc-approves-810-additional-seats/article71228945.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-07-17T05:55:45+05:30"
-          },
-          {
-            "title": "MSCI rejig could bring $2.3 billion into Indian stocks",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-could-bring-2-3-billion-into-indian-stocks/articleshow/132450255.cms",
-            "source": "Economic Times",
-            "summary": "An upcoming MSCI index rebalancing may introduce about $2.3 billion in passive investment flows. The global index provider will announce changes on August 12 after market close. Several Indian stocks are likely candidates for inclusion in the MSCI India Standard Index. These changes will impact index-linked exchange-traded funds and mutual funds. The rebalancing will become effective for portfolios on August 31.",
-            "published": "2026-07-17T05:52:43+05:30"
-          },
-          {
-            "title": "Former Maoists trade years of conflict for livelihood and a stable future",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/former-maoists-trade-years-of-conflict-for-livelihood-and-a-stable-future/article71229946.ece",
-            "source": "The Hindu",
-            "summary": "For many former Maoists, surrender only marks the beginning of a long journey. While they attempt to rebuild their lives through farming and family, rehabilitation remains a work in progress. Many continue to grapple with unemployment, inadequate skills, and challenges of reintegration, writes T. Appalanaidu",
-            "published": "2026-07-17T05:51:49+05:30"
-          },
-          {
-            "title": "US Announces Visa Curbs On Members Linked To \"Far-Left Terrorist\" Groups",
-            "link": "https://www.ndtv.com/world-news/us-announces-visa-curbs-on-members-linked-to-far-left-terrorist-groups-11782219#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The United States on Thursday launched a scathing attack on left-wing extremists, with Secretary of State Marco Rubio calling for global cooperation to fight a \"new wave of this old evil.\"",
-            "published": "2026-07-17T05:51:46+05:30"
-          },
-          {
-            "title": "SpaceX Starship Rocket Aborts Before Liftoff In 13th Flight Test Attempt",
-            "link": "https://www.ndtv.com/world-news/spacex-starship-rocket-aborts-before-liftoff-in-13th-flight-test-attempt-11782209#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "SpaceX's Starship rocket triggered a last-second abort before liftoff for its 13th flight test from Texas on Thursday, postponing the mission by at least 24 hours with the company studying what likely caused the automated scrub.",
-            "published": "2026-07-17T05:38:52+05:30"
-          },
-          {
-            "title": "Funds go on buying spree as cash holdings drop to five-year low",
-            "link": "https://economictimes.indiatimes.com/mf/analysis/funds-go-on-buying-spree-as-cash-holdings-drop-to-five-year-low/articleshow/132450169.cms",
-            "source": "Economic Times",
-            "summary": "Mutual fund managers reduced cash in equity portfolios to a five-year low. This move utilized recent stock declines in banking and IT sectors. Funds like Parag Parikh Flexicap significantly cut their cash positions. They invested in companies with attractive valuations and resilient earnings. This strategy reflects a shift towards deploying capital in beaten-down stocks.",
-            "published": "2026-07-17T05:38:28+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Aryan Gupta, Panshul Bansal top NEET-UG with 715/720 as 1.1 million clear exam",
+            "link": "https://www.hindustantimes.com/india-news/11-million-students-clear-neet-ug-two-share-top-spot-with-715-720-marks-101784249720538.html",
+            "source": "Hindustan Times",
+            "summary": "The highest score of 715 out of 720 was obtained jointly by Aryan Gupta of Punjab and Panshul Bansal of Haryana",
+            "published": "2026-07-17T06:34:18+05:30"
+          },
+          {
+            "title": "Rot in KPSC recruitment runs deep",
+            "link": "https://www.thehindu.com/news/national/karnataka/rot-in-recruitment-runs-deep/article71228841.ece",
+            "source": "The Hindu",
+            "summary": "The recent scandal to hit the recruitment process in the Karnataka State Public Service Commission, with the Chairperson facing allegations of nepotism, is only the latest in a series over the last few decades. Sharath S. Srivatsa takes an overview of the system",
+            "published": "2026-07-17T06:26:17+05:30"
+          },
           {
             "title": "Six murders, a dead suspect and a chilling trail gone cold",
             "link": "https://www.thehindu.com/news/national/telangana/six-murders-a-dead-suspect-and-a-chilling-trail-gone-cold/article71231500.ece",
@@ -174,23 +188,23 @@
             "source": "Times of India",
             "summary": "New WHO guidelines suggest up to 45% of dementia cases are preventable. Tackling risk factors like high blood pressure and air pollution is advised. Healthy lifestyles and managing chronic diseases significantly influence brain health. The guidelines recommend regular physical activity and quitting tobacco use. Routine vitamin and omega-3 supplements are not advised without diagnosed deficiency.",
             "published": "2026-07-17T05:21:26+05:30"
-          },
-          {
-            "title": "US Immigrant Agent In Maine Shooting Has History Of Violent Behavior: Family",
-            "link": "https://www.ndtv.com/world-news/us-immigrant-agent-in-maine-shooting-has-history-of-violent-behavior-family-11782181#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Immigration and Customs Enforcement officer who shot a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, close relatives told.",
-            "published": "2026-07-17T05:12:33+05:30"
-          },
-          {
-            "title": "PF for self-employed, workers in unorganised sector on way",
-            "link": "https://timesofindia.indiatimes.com/india/pf-for-self-employed-workers-in-unorganised-sector-on-way/articleshow/132450124.cms",
-            "source": "Times of India",
-            "summary": "Employees Provident Fund Organisation is developing a universal provident fund scheme. This new plan will cover millions in the unorganised sector and self-employed individuals. Subscribers can contribute daily or annually with tax benefits on their savings. The agency is studying global models to finalize the basic framework for this initiative. This self-financing scheme aims to extend retirement savings beyond…",
-            "published": "2026-07-17T05:11:49+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.",
+            "published": "2026-07-17T00:50:09+00:00"
+          },
+          {
+            "title": "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+            "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.",
+            "published": "2026-07-17T00:44:37+00:00"
+          },
           {
             "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
             "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
@@ -260,43 +274,36 @@
             "source": "BBC World",
             "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
             "published": "2026-07-16T22:01:32+00:00"
-          },
-          {
-            "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
-            "link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
-            "published": "2026-07-16T22:01:29+00:00"
-          },
-          {
-            "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
-            "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The resolution comes days after US Secretary of State Marco Rubio pledged to &#039;dismantle&#039; the international court.",
-            "published": "2026-07-16T21:57:21+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+            "published": "2026-07-17T01:27:36+00:00"
+          },
+          {
+            "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
+            "source": "Economic Times",
+            "summary": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations. Heightened geopolitical tensions fueled inflation worries and potential interest rate hikes. Consumers continue spending and the labor market…",
+            "published": "2026-07-17T06:31:03+05:30"
+          },
+          {
+            "title": "Wipro's strong deal wins offset by weak revenue and margin decline",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipros-strong-deal-wins-offset-by-weak-revenue-and-margin-decline/articleshow/132450336.cms",
+            "source": "Economic Times",
+            "summary": "Wipro reported strong order bookings but saw revenue decline and margins contract. The company's management noted no significant demand changes from the prior quarter. Future revenue guidance remains cautious, expecting a slight drop or marginal improvement. However, annual revenue trends show moderation, aided by acquisitions and steady orders. Stock valuation reflects investor sentiment, awaiting revenue and…",
+            "published": "2026-07-17T06:27:05+05:30"
+          },
           {
             "title": "Logistics firms set for strong Q1 revenue growth despite margin pressure",
             "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/logistics-firms-set-for-strong-q1-revenue-growth-despite-margin-pressure/articleshow/132450304.cms",
             "source": "Economic Times",
             "summary": "Logistics sector revenue is poised for healthy growth in the June quarter. This expansion is driven by e-commerce demand and increased supply-chain outsourcing. However, elevated fuel costs and pricing pressures may impact profitability across companies. Container Corporation of India and Delhivery anticipate revenue increases with margin challenges. Blue Dart Express and TCI also expect revenue growth, with fuel…",
             "published": "2026-07-17T06:20:11+05:30"
-          },
-          {
-            "title": "Tata, SP Group explore share swap to unlock Tata Sons stake amid valuation divide",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sp-group-explore-share-swap-to-unlock-tata-sons-stake-amid-valuation-divide/articleshow/132450280.cms",
-            "source": "Economic Times",
-            "summary": "Tata Sons and the Shapoorji Pallonji Group are currently negotiating the monetization of a stake but are at an impasse concerning the transaction's structure and valuation. Among the options discussed is a share-swap deal. The SP Group is eyeing this opportunity to tackle its significant debt. Their recent refinancing attempts indicate a solid confidence level in the pledged Tata Sons shares.",
-            "published": "2026-07-17T06:00:00+05:30"
-          },
-          {
-            "title": "Foreign or local? Investors at lossover GIFT funds",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-or-local-investors-at-lossover-gift-funds/articleshow/132450287.cms",
-            "source": "Economic Times",
-            "summary": "Investors are grappling with confusion when it comes to reporting GIFT City fund investments in their tax returns. Fund houses provide varying guidance on whether these should be categorized as foreign assets. While GIFT City falls under the foreign category per FEMA regulations, it's treated as a domestic entity for income tax.",
-            "published": "2026-07-17T06:00:00+05:30"
           },
           {
             "title": "MSCI rejig could bring $2.3 billion into Indian stocks",
@@ -325,13 +332,6 @@
             "source": "BBC Business",
             "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
             "published": "2026-07-16T23:14:11+00:00"
-          },
-          {
-            "title": "Trump Media to sell early access to key social posts",
-            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-            "published": "2026-07-16T22:42:37+00:00"
           },
           {
             "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
@@ -364,11 +364,18 @@
         ],
         "Sports": [
           {
+            "title": "Mithali Raj: Mandhana should have been India captain 'two-three years back'",
+            "link": "https://www.cricinfo.com/ci/content/story/1545907.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Raj says India need a clearer succession plan keeping in mind Harmanpreet's fitness",
+            "published": "2026-07-17T01:23:35+00:00"
+          },
+          {
             "title": "Lennox stars again as New Zealand take series lead after West Indies collapse",
             "link": "https://www.cricinfo.com/ci/content/story/1545959.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "The left-arm spinner picked up another four wickets as the hosts crumbled to 140 all out, losing six wickets for 19",
-            "published": "2026-07-17T00:51:49+00:00"
+            "published": "2026-07-17T01:05:12+00:00"
           },
           {
             "title": "Joe Root happy to sacrifice ton for victory",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Every FIFA World Cup winner has come from only two continents - Europe and South America. Despite the tournament expanding to include teams from every corner of the globe, the trophy has never left these regions.",
             "published": "2026-07-17T01:44:54+05:30"
-          },
-          {
-            "title": "India vs England Highlights, 2nd ODI: Joe Root Stranded On 99* But England Hammer India In 2nd ODI, Level Series",
-            "link": "https://sports.ndtv.com/cricket/india-vs-england-2nd-odi-live-score-ind-vs-eng-live-updates-rohit-sharma-virat-kohli-shubman-gill-11778994#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs England Score, 2nd ODI: England levelled the three-match series at 1-1 with a four-wicket victory over India in the second ODI.",
-            "published": "2026-07-17T01:37:18+05:30"
           }
         ],
         "Technology": [
@@ -454,7 +454,7 @@
             "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-            "published": "2026-07-16T22:42:37+00:00"
+            "published": "2026-07-17T01:27:36+00:00"
           },
           {
             "title": "Google Rebrands NotebookLM as Gemini Notebook; Brings Cloud Computing and Search Integration",
@@ -641,18 +641,25 @@
             "published": "2026-07-17T12:05:14+05:30"
           },
           {
-            "title": "NEET टॉपर आर्यन गुप्ता कौन? अपने की मौत के बाद डॉक्‍टर बनने का लिया संकल्‍प, खास स्ट्रैटजी ने बनाया टॉपर",
+            "title": "Delhi LPG Price: दिल्ली में 17 जुलाई को नहीं बदले गैस के दाम, सिलेंडर खरीदने से पहले जान लें आज के ताज़ा रेट",
+            "link": "https://hindi.oneindia.com/news/delhi/delhi-lpg-price-today-17-july-check-latest-domestic-and-commercial-gas-cylinder-rate-hindi-1610475.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-17T06:57:22+05:30"
+          },
+          {
+            "title": "NEET टॉपर आर्यन गुप्ता कौन? अपने की मौत के बाद डॉक्‍टर बनने का लिया संकल्‍प, इस खास स्ट्रैटजी ने बनाया टॉपर",
             "link": "https://hindi.oneindia.com/news/india/neet-2026-topper-aryan-gupta-profile-father-mother-doctor-punjab-ludhiana-son-secures-ai-1-rank-1610473.html",
             "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-07-17T06:22:45+05:30"
+            "published": "2026-07-17T06:52:34+05:30"
           },
           {
-            "title": "Delhi High Court: अदालत ने कहा- अनियंत्रित डिजिटल मीडिया के लिए विधायिका बनाए नियामक ढांचा, इसलिए दिया सुझाव",
-            "link": "https://www.amarujala.com/delhi/delhi-high-court-legislature-should-frame-a-regulatory-framework-for-unregulated-digital-media-2026-07-17",
+            "title": "Save Yamuna: 225 साल में दिल्ली में 68% सिकुड़ी यमुना, पानी का बहाव 89 फीसदी घटा; नदी का बाढ़ क्षेत्र भी सीमित",
+            "link": "https://www.amarujala.com/delhi-ncr/save-yamuna-yamuna-in-delhi-has-shrunk-by-68-in-225-years-water-flow-has-decreased-by-89-2026-07-17",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-07-17T06:19:21+05:30"
+            "published": "2026-07-17T06:29:26+05:30"
           },
           {
             "title": "रोहित शर्मा लॉर्ड्स में खेलेंगे करियर का आखिरी मैच? रिपोर्ट में हुआ BCCI के प्लान का खुलासा",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-07-16T23:35:00+00:00"
-          },
-          {
-            "title": "खबर हटके-दुनिया की सबसे बड़ी गुल्लक, अंदर जाते हैं लोग:रेस्टोरेंट का ऑफर- अजगर के बदले पिज्जा फ्री; कीड़े पकड़ने पर रुपए दे रही सरकार",
-            "link": "https://www.bhaskar.com/bhaskar-khaas/khabar-hatke/news/khabar-hatke-bizarre-news-pizza-python-colombia-piggy-bank-madhya-pradesh-insects-138461570.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-07-16T23:31:49+00:00"
           }
         ],
         "Entertainment": [
@@ -899,7 +899,7 @@
             "link": "https://tamil.oneindia.com/news/international/us-and-iran-trade-fire-for-fifth-day-as-control-of-strait-of-hormuz-intensifies-816835.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-07-17T01:19:31+05:30"
+            "published": "2026-07-17T06:52:00+05:30"
           },
           {
             "title": "நாகர்கோவிலை தொடர்ந்து புழல் சிறை கைதி மரணம் - இன்சுலின் மறுப்பு காரணமா? என்ன நடந்தது?",
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "తిరుపతిలో నూతన శోభ.. ముస్తాబు అవుతోన్న ఆలయం: భక్తుల తాకిడి",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/experience-the-spiritual-pavitrotsavams-at-sri-kapileswara-swamy-temple-tirupati-from-july-26-497443.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-07-17T06:55:21+05:30"
+          },
+          {
             "title": "రెండో రోజు ఘనంగా ‘నవకుండాత్మక శతచండీ సహిత రుద్ర యాగం’ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MTnVaV1lZSktPTHl6UW5BRVVyN0lvRVdGSl9uMm94Y3Q5amk2N3otbzhpbUhRRkExTlFpUWRXZjAwWkhueERVNDhfRVdjMEYxel9lVDVmcFRYRjhLT19nZjBYajJXZngteXZYSC1R0gFuQVVfeXFMTUxOdVpXWVlKS09MeXpRbkFFVXI3SW9FV0ZKX24yb3hjdDlqaTY3ei1vOGltSFFGQTFOUWlRZFdmMDBaSG54RFU0OF9FV2MwRjF6X2VUNWZwVFhGOEtPX2dmMFhqMldmeC15dlhILVE?oc=5",
             "source": "Eenadu",
@@ -1093,11 +1100,46 @@
             "published": "2026-07-17T00:30:13+00:00"
           },
           {
-            "title": "పప్పుధాన్యాలు, నూనెగింజల ఉత్పత్తి పెంపునకు కృషి చేయాలి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53UzlNSmpqcEdDWThvaTlSZnBaWnkyQ3k2OTQ5UVRKUVB3TDVxdEd0bFFfSVgxNmFDdEpQcWVTZTZhX3BBZGZwTWhybk8xNkJ3MUZOTzAxQTJya1R5Qk9QNVhYTE8wSXhhbmh0Ql9uQTXSAXBBVV95cUxOd1M5TUpqanBHQ1k4b2k5UmZwWlp5MkN5Njk0OVFUSlFQd0w1cXRHdGxRX0lYMTZhQ3RKUHFlU2U2YV9wQWRmcE1ocm5PMTZCdzFGTk8wMUEycmtUeUJPUDVYWExPMEl4YW5odEJfbkE1?oc=5",
+            "title": "Isro: ఇస్రో శాస్త్రవేత్తల స్వచ్ఛంద రాజీనామా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9oR0xBY0lkZnFTQlEyZDY5Q3plSzJ4VHdadEZVaUhDTC1hVURVTXlVbjB6bFRDcm4tcENRNzh6Y1J5VjhNMzZ1c0FKUzAta3RIYWxmZXJONS02aldJU2dfeE5DYkIyOFEtRC05Q09kbWcwMXYweTRoRlZaMDZvQVMwZ1E2eFh6SUZkU1Vn0gGOAUFVX3lxTE0tb2hHTEFjSWRmcVNCUTJkNjlDemVLMnhUd1p0RlVpSENMLWFVRFVNeVVuMHpsVENybi1wQ1E3OHpjUnlWOE0zNnVzQUpTMC1rdEhhbGZlck41LTZqV0lTZ194TkNiQjI4US1ELTlDT2RtZzAxdjB5NGhGVlowNm9BUzBnUTZ4WHpJRmRTVWc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-17T00:14:57+00:00"
+            "published": "2026-07-17T00:20:15+00:00"
+          },
+          {
+            "title": "సారూ.. మరక మంచిది కాదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GTy1EMFluSGdzX2w5c0xuMzJNaGI0N2dzdlU4VUtmTEJ0cXFJbllqVkhxb21IdS1nVXllRDU5MXhXdzZFSEpJRGduaVlKUXE0VXJfSWQyaWNvZmMxdmlUNnJpRlA2Q3BwSHl4UGlvUVZucVBoSW96QjVuaw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-17T00:19:22+00:00"
+          },
+          {
+            "title": "అనంత ఆణిముత్యం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KMjBSWE9FQXhPN2RiZkM1bmJSUC1TQjBtbHRhT2dOSThJdjlRdzg3SGVEN2NabUJfRUI4RHFHZjRCcUgwM0s1Yk1QM2FMMXVYS0dyVm1jckdtOFRGMm5BdmlQaXBjN0lvOXJEUk54Y1hUSlNPM3RIUExUVQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-17T00:17:12+00:00"
+          },
+          {
+            "title": "‘వేడి’నా.. ‘చలి’ంచరు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nRmhYVkNmS3JpYzM3c215Z3BXZUlJZW5SM0JnWTBtdVZyT3JLQUZONFMxZGdPajYxNkdSWVIwbXdIODI2dG5xZjVySTlyRW1hTEt3ZU5WbGxXT0ZJTXR4UnJVZlFKaFg1RmF1b3BVcWlUNHpPdGZhTXE5aw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-17T00:13:55+00:00"
+          },
+          {
+            "title": "పూర్తి బాధ్యత మీరే తీసుకోండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVVZyMllKalB5Q1F3VG1LS1VNaVZFdGJPYmxTdV9CTTZTSGJleENDUjdYMkhnMnR5bmNqSmZKa2hZX3hmYjRSQWV4SEE3SVVQTTBzMmVzNkFxSmlwNnN6SGFpSUJhemhNNDhPTWFnRk3SAXBBVV95cUxOV1VWcjJZSmpQeUNRd1RtS0tVTWlWRXRiT2JsU3VfQk02U0hiZXhDQ1I3WDJIZzJ0eW5jakpmSmtoWV94ZmI0UkFleEhBN0lVUE0wczJlczZBcUppcDZzekhhaUlCYXpoTTQ4T01hZ0ZN?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-17T00:13:14+00:00"
+          },
+          {
+            "title": "Artificial intelligence: పెరుగుతున్న వేధింపులు, బెదిరింపులు.. ఏఐ నిపుణులకు ప్రాణభయం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDRJR2VtaFN4YTNLOUJUMXhTekFyWGlUVk92ZFBGR2Z1bUppalpMVmZ3ME5qT3BTTlVXeC1JNUNMNlM4Vi1GaG9RUXpmNjM5Y2MweGw0cDFpelVZNHhzWmk3SVpHMExXdTc2S3dET2QtUG5hRUdseVRVRDVia1BXTUp0dGdpbXVlZm1ncEg5YjdEbnNKLU1oeDFaTy02LWfSAZ8BQVVfeXFMUFQ0SUdlbWhTeGEzSzlCVDF4U3pBclhpVFZPdmRQRkdmdW1KaWpaTFZmdzBOak9wU05VV3gtSTVDTDZTOFYtRmhvUVF6ZjYzOWNjMHhsNHAxaXpVWTR4c1ppN0laRzBMV3U3Nkt3RE9kLVBuYUVHbHlUVUQ1YmtQV01KdHRnaW11ZWZtZ3BIOWI3RG5zSi1NaHgxWk8tNi1n?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-17T00:04:53+00:00"
           },
           {
             "title": "Vijayawada: జయహో జగన్నాథ్‌.. విజయవాడలో నేత్రపర్వంగా రథయాత్ర - Eenadu",
@@ -1112,48 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-17T00:03:21+00:00"
-          },
-          {
-            "title": "ఉమర్‌ ఖాలీద్‌ను మండేలాతో పోల్చిన న్యూయార్క్‌ మేయర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUVhPbVEyODhHdzVrY09NcDdTY19keThWaTFpdE9CQUk4U3RjX1hjREhFWl85NEM3Ul9QdFNDcWtlMHRCa0N2S3lNLWt0RUhxY3cyMTZwWjIwZHBlWkpfVmt1Q0Zmd3hkWXBxVHh2OU_SAXBBVV95cUxNcFFYT21RMjg4R3c1a2NPTXA3U2NfZHk4VmkxaXRPQkFJOFN0Y19YY0RIRVpfOTRDN1JfUHRTQ3FrZTB0QmtDdkt5TS1rdEVIcWN3MjE2cFoyMGRwZVpKX1ZrdUNGZnd4ZFlwcVR4djlP?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-17T00:02:52+00:00"
-          },
-          {
-            "title": "ఇక్కడ టీచర్‌ విద్యార్థి నిష్పత్తి 1:1 1:2 - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CN1RmOExsUVhNRUwxS0hKNy10SVlQdWJ5NEFibVczWGNjbXh0dThtWGwteTc5N0s0dWNMckljdTZzRzJ6SjFuWkRWajd3c2hDTmJHQzZfUnI2c1NSOXRNX2oxM29VSkp2c19OdWYyVjdaYTkwWnfSAXZBVV95cUxNQjdUZjhMbFFYTUVMMUtISjctdElZUHVieTRBYm1XM1hjY214dHU4bVhsLXk3OTdLNHVjTHJJY3U2c0cyekoxblpEVmo3d3NoQ05iR0M2X1JyNnNTUjl0TV9qMTNvVUpKdnNfTnVmMlY3WmE5MFp3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-16T23:59:30+00:00"
-          },
-          {
-            "title": "పెద్దపులులకు ఫ్లైఓవర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fTzczOGl3eHBRcHVKQU1GNEJUOGZpOXotaG5WdFlTVnZmZUVUYkdOMXd4WTlaWjV4RnBuRjJnLVFrM3hTMzM5SjIxa2tTRmJSZlU1U2lxVUJITGliZ0JYNHBWbTNkTHBvYzduLVFFbGZjZTA3UGfSAXZBVV95cUxNX083Mzhpd3hwUXB1SkFNRjRCVDhmaTl6LWhuVnRZU1Z2ZmVFVGJHTjF3eFk5Wlo1eEZwbkYyZy1RazN4UzMzOUoyMWtrU0ZiUmZVNVNpcVVCSExpYmdCWDRwVm0zZExwb2M3bi1RRWxmY2UwN1Bn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-16T23:51:48+00:00"
-          },
-          {
-            "title": "4 జిల్లాల్లో 12 కొవిడ్‌ కేసులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdXdzRUpBY2E3dEY2WnhZY0tuaUM0T0tkQjZoWkVtZU9FX2NPR1RuVDBCRFNaWHAxaHZ1TTZrb0ZHX3loRkdUXzVQc0ppNXJkNWlxRmNUc3FWTUxVeERZOWVreG03VUNTbXdaczVhQmVaU1dOTUZSN0wtd0bSAXxBVV95cUxNSHV3c0VKQWNhN3RGNlp4WWNLbmlDNE9LZEI2aFpFbWVPRV9jT0dUblQwQkRTWlhwMWh2dU02a29GR195aEZHVF81UHNKaTVyZDVpcUZjVHNxVk1MVXhEWTlla3htN1VDU213WnM1YUJlWlNXTk1GUjdMLXdG?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-16T23:45:40+00:00"
-          },
-          {
-            "title": "ఆగస్టు 29 నుంచి ఆర్మీ రిక్రూట్‌మెంట్‌ ర్యాలీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96WGFTQ1ljTnB2bXZuS3M3WEdvN0E1RFJXcWJyMzcxamczSHhObDNYWldVeU9fWEZvNjUwb1RtNkxsaUtDanJUSUFPcGZZbTIyaUs2MlRpTnd6YmdJczdiY1lZUElTOU5yNHRQaFh6ZzItcUdJcEHSAXZBVV95cUxPelhhU0NZY05wdm12bktzN1hHbzdBNURSV3FicjM3MWpnM0h4TmwzWFpXVXlPX1hGbzY1MG9UbTZMbGlLQ2pyVElBT3BmWW0yMmlLNjJUaU53emJnSXM3YmNZWVBJUzlOcjR0UGhYemcyLXFHSXBB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-16T23:34:10+00:00"
-          },
-          {
-            "title": "కాల్వల చెంత.. దారి దోపిడీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkdsRkcza0xtUXpMRWF5YkdVdXVySUFHbHlYSWduTDJRMVAtWmlJRDR4ZVA5Sk9qQ0pxMnZMdXVYUmx6NWxpdDZCaUg2MThadEpTcndGME5qTEFJd2xHczRkdzFNSURZMFlrLWp6dHNsMUFYUGhBOENHb1hEa1VXTw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-16T23:30:24+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "মোহনবাগানের ড্র, সূচি নিয়ে চিঠি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hMMzZSRnp2MUJHMHhIU1FFeEhXUTZWWnVrVk44OXhocnRGOVhUOGszOElNYVE0anYyRURTR0I4blZIQmQ4a2JWRWZLTjJXZkVQdmdUMGdVdFdacTRSbWFvci15TXBBSVVKTDdsOE83dUxDcjZPV25PQXJMMGdsSUNtSXdBRGd1M19BbnlUSXRVVkQ4al94Qi1wRWhHdU5VOG8xdGJEM1I?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-17T01:26:58+00:00"
+          },
+          {
+            "title": "এক নেতাকে ডিমবৃষ্টি, পোস্টার দু’জনের নামে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkVoWVh6N2ZONThWcThuQU5oNUJlZ2RjRVR4M1hWWkNpbzAyZF9Ec3hYZTJtOHpubjB3a1FWcVJhZjJFeVlydjhRNGpiQXR2aGVtdkwwQng1ZExGWXlabmxydENlUEVXWlFUdXEybG1WRlktLXd6cGZGcHZkcDZ3T0gtTDAzazhzSlpaWExGMTFPUWx6Ml9kNFJsYl94dw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-17T01:19:53+00:00"
+          },
+          {
             "title": "বর্ষার শুরুতেই পথ খানাখন্দময়, দুর্ভোগ বাড়ছেই - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXJXUDZWdWpWbHpBQ0hhZzlFVjFQdVlEbkVfc1NwLWw0a2hPdWZwV3B4bUhYWUZjVmR1RUJXN0FCTnl0WEF5R2Vld2pobEVyUmhyOGpkaU1fMHJTTVVlMm5Lb3J1QmJMUlUxX0JUSVdXWE5vQ0ZRNkRaNXlFZFZqREJ0RXB4TVBaa2F1MW9vS0tMWmxraUNYYW4zaEVRWlBhcnc?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-16T13:31:42+00:00"
-          },
-          {
-            "title": "আজকের দিন কুম্ভ রাশি- ১৭ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUVtRmxrR05BdnhRUUdOX0FvUnQ5aTNsbFhjRDBhMHotaXB1RUtBUVhkekNnNGh6T2FoSlB2UHVEdmgwWXNhWVZNQ1BZSy12aFUwMmdUY3lmSUQxSmlCNnhsWk1PTjc5WHdUTEJheXVIcWZONTdFQm5XTWpvb0RObFB4RndXWW9KQlNRem1PN1k5aUdPOHNBc1ZmbzFDdDBuZHUteHEtcV9iMnE00gGyAUFVX3lxTE9mTnJvRVkwSmVKWUt2bHJoSVRjS25zTG8zaWNIaXBLTkF5NEhMUTF5d0dKbWdBSkZtQTN1clJyaElpbW5yRVRDb3ZiODcwTG8tRDJoVGRYNnZ0SnYyVEhkV0RmWTAtM2libk5aMVlZN0lVZGpjYnBYeldiT25CZWJ2RFR1dHFabWxaNHhmS2diYS05UW1tNXJNcmdxMlo0SDRMYkhnd2V0ajZfeF9CRGdORFE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-16T13:14:27+00:00"
-          },
-          {
-            "title": "আজকের দিন মকর রাশি- ১৭ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDdyZ3M2SVhEZ0VqWjFBM05kbjQxT3c0TjZHWHY3MTR0LWJPcUNvYWd5Q1JSMjNxa1B0clRSOGpFY0MwLWUxQ1Z1U0VrTHpNWkNKa2p3UkRDd005VktfMzY5ZU9HVzNyZTI0WndydGlGam5pcEpVSTBHUjNmT3hGMGVHTDNuMHo5T1pQaTF5Ympud2Ytd043SGhpVm9RM1F2dlBGMTcwa2R3M24wRkHSAbMBQVVfeXFMTk1sUGYzbTBXbXd2VzZ3NUZIZWZaa01qcUU3eDZTOGNMU001RExVbTZuekJ3OGNpTzlUWmtwbl95MjhfY1lWQURPRFp1VFNxRUk4dkRRMzhOU3FJcnhobzJtUE9DZ29HdTB0ZlBOWVFIOWNSRVFBbk1qZ2g0S0JHaFA4UVBXNzZtNTNTZWZaeExldWI3eVA0emtUd1AxekJ6b3c0U1MwVG5GbVhWeHdhSEtpX2c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-16T13:12:55+00:00"
           }
         ]
       }
