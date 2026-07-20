@@ -1,16 +1,86 @@
 {
-  "updated_at": "2026-07-20T22:31:11.943158+00:00",
+  "updated_at": "2026-07-20T23:01:22.100273+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "What are the new British Prime Minister’s biggest challenges?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Britain has a new Prime Minister: Andy Burnham. The former Mayor of Manchester must now unite a divided nation.",
+            "published": "2026-07-20T22:54:06+00:00"
+          },
+          {
+            "title": "Six killed in floods, landslips in Northeast",
+            "link": "https://www.thehindu.com/news/national/assam/six-killed-in-floods-landslips-in-northeast/article71246629.ece",
+            "source": "The Hindu",
+            "summary": "Railway authorities cancelled, diverted, or short-terminated several passenger train services in Assam. At least 25 people have been killed across four States since the last week of June",
+            "published": "2026-07-21T04:12:36+05:30"
+          },
+          {
+            "title": "Wes Streeting Named New UK Defence Minister",
+            "link": "https://www.ndtv.com/world-news/wes-streeting-named-new-uk-defence-minister-11798511#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Britain's new Prime Minister Andy Burnham named ex-health minister Wes Streeting as his defence secretary late Monday, the government said, as ministerial appointments ran into the night.",
+            "published": "2026-07-21T04:12:13+05:30"
+          },
+          {
+            "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Chaos outside India&#039;s parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.",
+            "published": "2026-07-20T22:40:31+00:00"
+          },
+          {
+            "title": "CJP protest in Delhi LIVE: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands",
+            "link": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece",
+            "source": "The Hindu",
+            "summary": "Teargas and lathi-charges as CJP protesters storm into central Delhi; several injured, detained",
+            "published": "2026-07-21T04:10:15+05:30"
+          },
+          {
+            "title": "Chief Minister Samrat Choudhary flags off special train carrying 1,100 pilgrims to Somnath Dham",
+            "link": "https://www.thehindu.com/news/national/bihar/chief-minister-samrat-choudhary-flags-off-special-train-carrying-1100-pilgrims-to-somnath-dham/article71245262.ece",
+            "source": "The Hindu",
+            "summary": "Bihar government will bear the entire cost of the seven-day pilgrimage. Free pilgrimage will take place from July 20 to 26",
+            "published": "2026-07-21T04:03:06+05:30"
+          },
+          {
+            "title": "Assam unveils mission to convert Muga silk waste into high-value yarn",
+            "link": "https://www.thehindu.com/news/national/assam/assam-unveils-mission-to-convert-muga-silk-waste-into-high-value-yarn/article71245281.ece",
+            "source": "The Hindu",
+            "summary": "Chief Minister Himanta Biswa Sarma says that about 40% of the cocoons yielding the golden silk currently go unused due to the absence of proper processing facilities",
+            "published": "2026-07-21T03:59:15+05:30"
+          },
+          {
+            "title": "War on Iran: War resumes 30 days after MoU",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
+            "published": "2026-07-20T22:26:49+00:00"
+          },
+          {
             "title": "Trump imposes 50% tariff on Canadian imports",
             "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
             "published": "2026-07-20T22:26:34+00:00"
+          },
+          {
+            "title": "ED provisionally attached 389 immovable properties worth ₹240.03 Crore",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/ed-provisionally-attached-389-immovable-properties-worth-24003-crore/article71246609.ece",
+            "source": "The Hindu",
+            "summary": "ED initiated investigation on the basis of multiple FIRs registered by the Uttar Pradesh Police and the Delhi Police against BIIPL, GVCTPL, Satinder Singh Bhasin and others, under various Sections of the Indian Penal Code, 1860",
+            "published": "2026-07-21T03:54:48+05:30"
+          },
+          {
+            "title": "118 Cops Injured, 70 Detained After CJP Protest Turns Violent In Delhi",
+            "link": "https://www.ndtv.com/world-news/118-cops-injured-70-detained-after-cjp-protest-turns-violent-in-delhi-11798494#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "CJP Protest: Police said around 70 protesters have been detained and legal proceedings have been initiated.",
+            "published": "2026-07-21T03:48:04+05:30"
           },
           {
             "title": "BMC BJP corporator demands regular audit of the birth registration",
@@ -20,97 +90,83 @@
             "published": "2026-07-21T03:47:39+05:30"
           },
           {
-            "title": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University",
-            "link": "https://www.thehindu.com/news/national/odisha/more-than-half-of-odishas-pvtg-adult-women-anaemic-says-a-study-by-utkal-university/article71245884.ece",
-            "source": "The Hindu",
-            "summary": "Among PVTGs, the Hill Kharia shows the highest stunting prevalence at 82.76%, a distressing figure that signifies a critical public health emergency, the study raises alarm",
-            "published": "2026-07-21T03:32:59+05:30"
+            "title": "How Neymar Jr. turned childhood poverty into a journey to Football greatness",
+            "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-mum-its-ok-one-day-i-will-be-very-rich-ill-buy-a-cookie-factory-so-i-can-eat-whenever-i-want-how-neymar-jr-turned-childhood-poverty-into-football-greatness/articleshow/132525702.cms",
+            "source": "Times of India",
+            "summary": "Neymar Jr is one of football’s biggest stars today, but his journey began in very difficult circumstances. A heartbreaking moment from his childhood became the reason he never stopped believing in himself. Years later, he turned that dream into reality. His story is a powerful reminder that even the toughest beginnings can lead to something extraordinary.",
+            "published": "2026-07-21T03:46:10+05:30"
           },
           {
-            "title": "The 20-somethings betting big on tech stocks",
-            "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-            "published": "2026-07-20T22:00:41+00:00"
-          },
-          {
-            "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
-            "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+            "title": "Moroccan-born man dies while detained by police in Italy",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Tens of thousands of fans greet La Roja as they travel down Madrid&#039;s historic avenues to Cibeles Square.",
-            "published": "2026-07-20T21:52:02+00:00"
-          },
-          {
-            "title": "Burnham has big ideas - but what will they cost?",
-            "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
-            "published": "2026-07-20T21:47:14+00:00"
-          },
-          {
-            "title": "Supreme Court takes exception to meagre compensation for ex-HC judges",
-            "link": "https://timesofindia.indiatimes.com/india/supreme-court-takes-exception-to-meagre-compensation-for-ex-hc-judges/articleshow/132524206.cms",
-            "source": "Times of India",
-            "summary": "The Supreme Court has taken exception to low compensation for retired High Court judges. It asked the Union government to form a committee for uniform guidelines. This committee will consider basic minimum security and services for retired judges. The panel will study issues faced by retired judges and submit recommendations. The goal is to ensure retired judges lead a dignified post-retirement life.",
-            "published": "2026-07-21T03:11:55+05:30"
-          },
-          {
-            "title": "No decision on ethanol blending beyond 20%: Govt",
-            "link": "https://timesofindia.indiatimes.com/india/no-decision-on-ethanol-blending-beyond-20-govt/articleshow/132524202.cms",
-            "source": "Times of India",
-            "summary": "The government has stated no decision exists to raise ethanol blending beyond twenty percent. Lower-blended fuel or pure petrol will not be available at select outlets. Any future diesel blending will depend on evaluations and stakeholder consultations. The transition to E20 has been phased and evidence-based, with gradual increases. Claims of vehicle damage from E20 are largely misleading or unsupported by…",
-            "published": "2026-07-21T03:06:09+05:30"
-          },
-          {
-            "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-            "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-            "published": "2026-07-20T21:30:19+00:00"
-          },
-          {
-            "title": "NTA rebuts claims of 5, says NEET-UG OMR sheets forged",
-            "link": "https://timesofindia.indiatimes.com/india/nta-rebuts-claims-of-5-says-neet-ug-omr-sheets-forged/articleshow/132524008.cms",
-            "source": "Times of India",
-            "summary": "The National Testing Agency has refuted claims of OMR answer sheet discrepancies from five NEET-UG candidates. Images circulated by these candidates were reportedly digitally altered or regenerated using artificial intelligence. The agency verified the original OMR sheets and scores for all five students involved. These actions follow allegations of swapped OMR sheets and fewer attempted answers than recorded…",
-            "published": "2026-07-21T02:59:25+05:30"
-          },
-          {
-            "title": "Youth full of aspirations, want country to move forward: PM Modi",
-            "link": "https://timesofindia.indiatimes.com/india/youth-full-of-aspirations-want-country-to-move-forward-pm-modi/articleshow/132524003.cms",
-            "source": "Times of India",
-            "summary": "Prime Minister Modi urged opposition parties to use logic and facts in Parliament. He highlighted India's youth aspirations and recent national achievements. The successful launch of a private space rocket showcased young Indian capabilities. Recent inaugurations and a hydrogen train launch also marked progress. India maintained growth despite global energy supply disruptions.",
-            "published": "2026-07-21T02:55:46+05:30"
-          },
-          {
-            "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Protesters threw eggs at lawmakers&#039; vehicles outside Albania&#039;s parliament, demanding changes to laws.",
-            "published": "2026-07-20T21:19:41+00:00"
-          },
-          {
-            "title": "Trump imposes 50% tariffs on most Canadian goods, cites trade disputes",
-            "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-imposes-50-tariffs-on-most-canadian-goods-cites-trade-disputes/articleshow/132523996.cms",
-            "source": "Times of India",
-            "summary": "President Trump imposed fifty percent tariffs on most Canadian goods. This action escalates trade tensions between the two nations. The tariffs apply to many goods previously protected under the USMCA agreement. This move heightens economic uncertainty and strains bilateral ties. Aides are examining the possibility of imposing additional tariffs on Canada.",
-            "published": "2026-07-21T02:43:15+05:30"
-          },
-          {
-            "title": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
-            "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Argentina&#039;s Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain&#039;s Yamal prayed calmly.",
-            "published": "2026-07-20T21:12:22+00:00"
+            "summary": "A video showing the final moments of Moroccan-born Abderrahim Fakir as he was detained by police has sparked protests.",
+            "published": "2026-07-20T22:13:37+00:00"
           }
         ],
         "India": [
           {
+            "title": "Six killed in floods, landslips in Northeast",
+            "link": "https://www.thehindu.com/news/national/assam/six-killed-in-floods-landslips-in-northeast/article71246629.ece",
+            "source": "The Hindu",
+            "summary": "Railway authorities cancelled, diverted, or short-terminated several passenger train services in Assam. At least 25 people have been killed across four States since the last week of June",
+            "published": "2026-07-21T04:12:36+05:30"
+          },
+          {
+            "title": "Wes Streeting Named New UK Defence Minister",
+            "link": "https://www.ndtv.com/world-news/wes-streeting-named-new-uk-defence-minister-11798511#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Britain's new Prime Minister Andy Burnham named ex-health minister Wes Streeting as his defence secretary late Monday, the government said, as ministerial appointments ran into the night.",
+            "published": "2026-07-21T04:12:13+05:30"
+          },
+          {
+            "title": "CJP protest in Delhi LIVE: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands",
+            "link": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece",
+            "source": "The Hindu",
+            "summary": "Teargas and lathi-charges as CJP protesters storm into central Delhi; several injured, detained",
+            "published": "2026-07-21T04:10:15+05:30"
+          },
+          {
+            "title": "Chief Minister Samrat Choudhary flags off special train carrying 1,100 pilgrims to Somnath Dham",
+            "link": "https://www.thehindu.com/news/national/bihar/chief-minister-samrat-choudhary-flags-off-special-train-carrying-1100-pilgrims-to-somnath-dham/article71245262.ece",
+            "source": "The Hindu",
+            "summary": "Bihar government will bear the entire cost of the seven-day pilgrimage. Free pilgrimage will take place from July 20 to 26",
+            "published": "2026-07-21T04:03:06+05:30"
+          },
+          {
+            "title": "Assam unveils mission to convert Muga silk waste into high-value yarn",
+            "link": "https://www.thehindu.com/news/national/assam/assam-unveils-mission-to-convert-muga-silk-waste-into-high-value-yarn/article71245281.ece",
+            "source": "The Hindu",
+            "summary": "Chief Minister Himanta Biswa Sarma says that about 40% of the cocoons yielding the golden silk currently go unused due to the absence of proper processing facilities",
+            "published": "2026-07-21T03:59:15+05:30"
+          },
+          {
+            "title": "ED provisionally attached 389 immovable properties worth ₹240.03 Crore",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/ed-provisionally-attached-389-immovable-properties-worth-24003-crore/article71246609.ece",
+            "source": "The Hindu",
+            "summary": "ED initiated investigation on the basis of multiple FIRs registered by the Uttar Pradesh Police and the Delhi Police against BIIPL, GVCTPL, Satinder Singh Bhasin and others, under various Sections of the Indian Penal Code, 1860",
+            "published": "2026-07-21T03:54:48+05:30"
+          },
+          {
+            "title": "118 Cops Injured, 70 Detained After CJP Protest Turns Violent In Delhi",
+            "link": "https://www.ndtv.com/world-news/118-cops-injured-70-detained-after-cjp-protest-turns-violent-in-delhi-11798494#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "CJP Protest: Police said around 70 protesters have been detained and legal proceedings have been initiated.",
+            "published": "2026-07-21T03:48:04+05:30"
+          },
+          {
             "title": "BMC BJP corporator demands regular audit of the birth registration",
             "link": "https://www.thehindu.com/news/cities/mumbai/bmc-bjp-corporator-demands-regular-audit-of-the-birth-registration/article71246434.ece",
             "source": "The Hindu",
             "summary": "Several corporators highlighted that the delay in birthday certificates is derailing study-abroad plans, visa applications for scores of residents, and document problems",
             "published": "2026-07-21T03:47:39+05:30"
+          },
+          {
+            "title": "How Neymar Jr. turned childhood poverty into a journey to Football greatness",
+            "link": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-mum-its-ok-one-day-i-will-be-very-rich-ill-buy-a-cookie-factory-so-i-can-eat-whenever-i-want-how-neymar-jr-turned-childhood-poverty-into-football-greatness/articleshow/132525702.cms",
+            "source": "Times of India",
+            "summary": "Neymar Jr is one of football’s biggest stars today, but his journey began in very difficult circumstances. A heartbreaking moment from his childhood became the reason he never stopped believing in himself. Years later, he turned that dream into reality. His story is a powerful reminder that even the toughest beginnings can lead to something extraordinary.",
+            "published": "2026-07-21T03:46:10+05:30"
           },
           {
             "title": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University",
@@ -127,76 +183,48 @@
             "published": "2026-07-21T03:11:55+05:30"
           },
           {
-            "title": "No decision on ethanol blending beyond 20%: Govt",
-            "link": "https://timesofindia.indiatimes.com/india/no-decision-on-ethanol-blending-beyond-20-govt/articleshow/132524202.cms",
-            "source": "Times of India",
-            "summary": "The government has stated no decision exists to raise ethanol blending beyond twenty percent. Lower-blended fuel or pure petrol will not be available at select outlets. Any future diesel blending will depend on evaluations and stakeholder consultations. The transition to E20 has been phased and evidence-based, with gradual increases. Claims of vehicle damage from E20 are largely misleading or unsupported by…",
-            "published": "2026-07-21T03:06:09+05:30"
-          },
-          {
-            "title": "NTA rebuts claims of 5, says NEET-UG OMR sheets forged",
-            "link": "https://timesofindia.indiatimes.com/india/nta-rebuts-claims-of-5-says-neet-ug-omr-sheets-forged/articleshow/132524008.cms",
-            "source": "Times of India",
-            "summary": "The National Testing Agency has refuted claims of OMR answer sheet discrepancies from five NEET-UG candidates. Images circulated by these candidates were reportedly digitally altered or regenerated using artificial intelligence. The agency verified the original OMR sheets and scores for all five students involved. These actions follow allegations of swapped OMR sheets and fewer attempted answers than recorded…",
-            "published": "2026-07-21T02:59:25+05:30"
-          },
-          {
-            "title": "Youth full of aspirations, want country to move forward: PM Modi",
-            "link": "https://timesofindia.indiatimes.com/india/youth-full-of-aspirations-want-country-to-move-forward-pm-modi/articleshow/132524003.cms",
-            "source": "Times of India",
-            "summary": "Prime Minister Modi urged opposition parties to use logic and facts in Parliament. He highlighted India's youth aspirations and recent national achievements. The successful launch of a private space rocket showcased young Indian capabilities. Recent inaugurations and a hydrogen train launch also marked progress. India maintained growth despite global energy supply disruptions.",
-            "published": "2026-07-21T02:55:46+05:30"
-          },
-          {
-            "title": "Trump imposes 50% tariffs on most Canadian goods, cites trade disputes",
-            "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-imposes-50-tariffs-on-most-canadian-goods-cites-trade-disputes/articleshow/132523996.cms",
-            "source": "Times of India",
-            "summary": "President Trump imposed fifty percent tariffs on most Canadian goods. This action escalates trade tensions between the two nations. The tariffs apply to many goods previously protected under the USMCA agreement. This move heightens economic uncertainty and strains bilateral ties. Aides are examining the possibility of imposing additional tariffs on Canada.",
-            "published": "2026-07-21T02:43:15+05:30"
-          },
-          {
-            "title": "1st dengue vaccine gets DCGI nod, set to hit market next year",
-            "link": "https://timesofindia.indiatimes.com/india/1st-dengue-vaccine-gets-dcgi-nod-set-to-hit-market-next-year/articleshow/132523988.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-07-21T02:36:55+05:30"
-          },
-          {
-            "title": "Aston Villa signs João Gomes as star Morgan Rogers completes British record move to Chelsea",
-            "link": "https://www.thehindu.com/news/national/aston-villa-signs-joao-gomes-as-star-morgan-rogers-completes-british-record-move-to-chelsea/article71247000.ece",
-            "source": "The Hindu",
-            "summary": "Gomes arrives days after club record signing Johan Manzambi, who cost more than 50 million pounds ($67 million) from Freiburg after a stellar World Cup with Switzerland",
-            "published": "2026-07-21T02:34:03+05:30"
-          },
-          {
-            "title": "Rahul Gandhi claims PM Modi ‘most anti-youth PM India has seen’",
-            "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-claims-pm-modi-most-anti-youth-pm-india-has-seen/articleshow/132523982.cms",
-            "source": "Times of India",
-            "summary": "Opposition leaders criticized Prime Minister Narendra Modi for his government's actions. They condemned the crackdown on young protesters marching towards Parliament. Rahul Gandhi called Modi the most anti-youth Prime Minister India has seen. Leaders stated that students are not criminals and their demands are legitimate. The protests highlight widespread discontent regarding examination irregularities and education…",
-            "published": "2026-07-21T02:29:27+05:30"
-          },
-          {
-            "title": "Supreme Court proposes SIT probe into Ram Temple case",
-            "link": "https://www.thehindu.com/news/national/supreme-court-proposes-sit-probe-into-ram-temple-case/article71246107.ece",
-            "source": "The Hindu",
-            "summary": "Bench tells petitioners not to play politics with the donation embezzlement case; complainants had sought a CBI probe and publication of all financial details of Shri Ram Janmabhoomi Teerth Kshetra Trust; court lists case for orders on July 27",
-            "published": "2026-07-21T02:17:57+05:30"
-          },
-          {
-            "title": "US Launches New Round Of Strikes On Iran, Now 10th Nights In A Row",
-            "link": "https://www.ndtv.com/world-news/us-military-launches-new-round-of-strikes-on-iran-11798418#publisher=newsstand",
+            "title": "\"Discriminatory Treatment\": US Imposes New 50% Tariffs On Certain Canadian Goods",
+            "link": "https://www.ndtv.com/world-news/us-imposes-new-50-tariffs-on-certain-canadian-goods-11798474#publisher=newsstand",
             "source": "NDTV",
-            "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz.",
-            "published": "2026-07-21T02:16:54+05:30"
+            "summary": "US President Donald Trump signed orders Monday to impose new 50-percent tariffs on some Canadian goods, citing \"discriminatory treatment\" in the areas of alcohol, automobiles and dairy products.",
+            "published": "2026-07-21T03:10:21+05:30"
           }
         ],
         "World": [
+          {
+            "title": "What are the new British Prime Minister’s biggest challenges?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-are-the-new-british-prime-ministers-biggest-challenges?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Britain has a new Prime Minister: Andy Burnham. The former Mayor of Manchester must now unite a divided nation.",
+            "published": "2026-07-20T22:54:06+00:00"
+          },
+          {
+            "title": "Chaos in India as ‘Cockroach activists’ march on parliament",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_chaos-in-india-as-cockroach-march-on-parliament-200726?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Chaos outside India&#039;s parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.",
+            "published": "2026-07-20T22:40:31+00:00"
+          },
+          {
+            "title": "War on Iran: War resumes 30 days after MoU",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.",
+            "published": "2026-07-20T22:26:49+00:00"
+          },
           {
             "title": "Trump imposes 50% tariff on Canadian imports",
             "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
             "published": "2026-07-20T22:26:34+00:00"
+          },
+          {
+            "title": "Moroccan-born man dies while detained by police in Italy",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A video showing the final moments of Moroccan-born Abderrahim Fakir as he was detained by police has sparked protests.",
+            "published": "2026-07-20T22:13:37+00:00"
           },
           {
             "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
@@ -246,34 +274,6 @@
             "source": "BBC World",
             "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
             "published": "2026-07-20T21:03:24+00:00"
-          },
-          {
-            "title": "King of Spain celebrates World Cup winners in Madrid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
-            "published": "2026-07-20T21:01:01+00:00"
-          },
-          {
-            "title": "Gaza residents weigh in on election of new Hamas leader",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-07-20T20:53:29+00:00"
-          },
-          {
-            "title": "How will Zelenskyy handle the growing political crisis at home?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-            "published": "2026-07-20T20:50:31+00:00"
-          },
-          {
-            "title": "Ortega insists no more elections for Nicaragua",
-            "link": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Central American state&#039;s longtime leader intends to block the opposition from challenging his rule.",
-            "published": "2026-07-20T20:49:08+00:00"
           }
         ],
         "Business": [
@@ -283,6 +283,13 @@
             "source": "BBC Business",
             "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
             "published": "2026-07-20T22:26:34+00:00"
+          },
+          {
+            "title": "The 20-somethings betting big on tech stocks",
+            "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+            "published": "2026-07-20T22:00:41+00:00"
           },
           {
             "title": "Burnham has big ideas - but what will they cost?",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
             "published": "2026-07-20T10:12:36+00:00"
-          },
-          {
-            "title": "Jobs, borrowing and taxes: Andy Burnham's economic challenges",
-            "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The person in charge of the country will change but the financial challenges remain the same.",
-            "published": "2026-07-20T09:03:48+00:00"
           }
         ],
         "Sports": [
@@ -1072,11 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Cyber fraud: వాట్సప్‌లో వెడ్డింగ్‌ ఇన్విటేషన్‌.. క్లిక్‌ చేస్తే ₹10 లక్షలు పోయాయ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1lQZU44SGpkNi1vN29iazRxRXhFRG9lSEN1cFpVMFlHRGhOZXNnUXFlUE9LSVhoN2FLcTdHWUlEWjY0STVEMDFRdEpwd3c1OFpTUWJEVEo5Zjk0TDNYRDNKU25qdTVxU0o1R0FZSWU4aF9SMW0zQXQtYjZtX2ZVaHRTbVRFclFlVzBWNGhqN3o0YWlQMWotN1RSQThTYzlkSmJSTElqQ1RWRkt4enNB0gGvAUFVX3lxTE9nWVBlTjhIamQ2LW83b2JrNHFFeEVEb2VIQ3VwWlUwWUdEaE5lc2dRcWVQT0tJWGg3YUtxN0dZSURaNjRJNUQwMVF0SnB3dzU4WlNRYkRUSjlmOTRMM1hEM0pTbmp1NXFTSjVHQVlJZThoX1IxbTNBdC1iNm1fZlVodFNtVEVyUWVXMFY0aGo3ejRhaVAxai03VFJBOFNjOWRKYlJMSWpDVFZGS3h6c0E?oc=5",
+            "title": "పోలీసులకు నీడగా పౌరులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WeUdnNUpzdm5GS0pvU2J6aXFVb0V3c0lMZW14WUxOME13a1pPa3czc2Y4Wjh0RWczcUZWQ3J0c0hraFRRQ0s4eER2V2pEeGd3djNvTnpaNGttUzAxWnBrNHVKWEszMlJKcnkxMjRZS0NHVTdncDVWQm9hYWg3QQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-20T19:11:00+00:00"
+            "published": "2026-07-20T19:26:59+00:00"
           },
           {
             "title": "Uday Ruddarraju: ఎలాన్ మస్క్ నుంచి ఓపెన్‌ ఏఐ వరకు.. ఉదయ్‌ రుద్దర్రాజు సంచలనం - Eenadu",
@@ -1121,13 +1121,6 @@
             "published": "2026-07-20T14:45:41+00:00"
           },
           {
-            "title": "అకస్మాత్తుగా అనారోగ్యం.. అమెరికాలో తెలుగు టెకీ మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWs3ZG9HMjhETV9iYkNlM3dNWUhOcGxob0R4RTRTbTZsU1JqTmI4WENxX1JvWlZVOUlCVDZ3QWNuQllYNzFKX3hZSk91T2lwOUVVN1k5RlkzcXFUd08wRzdiakI0NGVYUC1qTEs1dmd5S2V2SUMtc0tsaTd3aEwxXzh1Tm9BU0lsNnQ2dUlkei1EcmlvNDNfWVJsRXFlcGNRY3ZHMGJyTEgtS1pmQ3fSAa4BQVVfeXFMTUlrN2RvRzI4RE1fYmJDZTN3TVlITnBsaG9EeEU0U202bFNSak5iOFhDcV9Sb1pWVTlJQlQ2d0FjbkJZWDcxSl94WUpPdU9pcDlFVTdZOUZZM3FxVHdPMEc3YmpCNDRlWFAtakxLNXZneUtldklDLXNLbGk3d2hMMV84dU5vQVNJbDZ0NnVJZHotRHJpbzQzX1lSbEVxZXBjUWN2RzBickxILUtaZkN3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-20T14:41:50+00:00"
-          },
-          {
             "title": "Aadhaar app: 4 కోట్ల డౌన్‌లోడ్‌లు దాటేసిన ఆధార్‌ యాప్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWZ6RXEwVU5Vbkdka0t4SkxqNFZuWi1WMTlrOWJqQUxYRHNscDAxYkRackJwSWM0Yi1ubDlHbEg5TnpoM3MwcnF2cG1mX2JUVHJGeUZRR0Q2Z05pVEdzNzFlUy10ejduUERxVDl1OWRIelJmUUVjVTB6VkFpUE1xN3g5Q1FjZVo5dHV0cmVERk41Q1E5TnV3cENIOHTSAZwBQVVfeXFMTXFmekVxMFVOVW5HZGtLeEpMajRWblotVjE5azliakFMWERzbHAwMWJEWnJCcEljNGItbmw5R2xIOU56aDNzMHJxdnBtZl9iVFRyRnlGUUdENmdOaVRHczcxZVMtdHo3blBEcVQ5dTlkSHpSZlFFY1UwelZBaVBNcTd4OUNRY2VaOXR1dHJlREZONUNROU51d3BDSDh0?oc=5",
             "source": "Eenadu",
@@ -1140,6 +1133,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-20T14:33:19+00:00"
+          },
+          {
+            "title": "Bhagyashri Borse about Unlucky tag: అప్పుడు నన్ను అన్‌లక్కీ అన్నారు: భాగ్యశ్రీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR3J0RW91R045Qk1rTGtJcWVtcU9kd3lkSEdiTVRDcG5mcXZ6UHJaZHZIb2dkd2xwbVp4Z3BwbUFFUExDLWNHcTBqdDEzWmx6M1V4SkRCOTBwazhEaWZBWUR6bVVUUWtEZWhrT3VSNElKYVdQRVdCY1lQR0hOaDlybXdZOUk4b3VOM0ktajB6SEEyMVBGRmZjMUU4aHVzVmdwTFprTmxCckpXZkZnay1RWDdiY0pGZFphdjJmYnR4V2I4NDYxYXpncWdQcU9qQ1FOa1phTnNad2TSAdgBQVVfeXFMUEdydEVvdUdOOUJNa0xrSXFlbXFPZHd5ZEhHYk1UQ3BuZnF2elByWmR2SG9nZHdscG1aeGdwcG1BRVBMQy1jR3EwanQxM1psejNVeEpEQjkwcGs4RGlmQVlEem1VVFFrRGVoa091UjRJSmFXUEVXQmNZUEdITmg5cm13WTlJOG91TjNJLWowekhBMjFQRkZmYzFFOGh1c1ZncExaa05sQnJKV2ZGZ2stUVg3YmNKRmRaYXYyZmJ0eFdiODQ2MWF6Z3FnUHFPakNRTmtaYU5zWndk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-20T14:26:46+00:00"
           },
           {
             "title": "బ్రిటన్ నూతన ప్రధానిగా ఆండీ బర్నామ్, తొలి ప్రసంగంలో ఆయన ఏమన్నారంటే..",
@@ -1426,11 +1426,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "আজকের দিন কন্যা রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1ZLTGpqdU1kdXlKWElKMlotbTdxWWwtbzdxRDh6aHlXcGtMOUs3eDhBWk9KNGFNYTFvaFJMMHdEVE1RX1RteTAyMUR5T1ZoS1F3LUNYUEVyZDZtbnJSQVhRZTlqX1lVQWRiRnA3UmVZUl9oWXF5ekJIUnhiSkpNOEF6bnNDallXMEtYaWFEWTZKOGNwaTVMZVVYalJJdVk3YzNaY216c2fSAa4BQVVfeXFMT0dPNmtSbUhFN19mQ0VKY0xzazFERTVlSE9HTzh0ZnpLSGpFNjlKY0t1N1RlOGVwRE5oYWhhY2tVbEpTa29aN2ZNUTVPaExRY0xDS1RYZGJ2MEMzT2pteTJUQWNoZ0ljTWxuT3hnM2FtczVwZk5SR25hWExMVmFsOVNXZ0cyLWV5S3U2QkF5Uk01NHg1SzhmbjJnekxOWlo5ckhINllpZnNxQTZ6X3lB?oc=5",
+            "title": "আজকের দিন কুম্ভ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEZaVVR5SkdoZXZyRm1XLWEwV0p3eUgzeTBSQ2JSZGI0cnZneDFvTmZtT1VBeENVeTJJYmZWV3BXYkN4X1RybFhfMzFpZGhYQnpFNWRNS0xWaVdpTGhvcFp3Skg4NlJKMzV5NVpRNF80NDNIVktJVEpsemJlZTRZbDVoQWUydThkLUdIV0pVUlF0SnJSb2RvUXBaTFFoZ1FZVjVHVlJOSlc4NlRB0gGyAUFVX3lxTFAzSFBCUDQ2WWV5QXNqRklyWGxPZGpPc3k0eFRyb25NZ0RoYW4tc1pRR2pKcWRyTUtTcVR6WTNmV0JONklBTHF1WFRiVTFzQkp6bDhuaHpCN09aUXItVURzSGNCbElXdE4zN2NzaVJOb09HWS13ZlpkR2EyQ21yNl9rM3NjOWFYelhVNTNCcGlDV2pyRnEzMlBleDl2TnBWODl2ZG5jaU8wWkJKX2JRYmhiM2c?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-07-20T22:15:06+00:00"
+            "published": "2026-07-20T22:43:13+00:00"
           },
           {
             "title": "আজকের দিন সিংহ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
@@ -1461,13 +1461,6 @@
             "published": "2026-07-20T20:52:05+00:00"
           },
           {
-            "title": "আজকের দিন তুলা রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUMwR0F3ZUJCNy1SeDRxVnhsejZJYm5Fam9sWWFSTGNTTzVuOFFRRTJWcnVWUnBQMzY5blM1S0t4Mlcyelh1djFfNmtIVl9mS20yb2JZbWhuQnZfZFF5Tl9pa2lqVm9lWENFaGlYMmdQWWs1dEFILXZRenR6RE5NQXhrd19qYVpmLVZRSlhKOUxvRFhNZDltem05b3ZFSDhxa0dtNE1qTdIBrAFBVV95cUxOSnNPcUpkYmd4YUxWSmhkQ2hzSmhOTGIxWExXTHRiRXN2aXBnSV9DOG1HczhqMGs3OFVXb1JUMF9jd2hsZnowRnpzZnZpbjBDRVhuN184SjZXTUlYTXVZR3M0ajJMQVJhdkNfYUlRMXctUGlFTEFzMDRMb3BDMmstSnktUzJHVzNHRVk3cldnQ3kzUUJRa09Bb2Nvd0hHYzRnWVhXQnFacHVTd3Zw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-20T20:44:05+00:00"
-          },
-          {
             "title": "আজকের দিন বৃষ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmJqcUhuTGpFYkVlYm9JcWM1bWo4TFJPVTNtMmNFYkNhSkpTYm1WVjMwVnlCemlpMndva0g3SkdmWmI5YzZlb1laanlodVYwUU91b2Q4RHpYdWJ4anVYT3djQklUalA1Szk3QlZNY3pqTThLVkZNaWhSbHdpX2N3QUVQNVFXWkx0cEdGS2liWFBya0lFMURmaHVQN3NtYzktNl9ockttVlEtSG50VG9J0gG0AUFVX3lxTFB5bzBEYTU4ZkRzUDAxdWx4LWgzVF9yQlZTZVhPcTc2d2JVN01hU2ZSSTU1MjFxZGhoWWZwZk9Pd1lxWnJhb0s1ejJJYnlMQzVoSmY1U2prYUFtekRpUHZCV284dTBXQm02SVpyRVhKcUo2bmd2SlVwbmUtMWRVVk1qdGdYWHRqcEVwMUI1Y1FJeG5sT181bGlrUnhPMER0cG1jdDBnVDBwRWx4SHd5ZndvSm1MNw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1480,13 +1473,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-20T20:01:52+00:00"
-          },
-          {
-            "title": "আজকের দিন কুম্ভ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEZaVVR5SkdoZXZyRm1XLWEwV0p3eUgzeTBSQ2JSZGI0cnZneDFvTmZtT1VBeENVeTJJYmZWV3BXYkN4X1RybFhfMzFpZGhYQnpFNWRNS0xWaVdpTGhvcFp3Skg4NlJKMzV5NVpRNF80NDNIVktJVEpsemJlZTRZbDVoQWUydThkLUdIV0pVUlF0SnJSb2RvUXBaTFFoZ1FZVjVHVlJOSlc4NlRB0gGyAUFVX3lxTFAzSFBCUDQ2WWV5QXNqRklyWGxPZGpPc3k0eFRyb25NZ0RoYW4tc1pRR2pKcWRyTUtTcVR6WTNmV0JONklBTHF1WFRiVTFzQkp6bDhuaHpCN09aUXItVURzSGNCbElXdE4zN2NzaVJOb09HWS13ZlpkR2EyQ21yNl9rM3NjOWFYelhVNTNCcGlDV2pyRnEzMlBleDl2TnBWODl2ZG5jaU8wWkJKX2JRYmhiM2c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-20T19:39:50+00:00"
           },
           {
             "title": "জাতীয় নিরাপত্তার প্রশ্ন, কলকাতা বিমানবন্দরে ভাঙা হবে ১৩৬ বছর পুরনো মসজিদ - Anandabazar Patrika",
@@ -1504,10 +1490,24 @@
           },
           {
             "title": "রজোনিবৃত্তি পর্বে ত্বকের সমস্যায় জেরবার!কী ভাবে এই বয়সেও মুখ চকচকে রাখা যায়? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVnZ2WmdWVEM5YV9RX3JtTzd0QXVNOEFTY1cxa05kVXpWNy1jZHZleERGQjk4RTBJSDN6Tnh0U0FoQ2xIbHJ2TU1kdUR0dTF1QVhXSi1OZHFVZ1ZiVDJZaldVbVZHX2JPVGtyRVNxU19LeHBIN09GNmJ6cW9XcHgyelhJUndDYXBZVUIxSHktUFBjRDNRblFkWFNaVDQwbXhRNEctR0hINkdlRmV2cC1YeTBMaXR2Z1lEWEFycS1BTUlhVE4xNU1B0gHMAUFVX3lxTE9HTmIxeW1TTUFDaDBIQ0ZQenkxVEJpRTA5UmhsTWQ5OGk4dmhHTW92TnpYcEVIQUFwd3NRNHFSd0YzZ19QVktDTEFTNkUwMHhhRFlVQVZkTmxMTnhzaGZDRGF6UFRIVzdSWnpmWUVPd3RFbGdVSERUamJHaDNNY1lGVlJTdDkwZk5lRzJldGlhdTB5bDVQeXFDRDVhN1ZQbXBOUHNuQmpiVnRjbUpHQU9XeHQ1bmY1QUM0UlpNeHhVUTFqUDR0Y1dTZXJ4aw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR05iMXltU01BQ2gwSENGUHp5MVRCaUUwOVJobE1kOThpOHZoR01vdk56WHBFSEFBcHdzUTRxUndGM2dfUFZLQ0xBUzZFMDB4YURZVUFWZE5sTE54c2hmQ0RhelBUSFc3Ulp6ZllFT3d0RWxnVUhEVGpiR2gzTWNZRlZSU3Q5MGZOZUcyZXRpYXUweWw1UHlxQ0Q1YTdWUG1wTlBzbkJqYlZ0Y21KR0FPV3h0NW5mNUFDNFJaTXh4VVExalA0dGNXU2VyeGvSAcwBQVVfeXFMT0dOYjF5bVNNQUNoMEhDRlB6eTFUQmlFMDlSaGxNZDk4aTh2aEdNb3ZOelhwRUhBQXB3c1E0cVJ3RjNnX1BWS0NMQVM2RTAweGFEWVVBVmRObExOeHNoZkNEYXpQVEhXN1JaemZZRU93dEVsZ1VIRFRqYkdoM01jWUZWUlN0OTBmTmVHMmV0aWF1MHlsNVB5cUNENWE3VlBtcE5Qc25CamJWdGNtSkdBT1d4dDVuZjVBQzRSWk14eFVRMWpQNHRjV1Nlcnhr?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-20T15:06:03+00:00"
+          },
+          {
+            "title": "ভিশন ২০২৮-এর শিবিরে হাজির সৌরভ, ক্রিকেটারদের সঙ্গে দেখা করে দিলেন গুরুত্বপূর্ণ পরামর্শ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckJzY0IwRS1IS0FjdHRzYmVoNWkyOVhlX2l3ZmZsem9vYzJMeldOVDR0NmJCemxZeWlfTk5SakJEcmZOZ2Z3OHkyZVhfMXpLM0YxdGpJQXhhZnVNQWVzU2t1NXlyTGgtdzVVMTlFa0UtMGUxc0dhNUVkWk8xYzlMNGhEWXU3aXdWTjhWNTlLTE9SaXozNjBiQVZZNjV1RGhHR3Bla2dYTEp6NHUzT1JsV1pR0gG3AUFVX3lxTFB1TmphNnk1NDRxMlZzc1VfcGZqMERFU2FnNENOanJMU2RxbTFscHJTQUZ3OGd0bk01RWRmZ2xvc1EwYkRMc2FmSjYtbFliNTZMcVI2RDJYRmJoeTQwZlBrVWhrNnhoYUJGSkduS2hUUE9QMmE1Z1BQYjFJY045cS1QaWVVZElaQzVhUWotTTRqLWVOTkxObWxmRDl1NFhURGY5NEVkblFSVEdWYU9NMG5ER05hY0cwcw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-20T14:58:03+00:00"
+          },
+          {
+            "title": "ককরোচ জনতা পার্টির মিছিলের জেরে দিনভর যে চিত্র দেখা গেল দিল্লিতে",
+            "link": "https://www.bbc.com/bengali/articles/c204g9jyxz5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-07-20T14:40:48+00:00"
           }
         ]
       }
