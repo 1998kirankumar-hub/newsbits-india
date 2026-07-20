@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-07-20T22:01:27.614304+00:00",
+  "updated_at": "2026-07-20T22:31:11.943158+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Trump imposes 50% tariff on Canadian imports",
+            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+            "published": "2026-07-20T22:26:34+00:00"
+          },
+          {
+            "title": "BMC BJP corporator demands regular audit of the birth registration",
+            "link": "https://www.thehindu.com/news/cities/mumbai/bmc-bjp-corporator-demands-regular-audit-of-the-birth-registration/article71246434.ece",
+            "source": "The Hindu",
+            "summary": "Several corporators highlighted that the delay in birthday certificates is derailing study-abroad plans, visa applications for scores of residents, and document problems",
+            "published": "2026-07-21T03:47:39+05:30"
+          },
+          {
+            "title": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University",
+            "link": "https://www.thehindu.com/news/national/odisha/more-than-half-of-odishas-pvtg-adult-women-anaemic-says-a-study-by-utkal-university/article71245884.ece",
+            "source": "The Hindu",
+            "summary": "Among PVTGs, the Hill Kharia shows the highest stunting prevalence at 82.76%, a distressing figure that signifies a critical public health emergency, the study raises alarm",
+            "published": "2026-07-21T03:32:59+05:30"
+          },
           {
             "title": "The 20-somethings betting big on tech stocks",
             "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
@@ -13,11 +34,11 @@
             "published": "2026-07-20T22:00:41+00:00"
           },
           {
-            "title": "Trump imposes 50% tariff on Canadian imports",
-            "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-            "published": "2026-07-20T21:51:55+00:00"
+            "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
+            "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tens of thousands of fans greet La Roja as they travel down Madrid&#039;s historic avenues to Cibeles Square.",
+            "published": "2026-07-20T21:52:02+00:00"
           },
           {
             "title": "Burnham has big ideas - but what will they cost?",
@@ -81,30 +102,23 @@
             "source": "Al Jazeera",
             "summary": "Argentina&#039;s Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain&#039;s Yamal prayed calmly.",
             "published": "2026-07-20T21:12:22+00:00"
-          },
-          {
-            "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-            "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-            "published": "2026-07-20T21:09:31+00:00"
-          },
-          {
-            "title": "1st dengue vaccine gets DCGI nod, set to hit market next year",
-            "link": "https://timesofindia.indiatimes.com/india/1st-dengue-vaccine-gets-dcgi-nod-set-to-hit-market-next-year/articleshow/132523988.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-07-21T02:36:55+05:30"
-          },
-          {
-            "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-            "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
-            "published": "2026-07-20T21:06:42+00:00"
           }
         ],
         "India": [
+          {
+            "title": "BMC BJP corporator demands regular audit of the birth registration",
+            "link": "https://www.thehindu.com/news/cities/mumbai/bmc-bjp-corporator-demands-regular-audit-of-the-birth-registration/article71246434.ece",
+            "source": "The Hindu",
+            "summary": "Several corporators highlighted that the delay in birthday certificates is derailing study-abroad plans, visa applications for scores of residents, and document problems",
+            "published": "2026-07-21T03:47:39+05:30"
+          },
+          {
+            "title": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University",
+            "link": "https://www.thehindu.com/news/national/odisha/more-than-half-of-odishas-pvtg-adult-women-anaemic-says-a-study-by-utkal-university/article71245884.ece",
+            "source": "The Hindu",
+            "summary": "Among PVTGs, the Hill Kharia shows the highest stunting prevalence at 82.76%, a distressing figure that signifies a critical public health emergency, the study raises alarm",
+            "published": "2026-07-21T03:32:59+05:30"
+          },
           {
             "title": "Supreme Court takes exception to meagre compensation for ex-HC judges",
             "link": "https://timesofindia.indiatimes.com/india/supreme-court-takes-exception-to-meagre-compensation-for-ex-hc-judges/articleshow/132524206.cms",
@@ -174,20 +188,6 @@
             "source": "NDTV",
             "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz.",
             "published": "2026-07-21T02:16:54+05:30"
-          },
-          {
-            "title": "Maria Goretti says she misses financial independence after quitting MTV career for motherhood",
-            "link": "https://timesofindia.indiatimes.com/life-style/parenting/arshad-warsis-wife-maria-goretti-admits-she-misses-financial-independence-after-quitting-her-successful-mtv-career-when-i-had-the-kids-i-wanted-to-sit/articleshow/132523942.cms",
-            "source": "Times of India",
-            "summary": "Former MTV VJ Maria Goretti has opened up about stepping away from a successful television career after marrying actor Arshad Warsi, admitting that while she sometimes misses earning her own money and the appreciation that came with her work, she has no regrets about choosing motherhood. Maria also spoke about witnessing the ups and downs of husband Arshad Warsi's Bollywood journey, saying those experiences helped…",
-            "published": "2026-07-21T02:16:19+05:30"
-          },
-          {
-            "title": "Day 1 of Parliament’s monsoon session washed out amid NEET, donation chori protests",
-            "link": "https://timesofindia.indiatimes.com/india/day-1-of-parliaments-monsoon-session-washed-out-amid-neet-donation-chori-protests/articleshow/132523960.cms",
-            "source": "Times of India",
-            "summary": "The first day of Parliament's monsoon session was disrupted by opposition protests. Opposition parties raised concerns over various issues, including temple donations and exam leaks. Frequent adjournments led to the cancellation of proceedings in both houses. A bill to increase the number of Supreme Court judges was introduced in Lok Sabha. The changed seating arrangement for rebel TMC MPs also drew attention.",
-            "published": "2026-07-21T02:11:52+05:30"
           }
         ],
         "World": [
@@ -195,8 +195,15 @@
             "title": "Trump imposes 50% tariff on Canadian imports",
             "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-            "published": "2026-07-20T21:51:55+00:00"
+            "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+            "published": "2026-07-20T22:26:34+00:00"
+          },
+          {
+            "title": "World Cup champions Spain return to royal welcome, parade through Madrid",
+            "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-champions-spain-return-to-royal-welcome-parade-through-madrid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tens of thousands of fans greet La Roja as they travel down Madrid&#039;s historic avenues to Cibeles Square.",
+            "published": "2026-07-20T21:52:02+00:00"
           },
           {
             "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The Central American state&#039;s longtime leader intends to block the opposition from challenging his rule.",
             "published": "2026-07-20T20:49:08+00:00"
-          },
-          {
-            "title": "Man arrested after fire outside New York immigration court",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
-            "published": "2026-07-20T20:45:11+00:00"
           }
         ],
         "Business": [
@@ -281,8 +281,8 @@
             "title": "Trump imposes 50% tariff on Canadian imports",
             "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-            "published": "2026-07-20T21:51:55+00:00"
+            "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+            "published": "2026-07-20T22:26:34+00:00"
           },
           {
             "title": "Burnham has big ideas - but what will they cost?",
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "भास्कर अपडेट्स:दिल्ली में 11वीं के छात्र की चाकू मारकर हत्या, दो आरोपी गिरफ्तार",
+            "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-21-july-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138496114.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-07-20T22:07:43+00:00"
+          },
+          {
             "title": "Jammu: डोडा-जम्मू हाईवे पर भूस्खलन से तीन की मौत, चार लोग घायल; पहाड़ से गिरे मलबे ने कई घरों को दिया दर्द",
             "link": "https://www.amarujala.com/jammu/three-killed-four-injured-in-landslide-on-doda-jammu-highway-debris-falling-from-mountain-brings-tragedy-to-se-2026-07-21",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-07-20T15:01:45+00:00"
-          },
-          {
-            "title": "'मेरी गर्लफ्रेंड मेरे साथ 7 और मर्दों को प्यार कर रही थी', 40 साल के फेमस एक्टर का औरतों पर शॉकिंग बयान",
-            "link": "https://hindi.oneindia.com/news/entertainment/karan-wahi-40-age-actor-said-my-girlfriend-making-love-to-7-other-men-along-with-me-know-matter-1612765.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-07-20T20:31:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,13 +1072,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Anupama Parameswaran: ఇకపై ఎవరి అనుమతి అవసరం లేదు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa1ItZExQaTVzeW1wVEg3Mlhub05GOVJRaEZuVlhBcmRNWHVJY0NCd1VOTnVHZFk5N1RDcC1kdWN5QnQtTkR1ZUFIV2hveE1fTTlXRW92Y3Joc29EaDlpZXpvWGxHRkNFWVdDV2d4YnVFTzRnNVdxYl9BOHFJeWlWZXo2OE1tTUNPWkV0RUphZFFtLWJaRkpRRWx1NUV2RHJYMkI4ZVhVZTBMbl9GSEdsLU1ueFlWRDhCQkdybzlKSElGSk9iMk5URThIYTlfemVVSm1DWdIB1AFBVV95cUxQa1ItZExQaTVzeW1wVEg3Mlhub05GOVJRaEZuVlhBcmRNWHVJY0NCd1VOTnVHZFk5N1RDcC1kdWN5QnQtTkR1ZUFIV2hveE1fTTlXRW92Y3Joc29EaDlpZXpvWGxHRkNFWVdDV2d4YnVFTzRnNVdxYl9BOHFJeWlWZXo2OE1tTUNPWkV0RUphZFFtLWJaRkpRRWx1NUV2RHJYMkI4ZVhVZTBMbl9GSEdsLU1ueFlWRDhCQkdybzlKSElGSk9iMk5URThIYTlfemVVSm1DWQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-20T21:27:51+00:00"
-          },
-          {
             "title": "Cyber fraud: వాట్సప్‌లో వెడ్డింగ్‌ ఇన్విటేషన్‌.. క్లిక్‌ చేస్తే ₹10 లక్షలు పోయాయ్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1lQZU44SGpkNi1vN29iazRxRXhFRG9lSEN1cFpVMFlHRGhOZXNnUXFlUE9LSVhoN2FLcTdHWUlEWjY0STVEMDFRdEpwd3c1OFpTUWJEVEo5Zjk0TDNYRDNKU25qdTVxU0o1R0FZSWU4aF9SMW0zQXQtYjZtX2ZVaHRTbVRFclFlVzBWNGhqN3o0YWlQMWotN1RSQThTYzlkSmJSTElqQ1RWRkt4enNB0gGvAUFVX3lxTE9nWVBlTjhIamQ2LW83b2JrNHFFeEVEb2VIQ3VwWlUwWUdEaE5lc2dRcWVQT0tJWGg3YUtxN0dZSURaNjRJNUQwMVF0SnB3dzU4WlNRYkRUSjlmOTRMM1hEM0pTbmp1NXFTSjVHQVlJZThoX1IxbTNBdC1iNm1fZlVodFNtVEVyUWVXMFY0aGo3ejRhaVAxai03VFJBOFNjOWRKYlJMSWpDVFZGS3h6c0E?oc=5",
             "source": "Eenadu",
@@ -1140,6 +1133,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-20T14:36:38+00:00"
+          },
+          {
+            "title": "Rahul Gandhi: విద్యార్థులపై లాఠీ ఛార్జ్‌ను ఖండించిన రాహుల్‌ గాంధీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnNLekJmLWZTejFRQ1FYUENobDU4Ny05cGU4QzA3TjZHZ3JsNmFWOW1TOHZHR1hVVEZjZkZ6RHI4QWMzUWRXZTlMeFdSY1U2NGNlbjZxNnFKR0F1eWN5VXNkNnN4U3hJUEI4Y3QwbGNpM3Z1UU04TkJMd2JJTENEYkRwX0FJeVlKTWtZblZGdTdnWEdCQTJaWjVmaXFRNmpMeFJYQjdqdjVCSmdIUUVWNUdzLXNBelkwOTV6X3c4Q3d1RWE1NVk00gHHAUFVX3lxTFBic0t6QmYtZlN6MVFDUVhQQ2hsNTg3LTlwZThDMDdONkdncmw2YVY5bVM4dkdHWFVURmNmRnpEcjhBYzNRZFdlOUx4V1JjVTY0Y2VuNnE2cUpHQXV5Y3lVc2Q2c3hTeElQQjhjdDBsY2kzdnVRTThOQkx3YklMQ0RiRHBfQUl5WUpNa1luVkZ1N2dYR0JBMlpaNWZpcVE2akx4UlhCN2p2NUJKZ0hRRVY1R3Mtc0F6WTA5NXpfdzhDd3VFYTU1WTQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-20T14:33:19+00:00"
           },
           {
             "title": "బ్రిటన్ నూతన ప్రధానిగా ఆండీ బర్నామ్, తొలి ప్రసంగంలో ఆయన ఏమన్నారంటే..",
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন কন্যা রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1ZLTGpqdU1kdXlKWElKMlotbTdxWWwtbzdxRDh6aHlXcGtMOUs3eDhBWk9KNGFNYTFvaFJMMHdEVE1RX1RteTAyMUR5T1ZoS1F3LUNYUEVyZDZtbnJSQVhRZTlqX1lVQWRiRnA3UmVZUl9oWXF5ekJIUnhiSkpNOEF6bnNDallXMEtYaWFEWTZKOGNwaTVMZVVYalJJdVk3YzNaY216c2fSAa4BQVVfeXFMT0dPNmtSbUhFN19mQ0VKY0xzazFERTVlSE9HTzh0ZnpLSGpFNjlKY0t1N1RlOGVwRE5oYWhhY2tVbEpTa29aN2ZNUTVPaExRY0xDS1RYZGJ2MEMzT2pteTJUQWNoZ0ljTWxuT3hnM2FtczVwZk5SR25hWExMVmFsOVNXZ0cyLWV5S3U2QkF5Uk01NHg1SzhmbjJnekxOWlo5ckhINllpZnNxQTZ6X3lB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-20T22:15:06+00:00"
+          },
+          {
             "title": "আজকের দিন সিংহ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0ZRdjEyMjRROGJQcFFPUE5uSHZqWFRpY2NZOXdtdDNqNER3clRGV1hYZS00dzQxNF9wbXNzejlRMnNocnE4ZWlKMUgtMUh2LXVKOG42U3NSMUxDT3h0N0Q1bVRjaEJPVHVPRGxCejVVTzNIcEJKWklxZ0tJNEhlMW54MXlfYW1Fd1pwTjFUd0t1ZDJRZ004ZDZuTVZSSkk2SW5tZVlKMNIBrAFBVV95cUxPVEVYbXJ3ekx0aEtsSHZaN2VULTBTeHhHRm5aaFVmcEhVNHMxbkktV0hQTzJFblZoaWpZZEJpRkpvR2xBWTZvSExSZU8xcDVqYWVJOTJaZkdXVGcwQzgxeU5IMS1mSGx0eW1jTnV3SXJ3SFEtNk43T1lubTNLWVBTcFA2cG1RbTlIU2RYMTFRN2NxSHRaMFp0VFcwNVFwWWw1V0FhVmVFRngtU3N1?oc=5",
             "source": "Anandabazar Patrika",
@@ -1454,6 +1461,13 @@
             "published": "2026-07-20T20:52:05+00:00"
           },
           {
+            "title": "আজকের দিন তুলা রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUMwR0F3ZUJCNy1SeDRxVnhsejZJYm5Fam9sWWFSTGNTTzVuOFFRRTJWcnVWUnBQMzY5blM1S0t4Mlcyelh1djFfNmtIVl9mS20yb2JZbWhuQnZfZFF5Tl9pa2lqVm9lWENFaGlYMmdQWWs1dEFILXZRenR6RE5NQXhrd19qYVpmLVZRSlhKOUxvRFhNZDltem05b3ZFSDhxa0dtNE1qTdIBrAFBVV95cUxOSnNPcUpkYmd4YUxWSmhkQ2hzSmhOTGIxWExXTHRiRXN2aXBnSV9DOG1HczhqMGs3OFVXb1JUMF9jd2hsZnowRnpzZnZpbjBDRVhuN184SjZXTUlYTXVZR3M0ajJMQVJhdkNfYUlRMXctUGlFTEFzMDRMb3BDMmstSnktUzJHVzNHRVk3cldnQ3kzUUJRa09Bb2Nvd0hHYzRnWVhXQnFacHVTd3Zw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-20T20:44:05+00:00"
+          },
+          {
             "title": "আজকের দিন বৃষ রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmJqcUhuTGpFYkVlYm9JcWM1bWo4TFJPVTNtMmNFYkNhSkpTYm1WVjMwVnlCemlpMndva0g3SkdmWmI5YzZlb1laanlodVYwUU91b2Q4RHpYdWJ4anVYT3djQklUalA1Szk3QlZNY3pqTThLVkZNaWhSbHdpX2N3QUVQNVFXWkx0cEdGS2liWFBya0lFMURmaHVQN3NtYzktNl9ockttVlEtSG50VG9J0gG0AUFVX3lxTFB5bzBEYTU4ZkRzUDAxdWx4LWgzVF9yQlZTZVhPcTc2d2JVN01hU2ZSSTU1MjFxZGhoWWZwZk9Pd1lxWnJhb0s1ejJJYnlMQzVoSmY1U2prYUFtekRpUHZCV284dTBXQm02SVpyRVhKcUo2bmd2SlVwbmUtMWRVVk1qdGdYWHRqcEVwMUI1Y1FJeG5sT181bGlrUnhPMER0cG1jdDBnVDBwRWx4SHd5ZndvSm1MNw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1475,13 +1489,6 @@
             "published": "2026-07-20T19:39:50+00:00"
           },
           {
-            "title": "আজকের দিন কন্যা রাশি- ২১ জুলাই, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1ZLTGpqdU1kdXlKWElKMlotbTdxWWwtbzdxRDh6aHlXcGtMOUs3eDhBWk9KNGFNYTFvaFJMMHdEVE1RX1RteTAyMUR5T1ZoS1F3LUNYUEVyZDZtbnJSQVhRZTlqX1lVQWRiRnA3UmVZUl9oWXF5ekJIUnhiSkpNOEF6bnNDallXMEtYaWFEWTZKOGNwaTVMZVVYalJJdVk3YzNaY216c2fSAa4BQVVfeXFMT0dPNmtSbUhFN19mQ0VKY0xzazFERTVlSE9HTzh0ZnpLSGpFNjlKY0t1N1RlOGVwRE5oYWhhY2tVbEpTa29aN2ZNUTVPaExRY0xDS1RYZGJ2MEMzT2pteTJUQWNoZ0ljTWxuT3hnM2FtczVwZk5SR25hWExMVmFsOVNXZ0cyLWV5S3U2QkF5Uk01NHg1SzhmbjJnekxOWlo5ckhINllpZnNxQTZ6X3lB?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-20T19:11:39+00:00"
-          },
-          {
             "title": "জাতীয় নিরাপত্তার প্রশ্ন, কলকাতা বিমানবন্দরে ভাঙা হবে ১৩৬ বছর পুরনো মসজিদ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekNpckNVLXR4UUlZcFplODZNZFpCSDFZeHY1eEFQYnhkbE5nRTBXQ2E5SDBsaEJobGFEZG1UbG1DelFkS3JKMUE5dnFFUG1XOVZLS0tCakdSdTd4T2ZyVWJJYktOYXpUOFFjcGtLQWFBdy1kUnR1S3JxcF9KTlItWW5TM2V5WWVQQ1k0QVE2cWFYd2NIMjN0NlhJcTdPUdIBowFBVV95cUxOVUxyd0VkcTBXVV9fOVkwekxUWUpXWllrOXdKZHV3Szl4Mk9wZ3VYc3dwdUpaUGF0ZkJGa2VHeFFiNjg1cmFjSmxwVWJfNmo5dV9oUElJak9HZm5WVzI2dm16eGo2bTNlaTgzRHdicHpKWnhMb01xcE9mUXhVenRsWjhfTXVuWmFwVGpQUXlMTkMwZXpFUkNfYVhOVVlsQWZuUXVN?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-20T15:06:03+00:00"
-          },
-          {
-            "title": "ভিশন ২০২৮-এর শিবিরে হাজির সৌরভ, ক্রিকেটারদের সঙ্গে দেখা করে দিলেন গুরুত্বপূর্ণ পরামর্শ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckJzY0IwRS1IS0FjdHRzYmVoNWkyOVhlX2l3ZmZsem9vYzJMeldOVDR0NmJCemxZeWlfTk5SakJEcmZOZ2Z3OHkyZVhfMXpLM0YxdGpJQXhhZnVNQWVzU2t1NXlyTGgtdzVVMTlFa0UtMGUxc0dhNUVkWk8xYzlMNGhEWXU3aXdWTjhWNTlLTE9SaXozNjBiQVZZNjV1RGhHR3Bla2dYTEp6NHUzT1JsV1pR0gG3AUFVX3lxTFB1TmphNnk1NDRxMlZzc1VfcGZqMERFU2FnNENOanJMU2RxbTFscHJTQUZ3OGd0bk01RWRmZ2xvc1EwYkRMc2FmSjYtbFliNTZMcVI2RDJYRmJoeTQwZlBrVWhrNnhoYUJGSkduS2hUUE9QMmE1Z1BQYjFJY045cS1QaWVVZElaQzVhUWotTTRqLWVOTkxObWxmRDl1NFhURGY5NEVkblFSVEdWYU9NMG5ER05hY0cwcw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-20T14:58:03+00:00"
           }
         ]
       }
