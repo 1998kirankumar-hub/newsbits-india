@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-07-26T20:16:59.264603+00:00",
+  "updated_at": "2026-07-26T20:32:34.177795+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "What we know so far about the Berlin Pride ramming attack",
+            "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "German Chancellor Friedrich Merz condemned the incident as a \"heinous\" attack after a suspect rammed a car into a crowd.",
+            "published": "2026-07-26T20:23:18+00:00"
+          },
+          {
+            "title": "‘Banned chemical’: CPCB red-flags new ‘green’ crackers",
+            "link": "https://timesofindia.indiatimes.com/india/banned-chemical-cpcb-red-flags-new-green-crackers/articleshow/132647662.cms",
+            "source": "Times of India",
+            "summary": "Centre Tasked CSIR-NEERI To Cut Pollution Levels By 50%",
+            "published": "2026-07-27T01:41:53+05:30"
+          },
+          {
+            "title": "CJP’s win fuels call by ‘E20 Janta Party’ for no-ethanol option",
+            "link": "https://timesofindia.indiatimes.com/india/cjps-win-fuels-call-by-e20-janta-party-for-no-ethanol-option/articleshow/132647638.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-27T01:31:01+05:30"
+          },
+          {
             "title": "Finding land biggest challenge for Kozhikode Corporation’s stray dog shelter project",
             "link": "https://www.thehindu.com/news/national/kerala/finding-land-biggest-challenge-for-kozhikode-corporations-stray-dog-shelter-project/article71269623.ece",
             "source": "The Hindu",
             "summary": "The project envisages small shelters at multiple locations, but animal welfare bodies caution that land availability and local opposition could hamper implementation",
             "published": "2026-07-27T01:26:23+05:30"
+          },
+          {
+            "title": "Odisha BJP leaders criticise post by MP’s daughter on Pradhan",
+            "link": "https://www.thehindu.com/news/national/odisha/odisha-bjp-leaders-criticise-post-by-mps-daughter-on-pradhan/article71270163.ece",
+            "source": "The Hindu",
+            "summary": "Bhubaneswar MP Aparajita Sarangi, a two-time MP from Bhubaneswar, was, however, unavailable for comment",
+            "published": "2026-07-27T01:16:19+05:30"
           },
           {
             "title": "Commonwealth Games 2026 Day 4 Live Updates: India's Raja Muthupandi Clinches Silver After Mirabai Chanu Wins Record-Breaking Gold",
@@ -74,43 +102,36 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-07-27T00:46:25+05:30"
-          },
-          {
-            "title": "Civic bodies expedite mass vaccination, sterilisation of community dogs in Vellore, Ranipet, Tiruvannamalai",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/civic-bodies-expedite-mass-vaccination-sterilisation-of-community-dogs-in-vellore-ranipet-tiruvannamalai/article71269863.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-07-27T00:46:20+05:30"
-          },
-          {
-            "title": "Students to nurture trees on school campus in Ranipet to encourage tree care",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/students-to-nurture-trees-on-school-campus-in-ranipet-to-encourage-tree-care/article71269847.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-07-27T00:46:17+05:30"
-          },
-          {
-            "title": "Nilekani to lead high-powered task force on exam reforms: Modi",
-            "link": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece",
-            "source": "The Hindu",
-            "summary": "It will recommend steps to make exam system leak-proof and technology-driven; former ISRO Chairman Somanath, IIT-M Director Kamakoti among members; Pralhad Joshi takes charge as Union Education Minister, chairs review meeting",
-            "published": "2026-07-27T00:44:47+05:30"
-          },
-          {
-            "title": "Jadumani Singh Defeats Pakistan's Rehman Sumama In Commonwealth Games 55Kg Boxing Round Of 16",
-            "link": "https://sports.ndtv.com/boxing/jadumani-singh-defeats-pakistans-rehman-sumama-in-commonwealth-games-55kg-boxing-round-of-16-11825521#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India's Jadumani Singh continued his impressive run at the 2026 Commonwealth Games, booking his place in the men's 55kg boxing quarterfinals after a dominant victory over Pakistan's Rehman Sumama.",
-            "published": "2026-07-27T00:43:34+05:30"
           }
         ],
         "India": [
+          {
+            "title": "‘Banned chemical’: CPCB red-flags new ‘green’ crackers",
+            "link": "https://timesofindia.indiatimes.com/india/banned-chemical-cpcb-red-flags-new-green-crackers/articleshow/132647662.cms",
+            "source": "Times of India",
+            "summary": "Centre Tasked CSIR-NEERI To Cut Pollution Levels By 50%",
+            "published": "2026-07-27T01:41:53+05:30"
+          },
+          {
+            "title": "CJP’s win fuels call by ‘E20 Janta Party’ for no-ethanol option",
+            "link": "https://timesofindia.indiatimes.com/india/cjps-win-fuels-call-by-e20-janta-party-for-no-ethanol-option/articleshow/132647638.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-27T01:31:01+05:30"
+          },
           {
             "title": "Finding land biggest challenge for Kozhikode Corporation’s stray dog shelter project",
             "link": "https://www.thehindu.com/news/national/kerala/finding-land-biggest-challenge-for-kozhikode-corporations-stray-dog-shelter-project/article71269623.ece",
             "source": "The Hindu",
             "summary": "The project envisages small shelters at multiple locations, but animal welfare bodies caution that land availability and local opposition could hamper implementation",
             "published": "2026-07-27T01:26:23+05:30"
+          },
+          {
+            "title": "Odisha BJP leaders criticise post by MP’s daughter on Pradhan",
+            "link": "https://www.thehindu.com/news/national/odisha/odisha-bjp-leaders-criticise-post-by-mps-daughter-on-pradhan/article71270163.ece",
+            "source": "The Hindu",
+            "summary": "Bhubaneswar MP Aparajita Sarangi, a two-time MP from Bhubaneswar, was, however, unavailable for comment",
+            "published": "2026-07-27T01:16:19+05:30"
           },
           {
             "title": "Railway revises redevelopment deadlines for ERS, ERN stations",
@@ -167,30 +188,16 @@
             "source": "Hindustan Times",
             "summary": "Rahul Gandhi has written to the Union home minister Amit Shah demanding accountability for the “barbaric assault” on peaceful protesters in Delhi on July 20",
             "published": "2026-07-27T00:31:28+05:30"
-          },
-          {
-            "title": "Sonam Wangchuk to be discharged from hospital on July 27",
-            "link": "https://www.thehindu.com/news/national/sonam-wangchuk-hospital-discharge/article71270378.ece",
-            "source": "The Hindu",
-            "summary": "The activist’s team says he will visit Rajghat to pay homage to Mahatma Gandhi before leaving for Ladakh",
-            "published": "2026-07-27T00:29:13+05:30"
-          },
-          {
-            "title": "State’s small airports see drop in AAI customer satisfaction index survey",
-            "link": "https://www.thehindu.com/news/national/karnataka/states-small-airports-see-drop-in-aai-customer-satisfaction-index-survey/article71269298.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-07-27T00:26:27+05:30"
-          },
-          {
-            "title": "A gamble on the Cauvery issue",
-            "link": "https://www.thehindu.com/opinion/op-ed/a-gamble-on-the-cauvery-issue/article71270322.ece",
-            "source": "The Hindu",
-            "summary": "CM Vijay aims to hold direct talks with Karnataka for water-sharing",
-            "published": "2026-07-27T00:26:22+05:30"
           }
         ],
         "World": [
+          {
+            "title": "What we know so far about the Berlin Pride ramming attack",
+            "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "German Chancellor Friedrich Merz condemned the incident as a \"heinous\" attack after a suspect rammed a car into a crowd.",
+            "published": "2026-07-26T20:23:18+00:00"
+          },
           {
             "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
             "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Abdul Ballout sought for &#039;Islamist terror attack&#039; after a van was driven into crowds at LGBTQ event in German capital.",
             "published": "2026-07-26T17:51:37+00:00"
-          },
-          {
-            "title": "What we know so far about the Berlin Pride ramming attack",
-            "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-            "published": "2026-07-26T17:45:30+00:00"
           }
         ],
         "Business": [
@@ -349,7 +349,7 @@
           },
           {
             "title": "Money Box",
-            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+            "link": "https://www.bbc.co.uk/sounds/play/m002zg12?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "What might the new team at the top of government mean for your money?",
             "published": "2026-07-25T15:01:24+00:00"
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ముగిసిన రామదాస్‌ రాజకీయ ప్రస్థానం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45WW9xZFdrXzdZYUFsSmF2Tlc4V3pnbkFybTFhTU81Rm9QNVlkT3pyRTJ5cFBzbGUxTkFSdFBuLUJVaGV4WUU5V0tBUS1vajAwNTR6SERUY0tXWnAxdWZSamowekp4WjhhS1AyTUlMbENXNzRmd1BpS3ZFVWJrQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-26T18:47:26+00:00"
+          },
+          {
             "title": "మరో ఏడాదిలో నీళ్లు బంద్.. దేశ చరిత్రలోనే మైండ్ బ్లాకింగ్ వాటర్ క్రైసిస్!",
             "link": "https://telugu.oneindia.com/news/international/texas-water-shortage-corpus-christi-rapidly-running-out-of-water-storage-amid-climate-change-and-in-498895.html",
             "source": "Oneindia Telugu",
@@ -1084,6 +1091,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-07-26T21:53:39+05:30"
+          },
+          {
+            "title": "ఈ సమస్యలెదురైతే.. పరుపు మార్చాల్సిందేనట - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU81dFZSVE5tRkI4bUU0MkE3WDlUU01QcnlfX2d5Tnp5Q1g3eUlQd25NYmZvRlhIODRXRUhRWTZuSE5sN0hXLWpZNXJ5azNtVEo5NDlWNWNrdnUzaEZsZ1NkQ2w1eTFmODJXQzdRaWtseTc1UGh4aGF6bHhBSDZmeXJsOFpfLXZYWTFoTXdha3B4NklqemhHRnZPaS0ydmNoRDd3LXBVNURrWVRyZGdz0gGvAUFVX3lxTFBVTzV0VlJUTm1GQjhtRTQyQTdYOVRTTVByeV9fZ3lOenlDWDd5SVB3bk1iZm9GWEg4NFdFSFFZNm5ITmw3SFctalk1cnlrM21USjk0OVY1Y2t2dTNoRmxnU2RDbDV5MWY4MldDN1Fpa2x5NzVQaHhoYXpseEFINmZ5cmw4Wl8tdlhZMWhNd2FrcHg2SWp6aEdGdk9pLTJ2Y2hEN3ctcFU1RGtZVHJkZ3M?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-26T15:51:30+00:00"
           },
           {
             "title": "వైసీపీ వాళ్లతో వేదిక పంచుకుంటే వేటేనా? బొండా ఉమాపై సీఎం సీరియస్!",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-07-26T14:02:57+00:00"
-          },
-          {
-            "title": "బొండా ఉమా వివరణ తీసుకోండి.. సీఎం చంద్రబాబు ఆదేశం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEhLY19VNEkyREJzU29PcW51Ui1mcUZMWVBrdE1xa0h0WG56ZFVFZGRHRVZvenZnSFRrVEVMeDBYVDFGRWdvZkRCd2ItQmI3VExVS1pSRHFlTUtzRHhrbktEdDJIdHJoVkZENjM2aTM1TEdLS2tqUzJheTBYOTlVTlp2UFc4UW5vNzg0NDJ1M0JicHBGZ1dZczkzaHFZS0tzYi13c3NBai1NUEl3M2xfYXlQU29Bcmt6ak54cWxKcFEtek1PQWdVMFhvZlg2bWx40gHQAUFVX3lxTE84SEtjX1U0STJEQnNTb09xbnVSLWZxRkxZUGt0TXFrSHRYbnpkVUVkZEdFVm96dmdIVGtURUx4MFhUMUZFZ29mREJ3Yi1CYjdUTFVLWlJEcWVNS3NEeGtuS0R0Mkh0cmhWRkQ2MzZpMzVMR0tLa2pTMmF5MFg5OVVOWnZQVzhRbm83ODQ0MnUzQmJwcEZnV1lzOTNocVlLS3NiLXdzc0FqLU1QSXczbF9heVBTb0Fya3pqTnhxbEpwUS16TU9BZ1UwWG9mWDZtbHg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-26T13:56:35+00:00"
-          },
-          {
-            "title": "EL Nino: ఎల్ నినో ముప్పులో ఏపీ-సర్కార్ కీలక ఆదేశాలు-కంట్రోల్ రూమ్ ..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-alerts-officials-over-el-nino-threat-to-farmers-orders-24x7-control-room-498871.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-26T19:20:12+05:30"
           }
         ],
         "Entertainment": [
