@@ -1,14 +1,42 @@
 {
-  "updated_at": "2026-07-28T23:01:25.791962+00:00",
+  "updated_at": "2026-07-28T23:31:07.758744+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+            "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
+            "published": "2026-07-28T23:16:44+00:00"
+          },
+          {
+            "title": "Army initiates 14-day training for CISF personnel to tackle security challenges",
+            "link": "https://timesofindia.indiatimes.com/defence/news/army-initiates-specialised-14-day-training-for-cisf-personnel-to-tackle-security-challenges/articleshow/132696673.cms",
+            "source": "Times of India",
+            "summary": "The Indian Army is training CISF personnel at Agartala Military Station. This specialized program focuses on advanced security protocols and tactical preparedness. The joint initiative aims to strengthen aviation security and counter emerging threats. Experienced Army instructors will cover vital area security and drone mitigation measures. This collaboration enhances the overall defense posture of the Agartala…",
+            "published": "2026-07-29T04:46:11+05:30"
+          },
+          {
+            "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+            "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+            "published": "2026-07-28T23:12:09+00:00"
+          },
+          {
+            "title": "UK company in spotlight as Nishikant Dubey vows 'disclosure' in Parliament",
+            "link": "https://timesofindia.indiatimes.com/india/uk-company-in-spotlight-as-nishikant-dubey-vows-disclosure-in-parliament/articleshow/132696659.cms",
+            "source": "Times of India",
+            "summary": "BJP MP Nishikant Dubey plans to disclose information about a UK-registered company. He will reveal which Indian politician is a director in Backops Limited. Dubey stated that Brian Lovegrove and Ulrik McKnight are linked to this company. These individuals are associated with numerous companies and TV channels registered at one address. The MP will present these findings inside Parliament soon.",
+            "published": "2026-07-29T04:34:49+05:30"
+          },
+          {
             "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
             "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
+            "source": "BBC Business",
             "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
             "published": "2026-07-28T23:00:15+00:00"
           },
@@ -22,7 +50,7 @@
           {
             "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
             "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
+            "source": "BBC Business",
             "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
             "published": "2026-07-28T23:00:10+00:00"
           },
@@ -30,8 +58,22 @@
             "title": "'Don't wait until you want revenge' - why prenups are on the rise",
             "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Around one in three young couples are now signing prenups to ring-fence to set out who gets what in the event of divorce.",
+            "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
             "published": "2026-07-28T23:00:07+00:00"
+          },
+          {
+            "title": "NEET row: CBI chargesheets 13 in paper leak",
+            "link": "https://timesofindia.indiatimes.com/india/neet-row-cbi-chargesheets-13-in-paper-leak/articleshow/132696640.cms",
+            "source": "Times of India",
+            "summary": "The CBI has filed a chargesheet against thirteen individuals in the NEET-UG 2026 paper leak case. These accused include three NTA subject experts and several middlemen involved in question distribution. The agency's investigation confirmed the circulation of leaked questions prior to the examination date. Digital forensics and expert opinions corroborated the accused's involvement in the paper leak. Further…",
+            "published": "2026-07-29T04:23:32+05:30"
+          },
+          {
+            "title": "US Military Says It Intercepted Missiles Launched By Iran",
+            "link": "https://www.ndtv.com/world-news/iran-war-us-military-says-it-intercepted-missiles-launched-by-iran-11835466#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The US military said Tuesday it had intercepted multiple missiles launched by Iran, in the first flareup in violence in several days.",
+            "published": "2026-07-29T04:20:44+05:30"
           },
           {
             "title": "Ahead of 2027 Punjab polls, AAP’s welfare spree sparks questions over timing, intent",
@@ -39,6 +81,13 @@
             "source": "The Hindu",
             "summary": "Opposition parties have repeatedly criticised AAP for taking years to roll out the cash payout, terming the move an election-eve gimmick timed to win over voters before the next elections",
             "published": "2026-07-29T04:05:07+05:30"
+          },
+          {
+            "title": "\"Best Conversation\": Netanyahu After Trump Meeting Since Iran War",
+            "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-meets-donald-trump-meeting-since-iran-war-11835142#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that he had an \"excellent\" meeting with US President Donald Trump at the White House, marking their first face-to-face talks since the war with Iran began in late February.",
+            "published": "2026-07-29T04:00:05+05:30"
           },
           {
             "title": "Delulu opposition thinks youth are with it, Rahul suffering from FOMO: NDA",
@@ -53,64 +102,50 @@
             "source": "Times of India",
             "summary": "The Indian Army demonstrated its operational readiness in the Drass sector. This event celebrated the 27th Kargil Vijay Diwas and highlighted combat capabilities. Advanced technologies and drones were showcased during the live operational demonstration. The display featured various mobility and surveillance assets for mountainous terrain. This event paid tribute to soldiers who sacrificed during the Kargil conflict.",
             "published": "2026-07-29T03:43:00+05:30"
-          },
-          {
-            "title": "1st direct freight train opens new India-Nepal chapter",
-            "link": "https://timesofindia.indiatimes.com/india/1st-direct-freight-train-opens-new-india-nepal-chapter/articleshow/132694936.cms",
-            "source": "Times of India",
-            "summary": "India and Nepal have initiated a new era of rail connectivity. The first direct commercial container freight train arrived in Nepal last week. This new service is expected to significantly reduce transit times and logistics costs. The achievement builds upon the broad-gauge rail link inaugurated in June 2023. Direct freight movement to Biratnagar has now become operational, boosting bilateral trade.",
-            "published": "2026-07-29T03:38:11+05:30"
-          },
-          {
-            "title": "CPI(M), PDP condemn killings by security forces in POK",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/cpim-pdp-condemn-killings-by-security-forces-in-pok/article71277896.ece",
-            "source": "The Hindu",
-            "summary": "Reports claim 21 people were killed and dozens injured in firing by security forces on supporters of the Joint Awami Action Committee in Rawalakot on July 27",
-            "published": "2026-07-29T03:34:43+05:30"
-          },
-          {
-            "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-            "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.",
-            "published": "2026-07-28T21:59:40+00:00"
-          },
-          {
-            "title": "Defence minister Rajnath Singh unveils key policy reforms in Indian Coast Guard",
-            "link": "https://timesofindia.indiatimes.com/defence/news/rajnath-singh-unveils-key-policy-reforms-in-indian-coast-guard-to-promote-gender-parity-in-induction-streamline-ex-gratia-procedures/articleshow/132694730.cms",
-            "source": "Times of India",
-            "summary": "Defence Minister Rajnath Singh introduced two key policy reforms for the Indian Coast Guard. These reforms promote gender parity in officer induction and streamline ex-gratia payments. Women candidates will now join the service on equal footing with male counterparts. The new policies also accelerate compensation for families of missing personnel. These changes aim to strengthen the morale and operational…",
-            "published": "2026-07-29T03:28:51+05:30"
-          },
-          {
-            "title": "eBay agrees $56m settlement with bloggers over harassment case",
-            "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
-            "published": "2026-07-28T21:49:16+00:00"
-          },
-          {
-            "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
-            "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
-            "published": "2026-07-28T21:43:30+00:00"
-          },
-          {
-            "title": "Don't touch water bodies under garb of beautification, Supreme Court tells Bihar govt",
-            "link": "https://timesofindia.indiatimes.com/india/dont-touch-water-bodies-under-garb-of-beautification-supreme-court-tells-bihar-government/articleshow/132694515.cms",
-            "source": "Times of India",
-            "summary": "The Supreme Court has ordered the Bihar government to stop filling historic ponds in Darbhanga. This action follows allegations that the state is filling water bodies for public amenities. The court warned the state not to touch the ponds without its explicit approval. The project aimed to beautify and rejuvenate Gangasagar, Digghi, and Harahi Lake. The Supreme Court directed the government to ensure the ponds'…",
-            "published": "2026-07-29T03:06:08+05:30"
           }
         ],
         "India": [
           {
+            "title": "Army initiates 14-day training for CISF personnel to tackle security challenges",
+            "link": "https://timesofindia.indiatimes.com/defence/news/army-initiates-specialised-14-day-training-for-cisf-personnel-to-tackle-security-challenges/articleshow/132696673.cms",
+            "source": "Times of India",
+            "summary": "The Indian Army is training CISF personnel at Agartala Military Station. This specialized program focuses on advanced security protocols and tactical preparedness. The joint initiative aims to strengthen aviation security and counter emerging threats. Experienced Army instructors will cover vital area security and drone mitigation measures. This collaboration enhances the overall defense posture of the Agartala…",
+            "published": "2026-07-29T04:46:11+05:30"
+          },
+          {
+            "title": "UK company in spotlight as Nishikant Dubey vows 'disclosure' in Parliament",
+            "link": "https://timesofindia.indiatimes.com/india/uk-company-in-spotlight-as-nishikant-dubey-vows-disclosure-in-parliament/articleshow/132696659.cms",
+            "source": "Times of India",
+            "summary": "BJP MP Nishikant Dubey plans to disclose information about a UK-registered company. He will reveal which Indian politician is a director in Backops Limited. Dubey stated that Brian Lovegrove and Ulrik McKnight are linked to this company. These individuals are associated with numerous companies and TV channels registered at one address. The MP will present these findings inside Parliament soon.",
+            "published": "2026-07-29T04:34:49+05:30"
+          },
+          {
+            "title": "NEET row: CBI chargesheets 13 in paper leak",
+            "link": "https://timesofindia.indiatimes.com/india/neet-row-cbi-chargesheets-13-in-paper-leak/articleshow/132696640.cms",
+            "source": "Times of India",
+            "summary": "The CBI has filed a chargesheet against thirteen individuals in the NEET-UG 2026 paper leak case. These accused include three NTA subject experts and several middlemen involved in question distribution. The agency's investigation confirmed the circulation of leaked questions prior to the examination date. Digital forensics and expert opinions corroborated the accused's involvement in the paper leak. Further…",
+            "published": "2026-07-29T04:23:32+05:30"
+          },
+          {
+            "title": "US Military Says It Intercepted Missiles Launched By Iran",
+            "link": "https://www.ndtv.com/world-news/iran-war-us-military-says-it-intercepted-missiles-launched-by-iran-11835466#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The US military said Tuesday it had intercepted multiple missiles launched by Iran, in the first flareup in violence in several days.",
+            "published": "2026-07-29T04:20:44+05:30"
+          },
+          {
             "title": "Ahead of 2027 Punjab polls, AAP’s welfare spree sparks questions over timing, intent",
             "link": "https://www.thehindu.com/news/national/punjab/ahead-of-2027-punjab-polls-aaps-welfare-spree-sparks-questions-over-timing-intent/article71277513.ece",
             "source": "The Hindu",
             "summary": "Opposition parties have repeatedly criticised AAP for taking years to roll out the cash payout, terming the move an election-eve gimmick timed to win over voters before the next elections",
             "published": "2026-07-29T04:05:07+05:30"
+          },
+          {
+            "title": "\"Best Conversation\": Netanyahu After Trump Meeting Since Iran War",
+            "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-meets-donald-trump-meeting-since-iran-war-11835142#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that he had an \"excellent\" meeting with US President Donald Trump at the White House, marking their first face-to-face talks since the war with Iran began in late February.",
+            "published": "2026-07-29T04:00:05+05:30"
           },
           {
             "title": "Delulu opposition thinks youth are with it, Rahul suffering from FOMO: NDA",
@@ -153,44 +188,23 @@
             "source": "Times of India",
             "summary": "The Supreme Court has ordered the Bihar government to stop filling historic ponds in Darbhanga. This action follows allegations that the state is filling water bodies for public amenities. The court warned the state not to touch the ponds without its explicit approval. The project aimed to beautify and rejuvenate Gangasagar, Digghi, and Harahi Lake. The Supreme Court directed the government to ensure the ponds'…",
             "published": "2026-07-29T03:06:08+05:30"
-          },
-          {
-            "title": "Congress, BJP spar over Pralhad Joshi's pick as education minister",
-            "link": "https://timesofindia.indiatimes.com/india/congress-bjp-spar-over-pralhad-joshis-pick-as-education-minister/articleshow/132694505.cms",
-            "source": "Times of India",
-            "summary": "Congress leader Rahul Gandhi criticized Pralhad Joshi's appointment as education minister. Gandhi accused Joshi of defending rapists in a past TV interview. BJP spokesperson Anil Baluni refuted these claims, stating Joshi commented on remission processes. Baluni accused Gandhi of distorting facts for personal attacks. The exchange highlights a political dispute over the minister's past statements.",
-            "published": "2026-07-29T02:58:44+05:30"
-          },
-          {
-            "title": "NEET protest: All SOPs followed, pellet gun use on protesters authorised - CRPF review",
-            "link": "https://timesofindia.indiatimes.com/india/neet-protest-violence-all-sops-followed-pellet-gun-use-on-protesters-authorised-reveals-crpf-review/articleshow/132694483.cms",
-            "source": "Times of India",
-            "summary": "CRPF analysis indicates police action against protesters followed standard operating procedures. Non-lethal means like pellet guns were authorized for crowd dispersal. Force gradient was followed, with lower measures failing before pump action guns. Protesters and personnel sustained injuries during the July 20 incident. The matter is now sub judice before the Supreme Court.",
-            "published": "2026-07-29T02:48:14+05:30"
-          },
-          {
-            "title": "CBI files charge sheet against 13 accused in NEET-UG 2026 paper leak case",
-            "link": "https://www.thehindu.com/news/national/cbi-files-charge-sheet-against-13-accused-in-neet-ug-2026-paper-leak-case/article71278505.ece",
-            "source": "The Hindu",
-            "summary": "The charge sheet comes days after Union Education Minister Dharmendra Pradhan resigned from the post on July 25, in the wake of over a month-long agitation led by the Cockroach Janta Party",
-            "published": "2026-07-29T02:46:05+05:30"
-          },
-          {
-            "title": "Two Army Personnel Injured In Landmine Explosion In Jammu And Kashmir",
-            "link": "https://www.ndtv.com/india-news/two-army-personnel-injured-in-landmine-explosion-in-jammu-and-kashmirs-uri-11835359#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Two Army personnel were injured in a landmine explosion near the Line of Control (LoC) in the Uri sector of north Kashmir's Baramulla district.",
-            "published": "2026-07-29T02:38:04+05:30"
-          },
-          {
-            "title": "India is second-largest sailor supplier in world",
-            "link": "https://timesofindia.indiatimes.com/india/india-is-second-largest-sailor-supplier-in-world/articleshow/132694458.cms",
-            "source": "Times of India",
-            "summary": "India now ranks as the world's second-largest supplier of seafaring personnel. This significant achievement is highlighted in the BIMCO-ICS Seafarer Workforce Report 2026. The report indicates India's share of global sailors has doubled over the past five years. Indian officers comprise thirteen point four percent of the world's officer workforce. This growth positions India strongly within the global maritime…",
-            "published": "2026-07-29T02:31:15+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+            "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
+            "published": "2026-07-28T23:16:44+00:00"
+          },
+          {
+            "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+            "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+            "published": "2026-07-28T23:12:09+00:00"
+          },
           {
             "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
             "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
@@ -260,23 +274,16 @@
             "source": "Al Jazeera",
             "summary": "A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.",
             "published": "2026-07-28T20:22:07+00:00"
-          },
-          {
-            "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
-            "link": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
-            "published": "2026-07-28T20:14:09+00:00"
-          },
-          {
-            "title": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-            "link": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.",
-            "published": "2026-07-28T20:11:04+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+            "published": "2026-07-28T23:00:15+00:00"
+          },
           {
             "title": "Burnham has no scope to increase borrowing, think tank warns",
             "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
@@ -285,10 +292,17 @@
             "published": "2026-07-28T23:00:12+00:00"
           },
           {
+            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+            "published": "2026-07-28T23:00:10+00:00"
+          },
+          {
             "title": "'Don't wait until you want revenge' - why prenups are on the rise",
             "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Around one in three young couples are now signing prenups to ring-fence to set out who gets what in the event of divorce.",
+            "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
             "published": "2026-07-28T23:00:07+00:00"
           },
           {
@@ -346,20 +360,6 @@
             "source": "Economic Times",
             "summary": "Corning's stock dropped significantly after reporting slower fiber optics growth. The company forecast lower third-quarter sales, disappointing market experts. This decline erased billions in the company's market value. Investors noted a slowdown in the vital optical communications segment. The stock's rapid surge over the past year led to a pullback.",
             "published": "2026-07-28T20:24:48+05:30"
-          },
-          {
-            "title": "Energy prices rise by 19% in a year -report",
-            "link": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The Retail Prices Indices and Household Costs Indices inflation statistics have been published.",
-            "published": "2026-07-28T14:52:31+00:00"
-          },
-          {
-            "title": "The 10 most overcrowded commuter trains revealed",
-            "link": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
-            "published": "2026-07-28T14:17:57+00:00"
           }
         ],
         "Sports": [
@@ -1072,11 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "AI: మనసులో మాట.. నేరుగా అక్షరంగా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjlCRURJMnVIZlFvdmtuVldTdV8wY2FUWmJsOFJkLWRfRDhmQzdQYndXd0MtMnZ4MWdnd2ExUFZJSUx0bWpxMl84NTZreHdoS0xnQjY2dEdiUEdxem5ocnNxWm85OWpvV0JyMDZ5cFZIbUszNGRNOEVVRHNOdE9EaUNtbzVHakx3SFB4Y184UDFpQjNiYWtpeW12OUh4V09adXgtQUd4VXF1cmc?oc=5",
+            "title": "Chennai: గుండు కొట్టించుకోండి.. డబ్బులు పొందండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmFjVGJuNWh1M0h3NWhtc1VuT0tmZTJVOWc5UXZsbWxuTTVRRG9xYmJ2aWR2ZTdPOU96Mm0tdVBEU3N1TVh2SkprX191OTNERmFOdmdGT0N1YTBMVm5QSFd6MU9seFZBM2tabFlQdF8tMWZUR2VJcVQ5WkdQYy1sbEhKa2tJclNMXzhpUVlncGJ2UjRj?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-28T22:12:57+00:00"
+            "published": "2026-07-28T23:28:53+00:00"
+          },
+          {
+            "title": "ఏపీఈఆర్‌సీ ఛైర్మన్‌ ఎంపికకు సెలక్షన్‌ కమిటీ ఏర్పాటు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hM3QxdnlTbjJrRkFpbENtOVVSdmxpOU1RVWZEMjRjc2s4RmdIWTlJTGZPUmlYZ1RQU3BnU2gyUWZRd0NPbnRnOEpKRHhhTGF2MmlUOEdab09tR0RQT1cwMUlJako0cjgzREVRTG5Xeld4eG1ERHgxbW1GbTk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-28T23:15:50+00:00"
+          },
+          {
+            "title": "ఆర్‌టీఐహెచ్‌లో ‘ఏఐ సెంటర్‌ ఆఫ్‌ ఎక్స్‌లెన్స్‌’ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mRV94YXpqWG1RM2lrQ2otT1puTVp2dGVNWS1KMzk2SjU2b0NqVG9WVGk2akwzQmJTSUZFVS1DcGc1MTBMWUhOeDYyTmp5bDlfX1UtamEtWnZUYTBlWnhkdExGUnVxQ3RPU1N4enVMMkpueDhSejlKNi1zYVE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-28T23:13:41+00:00"
+          },
+          {
+            "title": "భూమి కొన్నప్పుడు వివాదంలో ఉందని తెలీదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vT3NnUFMxNkVlMnBUTlZ4SXZtSS1TZkN0RHd3Vll5bk9KUlVFc0lvb0FnMG5fbDBOaTd0LTRkM0tOLXZ2RjNMY3hETWtOaVBZczNxMjBhcE1TSGhHWjFMSlhXSEVQaTN3SWJsVnc4Vk51aVJTbVB1VUZpOEw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-28T22:58:46+00:00"
+          },
+          {
+            "title": "నేడు తిరుపతిలో టోకెన్ల జారీ నిలిపివేత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkWXhMWm1xQldJT1NLU1VDOHdhX1B3TmMyYWR1TmhycU5hVWh5TUplUkd4WS1CRDVhQkJCN1Zzdk84SHY3UklFdkdkaTJkQ0xnT0VlVHB5cEdfMF9ETnFkRUVVQkE1V0RSVVB2UDRDbWxQUTJTS2ZucTcxS2M?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-28T22:52:54+00:00"
+          },
+          {
+            "title": "నమ్మించి లక్షలు కాజేసి.. చివరకు వేధింపులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBocHZDNHg4bU1kU0hZVGVNSWc1U1c5VEp6blJtMHZGdm16MzlpT0w1LVdjTWdDenhZbHUzWVlBOTNlTi04TU8xSkJ1RkNCSnJKeXpxU2M2N3JnR1UzYzZxMW5tUXVUSElLT2p1ZVl0d1ZWX3gwUWVucV9tQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-28T22:08:57+00:00"
           },
           {
             "title": "చెప్పిన తేదీకే వస్తుంది - Eenadu",
@@ -1086,18 +1121,18 @@
             "published": "2026-07-28T21:55:50+00:00"
           },
           {
-            "title": "ఓఆర్‌ఆర్‌పై ఘోర రోడ్డు ప్రమాదం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXVzN0MXVfeDNSeEEwQ0N3MGxXcG5DdEdsa0hfUThDT0wtV2x1R0trY0tydnlNTnpIVmpIMUFUTFp5WlpXYWd5UW53WmRIdGFSU25XbllfRkpNcDhuN3o4N0hYNFR5N0xvaloxMGtvN2t1bDlYc0dGeWVLNlowQQ?oc=5",
+            "title": "ఫ్రాన్స్‌ దేశమంత హిమం గల్లంతు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PSWdzS2otTTR5cjZaVF9xQnFtTU9fRm9IN3cxR2ZxVW10VzYwSzZzWVpqNWlKWnR4cElnR21sLXB3Yy1RUUtGR21RbUl5RnhON1hIcXpNVmFRMEVOdXFaT3hnTDdrN2MtYkEwaWliOXFBejFCcVZV?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-28T21:17:10+00:00"
+            "published": "2026-07-28T20:50:14+00:00"
           },
           {
-            "title": "నిరసన హక్కు... నిరాకరించలేనిది! - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SNm82YnBxUXI4dmhUaGhhelB4ZjZjVW50RnVlWHdQY3AtVnVHaVotY2plVU5pZTdGenhCRjc1YnBXSHRNbDVjOEZLd0pGZm5ubloyOXVJcDBhUWFtWjFNTmxOclFKWDlFejVXZWFjYV9EajZ3aVE?oc=5",
+            "title": "జనరల్‌ నాలెడ్జ్‌ చరిత్రలో ఈనాడు - (జులై 29) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zdTBhSzlDOXlLUnZIaU5GbENWcFMyNDUzMzJsbEVOcVpUUXZranBVeDg1UGQzTXhBWVNfSVR1N2t0eFBCVFpBcmJJQmctVzVUN1FqRC05LWdXUTk1UUpjZWFzVVdBSWNUR0pyNV8zNlE2SEdMUWprRWxR?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-28T19:42:36+00:00"
+            "published": "2026-07-28T20:23:31+00:00"
           },
           {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (29/07/2026) - Eenadu",
@@ -1114,46 +1149,11 @@
             "published": "2026-07-28T23:45:15+05:30"
           },
           {
-            "title": "అత్యవసరమైతే తప్ప ఎవరూ ఇళ్ల నుంచి బయటకు రావద్దు.. సజ్జనార్ కీలక హెచ్చరికలు",
-            "link": "https://telugu.oneindia.com/news/telangana/hyderabad-heavy-rains-lashed-no-one-should-step-out-of-their-homes-unless-an-emergency-sajjanar-499203.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-28T23:05:05+05:30"
-          },
-          {
-            "title": "Anantapur: అనంతపురం టూ అంతరిక్షం.. విక్రమ్‌-1లో తెలుగమ్మాయి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXpySnI4VFFucW9sazRoNWNPcFhXX3VEQjkzY3pCSU1KeEtoTXdmQkFKc3Y1TnAxODBxVGt0Q3pLbE93azFRR3Z4RGctMDg2Yk5KTEQ0c0pPWHhtS0Zvbm5HTHlWYTJSX3Q1b3RFY3BSY1dCMloxd001MnVPNkpwbkFaNGhrajZTTHphd01wZkF3UHZlMUNjOF81NGxjTUthY2lxUEpB?oc=5",
+            "title": "Indian Sailors: ఉక్రెయిన్‌ తీరంలో.. చిక్కుకుపోయిన 13 మంది భారతీయులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmdhUVBZMTdVOVBvd25hWnVUbTl5Mzdxd2xENXNIdlNabDhoa095TGRnZkNocWx1MHp4VmZlTklnT09OOGdDWFpnMW53WENxRm50RDg5OVp6ek9tcWhhWjc4cmp1bFlRODd1Nmp1Z3ZJQmtGUXpDVDRIVy1rWHhTX3FNVkU3Yy1Fd3JVNF82bjM1b01OQXJWbXF3YXpBV09SeTJxdGZjZVc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-07-28T17:15:18+00:00"
-          },
-          {
-            "title": "మహిళలకు ప్రతి నెలా రూ. 2,500.. రాష్ట్ర ప్రభుత్వం ఆమోదం",
-            "link": "https://telugu.oneindia.com/news/india/women-delhi-rs-2-500-per-month-for-women-delhi-state-government-approves-2-500-per-month-for-women-499201.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-28T22:33:47+05:30"
-          },
-          {
-            "title": "Schools Closed news: విద్యార్థులకు గుడ్ న్యూస్.. రేపు పాఠశాలలకు సెలవు",
-            "link": "https://telugu.oneindia.com/news/india/schools-in-several-states-are-likely-to-be-declared-closed-wednesday-july-29-due-to-heavy-rains-499199.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-28T21:52:11+05:30"
-          },
-          {
-            "title": "జపాన్‌లో 7.1 తీవ్రతతో భూకంపం, విధ్వంసాన్ని చూపే 9 ఫోటోలు...",
-            "link": "https://www.bbc.com/telugu/articles/c7vg7mg95z6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-07-28T15:53:58+00:00"
-          },
-          {
-            "title": "సాంకేతిక ప‌రిశ్ర‌మ‌ల ఏర్పాటుకు అనుకూలంగా తెలంగాణ‌: సీఎం రేవంత్ రెడ్డి",
-            "link": "https://telugu.oneindia.com/news/telangana/cmrevanth-reddy-asserts-telangana-state-is-conducive-setting-up-technology-industries-latest-news-499197.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-28T21:13:19+05:30"
+            "published": "2026-07-28T18:00:05+00:00"
           }
         ],
         "Entertainment": [
