@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-07-30T16:01:30.500355+00:00",
+  "updated_at": "2026-07-30T16:08:50.171170+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "published": "2026-07-30T16:04:53+00:00"
+          },
           {
             "title": "Kerala HC sets aside report in favour of ADGP S.Sreejith",
             "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-sets-aside-report-in-favour-of-adgp-ssreejith/article71286865.ece",
@@ -55,6 +62,13 @@
             "published": "2026-07-30T21:20:07+05:30"
           },
           {
+            "title": "Assassin's Creed Hexe Will Not Release Until Second Half of 2027 at the Earliest, Claims Insider",
+            "link": "https://www.gadgets360.com/games/news/assassins-creed-hexe-launch-window-tipped-second-half-2027-ubisoft-11844801",
+            "source": "Gadgets 360",
+            "summary": "Assassin's Creed Hexe is the next mainline title in the series, but Ubisoft has not announced a release window for the title. An industry insider, however, has claimed that the game will not launch before the second half of 2027 at the earliest. Assassin's Creed Hexe was announced in 2022.",
+            "published": "2026-07-30T21:19:14+05:30"
+          },
+          {
             "title": "Parliament Monsoon Session 2026 LIVE Updates: Anti-Paper Leak Bill Clears Parliament, Opposition Stages Walkout",
             "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-set-for-key-bills-11841000#publisher=newsstand",
             "source": "NDTV",
@@ -69,6 +83,13 @@
             "published": "2026-07-30T21:17:56+05:30"
           },
           {
+            "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+            "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+            "published": "2026-07-30T15:47:09+00:00"
+          },
+          {
             "title": "Can’t PM be trusted on appointing CEC, government asks Supreme Court",
             "link": "https://www.thehindu.com/news/national/cant-pm-be-trusted-on-appointing-cec-government-asks-supreme-court/article71286537.ece",
             "source": "The Hindu",
@@ -81,27 +102,6 @@
             "source": "NDTV",
             "summary": "Behind Sawan's rituals lies a thriving seasonal economy, with temple markets, sweet shops, and small vendors seeing soaring sales.",
             "published": "2026-07-30T21:16:59+05:30"
-          },
-          {
-            "title": "25-Year-Old Woman Charged For Remarks Against PM Modi At Paper Leak Protest",
-            "link": "https://www.ndtv.com/india-news/ruchika-singh-cjp-protest-paper-leak-protest-jantar-mantar-25-year-old-woman-charged-for-remarks-against-pm-modi-at-paper-leak-protest-11844819#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Ruchika Singh made the objectionable remarks at Jantar Mantar on July 23.",
-            "published": "2026-07-30T21:16:52+05:30"
-          },
-          {
-            "title": "UEFA Member Nations Protest Gianni Infantino's World Cup Private Investors Plan, To Boycott FIFA Competitions",
-            "link": "https://sports.ndtv.com/football/uefa-member-nations-to-boycott-fifa-competitions-in-protest-after-gianni-infantinos-world-cup-private-investors-plan-11844698#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "UEFA member federations agreed Thursday to boycott all FIFA competitions in protest at Gianni Infantino's plan to sell stakes in the World Cup to private equity investors.",
-            "published": "2026-07-30T21:10:10+05:30"
-          },
-          {
-            "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
-            "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
-            "published": "2026-07-30T15:36:56+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "published": "2026-07-30T16:04:53+00:00"
+          },
+          {
+            "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+            "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+            "published": "2026-07-30T15:47:09+00:00"
+          },
+          {
             "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
             "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
             "source": "Al Jazeera",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "",
             "published": "2026-07-30T14:07:49+00:00"
-          },
-          {
-            "title": "‘Go back to your own country’: NZ foreign minister faces backlash",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
-            "published": "2026-07-30T13:51:52+00:00"
-          },
-          {
-            "title": "Islamabad residents rally in solidarity with Kashmir protests",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
-            "published": "2026-07-30T13:35:29+00:00"
           }
         ],
         "Business": [
@@ -334,32 +334,32 @@
             "published": "2026-07-30T07:23:11+00:00"
           },
           {
-            "title": "SML Mahindra shares rally over 18% on acquisition of M&amp;M’s truck division. What it means for shareholders?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sml-mahindra-shares-rally-over-18-on-acquisition-of-mahindra-mahindras-truck-and-bus-division-what-does-it-mean-for-shareholders/articleshow/132729786.cms",
-            "source": "Economic Times",
-            "summary": "SML Mahindra shares surged on Thursday after the company announced the Rs 525 crore acquisition of Mahindra & Mahindra's Truck and Bus Division. Analysts view the deal positively, citing stronger market positioning, operational synergies and long-term earnings accretion, though some near-term margin dilution could persist after the business integration.",
-            "published": "2026-07-30T11:58:35+05:30"
+            "title": "Wiped out by a hurricane, this US community is now a global energy giant",
+            "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A US county flattened by Hurricane Rita is now the world's largest exporter of liquified natural gas.",
+            "published": "2026-07-30T02:08:24+00:00"
           },
           {
-            "title": "Dabur India shares fall 4% even as Q1 earnings meet estimates. What’s spooking investors?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-shares-fall-4-even-as-q1-earnings-meet-estimates-whats-spooking-investors/articleshow/132728216.cms",
-            "source": "Economic Times",
-            "summary": "Dabur India shares dropped over 4% on Thursday after reporting Q1 earnings. The company announced a 15% rise in net profit and 11% revenue growth. Brokerages noted steady performance, with home and personal care leading segment growth. Dabur expects double-digit revenue growth and improved margins for the fiscal year. Key monitorables include demand recovery, commodity inflation, and monsoon progress.",
-            "published": "2026-07-30T11:11:29+05:30"
+            "title": "Your burger costs more this summer, but farmers say they're not cashing in",
+            "link": "https://www.bbc.co.uk/news/articles/c1519n0d01jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The prices of beef, bread buns and bagged salad have risen sharply over the past year, figures show.",
+            "published": "2026-07-30T00:04:19+00:00"
           },
           {
-            "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
-            "source": "Economic Times",
-            "summary": "KPIT Technologies shares tumbled 7% to Rs 592 on the BSE after posting a 32% YoY drop in Q1 FY27 net profit to Rs 117 crore. Operating margins contracted to 17.2% amid client pressures and guidance slowdowns, despite management expressing confidence in H2 recovery.",
-            "published": "2026-07-30T11:06:05+05:30"
+            "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
+            "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+            "published": "2026-07-29T23:02:18+00:00"
           },
           {
-            "title": "Thangamayil Jewellery shares crash 19% in 2 days on weak Q2 outlook. What did the company say?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-19-in-2-days-on-weak-q2-outlook-what-did-the-company-say/articleshow/132728014.cms",
-            "source": "Economic Times",
-            "summary": "Thangamayil Jewellery shares hit the lower circuit, extending losses to 19% in two sessions after the company warned of a weak Q2 FY27. The jeweller said sales showed no visible improvement in the first 28 days of the quarter due to geopolitical uncertainty and customers delaying purchases amid expectations of lower gold prices.",
-            "published": "2026-07-30T10:59:58+05:30"
+            "title": "Meta shares fall as frustration grows over AI spending plans",
+            "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
+            "published": "2026-07-29T22:44:18+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Assassin's Creed Hexe Will Not Release Until Second Half of 2027 at the Earliest, Claims Insider",
+            "link": "https://www.gadgets360.com/games/news/assassins-creed-hexe-launch-window-tipped-second-half-2027-ubisoft-11844801",
+            "source": "Gadgets 360",
+            "summary": "Assassin's Creed Hexe is the next mainline title in the series, but Ubisoft has not announced a release window for the title. An industry insider, however, has claimed that the game will not launch before the second half of 2027 at the earliest. Assassin's Creed Hexe was announced in 2022.",
+            "published": "2026-07-30T21:19:14+05:30"
+          },
+          {
             "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
             "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Google has announced the rollout of Lyria 3.5, its newest AI music generation model, through Flow Music. The update improves melody generation, lyric writing, vocal realism and creative controls, allowing users to better customise AI-generated songs. Google said the model also offers stronger prompt adherence and improved pronunciation. The launch builds on earlier versions of Lyria, which already support text…",
             "published": "2026-07-30T16:06:35+05:30"
-          },
-          {
-            "title": "Redmi K100 Series Design Teased Ahead of July 31 Launch; Redmi K100 Pro Max Promo Image Surfaces",
-            "link": "https://www.gadgets360.com/mobiles/news/redmi-k100-series-teaser-weibo-launch-k100-pro-max-promo-image-leak-11842933",
-            "source": "Gadgets 360",
-            "summary": "Redmi K100 series is expected to make its debut in China tomorrow (Friday). While the Xiaomi sub-brand has yet to officially reveal the name of the upcoming smartphones, it has already begun sharing teasers. Ahead of its anticipated debut, a new Redmi smartphone has been teased on social media, providing the first official glimpse of its design. Separately, a promotional image of the purported Redmi K100 Pro Max has…",
-            "published": "2026-07-30T15:54:49+05:30"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'வந்தே மாதரத்துக்கும் தேசிய கீதத்துக்கு இணையான சட்டப் பாதுகாப்பு' - மசோதாவில் என்ன உள்ளது? திமுக எதிர்ப்பு ஏன்?",
+            "link": "https://www.bbc.com/tamil/articles/cvg89qwdvn2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-07-30T16:03:20+00:00"
+          },
+          {
             "title": "ஏகே-47 இந்தியாவுக்கு வந்தது எப்படி? வீரப்பனுக்கு எதிரான நடவடிக்கை முதல் எதற்கெல்லாம் பயன்படுத்தப்பட்டது?",
             "link": "https://www.bbc.com/tamil/articles/cwyrxprdqz0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "மத்திய அமைச்சரவையில் மேற்கொள்ளப்பட்ட முக்கிய மாற்றங்களுக்குப் பிறகு, தர்மேந்திர பிரதானுக்குப் பதிலாக பிரஹலாத் ஜோஷி புதிய கல்வி அமைச்சராக நியமிக்கப்பட்டுள்ளார். இந்த நியமனம் குறித்து காங்கிரஸ் கட்சி கடுமையான விமர்சனங்களை முன்வைத்துள்ளது. குறிப்பாக, பாலியல் குற்றவாளிகளின் விடுதலையை அவர் ஆதரித்தாரா என்ற சந்தேகத்தை எழுப்பி, அவரை அமைச்சர் பதவியில் இருந்து நீக்க வேண்டும் என்று கோரிக்கை விடுத்துள்ளது. டெல்லி ஜந்தர் மந்தரில் 'காக்ரோச் ஜனதா கட்சி' நடத்திய தொடர் போராட்டங்களே தர்மேந்திர பிரதானின் பதவி விலகலுக்குக் காரணம் என்று கூறப்படுகிறது. புதிய அமைச்சராகப் பொறுப்பேற்றுள்ள பிரஹலாத் ஜோஷி மீதுள்ள சர்ச்சைகள், கல்வித் துறையின் செயல்பாடுகளைப் பாதிக்குமா என்ற அச்சம் எழுந்துள்ளது. காங்கிரஸ் தரப்பு முன்வைத்துள்ள குற்றச்சாட்டுகள் அரசியல் களத்தில் பெரும் விவாதத்தை உருவாக்கியுள்ளன. ஒரு கல்வி அமைச்சர் மீது இத்தகைய குற்றச்சாட்டுகள் சுமத்தப்படுவது, மாணவர்களிடையேயும் கல்வி ஆர்வலர்களிடையேயும் பெரும் அதிருப்தியை ஏற்படுத்தியுள்ளது. மத்திய அரசு தனது அமைச்சர்களின் பின்னணி குறித்து உரிய விசாரணை நடத்தி, வெளிப்படையான நிர்வாகத்தை வழங்க வேண்டும் என்பதே எதிர்க்கட்சிகளின் வலியுறுத்தலாக உள்ளது. அமைச்சரின் மீதான இந்த சர்ச்சைகள், வரும் காலங்களில் நாடாளுமன்றத்திலும் பெரும் எதிரொலிகளை ஏற்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது.",
             "published": "2026-07-30T05:04:53+00:00"
-          },
-          {
-            "title": "பரந்தூர்: விமான நிலையம் அமைக்கும் இடத்தை மாற்ற தமிழக அரசு கோரவில்லையா? திட்டத்தின் நிலை என்ன?",
-            "link": "https://www.bbc.com/tamil/articles/c8xnq7159wpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "காஞ்சிபுரம் மாவட்டம் பரந்தூரில் புதிய பசுமை விமான நிலையம் அமைப்பதற்கான நடவடிக்கைகள் தொடர்ந்து சர்ச்சைகளைச் சந்தித்து வருகின்றன. இந்தத் திட்டத்திற்காகத் தேர்வு செய்யப்பட்டுள்ள இடத்தை மாற்ற வேண்டும் எனத் தமிழ்நாடு அரசு எந்தவிதமான அதிகாரப்பூர்வ கோரிக்கையையும் மத்திய சிவில் விமானப் போக்குவரத்துத் துறையிடம் சமர்ப்பிக்கவில்லை என்று மத்திய அரசு தெளிவுபடுத்தியுள்ளது. இந்தத் தகவல், மாநில அரசின் நிலைப்பாடு குறித்த குழப்பத்தை மக்களிடையே ஏற்படுத்தியுள்ளது. திட்டத்திற்கு நிலம் கையகப்படுத்தப்படும் பகுதிகளில் உள்ள மக்கள், தாங்கள் வெளியேற்றப்படுவோம் என்ற அச்சத்தில் தொடர்ந்து எதிர்ப்பு தெரிவித்து வருகின்றனர். ஏற்கனவே இந்தத் திட்டம் குறித்து பல்வேறு கட்டப் பேச்சுவார்த்தைகள் நடைபெற்ற நிலையில், இப்போது மத்திய அரசின் இந்தக் கருத்து பெரும் அரசியல் விவாதங்களைக் கிளப்பியுள்ளது. மாநில அரசு ஏன் இடத்தை மாற்றக் கோரவில்லை என்ற கேள்வி எழுகிறது. விமான நிலையம் அமைப்பதற்கான தற்போதைய இடம் சுற்றுச்சூழல் மற்றும் வாழ்வாதார ரீதியாகச் சரியாக இருக்குமா என்பது ஆய்வுக்குரியது. மாநில அரசும் மத்திய அரசும் ஒருங்கிணைந்து செயல்பட்டு, பொதுமக்களின் கவலைகளைப் போக்கும் வகையில் சரியான முடிவை எடுக்க வேண்டும் என்பதே அனைவரின் எதிர்பார்ப்பாகும். பரந்தூர் விமான நிலையத் திட்டம் குறித்து வரும் நாட்களில் என்னென்ன மாற்றங்கள் நிகழும் என்பது பெரும் எதிர்பார்ப்பை ஏற்படுத்தியுள்ளது.",
-            "published": "2026-07-30T02:41:05+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "అమెరికా దగ్గర ఆయుధాలు అయిపోయాయా, అందుకే యుద్ధానికి విరామం ఇచ్చారా?",
+            "link": "https://www.bbc.com/telugu/articles/cp8x2rel495o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-07-30T16:00:58+00:00"
+          },
+          {
             "title": "పశ్చిమాసియా సంక్షోభంపై ప్రధాని మోదీ అత్యవసర భేటీ.. సంచలన ఆదేశాలు",
             "link": "https://telugu.oneindia.com/news/india/pmmodi-chairs-cabinet-committee-security-key-meeting-chaired-by-4th-ccs-meeting-west-asia-crisis-499483.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-07-30T19:30:52+05:30"
-          },
-          {
-            "title": "ప్రియాంక కామెంట్స్ బ్యాక్ ఫైర్- IIT డైరెక్టర్ కు మద్దతుగా 215 మంది వీసీలు, మేథావులు..!",
-            "link": "https://telugu.oneindia.com/news/india/priyanka-gandhi-faces-backlash-as-215-academics-slam-her-iit-madras-director-remark-499465.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-30T19:00:17+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন বৃষ রাশি- ৩০ জুলাই, ২০২৬ - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE82ZmZzbTA3M05YX09iZW92Mk56RTFTTGY2dEJqMmtxNmhmR3h3UW1yTzlabkJhVFhLZ0cxc0hzYml4c1YyY0lMNDRpZi1lczRkbGN5VERnekszSldNRTFLNk02bzZuOFFEMm80V0lRNTg2bDh0WGwtaElBZTdFYWkzb1pBLVo3VG9Va05wMkhKQU1ZMXZnN3pvc2VhdE5INGF1Yk5WeDNBck9vTXo40gG0AUFVX3lxTE93ODItSmZWZkI2TzU2dmdsSll0Vmt0dl9VdjFtTFBEZUZuSC1BTk9JRXZPc1c0Slo5Q3ZreWR2c1RYNzNqazZoSmQ3SjZidVc4TzNRMEplWWJVMlRKeTAyTm5PRFg5U3ZkZm1XYlMtMUIyczQ5OVFSWUpjQWNUM2dPX2tHMnhYS1BKUE8zZ29lNFZwNnFrSTNpcE0zQ29ValhRYzlvTklyMlgwM3RoZmkwR2tkNw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-30T16:08:02+00:00"
+          },
+          {
             "title": "আজকের দিন মিথুন রাশি- ৩০ জুলাই, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMk93THVCbVBIM05uOHU0VkthbktQazNweGJpX0p2bVhCRkFtTzZVSWphVi1oQTlnTy1rcGMtVXQ2OVVFM0NFZ3VQM0hjX09KMjFWMFgyT3Voa2pTOXpJeG53bTEyZ1A3VW1RQXhKRk4zOVRkd3J0eTZzcm1ZUEoxaUhfRHJaTDJ0NkxiZFlPRGItTGlQQkh2TXNmeVFWbkt3WnM3Y2pySEplZ3fSAbABQVVfeXFMTXozWXQxTDhUM1Bsa1RBSlVuelZkUkxCc202SktWVnRWRlYxZEVXRzRwX0FDTG9DY29MSTBYb2UzSUdOUjQ4U2R1Y29hRm5FWkhYMmNCSXl2OTNtSFZhZ1FmamdWM0dxVXJFUHp4QjBoV2Eyd2tzYnZyZThuR0RYYlJuY3BRalBBT0ZqLXdQTWxZLWlvWDZJTGNPLU5MRGdrYnR5dUN4QWYyUTBqMkFYYk4?oc=5",
             "source": "Anandabazar Patrika",
@@ -1459,13 +1466,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-30T13:22:53+00:00"
-          },
-          {
-            "title": "আজকের দিন বৃষ রাশি- ৩০ জুলাই, ২০২৬ - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTE82ZmZzbTA3M05YX09iZW92Mk56RTFTTGY2dEJqMmtxNmhmR3h3UW1yTzlabkJhVFhLZ0cxc0hzYml4c1YyY0lMNDRpZi1lczRkbGN5VERnekszSldNRTFLNk02bzZuOFFEMm80V0lRNTg2bDh0WGwtaElBZTdFYWkzb1pBLVo3VG9Va05wMkhKQU1ZMXZnN3pvc2VhdE5INGF1Yk5WeDNBck9vTXo40gG0AUFVX3lxTE93ODItSmZWZkI2TzU2dmdsSll0Vmt0dl9VdjFtTFBEZUZuSC1BTk9JRXZPc1c0Slo5Q3ZreWR2c1RYNzNqazZoSmQ3SjZidVc4TzNRMEplWWJVMlRKeTAyTm5PRFg5U3ZkZm1XYlMtMUIyczQ5OVFSWUpjQWNUM2dPX2tHMnhYS1BKUE8zZ29lNFZwNnFrSTNpcE0zQ29ValhRYzlvTklyMlgwM3RoZmkwR2tkNw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-30T13:07:42+00:00"
           },
           {
             "title": "‘ও অস্ট্রেলিয়া গিয়েছে’! গুজরাতে প্রেমিকের সঙ্গে মিলে স্বামীকে খুন স্ত্রীর, দেহ পুঁতে দেন পরিত্যক্ত কারখানায়, মিলল দু’বছর পর - anandabazar.com",
