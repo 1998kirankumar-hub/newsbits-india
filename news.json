@@ -1,202 +1,209 @@
 {
-  "updated_at": "2026-07-31T11:31:15.922854+00:00",
+  "updated_at": "2026-07-31T12:01:26.392798+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "About 60,000 migrants Ceuta in 24 hours, Spanish territory's leader says",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+            "published": "2026-07-31T12:00:18+00:00"
+          },
+          {
+            "title": "Supreme Court stays Delhi High Court order declaring NSEI ‘public authority’ under RTI Act",
+            "link": "https://www.thehindu.com/news/national/supreme-court-stays-delhi-high-court-order-declaring-nsei-public-authority-under-rti-act/article71290108.ece",
+            "source": "The Hindu",
+            "summary": "The High Court’s division bench had observed that if the body is owned, controlled or substantially financed by the appropriate government, it would qualify as a ‘public authority’",
+            "published": "2026-07-31T17:25:32+05:30"
+          },
+          {
+            "title": "Taslima Nasrin: The exiled Bangladeshi author who returns to Kolkata after 19 years",
+            "link": "https://www.thehindu.com/news/national/taslima-nasreen-exiled-bangladeshi-author-returns-to-kolkata-after-19-years/article71290157.ece",
+            "source": "The Hindu",
+            "summary": "Taslima Nasrin faced protests in Bangladesh and received threats from Islamist groups for her outspoken writings on women’s rights and religious extremism",
+            "published": "2026-07-31T17:21:56+05:30"
+          },
+          {
+            "title": "Watch: Chaos at Spain-Morocco border as thousands try to swim across; 34 dead",
+            "link": "https://timesofindia.indiatimes.com/world/europe/footage-shows-chaos-at-spain-morocco-border-as-thousands-try-to-swim-across-34-dead/articleshow/132766198.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-31T17:21:46+05:30"
+          },
+          {
+            "title": "The Muthanga land agitation and the 2026 verdict | Explained",
+            "link": "https://www.thehindu.com/news/national/kerala/explainer-the-muthanga-land-agitation-and-the-2026-verdict/article71289918.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-07-31T17:21:17+05:30"
+          },
+          {
+            "title": "K.C. Venugopal moves privilege motion against Union Minister Jitendra Singh",
+            "link": "https://www.thehindu.com/news/national/kc-venugopal-moves-motive-for-privilege-motion-against-union-minister-jitendra-singh/article71289588.ece",
+            "source": "The Hindu",
+            "summary": "Venugopal says Jitendra Singh blatantly lied on the Parliament floor when he claimed no firing took place",
+            "published": "2026-07-31T17:21:04+05:30"
+          },
+          {
+            "title": "Emphasis on strategy to position U.P. among country’s top 3 sporting States by 2036: SGFI president Deepak Kumar",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/emphasis-on-strategy-to-position-up-among-countrys-top-3-sporting-states-by-2036-sgfi-president-deepak-kumar/article71286768.ece",
+            "source": "The Hindu",
+            "summary": "Says aim is also to secure the inclusion of traditional sports such as Kabaddi and Yoga in the Olympics.",
+            "published": "2026-07-31T17:19:24+05:30"
+          },
+          {
+            "title": "Former Army Chief General VN Sharma passes away at the age of 96",
+            "link": "https://timesofindia.indiatimes.com/defence/news/former-army-chief-general-vn-sharma-passes-away-at-the-age-of-96/articleshow/132766343.cms",
+            "source": "Times of India",
+            "summary": "Former Army Chief General Vishwa Nath Sharma passed away at ninety-six years old. He played a pivotal role during the 1987 military stand-off with China. General Sharma became the first officer commissioned after Independence to lead the Army. His tenure saw the Army engaged in multiple internal and external security challenges. He was a soldier-scholar who led the Army at a critical juncture.",
+            "published": "2026-07-31T17:13:13+05:30"
+          },
+          {
+            "title": "Delhi riots 2020: Why Tahir Hussain escaped death penalty in IB officer murder case",
+            "link": "https://timesofindia.indiatimes.com/india/delhi-riots-2020-why-tahir-hussain-escaped-death-penalty-in-ib-officer-ankit-sharma-murder-case/articleshow/132766366.cms",
+            "source": "Times of India",
+            "summary": "A Delhi court sentenced Tahir Hussain and four others to life imprisonment. They were convicted for the murder of IB officer Ankit Sharma. The court rejected the death penalty, citing reformation possibilities. The prosecution argued the case was rarest of rare. The conviction occurred after the 2020 northeast Delhi riots.",
+            "published": "2026-07-31T17:12:19+05:30"
+          },
+          {
+            "title": "Oppn. protests in Parliament complex against Ram Temple donations ‘theft’; MP Pappu Yadav enacts chanda chori",
+            "link": "https://www.thehindu.com/news/national/oppn-protests-in-parliament-complex-against-ram-temple-donations-scam/article71289255.ece",
+            "source": "The Hindu",
+            "summary": "INDIA bloc MPs engage in street theatre to target Centre over alleged Ram Temple embezzlement; Pappu Yadav dresses up in saffron to play priest, Opposition MPs line up as devotees",
+            "published": "2026-07-31T17:10:52+05:30"
+          },
+          {
+            "title": "‘Stands in solidarity’: AFC joins UEFA, CONCACAF in opposing FIFA's World Cup plan",
+            "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/stands-in-solidarity-afc-joins-uefa-concacaf-in-opposing-fifas-world-cup-investment-plan/articleshow/132766393.cms",
+            "source": "Times of India",
+            "summary": "The Asian Football Confederation opposes FIFA's plan for private investors in commercial rights. This move escalates resistance to FIFA president Gianni Infantino's ambitious commercial proposal. AFC stands in solidarity with UEFA and CONCACAF against the plan. The continental body also called for an urgent review of FIFA's governance. FIFA defends its proposal, stating media reports distorted its intentions.",
+            "published": "2026-07-31T17:10:46+05:30"
+          },
+          {
+            "title": "Supreme Court agrees to dissolve J&K CM Omar Abdullah's marriage with estranged wife",
+            "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-dissolve-jk-cm-omar-abdullahs-marriage-with-estranged-wife/article71289877.ece",
+            "source": "The Hindu",
+            "summary": "The Bench was hearing two pleas, including the one filed by Omar Abdullah seeking divorce on the grounds of cruelty.",
+            "published": "2026-07-31T17:09:56+05:30"
+          },
+          {
+            "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+            "link": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+            "source": "The Hindu",
+            "summary": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+            "published": "2026-07-31T17:09:01+05:30"
+          },
+          {
             "title": "Key on Stokes Ashes return: 'Anything is possible'",
             "link": "https://www.cricinfo.com/ci/content/story/1548244.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "England Men's MD refuses to rule out possibility of comeback for recently retired allrounder",
             "published": "2026-07-31T11:27:48+00:00"
-          },
-          {
-            "title": "How to complete your self (face-based) biometric Aadhaar authentication (e-KYC)? | Explained",
-            "link": "https://www.thehindu.com/news/national/how-to-complete-your-self-face-based-biometric-aadhaar-authentication-e-kyc-explained/article71289928.ece",
-            "source": "The Hindu",
-            "summary": "Linking your Aadhaar with the consumer number using biometric data — finger prints or iris scan — is called biometric Aadhaar authentication",
-            "published": "2026-07-31T16:56:19+05:30"
-          },
-          {
-            "title": "Alluri Sitarama Raju International Airport: A new gateway for Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/alluri-sitarama-raju-international-airport-a-new-gateway-for-andhra-pradesh/article71289594.ece",
-            "source": "The Hindu",
-            "summary": "The Bhogapuram airport, Andhra Pradesh’s first international airport after bifurcation, is set to boost connectivity, trade and regional growth as commercial operations begin this month",
-            "published": "2026-07-31T16:56:12+05:30"
-          },
-          {
-            "title": "2003 Muthanga land struggle: two decades later, all accused in constable murder case acquitted",
-            "link": "https://www.thehindu.com/news/national/kerala/two-decades-later-56-accused-in-constable-vinod-murder-case-acquitted/article71289362.ece",
-            "source": "The Hindu",
-            "summary": "The court observed that it was the second accused, Ashokan, who died during the course of the trial, who had inflicted a wound on the police officer",
-            "published": "2026-07-31T16:55:28+05:30"
-          },
-          {
-            "title": "Supreme Court stays Delhi High Court order declaring NSEI ‘public authority’ under RTI Act",
-            "link": "https://www.thehindu.com/news/national/supreme-court-stays-delhi-high-court-order-declaring-nsei-public-authority-under-rti-act/article71290108.ece",
-            "source": "The Hindu",
-            "summary": "The High Court’s division bench had observed that if the body is owned, controlled or substantially financed by the appropriate government, it would qualify as a ‘public authority’",
-            "published": "2026-07-31T16:51:38+05:30"
-          },
-          {
-            "title": "UK petrol prices hit highest level since Iran war began",
-            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
-            "published": "2026-07-31T11:19:23+00:00"
-          },
-          {
-            "title": "Ajinkya Rahane | Another warrior of the Indian batting fortress bids adieu",
-            "link": "https://www.thehindu.com/sport/cricket/ajinkya-rahane-tribute-another-warrior-of-the-indian-batting-fortress-bids-adieu/article71284768.ece",
-            "source": "The Hindu",
-            "summary": "The Mumbaikar, now charting a fresh path as a commentator, belonged to a school of batsmanship lit up by Sunil Gavaskar, Sachin Tendulkar, Dilip Vengsarkar and Rohit Sharma",
-            "published": "2026-07-31T16:47:16+05:30"
-          },
-          {
-            "title": "Tahir Hussain, four others sentenced to life imprisonment in IB staff Ankit Sharma murder case",
-            "link": "https://www.thehindu.com/news/national/tahir-hussain-ib-staff-ankit-sharma-murder-case-life-imprisonment/article71290118.ece",
-            "source": "The Hindu",
-            "summary": "The Delhi police had sought death penalty for the former Councillor",
-            "published": "2026-07-31T16:47:04+05:30"
-          },
-          {
-            "title": "Cauvery water row: Karnataka CM D.K. Shivakumar asks his Tamil Nadu counterpart Vijay to defer his visit to Bengaluru",
-            "link": "https://www.thehindu.com/news/national/karnataka/cauvery-water-row-karnataka-cm-dk-shivakumar-asks-his-tamil-nadu-counterpart-vijay-to-defer-his-visit-to-bengaluru/article71289884.ece",
-            "source": "The Hindu",
-            "summary": "“The atmosphere is not right at this point of time,” Mr. Shivakumar said, addressing a press meet.",
-            "published": "2026-07-31T16:46:40+05:30"
-          },
-          {
-            "title": "It is PM Modi’s duty to resolve Cauvery dispute between Tamil Nadu and Karnataka: Manickam Tagore",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/it-is-pm-modis-duty-to-resolve-cauvery-dispute-between-tamil-nadu-and-karnataka-manickam-tagore/article71289306.ece",
-            "source": "The Hindu",
-            "summary": "He was responding to PMK leader Anbumani Ramadoss, who accused Congress leader Rahul Gandhi of not taking steps to ensure that the proposed Mekedatu dam is scrapped",
-            "published": "2026-07-31T16:46:20+05:30"
-          },
-          {
-            "title": "Farmers in Nanjangud, T. Narasipura protest against CWRC directive",
-            "link": "https://www.thehindu.com/news/national/karnataka/cauvery-water-row-farmers-in-nanjangud-t-narasipura-protest-against-cwrc-directive/article71290110.ece",
-            "source": "The Hindu",
-            "summary": "Expressing concern over the CWRC directive, the protesting farmers said Karnataka was facing drought-like conditions and farmers were in distress",
-            "published": "2026-07-31T16:45:28+05:30"
-          },
-          {
-            "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
-            "published": "2026-07-31T11:14:29+00:00"
-          },
-          {
-            "title": "How has the Odisha-Chhattisgarh Mahanadi water dispute evolved? Explained",
-            "link": "https://www.thehindu.com/news/national/how-has-the-odisha-chhattisgarh-mahanadi-water-dispute-evolved-explained/article71289055.ece",
-            "source": "The Hindu",
-            "summary": "A political solution to the inter-State water dispute was reinitiated when the Odisha CM, on July 25, 2025, wrote to his Chhattisgarh counterpart proposing an amicable settlement of the Mahanadi water dispute. On August 1, 2025, the Chhattisgarh CM wrote back that the matter was under consideration.",
-            "published": "2026-07-31T16:43:35+05:30"
-          },
-          {
-            "title": "BRS leader Rama Rao appears before court in Formula E race case",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/brs-leader-rama-rao-appears-before-court-in-formula-e-race-case/article71289911.ece",
-            "source": "The Hindu",
-            "summary": "The Telangana ACB filed a chargesheet in March in the Formula E race case in which Mr. Rao is the prime accused",
-            "published": "2026-07-31T16:42:48+05:30"
           }
         ],
         "India": [
           {
-            "title": "How to complete your self (face-based) biometric Aadhaar authentication (e-KYC)? | Explained",
-            "link": "https://www.thehindu.com/news/national/how-to-complete-your-self-face-based-biometric-aadhaar-authentication-e-kyc-explained/article71289928.ece",
-            "source": "The Hindu",
-            "summary": "Linking your Aadhaar with the consumer number using biometric data — finger prints or iris scan — is called biometric Aadhaar authentication",
-            "published": "2026-07-31T16:56:19+05:30"
-          },
-          {
-            "title": "Alluri Sitarama Raju International Airport: A new gateway for Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/alluri-sitarama-raju-international-airport-a-new-gateway-for-andhra-pradesh/article71289594.ece",
-            "source": "The Hindu",
-            "summary": "The Bhogapuram airport, Andhra Pradesh’s first international airport after bifurcation, is set to boost connectivity, trade and regional growth as commercial operations begin this month",
-            "published": "2026-07-31T16:56:12+05:30"
-          },
-          {
-            "title": "2003 Muthanga land struggle: two decades later, all accused in constable murder case acquitted",
-            "link": "https://www.thehindu.com/news/national/kerala/two-decades-later-56-accused-in-constable-vinod-murder-case-acquitted/article71289362.ece",
-            "source": "The Hindu",
-            "summary": "The court observed that it was the second accused, Ashokan, who died during the course of the trial, who had inflicted a wound on the police officer",
-            "published": "2026-07-31T16:55:28+05:30"
-          },
-          {
             "title": "Supreme Court stays Delhi High Court order declaring NSEI ‘public authority’ under RTI Act",
             "link": "https://www.thehindu.com/news/national/supreme-court-stays-delhi-high-court-order-declaring-nsei-public-authority-under-rti-act/article71290108.ece",
             "source": "The Hindu",
             "summary": "The High Court’s division bench had observed that if the body is owned, controlled or substantially financed by the appropriate government, it would qualify as a ‘public authority’",
-            "published": "2026-07-31T16:51:38+05:30"
+            "published": "2026-07-31T17:25:32+05:30"
           },
           {
-            "title": "Ajinkya Rahane | Another warrior of the Indian batting fortress bids adieu",
-            "link": "https://www.thehindu.com/sport/cricket/ajinkya-rahane-tribute-another-warrior-of-the-indian-batting-fortress-bids-adieu/article71284768.ece",
+            "title": "Taslima Nasrin: The exiled Bangladeshi author who returns to Kolkata after 19 years",
+            "link": "https://www.thehindu.com/news/national/taslima-nasreen-exiled-bangladeshi-author-returns-to-kolkata-after-19-years/article71290157.ece",
             "source": "The Hindu",
-            "summary": "The Mumbaikar, now charting a fresh path as a commentator, belonged to a school of batsmanship lit up by Sunil Gavaskar, Sachin Tendulkar, Dilip Vengsarkar and Rohit Sharma",
-            "published": "2026-07-31T16:47:16+05:30"
+            "summary": "Taslima Nasrin faced protests in Bangladesh and received threats from Islamist groups for her outspoken writings on women’s rights and religious extremism",
+            "published": "2026-07-31T17:21:56+05:30"
           },
           {
-            "title": "Tahir Hussain, four others sentenced to life imprisonment in IB staff Ankit Sharma murder case",
-            "link": "https://www.thehindu.com/news/national/tahir-hussain-ib-staff-ankit-sharma-murder-case-life-imprisonment/article71290118.ece",
-            "source": "The Hindu",
-            "summary": "The Delhi police had sought death penalty for the former Councillor",
-            "published": "2026-07-31T16:47:04+05:30"
+            "title": "Watch: Chaos at Spain-Morocco border as thousands try to swim across; 34 dead",
+            "link": "https://timesofindia.indiatimes.com/world/europe/footage-shows-chaos-at-spain-morocco-border-as-thousands-try-to-swim-across-34-dead/articleshow/132766198.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-07-31T17:21:46+05:30"
           },
           {
-            "title": "Cauvery water row: Karnataka CM D.K. Shivakumar asks his Tamil Nadu counterpart Vijay to defer his visit to Bengaluru",
-            "link": "https://www.thehindu.com/news/national/karnataka/cauvery-water-row-karnataka-cm-dk-shivakumar-asks-his-tamil-nadu-counterpart-vijay-to-defer-his-visit-to-bengaluru/article71289884.ece",
-            "source": "The Hindu",
-            "summary": "“The atmosphere is not right at this point of time,” Mr. Shivakumar said, addressing a press meet.",
-            "published": "2026-07-31T16:46:40+05:30"
-          },
-          {
-            "title": "It is PM Modi’s duty to resolve Cauvery dispute between Tamil Nadu and Karnataka: Manickam Tagore",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/it-is-pm-modis-duty-to-resolve-cauvery-dispute-between-tamil-nadu-and-karnataka-manickam-tagore/article71289306.ece",
-            "source": "The Hindu",
-            "summary": "He was responding to PMK leader Anbumani Ramadoss, who accused Congress leader Rahul Gandhi of not taking steps to ensure that the proposed Mekedatu dam is scrapped",
-            "published": "2026-07-31T16:46:20+05:30"
-          },
-          {
-            "title": "Farmers in Nanjangud, T. Narasipura protest against CWRC directive",
-            "link": "https://www.thehindu.com/news/national/karnataka/cauvery-water-row-farmers-in-nanjangud-t-narasipura-protest-against-cwrc-directive/article71290110.ece",
-            "source": "The Hindu",
-            "summary": "Expressing concern over the CWRC directive, the protesting farmers said Karnataka was facing drought-like conditions and farmers were in distress",
-            "published": "2026-07-31T16:45:28+05:30"
-          },
-          {
-            "title": "How has the Odisha-Chhattisgarh Mahanadi water dispute evolved? Explained",
-            "link": "https://www.thehindu.com/news/national/how-has-the-odisha-chhattisgarh-mahanadi-water-dispute-evolved-explained/article71289055.ece",
-            "source": "The Hindu",
-            "summary": "A political solution to the inter-State water dispute was reinitiated when the Odisha CM, on July 25, 2025, wrote to his Chhattisgarh counterpart proposing an amicable settlement of the Mahanadi water dispute. On August 1, 2025, the Chhattisgarh CM wrote back that the matter was under consideration.",
-            "published": "2026-07-31T16:43:35+05:30"
-          },
-          {
-            "title": "BRS leader Rama Rao appears before court in Formula E race case",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/brs-leader-rama-rao-appears-before-court-in-formula-e-race-case/article71289911.ece",
-            "source": "The Hindu",
-            "summary": "The Telangana ACB filed a chargesheet in March in the Formula E race case in which Mr. Rao is the prime accused",
-            "published": "2026-07-31T16:42:48+05:30"
-          },
-          {
-            "title": "Can the National Commission for Scheduled Castes issue binding directions? | Explained",
-            "link": "https://www.thehindu.com/news/national/can-the-national-commission-for-scheduled-castes-issue-binding-directions-explained/article71289651.ece",
+            "title": "The Muthanga land agitation and the 2026 verdict | Explained",
+            "link": "https://www.thehindu.com/news/national/kerala/explainer-the-muthanga-land-agitation-and-the-2026-verdict/article71289918.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-07-31T16:42:28+05:30"
+            "published": "2026-07-31T17:21:17+05:30"
+          },
+          {
+            "title": "K.C. Venugopal moves privilege motion against Union Minister Jitendra Singh",
+            "link": "https://www.thehindu.com/news/national/kc-venugopal-moves-motive-for-privilege-motion-against-union-minister-jitendra-singh/article71289588.ece",
+            "source": "The Hindu",
+            "summary": "Venugopal says Jitendra Singh blatantly lied on the Parliament floor when he claimed no firing took place",
+            "published": "2026-07-31T17:21:04+05:30"
+          },
+          {
+            "title": "Emphasis on strategy to position U.P. among country’s top 3 sporting States by 2036: SGFI president Deepak Kumar",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/emphasis-on-strategy-to-position-up-among-countrys-top-3-sporting-states-by-2036-sgfi-president-deepak-kumar/article71286768.ece",
+            "source": "The Hindu",
+            "summary": "Says aim is also to secure the inclusion of traditional sports such as Kabaddi and Yoga in the Olympics.",
+            "published": "2026-07-31T17:19:24+05:30"
+          },
+          {
+            "title": "Former Army Chief General VN Sharma passes away at the age of 96",
+            "link": "https://timesofindia.indiatimes.com/defence/news/former-army-chief-general-vn-sharma-passes-away-at-the-age-of-96/articleshow/132766343.cms",
+            "source": "Times of India",
+            "summary": "Former Army Chief General Vishwa Nath Sharma passed away at ninety-six years old. He played a pivotal role during the 1987 military stand-off with China. General Sharma became the first officer commissioned after Independence to lead the Army. His tenure saw the Army engaged in multiple internal and external security challenges. He was a soldier-scholar who led the Army at a critical juncture.",
+            "published": "2026-07-31T17:13:13+05:30"
+          },
+          {
+            "title": "Delhi riots 2020: Why Tahir Hussain escaped death penalty in IB officer murder case",
+            "link": "https://timesofindia.indiatimes.com/india/delhi-riots-2020-why-tahir-hussain-escaped-death-penalty-in-ib-officer-ankit-sharma-murder-case/articleshow/132766366.cms",
+            "source": "Times of India",
+            "summary": "A Delhi court sentenced Tahir Hussain and four others to life imprisonment. They were convicted for the murder of IB officer Ankit Sharma. The court rejected the death penalty, citing reformation possibilities. The prosecution argued the case was rarest of rare. The conviction occurred after the 2020 northeast Delhi riots.",
+            "published": "2026-07-31T17:12:19+05:30"
+          },
+          {
+            "title": "Oppn. protests in Parliament complex against Ram Temple donations ‘theft’; MP Pappu Yadav enacts chanda chori",
+            "link": "https://www.thehindu.com/news/national/oppn-protests-in-parliament-complex-against-ram-temple-donations-scam/article71289255.ece",
+            "source": "The Hindu",
+            "summary": "INDIA bloc MPs engage in street theatre to target Centre over alleged Ram Temple embezzlement; Pappu Yadav dresses up in saffron to play priest, Opposition MPs line up as devotees",
+            "published": "2026-07-31T17:10:52+05:30"
+          },
+          {
+            "title": "‘Stands in solidarity’: AFC joins UEFA, CONCACAF in opposing FIFA's World Cup plan",
+            "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/stands-in-solidarity-afc-joins-uefa-concacaf-in-opposing-fifas-world-cup-investment-plan/articleshow/132766393.cms",
+            "source": "Times of India",
+            "summary": "The Asian Football Confederation opposes FIFA's plan for private investors in commercial rights. This move escalates resistance to FIFA president Gianni Infantino's ambitious commercial proposal. AFC stands in solidarity with UEFA and CONCACAF against the plan. The continental body also called for an urgent review of FIFA's governance. FIFA defends its proposal, stating media reports distorted its intentions.",
+            "published": "2026-07-31T17:10:46+05:30"
+          },
+          {
+            "title": "Supreme Court agrees to dissolve J&K CM Omar Abdullah's marriage with estranged wife",
+            "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-dissolve-jk-cm-omar-abdullahs-marriage-with-estranged-wife/article71289877.ece",
+            "source": "The Hindu",
+            "summary": "The Bench was hearing two pleas, including the one filed by Omar Abdullah seeking divorce on the grounds of cruelty.",
+            "published": "2026-07-31T17:09:56+05:30"
+          },
+          {
+            "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+            "link": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+            "source": "The Hindu",
+            "summary": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+            "published": "2026-07-31T17:09:01+05:30"
           }
         ],
         "World": [
           {
-            "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+            "title": "About 60,000 migrants Ceuta in 24 hours, Spanish territory's leader says",
             "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
-            "published": "2026-07-31T11:14:29+00:00"
+            "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+            "published": "2026-07-31T12:00:18+00:00"
+          },
+          {
+            "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+            "link": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+            "published": "2026-07-31T11:23:09+00:00"
           },
           {
             "title": "Palestinians in Gaza are sceptical about the latest peace plan",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.",
             "published": "2026-07-31T09:23:54+00:00"
-          },
-          {
-            "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-            "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
-            "published": "2026-07-31T09:09:54+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Shehzad Poonawalla ने Kangana Ranaut पर ये क्या कह दिया? कांग्रेस की सुप्रिया श्रीनेत के उड़ गए तोते!",
+            "link": "https://hindi.oneindia.com/news/entertainment/what-shehzad-poonawalla-say-on-kangana-ranaut-congress-supriya-shrinate-left-speechless-1620143.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-31T17:18:32+05:30"
+          },
+          {
+            "title": "2024 में ही बीजेपी छोड़ने वाले थे शहजाद पूनावाला, लेकिन पीएम मोदी का चेहरा देख क्यों बदला लिया था फैसला?",
+            "link": "https://hindi.oneindia.com/news/india/shehzad-poonawalla-bjp-resignation-reason-why-he-changed-his-mind-in-2024-after-seeing-pm-modi-1620135.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-31T17:13:54+05:30"
+          },
+          {
+            "title": "CJP प्रोटेस्ट में 'मोदी की तेरहवीं' मनाने वाली नीशू का बुरा हाल, पैसों के लिए कर रही गलत काम! कहा-मजबूरी है",
+            "link": "https://hindi.oneindia.com/news/india/neeshu-azad-modi-ki-terahvi-fame-controversy-online-trading-promotion-scam-1620115.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-31T16:58:13+05:30"
+          },
+          {
             "title": "नूतन टोप्पो कौन हैं, जो जंतर-मंतर पर गोली लगने से घायल होने का कर रही हैं दावा",
             "link": "https://www.bbc.com/hindi/articles/ckgd4018yz0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
@@ -641,7 +662,7 @@
             "published": "2026-07-31T16:34:38+05:30"
           },
           {
-            "title": "दिल्ली दंगा- पूर्व AAP पार्षद ताहिर समेत 5 को उम्रकैद:IB अफसर की हत्या के दोषी; कोर्ट ने कहा- इस घटना ने समाज को झकझोर दिया",
+            "title": "दिल्ली दंगा- पूर्व AAP पार्षद ताहिर समेत 5 को उम्रकैद:IB अफसर की हत्या के दोषी; कोर्ट बोला- घटना गंभीर, इसने समाज को झकझोर दिया",
             "link": "https://www.bhaskar.com/g/national/news/delhi-riots-ib-officer-ankit-sharma-murder-tahir-hussain-verdict-138592473.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -688,30 +709,16 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-07-31T15:30:22+05:30"
-          },
-          {
-            "title": "Shehzad-Tehseen Poonawalla: किस बात को लेकर भिड़े थे पूनावाला ब्रदर्स? जब हेडलाइंस बनी शहजाद और तहसीन की लड़ाई",
-            "link": "https://hindi.oneindia.com/news/india/shehzad-poonawalla-tehseen-poonawalla-ideological-rift-rahul-gandhi-clash-broke-poonawala-brothers-1620025.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-07-31T15:29:03+05:30"
-          },
-          {
-            "title": "चार नहीं बल्कि आठ राउंड हुई थी एके 47 से फ़ायरिंग, सिवान पुलिस की थ्योरी पर कई सवाल",
-            "link": "https://www.bbc.com/hindi/articles/cwyj54dwjxyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-07-31T09:45:54+00:00"
-          },
-          {
-            "title": "Shehzad Poonawalla को लेकर भाई Tehseen ने खोले बंद किस्से, बताया 'टॉक्सिक रिश्ते' की असल वजह-VIDEO",
-            "link": "https://hindi.oneindia.com/news/india/shehzad-poonawalla-secrets-revealed-by-brothers-tehseen-poonawalla-over-toxic-relationship-video-1620007.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-07-31T14:59:18+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Shehzad Poonawalla ने Kangana Ranaut पर ये क्या कह दिया? कांग्रेस की सुप्रिया श्रीनेत के उड़ गए तोते!",
+            "link": "https://hindi.oneindia.com/news/entertainment/what-shehzad-poonawalla-say-on-kangana-ranaut-congress-supriya-shrinate-left-speechless-1620143.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-07-31T17:18:32+05:30"
+          },
           {
             "title": "4 मर्दों संग था Shweta Tiwari का संबंध? 45 की हसीना की 2 दर्दनाक शादियां, BJP MP के साथ क्या किया, तोड़ा घर",
             "link": "https://hindi.oneindia.com/news/entertainment/shweta-tiwari-affairs-with-4-men-45-age-actress-two-painful-marriages-what-she-do-with-bjp-mp-1620041.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "लोकप्रिय अभिनेत्री करिश्मा तन्ना के प्रशंसकों के लिए यह एक बेहद खुशी का मौका है, क्योंकि उन्होंने 42 साल की उम्र में मां बनने की खबर साझा की है। करिश्मा ने अपने आधिकारिक इंस्टाग्राम अकाउंट के माध्यम से दुनिया को बताया कि गुरु पूर्णिमा के पवित्र और शुभ दिन पर उन्होंने एक बेटे को जन्म दिया है। इस खबर के सामने आते ही सोशल मीडिया पर उन्हें बधाई देने वालों का तांता लग गया है। करिश्मा तन्ना अपनी एक्टिंग के लिए हमेशा चर्चा में रही हैं, लेकिन अब अपने जीवन के इस नए और खूबसूरत पड़ाव को लेकर वह काफी उत्साहित हैं। मां बनने की यह खबर उनके लिए और उनके परिवार के लिए किसी बड़े उत्सव से कम नहीं है। उन्होंने अपनी खुशी को अपने चाहने वालों के साथ साझा किया है, जिससे उनके प्रशंसक भी बेहद खुश हैं। करिश्मा के लिए यह समय व्यक्तिगत जीवन में नई खुशियां लेकर आया है, और गुरु पूर्णिमा के दिन बेटे का आगमन उनके जीवन में और भी अधिक आध्यात्मिक महत्व रखता है।",
             "published": "2026-07-29T18:28:51+05:30"
-          },
-          {
-            "title": "'वैन में घुसकर असिस्टेंट डायरेक्टर ने उतारी शर्ट', Kajal Aggarwal का बड़ा सच, बोलीं- मेरे हाथ-पैर कांप रहे थे",
-            "link": "https://hindi.oneindia.com/news/entertainment/kajal-aggarwal-casting-couch-said-assistant-director-entered-in-van-and-took-off-his-shirt-1618715.html",
-            "source": "Oneindia Hindi",
-            "summary": "साउथ और बॉलीवुड की मशहूर अभिनेत्री काजल अग्रवाल ने अपने करियर की एक डरावनी घटना साझा करके सबको चौंका दिया है। काजल ने बताया कि एक फिल्म की शूटिंग के दौरान उनके साथ बहुत ही असहज स्थिति पैदा हो गई थी, जब एक असिस्टेंट डायरेक्टर बिना किसी अनुमति के उनकी वैनिटी वैन में जबरन घुस आया। काजल के अनुसार, उस व्यक्ति ने वैन के अंदर आकर अपनी शर्ट उतार दी, जिससे वह काफी डर गई थीं। इस घटना ने अभिनेत्री को मानसिक रूप से झकझोर कर रख दिया था और उन्होंने बताया कि उस वक्त उनके हाथ-पैर बुरी तरह कांप रहे थे। काजल का यह खुलासा फिल्म इंडस्ट्री की सुरक्षा और महिलाओं के कार्यस्थल पर होने वाली परेशानियों को लेकर एक गंभीर सवाल खड़ा करता है। एक कलाकार के तौर पर अपनी वैनिटी वैन को सुरक्षित स्थान माना जाता है, लेकिन वहां इस तरह की घटना होना सुरक्षा व्यवस्था की कमी को दर्शाता है। काजल का यह बयान सार्वजनिक होने के बाद से लोग इस पर अपनी नाराजगी जाहिर कर रहे हैं और सेट पर काम करने वाली महिलाओं की सुरक्षा को लेकर चर्चा तेज हो गई है।",
-            "published": "2026-07-29T17:58:28+05:30"
           }
         ]
       }
@@ -803,6 +803,13 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "83 હજારની વસતીવાળા સ્પેનના આ શહેરમાં રાતોરાત ઘૂસ્યા 49 હજાર માઇગ્રન્ટ્સ – ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/c1m1p0731l9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "કોંગ્રેસના રાષ્ટ્રીય અધ્યક્ષ મલ્લિકાર્જુન ખડગેએ તાજેતરમાં કેન્દ્ર સરકાર પર આકરા પ્રહાર કરતા આરોપ લગાવ્યો છે કે સરકાર વિદ્યાર્થીઓને આપેલા પોતાના વાયદાઓથી સતત પીછેહઠ કરી રહી છે. તેમણે આ મુદ્દાને એક મોટો રાજકીય મુદ્દો બનાવતા જણાવ્યું હતું કે યુવાનો અને વિદ્યાર્થીઓના ભવિષ્ય સાથે સરકાર દ્વારા જે અન્યાય કરવામાં આવી રહ્યો છે તે દેશ માટે ચિંતાજનક બાબત છે. ખડગેએ ભારપૂર્વક કહ્યું કે શાસક પક્ષે સત્તામાં આવતા પહેલા જે વચનો આપ્યા હતા, તેમાંથી મોટાભાગના વચનો આજે પણ અધૂરા છે. તેમણે સરકારની કામગીરીની ટીકા કરતા કહ્યું કે શિક્ષણ ક્ષેત્રે અને રોજગારીના મામલે વિદ્યાર્થીઓને જે આશ્વાસનો આપવામાં આવ્યા હતા, તેનાથી સરકાર પાછી પડી રહી છે. આ નિવેદન એવા સમયે આવ્યું છે જ્યારે દેશભરમાં વિવિધ પરીક્ષાઓ અને શિક્ષણ નીતિઓ અંગે વિદ્યાર્થીઓમાં ભારે અસંતોષ જોવા મળી રહ્યો છે. વિરોધ પક્ષ તરીકે કોંગ્રેસ સરકારને કાયદો અને શિક્ષણ વ્યવસ્થાના મુદ્દે ઘેરવાનો પ્રયાસ કરી રહી છે. ખડગેના આ નિવેદન પછી રાજકીય ગરમાવો વધી ગયો છે અને વિદ્યાર્થી સંગઠનો પણ હવે સરકારના વાયદાઓ પર સવાલ ઉઠાવી રહ્યા છે, જે આગામી સમયમાં મોટા આંદોલનનું સ્વરૂપ પણ ધારણ કરી શકે છે.",
+            "published": "2026-07-31T11:48:21+00:00"
+          },
           {
             "title": "દિલ્હી રમખાણ: પૂર્વ AAP કાઉન્સિલર તાહિર સહિત 5ને આજીવન કેદ:IB અધિકારીની હત્યાના દોષિત; કોર્ટે કહ્યું- આ ઘટનાએ સમાજને હચમચાવી દીધો",
             "link": "https://www.divyabhaskar.co.in/national/news/delhi-riots-ib-officer-ankit-sharma-murder-tahir-hussain-sentencing-138592688.html",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-07-31T07:23:14+00:00"
-          },
-          {
-            "title": "સીજેપીનાં વિરોધપ્રદર્શનોમાં સામેલ રુચિકાસિંહ સામે એફઆઈઆર, પીએમ પર 'વાંધાજનક' ટિપ્પણી કરવાનો છે આરોપ– ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/c1m1p0731l9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "કોંગ્રેસના રાષ્ટ્રીય અધ્યક્ષ મલ્લિકાર્જુન ખડગેએ તાજેતરમાં કેન્દ્ર સરકાર પર આકરા પ્રહાર કરતા આરોપ લગાવ્યો છે કે સરકાર વિદ્યાર્થીઓને આપેલા પોતાના વાયદાઓથી સતત પીછેહઠ કરી રહી છે. તેમણે આ મુદ્દાને એક મોટો રાજકીય મુદ્દો બનાવતા જણાવ્યું હતું કે યુવાનો અને વિદ્યાર્થીઓના ભવિષ્ય સાથે સરકાર દ્વારા જે અન્યાય કરવામાં આવી રહ્યો છે તે દેશ માટે ચિંતાજનક બાબત છે. ખડગેએ ભારપૂર્વક કહ્યું કે શાસક પક્ષે સત્તામાં આવતા પહેલા જે વચનો આપ્યા હતા, તેમાંથી મોટાભાગના વચનો આજે પણ અધૂરા છે. તેમણે સરકારની કામગીરીની ટીકા કરતા કહ્યું કે શિક્ષણ ક્ષેત્રે અને રોજગારીના મામલે વિદ્યાર્થીઓને જે આશ્વાસનો આપવામાં આવ્યા હતા, તેનાથી સરકાર પાછી પડી રહી છે. આ નિવેદન એવા સમયે આવ્યું છે જ્યારે દેશભરમાં વિવિધ પરીક્ષાઓ અને શિક્ષણ નીતિઓ અંગે વિદ્યાર્થીઓમાં ભારે અસંતોષ જોવા મળી રહ્યો છે. વિરોધ પક્ષ તરીકે કોંગ્રેસ સરકારને કાયદો અને શિક્ષણ વ્યવસ્થાના મુદ્દે ઘેરવાનો પ્રયાસ કરી રહી છે. ખડગેના આ નિવેદન પછી રાજકીય ગરમાવો વધી ગયો છે અને વિદ્યાર્થી સંગઠનો પણ હવે સરકારના વાયદાઓ પર સવાલ ઉઠાવી રહ્યા છે, જે આગામી સમયમાં મોટા આંદોલનનું સ્વરૂપ પણ ધારણ કરી શકે છે.",
-            "published": "2026-07-31T07:07:54+00:00"
           }
         ]
       }
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఒక్క రోజు కూడా స్కూల్ కు వెళ్లలేదు.. కానీ విద్యాశాఖ మంత్రిగా.. షాకింగ్ విషయాలు తెలుసా..?",
+            "link": "https://telugu.oneindia.com/news/india/maulana-abul-kalam-azad-first-education-minister-found-iits-ugc-not-attended-school-a-single-day-499605.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-07-31T17:18:38+05:30"
+          },
+          {
+            "title": "100000 dollar Fee For Foreign Students sources: విదేశీ విద్యార్థులపై ట్రంప్‌ లక్ష డాలర్ల కొరడా..?భారతీయులపై ప్రభావమెంత..? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1M5b3pHNF9IamdSVnNKdFY4QW5uZktsMlE4dHhidXpQMGRVd18xUnBLSE5WcXVoOHJsdy12TmVvMTdqeHdpTmVfMGN3SDJuSGIxaDJUX1l4eGJYSWVtb28tVGk1elAyWTAxRHE4TFloMFB2U0hLMjR5UnhKZ1dPbEU1bl9jVWNmb1NJZdIBjAFBVV95cUxOV1M5b3pHNF9IamdSVnNKdFY4QW5uZktsMlE4dHhidXpQMGRVd18xUnBLSE5WcXVoOHJsdy12TmVvMTdqeHdpTmVfMGN3SDJuSGIxaDJUX1l4eGJYSWVtb28tVGk1elAyWTAxRHE4TFloMFB2U0hLMjR5UnhKZ1dPbEU1bl9jVWNmb1NJZQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-07-31T11:35:39+00:00"
+          },
+          {
+            "title": "నిర్మల్ పుర్జా: ఆర్నెల్లలో అత్యంత ఎత్తైన 14 శిఖరాలను అధిరోహించిన పర్వతారోహకుడు, హిమపాతంలో గల్లంతు",
+            "link": "https://www.bbc.com/telugu/articles/c98vl413v2yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-07-31T11:31:39+00:00"
+          },
+          {
             "title": "సీఎం విజయ్ ను పిలుచుకొచ్చి కేఆర్ఎస్ డ్యామ్ ను చూపించగలరా?",
             "link": "https://telugu.oneindia.com/news/india/by-vijayendra-and-other-ktaka-leaders-detained-during-protest-over-cauvery-water-dispute-at-krs-dam-499603.html",
             "source": "Oneindia Telugu",
@@ -1133,36 +1154,22 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-07-31T14:58:55+05:30"
-          },
-          {
-            "title": "Omar Abdullah: ఒమర్ అబ్దుల్లా విడాకులపై సుప్రీం కీలక తీర్పు..!",
-            "link": "https://telugu.oneindia.com/news/india/supreme-court-grants-omar-abdullah-divorce-after-17-years-of-separation-499579.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-31T14:55:35+05:30"
-          },
-          {
-            "title": "Cybercriminals: ‘స్నేహం’ పెట్టుబడి.. నమ్మించి బురిడీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFkwQ3hzX00tTzZIMGF3c0hjTndnTG13NXJUNjNfN2w4bWZSNFhPN2xKT1Q1SnNZUGMzNHhaMUJPNmVvZkpXTHVaUXRSYmxCMlhLV20wWnUtOVBXLTdJaDU3ZmZYNFdPVkI4Yms4eUppZG8tZXZKNGVVTmk2ZFY5dGZrb0I1Wl80V3lxLVBxOEVZb2ZMUTl0dDFCbHhfZW5NdkFOUjJhaVVWaF91aHNza3dndGxMdHdtV1hfWtIBvAFBVV95cUxPZFkwQ3hzX00tTzZIMGF3c0hjTndnTG13NXJUNjNfN2w4bWZSNFhPN2xKT1Q1SnNZUGMzNHhaMUJPNmVvZkpXTHVaUXRSYmxCMlhLV20wWnUtOVBXLTdJaDU3ZmZYNFdPVkI4Yms4eUppZG8tZXZKNGVVTmk2ZFY5dGZrb0I1Wl80V3lxLVBxOEVZb2ZMUTl0dDFCbHhfZW5NdkFOUjJhaVVWaF91aHNza3dndGxMdHdtV1hfWg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-07-31T09:17:12+00:00"
-          },
-          {
-            "title": "\"ప్రధానినే అనుమానిస్తారా ?\"- సీజేఐకు చెక్ పెట్టిన వ్యవహారంలో కేంద్రం వాదన...!",
-            "link": "https://telugu.oneindia.com/news/india/centre-defends-election-commissioner-appointment-process-says-pms-integrity-cannot-be-questioned-499575.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-31T14:34:11+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "థియేటర్ లో ఈ లవ్ స్టోరీ మిస్ అయ్యారా..? OTT లో మాత్రం మిస్ అవ్వొద్దు..",
+            "link": "https://telugu.oneindia.com/entertainment/deewana-did-you-miss-the-love-story-movie-deewana-theaters-dont-miss-it-on-ott-deewana-ott-movie-499591.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-07-31T17:07:43+05:30"
+          },
           {
             "title": "Karmakhya Movie Review: ఈ మిస్టరీ థ్రిల్లర్ ప్రేక్షకుల్ని మెప్పించిందా..?",
             "link": "https://telugu.oneindia.com/entertainment/karmakhya-here-is-the-review-of-the-movie-karmakhya-starring-samuthirakani-in-the-lead-roles-499601.html",
             "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-07-31T16:38:37+05:30"
+            "published": "2026-07-31T17:06:15+05:30"
           },
           {
             "title": "గచ్చిబౌలిలో జూనియర్ ఎన్టీఆర్ లగ్జరీ మల్టీప్లెక్స్",
@@ -1170,13 +1177,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-07-31T16:30:11+05:30"
-          },
-          {
-            "title": "థియేటర్ లో ఈ లవ్ స్టోరీ మిస్ అయ్యారా..? OTT లో మాత్రం మిస్ అవ్వొద్దు..",
-            "link": "https://telugu.oneindia.com/entertainment/deewana-did-you-miss-the-love-story-movie-deewana-theaters-dont-miss-it-on-ott-deewana-ott-movie-499591.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-07-31T15:47:42+05:30"
           },
           {
             "title": "ఓటీటీని శాసిస్తున్న 7 థ్రిల్లర్స్ యూట్యూబ్‌లో కూడా ఉచితంగా ఉన్నాయి",
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Liquor: ಸ್ಕಾಚ್ ವಿಸ್ಕಿ, ಜಿನ್ ಬೆಲೆ ಇಳಿಕೆ.. ಆಸೆ ನೆರವೇರಿಸಿಕೊಳ್ಳಲು ಕಾಯುತ್ತಿದ್ದ ಮದ್ಯಪ್ರಿಯರಿಗೆ ಭರ್ಜರಿ ಗುಡ್ ನ್ಯೂನ್",
+            "link": "https://kannada.oneindia.com/news/india/liquor-india-uk-fta-scotch-whisky-and-gin-prices-may-drop-as-import-duty-is-slashed-know-details-463077.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-07-31T17:13:07+05:30"
+          },
+          {
+            "title": "ಹಾವಿಗೂ ಇತ್ತಾ ನಾಲ್ಕು ಕಾಲು? ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಮಾಯವಾಗಿದ್ದು ಹೇಗೆ? ವಿಜ್ಞಾನ ಲೋಕದ ಕುತೂಹಲಕ್ಕೆ ಸಿಕ್ತು ಸಾಕ್ಷಿ",
+            "link": "https://kannada.oneindia.com/news/international/snakes-also-had-four-legs-million-years-ago-science-reveals-reason-how-and-why-it-is-disappeared-463073.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-07-31T17:01:48+05:30"
+          },
+          {
             "title": "ಕಾಲೇಜಿಗೆ 228 ಕೋಟಿ ರೂ. ಷೇರು ದಾನ ನೀಡಿದ ಹಳೆ ವಿದ್ಯಾರ್ಥಿ: ಇಂದು IIT ಮದ್ರಾಸ್‌ಗೆ 112 ಕೋಟಿ ರೂ. ಜಾಕ್‌ಪಾಟ್",
             "link": "https://kannada.oneindia.com/news/india/iit-madras-alumnus-krishna-chivukula-gifts-rs-228-cr-shares-indo-mim-ipo-creates-historic-record-463069.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಕರ್ನಾಟಕ ಲೋಕಸೇವಾ ಆಯೋಗವು (KPSC) ತನ್ನ ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಮಹತ್ವದ ಬದಲಾವಣೆಯನ್ನು ತಂದಿದೆ. UPSC ಮಾದರಿಯನ್ನು ಅನುಸರಿಸಿ, 2026-27ನೇ ಸಾಲಿನ 319 ಗೆಜೆಟೆಡ್ ಪ್ರೊಬೇಷನರಿ ಹುದ್ದೆಗಳ ನೇಮಕಾತಿಗೆ ಅಧಿಕೃತ ಅಧಿಸೂಚನೆಯನ್ನು ಹೊರಡಿಸಿದೆ. ಈ ಹೊಸ ಪರೀಕ್ಷಾ ಮಾದರಿಯು ಅಭ್ಯರ್ಥಿಗಳ ಸಾಮರ್ಥ್ಯವನ್ನು ಪರೀಕ್ಷಿಸಲು ಮತ್ತಷ್ಟು ಕಠಿಣ ಮತ್ತು ಪಾರದರ್ಶಕವಾಗಿರಲಿದೆ ಎಂದು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ. ಆಸಕ್ತ ಮತ್ತು ಅರ್ಹ ಅಭ್ಯರ್ಥಿಗಳು ಈ ಉದ್ಯೋಗಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಲು ಆಗಸ್ಟ್ 1ರಿಂದ ಅವಕಾಶ ಕಲ್ಪಿಸಲಾಗಿದೆ. ಈ ಬದಲಾವಣೆಯು ರಾಜ್ಯದ ಪ್ರತಿಭಾವಂತ ಯುವಕರಿಗೆ ಉತ್ತಮ ಅವಕಾಶವನ್ನು ನೀಡಲಿದ್ದು, ಆಡಳಿತ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಹೆಚ್ಚು ಅರ್ಹರನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಸಹಕಾರಿಯಾಗಲಿದೆ. ಈ ನೇಮಕಾತಿ ಅಧಿಸೂಚನೆಯು KPSCಯ ಕಾರ್ಯವೈಖರಿಯಲ್ಲಿನ ಒಂದು ಹೊಸ ಮೈಲಿಗಲ್ಲಾಗಿದ್ದು, ಅಭ್ಯರ್ಥಿಗಳು ಸರಿಯಾದ ತಯಾರಿ ನಡೆಸುವಂತೆ ಆಯೋಗವು ಸೂಚಿಸಿದೆ. UPSC ಮಟ್ಟದ ಪರೀಕ್ಷಾ ಪದ್ಧತಿಯನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ, ರಾಜ್ಯ ಮಟ್ಟದ ನೇಮಕಾತಿಗಳನ್ನು ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟಕ್ಕೆ ಏರಿಸುವ ಪ್ರಯತ್ನ ಇದಾಗಿದೆ. ನಿರುದ್ಯೋಗಿ ಯುವಕರು ಈ ಅವಕಾಶವನ್ನು ಸದುಪಯೋಗಪಡಿಸಿಕೊಳ್ಳಬೇಕು ಮತ್ತು ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ ಮೂಲಕ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಬೇಕು ಎಂದು ತಿಳಿಸಲಾಗಿದೆ.",
             "published": "2026-07-31T11:42:23+05:30"
-          },
-          {
-            "title": "KPSC ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲು: UPSC ಮಾದರಿಯಲ್ಲಿ 319 'ಗೆಜೆಟೆಡ್ ಪ್ರೊಬೇಷನರಿ' ಹುದ್ದೆಗಳ ನೇಮಕಾತಿ",
-            "link": "https://kannada.oneindia.com/news/karnataka/kpsc-gazetted-probationary-notification-2026-out-for-319-posts-exam-schedule-upsc-model-rules-463035.html",
-            "source": "Oneindia Kannada",
-            "summary": "ರಾಜಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿರುವ ಯೋಗೇಶ್ ಗೌಡ ಹತ್ಯೆ ಪ್ರಕರಣದಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ನಾಯಕ ವಿನಯ್ ಕುಲಕರ್ಣಿಗೆ ಹೈಕೋರ್ಟ್‌ನಿಂದ ದೊಡ್ಡ ರಿಲೀಫ್ ಸಿಕ್ಕಿದೆ. ಈ ಹಿಂದೆ ಕೆಳಹಂತದ ನ್ಯಾಯಾಲಯವು ಅವರನ್ನು ಜೀವಾವಧಿ ಶಿಕ್ಷೆಗೆ ಗುರಿಪಡಿಸಿತ್ತು. ಆದರೆ, ಈಗ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್ ಈ ಶಿಕ್ಷೆಗೆ ತಡೆ ನೀಡುವ ಮೂಲಕ ಅವರಿಗೆ ಮಹತ್ವದ ಆದೇಶವನ್ನು ನೀಡಿದೆ. ನ್ಯಾಯಾಲಯವು ಅವರ ಮೇಲ್ಮನವಿಯ ವಿಚಾರಣೆಯು ಮುಕ್ತಾಯವಾಗುವವರೆಗೆ ಅವರಿಗೆ ಜಾಮೀನು ನೀಡಿರುವುದು ವಿನಯ್ ಕುಲಕರ್ಣಿಯವರ ಪಾಲಿಗೆ ದೊಡ್ಡ ನಿರಾಳತೆಯನ್ನು ನೀಡಿದೆ. ಈ ಕಾನೂನು ಪ್ರಕ್ರಿಯೆಯು ರಾಜಕೀಯ ವಲಯದಲ್ಲಿ ತೀವ್ರ ಚರ್ಚೆಗೆ ಗ್ರಾಸವಾಗಿದೆ. ನ್ಯಾಯಾಲಯದ ಈ ಆದೇಶವು ಅವರ ರಾಜಕೀಯ ಭವಿಷ್ಯ ಮತ್ತು ಮುಂದಿನ ಕಾನೂನು ಹೋರಾಟದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಲಿದೆ. ಪ್ರಕರಣದ ತೀವ್ರತೆಯನ್ನು ಪರಿಗಣಿಸಿ ನ್ಯಾಯಾಲಯವು ಹಲವು ಷರತ್ತುಗಳನ್ನು ವಿಧಿಸುವ ಸಾಧ್ಯತೆಯಿದೆ. ಈ ಬೆಳವಣಿಗೆಯು ಕಾನೂನು ತಜ್ಞರ ಪಾಲಿಗೆ ಕುತೂಹಲಕಾರಿಯಾಗಿದೆ ಮತ್ತು ಪ್ರಕರಣದ ವಿಚಾರಣೆಯು ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಯಾವ ತಿರುವು ಪಡೆಯಲಿದೆ ಎಂಬುದನ್ನು ಕಾದು ನೋಡಬೇಕಿದೆ. ವಿನಯ್ ಕುಲಕರ್ಣಿಯವರ ಬೆಂಬಲಿಗರಿಗೆ ಇದು ಸಂತಸದ ಸುದ್ದಿಯಾಗಿದ್ದರೂ, ವಿರೋಧಿಗಳು ಮತ್ತು ಸಂತ್ರಸ್ತ ಕುಟುಂಬಕ್ಕೆ ಈ ಆದೇಶವು ಕಾನೂನು ಹೋರಾಟದ ಮುಂದಿನ ಹಂತವಾಗಿದೆ.",
-            "published": "2026-07-31T11:15:22+05:30"
-          },
-          {
-            "title": "ಮಿತಿ ಮೀರಿದ ಸೊಪ್ಪು, ತರಕಾರಿ ಸೇವನೆಯೇ ಹಲವು ರೋಗಗಳಿಗೆ ಮೂಲ: ರಾಮಚಂದ್ರಾಪುರ ಶ್ರೀ",
-            "link": "https://kannada.oneindia.com/news/karnataka/green-leaves-and-vegetables-excessive-eating-would-cause-bone-erosion-ramachandrapura-seer-463033.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಸೊಪ್ಪು ಮತ್ತು ತರಕಾರಿಗಳ ಅತಿಯಾದ ಸೇವನೆಯು ಆರೋಗ್ಯಕ್ಕೆ ಹಾನಿಕರ ಎಂದು ರಾಮಚಂದ್ರಾಪುರ ಮಠದ ಶ್ರೀಗಳು ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ. ಮನಬಂದಂತೆ ಮತ್ತು ಅವಶ್ಯಕತೆಗಿಂತ ಮಿತಿ ಮೀರಿ ತರಕಾರಿಗಳನ್ನು ಸೇವಿಸುವುದರಿಂದ ಕಣ್ಣಿನ ದೃಷ್ಟಿ ಮತ್ತು ಮೂಳೆಗಳಿಗೆ ಗಂಭೀರವಾದ ಅಪಾಯಗಳು ಉಂಟಾಗಬಹುದು ಎಂದು ಅವರು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ. ನೈಸರ್ಗಿಕ ಆಹಾರಗಳೇ ಆರೋಗ್ಯದ ಮೂಲವಾದರೂ, ಅವುಗಳ ಸೇವನೆಯಲ್ಲಿಯೂ ಸಮತೋಲನ ಅಗತ್ಯ ಎಂದು ಶ್ರೀಗಳು ಬೋಧಿಸಿದ್ದಾರೆ. ಯಾವುದೇ ವಸ್ತುವನ್ನು ಅತಿಯಾಗಿ ಬಳಸುವುದರಿಂದ ದೇಹದ ಮೇಲೆ ಅಡ್ಡ ಪರಿಣಾಮಗಳು ಬೀರಬಹುದು ಎಂಬುದನ್ನು ಅವರು ನೆನಪಿಸಿದ್ದಾರೆ. ನಮ್ಮ ಆಹಾರ ಪದ್ಧತಿಯು ನಮ್ಮ ಆರೋಗ್ಯದ ಮೇಲೆ ನೇರ ಪ್ರಭಾವ ಬೀರುವುದರಿಂದ, ಪ್ರತಿಯೊಬ್ಬರೂ ಎಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು ಎಂದು ಅವರು ಸಲಹೆ ನೀಡಿದ್ದಾರೆ. ಆಧುನಿಕ ಜೀವನಶೈಲಿಯಲ್ಲಿ ನಾವು ಸೇವಿಸುವ ತರಕಾರಿಗಳ ಗುಣಮಟ್ಟ ಮತ್ತು ಅವುಗಳನ್ನು ಸೇವಿಸುವ ಕ್ರಮವು ಹಲವು ರೋಗಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತಿದೆ ಎಂದು ಅವರು ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಈ ರೀತಿಯ ಆರೋಗ್ಯ ಜಾಗೃತಿಯು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ತಮ್ಮ ಆಹಾರ ಪದ್ಧತಿಯನ್ನು ಬದಲಾಯಿಸಿಕೊಳ್ಳಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ. ಆರೋಗ್ಯಕರ ಜೀವನಕ್ಕೆ ಸಮತೋಲಿತ ಆಹಾರ ಮತ್ತು ಸಂಯಮವು ಅತ್ಯಗತ್ಯ ಎಂಬುದನ್ನು ಶ್ರೀಗಳ ಮಾತುಗಳು ಒತ್ತಿ ಹೇಳುತ್ತವೆ. ಈ ವಿಚಾರವು ಆರೋಗ್ಯ ಪ್ರಜ್ಞೆ ಇರುವ ಪ್ರತಿಯೊಬ್ಬರೂ ಚಿಂತಿಸಬೇಕಾದ ವಿಷಯವಾಗಿದೆ.",
-            "published": "2026-07-31T10:44:59+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আইভিএফ পদ্ধতিতে সবসময় যমজ বা ট্রিপলেটের জন্ম হয়? কোন ক্ষেত্রে এটাই গর্ভধারণের একমাত্র পথ?",
+            "link": "https://www.bbc.com/bengali/articles/cpw9qjr07rvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-07-31T11:50:06+00:00"
+          },
+          {
             "title": "'ভাই, মায়ের নাম্বারটা লেখেন তো' মৃত্যু নিশ্চিত ভেবে গুলিবিদ্ধ তরুণের আকুতি, পরে কী হয়েছিলো তার?",
             "link": "https://www.bbc.com/bengali/articles/ce8lzp8r0d2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1445,6 +1452,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-31T08:27:39+00:00"
+          },
+          {
+            "title": "১৯ বছর পর কলকাতায় এলেন তসলিমা নাসরিন! বাংলা থেকে বিতাড়িত হন বামফ্রন্ট আমলে, প্রত্যাবর্তন বিজেপি জমানায় - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllveFZwOElrWGZxMC05bkVmY0F6eWNCSi1mNlY4MTBLcXcyNy13aHNNUDBscGNfTUY5SmotQUtQZm8wUEhiZ1FoazJoX3N3RmhqakpUOVlRVTY4R1diZmd3S1g0dU1FdHJQbUhCTXc0ck9yMGg3ZklYbkZDalZMSVBzWWNZWHJhd1pNWEMyaFZfb3VwenZUdkNrYmZNRlczQVhxNzVDdkt3c3JOZ2tfeWdCd9IBuAFBVV95cUxPNTFldjJEYVBiM25nVFhzLWZSNnI2TXdZUkRtZUU0ZGs0N3I1UXluWk1iRjE4VUw3aHYzMjRMR3RWTV81Ml9LTFVwSjZhWkVhN2ZRX2h0Mk9TR3lPX0oyNmZjQ05weHlBcXlQWlR3T0lGVFpDVmZOQTVya1ZzVm1IWFU0WWVBVGQ3aTk5U1daV19tTFltRkUxcU82NWNTb19QOHY5QV9aRzlRT2dENHpCUFU5em14ajZN?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-31T08:22:21+00:00"
           },
           {
             "title": "বাংলাদেশে কোন পে স্কেলে কত শতাংশ বেতন বেড়েছিল",
@@ -1475,6 +1489,13 @@
             "published": "2026-07-31T07:09:32+00:00"
           },
           {
+            "title": "আইআইটির প্রাক্তনী, কোটি টাকা আয়, তিনটি বাড়ির মালিক, আয়কর জমা দিতে ১৫ হাজার ধার করলেন তিনিই! - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORFZVa1ZNZHBBdGhEV3N5VkFIYXE1aDRKX0pKTVVMaThTdFdwc00wQmNxX2MyVHU0NlRkTGxUVHlmc0FTa2VvblRrWXE3Tm5YYXdlMlhOM2hFemFvcWpZSlBieEdCZjllWUtDRG9XUXNLMlU5dmMwN25vYXl0alZtdjBaRXZMdEp3NU5LYW1wOVQxNll6T2hrVkFDdzZUX1FqNzFjUklZSzJEaThiNmZxQjd4bTRKaXdPekJEdWF0MmY1eXB3SjV6ZEJDRk5RQ2NHN054S240a3VPRzA4ckE5ZDFYYmszSnRMVmdGaElMek9KRnFOOE52S3Y2MkduYWIzUHhkLV9Rc9IBjAJBVV95cUxQYnFqcHZoaTd5WEdLRjF0Y1V1X2Zvazk5Q0lObDVWME4tRlhMTFN0XzhwSVl0ZE9TUlhpU2tKaWd2X3BTLU56S3EtOFBnSzRtal9fSVJXZXFhVGdQWlVCNzFYWTNRb3ZVcTVmUC1JVTh1T1RDV0RLSjdyTVdmbEh5T3p2amE3NHlfT05OSEsyMWV2cVhsRzJuSUZBMzVBZThSRU9HYWNyc01nSWp0Y2Zvdmx4RDd5VTJiWERzSUFQMExUTGV1Y3BpWjZKZHdzRUFMVEZqWDVkelVJckplMzBBWTVyRlViVGlHRW5IYjBQb3JjNVM5a1JxaE9GTnh2SjlMQm1SU3hrWVpGemF6?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-07-31T06:47:25+00:00"
+          },
+          {
             "title": "২১ জুলাই বেঁধে দেওয়া সংখ্যার তুলনায় বেশি জমায়েত কেন হল? কালীঘাট তৃণমূলকে সতর্ক করে দিল অসন্তুষ্ট হাই কোর্ট - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWZ3VTRmUzEzeTVXcjRrTnoteWdUcWxKNXFzX3otRlVfN2swUmdOMWpnV3QyaVNSejc5R281MXFDckFmMUtpeW8zS0p0X1B2ZEd0SkRMVjY5WGlIRlhLVlR2RTd6T1FiV0l1UEhxbUJqeWU3V0VZME92XzlwdXNlY3ZTb01BdkhaVmRvSklEeUExdTZDS0JFb2R0UVU5dmtuMmxCSzg2eVpNVVlKd05MazZkVjZyWURYUnRyOGowZWNGOVdjUmk5YlNIQ1V4U0RqN2MzcWJFYllLTzRETFQ3WThjb1FVcVpnTFdhQV9nWFfSAfYBQVVfeXFMTXNrZUpPNjlSWHBlRTN5S09MT1JPUkM1YmM4Y21EeUp1TWRuLXpVa0ItUUVubWJCZ3JYdThVYXcycHktdWNDTXJ3bUU0cUtSbUlTLUJyS3hGbUJUTmxVNlpNVm5kUVZGVHVob2dGUWFxMUFYRUdtOUlxaU9pUVRjLV9jY21XTkZ3bTJsak9NS09WU2tMaU01NjEyS3hPTjRDT1doMUhMRy1LQmVGdEE5T0NQUGpoWFF1YUlUU3o5ZWdMcXlyaUhRUGNkNTR6RzhDOTh2Yk1rRzRIVjBNYzZZUDdpV2hVMTFGRXhwcXlKOUh1RUM4X25R?oc=5",
             "source": "Anandabazar Patrika",
@@ -1487,27 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-07-31T06:20:06+00:00"
-          },
-          {
-            "title": "ফিফা সভাপতির দিন কি শেষ, উয়েফা কি বয়কট করবে বিশ্বকাপ- কী হবে এখন?",
-            "link": "https://www.bbc.com/bengali/articles/cr49e0ddlzro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "ফিফার বর্তমান কর্মকাণ্ড এবং এর ভবিষ্যৎ নিয়ে বিশ্বজুড়ে এখন বড় ধরনের বিতর্ক তৈরি হয়েছে। সংস্থাটির সভাপতি জিয়ান্নি ইনফান্তিনো ফিফার বিভিন্ন টুর্নামেন্ট পরিচালনার জন্য তৈরি একটি সহযোগী প্রতিষ্ঠানের ২০ শতাংশ শেয়ার বিক্রির যে পরিকল্পনা করেছিলেন, তা নিয়েই এখন তীব্র সমালোচনার মুখে পড়েছেন তিনি। অনেকের মতে, ফুটবল বিশ্বের এই সর্বোচ্চ নিয়ন্ত্রক সংস্থার অর্থনৈতিক সিদ্ধান্তগুলো এখন স্বচ্ছতার অভাবের কারণে প্রশ্নবিদ্ধ হচ্ছে। এই পরিস্থিতির জেরে উয়েফা বা ইউরোপীয় ফুটবলের প্রধান সংস্থাগুলো বিশ্বকাপ বয়কট করতে পারে কি না, সেই সম্ভাবনা নিয়েও ফুটবলপ্রেমীদের মধ্যে ব্যাপক জল্পনা-কল্পনা শুরু হয়েছে। বিষয়টি এখন আর সাধারণ আর্থিক লেনদেনে সীমাবদ্ধ নেই, বরং এটি ফিফার প্রশাসনিক কর্তৃত্বের ওপর বড় একটি চাপ সৃষ্টি করেছে। খেলাধুলার চেয়ে বাণিজ্যিক চিন্তার আধিক্য কি বিশ্ব ফুটবলকে ধ্বংসের মুখে ঠেলে দিচ্ছে? এমন নানা প্রশ্নের উত্তর খুঁজছেন বিশেষজ্ঞরা। পরিস্থিতি বর্তমানে এতটাই ঘোলাটে যে, ভবিষ্যতে ফিফার বিভিন্ন টুর্নামেন্টের আয়োজক এবং অংশীদারদের সঙ্গে তাদের সম্পর্কের সমীকরণ কীভাবে বদলে যাবে, তা নিয়েই এখন প্রধান আলোচনার কেন্দ্রবিন্দু। ফুটবল ভক্তদের কাছে বিশ্বকাপের ঐতিহ্য বজায় রাখা যেখানে মূল লক্ষ্য, সেখানে ফিফার ভেতরের এই জটিলতা বিশ্ব ফুটবলের ভবিষ্যতের জন্য এক বড় চ্যালেঞ্জ হয়ে দাঁড়িয়েছে।",
-            "published": "2026-07-31T05:35:51+00:00"
-          },
-          {
-            "title": "সারোগেসিতে ইচ্ছুকদের বয়স, স্বাস্থ্য যাচাই করা ম্যাজিস্ট্রেটের কাজ নয়: কলকাতা হাই কোর্ট! দম্পতির আবেদনে সায় - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUTVQeTRUYzFrXzFIUXp0WDNnRFVycksyRzR2NXhpNERDQkRCUGJ4X1gxMUJfci1NRm13eHIwTzloT3VnY0JxM2R5MUVWdnFOUVRZcVUwWU9BWG1sTmtnN2ZGWjk4ZlFjYXNYSWVKSWs2MGJsdkNuYkZQWFB1WUs1b3ctSkp4LXY2V3Fyai0zUzg5bDJQR0oxUDFwUTg4VjRSR1VtbndNSVNqRmxYMTBONmtJT1FyejBmbGlYdDNRcjN2ajcwWFBiSkQyY2xqSWctV1FDN2JqdUJHWWhrRURSZ1FB0gHnAUFVX3lxTE5MODNETFRKTVRSb2ZKa0dneWtWUGNoMjcxS3R0T0pFRHU0Qm9hWTlPbjlfdkhiOHI5Q28xNU5aU016S05xN0JwcmV2TXJXSVRNQU5vcVk5dmhlYTB1QzRWNmswSktXZC1uME5meUV2TXRzV095YUdRWVRDRDJmc1hOQ0JjVWFNaWNEMXp3R3k1VHBicV9TMk1ZOVFsTEQ1eUVyLVZIZy1nem1KOU1tbG9URHF0ejhqM2VYNFV6N0l2MW9KTlAyazNYSXp3NV9ib2U1RDBQZkdRN3NqVjBQdDAtMThXZEI4SQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-31T05:23:36+00:00"
-          },
-          {
-            "title": "স্পেন সীমান্তে উত্তেজনা, মরক্কো থেকে সাঁতরে ঢুকলেন হাজার হাজার মানুষ, ডুবেও গেলেন অনেকে! ভাইরাল ভিডিয়ো - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3g5WGdjOG5qaE9QbFk2SVdXcnpJVF9IbE1ZWlBRYWtZS09TRTFFMUlTRExSSl9OV1BHUDQyQWhxX1BfX3E0MjFDYkczV21UR25yVkNWN2xzTnlBVFdXamNCZlBFN3VpRGJYT2Z2dnJtc0ZMZXJBTzBsT2x5aktzT0d5WHVKTUNUNHJwUkg5NmZiUndkSlR1N0p5RUg5NE9VU0xRbUpUdm1WaWFwNTBIRUZ1VVZabWNaN051Y0g2aWJ6Q1lUQ0p4aVFTcFJLbWFkU3lXWG9TSVBNVlVD0gHiAUFVX3lxTE5kdC1jaUpmWXJsckRfc05NeDJqanN1ckxrRExDaTRXTzR1cldoVmg5Uy1LLU1OTUppeE9Da0xlNDVRSUpQRmUwTFFGNUhmUlVGUGpPQ09TWnc2Rzhjd0I5NTYxX25BV2ZTUy14eE1za2dKN3htOGhYNWh3eDNfQm5uT3hLTW1EcHJzcVNLZTFjQ1N2VDBxNzdDVk5sZ3ZYdWtWbms3RmlXVVZvSXRNYUtGZVN5U0dkbldRSEFwdHA4azUtYTAxYWpVVnVrVmljczN3M1BLSFZfNDNBVWJ5YURsMlE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-07-31T05:11:10+00:00"
           }
         ]
       }
