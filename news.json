@@ -1,116 +1,179 @@
 {
-  "updated_at": "2026-08-02T05:05:15.158073+00:00",
+  "updated_at": "2026-08-02T05:41:47.605629+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+            "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+            "published": "2026-08-02T05:40:42+00:00"
+          },
+          {
+            "title": "Alexandra Eala Stuns Naomi Osaka To Book Washington Final Against Jessica Pegula",
+            "link": "https://sports.ndtv.com/tennis/alexandra-eala-stuns-osaka-to-book-washington-final-against-jessica-pegula-11854697#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Alexandra Eala delivered an impressive victory over the four-time Grand Slam winner from Japan to reach her second WTA final, having lost her first last year at Eastbourne.",
+            "published": "2026-08-02T11:03:26+05:30"
+          },
+          {
+            "title": "RTI activist seeks inquiry into how Abhijeet Dipke's father funded his US education",
+            "link": "https://www.hindustantimes.com/india-news/rti-activist-seeks-inquiry-into-how-cjp-founder-abhijeet-dipke-father-funded-his-us-education-legal-aid-fund-kapil-sibal-101785644431702.html",
+            "source": "Hindustan Times",
+            "summary": "A Surat-based RTI activist has called for a probe into the CJP and the finances of founder Abhijeet Dipke's father, as well as the legal aid pledged.",
+            "published": "2026-08-02T11:00:32+05:30"
+          },
+          {
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "published": "2026-08-02T05:26:39+00:00"
+          },
+          {
+            "title": "UKSSSC paper leak: ED attaches assets, alleges accused pocketed ₹95 lakh",
+            "link": "https://www.hindustantimes.com/india-news/uksssc-paper-leak-ed-attaches-assets-alleges-accused-pocketed-95-lakh-101785648137770.html",
+            "source": "Hindustan Times",
+            "summary": "The agency said its investigation found that the accused received around ₹95 lakh from candidates and attempted to project the proceeds as legitimate income.",
+            "published": "2026-08-02T10:56:28+05:30"
+          },
+          {
+            "title": "Kerala heavy rains LIVE: Kerala braces for the possibility of heavy rains today",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rain-weather-live-updates-imd-forecast-monsoon-red-orange-alert-august-2-2026/article71297190.ece",
+            "source": "The Hindu",
+            "summary": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation",
+            "published": "2026-08-02T10:55:51+05:30"
+          },
+          {
+            "title": "Xabi Alonso Welcomes Mykhailo Mudryk's Chelsea Return After Doping Ban",
+            "link": "https://sports.ndtv.com/football/xabi-alonso-welcomes-mykhailo-mudryks-chelsea-return-after-doping-ban-11854415#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Mykhailo Mudryk was cleared on Friday to resume his career after the Football Association and the World Anti-Doping Agency \"resolved his appeal\".",
+            "published": "2026-08-02T10:53:09+05:30"
+          },
+          {
+            "title": "'Bit by bit, Pak eroded India's faith': Envoy Vinay Mohan Kwatra on IWT pause",
+            "link": "https://timesofindia.indiatimes.com/india/dismantle-terror-infrastructure-first-indias-us-envoy-hits-out-at-pakistan-over-indus-waters-treaty/articleshow/132800761.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-02T10:48:18+05:30"
+          },
+          {
+            "title": "Lionel Messi's MLS Comeback Ends In Frustration As Inter Miami Held By Columbus Crew",
+            "link": "https://sports.ndtv.com/football/lionel-messis-mls-comeback-ends-in-frustration-as-inter-miami-held-by-columbus-crew-11854672#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Lionel Messi returned to Major League Soccer action after World Cup duty on Saturday, coming on in the second half as his Inter Miami side drew 2-2 with Columbus Crew.",
+            "published": "2026-08-02T10:46:53+05:30"
+          },
+          {
+            "title": "Three Instagram accounts face FIR over 'derogatory' posts targeting Rahul Gandhi",
+            "link": "https://www.hindustantimes.com/india-news/bengaluru-cyber-crime-three-instagram-accounts-face-fir-over-derogatory-posts-targeting-rahul-gandhi-101785646918282.html",
+            "source": "Hindustan Times",
+            "summary": "The complainant alleged that the content was intended to tarnish the reputation and public image of the senior Congress leader.",
+            "published": "2026-08-02T10:43:40+05:30"
+          },
+          {
+            "title": "Can ‘floating’ solar boost India’s renewable energy uptake? | Explained",
+            "link": "https://www.thehindu.com/sci-tech/science/can-floating-solar-boost-indias-renewable-energy-uptake-explained/article71293629.ece",
+            "source": "The Hindu",
+            "summary": "With land increasingly scarce and storage becoming crucial, here’s why India is looking to its vast reservoirs for the next phase of solar expansion",
+            "published": "2026-08-02T10:43:31+05:30"
+          },
+          {
+            "title": "Domestic Help Arrested For Theft In Delhi, Diamond Rings, Cash Recovered",
+            "link": "https://www.ndtv.com/delhi-news/domestic-help-arrested-for-theft-in-delhi-diamond-rings-cash-recovered-11854777#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Delhi Police arrested domestic help for theft, recover two diamond rings and cash.",
+            "published": "2026-08-02T10:40:58+05:30"
+          },
+          {
             "title": "Pretorius the all-round star as Amazon Warriors defend 85 for back-to-back GSL titles",
             "link": "https://www.cricinfo.com/ci/content/story/1548416.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Never before has such a low first-innings total - Guyana Amazon Warriors put up 85 after opting to bat - been defended in a T20 tournament final",
-            "published": "2026-08-02T04:58:30+00:00"
+            "published": "2026-08-02T05:05:49+00:00"
           },
           {
-            "title": "Maharashtra’s anti-conversion law takes effect",
-            "link": "https://www.hindustantimes.com/india-news/maharashtras-anti-conversion-law-takes-effect-101785645743388.html",
-            "source": "Hindustan Times",
-            "summary": "The gazette was published after the legislation was approved by President Droupadi Murmu on July 17, paving the way for its implementation in the state.",
-            "published": "2026-08-02T10:25:20+05:30"
-          },
-          {
-            "title": "Parents save on school uniforms at city swap shop",
-            "link": "https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Parents take home school uniform for free at a pop-up that organisers hope can become a regular event.",
-            "published": "2026-08-02T04:53:43+00:00"
-          },
-          {
-            "title": "Train services affected due to landslips on tracks between Yedakumari and Shirvagilu stations",
-            "link": "https://www.thehindu.com/news/national/karnataka/train-services-affected-due-to-landslips-on-tracks-between-yedakumari-and-shirvagilu-stations/article71297126.ece",
-            "source": "The Hindu",
-            "summary": "A relief material train reached the affected spot to assist in the restoration operations.",
-            "published": "2026-08-02T10:16:42+05:30"
-          },
-          {
-            "title": "IND vs SL: Warm-up match reduced from four days to three ahead of Test series",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-warm-up-match-reduced-from-four-days-to-three-ahead-of-test-series/articleshow/132800514.cms",
-            "source": "Times of India",
-            "summary": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
-            "published": "2026-08-02T10:14:41+05:30"
-          },
-          {
-            "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.",
-            "published": "2026-08-02T04:34:19+00:00"
-          },
-          {
-            "title": "Just Like That: What matrimonial ads tell us about India",
-            "link": "https://www.hindustantimes.com/india-news/just-like-that-what-matrimonial-ads-tell-us-about-india-101785643436995.html",
-            "source": "Hindustan Times",
-            "summary": "An analysis of Indian matrimonial ads shows how caste, colour, class and technology continue to define arranged marriages in modern India.",
-            "published": "2026-08-02T10:03:55+05:30"
-          },
-          {
-            "title": "Space junk crisis worsens as over a tonne of debris falls to Earth every week",
-            "link": "https://timesofindia.indiatimes.com/science/space-junk-crisis-worsens-as-over-a-tonne-of-debris-falls-to-earth-every-week-report/articleshow/132800385.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-02T10:03:48+05:30"
-          },
-          {
-            "title": "'We're very aligned': Joe Root reveals why Fleming won him over instantly",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/were-very-aligned-joe-root-reveals-why-stephen-fleming-won-him-over-instantly/articleshow/132800440.cms",
-            "source": "Times of India",
-            "summary": "Joe Root expressed enthusiasm for leading England's Test team again. He cited incoming coach Stephen Fleming as a key reason for his excitement. Fleming's vision has Root looking forward to the team's future prospects. Root also acknowledged the positive impact of Brendon McCullum and Ben Stokes. England's next assignment is a home series against Pakistan in August.",
-            "published": "2026-08-02T10:03:04+05:30"
-          },
-          {
-            "title": "Japan earthquake aftermath: Woman dies of heat stroke in parked car; toll rises to 36",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-earthquake-aftermath-woman-dies-of-heat-stroke-in-parked-car-toll-rises-to-36/articleshow/132800396.cms",
-            "source": "Times of India",
-            "summary": "An elderly woman died from heat stroke while sheltering in her car after a massive earthquake. Authorities are warning of growing heat-related risks for evacuees amid sweltering temperatures. Thousands remain displaced, with many sleeping in cars or outside their homes for privacy. Temperatures are climbing, raising fears of further heat-related illnesses among survivors. The government is rushing essential supplies…",
-            "published": "2026-08-02T09:55:41+05:30"
-          },
-          {
-            "title": "Kerala braces for the possibility of heavy rains on August 2",
-            "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-braces-for-the-possibility-of-heavy-rains-on-august-2/article71297154.ece",
-            "source": "The Hindu",
-            "summary": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
-            "published": "2026-08-02T09:55:34+05:30"
-          },
-          {
-            "title": "Eggs vs Paneer vs Whey: Who Really Wins India's Protein Math?",
-            "link": "https://www.ndtv.com/business-news/india-whey-protein-supplements-market-fssai-economics-healthcare-nutrition-11847519#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "India's protein supplements market was valued at roughly Rs 7,461 crore in 2024. It's projected to hit Rs 13,186 crore by 2033.",
-            "published": "2026-08-02T09:52:53+05:30"
-          },
-          {
-            "title": "They Went To J&K From Chhattisgarh To Earn Money For Family, Got Killed By Terrorists",
-            "link": "https://www.ndtv.com/india-news/kulgam-terrorist-attack-they-went-to-jammu-and-kashmir-from-chhattisgarh-to-earn-money-for-family-got-killed-by-terrorists-11854711#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The duo, both in their 20s, were gunned down at the brick kiln where they were employed in the Kelam area of south Kashmir's Kulgam district late on Friday evening.",
-            "published": "2026-08-02T09:52:40+05:30"
-          },
-          {
-            "title": "Arrested terror suspect had planned to infiltrate CJP protest, says West Bengal Special Task Force",
-            "link": "https://www.thehindu.com/news/national/arrested-terror-suspect-had-planned-to-infiltrate-cjp-protest-says-west-bengal-special-task-force/article71294686.ece",
-            "source": "The Hindu",
-            "summary": "Police say Hamim Mondal was tasked with studying CM Suvendu Adhikari’s movements to find vulnerabilities in his security",
-            "published": "2026-08-02T09:51:20+05:30"
+            "title": "Thomas Muller Scores Late Penalty As Vancouver Whitecaps Rally For 1-1 Draw Against LAFC",
+            "link": "https://sports.ndtv.com/football/thomas-muller-scores-late-penalty-as-vancouver-whitecaps-rally-for-1-1-draw-against-lafc-11854653#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Thomas Muller scored on a penalty kick late in the second half as the Vancouver Whitecaps battled back for a 1-1 draw with Los Angeles FC on Saturday night.",
+            "published": "2026-08-02T10:35:27+05:30"
           }
         ],
         "India": [
           {
+            "title": "RTI activist seeks inquiry into how Abhijeet Dipke's father funded his US education",
+            "link": "https://www.hindustantimes.com/india-news/rti-activist-seeks-inquiry-into-how-cjp-founder-abhijeet-dipke-father-funded-his-us-education-legal-aid-fund-kapil-sibal-101785644431702.html",
+            "source": "Hindustan Times",
+            "summary": "A Surat-based RTI activist has called for a probe into the CJP and the finances of founder Abhijeet Dipke's father, as well as the legal aid pledged.",
+            "published": "2026-08-02T11:00:32+05:30"
+          },
+          {
+            "title": "UKSSSC paper leak: ED attaches assets, alleges accused pocketed ₹95 lakh",
+            "link": "https://www.hindustantimes.com/india-news/uksssc-paper-leak-ed-attaches-assets-alleges-accused-pocketed-95-lakh-101785648137770.html",
+            "source": "Hindustan Times",
+            "summary": "The agency said its investigation found that the accused received around ₹95 lakh from candidates and attempted to project the proceeds as legitimate income.",
+            "published": "2026-08-02T10:56:28+05:30"
+          },
+          {
+            "title": "Kerala heavy rains LIVE: Kerala braces for the possibility of heavy rains today",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rain-weather-live-updates-imd-forecast-monsoon-red-orange-alert-august-2-2026/article71297190.ece",
+            "source": "The Hindu",
+            "summary": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation",
+            "published": "2026-08-02T10:55:51+05:30"
+          },
+          {
+            "title": "'Bit by bit, Pak eroded India's faith': Envoy Vinay Mohan Kwatra on IWT pause",
+            "link": "https://timesofindia.indiatimes.com/india/dismantle-terror-infrastructure-first-indias-us-envoy-hits-out-at-pakistan-over-indus-waters-treaty/articleshow/132800761.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-02T10:48:18+05:30"
+          },
+          {
+            "title": "Three Instagram accounts face FIR over 'derogatory' posts targeting Rahul Gandhi",
+            "link": "https://www.hindustantimes.com/india-news/bengaluru-cyber-crime-three-instagram-accounts-face-fir-over-derogatory-posts-targeting-rahul-gandhi-101785646918282.html",
+            "source": "Hindustan Times",
+            "summary": "The complainant alleged that the content was intended to tarnish the reputation and public image of the senior Congress leader.",
+            "published": "2026-08-02T10:43:40+05:30"
+          },
+          {
+            "title": "Can ‘floating’ solar boost India’s renewable energy uptake? | Explained",
+            "link": "https://www.thehindu.com/sci-tech/science/can-floating-solar-boost-indias-renewable-energy-uptake-explained/article71293629.ece",
+            "source": "The Hindu",
+            "summary": "With land increasingly scarce and storage becoming crucial, here’s why India is looking to its vast reservoirs for the next phase of solar expansion",
+            "published": "2026-08-02T10:43:31+05:30"
+          },
+          {
+            "title": "Domestic Help Arrested For Theft In Delhi, Diamond Rings, Cash Recovered",
+            "link": "https://www.ndtv.com/delhi-news/domestic-help-arrested-for-theft-in-delhi-diamond-rings-cash-recovered-11854777#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Delhi Police arrested domestic help for theft, recover two diamond rings and cash.",
+            "published": "2026-08-02T10:40:58+05:30"
+          },
+          {
+            "title": "CPI(M) leaders criticise Kerala CM over attending events during rain disaster",
+            "link": "https://www.hindustantimes.com/india-news/cpim-leaders-criticise-kerala-cm-over-attending-events-during-rain-disaster-101785647062849.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-08-02T10:34:22+05:30"
+          },
+          {
             "title": "Maharashtra’s anti-conversion law takes effect",
             "link": "https://www.hindustantimes.com/india-news/maharashtras-anti-conversion-law-takes-effect-101785645743388.html",
             "source": "Hindustan Times",
             "summary": "The gazette was published after the legislation was approved by President Droupadi Murmu on July 17, paving the way for its implementation in the state.",
             "published": "2026-08-02T10:25:20+05:30"
+          },
+          {
+            "title": "Terror Suspect Had Jantar Mantar Plot. Girlfriend's Social Media Exposed Him",
+            "link": "https://www.ndtv.com/india-news/terror-suspect-planned-to-target-cjp-protest-worked-for-pak-handlers-bengal-task-force-11854771#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Hamim Mondal was also tasked by his handlers in Pakistan to keep a watch on the chief minister's movements, according to the STF.",
+            "published": "2026-08-02T10:23:55+05:30"
           },
           {
             "title": "Train services affected due to landslips on tracks between Yedakumari and Shirvagilu stations",
@@ -125,72 +188,30 @@
             "source": "Times of India",
             "summary": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
             "published": "2026-08-02T10:14:41+05:30"
-          },
-          {
-            "title": "Just Like That: What matrimonial ads tell us about India",
-            "link": "https://www.hindustantimes.com/india-news/just-like-that-what-matrimonial-ads-tell-us-about-india-101785643436995.html",
-            "source": "Hindustan Times",
-            "summary": "An analysis of Indian matrimonial ads shows how caste, colour, class and technology continue to define arranged marriages in modern India.",
-            "published": "2026-08-02T10:03:55+05:30"
-          },
-          {
-            "title": "Space junk crisis worsens as over a tonne of debris falls to Earth every week",
-            "link": "https://timesofindia.indiatimes.com/science/space-junk-crisis-worsens-as-over-a-tonne-of-debris-falls-to-earth-every-week-report/articleshow/132800385.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-02T10:03:48+05:30"
-          },
-          {
-            "title": "'We're very aligned': Joe Root reveals why Fleming won him over instantly",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/were-very-aligned-joe-root-reveals-why-stephen-fleming-won-him-over-instantly/articleshow/132800440.cms",
-            "source": "Times of India",
-            "summary": "Joe Root expressed enthusiasm for leading England's Test team again. He cited incoming coach Stephen Fleming as a key reason for his excitement. Fleming's vision has Root looking forward to the team's future prospects. Root also acknowledged the positive impact of Brendon McCullum and Ben Stokes. England's next assignment is a home series against Pakistan in August.",
-            "published": "2026-08-02T10:03:04+05:30"
-          },
-          {
-            "title": "Japan earthquake aftermath: Woman dies of heat stroke in parked car; toll rises to 36",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-earthquake-aftermath-woman-dies-of-heat-stroke-in-parked-car-toll-rises-to-36/articleshow/132800396.cms",
-            "source": "Times of India",
-            "summary": "An elderly woman died from heat stroke while sheltering in her car after a massive earthquake. Authorities are warning of growing heat-related risks for evacuees amid sweltering temperatures. Thousands remain displaced, with many sleeping in cars or outside their homes for privacy. Temperatures are climbing, raising fears of further heat-related illnesses among survivors. The government is rushing essential supplies…",
-            "published": "2026-08-02T09:55:41+05:30"
-          },
-          {
-            "title": "Kerala braces for the possibility of heavy rains on August 2",
-            "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-braces-for-the-possibility-of-heavy-rains-on-august-2/article71297154.ece",
-            "source": "The Hindu",
-            "summary": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
-            "published": "2026-08-02T09:55:34+05:30"
-          },
-          {
-            "title": "Eggs vs Paneer vs Whey: Who Really Wins India's Protein Math?",
-            "link": "https://www.ndtv.com/business-news/india-whey-protein-supplements-market-fssai-economics-healthcare-nutrition-11847519#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "India's protein supplements market was valued at roughly Rs 7,461 crore in 2024. It's projected to hit Rs 13,186 crore by 2033.",
-            "published": "2026-08-02T09:52:53+05:30"
-          },
-          {
-            "title": "They Went To J&K From Chhattisgarh To Earn Money For Family, Got Killed By Terrorists",
-            "link": "https://www.ndtv.com/india-news/kulgam-terrorist-attack-they-went-to-jammu-and-kashmir-from-chhattisgarh-to-earn-money-for-family-got-killed-by-terrorists-11854711#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The duo, both in their 20s, were gunned down at the brick kiln where they were employed in the Kelam area of south Kashmir's Kulgam district late on Friday evening.",
-            "published": "2026-08-02T09:52:40+05:30"
-          },
-          {
-            "title": "Arrested terror suspect had planned to infiltrate CJP protest, says West Bengal Special Task Force",
-            "link": "https://www.thehindu.com/news/national/arrested-terror-suspect-had-planned-to-infiltrate-cjp-protest-says-west-bengal-special-task-force/article71294686.ece",
-            "source": "The Hindu",
-            "summary": "Police say Hamim Mondal was tasked with studying CM Suvendu Adhikari’s movements to find vulnerabilities in his security",
-            "published": "2026-08-02T09:51:20+05:30"
-          },
-          {
-            "title": "'Questions will be asked': Ex-India star's message for Gautam Gambhir",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/questions-will-be-asked-ex-india-stars-message-for-gautam-gambhir-before-sri-lanka-tests/articleshow/132800318.cms",
-            "source": "Times of India",
-            "summary": "Former India wicketkeeper Deep Dasgupta anticipates pressure on coach Gautam Gambhir and captain Shubman Gill. India has lost recent Test series, and this Sri Lanka tour is crucial. The team needs to show clear direction during this transition period. Winning seven out of nine remaining Tests is vital for WTC final hopes. Dasgupta stressed that no Test series can be taken lightly by India.",
-            "published": "2026-08-02T09:50:09+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+            "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+            "published": "2026-08-02T05:40:42+00:00"
+          },
+          {
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "published": "2026-08-02T05:26:39+00:00"
+          },
+          {
+            "title": "Three dead including female bomber in Moscow restaurant attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
+            "published": "2026-08-02T04:44:55+00:00"
+          },
           {
             "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Fatalities reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.",
             "published": "2026-08-02T01:26:44+00:00"
-          },
-          {
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-            "published": "2026-08-02T00:55:16+00:00"
-          },
-          {
-            "title": "Hungary plans to shut down only nuclear power plant amid drought",
-            "link": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
-            "published": "2026-08-02T00:49:25+00:00"
-          },
-          {
-            "title": "Tourist plane crashes in Peru, killing 13",
-            "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-            "published": "2026-08-02T00:29:55+00:00"
           }
         ],
         "Business": [
@@ -364,11 +364,60 @@
         ],
         "Sports": [
           {
+            "title": "Alexandra Eala Stuns Naomi Osaka To Book Washington Final Against Jessica Pegula",
+            "link": "https://sports.ndtv.com/tennis/alexandra-eala-stuns-osaka-to-book-washington-final-against-jessica-pegula-11854697#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Alexandra Eala delivered an impressive victory over the four-time Grand Slam winner from Japan to reach her second WTA final, having lost her first last year at Eastbourne.",
+            "published": "2026-08-02T11:03:26+05:30"
+          },
+          {
+            "title": "Xabi Alonso Welcomes Mykhailo Mudryk's Chelsea Return After Doping Ban",
+            "link": "https://sports.ndtv.com/football/xabi-alonso-welcomes-mykhailo-mudryks-chelsea-return-after-doping-ban-11854415#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Mykhailo Mudryk was cleared on Friday to resume his career after the Football Association and the World Anti-Doping Agency \"resolved his appeal\".",
+            "published": "2026-08-02T10:53:09+05:30"
+          },
+          {
+            "title": "Lionel Messi's MLS Comeback Ends In Frustration As Inter Miami Held By Columbus Crew",
+            "link": "https://sports.ndtv.com/football/lionel-messis-mls-comeback-ends-in-frustration-as-inter-miami-held-by-columbus-crew-11854672#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Lionel Messi returned to Major League Soccer action after World Cup duty on Saturday, coming on in the second half as his Inter Miami side drew 2-2 with Columbus Crew.",
+            "published": "2026-08-02T10:46:53+05:30"
+          },
+          {
             "title": "Pretorius the all-round star as Amazon Warriors defend 85 for back-to-back GSL titles",
             "link": "https://www.cricinfo.com/ci/content/story/1548416.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Never before has such a low first-innings total - Guyana Amazon Warriors put up 85 after opting to bat - been defended in a T20 tournament final",
-            "published": "2026-08-02T04:58:30+00:00"
+            "published": "2026-08-02T05:05:49+00:00"
+          },
+          {
+            "title": "Thomas Muller Scores Late Penalty As Vancouver Whitecaps Rally For 1-1 Draw Against LAFC",
+            "link": "https://sports.ndtv.com/football/thomas-muller-scores-late-penalty-as-vancouver-whitecaps-rally-for-1-1-draw-against-lafc-11854653#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Thomas Muller scored on a penalty kick late in the second half as the Vancouver Whitecaps battled back for a 1-1 draw with Los Angeles FC on Saturday night.",
+            "published": "2026-08-02T10:35:27+05:30"
+          },
+          {
+            "title": "Robert Lewandowski Scores Brace on Dream Home Debut as Chicago Fire Beat Charlotte FC 2-1. Watch",
+            "link": "https://sports.ndtv.com/football/robert-lewandowski-scores-brace-on-dream-home-debut-as-chicago-fire-beat-charlotte-fc-2-1-watch-11854562#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Robert Lewandowski scored two goals, including the winner, in his home debut for the Fire, helping Chicago beat Charlotte FC 2-1 on Saturday.",
+            "published": "2026-08-02T10:27:48+05:30"
+          },
+          {
+            "title": "Fresh Twist In Hardik Pandya Trade, Mumbai Indians Deny Talks With CSK",
+            "link": "https://sports.ndtv.com/cricket/fresh-twist-in-hardik-pandya-trade-mumbai-indians-deny-talks-with-csk-11854801#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Hardik Pandya's trade to CSK has long been talked about, but the Mumbai Indians have denied holding discussions with MS Dhoni's franchise.",
+            "published": "2026-08-02T10:23:05+05:30"
+          },
+          {
+            "title": "Retired Ajinkya Rahane To Receive Fixed Monthly Pension From BCCI. Here's How Much",
+            "link": "https://sports.ndtv.com/cricket/retired-ajinkya-rahane-to-receive-fixed-monthly-pension-from-bcci-heres-how-much-11854657#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Ajinkya Rahane, a veteran of 85 Tests, 90 ODIs, and 20 T20Is, set to earn BCCI's top-bracket pension after retirement.",
+            "published": "2026-08-02T09:16:19+05:30"
           },
           {
             "title": "Commonwealth Games 2026: How India Can Add 7 More Medals To Tally Of 39 On Final Day",
@@ -397,58 +446,16 @@
             "source": "NDTV Sports",
             "summary": "The Indian cricket team, after a brief break, will again embark on a Test mission with the Sri Lanka series that starts on August 15.",
             "published": "2026-08-02T06:37:52+05:30"
-          },
-          {
-            "title": "CWG 2026 India Schedule, Day 11: Last Chance For India To Touch 40-Medal Tally",
-            "link": "https://sports.ndtv.com/othersports/cwg-2026-india-schedule-day-11-last-chance-for-india-to-touch-40-medal-tally-11853962#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "CWG 2026 India Schedule, Day 11: It's the last day of the Commonwealth Games. After an action-packed two days for India at the marquee event, today is the last chance to take the medal tally to 40.",
-            "published": "2026-08-02T06:32:25+05:30"
-          },
-          {
-            "title": "Ahmedabad's Date With History: CWG Baton, Flag To Be Handed Over In Glasgow",
-            "link": "https://sports.ndtv.com/othersports/ahmedabads-date-with-history-cwg-baton-flag-to-be-handed-over-in-glasgow-11853834#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The 2030 edition in Ahmedabad will also coincide with the centenary of the Commonwealth Games, the first edition of which was held in Hamilton, Canada, in 1930.",
-            "published": "2026-08-02T06:23:37+05:30"
-          },
-          {
-            "title": "Jofra Archer hits mark in vital Southern Brave win",
-            "link": "https://www.cricinfo.com/ci/content/story/1548403.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Spirit battle in defence of 105 but David Miller steers visitors over line",
-            "published": "2026-08-01T20:43:05+00:00"
-          },
-          {
-            "title": "Commonwealth Games 2026 Highlights | Day 10 CWG 2026 India Medal Tally: India Win Record 7 Boxing Golds; Medal Rush Sees Tally Touch 39",
-            "link": "https://sports.ndtv.com/othersports/commonwealth-games-2026-day-10-live-updates-india-medal-tally-boxing-finals-athletics-judo-results-lovlina-borgohain-11851907#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Commonwealth Games 2026 Updates, Day 10 CWG 2026 India Medal Tally: India's dream run in boxing at CWG 2026 concluded with seven gold medals and three silver medals, as the nation bagged a total of 16 medals on Day 10.",
-            "published": "2026-08-02T02:07:10+05:30"
-          },
-          {
-            "title": "10 Medals - 7 Gold, 3 Silver: Indian Boxers Achieve Historic High At Commonwealth Games 2026",
-            "link": "https://sports.ndtv.com/boxing/india-script-history-achieve-record-first-as-boxers-win-5-gold-medals-at-commonwealth-games-2026-11853811#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Indian women boxers lived up to their billing with five gold medals while Sachin Siwach and Ankush Panghal sealed men's titles as the country produced its best-ever performance at the Commonwealth Games",
-            "published": "2026-08-02T02:00:12+05:30"
-          },
-          {
-            "title": "India's Updated CWG 2026 Medal Tally As Boxers Spark Gold Rush",
-            "link": "https://sports.ndtv.com/othersports/indias-updated-cwg-2026-medal-tally-as-boxers-spark-gold-rush-11854007#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Boxers have taken India's medal tally to 39 at the ongoing Commonwealth Games 2026",
-            "published": "2026-08-02T01:59:21+05:30"
-          },
-          {
-            "title": "Gulveer Singh Achieves Historic First For India With Second Medal At CWG 2026",
-            "link": "https://sports.ndtv.com/athletics/gulveer-singh-achieves-historic-first-for-india-with-second-medal-at-cwg-2026-11854224#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Gulveer Singh, on Saturday, scripted history as he became the first Indian to win a 5000m medal in the Commonwealth Games with a bronze as well as the first track and field athlete from the country to win two medals in a single edition of the Games",
-            "published": "2026-08-02T01:54:45+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "OnePlus N6x vs iQOO Z11 Lite vs Oppo K14x 5G: Price in India, Specifications and Features Compared",
+            "link": "https://www.gadgets360.com/mobiles/features/oneplus-n6x-vs-iqoo-z11-lite-vs-oppo-k14x-5g-price-in-india-specifications-features-comparison-11849178",
+            "source": "Gadgets 360",
+            "summary": "OnePlus N6x has entered India's budget 5G smartphone segment, taking on the iQOO Z11 Lite and Oppo K14x 5G. While all three devices feature HD LCD displays with 120Hz refresh rates and large batteries, they differ in performance, cameras, software and charging speeds. The OnePlus model prioritises battery capacity, the iQOO handset offers a brighter display and expandable storage, and the Oppo phone stands out with…",
+            "published": "2026-08-02T10:00:08+05:30"
+          },
           {
             "title": "Top Phones Under Rs. 50,000 in India: Samsung Galaxy A37, Motorola Edge 70 Pro+ and More",
             "link": "https://www.gadgets360.com/mobiles/features/best-phones-under-rs-50000-samsung-galaxy-a37-motorola-edge-70-pro-plus-vivo-v70-11844230",
@@ -525,18 +532,11 @@
             "source": "Gadgets 360",
             "summary": "Sony has said it will \"cautiously\" move forward with its plan to end physical game disc production in 2028. During its latest earnings call, the company acknowledged backlash from users, but said it would press ahead with its plan. Sony announced this month it would stop making physical discs for new PlayStation games starting January 2028.",
             "published": "2026-07-31T19:14:22+05:30"
-          },
-          {
-            "title": "Samsung Galaxy S26 FE Camera Specifications Leaked Ahead of Expected Launch, May Reuse Its Predecessor's Main Rear Camera",
-            "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s26-fe-internal-codename-camera-rear-sensor-specifications-report-11848911",
-            "source": "Gadgets 360",
-            "summary": "Samsung Galaxy S26 FE is expected to go official in September. A new leak suggests that Samsung is sticking with an unchanged main rear camera on the new phone. It could use the same 50-megapixel Samsung ISOCELL S5KGN3 main sensor and 8-megapixel OmniVision OV08A1 telephoto sensor as the Galaxy S25 FE. The phone could use either a 12-megapixel GalaxyCore GC12A2 or a 12-megapixel Sony IMX825 sensor as the ultrawide…",
-            "published": "2026-07-31T19:11:23+05:30"
           }
         ],
         "Entertainment": [
           {
-            "title": "Wicker Man sequel director Justin Hardy dies aged 61",
+            "title": "Son of Wicker Man maker dies just weeks before his sequel to film premieres",
             "link": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement.",
@@ -627,6 +627,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'ट्रंप के थूक को माथे से लगाया', कौन हैं मोदी के बारे में भद्दी कहानी सुनाने वाला लड़का सुजल? अब मांग रहा माफी",
+            "link": "https://hindi.oneindia.com/news/india/cjp-protester-jantar-mantar-sujal-apologizes-for-remarks-on-pm-modi-trump-1621113.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-02T11:11:35+05:30"
+          },
+          {
+            "title": "UP: छात्र के पास मिले कागज पर लिखा बम बनाने का तरीका, रसायनों के विवरण का भी जिक्र; फोन में धमाका करने की रील",
+            "link": "https://www.amarujala.com/lucknow/reels-on-making-and-detonating-bombs-were-found-on-the-student-s-mobile-phone-in-ayodhya-2026-08-02",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-02T10:55:06+05:30"
+          },
+          {
+            "title": "गंजे हो गए हार्दिक पांड्या? कटे हुए बाल और धोती पहने नया लुक आया सामने, क्यों बदल लिया अपना अवतार?",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/hardik-pandya-visited-tirumala-venkateswara-temple-in-traditional-look-video-goes-viral-1621099.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-02T10:38:56+05:30"
+          },
+          {
+            "title": "वह दिन जब निधि (बदला हुआ नाम) ने गिनना छोड़ दिया",
+            "link": "https://hindi.oneindia.com/news/india/anganwadi-children-solve-water-problem-collaborative-learning-story-1620269.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-02T10:31:38+05:30"
+          },
+          {
             "title": "जब एक लड़की उड़ान भरती है तो वह सिर्फ़ अपने लिए नहीं उड़ती, वह दूसरों के लिए भी आसमान खोल देती है।",
             "link": "https://hindi.oneindia.com/news/india/farzanas-journey-girls-education-rural-india-overcoming-challenges-inspiring-story-1621095.html",
             "source": "Oneindia Hindi",
@@ -639,6 +667,20 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-08-02T04:59:47+00:00"
+          },
+          {
+            "title": "‘आग में घी डालना बंद करें…’ ऋतिक रोशन पर भड़कीं कंगना रनौत, बोलीं- आप एक कमिटेड रिलेशनशिप में हैं",
+            "link": "https://www.amarujala.com/entertainment/bollywood/kangana-ranaut-slam-hrithik-roshan-amid-cjp-row-share-post-and-says-you-are-committed-dont-tease-a-woman-2026-08-02",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-02T10:27:10+05:30"
+          },
+          {
+            "title": "UP: 29 लाख की उधारी न मिली वापस, हर मुराद पूरी करते थे बजरंग के बड़े भाई, वीडियो में बताया चारों मौत का कारण",
+            "link": "https://www.amarujala.com/photo-gallery/lucknow/balrampur-three-murder-and-suicide-bajrangi-took-extreme-step-of-ending-his-life-after-failing-to-recover-loan-2026-08-02",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-02T10:17:51+05:30"
           },
           {
             "title": "पिंगली वेंकैया जयंती: तिरंगे के शिल्पकार को देश का नमन, CM योगी से लेकर शाह तक; नेताओं ने ऐसे किया याद",
@@ -667,48 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-02T09:47:11+05:30"
-          },
-          {
-            "title": "Shobha Ohatkar IPS: रिटायरमेंट के बाद शोभा ओहटकर को बड़ी जिम्मेदारी; सरकार ने BSSC का अध्यक्ष बनाया",
-            "link": "https://www.amarujala.com/bihar/patna/bihar-news-the-bihar-government-appointed-shobha-ohatkar-as-the-chairperson-of-the-bssc-ips-dg-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T09:44:52+05:30"
-          },
-          {
-            "title": "इस सप्ताह कैसा रहेगा मौसम? : दिल्ली में रुक-रुककर रिमझिम बरसते रहेंगे बदरा, पढ़ें IMD का ताजा अपडेट",
-            "link": "https://www.amarujala.com/delhi-ncr/weather-update-intermittent-rain-will-continue-in-delhi-this-week-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T09:30:55+05:30"
-          },
-          {
-            "title": "'पाकिस्तान बिकता नहीं, किराए पर चलता है': रिपोर्ट में बड़ा दावा, क्या अमेरिका को उल्लू बना रहा PAK?",
-            "link": "https://www.amarujala.com/world/pakistan-us-report-terrorism-strategy-national-interest-imf-world-bank-china-cpec-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T09:08:07+05:30"
-          },
-          {
-            "title": "PM Modi: पीएम मोदी आज करेंगे नशे के खिलाफ देशव्यापी अभियान का आगाज, 10 हजार स्थानों पर एक साथ होंगे कार्यक्रम",
-            "link": "https://www.amarujala.com/india-news/pm-modi-nasha-mukt-yuva-for-viksit-bharat-sankalp-abhiyan-drug-free-india-youth-campaign-updates-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T09:00:32+05:30"
-          },
-          {
-            "title": "UP: दुबई में बैठकर यूपी में आतंकी साजिश, सरगना का प्रत्यर्पण बड़ी चुनौती; हमले के बाद प्रदेश में हाई अलर्ट",
-            "link": "https://www.amarujala.com/lucknow/terror-plot-in-up-orchestrated-from-dubai-extradition-of-mastermind-is-biggest-challenge-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T08:59:13+05:30"
-          },
-          {
-            "title": "200 करोड़ के करीब पहुंची 'स्पाइडर-मैन- ब्रांड न्यू डे', शनिवार को क्या रहा ‘द ओडिसी’ और ‘जन नायकन’ का हाल?",
-            "link": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/spider-man-brand-new-day-collection-day-4-and-the-odyssey-to-jana-nayagan-box-office-collection-2026-08-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-02T08:52:38+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "પ્રયાગરાજની NEETની વિદ્યાર્થિની પર ઇન્દોરમાં રેપ:કોચિંગ જતી વખતે લઈ ગયો, 4 દિવસ સાથે રાખી; ઇન્સ્ટાગ્રામથી દોસ્તી થઈ હતી",
+            "link": "https://www.divyabhaskar.co.in/national/news/prayagraj-neet-student-rape-indore-instagram-friendship-arrest-138609101.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-02T05:27:25+00:00"
+          },
+          {
+            "title": "ડોનાલ્ડ ટ્રમ્પે કોના કહેવા પર ઈરાન પર હુમલા બંધ કર્યા? - ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/cddjm930dv6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-02T05:22:29+00:00"
+          },
+          {
+            "title": "'એટલી શરમ આવતી કે મારું મોઢું પણ નહોતી જોઈ શકતી', ગુપ્તરોગથી પીડિત મહિલાની કહાણી",
+            "link": "https://www.bbc.com/gujarati/articles/clye3411er5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-02T05:07:01+00:00"
+          },
+          {
             "title": "RTI કાર્યકર્તાએ CJP ફંડ પર સવાલો ઉઠાવ્યા:અભિજીત દીપકેના પિતાની સંપત્તિની તપાસની માગ; ચૂંટણી પંચ-ટેક્સ અધિકારીઓને પત્ર લખ્યો",
             "link": "https://www.divyabhaskar.co.in/national/news/abhijeet-deepke-father-assets-investigation-surat-cjp-controversy-138608532.html",
             "source": "Divya Bhaskar",
@@ -816,13 +837,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-08-02T03:09:19+00:00"
-          },
-          {
-            "title": "અમેરિકાએ તેના નાગરિકોને ચેતવણી આપી, ગમે ત્યારે મધ્ય પૂર્વ છોડવા માટે તૈયાર રહો - ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/cddjm930dv6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-02T02:55:39+00:00"
           },
           {
             "title": "એક્ટર ધનુષના રાજકારણમાં પ્રવેશની અટકળો તેજ:CM વિજયના જ્યોતિષીએ કહ્યું- 2031માં વિજય અને ધનુષ વચ્ચે મુકાબલો થશે",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-01T16:00:39+00:00"
-          },
-          {
-            "title": "માંજલપુર પેટાચૂંટણીમાં ઓછું મતદાન ભાજપનો ખેલ બગાડશે કે કૉંગ્રેસને ફાયદો કરાવશે?",
-            "link": "https://www.bbc.com/gujarati/articles/cwym3rgp7ero?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-01T15:30:43+00:00"
-          },
-          {
-            "title": "ગુજરાતમાં આ જિલ્લાઓમાં જળબંબાકારની સ્થિતિ, કેટલાંક ગામો સંપર્કવિહોણાં તો ક્યાંક વીજળી ગુલ",
-            "link": "https://www.bbc.com/gujarati/articles/cgjey0j80nlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-01T15:15:49+00:00"
           }
         ]
       }
@@ -1072,6 +1072,48 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "డీలిమిటేషన్, మహిళా రిజర్వేషన్ బిల్లులపై బిగ్ ట్విస్ట్- వారి ఆశలు గల్లంతు..!!",
+            "link": "https://telugu.oneindia.com/news/india/delimitation-bill-2026-missing-from-monsoon-session-agenda-sparks-fresh-speculation-details-here-499829.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-02T10:55:34+05:30"
+          },
+          {
+            "title": "కుప్పకూలుతున్న బంగారం ధరలు- ఈ వారంలో ఇంకా తగ్గే అయ్యే ఛాన్స్?",
+            "link": "https://telugu.oneindia.com/news/business/mcx-update-as-the-gold-ends-july-with-drop-and-silver-drops-under-geopolitics-trigger-volatility-499827.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-02T10:44:14+05:30"
+          },
+          {
+            "title": "SiliconAndhra: ‘శతక శంఖారావం’తో ‘సిలికానాంధ్ర’ గిన్నిస్‌ రికార్డు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeURNQUNRTngyYmlaa1lmSmE2bUtELVBIMjYtanc0Q2wtVDhEVHZCVzZrN1NCT3FRM2tpX05Sc1pnZ0NUSUVDVFBKN2R4LUd3RTZQM2NSRzhETDBmbGxoVDYzVTdKSnhpRjhwR1pvZXN4NDV3d3RjX0dUc21RQWJSa3JyRnNiWF9WOTVKTEliV1poeWvSAZMBQVVfeXFMTnlETUFDUU54MmJpWmtZZkphNm1LRC1QSDI2LWp3NENsLVQ4RFR2Qlc2azdTQk9xUTNraV9OUnNaZ2dDVElFQ1RQSjdkeC1Hd0U2UDNjUkc4REwwZmxsaFQ2M1U3Skp4aUY4cEdab2VzeDQ1d3d0Y19HVHNtUUFiUmtyckZzYlhfVjk1SkxJYldaaHlr?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-02T05:13:56+00:00"
+          },
+          {
+            "title": "Hyderabad: నెక్లెస్‌ రోడ్‌లో 3కె రన్‌.. ఉత్సాహంగా పాల్గొన్న యువతీ, యువకులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05ZE9WQWRGM2ZkcXl3WnludEVDY0dEZW1zaWhfWHMxWUtOZkVTZVU1eEFZMS13VU82d29KVGlZZEFxdDJEcndwYVlBYWJTQ2ZlZ3UtYktYc0FqN3d4MGlnY3h4VXFBY1NaVC1qXy1yc3ZreldrLVBnSGhEODLSAXxBVV95cUxNOWRPVkFkRjNmZHF5d1p5bnRFQ2NHRGVtc2loX1hzMVlLTmZFU2VVNXhBWTEtd1VPNndvSlRpWWRBcXQyRHJ3cGFZQWFiU0NmZWd1LWJLWHNBajd3eDBpZ2N4eFVxQWNTWlQtal8tcnN2a3pXay1QZ0hoRDgy?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-02T05:09:35+00:00"
+          },
+          {
+            "title": "జైల్లో సింగర్లు, మ్యూజిక్ కాన్సర్ట్‌లు.. ట్యాక్సీలు, దుకాణాలు.. భయంకరమైన 'న్యూ బెల్' జైలు విచిత్రమైన కథ ఇది",
+            "link": "https://www.bbc.com/telugu/articles/cn4n7kl4g2yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-02T05:07:11+00:00"
+          },
+          {
+            "title": "El Nino: వర్షాల రాజధానికే వానలు కరువు! కరుణించని మేఘమాలికలు",
+            "link": "https://telugu.oneindia.com/news/india/cherrapunji-faces-50-percent-rain-deficit-as-meghalaya-monsoon-drops-significantly-amid-el-nino-effe-499825.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-02T10:36:30+05:30"
+          },
+          {
             "title": "శ్రీవారి లడ్డూ ప్రసాదం విశిష్ఠతకు అరుదైన గుర్తింపు- టీటీడీ 'బంగారం' లాంటి నిర్ణయం..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-proposes-special-gold-coin-to-celebrate-310-years-of-srivari-laddu-prasadam-here-the-details-499823.html",
             "source": "Oneindia Telugu",
@@ -1079,7 +1121,7 @@
             "published": "2026-08-02T10:08:20+05:30"
           },
           {
-            "title": "Hardik Pandya: స్నేహితురాలితో శ్రీవారిని దర్శించుకున్న హార్దిక్‌ పాండ్య - Eenadu",
+            "title": "Hardik Pandya: స్నేహితురాలితో కలసి శ్రీవారిని దర్శించుకున్న హార్దిక్‌ పాండ్య - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0JFRUhNNVFpMU5XM1hjZkZDRExQNV9MWXBsU3pHbEVMV0tMc2xRZTJUNFdWaEdNTmJqZTBrQ0lxQmt6VnU1TS1rdWo2VFBFdGZ4RVpaUlhpMEFjTG9mc1ZpMVlJLThwNXZKTjc3Yk5odmtzYlIwSXo5WFV2NHNGYTd3aTM5RDdmS1dMVHBsQkNzWFnSAZMBQVVfeXFMTTNCRUVITTVRaTFOVzNYY2ZGQ0RMUDVfTFlwbFN6R2xFTFdLTHNsUWUyVDRXVmhHTU5iamUwa0NJcUJrelZ1NU0ta3VqNlRQRXRmeEVaWlJYaTBBY0xvZnNWaTFZSS04cDV2Sk43N2JOaHZrc2JSMEl6OVhVdjRzRmE3d2kzOUQ3ZktXTFRwbEJDc1hZ?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1112,48 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-02T09:48:19+05:30"
-          },
-          {
-            "title": "Devotional Stories: స్వాగతం-సుస్వాగతం రెండూ ఒకటేనా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3FIbms5em9YMUVHMGk3MkFDX0ZZTFNzRW5Mb0M2R2ZPT0FQWFoxUmlQTjM0RGlMdDBsU0R5M0ZjTy11OU1rZ2Q0a2lIZThxMXlYeXV2RHVtU0NJWDkyQlJsQjl6Zk5JT3ptLUxxLXNGVWlQUVc5cUpKd29tZGJVelFqTVQtOVpILVRJbWEyUjFXYmJmUjV5S0dPeVZQd2I2Q3VNZmM5ONIBpwFBVV95cUxQc3FIbms5em9YMUVHMGk3MkFDX0ZZTFNzRW5Mb0M2R2ZPT0FQWFoxUmlQTjM0RGlMdDBsU0R5M0ZjTy11OU1rZ2Q0a2lIZThxMXlYeXV2RHVtU0NJWDkyQlJsQjl6Zk5JT3ptLUxxLXNGVWlQUVc5cUpKd29tZGJVelFqTVQtOVpILVRJbWEyUjFXYmJmUjV5S0dPeVZQd2I2Q3VNZmM5OA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-02T04:03:54+00:00"
-          },
-          {
-            "title": "కశ్మీర్‌‌: కాల్పుల్లో ఇద్దరు కూలీల మృతి, 'క్రూరమైన ఉగ్రదాడి'గా అభివర్ణించిన లెఫ్టినెంట్ గవర్నర్",
-            "link": "https://www.bbc.com/telugu/articles/cy4krmwgnxko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-02T04:00:06+00:00"
-          },
-          {
-            "title": "వేలాకంణి ఉత్సవాల వేళ ఏపీ మీదుగా ప్రత్యేక రైళ్లు - రూట్, షెడ్యూల్..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/railways-annonces-special-trains-between-lokmanya-tilak-velankanni-form-august-29-here-the-detai-499815.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-02T09:11:20+05:30"
-          },
-          {
-            "title": "ఎడారిలో ఘోర విమాన ప్రమాదం! మిస్టరీ ప్రదేశంలో మిస్టరీగా కూలిన ప్లేన్..",
-            "link": "https://telugu.oneindia.com/news/international/tourist-plane-crash-near-peru-nazca-lines-leaves-13-dead-including-foreign-sightseers-and-crew-499811.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-02T08:56:02+05:30"
-          },
-          {
-            "title": "e-library: క్లిక్‌ చేశారా ఈ-లైబ్రరీ తెలంగాణ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wT0RMYThFX1c3dm5QMVJqczAtUUgxMUpvNDNxelI0RC1lb1ZzdWZqSjhZaXNoZ1JEYWFRWkdpa0taSV9xTm5PZzBUZTFqbDhPM016TW1QU1k2dGV2Sk9iWG1sTGwtNm0zRE8zbzhXSFJjQkZKWEHSAXZBVV95cUxOME9ETGE4RV9XN3ZuUDFSanMwLVFIMTFKbzQzcXpSNEQtZW9Wc3Vmako4WWlzaGdSRGFhUVpHaWtLWklfcU5uT2cwVGUxamw4TzNNek1tUFNZNnRldkpPYlhtbExsLTZtM0RPM284V0hSY0JGSlhB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-02T02:57:00+00:00"
-          },
-          {
-            "title": "ఊహించని సర్‌ప్రైజ్: ఏకంగా రూ.1.09 లక్షల కోట్ల నిధుల విడుదల",
-            "link": "https://telugu.oneindia.com/news/business/tax-devolution-centre-releases-rs-1-09-lakh-crore-share-to-states-to-boost-infrastructure-projects-499809.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-02T08:11:54+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Ramya - Gen Z: ಬಿಜೆಪಿ ಸಂಸದೆ ಕಂಗನಾ ರಣಾವತ್‌ಗೆ ರಾಮ ಮಂದಿರದ, ಈ ವಿಷಯದ ಬಗ್ಗೆ ಮಾತನಾಡೋಣ ಬನ್ನಿ ಎಂದ ರಮ್ಯಾ!",
+            "link": "https://kannada.oneindia.com/news/india/ramya-targets-kangana-ranaut-over-ram-mandir-remark-let-s-talk-about-this-first-gen-z-generation-463203.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-02T10:58:34+05:30"
+          },
+          {
             "title": "Happy Friendship Day 2026: ಹ್ಯಾಪಿ ಫ್ರೆಂಡ್‌ಶಿಪ್ ಡೇ ಬ್ರೋ! 25 + ಮೆಸೇಜ್, ಶುಭಾಶಯ ಮತ್ತು ಸ್ಟೇಟಸ್ ಸಾಲುಗಳು ಇಲ್ಲಿವೆ!",
             "link": "https://kannada.oneindia.com/news/india/happy-friendship-day-2026-happy-friendship-day-bro-25-heartfelt-wishes-messages-status-lines-463201.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಸರ್ಕಾರಿ ನೌಕರರು ಮತ್ತು ಪಿಂಚಣಿದಾರರಿಗೆ ಎಂಟನೇ ವೇತನ ಆಯೋಗವು ಭರ್ಜರಿ ಸಿಹಿಸುದ್ದಿಯನ್ನು ಹೊತ್ತು ತಂದಿದೆ. ದೀರ್ಘಕಾಲದಿಂದ ಕಾಯುತ್ತಿದ್ದ ಕೇಂದ್ರ ಸರ್ಕಾರಿ ನೌಕರರಿಗೆ ಈ ಹೊಸ ವೇತನ ಆಯೋಗವು ಸಾಕಷ್ಟು ಸೌಲಭ್ಯಗಳನ್ನು ಕಲ್ಪಿಸುವ ನಿರೀಕ್ಷೆಯಲ್ಲಿದೆ. ಇತ್ತೀಚಿನ ವರದಿಗಳ ಪ್ರಕಾರ, ನೌಕರರ ತುಟ್ಟಿಭತ್ಯೆ (DA) ಮತ್ತು ಪಿಂಚಣಿದಾರರ ತುಟ್ಟಿ ಪರಿಹಾರ (DR) ದರವನ್ನು ಶೇಕಡಾ 63 ರಷ್ಟು ಹೆಚ್ಚಿಸಲು ಸರ್ಕಾರ ಚಿಂತನೆ ನಡೆಸಿದೆ. ಇದು ನೌಕರರ ಆರ್ಥಿಕ ಸ್ಥಿತಿಯನ್ನು ಸುಧಾರಿಸುವಲ್ಲಿ ದೊಡ್ಡ ಪಾತ್ರ ವಹಿಸಲಿದೆ. ಹಣದುಬ್ಬರದ ಏರಿಕೆಯಿಂದ ತತ್ತರಿಸಿರುವ ಮಧ್ಯಮ ವರ್ಗದ ನೌಕರರಿಗೆ ಈ ನಿರ್ಧಾರವು ಸಾಕಷ್ಟು ನಿರಾಳತೆಯನ್ನು ನೀಡಲಿದೆ. ವಾಸ್ತವವಾಗಿ, ಸರ್ಕಾರವು ನೌಕರರ ಕಲ್ಯಾಣದ ದೃಷ್ಟಿಯಿಂದ ಈ ಮಹತ್ವದ ಕ್ರಮಕ್ಕೆ ಮುಂದಾಗಿದೆ. ಈ ಹೊಸ ಬದಲಾವಣೆಗಳು ಜಾರಿಯಾದಲ್ಲಿ, ನೌಕರರ ಮಾಸಿಕ ಆದಾಯದಲ್ಲಿ ಗಣನೀಯ ಏರಿಕೆ ಕಂಡುಬರಲಿದೆ. ಈ ಸುದ್ದಿಯು ನೌಕರರ ಸಂಘಟನೆಗಳಲ್ಲಿ ಸಂತಸವನ್ನು ಮೂಡಿಸಿದೆ. ಒಟ್ಟಾರೆಯಾಗಿ, ಈ ಆಯೋಗವು ಸರ್ಕಾರಿ ವಲಯದ ನೌಕರರಿಗೆ ಆರ್ಥಿಕ ಭದ್ರತೆಯನ್ನು ಒದಗಿಸುವ ಭರವಸೆಯನ್ನು ನೀಡಿದೆ. ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಇದರ ಅಧಿಕೃತ ಅಧಿಸೂಚನೆ ಹೊರಬೀಳಲಿದ್ದು, ನೌಕರರು ಈ ಕುರಿತ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದಾರೆ.",
             "published": "2026-08-01T15:44:26+05:30"
-          },
-          {
-            "title": "ರಾಜ್ಯದ ಈ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್ ಬೆಲೆ ಇಳಿಕೆ: ಇಲ್ಲಿದೆ ಆಗಸ್ಟ್‌ 1ರ ದರಪಟ್ಟಿ",
-            "link": "https://kannada.oneindia.com/news/business/petrol-diesel-price-in-karnataka-on-august-1-know-district-wise-complete-statistics-details-463157.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-01T15:36:35+05:30"
           }
         ],
         "Entertainment": [
@@ -1454,13 +1454,6 @@
             "published": "2026-08-01T20:47:54+00:00"
           },
           {
-            "title": "অসমের জন্য অর্থ সংগ্রহে পড়ুয়ারা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDZnaHpUeHh0eVE3RmptdGM5bUtTNnlTSUxVOGFJYVl1RklpX3BsZjZmdzVwZlI2N3dFM013a1VLUk81VHdxWHhoQTdXNG4yMm5TNkdrQW5RM3JvWXVGMmZZdkVhMDhHdFFHQjdnemdDZ3ZxZ1ZMNzMyZ2NUNlcxaGs4Z0VHdlg3UG5KdU9zV1pGQ1E1ZWZ2ZUx6T0NqV1VVYVlnZExIWkdyb0EyeVNB0gGvAUFVX3lxTE1kNmdoelR4eHR5UTdGam10YzltS1M2eVNJTFU4YUlhWXVGSWlfcGxmNmZ3NXBmUjY3d0UzTXdrVUtSTzVUd3FYeGhBN1c0bjIyblM2R2tBblEzcm9ZdUYyZll2RWEwOEd0UUdCN2d6Z0NndnFnVkw3MzJnY1Q2VzFoazhnRUd2WDdQbkp1T3NXWkZDUTVlZnZlTHpPQ2pXVVVhWWdkTEhaR3JvQTJ5U0E?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-01T20:44:00+00:00"
-          },
-          {
             "title": "অসমের বন্যায় বাড়ল মৃতের সংখ্যা, ঘরছাড়া এখনও অনেকে, জল নামলেও আতঙ্কে প্রহর গুনছেন বাসিন্দারা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnowQ0swOHppWXgyUWpKeWkxV1NCVWN3RUZ4dWZDenp1anZyNkdKWmlsQXpQd0otbjBuX2hIaTFfbWliYzIycEZtOERiRVFyc1ZzTE0zSWJ1M2xDdnl2SjE3Y29QNHp2UGhidl96eUU4ck02LVpNd1lMblVPUW81V2wtNzVVamJr0gGOAUFVX3lxTE41d1BvblkwcTlJOTFIeTgzODlIZHNGUW5BZm5ncHphaW1QZ0MxTHltYUJHZW5SN3ZZR2xCdHJhZjJfSkhmY3ZuQVpERFNzUnYzM2VNcjdGQ2hoQ0pRNllGeE9Nd3Y5WTlPaEgzSFZGb3U3T08wVXR3a0M4aUVCamtucUhaeW1yRmJ6clNxdGc?oc=5",
             "source": "Anandabazar Patrika",
@@ -1503,11 +1496,18 @@
             "published": "2026-08-01T16:57:20+00:00"
           },
           {
-            "title": "দেশ গঠনের কারিগর তরুণেরাই! নৈতিকতার পাঠ দিয়ে ক্ষমা করার পর দিন নয়া বার্তা মোদীর, বললেন শিক্ষাব্যবস্থা জোরদার করার কথাও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVo0TmFQN19HQTJ3OXVUeE1JeDJRZFhCeGpONDlJYTZJbU92LXBza2E1ZXFVNk1TbUFVeWJDQVpRUGVrbEh6YW1Yd3JIZkpDWFVvOWdYTFBCbmtTYldhdENVRjdiT2Q3SzUyT1RyLWtsM1Y0cHJVNHM2QWVqUzVNeWtvMXhxcENraDFIcVI5S3FRd1FjSVJJYzVweU1WY3VQTDNRMHFjMko1a2VfUkZSby1jU0FKSjU5WWRRcmh5M2dRY2xCVzhIQTktWWxlZ3V00gHWAUFVX3lxTE1GcTNVelRVZVZYZzhPaUMtT3gzRDlnSjE3T1VlWHQxX0FjNHd0WXloUDE2OHlibHl0b3AwZmVGbVc3WUNjTDZSNmw1TDVEOXM1NFVSMzJBTnRuVUcwZ0RzTEUwWVpESXlvM1ZfSjVacHNtOFpLaW1TTnlFNzg2SEhEMzIzZnZPYnRnWHAzc0hsTFRERUpfSXJIR3dpQnhhWGFzVHZUSlh5bnQ4SHFFYjh4RTZQT3FPNXJWdFp4MlIxUXRQbEJremZENjRpQzE0dnY0N2N5d0E?oc=5",
+            "title": "‘ডিম কিন্তু অন্য দিকেও পড়তে পারে!’ তোলাবাজি বন্ধে ১৫ দিন সময় দিয়ে বিজেপি কর্মীদেরও কড়া বার্তা দিলেন শমীক ভট্টাচার্য - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHRoSjRGcFNlYmo1MmFhc2ZSZXpjUWQwbjlkdmtTWGR6R1RFRFZvVzYzM0E4a19RakR2TXNza0t6SUVrcFo4andNaXZQenEtbFdHZmZydGxDZ1VrX056TEVlRUwtYkpoUFBudEl5b3dJOXRKX3YtUF8wX0RRUGZsSV9PQ2xkZ0tFMUdjanlRZzFZeXVDWm1MdjVBbHNPekZuV1pUNFpKbWh1MTVJUEk1OVV2VVNvaHdLYURBZFFibXZYcDNOYUhsTE1qdmkzbk1qOWNYSEZ3U1pnYlRSNEtVNUdjNGdYc1c2WGpWNkFPaElVNEnSAfgBQVVfeXFMTjJlTURTU3IwWnBWamMyeE1JYzRYRFVYRUF4YkRTMDRTVVFzck5zR3JFNFpfNUdLdXZHSW1obWd4VW1ydk81ZTg0U0RvZF84V0lIWlZfblBOZ19rU2hBUTVQMmhTOG9FTWg1dGdlUVFEaTB3WkJVV3FGZ3BuVEtzTXpLUkZ0bzktSFU3clQ0SmczWFFQN3pxeXA4OGsyNTNXRm1IRVNCNnhwRzFMRGpZUUlPNlY3SXdkNEVWOU82eVQ3X3BTdzNGczFHblZIaUI5aGFHTTFmZmhoOG5VWlB2ZEVXYXE4d05CUWpoaWRGRmJoTGtzMTFpZHk?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-01T15:35:00+00:00"
+            "published": "2026-08-01T14:27:09+00:00"
+          },
+          {
+            "title": "ভয়ে ভয়ে কমনওয়েলথে খেলতে নেমেছিলেন, তাই কি সোনা পেলেন না? জ্যাভলিনে রুপো পেয়ে মুখ খুললেন নীরজ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXJOMWEwazNsbG9wSkJJQ1k0cTVTWmZxT3dqQTJ1S3N4Yk9KdDZlTGhpOHg5bm9mY1ZVS0I4UUoxdFlvM0J4YXI0UmpkdTNYZnVESnlNeU1TNkhQNm9Wc2x1bVhJMklKMnpIamQza0RxSGtJME11c2ZzQk9xLUxVcFNyaGFSOWtuSVZmZ0l0ZmF4TEl3UWNGeUtMUmhVM1JaOVQyM2FLTm9TZWlLQXc0M1pOTndYV3BHZFHSAb8BQVVfeXFMTVFRLWg0RVhpNjVzQ0Z5OGI1MVhaT1NKNzFqSnZHcV9Na194Y2JVV0NfOTVTWXFNUFVOT2JkOS04NzhTMjRsOUo2bVppZmJrb0xIam1oN2F3UlNreV9JSVJVbHctdEQ1ZDR1bFhrLWtaVkk5b1EtWlVnOUwxNGFGRkZfa2hudWtOeXpITVlpNzFLWE15NmtzdDl6NG1sMWo2bGZ2bWxSaWZ1UEJlODVpaFFJWGpYOUZlZkRPVUVyRTg?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-01T13:53:38+00:00"
           }
         ]
       }
