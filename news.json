@@ -1,116 +1,179 @@
 {
-  "updated_at": "2026-08-02T17:01:29.798980+00:00",
+  "updated_at": "2026-08-02T17:31:18.294952+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "published": "2026-08-02T17:30:03+00:00"
+          },
+          {
+            "title": "Youth held in Vellore for selling narcotic-laced chocolates",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/youth-held-in-vellore-for-selling-narcotic-laced-chocolates/article71297719.ece",
+            "source": "The Hindu",
+            "summary": "Based on orders of Superintendent of Police (SP) U.N. Sivaraman, searches have been conducted by special police teams in the district to prevent possession, selling and buying of narcotic items",
+            "published": "2026-08-02T22:53:14+05:30"
+          },
+          {
+            "title": "Tamil Nadu government to expand cooperative lending under Singapengal Entrepreneurship Credit Scheme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-expand-cooperative-lending-under-singapengal-entrepreneurship-credit-scheme/article71297698.ece",
+            "source": "The Hindu",
+            "summary": "T.N. Chief Minister C. Joseph Vijay has instructed officials to increase loans given under the scheme by 25%. Orders have also been issued to ensure at least 30% of loans across categories are extended to new members",
+            "published": "2026-08-02T22:48:52+05:30"
+          },
+          {
+            "title": "Eagles soar past Worcestershire on Westley, Critchley tons",
+            "link": "https://www.cricinfo.com/ci/content/story/1548466.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Noah Thain continues fine form before regular wickets leave Rapids well short",
+            "published": "2026-08-02T17:18:48+00:00"
+          },
+          {
+            "title": "Cox, Holland lead Leicestershire to thumping win over Somerset",
+            "link": "https://www.cricinfo.com/ci/content/story/1548468.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Alex and Ben Green share six wickets for Foxes as visitors tumble to 125 all out",
+            "published": "2026-08-02T17:18:45+00:00"
+          },
+          {
+            "title": "Donald, Duckett set platform before Amir fires Rockets to victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1548483.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Brook and Marsh take Sunrisers close but fall short as home side cement top spot",
+            "published": "2026-08-02T17:18:41+00:00"
+          },
+          {
+            "title": "Cauvery situation slightly better, says Karnataka CM",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-urges-opposition-farmers-and-kannada-organisations-to-withdraw-proposed-aug-13-bandh-against-release-of-cauvery-water-to-tamil-nadu/article71297467.ece",
+            "source": "The Hindu",
+            "summary": "Karnataka begins water release from Kabini and KRS to T.N. owing to rain; Shivakumar appeals to protesters to withdraw the bandh plan on August 13 and reiterates that the Mekedatu project is the way out",
+            "published": "2026-08-02T22:47:57+05:30"
+          },
+          {
+            "title": "Fadnavis likely to be made Education Minister, claims Raut",
+            "link": "https://www.thehindu.com/news/national/maharashtra/fadnavis-likely-to-be-made-education-minister-claims-raut/article71298386.ece",
+            "source": "The Hindu",
+            "summary": "Sena (UBT) leader says PM and Chief Minister have held discussions in this regard",
+            "published": "2026-08-02T22:47:42+05:30"
+          },
+          {
+            "title": "Yates trumps Price as Warwickshire cruise to Rugby win",
+            "link": "https://www.cricinfo.com/ci/content/story/1548472.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Stand-in captain's 147-run stand with Vaansh Jani ends Gloucestershire's hopes",
+            "published": "2026-08-02T17:15:48+00:00"
+          },
+          {
+            "title": "Southern Railway rewards Motorman who flagged safety issue in March",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/southern-railway-rewards-motorman-who-flagged-safety-issue-in-march/article71298519.ece",
+            "source": "The Hindu",
+            "summary": "Chennai Division agrees to implement safety recommendations of inquiry committee",
+            "published": "2026-08-02T22:40:23+05:30"
+          },
+          {
+            "title": "'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities",
+            "link": "https://www.hindustantimes.com/india-news/cjp-stands-with-all-students-abhijeet-dipke-backs-jharkhand-students-protesting-jpsc-and-jssc-exam-irregularities-101785687577803.html",
+            "source": "Hindustan Times",
+            "summary": "CJP founder Abhijeet Dipke on Sunday said that he spoke with the students protesting in Jharkhand.",
+            "published": "2026-08-02T22:39:23+05:30"
+          },
+          {
             "title": "Sheikh Hasina to hold presser on August 5, a month before Tarique Rahman’s expected visit",
             "link": "https://www.thehindu.com/news/international/sheikh-hasina-to-hold-presser-on-august-5-a-month-before-tarique-rahmans-expected-visit/article71298490.ece",
             "source": "The Hindu",
-            "summary": "Deposed leader to address the media virtually on the second anniversary of her arrival in India post-2024 uprising",
-            "published": "2026-08-02T22:28:23+05:30"
+            "summary": "Bangladesh’s deposed leader will address the media virtually on the second anniversary of her arrival in India post-2024 uprising",
+            "published": "2026-08-02T22:36:39+05:30"
           },
           {
-            "title": "Emilio Gay hundred leads Durham's nine-wicket romp",
-            "link": "https://www.cricinfo.com/ci/content/story/1548467.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Fifties from Graham Clark, Ollie Robinson see Hampshire's total shot down with 11 overs to spare",
-            "published": "2026-08-02T16:58:01+00:00"
+            "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
+            "published": "2026-08-02T17:06:30+00:00"
           },
           {
-            "title": "BJP fears creative expression as it will strengthen ‘anti-establishment wave’, says Akhilesh",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-fears-creative-expression-as-it-will-strengthen-anti-establishment-wave-says-akhilesh/article71298583.ece",
+            "title": "Taslima Nasrin calls for UCC across subcontinent, wants ban on madrasas",
+            "link": "https://www.thehindu.com/news/national/taslima-nasrin-calls-for-ucc-across-subcontinent-wants-ban-on-madrasas/article71298498.ece",
             "source": "The Hindu",
-            "summary": "Accusing the BJP of misusing the talent of helpless and vulnerable artistes, the Opposition leader provides cash awards to two Ramlila artistes, adding, ‘there is no place for artistes in the BJP government’",
-            "published": "2026-08-02T22:27:18+05:30"
-          },
-          {
-            "title": "Municipal Executive Officer beaten to death in Bihar; wife accuses LJP (RV) MLA of the murder",
-            "link": "https://www.thehindu.com/news/national/bihar/bihar-municipal-executive-officer-beaten-to-death-wife-accuses-ljp-rv-mla/article71298114.ece",
-            "source": "The Hindu",
-            "summary": "Vimal Kumar was on his way to Patna from Dehri-on-Sone in Rohtas district when he was attacked in a deserted area. The police have arrested his driver Mithilesh Kumar. Vimal’s wife has alleged that MLA Rajiv Ranjan Singh had repeatedly demanded ₹50 lakh from Vimal",
-            "published": "2026-08-02T22:23:53+05:30"
-          },
-          {
-            "title": "Ten Doeschate quits India assistant coach role, set to rejoin KKR",
-            "link": "https://www.cricinfo.com/ci/content/story/1547837.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "No contract extension for fielding coach T Dilip either, BCCI secretary Devajit Saikia confirms",
-            "published": "2026-08-02T16:53:28+00:00"
-          },
-          {
-            "title": "Protest breaks out during police constable recruitment exam in Karnataka’s Vijayapura district",
-            "link": "https://www.thehindu.com/news/national/karnataka/protest-breaks-out-during-police-constable-recruitment-exam-in-karnatakas-vijayapura-district/article71297617.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-02T22:23:24+05:30"
-          },
-          {
-            "title": "Aaditya Thackeray writes to DGP seeking clarity over withdrawal of FIRs against student protesters",
-            "link": "https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-writes-to-dgp-seeking-clarity-over-withdrawal-of-firs-against-student-protesters/article71298480.ece",
-            "source": "The Hindu",
-            "summary": "The Shiv Sena (UBT) leader says students who exercised their democratic right to protest should not suffer unnecessary adverse consequences in their academic, professional, or social lives on account of criminal proceedings",
-            "published": "2026-08-02T22:22:38+05:30"
-          },
-          {
-            "title": "At the scene of deadly Moscow bomb blast",
-            "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-            "published": "2026-08-02T16:52:35+00:00"
-          },
-          {
-            "title": "Yellow alert for Kozhikode, major rivers in spate",
-            "link": "https://www.thehindu.com/news/national/kerala/yellow-alert-for-kozhikode-major-rivers-in-spate/article71298327.ece",
-            "source": "The Hindu",
-            "summary": "A two-year-old child, who sustained grave injuries after falling into the waterlogged courtyard of his house, dies at a private medical college hospital",
-            "published": "2026-08-02T22:22:15+05:30"
-          },
-          {
-            "title": "Wayne Madsen marks landmark Derbyshire appearance with century",
-            "link": "https://www.cricinfo.com/ci/content/story/1548465.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Veteran strikes 104 on his 100th List A appearance for county in dominant win over Sussex",
-            "published": "2026-08-02T16:49:32+00:00"
-          },
-          {
-            "title": "Comedian Kunal Kamra shifts shows amid opposition from Hindutva outfits",
-            "link": "https://www.thehindu.com/news/national/karnataka/comedian-kunal-kamra-shifts-shows-amid-opposition-from-hindutva-outfits/article71298675.ece",
-            "source": "The Hindu",
-            "summary": "Instead of Whitefield, Kamra will perform four shows in Koramangala",
-            "published": "2026-08-02T22:19:22+05:30"
-          },
-          {
-            "title": "MNS chief Raj Thackeray alleges ₹18-crore donation ‘theft’ at Mumbai Siddhivinayak Temple",
-            "link": "https://www.thehindu.com/news/national/maharashtra/mns-chief-raj-thackeray-alleges-18-crore-annual-donation-theft-at-siddhivinayak-temple/article71297420.ece",
-            "source": "The Hindu",
-            "summary": "Even temples are not safe these days, says Raj Thackeray, and demands that Prime Minister Narendra Modi speak on this issue",
-            "published": "2026-08-02T22:19:16+05:30"
-          },
-          {
-            "title": "Rahul Gandhi to PM: Students deserve an apology, not forgiveness",
-            "link": "https://www.thehindu.com/news/national/rahul-gandhi-to-pm-students-deserve-an-apology-not-forgiveness/article71298567.ece",
-            "source": "The Hindu",
-            "summary": "After meeting the families of three students who were found dead in Tamil Nadu following the NEET controversy, the Congress leader said the government owed young aspirants “truth, justice and an apology” for failures in the examination system",
-            "published": "2026-08-02T22:16:18+05:30"
-          },
-          {
-            "title": "Pro-Channi slogans raised at Congress event in Barnala as infighting continues",
-            "link": "https://www.thehindu.com/news/national/punjab/pro-channi-slogans-raised-at-congress-event-in-barnala-as-infighting-continues/article71298284.ece",
-            "source": "The Hindu",
-            "summary": "Punjab Congress has been struggling with factionalism, despite repeated assertions by the party leadership that efforts are underway to strengthen organisational unity ahead of the 2027 Punjab elections.",
-            "published": "2026-08-02T22:16:14+05:30"
+            "summary": "Ms. Nasrin arrived in Kolkata on July 31, almost 19 years after she was forced to leave the city over violent protests by a mob upset with her writings; claims some madrasas produce jihadis, alleges child abuse, rape",
+            "published": "2026-08-02T22:35:50+05:30"
           }
         ],
         "India": [
           {
+            "title": "Youth held in Vellore for selling narcotic-laced chocolates",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/youth-held-in-vellore-for-selling-narcotic-laced-chocolates/article71297719.ece",
+            "source": "The Hindu",
+            "summary": "Based on orders of Superintendent of Police (SP) U.N. Sivaraman, searches have been conducted by special police teams in the district to prevent possession, selling and buying of narcotic items",
+            "published": "2026-08-02T22:53:14+05:30"
+          },
+          {
+            "title": "Tamil Nadu government to expand cooperative lending under Singapengal Entrepreneurship Credit Scheme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-expand-cooperative-lending-under-singapengal-entrepreneurship-credit-scheme/article71297698.ece",
+            "source": "The Hindu",
+            "summary": "T.N. Chief Minister C. Joseph Vijay has instructed officials to increase loans given under the scheme by 25%. Orders have also been issued to ensure at least 30% of loans across categories are extended to new members",
+            "published": "2026-08-02T22:48:52+05:30"
+          },
+          {
+            "title": "Cauvery situation slightly better, says Karnataka CM",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-urges-opposition-farmers-and-kannada-organisations-to-withdraw-proposed-aug-13-bandh-against-release-of-cauvery-water-to-tamil-nadu/article71297467.ece",
+            "source": "The Hindu",
+            "summary": "Karnataka begins water release from Kabini and KRS to T.N. owing to rain; Shivakumar appeals to protesters to withdraw the bandh plan on August 13 and reiterates that the Mekedatu project is the way out",
+            "published": "2026-08-02T22:47:57+05:30"
+          },
+          {
+            "title": "Fadnavis likely to be made Education Minister, claims Raut",
+            "link": "https://www.thehindu.com/news/national/maharashtra/fadnavis-likely-to-be-made-education-minister-claims-raut/article71298386.ece",
+            "source": "The Hindu",
+            "summary": "Sena (UBT) leader says PM and Chief Minister have held discussions in this regard",
+            "published": "2026-08-02T22:47:42+05:30"
+          },
+          {
+            "title": "Southern Railway rewards Motorman who flagged safety issue in March",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/southern-railway-rewards-motorman-who-flagged-safety-issue-in-march/article71298519.ece",
+            "source": "The Hindu",
+            "summary": "Chennai Division agrees to implement safety recommendations of inquiry committee",
+            "published": "2026-08-02T22:40:23+05:30"
+          },
+          {
+            "title": "'CJP stands with all students': Dipke backs Jharkhand students protesting JPSC, JSSC exam irregularities",
+            "link": "https://www.hindustantimes.com/india-news/cjp-stands-with-all-students-abhijeet-dipke-backs-jharkhand-students-protesting-jpsc-and-jssc-exam-irregularities-101785687577803.html",
+            "source": "Hindustan Times",
+            "summary": "CJP founder Abhijeet Dipke on Sunday said that he spoke with the students protesting in Jharkhand.",
+            "published": "2026-08-02T22:39:23+05:30"
+          },
+          {
             "title": "Sheikh Hasina to hold presser on August 5, a month before Tarique Rahman’s expected visit",
             "link": "https://www.thehindu.com/news/international/sheikh-hasina-to-hold-presser-on-august-5-a-month-before-tarique-rahmans-expected-visit/article71298490.ece",
             "source": "The Hindu",
-            "summary": "Deposed leader to address the media virtually on the second anniversary of her arrival in India post-2024 uprising",
-            "published": "2026-08-02T22:28:23+05:30"
+            "summary": "Bangladesh’s deposed leader will address the media virtually on the second anniversary of her arrival in India post-2024 uprising",
+            "published": "2026-08-02T22:36:39+05:30"
+          },
+          {
+            "title": "Taslima Nasrin calls for UCC across subcontinent, wants ban on madrasas",
+            "link": "https://www.thehindu.com/news/national/taslima-nasrin-calls-for-ucc-across-subcontinent-wants-ban-on-madrasas/article71298498.ece",
+            "source": "The Hindu",
+            "summary": "Ms. Nasrin arrived in Kolkata on July 31, almost 19 years after she was forced to leave the city over violent protests by a mob upset with her writings; claims some madrasas produce jihadis, alleges child abuse, rape",
+            "published": "2026-08-02T22:35:50+05:30"
+          },
+          {
+            "title": "Tamil Nadu government drops use of ‘CM’s Thayumanavar Scheme’ in its official communications",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-drops-use-of-cms-thayumanavar-scheme-in-its-official-communications/article71297890.ece",
+            "source": "The Hindu",
+            "summary": "The State government also appointed Guru, founder of an online Vijay fan club, to head the Tamil Nadu Fact Check Unit",
+            "published": "2026-08-02T22:33:27+05:30"
+          },
+          {
+            "title": "T.N. farmers are cheated whenever Congress is in power in Karnataka: Nagenthran",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-farmers-are-cheated-whenever-congress-is-in-power-in-karnataka-nagenthran/article71297566.ece",
+            "source": "The Hindu",
+            "summary": "Hitting back at TNCC chief’s remarks on the Cauvery water dispute, he asks Tagore to question his party’s government over not releasing water to T.N. despite a direction from the CWMA",
+            "published": "2026-08-02T22:30:53+05:30"
           },
           {
             "title": "BJP fears creative expression as it will strengthen ‘anti-establishment wave’, says Akhilesh",
@@ -125,72 +188,30 @@
             "source": "The Hindu",
             "summary": "Vimal Kumar was on his way to Patna from Dehri-on-Sone in Rohtas district when he was attacked in a deserted area. The police have arrested his driver Mithilesh Kumar. Vimal’s wife has alleged that MLA Rajiv Ranjan Singh had repeatedly demanded ₹50 lakh from Vimal",
             "published": "2026-08-02T22:23:53+05:30"
-          },
-          {
-            "title": "Protest breaks out during police constable recruitment exam in Karnataka’s Vijayapura district",
-            "link": "https://www.thehindu.com/news/national/karnataka/protest-breaks-out-during-police-constable-recruitment-exam-in-karnatakas-vijayapura-district/article71297617.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-02T22:23:24+05:30"
-          },
-          {
-            "title": "Aaditya Thackeray writes to DGP seeking clarity over withdrawal of FIRs against student protesters",
-            "link": "https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-writes-to-dgp-seeking-clarity-over-withdrawal-of-firs-against-student-protesters/article71298480.ece",
-            "source": "The Hindu",
-            "summary": "The Shiv Sena (UBT) leader says students who exercised their democratic right to protest should not suffer unnecessary adverse consequences in their academic, professional, or social lives on account of criminal proceedings",
-            "published": "2026-08-02T22:22:38+05:30"
-          },
-          {
-            "title": "Yellow alert for Kozhikode, major rivers in spate",
-            "link": "https://www.thehindu.com/news/national/kerala/yellow-alert-for-kozhikode-major-rivers-in-spate/article71298327.ece",
-            "source": "The Hindu",
-            "summary": "A two-year-old child, who sustained grave injuries after falling into the waterlogged courtyard of his house, dies at a private medical college hospital",
-            "published": "2026-08-02T22:22:15+05:30"
-          },
-          {
-            "title": "Comedian Kunal Kamra shifts shows amid opposition from Hindutva outfits",
-            "link": "https://www.thehindu.com/news/national/karnataka/comedian-kunal-kamra-shifts-shows-amid-opposition-from-hindutva-outfits/article71298675.ece",
-            "source": "The Hindu",
-            "summary": "Instead of Whitefield, Kamra will perform four shows in Koramangala",
-            "published": "2026-08-02T22:19:22+05:30"
-          },
-          {
-            "title": "MNS chief Raj Thackeray alleges ₹18-crore donation ‘theft’ at Mumbai Siddhivinayak Temple",
-            "link": "https://www.thehindu.com/news/national/maharashtra/mns-chief-raj-thackeray-alleges-18-crore-annual-donation-theft-at-siddhivinayak-temple/article71297420.ece",
-            "source": "The Hindu",
-            "summary": "Even temples are not safe these days, says Raj Thackeray, and demands that Prime Minister Narendra Modi speak on this issue",
-            "published": "2026-08-02T22:19:16+05:30"
-          },
-          {
-            "title": "Rahul Gandhi to PM: Students deserve an apology, not forgiveness",
-            "link": "https://www.thehindu.com/news/national/rahul-gandhi-to-pm-students-deserve-an-apology-not-forgiveness/article71298567.ece",
-            "source": "The Hindu",
-            "summary": "After meeting the families of three students who were found dead in Tamil Nadu following the NEET controversy, the Congress leader said the government owed young aspirants “truth, justice and an apology” for failures in the examination system",
-            "published": "2026-08-02T22:16:18+05:30"
-          },
-          {
-            "title": "Pro-Channi slogans raised at Congress event in Barnala as infighting continues",
-            "link": "https://www.thehindu.com/news/national/punjab/pro-channi-slogans-raised-at-congress-event-in-barnala-as-infighting-continues/article71298284.ece",
-            "source": "The Hindu",
-            "summary": "Punjab Congress has been struggling with factionalism, despite repeated assertions by the party leadership that efforts are underway to strengthen organisational unity ahead of the 2027 Punjab elections.",
-            "published": "2026-08-02T22:16:14+05:30"
-          },
-          {
-            "title": "Cash Management firm under probe for allegedly depositing 19 fake ₹500 notes",
-            "link": "https://www.thehindu.com/news/national/karnataka/cash-management-firm-under-probe-for-allegedly-depositing-19-fake-500-notes/article71297835.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-02T22:12:23+05:30"
-          },
-          {
-            "title": "TCS sexual harassment-forced conversion case: Five accused given bail by Nashik court",
-            "link": "https://www.thehindu.com/news/national/maharashtra/tcs-sexual-harassment-forced-conversion-case-five-accused-given-bail-by-nashik-court/article71298591.ece",
-            "source": "The Hindu",
-            "summary": "The Court said there was no serious apprehension that the accused would threaten witnesses or tamper with evidence if released",
-            "published": "2026-08-02T22:10:55+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "published": "2026-08-02T17:30:03+00:00"
+          },
+          {
+            "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
+            "published": "2026-08-02T17:06:30+00:00"
+          },
+          {
+            "title": "Deadly floods and landslide hit India’s Kerala",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "At least two people have been killed and eight injured after torrential rain triggered flooding",
+            "published": "2026-08-02T16:55:39+00:00"
+          },
           {
             "title": "At the scene of deadly Moscow bomb blast",
             "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The least bad option for the US is to let the MoU Article 5 play out.",
             "published": "2026-08-02T15:33:20+00:00"
-          },
-          {
-            "title": "Helicopters fighting Greece wildfires collide in mid-air",
-            "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-            "published": "2026-08-02T15:21:56+00:00"
-          },
-          {
-            "title": "Ukrainian farmers use temporary storage to revive grain exports",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
-            "published": "2026-08-02T15:14:26+00:00"
-          },
-          {
-            "title": "Heatwave forces nuclear shutdown in Hungary",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
-            "published": "2026-08-02T14:44:34+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,41 @@
         ],
         "Sports": [
           {
+            "title": "Eagles soar past Worcestershire on Westley, Critchley tons",
+            "link": "https://www.cricinfo.com/ci/content/story/1548466.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Noah Thain continues fine form before regular wickets leave Rapids well short",
+            "published": "2026-08-02T17:18:48+00:00"
+          },
+          {
+            "title": "Cox, Holland lead Leicestershire to thumping win over Somerset",
+            "link": "https://www.cricinfo.com/ci/content/story/1548468.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Alex and Ben Green share six wickets for Foxes as visitors tumble to 125 all out",
+            "published": "2026-08-02T17:18:45+00:00"
+          },
+          {
+            "title": "Donald, Duckett set platform before Amir fires Rockets to victory",
+            "link": "https://www.cricinfo.com/ci/content/story/1548483.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Brook and Marsh take Sunrisers close but fall short as home side cement top spot",
+            "published": "2026-08-02T17:18:41+00:00"
+          },
+          {
+            "title": "Yates trumps Price as Warwickshire cruise to Rugby win",
+            "link": "https://www.cricinfo.com/ci/content/story/1548472.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Stand-in captain's 147-run stand with Vaansh Jani ends Gloucestershire's hopes",
+            "published": "2026-08-02T17:15:48+00:00"
+          },
+          {
+            "title": "Wayne Madsen marks landmark Derbyshire appearance with century",
+            "link": "https://www.cricinfo.com/ci/content/story/1548465.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Veteran strikes 104 on his 100th List A appearance for county in dominant win over Sussex",
+            "published": "2026-08-02T17:03:24+00:00"
+          },
+          {
             "title": "Emilio Gay hundred leads Durham's nine-wicket romp",
             "link": "https://www.cricinfo.com/ci/content/story/1548467.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -376,13 +411,6 @@
             "source": "ESPN Cricinfo",
             "summary": "No contract extension for fielding coach T Dilip either, BCCI secretary Devajit Saikia confirms",
             "published": "2026-08-02T16:53:28+00:00"
-          },
-          {
-            "title": "Wayne Madsen marks landmark Derbyshire appearance with century",
-            "link": "https://www.cricinfo.com/ci/content/story/1548465.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Veteran strikes 104 on his 100th List A appearance for county in dominant win over Sussex",
-            "published": "2026-08-02T16:49:32+00:00"
           },
           {
             "title": "Rain forces early lunch after Chanderpaul falls",
@@ -418,34 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Commonwealth Games 2026 LIVE Updates: India's CWG 2026 campaign has concluded, with the nation finishing with 39 medals. As it stands, India are fourth in the overall medal table.",
             "published": "2026-08-02T21:34:36+05:30"
-          },
-          {
-            "title": "Judo Heartbreak: Ishroop Narang Misses Out On Bronze Medal At Commonwealth Games 2026",
-            "link": "https://sports.ndtv.com/judo/judo-heartbreak-ishroop-narang-misses-out-on-bronze-medal-at-commonwealth-games-2026-11856376#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Judoka Ishroop Narang gave her all in the bronze medal play-off but lost to Canadian Coralie Godbout by yuko as India's judo campaign ended at the Commonwealth Games without any medal on the concluding day of the quadrennial event Sunday.",
-            "published": "2026-08-02T20:36:38+05:30"
-          },
-          {
-            "title": "Boxer Lovlina Borgohain Makes Stunning Injury Revelation After Missing Out On Gold At CWG 2026: \"Part Of Boxing\"",
-            "link": "https://sports.ndtv.com/boxing/boxer-lovlina-borgohain-makes-stunning-injury-revelation-after-missing-out-on-gold-at-cwg-2026-part-of-boxing-11855819#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Olympic medallist boxer Lovlina Borgohain revealed that she competed through a minor knee injury in the Commonwealth Games final, stating that pushing past pain is part of athletes' journey at the elite level.",
-            "published": "2026-08-02T20:22:02+05:30"
-          },
-          {
-            "title": "29-Year-Old Pacer To Replace Injured Jasprit Bumrah For Sri Lanka Tests? Report Makes Big Revelation",
-            "link": "https://sports.ndtv.com/cricket/29-year-old-pacer-auqib-nabi-to-replace-injured-jasprit-bumrah-for-sri-lanka-tests-report-makes-big-revelation-11856320#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Jasprit Bumrah is set to miss India's two-Test tour of Sri Lanka as he is yet to recover from his knee injury. Jammu and Kashmir seamer Auqib Nabi is all set to earn his maiden call-up to the national team.",
-            "published": "2026-08-02T20:17:39+05:30"
-          },
-          {
-            "title": "PT Usha Praises 'Nari Shakti' As Indian Women Lead CWG 2026 Gold Rush",
-            "link": "https://sports.ndtv.com/athletics/pt-usha-praises-nari-shakti-as-indian-women-lead-cwg-2026-gold-rush-11856033#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Indian Olympic Association (IOA) president P.T. Usha hailed the country's women athletes for spearheading India's campaign at the Commonwealth Games 2026 after they claimed eight of the nation's 13 gold medals.",
-            "published": "2026-08-02T20:14:10+05:30"
           }
         ],
         "Technology": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "“டிரம்ப் சொன்னது பொய்.. தாக்குதல் நடத்தவேண்டாம் என அமெரிக்காவிடம் கேட்கவில்லை” - ஈரான் மறுப்பு",
+            "link": "https://tamil.oneindia.com/news/international/iran-rejects-us-president-trump-s-claim-of-requesting-pause-in-military-strikes-820843.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-08-02T22:33:51+05:30"
+          },
+          {
             "title": "சீறிப் பாய்ந்து வரும் காவிரி நீர்.. இன்று இரவே தமிழக எல்லையை எட்ட வாய்ப்பு.. விவசாயிகள் உற்சாகம்!",
             "link": "https://tamil.oneindia.com/news/tamilnadu/cauvery-water-surge-heavy-inflows-from-karnataka-to-reach-tamil-nadu-border-by-tonight-820837.html",
             "source": "Oneindia Tamil",
@@ -970,13 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-08-02T17:25:31+05:30"
-          },
-          {
-            "title": "இதே வேலைதான் டிரம்புக்கு! ஈரான் விஷயத்தில் பேக் அடித்த அமெரிக்கா! இந்தியாவுக்கு பெட்ரோல் கிடைக்குமா?",
-            "link": "https://tamil.oneindia.com/news/international/trump-halts-iran-strikes-to-pursue-diplomatic-deal-on-hormuz-and-nuclear-program-820781.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-08-02T16:52:39+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "పాకిస్థాన్ లో ఆత్మాహుతి దాడి.. 13 మంది మృతి",
+            "link": "https://telugu.oneindia.com/news/international/pakistan-suicide-attack-13-killed-in-suicide-bombing-during-peace-rally-pakistan-khyber-pakhtunkhwa-499927.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-02T23:00:41+05:30"
+          },
+          {
+            "title": "ఈనెల 5న కాక్రోచ్ జనతా పార్టీ కోర్‌ కమిటీ సమావేశం.. భవిష్యత్‌ కార్యాచరణపై చర్చ..",
+            "link": "https://telugu.oneindia.com/news/india/cockroach-janata-party-core-committee-meeting-the-5th-of-this-month-discussion-future-course-action-499925.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-02T22:34:16+05:30"
+          },
+          {
             "title": "ఇలా గుద్దేశాడేంటి..? హైదరాబాద్ లో యాక్సిడెంట్ వీడియో వైరల్",
             "link": "https://telugu.oneindia.com/news/telangana/hyderabad-accident-in-hyderabad-video-goes-viral-online-accident-hyderabad-video-goes-viral-online-499923.html",
             "source": "Oneindia Telugu",
@@ -1084,13 +1098,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-02T15:37:42+00:00"
-          },
-          {
-            "title": "Abhijeet Dipke: అమెరికా చదువులకు దీప్కేకు డబ్బు ఎక్కడిది?: ఆర్టీఐ కార్యకర్త - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjZNTG9PamJEQWlNMEF4NlcyTDg3ei1aNDBmbVdGT2kzdDdmbkpNMFBCRVpnenl4Q2NzOWlnMGIwY2hZZXRtNkkweno4X2stU3lvaGNkalgtT0hMMW5XM1ZYTGRGYTVMbWpYdG9PeEpoaFNFcU1scXo1NTB0bjZWbVJKM0hadHNPSHhzcWNOVDJIUGFRTlY2bGw5aTk4WV93MFVjR3pDRC1rVjRrNDVWSzlrcTJKbWxVX1dHZUp1S2Rud21EMFlYedIByAFBVV95cUxNYjZNTG9PamJEQWlNMEF4NlcyTDg3ei1aNDBmbVdGT2kzdDdmbkpNMFBCRVpnenl4Q2NzOWlnMGIwY2hZZXRtNkkweno4X2stU3lvaGNkalgtT0hMMW5XM1ZYTGRGYTVMbWpYdG9PeEpoaFNFcU1scXo1NTB0bjZWbVJKM0hadHNPSHhzcWNOVDJIUGFRTlY2bGw5aTk4WV93MFVjR3pDRC1rVjRrNDVWSzlrcTJKbWxVX1dHZUp1S2Rud21EMFlYeQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-02T14:15:11+00:00"
           },
           {
             "title": "నల్గొండకు కేంద్రం వరం.. త్వరలో వెయ్యి కోట్ల నిధులు వస్తాయన్న మంత్రి!",
@@ -1107,6 +1114,13 @@
             "published": "2026-08-02T19:29:18+05:30"
           },
           {
+            "title": "Godavari: గోదారి ఉద్ధృతి.. లంక గ్రామాల్లోకి నీరు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVItM3ZFa3dGTmpxWlRJMm9TU1BRVV9LV2MtV2k1SllXV2Faby1MLXBFcVg1cmd4WUF1SkhhcVlhbDFnZ3RnZWFIVjFsTjBPMVFwVGxjRFZ5NjBTMkIzemhxZDFVZDVQaU9PS0hjQThhM1VnUlhBT2JWNU9rMXZBS3gxNkxvc0k5MTZxR2N3WmxtS0Fjd3pGa080RkxmTTBabTk1b9IBpAFBVV95cUxPeVItM3ZFa3dGTmpxWlRJMm9TU1BRVV9LV2MtV2k1SllXV2Faby1MLXBFcVg1cmd4WUF1SkhhcVlhbDFnZ3RnZWFIVjFsTjBPMVFwVGxjRFZ5NjBTMkIzemhxZDFVZDVQaU9PS0hjQThhM1VnUlhBT2JWNU9rMXZBS3gxNkxvc0k5MTZxR2N3WmxtS0Fjd3pGa080RkxmTTBabTk1bw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-02T13:15:20+00:00"
+          },
+          {
             "title": "ట్రంప్: త్వరగా ఒప్పందం కుదిరితే ఇరాన్‌పై దాడులు నిలిపివేస్తాం",
             "link": "https://www.bbc.com/telugu/articles/cgk4nn16r1ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1121,7 +1135,7 @@
             "published": "2026-08-02T18:37:05+05:30"
           },
           {
-            "title": "పోలీసుల మానవత్వం.. చిన్నారిని లాలించిన కానిస్టేబుల్‌..! - eenadu.net",
+            "title": "పోలీసుల మానవత్వం.. చిన్నారిని లాలించిన కానిస్టేబుల్‌..! - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83eDY4M0l1dnZqbzh2b0pfR3NyMUJsTEVYZk9ZamFXS2l1Y1FyNnZQcHdacUE1NlBiTE5rTTB0S2JqVWNaWEdxa3Y5RXNyWjVxN25PZGlNU2Y3T3N3NFBXX0U5Mlo0S0ZYa3JGLU8wZ2paNDRURnRydXkyZjVHQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1135,25 +1149,11 @@
             "published": "2026-08-02T12:30:15+00:00"
           },
           {
-            "title": "మనుమకొండ పంట పొలాల్లో సంచరిస్తున్న ఏనుగులు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNS1PbGxpYzJMZ28yY2xLVlRnb1FsVUk5S3QwMGRNVmVIdk1SWi1FMzVtVERvdURmUnlUankwN1lIT05CSER4WVJua25QcWppN1Z0X3g0RV9nSnBkQkltU2x3NGRSR2N6YVZ1RVhmQzBadmE4czJxX2ItcjJ4ejk4SE03RVlQZkljUEZJ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-02T12:24:29+00:00"
-          },
-          {
             "title": "Latest Current Affairs 2026 : తెలుగులో కరెంట్‌ అఫైర్స్‌ (01-08-2026) - eenadu pratibha",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1cyTVJVVXNpLXNvQnlZbm8xY1pXd250Wk1tb3U2OTRFTVNVUHplV0ltaVU0SFpkUnBYQmR4UXAzdE94VC01NHl4Tko3aU9XNFJQNnpackR1bXRWaGhmX1NHRDlLUlFNSXFtRU0wYTYybUZYUTIzTTJ1clB3aTBlSU1ZdjhBYlJNX3RpU1JZZTlLRENpbVAwVmNCdnF6Z1cydGFUZlhvZzNlU2pUT3VSZg?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-02T12:05:43+00:00"
-          },
-          {
-            "title": "పాకిస్థాన్ వీధుల్లో బిచ్చగాడిలా తిరుగుతూ.. అణు రహస్యాలను బయట పెట్టిన అజిత్ దోబాల్..",
-            "link": "https://telugu.oneindia.com/news/india/ajitdoval-who-roamed-the-streets-of-pakistan-disguised-beggar-and-exposed-nuclear-secrets-ajitdoval-499907.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-02T17:33:13+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "অধিকৃত কাশ্মীরে তুষারধসের তিন দিন পর উদ্ধার পর্বতারোহী নির্মলের দেহ! বরফে চাপা পড়েন ৫৭০০ মিটার উঁচুতে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUdDQkl1ZFNEN2VnRWpPTjQtV1Q5WUVsUWkwanlxaEpOX2VGckJQZ2ZZbzBMSGdHSU01NkFIVDFGUU9WQjEzYldNZkdXNTNuYXNIR3h3ZG9ZTm1KaG5Ja0J0c1JXN01EbExQeWF2N3NlSGw0NGNmTGpkdVRZT2dSMnFjQU1JR0FpWUc1NVdJWFdMYjNmZUNodXZZWkNkb0R5T0U2T3dkU1N0SWtadDVweUJSWWVjVjV5T3EtSUpYeDBxZURsMjhIWU5aUzl1eVBCTGtMUGZfWdIB3AFBVV95cUxOUWsxMmk4Y2ZSRk1CZ2tld3p6ZkZjcXBUVWROSlltZFVDdmp3UEdUdVY3ZG4xN1loYlpQZnVUR1RvYzI3UmQyUGlIVkRld1lBdkM0YWhfTm9CTkxCWXVBOHJRU1JZMVR3dVkyRThHcW1ESVI1TGJTdDJFM2R5SWpGcEYtYWlaVE1SdVRaSlZBMWFOSEJQS3Bfb3k5VWxzV0h0bXU1TWpsQkpXdTJnR3JvcTdBU05Nd1BtR29iU2hrY3ZfVUJGOV92RTJCX2hwcTAxMkJTeTlDZVV4ZjlJ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-02T14:10:05+00:00"
+          },
+          {
             "title": "পরপর দু'টি বোমা উদ্ধারের মধ্যেই পুলিশের সতর্কতা জারি, পরিস্থিতি কতটা উদ্বেগজনক?",
             "link": "https://www.bbc.com/bengali/articles/c5y4eeqwgvlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-02T10:01:06+00:00"
-          },
-          {
-            "title": "রাস্তায় যত্রতত্র ইট-বালি-পাথর ফেলে রাখলেই জরিমানা দিতে হবে, ১ সেপ্টেম্বর থেকে কার্যকর নয়া নিয়ম, জানালেন অগ্নিমিত্রা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZlJrYXRsYmxwV2VYRTA1ZWZ4cnZTY18zVC1QOU94bHc3VF9OS1gxS2dHY2xWRENiSlducElfSjh2ekx0SlBRak9OT1NaeEgxODdtSDVqczJqb3N0WXhyOUhGWHF6Q2tjWHdzT0NfNVNQX2FpcDVyVG8zR0NGdGdZRm02TnNkV1VXRG8yQnRPdk1DaGQwemVKUWw0Sl9MTFdVaFN3WEUyLUFDVDJoUldYUkxyT1g1cUpvTEliVE10R1BGNjBUOW1xWmpySlZzb0RITG9VQTRvT18tU0JzeWdLYUExYkZFMk5faFM1eTZaWFNiQdIB9wFBVV95cUxNZDlOWGZfbzZQZVhiTkNicEdNYVpoVmd6Y3o4TE1NeDIySi1EeXpHbE5Lam9nZjhqUms4WjY2UmpqOFpUaWt1MUlJMkMwSmFsQlc5TXc4Sm1XcTJIaUdKZ0VvTE9lc3ByN094Wk1wSVk0UENGUTByMWVuODhoWkhDeVVXNG04YnpmLVRfZk1ETmpGdHV3MXNZYkphUjJNVXhIQk9TSjljdUN2ZWN6VE5MSjRsNFVVZFVZaGM4azRSZ1RsbFE0YTdQc0h6bTJuQU15OEotU3RmaF9KMFFjN3ozblQwUFJYY1ptT3U1NThoV2xaQjZlc3Qw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-02T09:28:57+00:00"
           }
         ]
       }
