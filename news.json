@@ -1,16 +1,93 @@
 {
-  "updated_at": "2026-08-03T05:01:31.845843+00:00",
+  "updated_at": "2026-08-03T05:31:16.952280+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Auqib Nabi replaces injured Jasprit Bumrah for SL Tests",
+            "title": "Auqib Nabi replaces injured Jasprit Bumrah for Test series in Sri Lanka",
             "link": "https://www.cricinfo.com/ci/content/story/1548538.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "Jammu & Kashmir seamer earns maiden India call-up",
-            "published": "2026-08-03T04:58:24+00:00"
+            "summary": "Jammu & Kashmir seamer Auqib Nabi earns maiden India call-up for the two-Test series in Sri Lanka",
+            "published": "2026-08-03T05:24:39+00:00"
+          },
+          {
+            "title": "Kerala rains: Heavy rainfall continues in Idukki, dam water levels rise",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-heavy-rainfall-continues-in-idukki-dam-water-levels-rise/article71299950.ece",
+            "source": "The Hindu",
+            "summary": "Isolated incidents of mudslides and fallen trees reported across the district",
+            "published": "2026-08-03T10:49:29+05:30"
+          },
+          {
+            "title": "Delhi court acquits Brij Bhushan Singh in sexual harassment case",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/brij-bhushan-sharan-singh-and-vinod-tomar-acquitted-in-women-wrestlers-sexual-harassment-case/articleshow/132819625.cms",
+            "source": "Times of India",
+            "summary": "A Delhi court has acquitted former WFI chief Brij Bhushan Sharan Singh and assistant secretary Vinod Tomar. The acquittal came in a sexual harassment case filed by six women wrestlers. Delhi Police had filed a chargesheet against Singh under several IPC sections. The court had previously ordered framing of charges for sexual harassment and intimidation. Both accused were out on bail during the trial proceedings.",
+            "published": "2026-08-03T10:44:54+05:30"
+          },
+          {
+            "title": "Parliament Monsoon Session Day 11 LIVE updates: Indian Statistical Institute Bill, Bankers' Books Evidence Bill likely to be introduced in Lok Sabha",
+            "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-11-live-update-indian-statistical-institute-bill-bankers-books-evidence-bill-bjp-congress/article71299754.ece",
+            "source": "The Hindu",
+            "summary": "The agenda also includes a statement by Finance Minister Nirmala Sitharaman showing Demands for Excess Grants for 2022-23",
+            "published": "2026-08-03T10:44:43+05:30"
+          },
+          {
+            "title": "Bihar bypoll: Bankipur byelection counting begins, Prashant Kishor leads as per initial trends",
+            "link": "https://www.thehindu.com/news/national/bihar/bankipur-bihar-bypoll-result-prashant-kishor-rekha-guptaneeraj-kumar-august-3-2026/article71299772.ece",
+            "source": "The Hindu",
+            "summary": "The bypoll, held on July 30, recorded a voter turnout of 34.30%",
+            "published": "2026-08-03T10:43:22+05:30"
+          },
+          {
+            "title": "Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-31-paise-on-weaker-dollar-lower-oil-prices-and-continued-fii-inflows/articleshow/132819528.cms",
+            "source": "Times of India",
+            "summary": "The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump delayed strikes on Iran helped markets. The Reserve Bank of India's continued intervention further bolstered the currency's…",
+            "published": "2026-08-03T10:39:28+05:30"
+          },
+          {
+            "title": "Delhi court clears Brij Bhushan Singh in sexual harassment case by six women wrestlers",
+            "link": "https://www.hindustantimes.com/india-news/delhi-high-court-clears-brij-bhushan-singh-in-sexual-harassment-case-by-six-women-wrestlers-ex-wfi-chief-101785733664948.html",
+            "source": "Hindustan Times",
+            "summary": "Ex-WFI chief Brij Bhushan Singh was accused of sexual harassing multiple female wrestlers over several years.",
+            "published": "2026-08-03T10:39:03+05:30"
+          },
+          {
+            "title": "Kerala rains LIVE | Moderate heavy rain continues; CM to chair emergency meet",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-emergency-meet/article71299854.ece",
+            "source": "The Hindu",
+            "summary": "Though rain intensity has subsided, moderate heavy rain continues to affect Kerala. IMD upgrades rain alert to orange in 10 districts",
+            "published": "2026-08-03T10:35:57+05:30"
+          },
+          {
+            "title": "Day before bypoll result, Congress suspends former Datia MLA Rajendra Bharti",
+            "link": "https://www.hindustantimes.com/india-news/day-before-bypoll-result-congress-suspends-former-datia-mla-rajendra-bharti-101785732455782.html",
+            "source": "Hindustan Times",
+            "summary": "In April this year, Rajendra Bharti was disqualified from the Legislative Assembly after a court sentenced him to three years’ imprisonment in a fraud case.",
+            "published": "2026-08-03T10:35:16+05:30"
+          },
+          {
+            "title": "Kerala rains: Overnight rain swells rivers, heightens flood threat in central Travancore",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-overnight-rain-swells-rivers-heightens-flood-threat-in-central-travancore/article71299856.ece",
+            "source": "The Hindu",
+            "summary": "Heavy overnight rains in central Travancore, Kerala, have led to a significant rise in water levels across major rivers, igniting fresh flood fears in Kottayam, Pathanamthitta, and Alappuzha districts.",
+            "published": "2026-08-03T10:34:52+05:30"
+          },
+          {
+            "title": "Karnataka SIR: 16 districts, mostly backward, report over 12% voters under ASDDO",
+            "link": "https://www.thehindu.com/news/cities/bangalore/sir-16-districts-mostly-backward-report-over-12-voters-under-asddo/article71297892.ece",
+            "source": "The Hindu",
+            "summary": "Notably, most of these very districts also rank among Karnataka’s lowest on the Human Development Index, according to the Govind Rao Committee report on regional imbalances released earlier this year",
+            "published": "2026-08-03T10:33:26+05:30"
+          },
+          {
+            "title": "DMK to boycott verification of EVMs in Kolathur alleging lapses; plans to go to court",
+            "link": "https://www.thehindu.com/news/national/dmk-to-boycott-verification-of-evms-in-kolathur-alleging-lapses-plans-to-go-to-court/article71295501.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-03T10:32:59+05:30"
           },
           {
             "title": "'We're right on our way' - Jangoo gung-ho about West Indies' chances on tricky pitch",
@@ -20,177 +97,107 @@
             "published": "2026-08-03T04:54:19+00:00"
           },
           {
-            "title": "Kerala rains LIVE | Moderate heavy rain continues; CM to chair emergency meet",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-emergency-meet/article71299854.ece",
-            "source": "The Hindu",
-            "summary": "Though rain intensity has subsided, moderate heavy rain continues to affect Kerala. IMD issued a yellow alert for the entire State on Monday",
-            "published": "2026-08-03T10:11:25+05:30"
-          },
-          {
-            "title": "Kerala rains: Overnight rain swells rivers, heightens flood threat in central Travancore",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-overnight-rain-swells-rivers-heightens-flood-threat-in-central-travancore/article71299856.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-03T10:10:24+05:30"
-          },
-          {
-            "title": "Japan, US step in to support yen, Tokyo keeps door open for more action",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/japan-us-step-in-to-support-yen-with-rare-joint-intervention-tokyo-keeps-door-open-for-more-action/articleshow/132818720.cms",
+            "title": "Allahabad HC pulls up UP police over defunct CCTV and generator at police station",
+            "link": "https://timesofindia.indiatimes.com/legal/news/allahabad-hc-pulls-up-up-police-over-defunct-cctv-and-generator-at-police-station/articleshow/132818471.cms",
             "source": "Times of India",
-            "summary": "Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Economic growth forecasts were cut due to oil prices and a weaker yen.",
-            "published": "2026-08-03T10:10:11+05:30"
-          },
-          {
-            "title": "Parliament Monsoon Session Day 11 LIVE updates: Indian Statistical Institute Bill, Bankers' Books Evidence Bill likely to be introduced in Lok Sabha",
-            "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-11-live-update-indian-statistical-institute-bill-bankers-books-evidence-bill-bjp-congress/article71299754.ece",
-            "source": "The Hindu",
-            "summary": "The agenda also includes a statement by Finance Minister Nirmala Sitharaman showing Demands for Excess Grants for 2022-23",
-            "published": "2026-08-03T10:03:36+05:30"
-          },
-          {
-            "title": "Nandi Hill cable car: Forest clearance pending, but construction has begun",
-            "link": "https://www.thehindu.com/news/national/karnataka/nandi-hill-cable-car-forest-clearance-pending-but-construction-has-begun-bengaluru/article71277272.ece",
-            "source": "The Hindu",
-            "summary": "An official informed that nearly 20% of the construction of the LTP has been completed",
-            "published": "2026-08-03T10:01:48+05:30"
-          },
-          {
-            "title": "Two coaches of Samastipur-Saharsa MEMU train catch fire in Bihar, none hurt",
-            "link": "https://www.thehindu.com/news/national/bihar/two-coaches-of-samastipur-saharsa-memu-train-catch-fire-in-bihar-none-hurt/article71299855.ece",
-            "source": "The Hindu",
-            "summary": "East Central Railway (ECR) Chief Public Relations Officer (CPRO) Saraswati Chandra said, \"As 63344 Samastipur-Saharsa MEMU arrived at Simri Bakhtiyarpur station around 3 a.m., the station master reported a fire in the motor coach of the train.\"",
-            "published": "2026-08-03T10:00:27+05:30"
-          },
-          {
-            "title": "Parliament monsoon session LIVE: Proceedings to resume amid House impasse; 4 key bills on agenda",
-            "link": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-2026-live-update-lok-sabha-rajya-sabha-news-neet-cjp-protest-fcra-ram-mandir-theft-amit-shah-101785728488686.html",
-            "source": "Hindustan Times",
-            "summary": "Parliament monsoon session LIVE: The government is looking to introduce four bills in the house today amid ongoing protests from the opposition over Amit Shah's response to the crackdown on student protests and the Ram Mandir donation theft row.",
-            "published": "2026-08-03T09:54:22+05:30"
-          },
-          {
-            "title": "Datia, Bankipur, Manjalpur Bypoll Election LIVE Updates: Counting In Progress In Madhya Pradesh, Gujarat. Prashant Kishor Leads In Bihar",
-            "link": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Bankipur, Datia and Manjalpur Bypoll Election LIVE Updates: Though the bypolls are unlikely to affect the strength of the BJP governments in the three states, the results will be closely watched for their political significance ahead of future elections.",
-            "published": "2026-08-03T09:51:32+05:30"
-          },
-          {
-            "title": "Bihar bypoll: Bankipur byelection counting begins, Prashant Kishor’s electoral debut in focus",
-            "link": "https://www.thehindu.com/news/national/bihar/bankipur-bihar-bypoll-result-prashant-kishor-rekha-guptaneeraj-kumar-august-3-2026/article71299772.ece",
-            "source": "The Hindu",
-            "summary": "The bypoll, held on July 30, recorded a voter turnout of 34.30%",
-            "published": "2026-08-03T09:50:31+05:30"
-          },
-          {
-            "title": "Family of four among five killed after car rams into water tanker near Tamil Nadu's Coimbatore",
-            "link": "https://www.hindustantimes.com/india-news/family-of-four-among-five-killed-after-car-rams-into-water-tanker-near-tamil-nadus-coimbatore-101785728719078.html",
-            "source": "Hindustan Times",
-            "summary": "The victims, including four members of a family, died on the spot after their car slammed into a water tanker parked on the Udumalaipettai-Pollachi NH.",
-            "published": "2026-08-03T09:50:25+05:30"
-          },
-          {
-            "title": "Jasprit Bumrah Ruled Out Of Sri Lanka Tests, BCCI Names Replacement",
-            "link": "https://sports.ndtv.com/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-tests-bcci-names-replacement-11857636#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India pacer Jasprit Bumrah has been ruled out of the upcoming two-match Test series against Sri Lanka due to injury, BCCI confirmed on Monday.",
-            "published": "2026-08-03T09:49:30+05:30"
-          },
-          {
-            "title": "Parliament Monsoon Session 2026 LIVE Updates: Two Bills Set To Be Introduced In Lok Sabha",
-            "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-two-bills-set-to-be-introduced-in-lok-sabha-11857465#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Parliament Monsoon Session 2026 LIVE Updates: Parliament resumes Monsoon Session 2026 with key bills and Opposition protests.",
-            "published": "2026-08-03T09:48:39+05:30"
+            "summary": "The Allahabad high court found non-functional police station equipment a dereliction of duty. This observation came while hearing a petition regarding illegal detention and lack of power. The court noted generators and solar panels had been non-functional for extended periods. It directed the Uttar Pradesh DGP to ensure all police stations have backup power. The SP was also ordered to explain the status of equipment…",
+            "published": "2026-08-03T10:22:18+05:30"
           }
         ],
         "India": [
           {
-            "title": "Kerala rains LIVE | Moderate heavy rain continues; CM to chair emergency meet",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-emergency-meet/article71299854.ece",
+            "title": "Kerala rains: Heavy rainfall continues in Idukki, dam water levels rise",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-heavy-rainfall-continues-in-idukki-dam-water-levels-rise/article71299950.ece",
             "source": "The Hindu",
-            "summary": "Though rain intensity has subsided, moderate heavy rain continues to affect Kerala. IMD issued a yellow alert for the entire State on Monday",
-            "published": "2026-08-03T10:11:25+05:30"
+            "summary": "Isolated incidents of mudslides and fallen trees reported across the district",
+            "published": "2026-08-03T10:49:29+05:30"
           },
           {
-            "title": "Kerala rains: Overnight rain swells rivers, heightens flood threat in central Travancore",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-overnight-rain-swells-rivers-heightens-flood-threat-in-central-travancore/article71299856.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-03T10:10:24+05:30"
-          },
-          {
-            "title": "Japan, US step in to support yen, Tokyo keeps door open for more action",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/japan-us-step-in-to-support-yen-with-rare-joint-intervention-tokyo-keeps-door-open-for-more-action/articleshow/132818720.cms",
+            "title": "Delhi court acquits Brij Bhushan Singh in sexual harassment case",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/brij-bhushan-sharan-singh-and-vinod-tomar-acquitted-in-women-wrestlers-sexual-harassment-case/articleshow/132819625.cms",
             "source": "Times of India",
-            "summary": "Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Economic growth forecasts were cut due to oil prices and a weaker yen.",
-            "published": "2026-08-03T10:10:11+05:30"
+            "summary": "A Delhi court has acquitted former WFI chief Brij Bhushan Sharan Singh and assistant secretary Vinod Tomar. The acquittal came in a sexual harassment case filed by six women wrestlers. Delhi Police had filed a chargesheet against Singh under several IPC sections. The court had previously ordered framing of charges for sexual harassment and intimidation. Both accused were out on bail during the trial proceedings.",
+            "published": "2026-08-03T10:44:54+05:30"
           },
           {
             "title": "Parliament Monsoon Session Day 11 LIVE updates: Indian Statistical Institute Bill, Bankers' Books Evidence Bill likely to be introduced in Lok Sabha",
             "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-11-live-update-indian-statistical-institute-bill-bankers-books-evidence-bill-bjp-congress/article71299754.ece",
             "source": "The Hindu",
             "summary": "The agenda also includes a statement by Finance Minister Nirmala Sitharaman showing Demands for Excess Grants for 2022-23",
-            "published": "2026-08-03T10:03:36+05:30"
+            "published": "2026-08-03T10:44:43+05:30"
           },
           {
-            "title": "Nandi Hill cable car: Forest clearance pending, but construction has begun",
-            "link": "https://www.thehindu.com/news/national/karnataka/nandi-hill-cable-car-forest-clearance-pending-but-construction-has-begun-bengaluru/article71277272.ece",
-            "source": "The Hindu",
-            "summary": "An official informed that nearly 20% of the construction of the LTP has been completed",
-            "published": "2026-08-03T10:01:48+05:30"
-          },
-          {
-            "title": "Two coaches of Samastipur-Saharsa MEMU train catch fire in Bihar, none hurt",
-            "link": "https://www.thehindu.com/news/national/bihar/two-coaches-of-samastipur-saharsa-memu-train-catch-fire-in-bihar-none-hurt/article71299855.ece",
-            "source": "The Hindu",
-            "summary": "East Central Railway (ECR) Chief Public Relations Officer (CPRO) Saraswati Chandra said, \"As 63344 Samastipur-Saharsa MEMU arrived at Simri Bakhtiyarpur station around 3 a.m., the station master reported a fire in the motor coach of the train.\"",
-            "published": "2026-08-03T10:00:27+05:30"
-          },
-          {
-            "title": "Parliament monsoon session LIVE: Proceedings to resume amid House impasse; 4 key bills on agenda",
-            "link": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-2026-live-update-lok-sabha-rajya-sabha-news-neet-cjp-protest-fcra-ram-mandir-theft-amit-shah-101785728488686.html",
-            "source": "Hindustan Times",
-            "summary": "Parliament monsoon session LIVE: The government is looking to introduce four bills in the house today amid ongoing protests from the opposition over Amit Shah's response to the crackdown on student protests and the Ram Mandir donation theft row.",
-            "published": "2026-08-03T09:54:22+05:30"
-          },
-          {
-            "title": "Datia, Bankipur, Manjalpur Bypoll Election LIVE Updates: Counting In Progress In Madhya Pradesh, Gujarat. Prashant Kishor Leads In Bihar",
-            "link": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Bankipur, Datia and Manjalpur Bypoll Election LIVE Updates: Though the bypolls are unlikely to affect the strength of the BJP governments in the three states, the results will be closely watched for their political significance ahead of future elections.",
-            "published": "2026-08-03T09:51:32+05:30"
-          },
-          {
-            "title": "Bihar bypoll: Bankipur byelection counting begins, Prashant Kishor’s electoral debut in focus",
+            "title": "Bihar bypoll: Bankipur byelection counting begins, Prashant Kishor leads as per initial trends",
             "link": "https://www.thehindu.com/news/national/bihar/bankipur-bihar-bypoll-result-prashant-kishor-rekha-guptaneeraj-kumar-august-3-2026/article71299772.ece",
             "source": "The Hindu",
             "summary": "The bypoll, held on July 30, recorded a voter turnout of 34.30%",
-            "published": "2026-08-03T09:50:31+05:30"
+            "published": "2026-08-03T10:43:22+05:30"
           },
           {
-            "title": "Family of four among five killed after car rams into water tanker near Tamil Nadu's Coimbatore",
-            "link": "https://www.hindustantimes.com/india-news/family-of-four-among-five-killed-after-car-rams-into-water-tanker-near-tamil-nadus-coimbatore-101785728719078.html",
+            "title": "Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-31-paise-on-weaker-dollar-lower-oil-prices-and-continued-fii-inflows/articleshow/132819528.cms",
+            "source": "Times of India",
+            "summary": "The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump delayed strikes on Iran helped markets. The Reserve Bank of India's continued intervention further bolstered the currency's…",
+            "published": "2026-08-03T10:39:28+05:30"
+          },
+          {
+            "title": "Delhi court clears Brij Bhushan Singh in sexual harassment case by six women wrestlers",
+            "link": "https://www.hindustantimes.com/india-news/delhi-high-court-clears-brij-bhushan-singh-in-sexual-harassment-case-by-six-women-wrestlers-ex-wfi-chief-101785733664948.html",
             "source": "Hindustan Times",
-            "summary": "The victims, including four members of a family, died on the spot after their car slammed into a water tanker parked on the Udumalaipettai-Pollachi NH.",
-            "published": "2026-08-03T09:50:25+05:30"
+            "summary": "Ex-WFI chief Brij Bhushan Singh was accused of sexual harassing multiple female wrestlers over several years.",
+            "published": "2026-08-03T10:39:03+05:30"
           },
           {
-            "title": "Parliament Monsoon Session 2026 LIVE Updates: Two Bills Set To Be Introduced In Lok Sabha",
-            "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-two-bills-set-to-be-introduced-in-lok-sabha-11857465#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Parliament Monsoon Session 2026 LIVE Updates: Parliament resumes Monsoon Session 2026 with key bills and Opposition protests.",
-            "published": "2026-08-03T09:48:39+05:30"
+            "title": "Kerala rains LIVE | Moderate heavy rain continues; CM to chair emergency meet",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-emergency-meet/article71299854.ece",
+            "source": "The Hindu",
+            "summary": "Though rain intensity has subsided, moderate heavy rain continues to affect Kerala. IMD upgrades rain alert to orange in 10 districts",
+            "published": "2026-08-03T10:35:57+05:30"
           },
           {
-            "title": "Prashant Kishor Takes Early Lead In Bankipur Bypoll In Bihar",
-            "link": "https://www.ndtv.com/india-news/did-student-protests-affect-by-polls-in-bjp-ruled-states-results-today-11856937#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The first set of by-election since the massive countrywide student protests over paper leak are expected to point to the mood of the country, especially the young voters",
-            "published": "2026-08-03T09:46:49+05:30"
+            "title": "Day before bypoll result, Congress suspends former Datia MLA Rajendra Bharti",
+            "link": "https://www.hindustantimes.com/india-news/day-before-bypoll-result-congress-suspends-former-datia-mla-rajendra-bharti-101785732455782.html",
+            "source": "Hindustan Times",
+            "summary": "In April this year, Rajendra Bharti was disqualified from the Legislative Assembly after a court sentenced him to three years’ imprisonment in a fraud case.",
+            "published": "2026-08-03T10:35:16+05:30"
+          },
+          {
+            "title": "Kerala rains: Overnight rain swells rivers, heightens flood threat in central Travancore",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-rains-overnight-rain-swells-rivers-heightens-flood-threat-in-central-travancore/article71299856.ece",
+            "source": "The Hindu",
+            "summary": "Heavy overnight rains in central Travancore, Kerala, have led to a significant rise in water levels across major rivers, igniting fresh flood fears in Kottayam, Pathanamthitta, and Alappuzha districts.",
+            "published": "2026-08-03T10:34:52+05:30"
+          },
+          {
+            "title": "Karnataka SIR: 16 districts, mostly backward, report over 12% voters under ASDDO",
+            "link": "https://www.thehindu.com/news/cities/bangalore/sir-16-districts-mostly-backward-report-over-12-voters-under-asddo/article71297892.ece",
+            "source": "The Hindu",
+            "summary": "Notably, most of these very districts also rank among Karnataka’s lowest on the Human Development Index, according to the Govind Rao Committee report on regional imbalances released earlier this year",
+            "published": "2026-08-03T10:33:26+05:30"
+          },
+          {
+            "title": "DMK to boycott verification of EVMs in Kolathur alleging lapses; plans to go to court",
+            "link": "https://www.thehindu.com/news/national/dmk-to-boycott-verification-of-evms-in-kolathur-alleging-lapses-plans-to-go-to-court/article71295501.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-03T10:32:59+05:30"
+          },
+          {
+            "title": "Allahabad HC pulls up UP police over defunct CCTV and generator at police station",
+            "link": "https://timesofindia.indiatimes.com/legal/news/allahabad-hc-pulls-up-up-police-over-defunct-cctv-and-generator-at-police-station/articleshow/132818471.cms",
+            "source": "Times of India",
+            "summary": "The Allahabad high court found non-functional police station equipment a dereliction of duty. This observation came while hearing a petition regarding illegal detention and lack of power. The court noted generators and solar panels had been non-functional for extended periods. It directed the Uttar Pradesh DGP to ensure all police stations have backup power. The SP was also ordered to explain the status of equipment…",
+            "published": "2026-08-03T10:22:18+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Grid failure plunges Cuba into nationwide blackout",
+            "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
+            "published": "2026-08-03T04:35:39+00:00"
+          },
           {
             "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
             "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
             "published": "2026-08-03T00:18:50+00:00"
-          },
-          {
-            "title": "Trump suggests new talks with Iran to begin on Monday",
-            "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-            "published": "2026-08-03T00:11:18+00:00"
           }
         ],
         "Business": [
@@ -364,11 +364,11 @@
         ],
         "Sports": [
           {
-            "title": "Auqib Nabi replaces injured Jasprit Bumrah for SL Tests",
+            "title": "Auqib Nabi replaces injured Jasprit Bumrah for Test series in Sri Lanka",
             "link": "https://www.cricinfo.com/ci/content/story/1548538.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "Jammu & Kashmir seamer earns maiden India call-up",
-            "published": "2026-08-03T04:58:24+00:00"
+            "summary": "Jammu & Kashmir seamer Auqib Nabi earns maiden India call-up for the two-Test series in Sri Lanka",
+            "published": "2026-08-03T05:24:39+00:00"
           },
           {
             "title": "'We're right on our way' - Jangoo gung-ho about West Indies' chances on tricky pitch",
@@ -627,18 +627,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "विधानसभा उपचुनाव: बिहार के बांकीपुर में शुरुआती मतगणना में प्रशांत किशोर आगे",
-            "link": "https://www.bbc.com/hindi/articles/c0qv74dd72xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
+            "title": "अभिजीत दीपके की विदेशी पर क्यों मचा बवाल? क्या कोई है बड़ा झोल? CJP ने कहा-'PM CARES फंड का भी हिसाब मांगो'",
+            "link": "https://hindi.oneindia.com/news/india/why-controversy-over-abhijeet-dipke-us-education-is-something-fishy-now-cjp-founder-react-1621533.html",
+            "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-08-03T05:00:36+00:00"
+            "published": "2026-08-03T10:56:02+05:30"
+          },
+          {
+            "title": "Sawan Somwar 2026 Live: सावन का पहला सोमवार आज, जानें पूजा मुहूर्त और शिवलिंग पर क्या चढ़ाना होगा शुभ",
+            "link": "https://www.amarujala.com/live/spirituality/festivals/sawan-somwar-2026-live-shubh-muhurat-puja-vidhi-and-vrat-niyam-in-hindi-2026-08-03",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-03T10:51:39+05:30"
+          },
+          {
+            "title": "Pappu Yadav पर हमला करने वाले दोनों आरोपी कौन? पुलिस हिरासत में सुमित और हैप्पी शर्मा ने क्या कहा?",
+            "link": "https://hindi.oneindia.com/news/india/who-attacked-pappu-yadav-delhi-press-conference-2-suspects-identified-detained-1621527.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-03T10:49:33+05:30"
+          },
+          {
+            "title": "'महीने में 5-6 बार संबंध बनाना होगा', 25 साल की मॉडल-एक्ट्रेस का शॉकिंग खुलासा, बोलीं- गंदे काम पर पैसे ऑफर",
+            "link": "https://hindi.oneindia.com/news/entertainment/akanksha-choudhary-25-age-model-actress-said-make-love-6-times-a-month-offer-money-for-dirty-work-1621525.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-03T10:46:45+05:30"
           },
           {
             "title": "Bankipur Assembly Counting Update 2026: बांकीपुर में काउंटिंग जारी, कम वोटिंग ने बढाई बीजेपी की चिंता",
             "link": "https://hindi.oneindia.com/news/india/bankipur-assembly-bypoll-counting-updates-2026-bjp-vs-prashant-kishor-results-1621517.html",
             "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-08-03T10:19:31+05:30"
+            "published": "2026-08-03T10:36:05+05:30"
+          },
+          {
+            "title": "विधानसभा उपचुनाव: बिहार के बांकीपुर में शुरुआती मतगणना में प्रशांत किशोर आगे",
+            "link": "https://www.bbc.com/hindi/articles/c0qv74dd72xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-03T05:00:36+00:00"
           },
           {
             "title": "Parliament Monsoon Session LIVE: संसद के मानसून सत्र का तीसरा हफ्ता शुरू, किन विधेयकों पर चर्चा की संभावना?",
@@ -655,18 +683,18 @@
             "published": "2026-08-03T10:10:58+05:30"
           },
           {
+            "title": "पीएम मोदी पर अभद्र टिप्पणी मामला: दिल्ली पुलिस ने नहीं दर्ज की रेगुलर एफआईआर, जानें अब आगे क्या होगा",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-police-has-not-yet-registered-any-regular-fir-2026-08-03",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-03T10:07:47+05:30"
+          },
+          {
             "title": "Assembly Bypoll Counting 2026: बांकीपुर में PK आगे, दतिया और मांजलपुर सीटों का क्या है हाल?",
             "link": "https://hindi.oneindia.com/news/india/assembly-bypoll-counting-live-2026-bankipur-bihar-datia-mp-manjalpur-gujarat-polling-updates-news-1621501.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-03T10:07:17+05:30"
-          },
-          {
-            "title": "Sawan Somwar 2026 Live: सावन का पहला सोमवार आज, जानें पूजा मुहूर्त और शिवलिंग पर क्या चढ़ाना होगा शुभ",
-            "link": "https://www.amarujala.com/live/spirituality/festivals/sawan-somwar-2026-live-shubh-muhurat-puja-vidhi-and-vrat-niyam-in-hindi-2026-08-03",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-03T10:04:46+05:30"
           },
           {
             "title": "IND vs SL Test: जसप्रीत बुमराह श्रीलंका के खिलाफ टेस्ट सीरीज से बाहर, पहली बार टीम इंडिया में चुने गए आकिब नबी",
@@ -681,37 +709,16 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-03T09:43:38+05:30"
-          },
-          {
-            "title": "Braj Mandal Yatra: यात्रा मार्ग पर 2200 पुलिस जवान, पैरा फोर्स तैनात, नूंह हिंसा का आरोपी बिट्टू बजरंगी नजरबंद",
-            "link": "https://www.amarujala.com/delhi-ncr/nuh/braj-mandal-yatra-on-the-first-monday-of-sawan-in-nuh-2026-08-03",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-03T09:39:57+05:30"
-          },
-          {
-            "title": "हाईवे पर दौड़ती कार में हैवानियत: वो चीखती रही, सात घंटे तक घुमाते रहे; 10वीं की छात्रा को अगवा कर दरिंदगी",
-            "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/class-10-student-abducted-and-gang-assaulted-in-a-moving-car-in-ghaziabad-2026-08-03",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-03T09:39:21+05:30"
-          },
-          {
-            "title": "'मुझे पति और सास ने खूब पीटा, गाली दी', Aditi Sharma का किया हुआ ऐसा हाल, FIR दर्ज, क्या है मामला?",
-            "link": "https://hindi.oneindia.com/news/entertainment/aditi-sharma-said-my-husband-and-saas-beat-me-and-abused-me-fir-registered-know-matter-1621509.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-03T09:24:19+05:30"
-          },
-          {
-            "title": "The Bonus Market Update: हरे निशान पर खुला शेयर बाजार; सेंसेक्स 788 अंक चढ़ा, निफ्टी में भी तेजी",
-            "link": "https://www.amarujala.com/business/bonus/sensex-opening-bell-share-market-bse-sensex-nse-nifty-share-market-news-and-updates-2026-08-03",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-03T09:18:58+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "'महीने में 5-6 बार संबंध बनाना होगा', 25 साल की मॉडल-एक्ट्रेस का शॉकिंग खुलासा, बोलीं- गंदे काम पर पैसे ऑफर",
+            "link": "https://hindi.oneindia.com/news/entertainment/akanksha-choudhary-25-age-model-actress-said-make-love-6-times-a-month-offer-money-for-dirty-work-1621525.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-03T10:46:45+05:30"
+          },
           {
             "title": "'मुझे पति और सास ने खूब पीटा, गाली दी', Aditi Sharma का किया हुआ ऐसा हाल, FIR दर्ज, क्या है मामला?",
             "link": "https://hindi.oneindia.com/news/entertainment/aditi-sharma-said-my-husband-and-saas-beat-me-and-abused-me-fir-registered-know-matter-1621509.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-07-31T18:11:59+05:30"
-          },
-          {
-            "title": "Shehzad Poonawalla ने Kangana Ranaut पर ये क्या कह दिया? कांग्रेस की सुप्रिया श्रीनेत के उड़ गए तोते!",
-            "link": "https://hindi.oneindia.com/news/entertainment/what-shehzad-poonawalla-say-on-kangana-ranaut-congress-supriya-shrinate-left-speechless-1620143.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-07-31T17:18:32+05:30"
           }
         ]
       }
@@ -803,6 +803,13 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "બ્રિજભૂષણ સિંહ મહિલા કુસ્તીબાજ યૌન શોષણ કેસમાં નિર્દોષ જાહેર:દિલ્હી કોર્ટે ચુકાદો સંભળાવ્યો, પૂર્વ સાંસદ બોલ્યા- મારી વિરુદ્ધ ષડયંત્ર રચાયું હતું",
+            "link": "https://www.divyabhaskar.co.in/national/news/brijbhushan-singh-sexual-harassment-case-verdict-delhi-court-138618129.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-03T05:18:01+00:00"
+          },
           {
             "title": "પેટાચૂંટણીના પરિણામો-ભાજપ અધ્યક્ષની બાંકીપુર બેઠક પરથી પ્રશાંત કિશોર આગળ:MPના દતિયા અને ગુજરાતના માંજલપુરમાં BJP આગળ",
             "link": "https://www.divyabhaskar.co.in/national/news/bypoll-results-madhya-pradesh-gujarat-bihar-prashant-kishor-lead-138618003.html",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-02T23:30:00+00:00"
-          },
-          {
-            "title": "ગદરી બાબા બુઝાસિંહ : બ્રિટિશરો સામે લડ્યા પરંતુ દેશમાં પોલીસ 'ઍન્કાઉન્ટર'નો ભોગ બન્યા",
-            "link": "https://www.bbc.com/gujarati/articles/cjwx6jg9588o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-02T16:07:38+00:00"
           }
         ]
       }
@@ -895,11 +895,18 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "சிஜேபி ஓர் அரசியல் கட்சியாக மாறுமா? அடுத்தக்கட்டம் பற்றிய அலசல்",
+            "link": "https://www.bbc.com/tamil/articles/cj4ky18w2z0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-03T05:28:17+00:00"
+          },
+          {
             "title": "விஜய் பேச்சுக்கு மரியாதையே இல்லையா? அரசு பள்ளியில் TVK TVK என கோஷம்! பூரித்த அமைச்சர் பிரபு!",
             "link": "https://tamil.oneindia.com/news/tamilnadu/bluesattai-maran-condemns-minister-prabhu-820895.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-08-03T10:11:48+05:30"
+            "published": "2026-08-03T10:33:30+05:30"
           },
           {
             "title": "ஒரு லிட்டர் ரூ.125 போய் இருக்கும்.. E20 திட்டம் தான் காப்பாத்துது.. புதிய கணக்கை போடும் மத்திய அரசு!",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-08-02T14:01:56+00:00"
-          },
-          {
-            "title": "ஹர்திக் பாண்டியா டிரேட்.. சிஎஸ்கே ரசிகர்களுக்கு சோகம்.. கடைசி நேரத்தில் பேக் அடித்த மும்பை அணி!",
-            "link": "https://tamil.oneindia.com/news/sports/cricket/hardik-pandya-amid-trade-rumors-mumbai-indians-firmly-deny-negotiation-talks-for-hardik-pandya-820811.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-08-02T18:47:59+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,41 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఉప ఎన్నికలో ప్రశాంత్ కిషోర్ జోరు- బీజేపీ కంచుకోట బద్దలవుతుందా ?",
+            "link": "https://telugu.oneindia.com/news/india/prashant-kishor-ahead-in-early-trends-of-bihars-bankipur-bypoll-499959.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-03T10:51:34+05:30"
+          },
+          {
+            "title": "BharataVarsha: గోపిచంద్‌ ‘భరతవర్ష’.. స్పెషల్‌ వీడియో రిలీజ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlpmT1hRamljbVRGUEJ1ck5TQ0FCdDVSbW9Jc2VKR1M4LUlXWE03elNpWWR2NG05UmhHSlgxeUh6RW51UEZPck0wMFJfWVEtdlNVbkJIeUNiQnE0Z1hubkRYNXNnaEdZMWJsT1ZjNGx5TnNKN1NDdmMyVmdSUDlfV2RRdzVCU3FpVFh2a3ZNYVVjU01qSTBzX3BZLWpUX2wtTy1LNm9n0gGmAUFVX3lxTE9CWmZPWFFqaWNtVEZQQnVyTlNDQUJ0NVJtb0lzZUpHUzgtSVdYTTd6U2lZZHY0bTlSaEdKWDF5SHpFbnVQRk9yTTAwUl9ZUS12U1VuQkh5Q2JCcTRnWG5uRFg1c2doR1kxYmxPVmM0bHlOc0o3U0N2YzJWZ1JQOV9XZFF3NUJTcWlUWHZrdk1hVWNTTWpJMHNfcFktalRfbC1PLUs2b2c?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-03T05:20:23+00:00"
+          },
+          {
+            "title": "Rangam Bhavishyavani 2026: ఉజ్జయిని మహంకాళి అమ్మవారి రంగం భవిష్యవాణి.. స్వర్ణలత ఏం చెప్పారు? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0NYSzRMVXBUcUFmSGxoMURkeXg5WktDUEs1cTlIZE5scU5jWWZHc2RLd3RmRlFLcWZHQkxlaWdSd0FCcG5Sc21lR1RsSlJCOFl1bmVqTDdmcnNpeWo0cUM1WExDSlZ5UGN2VWl3b0RSZWVPY1BFTlMzNnl5ZndXcktJZEllU041T2M4T041U2Rxa251dGNnNE1Dc05aM003TWw1RmozRVBnZHRMeGQ2a3Y0YkZEaGNWSUY3R01YVXRwcW9ITWtCYnVuQlkyeXEwaGVuem0xSmdDOHRX0gHcAUFVX3lxTE5nQ1hLNExVcFRxQWZIbGgxRGR5eDlaS0NQSzVxOUhkTmxxTmNZZkdzZEt3dGZGUUtxZkdCTGVpZ1J3QUJwblJzbWVHVGxKUkI4WXVuZWpMN2Zyc2l5ajRxQzVYTENKVnlQY3ZVaXdvRFJlZU9jUEVOUzM2eXlmd1dyS0lkSWVTTjVPYzhPTjVTZHFrbnV0Y2c0TUNzTlozTTdNbDVGajNFUGdkdEx4ZDZrdjRiRkRoY1ZJRjdHTVhVdHBxb0hNa0JidW5CWTJ5cTBoZW56bTFKZ0M4dFc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-03T05:19:57+00:00"
+          },
+          {
+            "title": "GDN Movie Trailer: వేట గురించి సింహ కథ రాస్తే.. ఆసక్తికరంగా ‘జి.డి.ఎన్‌.’ ట్రైలర్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnhiWnN3aE5kR2ZNOGo5RmxTclExNzlOZkRpV1U4OEl1enFFNXZUSGFCa25sa2JBTEcxc1dzd3V0RkdqVmRPQnhfOWpUQWJ3Qkp1dlVsazFyUm50bXBURFpKVzlwSWItd0EtUjFHRW5TdG5TYldnRnBCMjF4OC1oWEhxaTBMT3VV0gGIAUFVX3lxTE5yeGJac3doTmRHZk04ajlGbFNyUTE3OU5mRGlXVTg4SXV6cUU1dlRIYUJrbmxrYkFMRzFzV3N3dXRGR2pWZE9CeF85alRBYndCSnV2VWxrMXJSbnRtcFREWkpXOXBJYi13QS1SMUdFblN0blNiV2dGcEIyMXg4LWhYSHFpMExPdVU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-03T05:12:08+00:00"
+          },
+          {
+            "title": "Alias Rukmini: నాని నిర్మాత.. నితిన్‌ హీరో.. రుక్మిణీ గ్లింప్స్‌ విడుదల - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1kySVk3bnNfREdGSGF1VU8tX21GdUZRdTBtcVY5bWoxT29uSTVhcUZPbmRkMDNoQ1p1MjdKU2JGdEtzV3MybTA4S0VYUXU0VVNGVmlRN1ZramgwTzViRVNPVEZ2cWJnUXBEWUs5UVpDQkZUVm1WZVh2NTdjZXNOMFhsWWtWdHPSAYcBQVVfeXFMTlNZMklZN25zX0RHRkhhdVVPLV9tRnVGUXUwbXFWOW1qMU9vbkk1YXFGT25kZDAzaENadTI3SlNiRnRLc1dzMm0wOEtFWFF1NFVTRlZpUTdWa2poME81YkVTT1RGdnFiZ1FwRFlLOVFaQ0JGVFZtVmVYdjU3Y2VzTjBYbFlrVnRz?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-03T05:00:24+00:00"
+          },
+          {
             "title": "‘నా భార్య ప్రసవ వేదన చూడలేక పిల్లలు పుట్టకుండా ఆపరేషన్ చేయించుకున్నాను’",
             "link": "https://www.bbc.com/telugu/articles/c9v47jk0yv0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1100,13 +1135,6 @@
             "published": "2026-08-03T10:04:17+05:30"
           },
           {
-            "title": "Jason Sanjay: నాన్న సీఎం కావడం ఒక విప్లవం: విజయ్‌ కుమారుడు జాసన్‌ సంజయ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmJHaEsxOEFsY3dsTm9UR3ZjRF9GVFJELV90TDBxbVFGb3dRQzhiaHNqdlVHbWtOeENnVmVySlo3akoxQUlxTnpEMGt6TWtXZnB6NTE4MXhfcGZLb3VVZWR6Vi03ZzlJZWJySk9qRVNSZ01MZmFWbjE4UXk0ZWtxU1ZaVE1OQXY1Z3BNVDJjYXlyQU1DV2NiNk8tOXExTFhGa3dUS0pENGFOZ0RuOU9DUTdCTjJnMjZkbFBYaU1oR2JsMDBPemZNSmtveDbSAcwBQVVfeXFMTU5iR2hLMThBbGN3bE5vVEd2Y0RfRlRSRC1fdEwwcW1RRm93UUM4YmhzanZVR21rTnhDZ1ZlckpaN2pKMUFJcU56RDBrek1rV2ZwejUxODF4X3BmS291VWVkelYtN2c5SWVickpPakVTUmdNTGZhVm4xOFF5NGVrcVNWWlRNTkF2NWdwTVQyY2F5ckFNQ1djYjZPLTlxMUxYRmt3VEtKRDRhTmdEbjlPQ1E3Qk4yZzI2ZGxQWGlNaEdibDAwT3pmTUprb3g2?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-03T04:27:46+00:00"
-          },
-          {
             "title": "ఆగస్టు 8న బంద్.. ఏయే జిల్లాల్లో ప్రభావం? అసలు కారణం ఇదే..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/manyambandh-on-the-8th-of-this-month-adivasi-groups-call-for-the-strike-manyambandh-news-ap-latest-499929.html",
             "source": "Oneindia Telugu",
@@ -1121,39 +1149,11 @@
             "published": "2026-08-03T09:36:46+05:30"
           },
           {
-            "title": "సిద్ధి వినాయక ఆలయంలో ఏటా రూ.18 కోట్ల హుండీ ఆదాయం దోపిడీ: రాజ్‌ ఠాక్రే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wdjJuQnlDYWZGZ2s3d0RibnE0UjBOcHBlb0FfMXQxd3gtS1pHSmVGX0wta0VCZDJDMVdZUnNMZ2NnaXdBUmJaTWhtN2FaNEU2SlJqVnhxVE1jUDR0ODZqR21iWlRja2tsYVdUbDI3Vkc4TVpLdVhxS2Nn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-03T04:02:00+00:00"
-          },
-          {
             "title": "CommonWealth Games 2026: ముగిసిన కామన్వెల్త్ గేమ్స్‌ సంబురం.. ఫొటోలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXU0WVYtZnZZenhoUG05OExPREpHMGlzMVNHa0c5TlZyODhTWWFxcmtOLWQ1ZHhqeVRMQzM2SFZ4czgyUjNNUTFnUU51Rll2TWxsS0lsUWVkcnIybzhueVg2ZV8yRVZ4cWhlWjdPZFZnbWQyajZ1TUZXd19weUV5TXdZOFFaWWRu0gGIAUFVX3lxTE1BdTRZVi1mdll6eGhQbTk4TE9ESkcwaXMxU0drRzlOVnI4OFNZYXFya04tZDVkeGp5VExDMzZIVnhzODJSM01RMWdRTnVGWXZNbGxLSWxRZWRycjJvOG55WDZlXzJFVnhxaGVaN09kVmdtZDJqNnVNRld3X3B5RXlNd1k4UVpZZG4?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-03T04:01:37+00:00"
-          },
-          {
-            "title": "తమిళనాడులో రైతుల వింత నిరసన",
-            "link": "https://telugu.oneindia.com/news/india/sand-burial-protest-at-tiruchirappalli-cauvery-water-release-demanded-for-tamil-nadu-irrigation-499947.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-03T09:28:46+05:30"
-          },
-          {
-            "title": "రైలులో అగ్నిప్రమాదం: మంటల్లో చిక్కుకున్న 3 బోగీలు!(వీడియో)",
-            "link": "https://telugu.oneindia.com/news/india/bihar-train-fire-major-accident-averted-at-saharsa-station-as-passengers-escape-details-499945.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-03T09:19:54+05:30"
-          },
-          {
-            "title": "ఇక సిద్దం అయిపోండి, ఆగస్టు 5 - కేంద్రం సంచలన నిర్ణయం..!?",
-            "link": "https://telugu.oneindia.com/news/india/pm-modi-made-land-mark-decisions-on-august-5-what-major-announcement-could-this-year-here-the-rep-499943.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-03T09:08:20+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,18 +1249,32 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "KKRTC: ಹುಬ್ಬಳ್ಳಿ-ವಿಜಯಪುರ ಬಸ್ ಅಪಘಾತ! 9 ಪ್ರಯಾಣಿಕರು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು",
+            "link": "https://kannada.oneindia.com/news/karnataka/hubballi-vijayapura-bus-accident-at-nargund-amargol-cross-at-sunday-9-passengers-physical-harm-463279.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-03T10:48:25+05:30"
+          },
+          {
+            "title": "KEA AO-AAO: ಕೃಷಿ ಇಲಾಖೆ ನೇಮಕಾತಿ ಅಭ್ಯರ್ಥಿಗಳೇ ಗಮನಿಸಿ, ಪ್ರವೇಶ ಪತ್ರ ಬಿಡುಗಡೆ; ಡೌನ್‌ಲೋಡ್ ಲಿಂಕ್ ಇಲ್ಲಿದೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/kea-releases-ao-aao-admit-cards-2026-karnataka-agriculture-recruitment-exam-on-august-8-and-9-463285.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-03T10:47:36+05:30"
+          },
+          {
+            "title": "ಕಾಲೇಜ್‌ ಫೀಸ್‌ ಕಟ್ಟಲು ಪೆಟ್ರೋಲ್ ಬಂಕ್‌ನಲ್ಲಿ ಪಾರ್ಟ್ ಟೈಮ್ ಕೆಲಸ: ವಿದ್ಯಾರ್ಥಿನಿಯ ಸ್ಪೂರ್ತಿದಾಯಕ ಕಥೆ ವೈರಲ್",
+            "link": "https://kannada.oneindia.com/news/karnataka/inspiring-story-college-student-working-at-petrol-pump-to-fund-her-education-wins-hearts-online-463281.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-03T10:32:53+05:30"
+          },
+          {
             "title": "ಅಪ್ಪನನ್ನು ಕಳೆದುಕೊಂಡ ನೋವಿನಲ್ಲೂ ಬಿಡಲಿಲ್ಲ ಛಲ: ಮಡುಗಟ್ಟಿದ ದುಃಖದ ಮಧ್ಯೆಯೂ ಕಾಮನ್‌ವೆಲ್ತ್‌ ಜುಡೋದಲ್ಲಿ ಚಿನ್ನ ಗೆದ್ದ ಅಸ್ಮಿತಾ",
             "link": "https://kannada.oneindia.com/news/sports/commonwealth-games-2026-asmita-dey-wins-gold-medal-in-judo-emotional-tribute-to-her-late-father-463183.html",
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-03T09:57:37+05:30"
-          },
-          {
-            "title": "KKRTC: ಹುಬ್ಬಳ್ಳಿ-ವಿಜಯಪುರ ಬಸ್ ಅಪಘಾತ! 9 ಪ್ರಯಾಣಿಕರು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು",
-            "link": "https://kannada.oneindia.com/news/karnataka/hubballi-vijayapura-bus-accident-at-nargund-amargol-cross-at-sunday-9-passengers-physical-harm-463279.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-03T09:53:53+05:30"
           },
           {
             "title": "ರಾಜ್ಯದ 7 ಸಾವಿರ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಎಚ್‌ಐವಿ: ಇದರ ಅಸಲಿಯತ್ತೇನು? ಯು.ಟಿ. ಖಾದರ್ ಸ್ಪಷ್ಟನೆ",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-02T20:52:29+05:30"
-          },
-          {
-            "title": "Jasprit Bumrah: ಟೀಮ್ ಇಂಡಿಯಾದಿಂದ ಹೊರಗುಳಿದ ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ..",
-            "link": "https://kannada.oneindia.com/news/sports/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-big-blow-for-team-india-before-galle-test-463255.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-02T19:06:35+05:30"
-          },
-          {
-            "title": "ಮತದಾರರ ಪಟ್ಟಿ ಪರಿಷ್ಕರಣೆ; ಮನೆ-ಮನೆಗೆ ಉಚಿತ ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ ವಿತರಣೆಗೆ ರಾಜ್ಯ ಸರ್ಕಾರ ಆದೇಶ",
-            "link": "https://kannada.oneindia.com/news/karnataka/sir-people-of-the-state-the-government-has-ordered-distribution-of-free-caste-certificate-at-home-463253.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-02T18:28:27+05:30"
           }
         ],
         "Entertainment": [
