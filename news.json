@@ -1,196 +1,210 @@
 {
-  "updated_at": "2026-08-04T16:31:17.866605+00:00",
+  "updated_at": "2026-08-04T17:01:31.552866+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-            "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+            "title": "Green means go for uniform ahead of new school year",
+            "link": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Sirius Academy West in Hull is giving parents the chance to make sure uniforms conform in advance.",
+            "published": "2026-08-04T16:57:28+00:00"
+          },
+          {
+            "title": "Death of Basheer: Kerala HC grants State a week to respond to plea against change of trial court",
+            "link": "https://www.thehindu.com/news/national/kerala/death-of-basheer-kerala-hc-grants-state-a-week-to-respond-to-plea-against-change-of-trial-court/article71305259.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:23:36+05:30"
+          },
+          {
+            "title": "Hyderabad receives another rain spell on August 4 after overnight downpour",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/heavy-rain-lashes-parts-of-hyderabad-on-august-4/article71305425.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:23:31+05:30"
+          },
+          {
+            "title": "Kerala High Court directs CBI to conclude investigation in Jesna missing case within 6 months",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-cbi-to-conclude-investigation-in-jesna-missing-case-within-6-months/article71306208.ece",
+            "source": "The Hindu",
+            "summary": "Court says that the probe should not continue indefinitely as eight years has passed since she was last seen",
+            "published": "2026-08-04T22:23:06+05:30"
+          },
+          {
+            "title": "No representation for five districts in north Karnataka in State Cabinet",
+            "link": "https://www.thehindu.com/news/national/karnataka/no-representation-for-five-districts-in-north-karnataka-in-state-cabinet/article71305948.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:21:51+05:30"
+          },
+          {
+            "title": "SC mandates SOPs, mechanisms to curb ‘digital arrests’, facilitate time-bound refunds",
+            "link": "https://www.thehindu.com/news/national/sc-mandates-sops-mechanisms-to-curb-digital-arrests-facilitate-time-bound-refunds/article71305030.ece",
+            "source": "The Hindu",
+            "summary": "Directs Centre, States, the Reserve Bank of India and telecom authorities to put in place measures for grievance redressal and zero FIRs among",
+            "published": "2026-08-04T22:20:29+05:30"
+          },
+          {
+            "title": "Over 95% of farmland in Belagavi cultivated",
+            "link": "https://www.thehindu.com/news/national/karnataka/over-95-of-farmland-in-belagavi-cultivated/article71306150.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:20:27+05:30"
+          },
+          {
+            "title": "Watch: Evacuations as Guatemala volcano erupts",
+            "link": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-            "published": "2026-08-04T16:29:29+00:00"
+            "summary": "The Fuego volcano is located near Escuintla, Chimaltenango, and Sacatepéquez.",
+            "published": "2026-08-04T16:50:07+00:00"
+          },
+          {
+            "title": "13 injured as private bus overturns on NH-16 in Krishna district",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/13-injured-as-private-bus-overturns-on-nh-16-in-krishna-district/article71306419.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:19:19+05:30"
+          },
+          {
+            "title": "No place for women: AAP criticises Cabinet expansion",
+            "link": "https://www.thehindu.com/news/national/karnataka/no-place-for-women-aap-criticises-cabinet-expansion/article71306038.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:18:27+05:30"
+          },
+          {
+            "title": "Government has no role; event being organised by ‘private media entity’: MEA on Sheikh Hasina’s press event",
+            "link": "https://www.thehindu.com/news/national/government-has-no-role-event-being-organised-by-private-media-entity-mea-on-sheikh-hasinas-press-event/article71306147.ece",
+            "source": "The Hindu",
+            "summary": "Bangladesh cautions that continued political activities by Bangladesh’s deposed Prime Minister Sheikh Hasina on Indian territory can \"harm\" bilateral ties",
+            "published": "2026-08-04T22:16:10+05:30"
+          },
+          {
+            "title": "Tharoor to attend Mumbai event where RSS chief will have ‘session with Gen Z’? He clarifies",
+            "link": "https://www.hindustantimes.com/india-news/tharoor-at-mumbai-event-where-rss-chief-mohan-bhagwat-will-have-session-with-gen-z-heres-what-we-know-101785858462180.html",
+            "source": "Hindustan Times",
+            "summary": "Tharoor clarified that the programme was not an RSS event and was instead a student-led initiative involving educationists and thought leaders.",
+            "published": "2026-08-04T22:12:32+05:30"
           },
           {
             "title": "Pakistan in danger of falling into same trap after self-destructive morning",
             "link": "https://www.cricinfo.com/ci/content/story/1548707.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "An improved bowling performance from West Indies wiped off Pakistan's gains from last evening",
-            "published": "2026-08-04T16:27:09+00:00"
+            "published": "2026-08-04T16:40:32+00:00"
           },
           {
-            "title": "More than 170 migrants rescued after boat catches fire in Channel",
-            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "title": "‘No insurance, no fuel’: SC directs govt to prepare pilot project",
+            "link": "https://timesofindia.indiatimes.com/india/no-insurance-no-fuel-sc-directs-govt-to-prepare-pilot-project-flags-16-54-crore-uninsured-vehicles/articleshow/132866959.cms",
+            "source": "Times of India",
+            "summary": "The Supreme Court has initiated a pilot project that connects fuel supply to the vehicle's insurance status, aiming to enhance adherence to mandatory third-party insurance laws. Additionally, the court has extended the insurance requirement period for new vehicles, intending to ensure that accident victims receive prompt compensation. Monitoring compliance will be supported by automatic number plate recognition…",
+            "published": "2026-08-04T22:09:49+05:30"
+          }
+        ],
+        "India": [
+          {
+            "title": "Death of Basheer: Kerala HC grants State a week to respond to plea against change of trial court",
+            "link": "https://www.thehindu.com/news/national/kerala/death-of-basheer-kerala-hc-grants-state-a-week-to-respond-to-plea-against-change-of-trial-court/article71305259.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:23:36+05:30"
+          },
+          {
+            "title": "Hyderabad receives another rain spell on August 4 after overnight downpour",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/heavy-rain-lashes-parts-of-hyderabad-on-august-4/article71305425.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:23:31+05:30"
+          },
+          {
+            "title": "Kerala High Court directs CBI to conclude investigation in Jesna missing case within 6 months",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-cbi-to-conclude-investigation-in-jesna-missing-case-within-6-months/article71306208.ece",
+            "source": "The Hindu",
+            "summary": "Court says that the probe should not continue indefinitely as eight years has passed since she was last seen",
+            "published": "2026-08-04T22:23:06+05:30"
+          },
+          {
+            "title": "No representation for five districts in north Karnataka in State Cabinet",
+            "link": "https://www.thehindu.com/news/national/karnataka/no-representation-for-five-districts-in-north-karnataka-in-state-cabinet/article71305948.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:21:51+05:30"
+          },
+          {
+            "title": "SC mandates SOPs, mechanisms to curb ‘digital arrests’, facilitate time-bound refunds",
+            "link": "https://www.thehindu.com/news/national/sc-mandates-sops-mechanisms-to-curb-digital-arrests-facilitate-time-bound-refunds/article71305030.ece",
+            "source": "The Hindu",
+            "summary": "Directs Centre, States, the Reserve Bank of India and telecom authorities to put in place measures for grievance redressal and zero FIRs among",
+            "published": "2026-08-04T22:20:29+05:30"
+          },
+          {
+            "title": "Over 95% of farmland in Belagavi cultivated",
+            "link": "https://www.thehindu.com/news/national/karnataka/over-95-of-farmland-in-belagavi-cultivated/article71306150.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:20:27+05:30"
+          },
+          {
+            "title": "13 injured as private bus overturns on NH-16 in Krishna district",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/13-injured-as-private-bus-overturns-on-nh-16-in-krishna-district/article71306419.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:19:19+05:30"
+          },
+          {
+            "title": "No place for women: AAP criticises Cabinet expansion",
+            "link": "https://www.thehindu.com/news/national/karnataka/no-place-for-women-aap-criticises-cabinet-expansion/article71306038.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-04T22:18:27+05:30"
+          },
+          {
+            "title": "Government has no role; event being organised by ‘private media entity’: MEA on Sheikh Hasina’s press event",
+            "link": "https://www.thehindu.com/news/national/government-has-no-role-event-being-organised-by-private-media-entity-mea-on-sheikh-hasinas-press-event/article71306147.ece",
+            "source": "The Hindu",
+            "summary": "Bangladesh cautions that continued political activities by Bangladesh’s deposed Prime Minister Sheikh Hasina on Indian territory can \"harm\" bilateral ties",
+            "published": "2026-08-04T22:16:10+05:30"
+          },
+          {
+            "title": "Tharoor to attend Mumbai event where RSS chief will have ‘session with Gen Z’? He clarifies",
+            "link": "https://www.hindustantimes.com/india-news/tharoor-at-mumbai-event-where-rss-chief-mohan-bhagwat-will-have-session-with-gen-z-heres-what-we-know-101785858462180.html",
+            "source": "Hindustan Times",
+            "summary": "Tharoor clarified that the programme was not an RSS event and was instead a student-led initiative involving educationists and thought leaders.",
+            "published": "2026-08-04T22:12:32+05:30"
+          },
+          {
+            "title": "‘No insurance, no fuel’: SC directs govt to prepare pilot project",
+            "link": "https://timesofindia.indiatimes.com/india/no-insurance-no-fuel-sc-directs-govt-to-prepare-pilot-project-flags-16-54-crore-uninsured-vehicles/articleshow/132866959.cms",
+            "source": "Times of India",
+            "summary": "The Supreme Court has initiated a pilot project that connects fuel supply to the vehicle's insurance status, aiming to enhance adherence to mandatory third-party insurance laws. Additionally, the court has extended the insurance requirement period for new vehicles, intending to ensure that accident victims receive prompt compensation. Monitoring compliance will be supported by automatic number plate recognition…",
+            "published": "2026-08-04T22:09:49+05:30"
+          },
+          {
+            "title": "17 sustain injuries after Air India flight hits turbulence",
+            "link": "https://www.thehindu.com/news/national/air-india-phuket-delhi-flight-encounters-turbulence-few-passengers-crew-sustain-minor-injuries/article71304477.ece",
+            "source": "The Hindu",
+            "summary": "As many as 137 passengers were onboard Air India’s Phuket-Delhi flight",
+            "published": "2026-08-04T22:08:48+05:30"
+          }
+        ],
+        "World": [
+          {
+            "title": "Watch: Evacuations as Guatemala volcano erupts",
+            "link": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-            "published": "2026-08-04T16:21:43+00:00"
-          },
-          {
-            "title": "Kerala HC directs Meta to unblock journalist’s Facebook account",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-meta-to-unblock-journalists-facebook-account/article71306429.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-04T21:49:43+05:30"
-          },
-          {
-            "title": "'Will give fitting reply': Sunetra Pawar on Congress' 'gungi gudiya' jibe",
-            "link": "https://timesofindia.indiatimes.com/india/will-give-fitting-reply-at-appropriate-time-sunetra-pawar-on-congress-gungi-gudiya-jibe/articleshow/132866911.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-04T21:47:08+05:30"
-          },
-          {
-            "title": "Brief respite from downpour in Kozhikode, orange alert on August 5",
-            "link": "https://www.thehindu.com/news/national/kerala/brief-respite-from-downpour-in-kozhikode-orange-alert-on-august-5/article71306244.ece",
-            "source": "The Hindu",
-            "summary": "The district also reported the second rain-related death in this season on August 4 when Suhail, 38, of Peruvayal, who had been undergoing treatment after he fell into the floodwaters on August 1, died.",
-            "published": "2026-08-04T21:46:07+05:30"
-          },
-          {
-            "title": "Kangana, Khushbu Sundar support Udhayanidhi Stalin's arrest, slam his comments on Trisha",
-            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-khushbu-sundar-support-udhayanidhi-stalins-arrest-slam-his-comments-on-trisha-public-display-of-filthy-abuses-double-meaning-obscene-and-vulgar-jokes-is-not-acceptable/articleshow/132866757.cms",
-            "source": "Times of India",
-            "summary": "Kangana Ranaut and Khushbu Sundar expressed strong disapproval of Udhayanidhi Stalin's recent comments, which led to his arrest and subsequent bail. Stalin’s remarks arose during a DMK protest about water disputes, provoking backlash from the Tamilaga Vettri Kazhagam party, who accused him of objectifying women. This incident has ignited a considerable political controversy and public discourse.",
-            "published": "2026-08-04T21:42:37+05:30"
+            "summary": "The Fuego volcano is located near Escuintla, Chimaltenango, and Sacatepéquez.",
+            "published": "2026-08-04T16:50:07+00:00"
           },
           {
             "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
             "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-            "published": "2026-08-04T16:11:59+00:00"
+            "published": "2026-08-04T16:33:39+00:00"
           },
-          {
-            "title": "Kerala rains 2026: Floodwaters breach new areas in Kottayam and Pathanamthitta",
-            "link": "https://www.thehindu.com/news/national/kerala/floodwaters-breach-new-areas-in-kottayam-and-pathanamthitta/article71305882.ece",
-            "source": "The Hindu",
-            "summary": "Floodwater has been spreading to more areas of Upper Kuttanad",
-            "published": "2026-08-04T21:39:56+05:30"
-          },
-          {
-            "title": "Kerala rains 2026: PWD puts damage to roads, bridges at ₹50 crore",
-            "link": "https://www.thehindu.com/news/national/kerala/pwd-puts-damage-to-roads-bridges-at-50-crore/article71306106.ece",
-            "source": "The Hindu",
-            "summary": "The exact extent of the damage can be assessed only after floodwaters completely recede in the worst-affected areas, says PWD Minister P.K. Basheer",
-            "published": "2026-08-04T21:39:29+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrest LIVE updates: Leader of Opposition says statement wasn't intended as double entendre",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-            "source": "The Hindu",
-            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
-            "published": "2026-08-04T21:38:54+05:30"
-          },
-          {
-            "title": "Three NCPI MPs skip NDA meet, refuse to join alliance or BJP",
-            "link": "https://www.thehindu.com/news/national/west-bengal/three-ncpi-mps-skip-nda-meet-refuse-to-join-alliance-or-bjp/article71305741.ece",
-            "source": "The Hindu",
-            "summary": "The three Lok Sabha MPs, all from Murshidabad district, say they have made their stand clear; TMC chief Mamata Banerjee says rebel MPs deserted the party under pressure from police, Central agencies",
-            "published": "2026-08-04T21:38:15+05:30"
-          },
-          {
-            "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-            "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-            "published": "2026-08-04T16:07:29+00:00"
-          },
-          {
-            "title": "Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters",
-            "link": "https://www.thehindu.com/news/national/telangana/labour-minister-vivek-says-advanced-technology-centres-will-boost-employability-among-youngsters/article71306484.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-04T21:36:32+05:30"
-          }
-        ],
-        "India": [
-          {
-            "title": "Kerala HC directs Meta to unblock journalist’s Facebook account",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-meta-to-unblock-journalists-facebook-account/article71306429.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-04T21:49:43+05:30"
-          },
-          {
-            "title": "'Will give fitting reply': Sunetra Pawar on Congress' 'gungi gudiya' jibe",
-            "link": "https://timesofindia.indiatimes.com/india/will-give-fitting-reply-at-appropriate-time-sunetra-pawar-on-congress-gungi-gudiya-jibe/articleshow/132866911.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-04T21:47:08+05:30"
-          },
-          {
-            "title": "Brief respite from downpour in Kozhikode, orange alert on August 5",
-            "link": "https://www.thehindu.com/news/national/kerala/brief-respite-from-downpour-in-kozhikode-orange-alert-on-august-5/article71306244.ece",
-            "source": "The Hindu",
-            "summary": "The district also reported the second rain-related death in this season on August 4 when Suhail, 38, of Peruvayal, who had been undergoing treatment after he fell into the floodwaters on August 1, died.",
-            "published": "2026-08-04T21:46:07+05:30"
-          },
-          {
-            "title": "Kangana, Khushbu Sundar support Udhayanidhi Stalin's arrest, slam his comments on Trisha",
-            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-khushbu-sundar-support-udhayanidhi-stalins-arrest-slam-his-comments-on-trisha-public-display-of-filthy-abuses-double-meaning-obscene-and-vulgar-jokes-is-not-acceptable/articleshow/132866757.cms",
-            "source": "Times of India",
-            "summary": "Kangana Ranaut and Khushbu Sundar expressed strong disapproval of Udhayanidhi Stalin's recent comments, which led to his arrest and subsequent bail. Stalin’s remarks arose during a DMK protest about water disputes, provoking backlash from the Tamilaga Vettri Kazhagam party, who accused him of objectifying women. This incident has ignited a considerable political controversy and public discourse.",
-            "published": "2026-08-04T21:42:37+05:30"
-          },
-          {
-            "title": "Kerala rains 2026: Floodwaters breach new areas in Kottayam and Pathanamthitta",
-            "link": "https://www.thehindu.com/news/national/kerala/floodwaters-breach-new-areas-in-kottayam-and-pathanamthitta/article71305882.ece",
-            "source": "The Hindu",
-            "summary": "Floodwater has been spreading to more areas of Upper Kuttanad",
-            "published": "2026-08-04T21:39:56+05:30"
-          },
-          {
-            "title": "Kerala rains 2026: PWD puts damage to roads, bridges at ₹50 crore",
-            "link": "https://www.thehindu.com/news/national/kerala/pwd-puts-damage-to-roads-bridges-at-50-crore/article71306106.ece",
-            "source": "The Hindu",
-            "summary": "The exact extent of the damage can be assessed only after floodwaters completely recede in the worst-affected areas, says PWD Minister P.K. Basheer",
-            "published": "2026-08-04T21:39:29+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrest LIVE updates: Leader of Opposition says statement wasn't intended as double entendre",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-            "source": "The Hindu",
-            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
-            "published": "2026-08-04T21:38:54+05:30"
-          },
-          {
-            "title": "Three NCPI MPs skip NDA meet, refuse to join alliance or BJP",
-            "link": "https://www.thehindu.com/news/national/west-bengal/three-ncpi-mps-skip-nda-meet-refuse-to-join-alliance-or-bjp/article71305741.ece",
-            "source": "The Hindu",
-            "summary": "The three Lok Sabha MPs, all from Murshidabad district, say they have made their stand clear; TMC chief Mamata Banerjee says rebel MPs deserted the party under pressure from police, Central agencies",
-            "published": "2026-08-04T21:38:15+05:30"
-          },
-          {
-            "title": "Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters",
-            "link": "https://www.thehindu.com/news/national/telangana/labour-minister-vivek-says-advanced-technology-centres-will-boost-employability-among-youngsters/article71306484.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-04T21:36:32+05:30"
-          },
-          {
-            "title": "Cut in Plan fund sparks heated debate in Kozhikode Corporation Council",
-            "link": "https://www.thehindu.com/news/national/kerala/cut-in-plan-fund-sparks-heated-debate-in-kozhikode-corporation-council/article71306243.ece",
-            "source": "The Hindu",
-            "summary": "The State government had slashed the Corporation’s Plan fund from ₹132 crore to ₹23 crore, says development standing committee chairman V.P. Manoj",
-            "published": "2026-08-04T21:34:57+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin's First Reaction After Release: \"See This Arrest As Comedy\"",
-            "link": "https://www.ndtv.com/india-news/udhayanidhi-stalins-first-reaction-after-release-see-this-arrest-as-comedy-11865770#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "",
-            "published": "2026-08-04T21:34:39+05:30"
-          },
-          {
-            "title": "Amitabbh Singh assumes charge as Chief Postmaster General, Kerala Circle",
-            "link": "https://www.thehindu.com/news/national/kerala/amitabbh-singh-assumes-charge-as-chief-postmaster-general-kerala-circle/article71306174.ece",
-            "source": "The Hindu",
-            "summary": "During his career, Singh has held several key positions in the Department of Posts",
-            "published": "2026-08-04T21:29:51+05:30"
-          }
-        ],
-        "World": [
           {
             "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
             "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
@@ -206,11 +220,18 @@
             "published": "2026-08-04T16:21:43+00:00"
           },
           {
-            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-            "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-            "published": "2026-08-04T16:11:59+00:00"
+            "title": "Photos: Guatemala’s Fuego volcano erupts, forcing evacuations",
+            "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-guatemalas-fuego-volcano-erupts-forcing-evacuations?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Guatemala raises alert as Fuego volcano erupts, spewing ash and forcing village evacuations.",
+            "published": "2026-08-04T16:14:34+00:00"
+          },
+          {
+            "title": "War on Iran: Trump says Iran has one ‘last chance’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.",
+            "published": "2026-08-04T16:13:49+00:00"
           },
           {
             "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
@@ -218,6 +239,20 @@
             "source": "BBC World",
             "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
             "published": "2026-08-04T16:07:29+00:00"
+          },
+          {
+            "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+            "link": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US president&#039;s hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.",
+            "published": "2026-08-04T16:01:35+00:00"
+          },
+          {
+            "title": "Guatemala issues second-highest ‘danger’ alert after Fuego volcano erupts",
+            "link": "https://www.aljazeera.com/news/2026/8/4/guatemala-issues-second-highest-danger-alert-after-fuego-volcano-erupts?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Fuego, one of the region&#039;s most active volcanoes, has erupted repeatedly in recent years, forcing mass evacuations.",
+            "published": "2026-08-04T16:00:36+00:00"
           },
           {
             "title": "Crews battle wildfire that shut down major highways in Israel",
@@ -234,49 +269,21 @@
             "published": "2026-08-04T15:52:48+00:00"
           },
           {
-            "title": "More key FIFA staff break ranks as Infantino’s World Cup plan faces mutiny",
+            "title": "Infantino’s FIFA World Cup fallout heads to mutiny as more staff break rank",
             "link": "https://www.aljazeera.com/sports/2026/8/4/more-key-fifa-staff-break-ranks-as-infantinos-world-cup-plan-faces-mutiny?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Battle lines being drawn within FIFA as key figures break ranks with President Gianni Infantino over failed selloff.",
             "published": "2026-08-04T15:48:35+00:00"
-          },
-          {
-            "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
-            "published": "2026-08-04T15:34:40+00:00"
-          },
-          {
-            "title": "Drone appears to stalk man before exploding",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
-            "published": "2026-08-04T15:11:51+00:00"
-          },
-          {
-            "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-            "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-            "published": "2026-08-04T15:07:52+00:00"
-          },
-          {
-            "title": "World's oldest president reshuffles army as his absence stokes unease",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
-            "published": "2026-08-04T14:53:28+00:00"
-          },
-          {
-            "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-            "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
-            "published": "2026-08-04T14:51:51+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Green means go for uniform ahead of new school year",
+            "link": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Sirius Academy West in Hull is giving parents the chance to make sure uniforms conform in advance.",
+            "published": "2026-08-04T16:57:28+00:00"
+          },
           {
             "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
             "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
@@ -353,13 +360,6 @@
             "source": "Economic Times",
             "summary": "The government's Life Insurance Corporation share sale has garnered overwhelming attention from institutional investors, with bids amounting to an impressive Rs 36,400 crore received on Tuesday. The government is offloading a 6.5 percent stake in the leading insurer to fulfill regulatory public shareholding mandates sooner than anticipated. Retail investors will have the opportunity to engage in this offer beginning…",
             "published": "2026-08-04T17:52:47+05:30"
-          },
-          {
-            "title": "Apple issues new challenge against UK order for access to private user data",
-            "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
-            "published": "2026-08-04T10:22:40+00:00"
           }
         ],
         "Sports": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1548707.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "An improved bowling performance from West Indies wiped off Pakistan's gains from last evening",
-            "published": "2026-08-04T16:27:09+00:00"
+            "published": "2026-08-04T16:40:32+00:00"
           },
           {
             "title": "PCB axes WAPDA and Sahir Associates from 2026-27 domestic season",
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "मुंबई में टेलीकॉम निवेशकों को मध्यप्रदेश का न्योता, ग्वालियर में बनेगा टेलीकॉम मैन्युफैक्चरिंग हब: सीएम मोहन यादव",
+            "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-investors-round-table-gwalior-telecom-manufacturing-zone-012-1622795.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-04T22:31:16+05:30"
+          },
+          {
+            "title": "Pradeep Rawat Death Reason: आमिर खान के करीबी एक्टर प्रदीप रावत की कैसे हो गई मौत? महाभारत से मिली थी पहचान",
+            "link": "https://hindi.oneindia.com/news/entertainment/pradeep-singh-rawat-death-reason-ghajini-lagaan-aamir-khan-co-actor-passed-away-mahabharat-links-1622767.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-04T22:06:26+05:30"
+          },
+          {
+            "title": "MP News: ग्वालियर में टेलीकॉम मैन्युफैक्चरिंग ज़ोन को मिला निवेशकों का भरोसा, मुंबई में 1,550 करोड़ रुपये के निवेश प्रस्ताव",
+            "link": "https://hindi.oneindia.com/news/india/gwalior-telecom-manufacturing-zone-investment-round-table-012-1622765.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-04T22:01:11+05:30"
+          },
+          {
             "title": "महज 12 हजार की आबादी वाले देश ने क्यों बदला अपना नाम? अब किस नाम से जाना जाएगा",
             "link": "https://hindi.oneindia.com/news/international/why-nauru-changed-its-country-name-new-official-name-explained-hindi-1622745.html",
             "source": "Oneindia Hindi",
@@ -634,7 +655,7 @@
             "published": "2026-08-04T22:00:22+05:30"
           },
           {
-            "title": "जम्मू-कश्मीर में धारा 370 की बहाली की मांग:महबूबा मुफ्ती का श्रीनगर में प्रदर्शन, कहा- 5 अगस्त नहीं भूल सकते",
+            "title": "महबूबा उल्टा तिरंगा पकड़कर धरने पर बैठीं:धारा 370 की बहाली की मांग की, श्रीनगर में कहा- 5 अगस्त नहीं भूल सकते",
             "link": "https://www.bhaskar.com/national/news/mehbooba-mufti-protest-srinagar-article-370-restoration-demand-138632765.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -688,30 +709,16 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-04T15:43:15+00:00"
-          },
-          {
-            "title": "IND vs SL: श्रीलंका के खिलाफ टेस्ट में सर्वाधिक छक्के जड़ने वाले 5 भारतीय खिलाड़ी",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/ind-vs-sl-top-5-indian-batters-with-the-most-sixes-against-sri-lanka-in-test-cricket-1622623.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-04T21:00:27+05:30"
-          },
-          {
-            "title": "जब तीन साल बाद मिलीं 112 लाशें एक साथ दफनाई गईं, चीखों से गूंज उठा शहर, कितने बच्चों को कब्र में भेजा?",
-            "link": "https://hindi.oneindia.com/news/international/palestinians-mass-burial-112-bodies-recovered-2023-gaza-strike-40-children-died-news-hindi-1622707.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-04T20:58:19+05:30"
-          },
-          {
-            "title": "महाराष्ट्र की डिप्टी सीएम को कांग्रेस ने कहा 'गूंगी गुड़िया':सुनेत्रा पवार पर की टिप्पणी, शिंदे बोले- यह राज्य की सभी महिलाओं का अपमान",
-            "link": "https://www.bhaskar.com/g/national/news/maharashtra-deputy-cm-sunetra-pawar-congress-controversy-shinde-138632262.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-04T15:07:07+00:00"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Pradeep Rawat Death Reason: आमिर खान के करीबी एक्टर प्रदीप रावत की कैसे हो गई मौत? महाभारत से मिली थी पहचान",
+            "link": "https://hindi.oneindia.com/news/entertainment/pradeep-singh-rawat-death-reason-ghajini-lagaan-aamir-khan-co-actor-passed-away-mahabharat-links-1622767.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-04T22:06:26+05:30"
+          },
           {
             "title": "BJP की मुस्लिम महिला नेता Khushbu Sundar ने उदयनिधि स्टालिन की ऐसे लगाई क्लास, तृषा कृष्णन मामले में दिया बड़ा",
             "link": "https://hindi.oneindia.com/news/entertainment/khushbu-sundar-slams-udhayanidhi-stalin-for-trisha-krishnan-bjp-muslim-woman-leader-angry-1622493.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-03T14:07:31+05:30"
-          },
-          {
-            "title": "PM Modi के वीडियो पर ये क्या बोल गईं Bhumi Pednekar? 2 मिनट 50 सेकंड के क्लिप से मचा हंगामा, क्यों बौखलाए लोग?",
-            "link": "https://hindi.oneindia.com/news/entertainment/pm-modi-video-what-bhumi-pednekar-say-2-minute-50-second-clip-caused-hungama-why-people-upset-1621579.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-03T12:45:13+05:30"
           }
         ]
       }
@@ -803,6 +803,13 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "રામ મંદિર દાન ચોરીના 2 મહિના પછી ચંપત રાય દેખાયા:અયોધ્યામાં આંગળી ચીંધીને કેમેરા બંધ કરાવ્યા, કહ્યું- અંતિમ શ્વાસ સુધી હું અહીં જ રહીશ",
+            "link": "https://www.divyabhaskar.co.in/national/news/champat-rai-ayodhya-visit-controversy-media-camera-ban-138632854.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-04T16:33:48+00:00"
+          },
           {
             "title": "ગુજરાતને અડીને આવેલું એ હિલ સ્ટેશન જ્યાં સ્ટ્રૉબેરીનો મબલખ પાક લેવાઈ રહ્યો છે",
             "link": "https://www.bbc.com/gujarati/articles/cpw9vj2xvdvo?at_medium=RSS&at_campaign=rss",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-04T09:32:27+00:00"
-          },
-          {
-            "title": "ચાંદી ₹2,130 વધીને ₹2.19 લાખ પર પહોંચી:10 ગ્રામ સોનું ₹381 મોંઘું થઈને ₹1.43 લાખનું થયું, આ વર્ષે સોનું ₹10 હજાર મોંઘું થયું",
-            "link": "https://www.divyabhaskar.co.in/business/news/gold-silver-price-hike-india-4-august-2026-sona-chandi-bhav-138629420.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-04T09:16:43+00:00"
           }
         ]
       }
@@ -895,11 +895,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "விசாரணை முடிந்து காவல்நிலைய ஜாமீனில் உதயநிதி விடுவிப்பு - இதுவரை நடந்தது என்ன?",
+            "title": "’எனக்குள்ள ஒரே வருத்தம்' - ஜாமீனில் விடுவிக்கப்பட்ட பிறகு உதயநிதி பேசியது என்ன?",
             "link": "https://www.bbc.com/tamil/articles/c171pn2dx92o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
             "summary": "தஞ்சாவூரில் நடைபெற்ற திமுக ஆர்ப்பாட்டத்தில், எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் கலந்துகொண்டு பேசினார். அப்போது, தமிழக முதல்வர் விஜய் குறித்து அவர் பேசிய கருத்துக்கள் பெரும் சர்ச்சையை ஏற்படுத்தியது. இந்த விவகாரம் அரசியல் வட்டாரத்தில் பரபரப்பாகப் பேசப்பட்ட நிலையில், காவல் துறையினர் இதனை தீவிரமாகக் கவனித்தனர். இதன் தொடர்ச்சியாக, சென்னை நீலாங்கரையில் உள்ள உதயநிதி ஸ்டாலினின் இல்லத்திற்குச் சென்ற காவல் அதிகாரிகள், அவரிடம் விசாரணை நடத்தினர். பின்பு, அவரைத் தங்களது வாகனத்தில் காவல் நிலையத்திற்கு அழைத்துச் சென்றனர். அவர் பேசிய கருத்துக்கள் அவதூறானவை என்று எதிர்க்கட்சிகள் குற்றம் சாட்டி வரும் நிலையில், இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது. உதயநிதி ஸ்டாலின் என்ன பேசினார், அந்தப் பேச்சில் இடம்பெற்ற சர்ச்சைக்குரிய வார்த்தைகள் என்னென்ன என்பன போன்ற தகவல்கள் தற்போது விவாதப் பொருளாக மாறியுள்ளன. இந்த நிகழ்வு தமிழக அரசியல் களத்தில் பெரும் பதற்றத்தை உருவாக்கியுள்ளது. சட்ட ரீதியாக அடுத்தகட்ட நடவடிக்கைகள் என்னவாக இருக்கும், அவர் எந்த அடிப்படையில் அழைத்துச் செல்லப்பட்டார் என்பது குறித்த தெளிவான விளக்கத்தை அதிகாரப்பூர்வமாக அறிய மக்கள் ஆர்வமாக உள்ளனர்.",
-            "published": "2026-08-04T16:29:16+00:00"
+            "published": "2026-08-04T16:47:42+00:00"
           },
           {
             "title": "உதயநிதி கைது: திமுக - தவெகவுக்கு அரசியல் ரீதியாக தாக்கத்தை ஏற்படுத்துமா?",
@@ -1114,6 +1114,20 @@
             "published": "2026-08-04T20:10:05+05:30"
           },
           {
+            "title": "Hrithik Roshans Mother fitness: 70 ఏళ్ల వయసులో హృతిక్ రోషన్ తల్లి వ్యాయామం.. వైరల్‌ అవుతున్న వీడియో - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejZvMkhuMzI0LVBFN0tNUFZGbDhLS09IMkw1ZDdiWHozTGRDT0ZpNHc5cV9VTWo3d2FWM1llMTFweDhiODByRG5qaExjbEJfbm56Znk0ZDJVNW5veVhKSHJ1dUxITXVXcHJGRVI3eTR1SnZERzRwNEQ1bldDal9hRlN4MllsUzRMRW9ZdGYwVkd3QmpsTi0yNWFjaHJoNVl4cDNvNzhXQUlpeGpEbGVWWWtTUEtBXy1xUFpySTlTWWlZY3JKN0RxYlYtYU1NSFFCTHJDb0cwVnoyV0kwSkHSAd4BQVVfeXFMTXo2bzJIbjMyNC1QRTdLTVBWRmw4S0tPSDJMNWQ3Ylh6M0xkQ09GaTR3OXFfVU1qN3dhVjNZZTExcHg4YjgwckRuamhMY2xCX25uemZ5NGQyVTVub3lYSkhydXVMSE11V3ByRkVSN3k0dUp2REc0cDRENW5XQ2pfYUZTeDJZbFM0TEVvWXRmMFZHd0JqbE4tMjVhY2hyaDVZeHAzbzc4V0FJaXhqRGxlVllrU1BLQV8tcVBackk5U1lpWWNySjdEcWJWLWFNTUhRQkxyQ29HMFZ6MldJMEpB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-04T14:38:03+00:00"
+          },
+          {
+            "title": "పొగాకు ధర సంక్షోభంలో ఉందంటూ వైకాపా దుష్ప్రచారం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUpJNGdqTFJTVHNKSS04X29TaFZ6ZjQyd2w4aWF5LWNocmJOUzBwdkwxdTFWMWpKQ1dHNFlVblhJVUlkUGY2ODgxSXlSU04xcXZFWFZDUG1jUHF2VHowUGstdkttaDE1SFJJVWFNbVdHWmtCWGl0VGxhaENYUFM4R2J3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-04T14:24:04+00:00"
+          },
+          {
             "title": "ఏపీలో VRAలకు గుడ్ న్యూస్..! VRO సర్వీస్ రూల్స్ సవరణ ..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-gives-vras-five-years-to-earn-degree-for-vro-grade-ii-appointment-500209.html",
             "source": "Oneindia Telugu",
@@ -1140,23 +1154,16 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-04T19:07:07+05:30"
-          },
-          {
-            "title": "విద్యార్థుల ఎదుటే టీచర్‌ దారుణ హత్య.. 30 సెకన్లలో 34 కత్తిపోట్లు..!",
-            "link": "https://telugu.oneindia.com/news/india/faridabad-shocker-haryana-teacher-brutally-murdered-in-front-of-students-34-stabs-in-30-seconds-500197.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-04T18:06:12+05:30"
-          },
-          {
-            "title": "ఫ్రాన్స్ కార్చిచ్చుల్లో పేలుళ్లు, అవి రెండో ప్రపంచయుద్ధం నాటి బాంబులేనా?",
-            "link": "https://www.bbc.com/telugu/articles/cvglwpjz2qpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-04T12:29:18+00:00"
           }
         ],
         "Entertainment": [
+          {
+            "title": "టాలీవుడ్ లో తీవ్ర విషాదం.. సినీ నటుడు ప్రదీప్‌ రావత్‌ కన్నుమూత",
+            "link": "https://telugu.oneindia.com/entertainment/pradeeprawat-passed-away-latest-news-deep-tragedy-in-tollywood-film-actor-pradeep-rawat-passes-away-500223.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-04T22:22:00+05:30"
+          },
           {
             "title": "20 రోజులకే ఓటీటీలోకి తెలుగు రొమాంటిక్ కామెడీ సినిమా.. స్ట్రీమింగ్ అందులోనే..!",
             "link": "https://telugu.oneindia.com/entertainment/osukumari-telugu-romantic-comedy-movie-ott-platforms-in-just-twenty-days-streaming-starts-august-7-500207.html",
@@ -1233,13 +1240,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-03T16:02:19+05:30"
-          },
-          {
-            "title": "ఫ్లాప్ సినిమాలే ఇండస్ట్రీకి మేలు చేస్తాయి.. టాలీవుడ్‌పై RGV సెన్సేషనల్ కామెంట్స్!",
-            "link": "https://telugu.oneindia.com/entertainment/director-ram-gopal-varma-makes-sensational-comments-says-flop-movies-help-the-industry-attacks-unp-500005.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-03T14:58:53+05:30"
           }
         ]
       }
