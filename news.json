@@ -1,111 +1,160 @@
 {
-  "updated_at": "2026-08-04T19:31:18.488769+00:00",
+  "updated_at": "2026-08-04T20:02:54.687484+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Baby girl received in Ammathottil",
+            "link": "https://www.thehindu.com/news/national/kerala/baby-girl-received-in-ammathottil/article71306543.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:24:24+05:30"
+          },
+          {
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "published": "2026-08-04T19:45:58+00:00"
+          },
+          {
+            "title": "Udhayanidhi Stalin arrest updates: Leader of Opposition says statement wasn't intended as double entendre",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
+            "source": "The Hindu",
+            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
+            "published": "2026-08-05T01:15:05+05:30"
+          },
+          {
+            "title": "Ernakulam steps up emergency measures after red alert",
+            "link": "https://www.thehindu.com/news/cities/Kochi/ernakulam-steps-up-emergency-measures-after-red-alert/article71306082.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:06:59+05:30"
+          },
+          {
+            "title": "Telegram says Apple suspension followed content norms violation by one user",
+            "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.",
+            "published": "2026-08-04T19:35:12+00:00"
+          },
+          {
+            "title": "Work expedited to construct macro drains to carry flood waters to Buckingham Canal",
+            "link": "https://www.thehindu.com/news/cities/chennai/work-expedited-to-construct-macro-drains-to-carry-flood-waters-to-buckingham-canal/article71306647.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:02:29+05:30"
+          },
+          {
+            "title": "Channi’s options shrink as Congress refuses to budge in Punjab",
+            "link": "https://www.thehindu.com/news/national/punjab/channis-options-shrink-as-congress-refuses-to-budge-in-punjab/article71304823.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:01:34+05:30"
+          },
+          {
+            "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+            "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+            "published": "2026-08-04T19:30:43+00:00"
+          },
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
+            "published": "2026-08-04T19:30:00+00:00"
+          },
+          {
+            "title": "20 lakh names left out as first phase of SIR ends in Punjab",
+            "link": "https://www.thehindu.com/news/national/punjab/20-lakh-names-left-out-as-first-phase-of-sir-ends-in-punjab/article71305928.ece",
+            "source": "The Hindu",
+            "summary": "The total number of uncollectable forms, categorised under absent, shifted, dead and duplicate, stands at 20,66,635, which accounts for 9.63% of the total electors",
+            "published": "2026-08-05T00:59:46+05:30"
+          },
+          {
+            "title": "OpenAI Pays $3.2 Million In US Probe Over Hiring Foreign Workers",
+            "link": "https://www.ndtv.com/world-news/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11866501#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "OpenAI and a subsidiary will pay $3.2 million to settle US government claims that they favored foreign workers with temporary employment visas and discriminated against US job applicants in recruiting and hiring, the US Justice Department said on Tuesday.",
+            "published": "2026-08-05T00:57:36+05:30"
+          },
+          {
+            "title": "Arrests in Egypt after people allegedly impersonate judges",
+            "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+            "published": "2026-08-04T19:25:00+00:00"
+          },
+          {
+            "title": "Kazakhstan releases first tiger to restore extinct species",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger",
+            "published": "2026-08-04T19:21:16+00:00"
+          },
+          {
             "title": "Satyabrata Sahoo posted as Commissioner of Economics and Statistics",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/satyabrata-sahoo-posted-as-commissioner-of-economics-and-statistics/article71305934.ece",
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-05T00:49:30+05:30"
-          },
-          {
-            "title": "Madras High Court adjourns Pallikaranai construction ban cases to August 20",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-adjourns-pallikaranai-construction-ban-cases-to-august-20/article71305117.ece",
-            "source": "The Hindu",
-            "summary": "Chief Justice’s Bench calls for suggestions to maintain a balance between protecting the environment and developing infrastructure",
-            "published": "2026-08-05T00:48:55+05:30"
-          },
-          {
-            "title": "Arson arrest made over largest of Washington state's wildfires",
-            "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-            "published": "2026-08-04T19:18:45+00:00"
-          },
-          {
-            "title": "Political discourse still fails women leaders",
-            "link": "https://www.thehindu.com/opinion/op-ed/political-discourse-still-fails-women-leaders/article71306764.ece",
-            "source": "The Hindu",
-            "summary": "In Maharashtra, Congress is facing backlash for its remarks against the Deputy CM",
-            "published": "2026-08-05T00:47:38+05:30"
-          },
-          {
-            "title": "Withdraw all cases against protesters: CPI MP to Modi",
-            "link": "https://www.thehindu.com/news/national/withdraw-all-cases-against-protesters-cpi-mp-to-modi/article71306747.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-05T00:42:08+05:30"
-          },
-          {
-            "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-            "link": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-            "published": "2026-08-04T19:07:19+00:00"
-          },
-          {
-            "title": "Warrican six-for, Shafique 160 as Pakistan bowled out for 387",
-            "link": "https://www.cricinfo.com/ci/content/story/1548707.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Visitors take a lead of 43 in the second Test at Queen's Park Oval",
-            "published": "2026-08-04T19:06:58+00:00"
-          },
-          {
-            "title": "Supree Court mandates SOPs, mechanisms to curb ‘digital arrests’, facilitate time-bound refunds",
-            "link": "https://www.thehindu.com/news/national/sc-mandates-sops-mechanisms-to-curb-digital-arrests-facilitate-time-bound-refunds/article71305030.ece",
-            "source": "The Hindu",
-            "summary": "Directs Centre, States, the Reserve Bank of India and telecom authorities to put in place measures for grievance redressal and zero FIRs among",
-            "published": "2026-08-05T00:32:10+05:30"
-          },
-          {
-            "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-            "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-            "published": "2026-08-04T19:00:43+00:00"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrested for ‘misogynist’ remarks; released on bail",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhyanidhi-stalin-arrested-in-connection-with-complaint-of-making-misogynist-remarks/article71304079.ece",
-            "source": "The Hindu",
-            "summary": "DMK leader was released on bail at night as per direction of the Madras High Court; Mr. Udhayanidhi Stalin denies the charge, says he did not intend to hurt anyone; both DMK and TVK cadres hold protests across Tamil Nadu",
-            "published": "2026-08-05T00:30:37+05:30"
-          },
-          {
-            "title": "Engine failure leaves Ro-Ro ferry adrift off Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/engine-failure-leaves-ro-ro-ferry-adrift-off-kochi/article71306690.ece",
-            "source": "The Hindu",
-            "summary": "A Fisheries patrol boat and Marine Enforcement team pursued the drifting ferry, secured it with towing lines, and safely towed it back to the shore",
-            "published": "2026-08-05T00:24:41+05:30"
-          },
-          {
-            "title": "Three persons killed in separate road accidents in Vellore",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-killed-in-separate-road-accidents-in-vellore/article71304164.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-05T00:23:08+05:30"
-          },
-          {
-            "title": "Basic facilities lacking in relief camps, says CPI(M) Kerala secretary M.V. Govindan",
-            "link": "https://www.thehindu.com/news/national/kerala/basic-facilities-lacking-in-relief-camps-says-cpim-kerala-secretary-mv-govindan/article71305897.ece",
-            "source": "The Hindu",
-            "summary": "The Chief Minister has failed in coordinating effectively while focussing his energies on inaugurating jewelleries and taking part in banquets, says Govindan",
-            "published": "2026-08-05T00:22:47+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrest LIVE updates: Leader of Opposition says statement wasn't intended as double entendre",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-            "source": "The Hindu",
-            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
-            "published": "2026-08-05T00:21:30+05:30"
           }
         ],
         "India": [
           {
+            "title": "Baby girl received in Ammathottil",
+            "link": "https://www.thehindu.com/news/national/kerala/baby-girl-received-in-ammathottil/article71306543.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:24:24+05:30"
+          },
+          {
+            "title": "Udhayanidhi Stalin arrest updates: Leader of Opposition says statement wasn't intended as double entendre",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
+            "source": "The Hindu",
+            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
+            "published": "2026-08-05T01:15:05+05:30"
+          },
+          {
+            "title": "Ernakulam steps up emergency measures after red alert",
+            "link": "https://www.thehindu.com/news/cities/Kochi/ernakulam-steps-up-emergency-measures-after-red-alert/article71306082.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:06:59+05:30"
+          },
+          {
+            "title": "Work expedited to construct macro drains to carry flood waters to Buckingham Canal",
+            "link": "https://www.thehindu.com/news/cities/chennai/work-expedited-to-construct-macro-drains-to-carry-flood-waters-to-buckingham-canal/article71306647.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:02:29+05:30"
+          },
+          {
+            "title": "Channi’s options shrink as Congress refuses to budge in Punjab",
+            "link": "https://www.thehindu.com/news/national/punjab/channis-options-shrink-as-congress-refuses-to-budge-in-punjab/article71304823.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-05T01:01:34+05:30"
+          },
+          {
+            "title": "20 lakh names left out as first phase of SIR ends in Punjab",
+            "link": "https://www.thehindu.com/news/national/punjab/20-lakh-names-left-out-as-first-phase-of-sir-ends-in-punjab/article71305928.ece",
+            "source": "The Hindu",
+            "summary": "The total number of uncollectable forms, categorised under absent, shifted, dead and duplicate, stands at 20,66,635, which accounts for 9.63% of the total electors",
+            "published": "2026-08-05T00:59:46+05:30"
+          },
+          {
+            "title": "OpenAI Pays $3.2 Million In US Probe Over Hiring Foreign Workers",
+            "link": "https://www.ndtv.com/world-news/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11866501#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "OpenAI and a subsidiary will pay $3.2 million to settle US government claims that they favored foreign workers with temporary employment visas and discriminated against US job applicants in recruiting and hiring, the US Justice Department said on Tuesday.",
+            "published": "2026-08-05T00:57:36+05:30"
+          },
+          {
             "title": "Satyabrata Sahoo posted as Commissioner of Economics and Statistics",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/satyabrata-sahoo-posted-as-commissioner-of-economics-and-statistics/article71305934.ece",
             "source": "The Hindu",
@@ -134,63 +183,49 @@
             "published": "2026-08-05T00:42:08+05:30"
           },
           {
-            "title": "Supree Court mandates SOPs, mechanisms to curb ‘digital arrests’, facilitate time-bound refunds",
-            "link": "https://www.thehindu.com/news/national/sc-mandates-sops-mechanisms-to-curb-digital-arrests-facilitate-time-bound-refunds/article71305030.ece",
-            "source": "The Hindu",
-            "summary": "Directs Centre, States, the Reserve Bank of India and telecom authorities to put in place measures for grievance redressal and zero FIRs among",
-            "published": "2026-08-05T00:32:10+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrested for ‘misogynist’ remarks; released on bail",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhyanidhi-stalin-arrested-in-connection-with-complaint-of-making-misogynist-remarks/article71304079.ece",
-            "source": "The Hindu",
-            "summary": "DMK leader was released on bail at night as per direction of the Madras High Court; Mr. Udhayanidhi Stalin denies the charge, says he did not intend to hurt anyone; both DMK and TVK cadres hold protests across Tamil Nadu",
-            "published": "2026-08-05T00:30:37+05:30"
-          },
-          {
-            "title": "Engine failure leaves Ro-Ro ferry adrift off Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/engine-failure-leaves-ro-ro-ferry-adrift-off-kochi/article71306690.ece",
-            "source": "The Hindu",
-            "summary": "A Fisheries patrol boat and Marine Enforcement team pursued the drifting ferry, secured it with towing lines, and safely towed it back to the shore",
-            "published": "2026-08-05T00:24:41+05:30"
-          },
-          {
-            "title": "Three persons killed in separate road accidents in Vellore",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-killed-in-separate-road-accidents-in-vellore/article71304164.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-05T00:23:08+05:30"
-          },
-          {
-            "title": "Basic facilities lacking in relief camps, says CPI(M) Kerala secretary M.V. Govindan",
-            "link": "https://www.thehindu.com/news/national/kerala/basic-facilities-lacking-in-relief-camps-says-cpim-kerala-secretary-mv-govindan/article71305897.ece",
-            "source": "The Hindu",
-            "summary": "The Chief Minister has failed in coordinating effectively while focussing his energies on inaugurating jewelleries and taking part in banquets, says Govindan",
-            "published": "2026-08-05T00:22:47+05:30"
-          },
-          {
-            "title": "Udhayanidhi Stalin arrest LIVE updates: Leader of Opposition says statement wasn't intended as double entendre",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-            "source": "The Hindu",
-            "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
-            "published": "2026-08-05T00:21:30+05:30"
-          },
-          {
-            "title": "Great white sharks may already be lurking off UK beaches",
-            "link": "https://timesofindia.indiatimes.com/science/as-uk-oceans-warm-up-experts-warn-great-white-sharks-are-already-lurking-off-beaches-and-another-toothy-predator-could-follow/articleshow/132858670.cms",
-            "source": "Times of India",
-            "summary": "With rising ocean temperatures, great white sharks are migrating further north than ever documented. Researchers suggest that these formidable predators might already be silently exploring British waters. This phenomenon signifies a broader ecological crisis, forcing various marine species to adapt their hunting and migration patterns in response to shifting sea temperatures, highlighting the urgent need for…",
-            "published": "2026-08-05T00:21:00+05:30"
-          },
-          {
-            "title": "Scientists discover seven new diamond frog species in Madagascar",
-            "link": "https://timesofindia.indiatimes.com/science/scientists-identified-seven-new-diamond-frog-species-in-madagascar-after-a-12-year-search-through-forests-and-museum-collections/articleshow/132858639.cms",
-            "source": "Times of India",
-            "summary": "Scientists have identified seven new diamond frog species in Madagascar. These discoveries highlight the island's extensive undocumented wildlife and hidden diversity. Modern genetic tools and traditional anatomy revealed evolutionary differences previously unseen. Many of these frogs inhabit small, isolated ranges, emphasizing conservation needs. This finding underscores Madagascar's ongoing biological mysteries…",
-            "published": "2026-08-05T00:20:00+05:30"
+            "title": "\"War Crime\": Video Shows Russian Drone Attacking Vegetable Seller In Ukraine",
+            "link": "https://www.ndtv.com/world-news/russia-ukraine-war-war-crime-video-shows-russian-drone-attacking-vegetable-seller-in-ukraine-11866469#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Footage released by Ukrainian police shows the drone pursuing an unidentified man around a van being used as a street stand before exploding after he dives for cover behind the vehicle.",
+            "published": "2026-08-05T00:36:13+05:30"
           }
         ],
         "World": [
+          {
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "published": "2026-08-04T19:45:58+00:00"
+          },
+          {
+            "title": "Telegram says Apple suspension followed content norms violation by one user",
+            "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.",
+            "published": "2026-08-04T19:35:12+00:00"
+          },
+          {
+            "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+            "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+            "published": "2026-08-04T19:30:43+00:00"
+          },
+          {
+            "title": "Arrests in Egypt after people allegedly impersonate judges",
+            "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+            "published": "2026-08-04T19:25:00+00:00"
+          },
+          {
+            "title": "Kazakhstan releases first tiger to restore extinct species",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger",
+            "published": "2026-08-04T19:21:16+00:00"
+          },
           {
             "title": "Arson arrest made over largest of Washington state's wildfires",
             "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
@@ -204,6 +239,13 @@
             "source": "BBC World",
             "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
             "published": "2026-08-04T19:07:19+00:00"
+          },
+          {
+            "title": "White House to meet AI firms on advanced model safety",
+            "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.",
+            "published": "2026-08-04T19:04:18+00:00"
           },
           {
             "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
@@ -220,13 +262,6 @@
             "published": "2026-08-04T18:50:29+00:00"
           },
           {
-            "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-            "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-            "published": "2026-08-04T18:37:12+00:00"
-          },
-          {
             "title": "Mass funeral held for 112 members of two Palestinian families",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
             "source": "Al Jazeera",
@@ -239,41 +274,6 @@
             "source": "Al Jazeera",
             "summary": "IRGC spokesman Hossein Mohebbi said last month that Iran&#039;s missile production rate increased during the ceasefire.",
             "published": "2026-08-04T18:34:48+00:00"
-          },
-          {
-            "title": "Rubio: Progress made to reopen Strait of Hormuz",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.",
-            "published": "2026-08-04T18:27:15+00:00"
-          },
-          {
-            "title": "Why did the US economy slow down?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US economy slowed more than expected, but it&#039;s not because Americans stopped spending. So what really happened?",
-            "published": "2026-08-04T18:17:58+00:00"
-          },
-          {
-            "title": "Israel election pressure fuels settlement push as West Bank violence surges",
-            "link": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
-            "published": "2026-08-04T18:08:08+00:00"
-          },
-          {
-            "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
-            "link": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.",
-            "published": "2026-08-04T17:50:06+00:00"
-          },
-          {
-            "title": "Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement",
-            "link": "https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Fallout from failed FIFA World Cup selloff continues, as Jordan FA president joins list of Gianni Infantino detractors.",
-            "published": "2026-08-04T17:49:32+00:00"
           }
         ],
         "Business": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy7?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Electric power is one of several cleaner alternatives to traditional aviation fuel.",
+            "published": "2026-08-04T19:30:00+00:00"
+          },
+          {
             "title": "Microsoft Reportedly Making Xbox 360 Games Backwards Compatible on PC and Project Helix",
             "link": "https://www.gadgets360.com/games/news/xbox-360-games-backwards-compatible-pc-project-helix-microsoft-report-11865705",
             "source": "Gadgets 360",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Nike on Tuesday announced a new performance footwear system called Nike Hybrid. As per the company, it is geared towards hybrid athletes who combine dynamic movements such as running, strength training, and functional fitness in a single workout or competition. The Nike Hybrid lineup comprises two models — Nike Hybrid RN and Nike Hybrid Fly, both of which integrate the brand’s signature technologies like ReactX…",
             "published": "2026-08-04T16:44:52+05:30"
-          },
-          {
-            "title": "Asus Chromebook CX15 Launched in India With Intel N50, Google AI Features: Price, Features",
-            "link": "https://www.gadgets360.com/laptops/news/asus-chromebook-cx1505cta-price-india-launch-availability-specifications-features-11864240",
-            "source": "Gadgets 360",
-            "summary": "The Asus Chromebook CX15 (CX1505CTA) is now available in India at Rs. 47,990 through online and offline retail channels. Buyers also get a three-month Google AI Pro membership with access to Gemini, Google Flow, Nano Banana, YouTube Premium Lite and 5TB of cloud storage. The Chromebook features a Titan C security chip, Wi-Fi 6, Bluetooth 5.4, a spill-resistant keyboard and a 45W USB Type-C charger. Asus is also…",
-            "published": "2026-08-04T16:44:04+05:30"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "खाकी फिर दागदार: यूपी पुलिस के दो सिपाहियों की ढाबे वाले पर जोर-जबर्दस्ती, युवती का अपहरण; मजदूरों से मारपीट",
+            "link": "https://www.amarujala.com/uttar-pradesh/kushinagar/khaki-tarnished-again-up-police-constables-bully-a-dhaba-owner-2026-08-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-05T12:43:13+05:30"
+          },
+          {
+            "title": "Goa: अमित शाह से मिले CM सावंत, चुनाव से छह माह पहले सियासी सरगर्मियां बढ़ीं; ST आरक्षण पर क्या आश्वासन मिला?",
+            "link": "https://www.amarujala.com/india-news/goa-st-reservation-cm-pramod-sawant-meets-amit-shah-seeks-fast-track-political-quota-2026-08-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-05T12:06:13+05:30"
+          },
+          {
+            "title": "लाल सागर में भारतीय जहाज पर हमला: कार्गो पोत डूबा, 13 भारतीय नाविक सुरक्षित; सरकार ने क्या दिए निर्देश?",
+            "link": "https://www.amarujala.com/india-news/red-sea-attack-indian-flagged-vessel-sinks-near-yemen-sonowal-orders-steps-to-protect-seafarers-2026-08-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-05T01:01:23+05:30"
+          },
+          {
             "title": "Bihar News: मोतिहारी में खाद की कालाबाजारी पर कृषि विभाग की बड़ी कार्रवाई, कई उर्वरक प्रतिष्ठानों के लाइसेंस निलंबित",
             "link": "https://hindi.oneindia.com/news/india/fertilizer-crackdown-east-champaran-bihar-012-1622831.html",
             "source": "Oneindia Hindi",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-04T21:32:43+05:30"
-          },
-          {
-            "title": "उदयनिधि स्टालिन: सुबह हिरासत में लिए गए फिर शाम को मिली ज़मानत, दिन भर क्या क्या हुआ?",
-            "link": "https://www.bbc.com/hindi/articles/ce8560vy0g7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-04T15:52:41+00:00"
-          },
-          {
-            "title": "झारखंड में भूख हड़ताल पर बैठे देवेंद्र नाथ महतो की हेमंत सोरेन से क्या मांग?",
-            "link": "https://www.bbc.com/hindi/articles/cedj6ex4n6no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-04T15:50:23+00:00"
-          },
-          {
-            "title": "बांकीपुर से प्रशांत किशोर की जीत के बीजेपी और आरजेडी के लिए क्या मायने हैं?",
-            "link": "https://www.bbc.com/hindi/articles/c89n158vekzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-04T15:49:22+00:00"
           }
         ],
         "Entertainment": [
@@ -1079,6 +1079,13 @@
             "published": "2026-08-04T19:00:00+00:00"
           },
           {
+            "title": "గిరినాగు ముందుంది.. గుండె ఆగినంత పనైంది - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3cDE1czNleEJVZHU2eWFyQ08zLUNqdFB5U3FTMVZBU0N6UjRxSUlhdGcyOTE1VkdxYVJNWTZaUU9sNXlJbUtGeU1FandiVHp6SWJrUDVrbHBRb0d2WW4zd2ktVDl0Q3k0eGw5U2tIUnpQZlBoQ3c2NDBwcGR3UQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-04T18:56:11+00:00"
+          },
+          {
             "title": "హార్మూజ్ ఓపెన్‌ కు లైన్ క్లియర్..? ఇరాన్- అమెరికా మధ్య కీలక ఒప్పందం..?",
             "link": "https://telugu.oneindia.com/news/international/iran-path-cleared-for-opening-the-strait-of-hormuz-a-key-agreement-between-iran-and-the-us-500227.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-04T20:22:25+05:30"
-          },
-          {
-            "title": "తెర మీద లాభాలు, తెర వెనక మోసాలు: విశాఖ లైబ్రేరియన్ నుంచి రూ. 52 లక్షలు కాజేసిన సైబర్ మోసగాళ్లు...",
-            "link": "https://www.bbc.com/telugu/articles/czdmr824rlqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-04T14:40:48+00:00"
           }
         ],
         "Entertainment": [
