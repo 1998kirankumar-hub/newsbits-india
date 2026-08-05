@@ -1,16 +1,79 @@
 {
-  "updated_at": "2026-08-05T20:01:30.235629+00:00",
+  "updated_at": "2026-08-05T20:31:13.255725+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Having majority no reason for lawmakers to defy party: Supreme Court",
+            "link": "https://www.thehindu.com/news/national/majority-legislators-cannot-overrule-will-of-political-party-supreme-court/article71309794.ece",
+            "source": "The Hindu",
+            "summary": "Justice Joymalya Bagchi says the maturity of a democracy is measured by the constancy of political parties and their members to their ideology",
+            "published": "2026-08-06T01:48:54+05:30"
+          },
+          {
+            "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
+            "source": "Economic Times",
+            "summary": "The Dow Jones Industrial Average achieved an all-time high on Wednesday, driven by rising optimism over potential peace talks with Iran. Meanwhile, both SpaceX and AMD saw their stock prices drop following their earnings announcements. The growth in private payrolls also showed signs of cooling in July, reflecting a steady job market, as market watchers keep a keen eye on inflationary pressures and the Federal…",
+            "published": "2026-08-06T01:41:04+05:30"
+          },
+          {
+            "title": "T.N. to enable registration of documents from home: Finance Minister",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-to-enable-registration-of-documents-from-home-finance-minister/article71311014.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T01:40:46+05:30"
+          },
+          {
+            "title": "SpaceX shares slide on the heels of first quarterly report",
+            "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
+            "published": "2026-08-05T20:06:08+00:00"
+          },
+          {
+            "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+            "published": "2026-08-05T20:03:36+00:00"
+          },
+          {
+            "title": "Sheikh Hasina says she will return to Bangladesh in December",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+            "published": "2026-08-05T20:03:10+00:00"
+          },
+          {
+            "title": "Drone carrying explosives found at German airport, police say",
+            "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+            "published": "2026-08-05T20:01:51+00:00"
+          },
+          {
             "title": "Actor assault case: Kerala High Court dismisses plea for suspension of sentence by second accused",
             "link": "https://www.thehindu.com/news/national/kerala/actor-assault-case-kerala-high-court-dismisses-plea-for-suspension-of-sentence-by-second-accused/article71310399.ece",
             "source": "The Hindu",
             "summary": "There is prima facie evidence to prove that the accused aided the commission of the crime and participated in the conspiracy as well, says court",
             "published": "2026-08-06T01:25:10+05:30"
+          },
+          {
+            "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+            "link": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.",
+            "published": "2026-08-05T19:51:12+00:00"
+          },
+          {
+            "title": "Young pilot makes daring emergency landing on Florida interstate",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.",
+            "published": "2026-08-05T19:46:33+00:00"
           },
           {
             "title": "Iran Threatens To Hit Gulf States If US Launches New Strikes",
@@ -20,10 +83,10 @@
             "published": "2026-08-06T01:12:48+05:30"
           },
           {
-            "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+            "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
             "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The repayments represent roughly 60% of all tariff revenue collected by the US government under the policy.",
+            "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
             "published": "2026-08-05T19:39:48+00:00"
           },
           {
@@ -39,72 +102,23 @@
             "source": "Economic Times",
             "summary": "Alphabet's Class C shares declined significantly after a major AI leadership restructuring. DeepMind CEO Demis Hassabis is moving to a new chief scientist role. Several prominent Gemini researchers have departed the company recently. This overhaul occurs as Google DeepMind faces challenges with its latest AI model. The company's cloud business, however, continues to show strong revenue growth.",
             "published": "2026-08-06T01:02:38+05:30"
-          },
-          {
-            "title": "20 LEO satellites at higher collision risk due to crowding: Space min Jitendra Singh",
-            "link": "https://timesofindia.indiatimes.com/science/20-low-earth-orbit-satellites-at-higher-risk-of-collision-due-to-crowding-space-minister-jitendra-singh-in-lok-sabha/articleshow/132966921.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-06T00:58:56+05:30"
-          },
-          {
-            "title": "YSRCP’s search for political momentum",
-            "link": "https://www.thehindu.com/opinion/op-ed/ysrcps-search-for-political-momentum/article71310869.ece",
-            "source": "The Hindu",
-            "summary": "The YSRCP chief is desperately trying to regain his foothold in Andhra politics",
-            "published": "2026-08-06T00:54:03+05:30"
-          },
-          {
-            "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
-            "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.",
-            "published": "2026-08-05T19:22:06+00:00"
-          },
-          {
-            "title": "Army chief General Dhiraj Seth visits Central Command HQ, Lucknow",
-            "link": "https://timesofindia.indiatimes.com/india/army-chief-general-dhiraj-seth-visits-central-command-hq-to-review-operational-readiness/articleshow/132966449.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-06T00:47:52+05:30"
-          },
-          {
-            "title": "SIR excludes 1.8 lakh voters from Meghalaya's draft electoral roll",
-            "link": "https://www.thehindu.com/news/national/meghalaya/sir-excludes-18-lakh-voters-from-meghalayas-draft-electoral-roll/article71310937.ece",
-            "source": "The Hindu",
-            "summary": "They have been identified as deceased, shifted, untraceable or duplicate, say officials",
-            "published": "2026-08-06T00:45:25+05:30"
-          },
-          {
-            "title": "Tamil Nadu Budget 2026 updates: One-sovereign gold for brides announced; DMK, AIADMK say TVK's maiden Budget offers nothing new",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
-            "source": "The Hindu",
-            "summary": "Udhayanidhi Stalin of the DMK, Edappadi K. Palaniswami of the AIADMK, Sowmiya Anbumani of the PMK express disappointment citing absence of significant scheme announcement.",
-            "published": "2026-08-06T00:43:59+05:30"
-          },
-          {
-            "title": "Allocation for Higher Education drops in Tamil Nadu Budget 2026-27; educationists react sharply",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/allocation-for-higher-education-drops-in-tamil-nadu-budget-2026-27-educationists-react-sharply/article71310288.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-06T00:40:40+05:30"
-          },
-          {
-            "title": "Assam CM meets family of boy who died saving puppy from flood water",
-            "link": "https://www.thehindu.com/news/national/assam/assam-cm-meets-family-of-boy-who-died-saving-puppy-from-flood-water/article71310193.ece",
-            "source": "The Hindu",
-            "summary": "Hridip was swept away after he saved the puppy, which was struggling to stay afloat",
-            "published": "2026-08-06T00:39:07+05:30"
-          },
-          {
-            "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
-            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/rinl-employees-ask-pmo-to-clear-pending-salaries-and-vrs-settlements/article71308726.ece",
-            "source": "The Hindu",
-            "summary": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and widow pensions remained unpaid",
-            "published": "2026-08-06T00:37:12+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Having majority no reason for lawmakers to defy party: Supreme Court",
+            "link": "https://www.thehindu.com/news/national/majority-legislators-cannot-overrule-will-of-political-party-supreme-court/article71309794.ece",
+            "source": "The Hindu",
+            "summary": "Justice Joymalya Bagchi says the maturity of a democracy is measured by the constancy of political parties and their members to their ideology",
+            "published": "2026-08-06T01:48:54+05:30"
+          },
+          {
+            "title": "T.N. to enable registration of documents from home: Finance Minister",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-to-enable-registration-of-documents-from-home-finance-minister/article71311014.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T01:40:46+05:30"
+          },
           {
             "title": "Actor assault case: Kerala High Court dismisses plea for suspension of sentence by second accused",
             "link": "https://www.thehindu.com/news/national/kerala/actor-assault-case-kerala-high-court-dismisses-plea-for-suspension-of-sentence-by-second-accused/article71310399.ece",
@@ -174,23 +188,51 @@
             "source": "The Hindu",
             "summary": "Hridip was swept away after he saved the puppy, which was struggling to stay afloat",
             "published": "2026-08-06T00:39:07+05:30"
-          },
-          {
-            "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
-            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/rinl-employees-ask-pmo-to-clear-pending-salaries-and-vrs-settlements/article71308726.ece",
-            "source": "The Hindu",
-            "summary": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and widow pensions remained unpaid",
-            "published": "2026-08-06T00:37:12+05:30"
-          },
-          {
-            "title": "T.N. Budget: Govt. announces AI planning approvals, new housing scheme",
-            "link": "https://www.thehindu.com/news/cities/chennai/tn-budget-govt-announces-ai-planning-approvals-new-housing-scheme/article71310030.ece",
-            "source": "The Hindu",
-            "summary": "Under the MY-HOME scheme, one lakh housing units will be developed over the next seven years through public-private partnership model, to provide safe and affordable housing for low-income families and youth",
-            "published": "2026-08-06T00:34:45+05:30"
           }
         ],
         "World": [
+          {
+            "title": "SpaceX shares slide on the heels of first quarterly report",
+            "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
+            "published": "2026-08-05T20:06:08+00:00"
+          },
+          {
+            "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+            "published": "2026-08-05T20:03:36+00:00"
+          },
+          {
+            "title": "Sheikh Hasina says she will return to Bangladesh in December",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+            "published": "2026-08-05T20:03:10+00:00"
+          },
+          {
+            "title": "Drone carrying explosives found at German airport, police say",
+            "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+            "published": "2026-08-05T20:01:51+00:00"
+          },
+          {
+            "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+            "link": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.",
+            "published": "2026-08-05T19:51:12+00:00"
+          },
+          {
+            "title": "Young pilot makes daring emergency landing on Florida interstate",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.",
+            "published": "2026-08-05T19:46:33+00:00"
+          },
           {
             "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
             "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
@@ -213,6 +255,13 @@
             "published": "2026-08-05T18:40:06+00:00"
           },
           {
+            "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+            "published": "2026-08-05T18:38:46+00:00"
+          },
+          {
             "title": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
             "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
             "source": "Al Jazeera",
@@ -225,63 +274,21 @@
             "source": "BBC World",
             "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
             "published": "2026-08-05T18:19:51+00:00"
-          },
-          {
-            "title": "Is the conflict between Russia and Ukraine deepening?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The war sees a surge in attacks by both sides with little diplomatic movement.",
-            "published": "2026-08-05T18:16:03+00:00"
-          },
-          {
-            "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-            "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
-            "published": "2026-08-05T17:41:24+00:00"
-          },
-          {
-            "title": "El-Sayed wins Michigan Democratic Senate primary",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Abdul El-Sayed won Michigan&#039;s Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.",
-            "published": "2026-08-05T17:40:03+00:00"
-          },
-          {
-            "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-            "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.",
-            "published": "2026-08-05T17:12:34+00:00"
-          },
-          {
-            "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
-            "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.",
-            "published": "2026-08-05T17:06:04+00:00"
-          },
-          {
-            "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
-            "published": "2026-08-05T16:42:24+00:00"
-          },
-          {
-            "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-            "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-            "published": "2026-08-05T16:20:14+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+            "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
+            "source": "Economic Times",
+            "summary": "The Dow Jones Industrial Average achieved an all-time high on Wednesday, driven by rising optimism over potential peace talks with Iran. Meanwhile, both SpaceX and AMD saw their stock prices drop following their earnings announcements. The growth in private payrolls also showed signs of cooling in July, reflecting a steady job market, as market watchers keep a keen eye on inflationary pressures and the Federal…",
+            "published": "2026-08-06T01:41:04+05:30"
+          },
+          {
+            "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
             "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The repayments represent roughly 60% of all tariff revenue collected by the US government under the policy.",
+            "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
             "published": "2026-08-05T19:39:48+00:00"
           },
           {
@@ -290,6 +297,13 @@
             "source": "Economic Times",
             "summary": "Alphabet's Class C shares declined significantly after a major AI leadership restructuring. DeepMind CEO Demis Hassabis is moving to a new chief scientist role. Several prominent Gemini researchers have departed the company recently. This overhaul occurs as Google DeepMind faces challenges with its latest AI model. The company's cloud business, however, continues to show strong revenue growth.",
             "published": "2026-08-06T01:02:38+05:30"
+          },
+          {
+            "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+            "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+            "published": "2026-08-05T18:38:45+00:00"
           },
           {
             "title": "SpaceX draws retail investors despite fall in shares post earnings",
@@ -346,23 +360,30 @@
             "source": "BBC Business",
             "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
             "published": "2026-08-05T09:24:18+00:00"
-          },
-          {
-            "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-            "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
-            "published": "2026-08-05T08:53:01+00:00"
-          },
-          {
-            "title": "Nifty can rally to 28,615 by this December in Axis’ bull case scenario. Here’s why",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-can-rally-to-28615-by-this-december-in-axis-bull-case-scenario-heres-why/articleshow/132901622.cms",
-            "source": "Economic Times",
-            "summary": "Axis Direct expects the Nifty to climb to 28,615 by December in its bull-case scenario, driven by a revival in private capex, resilient domestic demand and improving earnings. The brokerage remains overweight on BFSI, healthcare and capital goods, while cautioning that global risks and elevated valuations could trigger near-term volatility.",
-            "published": "2026-08-05T12:54:10+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "Vaibhav Sooryavanshi Sent 'Vinod Kambli, Prithvi Shaw' Warning: \"They Fall Off The Wagon\"",
+            "link": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-sent-vinod-kambli-prithvi-shaw-warning-they-fall-off-the-wagon-11870995#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "At 15, Vaibhav Sooryavanshi has already reached the biggest stage in cricket: playing for the national team",
+            "published": "2026-08-06T00:35:16+05:30"
+          },
+          {
+            "title": "India's World Cup 2027 Squad, Picked By Sunil Gavaskar, Rated 9/10",
+            "link": "https://sports.ndtv.com/cricket/no-rishabh-pant-yashasvi-jaiswal-sanju-samson-sunil-gavaskars-world-cup-2027-squad-rated-9-10-11870216#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The ODI World Cup 2027 is still 14 months away. The permutations, combinations, and speculations surrounding the Indian squad for the marquee event have already started taking shape",
+            "published": "2026-08-06T00:31:13+05:30"
+          },
+          {
+            "title": "Big Twist In BCCI's Review Plans After India's England Humiliation",
+            "link": "https://sports.ndtv.com/cricket/why-bccis-crucial-review-meeting-after-england-ireland-losses-is-yet-to-take-place-11869786#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The BCCI was supposed to conduct a review meeting after three straight losses in the T20I series in Ireland and England, which was followed by an ODI series loss against the latter",
+            "published": "2026-08-06T00:28:37+05:30"
+          },
           {
             "title": "Jos Buttler Breaks Massive T20 World Record With Blistering Knock In The Hundred",
             "link": "https://sports.ndtv.com/cricket/jos-buttler-breaks-massive-t20-world-record-with-blistering-knock-in-the-hundred-11871488#publisher=newsstand",
@@ -425,27 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Manager Xabi Alonso hailed Mykhailo Mudryk's \"emotional\" return from a doping ban as the winger played for Chelsea for the first time in nearly two years in a 1-0 friendly defeat to Juventus in Hong Kong on Wednesday.",
             "published": "2026-08-05T23:34:08+05:30"
-          },
-          {
-            "title": "Updated WTC Points Table After Pakistan Thrash West Indies To Level Series",
-            "link": "https://sports.ndtv.com/cricket/updated-wtc-points-table-after-pakistan-thrash-west-indies-11871499#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Pakistan have risen a spot in the WTC points table after thrashing the West Indies by eight wickets in the second Test of a two-match series in Trinidad",
-            "published": "2026-08-05T23:18:06+05:30"
-          },
-          {
-            "title": "Shafique, spinners give Pakistan rare overseas win",
-            "link": "https://www.cricinfo.com/ci/content/story/1548815.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Pakistan made short work of West Indies on the fourth morning to register their first away Test win in three years",
-            "published": "2026-08-05T17:37:16+00:00"
-          },
-          {
-            "title": "Buttler takes T20 runs record as Super Giants snap losing streak",
-            "link": "https://www.cricinfo.com/ci/content/story/1548796.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Buttler surpasses Kieron Pollard's benchmark with 20-ball 51* against Welsh Fire",
-            "published": "2026-08-05T17:29:50+00:00"
           }
         ],
         "Technology": [
@@ -641,6 +641,13 @@
             "published": "2026-08-06T12:18:58+05:30"
           },
           {
+            "title": "Char Dham Yatra: अब एलईडी स्क्रीन बताएगी मौसम और मार्ग बंद होने की सटीक जानकारी, श्रद्धालुओं को होगी सहूलियत",
+            "link": "https://www.amarujala.com/uttarakhand/rishikesh/char-dham-yatra-led-screens-will-now-provide-precise-information-on-weather-conditions-and-road-closures-2026-08-06",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-06T01:41:30+05:30"
+          },
+          {
             "title": "CJP सियासत से दूर: शिक्षा के साथ ई-20 पेट्रोल पर आंदोलन, जंतर-मंतर के बाद महाराष्ट्र में बनी नई रणनीति क्या?",
             "link": "https://www.amarujala.com/india-news/cjp-to-function-as-a-public-pressure-group-not-a-political-party-new-strategy-under-discussion-2026-08-06",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-05T20:00:58+05:30"
-          },
-          {
-            "title": "जिस ऐप को भारत ने किया बैन, अब उसी WeChat पर क्यों शिफ्ट हुई पाकिस्तानी सेना?",
-            "link": "https://hindi.oneindia.com/news/international/why-pakistan-army-shifted-to-wechat-app-banned-in-india-from-whatsapp-china-military-relations-1623025.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-05T19:49:25+05:30"
           }
         ],
         "Entertainment": [
@@ -1142,18 +1142,18 @@
             "published": "2026-08-05T14:31:00+00:00"
           },
           {
-            "title": "బంగారు బోనమెత్తిన దేవాదాయ శాఖ మంత్రి కొండా సురేఖ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuYVlZSC1IWGx5MDhuS3FGR3hGT290SVNTVnRUaE8tellFN0Fjd2VYRjhETExVQUQxbHJGR3V2UjVvcXhXY3lUN3RRRHg1VGxtSTBER3lSVVplaDVKd3JNX052SFVvdXIyM2dtaWNYdlFzRVU0ZnZ3ZDY2WHE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-05T14:16:55+00:00"
-          },
-          {
             "title": "AP Rains: బంగాళాఖాతంలో ద్రోణి ప్రభావం- రేపు ఈ జిల్లాల్లో వర్షాలు..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/rain-alert-in-andhra-pradesh-apsdma-warns-these-districts-of-heavy-showers-tomorrow-500389.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-05T19:35:44+05:30"
+          },
+          {
+            "title": "ట్రైనీ ఐపీఎస్ ఉదయ్ కృష్ణారెడ్డికి బిగ్ షాక్.. పోలీస్ కస్టడీకి కోర్టు అనుమతి",
+            "link": "https://telugu.oneindia.com/news/telangana/udaykrishnareddy-big-shock-trainee-ips-officer-sexual-harassment-case-court-grants-police-custody-500387.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-05T19:33:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1440,6 +1440,13 @@
             "published": "2026-08-05T18:11:15+00:00"
           },
           {
+            "title": "কোচবিহারে সিপিএম কার্যালয়ে তাণ্ডব, ভাঙচুর! টিভি, টেবিল-চেয়ারও লুটের অভিযোগ, বামেদের তোপ বিজেপিকে - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMW1MYU5zV1BSNGE1bjM0RjJiV205cFE3enN4R1p3QnhKbzVnaDhxY1dydnV3bXRjc2VVMXlyUkYxUG9jTFFPME5yZ0R3b3lseURLeFNxOXNSbVQ0QXpzazRVZ3o2RWlQcHhIY0h6eUp6LTNUbTZtTWNWbmFYQTFzM2t1U3F6ejJuelIzSGpSS3JpWDNRekR5dnotQzlDdHhCVTJYUHZOLXRNNlo3b2RyUVYyODRPOWxYb1FOYTMwS1YwRGxuV04xUlFHb9IB0AFBVV95cUxOOE9JNVFWUWlsQmhxT3FwN0RHNF9hVTdGWTRVUTkxMXAzYUNaMkJKZXRLWmdOcmtQZWNScUQyYkZBTUpvbElKMlhkY243Y25faUszRDNlVk9uMzJNWFVJUGZiejU2eEFxYmhYRkpPZzNUSDhjMzQyamFzbElzRWR3a1NxX05fb0stNWwzS3RhajJaanpNbmZLbXZpMkxMYVVybFI3N3NmN1pFRGRtemdLQWxCMm1qbGR0c0tnTDVleXM1RFBFRGJfSjFoYUhtVGtk?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-05T16:55:16+00:00"
+          },
+          {
             "title": "কাম্বলি-পৃথ্বীর কী হাল হয়েছে মনে আছে! বৈভবকে সতর্কবার্তা কেকেআরের প্রাক্তনের - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdC1Kb0k1S0tfdWxnSG1DVFFuOTY3RTljZmszaVZ3SG1PdzVqbTRZSDFWdWxLUXprVmw2bGtYcGpyVjdnNnVPelZLWncyUjhDVFJtTG5PV2tGYWE0cXJOR3ByVlVHdWFJSXA2NzhBLXFDVGhILWg1M2s5QUdEanVWXzZZRzJuV0tKSERzbEY1amhOSlZ1aUJvUWp6R205WC1KXzhIRDRIQzNhYVk4T0U3WVMxd19zOUFEZnAxbkZFQnV4LWNnNFJEY2gzLTd4YUdyb3dLTkxuV2tkNmwtU0Jj0gHkAUFVX3lxTE9yYmd3cjdMcUhFbl94MGlna3ZjcTIwTlBfc3llS1pnVkM3c1hCa1VLR1NWeW1Pd01FaFEwOF9LWDdhUjhDTmEwcXpRTmQtZkpFd2xyeEM0TmZyWm5PVk1LTWw2SGlmX2xBVklMR0RybUZrVFU4T1ppOE9hUFVWSFFLQlRIVFI5NzctRkJ3MHM2TnY4cG1VVEdCVTlzWkVodW9LOUVzYlhpQlNTaTZ1bXd3bnAxbUhWWW1lZmhuM1hnSGdzU0JNeG9sOWlaLWlsQVdYZmYzNWluOTFxdVNFOVQyNGRybA?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-05T13:18:26+00:00"
-          },
-          {
-            "title": "‘গজনি’ থেকে ‘লগান’— একাধিক ভাষায় একের পর এক দুরন্ত অভিনয়, ক্যানসারের কাছে হারতে হল ধর্মাত্মাকে! - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNTVMWGViX0xQRTN1aUlLS1NhXzZ3OUE5SXR0d0hyR0NFSUZCbmcweEc1TkZpRjBwUHdURGNJOGZfRXJzLTdYY1FTS2ptZEdkUTRpZVF0REdDdE9WcXRpdU9aMThsUVJ6OEZpWDFKUmdBOWNhUXJwVC13c0JLLTZzOFI3UV9rdnFVbV9DYllYSmtTTjh5UHZESURvaFJ4ZFBNcjZTLWxRSWhTeDN2STRhTl8tQTRRRjdfZEg4ZlF0YjNLQ0M0eTgzNHM5V0Q1cXhkdzFxSnlIN1d4OWVfQU0zZ1NYOFdZNUtZLW5HeFpEaGhvUWJWVV9BZ2lwVGhicm1KRUYzZjZqeDR1WlVtRno4amxSTXNoVnlLYThESmZ6MNIBpAJBVV95cUxPVnFiMk5IX0tpenNZS204dUNlXzM4V0ZmTzA2RVE5bndoOHhveVVLLXZJMDBzMzc4NEEzdmgtUk5vOUxNekZ6UGE2U18ySTJZY281QkFZNnJmU19PMGhvWHNZVk12THhHdi04aF9zOV9xTFhjM3dscHBFZUprMkVYeEd1YWhRTzlFMWFhYjJjRldHdDl6SHlGaTByem1SVExKcHVSUlhnSDBsQlpfeHNGZktqa3VCYVFHajRwb1VxanFic2RUVlZzXzlIdm1FUnU5YTFYcGNzbWVXREhRVkpYS2xCZFRjaUlyWEYyODlna2xZLWRmTzNCNnhIVUItZmxPbVliaTFrb3BpQnhXZUV0dS1vSlNhVENBd3FRMVpLaWFMVWlN?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-05T12:48:31+00:00"
           }
         ]
       }
