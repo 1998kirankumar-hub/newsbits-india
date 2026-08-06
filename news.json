@@ -1,196 +1,217 @@
 {
-  "updated_at": "2026-08-06T06:01:26.323755+00:00",
+  "updated_at": "2026-08-06T06:31:21.727289+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Mark Zuckerberg sends apologies for ‘errors in operating the platform’, government sources say",
-            "link": "https://www.thehindu.com/news/national/meta-ceo-mark-zuckerberg-apologises-for-csam-deepfake-content-errors-in-operating-platform/article71309386.ece",
+            "title": "Nagpur Teen Goes Missing For A Day, Found Dead On Railway Tracks",
+            "link": "https://www.ndtv.com/nagpur-news/nagpur-teen-goes-missing-for-a-day-found-dead-on-railway-tracks-11872993#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "A 14-year-old boy was found dead on the Nagpur-Howrah railway route in Kamthi town after going missing for a day.",
+            "published": "2026-08-06T11:58:54+05:30"
+          },
+          {
+            "title": "Airline ordered to pay Rs 53,923 after passenger's luggage was delivered three days late",
+            "link": "https://timesofindia.indiatimes.com/legal/news/airline-ordered-to-pay-rs-53923-after-passengers-luggage-was-delivered-three-days-late/articleshow/132985453.cms",
+            "source": "Times of India",
+            "summary": "A consumer commission ordered an airline to pay compensation for delayed luggage. The passenger's checked baggage was delayed by three days after his flight. The airline failed to provide compensation despite repeated passenger complaints. The commission directed reimbursement for essential clothing and litigation costs. This ruling highlights airline responsibilities under the Passenger Charter.",
+            "published": "2026-08-06T11:55:05+05:30"
+          },
+          {
+            "title": "NIA arrests another absconding accused in Praveen Nettaru murder case; total arrests reach 25",
+            "link": "https://www.thehindu.com/news/national/karnataka/nia-arrests-another-absconding-accused-in-praveen-nettaru-murder-case-total-arrests-reach-25/article71312101.ece",
             "source": "The Hindu",
-            "summary": "“I apologised to the Minister on behalf of Meta for the error restricting PM Modi’s post,” Meta’s global head of public policy Joel Kaplan said in a statement shared by a Meta spokesperson.",
-            "published": "2026-08-06T11:25:53+05:30"
+            "summary": "The accused, Ummar Farook M.R., was arrested in Kochi, Kerala, during a targeted operation based on specific intelligence inputs. He had been absconding since the investigation began",
+            "published": "2026-08-06T11:54:43+05:30"
+          },
+          {
+            "title": "\"I'm 62 And I Believe I Am A Victim\": Former Tehelka Editor Tarun Tejpal On Conviction In Rape Case",
+            "link": "https://www.ndtv.com/india-news/tarun-tejpal-2013-rape-case-im-62-and-i-believe-i-am-a-victim-former-tehelka-editor-tarun-tejpal-on-conviction-in-rape-case-11872921#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The case pertains to allegations made by a woman journalist, who had accused Tarun Tejpal of sexually assaulting her inside a hotel elevator on November 7 and 8, 2013.",
+            "published": "2026-08-06T11:54:08+05:30"
+          },
+          {
+            "title": "Supreme Court directs Jaipur tribunal to clear pending illegal construction appeals in two weeks",
+            "link": "https://www.thehindu.com/news/national/rajasthan/supreme-court-directs-jaipur-tribunal-to-clear-pending-illegal-construction-appeals-in-two-weeks/article71312382.ece",
+            "source": "The Hindu",
+            "summary": "The direction came in an August 5 order amid concerns that interim relief granted by the tribunal in several cases delayed enforcement action initiated by the Jaipur Development Authority (JDA) against unauthorised structures",
+            "published": "2026-08-06T11:53:19+05:30"
+          },
+          {
+            "title": "A Look At Abdul El-Sayed's Progressive Breakthrough In Michigan Senate Race",
+            "link": "https://www.ndtv.com/world-news/how-abdul-el-sayed-went-from-political-oblivion-to-progressive-breakthrough-in-michigan-senate-race-11872632#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Abdul El-Sayed narrowly defeated Representative Haley Stevens in Michigan's Democratic Senate primary, overcoming more than $60 million in outside spending.",
+            "published": "2026-08-06T11:53:08+05:30"
+          },
+          {
+            "title": "From Nambi Narayanan to GD Naidu: Why Madhavan is drawn to unsung Indian heroes",
+            "link": "https://www.thehindu.com/entertainment/movies/from-nambi-narayanan-to-gd-naidu-why-madhavan-is-drawn-to-unsung-indian-heroes/article71304071.ece",
+            "source": "The Hindu",
+            "summary": "Ahead of the release of G.D.N., R Madhavan talks about playing inventor GD Naidu and why he is drawn to unsung Indian heroes like Nambi Narayanan. He also revisits Run and gets candid about Chennai that he still calls home",
+            "published": "2026-08-06T11:49:55+05:30"
+          },
+          {
+            "title": "Bombay High Court convicts Tarun Tejpal in 2013 sexual assault case; sets aside acquittal",
+            "link": "https://www.thehindu.com/news/national/goa/bombay-high-court-convicts-former-tehelka-editor-tarun-tejpal-in-alleged-sexual-assault-case/article71312280.ece",
+            "source": "The Hindu",
+            "summary": "Goa Bench said it would pronounce its order on sentencing in the afternoon; Solicitor General Tushar Mehta, appearing for the Goa govt., sought the maximum punishment to send a strong message that “no means no”",
+            "published": "2026-08-06T11:49:47+05:30"
+          },
+          {
+            "title": "Tamil Nadu’s debt will continue to rise, says Finance Secretary",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-debt-will-continue-to-rise-says-finance-secretary/article71310302.ece",
+            "source": "The Hindu",
+            "summary": "According to M.A. Siddique, the rate of income growth must outpace the rate at which debt rises",
+            "published": "2026-08-06T11:46:49+05:30"
+          },
+          {
+            "title": "African Great Lakes hold 25% of Earth's freshwater as unique species face extinction",
+            "link": "https://timesofindia.indiatimes.com/science/the-african-great-lakes-contain-more-than-25-of-earths-surface-freshwater-yet-many-of-their-unique-species-face-extinction/articleshow/132984829.cms",
+            "source": "Times of India",
+            "summary": "The African Great Lakes boast a treasure trove of freshwater and unique species, forming crucial ecosystems. However, they are under siege from human activities, with pollution and overfishing threatening both water quality and wildlife. This mounting pressure is exacerbated by rapid population growth and the looming specter of climate change, which further endangers the delicate balance of biodiversity in this…",
+            "published": "2026-08-06T11:45:04+05:30"
+          },
+          {
+            "title": "Many facts create doubt on truthfulness of victim: Goa court on Tarun Tejpal’s acquittal",
+            "link": "https://www.thehindu.com/news/national/other-states/many-facts-create-doubt-on-truthfulness-of-victim-goa-court-on-tarun-tejpals-acquittal/article60681406.ece",
+            "source": "The Hindu",
+            "summary": "Special judge Kshama Joshi mentions lack of medical evidence, delay in lodging FIR as reasons for acquittal.",
+            "published": "2026-08-06T11:44:31+05:30"
           },
           {
             "title": "Parliament Monsoon Session Day 14 LIVE: Lok Sabha pays homage to Hiroshima-Nagasaki atomic bombing victims; Opposition continues protest in Rajya Sabha",
             "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
             "source": "The Hindu",
             "summary": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
-            "published": "2026-08-06T11:25:34+05:30"
+            "published": "2026-08-06T11:44:23+05:30"
           },
           {
-            "title": "Bombay High Court orders removal of deepfake videos targeting Nitin Gadkari over ethanol policy",
-            "link": "https://www.thehindu.com/news/cities/mumbai/bombay-high-court-orders-removal-of-deepfake-videos-targeting-nitin-gadkari-over-ethanol-policy/article71308732.ece",
-            "source": "The Hindu",
-            "summary": "During the proceedings, the court expressed concern over the absence of a mechanism to remove abusive content without judicial intervention. It observed that individuals are compelled to approach courts for relief in such matters.",
-            "published": "2026-08-06T11:25:20+05:30"
+            "title": "US military families face deportation after immigration protection ends",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The spouses and parents of US service members have been reportedly detained or deported.",
+            "published": "2026-08-06T06:09:50+00:00"
           },
           {
-            "title": "Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects to any water level hike by T.N.",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-minister-says-sc-directions-on-mullaperiyar-dam-unimplemented-objects-to-any-water-level-hike-by-tn/article71312211.ece",
-            "source": "The Hindu",
-            "summary": "Water Resources Minister Mons Joseph says Kerala will approach the apex court if Tamil Nadu proceeds with its reported move to raise the reservoir’s water level beyond 142 feet",
-            "published": "2026-08-06T11:24:49+05:30"
-          },
-          {
-            "title": "Meta says AI model accessed the internet and hacked another firm",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+            "title": "Outrage as Ugandan football captain murdered in street gang attack",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-            "published": "2026-08-06T05:53:58+00:00"
-          },
-          {
-            "title": "Karnataka rain Kodagu district receives below-normal rainfall; Minister hopeful of rains in August",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-kodagu-district-receives-below-normal-rainfall-minister-hopeful-of-rains-in-august/article71312022.ece",
-            "source": "The Hindu",
-            "summary": "Kodagu district is considered to be the primary catchment for KRS reservoir, which is the lifeline of Mysuru and Mandya districts, providing irrigation to thousands of acres of farmland and drinking water for the region, including Bengaluru",
-            "published": "2026-08-06T11:23:43+05:30"
-          },
-          {
-            "title": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Niño impacts: Minister",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-contingency-plans-drawn-up-for-districts-to-cope-with-super-el-nino-impacts-minister/article71312267.ece",
-            "source": "The Hindu",
-            "summary": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
-            "published": "2026-08-06T11:20:37+05:30"
-          },
-          {
-            "title": "Telangana CM seeks simplification of H-1B visa processing, renewal and stamping procedures",
-            "link": "https://www.thehindu.com/news/national/telangana/cm-seeks-simplification-of-h-1b-visa-processing-renewal-and-stamping-procedures/article71310805.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Revanth Reddy seeks more visas to Telangana students",
-            "published": "2026-08-06T11:19:44+05:30"
-          },
-          {
-            "title": "Congress expresses support to agitating students’ over Jharkhand exam irregularities, says justice for them top priority",
-            "link": "https://www.thehindu.com/news/national/jharkhand/congress-expresses-support-to-agitating-students-over-jharkhand-exam-irregularities-says-justice-for-them-top-priority/article71312220.ece",
-            "source": "The Hindu",
-            "summary": "K. Raju, the All India Congress Committee in-charge for Jharkhand, in a post on X, said his party supports the students’ agitation against paper leaks in the State.",
-            "published": "2026-08-06T11:16:49+05:30"
-          },
-          {
-            "title": "Who is Devendra Nath Mahto, student leader at the forefront of Jharkhand JPSC-JSSC protest?",
-            "link": "https://www.thehindu.com/news/national/jharkhand/who-is-devendra-nath-mahto-student-leader-forefront-of-jharkhand-jpsc-jssc-exam-irregularity-protest/article71309314.ece",
-            "source": "The Hindu",
-            "summary": "Devendra Nath Mahto, a prominent student leader from Ranchi, is at the forefront of a major protest in Jharkhand, as hundreds of students continue their demonstration for the eighth consecutive day on August 5, 2026",
-            "published": "2026-08-06T11:14:15+05:30"
-          },
-          {
-            "title": "Out of work and outraged",
-            "link": "https://www.thehindu.com/education/out-of-work-and-outraged/article71306838.ece",
-            "source": "The Hindu",
-            "summary": "While the immediate trigger for the students’ protest at Jantar Mantar was the repeated paper leaks, disillusionment among the youth runs much deeper. India has a significant youth population; however, unemployment remains high. Additionally, access to quality education has become limited due to a number of factors",
-            "published": "2026-08-06T11:11:10+05:30"
-          },
-          {
-            "title": "Pizza, soft bedding: Man who befriended teen on Instagram, sexually assaulted her makes demands in jail",
-            "link": "https://www.hindustantimes.com/india-news/pizza-soft-bedding-man-who-befriended-teen-on-instagram-sexually-assaulted-her-makes-demands-in-jail-nagpur-mumbai-101785992123255.html",
-            "source": "Hindustan Times",
-            "summary": "The accused, also complained that the walls were dirty and the toilets were unhygienic, police said.",
-            "published": "2026-08-06T11:10:47+05:30"
-          },
-          {
-            "title": "Govt. is open to talks, Jharkhand CM tells protesting students",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-job-aspirants-protest-intensifies-as-five-more-sit-on-hunger-strike-in-ranchi/article71308396.ece",
-            "source": "The Hindu",
-            "summary": "Hundreds of students have gathered at a stadium in Ranchi to demand a CBI inquiry into alleged irregularities in competitive exams; the protesters have also called for the cancellation of the Preliminary Test of the 14th JPSC Civil Services Examination, and a review of exams conducted through agencies",
-            "published": "2026-08-06T11:10:38+05:30"
-          },
-          {
-            "title": "AI or real? BBC analyses viral China disaster videos",
-            "link": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-            "published": "2026-08-06T05:29:27+00:00"
+            "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
+            "published": "2026-08-06T06:04:28+00:00"
           }
         ],
         "India": [
           {
-            "title": "Mark Zuckerberg sends apologies for ‘errors in operating the platform’, government sources say",
-            "link": "https://www.thehindu.com/news/national/meta-ceo-mark-zuckerberg-apologises-for-csam-deepfake-content-errors-in-operating-platform/article71309386.ece",
+            "title": "Nagpur Teen Goes Missing For A Day, Found Dead On Railway Tracks",
+            "link": "https://www.ndtv.com/nagpur-news/nagpur-teen-goes-missing-for-a-day-found-dead-on-railway-tracks-11872993#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "A 14-year-old boy was found dead on the Nagpur-Howrah railway route in Kamthi town after going missing for a day.",
+            "published": "2026-08-06T11:58:54+05:30"
+          },
+          {
+            "title": "Airline ordered to pay Rs 53,923 after passenger's luggage was delivered three days late",
+            "link": "https://timesofindia.indiatimes.com/legal/news/airline-ordered-to-pay-rs-53923-after-passengers-luggage-was-delivered-three-days-late/articleshow/132985453.cms",
+            "source": "Times of India",
+            "summary": "A consumer commission ordered an airline to pay compensation for delayed luggage. The passenger's checked baggage was delayed by three days after his flight. The airline failed to provide compensation despite repeated passenger complaints. The commission directed reimbursement for essential clothing and litigation costs. This ruling highlights airline responsibilities under the Passenger Charter.",
+            "published": "2026-08-06T11:55:05+05:30"
+          },
+          {
+            "title": "NIA arrests another absconding accused in Praveen Nettaru murder case; total arrests reach 25",
+            "link": "https://www.thehindu.com/news/national/karnataka/nia-arrests-another-absconding-accused-in-praveen-nettaru-murder-case-total-arrests-reach-25/article71312101.ece",
             "source": "The Hindu",
-            "summary": "“I apologised to the Minister on behalf of Meta for the error restricting PM Modi’s post,” Meta’s global head of public policy Joel Kaplan said in a statement shared by a Meta spokesperson.",
-            "published": "2026-08-06T11:25:53+05:30"
+            "summary": "The accused, Ummar Farook M.R., was arrested in Kochi, Kerala, during a targeted operation based on specific intelligence inputs. He had been absconding since the investigation began",
+            "published": "2026-08-06T11:54:43+05:30"
+          },
+          {
+            "title": "\"I'm 62 And I Believe I Am A Victim\": Former Tehelka Editor Tarun Tejpal On Conviction In Rape Case",
+            "link": "https://www.ndtv.com/india-news/tarun-tejpal-2013-rape-case-im-62-and-i-believe-i-am-a-victim-former-tehelka-editor-tarun-tejpal-on-conviction-in-rape-case-11872921#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The case pertains to allegations made by a woman journalist, who had accused Tarun Tejpal of sexually assaulting her inside a hotel elevator on November 7 and 8, 2013.",
+            "published": "2026-08-06T11:54:08+05:30"
+          },
+          {
+            "title": "Supreme Court directs Jaipur tribunal to clear pending illegal construction appeals in two weeks",
+            "link": "https://www.thehindu.com/news/national/rajasthan/supreme-court-directs-jaipur-tribunal-to-clear-pending-illegal-construction-appeals-in-two-weeks/article71312382.ece",
+            "source": "The Hindu",
+            "summary": "The direction came in an August 5 order amid concerns that interim relief granted by the tribunal in several cases delayed enforcement action initiated by the Jaipur Development Authority (JDA) against unauthorised structures",
+            "published": "2026-08-06T11:53:19+05:30"
+          },
+          {
+            "title": "A Look At Abdul El-Sayed's Progressive Breakthrough In Michigan Senate Race",
+            "link": "https://www.ndtv.com/world-news/how-abdul-el-sayed-went-from-political-oblivion-to-progressive-breakthrough-in-michigan-senate-race-11872632#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Abdul El-Sayed narrowly defeated Representative Haley Stevens in Michigan's Democratic Senate primary, overcoming more than $60 million in outside spending.",
+            "published": "2026-08-06T11:53:08+05:30"
+          },
+          {
+            "title": "From Nambi Narayanan to GD Naidu: Why Madhavan is drawn to unsung Indian heroes",
+            "link": "https://www.thehindu.com/entertainment/movies/from-nambi-narayanan-to-gd-naidu-why-madhavan-is-drawn-to-unsung-indian-heroes/article71304071.ece",
+            "source": "The Hindu",
+            "summary": "Ahead of the release of G.D.N., R Madhavan talks about playing inventor GD Naidu and why he is drawn to unsung Indian heroes like Nambi Narayanan. He also revisits Run and gets candid about Chennai that he still calls home",
+            "published": "2026-08-06T11:49:55+05:30"
+          },
+          {
+            "title": "Bombay High Court convicts Tarun Tejpal in 2013 sexual assault case; sets aside acquittal",
+            "link": "https://www.thehindu.com/news/national/goa/bombay-high-court-convicts-former-tehelka-editor-tarun-tejpal-in-alleged-sexual-assault-case/article71312280.ece",
+            "source": "The Hindu",
+            "summary": "Goa Bench said it would pronounce its order on sentencing in the afternoon; Solicitor General Tushar Mehta, appearing for the Goa govt., sought the maximum punishment to send a strong message that “no means no”",
+            "published": "2026-08-06T11:49:47+05:30"
+          },
+          {
+            "title": "Tamil Nadu’s debt will continue to rise, says Finance Secretary",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-debt-will-continue-to-rise-says-finance-secretary/article71310302.ece",
+            "source": "The Hindu",
+            "summary": "According to M.A. Siddique, the rate of income growth must outpace the rate at which debt rises",
+            "published": "2026-08-06T11:46:49+05:30"
+          },
+          {
+            "title": "African Great Lakes hold 25% of Earth's freshwater as unique species face extinction",
+            "link": "https://timesofindia.indiatimes.com/science/the-african-great-lakes-contain-more-than-25-of-earths-surface-freshwater-yet-many-of-their-unique-species-face-extinction/articleshow/132984829.cms",
+            "source": "Times of India",
+            "summary": "The African Great Lakes boast a treasure trove of freshwater and unique species, forming crucial ecosystems. However, they are under siege from human activities, with pollution and overfishing threatening both water quality and wildlife. This mounting pressure is exacerbated by rapid population growth and the looming specter of climate change, which further endangers the delicate balance of biodiversity in this…",
+            "published": "2026-08-06T11:45:04+05:30"
+          },
+          {
+            "title": "Many facts create doubt on truthfulness of victim: Goa court on Tarun Tejpal’s acquittal",
+            "link": "https://www.thehindu.com/news/national/other-states/many-facts-create-doubt-on-truthfulness-of-victim-goa-court-on-tarun-tejpals-acquittal/article60681406.ece",
+            "source": "The Hindu",
+            "summary": "Special judge Kshama Joshi mentions lack of medical evidence, delay in lodging FIR as reasons for acquittal.",
+            "published": "2026-08-06T11:44:31+05:30"
           },
           {
             "title": "Parliament Monsoon Session Day 14 LIVE: Lok Sabha pays homage to Hiroshima-Nagasaki atomic bombing victims; Opposition continues protest in Rajya Sabha",
             "link": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
             "source": "The Hindu",
             "summary": "Lok Sabha adjourned till 2 p.m.; Nirmala Sitharaman to move Taxation and Other Laws (Amendment) Bill in Lok Sabha",
-            "published": "2026-08-06T11:25:34+05:30"
-          },
-          {
-            "title": "Bombay High Court orders removal of deepfake videos targeting Nitin Gadkari over ethanol policy",
-            "link": "https://www.thehindu.com/news/cities/mumbai/bombay-high-court-orders-removal-of-deepfake-videos-targeting-nitin-gadkari-over-ethanol-policy/article71308732.ece",
-            "source": "The Hindu",
-            "summary": "During the proceedings, the court expressed concern over the absence of a mechanism to remove abusive content without judicial intervention. It observed that individuals are compelled to approach courts for relief in such matters.",
-            "published": "2026-08-06T11:25:20+05:30"
-          },
-          {
-            "title": "Kerala Minister says SC directions on Mullaperiyar dam unimplemented, objects to any water level hike by T.N.",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-minister-says-sc-directions-on-mullaperiyar-dam-unimplemented-objects-to-any-water-level-hike-by-tn/article71312211.ece",
-            "source": "The Hindu",
-            "summary": "Water Resources Minister Mons Joseph says Kerala will approach the apex court if Tamil Nadu proceeds with its reported move to raise the reservoir’s water level beyond 142 feet",
-            "published": "2026-08-06T11:24:49+05:30"
-          },
-          {
-            "title": "Karnataka rain Kodagu district receives below-normal rainfall; Minister hopeful of rains in August",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-rain-kodagu-district-receives-below-normal-rainfall-minister-hopeful-of-rains-in-august/article71312022.ece",
-            "source": "The Hindu",
-            "summary": "Kodagu district is considered to be the primary catchment for KRS reservoir, which is the lifeline of Mysuru and Mandya districts, providing irrigation to thousands of acres of farmland and drinking water for the region, including Bengaluru",
-            "published": "2026-08-06T11:23:43+05:30"
-          },
-          {
-            "title": "T.N. Agriculture Budget | Contingency plans drawn up for districts to cope with Super El Niño impacts: Minister",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-contingency-plans-drawn-up-for-districts-to-cope-with-super-el-nino-impacts-minister/article71312267.ece",
-            "source": "The Hindu",
-            "summary": "Presenting the Agriculture Budget in the Assembly, R. Vinoth said while severe climatic impacts were anticipated across the country during the current year, particularly in the Kuruvai season, 12 districts in Tamil Nadu were expected to be severely affected",
-            "published": "2026-08-06T11:20:37+05:30"
-          },
-          {
-            "title": "Telangana CM seeks simplification of H-1B visa processing, renewal and stamping procedures",
-            "link": "https://www.thehindu.com/news/national/telangana/cm-seeks-simplification-of-h-1b-visa-processing-renewal-and-stamping-procedures/article71310805.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Revanth Reddy seeks more visas to Telangana students",
-            "published": "2026-08-06T11:19:44+05:30"
-          },
-          {
-            "title": "Congress expresses support to agitating students’ over Jharkhand exam irregularities, says justice for them top priority",
-            "link": "https://www.thehindu.com/news/national/jharkhand/congress-expresses-support-to-agitating-students-over-jharkhand-exam-irregularities-says-justice-for-them-top-priority/article71312220.ece",
-            "source": "The Hindu",
-            "summary": "K. Raju, the All India Congress Committee in-charge for Jharkhand, in a post on X, said his party supports the students’ agitation against paper leaks in the State.",
-            "published": "2026-08-06T11:16:49+05:30"
-          },
-          {
-            "title": "Who is Devendra Nath Mahto, student leader at the forefront of Jharkhand JPSC-JSSC protest?",
-            "link": "https://www.thehindu.com/news/national/jharkhand/who-is-devendra-nath-mahto-student-leader-forefront-of-jharkhand-jpsc-jssc-exam-irregularity-protest/article71309314.ece",
-            "source": "The Hindu",
-            "summary": "Devendra Nath Mahto, a prominent student leader from Ranchi, is at the forefront of a major protest in Jharkhand, as hundreds of students continue their demonstration for the eighth consecutive day on August 5, 2026",
-            "published": "2026-08-06T11:14:15+05:30"
-          },
-          {
-            "title": "Out of work and outraged",
-            "link": "https://www.thehindu.com/education/out-of-work-and-outraged/article71306838.ece",
-            "source": "The Hindu",
-            "summary": "While the immediate trigger for the students’ protest at Jantar Mantar was the repeated paper leaks, disillusionment among the youth runs much deeper. India has a significant youth population; however, unemployment remains high. Additionally, access to quality education has become limited due to a number of factors",
-            "published": "2026-08-06T11:11:10+05:30"
-          },
-          {
-            "title": "Pizza, soft bedding: Man who befriended teen on Instagram, sexually assaulted her makes demands in jail",
-            "link": "https://www.hindustantimes.com/india-news/pizza-soft-bedding-man-who-befriended-teen-on-instagram-sexually-assaulted-her-makes-demands-in-jail-nagpur-mumbai-101785992123255.html",
-            "source": "Hindustan Times",
-            "summary": "The accused, also complained that the walls were dirty and the toilets were unhygienic, police said.",
-            "published": "2026-08-06T11:10:47+05:30"
-          },
-          {
-            "title": "Govt. is open to talks, Jharkhand CM tells protesting students",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-job-aspirants-protest-intensifies-as-five-more-sit-on-hunger-strike-in-ranchi/article71308396.ece",
-            "source": "The Hindu",
-            "summary": "Hundreds of students have gathered at a stadium in Ranchi to demand a CBI inquiry into alleged irregularities in competitive exams; the protesters have also called for the cancellation of the Preliminary Test of the 14th JPSC Civil Services Examination, and a review of exams conducted through agencies",
-            "published": "2026-08-06T11:10:38+05:30"
+            "published": "2026-08-06T11:44:23+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US military families face deportation after immigration protection ends",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The spouses and parents of US service members have been reportedly detained or deported.",
+            "published": "2026-08-06T06:09:50+00:00"
+          },
+          {
+            "title": "Outrage as Ugandan football captain murdered in street gang attack",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The 27-year-old was beaten to death by suspected robbers after resisting an attempt to steal his belongings, police say.",
+            "published": "2026-08-06T06:04:28+00:00"
+          },
+          {
+            "title": "Indian journalist Tarun Tejpal convicted in rape case",
+            "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+            "published": "2026-08-06T06:00:27+00:00"
+          },
           {
             "title": "Meta says AI model accessed the internet and hacked another firm",
             "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
@@ -211,6 +232,13 @@
             "source": "Al Jazeera",
             "summary": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
             "published": "2026-08-06T05:05:06+00:00"
+          },
+          {
+            "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+            "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+            "published": "2026-08-06T05:00:54+00:00"
           },
           {
             "title": "Moment first rare tiger in 70 years released in Kazakhstan",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
             "published": "2026-08-06T03:43:14+00:00"
-          },
-          {
-            "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-            "link": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Move comes after the US Supreme Court struck down many of Trump&#039;s sweeping levies in February.",
-            "published": "2026-08-06T03:34:09+00:00"
-          },
-          {
-            "title": "Lightning strike kills Thai footballer during match",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
-            "published": "2026-08-06T02:39:39+00:00"
-          },
-          {
-            "title": "How Gambian women are restoring the mangroves protecting Banjul",
-            "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.",
-            "published": "2026-08-06T02:34:00+00:00"
-          },
-          {
-            "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.",
-            "published": "2026-08-06T02:28:56+00:00"
           }
         ],
         "Business": [
@@ -285,11 +285,53 @@
             "published": "2026-08-06T05:53:58+00:00"
           },
           {
+            "title": "Sterlite Tech shares gain 4% on Rs 1,760 crore international order win",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-gain-4-on-rs-1760-crore-international-order-win/articleshow/132983554.cms",
+            "source": "Economic Times",
+            "summary": "Sterlite Technologies shares saw an upswing on Thursday after the company secured a Rs 1,760 crore international order for high-density optical fibre cables. The three-year contract strengthens its global order book, enhances revenue visibility, and comes amid rising worldwide investments in telecom networks, fibre connectivity, AI infrastructure and digital infrastructure expansion.",
+            "published": "2026-08-06T11:12:42+05:30"
+          },
+          {
+            "title": "HAL shares jump over 6%, extend gains for second straight session. What did its annual report reveal?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-jump-over-6-extend-gains-for-second-straight-session-what-did-its-annual-report-reveal/articleshow/132983082.cms",
+            "source": "Economic Times",
+            "summary": "HAL shares surged over 6% after the company’s annual report highlighted a robust order book of Rs 2.55 lakh crore for FY26, offering 7-8 years of revenue visibility. The defence major expects growth to accelerate through supply chain stabilisation, capacity expansion, infrastructure investments, and faster production ramp-up of key platforms, supporting its long-term growth outlook.",
+            "published": "2026-08-06T11:01:26+05:30"
+          },
+          {
+            "title": "Winemakers prosper but veg farms wilt in the drought",
+            "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Growers in the West of England search for new crops to grow in a changing climate.",
+            "published": "2026-08-06T05:19:40+00:00"
+          },
+          {
+            "title": "Neuland Laboratories shares jump over 6% after 975% YoY surge in Q1 profit",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms",
+            "source": "Economic Times",
+            "summary": "Neuland Laboratories shares rose sharply on Thursday after the drugmaker reported a 975% year-on-year surge in Q1 FY27 profit to Rs 147.4 crore. Revenue more than doubled, while EBITDA jumped 448%, driven by strong commercial product sales and encouraging performance across its CMS and GDS businesses.",
+            "published": "2026-08-06T10:39:20+05:30"
+          },
+          {
             "title": "The homeowners selling up for a life on the water",
             "link": "https://www.bbc.co.uk/news/articles/c5yzd45jl50o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Growing numbers of people are swapping mortgages for moorings amid the cost of living crisis.",
             "published": "2026-08-06T05:09:04+00:00"
+          },
+          {
+            "title": "Navin Fluorine shares surge 8% after Q1 profit more than doubles. Should you buy, sell or hold?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/navin-fluorine-shares-surge-8-after-q1-profit-more-than-doubles-should-you-buy-sell-or-hold/articleshow/132982625.cms",
+            "source": "Economic Times",
+            "summary": "Navin Fluorine shares surged nearly 8% after the company posted a strong Q1FY27 performance, with profit more than doubling and revenue rising 44% YoY. Elara Securities retained its 'Buy' rating and Rs 9,158 target, citing robust growth in refrigerants, specialty chemicals and CDMO, along with a strong expansion pipeline that supports long-term earnings visibility.",
+            "published": "2026-08-06T10:36:07+05:30"
+          },
+          {
+            "title": "PB Fintech shares gain 2% after Q1 results. Why Morgan Stanley, Nomura see up to 25% downside",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms",
+            "source": "Economic Times",
+            "summary": "PB Fintech shares rose after the Policybazaar parent reported a 92% YoY jump in Q1 FY27 net profit to Rs 163 crore. Operating revenue grew 40% to Rs 1,888 crore, while total insurance premium increased 41% to Rs 8,372 crore. PAT margin also improved to 9% from 6% a year ago.",
+            "published": "2026-08-06T10:33:00+05:30"
           },
           {
             "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
@@ -313,53 +355,11 @@
             "published": "2026-08-06T04:16:00+00:00"
           },
           {
-            "title": "LG Electronics, APL Apollo Tubes among 7 mid &amp; smallcap picks by Axis Securities for August",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/lg-electronics-apl-apollo-tubes-among-7-mid-amp-smallcap-picks-by-axis-securities-for-august/slideshow/132981540.cms",
-            "source": "Economic Times",
-            "summary": "Axis Securities has identified 7 mid and smallcap stocks for August. These selections offer potential upside and are based on company growth prospects. Dalmia Bharat and LG Electronics are among the recommended midcap companies. APL Apollo Tubes and Ujjivan Small Finance Bank also feature in this list. Minda Corporation and Healthcare Global Enterprises complete the analyst's picks.",
-            "published": "2026-08-06T09:41:28+05:30"
-          },
-          {
             "title": "South Korea’s Kospi tumbles 5% after 2-day rally, angry retail investors vow not to invest again",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-tumbles-5-after-2-day-rally-angry-retail-investors-vow-not-to-invest-again/articleshow/132980706.cms",
             "source": "Economic Times",
             "summary": "South Korea's benchmark Kospi extended its sharp decline on Thursday as a global technology selloff dragged heavyweight chipmakers Samsung Electronics and SK Hynix lower. The slump has intensified losses for retail investors and raised concerns over market concentration, while policymakers and analysts assess the outlook for the country's equity market.",
             "published": "2026-08-06T09:19:37+05:30"
-          },
-          {
-            "title": "Cummins India shares fall over 4% as Q1 net profit dips 8% to Rs 543 crore. Buy, sell or hold?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cummins-india-shares-in-focus-as-q1-net-profit-dips-8-to-rs-543-crore-buy-sell-or-hold/articleshow/132980594.cms",
-            "source": "Economic Times",
-            "summary": "Cummins India experienced a decline in shares following an eight percent dip in profits for the June quarter. In contrast, revenues surged with an impressive eighteen percent increase compared to last year. With managing director Shveta Arya set to depart by the end of August, analysts express varied opinions, highlighting robust demand while raising concerns about profit margins. The company remains optimistic…",
-            "published": "2026-08-06T09:16:50+05:30"
-          },
-          {
-            "title": "Juniper Green Energy shares list at 9% premium over IPO price",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/juniper-green-energy-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/132979558.cms",
-            "source": "Economic Times",
-            "summary": "Juniper Green Energy shares debuted with a nine percent premium over their initial public offering price. The company plans to use most of the IPO funds for significant debt reduction. This strategic move aims to strengthen its financial position and lower borrowing costs. Juniper Green Energy reported healthy financial performance with increased revenues and profits. The renewable energy firm holds a substantial…",
-            "published": "2026-08-06T08:18:40+05:30"
-          },
-          {
-            "title": "MV Electrosystems shares list at 22% premium over IPO price on NSE, BSE",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-shares-to-list-today-gmp-indicates-26-upside-on-debut/articleshow/132979473.cms",
-            "source": "Economic Times",
-            "summary": "MV Electrosystems debuted on the NSE and BSE at a 22% premium over its IPO price after its public issue was subscribed 188.85 times. While the strong listing reflected robust investor demand, analysts advised caution, citing the company's FY26 loss and concerns over profitability and related-party transactions.",
-            "published": "2026-08-06T08:09:57+05:30"
-          },
-          {
-            "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-            "published": "2026-08-06T01:19:59+00:00"
-          },
-          {
-            "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
-            "source": "Economic Times",
-            "summary": "Concerns are mounting among traders regarding the recent shift to a closing auction system, which has led to significant price volatility. Numerous market participants have reported unexpected losses, prompting authorities to engage with brokers to explore these issues. Despite regulators' attempts to bolster trader involvement, the contentious pricing mechanism continues to stir debate within the financial…",
-            "published": "2026-08-06T05:37:50+05:30"
           }
         ],
         "Sports": [
@@ -450,11 +450,39 @@
         ],
         "Technology": [
           {
+            "title": "Call of Duty: Black Ops and Black Ops 2 PlayStation Ports Reportedly Among Best-Selling Games of 2026",
+            "link": "https://www.gadgets360.com/games/news/call-of-duty-black-ops-1-2-ports-ps4-ps5-sales-estimate-best-selling-games-2026-playstation-activition-11872952",
+            "source": "Gadgets 360",
+            "summary": "Activision and Treyarch release Call of Duty: Black Ops and Black Ops 2 ports on PS4 and PS5 on July 9. In less than a month, the two games are reportedly among the best-selling titles of 2026. According to an analyst's estimates, Black Ops 2 has sold 8.2 million copies, while Black Ops has sold 3 million units on PS4 and PS5.",
+            "published": "2026-08-06T11:25:23+05:30"
+          },
+          {
+            "title": "\"Our Focus Has Remained Unchanged\": OnePlus India Responds to Exit Speculation With Growth Numbers",
+            "link": "https://www.gadgets360.com/mobiles/features/our-focus-has-remained-unchanged-oneplus-india-responds-to-exit-speculation-with-growth-numbers-11872912",
+            "source": "Gadgets 360",
+            "summary": "OnePlus has had a busy year in India. Since January, the brand has pushed out a steady stream of launches, starting with the Nord 6, Nord CE 6 and Nord CE 6 Lite in the smartphone lineup, and on the IoT side, the OnePlus Pad Lite, Pad Go 2 and Pad 4 tablets alongside the Nord Buds 4 and Nord Buds 4 Pro. For a company reportedly plotting a global retreat, OnePlus is launching an awful lot of phones.",
+            "published": "2026-08-06T11:19:41+05:30"
+          },
+          {
             "title": "AI or real? BBC analyses viral China disaster videos",
             "link": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
             "published": "2026-08-06T05:29:27+00:00"
+          },
+          {
+            "title": "Vivo V80 Lite 5G Spotted on Google Play Supported Devices Listing; Launch Seems Imminent",
+            "link": "https://www.gadgets360.com/mobiles/news/vivo-v80-lite-5g-google-play-supported-devices-listing-model-number-specifications-expected-11872801",
+            "source": "Gadgets 360",
+            "summary": "Vivo V80 Lite 5G surfaced on the Google Play Supported Devices List with the model numbers V2576, V2643, and V2644. The listing doesn't reveal any specifications of the phone besides the model number and moniker, but it indicates that the launch is imminent. It is speculated to come with a 6.83-inch AMOLED display with 1.5K resolution and a 120Hz refresh rate, as well as a MediaTek Dimensity 7360-Turbo processor.",
+            "published": "2026-08-06T10:49:28+05:30"
+          },
+          {
+            "title": "Xiaomi HyperOS 4 Leak Hints at Beta Rollout Timeline and New Features",
+            "link": "https://www.gadgets360.com/mobiles/news/xiaomi-hyperos-4-beta-timeline-leak-features-expected-11872760",
+            "source": "Gadgets 360",
+            "summary": "A leaked HyperOS 4 roadmap has outlined Xiaomi's possible beta testing schedule in China, including dates for registrations, the launch event and the first beta rollout. The company has yet to confirm the timeline, which could change before release. HyperOS 4 is expected to be based on Android 17 and may introduce a redesigned interface, new AI-powered capabilities, system animation upgrades, and performance…",
+            "published": "2026-08-06T10:35:42+05:30"
           },
           {
             "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
@@ -504,34 +532,6 @@
             "source": "BBC Technology",
             "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
             "published": "2026-08-05T14:04:43+00:00"
-          },
-          {
-            "title": "Mafia: The Old Country's Man of Honor Expansion Gets First Look at Gameplay Ahead of Launch",
-            "link": "https://www.gadgets360.com/games/news/mafia-the-old-country-man-of-honor-story-expansion-gameplay-details-revealed-2k-hangar-13-11870390",
-            "source": "Gadgets 360",
-            "summary": "2K and Hangar 13 have shared a first look at gameplay for Mafia: The Old Country's Man of Honor expansion. The story DLC is launching on PC, PS5, and Xbox Series S/X on August 14. The expansion will add two new story chapters, and new content to the game's Free Ride mode.",
-            "published": "2026-08-05T19:29:54+05:30"
-          },
-          {
-            "title": "Galaxy Research Identifies at Least 15 Attackers Exploiting Coldcard Security Flaw",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/galaxy-identifies-at-least-15-attackers-exploiting-coldcard-security-flaw-crypto-hacks-scams-august-2026-11869787",
-            "source": "Gadgets 360",
-            "summary": "Galaxy Digital's chief researcher Alex Thorn said at least 15 attackers exploited the Coldcard hardware wallet vulnerability, with total losses now estimated at around $100 million. Thorn said victim reports helped identify multiple attackers that would have otherwise remained anonymous. The findings come after successive waves of coordinated thefts linked to the same flaw, reigniting concerns over hardware wallet…",
-            "published": "2026-08-05T19:23:15+05:30"
-          },
-          {
-            "title": "Amazon Great Freedom Sale 2026: Top Smartphone Deals Under Rs. 20,000 Including Galaxy M17 5G, Redmi A7 Pro 5G, and More",
-            "link": "https://www.gadgets360.com/mobiles/features/amazon-great-freedom-sale-2026-smartphone-deals-under-rs-20000-samsung-galaxy-m17-redmi-a7-pro-11870170",
-            "source": "Gadgets 360",
-            "summary": "Popular smartphones with advanced rear cameras, bright displays, new gaming features and long battery life are confirmed to be available at reduced prices in the upcoming Amazon Great Freedom Sale 2026. Different models, including the Redmi A7 Pro 5G, Samsung Galaxy M17 5G and iQOO Z11 Lite, will be available at discounted rates. Here are some of the best deals on handsets under Rs. 20,000 available in the upcoming…",
-            "published": "2026-08-05T19:19:02+05:30"
-          },
-          {
-            "title": "Binance Takes RedotPay to Court Over Claimed $473 Million Losses",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/binance-takes-legal-action-against-redotpay-over-claimed-473-million-user-losses-report-crypto-partnerships-crypto-exchange-11870312",
-            "source": "Gadgets 360",
-            "summary": "Binance-affiliated companies have filed lawsuits against Hong Kong-based crypto payments firm RedotPay, alleging it diverted customers from Binance Card in breach of a commercial agreement. The lawsuit seeks nearly $473 million in damages, claiming the alleged conduct contributed to RedotPay's rapid growth ahead of a planned IPO. RedotPay has denied the allegations, stating that it will vigorously defend the claims…",
-            "published": "2026-08-05T19:16:17+05:30"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Fake Paneer Alert: कहीं आप भी तो नहीं खा रहे एनालॉग पनीर? जानें ये कैसे बनता है और कितना खतरनाक है",
+            "link": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/what-is-analogue-paneer-and-its-side-effects-in-hindi-analogue-paneer-kaise-banta-hai-2026-08-06",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-06T11:47:38+05:30"
+          },
+          {
+            "title": "कॉकरोच जनता पार्टी की बैठक का दूसरा दिन:2 बजे दीपके प्रेस कॉन्फ्रेंस करेंगे, कल कहा था- पॉलिटिकल पार्टी नहीं बनाएंगे",
+            "link": "https://www.bhaskar.com/g/national/news/cockroach-janata-party-press-conference-chhatrapati-sambhajinagar-138646935.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-06T06:01:58+00:00"
+          },
+          {
             "title": "Delimitation Bill: परिसीमन बिल पर DMK बनेगी 'किंगमेकर'? संसद में दो तिहाई बहुमत के लिए मोदी सरकार ने कसा कमर!",
             "link": "https://hindi.oneindia.com/news/india/delimitation-bill-2026-dmk-nda-two-thirds-majority-lok-sabha-rajya-sabha-number-analysis-1623603.html",
             "source": "Oneindia Hindi",
@@ -634,7 +648,7 @@
             "published": "2026-08-06T11:27:01+05:30"
           },
           {
-            "title": "तरुण तेजपाल को बॉम्बे हाई कोर्ट ने रेप मामले में दोषी ठहराया",
+            "title": "तरुण तेजपाल को बॉम्बे हाई कोर्ट ने रेप के मामले में दोषी ठहराया",
             "link": "https://www.bbc.com/hindi/articles/cvglj13432yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
             "summary": "",
@@ -648,6 +662,13 @@
             "published": "2026-08-06T11:17:02+05:30"
           },
           {
+            "title": "Awarapan 2 Trailer: ‘आवारापन 2’ का ट्रेलर रिलीज, फिर मोहब्बत के लिए जंग लड़ते दिखे इमरान हाशमी",
+            "link": "https://www.amarujala.com/entertainment/bollywood/awarapan-2-trailer-release-starring-emraan-hashmi-disha-patani-shabana-azmi-movie-directed-by-nitin-kakkar-2026-08-06",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-06T11:16:03+05:30"
+          },
+          {
             "title": "Nagaur News: बहुचर्चित डांगावास हत्याकांड में 11 साल बाद आया फैसला, कोर्ट ने सभी 40 आरोपियों को बरी किया",
             "link": "https://www.amarujala.com/rajasthan/nagaur-news-verdict-in-2015-dangawas-case-all-40-accused-acquitted-after-long-trial-2026-08-06",
             "source": "Amar Ujala",
@@ -655,7 +676,7 @@
             "published": "2026-08-06T11:12:58+05:30"
           },
           {
-            "title": "पूर्व पत्रकार तरुण तेजपाल रेप केस में दोषी:बॉम्बे हाईकोर्ट ने ट्रायल कोर्ट का फैसला पलटा, 2013 में साथी पत्रकार ने आरोप लगाया था",
+            "title": "पूर्व पत्रकार तरुण तेजपाल रेप केस में दोषी करार:बॉम्बे हाईकोर्ट ने ट्रायल कोर्ट का फैसला पलटा; 2013 में साथी पत्रकार ने आरोप लगाया था",
             "link": "https://www.bhaskar.com/g/national/news/bombay-high-court-goa-tarun-tejpal-rape-case-verdict-update-138646787.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-06T10:27:19+05:30"
-          },
-          {
-            "title": "Rahane On Dhoni: पठान के बाद अब रहाणे ने धोनी के होटल के कमरे को लेकर दिया बयान; ऐसा क्या कहा कि मच गई खलबली?",
-            "link": "https://www.amarujala.com/photo-gallery/cricket/ajinkya-rahane-reveals-the-unique-rule-behind-ms-dhoni-s-room-2026-08-06",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-06T10:20:42+05:30"
-          },
-          {
-            "title": "बंगाल में मस्जिदों के लाउडस्पीकर पर बवाल: ISF विधायक नौशाद सिद्दीकी की पुलिस को चुनौती; कहा- लिखित आदेश दिखाइए",
-            "link": "https://www.amarujala.com/india-news/uproar-over-mosque-loudspeakers-in-bengal-mla-naushad-siddiqui-challenges-police-demands-to-see-written-order-2026-08-06",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-06T10:14:15+05:30"
-          },
-          {
-            "title": "Bihar News: 'अपने अफसर को पहले रॉड से मारा, फिर चढ़ा दी गाड़ी'- EO हत्याकांड में ड्राइवर का कबूलनामा",
-            "link": "https://www.amarujala.com/bihar/patna/bihar-government-executive-officer-murder-case-sit-investigation-confession-of-driver-rohtas-bihar-news-2026-08-06",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-06T10:13:59+05:30"
           }
         ],
         "Entertainment": [
@@ -899,7 +899,14 @@
             "link": "https://tamil.oneindia.com/news/sports/cricket/bumrah-bumrah-s-injury-woes-reopen-door-for-shami-and-bhuvneshwar-kumar-in-the-indian-team-821653.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-08-06T11:29:04+05:30"
+            "published": "2026-08-06T11:53:30+05:30"
+          },
+          {
+            "title": "தவெக அரசின் முதல் வேளாண் பட்ஜெட்: வெற்றி வான்மகள் திட்டம் அறிவிப்பு - நேரலை",
+            "link": "https://www.bbc.com/tamil/articles/cp8x994e3y2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-06T06:19:48+00:00"
           },
           {
             "title": "வி2 ராக்கெட்: மிகவும் ஆபத்தான ஹிட்லரின் 'அதிசய ஆயுதம்' காய்கறிகளுக்குள் மறைத்து துணிச்சலாக கடத்தப்பட்ட வரலாறு",
@@ -907,13 +914,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-08-06T05:28:04+00:00"
-          },
-          {
-            "title": "தவெக அரசின் முதல் வேளாண் பட்ஜெட்: வெற்றி வான்மகள் திட்டம் அறிவிப்பு - நேரலை",
-            "link": "https://www.bbc.com/tamil/articles/cp8x994e3y2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-08-06T05:19:32+00:00"
           },
           {
             "title": "'புலி பசித்தாலும் புல்லை தின்னாது' - பழமொழி உண்மையா?",
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "కొత్త రేషన్ కార్డులు వీరికే, పంపిణీ ముహూర్తం - మార్గదర్శకాలు, ప్రభుత్వం ప్రకటన..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/telangana-govt-announces-guide-lines-for-distribution-of-new-ration-cards-from-august-15-here-the-d-500447.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-06T11:55:13+05:30"
+          },
+          {
             "title": "భారత్‌లో షేక్ హసీనా ప్రెస్ కాన్ఫరెన్స్.. బంగ్లాదేశ్‌లో ఆగ్రహం",
             "link": "https://www.bbc.com/telugu/articles/c39ep4my80jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1091,13 +1098,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-06T11:01:38+05:30"
-          },
-          {
-            "title": "rajamahendravaram: వైద్య విద్యార్థినిపై కారు ఎక్కించిన ఇద్దరు యువకులు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmZNT051em1aWWxUN0IybFBWNnVHLWJWdFJyUkxOcGl1NlRodU1xdHpxSXpMc0lqcjVsZk5aR2pySXJCZ2RCVkFmMjJVa2gzN2xOMDdzMFRYVlYyM0VLNlVQRW10Y2VIeEM1Sk0zcFNKWWd3ZUEzV2kwTW9KR2FtTjlkcHNXN1QxQWxyZW1wb1pfclR2WjhFd0RrVWtrVWpoanFWa25IaUttSklmaXJXQzF4ZFk?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-06T05:20:15+00:00"
           },
           {
             "title": "ఈ ఏడాది వరలక్ష్మీ వ్రతం ఎప్పుడు? పండితుల స్పష్టత, ఇదీ పూజా ముహూర్తం..!!",
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಗಣೇಶೋತ್ಸವಕ್ಕೆ ಹೊಸ ಮಾರ್ಗಸೂಚಿ; ಗ್ರಾ.ಪಂ. ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಪಿಓಪಿ ಮೂರ್ತಿಗಳಿಗೆ ಅವಕಾಶವಿಲ್ಲ: ಈಶ್ವರ ಖಂಡ್ರೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/ganesh-festival-2026-no-permission-for-pop-ganesh-idols-in-gram-panchayat-areas-eshwar-khandre-463643.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-06T11:55:51+05:30"
+          },
+          {
             "title": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಸದ ಸಮಸ್ಯೆಗೆ ಬ್ರೇಕ್: ಹಾಲಿನ ಕವರ್‌ಗೆ ಹೊಸ ಜೀವ ನೀಡಿದ ವಿಜ್ಞಾನಿಗಳು",
             "link": "https://kannada.oneindia.com/news/india/new-technology-to-convert-waste-milk-bag-into-high-performance-engineering-plastic-463641.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-05T23:47:16+05:30"
-          },
-          {
-            "title": "Arecanut: ರಾಜ್ಯದಲ್ಲಿ ಅಡಿಕೆ ಬೆಳೆ ಶೇ.37ರಷ್ಟು ವಿಸ್ತರಣೆ, 5 ವರ್ಷಗಳಲ್ಲಿ ಉತ್ಪಾದನೆ ತೀವ್ರ ಇಳಿಕೆ!",
-            "link": "https://kannada.oneindia.com/news/karnataka/arecanut-cultivation-rises-32-pc-in-karnataka-but-yield-drops-sharply-over-the-last-five-years-463607.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-05T22:59:51+05:30"
           }
         ],
         "Entertainment": [
