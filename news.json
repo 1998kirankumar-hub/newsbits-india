@@ -1,202 +1,244 @@
 {
-  "updated_at": "2026-08-06T14:01:31.257019+00:00",
+  "updated_at": "2026-08-06T14:31:08.809623+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "John Turner, 25, announces shock retirement after back injuries",
-            "link": "https://www.cricinfo.com/ci/content/story/1548882.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Four-cap England quick moves on from the game due to back stress fractuires",
-            "published": "2026-08-06T13:55:26+00:00"
+            "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+            "link": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The reality TV contestant is back in prison after admitting breaching a restraining order.",
+            "published": "2026-08-06T14:29:11+00:00"
           },
           {
-            "title": "Women's Asia Cup starts August 28 in Dubai; India vs Pakistan on September 5",
-            "link": "https://www.cricinfo.com/ci/content/story/1548880.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "All matches in the tournament will be played under lights, with the final on September 13",
-            "published": "2026-08-06T13:54:13+00:00"
-          },
-          {
-            "title": "CM seeks US support on education and investments",
-            "link": "https://www.thehindu.com/news/national/telangana/cm-seeks-us-support-on-education-and-investments/article71313832.ece",
-            "source": "The Hindu",
-            "summary": "Revanth Reddy seeks more collaboration between US and Telangana universities",
-            "published": "2026-08-06T19:23:45+05:30"
-          },
-          {
-            "title": "71 illegal bike taxis booked, 70 seized on August 6",
-            "link": "https://www.thehindu.com/news/national/karnataka/71-illegal-bike-taxis-booked-70-seized-on-august-6/article71313866.ece",
-            "source": "The Hindu",
-            "summary": "According to official data from the department, enforcement teams inspected 220 two-wheelers across various Regional Transport Office (RTO) jurisdictions on Thursday (August 6).",
-            "published": "2026-08-06T19:23:27+05:30"
-          },
-          {
-            "title": "Karnataka govt. launches AI-powered digital crop survey",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-govt-launches-ai-powered-digital-crop-survey/article71313818.ece",
+            "title": "Kerala govt. to allocate ₹5 crore to revive Travancore Cements",
+            "link": "https://www.thehindu.com/news/national/kerala/govt-to-allocate-5-crore-to-revive-travancore-cements/article71313835.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-06T19:22:47+05:30"
+            "published": "2026-08-06T19:57:02+05:30"
+          },
+          {
+            "title": "Farmers stage protest in Hassan urging the govt. to declare the district drought-hit",
+            "link": "https://www.thehindu.com/news/national/karnataka/farmers-stage-protest-in-hassan-urging-the-govt-to-declare-the-district-drought-hit/article71313620.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:56:36+05:30"
+          },
+          {
+            "title": "IMD providing panchayat-level forecasts to farmers in Telangana: Centre",
+            "link": "https://www.thehindu.com/news/national/telangana/imd-providing-panchayat-level-forecasts-to-farmers-in-telangana-centre/article71313585.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:55:29+05:30"
+          },
+          {
+            "title": "Sometimes, they just want someone to listen: Inside Hyderabad’s Roshni support helpline",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/sometimes-they-just-want-someone-to-listen-inside-hyderabads-roshni-support-helpline/article71313429.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:55:15+05:30"
+          },
+          {
+            "title": "Vijay government’s debut Budget strikes a balance between welfare and fiscal prudence in Tamil Nadu",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-governments-debut-budget-strikes-a-balance-between-welfare-and-fiscal-prudence/article71310516.ece",
+            "source": "The Hindu",
+            "summary": "Among the key announcements for women were the ‘Singappengal Valimaippaduthum Thittam’ to promote entrepreneurship, and the ‘Annan’s Seer’ scheme, under which eligible brides will receive an eight-gram gold coin and a silk saree, with ₹812 crore earmarked for the scheme",
+            "published": "2026-08-06T19:54:48+05:30"
+          },
+          {
+            "title": "CM seeks U.S. support on education and investments",
+            "link": "https://www.thehindu.com/news/national/telangana/cm-seeks-us-support-on-education-and-investments/article71313832.ece",
+            "source": "The Hindu",
+            "summary": "Revanth Reddy seeks more collaboration between U.S. and Telangana universities",
+            "published": "2026-08-06T19:54:45+05:30"
+          },
+          {
+            "title": "Community rescue volunteers call for unified emergency response network in Kozhikode",
+            "link": "https://www.thehindu.com/news/national/kerala/community-rescue-volunteers-call-for-unified-emergency-response-network-in-kozhikode/article71313339.ece",
+            "source": "The Hindu",
+            "summary": "According to CRV squad members, the absence of an integrated digital platform makes it difficult for both the public and the authorities to quickly identify and mobilise volunteer teams during emergencies",
+            "published": "2026-08-06T19:54:39+05:30"
+          },
+          {
+            "title": "Gen Z’s grievance is genuine: RSS chief Mohan Bhagwat",
+            "link": "https://www.thehindu.com/news/national/rss-chief-mohan-bhagwat-iimun-youth-conference/article71313689.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:54:03+05:30"
+          },
+          {
+            "title": "Aarkkum Padam singing contest",
+            "link": "https://www.thehindu.com/news/national/kerala/aarkkum-padam-singing-contest/article71313831.ece",
+            "source": "The Hindu",
+            "summary": "The first audition will be held on August 23 at the Palakkad District Public Library.",
+            "published": "2026-08-06T19:53:28+05:30"
+          },
+          {
+            "title": "Woman protests outside Kollam coastal police station over missing son",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-protests-outside-kollam-coastal-police-station-over-missing-son/article71313902.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:51:38+05:30"
+          },
+          {
+            "title": "EasyJet agrees to £5.7bn takeover by US firm",
+            "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+            "published": "2026-08-06T14:21:07+00:00"
           },
           {
             "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
             "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the COVID-19 pandemic.",
-            "published": "2026-08-06T13:50:21+00:00"
+            "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
+            "published": "2026-08-06T14:20:56+00:00"
           },
           {
-            "title": "Three, including father and daughter, killed in accident",
-            "link": "https://www.thehindu.com/news/national/karnataka/three-including-father-and-daughter-killed-in-accident/article71313648.ece",
+            "title": "Non-bailable warrant issued against former Minister K. Ponmudy",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/non-bailable-warrant-issued-against-former-minister-k-ponmudy/article71313568.ece",
             "source": "The Hindu",
-            "summary": "Three persons, including a father and daughter, were killed on the spot in a head-on collision between a public transport bus and a motorcycle in Konnur of Gokak taluk in Belagavi district on Thursday",
-            "published": "2026-08-06T19:20:13+05:30"
-          },
-          {
-            "title": "Amid drought, Yathindra asks officials to prepare for water crisis and promote alternative crops",
-            "link": "https://www.thehindu.com/news/national/karnataka/amid-drought-yathindra-asks-officials-to-prepare-for-water-crisis-and-promote-alternative-crops/article71313424.ece",
-            "source": "The Hindu",
-            "summary": "Minister directs officials to prioritise filling lakes, ensure water quality and draw up contingency plans",
-            "published": "2026-08-06T19:20:06+05:30"
-          },
-          {
-            "title": "Agni-4 Ballistic Missile successfully test-fired",
-            "link": "https://www.thehindu.com/news/national/agni-4-ballistic-missile-successfully-test-fired/article71313883.ece",
-            "source": "The Hindu",
-            "summary": "The test was carried out under the aegis of the Strategic Forces Command",
-            "published": "2026-08-06T19:19:33+05:30"
-          },
-          {
-            "title": "Five-year-old boy found dead in Tellapur lake after leaving play school",
-            "link": "https://www.thehindu.com/news/national/telangana/five-year-old-boy-found-dead-in-tellapur-lake-after-leaving-play-school/article71313634.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-06T19:19:21+05:30"
-          },
-          {
-            "title": "Pukasa music workshop begins on August 8",
-            "link": "https://www.thehindu.com/news/national/kerala/pukasa-music-workshop-begins-on-august-8/article71313805.ece",
-            "source": "The Hindu",
-            "summary": "Music director P.S. Vidyadharan will inaugurate the workshop on Saturday morning.",
-            "published": "2026-08-06T19:18:37+05:30"
-          },
-          {
-            "title": "Police summon Iltija Mufti for ‘assault’ on officer during Article 370 demonstration",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/police-summon-iltija-mufti-for-assault-on-officer-during-article-370-demonstration/article71313844.ece",
-            "source": "The Hindu",
-            "summary": "Police have claimed that Iltija Mufti physically assaulted a police officer while he was discharging his lawful duties",
-            "published": "2026-08-06T19:17:20+05:30"
-          },
-          {
-            "title": "Tamil Nadu Agriculture Budget: Govt. announces price support scheme for tomatoes, onions; thrust on green manure crops",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-govt-announces-price-support-scheme-for-tomatoes-onions-thrust-on-green-manure-crops/article71313425.ece",
-            "source": "The Hindu",
-            "summary": "A Market Intervention Scheme – Price Stabilisation Revolving Fund (MIS-PSRF) will be created by the Tamil Nadu State Agricultural Marketing Board with a State fund of ₹4.26 crore to protect farmers from price crash of perishables",
-            "published": "2026-08-06T19:17:14+05:30"
-          },
-          {
-            "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-            "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
-            "published": "2026-08-06T13:46:27+00:00"
+            "summary": "He failed to appear for the trial proceedings in a case registered against him for allegedly making a speech that promoted hatred against the Hindu religion",
+            "published": "2026-08-06T19:50:39+05:30"
           }
         ],
         "India": [
           {
-            "title": "CM seeks US support on education and investments",
+            "title": "Kerala govt. to allocate ₹5 crore to revive Travancore Cements",
+            "link": "https://www.thehindu.com/news/national/kerala/govt-to-allocate-5-crore-to-revive-travancore-cements/article71313835.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:57:02+05:30"
+          },
+          {
+            "title": "Farmers stage protest in Hassan urging the govt. to declare the district drought-hit",
+            "link": "https://www.thehindu.com/news/national/karnataka/farmers-stage-protest-in-hassan-urging-the-govt-to-declare-the-district-drought-hit/article71313620.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:56:36+05:30"
+          },
+          {
+            "title": "IMD providing panchayat-level forecasts to farmers in Telangana: Centre",
+            "link": "https://www.thehindu.com/news/national/telangana/imd-providing-panchayat-level-forecasts-to-farmers-in-telangana-centre/article71313585.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:55:29+05:30"
+          },
+          {
+            "title": "Sometimes, they just want someone to listen: Inside Hyderabad’s Roshni support helpline",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/sometimes-they-just-want-someone-to-listen-inside-hyderabads-roshni-support-helpline/article71313429.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-06T19:55:15+05:30"
+          },
+          {
+            "title": "Vijay government’s debut Budget strikes a balance between welfare and fiscal prudence in Tamil Nadu",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-governments-debut-budget-strikes-a-balance-between-welfare-and-fiscal-prudence/article71310516.ece",
+            "source": "The Hindu",
+            "summary": "Among the key announcements for women were the ‘Singappengal Valimaippaduthum Thittam’ to promote entrepreneurship, and the ‘Annan’s Seer’ scheme, under which eligible brides will receive an eight-gram gold coin and a silk saree, with ₹812 crore earmarked for the scheme",
+            "published": "2026-08-06T19:54:48+05:30"
+          },
+          {
+            "title": "CM seeks U.S. support on education and investments",
             "link": "https://www.thehindu.com/news/national/telangana/cm-seeks-us-support-on-education-and-investments/article71313832.ece",
             "source": "The Hindu",
-            "summary": "Revanth Reddy seeks more collaboration between US and Telangana universities",
-            "published": "2026-08-06T19:23:45+05:30"
+            "summary": "Revanth Reddy seeks more collaboration between U.S. and Telangana universities",
+            "published": "2026-08-06T19:54:45+05:30"
           },
           {
-            "title": "71 illegal bike taxis booked, 70 seized on August 6",
-            "link": "https://www.thehindu.com/news/national/karnataka/71-illegal-bike-taxis-booked-70-seized-on-august-6/article71313866.ece",
+            "title": "Community rescue volunteers call for unified emergency response network in Kozhikode",
+            "link": "https://www.thehindu.com/news/national/kerala/community-rescue-volunteers-call-for-unified-emergency-response-network-in-kozhikode/article71313339.ece",
             "source": "The Hindu",
-            "summary": "According to official data from the department, enforcement teams inspected 220 two-wheelers across various Regional Transport Office (RTO) jurisdictions on Thursday (August 6).",
-            "published": "2026-08-06T19:23:27+05:30"
+            "summary": "According to CRV squad members, the absence of an integrated digital platform makes it difficult for both the public and the authorities to quickly identify and mobilise volunteer teams during emergencies",
+            "published": "2026-08-06T19:54:39+05:30"
           },
           {
-            "title": "Karnataka govt. launches AI-powered digital crop survey",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-govt-launches-ai-powered-digital-crop-survey/article71313818.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-06T19:22:47+05:30"
-          },
-          {
-            "title": "Three, including father and daughter, killed in accident",
-            "link": "https://www.thehindu.com/news/national/karnataka/three-including-father-and-daughter-killed-in-accident/article71313648.ece",
-            "source": "The Hindu",
-            "summary": "Three persons, including a father and daughter, were killed on the spot in a head-on collision between a public transport bus and a motorcycle in Konnur of Gokak taluk in Belagavi district on Thursday",
-            "published": "2026-08-06T19:20:13+05:30"
-          },
-          {
-            "title": "Amid drought, Yathindra asks officials to prepare for water crisis and promote alternative crops",
-            "link": "https://www.thehindu.com/news/national/karnataka/amid-drought-yathindra-asks-officials-to-prepare-for-water-crisis-and-promote-alternative-crops/article71313424.ece",
-            "source": "The Hindu",
-            "summary": "Minister directs officials to prioritise filling lakes, ensure water quality and draw up contingency plans",
-            "published": "2026-08-06T19:20:06+05:30"
-          },
-          {
-            "title": "Agni-4 Ballistic Missile successfully test-fired",
-            "link": "https://www.thehindu.com/news/national/agni-4-ballistic-missile-successfully-test-fired/article71313883.ece",
-            "source": "The Hindu",
-            "summary": "The test was carried out under the aegis of the Strategic Forces Command",
-            "published": "2026-08-06T19:19:33+05:30"
-          },
-          {
-            "title": "Five-year-old boy found dead in Tellapur lake after leaving play school",
-            "link": "https://www.thehindu.com/news/national/telangana/five-year-old-boy-found-dead-in-tellapur-lake-after-leaving-play-school/article71313634.ece",
+            "title": "Gen Z’s grievance is genuine: RSS chief Mohan Bhagwat",
+            "link": "https://www.thehindu.com/news/national/rss-chief-mohan-bhagwat-iimun-youth-conference/article71313689.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-06T19:19:21+05:30"
+            "published": "2026-08-06T19:54:03+05:30"
           },
           {
-            "title": "Pukasa music workshop begins on August 8",
-            "link": "https://www.thehindu.com/news/national/kerala/pukasa-music-workshop-begins-on-august-8/article71313805.ece",
+            "title": "Aarkkum Padam singing contest",
+            "link": "https://www.thehindu.com/news/national/kerala/aarkkum-padam-singing-contest/article71313831.ece",
             "source": "The Hindu",
-            "summary": "Music director P.S. Vidyadharan will inaugurate the workshop on Saturday morning.",
-            "published": "2026-08-06T19:18:37+05:30"
+            "summary": "The first audition will be held on August 23 at the Palakkad District Public Library.",
+            "published": "2026-08-06T19:53:28+05:30"
           },
           {
-            "title": "Police summon Iltija Mufti for ‘assault’ on officer during Article 370 demonstration",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/police-summon-iltija-mufti-for-assault-on-officer-during-article-370-demonstration/article71313844.ece",
-            "source": "The Hindu",
-            "summary": "Police have claimed that Iltija Mufti physically assaulted a police officer while he was discharging his lawful duties",
-            "published": "2026-08-06T19:17:20+05:30"
-          },
-          {
-            "title": "Tamil Nadu Agriculture Budget: Govt. announces price support scheme for tomatoes, onions; thrust on green manure crops",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-agriculture-budget-govt-announces-price-support-scheme-for-tomatoes-onions-thrust-on-green-manure-crops/article71313425.ece",
-            "source": "The Hindu",
-            "summary": "A Market Intervention Scheme – Price Stabilisation Revolving Fund (MIS-PSRF) will be created by the Tamil Nadu State Agricultural Marketing Board with a State fund of ₹4.26 crore to protect farmers from price crash of perishables",
-            "published": "2026-08-06T19:17:14+05:30"
-          },
-          {
-            "title": "Three new EV highway wayside amenities added in Karnataka last year, total reaches four",
-            "link": "https://www.thehindu.com/news/national/karnataka/three-new-ev-highway-wayside-amenities-added-in-karnataka-last-year-total-reaches-four/article71313661.ece",
-            "source": "The Hindu",
-            "summary": "The data, shared by Union Road Transport and Highways Minister Nitin Gadkari in response to an unstarred question on Wednesday (August 5), shows that Karnataka had no operational wayside amenity with EV charging facilities before FY 2023-24. The State commissioned its first such facility in FY 2023-24, followed by three more in FY 2024-25.",
-            "published": "2026-08-06T19:16:11+05:30"
-          },
-          {
-            "title": "Property offender arrested in Nandyal, gold jewellery worth ₹15 lakh recovered",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/property-offender-arrested-in-nandyal-gold-jewellery-worth-15-lakh-recovered/article71312991.ece",
+            "title": "Woman protests outside Kollam coastal police station over missing son",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-protests-outside-kollam-coastal-police-station-over-missing-son/article71313902.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-06T19:15:41+05:30"
+            "published": "2026-08-06T19:51:38+05:30"
+          },
+          {
+            "title": "Non-bailable warrant issued against former Minister K. Ponmudy",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/non-bailable-warrant-issued-against-former-minister-k-ponmudy/article71313568.ece",
+            "source": "The Hindu",
+            "summary": "He failed to appear for the trial proceedings in a case registered against him for allegedly making a speech that promoted hatred against the Hindu religion",
+            "published": "2026-08-06T19:50:39+05:30"
+          },
+          {
+            "title": "Govt tightens rules on AI content, cuts removal deadline from 36 hrs to 3",
+            "link": "https://timesofindia.indiatimes.com/india/govt-tightens-rules-on-ai-generated-content-cuts-removal-deadline-to-3-hours-from-36-mandates-labels/articleshow/133007430.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-06T19:50:37+05:30"
           }
         ],
         "World": [
           {
+            "title": "EasyJet agrees to £5.7bn takeover by US firm",
+            "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+            "published": "2026-08-06T14:21:07+00:00"
+          },
+          {
             "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
             "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the COVID-19 pandemic.",
-            "published": "2026-08-06T13:50:21+00:00"
+            "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
+            "published": "2026-08-06T14:20:56+00:00"
+          },
+          {
+            "title": "FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark",
+            "link": "https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.",
+            "published": "2026-08-06T14:08:11+00:00"
+          },
+          {
+            "title": "What does the world pay for a child’s education?",
+            "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.",
+            "published": "2026-08-06T14:06:04+00:00"
+          },
+          {
+            "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+            "link": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
+            "published": "2026-08-06T14:04:27+00:00"
+          },
+          {
+            "title": "Houthis claim to have killed 45 in attacks on Yemeni government forces",
+            "link": "https://www.aljazeera.com/news/2026/8/6/houthis-claim-to-have-killed-45-in-attacks-on-yemeni-government-forces?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Attack is deadliest in Yemen&#039;s conflict between Houthis and government forces in years.",
+            "published": "2026-08-06T13:59:41+00:00"
+          },
+          {
+            "title": "When atrocities return: The cost of failed accountability in Tigray",
+            "link": "https://www.aljazeera.com/news/2026/8/6/when-atrocities-return-the-cost-of-failed-accountability-in-tigray?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Amnesty International says impunity for past abuses has left civilians vulnerable as fighting returns to Tigray.",
+            "published": "2026-08-06T13:56:34+00:00"
           },
           {
             "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
@@ -204,6 +246,13 @@
             "source": "BBC World",
             "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
             "published": "2026-08-06T13:46:27+00:00"
+          },
+          {
+            "title": "UFC 331: Van-Pantoja rematch, Tsarukyan returns and full fight card",
+            "link": "https://www.aljazeera.com/sports/2026/8/6/ufc-331-van-pantoja-rematch-tsarukyan-returns-and-full-fight-card?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Van and Pantoja to fight for flyweight title, while Tsarukyan faces the dangerous Mauricio Ruffy at lightweight.",
+            "published": "2026-08-06T13:46:02+00:00"
           },
           {
             "title": "Indian court sentences high-profile journalist to 10 years for rape",
@@ -225,58 +274,30 @@
             "source": "Al Jazeera",
             "summary": "Iraqi government needs approximately $8.24bn a month to pay state salaries and cover basic obligations.",
             "published": "2026-08-06T13:19:37+00:00"
-          },
-          {
-            "title": "UEFA vice president seeks ‘custodian of ⁠sport’ after FIFA-Infantino furore",
-            "link": "https://www.aljazeera.com/sports/2026/8/6/uefa-vice-president-makes-custodian-of-%e2%81%a0the-sport-slant-against-infantino?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "UEFA continues to lead criticism of FIFA President Gianni Infantino despite global body&#039;s defiant stance.",
-            "published": "2026-08-06T13:19:30+00:00"
-          },
-          {
-            "title": "Iran tightens security grip at home as war conditions with US linger",
-            "link": "https://www.aljazeera.com/news/2026/8/6/iran-tightens-security-grip-at-home-as-war-conditions-with-us-linger?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Executions, arrests and closure of public gathering spaces have raised concerns among Iranians and rights groups.",
-            "published": "2026-08-06T13:16:03+00:00"
-          },
-          {
-            "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-            "link": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
-            "published": "2026-08-06T13:13:25+00:00"
-          },
-          {
-            "title": "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
-            "link": "https://www.aljazeera.com/sports/2026/8/6/mohamed-salah-signs-two-year-deal-with-trabzonspor-after-liverpool-exit?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Egypt&#039;s Mohamed Salah, who left Liverpool last season after nine years with Premier League club, signs for Trabzonspor.",
-            "published": "2026-08-06T13:07:31+00:00"
-          },
-          {
-            "title": "DR Congo Ebola health workers protest unpaid wages as deaths surpass 1,800",
-            "link": "https://www.aljazeera.com/news/2026/8/6/dr-congo-ebola-health-workers-protest-unpaid-wages-as-deaths-surpass-1800?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Aid workers say the virus is spreading at an &#039;alarming and unprecedented rate&#039; as virus spreads to remote areas.",
-            "published": "2026-08-06T13:07:16+00:00"
-          },
-          {
-            "title": "The old pact between Israel’s government and military has broken down",
-            "link": "https://www.aljazeera.com/opinions/2026/8/6/the-old-pact-between-israels-government-and-military-has-broken-down?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Prolonged conflict has upended the relationship between political authority and military judgement in Israel.",
-            "published": "2026-08-06T13:04:09+00:00"
-          },
-          {
-            "title": "Infantino, FIFA try to move beyond botched World Cup sell-off: What we know",
-            "link": "https://www.aljazeera.com/sports/2026/8/6/fifa-and-infantino-debate-set-to-outlive-morocco-truce-what-to-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "FIFA President Gianni Infantino survives crisis meeting over his leadership. What&#039;s next for him, and will UEFA react?",
-            "published": "2026-08-06T12:55:54+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "EasyJet agrees to £5.7bn takeover by US firm",
+            "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+            "published": "2026-08-06T14:21:07+00:00"
+          },
+          {
+            "title": "Hospital staff work in pubs to balance cost pressure",
+            "link": "https://www.bbc.co.uk/news/articles/cx2dp10gpndo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The cost of parking at Medway Maritime Hospital has increased while shift wages have reduced by 20%.",
+            "published": "2026-08-06T14:19:25+00:00"
+          },
+          {
+            "title": "Britannia Q1 Results: Profit rises 14% to Rs 591 crore, misses estimates as Iran war pushes costs higher",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/britannia-q1-results-profit-rises-14-to-rs-591-crore-misses-estimates-as-iran-war-pushes-costs-higher/articleshow/133007596.cms",
+            "source": "Economic Times",
+            "summary": "India's ​Britannia ​Industries reported first-quarter ​profit below market expectations on Thursday, ‌as ⁠higher ⁠expenses linked ​to the Middle East ​conflict overshadowed stronger demand for ​its packaged ⁠foods.",
+            "published": "2026-08-06T19:18:55+05:30"
+          },
           {
             "title": "Shorts, strappy tops and sandals: What is acceptable to wear to work?",
             "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
@@ -290,13 +311,6 @@
             "source": "BBC Business",
             "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
             "published": "2026-08-06T12:34:42+00:00"
-          },
-          {
-            "title": "Hospital staff work in pubs to balance cost pressure",
-            "link": "https://www.bbc.co.uk/news/articles/cx2dp10gpndo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The cost of parking at Medway Maritime Hospital has increased while shift wages have reduced by 20%.",
-            "published": "2026-08-06T11:46:36+00:00"
           },
           {
             "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
@@ -346,29 +360,29 @@
             "source": "Economic Times",
             "summary": "Swiggy shares rose after the company unveiled an ambitious FY31 roadmap targeting Rs 10,000 crore in Adjusted EBITDA. It aims to more than triple consolidated GOV to Rs 2.5 lakh crore from Rs 67,734 crore in FY26, driven by food delivery, Instamart and Dineout.",
             "published": "2026-08-06T13:21:47+05:30"
-          },
-          {
-            "title": "GIC subsidiary and promoter Sunu Mathew lead LEAP India’s pre-IPO placement round",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gic-subsidiary-and-promoter-sunu-mathew-lead-leap-indias-pre-ipo-placement-round/articleshow/132988909.cms",
-            "source": "Economic Times",
-            "summary": "KKR-backed LEAP India raised Rs 371.3 crore through a pre-IPO placement, selling 2.34 crore shares at Rs 159 apiece. The round saw participation from GIC subsidiary Gamnat Pte Ltd, Dymon Asia and promoter-linked Matyas Possessiones. Gamnat received shares worth Rs 280 crore.",
-            "published": "2026-08-06T12:59:55+05:30"
-          },
-          {
-            "title": "Not a moon crash, but AI sends SpaceX shares spiralling 14% lower on Wall Street. What lies ahead?",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/not-a-moon-crash-but-ai-sends-spacex-shares-spiralling-14-lower-on-wall-street-what-lies-ahead/articleshow/132988024.cms",
-            "source": "Economic Times",
-            "summary": "SpaceX shares plunged 14% as investors raised concerns over the company’s aggressive AI spending plans, despite strong quarterly results. The stock decline coincided with reports of a SpaceX rocket part crashing into the Moon after drifting off course for nearly a year. Analysts drew a metaphorical link between the lunar impact and the company’s falling valuation.",
-            "published": "2026-08-06T12:43:45+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "England recall Lawrence to Test team with Cox to bat at No. 3 vs Pakistan",
+            "link": "https://www.cricinfo.com/ci/content/story/1548851.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Injured Bethell out of Pakistan series with Pope, Carse and Cook recalled",
+            "published": "2026-08-06T14:18:04+00:00"
+          },
           {
             "title": "John Turner, 25, announces shock retirement after back injuries",
             "link": "https://www.cricinfo.com/ci/content/story/1548882.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Four-cap England quick moves on from the game due to back stress fractuires",
-            "published": "2026-08-06T13:55:26+00:00"
+            "published": "2026-08-06T14:10:06+00:00"
+          },
+          {
+            "title": "Labuschagne's 'longest break' leaves him feeling confident",
+            "link": "https://www.cricinfo.com/ci/content/story/1548855.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "He has not scored a Test hundred since 2023 and Australia are likely to need him to shine over the coming months",
+            "published": "2026-08-06T14:09:21+00:00"
           },
           {
             "title": "Women's Asia Cup starts August 28 in Dubai; India vs Pakistan on September 5",
@@ -397,13 +411,6 @@
             "source": "NDTV Sports",
             "summary": "Players will only be selected if they meet the minimum fitness benchmarks through standardised tests such as the Bronco and 2-km run.",
             "published": "2026-08-06T18:02:38+05:30"
-          },
-          {
-            "title": "England recall Lawrence to Test team with Cox to bat at No. 3 vs Pakistan",
-            "link": "https://www.cricinfo.com/ci/content/story/1548851.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Injured Bethell out of Pakistan series with Pope, Carse and Cook recalled",
-            "published": "2026-08-06T12:21:28+00:00"
           },
           {
             "title": "Mohammad Kaif Pinpoints Key Difference Between Gautam Gambhir And VVS Laxman's Coach Styles",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "After calling time on his playing career, batter Ajinkya Rahane recently shared his thoughts on the reasons behind India's sudden decline in Test cricket.",
             "published": "2026-08-06T15:15:29+05:30"
-          },
-          {
-            "title": "Three T20Is added to India Women's tour of South Africa",
-            "link": "https://www.cricinfo.com/ci/content/story/1548861.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The tour originally comprised a tour game, one Test and three ODIs",
-            "published": "2026-08-06T09:44:48+00:00"
           }
         ],
         "Technology": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+            "link": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The reality TV contestant is back in prison after admitting breaching a restraining order.",
+            "published": "2026-08-06T14:29:11+00:00"
+          },
+          {
             "title": "Meredith Kercher's sister criticises Amanda Knox comedy show",
             "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The former singer, whose real name is Paul Gadd, appeared at Westminster Magistrates' Court via video.",
             "published": "2026-08-05T14:17:33+00:00"
-          },
-          {
-            "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-            "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
-            "published": "2026-08-05T13:06:43+00:00"
           }
         ]
       }
@@ -626,6 +626,13 @@
       "label": "हिन्दी",
       "categories": {
         "Top Stories": [
+          {
+            "title": "97 किलो वजन के बाद खिलाड़ी को किया टीम इंडिया में शामिल, नाराज होकर BCCI ने उठाया कड़ा कदम",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/indian-player-selected-at-97-kg-bcci-takes-tough-call-on-fitness-standards-of-team-india-1623895.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-06T19:30:10+05:30"
+          },
           {
             "title": "Atiq Ahmed Family: अतीक अहमद के कितने बच्चे? कुनबे में कौन-कौन जिंदा? और कहां हैं? 3 साल में कितनों की मौत?",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/atiq-ahmed-family-tree-wife-shaista-parveen-5-son-who-is-alive-where-are-they-key-facts-explained-1623959.html",
@@ -702,13 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-08-06T11:47:55+00:00"
-          },
-          {
-            "title": "Tarun Tejpal Love Story: कौन हैं पत्नी Geetan? 2 साल छोटी लड़की पर कैसे आया दिल, कितने हैं बच्चे?",
-            "link": "https://hindi.oneindia.com/news/india/tarun-tejpal-wife-geetan-batra-love-story-marriage-daughters-tiya-cara-family-background-news-hindi-1623843.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-06T17:13:26+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "GOBARdhan scheme: చెత్త నుంచి బంగారం.. పదేళ్ల పాటు ఫిక్స్డ్ ప్రైస్",
+            "link": "https://telugu.oneindia.com/news/india/union-cabinet-clears-gobardhan-bioenergy-scheme-and-rs-8-970-cr-guwahati-tezpur-highway-corridor-500525.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-06T19:46:40+05:30"
+          },
+          {
             "title": "\"జెన్ జీని గుడ్డిగా నమ్ముతా, నిరసనల గురించి తెలీదు\" ఆరెస్సెస్ ఛీఫ్ షాకింగ్ ..!",
             "link": "https://telugu.oneindia.com/news/india/rss-chief-mohan-bhagwat-says-i-trust-gen-z-blindly-declines-to-comment-on-police-protester-clash-500521.html",
             "source": "Oneindia Telugu",
@@ -1079,18 +1086,18 @@
             "published": "2026-08-06T19:19:09+05:30"
           },
           {
-            "title": "గిద్దలూరులో పులిని చంపి గోళ్లు తీసుకెళ్లిన వేటగాళ్లు.. ఏడుగురి అరెస్ట్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGQ2NzE0YVV1WGhmdW12U3hOV3ZGUkxEeHJjV3BLTkRSYjZ1S0V4cXFxS0Z2UUpjWF9wS2JSeVgtNFBKMmV0b2Q3QzBLRGtWSmtPZUE3RVVhQzh6UUw2bHBiR3U1amlrU24tSDgyV3V6dzRWNVdZdS1vR1Y3ZXNUaW1rZUNSdThhMUJJOXMycllCMzBrNEJZQmJtWEVIRktoa29lWklqNTBWbU0xendfT0dnZUdFQUVRNXk3d3JXNXU0YUVKZWY2Uy1Nd0hwaEo3d2lwaUlub3o3Tm_SAdsBQVVfeXFMT2xkNjcxNGFVdVhoZnVtdlN4Tld2RlJMRHhyY1dwS05EUmI2dUtFeHFxcUtGdlFKY1hfcEtiUnlYLTRQSjJldG9kN0MwS0RrVkprT2VBN0VVYUM4elFMNmxwYkd1NWppa1NuLUg4Mld1enc0VjVXWXUtb0dWN2VzVGlta2VDUnU4YTFCSTlzMnJZQjMwazRCWUJibVhFSEZLaGtvZVpJajUwVm1NMXp3X09HZ2VHRUFFUTV5N3dyVzV1NGFFSmVmNlMtTXdIcGhKN3dpcGlJbm96N05v?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-06T13:48:52+00:00"
-          },
-          {
             "title": "H1B, F1 Visa: అమెరికా ఎయిర్‌పోర్టుల్లో ఐసీఈ అటాక్.. భారతీయుల్లో ఆందోళన!",
             "link": "https://telugu.oneindia.com/news/international/us-ice-crackdown-at-airports-what-indian-h-1b-workers-and-f-1-students-need-to-know-right-now-500519.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-06T18:56:29+05:30"
+          },
+          {
+            "title": "ప్రధాని విదేశీ టూర్ల వ్యయం ₹550 కోట్లు.. వచ్చిన ఎఫ్‌డీఐలు ₹30 లక్షల కోట్లపైనే.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3ZqbmlhOGFvakpQWEVpbGtRa0VEb1kwVUVXTGJ4X0w2RTNzLTFOU01Fbm9aaUJlRDNGbnRxTFhtbUZPUDJ2RHVSU2pHa0l5N2RtQVV1YVpnRGJQTWRhbFdHNU9tWlc0el9mcXRyN041blhjanI2N25HbnZWbENaRlZvcHBmblFVdkN3cGhlQjFTQjRTQ0JJZUhIUEg3c1FvWFFKb2tOdDkxWFYxaDNtTzNHX3c2eEQ2bUpkSC1PRHdYellZS1AwWHZfdnhRcTl1aFlKWjJpYUpBbVJnRWNWWk9Qa0HSAeQBQVVfeXFMT3d2am5pYThhb2pKUFhFaWxrUWtFRG9ZMFVFV0xieF9MNkUzcy0xTlNNRW5vWmlCZUQzRm50cUxYbW1GT1AydkR1UlNqR2tJeTdkbUFVdWFaZ0RiUE1kYWxXRzVPbVpXNHpfZnF0cjdONW5YY2pyNjduR252VmxDWkZWb3BwZm5RVXZDd3BoZUIxU0I0U0NCSWVISFBIN3NRb1hRSm9rTnQ5MVhWMWgzbU8zR193NnhENm1KZEgtT0R3WHpZWUtQMFh2X3Z4UXE5dWhZSloyaWFKQW1SZ0VjVlpPUGtB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-06T13:07:15+00:00"
           },
           {
             "title": "శ్రీరెడ్డి వార్నింగ్! \"వైసీపీ సీక్రెట్స్ బయటపెడతా, నన్ను వాడేసి వదిలేశారు\"",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-06T16:46:56+05:30"
-          },
-          {
-            "title": "విశాఖ- బెంగళూరు వందేభారత్ స్లీపర్ సిద్దం: రూట్, హాల్టింగ్ స్టేషన్లు, షెడ్యూల్..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/railways-approves-for-new-vandebhrat-sleeper-between-visakha-and-banglore-schedule-here-500497.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-06T16:38:16+05:30"
           }
         ],
         "Entertainment": [
@@ -1433,6 +1433,13 @@
             "published": "2026-08-06T11:56:28+00:00"
           },
           {
+            "title": "একের পর এক চেক বাউন্স! বিরক্ত মহমেডান সরিয়ে দিল বিধায়ক হুমায়ুনকে, নতুন সভাপতি জাফর - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHdvM0lkd2gzSHhMZk5CRUJZUVg0aG14MENtWmNtQnNJWXVMUTdlcXlvNUF3ejM3aWhiZTR6ek9fQVdsM1JTOEVITmZSN1laZ0lYeWdkaGtsbW9SM3YxMUozV2lUcUVjSnJWVDlaQWhRaHZIQUluRUN1cjdYQWlpeGdmZmJtdVd0MDFYTTJ3WVdxOUJmR2JzQ2VEeUZYWUo3dzBjUE15Q1Z0OGlKR3FJTlRZWdIBuAFBVV95cUxON0lIc1lTR0tUQTI3SUJFZ240ai1Yd3JVcDBjb1lkMUh3U1FoZ1VQbVhkSzFuTy15Ti0tUnNtT2xKQVIwd1JGZ195clJyWE56WUpWREY3bGROa2dwZjFRODduQTNzRjgwQjN0TU1RenIwMGV2eWJObW5RSTVwTHlkTkdUeTFHVXBYRjBOQzRBdVRwSDhzeW1yeGhwRGFwWjJHRmo5ZFlFMWdIRHIxeGxKdXJPTDZVSkFn?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-06T11:17:28+00:00"
+          },
+          {
             "title": "কোন কোন মাছে মাইক্রোপ্লাস্টিক পেয়েছেন গবেষকরা",
             "link": "https://www.bbc.com/bengali/articles/cn4n1y5141zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "ইন্ডিয়ান স্ট্যাটিস্টিক্যাল ইনস্টিটিউট বা আইএসআই-এর মতো উচ্চশিক্ষার প্রতিষ্ঠানে বিনামূল্যে শিক্ষা প্রদানের বিষয়টি নিয়ে নতুন করে বিতর্ক শুরু হয়েছে। সংশ্লিষ্ট মহলে প্রশ্ন উঠেছে যে, মেধাবী শিক্ষার্থীদের জন্য সব সময় বিনামূল্যে শিক্ষার সুযোগ দেওয়াটা আদৌ একটি আদর্শ নীতি কি না। সমালোচকদের মতে, বিনামূল্যে শিক্ষার সংস্কৃতি বজায় রাখতে গিয়ে প্রতিষ্ঠানের আর্থিক পরিকাঠামো এবং সামগ্রিক গুণগত মান বজায় রাখা চ্যালেঞ্জের মুখে পড়তে পারে। আইএসআই ভারতের অন্যতম প্রধান শিক্ষা ও গবেষণা প্রতিষ্ঠান হিসেবে পরিচিত, তাই সেখানে ভর্তির প্রক্রিয়া এবং খরচের বিষয়টি নিয়ে এমন চর্চা অত্যন্ত তাৎপর্যপূর্ণ। এই মন্তব্যের প্রেক্ষিতে শিক্ষা বিশেষজ্ঞরা মনে করছেন যে, উচ্চশিক্ষার খরচ বহন করার ক্ষেত্রে সামর্থ্যবান শিক্ষার্থীদের অংশগ্রহণ থাকা উচিত, যাতে প্রতিষ্ঠানের নিজস্ব তহবিল মজবুত থাকে। তবে এই ধারণার বিপরীতে অনেকে মনে করেন, মেধার মূল্যায়নে অর্থের প্রাচুর্য যেন কোনো বাধা হয়ে না দাঁড়ায়। এই বিতর্কের গভীরে রয়েছে প্রতিষ্ঠানের স্বায়ত্তশাসন এবং সরকারি অনুদানের ভারসাম্য রক্ষার জটিল সমীকরণ। ভবিষ্যতে আইএসআই এই বিষয়ে কোনো বিশেষ নীতিগত পরিবর্তন আনে কি না, তা দেখার অপেক্ষায় রয়েছে সচেতন নাগরিক সমাজ এবং শিক্ষানুরাগীরা। সার্বিকভাবে, শিক্ষার বাণিজ্যিকীকরণ বনাম নিখরচায় শিক্ষার এই বিতর্ক ভারতের শিক্ষাব্যবস্থায় নতুন কোনো দিশা নিয়ে আসে কি না, তা নিয়ে আগ্রহ তুঙ্গে।",
             "published": "2026-08-06T02:44:50+00:00"
-          },
-          {
-            "title": "হরমুজ প্রণালিতে আটকা জাহাজগুলো সাগরে বড় 'বিপদের' কারণ হতে পারে",
-            "link": "https://www.bbc.com/bengali/articles/ckgv9zdlp4zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "হরমুজ প্রণালি বিশ্বের অন্যতম ব্যস্ততম নৌপথ হিসেবে পরিচিত, যেখানে জাহাজ চলাচল ব্যাহত হলে বিশ্ব অর্থনীতিতে গভীর প্রভাব পড়ে। সম্প্রতি জীববিজ্ঞানীদের একটি নতুন গবেষণাপত্রে এই প্রণালিতে আটকে থাকা জাহাজগুলোকে ঘিরে এক ভয়াবহ সতর্কবার্তা দেওয়া হয়েছে। বিশেষজ্ঞদের মতে, যদি এই রুটগুলো দিয়ে পুনরায় জাহাজ চলাচল পুরোদমে শুরু হয়, তবে আটকে থাকা জাহাজগুলোর গায়ে লেগে থাকা বিভিন্ন সামুদ্রিক জীবের আগ্রাসী প্রজাতি বিশ্বজুড়ে ছড়িয়ে পড়তে পারে। এই জীবগুলো নতুন পরিবেশে মিশে গিয়ে সেখানকার স্থানীয় বাস্তুতন্ত্র ধ্বংস করতে সক্ষম, যা দীর্ঘমেয়াদে পরিবেশগত বিপর্যয়ের কারণ হয়ে দাঁড়াবে। এছাড়া, এই আগ্রাসী প্রজাতির বিস্তার রোধ করতে গিয়ে বিভিন্ন দেশের অর্থনীতিতে বিপুল পরিমাণ আর্থিক ক্ষতির সম্ভাবনা রয়েছে। জাহাজ চলাচলের স্বাভাবিক ছন্দ ফিরে এলে এই ঝুঁকি আরও বাড়বে বলে বিজ্ঞানীরা আশঙ্কা প্রকাশ করেছেন। আন্তর্জাতিক নৌ-বাণিজ্য সংস্থা এবং পরিবেশবাদী সংগঠনগুলোকে এখন এই বিষয়ে কঠোর নজরদারি বাড়ানোর পরামর্শ দেওয়া হয়েছে, যাতে সামুদ্রিক পরিবেশ সুরক্ষিত থাকে। এই বিষয়টি কেবল হরমুজ প্রণালির সমস্যা নয়, বরং বিশ্বজুড়ে সমুদ্রের জৈব বৈচিত্র্য রক্ষার জন্য এটি একটি বড় চ্যালেঞ্জ হয়ে দাঁড়িয়েছে। আগামীর সংকট মোকাবিলায় এখনই কার্যকর পদক্ষেপ গ্রহণের ওপর জোর দিয়েছেন গবেষকরা।",
-            "published": "2026-08-06T02:28:13+00:00"
           }
         ]
       }
