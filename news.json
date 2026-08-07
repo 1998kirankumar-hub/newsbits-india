@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-08-07T20:01:27.204275+00:00",
+  "updated_at": "2026-08-07T20:24:40.996583+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Tom Lammonby ton crushes Surrey",
+            "link": "https://www.cricinfo.com/ci/content/story/1549090.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "His career-best List-A score of 114 propels Somerset to a 188-run win",
+            "published": "2026-08-07T20:13:15+00:00"
+          },
+          {
+            "title": "Watch: BBC questions Infantino over backing as Fifa president",
+            "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+            "published": "2026-08-07T20:12:26+00:00"
+          },
+          {
+            "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+            "source": "Economic Times",
+            "summary": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
+            "published": "2026-08-08T01:38:04+05:30"
+          },
           {
             "title": "Conflict of interest in startup funding panel ‘unavoidable’, says Technology Development Board secretary",
             "link": "https://www.thehindu.com/news/national/conflict-of-interest-in-startup-funding-panel-unavoidable-says-technology-development-board-secretary/article71317337.ece",
@@ -18,6 +39,13 @@
             "source": "BBC World",
             "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
             "published": "2026-08-07T19:51:16+00:00"
+          },
+          {
+            "title": "Contaminated water putting Gaza families at risk",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
+            "published": "2026-08-07T19:47:42+00:00"
           },
           {
             "title": "India dismisses foreign concerns over FCRA Bill, says it is an internal matter",
@@ -74,34 +102,6 @@
             "source": "NDTV",
             "summary": "International Anti-Khailistani Terrorist Front (IAKTF) chief Gursimran Singh Mand was assaulted on Friday by a mob outside Gurudwara Shri Panjokhra Sahib, around 10 kms away from Ambala City, police said.",
             "published": "2026-08-08T00:57:38+05:30"
-          },
-          {
-            "title": "Scrap warehouse catches fire in RT Nagar",
-            "link": "https://www.thehindu.com/news/cities/bangalore/scrap-warehouse-catches-fire-in-rt-nagar/article71318751.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-08T00:56:58+05:30"
-          },
-          {
-            "title": "ATREE unveils LakeRevive tool for science-based lake restoration",
-            "link": "https://www.thehindu.com/news/national/karnataka/atree-unveils-lakerevive-tool-for-science-based-lake-restoration/article71318332.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-08T00:55:03+05:30"
-          },
-          {
-            "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-            "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.",
-            "published": "2026-08-07T19:21:01+00:00"
-          },
-          {
-            "title": "Kabini dam: Fresh flood alert issued as rains intensify in Kerala",
-            "link": "https://www.thehindu.com/news/national/karnataka/kabini-dam-fresh-flood-alert-issued-as-rains-intensify-in-kerala/article71318163.ece",
-            "source": "The Hindu",
-            "summary": "Inflow into the Kabini dam in Mysuru district has gone up yet again as incessant rains lashed its catchment areas in Kerala",
-            "published": "2026-08-08T00:46:20+05:30"
           }
         ],
         "India": [
@@ -192,11 +192,25 @@
         ],
         "World": [
           {
+            "title": "Watch: BBC questions Infantino over backing as Fifa president",
+            "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+            "published": "2026-08-07T20:12:26+00:00"
+          },
+          {
             "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
             "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
             "published": "2026-08-07T19:51:16+00:00"
+          },
+          {
+            "title": "Contaminated water putting Gaza families at risk",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
+            "published": "2026-08-07T19:47:42+00:00"
           },
           {
             "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
@@ -260,23 +274,16 @@
             "source": "Al Jazeera",
             "summary": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
             "published": "2026-08-07T16:25:35+00:00"
-          },
-          {
-            "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment",
-            "published": "2026-08-07T16:23:33+00:00"
-          },
-          {
-            "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-            "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-            "published": "2026-08-07T16:13:45+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+            "source": "Economic Times",
+            "summary": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
+            "published": "2026-08-08T01:38:04+05:30"
+          },
           {
             "title": "Jeweller 'priced out' of Christmas market stall this year",
             "link": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
@@ -327,13 +334,6 @@
             "published": "2026-08-07T18:04:36+05:30"
           },
           {
-            "title": "Sebi streamlines market intermediaries inspection framework, cuts FY27 target to one-third",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
-            "source": "Economic Times",
-            "summary": "Sebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitating operations for intermediaries. Moreover, the practice of conducting repetitive annual inspections on compliant entities will cease, shifting focus to alert mechanisms, complaints, and market intelligence for more…",
-            "published": "2026-08-07T18:02:24+05:30"
-          },
-          {
             "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
             "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
             "source": "Economic Times",
@@ -363,6 +363,13 @@
           }
         ],
         "Sports": [
+          {
+            "title": "Tom Lammonby ton crushes Surrey",
+            "link": "https://www.cricinfo.com/ci/content/story/1549090.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "His career-best List-A score of 114 propels Somerset to a 188-run win",
+            "published": "2026-08-07T20:13:15+00:00"
+          },
           {
             "title": "Benkenstein 140 trumps van der Gugten 118* as Essex sneak thriller",
             "link": "https://www.cricinfo.com/ci/content/story/1549069.html?ex_cid=OTC-RSS",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "East Bengal FC gave a dazzling display to score a comprehensive 5-0 victory over South United FC in their final Group A match of the Durand Cup on Friday, keeping their quarterfinal hopes alive in the tournament.",
             "published": "2026-08-07T22:18:13+05:30"
-          },
-          {
-            "title": "Gay injury could leave England hunting for new Test opener",
-            "link": "https://www.cricinfo.com/ci/content/story/1549081.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Durham batter hurts shoulder playing in One-Day Cup 12 days out from first Pakistan Test",
-            "published": "2026-08-07T16:44:37+00:00"
           }
         ],
         "Technology": [
@@ -641,6 +641,13 @@
             "published": "2026-08-08T12:05:09+05:30"
           },
           {
+            "title": "Foreign Policy: भारत-इस्राइल संधि के बीच PAK-सऊदी-तुर्किये का जिक्र क्यों, दबाव पर विदेश मंत्रालय ने क्या कहा?",
+            "link": "https://www.amarujala.com/india-news/mea-dismisses-reports-of-india-seeking-defence-pact-with-israel-as-fake-news-2026-08-08",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-08T01:27:50+05:30"
+          },
+          {
             "title": "अरुणाचल की 27 जगहों को मैप पर अलग से दिखाया:राज्य से सलाह के बाद फैसला; चीन ने कई बार भारतीय सीमा वाले इलाकों के नाम बदले",
             "link": "https://www.bhaskar.com/national/news/arunachal-pradesh-map-china-boundary-dispute-survey-india-update-138661897.html",
             "source": "Dainik Bhaskar",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-07T14:34:00+00:00"
-          },
-          {
-            "title": "'सिर्फ BJP की सरकार से इस्तीफा मांगेंगी', स्याही कांड के बीच नेहा बोरा का वीडियो वायरल, पक्षपात का लगा आरोप!",
-            "link": "https://hindi.oneindia.com/news/jharkhand/aisa-chief-neha-bora-viral-video-sarcasm-social-media-troll-ranchi-jpsc-protest-1624699.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-07T19:34:54+05:30"
           }
         ],
         "Entertainment": [
@@ -1086,25 +1086,11 @@
             "published": "2026-08-07T22:55:10+05:30"
           },
           {
-            "title": "Govt Doctor: నైట్‌ డ్యూటీలో ప్రైవేట్‌ వ్యక్తిని కూర్చోబెట్టిన డాక్టర్‌.. సస్పెండ్‌ చేసిన ప్రభుత్వం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzlCTUNVMFkzM3NCY1RoN3gzdDNxTGdRSllrRHBuWVNIN0FpX1BKclRpbWNWZUtTRXFHYTBLY3FqbXVLRjlSWmFKQ3NDOS1rbndoQXgyVW14djJReTJ5M1lBakVDdTdSX0ljSWNSNmp2cU1QZFVUMU1BWXNmQXA3VVNZRXdDRlJNV25jZHFvaUQxd2k0ajQ5a2x0QkU0aGNmTnh3dzZ2VjZVV0swYy1TeWIwLUNQQVc5aEVSc1JpZTdoSVJVUER4OGhVcFdBRzhadFUxejREWG4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-07T17:21:26+00:00"
-          },
-          {
             "title": "వెబ్ సిరీస్ చూసి.. భార్యను చంపి.. వీడు మామూలోడు కాదయ్యో..!",
             "link": "https://telugu.oneindia.com/news/india/delhi-shocking-incident-in-delhi-husband-kills-wife-after-watching-web-series-escapes-with-money-500705.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-07T22:22:14+05:30"
-          },
-          {
-            "title": "Spider Man Brand New Day crosses Rs 400 cr: ‘స్పైడర్ మ్యాన్’ రికార్డుల మోత.. ‘బార్డర్ 2’ను దాటి రెండో స్థానంలోకి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSjQ3NEpMdVdQMEVJUEhyTjZmeVlmdTFWdDJUazNQck4zZFBCWGdjbEVoWFA0RnpCSi16MnN5dU56cDdhOGxFV0NfWXpDeUhocXYwX21hNkV4bjRpYmVydFdROWZzNXV3SG1XcGhGbllGbndHbkQ1ckVBa3N6WU1ISnZOR2pZWXk5YXZrQkplVllNWEJmODF2T3VHXzA5VWFiZWNEbkZtVHpzRkQzdXZlaU9tamhZREZINmdkX3NRRENzTExEWW1PNWRQSXNBcXNWeERIZ0E3R1VvVW1RWmfSAd4BQVVfeXFMTko0NzRKTHVXUDBFSVBIck42ZnlZZnUxVnQyVGszUHJOM2RQQlhnY2xFaFhQNEZ6QkotejJzeXVOenA3YThsRVdDX1l6Q3lIaHF2MF9tYTZFeG40aWJlcnRXUTlmczV1d0htV3BoRm5ZRm53R25ENXJFQWtzellNSEp2TkdqWVl5OWF2a0JKZVZZTVhCZjgxdk91R18wOVVhYmVjRG5GbVR6c0ZEM3V2ZWlPbWpoWURGSDZnZF9zUURDc0xMRFltTzVkUElzQXFzVnhESGdBN0dVb1VtUVpn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-07T16:51:09+00:00"
           },
           {
             "title": "అక్టోబర్ లో డీఎస్సీ నోటిఫికేషన్.. డిసెంబర్ లో పరీక్షలు: తమీమ్",
@@ -1154,6 +1140,20 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-07T14:15:04+00:00"
+          },
+          {
+            "title": "స్కూల్‌ లో సైకో విద్యార్థి కాల్పులు.. ఆరుగురు మృతి.. పలువురికి గాయాలు",
+            "link": "https://telugu.oneindia.com/news/international/school-shooting-at-in-bangkok-thailand-six-deadthree-students-and-three-teachers-among-the-victims-500697.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-07T19:33:06+05:30"
+          },
+          {
+            "title": "ఏపీలో పేద రోగులకు గుడ్ న్యూస్- ప్రైవేటు ఆస్పత్రులకు ఊరట..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-releases-rs-162-72-cr-funds-to-private-network-hospitals-for-cashless-treatments-500693.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-07T19:08:14+05:30"
           }
         ],
         "Entertainment": [
