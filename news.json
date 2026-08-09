@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-08-09T21:44:02.914783+00:00",
+  "updated_at": "2026-08-09T22:01:31.763402+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "ED chargesheets against RCom, Reliance Infra in 40k crore bank fraud",
+            "link": "https://timesofindia.indiatimes.com/india/ed-chargesheets-against-rcom-reliance-infra-in-40k-crore-bank-fraud/articleshow/133075153.cms",
+            "source": "Times of India",
+            "summary": "The Enforcement Directorate has formally charged Reliance Communications and Reliance Infrastructure with serious financial offenses, including money laundering involving over forty thousand crore rupees in misappropriated bank funds. The allegations indicate substantial financial misconduct by both companies and related individuals. The agency is pursuing the confiscation of properties worth more than eight…",
+            "published": "2026-08-10T03:19:48+05:30"
+          },
+          {
+            "title": "One crore homes completed and delivered under PM scheme: Government",
+            "link": "https://timesofindia.indiatimes.com/india/one-crore-homes-completed-and-delivered-under-pm-scheme-government/articleshow/133075146.cms",
+            "source": "Times of India",
+            "summary": "Since the inception of the Pradhan Mantri Awas Yojna, over one crore urban houses have been built, representing a significant achievement in housing development. Since 2015, 1.25 crore houses have gained approval, with nearly one crore allocated to women. Furthermore, PMAY-Urban 2.0 introduced over 2.09 lakh houses for EWS families, while 1.4 lakh homes were sanctioned for pucca construction under the Beneficiary…",
+            "published": "2026-08-10T03:11:57+05:30"
+          },
           {
             "title": "ED director Rahul Navin's tenure extended by a year",
             "link": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navins-tenure-extended-by-a-year/articleshow/133074961.cms",
@@ -88,23 +102,23 @@
             "source": "The Hindu",
             "summary": "A Prayagraj court’s summons to Independent MP Pappu Yadav for his skit at Parliament complex over the alleged theft of donations at Ram Temple raises the question of territorial jurisdiction",
             "published": "2026-08-10T02:19:02+05:30"
-          },
-          {
-            "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-            "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
-            "published": "2026-08-09T20:40:25+00:00"
-          },
-          {
-            "title": "Haryana Power employees announce three-day strike from today after talks fail",
-            "link": "https://www.thehindu.com/news/national/haryana/haryana-power-employees-announce-three-day-strike-from-today-after-talks-fail/article71325359.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-10T01:41:24+05:30"
           }
         ],
         "India": [
+          {
+            "title": "ED chargesheets against RCom, Reliance Infra in 40k crore bank fraud",
+            "link": "https://timesofindia.indiatimes.com/india/ed-chargesheets-against-rcom-reliance-infra-in-40k-crore-bank-fraud/articleshow/133075153.cms",
+            "source": "Times of India",
+            "summary": "The Enforcement Directorate has formally charged Reliance Communications and Reliance Infrastructure with serious financial offenses, including money laundering involving over forty thousand crore rupees in misappropriated bank funds. The allegations indicate substantial financial misconduct by both companies and related individuals. The agency is pursuing the confiscation of properties worth more than eight…",
+            "published": "2026-08-10T03:19:48+05:30"
+          },
+          {
+            "title": "One crore homes completed and delivered under PM scheme: Government",
+            "link": "https://timesofindia.indiatimes.com/india/one-crore-homes-completed-and-delivered-under-pm-scheme-government/articleshow/133075146.cms",
+            "source": "Times of India",
+            "summary": "Since the inception of the Pradhan Mantri Awas Yojna, over one crore urban houses have been built, representing a significant achievement in housing development. Since 2015, 1.25 crore houses have gained approval, with nearly one crore allocated to women. Furthermore, PMAY-Urban 2.0 introduced over 2.09 lakh houses for EWS families, while 1.4 lakh homes were sanctioned for pucca construction under the Beneficiary…",
+            "published": "2026-08-10T03:11:57+05:30"
+          },
           {
             "title": "ED director Rahul Navin's tenure extended by a year",
             "link": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navins-tenure-extended-by-a-year/articleshow/133074961.cms",
@@ -174,20 +188,6 @@
             "source": "The Hindu",
             "summary": "A Prayagraj court’s summons to Independent MP Pappu Yadav for his skit at Parliament complex over the alleged theft of donations at Ram Temple raises the question of territorial jurisdiction",
             "published": "2026-08-10T02:19:02+05:30"
-          },
-          {
-            "title": "Haryana Power employees announce three-day strike from today after talks fail",
-            "link": "https://www.thehindu.com/news/national/haryana/haryana-power-employees-announce-three-day-strike-from-today-after-talks-fail/article71325359.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-10T01:41:24+05:30"
-          },
-          {
-            "title": "Search ops involving Indian Navy for 3 missing fishermen continue in Kerala",
-            "link": "https://timesofindia.indiatimes.com/india/search-ops-involving-indian-navy-for-3-missing-fishermen-continue-in-kerala-official/articleshow/133074839.cms",
-            "source": "Times of India",
-            "summary": "The Indian Navy's search for three missing fishermen continues into its tenth day. Divers are utilizing portable SONAR to enhance underwater surveillance capabilities. INS Kalpeni joined the operation, sailing from Kochi to aid the search efforts. The search initially focused on Gautam Krishna, who went missing off the Neendakara coast. The operation is ongoing off the Kollam and Thiruvananthapuram coasts.",
-            "published": "2026-08-10T01:35:28+05:30"
           }
         ],
         "World": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "దక్షిణ దిల్లీలో కూలిన పార్కింగ్‌ గోడ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NHFMX3RITUtBbm12c1JxdFY0QVc0OU5VeldMeWp2UzN1bTh1blhEdzd3ZzIyUVlSakpHdGVicmJmMWlSWWVkbVktTFM5YjZzU2RmUExXbFU5Q08tejlTTWdiSjczZGhadDU3OEFDcmFLaWtuZHVabw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T21:41:23+00:00"
+          },
+          {
+            "title": "పదిహేనేళ్లలో గరిష్ఠ వర్షపాతం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4TnZLSmFlT0pLX3MzYTN4SmdDc3pVRjRpdWUyVHhoSm9iVGNPREVnb1ZpdVpwUmVMd2pkYzBEaGdQa0pQeUtpR29YNUxvM2lfRjdNa3dXeVY1aXllWHBmekR6dkVoakJfRElPNGFBWFpUdDZPVHBCNA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T21:36:01+00:00"
+          },
+          {
             "title": "Tamilanadu: వివాహితుడికి వలపు వల విసిరిన మహిళ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXl5VFVuU3QzUldhYTNiS3g2aC1sMjhsT0VGSVVqTTZNalNKZm5lQzhuQ2tVc1h5MmRmSlIwZEJuUGNaOTZOcnJwMEhKd3c4TXRPNGRZSEV6Rk1ERkJyTExXUUJKbGRSWk9icXVJb05obzRUbW85MkVhdWlpZldXclR0dW1qeTY2c3l3VXpaenNqS2s0RmlscTBsTmcydkR1blAwXzc5ejEzMFBBMVBySXhTMTQ0eWNTM2Rr?oc=5",
             "source": "Eenadu",
@@ -1091,6 +1105,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-09T19:01:26+00:00"
+          },
+          {
+            "title": "ఇంటర్న్‌షిప్స్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9acGU1UjZNYU91UzJoZjQtQi1HTER4RG5Wa1FpZ211MGUzeHdiT0RqTjJEQU1mM2E3QS1jbExRdnR6eFcxZlR1Y09Ia0JxYVVWUW1FdXRDbmF4MkxfSndqd3dsQnRNNnA2VXNKSk1wM0JHNnRkeUJRQWF30gF6QVVfeXFMT1pwZTVSNk1hT3VTMmhmNC1CLUdMRHhEblZrUWlnbXUwZTN4d2JPRGpOMkRBTWYzYTdBLWNsTFF2dHp4VzFmVHVjT0hrQnFhVVZRbUV1dENuYXgyTF9Kd2p3d2xCdE02cDZVc0pKTXAzQkc2dGR5QlFBYXc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T19:00:40+00:00"
           },
           {
             "title": "Mamata Banerjee: మమతా బెనర్జీ కారుపై దాడి - Eenadu",
@@ -1128,32 +1149,11 @@
             "published": "2026-08-09T22:05:11+05:30"
           },
           {
-            "title": "సముద్రంలో మునిగిపోతున్న యువకుడిని రక్షించిన జలక్రీడల శిక్షకులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNejlEc0dnVTktQjFUVEQzWGJQYXp4bkV4MkI2RDNFdWZwLTRERTcyODdlWmpxek9kRllYY0xfUEJhYTNORVJtT2dDVzVwUVpoYTU2ZktaX3hXY3h4bWx1LWhQc1VyTHVhX1FhdmtfT0ZTampQbzY0UWdnU21IRE5RY3lR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-09T15:45:52+00:00"
-          },
-          {
             "title": "పీజీ వైద్య విద్యార్థిని ప్రియాంక మృతి",
             "link": "https://www.bbc.com/telugu/articles/cvg081pem4jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-09T15:39:02+00:00"
-          },
-          {
-            "title": "బంగ్లాదేశ్‌లో మళ్లీ అధికార మార్పిడి? ఢిల్లీ నుంచి వచ్చిన సంచలన సంకేతాలు!",
-            "link": "https://telugu.oneindia.com/news/international/bangladesh-power-shift-former-prime-minister-sheikh-hasina-signals-return-in-dec-from-delhi-detail-500935.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-09T20:54:33+05:30"
-          },
-          {
-            "title": "‘చీర్4భారత్’: కామన్వెల్త్ హీరోలకు మోదీ సెల్యూట్! (వీడియో)",
-            "link": "https://telugu.oneindia.com/news/india/commonwealth-games-2026-pm-narendra-modi-meets-glasgow-medal-winners-shares-special-video-full-de-500931.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-09T20:05:16+05:30"
           }
         ],
         "Entertainment": [
@@ -1427,10 +1427,10 @@
         "Top Stories": [
           {
             "title": "আধুনিকীকরণের কাজ দেখলেন পূর্ব রেলের জেনারেল ম্যানেজার - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHBZZ1oxak5JWUR2X0paejhMNkMzQ1RuR1I1S0dvV0xuX2RqRllkV1ZQNEZXM2FwMlhwUGM1R19sb0FiWGZyN2tPQkMwS3FCdjI0ckxDVVg4ZFp1VzRXYUJFWXY0ZGNFVS1wV2huRWFONHBPYW1jb2E3RDMxNDBKVWZVaEFsVVVMSTdQVVltRWhhS1NVQ2VfWkQ0d3loMEw3UmlmUzdRS3RjNmpEOWdwN3dEcUlCMEtfRWNobXBBME5RaUpzTnp6a2V5eGdtczRGMEl0aGJub0dkOHJXd29LT3lB0gHiAUFVX3lxTFAwcFlnWjFqTklZRHZfSlp6OEw2QzNDVG5HUjVLR29XTG5fZGpGWWRXVlA0RlczYXAyWHBQYzVHX2xvQWJYZnI3a09CQzBLcUJ2MjRyTENVWDhkWnVXNFdhQkVZdjRkY0VVLXBXaG5FYU40cE9hbWNvYTdEMzE0MEpVZlVoQWxVVUxJN1BVWW1FaGFLU1VDZV9aRDR3eWgwTDdSaWZTN1FLdGM2akQ5Z3A3d0RxSUIwS19FY2htcEEwTlFpSnNOenprZXl4Z21zNEYwSXRoYm5vR2Q4cld3b0tPeUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTFc0LTdOZVZZWE1LWktoZDVYbU9CdTVPM2pfNzdQRGRvTXRXcWRwOWd3V1lOOTN1U1BSd3BjdG1YZ2tFSEhWWk9YSGREMkhzT0hkd3o1ZndhMENUTW5RcV81SldzUXdiNURpejJmQzNiTHVaVDdIUkFaS1RnTmpKd3FwUEJqLUZQemNZa3NTSmQ1aGc4VFZMSUNOM2prVVh0aDZQN1hlUEpCQk9kT1hsYkhaQU40c0ZSdnlSaXJzSGxvc0p0a2cwQWJlZkN0V21weG9FZTI3Nmx5RVNh?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-09T21:38:27+00:00"
+            "published": "2026-08-09T21:38:28+00:00"
           },
           {
             "title": "ফুলিয়ার দুই তাঁত শিল্পীর জাতীয় পুরস্কার - Anandabazar Patrika",
