@@ -1,111 +1,181 @@
 {
-  "updated_at": "2026-08-09T19:01:47.255403+00:00",
+  "updated_at": "2026-08-09T19:31:12.836067+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Adivasi-Dalit convention seeks justice for Jogi, Muthanga violence victims",
-            "link": "https://www.thehindu.com/news/national/kerala/adivasi-dalit-convention-seeks-justice-for-jogi-victims-of-muthanga-violence/article71325506.ece",
+            "title": "Mediating Telangana’s inter-State issues",
+            "link": "https://www.thehindu.com/opinion/op-ed/mediating-telanganas-inter-state-issues/article71325793.ece",
             "source": "The Hindu",
-            "summary": "Adivasi-Dalit convention and Declaration of Rights held at Sulthan Bathery in Wayanad on Sunday. Bommi Amma of Cheeral, the oldest surviving participant in the Muthanga struggle, inaugurated the gathering",
-            "published": "2026-08-10T00:19:40+05:30"
+            "summary": "The Centre must act decisively to amicably resolve issues between States",
+            "published": "2026-08-10T00:54:25+05:30"
           },
           {
-            "title": "Indian, U.S. navies to hold joint EOD exercise in Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/indian-us-navies-to-hold-joint-eod-exercise-in-kochi/article71325591.ece",
+            "title": "CPI(M) accuses UDF govt. of ‘surrendering’ to BJP over Vande Mataram order",
+            "link": "https://www.thehindu.com/news/national/kerala/cpim-accuses-udf-govt-of-surrendering-to-bjp-over-vande-mataram-order/article71325136.ece",
             "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-10T00:15:01+05:30"
+            "summary": "Party says Education Minister’s defence of Governor’s directive reflects UDF’s willingness to accept Raj Bhavan’s diktats",
+            "published": "2026-08-10T00:54:06+05:30"
           },
           {
-            "title": "For Jharkhand’s Adivasi youth, competitive exams are about finding a voice in the system that governs them",
-            "link": "https://www.thehindu.com/news/national/jharkhand/for-jharkhands-adivasi-youth-competitive-exams-are-about-finding-a-voice-in-the-system-that-governs-them/article71325807.ece",
-            "source": "The Hindu",
-            "summary": "The choice for the aspirants is stark: continue tilling the land that provides enough to sustain a family but little surplus or spend years studying for an examination that can change the family’s future",
-            "published": "2026-08-10T00:13:17+05:30"
-          },
-          {
-            "title": "James Bracey's hard-hitting hundred leads Gloucestershire win",
-            "link": "https://www.cricinfo.com/ci/content/story/1549309.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "He posts 103 off 85, dominates second-wicket stand of 153 with Ollie Price, while Joe Phillips raises unbeaten 61",
-            "published": "2026-08-09T18:39:11+00:00"
-          },
-          {
-            "title": "Albert belts six sixes in six balls as Hampshire overpower Sussex",
-            "link": "https://www.cricinfo.com/ci/content/story/1549312.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Struggling Sussex fall well short after Ali Orr and Ben Mayes hit hundreds for Hampshire",
-            "published": "2026-08-09T18:38:19+00:00"
-          },
-          {
-            "title": "How can there be a fair delimitation when it is a fraud: TNCC president",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/how-can-there-be-a-fair-delimitation-when-it-is-a-fraud-tncc-president/article71325260.ece",
-            "source": "The Hindu",
-            "summary": "B. Manickam Tagore criticises DMK and AIADMK for ‘changing their view on the delimitation Bill in just a matter of months’, and not participating in the meeting convened by Chief Minister Vijay",
-            "published": "2026-08-10T00:07:51+05:30"
-          },
-          {
-            "title": "Priests, members of Orthodox and Jacobite factions clash at church",
+            "title": "Orthodox, Jacobite priests and members clash at church",
             "link": "https://www.thehindu.com/news/national/kerala/priests-members-of-orthodox-and-jacobite-factions-clash-at-church/article71325763.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-10T00:06:20+05:30"
+            "published": "2026-08-10T00:50:16+05:30"
+          },
+          {
+            "title": "Andy Gorvin clinches thriller for Glamorgan",
+            "link": "https://www.cricinfo.com/ci/content/story/1549308.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Jake Libby century goes in vain as home skipper holds his nerve for last-ball victory over Worcestershire",
+            "published": "2026-08-09T19:19:41+00:00"
+          },
+          {
+            "title": "India, U.S. navies to hold EOD exercise in Kochi from August 10",
+            "link": "https://www.thehindu.com/news/national/kerala/indian-us-navies-to-hold-joint-eod-exercise-in-kochi/article71325591.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:46:27+05:30"
+          },
+          {
+            "title": "T.N. police arrest 837 cyber criminals in two days",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-police-arrest-837-cyber-criminals-in-two-days/article71324604.ece",
+            "source": "The Hindu",
+            "summary": "The operation was focused on suspects using mule bank accounts to move proceeds of cybercrime",
+            "published": "2026-08-10T00:45:54+05:30"
+          },
+          {
+            "title": "City hospital organises movie screening for Thalassemia warriors",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/city-hospital-organises-movie-screening-for-thalassemia-warriors/article71325597.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:43:36+05:30"
+          },
+          {
+            "title": "Guruvayur Devaswom to discuss renaming of ‘Kodathi Vilakku’ following court directive",
+            "link": "https://www.thehindu.com/news/national/kerala/guruvayur-devaswom-to-discuss-renaming-of-kodathi-vilakku-following-court-directive/article71325112.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:41:03+05:30"
           },
           {
             "title": "Census 2027: Ladakh to lead independent India’s first caste enumeration",
             "link": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece",
             "source": "The Hindu",
             "summary": "Census form likely to have 40 questions, defence structures to be recorded on paper",
-            "published": "2026-08-10T00:01:18+05:30"
+            "published": "2026-08-10T00:39:42+05:30"
           },
           {
-            "title": "Nine injured in steel plant blast in Jharkhand’s Ramgarh",
-            "link": "https://www.thehindu.com/news/national/jharkhand/steel-plant-blast-in-jharkhands-ramgarh/article71325186.ece",
-            "source": "The Hindu",
-            "summary": "Two critically injured workers have been referred to a private hospital in Ranchi.",
-            "published": "2026-08-09T23:57:05+05:30"
+            "title": "Can the Doha Framework end the conflict in eastern DRC?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
+            "published": "2026-08-09T19:07:35+00:00"
           },
           {
-            "title": "Congress urges NCP (SP) to press PM Modi for immediate roll out of Women’s Reservation Act",
-            "link": "https://www.thehindu.com/news/national/maharashtra/congress-urges-ncp-sp-to-press-pm-modi-for-immediate-roll-out-of-womens-reservation-act/article71325803.ece",
-            "source": "The Hindu",
-            "summary": "Implementation of women’s quota should not be linked to delimitation, says Congress leader Sachin Sawant",
-            "published": "2026-08-09T23:55:24+05:30"
-          },
-          {
-            "title": "Man held after allegedly assaulting two men with baseball bat in Bengaluru’s AECS Layout",
-            "link": "https://www.thehindu.com/news/cities/bangalore/man-held-after-allegedly-assaulting-two-men-with-baseball-bat-in-bengalurus-aecs-layout/article71325864.ece",
+            "title": "BJP urges TVK-led government not to pursue confrontational approach with Centre like DMK",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-urges-tvk-led-government-not-to-pursue-confrontational-approach-with-centre-like-dmk/article71324528.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-09T23:54:31+05:30"
+            "published": "2026-08-10T00:35:27+05:30"
           },
           {
-            "title": "Jani keeps Bears alive as Lancashire miss chance",
-            "link": "https://www.cricinfo.com/ci/content/story/1549313.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "21-year-old batter hits 88 as Warwickshire chase down 312 at Rugby School",
-            "published": "2026-08-09T18:20:40+00:00"
+            "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
+            "published": "2026-08-09T18:59:33+00:00"
           },
           {
-            "title": "Ben Geddes century sees Middlesex into knockouts",
-            "link": "https://www.cricinfo.com/ci/content/story/1549307.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Skipper hits seven sixes in a 93-ball 109 against Derbyshire, sharing third-wicket stand of 156 with Max Holden",
-            "published": "2026-08-09T18:20:18+00:00"
-          },
-          {
-            "title": "Police to seek custody of two accused in medico’s death case",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-to-seek-custody-of-two-accused-in-medicos-death-case/article71325268.ece",
+            "title": "Five held on charges of smuggling ivory",
+            "link": "https://www.thehindu.com/news/national/kerala/five-held-on-charge-of-smuggling-ivory/article71324579.ece",
             "source": "The Hindu",
-            "summary": "East Godavari SP says charges may be altered based on findings of further probe",
-            "published": "2026-08-09T23:46:35+05:30"
+            "summary": "The arrests were made following a tip-off received by the Forest Intelligence Wing",
+            "published": "2026-08-10T00:23:34+05:30"
+          },
+          {
+            "title": "Adivasi-Dalit convention seeks justice for Jogi, Muthanga violence victims",
+            "link": "https://www.thehindu.com/news/national/kerala/adivasi-dalit-convention-seeks-justice-for-jogi-victims-of-muthanga-violence/article71325506.ece",
+            "source": "The Hindu",
+            "summary": "Adivasi-Dalit convention and Declaration of Rights held at Sulthan Bathery in Wayanad on Sunday. Bommi Amma of Cheeral, the oldest surviving participant in the Muthanga struggle, inaugurated the gathering",
+            "published": "2026-08-10T00:19:40+05:30"
           }
         ],
         "India": [
           {
+            "title": "Mediating Telangana’s inter-State issues",
+            "link": "https://www.thehindu.com/opinion/op-ed/mediating-telanganas-inter-state-issues/article71325793.ece",
+            "source": "The Hindu",
+            "summary": "The Centre must act decisively to amicably resolve issues between States",
+            "published": "2026-08-10T00:54:25+05:30"
+          },
+          {
+            "title": "CPI(M) accuses UDF govt. of ‘surrendering’ to BJP over Vande Mataram order",
+            "link": "https://www.thehindu.com/news/national/kerala/cpim-accuses-udf-govt-of-surrendering-to-bjp-over-vande-mataram-order/article71325136.ece",
+            "source": "The Hindu",
+            "summary": "Party says Education Minister’s defence of Governor’s directive reflects UDF’s willingness to accept Raj Bhavan’s diktats",
+            "published": "2026-08-10T00:54:06+05:30"
+          },
+          {
+            "title": "Orthodox, Jacobite priests and members clash at church",
+            "link": "https://www.thehindu.com/news/national/kerala/priests-members-of-orthodox-and-jacobite-factions-clash-at-church/article71325763.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:50:16+05:30"
+          },
+          {
+            "title": "India, U.S. navies to hold EOD exercise in Kochi from August 10",
+            "link": "https://www.thehindu.com/news/national/kerala/indian-us-navies-to-hold-joint-eod-exercise-in-kochi/article71325591.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:46:27+05:30"
+          },
+          {
+            "title": "T.N. police arrest 837 cyber criminals in two days",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-police-arrest-837-cyber-criminals-in-two-days/article71324604.ece",
+            "source": "The Hindu",
+            "summary": "The operation was focused on suspects using mule bank accounts to move proceeds of cybercrime",
+            "published": "2026-08-10T00:45:54+05:30"
+          },
+          {
+            "title": "City hospital organises movie screening for Thalassemia warriors",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/city-hospital-organises-movie-screening-for-thalassemia-warriors/article71325597.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:43:36+05:30"
+          },
+          {
+            "title": "Guruvayur Devaswom to discuss renaming of ‘Kodathi Vilakku’ following court directive",
+            "link": "https://www.thehindu.com/news/national/kerala/guruvayur-devaswom-to-discuss-renaming-of-kodathi-vilakku-following-court-directive/article71325112.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:41:03+05:30"
+          },
+          {
+            "title": "Census 2027: Ladakh to lead independent India’s first caste enumeration",
+            "link": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece",
+            "source": "The Hindu",
+            "summary": "Census form likely to have 40 questions, defence structures to be recorded on paper",
+            "published": "2026-08-10T00:39:42+05:30"
+          },
+          {
+            "title": "BJP urges TVK-led government not to pursue confrontational approach with Centre like DMK",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-urges-tvk-led-government-not-to-pursue-confrontational-approach-with-centre-like-dmk/article71324528.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-10T00:35:27+05:30"
+          },
+          {
+            "title": "Five held on charges of smuggling ivory",
+            "link": "https://www.thehindu.com/news/national/kerala/five-held-on-charge-of-smuggling-ivory/article71324579.ece",
+            "source": "The Hindu",
+            "summary": "The arrests were made following a tip-off received by the Forest Intelligence Wing",
+            "published": "2026-08-10T00:23:34+05:30"
+          },
+          {
             "title": "Adivasi-Dalit convention seeks justice for Jogi, Muthanga violence victims",
             "link": "https://www.thehindu.com/news/national/kerala/adivasi-dalit-convention-seeks-justice-for-jogi-victims-of-muthanga-violence/article71325506.ece",
             "source": "The Hindu",
@@ -113,84 +183,35 @@
             "published": "2026-08-10T00:19:40+05:30"
           },
           {
-            "title": "Indian, U.S. navies to hold joint EOD exercise in Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/indian-us-navies-to-hold-joint-eod-exercise-in-kochi/article71325591.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-10T00:15:01+05:30"
-          },
-          {
             "title": "For Jharkhand’s Adivasi youth, competitive exams are about finding a voice in the system that governs them",
             "link": "https://www.thehindu.com/news/national/jharkhand/for-jharkhands-adivasi-youth-competitive-exams-are-about-finding-a-voice-in-the-system-that-governs-them/article71325807.ece",
             "source": "The Hindu",
             "summary": "The choice for the aspirants is stark: continue tilling the land that provides enough to sustain a family but little surplus or spend years studying for an examination that can change the family’s future",
             "published": "2026-08-10T00:13:17+05:30"
-          },
-          {
-            "title": "How can there be a fair delimitation when it is a fraud: TNCC president",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/how-can-there-be-a-fair-delimitation-when-it-is-a-fraud-tncc-president/article71325260.ece",
-            "source": "The Hindu",
-            "summary": "B. Manickam Tagore criticises DMK and AIADMK for ‘changing their view on the delimitation Bill in just a matter of months’, and not participating in the meeting convened by Chief Minister Vijay",
-            "published": "2026-08-10T00:07:51+05:30"
-          },
-          {
-            "title": "Priests, members of Orthodox and Jacobite factions clash at church",
-            "link": "https://www.thehindu.com/news/national/kerala/priests-members-of-orthodox-and-jacobite-factions-clash-at-church/article71325763.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-10T00:06:20+05:30"
-          },
-          {
-            "title": "Census 2027: Ladakh to lead independent India’s first caste enumeration",
-            "link": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece",
-            "source": "The Hindu",
-            "summary": "Census form likely to have 40 questions, defence structures to be recorded on paper",
-            "published": "2026-08-10T00:01:18+05:30"
-          },
-          {
-            "title": "Nine injured in steel plant blast in Jharkhand’s Ramgarh",
-            "link": "https://www.thehindu.com/news/national/jharkhand/steel-plant-blast-in-jharkhands-ramgarh/article71325186.ece",
-            "source": "The Hindu",
-            "summary": "Two critically injured workers have been referred to a private hospital in Ranchi.",
-            "published": "2026-08-09T23:57:05+05:30"
-          },
-          {
-            "title": "Congress urges NCP (SP) to press PM Modi for immediate roll out of Women’s Reservation Act",
-            "link": "https://www.thehindu.com/news/national/maharashtra/congress-urges-ncp-sp-to-press-pm-modi-for-immediate-roll-out-of-womens-reservation-act/article71325803.ece",
-            "source": "The Hindu",
-            "summary": "Implementation of women’s quota should not be linked to delimitation, says Congress leader Sachin Sawant",
-            "published": "2026-08-09T23:55:24+05:30"
-          },
-          {
-            "title": "Man held after allegedly assaulting two men with baseball bat in Bengaluru’s AECS Layout",
-            "link": "https://www.thehindu.com/news/cities/bangalore/man-held-after-allegedly-assaulting-two-men-with-baseball-bat-in-bengalurus-aecs-layout/article71325864.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-09T23:54:31+05:30"
-          },
-          {
-            "title": "Police to seek custody of two accused in medico’s death case",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-to-seek-custody-of-two-accused-in-medicos-death-case/article71325268.ece",
-            "source": "The Hindu",
-            "summary": "East Godavari SP says charges may be altered based on findings of further probe",
-            "published": "2026-08-09T23:46:35+05:30"
-          },
-          {
-            "title": "BJP calls arrest of Kerala Hindutva ideologue T.G. Mohandas discriminatory",
-            "link": "https://www.thehindu.com/news/national/kerala/bjp-calls-arrest-of-kerala-hindutva-ideologue-tg-mohandas-discriminatory/article71325789.ece",
-            "source": "The Hindu",
-            "summary": "The party alleges that the arrest is a ‘drama’ intended to divert attention from lapses in flood relief operations and protest by the coastal community",
-            "published": "2026-08-09T23:41:12+05:30"
-          },
-          {
-            "title": "Death Count In Assam Floods Reaches 100, Nearly 1.4 Lakh Affected",
-            "link": "https://www.ndtv.com/india-news/death-count-in-assam-floods-reaches-100-nearly-1-4-lakh-affected-11887460#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "One person each drowned in floodwaters in Golaghat and Karbi Anglong districts during the last 24 hours, the Assam State Disaster Management Authority (ASDMA) said.",
-            "published": "2026-08-09T23:25:10+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Can the Doha Framework end the conflict in eastern DRC?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
+            "published": "2026-08-09T19:07:35+00:00"
+          },
+          {
+            "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
+            "published": "2026-08-09T18:59:33+00:00"
+          },
+          {
+            "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
+            "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
+            "published": "2026-08-09T18:44:28+00:00"
+          },
           {
             "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
             "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
             "published": "2026-08-09T16:08:19+00:00"
-          },
-          {
-            "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
-            "link": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
-            "published": "2026-08-09T16:07:23+00:00"
-          },
-          {
-            "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
-            "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
-            "published": "2026-08-09T16:05:10+00:00"
-          },
-          {
-            "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
-            "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
-            "published": "2026-08-09T16:00:50+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Andy Gorvin clinches thriller for Glamorgan",
+            "link": "https://www.cricinfo.com/ci/content/story/1549308.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Jake Libby century goes in vain as home skipper holds his nerve for last-ball victory over Worcestershire",
+            "published": "2026-08-09T19:19:41+00:00"
+          },
+          {
             "title": "James Bracey's hard-hitting hundred leads Gloucestershire win",
             "link": "https://www.cricinfo.com/ci/content/story/1549309.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "World number one Jannik Sinner has pulled out of the Cincinnati Open due to a right knee injury, the Italian announced Sunday.",
             "published": "2026-08-09T22:37:02+05:30"
-          },
-          {
-            "title": "Luke Procter 85 delivers crushing win for Northants",
-            "link": "https://www.cricinfo.com/ci/content/story/1549310.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "He shares 136-run stand with Nathan McSweeney, after spinners Rob Keogh and Yuzi Chahal run through Somerset line-up",
-            "published": "2026-08-09T16:58:16+00:00"
           }
         ],
         "Technology": [
@@ -1086,11 +1086,32 @@
             "published": "2026-08-09T22:05:11+05:30"
           },
           {
+            "title": "మృత్యువులోనూ వీడని బంధం.. గంటల వ్యవధిలో దంపతుల మృతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdFNQdkZFTVdqb2xGczhDaWZuVURnT29ZbElNYl9xczRVMGd6eGpqaUdGazdqTjdZUmpPa0oxMTJVS2M1aVVUeFBUR0lpdFNZd3Brc2VoUXBEX2tZSmpLa0JYSFdPX3BJUVdhMjZKUC1zU3c0c1hncm8wWkPSAXxBVV95cUxQbXRTUHZGRU1Xam9sRnM4Q2lmblVEZ09vWWxJTWJfcXM0VTBnenhqamlHRms3ak43WVJqT2tKMTEyVUtjNWlVVHhQVEdJaXRTWXdwa3NlaFFwRF9rWUpqS2tCWEhXT19wSVFXYTI2SlAtc1N3NHNYZ3JvMFpD?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T16:19:10+00:00"
+          },
+          {
+            "title": "సముద్రంలో మునిగిపోతున్న యువకుడిని రక్షించిన జలక్రీడల శిక్షకులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNejlEc0dnVTktQjFUVEQzWGJQYXp4bkV4MkI2RDNFdWZwLTRERTcyODdlWmpxek9kRllYY0xfUEJhYTNORVJtT2dDVzVwUVpoYTU2ZktaX3hXY3h4bWx1LWhQc1VyTHVhX1FhdmtfT0ZTampQbzY0UWdnU21IRE5RY3lR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T15:45:52+00:00"
+          },
+          {
             "title": "పీజీ వైద్య విద్యార్థిని ప్రియాంక మృతి",
             "link": "https://www.bbc.com/telugu/articles/cvg081pem4jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-09T15:39:02+00:00"
+          },
+          {
+            "title": "SL vs IND: శ్రీలంకతో టెస్టు సిరీస్.. సాయి సుదర్శన్ స్థానంలో సర్ఫరాజ్‌ ఖాన్‌కు చోటు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmxLVHBYRlh5Tk11eklFd0QxS2JrM1l6VGtreWotak5sLWU3cUwyV1pWazhGWDRZd01nSjh1ZTNteE5tb2VFekxUNnJuc1BIazhXM2xZUUN5RlV4TEE4cGlZc0dIdWtPSWdXdWE2b2J0bUFGSGpBemV3RWNZUXRFQlhMRzFaTm5mVkh1UXdGaEZCR2FuYnVTSEVRZDVYRFhvY1NXdUwtTmJBb2NRajVxY2xqc0IxVmJvLUtGbm81eGpvVE5DMmpsWEtR0gHKAUFVX3lxTE9KbEtUcFhGWHlOTXV6SUV3RDFLYmszWXpUa2t5ai1qTmwtZTdxTDJXWlZrOEZYNFl3TWdKOHVlM214Tm1vZUV6TFQ2cm5zUEhrOFczbFlRQ3lGVXhMQThwaVlzR0h1a09JZ1d1YTZvYnRtQUZIakF6ZXdFY1lRdEVCWExHMVpObmZWSHVRd0ZoRkJHYW5idVNIRVFkNVhEWG9jU1d1TC1OYkFvY1FqNXFjbGpzQjFWYm8tS0ZubzV4am9UTkMyamxYS1E?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-09T15:37:37+00:00"
           },
           {
             "title": "బంగ్లాదేశ్‌లో మళ్లీ అధికార మార్పిడి? ఢిల్లీ నుంచి వచ్చిన సంచలన సంకేతాలు!",
@@ -1128,32 +1149,11 @@
             "published": "2026-08-09T19:05:42+05:30"
           },
           {
-            "title": "వేళ్లు విరిచినప్పుడు శబ్దం ఎందుకు వస్తుంది, అసలు వేళ్లు విరుచుకోవడం అలవాటా, అనారోగ్యమా?",
-            "link": "https://www.bbc.com/telugu/articles/cx2kld0pxezo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
+            "title": "వర్షాకాలంలో.. పిల్లలు జబ్బు పడకుండా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUIwbGJZcXBsT0JyR0pfanlJd1VsMXVsZlBmcTdPY1lRUmxoUzN3bTdwaEd5T19sX1FoS0lfV09jRnU2a3JmYWhybW9FeEVROHNoNEFVVGRxSmVpTUNCZHI5WXFpQ1M4cGVHS2daRGVRbmk4Vy1PUGhPeUhfQ3c4cDh5TlplYWI2bDIxU0RGUF9wSmhNUEtoSDNjVDZXaVVuMXZnVmI5cThhUEVqc0HSAa4BQVVfeXFMTTlCMGxiWXFwbE9CckdKX2p5SXdVbDF1bGZQZnE3T2NZUVJsaFMzd203cGhHeU9fbF9RaEtJX1dPY0Z1NmtyZmFocm1vRXhFUThzaDRBVVRkcUplaU1DQmRyOVlxaUNTOHBlR0tnWkRlUW5pOFctT1BoT3lIX0N3OHA4eU5aZWFiNmwyMVNERlBfcEpoTVBLaEgzY1Q2V2lVbjF2Z1ZiOXE4YVBFanNB?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-09T13:01:32+00:00"
-          },
-          {
-            "title": "Medico Priyaka: మృత్యువుతో పోరాడి ఓడిపోయిన మెడికో ప్రియాంక..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/medico-priyanka-dies-after-being-critically-injured-in-rajahmundry-drunk-driving-crash-500923.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-09T18:28:56+05:30"
-          },
-          {
-            "title": "రష్యా నుంచి భారత్‌కు నేరుగా రైలు? ఇక హార్ముజ్ ఇబ్బందులకు చెక్!",
-            "link": "https://telugu.oneindia.com/news/international/russia-india-railway-line-direct-train-line-proposed-to-bypass-strait-of-hormuz-risks-full-detail-500921.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-09T18:22:22+05:30"
-          },
-          {
-            "title": "ఏపీ సర్కార్ పై ఉద్యోగుల జీతాల భారమెంత ? కాగ్ లెక్క ఇదే..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/cag-data-challenges-chandrababu-s-claim-that-employee-salaries-consume-98-of-state-revenues-500919.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-09T18:11:06+05:30"
+            "published": "2026-08-09T13:20:48+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,11 +1426,53 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "জগৎবল্লভপুরে জীবনের ঝুঁকি নিয়ে নদী পারাপার! স্থায়ী সেতুর দাবিতে রাস্তায় নেমে বিক্ষোভ মহিলাদের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3BhVXUzSld0bWljblcya25uRnJ4eTJTZ0k5Z0tKVHpBeC1ac1NTMUxUSXZKTnZ5QjcxNEhBLTFKT0d6eW9oeTJCTE9FN3JWWlU0S28tWHdzUExjaUNrckJlUUhPNm5UcnNBQTdjdkl5aUFxYURjRWNxcmtINEJnd1NyTElNLWlvYnNKaFIzUUFERmdsMGdTdWY0RzlfZlZrRlNQMGtBRXJhUnFSYlFQZFV2bzdiZnFHdThfYnRWT1k0RDZCaWZoN08wMjVYc2xMTmhPLWhn0gHbAUFVX3lxTE96dmRkUVhMcVhuWVlqOURQR0RrTU9reEZhRG9ad2F5STdta1o0UlFYRnRfV3NremEteU5QV0pRdGJtZ2JROExmVW1aNjR2ajhubUV0VXlzQjY2RG1LZWcybkdoUW0yMnhudkRhWFJReHVySUpMZzVzZEliUmd6TG54MzhyWlI5WnJ6YnVkaHFJc2UyMUUzM0Z1WUtic1djalN4Z0FlYW5iRUNiNldLNnRXckZtY1prNjRMRHd3aVNXSXRJTGNITzF3VmxMa19haWViOVVzcUVEVFpDSQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T19:04:42+00:00"
+          },
+          {
+            "title": "আজকের দিন বৃষ রাশি- ০৯ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2pCQjBfUUpkWjlkMU9ZWnlrdEtqWWNMV25nVExZeHhidk1QY0FMaF95ZzZjOU1kal9mczRRYXJzZ3FoQ2JzTU1FdFpaS0Y3RTJUX1FPMXM0RWM0OFdfbndRd0JTa0xHZVoyZnpCR2hjbjUwOWlGdmx6YTVRbTlBSFNlbDVHVTV2M2ZJcEItLUJyQ0UxbVNzZjVRd3luMHY5aWZUWEVsSjR1NXdYbXJzc1VR0gG3AUFVX3lxTE55QnNDeHRuay16UkhuOWRnWk15SWkyNFpPbUUxY3g4cVBGaWcza2VwMVlIUW50MnZsTU5VVlk2ZVVVb3E4S21SeE9IUkN2M1JHampDaDNybjQtWGJDUVdsR0hoYkNVaU5neG9DYTAyUGNhbmhLTUV5T3pCNmdmcmxSTUpHUHNWSFBxcGZJemZqYzZJMmhubXFJZkJIdkphSHMtSzJOLTZ4M2NZTnpsMmpaUUVLemVHTQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T18:24:09+00:00"
+          },
+          {
             "title": "হেফাজতে ইসলাম কী চেয়েছে বিএনপি সরকারের কাছে?",
             "link": "https://www.bbc.com/bengali/articles/cn0nzyr5eyqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-08-09T15:40:15+00:00"
+          },
+          {
+            "title": "নদিয়া জেলা পরিষদ দখলে ‘বিজেপিকে সাহায্য’, দলবিরোধী কাজের জন্য ৯ জনকে সাসপেন্ড করল কালীঘাট তৃণমূল - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWh3MXpWcldrWFFibnhaRzZrT2lqY3ZYVHdiWXQ4SEpqc3hZT2t1dkZvN0hPLWRIQ19QRFcyUXdrMXNkaFRNUDg4OWRsRjVBVEtETHZXMGtJYUVqMHBfOVpnYXhVbFdvVEZaRDB3dmRWZXkwa2oxQW9GbG1hWXdVckZaWEZQMU5xcDdoWkVYY2hpdE5Jb1phNkRwS1Y4VFZ2TFp2WVFSbTJET19SVXdWV0ZQWXlCUG9GcE1WTndrcmxCNE9DUnZvYdIBzgFBVV95cUxOLWhNLUhZWURMOV9PX1RFMmVoLVFBM0tDWVMtZDA0aVM5eDRBb0w2dlIwcFZvUU9aanVtc3BGYVdLN0VQWU5LZFBVei1EbDlBOGxkODRMUzNYcVFEMzFIRnNWQzFPTkMyODRiVjBCT2xBZktCcFpqWmFXcUJwODN3eDBJV3B3VDR5TFlwVEtYbG1UNzdZSlEwYVNCdzdmSU9GeWZfOUdxSXBpbXlsUzRTUEhzMURjNnYxNjl0aFkzU2JwTzF4OXpfb1E4NnF5UQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T14:58:35+00:00"
+          },
+          {
+            "title": "‘বিদ্রোহ’ করেও ভারতীয় দলে ঢুকলেন সরফরাজ়! শ্রীলঙ্কা সিরিজ়ে পরিবর্ত ক্রিকেটার হিসাবে পেলেন সুযোগ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWGZJRjVDMXFWS0wyWm1hZDc4OUF2ZU8xVXdrX29mS3ZCUE1ybi1mdU4zU0ZWT0dOVUlQblhqSWNpenozb3FDNkd4TE1GemhEY3dlRk1JNXVEUExMWUtoS1NKYVQ2RVJ4UnVOR01lWHFUU0s1N1VDUUpyWG9wcGhWNzZqTm1qc0JUTDJIWWhoVVMydmh4WjZOOExWRjFZUVNzWkZfWm81TUpjS014Zi1iMGNaRVpUT3NvdUZYT1ctZkdIejRvN3d6N1I4bzFpOFRJOUdNbzZxR2JsUHfSAeABQVVfeXFMTU1JY1NCY09UbE94SmE3emF4T0FqMjIyaXhBdE05MS16elRRdjNVN1dvS2NqbGdSOXlKT1NvV0VnM2NLTklFbC1QXzBHN1ZhenRjYk1fQVhzdTFWd0hGZFkzSlppUU5YVnJuLTJ6SHFRbkZyd2RYdVFRR05tUVJTbDhhRTI1Tmd2VVM1QWFwOEdIVXhtOWRCM3VZM0p4TTZWX2JWb2w1Q2JlT1g2aHl5M01BNE9xVWtJTTY5ekRCam9lYlpDUEoxM2hFd0lsTDRWSmYtZFhMNVhPQVFUdDNYQkM?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T14:53:47+00:00"
+          },
+          {
+            "title": "রোনাল্ডোকে বাড়তি ছুটি ক্লাবের, বিয়ের জন্যই কি এই সিদ্ধান্ত? রোনাল্ডোর বিয়ে ভেবে ভুল করে অন্য দম্পতিকে ঘিরলেন সমর্থকেরা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2lmYzBUY3Vra3FPblplS3ZUVHpPTVdQTDVJaHBJTU43U3lCSFVlY2xLMjJ4UXIwTFpWZE1nZEpYajhSSTY1bDZDQUM2MFhYc0FYNTgtM3luTXZzQkhJT2lfX1pFQkZKS2ViTGI1eUpTRmpKaXhYNDM2OU5KUmJ1Q3czQnJJRVhKN0VWN2VzbHlKUm0wYXh6M0JBcjBKMXZ4N0QxbWVqdzVTcnNMQ3hmTEhNSEl0WWJGWXFsbk1NS1VNWVE2eG1iSElVaWFqQdIB0wFBVV95cUxQYjNqeW9XaFdCMTlWQ3ZFYUhhQVZROV81UmdXNlRQVE9BSTQ0eFNUSHc2NUk5M3pEVC1tVG1seTJsNDdyMVNNdDVPSmUtVWpvWjM0MUg3Y3cydUlsQmd3YlZMN1RYR2tNQWFxNUVPOG4zbU1qSXF5ZHo1bnp1R1VjZzA2Rk9UWDZpQ0FUdFJDU1c3U0hFQjFRcG1XMVgxSktMTkh2SVloSU5SMmNhVkQ3RkRMQnhIblRrNFREbU54TmY4ajlRTGhkS3FJUjBfcVo4VjV3?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T14:28:04+00:00"
+          },
+          {
+            "title": "‘নির্যাতিতা নয়, আমি ডাক্তারের মা’! মেয়ের মৃত্যুবার্ষিকীতে মন্তব্য রত্নার, আরজি কর-কাণ্ডে নতুন মামলা রুজুর নির্দেশ মুখ্যমন্ত্রীর - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQOURBcUhPcDluczFVYW5HYW1ibmNqXzQza3pJUThIUzNhSTZzcGVyM0xGOHlqUkRnZXRycUlMWkVGZ0NRLURULTdnR2ljeWFxTlJ0VERkcnRuUEgwYWFPTUh6ZnlQcFRiQmd6R0NYQUZtNmlYbktfSTlRSUZHYURDalJmRnBvOTM4LWVoMmVaNFNPUEtEVW9tdDluU0c3UkcxN2dKcnJKMnZIVW1JZVYxS3RUSkYtRnRsQVFwZkJEZkVCd0tleWV3S00yaEpNM3kySGJlUEtGdDlvelBGTHJEZnBLRWNPa2ZnYkJST0pBQnB6ZklVdHdscW1VM3Z3anZ0QnRTZFYwblZ2a1hKSmVxRHRhakdlOWJvUXhGVDVtX084WW16eEF2Q3dfNy1GbnFLVlo1VWMyREJpMWFjaXfSAcMCQVVfeXFMTnNobFk3MHk0U2U1WEQtQ2w4NWktTjlqTE9CQ0loU0gzcjU0QVo3dk44VEN3ZDlRTjU1ZGF5V1JWZHZsT3VZeW9saWRMVS1RVzJpdVpnUllIV0xCMnhiVmxPN1p6cDlxVm9HS2NxS3R4WVE1S1V4LWFaZnJxdE92ZjVPYTlLRThGWktEYS11Nk9SeDVxNktfcTE4M1lXVDlzdHFvWk9EWlBoWDdWcEhjLVVrVnFwNEVGQnpzUDV5cG41S195dElrcnd3ZV9RSl9NSlcyMGdFbmE4Ui1oeEZsQTNZdU9hZkZ5ckRjakNCQ1FYSS0yOFlUdW1ncHZIZ1NaMUFTdjhKTGFDa2VtNTlBRkQzMTYxQVdGQTl3OTZ0MUVRTm1KakVTX0UtSG5uVmp6aDRMVUdaQWRrTVZwcDJiUzByRm8?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T14:12:24+00:00"
           },
           {
             "title": "স্বজনের খোঁজ নেই, মালয়েশিয়ার মর্গে পড়ে আছে এক বাংলাদেশির মৃতদেহ",
@@ -1440,6 +1482,13 @@
             "published": "2026-08-09T14:01:26+00:00"
           },
           {
+            "title": "শেষ দু’মাসে মিস্‌ ২৮ ক্যাচ! ব্যাটিং, বোলিং নয়, শুভমনদের ফিল্ডিংই এখন ভারতের নতুন মাথাব্যথার কারণ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcE0wNVNaUWxrMTlCQkpQaXBYSE1mVGx4M01PdUV3WjBzR3V3ZmZwWXdsdlNaaVRxMUxvNGQweUtWWnVBVllIdjgxUzRjNERrbEJXWmM0ZlFIbFBndThZRWl2NTY3OERRYUtYb2FUTDNyRDQwcnhSb0NTQ1RUMjF1YlRVeHctNVlrREtnN3Y1MmdGNEo3NWYtbkp6U0k0RjVrWGtmbXhjUEVLTFAySWZ6b25WeUhmN3VhRm5qVnZ5VkpQVmFLdGN1MjF30gHPAUFVX3lxTE03alJRWnd6VVk0cFBXUmduLTFYUkJEaVVTeUNoOGZuNGM3dXNtYWMtRnJCaFRZbnRVRUpmdVk1cVU3SmxQaTZOclg2R1N1TmQ0d09RMmFhT2NjY2FvM1pTWmswUy04STZPc2VBTjhqa3Y2NlpuWUpIdzhmN1RLVmg5Ylh1SmN5VGh1ZC1ka3JWaHREM09POVpxUmxEZzl0ampuRmJDeDlTcXZpd0FiYkRqX3V6cDJRWWhQSEsyR3dVeTM0emxNZEpmRmNzaU9uUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-09T13:49:44+00:00"
+          },
+          {
             "title": "মির্জা ফখরুলই কি বঙ্গভবনের নতুন বাসিন্দা হচ্ছেন?",
             "link": "https://www.bbc.com/bengali/articles/cz05njy0ndxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1447,67 +1496,18 @@
             "published": "2026-08-09T13:49:02+00:00"
           },
           {
-            "title": "আসাদের লুকিয়ে থাকা গোয়েন্দাপ্রধানের খোঁজ জানালো একটি ফোনবুক",
-            "link": "https://www.bbc.com/bengali/articles/cd9wewqn9x7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "ঝাড়খণ্ডে সিবিআই নয়, ইডির তদন্তে রাজি হেমন্তের সরকার! অনড় প্রতিবাদীরা, ছাত্রবিক্ষোভ অব্যাহত রাখার ঘোষণা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGxwLXpsaTJGUnpZWnBaaXFqd1FaSjBQSnJ5YWJGR1k3ZXhwd3BjVm0ySEQ0LUFwMVRsV2xKNFRrMEl0aWdnOG5iOTM2eFlHbVVodEVJM1oxUms5M1YtUUFmdFdUeHAxeWVwNUdwd29rYlh1QmZXMWFfaFk1M0g5S1l1ZnZRWU1vWXRGOC1IYnhoRDZfM1pWQUFzUzF3UFB2VWxLZVBpRTQyU3hwM3VMTURqb1diVjFlcDVXMnFmN0xOLTNpaGNiREpVc2dSNmFBTUttTzdkU0JWRVl0Z0tj0gHkAUFVX3lxTFA4ekw4VEc3T2l1b3BCNXdBSGtZNHd1RlYtX0JobjlRYlFEdkZtcnNBV3BITG9wdXQwX3ZxU3pGUUtJaElDbnJiX3cwczRCXzVuVnduZnF5WC1mMTB5eURJc2V2SWRQMG5CNmRybUo2bU4tb0ZpR291UVFFQ2dHU2FnRV9XM0FkTlF5SlhjZWw1Ukl4UWRkcC1aWG00Q0gxWXJaUVNINmxTYlpWS3VSbExMcF96Ull4WVlQMThKcjA3SV9FZVNIVkRVcFl6ZDhLWmZoQnNvWnB2NDBYaFRMaTUyenFqeA?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-09T10:26:54+00:00"
+            "published": "2026-08-09T13:38:31+00:00"
           },
           {
-            "title": "ওষুধের দাম নিয়ে ৩২ বছরের পুরোনো নীতিতে ফেরার যৌক্তিকতা নিয়ে প্রশ্ন",
-            "link": "https://www.bbc.com/bengali/articles/crl74rnwl02o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "অর্ধশতরান যশস্বীর, ব্যাট করলেন শুভমনও, প্রস্তুতি ম্যাচে ব্যাটিং ঝালিয়ে নিল ভারত, সিরাজের দাপটে জয় ছয় উইকেটে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVFFqZ0lDRWhLaFlfXzg4azVMX2wtSWpaRHhxYl9VRjZiS2hXM1doWTkwR3V1VmNFd1dkUzVBbVRoUGtkNTZpVFp2Ry1rQTJqWUR0a3N6V2JhXy1ZaGptMHl1NTl1c0tXVkIxT0lpc2daSzV2WlBWS1RkX1V5QzJlRVRwVlNTNS02QmZWVFpPNzhzNUJwaDdISUw5T3pGa0hUMjlIYkxOOVVEVjdWQ2VzR0N1Rlo3aElDWnpPUVBsZmQ0MnJOY2FTWm1qLWdoOWM5NUlnc0E1M0Y2X05FZDVhZlB30gHnAUFVX3lxTE1sVDR4OVJZMDRSSzY4TXlEem5yMXVKeDlVdXptM2FOLTY3clBUUkV2MjhSY2NuQXhtV2daSVpyZlVOM3V6c2lIVWlKRW01N2JqN2FsNVJWcC1OcEZJb3VKamZ0R2dhVzRnTC1SX3FsamNhcEJiR1dkdndsZHhnck5kVmdiT1RmVEdTYVJ6YXl0eUFHU21RWVNhbEtTRnE5SnZieVlJWGl2MngwTUlIWXB2SUNpWC1qeVIyNy1UaThVZlBFSDRuQ2dOQW81WWNVNVRWTVRxX3RyWWpqWktBOEVZRzhudEROWQ?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-09T06:15:09+00:00"
-          },
-          {
-            "title": "হরমুজ প্রণালি নিয়ে আলোচনা ইতিবাচক বলছে ওমান, তবে চুক্তি হলেও এখনই খুলবে না হরমুজ - সতর্কতা ইরানের",
-            "link": "https://www.bbc.com/bengali/articles/cvg8jvw2q78o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-09T04:20:41+00:00"
-          },
-          {
-            "title": "পত্রিকা: 'কে হচ্ছেন প্রেসিডেন্ট জানেন শুধু প্রধানমন্ত্রী'",
-            "link": "https://www.bbc.com/bengali/articles/ceqevjyvn7qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-09T02:57:41+00:00"
-          },
-          {
-            "title": "শেখ হাসিনা ইস্যুতে বাংলাদেশ-ভারত সম্পর্কে টানাপোড়েন কি বাড়ছে?",
-            "link": "https://www.bbc.com/bengali/articles/cvgxrj5l2z7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-09T01:45:04+00:00"
-          },
-          {
-            "title": "শেখ হাসিনার পতনের পর সরকারবিহীন তিনদিন কী কী ঘটেছিল",
-            "link": "https://www.bbc.com/bengali/articles/c629z22jz4zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-08T10:33:05+00:00"
-          },
-          {
-            "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
-            "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-08T02:00:03+00:00"
-          },
-          {
-            "title": "শেখ হাসিনাকে নিয়ে কি দিল্লির অস্বস্তি বেড়েছে?",
-            "link": "https://www.bbc.com/bengali/articles/ce971g4k0n8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-06T14:29:53+00:00"
-          },
-          {
-            "title": "কোন কোন মাছে মাইক্রোপ্লাস্টিক পেয়েছেন গবেষকরা",
-            "link": "https://www.bbc.com/bengali/articles/cn4n1y5141zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-06T10:19:08+00:00"
+            "published": "2026-08-09T13:24:13+00:00"
           }
         ]
       }
