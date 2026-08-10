@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-08-10T11:01:24.575253+00:00",
+  "updated_at": "2026-08-10T11:17:29.701412+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
+            "published": "2026-08-10T11:14:51+00:00"
+          },
+          {
+            "title": "‘Will pure petrol come from your father’s house?’: BJP MP on ethanol blending; faces backlash",
+            "link": "https://www.thehindu.com/news/national/will-pure-petrol-come-from-your-fathers-house-bjp-mp-janardan-mishra-defends-ethanol-policy/article71327064.ece",
+            "source": "The Hindu",
+            "summary": "The BJP leader claimed that while the move is being protested in India, Brazil was making “100%” ethanol blended fuel and “all vehicles are running on it”",
+            "published": "2026-08-10T16:34:02+05:30"
+          },
+          {
+            "title": "Tamil Nadu Forest Department steps up efforts to identify carnivore that attacked and killed man in Gudalur",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-forest-department-steps-up-efforts-to-identify-carnivore-that-attacked-and-killed-man-in-gudalur/article71327699.ece",
+            "source": "The Hindu",
+            "summary": "The Forest Department said that eight camera traps had been placed around the site of the attack to identify the animal",
+            "published": "2026-08-10T16:33:42+05:30"
+          },
+          {
+            "title": "Kerala government to launch coconut rejuvenation project to boost productivity, says Agriculture Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-government-to-launch-coconut-rejuvenation-project-to-boost-productivity-says-agriculture-minister/article71327961.ece",
+            "source": "The Hindu",
+            "summary": "To address low productivity, high-yielding coconut seedlings will be distributed to farmers, says the Minister",
+            "published": "2026-08-10T16:32:32+05:30"
+          },
+          {
+            "title": "Jharkhand students protest LIVE: Protestors reach State Assembly premises; police use tear gas, water cannons",
+            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-10-2026/article71326913.ece",
+            "source": "The Hindu",
+            "summary": "Jharkhand CID arrests ex-JPSC chairperson over irregularities in recruitment exams; Mr. Khiangte had been questioned four times since July 28.",
+            "published": "2026-08-10T16:31:28+05:30"
+          },
+          {
             "title": "Calcutta High Court tells police to give former TMC MLA Asit Majumder list of pending cases, if any",
             "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-tells-police-to-give-former-tmc-mla-asit-majumder-list-of-pending-cases-if-any/article71327937.ece",
             "source": "The Hindu",
             "summary": "Justice Saugata Bhattacharyya directed the Commissioner of Chandannagar Police Commissionerate to provide him a list of criminal prosecutions, if any, pending against him",
-            "published": "2026-08-10T16:27:16+05:30"
+            "published": "2026-08-10T16:29:52+05:30"
+          },
+          {
+            "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+            "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
+            "published": "2026-08-10T10:55:38+00:00"
           },
           {
             "title": "Tamil Nadu mulls raising 7.5% quota for NEET-qualified govt. school students in medical admissions: Health Minister",
@@ -60,57 +102,43 @@
             "source": "The Hindu",
             "summary": "Despite Kerala’s vulnerability to multiple hazards, including floods, landslides, coastal erosion, lightning and cyclonic events, Department-related Parliamentary Standing Committee on Home Affairs finds that gaps persist in last-mile dissemination of early warnings in landslide-prone and remote areas",
             "published": "2026-08-10T16:11:33+05:30"
+          }
+        ],
+        "India": [
+          {
+            "title": "‘Will pure petrol come from your father’s house?’: BJP MP on ethanol blending; faces backlash",
+            "link": "https://www.thehindu.com/news/national/will-pure-petrol-come-from-your-fathers-house-bjp-mp-janardan-mishra-defends-ethanol-policy/article71327064.ece",
+            "source": "The Hindu",
+            "summary": "The BJP leader claimed that while the move is being protested in India, Brazil was making “100%” ethanol blended fuel and “all vehicles are running on it”",
+            "published": "2026-08-10T16:34:02+05:30"
           },
           {
-            "title": "SFI activist accused of attacking ED officials in Kerala detained at Chennai airport",
-            "link": "https://www.thehindu.com/news/national/kerala/sfi-activist-accused-of-attacking-ed-officials-in-kerala-detained-at-chennai-airport/article71327191.ece",
+            "title": "Tamil Nadu Forest Department steps up efforts to identify carnivore that attacked and killed man in Gudalur",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-forest-department-steps-up-efforts-to-identify-carnivore-that-attacked-and-killed-man-in-gudalur/article71327699.ece",
             "source": "The Hindu",
-            "summary": "Adarsh, the 27th accused in the case, had been absconding and managed to travel to the United Arab Emirates on a visit visa; a lookout notice had been issued against him",
-            "published": "2026-08-10T16:09:52+05:30"
+            "summary": "The Forest Department said that eight camera traps had been placed around the site of the attack to identify the animal",
+            "published": "2026-08-10T16:33:42+05:30"
           },
           {
-            "title": "Gurugram penthouse fetches ₹271 crore at ₹2.6 lakh per sq. ft.",
-            "link": "https://www.thehindu.com/business/Industry/gurugram-penthouse-fetches-271-crore-at-26-lakh-per-sq-ft/article71327537.ece",
+            "title": "Kerala government to launch coconut rejuvenation project to boost productivity, says Agriculture Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-government-to-launch-coconut-rejuvenation-project-to-boost-productivity-says-agriculture-minister/article71327961.ece",
             "source": "The Hindu",
-            "summary": "Entrepreneur Manav Sardana purchases 10,500 sq. ft. property at DLF’s The Dahlias, making it among India’s most expensive deals.",
-            "published": "2026-08-10T16:08:06+05:30"
+            "summary": "To address low productivity, high-yielding coconut seedlings will be distributed to farmers, says the Minister",
+            "published": "2026-08-10T16:32:32+05:30"
           },
           {
             "title": "Jharkhand students protest LIVE: Protestors reach State Assembly premises; police use tear gas, water cannons",
             "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-10-2026/article71326913.ece",
             "source": "The Hindu",
             "summary": "Jharkhand CID arrests ex-JPSC chairperson over irregularities in recruitment exams; Mr. Khiangte had been questioned four times since July 28.",
-            "published": "2026-08-10T16:07:32+05:30"
+            "published": "2026-08-10T16:31:28+05:30"
           },
-          {
-            "title": "Thames Water gave finance boss a £1m signing-on fee",
-            "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-            "published": "2026-08-10T10:35:47+00:00"
-          },
-          {
-            "title": "Collectorate staff’s death and doctor’s illness take a political turn in Kerala after Pinarayi Vijayan’s social media post",
-            "link": "https://www.thehindu.com/news/national/kerala/collectorate-staffs-death-and-doctors-illness-take-a-political-turn-in-kerala-after-pinarayi-vijayans-social-media-post/article71327422.ece",
-            "source": "The Hindu",
-            "summary": "Kerala Leader of the Opposition’s Facebook post links the two incidents to alleged harassment of government employees by UDF",
-            "published": "2026-08-10T16:05:07+05:30"
-          },
-          {
-            "title": "Russia’s share in India’s oil imports jumps to all-time high of 48%, even as U.S. readies 100% tariffs",
-            "link": "https://www.thehindu.com/business/Industry/russias-share-in-indias-oil-imports-jump-to-all-time-high-of-48-despite-100-tariffs-threat-from-us/article71327681.ece",
-            "source": "The Hindu",
-            "summary": "The U.S. Senate has passed a bill that will see tariffs of up to 100% being levied on top 5 countries importing Russian oil and gas; the Bill now awaits passage in the House of Representatives",
-            "published": "2026-08-10T16:04:43+05:30"
-          }
-        ],
-        "India": [
           {
             "title": "Calcutta High Court tells police to give former TMC MLA Asit Majumder list of pending cases, if any",
             "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-tells-police-to-give-former-tmc-mla-asit-majumder-list-of-pending-cases-if-any/article71327937.ece",
             "source": "The Hindu",
             "summary": "Justice Saugata Bhattacharyya directed the Commissioner of Chandannagar Police Commissionerate to provide him a list of criminal prosecutions, if any, pending against him",
-            "published": "2026-08-10T16:27:16+05:30"
+            "published": "2026-08-10T16:29:52+05:30"
           },
           {
             "title": "Tamil Nadu mulls raising 7.5% quota for NEET-qualified govt. school students in medical admissions: Health Minister",
@@ -160,37 +188,16 @@
             "source": "The Hindu",
             "summary": "Adarsh, the 27th accused in the case, had been absconding and managed to travel to the United Arab Emirates on a visit visa; a lookout notice had been issued against him",
             "published": "2026-08-10T16:09:52+05:30"
-          },
-          {
-            "title": "Gurugram penthouse fetches ₹271 crore at ₹2.6 lakh per sq. ft.",
-            "link": "https://www.thehindu.com/business/Industry/gurugram-penthouse-fetches-271-crore-at-26-lakh-per-sq-ft/article71327537.ece",
-            "source": "The Hindu",
-            "summary": "Entrepreneur Manav Sardana purchases 10,500 sq. ft. property at DLF’s The Dahlias, making it among India’s most expensive deals.",
-            "published": "2026-08-10T16:08:06+05:30"
-          },
-          {
-            "title": "Jharkhand students protest LIVE: Protestors reach State Assembly premises; police use tear gas, water cannons",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-10-2026/article71326913.ece",
-            "source": "The Hindu",
-            "summary": "Jharkhand CID arrests ex-JPSC chairperson over irregularities in recruitment exams; Mr. Khiangte had been questioned four times since July 28.",
-            "published": "2026-08-10T16:07:32+05:30"
-          },
-          {
-            "title": "Collectorate staff’s death and doctor’s illness take a political turn in Kerala after Pinarayi Vijayan’s social media post",
-            "link": "https://www.thehindu.com/news/national/kerala/collectorate-staffs-death-and-doctors-illness-take-a-political-turn-in-kerala-after-pinarayi-vijayans-social-media-post/article71327422.ece",
-            "source": "The Hindu",
-            "summary": "Kerala Leader of the Opposition’s Facebook post links the two incidents to alleged harassment of government employees by UDF",
-            "published": "2026-08-10T16:05:07+05:30"
-          },
-          {
-            "title": "Russia’s share in India’s oil imports jumps to all-time high of 48%, even as U.S. readies 100% tariffs",
-            "link": "https://www.thehindu.com/business/Industry/russias-share-in-indias-oil-imports-jump-to-all-time-high-of-48-despite-100-tariffs-threat-from-us/article71327681.ece",
-            "source": "The Hindu",
-            "summary": "The U.S. Senate has passed a bill that will see tariffs of up to 100% being levied on top 5 countries importing Russian oil and gas; the Bill now awaits passage in the House of Representatives",
-            "published": "2026-08-10T16:04:43+05:30"
           }
         ],
         "World": [
+          {
+            "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+            "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
+            "published": "2026-08-10T10:55:38+00:00"
+          },
           {
             "title": "June and July hottest on record in Western Europe, monitor says",
             "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
             "published": "2026-08-10T09:09:08+00:00"
-          },
-          {
-            "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-08-10T08:44:34+00:00"
           }
         ],
         "Business": [
@@ -292,6 +292,13 @@
             "published": "2026-08-10T09:57:54+00:00"
           },
           {
+            "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
+            "source": "Economic Times",
+            "summary": "Five global oil majors — Exxon Mobil, Chevron, BP, Shell and TotalEnergies — posted a combined $48 billion profit in Q2, benefiting from oil prices surging above $100 a barrel amid US-Iran hostilities. Their combined cash generation hit a record $90 billion, surpassing levels seen after Russia’s 2022 invasion of Ukraine. The bumper profits also drew criticism from US President Donald Trump over high fuel prices.",
+            "published": "2026-08-10T13:36:24+05:30"
+          },
+          {
             "title": "PFC shares tumble 5% to 4-month low after weak Q1 earnings. Why Motilal Oswal still recommends Buy",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-shares-tumble-5-to-4-month-low-after-weak-q1-earnings-why-motilal-oswal-still-recommends-buy/articleshow/133087726.cms",
             "source": "Economic Times",
@@ -306,34 +313,6 @@
             "published": "2026-08-10T11:30:48+05:30"
           },
           {
-            "title": "Aarti Pharmalabs shares hit 20% upper circuit as Q1 net profit surges 65% YoY to Rs 76 crore",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-hit-20-upper-circuit-as-q1-net-profit-surges-65-yoy-to-rs-76-crore/articleshow/133086824.cms",
-            "source": "Economic Times",
-            "summary": "Aarti Pharmalabs shares hit the 20% upper circuit after the company reported a 65.4% year-on-year rise in Q1 FY27 net profit to Rs 76.14 crore. Revenue surged 38.7% to Rs 535.79 crore, while the company also approved a Rs 149-crore capex plan to expand manufacturing capacity.",
-            "published": "2026-08-10T11:27:21+05:30"
-          },
-          {
-            "title": "Hitachi Energy jumps 7% after Q1 results. Here's why Nomura initiated coverage on stock",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-jumps-7-after-q1-results-heres-why-nomura-initiated-coverage-on-stock/articleshow/133086376.cms",
-            "source": "Economic Times",
-            "summary": "Hitachi Energy India shares jumped over 7% after the company reported a 123.5% YoY rise in Q1 FY26 profit. Nomura initiated coverage with a Buy rating and Rs 40,030 target, citing strong order inflows, rising T&D demand and multiple growth opportunities.",
-            "published": "2026-08-10T11:19:22+05:30"
-          },
-          {
-            "title": "Dynamatic Technologies shares soar 9% after Q1 profit jumps 93% YoY to Rs 21 crore; outlook stays strong",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-shares-soar-9-after-q1-profit-jumps-93-yoy-to-rs-21-crore-outlook-stays-strong/articleshow/133085993.cms",
-            "source": "Economic Times",
-            "summary": "Dynamatic Technologies shares surged 12% after the company reported a near-doubling in Q1 FY27 net profit to Rs 20.79 crore. Revenue rose 14.5% year-on-year to Rs 424.81 crore, while EBITDA jumped 45.9% to Rs 55.11 crore. EBITDA margin expanded 280 basis points to 13%, with EBIT rising 83.7% and EBIT margin improving 310 basis points.",
-            "published": "2026-08-10T11:12:40+05:30"
-          },
-          {
-            "title": "Cupid shares fall 2% even as Q1 profit jumps 3x. What’s ahead for multibagger stock that rose 680% in a year?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-fall-2-even-as-q1-profit-jumps-3x-whats-ahead-for-multibagger-stock-that-rose-680-in-a-year/articleshow/133085241.cms",
-            "source": "Economic Times",
-            "summary": "Cupid shares fell on Monday despite a threefold rise in Q1 FY27 profit to Rs 44 crore, as revenue surged 159% and EBITDA jumped 265%. The multibagger stock has gained 150% in 2026 and 683% over the past year. The company has also raised its FY27 revenue and profit guidance.",
-            "published": "2026-08-10T10:48:12+05:30"
-          },
-          {
             "title": "'You could smell someone' who worked at Raleigh",
             "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -346,6 +325,27 @@
             "source": "BBC Business",
             "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
             "published": "2026-08-10T05:00:32+00:00"
+          },
+          {
+            "title": "Sensex closes almost flat, Nifty ends above 24,580. What lies ahead?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-hold-steady-as-earnings-offset-oil-worries/articleshow/133080723.cms",
+            "source": "Economic Times",
+            "summary": "Indian stock markets closed nearly unchanged as strong earnings countered Middle East worries. The Sensex and Nifty saw minimal gains while broader markets showed mixed performance. Titan shares led Sensex gainers, while SBI shares experienced a notable decline. Geopolitical uncertainty tempered risk appetite, though corporate results offered support. Analysts suggest a cautious technical outlook within a defined…",
+            "published": "2026-08-10T09:34:05+05:30"
+          },
+          {
+            "title": "How Rakesh Jhunjhunwala's old Tata bet created Rs 80,000 crore wealth after two years of flat returns",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-rakesh-jhunjhunwalas-old-tata-bet-created-rs-80000-crore-wealth-after-two-years-of-flat-returns/articleshow/133079774.cms",
+            "source": "Economic Times",
+            "summary": "In 2026 so far, Titan has experienced a remarkable surge in market value, driven by consistent jewellery demand and the rise of organized players. The company's robust performance can be attributed to the effective strategies employed by Tanishq and CaratLane. Moreover, Titan is expanding beyond jewellery into watches and eyecare. This promising trajectory is further reinforced by strong Q1 earnings, boosting…",
+            "published": "2026-08-10T09:04:57+05:30"
+          },
+          {
+            "title": "How Adani’s $125 billion capex boom is creating new winners on Dalal Street",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-adanis-125-billion-capex-boom-is-creating-new-winners-on-dalal-street/articleshow/133079045.cms",
+            "source": "Economic Times",
+            "summary": "Adani Group's massive investments in infrastructure are proving advantageous for various publicly traded companies. These affiliates are not only seeing significant growth in their order books but also witnessing an upsurge in stock valuations. With a focus on expansion, Adani considers these businesses as essential collaborators, driving progress in the engineering and technology sectors and transforming revenue…",
+            "published": "2026-08-10T08:37:33+05:30"
           },
           {
             "title": "Could your tattoo stop you from getting a job?",
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+            "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
+            "published": "2026-08-10T11:14:51+00:00"
+          },
+          {
             "title": "Olympic gold medallist Tabby Stoecker joins Strictly line-up",
             "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
             "published": "2026-08-08T17:23:31+00:00"
-          },
-          {
-            "title": "Siân Phillips to step back from acting aged 93 after memory issues",
-            "link": "https://www.bbc.co.uk/news/articles/cg5lgm07l35o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Sian Phillips will step back from full-scale stage shows but continue other projects.",
-            "published": "2026-08-08T10:09:49+00:00"
           }
         ]
       }
@@ -626,6 +626,13 @@
       "label": "हिन्दी",
       "categories": {
         "Top Stories": [
+          {
+            "title": "रांची पुलिस ने बताया प्रदर्शनकारियों पर क्यों आंसू गैस के गोले दागे और लाठीचार्ज किया",
+            "link": "https://www.bbc.com/hindi/articles/cpd78d71zlgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-10T11:04:06+00:00"
+          },
           {
             "title": "दिल्ली CM रेखा गुप्ता का बड़ा तोहफा, 9वीं की 200 छात्राओं को मिली साइकिल, क्या है Vidya Vahini Yojana?",
             "link": "https://hindi.oneindia.com/news/delhi/delhi-cm-rekha-gupta-distributed-bicycles-to-200-class-9-girls-what-is-vidya-vahini-yojana-1626153.html",
@@ -681,13 +688,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-10T15:30:33+05:30"
-          },
-          {
-            "title": "झारखंड स्टूडेंट प्रोटेस्ट: पुलिस ने आंसू गैस के गोले दागे, कुछ प्रदर्शनकारी घायल भी हुए",
-            "link": "https://www.bbc.com/hindi/articles/cpd78d71zlgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-10T09:34:02+00:00"
           },
           {
             "title": "MP News: 'बोल कांवड़िया, बोल बम...' सीएम डॉ. मोहन यादव ने कांवड़ियों पर बरसाए फूल, बजाया डमरू",
@@ -853,7 +853,7 @@
             "published": "2026-08-10T04:40:34+00:00"
           },
           {
-            "title": "ઝારખંડમાં વિદ્યાર્થીઓ પર લાઠીચાર્જ, ટીયર ગેસના શેલ છોડ્યા:વિધાનસભાથી 100 મીટર નજીક પહોંચ્યા, બેરિકેડિંગ તોડવાનો પ્રયાસ; JPSCના પૂર્વ ચેરમેનની ધરપકડ",
+            "title": "ઝારખંડ વિધાનસભા કેમ્પસમાં ઘૂસ્યા આંદોલનકારી વિદ્યાર્થીઓ, બેરિકેડિંગ તોડી:પોલીસે લાઠીચાર્જ કર્યો, ટીયર ગેસના શેલ છોડ્યા; JPSCના પૂર્વ અધ્યક્ષની ધરપકડ",
             "link": "https://www.divyabhaskar.co.in/national/news/jharkhand-students-protest-jssc-cgl-cbi-probe-ranchi-assembly-gherao-138683412.html",
             "source": "Divya Bhaskar",
             "summary": "ઝારખંડની રાજધાની રાંચીમાં JPSC અને JSSC પરીક્ષાઓમાં થયેલી કથિત ગેરરીતિઓના વિરોધમાં વિદ્યાર્થીઓનો આક્રોશ ચરમસીમા પર પહોંચ્યો છે. હજારોની સંખ્યામાં એકઠા થયેલા વિદ્યાર્થીઓ વિધાનસભાનો ઘેરાવ કરવા માટે આગળ વધી રહ્યા છે, પરંતુ વહીવટીતંત્ર દ્વારા તેમને રોકવા માટે રસ્તાઓ પર કાંટાળા તારના બેરિકેડિંગ કરવામાં આવ્યા છે. આ આંદોલનમાં ભૂખ હડતાળ પર ઉતરેલા દેવેન્દ્રનાથ મહતો પણ એમ્બ્યુલન્સ દ્વારા જોડાયા છે, જે સરકાર પર દબાણ વધારવાનો પ્રયાસ કરી રહ્યા છે. રવિવાર રાતથી જ પાંચ હજારથી વધુ વિદ્યાર્થીઓ આ વિરોધ પ્રદર્શનમાં સામેલ થયા છે. દરમિયાન, ભારતીય જનતા પાર્ટીના ધારાસભ્યો પણ વિદ્યાર્થીઓના સમર્થનમાં મુખ્યમંત્રી આવાસની બહાર ધરણા પર બેઠા હતા, જોકે પોલીસે તેમને ત્યાંથી હટાવ્યા હતા. આ ઘટનાક્રમ રાજ્યની વર્તમાન રાજકીય અસ્થિરતા અને યુવાનોના શિક્ષણ તેમજ રોજગાર પ્રત્યેના સરકારના અભિગમ પર ગંભીર પ્રશ્નો ઉભા કરે છે. વિદ્યાર્થીઓ સતત પોતાની માંગણીઓ માટે અડગ છે અને આ વિરોધ પ્રદર્શન આવનારા સમયમાં વધુ ઉગ્ર બને તેવી શક્યતા છે, કારણ કે લાખો ઉમેદવારોના ભવિષ્ય સાથે જોડાયેલો આ ગંભીર મુદ્દો હવે રાજ્યમાં એક મોટું આંદોલન બની ચૂક્યું છે.",
@@ -1072,18 +1072,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "బాలినేని Vs దామచర్ల వివాదం వేళ హైకమాండ్ కీలక ఆదేశాలు - ఇక నుంచి..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/tdp-janasena-leadership-issues-crucial-directions-to-balineni-damacharla-amidst-war-of-words-details-501027.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-10T16:33:13+05:30"
+          },
+          {
+            "title": "శ్రీశైలం ఎలివేటెడ్ కారిడార్‌ పై కేంద్రం కీలక నిర్ణయం - ఇక కొత్తగా..!!",
+            "link": "https://telugu.oneindia.com/news/telangana/centre-approves-four-laning-of-srisailam-elevated-corridor-on-nh-765-through-nallamala-forest-detail-501031.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-10T16:31:39+05:30"
+          },
+          {
             "title": "కొత్త స్కీమ్ ఎఫెక్ట్.. సగానికి పైగా కూలీలకు దక్కని పని!",
             "link": "https://telugu.oneindia.com/news/india/huge-50-percent-decline-in-rural-employment-generation-after-transition-to-vb-g-ram-g-scheme-501029.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-10T16:17:59+05:30"
-          },
-          {
-            "title": "బాలినేని Vs దామచర్ల వివాదం వేళ హైకమాండ్ కీలక ఆదేశాలు - ఇక నుంచి..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/tdp-janasena-leadership-issues-crucial-directions-to-balineni-damacharla-amidst-war-of-words-details-501027.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-10T16:17:51+05:30"
           },
           {
             "title": "ఝార్ఖండ్ విద్యార్థుల ఆందోళన: టియర్ గ్యాస్ ప్రయోగించిన పోలీసులు, సీజేపీ ఏమందంటే..",
@@ -1100,7 +1107,7 @@
             "published": "2026-08-10T16:10:04+05:30"
           },
           {
-            "title": "Hyderabad News: ఇంటి ముందు పార్కింగ్‌ చేసిన కారులో మంటలు.. పూర్తిగా దగ్ధం - eenadu.net",
+            "title": "Hyderabad News: ఇంటి ముందు పార్కింగ్‌ చేసిన కారులో మంటలు.. పూర్తిగా దగ్ధం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmMtdkU4NEQ2cFp4YkRnZl9pYmpOcU9TQmZXNC0telc1RVBMSW94S0d4WEtrQXdIbEozRWIzdnh4U1hTRGxSZG5IdU00NzlZOWJ5dGxnZUdNOTF1MHVndUdINUtqNnJSOXd3NGxHRXRaX2pidDdYc0xrLTc0aXh0X3lxYnFUQkZUZjRSalhIU0xBbHJ1dy1VVUF2TnF4d2tubWh4OEdBWWZPYzjSAasBQVVfeXFMTnJjLXZFODRENnBaeGJEZ2ZfaWJqTnFPU0JmVzQtLXpXNUVQTElveEtHeFhLa0F3SGxKM0ViM3Z4eFNYU0RsUmRuSHVNNDc5WTlieXRsZ2VHTTkxdTB1Z3VHSDVLajZyUjl3dzRsR0V0Wl9qYnQ3WHNMay03NGl4dF95cWJxVEJGVGY0UmpYSFNMQWxydXctVVVBdk5xeHdrbm1oeDhHQVlmT2M4?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1133,13 +1140,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-10T10:09:57+00:00"
-          },
-          {
-            "title": "Revanth Reddy: వరుణయాగం పూర్ణాహుతిలో పాల్గొన్న సీఎం రేవంత్ రెడ్డి దంపతులు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzBlUE5udE1zanVMbWpoaFM3R3FOOW4yTWNZOTFSd3p0eXFETXBhTG1pVUdTWFphZjA3eDhsd1VoVG13NG5WVHJvY1JfdjJxRHZfUnAxaGk1TWFwbkxPdklXcTNkMkp5RTgtSlFFUE9wUlhMSUN1YWx0eEVES2lLVFcwM3dMYmFTR2hsYlFUUVhCSVBBcF94VjlhbWvSAZwBQVVfeXFMTVMwZVBObnRNc2p1TG1qaGhTN0dxTjluMk1jWTkxUnd6dHlxRE1wYUxtaVVHU1haYWYwN3g4bHdVaFRtdzRuVlRyb2NSX3YycUR2X1JwMWhpNU1hcG5MT3ZJV3EzZDJKeUU4LUpRRVBPcFJYTElDdWFsdHhFREtpS1RXMDN3TGJhU0dobGJRVFFYQklQQXBfeFY5YW1r?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-10T10:07:11+00:00"
           },
           {
             "title": "AP SIR: ఉద్యోగుల బదిలీలపై సర్కార్ కీలక నిర్ణయం-జీవో జారీ..!",
@@ -1440,6 +1440,13 @@
             "published": "2026-08-10T09:59:08+00:00"
           },
           {
+            "title": "আজকের দিন বৃষ রাশি- ১০ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlUyd2JQRXhFZXdodDZySlFYdWNtaHMzMjhveWpWX2xuRU13OHdjTER1TDlxdXdCSG9MSHFYRGRUQkNIMmlETWlIeTBWZzJuZk9BbTJXUzRla1h0X3lTRmZaTnVzZXFCeklVZXhDM2N3WEhDRDdTVHo5Q1NCMVlZd3A3MmdWMzR4SWZiVHhOQlFUUkRrT09JSXQzOS16bFNzdXZwMjB2Qm5JeHdhclFCYjhB0gG3AUFVX3lxTE5PRVh1SWpDcDR3RXkxMnNRemVzamVfa2NOZmJUdUQ3YlRWMl9Yb001RGpNRmdUX3o0MnlFWGgxWURFcXktbkphM2xCb2RTa0xzN1Z6MU1pRW05ZUtsWExzeG5KZTJSSkVWUm1CbkNnOFMwN1N0eUUzaTJiQTFTU1ZtUmZMNjAxMlU4ejZFV3lUQjZVN0FJdTZMUzVyWFczVFFJOTVHd1pZN0NFMXZQeGRkT0hqd1pDRQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-10T09:40:54+00:00"
+          },
+          {
             "title": "প্রধানমন্ত্রী তারেক রহমানের সাথে ভারতীয় হাইকমিশনারের সাক্ষাতে কী হলো",
             "link": "https://www.bbc.com/bengali/articles/cy071r5plzno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-10T06:28:12+00:00"
-          },
-          {
-            "title": "সৌদি আরবে আগুনে ১৬ বাংলাদেশি নিহত, চুল কাটতে গিয়ে বেঁচে গেছেন হাবিবুর",
-            "link": "https://www.bbc.com/bengali/articles/c8xny01g1eyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "সৌদি আরবে একটি মর্মান্তিক অগ্নিকাণ্ডের ঘটনায় মোট ১৬ জন বাংলাদেশি শ্রমিকের মৃত্যু হয়েছে। সংশ্লিষ্ট কারখানায় মোট ১৭ জন বাংলাদেশি কর্মী নিয়োজিত ছিলেন, যার মধ্যে একমাত্র হাবিবুর নামের একজন ব্যক্তি প্রাণে বেঁচে গেছেন। ঘটনার দিন স্থানীয় সময় দুপুর দেড়টার দিকে তিনি চুল কাটার জন্য কারখানার বাইরে একটি সেলুনে গিয়েছিলেন। কাকতালীয়ভাবে সেই সময়েই কারখানায় আগুন লেগে যায় এবং তার সহকর্মীরা ভেতরে আটকা পড়েন। চুল কাটাতে যাওয়াই তার জন্য আক্ষরিক অর্থে জীবন রক্ষাকারী হিসেবে কাজ করেছে। এই ঘটনাটি অত্যন্ত দুঃখজনক এবং এর মাধ্যমে প্রবাসে কর্মরত বাংলাদেশি কর্মীদের নিরাপত্তাহীনতার চিত্রটি আবারও প্রকট হয়ে উঠল। এক মুহূর্তের অনুপস্থিতি কীভাবে একজনের জীবন বাঁচিয়ে দিল, তা যেমন বিস্ময়কর, তেমনি সহকর্মীদের হারিয়ে ফেলাটা তার জন্য মানসিকভাবে বড় আঘাত। এই অগ্নিকাণ্ডের কারণ এবং সেখানে যথাযথ অগ্নিনির্বাপক ব্যবস্থা ছিল কি না, তা নিয়ে এখন বড় প্রশ্ন উঠছে। নিহত ব্যক্তিদের পরিবারের ওপর দিয়ে যে ঝড় বয়ে যাচ্ছে, তা ভাষায় প্রকাশ করার মতো নয়। সরকার এবং সংশ্লিষ্ট দূতাবাসের পক্ষ থেকে দ্রুত এই বিষয়ে তদন্ত করা এবং ক্ষতিপূরণের ব্যবস্থা করা জরুরি হয়ে পড়েছে। প্রবাসে থাকা আমাদের রেমিট্যান্স যোদ্ধাদের এমন অকাল মৃত্যু পুরো দেশের জন্যই বড় এক ক্ষতির কারণ হয়ে দাঁড়িয়েছে।",
-            "published": "2026-08-10T06:04:16+00:00"
           }
         ]
       }
