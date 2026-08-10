@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-08-10T23:01:31.277710+00:00",
+  "updated_at": "2026-08-10T23:09:58.186754+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+            "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+            "published": "2026-08-10T23:03:52+00:00"
+          },
+          {
+            "title": "‘We’re reducing them’: Trump targets childhood vaccine schedule, pushes separate MMR jabs",
+            "link": "https://timesofindia.indiatimes.com/world/us/were-reducing-them-trump-targets-childhood-vaccine-schedule-pushes-separate-mmr-jabs/articleshow/133139638.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-11T04:27:20+05:30"
+          },
+          {
             "title": "‘Compulsive addiction to sanctions’: Iran mocks Trump admin's ‘suffocating’ threat",
             "link": "https://timesofindia.indiatimes.com/world/middle-east/compulsive-addiction-to-sanctions-iran-mocks-trump-admins-suffocating-threat/articleshow/133139587.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-11T04:07:02+05:30"
+          },
+          {
+            "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+            "published": "2026-08-10T22:35:48+00:00"
+          },
+          {
+            "title": "BJP, BJD at tug-of-war over employment in Odisha",
+            "link": "https://www.thehindu.com/news/national/odisha/bjp-bjd-at-tug-of-war-over-employment-in-odisha/article71328538.ece",
+            "source": "The Hindu",
+            "summary": "Investment proposals worth approximately ₹21 lakh crore are expected to generate 20 lakh employment opportunities, says Odisha CM Mohan Charan Majhi",
+            "published": "2026-08-11T04:03:28+05:30"
           },
           {
             "title": "Nvidia gets $500bn from major banks to develop AI data centres",
@@ -62,13 +90,6 @@
             "published": "2026-08-10T21:33:51+00:00"
           },
           {
-            "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-            "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-            "published": "2026-08-10T21:33:25+00:00"
-          },
-          {
             "title": "'Vande Mataram' To Be Sung At Red Fort On I-Day For 1st Time. Here's Why",
             "link": "https://www.ndtv.com/india-news/vande-mataram-to-be-sung-at-red-fort-on-independence-day-for-1st-time-heres-why-11892347#publisher=newsstand",
             "source": "NDTV",
@@ -81,36 +102,29 @@
             "source": "Al Jazeera",
             "summary": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
             "published": "2026-08-10T21:29:32+00:00"
-          },
-          {
-            "title": "Number of govt elementary schools down 10,000 in a year",
-            "link": "https://timesofindia.indiatimes.com/india/number-of-govt-elementary-schools-down-10000-in-a-year/articleshow/133137369.cms",
-            "source": "Times of India",
-            "summary": "Meghalaya, Telangana See Sharpest Fall",
-            "published": "2026-08-11T02:48:17+05:30"
-          },
-          {
-            "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
-            "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
-            "published": "2026-08-10T21:15:41+00:00"
-          },
-          {
-            "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-            "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.",
-            "published": "2026-08-10T21:14:16+00:00"
           }
         ],
         "India": [
+          {
+            "title": "‘We’re reducing them’: Trump targets childhood vaccine schedule, pushes separate MMR jabs",
+            "link": "https://timesofindia.indiatimes.com/world/us/were-reducing-them-trump-targets-childhood-vaccine-schedule-pushes-separate-mmr-jabs/articleshow/133139638.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-11T04:27:20+05:30"
+          },
           {
             "title": "‘Compulsive addiction to sanctions’: Iran mocks Trump admin's ‘suffocating’ threat",
             "link": "https://timesofindia.indiatimes.com/world/middle-east/compulsive-addiction-to-sanctions-iran-mocks-trump-admins-suffocating-threat/articleshow/133139587.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-11T04:07:02+05:30"
+          },
+          {
+            "title": "BJP, BJD at tug-of-war over employment in Odisha",
+            "link": "https://www.thehindu.com/news/national/odisha/bjp-bjd-at-tug-of-war-over-employment-in-odisha/article71328538.ece",
+            "source": "The Hindu",
+            "summary": "Investment proposals worth approximately ₹21 lakh crore are expected to generate 20 lakh employment opportunities, says Odisha CM Mohan Charan Majhi",
+            "published": "2026-08-11T04:03:28+05:30"
           },
           {
             "title": "Russia Court Bans Opposition Anti-War Party From Elections",
@@ -174,36 +188,29 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-11T02:36:58+05:30"
-          },
-          {
-            "title": "Three students die of snakebite at Maharashtra school",
-            "link": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece",
-            "source": "The Hindu",
-            "summary": "The incident took place in the early hours of Monday when the snake, a krait, is suspected to have entered the hostel of the Japatlai Residential Ashram School in Dhanora taluka, Gadchiroli",
-            "published": "2026-08-11T02:31:54+05:30"
-          },
-          {
-            "title": "Jharkhand Protest: Police Say \"Mild Lathi-Charge\" Used, 14 Cops Injured",
-            "link": "https://www.ndtv.com/india-news/jharkhand-student-protest-ranchi-police-says-mild-lathi-charge-used-14-cops-injured-11892320#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Police will analyse CCTV footage to identify miscreants who disrupted \"peaceful\" students' protests here on Monday over alleged irregularities in Jharkhand recruitment examinations, officials said.",
-            "published": "2026-08-11T02:31:19+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+            "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+            "published": "2026-08-10T23:03:52+00:00"
+          },
+          {
+            "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+            "published": "2026-08-10T22:35:48+00:00"
+          },
           {
             "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
             "published": "2026-08-10T21:48:23+00:00"
-          },
-          {
-            "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-            "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-            "published": "2026-08-10T21:33:25+00:00"
           },
           {
             "title": "Europe braces for another heatwave after record-breaking temperatures",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.",
             "published": "2026-08-10T19:46:34+00:00"
-          },
-          {
-            "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.",
-            "published": "2026-08-10T19:30:29+00:00"
           }
         ],
         "Business": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ట్రంప్‌ పగ్గాలు చేపట్టాక 1.75 లక్షల వీసాల రద్దు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ZFI3Ny1VLXlFUzhOZUlqWGJ0N3BnbkVQeFZiLXVqbER5RmZnc2FZMlFNX2N2UVVOVW9OZ1Q0SlB0SGJEYXVqOFRtZ2hHS09GbXgtaEpTM2x4R1h0SHlrOFJLOFlqMk1PQzU3Q3pNQm7SAXBBVV95cUxQeWRSNzctVS15RVM4TmVJalhidDdwZ25FUHhWYi11amxEeUZmZ3NhWTJRTV9jdlFVTlVvTmdUNEpQdEhiRGF1ajhUbWdoR0tPRm14LWhKUzNseEdYdEh5azhSSzhZajJNT0M1N0N6TUJu?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-10T23:07:24+00:00"
+          },
+          {
             "title": "Sarla Aviation: డీజీసీఏ నుంచి సర్లా ఏవియేషన్‌కు అనుమతులు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT29PNXpOYkVZRWFDTE9HTmNsNGFacElzVG4tMjU0OHloODlDTWxMVzhjQkFqb0h0aFVEX3Fya0RCemJRWWMxWTBCNTRKOUJqSkF1cXJzckR4LXFEMTRTSnF1MHJ3SWFobXc2c0JMalB1WXFKS0xCVzVMNmQwNHh5MW9UZWliQm5QaE1Da0xxRDh1SHpUYm9waktNS19RQmJF0gGgAUFVX3lxTE9Pb081ek5iRVlFYUNMT0dOY2w0YVpwSXNUbi0yNTQ4eWg4OUNNbExXOGNCQWpvSHRoVURfcXJrREJ6YlFZYzFZMEI1NEo5QmpKQXVxcnNyRHgtcUQxNFNKcXUwcndJYWhtdzZzQkxqUHVZcUpLTEJXNUw2ZDA0eHkxb1RlaWJCblBoTUNrTHFEOHVIelRib3BqS01LX1FCYkU?oc=5",
             "source": "Eenadu",
@@ -1114,6 +1121,13 @@
             "published": "2026-08-10T22:23:00+00:00"
           },
           {
+            "title": "Mahesh Babu: ఈ కలయికపై మరోసారి చర్చ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXJvcS1qVzctZnR2UEpMQ285QWQ4WDZqV0YwU3VEcFoxSGtpa01FMmRLVEtlMk5aemotRW10UEY2UlIzSmFRM3pBV3lZbVRGa3JuQ1ZpODhvNjVyaV9La1UzZllJUk10emtXZU1VazAtTHpPSUl3S1hHMUxqcG5wQUkwRkRITnRONHplRUhmUGZrWE1XTHY5Wk05MFdseG0xeXJIWERzeEJFUdIBqgFBVV95cUxPdXJvcS1qVzctZnR2UEpMQ285QWQ4WDZqV0YwU3VEcFoxSGtpa01FMmRLVEtlMk5aemotRW10UEY2UlIzSmFRM3pBV3lZbVRGa3JuQ1ZpODhvNjVyaV9La1UzZllJUk10emtXZU1VazAtTHpPSUl3S1hHMUxqcG5wQUkwRkRITnRONHplRUhmUGZrWE1XTHY5Wk05MFdseG0xeXJIWERzeEJFUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-10T22:21:39+00:00"
+          },
+          {
             "title": "బిడది వాకిట గౌడ గర్జన - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lcElhZ1dJcDh5ZmFBQ1Jlb1VLenRCNGdnQm9fdXhVX1ZDVmFqZ1IxZk5DYm91bEc2akVIb2ZFMGpPLWRZMzZHZnpkNTFZQ0Vxck4zUkhKMlZUZ0YwZ1E4b01JcmlVM1E5ZUloY0c5SEtUWndMUk9sZV9hc0JmQQ?oc=5",
             "source": "Eenadu",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-10T21:13:06+00:00"
-          },
-          {
-            "title": "ODI World Cup: 2027 వన్డే ప్రపంచకప్‌లో అఫ్గానిస్థాన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFnTmxrX1ZtRGNXYVgtMGJmaVFSV3FZVFZ4Q3dRYlJFYXR0OUFzWXRLQjZPUlE0Ny13TmkwZWNJV2pGNU5KRy1HYzRBOFVrYUdxN1lQU2tRLThzdi1rY0txcXZMWDBHbkpPM3k2SlpwaGFScDFvc2VQTk42NmNMajRSaDc3cWtlQVlvYUdUN19mNU9hMDZULWlmcDJOSzN1V25lQjdUM0xUZ0tXU1HSAa4BQVVfeXFMTmRhZ05sa19WbURjV2FYLTBiZmlRUldxWVRWeEN3UWJSRWF0dDlBc1l0S0I2T1JRNDctd05pMGVjSVdqRjVOSkctR2M0QThVa2FHcTdZUFNrUS04c3Yta2NLcXF2TFgwR25KTzN5NkpacGhhUnAxb3NlUE5ONjZjTGo0Umg3N3FrZUFZb2FHVDdfZjVPYTA2VC1pZnAyTkszdVduZUI3VDNMVGdLV1NR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-10T21:00:40+00:00"
-          },
-          {
-            "title": "బ్రిజ్‌భూషణ్‌పై కుట్ర జరిగింది - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xbE9XVmlNRFU3aGl5cnU4cTdfaUJHZTRLNC1idWstZDZlWklyOXdZUjllenZRZWVaRnY4UjNOem1wS1ZUYjRBdUg0SmY0anRyY2E2bGlfNDlkMkNpb0g4VnI3cWE4TF9iOVpsMTd1b3JYQdIBckFVX3lxTE4xbE9XVmlNRFU3aGl5cnU4cTdfaUJHZTRLNC1idWstZDZlWklyOXdZUjllenZRZWVaRnY4UjNOem1wS1ZUYjRBdUg0SmY0anRyY2E2bGlfNDlkMkNpb0g4VnI3cWE4TF9iOVpsMTd1b3JYQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-10T20:59:00+00:00"
           }
         ],
         "Entertainment": [
