@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-11T19:31:22.975042+00:00",
+  "updated_at": "2026-08-11T19:41:12.993542+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
+            "published": "2026-08-11T19:30:00+00:00"
+          },
           {
             "title": "Kerala requests Centre to reduce waiting period for domestic cooking gas supply during Onam",
             "link": "https://www.thehindu.com/news/national/kerala/kerala-requests-centre-to-reduce-waiting-period-for-domestic-cooking-during-onam/article71332920.ece",
@@ -95,13 +102,6 @@
             "source": "The Hindu",
             "summary": "Parties need to find consensus on the issue before it is discussed in Parliament",
             "published": "2026-08-12T00:38:21+05:30"
-          },
-          {
-            "title": "Jharkhand students' protests updates: Over 100 ABVP workers detained during march to Assembly over police action on students",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-11-2026/article71330994.ece",
-            "source": "The Hindu",
-            "summary": "The detention was made as the Akhil Bharatiya Vidyarthi Parishad members started their procession from the old Vidhan Sabha area in Ranchi, a senior officer said",
-            "published": "2026-08-12T00:33:35+05:30"
           }
         ],
         "India": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
+            "published": "2026-08-11T19:30:00+00:00"
+          },
+          {
             "title": "Redmi Note 17 Review: Big Battery, Big Screen, but What About the Rest?",
             "link": "https://www.gadgets360.com/mobiles/reviews/redmi-note-17-review-11895078",
             "source": "Gadgets 360",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "OpenAI announced the GPT‑5.6‑Cyber model, available through Daybreak Red access. It is designed to handle advanced cybersecurity tasks with fewer refusals. The company states that it has conducted an internal test and outperformed its general-purpose models. The company offered GPT-5.6-Cyber access to trusted customers, who used the model to improve their defensive cybersecurity workflows. The early-access partners…",
             "published": "2026-08-11T17:40:25+05:30"
-          },
-          {
-            "title": "AI agent hacks gym to get its user a spot in pilates class",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-            "published": "2026-08-11T12:09:26+00:00"
           }
         ],
         "Entertainment": [
@@ -627,11 +627,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "रामचंद्र छत्रपति हत्याकांड: हाईकोर्ट के फैसले के खिलाफ सुप्रीम कोर्ट पहुंचे अंशुल, डेरा प्रमुख को नोटिस",
+            "link": "https://www.amarujala.com/haryana/sirsa/ramchandra-chhatrapati-murder-case-anshul-moves-supreme-court-against-high-court-verdict-2026-08-12",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-12T12:55:25+05:30"
+          },
+          {
             "title": "अमर उजाला मां तुझे प्रणाम: आज दून में निकलेगी तिरंगा पदयात्रा, देशभक्ति में नगरवासी करेंगे कदमताल; आप भी आइये",
             "link": "https://www.amarujala.com/dehradun/amar-ujala-maa-tujhe-pranam-a-tiranga-yatra-will-be-held-in-doon-today-2026-08-12",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-12T12:28:12+05:30"
+          },
+          {
+            "title": "मुंबई के विले पार्ले में आग से दो की मौत:4 घायल अस्पताल में भर्ती; मौके पर पहुंची फायर ब्रिगेड; अभी कारण पता नहीं चला",
+            "link": "https://www.bhaskar.com/national/news/mumbai-vile-parle-fire-residential-building-rescue-news-138700429.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-11T19:29:13+00:00"
           },
           {
             "title": "कौन हैं कांग्रेस नेता रामगोपाल अग्रवाल? शराब घोटाले में ED ने किया गिरफ्तार, 7 दिन की कस्टडी में भेजे गए",
@@ -695,20 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-08-11T14:38:44+00:00"
-          },
-          {
-            "title": "कृषि अनुसंधान और नवाचारों का लाभ आम लोगों तक पहुंचाना प्राथमिकता: विजय कुमार सिन्हा",
-            "link": "https://hindi.oneindia.com/news/india/bihar-millet-value-chain-development-with-icrisat-collaboration-012-1627153.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-11T20:01:11+05:30"
-          },
-          {
-            "title": "GenZ की नाराजगी से खतरे में पड़ेगी मोदी की कुर्सी? C-Voter सर्वे ने खोली युवाओं की सोच, किस मुद्दे पर गुस्सा?",
-            "link": "https://hindi.oneindia.com/news/india/c-voter-survey-gen-z-youth-concerns-education-jobs-political-parties-understand-youth-1627147.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-11T19:55:36+05:30"
           }
         ],
         "Entertainment": [
@@ -1086,6 +1086,13 @@
             "published": "2026-08-11T22:50:16+05:30"
           },
           {
+            "title": "Earl of Wessex: రాచనగరు బిడ్డడు.. రైతుగా మారాడు.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFFVNUlBUWd0WlJTbDVTM0dzb0hwQlRPU3ZpaDNtX0RSaFRzaFlacm4wc01uUk9wWlVXdFJwbmFSVFJNT09jellCa1BRaW96SXV0ektQNGN6eEtCZzh2M1hfM21ZMWRPc0Vma0pNSXpJeU40bEIxcDJZWk8tYlFGR1hWTnlEeGkxZ1hpTdIBjAFBVV95cUxQUFFVNUlBUWd0WlJTbDVTM0dzb0hwQlRPU3ZpaDNtX0RSaFRzaFlacm4wc01uUk9wWlVXdFJwbmFSVFJNT09jellCa1BRaW96SXV0ektQNGN6eEtCZzh2M1hfM21ZMWRPc0Vma0pNSXpJeU40bEIxcDJZWk8tYlFGR1hWTnlEeGkxZ1hpTQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-11T16:57:23+00:00"
+          },
+          {
             "title": "Maternity Leave: నాలుగో సంతానం.. ప్రసూతి సెలవులు కుదరదు - అలహాబాద్‌ హైకోర్టు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG00bzFVTGIzQUJGemh6MzJxYUZPNW1YeGVQNWZxLVBldmhCNXZRRHlUQmh0YVV5aHYwb0k1MnFteEZ3YThQd3EyZGlnUXhzT2xFLWN6RFlpbE9xZ2hybkFzejdmSk14VXJJekpCb1RubWxMdFYzZEZiRWRYV2hWTHJISi1idjJuMlc2ZmdxY09aZkU1N0JYY2NJX2pBeS1qNkJVTXM5NXVEWGt2R1FuUkZpV3VlbUdEemUtRG5wZEpWRE96SlhiblFBc9IBywFBVV95cUxPZG00bzFVTGIzQUJGemh6MzJxYUZPNW1YeGVQNWZxLVBldmhCNXZRRHlUQmh0YVV5aHYwb0k1MnFteEZ3YThQd3EyZGlnUXhzT2xFLWN6RFlpbE9xZ2hybkFzejdmSk14VXJJekpCb1RubWxMdFYzZEZiRWRYV2hWTHJISi1idjJuMlc2ZmdxY09aZkU1N0JYY2NJX2pBeS1qNkJVTXM5NXVEWGt2R1FuUkZpV3VlbUdEemUtRG5wZEpWRE96SlhiblFBcw?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-11T20:09:03+05:30"
-          },
-          {
-            "title": "అమరావతికి భారీ గుడ్ న్యూస్..! సీడ్ యాక్సెస్ రోడ్డుపై హైకోర్టు కీలక ఆదేశాలు..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/big-relief-for-amaravati-ap-high-court-rejects-challenges-to-seed-access-road-land-acquisition-501211.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-11T19:59:06+05:30"
           }
         ],
         "Entertainment": [
