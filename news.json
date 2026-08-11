@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:28:23.698521+00:00",
+  "updated_at": "2026-08-11T10:31:16.962114+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -76,13 +76,6 @@
             "published": "2026-08-11T15:38:37+05:30"
           },
           {
-            "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-            "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Experts say this trial has been a test of Syria’s transitional justice.",
-            "published": "2026-08-11T10:03:25+00:00"
-          },
-          {
             "title": "In new video, PM Modi asks people to make Har Ghar Tiranga a celebration in every home",
             "link": "https://www.hindustantimes.com/india-news/in-new-video-pm-modi-asks-people-to-make-har-ghar-tiranga-a-celebration-in-every-home-101786442481919.html",
             "source": "Hindustan Times",
@@ -90,18 +83,25 @@
             "published": "2026-08-11T15:32:52+05:30"
           },
           {
-            "title": "Bangladesh and India battle to save cricket series after political turmoil",
-            "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
-            "published": "2026-08-11T10:02:35+00:00"
-          },
-          {
             "title": "Klaasen, Miller, Allen set to make ILT20 debuts",
             "link": "https://www.cricinfo.com/ci/content/story/1549401.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Marcus Stoinis returns to the tournament after three years and will play for Dubai Capitals",
             "published": "2026-08-11T10:02:18+00:00"
+          },
+          {
+            "title": "Bombay HC Judge recuses from hearing challenge to Maharashtra Special Public Security Act",
+            "link": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-judge-recuses-from-hearing-challenge-to-maharashtra-special-public-security-act/article71331595.ece",
+            "source": "The Hindu",
+            "summary": "The petitioners are challenging the constitutional validity of the Maharashtra Special Public Security Act (MSPSA), 2025",
+            "published": "2026-08-11T15:31:21+05:30"
+          },
+          {
+            "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+            "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+            "published": "2026-08-11T10:00:04+00:00"
           }
         ],
         "India": [
@@ -192,20 +192,6 @@
         ],
         "World": [
           {
-            "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-            "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Experts say this trial has been a test of Syria’s transitional justice.",
-            "published": "2026-08-11T10:03:25+00:00"
-          },
-          {
-            "title": "Bangladesh and India battle to save cricket series after political turmoil",
-            "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
-            "published": "2026-08-11T10:02:35+00:00"
-          },
-          {
             "title": "Trump signs order to limit childhood vaccines and split MMR shots",
             "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -274,6 +260,20 @@
             "source": "Al Jazeera",
             "summary": "Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.",
             "published": "2026-08-11T08:47:34+00:00"
+          },
+          {
+            "title": "Swiatek to face Svitolina in Canadian Open semifinal",
+            "link": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.",
+            "published": "2026-08-11T08:47:07+00:00"
+          },
+          {
+            "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+            "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+            "published": "2026-08-11T08:44:52+00:00"
           }
         ],
         "Business": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "బెంగాల్ సీఎం సువేందుకు తప్పిన హెలికాప్టర్ ప్రమాదం.. ఎమర్జెన్సీ ల్యాండింగ్",
+            "link": "https://telugu.oneindia.com/news/india/bengal-cm-suvendu-adhikari-news-helicopter-mishap-averted-for-bengal-cm-suvendu-emergency-landing-501165.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-11T16:01:06+05:30"
+          },
+          {
+            "title": "మన దేశంలో అత్యంత నెమ్మదిగా నడిచే రైలు.. గంటకు 9 కి.మీ. వేగం",
+            "link": "https://telugu.oneindia.com/news/india/nilgiri-railway-the-slowest-moving-train-in-our-country-with-a-speed-of-9-km-per-hour-501125.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-11T16:00:14+05:30"
+          },
+          {
             "title": "RBI ప్లాస్టిక్ నోట్లకు కేంద్రం ఆమోదం.. నిర్మలా సీతారామన్ కీలక ప్రకటన",
             "link": "https://telugu.oneindia.com/news/business/rbi-to-introduce-rs-10-and-rs-20-polymer-notes-for-field-trials-after-central-government-approval-501157.html",
             "source": "Oneindia Telugu",
@@ -1091,6 +1105,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-11T09:49:54+00:00"
+          },
+          {
+            "title": "ప్రియాంక మృతి ఘటన.. నిందితులపై కఠిన చర్యలకు సీఎం ఆదేశించారు: ఎమ్మెల్యే ఆదిరెడ్డి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMC1MclRiT20zTWhUSDJIbU9Lcmk0RnltWFAydnpmT1RMb2lHSm1qVFl4TkZXeVlQWXpVMEZmRFVoZGwtTUR1MHJ4T2EwbkRaOGZhNHJsLVU3Rm5pUGw3ZXBTVjJ0cU1BVld4QkNpb1FUcVU3OHAtUk4zMkVUbEZKUzBqRWdseVBUajlkcU1RWHlNM3hYMEhzSnRTQXRLdmpyWmJpSUJzV1lJcUk5NTV6QzhIZ01Kdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-11T09:49:37+00:00"
           },
           {
             "title": "Viral Video: వానలకోసం మొసలికి పూజలు చేసిన పురోహితుడు.. వీడియో వైరల్",
@@ -1128,32 +1149,11 @@
             "published": "2026-08-11T14:38:47+05:30"
           },
           {
-            "title": "KTR: రేవంత్‌రెడ్డి సోదరులంతా పెద్దపెద్ద కంపెనీలకు యజమానులా?: కేటీఆర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVZpLVMxa2JlbmEwejlvdHFwTWllNTlZc1JPRGdFUjk3QXZKWnBocXZnY0pYdEpoZTJxZmo2OHZOaWhBRWFkU3VqOVVrX1lnVmVjRGtZRERkaDdlNGY3VldfdHVDc3pkeUk1d2hOUE5FdGFxMG9QajhpQlJxQVlDVllETzZnMDFHNFMzdldodG1Rd3Ffbngzd0xjWWZyUjg2VkstTkZ4T0FWaTAtdFHSAa4BQVVfeXFMTjlWaS1TMWtiZW5hMHo5b3RxcE1pZTU5WXNST0RnRVI5N0F2SlpwaHF2Z2NKWHRKaGUycWZqNjh2TmloQUVhZFN1ajlVa19ZZ1ZlY0RrWUREZGg3ZTRmN1ZXX3R1Q3N6ZHlJNXdoTlBORXRhcTBvUGo4aUJScUFZQ1ZZRE82ZzAxRzRTM3ZXaHRtUXdxX254M3dMY1lmclI4NlZLLU5GeE9BVmkwLXRR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-11T08:33:11+00:00"
-          },
-          {
             "title": "కాక్రోచ్ జనతా పార్టీని నడపబోతున్న ఆ 12 మంది ఎవరు ? రాజకీయం అంటని జెన్ జీ ప్రతినిధులు..!",
             "link": "https://telugu.oneindia.com/news/india/iit-graduate-to-entrepreneurs-meet-the-12-young-professionals-leading-cockroach-janta-party-501143.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-11T13:58:19+05:30"
-          },
-          {
-            "title": "కోర్టుకు హాజరైన జేసీ ప్రభాకర్ రెడ్డి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wSm9yaXFrZDhYb2hocFo0a2p1QzdVNDB2bU9BeU0xM1JZcFZvRVNUbktHUFUyeVNxRGVSS3VoeDlVYlN4VHZSVlJQM0hScXJXVTFobldBTXRiRE9hVER1WW4zZ0FHWTlPbk5la2hJS3RIbmxzakkyYkhtRQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-11T08:23:53+00:00"
-          },
-          {
-            "title": "Vijayawada: అరుణ వర్ణంలో కృష్ణమ్మ పరవళ్లు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2Qxa1FPMVVWZ3g3V3A5T3lKLVZxb21JUWJ2bWZWZ1htQmhGcHZJaFQ1eUZEYzhJZVJ2aUFNS1poR3MydUY4NTk4VEk5cEt5eVU1bF9zdkZ2eGhRR0RoOVRfY3ZPZWxaci1lYUtKV3k2RGk3US15UDgwOERwZnh1cUxWQVhhZ3kxUEl6Qkg0YUN3LVlhbnM3enFYdUNvZGV0NFN4X1pncVJxaTF6UlVTcHh5UUM4QUtLSWFV0gG7AUFVX3lxTE5TZDFrUU8xVVZneDdXcDlPeUotVnFvbUlRYnZtZlZnWG1CaEZwdkloVDV5RkRjOEllUnZpQU1LWmhHczJ1Rjg1OThUSTlwS3l5VTVsX3N2RnZ4aFFHRGg5VF9jdk9lbFpyLWVhS0pXeTZEaTdRLXlQODA4RHBmeHVxTFZBWGFneTFQSXpCSDRhQ3ctWWFuczd6cVh1Q29kZXQ0U3hfWmdxUnFpMXpSVVNweHlRQzhBS0tJYVU?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-11T07:59:19+00:00"
           }
         ],
         "Entertainment": [
