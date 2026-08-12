@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-08-12T19:44:25.356716+00:00",
+  "updated_at": "2026-08-12T20:01:32.275339+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+            "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+            "published": "2026-08-12T19:57:31+00:00"
+          },
+          {
+            "title": "Trump announces Karoline Leavitt’s exit as White House press secretary",
+            "link": "https://timesofindia.indiatimes.com/world/us/trump-announces-karoline-leavitts-exit-as-white-house-press-secretary/articleshow/133192657.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-13T01:17:57+05:30"
+          },
           {
             "title": "Karnataka Bandh unlikely to disrupt normal life as most organisations extend only moral support",
             "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-bandh-unlikely-to-disrupt-normal-life-as-most-organisations-extend-only-moral-support/article71337817.ece",
@@ -32,6 +46,13 @@
             "source": "NDTV Sports",
             "summary": "Hardik Pandya is creating a lot of buzz as IPL trade rumours heat up. The Mumbai Indians captain has failed to replicate his magic touch after returning to his old franchise in IPL 2024 and may exit the team",
             "published": "2026-08-13T00:59:46+05:30"
+          },
+          {
+            "title": "Iceland and Spain plunged into darkness during total solar eclipse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.",
+            "published": "2026-08-12T19:29:15+00:00"
           },
           {
             "title": "Expedite Ejipura buffer road works: GBA chief commissioner",
@@ -81,30 +102,16 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-13T00:52:41+05:30"
-          },
-          {
-            "title": "South Zone Cultural Centre starts three-day workshop and cultural event",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/south-zone-cultural-centre-starts-three-day-workshop-and-cultural-event/article71337519.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-13T00:52:15+05:30"
-          },
-          {
-            "title": "Devotees seek round-the-clock police patrolling on Girivalam path to improve public safety",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/devotees-seek-round-the-clock-police-patrolling-on-girivalam-path-to-improve-public-safety/article71336628.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-13T00:51:25+05:30"
-          },
-          {
-            "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
-            "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
-            "published": "2026-08-12T19:21:22+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Trump announces Karoline Leavitt’s exit as White House press secretary",
+            "link": "https://timesofindia.indiatimes.com/world/us/trump-announces-karoline-leavitts-exit-as-white-house-press-secretary/articleshow/133192657.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-13T01:17:57+05:30"
+          },
           {
             "title": "Karnataka Bandh unlikely to disrupt normal life as most organisations extend only moral support",
             "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-bandh-unlikely-to-disrupt-normal-life-as-most-organisations-extend-only-moral-support/article71337817.ece",
@@ -181,22 +188,43 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-13T00:51:25+05:30"
-          },
-          {
-            "title": "Congress, BJP workers clash as Minister joins sanitation workers’ stir in Alwar for jobs",
-            "link": "https://www.thehindu.com/news/national/rajasthan/congress-bjp-workers-clash-as-minister-joins-sanitation-workers-stir-in-alwar-for-jobs/article71337368.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-13T00:51:21+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+            "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+            "published": "2026-08-12T19:57:31+00:00"
+          },
+          {
+            "title": "Iceland and Spain plunged into darkness during total solar eclipse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.",
+            "published": "2026-08-12T19:29:15+00:00"
+          },
           {
             "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
             "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
             "published": "2026-08-12T19:21:22+00:00"
+          },
+          {
+            "title": "Brazil orders Discord to suspend livestreams after teen’s death",
+            "link": "https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.",
+            "published": "2026-08-12T19:21:11+00:00"
+          },
+          {
+            "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+            "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A US official confirmed that the United States expects to complete its pullout by September 30.",
+            "published": "2026-08-12T19:11:03+00:00"
           },
           {
             "title": "Thousands flee drought in Somalia amid sharp aid decline",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The White House defended reports it planned to spend nearly $1bn on controversial construction projects.",
             "published": "2026-08-12T17:23:45+00:00"
-          },
-          {
-            "title": "US inflation eases as food and fuel costs cool",
-            "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-            "published": "2026-08-12T17:03:05+00:00"
-          },
-          {
-            "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
-            "published": "2026-08-12T16:58:16+00:00"
-          },
-          {
-            "title": "Thousands of Canadians call for US ambassador's expulsion",
-            "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-            "published": "2026-08-12T16:35:52+00:00"
-          },
-          {
-            "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-            "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-            "published": "2026-08-12T16:34:01+00:00"
           }
         ],
         "Business": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Dr G Swarnalatha: ‘ఆమె’... ఎందుకు దానమిస్తోందంటే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbk80U0trN24wblRfRm1icGJabF9zdlUwLW9lWFMtZERUcHpXc3lyanFTbVBQbF9HcjlabXAtMXV4NTg1MkVRNk8yVVZIcnI5ckFSdEx4UFZ3Um9JVXBqejFBUk1IcDdDSGVLSXlnaVlwSzVlUE5QZmFzN09fblpaV0taVjJ2RVpYaExMNy1HTG1JaFl2bDhmc2E3aXNqdS11NHNtZtIBpAFBVV95cUxNbk80U0trN24wblRfRm1icGJabF9zdlUwLW9lWFMtZERUcHpXc3lyanFTbVBQbF9HcjlabXAtMXV4NTg1MkVRNk8yVVZIcnI5ckFSdEx4UFZ3Um9JVXBqejFBUk1IcDdDSGVLSXlnaVlwSzVlUE5QZmFzN09fblpaV0taVjJ2RVpYaExMNy1HTG1JaFl2bDhmc2E3aXNqdS11NHNtZg?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-12T18:49:34+00:00"
+          },
+          {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (13/08/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmk2cUg5ODk5SEJUVTZSQVJYVDNlRms4YXllUmF0XzdKZmR2RXgtT3cteldzVU81X2tzWldqRk5vdVNwR1c0YWVXdkhOUmFvcXNrekVYbEFtLXFDdkFfTlBvUlE4R0kyMVBzdnV3MG9QaWphUDNpUlBsbGlscXFCYldqLWM3SGlvbEswYkRkODUwTUhsM1lfLVRmVlkwVkUxSVk4MWxPOEROV1ZYLVBWcdIBsAFBVV95cUxOWmk2cUg5ODk5SEJUVTZSQVJYVDNlRms4YXllUmF0XzdKZmR2RXgtT3cteldzVU81X2tzWldqRk5vdVNwR1c0YWVXdkhOUmFvcXNrekVYbEFtLXFDdkFfTlBvUlE4R0kyMVBzdnV3MG9QaWphUDNpUlBsbGlscXFCYldqLWM3SGlvbEswYkRkODUwTUhsM1lfLVRmVlkwVkUxSVk4MWxPOEROV1ZYLVBWcQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-12T18:37:16+00:00"
+          },
+          {
             "title": "Viral Video: ప్రియాంకా గాంధీని పలకరించిన ప్రధాని మోదీ.. మధ్యలో ఖర్గే పంచ్!",
             "link": "https://telugu.oneindia.com/news/india/viral-video-pm-narendra-modi-greets-priyanka-gandhi-mallikarjun-kharge-joins-with-funny-comment-501383.html",
             "source": "Oneindia Telugu",
@@ -1093,6 +1107,27 @@
             "published": "2026-08-12T21:30:17+05:30"
           },
           {
+            "title": "Vantara: ఏనుగుల సంరక్షణ.. వంతారా సేవలు మరింత విస్తృతం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWRMcjhoSFNldUljQ1EzbG1DVGRBU1V0R1hxTmNkWnlSbUxOVjJxdWNTZDc1Z0Fmc3RLYTltWGxNVmhHWGFRbWVKSDRvYU95TURWaERwTnR0TFdKUnljSzZVclRfLTNYaVAzYS1JemV3XzZnSWVFSms1alo4ZEx3WTc2TEVXTlV4eHFJdlJWYTBueDNLTU81dlVtWDFyYmM5a21NX1Q2YlVFeU9nQW10UlpzOGkzODlicDFZS2dFcXpMeWtzYVHSAcYBQVVfeXFMUHlkTHI4aEhTZXVJY0NRM2xtQ1RkQVNVdEdYcU5jZFp5Um1MTlYycXVjU2Q3NWdBZnN0S2E5bVhsTVZoR1hhUW1lSkg0b2FPeU1EVmhEcE50dExXSlJ5Y0s2VXJUXy0zWGlQM2EtSXpld182Z0llRUprNWpaOGRMd1k3NkxFV05VeHhxSXZSVmEwbngzS01PNXZVbVgxcmJjOWttTV9UNmJVRXlPZ0FtdFJaczhpMzg5YnAxWUtnRXF6THlrc2FR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-12T15:43:57+00:00"
+          },
+          {
+            "title": "ప్రెగ్నెన్సీలోనూ.. పని చేస్తే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFhMQktXdGVTRWd6aWNnTDlfckNHaUY5bzJSTHFHMkp4cW4zcnk0UXdaZnZpVzdlYlFJaUpQSHBqdDlKdWlZckFDVnQyLUtSc05WaU8xY1BTYmdLc083V3ZhMFNnX2tUNm9YX25iOWhVazZ2V1hPTzdGWFFaaGNwbEtMaFBfdkMzbTBqX1RwTHZxOUpjU3dTbklXWlYzWkVfcllIZDY3M2hZNFNjZTMxVmhiTmV4ZHpaZkdwY0Y5OWpOdFHSAcMBQVVfeXFMTzhYTEJLV3RlU0VnemljZ0w5X3JDR2lGOW8yUkxxRzJKeHFuM3J5NFF3WmZ2aVc3ZWJRSWlKUEhwanQ5SnVpWXJBQ1Z0Mi1LUnNOVmlPMWNQU2JnS3NPN1d2YTBTZ19rVDZvWF9uYjloVWs2dldYT083RlhRWmhjcGxLTGhQX3ZDM20wal9UcEx2cTlKY1N3U25JV1pWM1pFX3JZSGQ2NzNoWTRTY2UzMVZoYk5leGR6WmZHcGNGOTlqTnRR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-12T15:27:25+00:00"
+          },
+          {
+            "title": "ఈ మూడు చిట్కాలతో.. 800 తిరస్కరణల తర్వాత ఉద్యోగం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGlSOHZMRkc0VUFXbXN0d0lfLUxhbWZrRU1PbEZoN0ZTUzdMcUtHdGhfcTdiMjd5anVUTFVPTmZvcS1PSjZVVnlMVXUxbDJYR3IzdXp3WGhmS21PN3FPcmw5UDQtSU9wNVdxbjVpRnlkcDNQZ3hzQlE3bGs2TXpSUjF3ZTlQeC1UVVpXdVd5ZFpxdWV5T01mVzdvdldHRk9UMldoblIyNGZLTk1QN1poT1l30gGyAUFVX3lxTE5saVI4dkxGRzRVQVdtc3R3SV8tTGFtZmtFTU9sRmg3RlNTN0xxS0d0aF9xN2IyN3lqdVRMVU9OZm9xLU9KNlVWeUxVdTFsMlhHcjN1endYaGZLbU83cU9ybDlQNC1JT3A1V3FuNWlGeWRwM1BneHNCUTdsazZNelJSMXdlOVB4LVRVWld1V3lkWnF1ZXlPTWZXN292V0dGT1QyV2huUjI0ZktOTVA3WmhPWXc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-12T15:19:01+00:00"
+          },
+          {
             "title": "వరదలో చిక్కుకున్న 97ఏళ్ల వృద్ధురాలు అరటి బోదెల సాయంతో ఎలా బయటపడ్డారంటే...",
             "link": "https://www.bbc.com/telugu/articles/c5y07gny0rgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1107,53 +1142,18 @@
             "published": "2026-08-12T20:43:31+05:30"
           },
           {
-            "title": "\"లక్షన్నర లంచం అడిగారు సార్\"- ధైర్యంగా సీఎం ముందే వెళ్లగక్కిన క్రీడాకారిణి..!",
-            "link": "https://telugu.oneindia.com/news/india/uttarakhand-girl-alleges-1-5-lakh-bribe-demand-before-cm-dhami-video-sparks-row-501373.html",
-            "source": "Oneindia Telugu",
+            "title": "Uday Nagaraju: లండన్‌లో లార్డ్‌ అయినా.. ఈ మట్టి బిడ్డనే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORG5oZTVHQ3VqRTN3TjByaWxSV3BOeGtTVjRCZTZYNlVHWnc1UkFuMmFWblpXZnlGdmZkQTRKTGhyakdLeXBBb2xvZDlCM1MxUlhIWGNnMkNmNm11Z2cwZzNhRDlubTJZR3JVX0VnTDBiUGlDYzlsQ3JNcUFfY0VxU2VsSHl6cnhacEZXcU5HTDNwS29wODE4VHE5Z19Vem56Z01FNHRiVXpMWnhETTVBTzlMdGx1ZDlkcGJGVDlSbw?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-12T19:44:17+05:30"
+            "published": "2026-08-12T15:03:04+00:00"
           },
           {
-            "title": "ఇరాన్‌తో అమెరికా యుద్ధం ‘వ్యక్తిగత వైరం’ స్థాయికి చేరిందా, ట్రంప్ రహస్యంగా విమానం మారడం దేనికి సంకేతం?",
-            "link": "https://www.bbc.com/telugu/articles/crrvp0g20ndo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
+            "title": "ఫిలడెల్ఫియాలో నటుడు రాజేంద్ర ప్రసాద్‌కు ఘన సన్మానం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1E2dmpvTHhUeE5UbElDOU40SWd6cEU2UnlQZjBTZjhtcGwyMHFZOVRZeGFPVGgyNWZtUEFSUWZBMUlrYjJTT3V3bVFsUFRvcE1wTmhpVkE1WVZMQW15T3V1VjA2NzZ5YnRpZklsZC00VEVXdWE3R0hhWG53TjZqcklSRWlWMDc2NFhpclIzVTFNa0RtNm1ydE41NnlXS1ZDT2FyYWVoM0gyZjdybmRkcm1KTTBoME1UT0VaTTJBY3B0NnBOZ1VrQ2ZrQWFCNUxacTJJ0gHTAUFVX3lxTE5zUTZ2am9MeFR4TlRsSUM5TjRJZ3pwRTZSeVBmMFNmOG1wbDIwcVk5VFl4YU9UaDI1Zm1QQVJRZkExSWtiMlNPdXdtUWxQVG9wTXBOaGlWQTVZVkxBbXlPdXVWMDY3NnlidGlmSWxkLTRURVd1YTdHSGFYbndONmpySVJFaVYwNzY0WGlyUjNVMU1rRG02bXJ0TjU2eVdLVkNPYXJhZWgzSDJmN3JuZGRybUpNMGgwTVRPRVpNMkFjcHQ2cE5nVWtDZmtBYUI1TFpxMkk?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-12T13:53:16+00:00"
-          },
-          {
-            "title": "ఉప్పాడ తీర రక్షణకు రంగంలోకి IIT మద్రాస్- మాట నిలబెట్టుకుంటున్న పవన్ ..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-signs-deal-with-iit-madras-to-protect-uppada-coast-from-erosion-501371.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-12T19:08:24+05:30"
-          },
-          {
-            "title": "వైసీపీపై దాడికి టీడీపీకి చంద్రబాబు కొత్త అస్త్రం..! మంత్రులకు క్లియర్..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/chandrababu-tells-tdp-leaders-to-counter-ysrcp-s-dsc-allegations-with-group-1-sit-report-501365.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-12T18:25:14+05:30"
-          },
-          {
-            "title": "300 అడుగులు కిందకు దిగిన విమానం: పైలట్ మత్తులో ఉన్నారన్న అనుమాలు",
-            "link": "https://www.bbc.com/telugu/articles/cre4p809nd1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-12T12:49:53+00:00"
-          },
-          {
-            "title": "Justice Yashwant Varma: నోట్ల కట్టల జడ్జిపై పార్లమెంట్ అభిశంసన..! ముహుర్తం ఫిక్స్..!",
-            "link": "https://telugu.oneindia.com/news/india/justice-yashwant-varma-impeachment-govt-may-bring-motion-in-winter-session-501363.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-12T17:52:54+05:30"
-          },
-          {
-            "title": "Jantar Mantar Season 2: \"జంతర్ మంతర్ సీజన్ 2\" ఎప్పుడో చెప్పిన అభిజీత్ దిప్కే..!",
-            "link": "https://telugu.oneindia.com/news/india/jantar-mantar-season-2-coming-soon-cjp-founder-abhijeet-dipke-says-amid-instagram-buzz-501359.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-12T17:33:29+05:30"
+            "published": "2026-08-12T14:57:39+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,11 +1426,39 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "রাত ৮টার মধ্যে দোকানপাট বন্ধ করতে হবে! বাংলাদেশে জ্বালানি বাঁচাতে নতুন নির্দেশ সরকারের, তবে কিছু ক্ষেত্রে ছাড় - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWNDbFFZeFdiZnRQVkZhb0lLRGRUOUdnLW5oR3Q4Nm1Pd1ZEVnQ1T3FZc1pfTWsyUUVkT1N4bEVkT1ZRelN4bmVySXhSejhyTTdhUC1mNkY2QWdOdmJmRWlXYXJ5VG14dHYxR3RFRnB3NjF1S0J4aGRFMF94b3liemJaaGYwTTdkMVRIZ1Vaam1BUWhUZ0ZYNkhTWHJMZVVJVnljeEx4YVI1VkR6Y3JSNTd30gG3AUFVX3lxTFBDMXhVaWNicFBndTFyNjhoSGpMSGUwcEJQZXBubDM4NldMRGwwU1dxMXBPNXV6WXNyTk0yT0ZLSE16ZzA5Yy1zXzJsbFhleUM3RVl0LUt3TTdNc0Z0SHRtX1VIbnFWd0FrZ0xyQjRRR0gwTXM2Y042d2hDUHc2ZUI2NEU1R0dyQkF0Mm92SUJybnozblFZVHVkbDcwMnJNcUpYeXpOX2o2c3FmMGtOV0dMNjJ1aWR6Zw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T17:41:05+00:00"
+          },
+          {
             "title": "বিয়ের প্রতিশ্রুতি দিয়ে শারীরিক সম্পর্কের অভিযোগে গ্রেফতার ক্রিকেটার, ভারতীয় আইন কী বলছে?",
             "link": "https://www.bbc.com/bengali/articles/c629e3g0880o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-08-12T16:33:07+00:00"
+          },
+          {
+            "title": "রণবীরকে ‘রাম’ হিসাবে পছন্দ! কিন্তু আপত্তি কৈকেয়ীকে নিয়ে! অতীতের ‘যুধিষ্ঠির’-এর কী মত? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzMtb2c2bjVCTGpSUGlBNXk2RjNIWnRfRTJyU1cwX2JyRURfVGNhRE1INEEyRTkyTHdKMDZ0a1YzZGRFcVdDcS05cXBzbDFQYVRtbFJuZzNpWUJHOHh6THlnaUN4R28wX3NQTFl4RHZzSWV1UmNCbEV3RlIzLWwySEM0UVpQNWJfc0tsYy01MFBfbFhHNXdjcHFrN1RWTGxNNURlQmRrbkFSVlRtbXh2MtIBtgFBVV95cUxQMzZJTmllbkNpUTkyNnc5dl9QRGpYa2lhRWlud3h4US1yY2xQUTFxQ1pTMnliT3NQTFI2TExHV2c3YXpzaG43TUdUZTQwZmNTdUhERDFreU81V2J1TXVWTTA0TkFsRlFzX0U3dHdEaE5zX0NYT3ptTEx1djVyLWpzQVJXZzlnaTRDV3ZEVTlRelhIZjlCTVozWjdJc0x5V1J6SVFubEtiTEVpOGNFaThfdXJoQjZCdw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T16:25:38+00:00"
+          },
+          {
+            "title": "চ‍্যাম্পিয়ন্স লিগের মূল পর্বে ইস্টবেঙ্গল, পিছিয়ে পড়েও রশিদ-ডেভিডদের দাপটে কুয়েতের ক্লাবকে ৪-১ উড়িয়ে দিল লাল-হলুদ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObUIxcXNLUlZycEhLWlpMaGFBeGVrempFSVU2RXg1TlBMWUdNSjJGTXN6Wmp6TVJhc2ZpX25pX3dSZThBRGhTMDZqZlBWVkpQelNWRlotY1lIWGNybGc5VF9URDYwS1NGdDh4MlBBS3h4NjlSR2w2aEpkT0dhV2tubm4zXzBjR3hKdF9jckZEZ3R2dDRReVFQSE81R2VaU0ZIUS1kaWtlQjAxdGo0N1dtcGxqOEdYZmV1V1RQUURFVU4zaTFXY0psZTVJZEt3Q0JKdFVJZzlHTlQtWlViVkdfcXVKMNIB6AFBVV95cUxNS3RUdy1feF91N1ZmQ3lXY2ZfcV9kLXB4OUt6VVJxSGJxd2Fqb3VlV2lWTHhqNFp0NnhNeHhBLTZ6TlBFQjU0N2tCQTRkVG56RFVKVFhuNjJWWjM0UmdERlBsWllvODFXUXdTWktlYmNPMmttRXc4eklTZ2tFbE1nVWFPRVVHZU5NODEyekR3ei14TEtHYlQ0N2lDazQ3NENEWVhyOF9pWE1tQmtEckNqekxpZUJheDZyZ0d1M3E4T1BWUFhJeHVZaHg5aUxRV0lOTm9pOG52S2dNN0JOaExWNTRNaHZlbDNq?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T16:19:56+00:00"
+          },
+          {
+            "title": "৫ মিনিটেই হবে প্রাতরাশ! পুষ্টির সঙ্গে আপস না করে কী কী রাখতে পারেন জলখাবারে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOem1GaU5YSS1NeVZ4ZDY0X0tTNzVrSmpQdDZGUi1sNDBxS2NoSkxCdERoWnFuOWw2dkFhWUF3cEx6TmlWYXNRUjEzZTZxZ25HX2JrQkFZMngtUTRid0Q5M254dHotdkFIU1RWYVptVXctTERWSEpocXFGMm5vRFhWM3J3UXpucERYVE5UVFRsd1NQM2tiazRoRlBqX0F6LVBFdGZF0gGjAUFVX3lxTE56bUZpTlhJLU15VnhkNjRfS1M3NWtKalB0NkZSLWw0MHFLY2hKTEJ0RGhacW45bDZ2QWFZQXdwTHpOaVZhc1FSMTNlNnFnbkdfYmtCQVkyeC1RNGJ3RDkzbnh0ei12QUhTVFZhWm1Vdy1MRFZISmhxcUYybm9EWFYzcndRem5wRFhUTlRUVGx3U1Aza2JrNGhGUGpfQXotUEV0ZkU?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T15:40:47+00:00"
           },
           {
             "title": "তিন কারণে লোডশেডিং বেড়েছে বাংলাদেশে",
@@ -1440,6 +1468,20 @@
             "published": "2026-08-12T15:29:32+00:00"
           },
           {
+            "title": "সেনা এবং বিএসএফ সংক্রান্ত তথ্য সংগ্রহ করতে কলকাতায় এসেছিলেন ধৃত পাক নাগরিক! আর কী উঠে এল পুলিশি তদন্তে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWhHQUs2Y0hIR2psQ0poQzVOUXRLbE44SkhWelRzcjJGbUEwLTk2QVJDUnpFSzJja3NYSXItdTAycmQ5bnVBMVMzcXE2S2huMV80ZXlYeXFNVURmT3VOUUx2ejBQMTJfalE4akRHbllYWGNtOUxreV9zaUNuX1dhdTJFRVhvRUNmUEQteHdXUS0yVEtnUEN3dzduNVlMdWlmdW40eDBiY0M1TFZFbWxIYzRvVTZkcnJQcnJrb0ZMNFk4N1FWNlRuTmJ5dDNQbjkzYlBrMlVCQlBQT1XSAeABQVVfeXFMUFJETFZ6T0ZqU0V4T2Y0OElNWEloZ0RkQXl3ZGx4d1BOTTlnSTRIckxMb1BNZkRPQzdXeHRfbTdCSThUcVR5Y3huMzFES21hOEU5aU9zdnIxbGswTkhOajAtNlVpMTA5S04zX1BrcGVlY0RBN1FQRU81V1pxT09JNDgwdXZoY19qRWpjOG52UWRJNllyckRxUmlPbEhUYzctelJpVEV6VUVWaWxSWmJXSTY5Vlh4Skp4dURXUTZYZUtuaFJCckNyN0pFU0x1UGp2WlB0X0tkTDlaNVp3c1psZHY?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T15:23:19+00:00"
+          },
+          {
+            "title": "বিধানসভায় পাস কলকাতা ও হাওড়া পুরসভার সংশোধনী বিল, নিয়ম মেনেই প্রক্রিয়া, দাবি মুখ্যমন্ত্রীর - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0JKeHJFVGJ3a3p4Q3M1UjJXOVQ0WWhJN3ViankxMHNxMjlaUTdpMklfUFI4OGFEdHZHV1BQMGtWMHJhWXZuMWMxZmxITkQ1UXVlYzBkXzdVU3BnY2F5NjY1dVpFcktkVW5acjRtMElYWHNHZHo3Sko4UWhYQXh5bVVYM19qSjN2ejJ6dWVvYXE1YWFoWlAzR1E2UDdXT3NHMEJiSkdaOGpDUktzVXRSNWFDbHBwd9IBuwFBVV95cUxPWEJHMm9IR0kyeUlkVFdxQ1dBVW9Jd3ptcERNX0hUTnBfNDZYb2lOUnA3dFpudHNHajhDS2VvWDFWWjgxdWhwX0tDbUF4SThPSkNnbVRTSWctcXZTellVcXFnSXg4aE5GbFBWLTk5dm5sSERnYXV6SVVOUmlpckt5VGtITTVVd0xaX3FCc2g3bTJwNDBqMTA5X1F3eGRVZGVkY25vNkhMN0YxRXZkeWtyVVAyN2NaX1R2M1VF?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-12T15:14:59+00:00"
+          },
+          {
             "title": "সমকামিতা নিয়ে বাংলাদেশের আইনে কী আছে?",
             "link": "https://www.bbc.com/bengali/articles/c3d328941xgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1447,67 +1489,25 @@
             "published": "2026-08-12T15:13:19+00:00"
           },
           {
-            "title": "চাকরি না পাওয়ার হতাশা থেকে যেভাবে পথে নেমেছে ঝাড়খণ্ডের তরুণরা",
-            "link": "https://www.bbc.com/bengali/articles/c07r29vnxrlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "অন্নপূর্ণা যোজনার টাকা ঢুকবে কাদের অ্যাকাউন্টে, পাবেন না কারা, আয় নির্দিষ্ট করে জানিয়ে দিলেন মুখ্যমন্ত্রী! আর কী শর্ত? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWG9UQl8tSEZnZnd5UDVtVU1YNFRZOU9ERUFjQ25taExoLXJXRmVQbVpHNkRyWlExZTBTMzdGMTdXT0ZKVm5iNFVvemo5UnI0Q1dNTzJwNXdlNkQ5WnA3X0NJaUtuaG52TGR5LWoycFNfTXVxaEFfTkl5SmZRLXpDMkZGSnBqZ2ZELXJfUmZFcUJObTUtNjlWUE8xbE5zWnVXM1hKczM2YlhnQTh5TW5aZk16VDNTdUJQQXdoTk5EZk9nakRtUDFabVUxb9IB0AFBVV95cUxNOTNtLUgwNV9rU0hza2tONVJLdW5DRG90LTB5Mm9oWjVHbnRibHJoeFVtSncxZ184eXMzNjBEaEJ0OEUyN1U3bVFnWFFUV093Nk9qSFZOOGxSdWRLQ2tjbUpOQ3UwdlFueEtnWEo2czQ2emdocHNoamVfaG5kWk1aRkFicENNUnl6U3dKQTlxNkUwaFVZRl94Nkp1amJieC05dWFoSWNJU3pob2ZQVS02Y0hhazBiRnBwN2t0U24xczVFZnIwOFg4MXdoM284YzJa?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-12T11:11:10+00:00"
+            "published": "2026-08-12T14:50:32+00:00"
           },
           {
-            "title": "আওয়ামী লীগ কেন বারবার পাকিস্তান ও 'আইএসআই'য়ের কথা বলছে?",
-            "link": "https://www.bbc.com/bengali/articles/cjej4w528j7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "আজকের দিন বৃশ্চিক রাশি- ১৩ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORklncDVmdDZvUFdfUXp4OWV0UGU5YnpqZWRfemFBczNJVXo1WUhITDdqSTdMS2ZpSmRGVUtwZVNRV3hxVGMzUGotTUQ5RV9LZWFLTU02di0xS21YRWRBbThOaGNTX1puSDMxOGVVMHZFcnR0TWJDV2wyX3JKcXUwSVRydDI3TDVUSENxV3RXanRrSm83cjVOanNNOUlEdEhNM0tacnR0RFU0eHhpTVRRZ0JCWdIBuAFBVV95cUxNWk9oYTdEMWFVejl5cmhJODhLYTFqTlFGTlBraXd2eHoyTzJPXzVtaDVwT0NpUk9NdDlRRTlVLTJucnNfaDJIMm9pb2FINHR1cGpJRzZoZF9DWkhxNndCdWVleFUzcTJvelJhalV5RkRRU1hROHlhQ1hfVDlRYnNiWjIyWFdjVnhCejFGUVVpQjhrTFR1emh5Nm9lU3QxY2lvWFN6QXFHMWRja3ctbUg1ZS1pREtaQlY1?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-12T05:18:58+00:00"
+            "published": "2026-08-12T13:43:40+00:00"
           },
           {
-            "title": "কলম্বিয়ায় ভূমিকম্পে অন্তত ১৮০ জন নিহত, জীবিতদের উদ্ধারে চলছে মরিয়া চেষ্টা",
-            "link": "https://www.bbc.com/bengali/articles/cx2d184pzyno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "আজকের দিন সিংহ রাশি- ১৩ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWYyT3ZOU3NnMU9RT040MXJxQmFNZ29yQXgwUVpqa3VnUFpXcThiaUJEM3FnVjM4bFdZc3FpSzBlTkJBd2hVLUZNUG1yQnphalEzaExzdVBnLUpGZzZDQS1TaVhwM3h5cWtKbG9ra2dCbDRwYTZPT3VTVE91Y2RodERfMnczMU8yNUJOS1YwbWpKT1JyaEJMODZIMnFmT05jdk85bzZSVUlCZ9IBrwFBVV95cUxQVS1hVC1VS184RTJIVmVrRDdiZGlKaHFxaWNBSlhNMnFubTB5Rk1jTDg3T1RJd3BxUmdGQVNORHkzRTNaXzlTSWlqeG5BbmEycl9nTUE2Tld6SG8xRGFCdE44U0dpS0pWOGZtQXFjbGZDY0pnMGFxM1FIMmNRcEthd0hlRGRKTGZ2NktpM3Q5c28zSGhRVm05MkxlOTFkV1VvM1hLN2xHbUJXbE94aXJj?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-12T03:29:22+00:00"
-          },
-          {
-            "title": "জুলাই চেতনাবিরোধী কর্মকাণ্ডের অভিযোগ এনে ঢাবি শিক্ষকদের তালিকা করলো কারা?",
-            "link": "https://www.bbc.com/bengali/articles/cy07dqenpk8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-12T01:51:41+00:00"
-          },
-          {
-            "title": "বেসরকারি শিক্ষা প্রতিষ্ঠানে শিক্ষক নিয়োগ নিয়ে ঠিক কী হচ্ছে?",
-            "link": "https://www.bbc.com/bengali/articles/c79gjxlz91ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-11T15:22:12+00:00"
-          },
-          {
-            "title": "৩৫ বছর আগে সরাসরি রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
-            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-11T14:39:39+00:00"
-          },
-          {
-            "title": "মির্জা ফখরুলই কি বঙ্গভবনের নতুন বাসিন্দা হচ্ছেন?",
-            "link": "https://www.bbc.com/bengali/articles/cz05njy0ndxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-09T13:49:02+00:00"
-          },
-          {
-            "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
-            "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-08T02:00:03+00:00"
-          },
-          {
-            "title": "কোন কোন মাছে মাইক্রোপ্লাস্টিক পেয়েছেন গবেষকরা",
-            "link": "https://www.bbc.com/bengali/articles/cn4n1y5141zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-06T10:19:08+00:00"
+            "published": "2026-08-12T13:39:12+00:00"
           }
         ]
       }
