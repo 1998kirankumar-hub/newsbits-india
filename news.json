@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T20:31:08.410467+00:00",
+  "updated_at": "2026-08-13T20:57:11.372670+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -41,6 +41,13 @@
             "published": "2026-08-14T01:39:01+05:30"
           },
           {
+            "title": "Are We in the Singularity?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
+            "published": "2026-08-13T20:07:29+00:00"
+          },
+          {
             "title": "Six workers dead, 14 injured as water, debris enter tunnel in Uttarakhand’s Chamoli",
             "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece",
             "source": "The Hindu",
@@ -60,6 +67,13 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-14T01:28:04+05:30"
+          },
+          {
+            "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+            "source": "Economic Times",
+            "summary": "Elon Musk's compensation is setting new benchmarks for S&P 500 executive pay. Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies. Shareholder support for special executive awards is showing signs of decline.",
+            "published": "2026-08-14T01:27:09+05:30"
           },
           {
             "title": "Sudan army says RSF advance on key town bordering Ethiopia",
@@ -88,20 +102,6 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-14T01:16:32+05:30"
-          },
-          {
-            "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-            "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-            "published": "2026-08-13T19:46:27+00:00"
-          },
-          {
-            "title": "Minerals belong to Jharkhand, land belongs to Jharkhand: CM",
-            "link": "https://www.thehindu.com/news/national/jharkhand/minerals-belong-to-jharkhand-land-belongs-to-jharkhand-cm/article71342477.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-14T01:14:12+05:30"
           }
         ],
         "India": [
@@ -199,6 +199,13 @@
             "published": "2026-08-13T20:12:17+00:00"
           },
           {
+            "title": "Are We in the Singularity?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
+            "published": "2026-08-13T20:07:29+00:00"
+          },
+          {
             "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
             "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.",
             "published": "2026-08-13T18:33:28+00:00"
-          },
-          {
-            "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-            "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
-            "published": "2026-08-13T18:28:14+00:00"
           }
         ],
         "Business": [
@@ -283,6 +283,13 @@
             "source": "Economic Times",
             "summary": "The S&P 500 has hit a historic peak, largely influenced by a surge in technology stocks. With producer price inflation showing stability, expectations of a Federal Reserve rate hike have diminished. Memory chip giants Sandisk and Micron Technology reported impressive increases in their stock prices, alongside positive movements for other major firms like Broadcom and Meta Platforms.",
             "published": "2026-08-14T01:39:01+05:30"
+          },
+          {
+            "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+            "source": "Economic Times",
+            "summary": "Elon Musk's compensation is setting new benchmarks for S&P 500 executive pay. Average CEO pay rose significantly, even as employee wages are facing pressure from artificial intelligence and labor board policies. Shareholder support for special executive awards is showing signs of decline.",
+            "published": "2026-08-14T01:27:09+05:30"
           },
           {
             "title": "Harvey Nichols bought by owner of Sports Direct",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found.",
             "published": "2026-08-13T11:12:33+00:00"
-          },
-          {
-            "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-            "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-            "published": "2026-08-13T10:39:02+00:00"
           }
         ],
         "Sports": [
@@ -571,6 +571,13 @@
             "published": "2026-08-13T05:14:18+00:00"
           },
           {
+            "title": "Musician cancels Fringe show after theft of irreplaceable instruments",
+            "link": "https://www.bbc.co.uk/news/articles/cjejp7d4wp9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Sachie Mikawa has cancelled two shows following the theft of instruments she inherited from her late father.",
+            "published": "2026-08-13T05:14:05+00:00"
+          },
+          {
             "title": "BTS star V reveals hearing loss battle during livestream",
             "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Organisers say countries engaged in armed conflict will be automatically disqualified from hosting.",
             "published": "2026-08-12T15:49:37+00:00"
-          },
-          {
-            "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
-            "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
-            "published": "2026-08-12T12:32:24+00:00"
           }
         ]
       }
@@ -652,7 +652,7 @@
             "link": "https://www.amarujala.com/live/dehradun/chamoli-thdc-tunnel-landslide-labourers-rescue-operation-cm-dhami-live-update-in-hindi-2026-08-14",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-14T01:22:53+05:30"
+            "published": "2026-08-14T02:23:27+05:30"
           },
           {
             "title": "वांगचुक बोले- 2047 तक भारत विकसित देश नहीं बन पाएगा:नए शिक्षा मंत्री से बदलाव की उम्मीद नहीं, दूसरा स्वतंत्रता आंदोलन शुरू करने की अपील",
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Mutual Funds: మ్యూచువల్‌ ఫండ్లు స్మాల్‌ క్యాప్‌లో మదుపు చేస్తున్నారా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEF5bjNhRjhCMWFHU0hUTmQxdGZtclN5ZzNoOE1NMVdQYWhrYmQzWkFidkl5OFhpUWF5U0xhalhaZTJZYTQxdTQ1SXd0N2xTVkVPbHd2VTJuNlpyanhtZGdwSXE1VmZUdXR0VW9kampxVHNxdkJSZFY3VVo5OW9KQnN0dkhpeWFjWks4NUN0TFc5Qm81UklPQ3hDSUZvNEQzU25SdE1HeHRmTDVKUXU4aUJrYlRic2lqSjU0NE1ya3NnbGPSAcMBQVVfeXFMTTBBeW4zYUY4QjFhR1NIVE5kMXRmbXJTeWczaDhNTTFXUGFoa2JkM1pBYnZJeThYaVFheVNMYWpYWmUyWWE0MXU0NUl3dDdsU1ZFT2x3dlUybjZacmp4bWRncElxNVZmVHV0dFVvZGpqcVRzcXZCUmRWN1VaOTlvSkJzdHZIaXlhY1pLODVDdExXOUJvNVJJT0N4Q0lGbzREM1NuUnRNR3h0Zkw1SlF1OGlCa2JUYnNpako1NDRNcmtzZ2xj?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T19:38:17+00:00"
+          },
+          {
             "title": "ప్రేమిస్తున్నానని నమ్మించి అత్యాచారం.. నిందితుడికి 25 ఏళ్ల జైలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDeGNla01uVmptQngzcjNwejk1eDU3YUFVNUdmaTVWMTN5MDJaN3l4bGdEby0tcUt2bkFqNWdnelFxT2RkNW51YmZjTTdvd1RHUFJjUFU2aGhtR2ZLSTVzdUlETDBTS0VvbDc3ekhpRmRkWnVkbGfSAXZBVV95cUxQQ3hjZWtNblZqbUJ4M3IzcHo5NXg1N2FBVTVHZmk1VjEzeTAyWjd5eGxnRG8tLXFLdm5BajVnZ3pRcU9kZDVudWJmY003b3dUR1BSY1BVNmhobUdmS0k1c3VJREwwU0tFb2w3N3pIaUZkZFp1ZGxn?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-13T14:53:01+00:00"
-          },
-          {
-            "title": "‘ఇంకెంతకాలం ఆడతానో తెలియదు’-తండ్రి మరణం వేళ మెస్సీ వ్యాఖ్యలు",
-            "link": "https://www.bbc.com/telugu/articles/cre4pywz939o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-13T14:41:44+00:00"
           }
         ],
         "Entertainment": [
