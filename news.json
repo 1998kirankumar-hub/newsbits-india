@@ -1,111 +1,167 @@
 {
-  "updated_at": "2026-08-13T02:01:30.029515+00:00",
+  "updated_at": "2026-08-13T02:31:16.924374+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Oil prices slip as OPEC cuts demand forecast; Iran war keeps supply risks alive",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-opec-cuts-2026-demand-forecast-iran-war-keeps-supply-risks-alive/articleshow/133195863.cms",
+            "source": "Times of India",
+            "summary": "Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both OPEC and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying supply concerns, while negotiations between Iran and the US remain inconclusive.",
+            "published": "2026-08-13T07:50:04+05:30"
+          },
+          {
+            "title": "Korean stocks rise 22% in 10 days as chip rally regains steam",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-stocks-rise-22-in-10-days-as-chip-rally-regains-steam/articleshow/133195972.cms",
+            "source": "Economic Times",
+            "summary": "The benchmark Kospi gained as much as 4.8% on Thursday, extending its gain from a July 30 low to around 22%. Heavyweight memory chipmakers Samsung Electronics Co. and SK Hynix Inc. drove the advance, each jumping more than 5%.",
+            "published": "2026-08-13T07:48:01+05:30"
+          },
+          {
+            "title": "Seven labourers find ‘ ₹50 lakh’ diamond in Madhya Pradesh’s Panna: ‘Rock measured 17.96 carats’",
+            "link": "https://www.hindustantimes.com/trending/seven-labourers-find-50-lakh-diamond-in-madhya-pradesh-s-panna-rock-measured-17-96-carats-101786585365150.html",
+            "source": "Hindustan Times",
+            "summary": "A Madhya Pradesh man spotted the diamond on a leased land after a heavy rainfall.",
+            "published": "2026-08-13T07:35:39+05:30"
+          },
+          {
+            "title": "Indian Teen Murders Mother, Brother In US Home, \"Searched 'Kill Family' Fantasies\"",
+            "link": "https://www.ndtv.com/world-news/indian-origin-teen-arjun-aravind-murders-mother-brother-in-us-home-chatgpted-fantasies-about-killing-family-11902759#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Police alleged that Aravind, a student at Acton-Boxborough Regional High School, fatally assaulted his mother and brother inside their home on Tuesday before fleeing the scene on his mother's Honda Accord.",
+            "published": "2026-08-13T07:34:50+05:30"
+          },
+          {
+            "title": "Ten fishermen from Rameswaram held by Lankan Navy",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/ten-fishermen-from-rameswaram-held-by-lankan-navy/article71339334.ece",
+            "source": "The Hindu",
+            "summary": "They were taken to a port in the early hours of Thursday",
+            "published": "2026-08-13T07:32:40+05:30"
+          },
+          {
+            "title": "It's one year to Intel becoming a 'US govt company', what this meant for the chip giant",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/its-one-year-to-intel-becoming-a-us-government-company-what-has-this-meant-for-the-chip-giant/articleshow/133195828.cms",
+            "source": "Times of India",
+            "summary": "In a landmark decision, the US government has taken a significant stake in Intel, officially becoming its largest shareholder. This strategic development signals a pivotal change in the nation's approach to industrial policy and technology strategy. Aiming to enhance domestic manufacturing and protect vital infrastructure, the move offers a sense of supply chain security, but it raises valid concerns regarding…",
+            "published": "2026-08-13T07:31:30+05:30"
+          },
+          {
+            "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms",
+            "source": "Economic Times",
+            "summary": "Oil prices dipped as demand forecasts for 2026 were lowered due to the U.S.-Israeli war on Iran. Despite supply concerns from the conflict, a surprise build in U.S. crude inventories and stalled talks with Iran are impacting the market, with shipping risks in key straits adding to volatility.",
+            "published": "2026-08-13T07:31:17+05:30"
+          },
+          {
+            "title": "Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight",
+            "link": "https://www.hindustantimes.com/india-news/air-india-pilot-who-tested-positive-for-marijuana-slept-30-35-minutes-during-phuket-delhi-flight-101786585995550.html",
+            "source": "Hindustan Times",
+            "summary": "The pilot told investigators he had been struggling with his sleep for some time because of personal circumstances.",
+            "published": "2026-08-13T07:28:18+05:30"
+          },
+          {
+            "title": "Lionel Messi Returns To Action Amid Retirement Speculation After Father's Death",
+            "link": "https://sports.ndtv.com/football/lionel-messi-returns-to-action-amid-retirement-speculation-after-fathers-death-11902758#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Argentina football team superstar Lionel Messi returned to action amid growing speculations over his career following his father Jorge Messi's death.",
+            "published": "2026-08-13T07:27:55+05:30"
+          },
+          {
+            "title": "Olympic skateboarder times epic stunt with solar eclipse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.",
+            "published": "2026-08-13T01:56:11+00:00"
+          },
+          {
+            "title": "Former Punjab CM Beant Singh’s murder convict declines custody parole offer, seeks regular parole",
+            "link": "https://www.hindustantimes.com/india-news/former-punjab-cm-beant-singh-murder-convict-jagtar-singh-hawara-declines-custody-parole-offer-seeks-regular-parole-101786585356771.html",
+            "source": "Hindustan Times",
+            "summary": "Custody parole is a short-term, supervised release of a convicted prisoner from jail. An armed police escort stays with the inmate the entire time.",
+            "published": "2026-08-13T07:22:14+05:30"
+          },
+          {
+            "title": "Zimbabwe’s land reform enters a new chapter",
+            "link": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000.",
+            "published": "2026-08-13T01:48:39+00:00"
+          },
+          {
+            "title": "Opposition accuses UDF government of ‘undeclared social media emergency’ in Kerala",
+            "link": "https://www.thehindu.com/news/national/kerala/opposition-accuses-udf-government-of-undeclared-social-media-emergency-in-kerala/article71337578.ece",
+            "source": "The Hindu",
+            "summary": "LDF accuses government of removing several posts as well as news reports related to the arrest of Youth Congress leaders on synthetic drug peddling charges",
+            "published": "2026-08-13T07:16:29+05:30"
+          },
+          {
             "title": "Moon meets Sun: Rare solar eclipse captivates millions across Europe",
             "link": "https://timesofindia.indiatimes.com/world/europe/moon-meets-sun-millions-witness-rare-solar-eclipse-as-uk-sees-90-coverage-across-europe/articleshow/133195731.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-13T07:14:27+05:30"
-          },
-          {
-            "title": "Two killed as US Army Apache helicopter crashes near Fort Hood base in Texas",
-            "link": "https://timesofindia.indiatimes.com/world/us/two-killed-as-us-army-apache-helicopter-crashes-near-fort-hood-base-in-texas/articleshow/133195693.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-13T07:11:50+05:30"
-          },
-          {
-            "title": "'Very, very difficult': Can Kuldeep Yadav become India's next spin leader?",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/very-very-difficult-murali-kartik-on-kuldeep-yadavs-chance-to-become-indias-next-spin-leader/articleshow/133195701.cms",
-            "source": "Times of India",
-            "summary": "Kuldeep Yadav has played 18 Tests for India and taken 79 wickets in 34 innings. He has a bowling average of 22.35, an economy rate of 3.53 and a strike rate of 37.9. He has taken four four-wicket hauls and five five-wicket hauls. His best innings figures are 5/40, while his best match figures are 8/113. Kuldeep has also been a successful limited-overs bowler. He has 194 wickets from 121 ODIs at an average of 27.04…",
-            "published": "2026-08-13T07:11:03+05:30"
-          },
-          {
-            "title": "FDA suspends 13 food establishments’ licences across four districts in Maharashtra",
-            "link": "https://www.thehindu.com/news/national/maharashtra/fda-suspends-13-food-establishments-licences-across-four-districts-in-maharashtra/article71338050.ece",
-            "source": "The Hindu",
-            "summary": "Four Domino’s Pizza licenses were suspended in Mumbai and Satara",
-            "published": "2026-08-13T07:09:59+05:30"
-          },
-          {
-            "title": "India’s first ‘private, branded’ train to run as ‘Sprite’ Tejas Express",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/indias-first-private-branded-train-to-run-as-sprite-tejas-express/article71337893.ece",
-            "source": "The Hindu",
-            "summary": "IRCTC awards train branding advertising rights to M/s Sprite for six months; the private train will be announced as ‘Sprite’ Tejas Express at originating and en route stations on both sides of the journey",
-            "published": "2026-08-13T07:07:30+05:30"
-          },
-          {
-            "title": "FCRA bill sent to JPC amid Opposition uproar, Amit Shah’s debate offer rejected: 'We are ready vs man lacks courage'",
-            "link": "https://www.hindustantimes.com/india-news/fcra-bill-sent-to-jpc-amid-opposition-uproar-amit-shah-s-debate-offer-rejected-we-are-ready-vs-man-lacks-courage-101786582263444.html",
-            "source": "Hindustan Times",
-            "summary": "The FCRA amendment bill was referred to a 31-member JPC amid Opposition protests, while Amit Shah’s offer to discuss student protests was rejected.",
-            "published": "2026-08-13T07:04:57+05:30"
-          },
-          {
-            "title": "Amid shifting power &amp; scrutiny, Chandrasekaran enters the final stretch",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/amid-shifting-power-scrutiny-chandrasekaran-enters-the-final-stretch/articleshow/133195649.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-13T07:01:23+05:30"
-          },
-          {
-            "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-            "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-            "published": "2026-08-13T01:31:21+00:00"
-          },
-          {
-            "title": "‘Private parts electrocuted’: Wife kills man with help from lover in south Delhi",
-            "link": "https://timesofindia.indiatimes.com/city/delhi/private-parts-electrocuted-wife-kills-man-with-help-from-lover-in-south-delhi/articleshow/133195611.cms",
-            "source": "Times of India",
-            "summary": "A horrifying scene unfolded in a quiet home where a man was discovered murdered, initially thought to be the work of a burglar. However, police uncovered a dark plot involving the man's wife and her lover, who conspired to kill him. They sedated him, used electrocution, and artfully manipulated the scene to resemble a robbery.",
-            "published": "2026-08-13T06:59:45+05:30"
-          },
-          {
-            "title": "Manipur: NIA arrests one accused in Tranglaobi IED attack case",
-            "link": "https://www.hindustantimes.com/india-news/manipur-nia-arrests-one-accused-in-tranglaobi-ied-attack-case-101786584585264.html",
-            "source": "Hindustan Times",
-            "summary": "The incident occurred on April 7, 2026 and resulted in the death of two minor children and injuries to another person",
-            "published": "2026-08-13T06:59:44+05:30"
-          },
-          {
-            "title": "Kashmiri Pandit killings: J&K Police’s special cell reopens 1990 case; searches multiple locations",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandit-killings-jk-polices-special-cell-reopens-1990-case-searches-multiple-locations/article71336493.ece",
-            "source": "The Hindu",
-            "summary": "Searches were carried out in Rajouri and Anantnag districts; latest raids were carried out ahead of Independence Day and reported terror threats issued against members of the minority community in Kashmir",
-            "published": "2026-08-13T06:54:00+05:30"
-          },
-          {
-            "title": "Group flags online terror threat issued against Pandits in Kashmir, seeks probe",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/group-flags-online-terror-threat-issued-against-pandits-in-kashmir-seeks-probe/article71324700.ece",
-            "source": "The Hindu",
-            "summary": "Panun Kashmir says a threat issued by United Liberation Council “has specifically named members of the Kashmiri Pandit community and disclosed their telephone numbers”",
-            "published": "2026-08-13T06:53:52+05:30"
-          },
-          {
-            "title": "Karnataka Bandh LIVE updates: Schools, banks, hospitals to remain open despite bandh over Cauvery water-sharing row",
-            "link": "https://www.hindustantimes.com/india-news/karnataka-bandh-today-live-cauvery-water-dispute-impact-cwma-what-is-open-what-is-close-latest-updates-101786581771119.html",
-            "source": "Hindustan Times",
-            "summary": "Karnataka Bandh LIVE updates: Bengaluru City Police have appealed for calm and cooperation ahead of the 'Karnataka Bandh' called for August 13, 2026, saying that they fully respect citizens' democratic right to protest peacefully within the law.",
-            "published": "2026-08-13T06:52:39+05:30"
-          },
-          {
-            "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-            "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-            "published": "2026-08-13T01:19:23+00:00"
           }
         ],
         "India": [
           {
+            "title": "Oil prices slip as OPEC cuts demand forecast; Iran war keeps supply risks alive",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-opec-cuts-2026-demand-forecast-iran-war-keeps-supply-risks-alive/articleshow/133195863.cms",
+            "source": "Times of India",
+            "summary": "Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both OPEC and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying supply concerns, while negotiations between Iran and the US remain inconclusive.",
+            "published": "2026-08-13T07:50:04+05:30"
+          },
+          {
+            "title": "Seven labourers find ‘ ₹50 lakh’ diamond in Madhya Pradesh’s Panna: ‘Rock measured 17.96 carats’",
+            "link": "https://www.hindustantimes.com/trending/seven-labourers-find-50-lakh-diamond-in-madhya-pradesh-s-panna-rock-measured-17-96-carats-101786585365150.html",
+            "source": "Hindustan Times",
+            "summary": "A Madhya Pradesh man spotted the diamond on a leased land after a heavy rainfall.",
+            "published": "2026-08-13T07:35:39+05:30"
+          },
+          {
+            "title": "Indian Teen Murders Mother, Brother In US Home, \"Searched 'Kill Family' Fantasies\"",
+            "link": "https://www.ndtv.com/world-news/indian-origin-teen-arjun-aravind-murders-mother-brother-in-us-home-chatgpted-fantasies-about-killing-family-11902759#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Police alleged that Aravind, a student at Acton-Boxborough Regional High School, fatally assaulted his mother and brother inside their home on Tuesday before fleeing the scene on his mother's Honda Accord.",
+            "published": "2026-08-13T07:34:50+05:30"
+          },
+          {
+            "title": "Ten fishermen from Rameswaram held by Lankan Navy",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/ten-fishermen-from-rameswaram-held-by-lankan-navy/article71339334.ece",
+            "source": "The Hindu",
+            "summary": "They were taken to a port in the early hours of Thursday",
+            "published": "2026-08-13T07:32:40+05:30"
+          },
+          {
+            "title": "It's one year to Intel becoming a 'US govt company', what this meant for the chip giant",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/its-one-year-to-intel-becoming-a-us-government-company-what-has-this-meant-for-the-chip-giant/articleshow/133195828.cms",
+            "source": "Times of India",
+            "summary": "In a landmark decision, the US government has taken a significant stake in Intel, officially becoming its largest shareholder. This strategic development signals a pivotal change in the nation's approach to industrial policy and technology strategy. Aiming to enhance domestic manufacturing and protect vital infrastructure, the move offers a sense of supply chain security, but it raises valid concerns regarding…",
+            "published": "2026-08-13T07:31:30+05:30"
+          },
+          {
+            "title": "Air India pilot who tested positive for marijuana slept 30-35 minutes during Phuket-Delhi flight",
+            "link": "https://www.hindustantimes.com/india-news/air-india-pilot-who-tested-positive-for-marijuana-slept-30-35-minutes-during-phuket-delhi-flight-101786585995550.html",
+            "source": "Hindustan Times",
+            "summary": "The pilot told investigators he had been struggling with his sleep for some time because of personal circumstances.",
+            "published": "2026-08-13T07:28:18+05:30"
+          },
+          {
+            "title": "Former Punjab CM Beant Singh’s murder convict declines custody parole offer, seeks regular parole",
+            "link": "https://www.hindustantimes.com/india-news/former-punjab-cm-beant-singh-murder-convict-jagtar-singh-hawara-declines-custody-parole-offer-seeks-regular-parole-101786585356771.html",
+            "source": "Hindustan Times",
+            "summary": "Custody parole is a short-term, supervised release of a convicted prisoner from jail. An armed police escort stays with the inmate the entire time.",
+            "published": "2026-08-13T07:22:14+05:30"
+          },
+          {
+            "title": "Opposition accuses UDF government of ‘undeclared social media emergency’ in Kerala",
+            "link": "https://www.thehindu.com/news/national/kerala/opposition-accuses-udf-government-of-undeclared-social-media-emergency-in-kerala/article71337578.ece",
+            "source": "The Hindu",
+            "summary": "LDF accuses government of removing several posts as well as news reports related to the arrest of Youth Congress leaders on synthetic drug peddling charges",
+            "published": "2026-08-13T07:16:29+05:30"
+          },
+          {
             "title": "Moon meets Sun: Rare solar eclipse captivates millions across Europe",
             "link": "https://timesofindia.indiatimes.com/world/europe/moon-meets-sun-millions-witness-rare-solar-eclipse-as-uk-sees-90-coverage-across-europe/articleshow/133195731.cms",
             "source": "Times of India",
@@ -113,84 +169,42 @@
             "published": "2026-08-13T07:14:27+05:30"
           },
           {
+            "title": "NIA searches 13 locations in Tamil Nadu and Mizoram after meth seizure",
+            "link": "https://www.thehindu.com/news/national/nia-searches-13-locations-in-tamil-nadu-and-mizoram-after-meth-seizure/article71337632.ece",
+            "source": "The Hindu",
+            "summary": "Five locations in Mizoram and eight in Tamil Nadu were searched, leading to the seizure of several digital devices, ₹71 lakh in cash, $53,500, and 1,50,000 Myanmar Kyat in Chennai",
+            "published": "2026-08-13T07:12:54+05:30"
+          },
+          {
+            "title": "Ramanathapuram police bust meth syndicate, seize 1.4 kg of drugs and uncover manufacturing lab",
+            "link": "https://www.thehindu.com/news/cities/Madurai/ramanathapuram-police-bust-meth-syndicate-seize-14-kg-of-drugs-and-uncover-manufacturing-lab/article71290908.ece",
+            "source": "The Hindu",
+            "summary": "Nine persons, including the mastermind, were arrested as police unearthed a meth manufacturing lab and seized chemicals, laboratory equipment and methamphetamine",
+            "published": "2026-08-13T07:12:23+05:30"
+          },
+          {
             "title": "Two killed as US Army Apache helicopter crashes near Fort Hood base in Texas",
             "link": "https://timesofindia.indiatimes.com/world/us/two-killed-as-us-army-apache-helicopter-crashes-near-fort-hood-base-in-texas/articleshow/133195693.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-13T07:11:50+05:30"
-          },
-          {
-            "title": "'Very, very difficult': Can Kuldeep Yadav become India's next spin leader?",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/very-very-difficult-murali-kartik-on-kuldeep-yadavs-chance-to-become-indias-next-spin-leader/articleshow/133195701.cms",
-            "source": "Times of India",
-            "summary": "Kuldeep Yadav has played 18 Tests for India and taken 79 wickets in 34 innings. He has a bowling average of 22.35, an economy rate of 3.53 and a strike rate of 37.9. He has taken four four-wicket hauls and five five-wicket hauls. His best innings figures are 5/40, while his best match figures are 8/113. Kuldeep has also been a successful limited-overs bowler. He has 194 wickets from 121 ODIs at an average of 27.04…",
-            "published": "2026-08-13T07:11:03+05:30"
-          },
-          {
-            "title": "FDA suspends 13 food establishments’ licences across four districts in Maharashtra",
-            "link": "https://www.thehindu.com/news/national/maharashtra/fda-suspends-13-food-establishments-licences-across-four-districts-in-maharashtra/article71338050.ece",
-            "source": "The Hindu",
-            "summary": "Four Domino’s Pizza licenses were suspended in Mumbai and Satara",
-            "published": "2026-08-13T07:09:59+05:30"
-          },
-          {
-            "title": "India’s first ‘private, branded’ train to run as ‘Sprite’ Tejas Express",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/indias-first-private-branded-train-to-run-as-sprite-tejas-express/article71337893.ece",
-            "source": "The Hindu",
-            "summary": "IRCTC awards train branding advertising rights to M/s Sprite for six months; the private train will be announced as ‘Sprite’ Tejas Express at originating and en route stations on both sides of the journey",
-            "published": "2026-08-13T07:07:30+05:30"
-          },
-          {
-            "title": "FCRA bill sent to JPC amid Opposition uproar, Amit Shah’s debate offer rejected: 'We are ready vs man lacks courage'",
-            "link": "https://www.hindustantimes.com/india-news/fcra-bill-sent-to-jpc-amid-opposition-uproar-amit-shah-s-debate-offer-rejected-we-are-ready-vs-man-lacks-courage-101786582263444.html",
-            "source": "Hindustan Times",
-            "summary": "The FCRA amendment bill was referred to a 31-member JPC amid Opposition protests, while Amit Shah’s offer to discuss student protests was rejected.",
-            "published": "2026-08-13T07:04:57+05:30"
-          },
-          {
-            "title": "Amid shifting power &amp; scrutiny, Chandrasekaran enters the final stretch",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/amid-shifting-power-scrutiny-chandrasekaran-enters-the-final-stretch/articleshow/133195649.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-13T07:01:23+05:30"
-          },
-          {
-            "title": "‘Private parts electrocuted’: Wife kills man with help from lover in south Delhi",
-            "link": "https://timesofindia.indiatimes.com/city/delhi/private-parts-electrocuted-wife-kills-man-with-help-from-lover-in-south-delhi/articleshow/133195611.cms",
-            "source": "Times of India",
-            "summary": "A horrifying scene unfolded in a quiet home where a man was discovered murdered, initially thought to be the work of a burglar. However, police uncovered a dark plot involving the man's wife and her lover, who conspired to kill him. They sedated him, used electrocution, and artfully manipulated the scene to resemble a robbery.",
-            "published": "2026-08-13T06:59:45+05:30"
-          },
-          {
-            "title": "Manipur: NIA arrests one accused in Tranglaobi IED attack case",
-            "link": "https://www.hindustantimes.com/india-news/manipur-nia-arrests-one-accused-in-tranglaobi-ied-attack-case-101786584585264.html",
-            "source": "Hindustan Times",
-            "summary": "The incident occurred on April 7, 2026 and resulted in the death of two minor children and injuries to another person",
-            "published": "2026-08-13T06:59:44+05:30"
-          },
-          {
-            "title": "Kashmiri Pandit killings: J&K Police’s special cell reopens 1990 case; searches multiple locations",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandit-killings-jk-polices-special-cell-reopens-1990-case-searches-multiple-locations/article71336493.ece",
-            "source": "The Hindu",
-            "summary": "Searches were carried out in Rajouri and Anantnag districts; latest raids were carried out ahead of Independence Day and reported terror threats issued against members of the minority community in Kashmir",
-            "published": "2026-08-13T06:54:00+05:30"
-          },
-          {
-            "title": "Group flags online terror threat issued against Pandits in Kashmir, seeks probe",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/group-flags-online-terror-threat-issued-against-pandits-in-kashmir-seeks-probe/article71324700.ece",
-            "source": "The Hindu",
-            "summary": "Panun Kashmir says a threat issued by United Liberation Council “has specifically named members of the Kashmiri Pandit community and disclosed their telephone numbers”",
-            "published": "2026-08-13T06:53:52+05:30"
-          },
-          {
-            "title": "Karnataka Bandh LIVE updates: Schools, banks, hospitals to remain open despite bandh over Cauvery water-sharing row",
-            "link": "https://www.hindustantimes.com/india-news/karnataka-bandh-today-live-cauvery-water-dispute-impact-cwma-what-is-open-what-is-close-latest-updates-101786581771119.html",
-            "source": "Hindustan Times",
-            "summary": "Karnataka Bandh LIVE updates: Bengaluru City Police have appealed for calm and cooperation ahead of the 'Karnataka Bandh' called for August 13, 2026, saying that they fully respect citizens' democratic right to protest peacefully within the law.",
-            "published": "2026-08-13T06:52:39+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Olympic skateboarder times epic stunt with solar eclipse",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.",
+            "published": "2026-08-13T01:56:11+00:00"
+          },
+          {
+            "title": "Zimbabwe’s land reform enters a new chapter",
+            "link": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000.",
+            "published": "2026-08-13T01:48:39+00:00"
+          },
           {
             "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
             "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
@@ -260,36 +274,29 @@
             "source": "BBC World",
             "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
             "published": "2026-08-12T23:00:47+00:00"
-          },
-          {
-            "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-            "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-            "published": "2026-08-12T22:58:45+00:00"
-          },
-          {
-            "title": "Thousands of Canadians call for US ambassador's expulsion",
-            "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-            "published": "2026-08-12T22:56:44+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Korean stocks rise 22% in 10 days as chip rally regains steam",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-stocks-rise-22-in-10-days-as-chip-rally-regains-steam/articleshow/133195972.cms",
+            "source": "Economic Times",
+            "summary": "The benchmark Kospi gained as much as 4.8% on Thursday, extending its gain from a July 30 low to around 22%. Heavyweight memory chipmakers Samsung Electronics Co. and SK Hynix Inc. drove the advance, each jumping more than 5%.",
+            "published": "2026-08-13T07:48:01+05:30"
+          },
+          {
+            "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/articleshow/133195813.cms",
+            "source": "Economic Times",
+            "summary": "Oil prices dipped as demand forecasts for 2026 were lowered due to the U.S.-Israeli war on Iran. Despite supply concerns from the conflict, a surprise build in U.S. crude inventories and stalled talks with Iran are impacting the market, with shipping risks in key straits adding to volatility.",
+            "published": "2026-08-13T07:31:17+05:30"
+          },
           {
             "title": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push",
             "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/yotta-plans-ipo-of-up-to-rs-8000-cr-to-fund-ai-infra-push/articleshow/133195570.cms",
             "source": "Economic Times",
             "summary": "Yotta Data Services is preparing to file its draft prospectus for an initial public offering. The company aims to raise approximately six thousand to eight thousand crore rupees. These funds will support expanding data centre footprint and AI infrastructure deployment. Yotta recently secured one hundred fifty million dollars in a pre-IPO funding round. This move positions Yotta to meet growing demands for computing…",
             "published": "2026-08-13T06:46:40+05:30"
-          },
-          {
-            "title": "Global Market Today: Asian stocks rise as rate hike bets ease, oil dips",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms",
-            "source": "Economic Times",
-            "summary": "Asian equities rallied as easing inflation in the United States reduced fears surrounding interest rate hikes. The MSCI Asia Pacific Index reflected this positive sentiment, following the upward trajectory of US markets. Meanwhile, Brent crude oil prices declined, breaking a recent climbing streak. Market participants are particularly focused on the Japanese yen, which is approaching a crucial level against the…",
-            "published": "2026-08-13T06:25:31+05:30"
           },
           {
             "title": "Sebi sees no CAS manipulation, eyes more participation",
@@ -311,13 +318,6 @@
             "source": "BBC Business",
             "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
             "published": "2026-08-12T23:00:47+00:00"
-          },
-          {
-            "title": "Supreme Court rulings set to raise insurers' third-party liability",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/supreme-court-rulings-set-to-raise-insurers-third-party-liability/articleshow/133195311.cms",
-            "source": "Economic Times",
-            "summary": "General insurers face higher motor third-party claim reserves due to Supreme Court rulings. A recent ruling fixes homemakers' notional income, increasing claim payouts. This interpretation is expected to raise claim outgo significantly over eighteen months. Insurers also face policy standardization for occupant and pillion-rider coverage. Motor third-party insurance remains challenging with rising claim costs and…",
-            "published": "2026-08-13T01:04:08+05:30"
           },
           {
             "title": "Trump sued over Truth Social's $100,000 early access service",
@@ -363,6 +363,34 @@
           }
         ],
         "Sports": [
+          {
+            "title": "Lionel Messi Returns To Action Amid Retirement Speculation After Father's Death",
+            "link": "https://sports.ndtv.com/football/lionel-messi-returns-to-action-amid-retirement-speculation-after-fathers-death-11902758#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Argentina football team superstar Lionel Messi returned to action amid growing speculations over his career following his father Jorge Messi's death.",
+            "published": "2026-08-13T07:27:55+05:30"
+          },
+          {
+            "title": "Sunil Gavaskar's Warning For Gautam Gambhir And Co As Sri Lanka Test Looms",
+            "link": "https://sports.ndtv.com/cricket/sunil-gavaskar-warning-for-gautam-gambhir-and-co-as-sri-lanka-test-looms-11902203#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India have nine Tests to prove their mettle and qualify for the World Test Championship final. Currently, the Gautam Gambhir-coached side is fifth in the standings with four wins and four losses from nine matches, with a PCT of 48.15",
+            "published": "2026-08-13T06:57:55+05:30"
+          },
+          {
+            "title": "Gautam Gambhir's Head Coach Job Safe Or Unsafe? BCCI's Decision Made, 2 Major Factors In Play",
+            "link": "https://sports.ndtv.com/cricket/gautam-gambhirs-head-coach-job-safe-or-unsafe-bccis-decision-made-2-major-factors-in-play-11902212#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India head coach Gautam Gambhir faces intense scrutiny over his position amid poor results in Test cricket and also white-ball cricket of late.",
+            "published": "2026-08-13T06:52:41+05:30"
+          },
+          {
+            "title": "Australia vs Bangladesh 1st Test Live Updates And Live Cricket Score",
+            "link": "https://sports.ndtv.com/cricket/australia-vs-bangladesh-1st-test-live-updates-and-live-cricket-score-11902153#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Australia vs Bangladesh 1st Test Live Updates: Australia won the toss and opted to bat against Bangladesh in the 1st Test of the two-match series on Thursday.",
+            "published": "2026-08-13T06:51:10+05:30"
+          },
           {
             "title": "Australia bat first in Darwin, Bangladesh play Ebadot and Mahmud",
             "link": "https://www.cricinfo.com/ci/content/story/1549650.html?ex_cid=OTC-RSS",
@@ -418,34 +446,6 @@
             "source": "NDTV Sports",
             "summary": "",
             "published": "2026-08-13T00:26:10+05:30"
-          },
-          {
-            "title": "Cristiano Ronaldo's Emotional Response To Lionel Messi's Family Tragedy Draws Praise",
-            "link": "https://sports.ndtv.com/football/cristiano-ronaldo-reaches-out-to-lionel-messi-after-devastating-loss-11900990#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "On the field, they are the fiercest of competitors. Off the field, Lionel Messi and Cristiano Ronaldo, two of the all-time greats in football, have shown respect for each other",
-            "published": "2026-08-13T00:12:06+05:30"
-          },
-          {
-            "title": "Zadran, Atal tons propel Afghanistan to series win",
-            "link": "https://www.cricinfo.com/ci/content/story/1549645.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Balbirnie's ton, Campher blitz not enough as Ireland fall short in 344 chase",
-            "published": "2026-08-12T18:34:35+00:00"
-          },
-          {
-            "title": "Ireland vs Afghanistan 4th ODI Highlights: Sediqullah Atal, Ibrahim Zadran Tons Take Afghanistan To Series Victory",
-            "link": "https://sports.ndtv.com/cricket/ireland-vs-afghanistan-4th-odi-live-updates-ire-vs-afg-live-scorecard-rashid-khan-rahmat-shah-paul-stirling-11898995#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Ireland vs Afghanistan 4th ODI Score Updates: Centuries from Sediqullah Atal and Ibrahim Zadran propelled Afghanistan to victory in the fourth ODI in Belfast.",
-            "published": "2026-08-12T23:48:12+05:30"
-          },
-          {
-            "title": "Real Madrid vs Deportivo A Coruna LIVE Streaming, Pre-Season Friendly LIVE Telecast: When And Where To Watch",
-            "link": "https://sports.ndtv.com/football/real-madrid-vs-deportivo-a-coruna-live-streaming-trofeo-teresa-herrera-live-telecast-when-and-where-to-watch-pre-season-friendly-11902123#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "",
-            "published": "2026-08-12T23:38:17+05:30"
           }
         ],
         "Technology": [
@@ -648,6 +648,20 @@
             "published": "2026-08-13T12:10:29+05:30"
           },
           {
+            "title": "Earthquake in Leh-Ladakh: लेह में सुबह 6 बजे महसूस हुए भूकंप के तेज झटके! कितनी गहराई में था केंद्र?",
+            "link": "https://hindi.oneindia.com/news/india/earthquake-in-leh-ladakh-5-5-magnitude-tremors-felt-news-in-hindi-1628075.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-13T07:51:15+05:30"
+          },
+          {
+            "title": "'109 साल पहले अंग्रेज़ों को दिया था 35 हज़ार रुपए का लोन': मध्य प्रदेश के इस परिवार ने की रकम लौटाने की मांग",
+            "link": "https://www.bbc.com/hindi/articles/ce97pv8p18zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-13T02:02:15+00:00"
+          },
+          {
             "title": "Punjab: ऑनलाइन गेमिंग में नुकसान के बाद तीन दोस्तों ने निगला जहर, दो की मौत; तीसरे की हालत खतरे से बाहर",
             "link": "https://www.amarujala.com/chandigarh/punjab-three-friends-consumed-poison-after-suffering-losses-in-online-gaming-two-died-2026-08-13",
             "source": "Amar Ujala",
@@ -695,20 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-13T05:58:18+05:30"
-          },
-          {
-            "title": "भास्कर अपडेट्स:ओडिशा में डिजिटल गवर्नेंस को कैबिनेट की मंजूरी, ₹122.60 करोड़ का बजट",
-            "link": "https://www.bhaskar.com/g/national/news/breaking-news-live-updates-headlines-13-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138712298.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-12T23:52:31+00:00"
-          },
-          {
-            "title": "जालंधर डबल मर्डर- मां से खाना नहीं खा पाए बच्चे:मर्डर से पहले पत्नी पीटी, सिर पर जग मारा; छुड़ाने आए पिता को चाकू से चीरा",
-            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/jalandhar-double-murder-case-hira-lal-sarita-domestic-violence-crime-138709789.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-12T23:50:28+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "જીવલેણ પૂરમાં 97 વર્ષીય દાદી કેવી રીતે કેળના થડના તરાપા પર બેસીને બચી ગયાં?",
+            "link": "https://www.bbc.com/gujarati/articles/c1l12dmj558o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-13T02:12:22+00:00"
+          },
+          {
             "title": "ચોમાસુ સત્રનો આજે છેલ્લો દિવસ:જંતર-મંતર પ્રદર્શન પર શાહ જવાબ આપી શકે છે, રિજિજુ બોલ્યા- વિપક્ષ ઇચ્છે તો સત્ર લંબાવી શકે છે",
             "link": "https://www.divyabhaskar.co.in/national/news/amit-shah-parliament-statement-jantar-mantar-protest-monsoon-session-138712441.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-12T10:26:17+00:00"
-          },
-          {
-            "title": "વર્ષનું પહેલું સૂર્યગ્રહણ, ક્યાં દેખાશે પૂર્ણ ગ્રહણ?",
-            "link": "https://www.bbc.com/gujarati/articles/cz974wqvxg9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "આગામી સમયમાં ફરી એકવાર સમગ્ર વિશ્વના લોકો આકાશમાં સૂર્યગ્રહણનો અદ્ભુત નજારો જોવા માટે આતુર છે. ખગોળશાસ્ત્રીઓ અને વિજ્ઞાનમાં રસ ધરાવતા લોકો માટે આ ઘટના ખૂબ જ ખાસ ગણાય છે. સત્તાવાર અહેવાલો અનુસાર, ૧૨ ઓગસ્ટ ૨૦૨૬ના રોજ આ સૂર્યગ્રહણ થવાનું છે, જે વિશ્વના અનેક દેશોમાં દેખાશે. સૂર્યગ્રહણની ઘટના ત્યારે બને છે જ્યારે ચંદ્ર પૃથ્વી અને સૂર્યની વચ્ચે આવી જાય છે, જેના કારણે સૂર્યનો પ્રકાશ થોડા સમય માટે અવરોધાય છે અને પૃથ્વી પર અંધકાર જેવો માહોલ છવાઈ જાય છે. આ અગાઉ પણ દુનિયાભરમાં આવી ઘણી ખગોળીય ઘટનાઓ જોવા મળી છે, જે કુદરતના અદભૂત ચક્રને દર્શાવે છે. જોકે, મુખ્ય પ્રશ્ન એ છે કે શું આ ગ્રહણ ભારતમાં જોવા મળશે કે નહીં, તે અંગેની સત્તાવાર માહિતી હજુ સ્પષ્ટતા માગી રહી છે. ખગોળીય ઘટનાઓ હંમેશા ઉત્સુકતાનો વિષય રહી છે અને લોકો તેને નિહાળવા માટે વિશેષ સાધનોનો ઉપયોગ કરતા હોય છે. આ ઘટનાની જાહેરાત સાથે જ વિજ્ઞાન જગતમાં ઉત્સાહ જોવા મળી રહ્યો છે. આશા છે કે આ ગ્રહણ સમયે વાતાવરણ અનુકૂળ રહેશે અને લોકો કુદરતના આ આકર્ષક નજારાનો આનંદ માણી શકશે. ખગોળશાસ્ત્રના અભ્યાસુઓ માટે આ દિવસ ખૂબ જ મહત્વનો સાબિત થશે.",
-            "published": "2026-08-12T10:00:46+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "முடிவெடுக்கும் திறன், ஜனநாயகம் உட்பட வாழ்க்கைப் பாடங்களை கற்றுத்தரும் 5 பூச்சிகள்",
+            "link": "https://www.bbc.com/tamil/articles/c0rd25evdn1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-13T02:02:30+00:00"
+          },
           {
             "title": "9 ராமேஸ்வரம் மீனவர்கள் கைது.. நடுக்கடலில் அத்துமீறிய இலங்கை கடற்படை.. என்ன நடந்தது?",
             "link": "https://tamil.oneindia.com/news/tamilnadu/fishermen-sri-lankan-navy-arrests-9-tamil-nadu-fishermen-in-mid-sea-crackdown-823333.html",
@@ -907,13 +914,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-08-13T07:10:13+05:30"
-          },
-          {
-            "title": "முடிவெடுக்கும் திறன், ஜனநாயகம் உட்பட வாழ்க்கைப் பாடங்களை கற்றுத்தரும் 5 பூச்சிகள்",
-            "link": "https://www.bbc.com/tamil/articles/c0rd25evdn1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-08-13T01:32:17+00:00"
           },
           {
             "title": "100 வருஷத்துக்கு பிறகு நடந்த அதிசயம்.. வானத்தில் திடீரென மறைந்த சூரியன்! அறிவியல் ஆச்சரியம்",
@@ -1072,6 +1072,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Irumudi: ‘ఇరుముడి’.. నాకు ఆ నమ్మకం ఉంది: రవితేజ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzB0cTlINWNBRkJIX3FzcmxvTG1uVzFvSnlKbktWakN4NnBGY0w4cWw5Y0U1alFDUmN1blQxeDJkQmhTWlNlTmRhYU1QOTBDQkVyN2F2V05qcldHSTlvdURUc1R2akZYUHV1dVc1RXBoZTB6QkxQUnVYc3FRM3hGRTZpWWdQZkVKUjRsa0hYc0V3eXRTQzVVQ0tjQ2c3ZzZl0gGgAUFVX3lxTE1XMHRxOUg1Y0FGQkhfcXNybG9MbW5XMW9KeUpuS1ZqQ3g2cEZjTDhxbDljRTVqUUNSY3VuVDF4MmRCaFNaU2VOZGFhTVA5MENCRXI3YXZXTmpyV0dJOW91RFRzVHZqRlhQdXV1VzVFcGhlMHpCTFBSdVhzcVEzeEZFNmlZZ1BmRUpSNGxrSFhzRXd5dFNDNVVDS2NDZzdnNmU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T02:11:56+00:00"
+          },
+          {
+            "title": "రెండేళ్లు తవ్వినా ఏమీ దొరకలేదు.. ఏడాది పాటు మూసేసిన గనిని వర్షాల తరువాత చూడ్డానికి వెళ్లారు.. ‘రూ. 50 లక్షల’ వజ్రం దొరికింది",
+            "link": "https://www.bbc.com/telugu/articles/cr59p794gjzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-13T02:08:29+00:00"
+          },
+          {
+            "title": "ఈ తెల్లవారు జామున భారీ భూకంపం",
+            "link": "https://telugu.oneindia.com/news/india/earthquake-today-magnitude-5-5-on-richter-scale-strikes-leh-tremor-felt-ladakh-jammu-and-kashmir-501387.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-13T07:32:59+05:30"
+          },
+          {
+            "title": "వివాహేతర సంబంధం.. వివాహిత దారుణ హత్య - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXlacHAtZC1DRjdFTHN5akgyNlNKTGRvbkFHVGZIWGxDU0dTNGpEMW1BX0dHazZHTmU2NlB4YmV4dTFMSmN5eWF1TUZaTGl3NjhmWlpFWTl4ZzFXRUx3UWJCcUxqbmtXMlZWdVhwU0ZrcUd1SEl3QXlORXdzemhrVQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T01:43:52+00:00"
+          },
+          {
             "title": "తిరుచానూరు ఆలయంలో వరలక్ష్మీవ్రతం- మహిళలకు టీటీడీ కానుక",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-makes-elaborate-arrangements-for-varalakshmi-vratam-on-august-21-at-sri-padmavathi-temple-501385.html",
             "source": "Oneindia Telugu",
@@ -1079,18 +1107,18 @@
             "published": "2026-08-13T06:55:45+05:30"
           },
           {
-            "title": "డీ… లిమిటేషన్‌ బిల్లుకు వ్యతిరేకంగా తమిళనాడు అసెంబ్లీ తీర్మానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zbzlvYVhjUndROXlueHBfaER6ZXNrSzJ2RTR3TjJQaTd3ZkhGaGIyV1VOY0ZVWFh2SXFhYmhpTzhmajRUR2tFdFBiR1FsZEotMjN4UDlZUXRtOWpZQ0dsV1FKb2ZVT0kyRGI1alozT03SAXBBVV95cUxPc285b2FYY1J3UTl5bnhwX2hEemVza0sydkU0d04yUGk3d2ZIRmhiMldVTmNGVVhYdklxYWJoaU84Zmo0VEdrRXRQYkdRbGRKLTIzeFA5WVF0bTlqWUNHbFdRSm9mVU9JMkRiNWpaM09N?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T01:10:08+00:00"
-          },
-          {
             "title": "News in Pics: చిత్రం చెప్పే విశేషాలు (13-08-2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54dlpSNTNjUnpwZGNwdXRwMWtJckV6OXVFTi1GNkJtOVpmS1E1TjhzQWYtNzN4N1gwcWhqWUlsZS1qS3FJWF9xekpNYm04ZmRUdE1NV1B2T2hnekZfY2NYWS1nMWdoeXE4OFMwbVFTclhpVDBZTnpHUjZn0gF6QVVfeXFMTnh2WlI1M2NSenBkY3B1dHAxa0lyRXo5dUVOLUY2Qm05WmZLUTVOOHNBZi03M3g3WDBxaGpZSWxlLWpLcUlYX3F6Sk1ibThmZFR0TU1XUHZPaGd6Rl9jY1hZLWcxZ2h5cTg4UzBtUVNyWGlUMFlOekdSNmc?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-13T01:05:25+00:00"
+          },
+          {
+            "title": "ఎల్‌నినో ప్రభావాన్నిఎదుర్కొనేలా సన్నద్ధం కావాలి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSlJVa09CR19HZVJ5TF9FMGtaT1ozMVlGbmRPNnZLSUVaRWJCM0NSejYyMDlzOF9LZF94bV9VX3ZNNlU0cnBrbmVaUG5WanJsRzY2VmNONHpTTm0xZ1FLLWtpZXdaZUpsX1pKTnZGSFg2VkNDRXNmamNqZHnSAXxBVV95cUxQY0pSVWtPQkdfR2VSeUxfRTBrWk9aMzFZRm5kTzZ2S0lFWkViQjNDUno2MjA5czhfS2RfeG1fVV92TTZVNHJwa25lWlBuVmpybEc2NlZjTjR6U05tMWdRSy1raWV3WmVKbF9aSk52RkhYNlZDQ0VzZmpjamR5?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T00:55:52+00:00"
           },
           {
             "title": "రాజ్యాంగ విలువలు తెలియని వ్యక్తి అమరావతి పేరును మావిగన్‌గా మార్చాలనుకుంటున్నారు - Eenadu",
@@ -1107,6 +1135,13 @@
             "published": "2026-08-13T00:50:56+00:00"
           },
           {
+            "title": "స్వదేశీ పరిజ్ఞానంతో కిసాన్‌ డ్రోన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzS1B6MW1LZVhXcEE2NFhLSWJ4TEtPWUVLVUZjZ2ZzQmNzLWQ0aDFRTTI2Y190TWVWcmx4cmJyb3d2b0dHTGVnR2RhQUpCZ2Nzd3NuMXcxd25hMEl1dE05bFRWVURBVWJGTDdCaUtYMVrSAXBBVV95cUxQc0tQejFtS2VYV3BBNjRYS0lieExLT1lFS1VGY2dmc0Jjcy1kNGgxUU0yNmNfdE1lVnJseHJicm93dm9HR0xlZ0dkYUFKQmdjc3dzbjF3MXduYTBJdXRNOWxUVlVEQVViRkw3QmlLWDFa?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T00:45:32+00:00"
+          },
+          {
             "title": "Karimnagar: కొండగట్టు ఆలయ హుండీల్లో బొమ్మ కరెన్సీ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQktmSFJRYmQyOUxZYi14Um5wYS1mYTVvcVVwRkR0S2pfbmNsd3d1ai1Jd0h5akItSzlWRTlmb2V3YmNrX0sxbDJWRjhmcGdCWkQwNmY1bE9sdGR6RmFVY1JLRFRnNDZzOFRrYTRBX3cycXp4TDVYSHFrY3FHVURRN1d2TlhzWERlN0YybHdqQ1hIN0VRT0hnYkJmMWNEOXBycTdNcnZrVzA4MDBSZHJVXzNnSnZZOVZWV205cVFB?oc=5",
             "source": "Eenadu",
@@ -1114,46 +1149,11 @@
             "published": "2026-08-13T00:45:00+00:00"
           },
           {
-            "title": "జస్టిస్‌ వర్మపై అభియోగాలు రుజువయ్యాయి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsMXpyUE9ybTJSR2ZWclJTNlBhM1ZtcVVTVzZCUi0zS0pDNWNmMnpKT0V2QVFidVRaT1pUWmpPWU5KVWFYWDdScy1TRkhucmtHV1pBQmkyR0JGc1lPclA5TUJVeUN4VWdXUWRnSk9udjjSAXBBVV95cUxQbDF6clBPcm0yUkdmVnJSUzZQYTNWbXFVU1c2QlItM0tKQzVjZjJ6Sk9FdkFRYnVUWk9aVFpqT1lOSlVhWFg3UnMtU0ZIbnJrR1daQUJpMkdCRnNZT3JQOU1CVXlDeFVnV1FkZ0pPbnY4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T00:44:50+00:00"
-          },
-          {
-            "title": "TG High Court: మీ వైఖరి కోర్టు ధిక్కారమే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVJjZ3V3SjZaUHdjZmw1NHY2S3Jfekt0Sy1aV0o4Tk13MllnbFpzOGp6azJTenFmdXZTZXowV2lGOWIyQkE0VGFKeXJpcjZPT1ZiX19SbWRnVW1hVjJfQkJFdlhlNU9ySDEtd196dndCWUZuTGhwU1RDX21KUm9LaGxlcmFsam9nZEVNWWFhQ1dhLWtjaXJabnhoS2w2OU1VWmRsTlQyWVBTdUZZdnVLVHFB0gGyAUFVX3lxTE91UmNndXdKNlpQd2NmbDU0djZLcl96S3RLLVpXSjhOTXcyWWdsWnM4anprMlN6cWZ1dlNlejBXaUY5YjJCQTRUYUp5cmlyNk9PVmJfX1JtZGdVbWFWMl9CQkV2WGU1T3JIMS13X3p2d0JZRm5MaHBTVENfbUpSb0tobGVyYWxqb2dkRU1ZYWFDV2Eta2NpclpueGhLbDY5TVVaZGxOVDJZUFN1Rll2dUtUcUE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T00:44:36+00:00"
-          },
-          {
-            "title": "AP high court: హైకోర్టు రిజిస్ట్రార్‌ జనరల్‌గా గుత్తాల గోపి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2dzUm1FQktxNUV1ekdpMk4tSEFQWjZQbVJTc3N6aWNXUUE5YUU2dU85R293c3dQUVJmVFQxeUl5dzFKUGE5d2sxM2dVSE82QmdLZk81eUNncEI4MUdsd0xzSldhSHVXbWkwMEtWNThVMUptbTJxX29mbGluQlE3WmZjdXVwSGFRMnFlTnZqcjhPenF2bkplMWRvOEVnMnIyeHJCb0F3cHhXWXJUSzhuVlVRSFpXSUtLdnRhNmZRZ9IBvwFBVV95cUxQQ2dzUm1FQktxNUV1ekdpMk4tSEFQWjZQbVJTc3N6aWNXUUE5YUU2dU85R293c3dQUVJmVFQxeUl5dzFKUGE5d2sxM2dVSE82QmdLZk81eUNncEI4MUdsd0xzSldhSHVXbWkwMEtWNThVMUptbTJxX29mbGluQlE3WmZjdXVwSGFRMnFlTnZqcjhPenF2bkplMWRvOEVnMnIyeHJCb0F3cHhXWXJUSzhuVlVRSFpXSUtLdnRhNmZRZw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T00:42:46+00:00"
-          },
-          {
-            "title": "నొయిడా ఎయిర్‌పోర్టులో నిలిచిన నీరు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44V3BMT3l4WEo4clNEcWFmdTFNNmpZSE9BWGk2VWZqeG4tMmVvcVZaVnBXbVFSWXpQaEpSbUtnVVZSdUdVaUo0M3ZwV3B5TFBSNmFrdHg0RW5QYUFWeUowb0NLVkpPdk55eUc1MW52UUfSAXBBVV95cUxOOFdwTE95eFhKOHJTRHFhZnUxTTZqWUhPQVhpNlVmanhuLTJlb3FWWlZwV21RUll6UGhKUm1LZ1VWUnVHVWlKNDN2cFdweUxQUjZha3R4NEVuUGFBVnlKMG9DS1ZKT3ZOeXlHNTFudlFH?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T00:40:30+00:00"
-          },
-          {
             "title": "మోదీ సహకారం.. చంద్రబాబు నాయకత్వంతో అమరావతికి మహర్దశ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jY05jdjZPYzU2TDRsbFRYSnVoVzY2NnJTQ1ZSLUl6YVVlUUl0R1lXY3lKM2hhQU1NUTNOOXZSWGhJVzQ5eElsV2NRZUJzTWZwdE96ZjhLOE9ucW1VeGV6UnpraHRQRkRsQUJvVld6MjNYYWR5WGpEMVdSWmXSAXxBVV95cUxNY2NOY3Y2T2M1Nkw0bGxUWEp1aFc2NjZyU0NWUi1JemFVZVFJdEdZV2N5SjNoYUFNTVEzTjl2UlhoSVc0OXhJbFdjUWVCc01mcHRPemY4SzhPbnFtVXhlelJ6a2h0UEZEbEFCb1ZXejIzWGFkeVhqRDFXUlpl?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-13T00:39:45+00:00"
-          },
-          {
-            "title": "శ్రీశైలంలో స్వల్పంగా పెరిగిన నీటి మట్టం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmRTJCbFpORU0wUXhCVC1tVm5KNnEyQXg5ZmJhN09lbVhDU3M1QUp2M2duZmMzbFFVcGhLLUU3TFkySEtMNURxUkQ1d3ZoYmk2Tldkd0RPMUR1VEc1dUphTXJZLUVpOHJnb2FWZV9DUDMzbTh4bVHSAXZBVV95cUxQZkUyQmxaTkVNMFF4QlQtbVZuSjZxMkF4OWZiYTdPZW1YQ1NzNUFKdjNnbmZjM2xRVXBoSy1FN0xZMkhLTDVEcVJENXd2aGJpNk5XZHdETzFEdVRHNXVKYU1yWS1FaThyZ29hVmVfQ1AzM204eG1R?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-13T00:34:44+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Karnataka Bandh Today: ಇಂದು ಕರ್ನಾಟಕ ಬಂದ್‌ ಇರುತ್ತಾ? ಇಲ್ವಾ? ಬೆಂಗಳೂರಲ್ಲಿ ಪೊಲೀಸರಿಂದ ಹೈ ಅಲರ್ಟ್​​",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-bandh-today-partial-shutdown-likely-over-cauvery-water-row-bengaluru-on-high-alert-464369.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-13T07:44:53+05:30"
+          },
+          {
             "title": "Assembly Session: ನಾಗೇಂದ್ರ ಸೇರ್ಪಡೆ, ಬಿಡದಿ ವಿವಾದ; ಡಿಕೆ ಸರ್ಕಾರಕ್ಕೆ ಅಧಿವೇಶನದಲ್ಲಿ ಎದುರಾಗಲಿದೆ ಅಗ್ನಿಪರೀಕ್ಷೆ",
             "link": "https://kannada.oneindia.com/news/karnataka/assembly-session-dk-shivakumar-faces-first-assembly-test-as-bidadi-township-issues-take-centre-stag-464367.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-12T16:44:41+05:30"
-          },
-          {
-            "title": "ಮಾರುಕಟ್ಟೆಗೆ 10-20 ರೂ.ಯ ಪ್ಲಾಸ್ಟಿಕ್‌ ನೋಟು : ಹೊಸ ನೋಟು ಬಂದ ಮೇಲೆ ಹಳೆಯ ನೋಟು ಏನು ಮಾಡುವುದು?",
-            "link": "https://kannada.oneindia.com/news/india/plastic-notes-10-and-20-rupees-plastic-notes-field-trial-approved-know-more-about-new-notes-464307.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-12T16:05:29+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "‘সাধু হলে আজ’! ‘চোর’ স্লোগানের জবাব সমরের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlFBdXd0V1ZmRUstRlZUdkRFZDNrYWVkRGptTy12aDFXSlpKLWxEaGs0VXJKeThZVzAyNHVWTWNYT0ZsVHlqZnZ2ckVLT2Z1a2dITGVsNGU5NlMxSXpsWklYQkxWSTlnYXJXekx2cTVOUjJlZHVKTE9JMUNHSmJ6UjBYaHhGNk5HZGEw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T02:21:05+00:00"
+          },
+          {
             "title": "প্রাক্তন বিধায়কদের চিকিৎসা ভাতা বাড়ল - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSG5HSk5uUUlxWHRwR3VPR1NIY0IyMjZnUTNPRFVTU19IMktJQURJUldBbVg2N09wNzlzWFFNU196UWFaTGpMWDNmdnpQQmxMRmllUW5xLUswSWsxZHlNbV9ob0pTX1lNNkxYdkhzc0FtbmhkbmlONnlSM3BRSnVfMENCUGNYTmdwRkVyR0YzaHU1Y05EVlE?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-08-12T15:13:19+00:00"
-          },
-          {
-            "title": "অন্নপূর্ণা যোজনার টাকা ঢুকবে কাদের অ্যাকাউন্টে, পাবেন না কারা, আয় নির্দিষ্ট করে জানিয়ে দিলেন মুখ্যমন্ত্রী! আর কী শর্ত? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWG9UQl8tSEZnZnd5UDVtVU1YNFRZOU9ERUFjQ25taExoLXJXRmVQbVpHNkRyWlExZTBTMzdGMTdXT0ZKVm5iNFVvemo5UnI0Q1dNTzJwNXdlNkQ5WnA3X0NJaUtuaG52TGR5LWoycFNfTXVxaEFfTkl5SmZRLXpDMkZGSnBqZ2ZELXJfUmZFcUJObTUtNjlWUE8xbE5zWnVXM1hKczM2YlhnQTh5TW5aZk16VDNTdUJQQXdoTk5EZk9nakRtUDFabVUxb9IB0AFBVV95cUxNOTNtLUgwNV9rU0hza2tONVJLdW5DRG90LTB5Mm9oWjVHbnRibHJoeFVtSncxZ184eXMzNjBEaEJ0OEUyN1U3bVFnWFFUV093Nk9qSFZOOGxSdWRLQ2tjbUpOQ3UwdlFueEtnWEo2czQ2emdocHNoamVfaG5kWk1aRkFicENNUnl6U3dKQTlxNkUwaFVZRl94Nkp1amJieC05dWFoSWNJU3pob2ZQVS02Y0hhazBiRnBwN2t0U24xczVFZnIwOFg4MXdoM284YzJa?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-12T14:50:32+00:00"
           }
         ]
       }
