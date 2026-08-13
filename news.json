@@ -1,196 +1,217 @@
 {
-  "updated_at": "2026-08-13T13:01:44.800354+00:00",
+  "updated_at": "2026-08-13T13:31:19.931336+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "APCRDA hands over residential complex for MLAs and MLCs in Amaravati to GAD",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/apcrda-hands-over-residential-complex-for-mlas-and-mlcs-in-amaravati-to-gad/article71340778.ece",
+            "source": "The Hindu",
+            "summary": "It comprises 12 towers with 288 flats of 3,500 square feet each; Chief Minister Chandrababu Naidu inspects the modern infrastructure provided in the complex",
+            "published": "2026-08-13T18:59:03+05:30"
+          },
+          {
+            "title": "Protests demanding drinking water: BJP urges TVK-led govt. to act on war footing",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/protests-demanding-drinking-water-bjp-urges-tvk-led-govt-to-act-on-war-footing/article71340189.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-13T18:58:14+05:30"
+          },
+          {
+            "title": "Three men will be executed on the same day as death penalties rise in US",
+            "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+            "published": "2026-08-13T13:27:00+00:00"
+          },
+          {
+            "title": "₹10.20 crore sanctioned to strengthen education, health infra in Guntur district",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/1020-crore-sanctioned-to-strengthen-education-health-infra-in-guntur-district/article71340594.ece",
+            "source": "The Hindu",
+            "summary": "Around ₹5 crore has been sanctioned for the construction of a hostel at Tadikonda Gurukulam, and ₹5.20 crore for the modernisation of the old building of Guntur GGH",
+            "published": "2026-08-13T18:56:57+05:30"
+          },
+          {
+            "title": "Mizoram, Nagaland CMs welcome Centre’s move sending FCRA Bill to JPC",
+            "link": "https://www.thehindu.com/news/national/assam/mizoram-nagaland-cms-welcome-centres-move-sending-fcra-bill-to-jpc/article71340670.ece",
+            "source": "The Hindu",
+            "summary": "The Assam Christian Forum also appreciated the decision to refer the Amendment Bill to a Joint Parliamentary Committee",
+            "published": "2026-08-13T18:51:53+05:30"
+          },
+          {
+            "title": "Pollution control board urges eco-friendly Gowri Ganesha celebrations in Dharwad",
+            "link": "https://www.thehindu.com/news/national/karnataka/pollution-control-board-urges-eco-friendly-gauri-ganesha-celebrations-in-dharwad/article71341108.ece",
+            "source": "The Hindu",
+            "summary": "It says the practice of installing idols made of PoP and coated with chemical colours, and subsequently immersing them in lakes, wells and other natural water bodies, pollutes water sources",
+            "published": "2026-08-13T18:50:57+05:30"
+          },
+          {
+            "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+            "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+            "published": "2026-08-13T13:20:55+00:00"
+          },
+          {
+            "title": "First multilingual Indian speech recognition model trained on 65 languages and dialects released",
+            "link": "https://www.thehindu.com/news/national/karnataka/first-multilingual-indian-speech-recognition-model-trained-on-65-languages-and-dialects-released/article71341129.ece",
+            "source": "The Hindu",
+            "summary": "Designed to take speech AI beyond scheduled languages, SraVaani extends automatic speech recognition to several regional and non-scheduled Indian languages that remain underserved by existing speech technology.",
+            "published": "2026-08-13T18:49:26+05:30"
+          },
+          {
+            "title": "Kerala Minister visits Pareeksha Bhavan in wake of complaints of delay in certificate issue, directs changes",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-minister-visits-pareeksha-bhavan-in-wake-of-complaints-of-delay-in-certificate-issue-directs-changes/article71340838.ece",
+            "source": "The Hindu",
+            "summary": "General Education Minister N. Samsudheen hears grievances of applicants who had reached Pareeksha Bhavan, gives instructions for immediate action",
+            "published": "2026-08-13T18:48:25+05:30"
+          },
+          {
+            "title": "YSRCP seeks halt to mining activities near Panchadarla heritage site in Andhra Pradesh",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-seeks-halt-to-mining-activities-near-panchadarla-heritage-site-in-andhra-pradesh/article71340134.ece",
+            "source": "The Hindu",
+            "summary": "During a debate on Minerals Amendment Bill in Rajya Sabha, the party’s parliamentary party leader Subba Reddy flags mining operations close to the protected Buddhist site and an ancient temple, which may also impact the flow and sustainability of five water channels in the area",
+            "published": "2026-08-13T18:48:16+05:30"
+          },
+          {
+            "title": "Strict safety norms for tourist boats at Berm Park in Vijayawada",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/strict-safety-norms-for-tourist-boats-at-berm-park-in-vijayawada/article71340826.ece",
+            "source": "The Hindu",
+            "summary": "APTDC Chairman instructs officials to allow boats for tourist operations only after confirming their fitness and compliance with safety regulations",
+            "published": "2026-08-13T18:48:08+05:30"
+          },
+          {
+            "title": "Former Chief Minister Siddaramaiah skips first day’s session of legislature",
+            "link": "https://www.thehindu.com/news/national/karnataka/former-chief-minister-siddaramaiah-skips-first-days-session-of-legislature/article71340601.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-13T18:46:01+05:30"
+          },
+          {
             "title": "Harvey Nichols bought by Sports Direct owner",
             "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Harvey Nichols was founded in 1831, but had appointed an administrator in June.",
-            "published": "2026-08-13T13:00:15+00:00"
-          },
-          {
-            "title": "Revenue Augmentation Committee members call on CM Vijay",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/revenue-augmentation-committee-members-call-on-cm-vijay/article71341075.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-13T18:26:56+05:30"
-          },
-          {
-            "title": "Stormy Monsoon session comes to end; several Bills passed without debate",
-            "link": "https://www.thehindu.com/news/national/stormy-monsoon-session-comes-to-end-several-bills-passed-without-debate/article71340355.ece",
-            "source": "The Hindu",
-            "summary": "As soon as the House met for the day, all six stanzas of the national song were played, following which Speaker Om Birla adjourned the House sine die",
-            "published": "2026-08-13T18:26:26+05:30"
-          },
-          {
-            "title": "Kudumbashree targets record Onasadya sales through 83 cafe units in Kollam",
-            "link": "https://www.thehindu.com/news/national/kerala/kudumbashree-targets-record-onasadya-sales-through-83-cafe-units-in-kollam/article71340784.ece",
-            "source": "The Hindu",
-            "summary": "Starting August 17, Café Kudumbashree units will accept orders until August 22, employing enhanced logistics and strict quality controls to ensure a top-notch dining experience.",
-            "published": "2026-08-13T18:18:46+05:30"
-          },
-          {
-            "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-            "link": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.",
-            "published": "2026-08-13T12:42:28+00:00"
-          },
-          {
-            "title": "Xiaomi’s Next Foldable Leaked With Wider Screen Ahead of Expected September Launch",
-            "link": "https://www.gadgets360.com/mobiles/news/xiaomi-wide-folable-handset-expected-design-launch-leak-11905439",
-            "source": "Gadgets 360",
-            "summary": "A leaked image of the Xiaomi Mix Fold 5 suggests the upcoming foldable could adopt a wider inner display with a 4:3 aspect ratio. The handset is expected to run Xiaomi’s new Android 17-based HyperOS 4, which brings a redesigned interface and new AI capabilities. Another tipster has reportedly backed an early September launch window for the foldable, ahead of the Xiaomi 18 series. Xiaomi has not confirmed the Mix…",
-            "published": "2026-08-13T18:12:01+05:30"
-          },
-          {
-            "title": "Metaplanet Denies BTC Liquidation as Bitcoin Falls Below Company's Average Cost",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/metaplanet-denies-alleged-sale-of-usd-320-million-worth-of-bitcoin-crypto-whales-btc-liquidation-11905219",
-            "source": "Gadgets 360",
-            "summary": "Japanese Bitcoin treasury firm Metaplanet has denied selling 5,014 Bitcoin worth around $320 million (roughly Rs. 3,053 crore) after the transfer was spotted by blockchain monitoring platforms. CEO Simon Gerovich said the coins were moved between the company’s own custodial addresses as part of a routine operation. Metaplanet continues to hold 43,000 BTC, even as the company’s Bitcoin strategy faces pressure from…",
-            "published": "2026-08-13T18:11:22+05:30"
-          },
-          {
-            "title": "Fishing community in Nagapattinam village bars its youth from drinking alcohol",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/fishing-community-in-nagapattinam-village-bars-its-youth-from-drinking-alcohol/article71340051.ece",
-            "source": "The Hindu",
-            "summary": "Those violating the ban would be liable to pay a fine of ₹5,000, the fishermen panchayatdars have announced",
-            "published": "2026-08-13T18:10:02+05:30"
-          },
-          {
-            "title": "Watch: Rahul mocks PM's foreign policy with a hug; Cong leader takes Meloni swipe",
-            "link": "https://timesofindia.indiatimes.com/india/modi-thinks-foreign-policy-is-this-rahul-mocks-pm-another-congress-leader-takes-meloni-swipe/articleshow/133212068.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-13T18:02:17+05:30"
-          },
-          {
-            "title": "Akali Dal chief Sukhbir Badal attacked in Maharashtra’s Nanded; one held",
-            "link": "https://www.thehindu.com/news/national/maharashtra/sad-chief-sukhbir-badal-attacked-in-nanded-maharashtra/article71340435.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Badal’s hand injured in the attack with ‘kirpan’; Fadnavis orders probe",
-            "published": "2026-08-13T18:01:31+05:30"
-          },
-          {
-            "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
-            "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.",
-            "published": "2026-08-13T12:30:08+00:00"
-          },
-          {
-            "title": "Mumbai landslip death toll reaches 8; NDRF calls off search-and-rescue operations",
-            "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-kurla-landslide-day-2-august-13-death-toll/article71340141.ece",
-            "source": "The Hindu",
-            "summary": "The NDRF said it ended the search and rescue operations in consultation with Brihanmumbai Municipal Corporation (BMC) officials at around 1.25 p.m., more than 33 hours after the incident",
-            "published": "2026-08-13T17:57:07+05:30"
-          },
-          {
-            "title": "iQOO Neo 11 Ultra Confirmed to Launch With a Custom MediaTek Chipset With New 'Monster' Super Core Engine",
-            "link": "https://www.gadgets360.com/mobiles/news/iqoo-neo-11-ultra-chipset-confirmed-specifications-features-11905404",
-            "source": "Gadgets 360",
-            "summary": "iQOO Neo 11 Ultra will be powered by an octa-core custom MediaTek Dimensity 9500M chipset, the smartphone maker announced on Thursday. iQOO says that it co-developed the new SoC with MediaTek for the new iQOO Neo 11 series smartphone. The iQOO Neo 11 Ultra will also feature the next-generation “Monster Super Core Engine” (translated from Chinese), which has been integrated directly into the MediaTek chip. Further…",
-            "published": "2026-08-13T17:54:27+05:30"
-          },
-          {
-            "title": "Nurse found dead in N.R.S. Medical College and Hospital in Kolkata; probe ordered",
-            "link": "https://www.thehindu.com/news/cities/kolkata/nurse-found-dead-in-nrs-medical-college-and-hospital-in-kolkata-probe-ordered/article71340162.ece",
-            "source": "The Hindu",
-            "summary": "Post-mortem is being conducted; police yet to determine if this was a case of death by suicide or there was any foul play involved",
-            "published": "2026-08-13T17:54:05+05:30"
-          }
-        ],
-        "India": [
-          {
-            "title": "Revenue Augmentation Committee members call on CM Vijay",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/revenue-augmentation-committee-members-call-on-cm-vijay/article71341075.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-13T18:26:56+05:30"
-          },
-          {
-            "title": "Stormy Monsoon session comes to end; several Bills passed without debate",
-            "link": "https://www.thehindu.com/news/national/stormy-monsoon-session-comes-to-end-several-bills-passed-without-debate/article71340355.ece",
-            "source": "The Hindu",
-            "summary": "As soon as the House met for the day, all six stanzas of the national song were played, following which Speaker Om Birla adjourned the House sine die",
-            "published": "2026-08-13T18:26:26+05:30"
-          },
-          {
-            "title": "Kudumbashree targets record Onasadya sales through 83 cafe units in Kollam",
-            "link": "https://www.thehindu.com/news/national/kerala/kudumbashree-targets-record-onasadya-sales-through-83-cafe-units-in-kollam/article71340784.ece",
-            "source": "The Hindu",
-            "summary": "Starting August 17, Café Kudumbashree units will accept orders until August 22, employing enhanced logistics and strict quality controls to ensure a top-notch dining experience.",
-            "published": "2026-08-13T18:18:46+05:30"
-          },
-          {
-            "title": "Fishing community in Nagapattinam village bars its youth from drinking alcohol",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/fishing-community-in-nagapattinam-village-bars-its-youth-from-drinking-alcohol/article71340051.ece",
-            "source": "The Hindu",
-            "summary": "Those violating the ban would be liable to pay a fine of ₹5,000, the fishermen panchayatdars have announced",
-            "published": "2026-08-13T18:10:02+05:30"
-          },
-          {
-            "title": "Watch: Rahul mocks PM's foreign policy with a hug; Cong leader takes Meloni swipe",
-            "link": "https://timesofindia.indiatimes.com/india/modi-thinks-foreign-policy-is-this-rahul-mocks-pm-another-congress-leader-takes-meloni-swipe/articleshow/133212068.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-13T18:02:17+05:30"
-          },
-          {
-            "title": "Akali Dal chief Sukhbir Badal attacked in Maharashtra’s Nanded; one held",
-            "link": "https://www.thehindu.com/news/national/maharashtra/sad-chief-sukhbir-badal-attacked-in-nanded-maharashtra/article71340435.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Badal’s hand injured in the attack with ‘kirpan’; Fadnavis orders probe",
-            "published": "2026-08-13T18:01:31+05:30"
-          },
-          {
-            "title": "Mumbai landslip death toll reaches 8; NDRF calls off search-and-rescue operations",
-            "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-kurla-landslide-day-2-august-13-death-toll/article71340141.ece",
-            "source": "The Hindu",
-            "summary": "The NDRF said it ended the search and rescue operations in consultation with Brihanmumbai Municipal Corporation (BMC) officials at around 1.25 p.m., more than 33 hours after the incident",
-            "published": "2026-08-13T17:57:07+05:30"
-          },
-          {
-            "title": "Nurse found dead in N.R.S. Medical College and Hospital in Kolkata; probe ordered",
-            "link": "https://www.thehindu.com/news/cities/kolkata/nurse-found-dead-in-nrs-medical-college-and-hospital-in-kolkata-probe-ordered/article71340162.ece",
-            "source": "The Hindu",
-            "summary": "Post-mortem is being conducted; police yet to determine if this was a case of death by suicide or there was any foul play involved",
-            "published": "2026-08-13T17:54:05+05:30"
+            "published": "2026-08-13T13:14:31+00:00"
           },
           {
             "title": "UNSC sanctions report says Red Fort attack ‘officially attributed’ to Al-Qaeda in Indian Subcontinent",
             "link": "https://www.thehindu.com/news/national/unsc-sanctions-report-says-red-fort-attack-officially-attributed-to-al-qaeda-in-indian-subcontinent/article71340905.ece",
             "source": "The Hindu",
             "summary": "The report added that there was some concern about “Al-Qaeda in the Indian Subcontinent trying to exploit Bangladesh to establish cells there”",
-            "published": "2026-08-13T17:52:48+05:30"
-          },
+            "published": "2026-08-13T18:43:24+05:30"
+          }
+        ],
+        "India": [
           {
-            "title": "Seven-judge Supreme Court Bench to hear if legislative privilege overrides free speech",
-            "link": "https://www.thehindu.com/news/national/seven-judge-bench-to-hear-if-legislative-privilege-overrides-free-speech/article71340392.ece",
+            "title": "APCRDA hands over residential complex for MLAs and MLCs in Amaravati to GAD",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/apcrda-hands-over-residential-complex-for-mlas-and-mlcs-in-amaravati-to-gad/article71340778.ece",
             "source": "The Hindu",
-            "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant passed the order in a case travelling back to April 2003; The Hindu had published an editorial criticising then Tamil Nadu Chief Minister Jayalalithaa.",
-            "published": "2026-08-13T17:52:47+05:30"
+            "summary": "It comprises 12 towers with 288 flats of 3,500 square feet each; Chief Minister Chandrababu Naidu inspects the modern infrastructure provided in the complex",
+            "published": "2026-08-13T18:59:03+05:30"
           },
           {
-            "title": "'Can't play both': India withdraw from FIFA ASEAN Cup to prioritise Brazil clash",
-            "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cant-play-both-india-withdraw-from-fifa-asean-cup-to-prioritise-brazil-friendly-in-kolkata/articleshow/133211705.cms",
-            "source": "Times of India",
-            "summary": "\"We have pulled out of the FIFA ASEAN Cup since we can't play both Brazil and FIFA ASEAN Cup,\" Satyanarayanan was quoted as saying by PTI.",
-            "published": "2026-08-13T17:51:39+05:30"
+            "title": "Protests demanding drinking water: BJP urges TVK-led govt. to act on war footing",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/protests-demanding-drinking-water-bjp-urges-tvk-led-govt-to-act-on-war-footing/article71340189.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-13T18:58:14+05:30"
           },
           {
-            "title": "Bengal strips BJP MP Ananta Maharaj of state honour over remarks 'insulting' Netaji",
-            "link": "https://timesofindia.indiatimes.com/india/west-bengal-withdraws-state-honour-from-bjp-mp-ananta-maharaj-over-insulting-remarks-against-netaji/articleshow/133210332.cms",
-            "source": "Times of India",
-            "summary": "In a significant move, the West Bengal government has rescinded the Banga Bibhushan award granted to Ananta Maharaj. This decision arose from his controversial comments questioning Netaji Subhas Chandra Bose’s leadership and the establishment of the Azad Hind Fauj. The remarks have sparked strong backlash from various political factions and groups, underscoring the deep emotions tied to the legacy of this revered…",
-            "published": "2026-08-13T17:49:10+05:30"
+            "title": "₹10.20 crore sanctioned to strengthen education, health infra in Guntur district",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/1020-crore-sanctioned-to-strengthen-education-health-infra-in-guntur-district/article71340594.ece",
+            "source": "The Hindu",
+            "summary": "Around ₹5 crore has been sanctioned for the construction of a hostel at Tadikonda Gurukulam, and ₹5.20 crore for the modernisation of the old building of Guntur GGH",
+            "published": "2026-08-13T18:56:57+05:30"
+          },
+          {
+            "title": "Mizoram, Nagaland CMs welcome Centre’s move sending FCRA Bill to JPC",
+            "link": "https://www.thehindu.com/news/national/assam/mizoram-nagaland-cms-welcome-centres-move-sending-fcra-bill-to-jpc/article71340670.ece",
+            "source": "The Hindu",
+            "summary": "The Assam Christian Forum also appreciated the decision to refer the Amendment Bill to a Joint Parliamentary Committee",
+            "published": "2026-08-13T18:51:53+05:30"
+          },
+          {
+            "title": "Pollution control board urges eco-friendly Gowri Ganesha celebrations in Dharwad",
+            "link": "https://www.thehindu.com/news/national/karnataka/pollution-control-board-urges-eco-friendly-gauri-ganesha-celebrations-in-dharwad/article71341108.ece",
+            "source": "The Hindu",
+            "summary": "It says the practice of installing idols made of PoP and coated with chemical colours, and subsequently immersing them in lakes, wells and other natural water bodies, pollutes water sources",
+            "published": "2026-08-13T18:50:57+05:30"
+          },
+          {
+            "title": "First multilingual Indian speech recognition model trained on 65 languages and dialects released",
+            "link": "https://www.thehindu.com/news/national/karnataka/first-multilingual-indian-speech-recognition-model-trained-on-65-languages-and-dialects-released/article71341129.ece",
+            "source": "The Hindu",
+            "summary": "Designed to take speech AI beyond scheduled languages, SraVaani extends automatic speech recognition to several regional and non-scheduled Indian languages that remain underserved by existing speech technology.",
+            "published": "2026-08-13T18:49:26+05:30"
+          },
+          {
+            "title": "Kerala Minister visits Pareeksha Bhavan in wake of complaints of delay in certificate issue, directs changes",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-minister-visits-pareeksha-bhavan-in-wake-of-complaints-of-delay-in-certificate-issue-directs-changes/article71340838.ece",
+            "source": "The Hindu",
+            "summary": "General Education Minister N. Samsudheen hears grievances of applicants who had reached Pareeksha Bhavan, gives instructions for immediate action",
+            "published": "2026-08-13T18:48:25+05:30"
+          },
+          {
+            "title": "YSRCP seeks halt to mining activities near Panchadarla heritage site in Andhra Pradesh",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-seeks-halt-to-mining-activities-near-panchadarla-heritage-site-in-andhra-pradesh/article71340134.ece",
+            "source": "The Hindu",
+            "summary": "During a debate on Minerals Amendment Bill in Rajya Sabha, the party’s parliamentary party leader Subba Reddy flags mining operations close to the protected Buddhist site and an ancient temple, which may also impact the flow and sustainability of five water channels in the area",
+            "published": "2026-08-13T18:48:16+05:30"
+          },
+          {
+            "title": "Strict safety norms for tourist boats at Berm Park in Vijayawada",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/strict-safety-norms-for-tourist-boats-at-berm-park-in-vijayawada/article71340826.ece",
+            "source": "The Hindu",
+            "summary": "APTDC Chairman instructs officials to allow boats for tourist operations only after confirming their fitness and compliance with safety regulations",
+            "published": "2026-08-13T18:48:08+05:30"
+          },
+          {
+            "title": "Former Chief Minister Siddaramaiah skips first day’s session of legislature",
+            "link": "https://www.thehindu.com/news/national/karnataka/former-chief-minister-siddaramaiah-skips-first-days-session-of-legislature/article71340601.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-13T18:46:01+05:30"
+          },
+          {
+            "title": "UNSC sanctions report says Red Fort attack ‘officially attributed’ to Al-Qaeda in Indian Subcontinent",
+            "link": "https://www.thehindu.com/news/national/unsc-sanctions-report-says-red-fort-attack-officially-attributed-to-al-qaeda-in-indian-subcontinent/article71340905.ece",
+            "source": "The Hindu",
+            "summary": "The report added that there was some concern about “Al-Qaeda in the Indian Subcontinent trying to exploit Bangladesh to establish cells there”",
+            "published": "2026-08-13T18:43:24+05:30"
+          },
+          {
+            "title": "Real estate agents held with 11.7 kg ganja in Hyderabad",
+            "link": "https://www.thehindu.com/news/national/telangana/real-estate-agents-held-with-117-kg-ganja-in-hyderabad/article71341034.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-13T18:43:01+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Three men will be executed on the same day as death penalties rise in US",
+            "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+            "published": "2026-08-13T13:27:00+00:00"
+          },
+          {
+            "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+            "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+            "published": "2026-08-13T13:20:55+00:00"
+          },
+          {
+            "title": "Spanish Super Cup will be held in Turkiye in 2027",
+            "link": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.",
+            "published": "2026-08-13T13:06:56+00:00"
+          },
           {
             "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
             "link": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
@@ -211,13 +232,6 @@
             "source": "Al Jazeera",
             "summary": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March&#039;s election.",
             "published": "2026-08-13T12:19:02+00:00"
-          },
-          {
-            "title": "Three men will be executed on the same day as death penalties rise in US",
-            "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-            "published": "2026-08-13T12:04:44+00:00"
           },
           {
             "title": "Five charts that explain the high cost of living in the UK",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Fulham&#039;s friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.",
             "published": "2026-08-13T11:16:29+00:00"
-          },
-          {
-            "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
-            "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.",
-            "published": "2026-08-13T11:14:35+00:00"
-          },
-          {
-            "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-            "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-            "published": "2026-08-13T11:10:31+00:00"
           }
         ],
         "Business": [
@@ -282,14 +282,21 @@
             "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Harvey Nichols was founded in 1831, but had appointed an administrator in June.",
-            "published": "2026-08-13T13:00:15+00:00"
+            "published": "2026-08-13T13:14:31+00:00"
           },
           {
             "title": "Water bills set to rise for many after firms permitted extra funding",
             "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-            "published": "2026-08-13T12:07:49+00:00"
+            "published": "2026-08-13T13:09:38+00:00"
+          },
+          {
+            "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+            "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+            "published": "2026-08-13T13:02:24+00:00"
           },
           {
             "title": "Young people want better job prospects and housing",
@@ -353,16 +360,65 @@
             "source": "BBC Business",
             "summary": "From September, uniforms will be limited to three items requiring a school logo.",
             "published": "2026-08-13T05:02:12+00:00"
-          },
-          {
-            "title": "Astral shares rally 10% following Q1 results; Citi sees target price at Rs 1,900, Nuvama upgrades stock to 'Buy'",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/astral-shares-rally-10-following-q1-results-citi-sees-target-price-at-rs-1900-nuvama-upgrades-stock-to-buy/articleshow/133198037.cms",
-            "source": "Economic Times",
-            "summary": "Astral shares surged nearly 10% after strong Q1 FY27 results, with profit rising 51.8% YoY. Citi retained a Buy rating with a Rs 1,900 target, while UBS maintained Accumulate. Nuvama upgraded the stock to Buy, citing strong pipe volumes and margin prospects, while Motilal Oswal retained Buy and CLSA maintained Hold.",
-            "published": "2026-08-13T10:16:08+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "R Ashwin Calls Ireland's Series Win Over India As \"Huge Positive\". Here's Why",
+            "link": "https://sports.ndtv.com/cricket/r-ashwin-calls-irelands-series-win-over-india-as-huge-positive-heres-why-11904543#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Ravichandran Ashwin has welcomed Ireland's recent 2-0 series victory over India, pointing to the result and the nature of the pitches as encouraging signs for cricket's global expansion.",
+            "published": "2026-08-13T18:23:26+05:30"
+          },
+          {
+            "title": "Neeraj Chopra, Pullela Gopichand Launch Indian School Of Coaching Excellence",
+            "link": "https://sports.ndtv.com/othersports/neeraj-chopra-pullela-gopichand-launch-indian-school-of-coaching-excellence-11904439#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Javelin ace Neeraj Chopra and badminton great Pullela Gopichand on Thursday launched the Indian School of Coaching Excellence, an initiative aimed at strengthening India's coaching landscape and sports ecosystem.",
+            "published": "2026-08-13T18:15:42+05:30"
+          },
+          {
+            "title": "Morne Morkel Sounds Alarm Over 'Biggest Challenge' Awaiting India In Sri Lanka",
+            "link": "https://sports.ndtv.com/cricket/morne-morkel-sounds-alarm-over-biggest-challenge-awaiting-india-in-sri-lanka-11905518#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India's bowling coach, Morne Morkel, has urged the team's seamers to adapt quickly to Sri Lanka's heat, humidity, and the changing nature of the Kookaburra ball",
+            "published": "2026-08-13T18:14:05+05:30"
+          },
+          {
+            "title": "India Pull Out Of ASEAN Cup To Prioritise Brazil Friendly",
+            "link": "https://sports.ndtv.com/football/india-pull-out-of-asean-cup-to-prioritise-brazil-friendly-11905422#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India have withdrawn from the inaugural FIFA ASEAN Cup, opting to prioritise their high-profile international friendly against five-time world champions Brazil in October",
+            "published": "2026-08-13T17:57:35+05:30"
+          },
+          {
+            "title": "India's Playing XI For 1st Test vs Sri Lanka: No Auqib Nabi, Bowling Coach Hints At '3-Way' Strategy",
+            "link": "https://sports.ndtv.com/cricket/indias-playing-xi-for-1st-test-vs-sri-lanka-no-auqib-nabi-bowling-coach-hints-at-3-way-strategy-11905357#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Bowling coach Morne Morkel on Thursday indicated that India could field three left-arm spinners in the upcoming first Test against Sri Lanka",
+            "published": "2026-08-13T17:48:43+05:30"
+          },
+          {
+            "title": "Auqib Nabi Breaks Silence On Long Wait For India Call-Up Despite Ranji Trophy Heroics",
+            "link": "https://sports.ndtv.com/cricket/auqib-nabi-breaks-silence-on-long-wait-for-india-call-up-despite-ranji-trophy-heroics-11903272#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Pacer Auqib Nabi, who also contributes with the bat, impressed one and all with his heroics on the domestic circuit.",
+            "published": "2026-08-13T17:40:34+05:30"
+          },
+          {
+            "title": "Not Shubman Gill Or Rishabh Pant, Sri Lanka Captain Names This India Batter As \"Biggest Threat\" For Upcoming Test Series",
+            "link": "https://sports.ndtv.com/cricket/not-shubman-gill-or-rishabh-pant-sri-lanka-captain-names-this-india-batter-as-biggest-threat-for-upcoming-test-series-11905118#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Sri Lanka Test captain Dhananjaya de Silva highlighted one India batter as a major threat for the hosts for the upcoming two-match series.",
+            "published": "2026-08-13T17:29:47+05:30"
+          },
+          {
+            "title": "Matthew Hayden's Powerful Message To Shubman Gill With India's Test Future Under Spotlight",
+            "link": "https://sports.ndtv.com/cricket/shubman-gill-has-1-big-challenge-in-order-to-qualify-for-wtc-2027-final-matthew-hayden-sums-it-up-11900319#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Former Australian opener Matthew Hayden has backed India's Test and ODI captain Shubman Gill to handle the challenges facing the team in the longer format.",
+            "published": "2026-08-13T17:19:18+05:30"
+          },
           {
             "title": "Smith was ready to walk off before DRS flat line",
             "link": "https://www.cricinfo.com/ci/content/story/1549751.html?ex_cid=OTC-RSS",
@@ -390,65 +446,16 @@
             "source": "NDTV Sports",
             "summary": "Dhruv Jurel was a picture of concentration in the nets at the sweltering Galle, middling almost everything that came his way from pacers and spinners alike.",
             "published": "2026-08-13T16:07:19+05:30"
-          },
-          {
-            "title": "Shubman Gill Has 1 Big Challenge In Order To Qualify For WTC 2027 Final. Matthew Hayden Sums It Up",
-            "link": "https://sports.ndtv.com/cricket/shubman-gill-has-1-big-challenge-in-order-to-qualify-for-wtc-2027-final-matthew-hayden-sums-it-up-11900319#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former Australian opener Matthew Hayden has backed India's Test and ODI captain Shubman Gill to handle the challenges facing the team in the longer format.",
-            "published": "2026-08-13T16:00:45+05:30"
-          },
-          {
-            "title": "\"Have No Interest In ODIs,\" Says India Great Who Played 200 Plus One-Day Internationals",
-            "link": "https://sports.ndtv.com/cricket/have-no-interest-in-odis-says-india-great-who-played-200-plus-one-day-internationals-11903580#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The death of bilateral international cricket is a real possibility because of the exploding popularity of T20 leagues, feels the former India star.",
-            "published": "2026-08-13T15:44:34+05:30"
-          },
-          {
-            "title": "Ayodhya back in Sri Lanka Women's T20 Asia Cup squad",
-            "link": "https://www.cricinfo.com/ci/content/story/1549742.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "She is one of the three changes Sri Lanka made to the T20I squad that played Pakistan at home last month",
-            "published": "2026-08-13T10:00:01+00:00"
-          },
-          {
-            "title": "The era of 'randomly scheduled' bilaterals 'has to come to an end,' says ICC CEO",
-            "link": "https://www.cricinfo.com/ci/content/story/1549616.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Jonty Rhodes says ODIs \"might be in trouble\" going forward but may not go away altogether",
-            "published": "2026-08-13T09:57:01+00:00"
-          },
-          {
-            "title": "CA backs Gardner vice-captaincy but policies updated to avoid conflict of interest",
-            "link": "https://www.cricinfo.com/ci/content/story/1549727.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The allrounder has commented for the first time since her marriage breakdown and her relationship with Georgia Voll became public",
-            "published": "2026-08-13T09:54:30+00:00"
-          },
-          {
-            "title": "Morkel: Quicks must 'stack up overs together with intensity' to succeed in Galle",
-            "link": "https://www.cricinfo.com/ci/content/story/1549741.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Morne Morkel has high expectations from the fast bowlers - Mohammed Siraj is the most experienced, with Prasidh Krishna and the uncapped Gurnoor Brar and Auqib Nabi around",
-            "published": "2026-08-13T09:43:36+00:00"
-          },
-          {
-            "title": "1st Test: Hasan Mahmud Registers Six-Wicket Haul As Bangladesh Bundle Out Australia For 198 To Dominate Day 1",
-            "link": "https://sports.ndtv.com/cricket/hasan-mahmud-registers-six-wicket-haul-as-bangladesh-bundle-out-australia-for-198-11904388#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The Bangladesh bowlers overshadowed Australia's Big Four getting back together on day one of the first test as the host was dismissed for 198 and Hasan Mahmud took a career-best 6-55 on Thursday.",
-            "published": "2026-08-13T15:01:09+05:30"
-          },
-          {
-            "title": "Virat Kohli, Rohit Sharma To Play ODI World Cup 2027? Harbhajan Singh Namedrops Lionel Messi In Mega Verdict",
-            "link": "https://sports.ndtv.com/cricket/virat-kohli-rohit-sharma-to-play-odi-world-cup-2027-harbhajan-singh-namedrops-lionel-messi-in-mega-verdict-11903414#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Harbhajan Singh backed Rohit Sharma and Virat Kohli to play the ODI World Cup in 2027 provided they have the conviction to continue.",
-            "published": "2026-08-13T14:52:23+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+            "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+            "published": "2026-08-13T13:02:24+00:00"
+          },
           {
             "title": "Xiaomi’s Next Foldable Leaked With Wider Screen Ahead of Expected September Launch",
             "link": "https://www.gadgets360.com/mobiles/news/xiaomi-wide-folable-handset-expected-design-launch-leak-11905439",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Online sales have become one of the more reliable windows for picking up wireless headphones at a genuine discount, and this year's Independence Day special sales offerings bring a wide enough range that there's something for nearly every budget and use case. Whether you want proper noise cancellation for daily commutes, a more basic passive setup that still delivers on battery life, or something in between with…",
             "published": "2026-08-13T16:10:13+05:30"
-          },
-          {
-            "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-            "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-            "published": "2026-08-13T10:39:02+00:00"
           }
         ],
         "Entertainment": [
@@ -627,11 +627,39 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "IND vs AFG: अफगानिस्तान क्रिकेट बोर्ड ने की BCCI से मैच की तारीख बदलने की मांग, कारण जीत लेगा दिल",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/why-afghanistan-cricket-board-wants-to-change-the-schedule-of-t20-series-against-india-check-reason-1628437.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-13T19:00:24+05:30"
+          },
+          {
+            "title": "'दो हमले और एक धमकी', एक अज्ञात चिट्ठी से घाटी के कश्मीरी पंडितों में कैसे फैला डर",
+            "link": "https://www.bbc.com/hindi/articles/cwyj2z1379xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-13T13:13:53+00:00"
+          },
+          {
+            "title": "Chandigarh से Bihar में कैसे सप्लाई हो रही थी शराब? 40 लाख की खेप पकड़ी गई, 3 हिरासत में",
+            "link": "https://hindi.oneindia.com/news/punjab/chandigarh-to-bihar-liquor-supply-40-lakh-consignment-seized-3-detained-in-ups-kannauj-1628457.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-13T18:33:35+05:30"
+          },
+          {
             "title": "Delhi Tiranga Yatra: कर्तव्य पथ पर दिखा देशभक्ति का जोश, CM रेखा गुप्ता के साथ नितिन नबीन ने थामा तिरंगा",
             "link": "https://hindi.oneindia.com/news/delhi/delhi-tiranga-yatra-cm-rekha-gupta-bjp-nitin-nabin-kartavya-path-1628413.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-13T18:03:04+05:30"
+          },
+          {
+            "title": "पंजाब-चंडीगढ़ दिनभर,10 बड़ी खबरें:सुखबीर बादल पर गुरुद्वारे में हमला; AAP मंत्री के 3 दोस्तों की मौत; SIR ड्राफ्ट लिस्ट- आपका वोट तो नहीं कटा",
+            "link": "https://www.bhaskar.com/local/chandigarh/news/punjab-chandigarh-news-voter-list-aap-minister-friends-death-bhajji-138714961.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-13T12:25:00+00:00"
           },
           {
             "title": "ऑस्ट्रेलिया की धरती पर हसन महमूद का कहर, बनाया ऐसा रिकॉर्ड जो जडेजा-अश्विन भी नहीं बना पाए",
@@ -655,7 +683,7 @@
             "published": "2026-08-13T17:15:44+05:30"
           },
           {
-            "title": "केरल में सावरकर से जुड़ा सवाल पूछने पर टीचर सस्पेंड:स्कूल के फ्रीडम क्विज में हुआ विवाद; हाईकोर्ट ने सरकार से पूछा- क्या ये गैर-कानूनी था",
+            "title": "केरलम में सावरकर से जुड़ा सवाल पूछने पर टीचर सस्पेंड:स्कूल के फ्रीडम क्विज में हुआ विवाद; हाईकोर्ट ने सरकार से पूछा- क्या ये गैर-कानूनी था",
             "link": "https://www.bhaskar.com/g/national/news/kerala-high-court-teacher-suspension-savarkar-quiz-controversy-kochi-138716536.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -681,34 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-13T16:51:11+05:30"
-          },
-          {
-            "title": "स्वतंत्रता दिवस से पहले दिल्ली के लाल किले के पास धमाके पर बड़ा खुलासा, अल-कायदा ने कराया था आतंकी हमला",
-            "link": "https://hindi.oneindia.com/news/delhi/delhi-red-fort-attack-big-reveal-ahead-of-independence-day-2026-al-qaeda-link-in-terror-attack-1628251.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-13T16:39:35+05:30"
-          },
-          {
-            "title": "MP News: नौका तिरंगा यात्रा से सीएम डॉ. मोहन यादव ने दिया देश सेवा का संदेश, युवाओं की संकल्प शक्ति को सराहा",
-            "link": "https://hindi.oneindia.com/news/india/boat-tiranga-yatra-bhopal-independence-day-2024-012-1628255.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-13T16:37:25+05:30"
-          },
-          {
-            "title": "नांदेड़ गुरुद्वारे में सुखबीर बादल पर हमले की निंदा:मजीठिया बोले- CBI जांच होनी चाहिए, वड़िंग ने कहा- लोगों में देरी से मिले न्याय को लेकर गुस्सा",
-            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/sukhbir-badal-attack-nanded-gurudwara-cbi-investigation-demand-138716326.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-13T11:07:19+00:00"
-          },
-          {
-            "title": "पाकिस्तान, सऊदी और तुर्की की तिकड़ी भारत के लिए कितना ख़तरा?",
-            "link": "https://www.bbc.com/hindi/articles/cm2gppdejq4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-13T11:00:42+00:00"
           }
         ],
         "Entertainment": [
@@ -895,18 +895,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "தீப்பொறி திருமுகம், விடுதலை விரும்பி ஆகியோரின் பேச்சால் அனல் பறந்த அரசியல் களம் இப்போது எப்படி மாறியுள்ளது?",
-            "link": "https://www.bbc.com/tamil/articles/cp3rpnwe9y9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
+            "title": "எங்களை எப்படியாவது காப்பாத்துங்க! இருளில் மூழ்கும் வங்கதேசம்.. இந்தியாவிடம் உதவி கேட்பு.. என்னாச்சு?",
+            "link": "https://tamil.oneindia.com/news/international/bangladesh-faces-worst-power-cut-stretching-to-9-10-hours-per-day-seeks-help-from-india-823499.html",
+            "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-08-13T12:28:10+00:00"
+            "published": "2026-08-13T18:57:42+05:30"
           },
           {
             "title": "ஆக்டோபஸ்-ஸிடம் சிக்கிய மீனவர்.. இப்படி நடக்கும்னு யாரும் எதிர்பார்க்கலை.. நடுக்கடலில் நேர்ந்த கதி",
             "link": "https://tamil.oneindia.com/news/international/philippines-fisherman-struggles-after-an-octopus-clamped-around-his-face-823511.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-08-13T17:26:09+05:30"
+            "published": "2026-08-13T18:37:12+05:30"
+          },
+          {
+            "title": "தீப்பொறி ஆறுமுகம், விடுதலை விரும்பி ஆகியோரின் பேச்சால் அனல் பறந்த அரசியல் களம் இப்போது எப்படி மாறியுள்ளது?",
+            "link": "https://www.bbc.com/tamil/articles/cp3rpnwe9y9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-13T12:28:10+00:00"
           },
           {
             "title": "டேஞ்சரான கட்டத்தை அடைந்தது சீன ராணுவம்.. இனி இந்தியா 1 நொடி கூட கண்ணை சிமிட்ட கூடாது!",
@@ -914,13 +921,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-08-13T16:56:38+05:30"
-          },
-          {
-            "title": "எங்களை எப்படியாவது காப்பாத்துங்க! இருளில் மூழ்கும் வங்கதேசம்.. இந்தியாவிடம் உதவி கேட்பு.. என்னாச்சு?",
-            "link": "https://tamil.oneindia.com/news/international/bangladesh-faces-worst-power-cut-stretching-to-9-10-hours-per-day-seeks-help-from-india-823499.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-08-13T16:52:12+05:30"
           },
           {
             "title": "உத்தர பிரேதசத்தில் 'ஒரு லிட்டர் கோமியம் 10 ரூபாய்' - விவசாயிகள் பயனடைவது எப்படி? எதிர்ப்பு ஏன்?",
@@ -1072,11 +1072,32 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "WHO అలర్ట్: మళ్లీ ప్రపంచానికి మహమ్మారి గండం, వందల్లో శవాల దిబ్బలు",
+            "link": "https://telugu.oneindia.com/news/international/congo-ebola-outbreak-2026-who-warns-virus-could-become-deadliest-in-history-as-fatalities-pass-2-00-501525.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-13T18:45:17+05:30"
+          },
+          {
             "title": "\"నేను మాజీ సీఎంను.. ఇంతగా అవమానించాలా ?\"-కర్నూలు జైల్లో ఘటనపై జగన్..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-slams-chandrababu-over-kurnool-jail-visit-says-i-am-a-former-cm-how-sadistic-are-you-501521.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-13T18:24:17+05:30"
+          },
+          {
+            "title": "‘లాహోర్‌లో వాజ్‌పేయికి సెల్యూట్ చేయని ముషారఫ్’-కార్గిల్ చొరబాట్లకు అప్పటికే ప్లాన్ చేయడం కారణమా?",
+            "link": "https://www.bbc.com/telugu/articles/c4gv9v5jenro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-13T12:51:31+00:00"
+          },
+          {
+            "title": "Sukhbir Singh Badal: అకాలీదళ్‌ చీఫ్‌ సుఖ్‌బీర్‌ సింగ్ బాదల్‌పై దాడి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkdvVzhLZi1lQ010X2RrdzBENTdzYlJlc2NweHY1dGZOdTdmby1WSnN5ZXpDdUZBTU5qWkhUcHlBMHlFaUJUbDFNTGNNRnIyMFhIajlHSEFqMEFBLVcyTFpXTWNhd2hYMW9GNGwwc1hqNW9KUlVORVJxQlNkTFk4bHYzaWMwb1k2cjZtSFFhRXdOUUtoX1pHYmxZNFl1ZEh2Zmt3VEFIQl9KNGpOTmYyS2htX3VKdWJkTlY5b0xzQlNmckHSAcMBQVVfeXFMTWJHb1c4S2YtZUNNdF9ka3cwRDU3c2JSZXNjcHh2NXRmTnU3Zm8tVkpzeWV6Q3VGQU1OalpIVHB5QTB5RWlCVGwxTUxjTUZyMjBYSGo5R0hBajBBQS1XMkxaV01jYXdoWDFvRjRsMHNYajVvSlJVTkVScUJTZExZOGx2M2ljMG9ZNnI2bUhRYUV3TlFLaF9aR2JsWTRZdWRIdmZrd1RBSEJfSjRqTk5mMktobV91SnViZE5WOW9Mc0JTZnJB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-13T12:36:40+00:00"
           },
           {
             "title": "Indian Navy సరికొత్త డ్రోన్ ప్లాన్! ఏకంగా వెయ్యి కిలోమీటర్ల దూరం వెళ్లి చంపేస్తాయ్",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-13T16:46:24+05:30"
-          },
-          {
-            "title": "రైతుల ఇంట కాసుల పంట పండించే ఆ పంటపై తెలంగాణా ఆసక్తి!",
-            "link": "https://telugu.oneindia.com/news/telangana/makhana-cultivation-telangana-shows-interest-in-makhana-cultivation-collaboration-with-bihar-501501.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-13T16:45:50+05:30"
-          },
-          {
-            "title": "Independence Day: ఎర్రకోటపై సరికొత్త చరిత్ర- స్వాతంత్రం వచ్చాక ఇదే తొలిసారి..!",
-            "link": "https://telugu.oneindia.com/news/india/independence-day-2026-youth-power-theme-vande-mataram-to-be-sung-at-red-fort-for-first-time-501491.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-13T16:37:15+05:30"
-          },
-          {
-            "title": "బెంగళూరులో నూతన పార్కింగ్ విధానం- రోడ్డు పక్కన బండి ఆపినా..: నోటిఫికేషన్",
-            "link": "https://telugu.oneindia.com/news/india/bengaluru-parking-costs-set-to-jumps-as-charges-will-vary-depending-on-the-category-of-road-draft-ru-501499.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-13T16:36:39+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Matthew Hayden: ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಮೇಲಿನ ಟೀಕೆಗಳಿಗೆ ಮ್ಯಾಥ್ಯೂ ಹೇಡನ್ ತಿರುಗೇಟು, ಅಚ್ಚರಿ ಭವಿಷ್ಯ ಭಾರಿ ವೈರಲ್",
+            "link": "https://kannada.oneindia.com/news/sports/matthew-hayden-backs-vaibhav-sooryavanshi-predicts-bright-future-for-indias-young-cricket-star-464461.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-13T18:48:13+05:30"
+          },
+          {
+            "title": "ಆದಿವಾಸಿ, ಅಲೆಮಾರಿ ಸಮುದಾಯಗಳ ಅಭಿವೃದ್ಧಿಗೆ ವಿಶೇಷ ಆಯೋಗ: ಡಿಕೆ ಶಿವಕುಮಾರ್ ಆದೇಶ",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-cm-dk-shivakumar-order-to-form-special-commission-for-tribal-and-nomadic-communities-464459.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-13T18:46:08+05:30"
+          },
+          {
             "title": "David Miller: ನನ್ನ ಕರಿಯರ್‌ಗೆ ಬಲವಾದ ಅಡಿಪಾಯ ಹಾಕಿದ್ದೇ ಆರ್‌ಸಿಬಿ: ಡೇವಿಡ್ ಮಿಲ್ಲರ್",
             "link": "https://kannada.oneindia.com/news/sports/david-miller-reveals-his-most-memorable-ipl-knock-against-rcb-statement-goes-viral-on-social-media-464451.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-13T15:27:14+05:30"
-          },
-          {
-            "title": "Karnataka Dam Water Level: ಡ್ಯಾಂಗಳು ಭರ್ತಿ: ರಾಜ್ಯದ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟ ವಿವರ ಹೀಗಿದೆ",
-            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-dams-water-level-today-krs-kabini-bhadra-dam-water-level-as-on-august-13th-464413.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-13T14:51:03+05:30"
-          },
-          {
-            "title": "Copra: ಕೊಬ್ಬರಿ ಬೆಲೆಯಲ್ಲಿ ದಾಖಲೆಯ ಏರಿಕೆ.. ಕ್ವಿಂಟಾಲ್‌ಗೆ ಬರೋಬ್ಬರಿ 40,000 ರೂಪಾಯಿ..",
-            "link": "https://kannada.oneindia.com/news/karnataka/copra-price-hits-400-kg-in-karnataka-shravana-festival-demand-pushes-rates-higher-farmers-rejoice-464409.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-13T13:55:22+05:30"
           }
         ],
         "Entertainment": [
@@ -1440,6 +1440,13 @@
             "published": "2026-08-13T10:58:38+00:00"
           },
           {
+            "title": "মুম্বইয়ের বিখ্যাত সব খাবারের দোকানে হানা দিয়ে তোলপাড়! ‘মশা মারতে কামান দাগছেন’ মহারাষ্ট্রের ‘সিংহম’ আইএএস? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNamFLQ0JNMW5QUW96RzFPYzZFSXNtM3lJb29DaUJJLXJQNTNxbUdxNUprUHVkbHR4MFl5Z2NiZFdXSWtPWnpJVmJ3clFLdkdub2c4NFZXelh0YlhqVmJ6MG5yaGVmT3pLd1ZhcllndGdyYzZzSkxROXJ6UEJFUTZkdU1temRLU3JwSDVSdHVpOTJpYkg0aXdBZUhDcVZXeWN3bV9mWUh0a2tNUGtVV0tnSGg1SkFiMkxTRlhwYVdKaEkweFVrZXBGV1dOajRnN2dUWlFUX18yd21FQ1NtdF9XcUMzdzFGRjFQMEg2cTVmcGdDcS0xcmtnbUJGdHhyZUhGYkJ6TjZWR2p0M0JtMWRVN29DdnQ3QdIBmwJBVV95cUxNR01YemNuaVRKalZ1WXNGTWI1UVdrRVVPV1JBczQyUjlKRklWc0RaQ2xRR29mR2YwdEFSWEJ6MU1ZNUlaR3Z5OXNERWVmQklMOVVLMmRraTV2YXhDT0tzcnc4enF2ZEdrdnk1Y3I2eDhMa1pCOW5tZERSaGRNenYyWDZUWlg3aFBtTVpSeUJXbWVpaWd0UmVkZkU2eG44T2txQlF2MWhpZkQ0WklxYTJRTGZDcG1YdVZFbm5GVVJoTXluSS1VVnZnUGxtTmJPbjhQaVZvUEdqeXpMdkZQLW5vSXdBWFZMRllWYzdSdldkajl4d3dySDg4RnpSVHFWUWlTVHc0dkZOTXNfNm5FRlZ0Z081eEtpSlE2R1A4?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T10:18:57+00:00"
+          },
+          {
             "title": "'ল্যান্ড জিহাদ' বন্ধে আইন করতে চান শুভেন্দু অধিকারী, মুসলমানরাই কি নিশানায়?",
             "link": "https://www.bbc.com/bengali/articles/c04k2nx4qzyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1454,6 +1461,20 @@
             "published": "2026-08-13T09:00:45+00:00"
           },
           {
+            "title": "ইরানি শাসন উৎখাতে নেমে পিঠে ‘লাঠির বাড়ি’! মোসাদের দুই ‘অপদার্থ’ গুপ্তচরকে তাড়ালেন ইহুদিদের বিবি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeTFEOGRSRlkwY2NhYnZaYUpIendzR3ZMdDdFanp2b0dLaXNnV1R1QnJDNXl2VFpWamRhb2NQVHVicmhVeXItZGJMUVl4VlZkVWRjS1BaVFJNeTYxaHlyOTVJejA1NjRaam84U2UzMGNZUHJwT1NtQTdXYU1JaHVISzIxN3dpTTg3Q2lPaEhWRC1VSDJweUZILUdTalhFeHJKRkhFTC1wbklvY180bmJoSVV4RDZmeWNBT1ZVck1NUVZrZHE0Qi1neGJQRFJnZkNsNUpZcWk0LWJsMkUwNVpMM1JrWkRSYkdDVzR1SmxDenRGMlJfWG1zZ1Q5blBDWWdTYmFpNtIBigJBVV95cUxNN05NbDI1MWtLTnZUckJRQjN2aFNFT200Z0cwMkg3Y1ZabGdIMHkxTFhBVUJkR0RNaU1KNHhIZHpTVXNiUmRxSlhQdS1sMHctRExVRHhETDNoMXE4VEp1NThKTkViczVScjVoQlNjNVNTWFpWVl9GM3Fpa1VRWFQ0WDFnSWFJT2lzYS1FbkEwd0NkYk5ZM29iRVM1OUVkRkFQazYyS1hkSkV2bDdsX01hWmhHN3RzYVpNOTRDLXE1V0dELTJZQU5YZ013X0FIcTFWU2oxNXN0eTBlZmlRdEtjbFYyZjJMT1dvNkxvVENCRXp5Y29LVThWeUkzZWxyQUFxR2JFbGR4aEJOZw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T08:24:29+00:00"
+          },
+          {
+            "title": "কলকাতা পুরসভায় ওয়ার্ড পুনর্বিন্যাসের জের, বদলে যাবে প্রায় ৯ লক্ষ সম্পত্তির অ্যাসেসি নম্বর, চলছে প্রস্তুতি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNTRTYndHMXVma1RPUVNHek8tU2NmQVlIV1dsb09JN0lzdV9SNHl5NXdYSUhaQ2JZQzVmS0Y4bTl4S2xQeTQ4aWNNY1ZpSEtodzU1eXBSZmx2YlJDeXBWMFkwVnR6bmVLdHJta1dMalpCVFRmZjhROFJBSFdMQVRHTkdPUlBCQWxPdlhNckU5RjFkS2UyT2NFcDZlWXRDYmw2YlBEbGNMaDVnclFIRDRRYW94YlRUX3JZMDdSVUY4RnlkbTZEQ2JUci1vazNsdlh6emdvY0ZjTFBoVjMtYkFJdC1NNVBrczBNOUh0RW1wNGVRSkNjRTQtNkZKXzJsYkNKd0J5ZWE1dGzSAY4CQVVfeXFMTUg5cTFjekU1Z2NjYkdGelItQlJ6WUhfOEFaZ1B6SzJ3OUFFeGo3QTRoTjVETjBpZndlUUVDYXIzZjdhSzhQNktxT0pqalUzbmpoUlprR0xWRTM5WktNSGwtNnhaYzhCTktkUlA5b0dORDNGalhrbTdCM1NMSlEtcUxQQk1BUlpGVVlTQTVtZHhqb0hoNzN1VU5hb1lCN3pFdnBUSzNzNEVISzBfQXViTEM5TGJ1bjVWWkE5Mk5MR1dRN2s3bUdibk5MYVpQUkk5bkx5cUk5a05hREo2ZVBrc1pKRndsOHIwNmd6N3hhbHpGNWhWQWxoQkNPRks0MVhnTVF5Sk0zTUZlTkFpajNB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T08:17:15+00:00"
+          },
+          {
             "title": "বাংলাদেশে ১৮ জন রাষ্ট্রপতি কে, কতদিন দায়িত্বে ছিলেন?",
             "link": "https://www.bbc.com/bengali/articles/cdewppg69p7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1461,53 +1482,32 @@
             "published": "2026-08-13T08:05:04+00:00"
           },
           {
+            "title": "কোথাও বিরিয়ানি, কোথাও ইডলি! ডাল-ভাতের বাইরে পড়ুয়াদের কী খাওয়াচ্ছে দেশের সরকারি স্কুলগুলি? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU0h5QUZVd2NidWcxX19POWtvYzB0MW52VUw5aVJUdGRPZjVkelRya3NOaldZeFpyNFFxNUo0VllFZVhnOXBlYWpia0w0M0c0bkRuTE51akZGOXFaSVB2SWtNTmpETWx5Wm9TSlctaXlFeVYzeEt5ckhNczQ2YThKaWRUSzF0ZVZSSGIzZVVKZmY5MFJxeUMzYlhhaUxTZEZrRFU5b2lLcGllTmg5UEV0R0RmY2tDNnkyVmIySEg1SzhpS0tT0gHKAUFVX3lxTE9xSkFSUHUwWVRsMVozekNnWFRqV2UtMjRxV0xaQnU5TlhyWDRKQ3RWanlQU1hFZllqaHV4d1o2OHh4bTB6VWdUdGJSdmFvMUxsTzBaQmV6ckFkZE5xZzhrbkpubWdUQ0FxVHlvVmg4RkxHVkxLVzJBcjhQQXlSVDdDb1g1dDNNRjI3YnpaZnlscDRKcnZod2swMEpUc0tiQVVlRkFiZlp4TXVrSUVDSVFJTy16Zzc3QU9ZTm9zRmhGZ1JpWDN4YmEtREE?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T07:41:06+00:00"
+          },
+          {
+            "title": "নার্সের রহস্যমৃত্যু: এনআরএসে নয়, ময়নাতদন্ত হোক অন্য কোনও হাসপাতালে! সন্দিহান স্বামীর আর্জি কর্তৃপক্ষের কাছে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdWtSQTR2WTdXUnBSMmhhbHVka2FBLXZLYlJaclRsQU5ocjVCTHNBOVdhbGVHSUZmb1RBRjBmS2MwVWJ0dWtoVlJxMmpza2JzYXRvSnlvdXp6clduc2N1anFORGp4QUsxMHM5TkFxNHd5T1lETmZ0WTBRWmY5ZVN0a2FFM1FfS0hGS3Y5UUcxdHNyd09uTndpMVNmNnpoTE1kUzNQQTBJbUt3cTM2bHlsc3c0Nmh6YTlGampqSVg5ak1oOFBQd3UtZVRWYUtraEVHUmFNTU5taTlmd1JwLW1SMHFn0gHnAUFVX3lxTE9BUTVlaDlCcXNvRS1fZkxnN2FzS0dMYklERlBEWnIzMVhubkVsSVVQWXBIUE9jcFBoOElsd0hLWkhMUDRBejI4eUlNTWRiOGQyVmoyakoyWnlMZ1JpTWNxeUF0OTF6dGoxX3JIUlh5YmRfLXMtX2pBaTZyLVJ4bVphSFdkZWNnTEpTT01MV09pa2JWWm10Ul9FZlE2Y2dCZkp3M1RtWkRRMnBvanVDLXlKeFhwR0dqXzBmcVBTQ1R3UXo0RHI1SmlkN1JsQzR2YnNoN0QtTzdCb0tsS2tZaWR6QTVSNUtkVQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T06:53:01+00:00"
+          },
+          {
+            "title": "৫০০ টাকা ঘুষ দিতে ‘খারাপ’ লেগেছিল, প্রথম পোস্টিংয়েই কোটি টাকার দুর্নীতিতে অভিযুক্ত সেই আইপিএস! - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRVdZdmhQM2J1M2tXdXZYYXNrR2xnNVk0cUx0ZGhWU29WRVJhcVZGWUxRV2R1anB3dXYyUEozdjBCNjQ3RXdSeFpuM3dleW15UkZld2wxdzJlUnlRQ2V3dDNtNGRxWUhuUHgtSUVEeWFvMWwzN2FlUVMwQUE2eXVmdEJkQzZqa2lFZUE2SjBLbkhVRTl5MmZoaGtaUWw0eGkxTUtxT1RDQ1VDNDZhd2ZVV3JQZFd5LXBQQjg3VlduaURWajhHeVFuVmJENzlHUUY5ZFIzRkhMaTFwVFNteXRPRW9lTHlRX25tUUFtRGJTNkpBZjlhbmxVYnBNd3FhZThR0gGGAkFVX3lxTE1Rc3hYRElVQ09mTVJWVWdya05SbnpDOUtKNERTMmpSdmhwZC1hZktBUld4V0NncEh1UzZObXFzUmlHMzB2QjBXakcwQTVMeURqVjVTTHlCelE0bFFkMk96OEhvc0RKZldMYnkxa1hBWko1MENHRi1EMnlXUGVrcTNvaUJPVEdTZ0JzQ3JSUjIyUUVrUzI4THhUdDNMNHg0eGxHUUdqaWs3dXpTQ3UxbmljRkR3MXUxWldrYTluTzJmY3gxby1uNzFIalJUT3g3amdiaHgzbXI4YnJ6ZS16ODJkRDJ0aFd1QWFyOFd1a3Q5NkxEWlZNeHhfM1padlQzZ0JlNU9BR2c?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-13T06:39:01+00:00"
+          },
+          {
             "title": "মক্কা সামরিক জোট: সৌদি আরব, তুরস্ক ও পাকিস্তানের 'ইসলামিক নেটো' কি মুসলিম দেশগুলোকে সুরক্ষা দিতে পারবে?",
             "link": "https://www.bbc.com/bengali/articles/clylp115nz5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "সৌদি আরব, তুরস্ক এবং পাকিস্তানের মধ্যে সম্পাদিত সাম্প্রতিক সামরিক চুক্তিটি আন্তর্জাতিক ভূ-রাজনীতির প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ একটি ঘটনা। এই জোটকে অনেকেই ‘ইসলামিক নেটো’ হিসেবে অভিহিত করছেন, যা মুসলিম বিশ্বের সামরিক শক্তি ও কৌশলগত অবস্থানের একটি নতুন সমীকরণ তৈরি করার ইঙ্গিত দিচ্ছে। চুক্তির আনুষ্ঠানিক দিকটির পাশাপাশি এর গভীর কৌশলগত গুরুত্ব রয়েছে, কারণ মধ্যপ্রাচ্য এবং দক্ষিণ এশিয়ার বড় তিনটি দেশ যখন সামরিক সহযোগিতার ভিত্তিতে একত্রিত হয়, তখন তা পুরো অঞ্চলের নিরাপত্তা কাঠামোয় প্রভাব ফেলতে পারে। তবে বিশ্লেষকদের মনে বড় প্রশ্ন থেকেই যাচ্ছে যে, এই জোট প্রকৃতপক্ষে মুসলিম দেশগুলোর জন্য কতটা নিরাপত্তা নিশ্চিত করতে সক্ষম হবে। অতীতেও বিভিন্ন সময়ে বিভিন্ন আঞ্চলিক জোট গঠনের প্রচেষ্টা চালানো হয়েছে, কিন্তু মতাদর্শগত বা ভূ-রাজনৈতিক বিভেদের কারণে সেগুলো দীর্ঘস্থায়ী ফল দিতে ব্যর্থ হয়েছে। বর্তমান পরিস্থিতিতেও বিভিন্ন দেশের নিজস্ব স্বার্থ এবং বৈশ্বিক পরাশক্তিগুলোর প্রভাব এই জোটের কার্যকর ভূমিকার সামনে বড় চ্যালেঞ্জ হিসেবে দাঁড়িয়ে আছে। এই জোট কি সত্যিই কোনো সংকটের মুহূর্তে ঐক্যবদ্ধ হয়ে সুরক্ষা প্রদান করতে পারবে, নাকি এটি কেবল একটি প্রতীকী জোট হিসেবেই টিকে থাকবে, তা দেখার বিষয়। তবে একথা স্পষ্ট যে, মুসলিম বিশ্বের জন্য এটি একটি বড় ধরনের পরীক্ষামূলক ধাপ হিসেবে গণ্য হবে, যা আগামীর বিশ্ব রাজনীতিতে নতুন মেরুকরণ ঘটাতে পারে।",
             "published": "2026-08-13T05:49:53+00:00"
-          },
-          {
-            "title": "দিল্লির আমন্ত্রণে তারেক রহমান কি ভারত সফরে যাবেন?",
-            "link": "https://www.bbc.com/bengali/articles/c8xnwgpq1evo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-13T02:38:22+00:00"
-          },
-          {
-            "title": "যে তিন কারণে লোডশেডিং বেড়েছে বাংলাদেশে",
-            "link": "https://www.bbc.com/bengali/articles/c4gx84zdwjzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-12T15:29:32+00:00"
-          },
-          {
-            "title": "৩৫ বছর আগে সরাসরি রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
-            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-11T14:39:39+00:00"
-          },
-          {
-            "title": "মির্জা ফখরুলই কি বঙ্গভবনের নতুন বাসিন্দা হচ্ছেন?",
-            "link": "https://www.bbc.com/bengali/articles/cz05njy0ndxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-09T13:49:02+00:00"
-          },
-          {
-            "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
-            "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-08T02:00:03+00:00"
-          },
-          {
-            "title": "কোন কোন মাছে মাইক্রোপ্লাস্টিক পেয়েছেন গবেষকরা",
-            "link": "https://www.bbc.com/bengali/articles/cn4n1y5141zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-06T10:19:08+00:00"
           }
         ]
       }
