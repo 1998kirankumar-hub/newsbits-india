@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-08-14T21:01:32.117833+00:00",
+  "updated_at": "2026-08-14T21:31:18.485303+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Protein or pickled garlic? What's new in ice cream",
+            "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+            "published": "2026-08-14T21:20:19+00:00"
+          },
+          {
+            "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
+            "link": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Brook and Rickelton fight for SRL, but target of 187 proves to be out of reach",
+            "published": "2026-08-14T21:18:27+00:00"
+          },
+          {
+            "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+            "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+            "published": "2026-08-14T21:17:15+00:00"
+          },
+          {
+            "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+            "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+            "published": "2026-08-14T21:03:07+00:00"
+          },
+          {
+            "title": "Government removes 12-minute ad duration cap for TV channels",
+            "link": "https://www.thehindu.com/news/national/government-removes-12-minute-ad-duration-cap-for-tv-channels/article71346958.ece",
+            "source": "The Hindu",
+            "summary": "The Ministry says there is adequate competition within the TV industry and between TV and digital media, and the government has therefore decided to remove the duration cap",
+            "published": "2026-08-15T02:25:11+05:30"
+          },
+          {
             "title": "Clear encroachments from Pipeline Road in Kochi, says KWA",
             "link": "https://www.thehindu.com/news/national/kerala/clear-encroachments-from-pipeline-road-in-kochi-says-kwa/article71346794.ece",
             "source": "The Hindu",
             "summary": "The drive against encroachers is being taken up ahead of laying pipelines to the city from a 190-mld water treatment plant that has been planned",
             "published": "2026-08-15T02:19:22+05:30"
+          },
+          {
+            "title": "Former Cambridge professor accused of plagiarism found dead",
+            "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.",
+            "published": "2026-08-14T20:46:40+00:00"
           },
           {
             "title": "Death of wild boars raises concerns in Kerala’s Kasaragod",
@@ -60,51 +102,16 @@
             "source": "Economic Times",
             "summary": "The S&P 500's streak came to an end, falling from its peak as weaker retail sales suggested caution among consumers. Despite a strong outlook, Applied Materials saw its shares slump, dragging down AI-related stocks. In contrast, rising oil prices helped lift the energy index. Reddit experienced a surge following news of its index inclusion.",
             "published": "2026-08-15T01:40:33+05:30"
-          },
-          {
-            "title": "Three police officers suspended for allegedly taking money from scrap dealer in Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/three-police-officers-suspended-for-allegedly-taking-money-from-scrap-dealer-in-kochi/article71346771.ece",
-            "source": "The Hindu",
-            "summary": "Action was taken against the officers following allegations of misconduct during the investigation into a theft case",
-            "published": "2026-08-15T01:34:01+05:30"
-          },
-          {
-            "title": "Public exams to become more transparent, secure and trustworthy: President Murmu",
-            "link": "https://timesofindia.indiatimes.com/india/public-exams-to-become-more-transparent-secure-and-trustworthy-president-murmu/articleshow/133251351.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-15T01:29:04+05:30"
-          },
-          {
-            "title": "Partition Day event turns awkward as BJP MP Rao Inderjit flags ‘community-specific’ politics",
-            "link": "https://www.thehindu.com/news/national/haryana/partition-day-event-turns-awkward-as-bjp-mp-rao-inderjit-flags-community-specific-politics/article71346638.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-15T01:26:21+05:30"
-          },
-          {
-            "title": "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/first-islamic-republic-with-nuclear-weapons-netanyahus-sharp-rebuke-of-uk/articleshow/133251347.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-15T01:25:21+05:30"
-          },
-          {
-            "title": "Rowdy-sheeter arrested under Goonda Act",
-            "link": "https://www.thehindu.com/news/cities/bangalore/rowdy-sheeter-arrested-under-goonda-act/article71345661.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-15T01:25:08+05:30"
-          },
-          {
-            "title": "Couple found dead at their house in Bengaluru’s Rajagopalnagar",
-            "link": "https://www.thehindu.com/news/cities/bangalore/couple-found-dead-at-their-house-in-bengalurus-rajagopalnagar/article71347196.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-15T01:23:20+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Government removes 12-minute ad duration cap for TV channels",
+            "link": "https://www.thehindu.com/news/national/government-removes-12-minute-ad-duration-cap-for-tv-channels/article71346958.ece",
+            "source": "The Hindu",
+            "summary": "The Ministry says there is adequate competition within the TV industry and between TV and digital media, and the government has therefore decided to remove the duration cap",
+            "published": "2026-08-15T02:25:11+05:30"
+          },
           {
             "title": "Clear encroachments from Pipeline Road in Kochi, says KWA",
             "link": "https://www.thehindu.com/news/national/kerala/clear-encroachments-from-pipeline-road-in-kochi-says-kwa/article71346794.ece",
@@ -181,16 +188,30 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-15T01:25:08+05:30"
-          },
-          {
-            "title": "Couple found dead at their house in Bengaluru’s Rajagopalnagar",
-            "link": "https://www.thehindu.com/news/cities/bangalore/couple-found-dead-at-their-house-in-bengalurus-rajagopalnagar/article71347196.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-15T01:23:20+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+            "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+            "published": "2026-08-14T21:17:15+00:00"
+          },
+          {
+            "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+            "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+            "published": "2026-08-14T21:03:07+00:00"
+          },
+          {
+            "title": "Former Cambridge professor accused of plagiarism found dead",
+            "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.",
+            "published": "2026-08-14T20:46:40+00:00"
+          },
           {
             "title": "Dozens injured and thousands evacuated in Croatia wildfire",
             "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
@@ -253,30 +274,16 @@
             "source": "Al Jazeera",
             "summary": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
             "published": "2026-08-14T18:28:17+00:00"
-          },
-          {
-            "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-            "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-            "published": "2026-08-14T18:25:38+00:00"
-          },
-          {
-            "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
-            "published": "2026-08-14T18:09:12+00:00"
-          },
-          {
-            "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
-            "link": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Organisers said on social media that Tarling died following a &#039;serious accident&#039; on the stage between Melgaco and Fafe.",
-            "published": "2026-08-14T18:04:08+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Protein or pickled garlic? What's new in ice cream",
+            "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+            "published": "2026-08-14T21:20:19+00:00"
+          },
           {
             "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
@@ -353,16 +360,16 @@
             "source": "BBC Business",
             "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
             "published": "2026-08-14T11:32:05+00:00"
-          },
-          {
-            "title": "US says dozens of countries helped China dodge Trump's tariffs",
-            "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-            "published": "2026-08-14T08:39:46+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
+            "link": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Brook and Rickelton fight for SRL, but target of 187 proves to be out of reach",
+            "published": "2026-08-14T21:18:27+00:00"
+          },
           {
             "title": "Baker and Winfield-Hill take in-form Sunrisers into final",
             "link": "https://www.cricinfo.com/ci/content/story/1549981.html?ex_cid=OTC-RSS",
@@ -439,16 +446,16 @@
             "source": "NDTV Sports",
             "summary": "The Marylebone Cricket Club (MCC), the custodians of the cricket laws, on Friday clarified the dead-ball rule after the law was applied in two different ways by the umpires in the ongoing 'The Hundred' in England.",
             "published": "2026-08-14T22:39:28+05:30"
-          },
-          {
-            "title": "Big Scare For Pakistan: Babar Azam Suffers Injury Blow Ahead Of Crucial England Test Series",
-            "link": "https://sports.ndtv.com/cricket/big-scare-for-pakistan-babar-azam-suffers-injury-blow-ahead-of-crucial-england-test-series-11911490#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Babar Azam was forced to retire hurt on five during Friday's second day of three against a Professional County Club Select XI after being hit on the right hand.",
-            "published": "2026-08-14T22:29:29+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Protein or pickled garlic? What's new in ice cream",
+            "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+            "published": "2026-08-14T21:20:19+00:00"
+          },
           {
             "title": "OpenAI Unveils Ultrafast Mode for GPT-5.6 Sol, Promises Up to 14x Faster Processing",
             "link": "https://www.gadgets360.com/ai/news/openai-ultrafast-tier-gpt-5-6-sol-processing-preview-11910715",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "iQOO and Redmi have raised the prices of their recently launched smartphones in India by up to Rs. 13,000. The Vivo sub-brand has raised the prices of the iQOO 15, iQOO 15R, and iQOO Neo 10. The flagship iQOO 15 has witnessed the biggest price jump in India compared to its launch price. The iQOO 15R is now listed on the company’s website with a price tag of Rs. 53,999 for the base 8GB + 256GB model. The Redmi Turbo…",
             "published": "2026-08-14T15:03:46+05:30"
-          },
-          {
-            "title": "Google Pixel 11 Pro EPREL Listing Shows Lower Drop Resistance Compared to Other Pixel 11 Siblings",
-            "link": "https://www.gadgets360.com/mobiles/news/google-pixel-11-pro-xl-fold-drop-test-rating-eprel-listing-specifications-11909202",
-            "source": "Gadgets 360",
-            "summary": "Google launched its Pixel 11 series earlier this week. The European Product Registry for Energy Labelling (EPREL) has now published the energy efficiency, durability, and repairability ratings for the Pixel 11 family, which reveal that the Pixel 11 Pro lags behind its siblings in the drop test. .",
-            "published": "2026-08-14T15:01:45+05:30"
           }
         ],
         "Entertainment": [
@@ -655,7 +655,7 @@
             "published": "2026-08-15T01:28:03+05:30"
           },
           {
-            "title": "महुआ मोइत्रा का आरोप-प्रशासन ने सर्किट हाउस खाली करने कहा:भीड़ ने जय श्रीराम के नारे लगाए; बोलीं- यहां से नहीं हटूंगी",
+            "title": "महुआ मोइत्रा का आरोप-प्रशासन ने सर्किट हाउस खाली करने कहा:भीड़ ने जय श्रीराम के नारे लगाए; बोलीं- नहीं हटूंगी, लोकसभा स्पीकर को लेटर लिखा",
             "link": "https://www.bhaskar.com/national/news/mahua-moitra-krishnanagar-circuit-house-eviction-controversy-138729832.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -804,13 +804,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ચીની સામાન વાયા ભારત અમેરિકા મોકલાતો હોવાનો દાવો:ટેરિફ ટાળવાનો પ્રયાસ; અમેરિકી રિપોર્ટમાં પુણે, ગુજરાત અને ચેન્નઈ નેટવર્કનો ભાગ",
-            "link": "https://www.divyabhaskar.co.in/national/news/china-us-tariff-evasion-india-pune-gujarat-chennai-network-138730546.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-14T20:39:36+00:00"
-          },
-          {
             "title": "થાઈલેન્ડથી 200 ભારતીયોને લઈને ફ્લાઇટ દિલ્હી રવાના:બેંગકોક એરપોર્ટ પર 28 કલાકથી ફસાયા હતા; એર ઇન્ડિયાની ફ્લાઇટમાં ટેકનિકલ ખામી હતી",
             "link": "https://www.divyabhaskar.co.in/national/news/air-india-bangkok-delhi-flight-delay-passengers-stranded-138729812.html",
             "source": "Divya Bhaskar",
@@ -886,6 +879,13 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-14T13:25:00+00:00"
+          },
+          {
+            "title": "રાજકોટમાં એકના એક પુત્રની હત્યાના આરોપમાં વૃદ્ધ પિતાની ધરપકડ, શું છે કારણ?",
+            "link": "https://www.bbc.com/gujarati/articles/czdmeym7ymzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-14T13:16:53+00:00"
           }
         ]
       }
@@ -1079,6 +1079,13 @@
             "published": "2026-08-14T19:51:00+00:00"
           },
           {
+            "title": "Nepal Gorkha soldiers: నేపాల్‌కు ‘అగ్నిపథ్‌’ సెగలు... గూర్ఖా సైనికుల ఆందోళన దేనికి..? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkJBZVBOLWFwVHk3ZUp1RHJWUnBHazhaM2xFS2JJWHVsUzdaZ1ZrQy1vUTQtODk1ZEF5MGUwMk9RSU1QNS1ZX1dVSEg1ZzhwQ1dacjRra2h5aVZBVTFtNHg1NGlKTU1xYjdtb1ZsSllqeHQ5WjJFTUkxeVl2ZnJXXzlacjlGajFRODJWQWR6eVlwMVE0SHAzdVJyRFgzeDJsTVFENGtERTFPQXJ4UzZ1MGEzcGwxOS05dXEtVFQ2RnF6akpVRWY0SUFWRGxud9IBzgFBVV95cUxNZkJBZVBOLWFwVHk3ZUp1RHJWUnBHazhaM2xFS2JJWHVsUzdaZ1ZrQy1vUTQtODk1ZEF5MGUwMk9RSU1QNS1ZX1dVSEg1ZzhwQ1dacjRra2h5aVZBVTFtNHg1NGlKTU1xYjdtb1ZsSllqeHQ5WjJFTUkxeVl2ZnJXXzlacjlGajFRODJWQWR6eVlwMVE0SHAzdVJyRFgzeDJsTVFENGtERTFPQXJ4UzZ1MGEzcGwxOS05dXEtVFQ2RnF6akpVRWY0SUFWRGxudw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-14T19:31:00+00:00"
+          },
+          {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (15/08/2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRW13VWFhd3dxR2Rma05ZWTloOGNzRTAzQnh3eEM4MHNScF92bGp6MHVBVDQ4M3F4UmhILWx4MTlJOE5lUVpZUXAwMF9Wa3hRS2d2Umx0ekoyUHhlQWFfdDVMSUt5cDZsTVhVWktnM0hQeW9tUXkybFloQ0JXMjhGV2NMb2NqYl9wRXJOOVJQMWRCVXZ1VnVEM1lEeEdxd2dhZllUQXJVSHF6M0JfUVNIadIBsAFBVV95cUxPRW13VWFhd3dxR2Rma05ZWTloOGNzRTAzQnh3eEM4MHNScF92bGp6MHVBVDQ4M3F4UmhILWx4MTlJOE5lUVpZUXAwMF9Wa3hRS2d2Umx0ekoyUHhlQWFfdDVMSUt5cDZsTVhVWktnM0hQeW9tUXkybFloQ0JXMjhGV2NMb2NqYl9wRXJOOVJQMWRCVXZ1VnVEM1lEeEdxd2dhZllUQXJVSHF6M0JfUVNIaQ?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-14T15:27:53+00:00"
-          },
-          {
-            "title": "Droupadi Murmu : పాక్ అనుభవించాల్సిందే- సింధు జలాలకు బ్రేక్ పై తేల్చేసిన రాష్ట్రపతి..!",
-            "link": "https://telugu.oneindia.com/news/india/president-droupadi-murmu-hails-indus-waters-treaty-suspension-warns-terrorists-of-consequences-501679.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-14T20:47:36+05:30"
           }
         ],
         "Entertainment": [
