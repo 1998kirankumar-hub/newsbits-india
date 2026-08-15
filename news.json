@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-15T22:01:32.753341+00:00",
+  "updated_at": "2026-08-15T22:31:12.677092+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Why is the latest Ebola outbreak worsening?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Virus spreading in DRC faster than containment efforts.",
+            "published": "2026-08-15T22:00:42+00:00"
+          },
           {
             "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
             "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -95,13 +102,6 @@
             "source": "The Hindu",
             "summary": "On the 22nd day of the agitation seeking reforms in the State's recruitment examination process, the 'Tiranga Yatra' was organised from the protest site of Jaipal Singh Munda Stadium to Albert Ekka Chowk",
             "published": "2026-08-16T02:02:19+05:30"
-          },
-          {
-            "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-            "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-            "published": "2026-08-15T20:21:14+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,13 @@
         ],
         "World": [
           {
+            "title": "Why is the latest Ebola outbreak worsening?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Virus spreading in DRC faster than containment efforts.",
+            "published": "2026-08-15T22:00:42+00:00"
+          },
+          {
             "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
             "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -255,7 +262,7 @@
             "published": "2026-08-15T20:09:33+00:00"
           },
           {
-            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "title": "Moroccan police intercept migrants heading for Ceuta enclave",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
             "published": "2026-08-15T19:46:20+00:00"
-          },
-          {
-            "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-            "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-            "published": "2026-08-15T19:41:57+00:00"
           }
         ],
         "Business": [
@@ -655,14 +655,14 @@
             "published": "2026-08-16T12:04:50+05:30"
           },
           {
-            "title": "सीएम रेड्डी बोले-BRS ने सरकार गिराने के लिए तंत्र-मंत्र कराया:नेता कर्नाटक-तमिलनाडु के मंदिरों में जाकर पूजा कर रहे; कांग्रेस ने पहले भी आरोप लगाया",
+            "title": "तेलंगाना CM बोले-BRS ने सरकार गिराने के लिए तंत्र-मंत्र कराया:नेता कर्नाटक-तमिलनाडु के मंदिरों में जाकर पूजा कर रहे; कांग्रेस ने पहले भी आरोप लगाया",
             "link": "https://www.bhaskar.com/national/news/telangana-cm-revant-reddy-brs-tantra-mantra-controversy-telangana-138740615.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-15T21:32:10+00:00"
           },
           {
-            "title": "भास्कर अपडेट्स:कर्नाटक के चामराजनगर में जंगल में फायरिंग, 3 की मौत, सीएम ने जांच के आदेश दिए",
+            "title": "भास्कर अपडेट्स:तमिलनाडु के कांचीपुरम में लॉरी से टकराई बस, 30 लोग सवार थे; 3 की हालत गंभीर",
             "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-16-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138712298-138721867-138729106-138740612.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Network: ఆమెకు నెట్‌వర్క్‌ అవసరమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHgtaUcwb2tGLXMtTEgtVDgzTVJZcVhRZnlvSnRncGVtZnVnUFBleUdxZ3p1eUN2ZEUtRFFVU3FtYWhlWF9ZT0RJWU5XMExzUEhCQk45aXJYMVhJTmdDYlJYT0MtdUJ3TUxJcGc5UUtUVlFYbXJMUVBleVNBbGdmaDJDdmhuZkhfcTRjMU4ySdIBjwFBVV95cUxOdHgtaUcwb2tGLXMtTEgtVDgzTVJZcVhRZnlvSnRncGVtZnVnUFBleUdxZ3p1eUN2ZEUtRFFVU3FtYWhlWF9ZT0RJWU5XMExzUEhCQk45aXJYMVhJTmdDYlJYT0MtdUJ3TUxJcGc5UUtUVlFYbXJMUVBleVNBbGdmaDJDdmhuZkhfcTRjMU4ySQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-15T21:23:34+00:00"
+          },
+          {
             "title": "Sai Durgha Tej: సంక్రాంతికి సంబరాలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelR6aHJzZlM0ejRzUThfbjliMGo0WHFNNDhsQkZ6S2FCRlZpQXJJU2RqNTM3QzlGRWZuVWJBZ2psY1p4SU56T2Voa0FScmhfX0M2Z3dPRHZCUElxaVJ0SUFPeHRjMGp0UDNNQlgtWTFxRDVKM20wbzViZGk0cFpXNjd0N3VlOEtPakRUV0s3LXRzSzlkYzRGOFZLcHFBM0cxQ2Z2V1dQa9IBpwFBVV95cUxQelR6aHJzZlM0ejRzUThfbjliMGo0WHFNNDhsQkZ6S2FCRlZpQXJJU2RqNTM3QzlGRWZuVWJBZ2psY1p4SU56T2Voa0FScmhfX0M2Z3dPRHZCUElxaVJ0SUFPeHRjMGp0UDNNQlgtWTFxRDVKM20wbzViZGk0cFpXNjd0N3VlOEtPakRUV0s3LXRzSzlkYzRGOFZLcHFBM0cxQ2Z2V1dQaw?oc=5",
             "source": "Eenadu",
@@ -1086,11 +1093,11 @@
             "published": "2026-08-15T20:46:44+00:00"
           },
           {
-            "title": "India: స్వతంత్ర విధానమే ప్రగతి మార్గం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDB5Q0djVzI0SzNmSHhkMm1GbHItTnhXSWM1TXJkQnVaRXBwZFk2ZWVXNXBNYTVfckllcS1VNUxyV2hRUjRrbV9mQXB5alhEN01NZGt3cjkzSklTVTZBYXB0XzE3QjVodjRFajRXX3FMMTl2NWUzYTJIaXJOTWJ4dGt1alV5Z2JzZjhsMWRxQ1RTTTNFZ3RHS2I5ZFNBOVZtbGczUkx1STB3cWfSAasBQVVfeXFMT3AweUNHY1cyNEszZkh4ZDJtRmxyLU54V0ljNU1yZEJ1WkVwcGRZNmVlVzVwTWE1X3JJZXEtVTVMcldoUVI0a21fZkFweWpYRDdNTWRrd3I5M0pJU1U2QWFwdF8xN0I1aHY0RWo0V19xTDE5djVlM2EySGlyTk1ieHRrdWpVeWdic2Y4bDFkcUNUU00zRWd0R0tiOWRTQTlWbWxnM1JMdUkwd3Fn?oc=5",
+            "title": "విభజన విషాదాన్ని గుర్తుంచుకోవాలి: డీయూ వీసీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LUTRJcUNOZnRqU0ZDc2hNcVkweGxWS2RzWElKODNuUGo2ZktqQ092LUV5QnZZbGNtd2ppUThFTXBBNXE4N1dEQUNhZWM3bi1RaWJEdk10Qi1sZlZJU1IzNXg4Tkhaa1l1UG5TR2FwS1l1aDF6bTRvQg?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-15T19:59:53+00:00"
+            "published": "2026-08-15T20:30:24+00:00"
           },
           {
             "title": "Devdut Padikkal: దేవదత్‌.. టీమ్‌ ఇండియా ‘తొలి’ జెన్‌ ఆల్ఫా కుర్రాడి కథ తెలుసా? - Eenadu",
@@ -1107,11 +1114,25 @@
             "published": "2026-08-15T18:32:04+00:00"
           },
           {
+            "title": "రైలు ఎక్కడుందంటే.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlBDTmQyM0xfWGU4V0ZRbjdsM3VLbTBoazBJVkNLWUsxbVBlZWJ4MU1rOUVpMmdzMm5tYk1tYXUtdzZHR1pVY2xaakVXbEtSdHFkUVR4aXJkQUNrdEdTN3V1YzFXRlA5Um12blM0QVNvUmh3SUdjZzBpM19YM3dFaXBQbjjSAYQBQVVfeXFMT05QQ05kMjNMX1hlOFdGUW43bDN1S20waGswSVZDS1lLMW1QZWVieDFNazlFaTJnczJubWJNbWF1LXc2R0daVWNsWmpFV2xLUnRxZFFUeGlyZEFDa3RHUzd1dWMxV0ZQOVJtdm5TNEFTb1Jod0lHY2cwaTNfWDN3RWlwUG44?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-15T18:16:12+00:00"
+          },
+          {
             "title": "షాంపులతో పాలు, ఎఫ్‌డీఏ కమిషనర్ తుకారాం షాకింగ్ నిజాలు!",
             "link": "https://telugu.oneindia.com/news/india/shocking-milk-adulteration-alert-maharashtra-fda-chief-tukaram-reveals-chemical-use-in-synthetic-mi-501847.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-15T23:45:23+05:30"
+          },
+          {
+            "title": "Palnadu: ఇంట్లో గ్యాస్ లీక్ .. భర్తకు గాయాలు.. భార్యకు ఒక్క గాయమూ లేదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkpYUkpJN1VZUVhmbzQ1eGZ2RXVWRDhvS2ZqT2xEcmx5ZHVSRS1rOUEzZ3NpMWR5Smc2MHJpal9WRTJ5U3FhWV8ydlFQMzNvSkdvZFVTcmxzWTMtek1aT2pxRlVUcTBMSDhlSjQtMVZaZTJ4WU1tanowQ2FjWHRvMXZkX21MZlNOTlFaT1VQUTJyZ9IBkgFBVV95cUxQTkpYUkpJN1VZUVhmbzQ1eGZ2RXVWRDhvS2ZqT2xEcmx5ZHVSRS1rOUEzZ3NpMWR5Smc2MHJpal9WRTJ5U3FhWV8ydlFQMzNvSkdvZFVTcmxzWTMtek1aT2pxRlVUcTBMSDhlSjQtMVZaZTJ4WU1tanowQ2FjWHRvMXZkX21MZlNOTlFaT1VQUTJyZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-15T18:12:42+00:00"
           },
           {
             "title": "Weekly horoscope: ఈ వారం రాశిఫలం (ఆగస్టు 16 - 22) - Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-15T23:02:05+05:30"
-          },
-          {
-            "title": "విరుచుకుపడ్డ డబుల్ భూకంపం! సునామీ భయం, 47 మంది మృతి",
-            "link": "https://telugu.oneindia.com/news/international/double-earthquake-hits-indonesia-6-9-magnitude-quake-rocks-western-sumatra-as-death-toll-rises-to-4-501845.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-15T22:29:53+05:30"
-          },
-          {
-            "title": "Poll Tracker: ఈసారి యూపీ ఎన్నికల్లో షాకింగ్ ఫలితాలు? తేల్చేసిన ఒపీనియన్ పోల్..!",
-            "link": "https://telugu.oneindia.com/news/india/poll-tracker-opinion-poll-india-bloc-gains-edge-over-nda-in-uttar-pradesh-assembly-election-2027-501833.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-15T21:46:16+05:30"
-          },
-          {
-            "title": "సీఎం విజయ్‌పై నోరు పారేసుకున్న బీజేపీ నేత.. అసెంబ్లీలో ‘కుట్టి కథ’ రగడ..",
-            "link": "https://telugu.oneindia.com/news/india/backlash-for-bjp-leader-annamalai-condemns-nainar-nagenthran-personal-remarks-targeted-at-cm-vijay-501843.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-15T21:28:17+05:30"
           }
         ],
         "Entertainment": [
@@ -1440,13 +1440,6 @@
             "published": "2026-08-15T16:47:43+00:00"
           },
           {
-            "title": "দেশভাগ তাঁদের ‘চিরকালীন বোঝা’ বানিয়েছিল, ৭৯ বছরের স্বাধীন দেশেও সুদিন ফেরেনি যে মহিলাদের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM3FnSlY5eVdLWldlMGF5MzRNNlpmTTRGaC03aDVFTTFlVmpiT1VXaUVQcFlaTnpNQ19yanlISlZCdXVoZ1ZqM2xualVXS2xTSDNBRmUwLWh3Ml9tdzMyZllkTUxadGRGTVJzaDVOVjkyZkprMFFmYy1iTkd3SUdFcUhQTGJNZ1pVdTR3RXZ3NDNzeGRYNjlINUNaMWNTaHpKUlpCWVlrUDk2Rm50WGU5aU55SFVJZlU1UEhxUVJtb0xycW9PNFZBT21TdUFOUXAtbEtPOW5ZaVdKNVhpQ1FPYTJJX1YzZXpWcG1YbkEyOUhUSDI2U0lwNWJsbVVpdE53aERNN2JTc3VfdmExRlRDVEdqbE1ieWZV0gGYAkFVX3lxTE4zcWdKVjl5V0taV2UwYXkzNE02WmZNNEZoLTdoNUVNMWVWamJPVVdpRVBwWVpOek1DX3JqeUhKVkJ1dWhnVmozbG5qVVdLbFNIM0FGZTAtaHcyX213MzJmWWRNTFp0ZEZNUnNoNU5WOTJmSmswUWZjLWJOR3dJR0VxSFBMYk1nWlV1NHdFdnc0M3N4ZFg2OUg1Q1oxY1NoekpSWkJZWWtQOTZGbnRYZTlpTnlIVUlmVTVQSHFRUm1vTHJxb080VkFPbVN1QU5RcC1sS085bllpV0o1WGlDUU9hMklfVjNlelZwbVhuQTI5SFRIMjZTSXA1YmxtVWl0TndoRE03YlNzdV92YTFGVENUR2psTWJ5ZlU?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-15T16:00:56+00:00"
-          },
-          {
             "title": "গাছের পাতা হলদে হয়ে যাচ্ছে? কালো ছোপও হচ্ছে, বর্ষায় ছত্রাকের আক্রমণ ঠেকান ৩ কৌশলে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXI2Rk5IZzUxSm9xZGZFZlpSYTJweDZ6QmRmZmZIV3F1bk1IMmk2NmdsUE5fSGVCNlJmU1dXQjVhMmF0bmliWmxiR3N3QTVxdEp2Zk93X0pvR2NXMkNmTkFaYml5M2p5NkdqZVdhLWtTMmNWMEZhLU9LTk40Nm0zZklHYTRRYzBXd0xWejM3SmdsYzBIeXJjTVk1cDhOZzh0Q3VHOFFpRzZFZ9IBqgFBVV95cUxPNXI2Rk5IZzUxSm9xZGZFZlpSYTJweDZ6QmRmZmZIV3F1bk1IMmk2NmdsUE5fSGVCNlJmU1dXQjVhMmF0bmliWmxiR3N3QTVxdEp2Zk93X0pvR2NXMkNmTkFaYml5M2p5NkdqZVdhLWtTMmNWMEZhLU9LTk40Nm0zZklHYTRRYzBXd0xWejM3SmdsYzBIeXJjTVk1cDhOZzh0Q3VHOFFpRzZFZw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1459,20 +1452,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-15T15:26:49+00:00"
-          },
-          {
-            "title": "মূর্তি ভাঙা, বিজেপি সাংসদের মুখে কুকথা! স্বাধীনতার ৮০ বছর পরেও ‘অসম্মানিত’ নেতাজি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeDRWOU4wcFVaVDZTWkNwcExRQ09RZUtCbWp6ZEtCNDYwSFBrYnhxZzdxbnJJYmNjLURhM2kyekM5UHZnd2NYcFh4Vm4zMHFDd0p5YzIyM0N3QXMtT3V4d1FxZjlrbC1CVFpFRUFoVVd5SjR2ZkRLYTEtdVhVRlJLU2Q3N2tQZ20zX0JFOWh5ODMxbDdtSDgtYW1iTnZwcTNldl84M0ltVEJhSTFScXdfU2dNWnFFVlV2XzBUdTdJdHdTaF9sTHNILUZkUFgzbjEyU2tobGRhYTRTc1ZEZ09lN2dlb1B6RElFS2tib3V4bG5aY0c2Y3FiUkprMNIB-wFBVV95cUxOeDRWOU4wcFVaVDZTWkNwcExRQ09RZUtCbWp6ZEtCNDYwSFBrYnhxZzdxbnJJYmNjLURhM2kyekM5UHZnd2NYcFh4Vm4zMHFDd0p5YzIyM0N3QXMtT3V4d1FxZjlrbC1CVFpFRUFoVVd5SjR2ZkRLYTEtdVhVRlJLU2Q3N2tQZ20zX0JFOWh5ODMxbDdtSDgtYW1iTnZwcTNldl84M0ltVEJhSTFScXdfU2dNWnFFVlV2XzBUdTdJdHdTaF9sTHNILUZkUFgzbjEyU2tobGRhYTRTc1ZEZ09lN2dlb1B6RElFS2tib3V4bG5aY0c2Y3FiUkprMA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-15T14:56:39+00:00"
-          },
-          {
-            "title": "দুধ জ্বাল দিতে হবে না, গ্যাস খরচ সময় বাঁচিয়ে কী ভাবে ১০ মিনিটে রসমালাই বানাবেন - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQmlIUEY0LUQ3S2xGQlNKX0g0TEo0VUo5aktLTHdoc21YdEhvM0xXbkN0NzlpUlFMZS1NdXdFaHNtcDN2dzRhQjBXckZZRVRQWlF2ejBHVlZvU3NqOEk3UFhvZWtCbVNkS3M4Rl93bmV2Z1BwSWxtMzk2US1hdTN6aklfcHk3ZTJOODhkajlLX2xHazZ0eHVNWk1HWDlxZ1ZPcENodmRZdEFaVUZRNUZsT0pabHhCRFdnWHN3SG1SMGNfYWF0UWppNnFfY0dsb00t0gHQAUFVX3lxTE9CaUhQRjQtRDdLbEZCU0pfSDRMSjRVSjlqS0tMd2hzbVh0SG8zTFduQ3Q3OWlSUUxlLU11d0Voc21wM3Z3NGFCMFdyRllFVFBaUXZ6MEdWVm9Tc2o4STdQWG9la0JtU2RLczhGX3duZXZnUHBJbG0zOTZRLWF1M3pqSV9weTdlMk44OGRqOUtfbEdrNnR4dU1aTUdYOXFnVk9wQ2h2ZFl0QVpVRlE1RmxPSlpseEJEV2dYc3dIbVIwY19hYXRRamk2cV9jR2xvTS0?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-15T14:22:23+00:00"
           },
           {
             "title": "হরমনপ্রীতের জোড়া গোল, হকি বিশ্বকাপে ওয়েলসকে হারিয়ে অভিযান শুরু ভারতের - Anandabazar Patrika",
@@ -1496,18 +1475,39 @@
             "published": "2026-08-15T12:47:39+00:00"
           },
           {
-            "title": "আজ জন্মদিন হলে ( ১৬ অগস্ট ২০২৬ ) - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95X25MbDMzQkVib0o1VWlKR2NmelFLWVRURFFHdU9DVmRZRnpSU1hyTVY5cG4yRGFRbUhISGJpUWs4OUpPODNlbHMyUzg1Q0NmUEMyTkxFdkVMaDFEQUl6V09sTnVwTXJhTjAyWFFYbks3NkphcnfSAXtBVV95cUxQZTlTOEtFSTk1LXBXdC13d2xnWlpVOVh5REI0djM0S1NCWDJ1ZmJrUVZwcnBrdS1EMzBsRGdDdXdGVkgzaGtXN0lvb1N0Wm05QmRaMmxjSUU5NDJWU2dXNVg3YkE3QXZPdFdDMlNPcDdFQU96bWlGbXhQeGc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-15T11:56:41+00:00"
-          },
-          {
             "title": "আপনার আজকের দিন- ১৬ অগস্ট, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlJ0VzFucW1WdWMxWTM3aEFRVVY5cFdTZlR3MnBDaVFGdXB2VXlYVVFTREhmekFhUGcydm5OZmF1XzlCa2N4NmpocE1xMEtOZmJnYU5DaHRKVko4X2JhVjdlZkpqS3RjZ25NeGtZRWJrU25yVUdZZG5ReTN5a1lxQ2oxMDNXWUF5SUllU1EwYnRmMjhYbG1BeFo3ZEFobV90b0lQa3h2S1ZPTDRaMzlSSjVVZjJEUjN2bkHSAb8BQVVfeXFMT29jREVkTlJQOHBwdFgtakVsdGg0cHd1Z3NTTC15ZGotZGtnUHMxdjhWR1A3UFJ3bi13OFlrOFFVQV9adGVsRVpHQng5c3VZdU1oRWU3WS1RejJROHlHSWo2d0pFN2RIQTVsSnRzUVctcW9oeWh6NnFEVXBLNElXRXR4bEZIVnJ6NHhQSm1PaWlOalNybUJUOWxUVkl4ejVUcndGQmpIa3VXdHl3RkgxOHNwQXdsbV9pTi1faFY5Tm8?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-15T11:47:49+00:00"
+          },
+          {
+            "title": "আজকের দিন মীন রাশি- ১৬ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkRlX3BHaF91VG5YOEJNNEtUTHNvS1hjakMwWncxUHE2UThYbzBEWDd6NDJESnZsaW8ycTZXNWxLbmU1ZWppd2lfcW1jdE5BQ2R6Q3lFaTlSUDFDOEdxNkN6TkQtMW90d3k3ZWcyLU94RVkyUEhSOE1aRGlLYjNMRVJaRmFzS3J0TUpDdUZaZWpXV09kWEQ2amRfZ1NWQ240Yk51SHMyR3d6OFXSAbABQVVfeXFMTzVSLVdIclZNMTBPN0xXdnBxcmZBSkZ2TFVhYVZFeEtCMUFfbmZOZDBCdVBacktqT2djb0lLUUtTbklQY3VHUVJ6MmZYazVXQmFUV2ZzNHBMSnBTUVgzVDVpNUJWTmxrY0tpQXdtZ2cxUVl0bno4UzNxLWl1U1FJdnNzM2drRnFfenpXYmVUellzcThFZ3ZITDZfX3lqVnlsanlENFZFRnkxUk1EUzFMcjE?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-15T11:46:08+00:00"
+          },
+          {
+            "title": "আজকের দিন কুম্ভ রাশি- ১৬ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORktZY29oOTZwejc5R25uc2pIeVJYRUFPUUZia3drMFFuUXl2VUkzZ0t1bTZEOEJLbWc4X0VObHZZR0FUVlFhQ0tlWWx4cE9JT1hLLS1zZU9wTGNzamVNZFVTTkxwQVFYdTZWNmRwb3k3M2NEUVZ4Ulc3SHp3eV9vUmNhMFRqei1LZEg2eklSZF8zRTZCMWMtclhVSkVnZ19Ed2xaajJ1OG90cEloZEMw0gG0AUFVX3lxTE5QUGlLdko5c09WSTE3ZVdmS056UHdQOEJwNmRadFlKUGt3MXoyLXcwd2JqTFhYOWIxWVEtVWZrdWR0dkg5RUFQUHEzMGVObllEajVmemZmM3h1bHFpckRMSlZHam96NUt3blAtR0ZMYjZRcENWX19rS1JGWGZwSXhuX05PWlFlSzZBQXM4QXdwQXpuNE8tLUVEVF9VVFBDU2UtY2V6X3JoOFFNRmNiQjZRb2l3bQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-15T11:42:01+00:00"
+          },
+          {
+            "title": "আজকের দিন মকর রাশি- ১৬ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnhNQ3VpQ3hGZjh0dTd4X3h6SlBjLUVCZDd3MGRpeFpuUXhJcTI0WkRXdGxleGt2bzU0QkhfZFQzSm9mVnpBZjI3U2o1MWNEVXQyTHlfNW92amF0alk2LURmWVJLVWZVaGpxZV9rZW52d1NUUndhR1kzZXpuZEd5S084UU9MWUl0Z2lSVW13RE9QYVdNa2VMTF8tN2lhVlVZb21yakp3WFVKQkVWal8yU9IBtgFBVV95cUxOb0pwWHpIcEgtZTltQlI4S1dCSUxCMUVNNFNoeDVLdnhMRVIwcVloWWtIdHNjWGpiMGwxSWZvQXFiUjJWWUxFbGlzWVhFeFEyQkRrdl9jQnhHZl9vbkpXX0JFa2dVTlB2bFdjQWhXMHJWLXJWeHl5TVBlZkVIWVUtMGtKZ0ktUWxBc3VRNTFKRTdqSVdPaGYzbXJhZnVkVWNYejN4ZmpoU2tWVXlUWjNSWURib0dJUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-15T11:40:25+00:00"
+          },
+          {
+            "title": "আজকের দিন ধনু রাশি- ১৬ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTC15WGpoMGZXN1BWRTVaNkRvX2RZMjJsVkdEM240elhPdl9kR2pwV1dXNWR3MUNRczlFU1BMWUc4YzdLcE5pVXNoQVliWG9NeFhsNnJNc2RWdUV4TDdjTmo4RzB4LWtKc0U2ZTNxeEQ1czNPN25rQ1lpMGJQQWxPdFZZUWNRaXY0eFFsMmExZ0VhSnhwNHMtcUlLRWxIYkxOMVhaTU5VMUo4WW8xMzRZdGVR0gG3AUFVX3lxTE5JdWZQVEQtTUZ1MlhwOHhZajNib0dtb1VsdFlmYThaLTB5VzVyZm1hTktXZWsyZVUyQWFCZEhwbTVlUkc4eEt3UzAxUk9kOURiSnRqdnRKbmsybGxBSTM2Q2Q4dTJJUjBfLW9Sd09UWDZSM2g2VDFsQlZGVDlxVm1rVUZoUmpmNGQxcUt4dTFBZEZaRWU5dGNJRjB2THVfR19EVlFhdURyRDdQODZDbnlqdUxvWF84cw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-15T11:38:40+00:00"
           }
         ]
       }
