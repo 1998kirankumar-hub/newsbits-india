@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-08-16T22:01:36.549452+00:00",
+  "updated_at": "2026-08-16T22:31:14.182860+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
+            "link": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-17T03:56:35+05:30"
+          },
+          {
+            "title": "Rahul Gandhi's 'chhatron ki goonj' rally in Pune will be exclusively for girls",
+            "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-chhatron-ki-goonj-rally-in-pune-will-be-exclusively-for-girls/articleshow/133282215.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-17T03:29:18+05:30"
+          },
+          {
             "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
             "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
             "published": "2026-08-16T21:57:13+00:00"
+          },
+          {
+            "title": "What could stop Israeli settler attacks on Palestinians?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
+            "published": "2026-08-16T21:54:58+00:00"
+          },
+          {
+            "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+            "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.",
+            "published": "2026-08-16T21:51:39+00:00"
           },
           {
             "title": "How PM Modi has changed focus of Independence Day speeches",
@@ -74,37 +102,23 @@
             "source": "The Hindu",
             "summary": "Protesters say Congress had promised to withdraw support from the JMM-led regime if the demand for a CBI probe was not addressed by August 15",
             "published": "2026-08-17T02:27:15+05:30"
-          },
-          {
-            "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
-            "published": "2026-08-16T20:55:19+00:00"
-          },
-          {
-            "title": "Jharkhand exam stir: Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
-            "source": "The Hindu",
-            "summary": "The students accuse JMM-Congress of playing politics; ask Congress to withdraw support from JMM-led coalition",
-            "published": "2026-08-17T02:19:16+05:30"
-          },
-          {
-            "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-            "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
-            "published": "2026-08-16T20:46:01+00:00"
-          },
-          {
-            "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-            "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.",
-            "published": "2026-08-16T20:36:32+00:00"
           }
         ],
         "India": [
+          {
+            "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
+            "link": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-17T03:56:35+05:30"
+          },
+          {
+            "title": "Rahul Gandhi's 'chhatron ki goonj' rally in Pune will be exclusively for girls",
+            "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-chhatron-ki-goonj-rally-in-pune-will-be-exclusively-for-girls/articleshow/133282215.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-17T03:29:18+05:30"
+          },
           {
             "title": "How PM Modi has changed focus of Independence Day speeches",
             "link": "https://timesofindia.indiatimes.com/india/how-pm-modi-has-changed-focus-of-independence-day-speeches/articleshow/133282201.cms",
@@ -155,11 +169,18 @@
             "published": "2026-08-17T01:21:08+05:30"
           },
           {
-            "title": "Barrierless tolling makes road users fall in line, drop in number of e-notices at plazas",
+            "title": "Barrierless tolling makes impact, number of e-notices goes down",
             "link": "https://timesofindia.indiatimes.com/india/barrierless-tolling-makes-road-users-fall-in-line-drop-in-number-of-e-notices-at-plazas/articleshow/133281792.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-17T01:13:26+05:30"
+          },
+          {
+            "title": "Questions raised over hospital dustbin procurement in Bihar",
+            "link": "https://www.thehindu.com/news/national/bihar/questions-raised-over-hospital-dustbin-procurement-in-bihar/article71352922.ece",
+            "source": "The Hindu",
+            "summary": "RJD targets BJP over alleged irregularities in hospital dustbin purchases, while BMSICL officials defend the procurement process, saying there is a significant difference between ordinary dustbins and those procured for hospitals",
+            "published": "2026-08-17T01:12:56+05:30"
           },
           {
             "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
@@ -167,27 +188,6 @@
             "source": "The Hindu",
             "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
             "published": "2026-08-17T00:54:01+05:30"
-          },
-          {
-            "title": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-government-has-failed-to-mitigate-drought-says-kumaraswamy-opens-handloom-products-market/article71353661.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-17T00:52:54+05:30"
-          },
-          {
-            "title": "\"One Family One Ticket\" Row Grows As BJP's Ravneet Bittu Targets Congress",
-            "link": "https://www.ndtv.com/india-news/one-family-one-ticket-row-grows-as-bjps-ravneet-bittu-targets-congress-11918531#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The issue has intensified the ongoing political tussle between Punjab Congress chief Amrinder Singh Raja Warring and Sukhjinder Singh Randhawa.",
-            "published": "2026-08-17T00:50:07+05:30"
-          },
-          {
-            "title": "Army Chief Dhiraj Seth visits Nepal to strengthen military ties",
-            "link": "https://www.thehindu.com/news/national/army-chief-dhiraj-seth-nepal-visit-defence-and-military-ties/article71353111.ece",
-            "source": "The Hindu",
-            "summary": "He will attend an investiture ceremony at Rashtrapati Bhawan, where the Nepalese President will confer on him the honorary rank of General of the Nepali Army, in keeping with the unique tradition between the Indian and Nepali Armies",
-            "published": "2026-08-17T00:46:20+05:30"
           }
         ],
         "World": [
@@ -197,6 +197,20 @@
             "source": "BBC World",
             "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
             "published": "2026-08-16T21:57:13+00:00"
+          },
+          {
+            "title": "What could stop Israeli settler attacks on Palestinians?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
+            "published": "2026-08-16T21:54:58+00:00"
+          },
+          {
+            "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+            "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.",
+            "published": "2026-08-16T21:51:39+00:00"
           },
           {
             "title": "Anwar Ibrahim: Malaysia between the superpowers",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta.",
             "published": "2026-08-16T20:04:51+00:00"
-          },
-          {
-            "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.",
-            "published": "2026-08-16T20:02:09+00:00"
-          },
-          {
-            "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-            "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-            "published": "2026-08-16T20:01:51+00:00"
           }
         ],
         "Business": [
@@ -648,6 +648,13 @@
             "published": "2026-08-17T12:09:06+05:30"
           },
           {
+            "title": "सुप्रीम कोर्ट में आज कावेरी जल विवाद याचिका पर सुनवाई:तमिलनाडु ने 3 अगस्त को याचिका दायर की थी; कर्नाटक से पानी छोड़ने की मांग की",
+            "link": "https://www.bhaskar.com/national/news/supreme-court-hearing-cauvery-water-dispute-tamil-nadu-karnataka-138749571.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-16T22:20:42+00:00"
+          },
+          {
             "title": "भास्कर अपडेट्स:विशाखापत्तनम का पुराना एयरपोर्ट बंद, 150 कर्मचारियों की नौकरी पर संकट; नए अल्लूरी सीताराम राजू एयरपोर्ट से उड़ानें शुरू",
             "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-17-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138712298-138721867-138729106-138740612-138749179.html",
             "source": "Dainik Bhaskar",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-16T22:40:24+05:30"
-          },
-          {
-            "title": "चिदंबरम ने कहा 'दिमाग़ी नक्सल' होने पर गर्व, तो लोगों ने क्यों याद दिलाया उनका कार्यकाल",
-            "link": "https://www.bbc.com/hindi/articles/c62vvj4zxx5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-16T16:27:31+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "అక్షరాల చెట్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjUWRiaWVvc1lvUm5NX1ljZUdVVmV1WnNWdmhJM241MDRzLXE1M3ZCVGJzekhKVkNvblVVRUhMbnV6ckZSaGgzVTd4NWpEM1plMDIwbHI2aFo4c0w2WWZJQjNiTVk5dFN6VVpXMjlGYzJUVENrRjNiNXdtUUVDUdIBfkFVX3lxTFBjUWRiaWVvc1lvUm5NX1ljZUdVVmV1WnNWdmhJM241MDRzLXE1M3ZCVGJzekhKVkNvblVVRUhMbnV6ckZSaGgzVTd4NWpEM1plMDIwbHI2aFo4c0w2WWZJQjNiTVk5dFN6VVpXMjlGYzJUVENrRjNiNXdtUUVDUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T21:29:44+00:00"
+          },
+          {
+            "title": "PV Sindhu: సింధు సిక్సర్‌ కొడుతుందా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHo4d3l4MnpvZ0VGT3FKY1dMcDBEWUhxQ1RFZEpFSktxUDVwQTJsQ0lFelpmSFFzRGl0ejJfc2ZVcVRuN0RiT0I1amxXcTJzU3pVb1d4RG1BQzMtZXBoVGw2eDlzcF9seVlPQlBjdDlQTEFYWHRuell0YUZVbkxKX1hRcGhYZ3pEWTIxeTJPN2dnUGRNYWh0SFFoNjFuclYtYktwY19ELVNhYnVCLXBQTkVR0gGyAUFVX3lxTE5Uejh3eXgyem9nRUZPcUpjV0xwMERZSHFDVEVkSkVKS3FQNXBBMmxDSUV6WmZIUXNEaXR6Ml9zZlVxVG43RGJPQjVqbFdxMnNTelVvV3hEbUFDMy1lcGhUbDZ4OXNwX2x5WU9CUGN0OVBMQVhYdG56WXRhRlVuTEpfWFFwaFhnekRZMjF5Mk83Z2dQZE1haHRIUWg2MW5yVi1iS3BjX0QtU2FidUItcFBORVE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T21:12:59+00:00"
+          },
+          {
+            "title": "యశ్వంత్‌కు రెండో స్థానం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91amg0UUpsS2laTkhHdHg4ZjVIaHpfSnpsMXNWVE8teG1feEowQi11R2htc1lPeUR2TmxiVnRlNFQwVTZseVB4R2J6SnVfdE1pbzBGaWs4c0pOUDZLQ2lDalhrVWRkTGRWM1k2enFzNWVwd9IBckFVX3lxTE91amg0UUpsS2laTkhHdHg4ZjVIaHpfSnpsMXNWVE8teG1feEowQi11R2htc1lPeUR2TmxiVnRlNFQwVTZseVB4R2J6SnVfdE1pbzBGaWs4c0pOUDZLQ2lDalhrVWRkTGRWM1k2enFzNWVwdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T21:10:34+00:00"
+          },
+          {
+            "title": "శ్రీలీల.. మనసు దోచేలా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUZ3E3SDJmVElIOE16UWlwam8xbEtOYzJCV3g5N1RmTlBNR0tqZW53VFl5dEhRNGQ2Sk53cTVTT2RVT1pyQllWcFhyeXEzSkM5MHg5TnZyU0ExY3VDWFByaDhkUk1WS1JfR2ZwTWUtUkd1bjNYZDEwN05OV2h6dw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T21:02:01+00:00"
+          },
+          {
             "title": "పద్మశాలి మిత్రమండలి ఆధ్వర్యంలో పంద్రాగస్టు వేడుకలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43ME91OGtoQjlBNGhrVEdwQUJGN3pIUEE2dU5XY0JNTzlVSC1vWFJQbnE0QkNsdGltbEhxNkdQdm9nREFLSG5VeVV6dTJGMGN5aHBvME5OSVZWdVEzeS1hbWcyWWh5czd5TW9JQjFyN0NuRlk1N3lBLVZn?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-16T19:59:02+00:00"
+          },
+          {
+            "title": "దాదర్‌లో సందడిగా స్వాతంత్య్ర దినోత్సవం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCWUNvYXo2NTR4RU1fQi1pa3oxeVdpa3UyZDF3M2x0VW80dERHMVB5WkRUZTNvV0VZc3FUMFZjRm9MeHNVTzVYRjZHTDNnSlVvTWlkVWJrUEZaRGQyY1ZGUVJqZEVTeHpGVVNNZDIyNnZwVEgxSFlpMGRn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T19:58:26+00:00"
           },
           {
             "title": "నేవీ ఉద్యోగి కుటుంబం అనుమానాస్పద మృతి - Eenadu",
@@ -1107,53 +1142,18 @@
             "published": "2026-08-16T19:27:19+00:00"
           },
           {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (17/08/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTZzdnQ4Q2FyUXU2cEZEMjBlVEhqT3Y1ekpUTjYxUjl4THc1RHRzQmt4cm9DeDVUYWJrLUxxM2VCTDdjNVhqYzRGYkJHOWhpbmExQkNlSEdsUG45WHVnRGFmNUltelFPdjJoajlPRi1CbGs1YmNZXzgyS3JnWklud2dVUnRQQmJ5QXZGSTlWbVBudlBBaGQtanREVzZSbU9uekxKb3JRQkdIQdIBqgFBVV95cUxNVTZzdnQ4Q2FyUXU2cEZEMjBlVEhqT3Y1ekpUTjYxUjl4THc1RHRzQmt4cm9DeDVUYWJrLUxxM2VCTDdjNVhqYzRGYkJHOWhpbmExQkNlSEdsUG45WHVnRGFmNUltelFPdjJoajlPRi1CbGs1YmNZXzgyS3JnWklud2dVUnRQQmJ5QXZGSTlWbVBudlBBaGQtanREVzZSbU9uekxKb3JRQkdIQQ?oc=5",
+            "title": "స్టాలిన్‌తో పి.విల్సన్, వాగై చంద్రశేఖర్‌ భేటీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YRnJQMWJQWWZUams3ZWEzQzlnblVxbzJhU0Y0M2tsRDV5NGRQNkhtUkQ5UHlkSDljNGJ0cjFLX2hudnAzajc4TUZ6SThsVkpfNkNvbkxtSkt5dkU3eUZzR3dZQ1h5dEhUU1Vodms1OXM0WHN0eFdXekpaRXE4Zw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-16T18:32:34+00:00"
+            "published": "2026-08-16T19:12:31+00:00"
           },
           {
-            "title": "రైలు ఢీకొని విద్యార్థి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VWjZsb0hCcFg1NzhYaG5kLS11Z244UktuNHZKNEFuM09iNUpHS2Njbmwwc1JNQjBNb2hUVmpHeWVXejY3M0xhdUg2eG81MmVyZ3Jldlcxa3lLVU5iWExWQm5FMUlaSmY4T09tUlVnbjZqVmJXR2ROX1BwTDJHZw?oc=5",
+            "title": "ప్రియురాలిని వేధిస్తున్న యువకుడి అరెస్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ieXZpOXMxRFd1ZkJIVmQ5YWVPNUozbEd2aEFWZl9UWDdidTF3WXZQOXpTMDNZVTR4aEhQMnVmV1IzZ2pxbU1XZEg4cm9tT2pKSzdkNWRMNXlkQUladDRwLTlZWFpIMG5YTmt5RzRJbGUzNk1kMzBsaVdkMmhaQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-16T17:58:01+00:00"
-          },
-          {
-            "title": "Indian Railways బిగ్ మాస్టర్ ప్లాన్.. 20,000 స్టేషన్లలో 'ట్యాంక్ టు ట్యాప్' ప్యూరిఫికేషన్!",
-            "link": "https://telugu.oneindia.com/news/india/cag-audit-reveals-e-coli-in-railway-station-water-ministry-launches-massive-tank-to-tap-water-actio-501949.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-16T23:10:09+05:30"
-          },
-          {
-            "title": "మహిళలు దాడి చేస్తే డబుల్ క్యాష్ రివార్డ్.. యూఎస్ ఆర్మీపై ఇరాన్ సంచలన స్కెచ్!",
-            "link": "https://telugu.oneindia.com/news/international/iran-army-offers-huge-cash-reward-to-target-us-soldiers-with-special-double-bounty-bonus-for-iranian-501945.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-16T21:16:24+05:30"
-          },
-          {
-            "title": "ఉత్తరదిశగా తలలు, దక్షిణదిశగా కాళ్లు... పశ్చిమంవైపు ముఖాలు: కచ్ సమీపంలో బయటపడ్డ 100 అస్థిపంజరాల కథేంటి?",
-            "link": "https://www.bbc.com/telugu/articles/c4gwwl3x6x2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-16T15:12:34+00:00"
-          },
-          {
-            "title": "AP News: ఏపీలో మున్సిపల్ సేవలకు ఆధార్ ధ్రువీకరణ.. అమల్లోకి కొత్త విధానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVRoOVd4eXNUdVRabjczVFJVWFZlaEtmNVBIUm54cXhseUVJY3g4ekh0UUNoaGYwNk96eC0wUEtJbDdNYnBBSlhDZl91RUZZZDhUMk9CZ0JKQndpc3F5bXVncmNsQ05xTXVyNEhxMVlkN000WFN1MEZfc3BPTy1KM3ZoYmNMWGRHMm53LTE3cmgtSmtoeWs0Y296N3JlOHZqb3BrMTJHMC1DNEw5V0ZlVlJiWWJ5UEFJY1g0XzZ3dThpbFHSAcMBQVVfeXFMTUFUaDlXeHlzVHVUWm43M1RSVVhWZWhLZjVQSFJueHF4bHlFSWN4OHpIdFFDaGhmMDZPengtMFBLSWw3TWJwQUpYQ2ZfdUVGWWQ4VDJPQmdCSkJ3aXNxeW11Z3JjbENOcU11cjRIcTFZZDdNNFhTdTBGX3NwT08tSjN2aGJjTFhkRzJudy0xN3JoLUpraHlrNGNvejdyZTh2am9wazEyRzAtQzRMOVdGZVZSYllieVBBSWNYNF82d3U4aWxR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-16T15:07:03+00:00"
-          },
-          {
-            "title": "కొండా సురేఖకు సీఎం బిగ్ షాక్.. పరకాల టికెట్ ఆయనకే!",
-            "link": "https://telugu.oneindia.com/news/telangana/revanth-reddy-parakal-speech-cm-backs-revuri-prakash-reddy-for-next-election-konda-surekha-skips-t-501943.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-16T20:30:40+05:30"
+            "published": "2026-08-16T18:58:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1476,7 +1476,7 @@
           },
           {
             "title": "আজকের দিন ধনু রাশি- ১৭ অগস্ট, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmwtTTVWX0R2MEZmZzh2WEdERjVIMUpIZUNZSDlvQU92TmpvS3hxSnB1QkRBMFRMZ2ZoN0NQT01SQU1LQUdnRXo3b2M5dHVKazVZUkU3aEc0a0wtekF4WEcxV01vUWhsX05jOXR4WEJqY09iMUd6czR2NkpaM3ZBd1dDWHNGQ2ZKNzJvOHJYcTRvcFJJS09iRHN6TmhBZmc5b2hWTDRiZlRhYnE2Z0RpXzhR0gG3AUFVX3lxTFB0YXhESlZ5d2VZMnZpdFdpdDV4V2h2SXZQSm04X2xOM0xadEhObFM1T1lNT3JNOUo1Z1JtQTl4aEI5UGpaQ1BtOGdtaEFIZHZYdnJKell6LV9kSzhvaFBnWDZzWDhMOGVLN2xlVGl2S1ZianFuZ2lneURLX0YtSWZzeTQ4M2F0YUF2LWsyNlBMc3FQT0IyX0JKNWhZVlF3bFJJVUFQYlVQRExuQXRKYWRIQlBuTU9WRQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmwtTTVWX0R2MEZmZzh2WEdERjVIMUpIZUNZSDlvQU92TmpvS3hxSnB1QkRBMFRMZ2ZoN0NQT01SQU1LQUdnRXo3b2M5dHVKazVZUkU3aEc0a0wtekF4WEcxV01vUWhsX05jOXR4WEJqY09iMUd6czR2NkpaM3ZBd1dDWHNGQ2ZKNzJvOHJYcTRvcFJJS09iRHN6TmhBZmc5b2hWTDRiZlRhYnE2Z0RpXzhR?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-16T12:49:28+00:00"
@@ -1496,18 +1496,18 @@
             "published": "2026-08-16T12:41:33+00:00"
           },
           {
-            "title": "আজকের দিন কন্যা রাশি- ১৭ অগস্ট, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnBIVTdoY0VQdEZzdHJyQTF1cDZGa3loeDUtaVB0bmVBaXQwQUlfZHRwa0V2WWg1SkFwWkg0V3VXMDBsZktRS0ctdmN3YXJjdEt5LTdxcmlOcUpCOE81TzlkX2w0TDlKQlUzeDRSZThDWVJrNzVTamFTNS1aNkpiOTItY2VheS1WUFJDbEVjb2d5djFodHBGaFZDYm5oSTFjaE41eFV2WHJlU2fSAbABQVVfeXFMT0p0eXJSVXZDbEFTdExkekxqdEJNU2NPcEp4QVlIQXVDSTZtS2pkRVZnUGxucE5CdUdVTkh2WHd1NElrc1NkZXdJMUxIX3JLVDA1ZnBKckxfQVd6cUJENWZyaTRPdHVmY3pRVnBmNDBTUU1oOElRbXN4al9fWVY3czExUl9JRXlnVXlLUnlWZXh3eTU2Zk5BS3Y5TWJrNDh1Q1paOTdnd3pVZkxxWXNwWlY?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-16T12:39:05+00:00"
-          },
-          {
             "title": "আজকের দিন মিথুন রাশি- ১৭ অগস্ট, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmZyQnk0YVVIdDFQR3JMdDU5dzZuV3RmeGc5NzdwUmRVUmZmX2xkMUZRZEFCMk1hU1JOMEZ1ZVhzaWNXUHRuMUEzcVVpMkVucXozREY0SmtEQ2ZjTUNhUEQtczJnbF9lSmRpLVRkN0FranM4VTY3c0NVMDFSajRhbmV3bk5nQVBpbW9RalpjV0pXQXREV1dOWVdfNzZDdHlKLW9BNGZseWZVXzdrNGfSAbMBQVVfeXFMUGpzMkRwWThDUjF4VmtfY3pldnNEOFRaNVlBaUpRS0NCbkluUjNCX0R1VjJjV1hnMXAwck83bklwOTNfR3BOQTVpTnZWVXBpOHE4LUwxTlVqcTdxQ25QczN4N2ZhUE5sM2Q1aG1PWEVHZzctM25pNWxOeV9pN240UE5uNUhvYnA5NmFZaU5aTWZ3akYxVzZ1RkVrb2FfNGRaQkZzSDZLVnhGOV9MeVd5Q2dVbFE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-16T12:33:16+00:00"
+          },
+          {
+            "title": "আজকের দিন মেষ রাশি- ১৭ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUkzT0pjemtFaTc1NkFQQno3cTY5aFFzdnBsSk9qMFlrZ3BjZXlFc2RpVmhKbTFPbU9LbTExRzYwLUVDQ2cwcWN3RC1mSlRJS1Bsczdfd0FqMjhoeEdyX2lvc1dqMkJYMUdwN1ZEdk5nc01palcxRjU2bmpIQlJnTU9ORjJwU0FpWkxYVjlack9WWUo2NG12Ql9ST3dabVlZQVB4T2tnUERUQdIBrwFBVV95cUxQRGJEM1dNMmFfTGhXQ2FOdHd0MWxjdmo2RVdqbmVKclpqVHhwV0N3VHI5QlhoNGY1WW1MRGd0bnZMcHF3RExNeWdVQUh2OFFKV0pSUy0ybENrbDhIU2U3MGRzaVRZVjZYRndoVmk0bXpHcl85SHY2Sml0WkpMVkVIbWkxOGZncUt0eFp4c3d5WVIyclhxbkdkTWZaeHBEcVJjc2VnZkdaWE54N0IydEY0?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-16T12:28:21+00:00"
           }
         ]
       }
