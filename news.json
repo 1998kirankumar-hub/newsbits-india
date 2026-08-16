@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-08-16T22:32:42.971950+00:00",
+  "updated_at": "2026-08-16T22:53:28.651355+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+            "published": "2026-08-16T22:41:34+00:00"
+          },
+          {
+            "title": "ED: TMC paid little-known company Rs 160 crore to buy a jet &amp; helicopter",
+            "link": "https://timesofindia.indiatimes.com/india/ed-tmc-paid-little-known-company-rs-160-crore-to-buy-a-jet-helicopter/articleshow/133283898.cms",
+            "source": "Times of India",
+            "summary": "'Paid Another Rs 187Cr As Rent But Didn't Utilise Minimum Guaranteed Hours, Chartered Others For Rs 149Cr'",
+            "published": "2026-08-17T04:03:44+05:30"
+          },
+          {
             "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
             "link": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-17T03:56:35+05:30"
+          },
+          {
+            "title": "Groundwater that glows yellow-green in U.P.",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
+            "source": "The Hindu",
+            "summary": "Decades of industrial waste dumping have contaminated groundwater with chromium (VI) across parts of three Uttar Pradesh districts, exposing villagers to unsafe water and serious health risks",
+            "published": "2026-08-17T03:41:29+05:30"
           },
           {
             "title": "Thailand has a gun problem - 10 million of them",
@@ -25,13 +46,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-17T03:29:18+05:30"
-          },
-          {
-            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-            "published": "2026-08-16T21:57:13+00:00"
           },
           {
             "title": "What could stop Israeli settler attacks on Palestinians?",
@@ -88,29 +102,29 @@
             "source": "BBC World",
             "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
             "published": "2026-08-16T21:04:27+00:00"
-          },
-          {
-            "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
-            "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The boat overturned during heavy winds near the Zambian border.",
-            "published": "2026-08-16T21:03:53+00:00"
-          },
-          {
-            "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
-            "published": "2026-08-16T21:02:08+00:00"
           }
         ],
         "India": [
+          {
+            "title": "ED: TMC paid little-known company Rs 160 crore to buy a jet &amp; helicopter",
+            "link": "https://timesofindia.indiatimes.com/india/ed-tmc-paid-little-known-company-rs-160-crore-to-buy-a-jet-helicopter/articleshow/133283898.cms",
+            "source": "Times of India",
+            "summary": "'Paid Another Rs 187Cr As Rent But Didn't Utilise Minimum Guaranteed Hours, Chartered Others For Rs 149Cr'",
+            "published": "2026-08-17T04:03:44+05:30"
+          },
           {
             "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
             "link": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-17T03:56:35+05:30"
+          },
+          {
+            "title": "Groundwater that glows yellow-green in U.P.",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
+            "source": "The Hindu",
+            "summary": "Decades of industrial waste dumping have contaminated groundwater with chromium (VI) across parts of three Uttar Pradesh districts, exposing villagers to unsafe water and serious health risks",
+            "published": "2026-08-17T03:41:29+05:30"
           },
           {
             "title": "Rahul Gandhi's 'chhatron ki goonj' rally in Pune will be exclusively for girls",
@@ -174,36 +188,22 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-17T01:13:26+05:30"
-          },
-          {
-            "title": "Questions raised over hospital dustbin procurement in Bihar",
-            "link": "https://www.thehindu.com/news/national/bihar/questions-raised-over-hospital-dustbin-procurement-in-bihar/article71352922.ece",
-            "source": "The Hindu",
-            "summary": "RJD targets BJP over alleged irregularities in hospital dustbin purchases, while BMSICL officials defend the procurement process, saying there is a significant difference between ordinary dustbins and those procured for hospitals",
-            "published": "2026-08-17T01:12:56+05:30"
-          },
-          {
-            "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
-            "link": "https://www.thehindu.com/news/national/karnataka/congress-protests-in-kalaburagi-against-purification-ritual-at-kharges-rally-venue-in-uttarakhand/article71353343.ece",
-            "source": "The Hindu",
-            "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
-            "published": "2026-08-17T00:54:01+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+            "published": "2026-08-16T22:41:34+00:00"
+          },
           {
             "title": "Thailand has a gun problem - 10 million of them",
             "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
             "published": "2026-08-16T22:09:04+00:00"
-          },
-          {
-            "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-            "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-            "published": "2026-08-16T21:57:13+00:00"
           },
           {
             "title": "What could stop Israeli settler attacks on Palestinians?",
@@ -1079,6 +1079,13 @@
             "published": "2026-08-16T21:29:44+00:00"
           },
           {
+            "title": "LPG: వంటగ్యాస్‌ కొరత రాకుండా చూద్దాం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlRRcW5xakJyc25RVHZ2VGQzaTNETy1sR2M5R0liRDVKaTBHeXM5WF9oOGpEZkYzVzhfbklSNFBkSDB1Y1NGU0pyVDl4azRBMmZ2dnZiRzg0UlRmbm9XX1gwQ1pXUml0RGJNbUZHRlFERXAwcmt1X3VCQ2o1Y255TjNnU21VTERzT1NhbG43alpOWXFkRVJuLUdoa0RpeEpQY2diWmgyZEtwNHZr0gGsAUFVX3lxTFBmVFFxbnFqQnJzblFUdnZUZDNpM0RPLWxHYzlHSWJENUppMEd5czlYX2g4akRmRjNXOF9uSVI0UGRIMHVjU0ZTSnJUOXhrNEEyZnZ2dmJHODRSVGZub1dfWDBDWldSaXREYk1tRkdGUURFcDBya3VfdUJDajVjbnlOM2dTbVVMRHNPU2FsbjdqWk5ZcWRFUm4tR2hrRGl4SlBjZ2JaaDJkS3A0dms?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-16T21:22:09+00:00"
+          },
+          {
             "title": "PV Sindhu: సింధు సిక్సర్‌ కొడుతుందా? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHo4d3l4MnpvZ0VGT3FKY1dMcDBEWUhxQ1RFZEpFSktxUDVwQTJsQ0lFelpmSFFzRGl0ejJfc2ZVcVRuN0RiT0I1amxXcTJzU3pVb1d4RG1BQzMtZXBoVGw2eDlzcF9seVlPQlBjdDlQTEFYWHRuell0YUZVbkxKX1hRcGhYZ3pEWTIxeTJPN2dnUGRNYWh0SFFoNjFuclYtYktwY19ELVNhYnVCLXBQTkVR0gGyAUFVX3lxTE5Uejh3eXgyem9nRUZPcUpjV0xwMERZSHFDVEVkSkVKS3FQNXBBMmxDSUV6WmZIUXNEaXR6Ml9zZlVxVG43RGJPQjVqbFdxMnNTelVvV3hEbUFDMy1lcGhUbDZ4OXNwX2x5WU9CUGN0OVBMQVhYdG56WXRhRlVuTEpfWFFwaFhnekRZMjF5Mk83Z2dQZE1haHRIUWg2MW5yVi1iS3BjX0QtU2FidUItcFBORVE?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-16T19:27:19+00:00"
-          },
-          {
-            "title": "స్టాలిన్‌తో పి.విల్సన్, వాగై చంద్రశేఖర్‌ భేటీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YRnJQMWJQWWZUams3ZWEzQzlnblVxbzJhU0Y0M2tsRDV5NGRQNkhtUkQ5UHlkSDljNGJ0cjFLX2hudnAzajc4TUZ6SThsVkpfNkNvbkxtSkt5dkU3eUZzR3dZQ1h5dEhUU1Vodms1OXM0WHN0eFdXekpaRXE4Zw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-16T19:12:31+00:00"
           }
         ],
         "Entertainment": [
@@ -1434,7 +1434,7 @@
           },
           {
             "title": "দুবাই গিয়ে অসুস্থ হয়েছিলেন! এ বার মাথায় চোট পেয়ে স্মৃতি হারিয়ে ফেলছেন? কী হয়েছে জৈস্মীনের? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjJfclotVTEzV2djQV9iZk9RSkx1cjFwazlyQzNUYVpKanlQcXViQTFwYl90RTBEY3ZKWkRLVW8tMVZvdDBmdjhuTEo2VTk1dUJIQXpNX0VKU0RkQUVUWEVxVDBSOVdQU3k3MHh1QXoxSXBNaDBnd2pnakwtQXVHXzAzUjRlekFyMHpXYS1GOFFJSTNmbUI0U0JGVUZHa1BZM3FMSlNUbzhOcG5LSjFvcUhMcUFJUdIBuwFBVV95cUxPWnVMUUh2RlFkaTI4M2ROa0hxSzhKU05MNzFMUTJLYTdEM1VjWHN6WlZzcjJsLWFGNV9JdTgzT2NQdEdFV01ZVk5rSk10c25iY2RqRTNUQ1VaaXpGaTVaWGF3MUJQLTVTN0hrRWRsTndmeVZxQmRvMXQzRmdiYTVGQ05XaVVma2lGR1BQRUVWNFVtMG9qVWNPdDM5eXF4VDA4MDlZamNSYlpSVi1XdjlwSkNHb2FRTmh6Rmpr?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnVMUUh2RlFkaTI4M2ROa0hxSzhKU05MNzFMUTJLYTdEM1VjWHN6WlZzcjJsLWFGNV9JdTgzT2NQdEdFV01ZVk5rSk10c25iY2RqRTNUQ1VaaXpGaTVaWGF3MUJQLTVTN0hrRWRsTndmeVZxQmRvMXQzRmdiYTVGQ05XaVVma2lGR1BQRUVWNFVtMG9qVWNPdDM5eXF4VDA4MDlZamNSYlpSVi1XdjlwSkNHb2FRTmh6Rmpr0gG7AUFVX3lxTE9adUxRSHZGUWRpMjgzZE5rSHFLOEpTTkw3MUxRMkthN0QzVWNYc3paVnNyMmwtYUY1X0l1ODNPY1B0R0VXTVlWTmtKTXRzbmJjZGpFM1RDVVppekZpNVpYYXcxQlAtNVM3SGtFZGxOd2Z5VnFCZG8xdDNGZ2JhNUZDTldpVWZraUZHUFBFRVY0VW0wb2pVY090Mzl5cXhUMDgwOVlqY1JiWlJWLVd2OXBKQ0dvYVFOaHpGams?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-16T15:07:33+00:00"
