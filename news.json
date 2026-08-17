@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-08-17T12:01:31.737711+00:00",
+  "updated_at": "2026-08-17T12:31:31.869063+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Over 200 operatives linked to ISI-backed Shahzad Bhatti gang arrested ahead of I-Day: Amit Shah",
-            "link": "https://www.thehindu.com/news/national/over-200-operatives-of-isi-backed-terrorist-group-arrested-ahead-of-independence-day-hm-amit-shah/article71355835.ece",
+            "title": "'I used food banks while my ex owed thousands in child maintenance'",
+            "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.",
+            "published": "2026-08-17T12:27:55+00:00"
+          },
+          {
+            "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+            "published": "2026-08-17T12:27:11+00:00"
+          },
+          {
+            "title": "Following Karnataka HC order, ASI asks mutt to stop construction at prohibited area of historic Hoysala monument in Shivamogga’s Kudli",
+            "link": "https://www.thehindu.com/news/national/karnataka/following-karnataka-hc-order-asi-asks-mutt-to-stop-construction-at-prohibited-area-of-historic-hoysala-monument-in-shivamoggas-kudli/article71356059.ece",
+            "source": "The Hindu",
+            "summary": "Though the ASI had issued notices on February 7, 2025, and February 18, 2025, directing that construction be stopped immediately, the mutt continued the construction even after.",
+            "published": "2026-08-17T17:52:43+05:30"
+          },
+          {
+            "title": "A uniform 50% increase in Lok Sabha seats is pulling the wool over someone’s eyes: Praveen Chakravarty",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/a-uniform-50-increase-in-ls-seats-is-pulling-the-wool-over-someones-eyes-says-praveen-chakravarty/article71353328.ece",
+            "source": "The Hindu",
+            "summary": "Commenting on the Gen Z protests that led to the resignation of Union Education Minister Dharmendra Pradhan, he says the younger generation seek a radical change and don’t like the entrenched politics of the establishment",
+            "published": "2026-08-17T17:50:50+05:30"
+          },
+          {
+            "title": "Granite stones fall at Mumbai Metro 9 site; contractor, consultants fined ₹12.5 crore",
+            "link": "https://www.thehindu.com/news/national/maharashtra/granite-stones-fall-at-mumbai-metro-9-site-contractor-consultants-fined-125-crore/article71355900.ece",
+            "source": "The Hindu",
+            "summary": "MMRDA clarified that “no granite stones fell on or directly struck any school vehicle during the incident”. “No students were present in the vehicle at the time of the incident, and no injuries were reported,” it said",
+            "published": "2026-08-17T17:47:12+05:30"
+          },
+          {
+            "title": "Karnataka Chief Minister’s effigy garlanded with footwear in Coimbatore over killing of three Tamils",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/karnataka-chief-ministers-effigy-garlanded-with-footwear-in-coimbatore-over-killing-of-three-tamils/article71355919.ece",
+            "source": "The Hindu",
+            "summary": "Officials attached to the intelligence wing of the Coimbatore City Police said they were in the efforts to identify the location and the persons who placed the effigy. Further investigation is on.",
+            "published": "2026-08-17T17:46:28+05:30"
+          },
+          {
+            "title": "CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition",
+            "link": "https://www.hindustantimes.com/india-news/cjp-abhijeet-dipke-boston-university-education-ready-to-show-my-degree-pm-modi-delhi-university-101786964160571.html",
+            "source": "Hindustan Times",
+            "summary": "Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.",
+            "published": "2026-08-17T17:45:51+05:30"
+          },
+          {
+            "title": "Israel’s religious right is changing the state from within",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
+            "published": "2026-08-17T12:15:49+00:00"
+          },
+          {
+            "title": "Auto-rickshaw driver from Vizag wins accolades for offering free transport service to pregnant women",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/auto-rickshaw-driver-from-vizag-wins-accolades-for-offering-free-transport-service-to-pregnant-women/article71352857.ece",
+            "source": "The Hindu",
+            "summary": "Sundar Rao has helped 9,423 pregnant women reach hospital in time for delivery since the year 2000, and has developed contacts with ASHA workers and ANMs who call him whenever a need arises",
+            "published": "2026-08-17T17:44:21+05:30"
+          },
+          {
+            "title": "Aavin’s automatic milk vending machine launched in Udhagamandalam",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/aavins-automatic-milk-vending-machine-launched-in-udhagamandalam/article71355458.ece",
+            "source": "The Hindu",
+            "summary": "The revived initiative is aimed at reducing plastic waste from milk sachets in the Nilgiris",
+            "published": "2026-08-17T17:43:42+05:30"
+          },
+          {
+            "title": "‘Have no interest’: Poonawalla on buzz claiming he should succeed Malviya as social media head",
+            "link": "https://www.hindustantimes.com/india-news/shehzad-poonawalla-bjp-resignation-amit-malviya-removal-social-media-reshuffle-101786968514897.html",
+            "source": "Hindustan Times",
+            "summary": "Deepak Mhaskey was named the social media convenor as the BJP announced a rejig in the party.",
+            "published": "2026-08-17T17:41:58+05:30"
+          },
+          {
+            "title": "India, U.S. navies conclude Explosive Ordnance Disposal exercise in Kochi",
+            "link": "https://www.thehindu.com/news/national/india-us-navies-conclude-eod-exercise-in-kochi/article71356056.ece",
+            "source": "The Hindu",
+            "summary": "Subject matter expert exchanges covered real-time threats from improvised explosive devices (IEDs), render-safe procedures, mine neutralisation and the use of unmanned underwater systems, the Indian Navy says in a statement",
+            "published": "2026-08-17T17:41:45+05:30"
+          },
+          {
+            "title": "Top Zambian opposition figures arrested days after presidential vote",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+            "published": "2026-08-17T12:11:13+00:00"
+          },
+          {
+            "title": "Complaint lodged against BJP leader Nainar Nagenthran for defamatory remarks against Tamil Nadu CM Vijay’s mother",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/complaint-lodged-against-bjp-leader-nainar-nagenthran-for-defamatory-remarks-against-tamil-nadu-cm-vijays-mother/article71350181.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-17T17:26:17+05:30"
-          },
-          {
-            "title": "Locked exits, defunct fire-alarm system, killed 8 in Tarapith fire: Officials",
-            "link": "https://www.hindustantimes.com/india-news/locked-exits-defunct-fire-alarm-system-killed-8-in-tarapith-fire-officials-101786967751541.html",
-            "source": "Hindustan Times",
-            "summary": "Guests alleged that the fire alarm system did not work when the fire broke out. Many hoteliers learned about the fire when they heard screams",
-            "published": "2026-08-17T17:25:51+05:30"
-          },
-          {
-            "title": "Suthar, Jadeja share seven to hand India 178 lead despite Dinusha 100",
-            "link": "https://www.cricinfo.com/ci/content/story/1550347.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Dinusha and Dickwella added 146 after SL were 90 for 5 in response to India's first-innings total of 462",
-            "published": "2026-08-17T11:55:39+00:00"
-          },
-          {
-            "title": "AILU demands dedicated SC/ST court in Kozhikode",
-            "link": "https://www.thehindu.com/news/national/kerala/ailu-demands-dedicated-scst-court-in-kozhikode/article71355972.ece",
-            "source": "The Hindu",
-            "summary": "The demand was raised at the unit conference of the AILU Kozhikode City Committee, which noted that the absence of a designated SC/ST court in the district was causing delays in the disposal of such cases",
-            "published": "2026-08-17T17:24:11+05:30"
-          },
-          {
-            "title": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
-            "link": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
-            "source": "The Hindu",
-            "summary": "Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal, and Tariq Mansoor also named as vice-presidents",
-            "published": "2026-08-17T17:22:04+05:30"
-          },
-          {
-            "title": "States can't create blockades in elephant corridors: SC",
-            "link": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
-            "source": "The Hindu",
-            "summary": "Justice Bagchi said the practice of using fireballs and spikes in West Bengal is prevalent because the elephants come from Nepal and through West Bengal they go to Jharkhand and other States",
-            "published": "2026-08-17T17:21:32+05:30"
-          },
-          {
-            "title": "Gen. Dhiraj Seth conferred honorary rank of General of Nepali Army",
-            "link": "https://www.thehindu.com/news/national/gen-dhiraj-seth-conferred-honorary-rank-of-general-of-nepali-army/article71356041.ece",
-            "source": "The Hindu",
-            "summary": "The ceremony, a tradition sustained across successive generations of military leadership, underscores the continuity of the distinctive military relationship between the two armies, the Indian Army said",
-            "published": "2026-08-17T17:20:30+05:30"
-          },
-          {
-            "title": "Principal’s face blackened with ink by school girls in Rajasthan over molestation charges",
-            "link": "https://www.hindustantimes.com/india-news/principals-face-blackened-with-ink-by-school-girls-in-rajasthan-over-molestation-charges-101786965106548.html",
-            "source": "Hindustan Times",
-            "summary": "The incident occurred at a government school in Rajasthan, where students and their parents gathered and held a demonstration against the school principal.",
-            "published": "2026-08-17T17:20:12+05:30"
-          },
-          {
-            "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
-            "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer.",
-            "published": "2026-08-17T11:49:12+00:00"
-          },
-          {
-            "title": "Andhra Pradesh Assembly LIVE: 11 of 14 DSCs held during my tenure, says Chandrababu Naidu",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-monsoon-session-live-updates-august-17-2026/article71355330.ece",
-            "source": "The Hindu",
-            "summary": "The session is expected to run for four days, to Thursday; Amaravati works, Polavaram, rainfall deficit and farmers' issues are expected to be addressed",
-            "published": "2026-08-17T17:18:47+05:30"
-          },
-          {
-            "title": "Hayden Panettiere: A life of struggles alongside screen success",
-            "link": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The actress started as a child star but endured struggles that went along with the pressures of fame.",
-            "published": "2026-08-17T11:47:52+00:00"
-          },
-          {
-            "title": "Seven dead in stampede at temple in Bihar’s Lakhisarai",
-            "link": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
-            "source": "The Hindu",
-            "summary": "Eyewitnesses say that two trains full of devotees had reached Lakhisarai railway station, and the devotees, mostly women, rushed to offer sacred water to Lord Shiva; they add that the stampede happened due to lack of crowd management and rumour of an electric pole snapping",
-            "published": "2026-08-17T17:15:01+05:30"
-          },
-          {
-            "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
-            "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Does Guimaraes complete the midfield? Can they finally win the Champions League? And who is set for a breakout season?",
-            "published": "2026-08-17T11:44:01+00:00"
-          },
-          {
-            "title": "Shehzad Poonawalla explains why he quit BJP, says ‘will continue to support party's ideology’",
-            "link": "https://www.hindustantimes.com/india-news/shehzad-poonawalla-explains-why-he-quit-bjp-but-hails-party-as-best-platform-for-youth-101786966743813.html",
-            "source": "Hindustan Times",
-            "summary": "Shehzad Poonawalla said that he approached the party about his decision and was asked to reconsider, but he chose to stick to it.",
-            "published": "2026-08-17T17:11:38+05:30"
+            "published": "2026-08-17T17:40:12+05:30"
           }
         ],
         "India": [
           {
-            "title": "Over 200 operatives linked to ISI-backed Shahzad Bhatti gang arrested ahead of I-Day: Amit Shah",
-            "link": "https://www.thehindu.com/news/national/over-200-operatives-of-isi-backed-terrorist-group-arrested-ahead-of-independence-day-hm-amit-shah/article71355835.ece",
+            "title": "Following Karnataka HC order, ASI asks mutt to stop construction at prohibited area of historic Hoysala monument in Shivamogga’s Kudli",
+            "link": "https://www.thehindu.com/news/national/karnataka/following-karnataka-hc-order-asi-asks-mutt-to-stop-construction-at-prohibited-area-of-historic-hoysala-monument-in-shivamoggas-kudli/article71356059.ece",
+            "source": "The Hindu",
+            "summary": "Though the ASI had issued notices on February 7, 2025, and February 18, 2025, directing that construction be stopped immediately, the mutt continued the construction even after.",
+            "published": "2026-08-17T17:52:43+05:30"
+          },
+          {
+            "title": "A uniform 50% increase in Lok Sabha seats is pulling the wool over someone’s eyes: Praveen Chakravarty",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/a-uniform-50-increase-in-ls-seats-is-pulling-the-wool-over-someones-eyes-says-praveen-chakravarty/article71353328.ece",
+            "source": "The Hindu",
+            "summary": "Commenting on the Gen Z protests that led to the resignation of Union Education Minister Dharmendra Pradhan, he says the younger generation seek a radical change and don’t like the entrenched politics of the establishment",
+            "published": "2026-08-17T17:50:50+05:30"
+          },
+          {
+            "title": "Granite stones fall at Mumbai Metro 9 site; contractor, consultants fined ₹12.5 crore",
+            "link": "https://www.thehindu.com/news/national/maharashtra/granite-stones-fall-at-mumbai-metro-9-site-contractor-consultants-fined-125-crore/article71355900.ece",
+            "source": "The Hindu",
+            "summary": "MMRDA clarified that “no granite stones fell on or directly struck any school vehicle during the incident”. “No students were present in the vehicle at the time of the incident, and no injuries were reported,” it said",
+            "published": "2026-08-17T17:47:12+05:30"
+          },
+          {
+            "title": "Karnataka Chief Minister’s effigy garlanded with footwear in Coimbatore over killing of three Tamils",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/karnataka-chief-ministers-effigy-garlanded-with-footwear-in-coimbatore-over-killing-of-three-tamils/article71355919.ece",
+            "source": "The Hindu",
+            "summary": "Officials attached to the intelligence wing of the Coimbatore City Police said they were in the efforts to identify the location and the persons who placed the effigy. Further investigation is on.",
+            "published": "2026-08-17T17:46:28+05:30"
+          },
+          {
+            "title": "CJP's Abhijeet Dipke says ‘ready to show my degree’ amid row over his Boston education. But he has a condition",
+            "link": "https://www.hindustantimes.com/india-news/cjp-abhijeet-dipke-boston-university-education-ready-to-show-my-degree-pm-modi-delhi-university-101786964160571.html",
+            "source": "Hindustan Times",
+            "summary": "Abhijeet Dipke’s clarification comes after reports surfaced doubting his degree from Boston University.",
+            "published": "2026-08-17T17:45:51+05:30"
+          },
+          {
+            "title": "Auto-rickshaw driver from Vizag wins accolades for offering free transport service to pregnant women",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/auto-rickshaw-driver-from-vizag-wins-accolades-for-offering-free-transport-service-to-pregnant-women/article71352857.ece",
+            "source": "The Hindu",
+            "summary": "Sundar Rao has helped 9,423 pregnant women reach hospital in time for delivery since the year 2000, and has developed contacts with ASHA workers and ANMs who call him whenever a need arises",
+            "published": "2026-08-17T17:44:21+05:30"
+          },
+          {
+            "title": "Aavin’s automatic milk vending machine launched in Udhagamandalam",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/aavins-automatic-milk-vending-machine-launched-in-udhagamandalam/article71355458.ece",
+            "source": "The Hindu",
+            "summary": "The revived initiative is aimed at reducing plastic waste from milk sachets in the Nilgiris",
+            "published": "2026-08-17T17:43:42+05:30"
+          },
+          {
+            "title": "‘Have no interest’: Poonawalla on buzz claiming he should succeed Malviya as social media head",
+            "link": "https://www.hindustantimes.com/india-news/shehzad-poonawalla-bjp-resignation-amit-malviya-removal-social-media-reshuffle-101786968514897.html",
+            "source": "Hindustan Times",
+            "summary": "Deepak Mhaskey was named the social media convenor as the BJP announced a rejig in the party.",
+            "published": "2026-08-17T17:41:58+05:30"
+          },
+          {
+            "title": "India, U.S. navies conclude Explosive Ordnance Disposal exercise in Kochi",
+            "link": "https://www.thehindu.com/news/national/india-us-navies-conclude-eod-exercise-in-kochi/article71356056.ece",
+            "source": "The Hindu",
+            "summary": "Subject matter expert exchanges covered real-time threats from improvised explosive devices (IEDs), render-safe procedures, mine neutralisation and the use of unmanned underwater systems, the Indian Navy says in a statement",
+            "published": "2026-08-17T17:41:45+05:30"
+          },
+          {
+            "title": "Complaint lodged against BJP leader Nainar Nagenthran for defamatory remarks against Tamil Nadu CM Vijay’s mother",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/complaint-lodged-against-bjp-leader-nainar-nagenthran-for-defamatory-remarks-against-tamil-nadu-cm-vijays-mother/article71350181.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-17T17:26:17+05:30"
-          },
-          {
-            "title": "Locked exits, defunct fire-alarm system, killed 8 in Tarapith fire: Officials",
-            "link": "https://www.hindustantimes.com/india-news/locked-exits-defunct-fire-alarm-system-killed-8-in-tarapith-fire-officials-101786967751541.html",
-            "source": "Hindustan Times",
-            "summary": "Guests alleged that the fire alarm system did not work when the fire broke out. Many hoteliers learned about the fire when they heard screams",
-            "published": "2026-08-17T17:25:51+05:30"
-          },
-          {
-            "title": "AILU demands dedicated SC/ST court in Kozhikode",
-            "link": "https://www.thehindu.com/news/national/kerala/ailu-demands-dedicated-scst-court-in-kozhikode/article71355972.ece",
-            "source": "The Hindu",
-            "summary": "The demand was raised at the unit conference of the AILU Kozhikode City Committee, which noted that the absence of a designated SC/ST court in the district was causing delays in the disposal of such cases",
-            "published": "2026-08-17T17:24:11+05:30"
+            "published": "2026-08-17T17:40:12+05:30"
           },
           {
             "title": "BJP reshuffle: Ram Madhav, Smriti Irani, Biplab Deb in new national team; Piyush Goyal named treasurer",
             "link": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
             "source": "The Hindu",
             "summary": "Former Uttarakhand CM Tirath Singh Rawat, former Union Minister Bharti Pawar, Manpreet Singh Badal, and Tariq Mansoor also named as vice-presidents",
-            "published": "2026-08-17T17:22:04+05:30"
+            "published": "2026-08-17T17:36:56+05:30"
           },
           {
-            "title": "States can't create blockades in elephant corridors: SC",
-            "link": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
+            "title": "ICMR-NIN study links vitamin deficiencies to cognitive decline in elderly",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/icmr-nin-study-links-vitamin-deficiencies-to-cognitive-decline-in-elderly/article71355975.ece",
             "source": "The Hindu",
-            "summary": "Justice Bagchi said the practice of using fireballs and spikes in West Bengal is prevalent because the elephants come from Nepal and through West Bengal they go to Jharkhand and other States",
-            "published": "2026-08-17T17:21:32+05:30"
-          },
-          {
-            "title": "Gen. Dhiraj Seth conferred honorary rank of General of Nepali Army",
-            "link": "https://www.thehindu.com/news/national/gen-dhiraj-seth-conferred-honorary-rank-of-general-of-nepali-army/article71356041.ece",
-            "source": "The Hindu",
-            "summary": "The ceremony, a tradition sustained across successive generations of military leadership, underscores the continuity of the distinctive military relationship between the two armies, the Indian Army said",
-            "published": "2026-08-17T17:20:30+05:30"
-          },
-          {
-            "title": "Principal’s face blackened with ink by school girls in Rajasthan over molestation charges",
-            "link": "https://www.hindustantimes.com/india-news/principals-face-blackened-with-ink-by-school-girls-in-rajasthan-over-molestation-charges-101786965106548.html",
-            "source": "Hindustan Times",
-            "summary": "The incident occurred at a government school in Rajasthan, where students and their parents gathered and held a demonstration against the school principal.",
-            "published": "2026-08-17T17:20:12+05:30"
-          },
-          {
-            "title": "Andhra Pradesh Assembly LIVE: 11 of 14 DSCs held during my tenure, says Chandrababu Naidu",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-monsoon-session-live-updates-august-17-2026/article71355330.ece",
-            "source": "The Hindu",
-            "summary": "The session is expected to run for four days, to Thursday; Amaravati works, Polavaram, rainfall deficit and farmers' issues are expected to be addressed",
-            "published": "2026-08-17T17:18:47+05:30"
-          },
-          {
-            "title": "Seven dead in stampede at temple in Bihar’s Lakhisarai",
-            "link": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
-            "source": "The Hindu",
-            "summary": "Eyewitnesses say that two trains full of devotees had reached Lakhisarai railway station, and the devotees, mostly women, rushed to offer sacred water to Lord Shiva; they add that the stampede happened due to lack of crowd management and rumour of an electric pole snapping",
-            "published": "2026-08-17T17:15:01+05:30"
-          },
-          {
-            "title": "Shehzad Poonawalla explains why he quit BJP, says ‘will continue to support party's ideology’",
-            "link": "https://www.hindustantimes.com/india-news/shehzad-poonawalla-explains-why-he-quit-bjp-but-hails-party-as-best-platform-for-youth-101786966743813.html",
-            "source": "Hindustan Times",
-            "summary": "Shehzad Poonawalla said that he approached the party about his decision and was asked to reconsider, but he chose to stick to it.",
-            "published": "2026-08-17T17:11:38+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay launches ‘Presence-less Registration’ of housing plots, apartments",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-launches-presence-less-registration-of-housing-plots-apartments/article71355816.ece",
-            "source": "The Hindu",
-            "summary": "‘Presence-less Registration’, the government said, was aimed at improving efficiency and transparency in registration without visiting registrar offices",
-            "published": "2026-08-17T17:11:37+05:30"
-          },
-          {
-            "title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India”",
-            "link": "https://www.thehindu.com/news/national/karnataka/no-difference-between-jaish-e-mohammed-taliban-rss-kpccs-bk-hariprasad-says-all-three-not-registered-in-india/article71355455.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Hariprasad's comments reinforce Karnataka Home Minister Priyank Kharge's recent demand for the RSS to publicly clarify under which Indian laws it holds property, bank accounts, and receives donations.",
-            "published": "2026-08-17T17:09:07+05:30"
+            "summary": "Healthy ageing requires attention not only to disease management but also to nutritional well-being, says ICMR-NIN Director Bharati Kulkarni",
+            "published": "2026-08-17T17:35:14+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+            "published": "2026-08-17T12:27:11+00:00"
+          },
+          {
+            "title": "Israel’s religious right is changing the state from within",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
+            "published": "2026-08-17T12:15:49+00:00"
+          },
+          {
+            "title": "Top Zambian opposition figures arrested days after presidential vote",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+            "published": "2026-08-17T12:11:13+00:00"
+          },
+          {
+            "title": "Jason Arday’s death is institutional murder",
+            "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
+            "published": "2026-08-17T12:08:03+00:00"
+          },
+          {
+            "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+            "link": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump deemed the MoU &#039;over&#039; within a month of it being signed, as the two sides traded attacks despite a &#039;ceasefire&#039;.",
+            "published": "2026-08-17T12:07:23+00:00"
+          },
           {
             "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
             "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
@@ -204,13 +239,6 @@
             "source": "Al Jazeera",
             "summary": "Donald Trump has ordered the US military to scale back joint exercises with South Korea.",
             "published": "2026-08-17T11:29:00+00:00"
-          },
-          {
-            "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-            "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-            "published": "2026-08-17T11:16:31+00:00"
           },
           {
             "title": "Ukrainian strikes kill six in Russia, acting governor says",
@@ -234,13 +262,6 @@
             "published": "2026-08-17T10:57:49+00:00"
           },
           {
-            "title": "Top Zambian opposition figures arrested days after presidential vote",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-            "published": "2026-08-17T10:57:09+00:00"
-          },
-          {
             "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
             "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
             "source": "Al Jazeera",
@@ -253,30 +274,16 @@
             "source": "Al Jazeera",
             "summary": "A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.",
             "published": "2026-08-17T10:54:40+00:00"
-          },
-          {
-            "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-            "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
-            "published": "2026-08-17T10:51:49+00:00"
-          },
-          {
-            "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-            "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-            "published": "2026-08-17T10:51:03+00:00"
-          },
-          {
-            "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-            "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-            "published": "2026-08-17T10:39:24+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "'I used food banks while my ex owed thousands in child maintenance'",
+            "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.",
+            "published": "2026-08-17T12:27:55+00:00"
+          },
           {
             "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
             "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
@@ -353,22 +360,15 @@
             "source": "BBC Business",
             "summary": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.",
             "published": "2026-08-17T04:57:21+00:00"
-          },
-          {
-            "title": "Ferrari's first ever electric car sold for record $40m",
-            "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-            "published": "2026-08-17T02:22:04+00:00"
           }
         ],
         "Sports": [
           {
-            "title": "Suthar, Jadeja share seven to hand India 178 lead despite Dinusha 100",
+            "title": "Suthar, Jadeja share seven to hand India 178-run lead despite Dinusha 100",
             "link": "https://www.cricinfo.com/ci/content/story/1550347.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Dinusha and Dickwella added 146 after SL were 90 for 5 in response to India's first-innings total of 462",
-            "published": "2026-08-17T11:55:39+00:00"
+            "published": "2026-08-17T12:08:39+00:00"
           },
           {
             "title": "Sciver-Brunt to sit out Ireland ODIs as Dean takes charge again",
@@ -536,10 +536,17 @@
         ],
         "Entertainment": [
           {
+            "title": "Mrs Brown's Boys Christmas specials cancelled after star breaks jaw",
+            "link": "https://www.bbc.co.uk/news/articles/cpvwen0we3yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The sitcom's creator says he requires \"immediate\" surgery but hopes the show will return in 2027.",
+            "published": "2026-08-17T12:09:43+00:00"
+          },
+          {
             "title": "Hayden Panettiere: A life of struggles alongside screen success",
             "link": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
-            "summary": "The actress started as a child star but endured struggles that went along with the pressures of fame.",
+            "summary": "She went from child actress to Hollywood star, but endured addiction, harassment and personal trauma.",
             "published": "2026-08-17T11:47:52+00:00"
           },
           {
@@ -555,6 +562,13 @@
             "source": "BBC Entertainment",
             "summary": "She starred in the TV shows Heroes and Nashville, plus films Remember the Titans and Raising Helen.",
             "published": "2026-08-17T09:07:00+00:00"
+          },
+          {
+            "title": "What really goes on in the MasterChef kitchen",
+            "link": "https://www.bbc.co.uk/news/articles/cedjpvep6j3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The 21st series was filmed at Birmingham's Digbeth Loc Studios.",
+            "published": "2026-08-17T05:07:08+00:00"
           },
           {
             "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
@@ -604,20 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
             "published": "2026-08-15T00:10:47+00:00"
-          },
-          {
-            "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
-            "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
-            "published": "2026-08-14T23:17:22+00:00"
-          },
-          {
-            "title": "Stephen Bear jailed over sex offender breaches",
-            "link": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
-            "published": "2026-08-14T17:22:36+00:00"
           }
         ]
       }
@@ -626,6 +626,27 @@
       "label": "हिन्दी",
       "categories": {
         "Top Stories": [
+          {
+            "title": "भाजपा की नई टीम में 65 मेंबर, इनमें 51 नए:कुल 12 महिलाएं; अगले साल चुनाव वाले 7 राज्यों से 18 नाम",
+            "link": "https://www.bhaskar.com/g/national/news/bjp-nitin-naveen-new-team-list-assembly-election-preparation-138754529.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-17T12:22:25+00:00"
+          },
+          {
+            "title": "326 सांसदों, 14 राज्यों के CM पर आपराधिक केस:सुप्रीम कोर्ट में पेश रिपोर्ट: लोकसभा के 251 और राज्यसभा के 75 सदस्यों पर मामले",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-report-criminal-cases-mps-mlas-chief-ministers-list-138754516.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-17T12:21:23+00:00"
+          },
+          {
+            "title": "अमित मालवीय की जगह बीजेपी के नए सोशल मीडिया इंचार्ज बने दीपक म्हस्के कौन हैं?",
+            "link": "https://www.bbc.com/hindi/articles/ce34rley0ero?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-17T12:18:24+00:00"
+          },
           {
             "title": "अमित मालवीय को हटाया,कौन हैं दीपक म्हस्के, जो बने BJP के नए IT सेल हेड, चुनावी डेटा एनालिसिस में हैं एक्सपर्ट",
             "link": "https://hindi.oneindia.com/news/india/who-is-deepak-mhaske-new-bjp-it-cell-chief-head-amit-malviya-replaced-1630749.html",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-17T16:06:14+05:30"
-          },
-          {
-            "title": "केन बेतवा आंदोलन: लोग बोले, 'हमें नदी के बदले नदी, जंगल के बदले जंगल चाहिए'",
-            "link": "https://www.bbc.com/hindi/articles/ce8lx9pnlzno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-17T10:31:48+00:00"
-          },
-          {
-            "title": "CJP प्रोटेस्ट में पुलिस वैन के आगे खड़ी होने वाली रिया क्यों हो रही ट्रोल? वीडियो में रोते हुए बताया अपना दर्द!",
-            "link": "https://hindi.oneindia.com/news/india/model-rhiya-ahir-trolled-over-viral-cyber-crime-video-tv-debate-clips-cjp-protest-viral-hoodie-girl-1630667.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-17T15:55:11+05:30"
-          },
-          {
-            "title": "सानिया मिर्जा ने ठुकराया पाकिस्तान के खिलाफ फिल्म का ऑफर? असली बात जानकर खिसक जाएगी जमीन",
-            "link": "https://hindi.oneindia.com/news/sports/tennis/did-sania-mirza-reject-an-offer-for-an-anti-pakistan-film-check-the-truth-behind-the-viral-claim-1630631.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-17T15:05:17+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ભાજપમાં મોટા ફેરફારો : આ ગુજરાતી બન્યાં રાષ્ટ્રીય ઉપાધ્યક્ષ, આઇટી સેલના પ્રમુખ અમિત માલવિયાની હકાલપટ્ટી",
+            "link": "https://www.bbc.com/gujarati/articles/c07rlke04vxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-17T12:17:49+00:00"
+          },
+          {
             "title": "'આંખો સહેજ ત્રાસી થઈ અને...' મહિસાગર જિલ્લામાં બાળકોમાં કઈ વિચિત્ર બીમારી ફેલાઈ?",
             "link": "https://www.bbc.com/gujarati/articles/c04k6le5geeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "વીજ વિતરણ વ્યવસ્થામાં દાયકાઓથી માત્ર પુરુષોનું વર્ચસ્વ રહ્યું છે, જેમાં થાંભલા પર ચઢવું કે લાઇન રિપેરિંગ જેવી જોખમી કામગીરીનો સમાવેશ થાય છે. જોકે, હવે આ બદલાતી દુનિયામાં જ્યોતિ નામની એક મહિલાએ આ માન્યતાને તોડી પાડીને 'વાયરવુમન' તરીકે પોતાની આગવી ઓળખ ઉભી કરી છે. જ્યોતિ જે રીતે સહજતાથી ખભા પર જવાબદારી ઉપાડીને વીજળીના કામો પાર પાડે છે, તે અનેક મહિલાઓ માટે પ્રેરણારૂપ છે. વરસાદ, વાવાઝોડું કે ગમે તેવી મુશ્કેલ પરિસ્થિતિમાં પણ તે ફિલ્ડ પર જઈને તૂટેલી લાઈનો સુધારવી અને ફ્યુઝ બદલવા જેવું કામ ખૂબ જ નિપુણતાથી કરે છે. એક સમયે સમાજમાં એવું માનવામાં આવતું હતું કે આવા શારીરિક અને જોખમી કામો માત્ર પુરુષો જ કરી શકે, પરંતુ જ્યોતિએ સાબિત કર્યું છે કે દ્રઢ નિશ્ચય હોય તો કોઈપણ ક્ષેત્રમાં મહિલાઓ પોતાનું સ્થાન બનાવી શકે છે. તેના આ સાહસિક કાર્યો માત્ર વીજતંત્ર માટે જ નહીં, પરંતુ સમગ્ર દેશની નારીશક્તિ માટે એક ગૌરવપૂર્ણ ઉદાહરણ છે. તે પુરુષપ્રધાન માનવામાં આવતા ક્ષેત્રમાં કમર પર પકડ રાખીને કેવી રીતે પોતાની જવાબદારી નિભાવે છે, તે એક સંઘર્ષ અને સફળતાની સફર છે. તેની કહાણી સાબિત કરે છે કે આવડત હોય તો લિંગભેદના તમામ ભેદભાવો દૂર કરી શકાય છે અને મહિલાઓ ગમે તેટલા પડકારજનક વ્યવસાયમાં સફળતા મેળવી શકે છે.",
             "published": "2026-08-17T08:21:42+00:00"
-          },
-          {
-            "title": "ડીપફેક : AI દ્વારા બનાવેલો અસલી કે નકલી ચહેરો કેવી રીતે ઓળખવો, જાણો આસાન રીતો",
-            "link": "https://www.bbc.com/gujarati/articles/c8jnw9n3xpxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "આજકાલના આર્ટિફિશિયલ ઇન્ટેલિજન્સ (AI) યુગમાં ડીપફેક ટેકનોલોજીનો ઉપયોગ કરીને નકલી ફોટા અને વીડિયો બનાવવા ખૂબ જ સરળ બની ગયા છે, જે સામાન્ય લોકો માટે ચિંતાનો વિષય છે. AI દ્વારા બનાવેલા ચહેરાઓ એટલા વાસ્તવિક હોય છે કે સાચા અને ખોટા વચ્ચેનો તફાવત પારખવો મુશ્કેલ બને છે. જો તમારે ડીપફેક કે નકલી ચહેરાને ઓળખવો હોય, તો કેટલીક બાબતો પર ધ્યાન આપવું ખૂબ જરૂરી છે. સામાન્ય રીતે AI દ્વારા બનાવાયેલી તસવીરોમાં આંખોના પલકારા, દાંતની ગોઠવણી અથવા ચહેરાના હાવભાવમાં કંઈક અકુદરતી જોવા મળી શકે છે. ઘણીવાર બેકગ્રાઉન્ડની વિગતો, જેમ કે વાળની કિનારીઓ કે કાનની રચનામાં પણ ખામીઓ રહી જાય છે જે સૂક્ષ્મ રીતે અવલોકન કરવાથી પકડી શકાય છે. આ ઉપરાંત, પ્રકાશનો પડછાયો અને ચહેરાની ત્વચાની બનાવટમાં પણ એક પ્રકારની કૃત્રિમતા દેખાઈ શકે છે. ટેકનોલોજીની પ્રગતિ સાથે છેતરપિંડીના જોખમો પણ વધ્યા છે, ત્યારે સાવચેતી રાખવી અનિવાર્ય છે. સોશિયલ મીડિયા પર શેર કરવામાં આવતી શંકાસ્પદ સામગ્રીને આંખ મીંચીને વિશ્વાસ કરવાને બદલે તેને ચકાસવાની આદત પાડવી જોઈએ. આ પ્રકારની જાગૃતિ જ આપણને ડિજિટલ યુગમાં સુરક્ષિત રાખી શકે છે અને ખોટી માહિતીના ફેલાવાને અટકાવી શકે છે.",
-            "published": "2026-08-17T08:12:19+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "மயிலாடுதுறை பெருந்தோட்டம் பள்ளிவாசல் அருகே டாஸ்மாக் திறப்பதற்கு இஸ்லாமியர்கள் கடும் எதிர்ப்பு",
+            "link": "https://tamil.oneindia.com/news/tamilnadu/muslims-strongly-oppose-the-opening-of-a-tasmac-shop-near-the-perunthottam-mosque-in-mayiladuthurai-824383.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-08-17T17:49:06+05:30"
+          },
           {
             "title": "பாகிஸ்தான், செளதி, துருக்கி பாதுகாப்பு ஒப்பந்தத்துக்கு டிரம்ப் ஆதரவு - இந்தியாவுக்கு இது எவ்வளவு பெரிய கவலை?",
             "link": "https://www.bbc.com/tamil/articles/cx2kz6q1pvgo?at_medium=RSS&at_campaign=rss",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "தாய்லாந்து கடற்கரைப் பகுதியில் சுற்றுலா சென்ற ஒரு பிரெஞ்சு குடும்பத்தினர் நடுக்கடலில் தத்தளித்த சம்பவம் உலகையே அதிர்ச்சிக்குள்ளாக்கியுள்ளது. ஒரு தந்தை தனது இரு மகன்களுடன் பொழுதுபோக்கிற்காக வாடகைக்கு எடுத்த 'ஜெட் ஸ்கி' வாகனம், எதிர்பாராதவிதமாக கடலில் கவிழ்ந்ததால் இந்த இக்கட்டான சூழல் உருவாகியுள்ளது. சுமார் 16 மணி நேரம் நடுக்கடலில் எவ்வித உதவியும் இன்றி அவர்கள் தத்தளித்தது, உயிருக்குப் போராடும் கொடுமையான அனுபவமாக அமைந்தது. கடலில் நிலவிய சீரற்ற சூழல் மற்றும் தொழில்நுட்ப கோளாறுகள் காரணமாக அந்தக் குடும்பம் கரை திரும்ப முடியாமல் போனது. கடலில் தத்தளித்த பல மணி நேரங்களுக்குப் பிறகு, மீட்புப் படையினரின் துரிதமான நடவடிக்கையால் அவர்கள் பத்திரமாக மீட்கப்பட்டனர். இந்த நிகழ்வு, கடலோரச் சுற்றுலாத் தளங்களில் பாதுகாப்பு அம்சங்கள் குறித்து கடுமையான கேள்விகளை எழுப்பியுள்ளது. போதிய பாதுகாப்பு உபகரணங்கள் மற்றும் அவசர காலத் தகவல் தொடர்புகள் இன்றி சுற்றுலாப் பயணிகளை அனுமதிப்பது எவ்வளவு ஆபத்தானது என்பதை இந்தச் சம்பவம் உணர்த்துகிறது. அதிர்ஷ்டவசமாக தந்தை மற்றும் மகன்கள் உயிர் பிழைத்தாலும், அவர்கள் கடலில் சந்தித்த அந்த 16 மணி நேர போராட்டமானது சுற்றுலாப் பயணிகளிடையே பெரும் எச்சரிக்கை உணர்வை ஏற்படுத்தியுள்ளது. சுற்றுலாத் தளங்களில் விதிமுறைகளைப் பின்பற்றுவதன் முக்கியத்துவத்தை இந்த விபத்து மீண்டும் ஒருமுறை நினைவூட்டியுள்ளது.",
             "published": "2026-08-17T04:22:49+00:00"
-          },
-          {
-            "title": "பாலத்தீனர்களை வீட்டை விட்டு வெளியேற நிர்பந்திக்கும் இஸ்ரேலிய குடியேறிகள்",
-            "link": "https://www.bbc.com/tamil/articles/c20ee34q9qgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "இஸ்ரேலிய குடியேறிகளுக்கும் பாலத்தீனர்களுக்கும் இடையிலான மோதல் மீண்டும் தீவிரமடைந்துள்ளது. ஞாயிற்றுக்கிழமை முதல் குஸ்ரா பகுதியில் வசிக்கும் பாலத்தீனர்களின் வீடுகளைச் சூழ்ந்துகொண்டுள்ள இஸ்ரேலிய குடியேறிகள், அவர்களை அங்கிருந்து வெளியேறுமாறு தொடர்ந்து வற்புறுத்தி வருகின்றனர். தங்களின் பூர்வீக இடத்திலிருந்து வெளியேற்றப்படும் பாலத்தீனர்களின் நிலை மிகவும் பரிதாபகரமானதாக உள்ளது. இது வெறும் நில அபகரிப்பு மட்டுமல்ல, பல குடும்பங்களின் வாழ்வாதாரத்தையும், அவர்களின் அடிப்படை உரிமைகளையும் பறிக்கும் செயலாகப் பார்க்கப்படுகிறது. சர்வதேச சமூகத்தின் கவனத்தை ஈர்த்துள்ள இந்தச் சம்பவம், அந்தப் பகுதியில் பெரும் பதற்றத்தை உருவாக்கியுள்ளது. பல ஆண்டுகளாகத் தொடர்ந்து வரும் குடியேற்ற விவகாரங்கள், அங்குள்ள மக்களின் அன்றாட அமைதியைக் குலைத்து வருகிறது. இஸ்ரேலிய குடியேறிகளின் இந்தத் திட்டமிட்ட அத்துமீறல்கள் சர்வதேச சட்டங்களுக்கு முரணானவை எனப் பல்வேறு அமைப்புகள் விமர்சித்து வருகின்றன. வீடுகளை விட்டு வெளியேற நிர்பந்திக்கப்படும் பாலத்தீனர்கள், தங்களின் இருப்பிடத்தைப் பாதுகாக்கப் போராடும் நிலையில், வன்முறை வெடிக்கும் அபாயம் ஏற்பட்டுள்ளது. மனித உரிமை அமைப்புகள் இந்தச் சம்பவத்தில் உடனடியாகத் தலையிட்டு, பாலத்தீனர்களின் பாதுகாப்பை உறுதி செய்ய வேண்டும் என்ற கோரிக்கை வலுத்து வருகிறது. அமைதியான சூழலை விரும்புவோர் இந்த ஆக்கிரமிப்புகளைக் கண்டித்து வருகின்றனர்.",
-            "published": "2026-08-17T03:04:01+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "onam 2026 malayalam movie releases: ఓనం సీజన్‌ షురూ.. మలయాళ బాక్సాఫీసు జోరు : విడుదలకు సిద్ధమైన చిత్రాలివే.. - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTdvUjE3dkxwM0tqREJJNlF2V3NoeDkyWUFXaUtreXRiejJpZ05HS2hReVNnUU8wcGNmV2kxQ0NyUlJzczlWcnBqLXROcnRpNmNuS1FSb0UyVm1lMVZoTnE4VXpKSlpXLXNSdUVjdVVKQVVlU01KcGpPWjd0cWhwMFlZSmI2dVNqa1hUQ0tLcG9uS1VGbDU1WnU5b2haalBaY3BR0gGjAUFVX3lxTFBZN29SMTd2THAzS2pEQkk2UXZXc2h4OTJZQVdpS2t5dGJ6MmlnTkdLaFF5U2dRTzBwY2ZXaTFDQ3JSUnNzOVZycGotdE5ydGk2Y25LUVJvRTJWbWUxVmhOcThVekpKWlctc1J1RWN1VUpBVWVTTUpwak9aN3RxaHAwWVlKYjZ1U2prWFRDS0twb25LVUZsNTVadTlvaFpqUFpjcFE?oc=5",
-            "source": "Eenadu",
+            "title": "రాత్రి భోజనం ఏ సమయంలో చేయాలి, ఏ టైములో ఎక్కువ తినచ్చు? 5 ముఖ్యమైన విషయాలు",
+            "link": "https://www.bbc.com/telugu/articles/c1j12wp2xejo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-08-17T11:49:29+00:00"
+            "published": "2026-08-17T12:22:52+00:00"
+          },
+          {
+            "title": "కాక్రోచ్ దెబ్బకు బీజేపీలో రెండో వికెట్..! కొత్త టీమ్ లో కీలక నేతపై వేటు..!",
+            "link": "https://telugu.oneindia.com/news/india/amit-malviya-removed-as-bjp-it-cell-chief-over-failure-to-counter-student-protests-sources-502059.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-17T17:38:59+05:30"
+          },
+          {
+            "title": "తిరుమలలో గదుల దళారీ ముఠా నెట్ వర్క్: కింగ్ పిన్ గుర్తింపు: ఒక్కో రూమ్ పై",
+            "link": "https://telugu.oneindia.com/news/india/ttd-vigilance-foils-plan-to-rent-cro-rooms-using-fake-documents-tirumala-selling-rooms-fake-identity-502057.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-17T17:36:10+05:30"
           },
           {
             "title": "విడాకులు లేవు.. రెండో పెళ్లికి ఛాన్స్ లేదు!: ఉద్యోగులకు బిగ్ షాక్!",
@@ -1140,20 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-17T15:44:08+05:30"
-          },
-          {
-            "title": "అమరావతి స్టేటస్ రిపోర్ట్- నిర్మాణాలు, అప్పులు, ఖర్చు అసలు లెక్క ఇదీ..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/minister-narayana-explains-the-details-over-capital-amaravati-constructions-and-loans-expenditure-502035.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-17T15:16:27+05:30"
-          },
-          {
-            "title": "నైరుతి బైబై?.. పసిడి నేలను పలకరించకుండానే వీడ్కోలు..",
-            "link": "https://telugu.oneindia.com/news/india/southwest-monsoon-withdrawal-begins-india-rainfall-deficit-stands-at-13-percent-as-dry-winds-enter-502033.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-17T15:15:51+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,62 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ফল নয়, নিয়মিত খাওয়ার কিছু চেনা সব্জিও সাহায্য করে চুলের স্বাস্থ্য ভাল রাখতে, জানেন কী কী? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd042UDlsRnNCU1VmSTQ4aHVOZEp2T3ZjazNLb2tsZEVZZThEaVYyS05rYmhOdzU3aVJHZlFsMXMzWGhDSkhhR1dCWkRha1VxcktVUmpiZmZtNmpHNjRWT2xHM1dPdlM4bk1uVHBOMWZCeXl6VHdFbjcyMDFWREdWTUdRdW13QWY0MW9qeHdRR1BkaHhkUFJ3M1BwMGlwaXpHLTV5SUx5NmR2VGJaQVQ3Q1BR0gG3AUFVX3lxTE9ESzB1VXpOc0J1UVc1a3M5VUFCTmpzSjhTNldqYkRLcVRodlpITXVib01nejl5SU91b0I1cjVLd09OWVdZbWZMemxWTllvMGpwanU2aXlSZ1hOUkExdDluOU8tNklLT05fbnZwSlZFQVBsX3BTWUdSRTVPbVQ4QUkweUpiS1U1X0g5anRCaEo4amlxSGpYV3k5cEt5UmZxSW9xazNHQ0RUY3A3ejVFVjZKa0t1Ukh4WQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T11:54:20+00:00"
-          },
-          {
-            "title": "আউট করে আবার ব্যাটারের কাছে গিয়ে ‘নোটবুক’ উল্লাস দিগ্বেশের! ফের শাস্তি পেলেন আইপিএলে লখনউয়ের স্পিনার - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPODJfbXFTOF9wUkxQM0tKUWdUY3RVYURiZHN5WTk4SW8tMU42Q29JeUJjNC0xdmNsOEpPeHktOWxHay1RNktzNWtMVGRzQUdyaDkyYTBxZlhyY3dRWVdya0RkbUZoQzBTYjN4SUFyQXJGSWlEYkVGNThfdnlYNGNNbHpqLW9mX25lMnV6UUFkQWUwN1VHME1ZLS04cFM2NUhVVXNnbktCa3UwNGoyV2FpdTlYblRMQ3lfdUQzaF90bkV2SERiUWJPMHduaUxOQ21JbHhFekVINmxqVWhxeUhIQjFDRDVTNFBvXzJfbXh6S2ItR3V3Yl9TRWpBNzdQQUHSAf8BQVVfeXFMTzgyX21xUzhfcFJMUDNLSlFnVGN0VWFEYmRzeVk5OElvLTFONkNvSXlCYzQtMXZjbDhKT3h5LTlsR2stUTZLczVrTFRkc0FHcmg5MmEwcWZYcmN3UVlXcmtEZG1GaEMwU2IzeElBckFyRklpRGJFRjU4X3Z5WDRjTWx6ai1vZl9uZTJ1elFBZEFlMDdVRzBNWS0tOHBTNjVIVVVzZ25LQmt1MDRqMldhaXU5WG5UTEN5X3VEM2hfdG5FdkhEYlFiTzB3bmlMTkNtSWx4RXpFSDZsalVocXlISEIxQ0Q1UzRQb18yX214ektiLUd1d2JfU0VqQTc3UEFB?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T11:36:13+00:00"
-          },
-          {
-            "title": "কিডনির অসুখে বাদ অনেক কিছুই, রোগীকে সুস্থ রাখতে প্রাতরাশে বানিয়ে দেবেন কোন খাবার? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXdWMzVTMFdFRmhvN2FYWVFXMHJ2b1U0c2M1U3BFSGdaTWx5NzkzQ2VLQnBXcHB6eFhTMVRtbzI5b2RDMDZGYjBJMWdGc0FKLTBPaWhYcEJjTGVPVFE4d1NtUFVwSWRIem9uaXN3eGZHV0pFZ2thWWxRUmV1UU5nazhYVXN5TnlTaVNPWWFoUmFPNE1GWkhabWdJVml6U3RTb1I1cVJUcnPSAa4BQVVfeXFMTVFjcTRIT1Vfdy1tcGRHWU5LcEZ4SHFrZ2hmVHhBbUc5OXlSbFUtb2M0WUZFOEtwblAweW96Y1dMSDVIOGc3QVZUN0FEb0VjSzhZVHVIXzRDMVJOblRLaE1TMXpfUE1USzBWaUlPMVNUbHppTm1xUE9oV0JkdzdOQTNoN0ZHQXl2Wmh2aEFlNnh5N1hjdENhaTlzRUt4M3RyeGpXc2xTQTctNF90UUln?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T11:32:56+00:00"
-          },
-          {
-            "title": "‘আমাকে এখনও আটকে রাখা অনৈতিক’! সুজিতের জামিন মামলার শুনানি শেষ হলেও রায়দান স্থগিত রাখল কলকাতা হাই কোর্ট - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTlyWDJDcmg5TUdPNHVVbWdqamd2S2FIQU9TcEJocWlVUWw1S0xXMWpqRHZvQjNvZlJQY3dvZFRVbENVeExiT2dxQUZTQWZIekI4S1ZnWUhpUmp1bmlNZHNrNGRMYUdyVUVMWGMySVMyaHpJYzV5cnhzWE1rQm9vbTc5X08xSFJOVzdHcmROUlpqdVRVSWxHWHNHQ3RIc1k4WUNLUzZkV1Z2SGhGcDdfd0IwYjgwdGF1MGpv0gG7AUFVX3lxTE8tOXJYMkNyaDlNR080dVVtZ2pqZ3ZLYUhBT1NwQmhxaVVRbDVLTFcxampEdm9CM29mUlBjd29kVFVsQ1V4TGJPZ3FBRlNBZkh6QjhLVmdZSGlSanVuaU1kc2s0ZExhR3JVRUxYYzJJUzJoekljNXlyeHNYTWtCb29tNzlfTzFIUk5XN0dyZE5SWmp1VFVJbEdYc0dDdEhzWThZQ0tTNmRXVnZIaEZwN193QjBiODB0YXUwam8?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T11:28:29+00:00"
-          },
-          {
-            "title": "আজকের দিন মকর রাশি- ১৭ অগস্ট, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVBMTjBpQndoRmJKOEg1WEtwVFdPMnEta01yb3lMSUtHbTdzbEY0QUlMUkx5NkZ0bWRfXzhuNXFid3N3aHFoYThWU2tIV1hPMWM4OHcxV2pPV3o4b2wxT3FlNFlQSDczMXBiWHpiaEs3bHlSb3JoT1NxLXdHalNYUTNjZ1pRNUhEOUJFWk5fRnVJS3RYdmJIWE11UHQ1YnZfV0RYQ2lrX2ZDZXpqXzVwRdIBtgFBVV95cUxNcVZkaWU5NzVReDd4M1Q3bmZRY3B0bzE5QnZfNDZQWVU1MzJFMXBZWVcxOEFQX0xEVG9SYS10T2NaMnNKbF9sLThPdEY4OExjdjVFNjJiNTlsUmF6LUNHZE9HOFJOSjdDV3hGbDFfcTMwU1F5bC1QMGxTbGgzc25KSEJpNUl3SHpNaVZiV0ZnUzhWX19zS0c2SWdUSXRkNGVMR2Rsdy0yVDVmSk51VWd6WTVJUWJGUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "আজ ১৭ অগস্ট, ২০২৬। আজকের দিনটি মকর রাশির জাতক-জাতিকাদের জন্য অত্যন্ত তাৎপর্যপূর্ণ হতে চলেছে। রাশিচক্রের হিসেব অনুযায়ী, আজ গ্রহের অবস্থানের পরিবর্তনের ফলে মকর রাশির ব্যক্তিদের কর্মজীবন, ব্যক্তিগত সম্পর্ক এবং আর্থিক বিষয়ে বেশ কিছু নতুন মোড় আসতে পারে। কর্মক্ষেত্রে আজ আপনার বুদ্ধিমত্তা এবং ধৈর্য আপনার সাফল্যের প্রধান চাবিকাঠি হবে। ঊর্ধ্বতন কর্তৃপক্ষের কাছ থেকে প্রশংসিত হওয়ার সম্ভাবনা রয়েছে এবং দীর্ঘদিনের আটকে থাকা কোনো প্রকল্পের কাজ সম্পন্ন হতে পারে। তবে আর্থিক লেনদেনের ক্ষেত্রে আজ আপনাকে কিছুটা সতর্ক থাকতে হবে। তাড়াহুড়ো করে কোনো বিনিয়োগ না করাই শ্রেয়। পারিবারিক জীবনে আজ সামঞ্জস্য বজায় থাকবে এবং প্রিয়জনদের সাথে সুন্দর মুহূর্ত কাটানোর সুযোগ মিলবে। শিক্ষার্থীদের জন্য আজকের দিনটি নতুন কিছু শেখার আগ্রহ জাগিয়ে তুলবে এবং মনোযোগ বৃদ্ধি পাবে। স্বাস্থ্যের দিক থেকে ছোটখাটো ক্লান্তি অনুভূত হতে পারে, তাই নিয়মিত বিরতিতে বিশ্রাম নেওয়া প্রয়োজন। মনে রাখবেন, আজকের দিনটি আপনার পরিকল্পনাগুলোকে বাস্তবায়িত করার জন্য একটি উপযুক্ত সময়। তবে যেকোনো সিদ্ধান্ত নেওয়ার আগে পরিবারের বড়দের পরামর্শ নেওয়া বুদ্ধিমানের কাজ হবে। সব মিলিয়ে, আজকের দিনটি মকর রাশির জন্য মিশ্র সম্ভাবনার হলেও ইতিবাচক দৃষ্টিভঙ্গি বজায় রাখলে দিনটি বেশ সফল হবে।",
-            "published": "2026-08-17T11:08:30+00:00"
-          },
-          {
-            "title": "সামান্য নোংরা থাকলেও পেটখারাপ নিশ্চিত, বর্ষায় ঝক্কি ছাড়া মাশরুম ধোয়ার কৌশল শেখালেন রন্ধনশিল্পী - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFRKRTg0bTNDdVg0WXdnUXFHWlM3MGN4SnBQVy02eFNpSHVMMFgyajRhaDRXc2Jxc2ZjclozMHJvb21famZyS2pnQ0FlMDdUUmtsaWUyYl82Z21Jc3UyRklFTVlPX2Nidi1qemRHNGpERmtTMTNGZ19ValZwM2pYbW9DUmI3dHlHMHVhS2Z4WG5Ga2NFUDVsUGEwR0Jnd2hhQkV4MTlSZzBJNU9EelNJQVJkVTFsZFnSAbcBQVVfeXFMUHRUSkU4NG0zQ3VYNFl3Z1FxR1pTNzBjeEpwUFctNnhTaUh1TDBYMmo0YWg0V3NicXNmY3JaMzByb29tX2pmcktqZ0NBZTA3VFJrbGllMmJfNmdtSXN1MkZJRU1ZT19jYnYtanpkRzRqREZrUzEzRmdfVWpWcDNqWG1vQ1JiN3R5RzB1YUtmeFhuRmtjRVA1bFBhMEdCZ3doYUJFeDE5UmcwSTVPRHpTSUFSZFUxbGRZ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T11:08:08+00:00"
-          },
-          {
-            "title": "‘ডিম মারবে? পিস্তলের লাইসেন্স নিচ্ছি’! তৃণমূলের কীর্তি হুঁশিয়ারি দিয়ে ব্যাখ্যা দিলেন, আত্মরক্ষার অধিকার সকলের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWTlUVUpwUEFqREM1dGdQTnN4V0lMQ1dEcHN3TDFkMjJGOXo3Y016V1VNUkxDWFpadE1YNGVER2pfOThKOVlNell3SG03M1Q1NmZFWXE0MHo0SlljMktBbEkxVHBhc1Nyd2NRbW5tTFhhQ2V5U2ZRd2ZQRGpsZDhoVUV3bzFmWHUyTlFrc3hTMUU2czlONU90WUlFRnhPNWZuSGhXN2NWMXR4LW5aUzZrSkVYUWpPX0hySGQwVTFWeUtXQ3NPdmpHNnkxSVctN1VXMjA40gHTAUFVX3lxTFBZOVRVSnBQQWpEQzV0Z1BOc3hXSUxDV0Rwc3dMMWQyMkY5ejdjTXpXVU1STENYWlp0TVg0ZURHal85OEo5WU16WXdIbTczVDU2ZkVZcTQwejRKWWMyS0FsSTFUcGFzU3J3Y1Ftbm1MWGFDZXlTZlF3ZlBEamxkOGhVRXdvMWZYdTJOUWtzeFMxRTZzOU41T3RZSUVGeE81Zm5IaFc3Y1YxdHgtblpTNmtKRVhRak9fSHJIZDBVMVZ5S1dDc092akc2eTFJVy03VVcyMDg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T10:40:02+00:00"
-          },
-          {
-            "title": "বাংলাদেশের কাছে অস্ট্রেলিয়া হারতেই আসরে এক দেশ! টেস্ট জয়ের হিসেব দিয়ে খোঁচা ইংল্যান্ডকে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDRZc2UyWm9FZHp1WU16ZTRQVU1va0ZSb2tobVhKakluSVc3VFVTMG5SWGNIY3NnNkt6WGxWZVVkNEItbGdtUnZnUnNzN3dzc0dWTzZ3N0JPc1JVamw3YjdXbW5VZHlrYi1HNzBPUm9JaTU1XzBQcGFEUTVzYjJPODdMbE5KZ1VZYzdRN08wTEZNS20yTUlTdUhiQ0RFWUc3WDNtSVJ4MG5VOVFxakk3X2RmLUhELWdPZm90X0xNTEtoZGN6YzRRS1J0cDVLM3E5OXVDOEsxVUtsNGlJbXUw0gHfAUFVX3lxTE1wNFlzZTJab0VkenVZTXplNFBVTW9rRlJva2htWEpqSW5JVzdUVVMwblJYY0hjc2c2S3pYbFZlVWQ0Qi1sZ21SdmdSc3M3d3NzR1ZPNnc3Qk9zUlVqbDdiN1dtblVkeWtiLUc3ME9Sb0lpNTVfMFBwYURRNXNiMk84N0xsTkpnVVljN1E3TzBMRk1LbTJNSVN1SGJDREVZRzdYM21JUngwblU5UXFqSTdfZGYtSEQtZ09mb3RfTE1MS2hkY3pjNFFLUnRwNUszcTk5dUM4SzFVS2w0aUltdTA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-17T10:30:07+00:00"
-          },
-          {
             "title": "ভারতে 'প্রেমিক ভাড়া'-র বিজ্ঞাপন, সামাজিক মাধ্যমে সতর্কবার্তা পুলিশের",
             "link": "https://www.bbc.com/bengali/articles/c3r02zr9r2po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1489,25 +1433,81 @@
             "published": "2026-08-17T10:23:35+00:00"
           },
           {
-            "title": "শুভমন ‘সুপারম্যান’ গিল! গলে শ্রীলঙ্কার বিরুদ্ধে একহাতে ছোঁ মেরে ক্যাচ ভারত অধিনায়কের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX0pXZF9TS1hhdENIc01zZFZNZTZVbERtZWZuTm9TamNZTkVKVGdJeHpPQ2F5ZkxDNlRLTFBWd3ljbkJMZ0xabEJZcUxHVnZ3WVhLTzFpdWJucDg4dzZGdng3bEhYemdTeGhVQ1NMZEVBOWpuUy04WU5SdjJ0bi1EdEdjZ0kzamxoR3YwM2xlX3BZZW1VVDZvQmwzVkFwWTRTanV6ZER2S05wOUwxOE1MbVZXUklIbnYtRFBZWW1YYU9meEZsZkNxZWJuOHc2TkZ2QVNDNzZRdFp5Z9IB2gFBVV95cUxOX0pXZF9TS1hhdENIc01zZFZNZTZVbERtZWZuTm9TamNZTkVKVGdJeHpPQ2F5ZkxDNlRLTFBWd3ljbkJMZ0xabEJZcUxHVnZ3WVhLTzFpdWJucDg4dzZGdng3bEhYemdTeGhVQ1NMZEVBOWpuUy04WU5SdjJ0bi1EdEdjZ0kzamxoR3YwM2xlX3BZZW1VVDZvQmwzVkFwWTRTanV6ZER2S05wOUwxOE1MbVZXUklIbnYtRFBZWW1YYU9meEZsZkNxZWJuOHc2TkZ2QVNDNzZRdFp5Zw?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "ডারউইনে বাংলাদেশের জয় নিয়ে আন্তর্জাতিক গণমাধ্যম ও সেলিব্রিটিরা যা বলছেন",
+            "link": "https://www.bbc.com/bengali/articles/ckg44d4ex4ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-17T09:53:56+00:00"
+            "published": "2026-08-17T06:45:52+00:00"
           },
           {
-            "title": "‘জঙ্গি মডিউল তৈরির চেষ্টা’! ধৃত জানাদুলকে বাড়ি ভাড়া পাইয়ে দেন শওকত-ঘনিষ্ঠ, মাঝেমধ্যে ঘরে আসত বাইরের লোকজনও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWjJ1bW4tMU0xM2U1Uk5KV0U2Zkoxam82Slo2YTk2elVQb2xYZUJ6bktoenVScEFwNjdydGRlUXNhclFYeEpBUEZqWFpselktaFc1cWJiRGlBU0FKdTBEc0EzVXZkTWZKdVJqTVY4ZUxOZDMzOWJlZjh4cmNCb0dFLU5zcFdHVUJvdDRKWU9LSmlubGFfcWgzckM5WkdUMkkwb3I0VU5PWDFXQk5TTlFpWFJCYkZOb2tUTlZsUHZrc2lyVWRGazlfSU9qY016REFKYnEzMnhHYnFhWkRiQkJQT3lvM0tRNEVUclRGaFJPR2ZMWFVGNlo4SdIB-AFBVV95cUxNWjJ1bW4tMU0xM2U1Uk5KV0U2Zkoxam82Slo2YTk2elVQb2xYZUJ6bktoenVScEFwNjdydGRlUXNhclFYeEpBUEZqWFpselktaFc1cWJiRGlBU0FKdTBEc0EzVXZkTWZKdVJqTVY4ZUxOZDMzOWJlZjh4cmNCb0dFLU5zcFdHVUJvdDRKWU9LSmlubGFfcWgzckM5WkdUMkkwb3I0VU5PWDFXQk5TTlFpWFJCYkZOb2tUTlZsUHZrc2lyVWRGazlfSU9qY016REFKYnEzMnhHYnFhWkRiQkJQT3lvM0tRNEVUclRGaFJPR2ZMWFVGNlo4SQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "উরু মোটা বা চিকন হওয়ার সঙ্গে আয়ুর কী সম্পর্ক?",
+            "link": "https://www.bbc.com/bengali/articles/clyeenm6pypo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-17T09:53:56+00:00"
+            "published": "2026-08-17T05:48:17+00:00"
           },
           {
-            "title": "অন্তরালে শাহ, নীরব মোদী, বাদল অধিবেশন দখল বিরোধীদের, পিছু হটা কি বিজেপির নতুন কৌশল? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1pVeGxicndUVHVTSGVyQVB6QjRCWjZuT01PRDZnRVBUd183dTRDSE0zTHhGaHJuUkxzTWtIWGVMQ2N3SUFKUlp0bDFxMDRHRnZxRktlY0ZwaXhoODBpbndmb24zOTdoOURQNW10MldybmRSNHRoRjJ6Y2phcVNmVDV3WlRXZHhvQUFXNzRqZETSAZABQVVfeXFMTUdaVXhsYnJ3VFR1U0hlckFQekI0Qlo2bk9NT0Q2Z0VQVHdfN3U0Q0hNM0x4RmhyblJMc01rSFhlTENjd0lBSlJadGwxcTA0R0Z2cUZLZWNGcGl4aDgwaW53Zm9uMzk3aDlEUDVtdDJXcm5kUjR0aEYyemNqYXFTZlQ1d1pUV2R4b0FBVzc0amRE?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "ইরান যুদ্ধে অংশ না নেওয়ায় দক্ষিণ কোরিয়ার সঙ্গে যৌথ সামরিক মহড়া কমানোর ঘোষণা ট্রাম্পের",
+            "link": "https://www.bbc.com/bengali/articles/cn0nndpy566o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-17T09:51:45+00:00"
+            "published": "2026-08-17T03:48:16+00:00"
+          },
+          {
+            "title": "পত্রিকা: 'যে কোনো সময় পে-স্কেল ঘোষণা: মুখ্য সচিব'",
+            "link": "https://www.bbc.com/bengali/articles/c3w00v30j5zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-17T02:56:11+00:00"
+          },
+          {
+            "title": "তারেক রহমানের বিএনপি সরকারের প্রথম ছয়মাস কেমন কাটল?",
+            "link": "https://www.bbc.com/bengali/articles/c8rn2z3ev4eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-17T01:59:38+00:00"
+          },
+          {
+            "title": "মির্জা ফখরুল ইসলাম আলমগীরের স্থলে কে হচ্ছেন বিএনপির পরবর্তী মহাসচিব?",
+            "link": "https://www.bbc.com/bengali/articles/cr499xwq3nvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-16T11:00:37+00:00"
+          },
+          {
+            "title": "আওয়ামী লীগের অগাস্ট ফ্যাক্টর: হত্যা, হামলা, ক্ষমতাচ্যুতি",
+            "link": "https://www.bbc.com/bengali/articles/c1718krllp4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-14T12:49:56+00:00"
+          },
+          {
+            "title": "যে তিন কারণে লোডশেডিং বেড়েছে বাংলাদেশে",
+            "link": "https://www.bbc.com/bengali/articles/c4gx84zdwjzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-12T15:29:32+00:00"
+          },
+          {
+            "title": "৩৫ বছর আগে সরাসরি রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
+            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-11T14:39:39+00:00"
+          },
+          {
+            "title": "চাষের মাছে গন্ধ হয় কেন, কী করলে গন্ধ থাকবে না?",
+            "link": "https://www.bbc.com/bengali/articles/ckg698npne6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-10T07:21:09+00:00"
+          },
+          {
+            "title": "আওয়ামী লীগের নেতারা ভারতে দুই বছর কীভাবে কাটালেন?",
+            "link": "https://www.bbc.com/bengali/articles/cn9n8e0nwqxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-08T02:00:03+00:00"
           }
         ]
       }
