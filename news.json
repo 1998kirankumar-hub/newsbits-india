@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:57:29.283390+00:00",
+  "updated_at": "2026-08-18T21:01:26.431380+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -11,6 +11,20 @@
             "source": "BBC Entertainment",
             "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
             "published": "2026-08-18T20:56:21+00:00"
+          },
+          {
+            "title": "WHO: Ebola can be contained in months if enough funding is provided",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
+            "published": "2026-08-18T20:53:44+00:00"
+          },
+          {
+            "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+            "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+            "published": "2026-08-18T20:48:09+00:00"
           },
           {
             "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
@@ -88,20 +102,6 @@
             "source": "NDTV",
             "summary": "Mykhailo Fedorov was a longtime ally of Zelenskiy's until his unexpected firing from the defence ministry in July, just six months after he had been appointed, vowing sweeping reforms.",
             "published": "2026-08-19T01:51:44+05:30"
-          },
-          {
-            "title": "Trump and Carney speak ahead of US tariff deadline",
-            "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
-            "published": "2026-08-18T20:19:27+00:00"
-          },
-          {
-            "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
-            "link": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
-            "source": "The Hindu",
-            "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minister and funded entirely through voluntary contributions",
-            "published": "2026-08-19T01:43:50+05:30"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "WHO: Ebola can be contained in months if enough funding is provided",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
+            "published": "2026-08-18T20:53:44+00:00"
+          },
+          {
+            "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+            "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+            "published": "2026-08-18T20:48:09+00:00"
+          },
+          {
             "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
             "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
             "source": "Al Jazeera",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.",
             "published": "2026-08-18T19:56:48+00:00"
-          },
-          {
-            "title": "Judge swapped in Trump's defamation case against BBC",
-            "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-            "published": "2026-08-18T19:52:32+00:00"
-          },
-          {
-            "title": "Turkish politician Melih Meric stabbed",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.",
-            "published": "2026-08-18T19:51:17+00:00"
           }
         ],
         "Business": [
@@ -550,7 +550,7 @@
             "published": "2026-08-18T20:39:36+00:00"
           },
           {
-            "title": "Noise concerns over Reading festival's music extension",
+            "title": "Reading festival granted music extension despite noise concerns",
             "link": "https://www.bbc.co.uk/news/articles/c86nxj1djgjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "Charli XCX, rapper Dave and Chase & Status will headline the festival later this month.",
@@ -1100,6 +1100,13 @@
             "published": "2026-08-18T22:39:45+05:30"
           },
           {
+            "title": "Anant Ambani: నీటిలో ఉండే బాలుడికి రిలయన్స్‌ ఆసుపత్రిలో చికిత్స - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkEwakUxQTZBaTlNYjNzS255dFNsd0ZkUkl0UnRqeHc1cDBYVTRkeVhFVTRBeUFBWUNST1FqTExaem4xbFZRZ0V0SUFoQTc2NFVhRV91eldHYWo2aFZqdW9MbXRxWlFxU2RKeDVoczNlZF9aQTJnX05mdVNaMGl5VzB2TGsyRTVMTjVyb2FQTk96VjFmTTltM0xqaG9nSjdkMTB3dG5tQTVQMGh5Z01BdkN6OUhYekJJcVZTaVFBS25zMW9SWG5jOG5NTjhMd9IBzgFBVV95cUxNVkEwakUxQTZBaTlNYjNzS255dFNsd0ZkUkl0UnRqeHc1cDBYVTRkeVhFVTRBeUFBWUNST1FqTExaem4xbFZRZ0V0SUFoQTc2NFVhRV91eldHYWo2aFZqdW9MbXRxWlFxU2RKeDVoczNlZF9aQTJnX05mdVNaMGl5VzB2TGsyRTVMTjVyb2FQTk96VjFmTTltM0xqaG9nSjdkMTB3dG5tQTVQMGh5Z01BdkN6OUhYekJJcVZTaVFBS25zMW9SWG5jOG5NTjhMdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-18T16:53:50+00:00"
+          },
+          {
             "title": "ఆసిఫాబాద్‌లో మంత్రి జూపల్లి, ఎమ్మెల్యే కోవ లక్ష్మి మధ్య వాగ్వాదం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tYjJzRzRfVjFyX3Y0WU1RYS0wMFQ1QWI5ZDJUdU9tRmE5VndScUl1SDRYZmxYaTAzLVlFdVJXVnk3N1I0UGMxc2oxZ19FNDBkV0h1cE5SSHpta2tybHlYa21EeTdFdTRHU01hRmc3cUJBOFl4Z3fSAXZBVV95cUxNLWIyc0c0X1Yxcl92NFlNUWEtMDBUNUFiOWQyVHVPbUZhOVZ3UnFJdUg0WGZsWGkwMy1ZRXVSV1Z5NzdSNFBjMXNqMWdfRTQwZFdIdXBOUkh6bWtrcmx5WGttRHk3RXU0R1NNYUZnN3FCQThZeGd3?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-18T15:04:17+00:00"
-          },
-          {
-            "title": "Srikakulam: పోలండ్‌లో శ్రీకాకుళం జిల్లా వాసి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVRKeXVqcmJRdDEwNGJnOGV2RWF1cXp2THF3UHdaNTl3Q3htYmlmNVlXUGdEakM5OWpDbmQwMXRZMTZTWHl0bklhdDNfS2xkVzBlODZDVXRpX2tKSWRKQWZrMkJoT0tFT1BIbUFwWE5XNGpxcV9ndGpMSm4ta2VGWmVHc1RaTTJFa0tiR2wwS051VEhHU1duVEpWNF9VS281bGJ6ajJB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-18T14:56:35+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,56 +1426,63 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "আজকের দিন বৃষ রাশি- ১৮ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "title": "আজকের দিন বৃষ রাশি- ১৮ অগস্ট, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc05GY3ZRQndfLXRoWWFDalhMbVpHRkU2VFhQYmM0c2N1eWhRMEc2SGJPVDlKMXhyZ3hxM1RvVEIxWENsYjBEMlZaUGMzcVdoSjAzRXM2bHkxWExFMlNVcWh1Zk1ydXBxSk8tSTRRTjkxbG93clZhbmZGUExTMDNLM3hCeldwanI2eTlWNHlYWXFpMmRHQlFtcXVTYTg4OFN0Rzl3NnIxVFExMG1uejM1bzdB0gG3AUFVX3lxTE03czZwdno2Q1lSblR2bHdlZUtiTTFxMzdUc0ZmZVlURUswTGwwYVM5NDRqbWs1X09CT2s3c0I5ZURtc2xxT09MUUhkRVd0M2tRZWM0WEdfcjNicWtRQ3hBem13bVpCWkRaWVhIWG5hXy1MY0lUQ053ZEFudzNOVXJjT3JoYjhpZ3pjZWRudkpMMEN3TDIxSXozWVJvZVRvdzg2OTVCSkJnOGM5MXdpdlRsUU1QaFVLQQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T20:38:21+00:00"
           },
           {
-            "title": "আজকের দিন মিথুন রাশি- ১৮ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "title": "আজকের দিন মিথুন রাশি- ১৮ অগস্ট, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmNUUm5XUHF6cDRLQVFQME5xU0JJRUNMX291N1prZHlOVTV5a2c1UkxjeS1yc2VuZy14d0E3WXBNc2d3dHAzeTZUMnU1X2ZXb1JKZE1iOGJmTjJ4bWoyS0pncVN1cGVBbWJUSlBPSmdkbnZ1TklqRl9WeDEwZVJDU3pkSU5UQ0tfOTFKRm1wRFNsUUpJZ1g2azAxcnNNUHdvVlJULU9CRmhsZXZoUGfSAbMBQVVfeXFMTTlBSFk2WHlsek05UTc0ZFpWc2RYZU1PSFNWNVB1V2Z1RmppZExEdUtGZG9MTnNmdW5sVjJUZkhjMFN1a1F2Rkh6MFpQc2g4VTBrQjdBTDRhRVNhTUMybU9iQVN2d2R2dENfRUlCUEhyZ2VwYllLN3RMMnc3UHUtWWpwa3hRTy1FSE9XRDEteW42SUFXVkJ6YkRYeV9BZHBXaWxJUnRnT0F1TWsxWkR4T3hEeU0?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "আজকের দিনে মিথুন রাশির জাতক-জাতিকাদের জন্য ১৮ অগস্ট, ২০২৬ তারিখের দিনটি কেমন কাটবে তা নিয়ে বিস্তারিত আলোচনা থাকছে আনন্দবাজার পত্রিকার আজকের রাশিফলে। জ্যোতিষশাস্ত্র অনুযায়ী, গ্রহের অবস্থানের পরিবর্তনের ফলে প্রতিটি রাশির ওপর তার প্রভাব পড়ে। মিথুন রাশির ব্যক্তিদের ক্ষেত্রে আজকের দিনটি বিশেষ কোনো চ্যালেঞ্জ বা সুযোগ নিয়ে আসতে পারে। তবে মনে রাখা প্রয়োজন, রাশিফল সাধারণত একটি সামগ্রিক ইঙ্গিত প্রদান করে এবং এর ওপর ভিত্তি করে ব্যক্তিবিশেষের জীবন পুরোপুরি নির্ধারিত হয় না। আজকের দিনটি মিথুন রাশির ব্যক্তিদের জন্য কর্মক্ষেত্রে কেমন হবে, ব্যক্তিগত জীবনে কোনো জটিলতা আসবে কি না কিংবা স্বাস্থ্যের দিকে কতটা নজর দেওয়া প্রয়োজন, এই সমস্ত বিষয়ের একটি সম্ভাব্য চিত্র এখানে তুলে ধরা হয়েছে। জ্যোতিষ শাস্ত্রের অনুসারীরা প্রতিদিনের ন্যায় আজও তাদের ভাগ্য বা দৈনন্দিন পরিকল্পনা সম্পর্কে জানার জন্য এই বারফলের দিকে তাকিয়ে আছেন। যদিও দৈনন্দিন জীবনের সিদ্ধান্ত নেওয়ার ক্ষেত্রে কেবল রাশিফলের ওপর পুরোপুরি নির্ভর না করে বাস্তব পরিস্থিতি বিবেচনা করা বুদ্ধিমানের কাজ। দিনটি মিথুন রাশির জাতকদের জন্য নতুন কোনো যোগাযোগ স্থাপন বা কোনো গুরুত্বপূর্ণ কাজ শুরুর সম্ভাবনাও তৈরি করতে পারে, যদি তারা ধৈর্য ও বুদ্ধিমত্তার পরিচয় দেন।",
             "published": "2026-08-18T20:32:28+00:00"
           },
           {
-            "title": "ছাগল চুরি দেখে ফেলেছিল কিশোর, তার পরেই উদ্ধার ১২ বছরের সেই নাবালকের ঝুলন্ত দেহ, আটক ১ - Anandabazar Patrika",
+            "title": "ছাগল চুরি দেখে ফেলেছিল কিশোর, তার পরেই উদ্ধার ১২ বছরের সেই নাবালকের ঝুলন্ত দেহ, আটক ১ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1ctN21FYTJhQUQ1bVNCemxFRDVadGw4YUdPSmpoQnczUU16dDZXWVMyckZxTExXMC1FcjNjYmpyamhyUDdzd1Z0V0RtOEEtS29ta2V1VDhDWldmOWxpcEp5ZHZmYjVQb2NUTENXMUdkbDlPb01fOXZ6SlQ5Z01uTnpZNFZtT2hnSjFhcVpna1BSRVNRRm9TU3NidHdsVDBwbV94VdIBqgFBVV95cUxPTzdObTBpMGNfdHpXUkY3ZTJkQ2xJWEVyLWxBWGJTajZpNmpqWURJbkxCYkdINmpFY0dqUEZxMmtlR1QyYlVwdmd5LVl2anpJTWpQUXhkZFVud2hTb1UwWWhKeGU5RlhuMlhPcE93ZW1HSHVGeW9QOHRha2NvOTIxeFNqM3h5cE5TVWlxWTRyNWgxbHdYejhkUjRLYlNNeDRCMXhmX3VZcU96QQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T20:32:27+00:00"
           },
           {
-            "title": "আজকের দিন সিংহ রাশি- ১৮ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "title": "আজকের দিন সিংহ রাশি- ১৮ অগস্ট, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnlqcW5aa1RsWm5zenpPb3U3RmlDTHRobGREaUQ3WUxsV2lJQUpvNGhZUHpSVnltYXcwVFNWTExYRS0yZmM1TkUzWm16c0I2M1duTm5KRDF6RXVFV0o0QlY4R0JlNkxZMUlPVmVId3BlQVdlWXo5ZHBoaG5fS3ZTSzRqMHZtQmdLVUw5WkNCd1U3X3AwLXNpRmM2RWkxbUNDZ0R1eGlYRW9kQdIBrwFBVV95cUxNVTBNX2VLNHhPLXh5a3pfVEZIams2RDl2dFVrdmZBRlc5U0paRWE5UGY1RHByUXZWV1YzZW1zOWlnRWlrUXJucHRZN3R4NHZlOEhUQTZkTTR4bURuUHFtOE1kc0JpV2tjLUVWbkxoUGFZV2xiRlZieDVlMnR2WkFTcF84SlpsS3ZxZWFUUzJoSmJfM2xSbExXbVdFVjhvOExFNF94dGZkUXVPRXE4NVpr?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T20:16:21+00:00"
           },
           {
-            "title": "আজকের দিন মকর রাশি- ১৮ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "title": "আজকের দিন মকর রাশি- ১৮ অগস্ট, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkV3dnZ2andveGo3SG1pTnlleFA5S21BSDNwZ3FvSmxUNEFyYUlBeVNIMzJqZlg5QXRMQmo5aGNRZW9YMElHeTRpU1BUbERDMXJGaVYzZ0JkcFlzc1hpT3lRcjYyQWVQTVQ3YjF5Mm1sb2lfM1lQbEVlMl9hTC05T1dSQUI5V0ZuYTFzZWo3N0FGNVRMUzFsQlkzWF9xNF8tR2N0eU02VVpwM2hienlmT9IBtgFBVV95cUxQNVhOUEx4VzlxNjdTTGVQeE14VXU0RmlReGVHQl9FdmpEOXdsNkM5ejFxM3l6VFJSeEpQeFY3dVhKeHBxWHlfWk9JZUs1cjNFbVpyTnpGOXM5VVczQmY2X1RzTmdVcnh1VXVPR25LNmdQUGpsUGhBM3Q0Y21SU1JKVlc0V09hYWNaX2xnQ2FUWC1Xdl94T0ZENkQwVkVvMDlid3h1QjlabUIzcnIxNjNUcGstNWw0Zw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T20:14:16+00:00"
           },
           {
-            "title": "দিল্লি জল বোর্ডে দুর্নীতির অভিযোগে গ্রেফতার প্রাক্তন মন্ত্রী সত্যেন্দ্র, বিজেপিকে ‘স্বৈরাচারী’ বলে তোপ কেজরীর - Anandabazar Patrika",
+            "title": "দিল্লি জল বোর্ডে দুর্নীতির অভিযোগে গ্রেফতার প্রাক্তন মন্ত্রী সত্যেন্দ্র, বিজেপিকে ‘স্বৈরাচারী’ বলে তোপ কেজরীর - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNW14REZHYVMxZkpGQkdLZ2x5M3FXV2dEMXp4RVVDempnM3BkMkxhUE45eWQ1ekl6NU9zd0tsQXZQckxjeDJLRUpCSjNialBKR1ljc3JDeVpLTUdLdWEzaDdZWTJfM2N0NGhXeUxJczNhWmZmTmhvRlVTTnp3WU5XWFI3c05rdDl2R1RxVFB1dTUtbUdpbVc2RnJveXBsTnJZVFhvZV9SSUVKMmZpakR2cG95cWU4bHpGcHZrQWhTVzg1V3lZQy1OOExSQ21EQ29yamxSV0tPRHBUaTJxdmNz0gHfAUFVX3lxTE01bXhERkdhUzFmSkZCR0tnbHkzcVdXZ0QxenhFVUN6amczcGQyTGFQTjl5ZDV6SXo1T3N3S2xBdlByTGN4MktFSkJKM2JqUEpHWWNzckN5WktNR0t1YTNoN1lZMl8zY3Q0aFd5TElzM2FaZmZOaG9GVVNOendZTldYUjdzTmt0OXZHVHFUUHV1NS1tR2ltVzZGcm95cGxOcllUWG9lX1JJRUoyZmlqRHZwb3lxZThsekZwdmtBaFNXODVXeVlDLU44TFJDbURDb3JqbFJXS09EcFRpMnF2Y3M?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T19:34:30+00:00"
           },
           {
-            "title": "চিনা সহায়তায় আফগান ‘গোল্ড রাশ’, সোনার খনিতে আলোর খোঁজে বিবর্ণ পরিবেশ আর জীবন-জীবিকা - Anandabazar Patrika",
+            "title": "ত্রিপুরার সব মামলাতেও জামিন, জেলমুক্তির পথে সারদাকর্তা সুদীপ্ত সেন - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUlRfRGFoMTZoSHRHODZNYm1ybFNUSTBaWnA1d1hSZlMxVFk4MTFZejVKc25oeF9jSG9ubFpRRmtzS0JfNGhpTHRzNkZsWWZjRFRtTFBHM1Y2YktnWFR6ZDhycXQ5d3dfS2plcGxPX2t5dmMzZHBCMk5jUk1MT2c0UEpqTXhRYUg0T1ZLVXViSEdqN1FybXRFd1Bqc1paNkVsREp5UXJnMGZ4bTBXNzhUa0IwNkdjN2JyNUtmWGVmeXlkc1ZFd3hqdlBuYVowTER5azNSddIB2gFBVV95cUxQN19pbExKWktnMGwxMmREV1duM3JGbjNFcDRxdi1fTEV5c01FRnFlNjhYa25pWGM3VjM3bmUxMm5CM3ZwdkJibmlmcFNjNkVyZ3BJYmhGcTBsU210V3FUUFNPWldNOTZKQ2VSZUxTNzQ0RjVoSGt1azhrdm5pdTZ0NHNncDgwUDE0bHE2djNFSldadElTc0pVYlQ2VDRmQ1VPNXBVRXE0T2VRdFpYcm8xcjJjNW1WakQ3YTJKZm9YQVk1dV9uNURPdXE5ZmtxbDF2WmFVWmxvOExOQQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-18T17:35:58+00:00"
+          },
+          {
+            "title": "চিনা সহায়তায় আফগান ‘গোল্ড রাশ’, সোনার খনিতে আলোর খোঁজে বিবর্ণ পরিবেশ আর জীবন-জীবিকা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2g2T0xhU1RCOTVKZTRtcWtrQ09qU1ZPekxtUkR2dG9nMTVqRlo4RG5aeVZMV2c4RmY4aGdMXzNpbWlQdG9ZSjBQOEE0LXhveTZXa0cweDludXZzZWp5YzFMZS1mc2NadHVveTJFUExQZlA2ZURvM2R5VHdmMjRvSmNwNnV0U0t5R3pkZ0RaWjZpeFI4TEhLbUxyVXdlR0hhdEs5Z2FBOHpWTllsOE50dtIBtgFBVV95cUxPaVpxdXpYQUlZc0JLRnd3YzlzWS1Wa011eDV1SkQzUjlVQWdpanJ5Z2ZRenhCb0RxU2lFaTRUMjhKMkRjYWJRcEJ3UVlZTzVqQVZ1cE10ZnJSVUNrXy1aUmxrbFV0RUxscEJYX1ZtYVV2aURTT1Q5Mm5zRm5GOEtOV3JMN25xZ0I0SXBaaWU5anhZbS1xVEd0RUlpeWhEN3NfZXpvU2FyOTFTX3ZtTXNwaEgzNFJmQQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T16:24:06+00:00"
           },
           {
-            "title": "মোদীর মুখে ‘দিমাগি নকশাল’ শুনে নেতাদের তরজা, যোগেন্দ্রের দাবি ‘শিবের অপমান নয় তো!’ - Anandabazar Patrika",
+            "title": "মোদীর মুখে ‘দিমাগি নকশাল’ শুনে নেতাদের তরজা, যোগেন্দ্রের দাবি ‘শিবের অপমান নয় তো!’ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3NJNWJlQldkdzYwYmg3ME52NFhmcmt1MG5IenVpS2Zkb0gzeWVnSjE0Q2hObTBRSVlma3A5YUhfQ3JZbkZKaWRNSG01ZV9ycjdkY0tRSzl3UHlQMnllQkhqMlBnY2toMHg4U1VjelNRcEtKVHQtTldwTmJJUkRoZFlGcGtHemRVUUZzZHQ3ZE5kOTdMSzB0UWNRcTM4Nno5ZEHSAacBQVVfeXFMT0Z6cWotM2NWTTYwdDlXdm5ZaEJ3ZHdWUmtYeE1nMTdndGlTeFpRa3FseDdaN3dXamZzT19IMkJWeEtUMjdQTnB2Y1Z5d1hwemllMnNOOHBMVFR0eUNTeXgxZG45Q0JYRWFWWjREcHNUNHpmdThtNUVzM2ZpM3RsVldkWXBlNGdaOElTYUJFSE0tcjBlR2h2UWd0d1JtQTI1ckZ1OFhMd1k?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1489,7 +1496,7 @@
             "published": "2026-08-18T14:36:28+00:00"
           },
           {
-            "title": "বিধানসভা নির্বাচনের আগেই হয়েছিল ভোটগ্রহণ, পশ্চিমবঙ্গ বার কাউন্সিলের গণনায় দেখা গেল তৃণমূলের বিপুল জয় - Anandabazar Patrika",
+            "title": "বিধানসভা নির্বাচনের আগেই হয়েছিল ভোটগ্রহণ, পশ্চিমবঙ্গ বার কাউন্সিলের গণনায় দেখা গেল তৃণমূলের বিপুল জয় - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdjJVNzVpQklaYXRpc01sdElqRkhlTU5sUzhXMjZ0a2NuaWFsSHBzY0I0a05ubHRfQjkzNDJDQ2wtYW1JcHlzTWlVdHZrYTJHUzR6cmR1V0pvVEtQYVZaWnNYXzNjV1Nqdk9lZlhadTcyTDVWTnRxME5HNmlVdlYzOXRXMGkzZ0hlN1dpU2hqblRzRmpBUDMweGtYUHpIdmp1aGZZUVJjbEMxZ9IBrwFBVV95cUxQenR0cVl6X3lLdExzMG5iVnFYTjNidWd0Q1FWeElBbmpEMV9hSUVMWU96aUs3aDBIMjVyRThNelozSVJZZHpyNE9jb1N3bnlDQ3FGa1JURlJnd1hiTzJRZ2N4ZWxoT2VLS0o5UUVkd3otZGR0bkhGeWJTRVZHNHhzSndZSGZia2U4QnBmQkFfN3B3ZHl5ZGs4QTRucDhkNGpnbXZfZjZOb1JDcjVNMXAw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1501,13 +1508,6 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-08-18T13:26:13+00:00"
-          },
-          {
-            "title": "অগ্নিকাণ্ডের জের, নিরাপত্তায় খামতির অভিযোগে তারাপীঠের ১৫টি হোটেল এবং লজ বন্ধের নির্দেশ দিল জেলা প্রশাসন - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHFjN1dFQjVjNGhiN0plc1pIbExFZUw4NTV5VTk2dHF0MFpjY0NvZmZ2OFliUXhBSm5kN281bW15RnZ1N3h1SkkxMGxoRUlBT2ZFMFlJdnFWLUpWR0RxdGpCSkdTdktrQ0pUcFFGRFh0cm5CdjZkSlV6ZTlOdGNhNl9DMGFiMnhKamlVRXJ0dm1LNFlYaVozWTRuQU5xaFprMWt1bGNGcGpaaDVYenNTU3JTdko4a3JWcDlTZ2Nn0gHDAUFVX3lxTE9UcThRNS1jS3dQd3FobzktWjNZaUxjQlpwNDBWWS0yTGJSdXBDLV9qOGFBcVVJX3FyNV9GQVdVS3FzZHdzZG5QZUFuVTJiNnZrVm14blNZQmtUWmt3UUJYNWtHRHNqWFpLbV9jZ01raFR3Yjd6T0NZQ0xXdTJkVFE1NjJOM3NEMFZ0aExxS0Z0S1VaQ01xZ3Y1TzVXU3ExTXhNdjBoNlVJRjBXVlFFb3NVUm1QLWtTRUhuRTFHWENLVjJhdw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-18T12:38:01+00:00"
           }
         ]
       }
