@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:57:10.453384+00:00",
+  "updated_at": "2026-08-19T04:01:26.641493+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -11,13 +11,6 @@
             "source": "BBC World",
             "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
             "published": "2026-08-19T03:56:35+00:00"
-          },
-          {
-            "title": "US unions sue over new visa rule for foreign students, journalists",
-            "link": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.",
-            "published": "2026-08-19T03:42:28+00:00"
           },
           {
             "title": "Five Australian rules footy players suspended amid police investigation",
@@ -102,6 +95,13 @@
             "source": "BBC World",
             "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
             "published": "2026-08-19T03:12:06+00:00"
+          },
+          {
+            "title": "Democrat Angie Nixon defeats Alexander Vindman in surprise Florida Senate primary upset",
+            "link": "https://timesofindia.indiatimes.com/world/us/democrat-angie-nixon-defeats-alexander-vindman-in-surprise-florida-senate-primary-upset/articleshow/133336088.cms",
+            "source": "Times of India",
+            "summary": "Angie Nixon secured a surprise Democratic Senate primary victory in Florida. She will now face Republican Ashley Moody in the general election. Byron Donalds and David Jolly won their respective governor primary nominations. New congressional maps are expected to favor Republicans significantly. These primaries set the stage for Florida's November political direction.",
+            "published": "2026-08-19T08:41:32+05:30"
           }
         ],
         "India": [
@@ -199,13 +199,6 @@
             "published": "2026-08-19T03:56:35+00:00"
           },
           {
-            "title": "US unions sue over new visa rule for foreign students, journalists",
-            "link": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.",
-            "published": "2026-08-19T03:42:28+00:00"
-          },
-          {
             "title": "Five Australian rules footy players suspended amid police investigation",
             "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -274,6 +267,13 @@
             "source": "BBC World",
             "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
             "published": "2026-08-19T01:31:15+00:00"
+          },
+          {
+            "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+            "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+            "published": "2026-08-19T00:53:34+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Kolkata Hotel Fire: कोलकाता में दिल्ली जैसा अग्निकांड, 9 लोग जिंदा जले, बांग्लादेश से इलाज के लिए आए थे मृतक",
+            "link": "https://hindi.oneindia.com/news/india/kolkata-mirza-ghalib-street-hotel-fire-tragedy-9-dead-bangladeshi-citizens-injured-1631867.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-19T09:28:35+05:30"
+          },
+          {
             "title": "IND vs SL Live Score: जीत की दहलीज पर टीम इंडिया, अंतिम दिन सिर्फ छह विकेट की दरकार; श्रीलंका को चाहिए 288 रन",
             "link": "https://www.amarujala.com/live/cricket/ind-vs-sl-test-live-score-india-vs-sri-lanka-1st-test-match-day-5-scorecard-galle-stadium-updates-2026-08-19",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-19T02:35:38+00:00"
-          },
-          {
-            "title": "275 किलो का शरीर, सांसों पर संकट: किशोर की बैरिएट्रिक सर्जरी हुई, 52 किलो वजन घटा; स्लीप एपनिया से था पीड़ित",
-            "link": "https://www.amarujala.com/delhi-ncr/275-kg-teenager-undergoes-bariatric-surgery-loses-52-kg-in-two-months-2026-08-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-19T08:04:43+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "જંતર-મંતર પ્રદર્શન-પોલીસ કાર્યવાહી પર આજે સુપ્રીમ કોર્ટમાં સુનાવણી:તપાસ માટે હાઈલેવલ કમિટીનો આદેશ જારી કરશે; દિલ્હી પોલીસે સંસદ માર્ચને ગેરકાયદેસર ગણાવી હતી",
+            "link": "https://www.divyabhaskar.co.in/national/news/delhi-jantar-mantar-protest-supreme-court-high-level-committee-138770171.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-19T03:59:06+00:00"
+          },
+          {
             "title": "ફ્રાન્સે બે ઈરાની રાજદ્વારી કર્મચારીને દેશમાંથી કાઢી મૂકવાનો નિર્ણય કેમ લીધો? – ન્યૂઝ અપડેટ",
             "link": "https://www.bbc.com/gujarati/articles/c5ydnrrmgp4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-08-18T15:34:47+00:00"
-          },
-          {
-            "title": "જોડિયા વરરાજા, જોડિયા દુલ્હનો અને લગ્ન કરાવનારા પણ જોડિયા -આવાં લગ્ન કેવી રીતે થયાં?",
-            "link": "https://www.bbc.com/gujarati/articles/c86nxnl1q8zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-18T13:45:21+00:00"
           }
         ]
       }
@@ -1426,21 +1426,21 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "তরুণদের সঙ্গে যোগাযোগের বার্তা নিতিনের - Anandabazar Patrika",
+            "title": "তরুণদের সঙ্গে যোগাযোগের বার্তা নিতিনের - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZEFTZW9iVV9wMUk4ODBaZHZqbnlVQ0tHcll6eE1IUjRyWTlJWmFGVmU3X1J3SFc4NEp4YmQ0ZGYxMjRyODdfemtFREROblFIQlhDS0dNRmNSTVBHSHh6UFdpcy1tWDRKUmlkVFpTSjZXNVVmZHQ0c0FaWV96c2VobWQxa2pQaEZTYjN0Y2R0NGJjd1djOUtLVTVETWhDWXFwcjNkbGhaUXU1aE5IVndhQ2k4NXE0OTRISThuSWpTaDVPRFNQcVd6TXU3MG4xbjBsVTBzREllYVpnRi1nNEtQV08taE96S0hwMUN1N3ZoVEh4aURyMEgzdw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T03:24:29+00:00"
           },
           {
-            "title": "সনিয়া গান্ধীর আত্মজীবনী - Anandabazar Patrika",
+            "title": "সনিয়া গান্ধীর আত্মজীবনী - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWV3ZWNRTTdqUFJFdDVjQUJJaGN5WnlYYkpGbFhlZFVyT0E4bTRLZnpUdDdZUllJSi1aenVPVk52eTVpTmE5ZlhmUmlHSEN2T0tjRk1wVVZOb0lVTDB1U3hQS1dKeXROTTlvMzk5MHkwY2ZXbkNwaFNXRVY2U2hyMk1QbnlBcURUNFpkYUVrN1I0Q0JMY3ZfVHdaRDljc19Cam96SGROVnTSAagBQVVfeXFMUDVld2VjUU03alBSRXQ1Y0FCSWhjeVp5WGJKRmxYZWRVck9BOG00S2Z6VHQ3WVJZSUotWnp1T1ZOdnk1aU5hOWZYZlJpR0hDdk9LY0ZNcFVWTm9JVUwwdVN4UEtXSnl0Tk05bzM5OTB5MGNmV25DcGhTV0VWNlNocjJNUG55QXFEVDRaZGFFazdSNENCTGN2X1R3WkQ5Y3NfQmpvekhkTlZ0?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T03:15:10+00:00"
           },
           {
-            "title": "Daily Bengali Horoscopes, Ajker Rashifal, Free Today’s Bangla Rashifal, দৈনিক রাশিফল - Anandabazar Patrika",
+            "title": "Daily Bengali Horoscopes, Ajker Rashifal, Free Today’s Bangla Rashifal, দৈনিক রাশিফল - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTdG9rN2RKZ3Rlc1BQMy1LNVFpZ1Bfc2xkWnVPcXM3Z1BSaTBxMnZHLVJSOUxxOWE0aEgwdXVfYkVoRlJOMndhUmQtaUhTRU1jLW84WHlBek8zdw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1454,14 +1454,14 @@
             "published": "2026-08-19T02:33:16+00:00"
           },
           {
-            "title": "অ্যাকাউন্ট ভাড়া নিয়ে বিপুল টাকার প্রতারণা - Anandabazar Patrika",
+            "title": "অ্যাকাউন্ট ভাড়া নিয়ে বিপুল টাকার প্রতারণা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWG9fZmhlQ0pldXlNSDh2T3ZKdzctNlFmUFNGdGtqOTlVSE04dEttem1JZUl6NnVkTHBsRWV6NVV4RXhXMGhCWjZZNVhBZEM3bXI2Slp6SHMzdFh2RHdUZGFWSXVFS3JnbTVUbnBMQkxtTmkyMUNUWTRNcjdCVzRVQV9tdDlEQUNTTnBDRmJFSVNHLW1DNjB0LS1BR3JjeXRsT2FyNHFVcmFxV2NoQTZPblV1bUtNRzZpR0JtOQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T02:18:40+00:00"
           },
           {
-            "title": "সত্য বাছতে খবর উজাড় - Anandabazar Patrika",
+            "title": "সত্য বাছতে খবর উজাড় - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1hU3lGZ2xueG1QT0JMc1lZYzZidXZ4RG11aFIwN2ZOMEhyRWxvOF9lZGhpZWN1SVU4WTQ4RlpEaUV2WVltS0l5NVQ5dDZuSVJOdnpDWWxMVENNY0VNZlowVFk5dE1Xb3ktem1nRHh1N0FyZE5scHd2MkNsN25sSUltRGlqcHZOMUQxMkpkYWpGaVJTOF9QbndIM3JGUE94R2N3N0Z3c2NPM001YnByaVY1WFdaNXlx?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1475,35 +1475,35 @@
             "published": "2026-08-19T01:47:14+00:00"
           },
           {
-            "title": "তৃণমূলের স্থায়ী কমিটির পদে এনসিপিআই-নজর - Anandabazar Patrika",
+            "title": "তৃণমূলের স্থায়ী কমিটির পদে এনসিপিআই-নজর - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUtuWEFoUUxzWXVSLUlrUGV1OTgwaFo2N1lRdnhVRDZSRHNzSFlpM2VDWG03bWpTRlM0U3N1R09nUG0zcEllR1dVUzNBTC1kTFhXcTZQVXp4MDBTV0ZvaGRoMWR0M3k0dE4xMEVPYWpvclFuWEJDVFZmUWtZMUVEVUZSSllPbXBlT2NuOXJ5LXpnMGZWOVZQM09DNkRYWFA3QWtpSGVCdEtLd2tD?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T01:46:23+00:00"
           },
           {
-            "title": "কংগ্রেস গাইবে দুই স্তবকই - Anandabazar Patrika",
+            "title": "কংগ্রেস গাইবে দুই স্তবকই - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmE3bXpPekgxLU5fekVZYVl6dFZwSlJwRU15ZFN4cTRCX2tHVURXNndDa3VTOFJna2VMNjRSdzY4S1BrUW1TNWlvVzhNUF9GTHhoVFVpanJoXy1rX2hlek1vME50bHVwbGxWQm1sSjJLb1RCSFJBM1ZmbTZzMFFOaWN6RkFyZkJr?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T01:32:02+00:00"
           },
           {
-            "title": "বিশ্ববিদ্যালয়ে রাজ্যপালের ‘১৯৪৬ চর্চা’ নিয়ে বিতর্ক - Anandabazar Patrika",
+            "title": "বিশ্ববিদ্যালয়ে রাজ্যপালের ‘১৯৪৬ চর্চা’ নিয়ে বিতর্ক - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalJmcGtQcEZyaXpTVEFWWGZpZFZ5LWRrRGp4TUtMQy12ekRxeGtzUlRGZ0ZNRlVibm5hNXV5a3NMVzVLMzJEU2QxYUhFNVFaN1BHRnJCZ0tJWDh0aDRRTUhETWFmbjMzWFV1bXR4OVBnQXRwZmsteFZpNlR3cnFGT25NWFNsZ3VEQmItemlnTm9nb05FR0dtSzFpMUhCZ1VBOXB1V1RQMVlWVDQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T01:21:43+00:00"
           },
           {
-            "title": "ক্যানসারের কাছে হার মানলেন পায়েল, অধরাই রয়ে গেল সাংবাদিক হওয়ার স্বপ্ন - Anandabazar Patrika",
+            "title": "ক্যানসারের কাছে হার মানলেন পায়েল, অধরাই রয়ে গেল সাংবাদিক হওয়ার স্বপ্ন - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUhRQTlPWE5TU0Z2QzNKckVNWVhuNDhMVmstT0lJaFJWWG4tNlZyVXhyWE0yXzZKYkJrbkVQV2JTaFUyWTdRb0Fqa1F3SzNLcDBkMFF1R3BpdDlIYlRvVUg0RnN1RDJZNHhaTkQyUEJvU2d4VHppZ3JpQi1zV2NQVlpkbVVtM0lzUFhqZk5yVXBkMGlRWkNNRkloYy1TUXJoblZTUW1FSHJ4Z0tHeDZ2ZngxMVBkd9IBuwFBVV95cUxNSUI2SGFsTkhPWHZsYU41YU1STXMzOHFGX0tELWFIVk9xVGlfaGU0WUdERUdwMWlaM0k0ZlA4RlBXNWJxTjd3VWZmSFFia3I4Q20wa01NT1A3N01fbkJzcDFadW95NUhPdGZCTklOS1hMR1pIR1NDNklEWUdqSUhsZU5IUi1lUjBneFVZNGE2NXpNajduNUZDYnhuUmxJdXdiMEFtbVNnVG5lcmZrZ2pBOGZhdHIxckJMSTNV?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-18T21:00:25+00:00"
           },
           {
-            "title": "আজকের দিন বৃষ রাশি- ১৮ অগস্ট, ২০২৬ - Anandabazar Patrika",
+            "title": "আজকের দিন বৃষ রাশি- ১৮ অগস্ট, ২০২৬ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc05GY3ZRQndfLXRoWWFDalhMbVpHRkU2VFhQYmM0c2N1eWhRMEc2SGJPVDlKMXhyZ3hxM1RvVEIxWENsYjBEMlZaUGMzcVdoSjAzRXM2bHkxWExFMlNVcWh1Zk1ydXBxSk8tSTRRTjkxbG93clZhbmZGUExTMDNLM3hCeldwanI2eTlWNHlYWXFpMmRHQlFtcXVTYTg4OFN0Rzl3NnIxVFExMG1uejM1bzdB0gG3AUFVX3lxTE03czZwdno2Q1lSblR2bHdlZUtiTTFxMzdUc0ZmZVlURUswTGwwYVM5NDRqbWs1X09CT2s3c0I5ZURtc2xxT09MUUhkRVd0M2tRZWM0WEdfcjNicWtRQ3hBem13bVpCWkRaWVhIWG5hXy1MY0lUQ053ZEFudzNOVXJjT3JoYjhpZ3pjZWRudkpMMEN3TDIxSXozWVJvZVRvdzg2OTVCSkJnOGM5MXdpdlRsUU1QaFVLQQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
