@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-08-19T21:01:25.759667+00:00",
+  "updated_at": "2026-08-19T21:31:08.023740+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+            "published": "2026-08-19T21:22:17+00:00"
+          },
+          {
             "title": "Robinson moves from luxury to necessity, as England regroup around him",
             "link": "https://www.cricinfo.com/ci/content/story/1550723.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Second outstanding comeback of the summer takes place in very different circumstances to the first",
-            "published": "2026-08-19T20:52:59+00:00"
+            "published": "2026-08-19T21:11:34+00:00"
+          },
+          {
+            "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "“You can&#039;t do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+            "published": "2026-08-19T21:10:39+00:00"
+          },
+          {
+            "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+            "published": "2026-08-19T21:09:15+00:00"
+          },
+          {
+            "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+            "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
+            "published": "2026-08-19T21:01:54+00:00"
+          },
+          {
+            "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+            "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+            "published": "2026-08-19T20:53:55+00:00"
           },
           {
             "title": "Collectors of border states to decide citizenship applications under CAA",
@@ -67,41 +102,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-20T01:56:26+05:30"
-          },
-          {
-            "title": "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
-            "link": "https://www.thehindu.com/news/national/kerala/91-local-bodies-to-contest-in-pookalam-contest-in-keralams-kozhikode/article71365015.ece",
-            "source": "The Hindu",
-            "summary": "The competition will feature grama panchayats, block panchayats, municipalities, and the Kozhikode Corporation, grouped into 11 clusters. ​The winner will be awarded a cash prize of ₹ 1 lakh and a trophy",
-            "published": "2026-08-20T01:49:49+05:30"
-          },
-          {
-            "title": "What’s behind Israel’s latest attack on Syria?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
-            "published": "2026-08-19T20:18:40+00:00"
-          },
-          {
-            "title": "Jharkhand BJP leaders meet Amit Shah in New Delhi",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi/article71365895.ece",
-            "source": "The Hindu",
-            "summary": "Party sources said that BJP leaders expressed strong support for the student agitation in Jharkhand, both on the streets and in the legislature, by addressing alleged irregularities",
-            "published": "2026-08-20T01:45:03+05:30"
-          },
-          {
-            "title": "Census 2027 has a nefarious purpose, says Congress",
-            "link": "https://www.thehindu.com/news/national/census-2027-has-deeper-nefarious-purpose-congress-slams-questionnaire/article71363313.ece",
-            "source": "The Hindu",
-            "summary": "General secretary Jairam Ramesh raises concerns over the Census questionnaire, alleging that the methodology adopted for collecting caste data is “deliberately flawed”",
-            "published": "2026-08-20T01:44:12+05:30"
-          },
-          {
-            "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-as-yields-ease-moderna-lifts-healthcare-stocks/articleshow/133358680.cms",
-            "source": "Economic Times",
-            "summary": "US stock markets enjoyed a boost as easing bond yields and a spike in Moderna shares contributed to a favorable trading environment. Despite the Federal Reserve's minutes highlighting inflation concerns and discussions on rate hikes, investors remained optimistic. The Treasury's announcement of liquidity support revitalized riskier assets, particularly in tech stocks, while the success of Moderna's cancer therapy…",
-            "published": "2026-08-20T01:39:50+05:30"
           }
         ],
         "India": [
@@ -132,6 +132,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-20T01:56:26+05:30"
+          },
+          {
+            "title": "23-Year-Old Arrested For Smuggling Illicit Liquor In Delhi",
+            "link": "https://www.ndtv.com/delhi-news/23-year-old-arrested-for-smuggling-illicit-liquor-in-delhi-11933204#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Police recovered 3000 quarters of illicit liquor packed in 60 cartons from a Hyundai i10 Grand car allegedly being used to transport the liquor. The vehicle was also seized.",
+            "published": "2026-08-20T01:50:46+05:30"
           },
           {
             "title": "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
@@ -169,28 +176,56 @@
             "published": "2026-08-20T01:31:13+05:30"
           },
           {
+            "title": "5 Americans Among 7 Killed After Helicopter Crashes In Northern Kenya",
+            "link": "https://www.ndtv.com/world-news/5-americans-among-7-killed-after-helicopter-crashes-in-northern-kenya-11933166#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The helicopter crashed at 9:13 a.m. while flying from the Loisaba Conservancy to the Ewaso Nyiro area in Samburu County, according to the Kenya Civil Aviation Authority.",
+            "published": "2026-08-20T01:16:33+05:30"
+          },
+          {
             "title": "India to build hospital in West Bank; seeks to deploy field hospital in Gaza",
             "link": "https://www.thehindu.com/news/national/india-to-build-hospital-in-west-bank-seeks-to-deploy-field-hospital-in-gaza/article71366004.ece",
             "source": "The Hindu",
             "summary": "Palestinian ambassador calls for halting illegal Israeli settlements in West Bank",
             "published": "2026-08-20T01:14:31+05:30"
-          },
-          {
-            "title": "ACB finds irregularities in Karimnagar civic body town planning section",
-            "link": "https://www.thehindu.com/news/national/telangana/acb-finds-irregularities-in-karimnagar-civic-body-town-planning-section/article71364475.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-20T01:05:04+05:30"
-          },
-          {
-            "title": "Russia, Ukraine Exchange 103 Captured Soldiers Each",
-            "link": "https://www.ndtv.com/world-news/russia-ukraine-exchange-103-captured-soldiers-each-11933152#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Russia-Ukraine War: Prisoner exchanges and repatriations of soldiers' remains have been among the few areas of cooperation between Russia and Ukraine since Moscow launched its offensive in February 2022.",
-            "published": "2026-08-20T01:05:03+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+            "published": "2026-08-19T21:22:17+00:00"
+          },
+          {
+            "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "“You can&#039;t do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+            "published": "2026-08-19T21:10:39+00:00"
+          },
+          {
+            "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+            "published": "2026-08-19T21:09:15+00:00"
+          },
+          {
+            "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+            "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
+            "published": "2026-08-19T21:01:54+00:00"
+          },
+          {
+            "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
+            "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
+            "published": "2026-08-19T20:53:55+00:00"
+          },
           {
             "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
             "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
@@ -239,41 +274,6 @@
             "source": "Al Jazeera",
             "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
             "published": "2026-08-19T19:26:58+00:00"
-          },
-          {
-            "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
-            "published": "2026-08-19T19:09:53+00:00"
-          },
-          {
-            "title": "Who is Natalie Harp, Trump's right-hand woman?",
-            "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-            "published": "2026-08-19T19:02:41+00:00"
-          },
-          {
-            "title": "Violence in the New Syria?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
-            "published": "2026-08-19T18:50:17+00:00"
-          },
-          {
-            "title": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
-            "link": "https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.",
-            "published": "2026-08-19T18:48:49+00:00"
-          },
-          {
-            "title": "Zambia opposition leader to challenge Hichilema election victory in court",
-            "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
-            "published": "2026-08-19T18:43:28+00:00"
           }
         ],
         "Business": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1550723.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Second outstanding comeback of the summer takes place in very different circumstances to the first",
-            "published": "2026-08-19T20:52:59+00:00"
+            "published": "2026-08-19T21:11:34+00:00"
           },
           {
             "title": "Robinson happy to split the spoils after stellar Test return",
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Tamila Nadu: వారపు సంతలో నటుడు విమల్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDlodjlORFI1eVBMeGpIc1dtWjJDQTgzR0pEYXdnWWNmRjcwWHh2Ti1iV2tURGFsck9jY3k2aXhQRXRMT3hUSERvQUxubnd2RFVjbVl4Z0FZSEFpaHl5ZHJ2eHNDYXVWREllR2t2aUtpUk44SEo3YlVpczZ2eTZKRFhFQnJXdkY0QnNPV19pVWktZmFSX3M4OEYtTExlajhKVFcybGFVZ2Z2V2pZ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-19T18:45:51+00:00"
+          },
+          {
+            "title": "బాలికలకు మద్యం తాగించి లైంగిక వేధింపులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fUllEOG56WTVOV3M4RGFSTG1veG9nRFlhUzlhV3lpYzZST1lSbGJWckNuVm4tT3l1eE5mNldUdWJXQVBtMEtrbjQ5VHlGLTFTd1U3cDV0NllMcXpSaElxVlhQbm4wRFBSS2lHcmlZUUFHMnA0U01UamdJUXd3QQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-19T18:43:40+00:00"
+          },
+          {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (20/08/2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmhNOVR5MmFFT1RmUVpZV1dDVHB2dFh1M3JoVTByZVFfOFVZZi1GMl9uVURWem9QRHhkZkF1LVVjSTgzSVlZRXNkbTV1TVZlQjJWZVRaaXBWX2ZGckdjcG1VN1hSQjNocEVBWFdKb0RDRzZhSlZTcE16ckFXUzZYT0JRaU5uYVRhSmphVFFkU0tkYW5PRDNQZHU2UFJXRmNXNHk0UVNhdmRWRkRMUVRDdg?oc=5",
             "source": "Eenadu",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-19T13:28:58+00:00"
-          },
-          {
-            "title": "భారత్ కు సడెన్ షాక్ ఇచ్చిన పాకిస్థాన్.. రూ. వేల కోట్లలో నష్టం..",
-            "link": "https://telugu.oneindia.com/news/international/pakistan-and-india-airspace-ban-closes-airspace-to-indian-flights-again-extension-until-september24-502397.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-19T18:57:03+05:30"
-          },
-          {
-            "title": "బెంగాల్లో భారీ విజయంతో సత్తా చాటిన మమత..! 15-3 తేడాతో సువేందు చిత్తు..!",
-            "link": "https://telugu.oneindia.com/news/india/tmc-sweeps-bengal-bar-council-election-as-bjp-is-limited-to-3-seats-502395.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-19T18:49:59+05:30"
           }
         ],
         "Entertainment": [
@@ -1496,18 +1496,18 @@
             "published": "2026-08-19T16:37:13+00:00"
           },
           {
-            "title": "ভারতের কাছে হারের পর ধাক্কা শ্রীলঙ্কা শিবিরে, দ্বিতীয় টেস্টে ধনঞ্জয়েরা পাবেন না তিন ব্যাটারকে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOG1CWEFyVVpsb0lhQWR6SjE4UkVUYkYyQld5d3djeEJiSm5LTWhxdTVRckp4SVJmQU9ELVFBWFBjR1dNRGpIQmpRUy1PTGllVDNFUGhsTzFIWjdxNTdRdWtNTk9HaDRCQkFWekdQMklubEgzeEF6Y0t4akFDMV82SGpfMUl5aTlmUEJiRTFtdDBwcElPR1NqZVl6LVRMTkFVVi1PSzNFcERNbF9XVkZpVlk4UVk4VHU1SDRBMWhNMWU4T3IyM21ubWNSSWU2cEt1ZVl3ckl1aWFuZVpMelVDbFNoV24ydFR3SlhTMmdSWGI1Nk4wR2fSAfYBQVVfeXFMUDhtQlhBclVabG9JYUFkekoxOFJFVGJGMkJXeXd3Y3hCYkpuS01ocXU1UXJKeElSZkFPRC1RQVhQY0dXTURqSEJqUVMtT0xpZVQzRVBobE8xSFo3cTU3UXVrTU5PR2g0QkJBVnpHUDJJbmxIM3hBemNLeGpBQzFfNkhqXzFJeWk5ZlBCYkUxbXQwcHBJT0dTamVZei1UTE5BVVYtT0szRXBETWxfV1ZGaVZZOFFZOFR1NUg0QTFoTTFlOE9yMjNtbm1jUkllNnBLdWVZd3JJdWlhbmVaTHpVQ2xTaFduMnRUd0pYUzJnUlhiNTZOMEdn?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-19T16:37:13+00:00"
-          },
-          {
             "title": "‘ক্যামেরার দিকে সলমন তাকালেই ম্যাজিক ঘটে’, ভাইজানের অভিনয়ে মুগ্ধ আরবি ছবির পরিচালক - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWFselRKbE85bDc5Qll5TVR4WHN1QmxUQUJvTmxHemJ1YWVoQWNfMHZpTGYxal9qc1cwaUpLM0pTM0haM2k2V28yeThlSHA5cXE5LVEyZUlfZ0lrUU5LY2c0blREVjgxQW41ZlFLTXZjQkhwSmFzb3R0dWlqT3llMkJTS1BaU0RweVNrVWwxbzBGamc4RXhhdEJObnJucmdrWG5KMHVDWlRHdWlkQmJoSkhUbEnSAbQBQVVfeXFMUElhbHpUSmxPOWw3OUJZeU1UeFhzdUJsVEFCb05sR3pidWFlaEFjXzB2aUxmMWpfanNXMGlKSzNKUzNIWjNpNldvMnk4ZUhwOXFxOS1RMmVJX2dJa1FOS2NnNG5URFY4MUFuNWZRS012Y0JIcEphc290dHVpak95ZTJCU0tQWlNEcHlTa1VsMW8wRmpnOEV4YXRCTm5ybnJna1huSjB1Q1pUR3VpZEJiaEpIVGxJ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T16:37:12+00:00"
+          },
+          {
+            "title": "নারীদের চলাচলের গোলাপি রঙের বাস নিয়ে সামাজিক মাধ্যমে বিতর্ক কেন?",
+            "link": "https://www.bbc.com/bengali/articles/c05q4l87995o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-19T15:59:48+00:00"
           }
         ]
       }
