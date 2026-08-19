@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-19T17:57:33.345446+00:00",
+  "updated_at": "2026-08-19T18:01:25.941105+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Meg Austin, Em Arlott star in comfortable Warwickshire win",
+            "link": "https://www.cricinfo.com/ci/content/story/1550657.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Yorkshire stumble to latest defeat in rain-shortened chase despite Sterre Kalis fifty",
+            "published": "2026-08-19T17:55:03+00:00"
+          },
           {
             "title": "YSRCP leader accuses Naidu of deceiving BCs on reservation quota",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-accuses-naidu-of-deceiving-bcs-on-reservation-quota/article71365267.ece",
@@ -20,11 +27,32 @@
             "published": "2026-08-19T23:21:32+05:30"
           },
           {
+            "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+            "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "NATO says it will &#039;do what is necessary&#039; amid media report Iran considered strikes against US targets in Europe.",
+            "published": "2026-08-19T17:50:50+00:00"
+          },
+          {
+            "title": "US Department of Justice defends prosecution of Comey over seashell post",
+            "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.",
+            "published": "2026-08-19T17:50:26+00:00"
+          },
+          {
             "title": "Passenger convenience and safety APSRTC’s highest priorities, says JMD",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/passenger-convenience-and-safety-apsrtcs-highest-priorities-says-jmd/article71365611.ece",
             "source": "The Hindu",
             "summary": "Joint Managing Director Siva Prasad reviews the corporation’s operations and inspects key facilities",
             "published": "2026-08-19T23:20:02+05:30"
+          },
+          {
+            "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+            "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+            "published": "2026-08-19T17:47:52+00:00"
           },
           {
             "title": "Cyberabad municipal corporation takes up road repairs, pothole works on August 19",
@@ -74,34 +102,6 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-19T22:58:36+05:30"
-          },
-          {
-            "title": "YSRCP urges State Election Commission to defer municipal rolls until SIR completion",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-urges-state-election-commission-to-defer-municipal-rolls-until-sir-completion/article71365222.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-19T22:56:58+05:30"
-          },
-          {
-            "title": "35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal",
-            "link": "https://www.hindustantimes.com/india-news/35-bihar-students-hospitalised-after-detergent-allegedly-mistaken-for-salt-in-mid-day-meal-nalanda-government-school-101787153625956.html",
-            "source": "Hindustan Times",
-            "summary": "Bihar rural development minister Shravan Kumar visited the hospital and met the affected students, promising a detailed inquiry.",
-            "published": "2026-08-19T22:56:07+05:30"
-          },
-          {
-            "title": "Kathryn Bryce, Georgia Elwiss hundreds keep Blaze firing",
-            "link": "https://www.cricinfo.com/ci/content/story/1550655.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Table-toppers inflict hefty defeat on Durham despite fifties for Villiers, Heath",
-            "published": "2026-08-19T17:23:55+00:00"
-          },
-          {
-            "title": "Sacked Ukrainian defence minister calls for presidential election",
-            "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-            "published": "2026-08-19T17:23:42+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,27 @@
         ],
         "World": [
           {
+            "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+            "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "NATO says it will &#039;do what is necessary&#039; amid media report Iran considered strikes against US targets in Europe.",
+            "published": "2026-08-19T17:50:50+00:00"
+          },
+          {
+            "title": "US Department of Justice defends prosecution of Comey over seashell post",
+            "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.",
+            "published": "2026-08-19T17:50:26+00:00"
+          },
+          {
+            "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+            "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+            "published": "2026-08-19T17:47:52+00:00"
+          },
+          {
             "title": "South Korea shortens war games with US, citing Washington request",
             "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Human heat tolerance limits are lower than previously thought, and age is a major risk, Stanford researchers say.",
             "published": "2026-08-19T16:32:28+00:00"
-          },
-          {
-            "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-            "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-            "published": "2026-08-19T16:31:48+00:00"
-          },
-          {
-            "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
-            "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-            "published": "2026-08-19T16:30:55+00:00"
-          },
-          {
-            "title": "Two detained after French influencer's scorched body found in vineyard",
-            "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-            "published": "2026-08-19T16:04:39+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Meg Austin, Em Arlott star in comfortable Warwickshire win",
+            "link": "https://www.cricinfo.com/ci/content/story/1550657.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Yorkshire stumble to latest defeat in rain-shortened chase despite Sterre Kalis fifty",
+            "published": "2026-08-19T17:55:03+00:00"
+          },
+          {
             "title": "Kathryn Bryce, Georgia Elwiss hundreds keep Blaze firing",
             "link": "https://www.cricinfo.com/ci/content/story/1550655.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "India vs Pakistan Highlights, Hockey World Cup 2026: India eliminated Pakistan with a 5-3 win in their Pool D match at the FIH Hockey World Cup 2026 in Amstelveen on Wednesday.",
             "published": "2026-08-19T21:54:12+05:30"
-          },
-          {
-            "title": "Somerset overpower Essex through Odgers, Luff tons",
-            "link": "https://www.cricinfo.com/ci/content/story/1550658.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "223-run opening stand helps Somerset boost qualification hopes",
-            "published": "2026-08-19T16:21:47+00:00"
           }
         ],
         "Technology": [
@@ -1426,13 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ইনফান্তিনোর বিরুদ্ধে এ বার সরব ফিফার এক সহ-সভাপতি, সিওও-কে বরখাস্ত করে হাঙ্গেরির সমর্থনও হারালেন সভাপতি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSUJLY25hNjdCalF5MUh0OHJCWVBSUU9VUVlZN09PMWI4QlJnZTY3ZHltQnhXRFk5OWp2ZWxYR1dqS3VSUmNMa1ViTHZjQjZpY19UQWxhX2dPYURvVlFnMHBoc2hqaEF0V1lXY014NTNIREZfakZCSVJubFgtd0Jrak5GLTR2YWc1aXB5M3BHem1JTDJjVEtKQUViclY1WTIxN0ZNUHZYNVRVaHdhY0xCTXVIN18zWXZRZEdHZndGdG1PNDJuLVlQcVNmYmhuajFfLWZHaUY3dmk2M1pIUmdvWHJhX3dTWUYwOEZtRXlZc2hyRnNxaHJ2SlpxOGV1R0E1b292TGxHU1d1aFpITE5qbNIBkAJBVV95cUxNSUJLY25hNjdCalF5MUh0OHJCWVBSUU9VUVlZN09PMWI4QlJnZTY3ZHltQnhXRFk5OWp2ZWxYR1dqS3VSUmNMa1ViTHZjQjZpY19UQWxhX2dPYURvVlFnMHBoc2hqaEF0V1lXY014NTNIREZfakZCSVJubFgtd0Jrak5GLTR2YWc1aXB5M3BHem1JTDJjVEtKQUViclY1WTIxN0ZNUHZYNVRVaHdhY0xCTXVIN18zWXZRZEdHZndGdG1PNDJuLVlQcVNmYmhuajFfLWZHaUY3dmk2M1pIUmdvWHJhX3dTWUYwOEZtRXlZc2hyRnNxaHJ2SlpxOGV1R0E1b292TGxHU1d1aFpITE5qbA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-19T17:43:16+00:00"
-          },
-          {
             "title": "এক লক্ষ টাকায় শিশু কেনার অভিযোগ! আসানসোলে দম্পতি-সহ গ্রেফতার তিন, পুলিশের নজরে নার্সিংহোম-চক্র - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONVhRbVhCdEgzZXlOcGdsWmZEcS1KZFlYYVUxNkt6NDVTOUtHOHlQRUdYQ3Y0MEJvUmtKeG1uVHVqVzNPeC1EQVdTRVg3VXkxRDM3UjQwajh5VjBrR2NhM3JMd3hENklqREUwZmpkWmc1V3l4U1ZjaUF1UmJHZkFmXy1ocjNnQl9kUXVLdjBZUlNNc0szZXlLMkRDVmdJOGcxbTRBZ3k2TWpSQ1pseE1TRV9faUpaWktkZWExQzkwdF81eXlOT3hWamM1MVVKbl9hcEdLX1k0bjhGaGZLVXRYQUJJNGllOEZmTXdEb2VVcnRmZ20zd0hQSHBydGdnTTFmOGttRFdEWDRoTE8xMWlyV1IteTVwd9IBlgJBVV95cUxONVhRbVhCdEgzZXlOcGdsWmZEcS1KZFlYYVUxNkt6NDVTOUtHOHlQRUdYQ3Y0MEJvUmtKeG1uVHVqVzNPeC1EQVdTRVg3VXkxRDM3UjQwajh5VjBrR2NhM3JMd3hENklqREUwZmpkWmc1V3l4U1ZjaUF1UmJHZkFmXy1ocjNnQl9kUXVLdjBZUlNNc0szZXlLMkRDVmdJOGcxbTRBZ3k2TWpSQ1pseE1TRV9faUpaWktkZWExQzkwdF81eXlOT3hWamM1MVVKbl9hcEdLX1k0bjhGaGZLVXRYQUJJNGllOEZmTXdEb2VVcnRmZ20zd0hQSHBydGdnTTFmOGttRFdEWDRoTE8xMWlyV1IteTVwdw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1508,6 +1501,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-19T15:16:58+00:00"
+          },
+          {
+            "title": "‘আমার শোয়ার ঘর নিয়ে দিবাস্বপ্ন দেখবেন না’, রামদেবকে পাল্টা কী কী বললেন কঙ্গনা? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHR0cE15TVF5Z3JnZzJzNVU3V0NscDAyTGE5ZkxHTmFlQU9pTHFORy14WXZzZUp0T2pPU29pOUQ3SjFIVS1LYkpPYkhncVEycFdGaHlueGVlV2pYN1llSmRSc2VOVTFwTUpiSDNDeWJFWG1FV3JnVTl4N2dSRDU2WE5PUEhlMFpYRVJVaVFmeVlXNE5qaVRIRi03MkpCaUg5ZmQtdG1oNi11Rjhm0gGsAUFVX3lxTE5UdHRwTXlNUXlncmdnMnM1VTdXQ2xwMDJMYTlmTEdOYWVBT2lMcU5HLXhZdnNlSnRPak9Tb2k5RDdKMUhVLUtiSk9iSGdxUTJwV0ZoeW54ZWVXalg3WWVKZFJzZU5VMXBNSmJIM0N5YkVYbUVXcmdVOXg3Z1JENTZYTk9QSGUwWlhFUlVpUWZ5WVc0TmppVEhGLTcySkJpSDlmZC10bWg2LXVGOGY?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-19T14:52:44+00:00"
           }
         ]
       }
