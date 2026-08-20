@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-08-20T22:01:26.653817+00:00",
+  "updated_at": "2026-08-20T22:31:17.586296+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump vows tougher economic measures on Iran and supporting countries",
+            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+            "published": "2026-08-20T22:18:56+00:00"
+          },
+          {
+            "title": "Vande Mataram row: Amit Shah asks people to rally against Congress",
+            "link": "https://timesofindia.indiatimes.com/india/vande-mataram-row-amit-shah-asks-people-to-rally-against-congress/articleshow/133389437.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-21T03:46:55+05:30"
+          },
+          {
             "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
             "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Spinner believes team must be positive with the bat when second innings comes about",
-            "published": "2026-08-20T21:54:11+00:00"
+            "published": "2026-08-20T21:58:36+00:00"
+          },
+          {
+            "title": "New UK govt booklet tells asylum-seekers rape and child sex abuse are illegal",
+            "link": "https://timesofindia.indiatimes.com/world/uk/new-uk-govt-booklet-tells-asylum-seekers-rape-and-child-sex-abuse-are-illegal/articleshow/133387181.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-21T03:28:07+05:30"
           },
           {
             "title": "Imran Khan moved to private hospital amid deteriorating health",
@@ -81,30 +102,23 @@
             "source": "BBC World",
             "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
             "published": "2026-08-20T20:41:31+00:00"
-          },
-          {
-            "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-            "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-            "published": "2026-08-20T20:40:17+00:00"
-          },
-          {
-            "title": "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
-            "link": "https://www.thehindu.com/news/national/kerala/deliveries-at-keralams-kozhikode-government-women-and-childrens-hospital-decline/article71368209.ece",
-            "source": "The Hindu",
-            "summary": "According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26. A large number of people from the urban areas of Kozhikode are dependant on the hospital",
-            "published": "2026-08-21T02:10:13+05:30"
-          },
-          {
-            "title": "US pummels Cuban economy with new sanctions on mining, construction",
-            "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
-            "published": "2026-08-20T20:37:25+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Vande Mataram row: Amit Shah asks people to rally against Congress",
+            "link": "https://timesofindia.indiatimes.com/india/vande-mataram-row-amit-shah-asks-people-to-rally-against-congress/articleshow/133389437.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-21T03:46:55+05:30"
+          },
+          {
+            "title": "New UK govt booklet tells asylum-seekers rape and child sex abuse are illegal",
+            "link": "https://timesofindia.indiatimes.com/world/uk/new-uk-govt-booklet-tells-asylum-seekers-rape-and-child-sex-abuse-are-illegal/articleshow/133387181.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-21T03:28:07+05:30"
+          },
           {
             "title": "Jailed Pak Ex-PM Imran Khan Taken To Hospital After Court Order",
             "link": "https://www.ndtv.com/world-news/jailed-pak-ex-pm-imran-khan-taken-to-hospital-after-court-order-11938333#publisher=newsstand",
@@ -174,20 +188,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-08-21T02:06:22+05:30"
-          },
-          {
-            "title": "Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged",
-            "link": "https://www.hindustantimes.com/india-news/jadavpur-university-logo-damaged-in-kolkata-campus-after-abvp-left-student-wings-clash-101787257362053.html",
-            "source": "Hindustan Times",
-            "summary": "Jadavpur University’s emblem was damaged as ABVP and Left student groups clashed amid rallies and protests at the Kolkata campus.",
-            "published": "2026-08-21T01:55:05+05:30"
-          },
-          {
-            "title": "SC upholds broad definition of industry, only for pending cases",
-            "link": "https://timesofindia.indiatimes.com/india/sc-upholds-broad-definition-of-industry-only-for-pending-cases/articleshow/133387373.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-21T01:40:05+05:30"
           }
         ],
         "World": [
@@ -278,6 +278,13 @@
         ],
         "Business": [
           {
+            "title": "Trump vows tougher economic measures on Iran and supporting countries",
+            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+            "published": "2026-08-20T22:18:56+00:00"
+          },
+          {
             "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
             "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -348,13 +355,6 @@
             "published": "2026-08-20T10:05:24+00:00"
           },
           {
-            "title": "Trump vows tougher economic measures on Iran and supporting countries",
-            "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-            "published": "2026-08-20T09:13:18+00:00"
-          },
-          {
             "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-finance-corporation-and-rec-shares-fall-up-to-3-after-morgan-stanley-downgrade/articleshow/133367186.cms",
             "source": "Economic Times",
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Spinner believes team must be positive with the bat when second innings comes about",
-            "published": "2026-08-20T21:54:11+00:00"
+            "published": "2026-08-20T21:58:36+00:00"
           },
           {
             "title": "Imran Khan moved to private hospital amid deteriorating health",
@@ -641,6 +641,27 @@
             "published": "2026-08-21T12:08:37+05:30"
           },
           {
+            "title": "US: एफबीआई की वांटेड सूची में भारतीय कमल का नाम, गिरफ्तारी वारंट जारी; लॉरेंस बिश्नोई गैंग से क्या कनेक्शन?",
+            "link": "https://www.amarujala.com/world/us-indian-national-kamal-on-fbi-wanted-list-arrest-warrant-issued-what-is-his-link-to-lawrence-bishnoi-gang-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T03:12:15+05:30"
+          },
+          {
+            "title": "पाकिस्तान-चीन दोनों अलग चुनौती: पूर्व सेना प्रमुख नरवणे ने ड्रैगन को बताया प्रतिस्पर्धी, किससे ज्यादा खतरा?",
+            "link": "https://www.amarujala.com/india-news/former-army-chief-naravane-calls-china-a-competitor-and-pakistan-neighbour-should-india-watch-more-closely-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T03:00:39+05:30"
+          },
+          {
+            "title": "TISS में बनेगा स्कूल ऑफ एनालिटिक्स: रतन टाटा के नाम पर रखने की तैयारी; क्या बदलेंगे तकनीकी शिक्षा के मायने?",
+            "link": "https://www.amarujala.com/india-news/tiss-to-establish-school-of-analytics-in-ratan-tata-name-will-it-transform-future-of-technical-education-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T02:41:14+05:30"
+          },
+          {
             "title": "Telangana: हैदराबाद में कार की टक्कर से महिला की मौत; जनसेना पार्टी के राज्यसभा सांसद के बेटे पर केस दर्ज",
             "link": "https://www.amarujala.com/india-news/hyderabad-janasena-rajya-sabha-mp-s-son-booked-after-speeding-aston-martin-kills-26-year-old-woman-in-madhapu-2026-08-21",
             "source": "Amar Ujala",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-21T00:01:12+05:30"
-          },
-          {
-            "title": "पीएम मोदी की केंद्रीय सचिवों के साथ बैठक:कहा- युवाओं से जुड़ें, ताकि नीतियां बनाने में नए आइडिया मिल सकें",
-            "link": "https://www.bhaskar.com/national/news/pm-modi-delhi-high-level-meeting-university-youth-policy-update-138786263.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-20T17:41:59+00:00"
-          },
-          {
-            "title": "MP News: CM मोहन यादव ने पीथमपुर में एडवांस ऑप्टिकल फाइबर और बैटरी मैन्युफैक्चरिंग प्लांट का किया उद्घाटन, 30 हजार से ज्यादा रोजगार की उम्मीद",
-            "link": "https://hindi.oneindia.com/news/india/pithampur-advanced-optical-fibre-lithium-battery-plants-012-1633269.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-20T23:01:15+05:30"
-          },
-          {
-            "title": "Gujarat News: वायरल बुखार में बिना जांच एंटीबायोटिक्स देने से बचें, फंगल संक्रमण बना नई चुनौती: विशेषज्ञ",
-            "link": "https://hindi.oneindia.com/news/india/cidcon-2026-workshops-infectious-diseases-training-012-1633233.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-20T22:31:05+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,18 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "పాలకి శోభాయాత్ర ఏర్పాట్లపై సమీక్షా సమావేశం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MXByWnE1NXY2U2JxRlk0bTlmZVNkYXpndXZfbnhkQkczc3BVeDNjcXprakpmUXBITzRfYURsWTJLcGRmZ2ZkWDJfWE90SHFaRWs0b25NNGtYck9rSEpjQjc4cGhnNTNyMGtMSFdvRW9nQ0M5TnZMREZB?oc=5",
+            "title": "బీసీఐ కార్యాలయం ఎదుట న్యాయవాదుల నిరసన - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lX2JTbWw1X09laG5kMDlNcy1RTmFON3ROOGdtc2tEa05nLV9OUTYtUkNfalNyRWFRR2dCVF9pMnNjTHRaYkJxRjJDTXFOaDUtUlgzY3FpNU9YdHlkZkN4SWw5REZqSHdUbWhRQ254WWV5VlFGU1JrQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-20T20:57:40+00:00"
+            "published": "2026-08-20T22:07:52+00:00"
           },
           {
-            "title": "నీరజ్‌ రుమేశ్‌ మరోసారి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UHE2N3dtNFFMSGstMWp1T1ZkUW5uUi1SdE8tczFXZjUzWVozd1EzMVplUkJlSGEtemdFa0JpZFRWaVRySlcwMlRFMWRuRm1lVnFNcTZUeGU5TXNFeVhWZ2wzdVp4Q1F0eURpaHhiMUdfZw?oc=5",
+            "title": "Odisha: బాలుడి ధైర్యమే బతికించింది - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTZTT0VaQTlpUDc1Z0p3cHJzMHNncEJWZWlGR2dGdW94RDBsb1NpZlpyUkRjUzRpcmtSNnQ2MjVxNERkaXZBMHBlR1NYQktHTDZ5YmpwWlFBemlNdkZhOWhaM1d0aGVOOGZSa3NXWWpkQ1otUzE2SWlDWGFEM0t3MjVERVBva3BMQ0ZmazM0aVJ6Ry1OMmc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-20T20:57:06+00:00"
+            "published": "2026-08-20T21:48:24+00:00"
           },
           {
             "title": "సంక్షిప్త వార్తలు - Eenadu",
@@ -1091,6 +1091,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-20T20:53:01+00:00"
+          },
+          {
+            "title": "Gen Z: జెన్‌ జీ...మీ పెట్టుబడులతో జాగ్రత్త - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ25RWVhScXdYa09DTUJEVG5hSTBSeG8zSkhDOW9KUTRydndzaTJVU2dUdGh4SVFNUHdyWkxyaW41N1JFV1NGMm51MWF0YWVrclctQVdsV21KUDEzTVo4S21qMUlseXZiNW9TS3hSVEdtTk15VGdoYUs2WV9vcEctMjRXT1R5VE1kRkFYQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-20T19:35:38+00:00"
           },
           {
             "title": "ఎఫ్‌డీ చేసినా నగదు అందుబాటులో - Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-20T22:52:04+05:30"
-          },
-          {
-            "title": "ఘోర పడవ ప్రమాదం.. 40 మందికి పైగా చిన్నారులు మృతి.. పలువురు గల్లంతు..!",
-            "link": "https://telugu.oneindia.com/news/international/nigeria-boat-accident-in-nigeria-over-40-children-dead-several-missing-boat-accident-in-nigeria-502571.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-20T22:51:22+05:30"
           }
         ],
         "Entertainment": [
