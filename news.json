@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-08-21T20:36:00.248976+00:00",
+  "updated_at": "2026-08-21T20:58:39.054265+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "One killed in sword attack at Swedish school",
+            "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+            "published": "2026-08-21T20:56:19+00:00"
+          },
+          {
+            "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
+            "link": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T02:21:20+05:30"
+          },
+          {
+            "title": "Tunisian protesters call for President Kais Saied to step down",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
+            "published": "2026-08-21T20:35:07+00:00"
+          },
           {
             "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
             "link": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece",
@@ -13,11 +34,18 @@
             "published": "2026-08-22T01:59:23+05:30"
           },
           {
-            "title": "Watch: How does the US national debt affect Americans and the world?",
+            "title": "Watch: How does the US national debt affect consumers around the world?",
             "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
             "published": "2026-08-21T20:28:12+00:00"
+          },
+          {
+            "title": "Can a humanitarian disaster be averted in Somalia?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
+            "published": "2026-08-21T20:27:14+00:00"
           },
           {
             "title": "Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices",
@@ -74,37 +102,16 @@
             "source": "The Hindu",
             "summary": "Closely monitoring the situation, says the Centre and promises steps to ease the burden; it says rise in prices cannot be attributed to ethanol",
             "published": "2026-08-22T01:40:37+05:30"
-          },
-          {
-            "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms",
-            "source": "Economic Times",
-            "summary": "Major U.S. stock indexes finished Friday higher, but recorded weekly declines. Investors reacted to fluctuating government bond yields and Middle East developments. Stronger services sector growth offset manufacturing slowdowns, easing some investor concerns. Oil futures settled higher for a sixth consecutive day, adding to inflation worries. Upcoming economic data and Fed Chair's speech will guide future market…",
-            "published": "2026-08-22T01:39:51+05:30"
-          },
-          {
-            "title": "Supreme Court trims law practice requirement to 1 year for judicial service",
-            "link": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
-            "source": "The Hindu",
-            "summary": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
-            "published": "2026-08-22T01:38:40+05:30"
-          },
-          {
-            "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-            "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
-            "published": "2026-08-21T20:07:40+00:00"
-          },
-          {
-            "title": "Supreme Court lauds scrapped MGNREGA as a ‘good, effective scheme’",
-            "link": "https://www.thehindu.com/news/national/supreme-court-lauds-scrapped-mgnrega-scheme-calls-it-neither-freebie-nor-exploitation/article71373402.ece",
-            "source": "The Hindu",
-            "summary": "The scheme was applauded by a three-judge Bench while hearing a petition on delayed wages under the defunct scheme; petition seeks to elevate the right to work as a fundamental right",
-            "published": "2026-08-22T01:34:43+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
+            "link": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T02:21:20+05:30"
+          },
           {
             "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
             "link": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece",
@@ -181,16 +188,30 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-22T01:26:35+05:30"
-          },
-          {
-            "title": "Varalakshmi Vratam performed with religious fervour",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/varalakshmi-vratam-performed-with-religious-fervour/article71372127.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:25:43+05:30"
           }
         ],
         "World": [
+          {
+            "title": "One killed in sword attack at Swedish school",
+            "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+            "published": "2026-08-21T20:56:19+00:00"
+          },
+          {
+            "title": "Tunisian protesters call for President Kais Saied to step down",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
+            "published": "2026-08-21T20:35:07+00:00"
+          },
+          {
+            "title": "Can a humanitarian disaster be averted in Somalia?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
+            "published": "2026-08-21T20:27:14+00:00"
+          },
           {
             "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
@@ -234,6 +255,13 @@
             "published": "2026-08-21T19:42:51+00:00"
           },
           {
+            "title": "How Israel is expanding settlements in drive to reshape West Bank",
+            "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+            "published": "2026-08-21T19:31:47+00:00"
+          },
+          {
             "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
             "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
             "source": "Al Jazeera",
@@ -241,44 +269,16 @@
             "published": "2026-08-21T19:29:20+00:00"
           },
           {
-            "title": "One killed in sword attack at Swedish school",
-            "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-            "published": "2026-08-21T19:22:05+00:00"
-          },
-          {
             "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
             "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
             "published": "2026-08-21T19:21:08+00:00"
-          },
-          {
-            "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-            "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
-            "published": "2026-08-21T19:20:17+00:00"
-          },
-          {
-            "title": "Palestinian victims of Israeli settler attacks face battle for justice",
-            "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
-            "published": "2026-08-21T19:14:42+00:00"
-          },
-          {
-            "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-            "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.",
-            "published": "2026-08-21T19:08:30+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Watch: How does the US national debt affect Americans and the world?",
+            "title": "Watch: How does the US national debt affect consumers around the world?",
             "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "సజ్జన్‌ కుమార్‌ అంత్యక్రియలు పూర్తి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRDZpYVU5S1lxb0lqRVYtVm5KTy1nTzN2VGdaWVVHaklhSHJldVJQbUIyNzBveUVxWUNsWDg1WG1heTZ3R2N1Q0RJYUdGdzJOUGNGem10N3BGMVYxWXUyMVRyU0YzLWtjcExKVVU1Tkhmc0RoLVF3Xw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T20:13:51+00:00"
+          },
+          {
             "title": "పదాలేవి? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkWHhiWUdpYzNUUDZTeXk3Z0owSkFFM19lYlliR3NZX3ktUTZhLXJqeHd2QUxYZlFKWnZfWTlxQlNkWEZOM180RDVfTEVXQXFIRGcydXlveDJSaS12aTR3TjVzQTYtXzNNTE50WjJhTjY2clJNam5iMTQ2UmNhZ9IBfkFVX3lxTFBkWHhiWUdpYzNUUDZTeXk3Z0owSkFFM19lYlliR3NZX3ktUTZhLXJqeHd2QUxYZlFKWnZfWTlxQlNkWEZOM180RDVfTEVXQXFIRGcydXlveDJSaS12aTR3TjVzQTYtXzNNTE50WjJhTjY2clJNam5iMTQ2UmNhZw?oc=5",
             "source": "Eenadu",
@@ -1086,25 +1093,11 @@
             "published": "2026-08-21T20:01:17+00:00"
           },
           {
-            "title": "Egypt Octagon: ఈజిప్ట్‌ ‘ఆక్టగన్‌’తో మనకూ లాభమే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWx3SnhQVEJIc0V6SnMxZFdIUHJ1TExUZ3VyQ29KRTBuM3YwaFVIalU3aEtUWG5ubXE1VmRnQVdrVU53UXVKZkJST2JhZGJlN3Zka29xem5BNE41TmtDNWlHV1g2RzJ5V0hnR0FtUkI1elVxWTV3WkkyZTBUcTg4ZTRfcmFwQWJnbTJxWDhPSkRZdkXSAZMBQVVfeXFMUFFsd0p4UFRCSHNFekpzMWRXSFBydUxMVGd1ckNvSkUwbjN2MGhVSGpVN2hLVFhubm1xNVZkZ0FXa1VOd1F1SmZCUk9iYWRiZTd2ZGtvcXpuQTRONU5rQzVpR1dYNkcyeVdIZ0dBbVJCNXpVcVk1d1pJMmUwVHE4OGU0X3JhcEFiZ20ycVg4T0pEWXZF?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-21T20:00:35+00:00"
-          },
-          {
             "title": "మీకు తెలుసా? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aRWN4UFE0UF92VkN2VDFYSjlISC1SMHBiM3Q0d283bkptYjdtczY1b0VmcEpiZTJHUmZYbnB3dU5JZDJvaV9fV2RITXJ6QWhnNGliWDY5X25Xb2dlckJPNE9QY1Y5bXM1SF9IZkh0Z0rSAXBBVV95cUxNWkVjeFBRNFBfdlZDdlQxWEo5SEgtUjBwYjN0NHdvN25KbWI3bXM2NW9FZnBKYmUyR1JmWG5wd3VOSWQyb2lfX1dkSE1yekFoZzRpYlg2OV9uV29nZXJCTzRPUGNWOW1zNUhfSGZIdGdK?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-21T20:00:24+00:00"
-          },
-          {
-            "title": "కొంటె కొటేషన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jb2lEQXUxZmVYN2tNc2dZVENCajJOX3FFVTRsTGV1LVFRQ0tmeHdjQV9BcFZoMEV6dUM4UElnRkt0TzFKQzNnYUN2T0toSFJBZTVWLVc3cXJvN1ZZM0RucFhQU0tiYmpIblhpMDFJSXd4UFhz0gF0QVVfeXFMT2NvaURBdTFmZVg3a01zZ1lUQ0JqMk5fcUVVNGxMZXUtUVFDS2Z4d2NBX0FwVmgwRXp1QzhQSWdGS3RPMUpDM2dhQ3ZPS2hIUkFlNVYtVzdxcm83VlkzRG5wWFBTS2JiakhuWGkwMUlJd3hQWHM?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-21T19:58:51+00:00"
           },
           {
             "title": "మళ్లీ కలవాలని.. - Eenadu",
@@ -1121,6 +1114,13 @@
             "published": "2026-08-21T19:37:36+00:00"
           },
           {
+            "title": "Indian in Canada: సరస్సులో చెత్త వేసిన మహిళ..రూ.69 వేల జరిమానా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOajFqZWR3ZVBYdEIxeF9fYTNlZWo3UnlBUmNTWngzSGp6dldpZTJfbjVMektsemNkYUpsVXZBSlB2cHppVWkyZ3B0YUpIbVBzM3U4ME12V1dETFhMZHpKa2xYdjZnMzhtS0o5b0pOTjEtbERnaEJfZHZlTElFcmRNdDRILXBPYnQ5VnQ0anJMVnBFcmxyX2JNNFRwQ0pZemVRY3Fpa2FVaHdwb1lWWG5BWklrV2JNWmw4WU1fQWYwUTd1dzlYeW51VEVoM256SUVEX3lTT2VUZVNfUdIB2gFBVV95cUxOajFqZWR3ZVBYdEIxeF9fYTNlZWo3UnlBUmNTWngzSGp6dldpZTJfbjVMektsemNkYUpsVXZBSlB2cHppVWkyZ3B0YUpIbVBzM3U4ME12V1dETFhMZHpKa2xYdjZnMzhtS0o5b0pOTjEtbERnaEJfZHZlTElFcmRNdDRILXBPYnQ5VnQ0anJMVnBFcmxyX2JNNFRwQ0pZemVRY3Fpa2FVaHdwb1lWWG5BWklrV2JNWmw4WU1fQWYwUTd1dzlYeW51VEVoM256SUVEX3lTT2VUZVNfUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T19:34:00+00:00"
+          },
+          {
             "title": "Imran Khan: ఆస్పత్రికి ఇమ్రాన్‌ఖాన్‌ తరలింపు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdklWc0pGRU5WMXBpNEhxMm84SWZfc1AtZ1M3N0s0a2pOWmxCVGI1LVBFOVJFOXdHOWJad2RPSTNTQXN5ZW5mVl9oT2lEQTVidDJIMk9BcHdoa0wwTnU5aHlnNm0xNi1sMDRyQU1NbTloNGhDR1Z2QmM0eG8zWEYtU1QyQWh4azU1alJuUGhyajBQUkthakExZ2FzUG4wa3VQdGNN0gGjAUFVX3lxTE92SVZzSkZFTlYxcGk0SHEybzhJZl9zUC1nUzc3SzRrak5abEJUYjUtUEU5UkU5d0c5Ylp3ZE9JM1NBc3llbmZWX2hPaURBNWJ0MkgyT0Fwd2hrTDBOdTloeWc2bTE2LWwwNHJBTU1tOWg0aENHVnZCYzR4bzNYRi1TVDJBaHhrNTVqUm5QaHJqMFBSS2FqQTFnYXNQbjBrdVB0Y00?oc=5",
             "source": "Eenadu",
@@ -1135,6 +1135,13 @@
             "published": "2026-08-21T18:32:15+00:00"
           },
           {
+            "title": "Crime News: గుప్తనిధులంటూ కుటుంబానికి దగ్గరై.. అల్లుడిగా సెటిలైన దొంగ బాబా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmM3ZExrbzNnRkl5Zm1lTmVGeUtXLVFfN0tuMGp1Q055WElaemhqY0N0TkxxMkJYc1hXbkNtTmZ0UWhtYVpYM1dGaHIybHZmU1RfX0NRNG5xZVlIU2Vmd0U0M0cxNFZiUXppREM4YTlHZ29CNjVPdVJKRW5NNC1tb0JFQXI2cS03R0kxNzB1UHlXQVXSAZMBQVVfeXFMTmZjN2RMa28zZ0ZJeWZtZU5lRnlLVy1RXzdLbjBqdUNOeVhJWnpoamNDdE5McTJCWHNYV25DbU5mdFFobWFaWDNXRmhyMmx2ZlNUX19DUTRucWVZSFNlZndFNDNHMTRWYlF6aURDOGE5R2dvQjY1T3VSSkVuTTQtbW9CRUFyNnEtN0dJMTcwdVB5V0FV?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T18:26:13+00:00"
+          },
+          {
             "title": "Video: కొడుకు మారం, తప్పని మరణం.. ఐఫోన్ క్రేజ్ ఎంత పని చేసిందంటే?",
             "link": "https://telugu.oneindia.com/news/india/tragic-iphone-emi-dispute-in-maharashtra-teen-and-parents-die-after-falling-off-hill-in-sambhajinag-502727.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-21T22:36:40+05:30"
-          },
-          {
-            "title": "ఆక్స్‌ఫర్డ్‌లో సీఎం రేవంత్‌రెడ్డి.. 900 ఏళ్ల ఘనమైన చరిత్ర",
-            "link": "https://telugu.oneindia.com/news/telangana/cm-revanth-reddy-visits-oxford-university-telangana-delegation-focuses-on-global-education-alliance-502723.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T21:35:21+05:30"
           }
         ],
         "Entertainment": [
