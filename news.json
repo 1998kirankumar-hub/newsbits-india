@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-08-21T20:31:32.071998+00:00",
+  "updated_at": "2026-08-21T20:36:00.248976+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Watch: How will the US national debt affect American consumers and the world?",
+            "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
+            "link": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece",
+            "source": "The Hindu",
+            "summary": "The vessel is named after the coastal township of Mangrol in Gujarat",
+            "published": "2026-08-22T01:59:23+05:30"
+          },
+          {
+            "title": "Watch: How does the US national debt affect Americans and the world?",
             "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The US national debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
+            "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
             "published": "2026-08-21T20:28:12+00:00"
+          },
+          {
+            "title": "Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/sugar-output-may-dip-11-from-initial-estimate-government/articleshow/133413529.cms",
+            "source": "Times of India",
+            "summary": "Says Drop Not Due To Ethanol Diversion",
+            "published": "2026-08-22T01:51:30+05:30"
+          },
+          {
+            "title": "Grievances registration line soon for sanitation workers",
+            "link": "https://www.thehindu.com/news/national/ncsk-to-launch-missed-call-facility-to-address-grievances-of-safai-karmacharis/article71373618.ece",
+            "source": "The Hindu",
+            "summary": "National Commission for Safai Karmacharis is engaging with the Labour Ministry to raise the minimum wages of safai karmacharis to be on par with those of skilled or semi-skilled workers",
+            "published": "2026-08-22T01:50:14+05:30"
           },
           {
             "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
@@ -18,6 +39,20 @@
             "source": "Al Jazeera",
             "summary": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
             "published": "2026-08-21T20:16:59+00:00"
+          },
+          {
+            "title": "Advocates can now apply for judge posts after 1-year practice",
+            "link": "https://timesofindia.indiatimes.com/india/advocates-can-now-apply-for-judge-posts-after-1-year-practice/articleshow/133413515.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T01:45:00+05:30"
+          },
+          {
+            "title": "Rahul’s street politics signals a new Opposition playbook",
+            "link": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
+            "source": "The Hindu",
+            "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
+            "published": "2026-08-22T01:44:25+05:30"
           },
           {
             "title": "Milnes five-for puts Kent in charge against Middlesex",
@@ -67,44 +102,44 @@
             "source": "The Hindu",
             "summary": "The scheme was applauded by a three-judge Bench while hearing a petition on delayed wages under the defunct scheme; petition seeks to elevate the right to work as a fundamental right",
             "published": "2026-08-22T01:34:43+05:30"
-          },
-          {
-            "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-            "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
-            "published": "2026-08-21T20:03:35+00:00"
-          },
-          {
-            "title": "Neeraj Chopra At Lausanne Diamond League 2026 Highlights: Neeraj Chopra 2nd With Season Best 88.05m Throw, SL's Rumesh Pathirage Completes Hattrick",
-            "link": "https://sports.ndtv.com/athletics/neeraj-chopra-lausanne-diamond-league-2026-live-updates-results-javelin-throw-event-in-switzerland-rumesh-pathirage-11942272#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Neeraj Chopra at Lausanne Diamond League 2026 Highlights: Sri Lanka's Rumesh Pathirage pipped India's Neeraj Chopra to first by just 0.09m at the Lausanne Diamond League javelin event.",
-            "published": "2026-08-22T01:27:45+05:30"
-          },
-          {
-            "title": "International RBSM concludes with 88 MoUs in Visakhapatnam",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/international-rbsm-concludes-with-88-mous-in-visakhapatnam/article71374379.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:27:16+05:30"
-          },
-          {
-            "title": "Special campaign for electoral roll enrolment, corrections",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/special-campaign-for-electoral-roll-enrolment-corrections/article71374735.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:26:35+05:30"
-          },
-          {
-            "title": "Varalakshmi Vratam performed with religious fervour",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/varalakshmi-vratam-performed-with-religious-fervour/article71372127.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:25:43+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
+            "link": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece",
+            "source": "The Hindu",
+            "summary": "The vessel is named after the coastal township of Mangrol in Gujarat",
+            "published": "2026-08-22T01:59:23+05:30"
+          },
+          {
+            "title": "Sugar output may dip 11%, says govt, rules out ethanol diversion impact on prices",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/sugar-output-may-dip-11-from-initial-estimate-government/articleshow/133413529.cms",
+            "source": "Times of India",
+            "summary": "Says Drop Not Due To Ethanol Diversion",
+            "published": "2026-08-22T01:51:30+05:30"
+          },
+          {
+            "title": "Grievances registration line soon for sanitation workers",
+            "link": "https://www.thehindu.com/news/national/ncsk-to-launch-missed-call-facility-to-address-grievances-of-safai-karmacharis/article71373618.ece",
+            "source": "The Hindu",
+            "summary": "National Commission for Safai Karmacharis is engaging with the Labour Ministry to raise the minimum wages of safai karmacharis to be on par with those of skilled or semi-skilled workers",
+            "published": "2026-08-22T01:50:14+05:30"
+          },
+          {
+            "title": "Advocates can now apply for judge posts after 1-year practice",
+            "link": "https://timesofindia.indiatimes.com/india/advocates-can-now-apply-for-judge-posts-after-1-year-practice/articleshow/133413515.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T01:45:00+05:30"
+          },
+          {
+            "title": "Rahul’s street politics signals a new Opposition playbook",
+            "link": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
+            "source": "The Hindu",
+            "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
+            "published": "2026-08-22T01:44:25+05:30"
+          },
           {
             "title": "Gen Alpha protests mirror government report: Big gaps in school education",
             "link": "https://timesofindia.indiatimes.com/india/gen-alpha-protests-mirror-government-report-big-gaps-in-school-education/articleshow/133413500.cms",
@@ -153,41 +188,6 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-22T01:25:43+05:30"
-          },
-          {
-            "title": "Minister inspects Aero Express bus services to Bhogapuram airport",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/minister-inspects-aero-express-bus-services-to-bhogapuram-airport/article71374272.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:25:01+05:30"
-          },
-          {
-            "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
-            "link": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece",
-            "source": "The Hindu",
-            "summary": "The State government was informed of the denial of permission for the U.S. visit after the official delegation had already reached the U.K.",
-            "published": "2026-08-22T01:22:09+05:30"
-          },
-          {
-            "title": "PM Modi meets 20 space startup CEOs, urges wider use of space tech for public benefit",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-meets-ceos-of-20-space-startups-ask-them-for-wider-applications-of-space-tech-to-improve-peoples-lives/articleshow/133413394.cms",
-            "source": "Times of India",
-            "summary": "India Expecting Growth In Space Sector From $8 bn to $44 bn by 2033: INSPACe head",
-            "published": "2026-08-22T01:19:50+05:30"
-          },
-          {
-            "title": "The coast that made Chennai",
-            "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-the-coast-that-made-chennai-and-the-city-that-keeps-remaking-it/article71370834.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T01:17:00+05:30"
-          },
-          {
-            "title": "Why Meghan Markle Faces Difficult Return To The UK",
-            "link": "https://www.ndtv.com/world-news/why-meghan-markle-faces-difficult-return-to-the-uk-11942829#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Both Meghan and Harry have complained about her treatment by the British media which Harry told a court this year made her life \"an absolute misery\".",
-            "published": "2026-08-22T01:15:29+05:30"
           }
         ],
         "World": [
@@ -278,10 +278,10 @@
         ],
         "Business": [
           {
-            "title": "Watch: How will the US national debt affect American consumers and the world?",
+            "title": "Watch: How does the US national debt affect Americans and the world?",
             "link": "https://www.bbc.co.uk/news/videos/c4gjn4ezljno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The US national debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
+            "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
             "published": "2026-08-21T20:28:12+00:00"
           },
           {
@@ -1072,6 +1072,69 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "పదాలేవి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkWHhiWUdpYzNUUDZTeXk3Z0owSkFFM19lYlliR3NZX3ktUTZhLXJqeHd2QUxYZlFKWnZfWTlxQlNkWEZOM180RDVfTEVXQXFIRGcydXlveDJSaS12aTR3TjVzQTYtXzNNTE50WjJhTjY2clJNam5iMTQ2UmNhZ9IBfkFVX3lxTFBkWHhiWUdpYzNUUDZTeXk3Z0owSkFFM19lYlliR3NZX3ktUTZhLXJqeHd2QUxYZlFKWnZfWTlxQlNkWEZOM180RDVfTEVXQXFIRGcydXlveDJSaS12aTR3TjVzQTYtXzNNTE50WjJhTjY2clJNam5iMTQ2UmNhZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T20:07:05+00:00"
+          },
+          {
+            "title": "Folk Songs: జానపదాల వైరస్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3FLT3VMQWM1OG13Qm12b1RYUXAyX1VUX2lEaE1Dc2VieERpN3FlRzEydVFDUEF3bk5OSHBPdmFOMi1KalBKOV92R01TcnlCelpsQ25mYmZsZXBCTnNhYXhyalJnN3ZoWFpqd204a3F4SHZEWHJtelJ4S1RKYWYzcWFkTWtPWUlHVDlsXy14dGV1TlYtcGItR3RpNlg4QnBhUXRUN2hwZVJ0R09vQkJ0ZNIBsAFBVV95cUxPM3FLT3VMQWM1OG13Qm12b1RYUXAyX1VUX2lEaE1Dc2VieERpN3FlRzEydVFDUEF3bk5OSHBPdmFOMi1KalBKOV92R01TcnlCelpsQ25mYmZsZXBCTnNhYXhyalJnN3ZoWFpqd204a3F4SHZEWHJtelJ4S1RKYWYzcWFkTWtPWUlHVDlsXy14dGV1TlYtcGItR3RpNlg4QnBhUXRUN2hwZVJ0R09vQkJ0ZA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T20:01:17+00:00"
+          },
+          {
+            "title": "Egypt Octagon: ఈజిప్ట్‌ ‘ఆక్టగన్‌’తో మనకూ లాభమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWx3SnhQVEJIc0V6SnMxZFdIUHJ1TExUZ3VyQ29KRTBuM3YwaFVIalU3aEtUWG5ubXE1VmRnQVdrVU53UXVKZkJST2JhZGJlN3Zka29xem5BNE41TmtDNWlHV1g2RzJ5V0hnR0FtUkI1elVxWTV3WkkyZTBUcTg4ZTRfcmFwQWJnbTJxWDhPSkRZdkXSAZMBQVVfeXFMUFFsd0p4UFRCSHNFekpzMWRXSFBydUxMVGd1ckNvSkUwbjN2MGhVSGpVN2hLVFhubm1xNVZkZ0FXa1VOd1F1SmZCUk9iYWRiZTd2ZGtvcXpuQTRONU5rQzVpR1dYNkcyeVdIZ0dBbVJCNXpVcVk1d1pJMmUwVHE4OGU0X3JhcEFiZ20ycVg4T0pEWXZF?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T20:00:35+00:00"
+          },
+          {
+            "title": "మీకు తెలుసా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aRWN4UFE0UF92VkN2VDFYSjlISC1SMHBiM3Q0d283bkptYjdtczY1b0VmcEpiZTJHUmZYbnB3dU5JZDJvaV9fV2RITXJ6QWhnNGliWDY5X25Xb2dlckJPNE9QY1Y5bXM1SF9IZkh0Z0rSAXBBVV95cUxNWkVjeFBRNFBfdlZDdlQxWEo5SEgtUjBwYjN0NHdvN25KbWI3bXM2NW9FZnBKYmUyR1JmWG5wd3VOSWQyb2lfX1dkSE1yekFoZzRpYlg2OV9uV29nZXJCTzRPUGNWOW1zNUhfSGZIdGdK?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T20:00:24+00:00"
+          },
+          {
+            "title": "కొంటె కొటేషన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jb2lEQXUxZmVYN2tNc2dZVENCajJOX3FFVTRsTGV1LVFRQ0tmeHdjQV9BcFZoMEV6dUM4UElnRkt0TzFKQzNnYUN2T0toSFJBZTVWLVc3cXJvN1ZZM0RucFhQU0tiYmpIblhpMDFJSXd4UFhz0gF0QVVfeXFMT2NvaURBdTFmZVg3a01zZ1lUQ0JqMk5fcUVVNGxMZXUtUVFDS2Z4d2NBX0FwVmgwRXp1QzhQSWdGS3RPMUpDM2dhQ3ZPS2hIUkFlNVYtVzdxcm83VlkzRG5wWFBTS2JiakhuWGkwMUlJd3hQWHM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T19:58:51+00:00"
+          },
+          {
+            "title": "మళ్లీ కలవాలని.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdDVPb2hHUkNOVkg2THJEaWw1ZHAxdTFIV0FmZGEtcGhlTFZWREt0NDFLOHVZMVRrWmhEdTlwVHZzUGRpRllydU1ncHFpZ2ZMcjZFQjRuOVE1NDdwZFY4ZTJ4S3pLUTVtNXJEekdpNnRIQWdj0gF0QVVfeXFMUEx0NU9vaEdSQ05WSDZMckRpbDVkcDF1MUhXQWZkYS1waGVMVlZES3Q0MUs4dVkxVGtaaER1OXBUdnNQZGlGWXJ1TWdwcWlnZkxyNkVCNG45UTU0N3BkVjhlMnhLektRNW01ckR6R2k2dEhBZ2M?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T19:58:05+00:00"
+          },
+          {
+            "title": "తెలుగు రాష్ట్రాల్లోని ప్రధాన గిరిజన తెగలు - విశేషాలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91RUNKVkZrQTJBS0ZmMnFOTVFwdFlrOVVYdXlRVTBTRDBXM19PT1VGWEx1SVRIdDhNV1hHRlc0QWtYdVk5bVBXcjR6LTJzdlBKV2ZSZ3YycVl2WFk0NmJ0blZ2N3dZU3dOUnVIODdEZi1JTER6U1luZ1p30gF6QVVfeXFMT3VFQ0pWRmtBMkFLRmYycU5NUXB0WWs5VVh1eVFVMFNEMFczX09PVUZYTHVJVEh0OE1XWEdGVzRBa1h1WTltUFdyNHotMnN2UEpXZlJndjJxWXZYWTQ2YnRuVnY3d1lTd05SdUg4N0RmLUlMRHpTWW5nWnc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T19:37:36+00:00"
+          },
+          {
+            "title": "Imran Khan: ఆస్పత్రికి ఇమ్రాన్‌ఖాన్‌ తరలింపు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdklWc0pGRU5WMXBpNEhxMm84SWZfc1AtZ1M3N0s0a2pOWmxCVGI1LVBFOVJFOXdHOWJad2RPSTNTQXN5ZW5mVl9oT2lEQTVidDJIMk9BcHdoa0wwTnU5aHlnNm0xNi1sMDRyQU1NbTloNGhDR1Z2QmM0eG8zWEYtU1QyQWh4azU1alJuUGhyajBQUkthakExZ2FzUG4wa3VQdGNN0gGjAUFVX3lxTE92SVZzSkZFTlYxcGk0SHEybzhJZl9zUC1nUzc3SzRrak5abEJUYjUtUEU5UkU5d0c5Ylp3ZE9JM1NBc3llbmZWX2hPaURBNWJ0MkgyT0Fwd2hrTDBOdTloeWc2bTE2LWwwNHJBTU1tOWg0aENHVnZCYzR4bzNYRi1TVDJBaHhrNTVqUm5QaHJqMFBSS2FqQTFnYXNQbjBrdVB0Y00?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T18:42:00+00:00"
+          },
+          {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (22/08/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVRzcU96djk2bTMybVRMaldUakJGb0VMaUtVR0R1aHJRY3hnMVJKSnlSb0FPSVRNdkVtZDk3U0ZsVndGcjRycDRFcWVKZG91NVVSYjlPSm41SUd0Um1RTGlnRjlNd3NvU2VFVldvWnY4V3hEOFJwcGJudWVGN3ZEWmRfLXF1REJaTmN0QkdUSzVneDJSSGFodlRaWm41RlFNaW01ZXktUFdlX3hIYm9lTdIBsAFBVV95cUxQMVRzcU96djk2bTMybVRMaldUakJGb0VMaUtVR0R1aHJRY3hnMVJKSnlSb0FPSVRNdkVtZDk3U0ZsVndGcjRycDRFcWVKZG91NVVSYjlPSm41SUd0Um1RTGlnRjlNd3NvU2VFVldvWnY4V3hEOFJwcGJudWVGN3ZEWmRfLXF1REJaTmN0QkdUSzVneDJSSGFodlRaWm41RlFNaW01ZXktUFdlX3hIYm9lTQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T18:32:15+00:00"
+          },
+          {
             "title": "Video: కొడుకు మారం, తప్పని మరణం.. ఐఫోన్ క్రేజ్ ఎంత పని చేసిందంటే?",
             "link": "https://telugu.oneindia.com/news/india/tragic-iphone-emi-dispute-in-maharashtra-teen-and-parents-die-after-falling-off-hill-in-sambhajinag-502727.html",
             "source": "Oneindia Telugu",
@@ -1091,69 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-21T21:35:21+05:30"
-          },
-          {
-            "title": "SIR పై వైసీపీ ఫీడ్ బ్యాక్ ఇదే- పార్టీ నేతలతో సజ్జల కీలక వ్యాఖ్యలు..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/sajjala-satisfied-with-ap-sir-progress-directs-ysrcp-cadre-to-monitor-duplicate-and-deleted-votes-502721.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T20:49:55+05:30"
-          },
-          {
-            "title": "రుతుపవనాలు రివర్స్.. బంగాళాఖాతంలో ఒకేసారి రెండు అల్పపీడనాలు!",
-            "link": "https://telugu.oneindia.com/news/india/imd-heavy-rain-alert-twin-weather-systems-in-bay-of-bengal-to-trigger-fresh-monsoon-spell-in-india-502719.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T20:47:34+05:30"
-          },
-          {
-            "title": "Rayadurgam Land Record: ఎకరా రూ.264 కోట్లు..! హైదరాబాద్ లో సరికొత్త రికార్డు..!",
-            "link": "https://telugu.oneindia.com/news/telangana/hyderabad-rayadurgam-land-set-record-with-264-crore-per-acre-price-502715.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T20:31:07+05:30"
-          },
-          {
-            "title": "Rahul Gandhi: రాహుల్ దెబ్బకు దిగొచ్చిన కేంద్రం..! ఎట్టకేలకు అడిగింది ఇచ్చి..!",
-            "link": "https://telugu.oneindia.com/news/india/rahul-gandhi-s-police-station-protest-leads-to-fir-in-pellet-gun-case-502717.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T20:23:24+05:30"
-          },
-          {
-            "title": "జనసేన ఎంపీ లింగమనేని రమేశ్ కుమారుడి కారు ఢీకొని యువతి మృతి.. పోలీసులు ఏం చెప్పారు? ఎంపీ కొడుకు ఏమంటున్నారు",
-            "link": "https://www.bbc.com/telugu/articles/cn7n0kndn6yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-21T14:23:41+00:00"
-          },
-          {
-            "title": "YS Avinash Reddy డబ్బులు సీజ్! వివేకా హత్య కేసులు ఈడీ బిగ్ షాక్",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ed-raids-ysrcp-mp-avinash-reddy-premises-seizes-unaccounted-cash-bank-locker-keys-in-viveka-murde-502713.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T19:39:27+05:30"
-          },
-          {
-            "title": "లింగమనేని కుమారుడి యాక్సిడెంట్ కేసు-షాకింగ్ వీడియో..! తప్పించే యత్నాలు?",
-            "link": "https://telugu.oneindia.com/news/telangana/janasena-mp-son-lingamaneni-sanjush-case-new-video-raises-questions-over-cctv-footage-and-investiga-502711.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T19:11:55+05:30"
-          },
-          {
-            "title": "‘మూడు నెలల పసిబిడ్డతో షూటింగ్‌కు వచ్చారు.. ఫస్ట్‌నైట్ సీన్‌లో నటించి బంధువులకు కొంతకాలం దూరమయ్యారు’",
-            "link": "https://www.bbc.com/telugu/articles/cyvldg375r8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-21T13:34:41+00:00"
-          },
-          {
-            "title": "53 ఏళ్ల ఏనుగు విమానమెక్కిన వేళ.. దేశ చరిత్రలోనే తొలిసారి",
-            "link": "https://telugu.oneindia.com/news/india/miraculous-rescue-of-joymoti-53-year-old-injured-elephant-airlifted-to-vantara-for-lifesaving-care-502709.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T18:56:44+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,48 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "দিল্লির এমসে ভর্তি বিমান বসু! রুটিন চেকআপের জন্য হাসপাতালে বামফ্রন্ট চেয়ারম্যান - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTUQ1ZlA3RXRlQmp0SjRrWXhVaTdXOUE4ZEdQWVhaeU82VVc4Qy0wQm91YS1OUk1XS3pLVmk2aXh2d2FSVFhtZG9UTFRzcEhwQ3JHSGNZbWJicl85WlhSWW5FbXpBZXUtVUxtanlaTDFZR1c0SmxNVEJBMVAydXFYWWt1M2kyV0tzelJFc2Z6akJ0OWtIdVlFRXRn0gGfAUFVX3lxTFBSWUpTbmY0OC1MbGZHOVRiUzk3ODBBNVlkQm1LeVFaUWJraFZyblQyWTVnb1BnQ2dRYllJdzdpU1dGbF81NDA1dzhKaENOTzNUNmxOeUJwLTdpY2ItTVJjblExNVQ1SXc0NF91bVd5LTJQWXlrWUw3MU42NmdpMmcwTHlSTUw3dkE3ZEszUV9Mdy05NngyM3lPc3ZLeW9maw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T17:53:10+00:00"
+          },
+          {
+            "title": "অগ্নিকাণ্ডের পরে কর্মচারীর সঙ্গে কথা বলে বন্ধ করে দেন ফোন! নিউ মার্কেটের সেই হোটেলের মালিকের খোঁজে দিঘায় পুলিশ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXl4THFYNHl5clRaYkFobjZNcURCRnlwcEw0QzlvQjlRYXV0ZWd5YkxFY0tNZzlGUVZoU0toSmZGMWZMUUxjOXBHdl9feXZpcU9zOTg0Z3FxUjRlR3hOTnZEWUZzbnhSZ0Q1STNReXlPUHN6a29fMWtxbzBiQjhtME4wX3BTMGpabW1lLUYtdkh2V1FsMGE0MTBlY2t6ejlyazZsLTREV2lvTWJZSjRVNNIBtgFBVV95cUxPdmpFYVYzU2xSV2lZNGpKLVhiODZCOGdfbUloZGI3dEpfaFdwZF9UTk9fNUVhbEZpLUhxbUI5aXJHamZpaUM4R0hfOHJLN2pwRlpxanZocjh5dFRiLTg1U3VleXpreEpIYk5rVkR1YUNPSjhhWExtYnNVdHluQmNEbWdORTF4dVZGTHVVREF0WlVzRzZWMXE3bzNBOU4yWngxQ3gxd0taTHFpU1IxdEhhQXI4WG9zdw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T17:08:29+00:00"
+          },
+          {
+            "title": "কলম্বোয় দ্বিতীয় টেস্টে কুলদীপের খেলা নিয়ে সংশয়, ভারতীয় স্পিনারের সম্ভাবনা নিয়ে মুখ খুললেন বোলিং কোচ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlZTYjRuNUhZOWtSNmRyZmpVcnJkUk5CeXJiX2ZNUnF1MkZGZ3BlelNPNVhHbXoxWWFzR1ItU1I0LTB3ZnhKeWJpSllyQU9zbFByZUFzWUJ1SUJoemdhR1g1WlNhclVocUtMWnNodDI3YVNUSFNLWlRwWUFtNXZNY3lCdFJOZVZZVV9QRXhYSWVqQjZkUFBqVTZRN2taY04zZU1YM0VpanhkUHM0YkQ5MkVBX1d6NDQ2dV9NcldWbHpFdUd2ZHfSAcsBQVVfeXFMTzVqcEdGc1V1NWtyV0NBTUpDNXZFY19XYWpWNEtSYU9zSGMyX1ZHZVFuUGNIRTNtYXJmSUxQc0RGdmlFaFF4TXBlTVN2MkxiTUFuZDVJejVPbjhxMGd4MXhjSVVWSUNiMHhDRVhpa2xJNG1DTERkbkVxQ2tyaU1vLXVFQTJVVFh2cnhoQjJic3BlRV83alYtdkJ5MVJMMml3Vmh3aWtkMldWNDBpbzlBWmdMalZyR1BoYmpXT0FWXzRVZG05aENneTVYZEk?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T16:36:52+00:00"
+          },
+          {
+            "title": "নেতানিয়াহুর বিরুদ্ধে গ্রেফতারি পরোয়ানা জারি তুরস্কের! ইন্টারপোলের কাছে রেড কর্নার নোটিস জারির আর্জিও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2MzMC1uTVhlM0NWV3N2eVVXZWVwWHVXN01XaE81bTBwMDBTZDRCXzY5cWktVE5kM0drTWxUNF9MTDR4U1BjQnNHcDMtTDZtbGphb0RDcGIxeDFVZF9DUlNyTmJGZUd3RWhFT21kbHA3Nm9VenE1SmdOMDFIMzNSZVVJVTVCV1pnLUZSOG9PMDhUU19KQUdEa1lWY3FjVnp6NGpwaWo4Q0tQNWVMRjFXQVlCcDEtZUtydnBfbVptazVKQ2tER3FsWjB4ZGxBcWdjYTNN0gHYAUFVX3lxTE1KTzcxUGtmdUhnbndNbWNUNll2SlNPQ3dKT3JDV2pXcG1qUG85c0Rjb2lxTHF5Rm5WNi05NEFBZW14MEs5SXBtakV1WnZxdTAwQWV1VHgzdlZxcnN4azlsLUx0QVI1a05LQmMtQ1BYQ3B0TWJrNE1ab1FFMHNQdDFyMUxWWEwzYnJCb0oyeW9Eb2FZckFpYllTVmJTSl9MNXhXRDV5ZkkzSzFVb0taeGxxSGhqY1hsS0xPTVpoM0ZLUmVTUW5YYUVxQmVkUzYwMUdTT2xSb3Rtaw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T16:10:47+00:00"
+          },
+          {
+            "title": "১৮ ম‍্যাচ নির্বাসনের শাস্তি আর্জেন্টিনার তিন ফুটবলারকে, বিশ্বকাপ ফাইনালে মারামারি করে নির্বাসিত স্পেনের ফুটবলারও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9od0UyYVNLWnBSQ2tLUlRqejdHczg0MldGbnJ0cXhXOS1iNzg4TU5nRF9FR1ZQZVEtc2dQNHlqRlZFUktlRDlXcVh0R2JOTE1EZFBWWEFDUWlJXzlvQWpuVXM3WGtQd1N4WmtnaWVzSEdSMXdjaE5jRE1DNmFFVTl4RnZRcjdDUmpsaXVZdmVOYUp3bTJUV0RJUWlWRVAtZTNQenY2QVpyWjFQUWVZdkd3dFJQakNDd0lXdVhXZ1BNbFRY0gHKAUFVX3lxTE1aUDlxWUYzMzFzS01nLVFpUC14R1l1X3lQcEF6bVZwb1RqdW1sMWtEbnNSampJN0NreVNGVWhoWTdhS1NDMFcxRWhkd0FTRDdHUTIxMXdKTzROQmwxb00zZHQzMlBwY1U5NVMzdUlyX1dJZU9KR1R4X0tLcHJmQXdHbVJkYS1OV0Y2TXhlbzdZYUQzNDRLRGdzWDQ3U0R6Tlc5aU1MSkhJejZLZnJQRXE2LWZqdHowWVVGaTFiVnZ4ZlJxWk5QQkNqUWc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T16:08:47+00:00"
+          },
+          {
+            "title": "মধ্য চল্লিশে হরমোনের গোলমাল খুব ভোগায়, ওই বয়সে কী কী ব্যায়াম করলে শরীর ভাল থাকবে? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTQzYzVqR1RzbVdDemEyNng2U0FyRGNOU3BwdUI2eUlKbU5UZGRpR2ZnTlZzTERpbnRRU3J5QldMUkhPMWZ2czBIX3E5TTl3Mlc1NHNoanFOSmNZbHZuTHkwams5cVJuNzMtWU5jMEJyVXJ0ekFNYTJUcUkwOFZzSTRrUU5KaGR5Y3huTjBzR1RVUXItdWdjR0VVVDdpWTR4V25CZFU5UE1BUDRQSUlHc1Jn0gG3AUFVX3lxTE12QUZ3eGx4YmZwaUxHaGhpLUNyRkFBaFZmRjJHRDIzeUVybmxBRVNPRnhkaHgxWVBtUVM4ekNCakFjQ0xMTlRtVEVzTVloX2JqeDhuTm1qTVFLU0Q1LWNuc054Z0gwV2RtZmJmZXU5UjZWQXFNY1VCUUhmSENEM0FpbTlSUmxsWmx1VmptUmtOZDVKczFPM2l2M2hEeFFJdkxFV2JaRldYd0R5aFVLZTRzU1Z6WUNJVQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T16:04:44+00:00"
+          },
+          {
             "title": "কলকাতায় গা ঘেঁষে দাঁড়ানো হোটেলগুলোয় আগুন থেকে বাঁচার কী উপায় আছে?",
             "link": "https://www.bbc.com/bengali/articles/ckg3ml1122ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1440,74 +1482,32 @@
             "published": "2026-08-21T15:21:08+00:00"
           },
           {
-            "title": "মাজার থেকে বঙ্গভবন- যে ইতিহাস কয়েক শতকের",
-            "link": "https://www.bbc.com/bengali/articles/c0qvkk2kl5eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "তৃণমূল আমলের শেষ পাঁচ বছরে দেওয়া জন্মশংসাপত্রের বৈধতা যাচাই করবে সরকার! প্রয়োজনে গড়া হবে তদন্তকারী দলও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUxNY2hoWmRFZENLcUMtVzVwM3FkSTZ1OVR0RHFkQkxaZUlqaDlfdV9lMGlCTDRsVWJSOWtqTXFSOGdEWDFkbFVSVHNvdElOUFZKMmRZSjdNcmgzb0FzbVhYZl9lTnJ6amRZUVpMcC1oUFFjMnU1M3Z5bV9mMmQxek1pc2NCWFM0RHJCRWF6b1VUWWM5N2g0YmkzZkd5MTFsTVUzY193UnVkNXFXMFIzTVJIek1obl9XVGhKUFNiX2owdVVNU1lqTEtrdVBlcFlJajlyN1pDV0lvUDRNaEI5LXg0c3gtWEJFSGM40gHwAUFVX3lxTE9Md1pqdDh6S0Z6bWk1NU04c3lrT1pmLTRNOG44ZDRRTWZXZERNVjdLZ3hzSXZ1ZGNOSndNbC1XVjdOeTFaLUZPS1llNWZrY3ZWSUM3MHBMdkw4WTFlbEwwaUZQZ3QwRDIwa09VcV9naXU5ckp2X3dBLWlmM1lJTHNBMzNmekUxUy1pRWhKUGFTdjc2bDVhTTJkd0NSSFdIelIwTHg1NE5GSGFncjByamFmNW96Y2hLVWMwdXF4VURlVHJiTFdXcnJfTThDZWpCTUt5U1FvZ09YT0dLdU5admFwZFNHcldDckZ4Y2VuSkdHQQ?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-21T09:00:12+00:00"
+            "published": "2026-08-21T15:13:08+00:00"
           },
           {
-            "title": "বাংলাদেশে বিদ্যুৎ সংকটের সমাধান কী?",
-            "link": "https://www.bbc.com/bengali/articles/cx2renvyvdpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "বেসিনের কলে মরচে পড়েছে? ৩টি সহজ কৌশল মানলেই একেবারে ঝকঝকে দেখাবে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGx1ZXJfZ3hjNGNrcXU4QXZiOTU3UUlLaGZVSUdRX2xKQlFqSGFVcUVHRG8xUkkyOUhHTGFpWEZ4UUlPR3dGX01yZ3FfX2ZMM3A4dFY5T2M1WllnczFZdWY4TTFsS092NHlzTnFlYXdRdDNBSExQS2xPWnFvSm55UGlielN2RlB5cy12dmx5bUVFUdIBkgFBVV95cUxOMGx1ZXJfZ3hjNGNrcXU4QXZiOTU3UUlLaGZVSUdRX2xKQlFqSGFVcUVHRG8xUkkyOUhHTGFpWEZ4UUlPR3dGX01yZ3FfX2ZMM3A4dFY5T2M1WllnczFZdWY4TTFsS092NHlzTnFlYXdRdDNBSExQS2xPWnFvSm55UGlielN2RlB5cy12dmx5bUVFUQ?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-21T06:18:04+00:00"
+            "published": "2026-08-21T15:06:41+00:00"
           },
           {
-            "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
-            "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "পার পেলেন না মেসিরা, ৩ কোটি টাকা জরিমানা আর্জেন্টিনার! বিশ্বকাপে ইংল্যান্ড ম‍্যাচের পর গোলমালের ঘটনায় শাস্তি ফিফার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1JjM093V0VHLWdsdFhONDcxM0ZfaFZkT25hWlFITHZWSGZORWt5MHcxX2VhS0RBalVRRkdKTkE0b19uTFFOcGdUdXoza2ZocXRZSklXWEdRSHpzU0JsaXlNazJtS25CX2hiN1Jwcm5ILWFlcWRVYUdUNjFxUHhqMzFWVmNTaHRDeGY1SUJSMjRrd2diRDlHVlVTUHRLaHdnSVdaVzRCV1lUT3lZLU9oaGFxXzNhS2hqYTZPXzFHR2Zjc3ZqYmRoVDlXalRHQzVIUXE40gHYAUFVX3lxTFBnajVRVW1LRXFpR21VNF9FQzU0UDZoaEJJYk41dGFSS3pYXzlIS21TR0hEQmp4eG4zRF9nYmpXdDQxVUZQZHNsdWR4SzRwbGdfM1Y2OWhUcEtKWk11TmVpRWJlQ2ZQOFAzOEZ5b3RIdlNFNi1RSWp3UnNFbFkzbm1rV0tndlRXMU1WdEI5MWthbm1PUld4bHVxaHhPVVFaeVljSnB3WHVQNUVxSXVzd0xrQmp0c1lXVmwtQ0tPa2U1bkdYcWI2VTBnZ0pfTkxFUWNBMC1IaGNLbQ?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-21T03:37:56+00:00"
+            "published": "2026-08-21T15:06:39+00:00"
           },
           {
-            "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
-            "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "‘উত্তর কোরিয়ার হাতে ৫৭টি পরমাণু বোমা রয়েছে’, বললেন ট্রাম্প! বার্তা দিলেন কিমের সঙ্গে বৈঠক নিয়েও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONzV1dHNnVU1jLXBiZFdSWnlrWm1id2xMMW1OeTFfSW1LdElvYUh3TFdTVV9ZOEVSRF85QzExWElqWXh5ZWlwdG9keGVvZld5NmJLT21paVdqY0VUNkV2ZHBnWTVhUlpQdDRUN3JXU2FWTlJCWUthVVRuZ0ZJamZQd1RzcUdIMjJNMnhkVFZBLUYwQk5STWVLVks3NTVxdS15Mlo0NExHLTNSWWRJczhTRzJwTnllSkxKRDhOTWF3cXdBOVdCbGZQZkE0T0xHeDhGREtnU1NTTW1qeU5FSUJYQm1xWURpT1htelhqRU9FQXRwQdIB9wFBVV95cUxPcEpXMk1ELW9sZ21rdjNfNjRYWTZUVlZNZWpuZEswYk5KeHVqN3JNa0VrVERZdFQ1NFluVlhiZkFhYzZjc2pkTE5qRWprUzRwRHZNQ1dHdEVMdzEzVWs3elhOS2tyYTIzcExyNUlyWHc1d2ZfWFV3TFJHX1M4R0VnLXJ4U2M3cGVhWGFoNGVyaVVkUlpsRTRKX0MxcDZtV1ctZlg4ODZzYzkzY0dLeHpjZlhEU09fZWNINTFGWkJTeDVSakJBZzJZYlFPQlBISWJmQno0Z0RBNGFoN0ItTFZoN0lzMkRfSjdyalIzUGxuaTRzMkRhQ2FZ?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-21T02:01:34+00:00"
-          },
-          {
-            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
-            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-20T11:25:45+00:00"
-          },
-          {
-            "title": "আমেরিকার প্রথম মুসলিম সেনেটর হওয়ার দৌড়ে থাকা তরুণ রাজনীতিবিদ আবদুল এল সাইদ কে?",
-            "link": "https://www.bbc.com/bengali/articles/c2049yqvpq0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-18T12:08:22+00:00"
-          },
-          {
-            "title": "ব্রিটিশদের ১০৯ বছর আগে ধার দেওয়া টাকা এখন সুদসহ ফেরত চায় ভারতের এক পরিবার",
-            "link": "https://www.bbc.com/bengali/articles/c80n9nezdv5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-15T05:20:57+00:00"
-          },
-          {
-            "title": "আওয়ামী লীগের অগাস্ট ফ্যাক্টর: হত্যা, হামলা, ক্ষমতাচ্যুতি",
-            "link": "https://www.bbc.com/bengali/articles/c1718krllp4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-14T12:49:56+00:00"
-          },
-          {
-            "title": "৩৫ বছর আগে সরাসরি রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
-            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-11T14:39:39+00:00"
-          },
-          {
-            "title": "বাংলাদেশের রাষ্ট্রপতি কী করতে পারেন আর কী পারেন না?",
-            "link": "https://www.bbc.com/bengali/articles/cp9e4de3lymo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-10T01:37:29+00:00"
+            "published": "2026-08-21T14:42:32+00:00"
           }
         ]
       }
