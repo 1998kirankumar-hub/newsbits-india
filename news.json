@@ -1,111 +1,181 @@
 {
-  "updated_at": "2026-08-21T05:31:13.312666+00:00",
+  "updated_at": "2026-08-21T06:01:26.195781+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Bangladesh eye more history with only one result on Australia's mind",
+            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Bangladesh did the unthinkable in Darwin, and will have to do it all over again if they want to convert the Test match win to a Test series win",
+            "published": "2026-08-21T05:58:21+00:00"
+          },
+          {
+            "title": "Imran Khan moved to private hospital amid deteriorating health",
+            "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Former Pakistan prime minister and cricket captain has been serving extended prison sentences",
+            "published": "2026-08-21T05:51:44+00:00"
+          },
+          {
+            "title": "MP students reach collectorate, allege loss of study due to teachers' 'closeness'",
+            "link": "https://www.hindustantimes.com/india-news/madhya-pradesh-govt-school-students-reach-chhindwara-collectorate-complain-against-teachers-closeness-101787289926342.html",
+            "source": "Hindustan Times",
+            "summary": "The students reached the Chhindwara collectorate during a public hearing to raise their complaint.",
+            "published": "2026-08-21T11:17:35+05:30"
+          },
+          {
+            "title": "Jagan challenges Naidu to order CBI probe into APPSC Group-I exam irregularities",
+            "link": "https://www.hindustantimes.com/india-news/jagan-challenges-naidu-to-order-cbi-probe-into-appsc-group-i-exam-irregularities-101787282009107.html",
+            "source": "Hindustan Times",
+            "summary": "Former Andhra Pradesh CM Jagan challenged CM Naidu to order a CBI probe into alleged APPSC exam irregularities, defending the process under his government.",
+            "published": "2026-08-21T11:17:33+05:30"
+          },
+          {
+            "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+            "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+            "published": "2026-08-21T05:47:32+00:00"
+          },
+          {
+            "title": "How Rahul Gandhi Is Rewriting Political Strategy With His Outreach To Gen Z, Women",
+            "link": "https://www.ndtv.com/india-news/how-rahul-gandhi-is-rewriting-political-strategy-with-his-outreach-to-gen-z-women-11939191#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Instead of relying solely on massive rally grounds, the strategy often centres on meeting students where their everyday anxieties lie. The broader push gained momentum through the 'Chhatron Ki Goonj' initiative.",
+            "published": "2026-08-21T11:15:14+05:30"
+          },
+          {
+            "title": "Lyon survives selection call as Renshaw locked in to open",
+            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Jake Weatherald, who had opened with Travis Head in the first Test against Bangladesh, was dropped from the squad prior to the second Test, which starts on Saturday in Mackay",
+            "published": "2026-08-21T05:42:13+00:00"
+          },
+          {
+            "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+            "link": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece",
+            "source": "The Hindu",
+            "summary": "The State government was informed of the denial of permission for the U.S. visit after the official delegation had already reached the U.K.",
+            "published": "2026-08-21T11:11:12+05:30"
+          },
+          {
+            "title": "What led to the re-test of three UGC-NET papers? | Explained",
+            "link": "https://www.thehindu.com/education/what-led-to-the-re-test-of-threeugc-netpapers-explained/article71372196.ece",
+            "source": "The Hindu",
+            "summary": "What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
+            "published": "2026-08-21T11:07:39+05:30"
+          },
+          {
+            "title": "‘Vijay remained silent, Shivakumar spoke openly on Mekedatu project’: DMK on South CMs-Amit Shah meeting",
+            "link": "https://www.hindustantimes.com/india-news/dmk-slams-cm-vijays-silence-on-mekedatu-dam-in-meeting-with-amit-shah-shivakumar-spoke-openly-101787287834193.html",
+            "source": "Hindustan Times",
+            "summary": "DMK alleged that DK Shivakumar openly argued in favour of the Mekedatu project while CM Vijay did not directly oppose it during the meeting.",
+            "published": "2026-08-21T11:07:05+05:30"
+          },
+          {
+            "title": "Centre allows duty-free import of raw sugar to curb surging prices",
+            "link": "https://www.hindustantimes.com/india-news/centre-allows-duty-free-import-of-raw-sugar-to-curb-surging-prices-101787287141977.html",
+            "source": "Hindustan Times",
+            "summary": "The Centre has allowed 1 million tonnes of raw sugar to be imported duty-free until October 31 as domestic prices climb ahead of the festive season",
+            "published": "2026-08-21T11:06:09+05:30"
+          },
+          {
+            "title": "\"Medically Fit\": Imran Khan Taken Back To Jail After Check-Up At Hospital",
+            "link": "https://www.ndtv.com/world-news/imran-khan-back-in-prison-hours-after-he-was-shifted-to-hospital-11938746#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Khan has been imprisoned since August 2023. He says the cases against him are politically motivated, an accusation the government denies.",
+            "published": "2026-08-21T11:06:04+05:30"
+          },
+          {
+            "title": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for ‘logical discrepancy’",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-over-4380-lakh-voters-to-get-notice-over-20-lakh-flagged-for-logical-discrepancy/article71369088.ece",
+            "source": "The Hindu",
+            "summary": "Notices will be served to 23.45 lakh people who could not find their own or their parents’ details in the 2002 electoral roll",
+            "published": "2026-08-21T11:05:00+05:30"
+          },
+          {
             "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
             "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
             "published": "2026-08-21T05:30:18+00:00"
-          },
-          {
-            "title": "Bangladesh eye more history with only one result on Australia's mind",
-            "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Bangladesh did the unthinkable in Darwin, and will have to do it all over again if they want to convert the Test match win to a Test series win",
-            "published": "2026-08-21T05:24:38+00:00"
-          },
-          {
-            "title": "Why are close to 1.08 crore voters staring at mass exclusion? | Decode Karnataka",
-            "link": "https://www.thehindu.com/videos/shows/why-are-close-to-108-crore-voters-staring-at-mass-exclusion-decode-karnataka/article71372307.ece",
-            "source": "The Hindu",
-            "summary": "1,07,96,415 crore, that is the number of voters facing possible exclusion from the Karnataka’s electoral rolls.",
-            "published": "2026-08-21T10:54:25+05:30"
-          },
-          {
-            "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
-            "link": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece",
-            "source": "The Hindu",
-            "summary": "The State government was informed of the denial of permission for the U.S. visit after the official delegation had already reached the U.K.",
-            "published": "2026-08-21T10:54:07+05:30"
-          },
-          {
-            "title": "Student well-being in India declines sharply through senior school years, finds study",
-            "link": "https://www.thehindu.com/education/student-well-being-in-india-declines-sharply-through-senior-school-years-finds-study/article71370262.ece",
-            "source": "The Hindu",
-            "summary": "According to the findings of the study, sleep declined steadily and sharply as students moved into higher grades; the grade-level trend showed a deterioration in sleep as academic pressure increased.",
-            "published": "2026-08-21T10:51:20+05:30"
-          },
-          {
-            "title": "Renshaw locked in to open as Lyon survives selection call",
-            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Jake Weatherald, who had opened with Travis Head in the first Test against Bangladesh, was dropped from the squad prior to the second Test, which starts on Saturday in Mackay",
-            "published": "2026-08-21T05:19:56+00:00"
-          },
-          {
-            "title": "Couples share their biggest money disagreements",
-            "link": "https://www.bbc.co.uk/news/videos/cr49vr77gy7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Candles, haircuts, a Tesla... this week we're asking couples in London: \"What's the biggest money disagreement in your relationship?\"",
-            "published": "2026-08-21T05:18:04+00:00"
-          },
-          {
-            "title": "'I won't say no': CSK legend considers England batting coach role",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-not-say-no-csk-legend-considers-england-batting-coach-role-for-ashes/articleshow/133393141.cms",
-            "source": "Times of India",
-            "summary": "\"There is a lot of different things to consider. My short answer is I would not say no to anything really,\" Hussey told Fox Sports News.",
-            "published": "2026-08-21T10:47:44+05:30"
-          },
-          {
-            "title": "Centre denies permission to Revanth Reddy for US visit, his office claims",
-            "link": "https://www.hindustantimes.com/india-news/centre-denies-permission-to-revanth-reddy-for-us-visit-his-office-claims-telangana-cm-101787289126033.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-08-21T10:44:23+05:30"
-          },
-          {
-            "title": "Jharkhand examination irregularities: SC to hear plea for CBI probe on Monday",
-            "link": "https://www.hindustantimes.com/india-news/jharkhand-examination-irregularities-sc-to-hear-plea-for-cbi-probe-on-monday-101787289160644.html",
-            "source": "Hindustan Times",
-            "summary": "The plea comes against the backdrop of a 26-day agitation by job aspirants in Jharkhand over alleged irregularities in recruitment examinations",
-            "published": "2026-08-21T10:42:40+05:30"
-          },
-          {
-            "title": "SIM card rules 2026: What changes from Aug 24 &amp; how many connections can you have",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/sim-card-rules-2026-what-changes-from-august-24-and-how-many-connections-can-you-have/articleshow/133393839.cms",
-            "source": "Times of India",
-            "summary": "Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevention of excess connections are mandated by November thirtieth. This aims to enforce existing limits across all licensed…",
-            "published": "2026-08-21T10:42:04+05:30"
-          },
-          {
-            "title": "Elon Musk pitches Starlink for India, says it would help the ‘least served’",
-            "link": "https://www.hindustantimes.com/india-news/elon-musk-pitches-starlink-for-india-says-it-would-help-the-least-served-101787287538361.html",
-            "source": "Hindustan Times",
-            "summary": "Starlink, the satellite broadband service of SpaceX, aims to provide high-speed internet using a network of thousands of satellites placed in low-Earth orbit.",
-            "published": "2026-08-21T10:41:41+05:30"
-          },
-          {
-            "title": "'Starlink would help the least served in India, especially in rural areas': Elon Musk",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/starlink-would-help-the-least-served-in-india-especially-in-rural-areas-elon-musk/articleshow/133393432.cms",
-            "source": "Times of India",
-            "summary": "Elon Musk supports Starlink's satellite internet for India's underserved rural communities. The service aims to bridge significant connectivity gaps where 4G access remains limited. Starlink's network could reach remote areas, overcoming terrain and infrastructure challenges. The Indian government is developing regulatory frameworks for satellite spectrum allocation. Starlink remains in active discussions with the…",
-            "published": "2026-08-21T10:38:38+05:30"
-          },
-          {
-            "title": "Rupee continues to rally, opens 9 paise stronger against US dollar",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-rally-opens-9-paise-stronger-against-us-dollar/articleshow/133393360.cms",
-            "source": "Times of India",
-            "summary": "On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to result in significant rupee gains. Additionally, domestic equities began trading on a slightly weaker note.",
-            "published": "2026-08-21T10:36:47+05:30"
           }
         ],
         "India": [
           {
+            "title": "MP students reach collectorate, allege loss of study due to teachers' 'closeness'",
+            "link": "https://www.hindustantimes.com/india-news/madhya-pradesh-govt-school-students-reach-chhindwara-collectorate-complain-against-teachers-closeness-101787289926342.html",
+            "source": "Hindustan Times",
+            "summary": "The students reached the Chhindwara collectorate during a public hearing to raise their complaint.",
+            "published": "2026-08-21T11:17:35+05:30"
+          },
+          {
+            "title": "Jagan challenges Naidu to order CBI probe into APPSC Group-I exam irregularities",
+            "link": "https://www.hindustantimes.com/india-news/jagan-challenges-naidu-to-order-cbi-probe-into-appsc-group-i-exam-irregularities-101787282009107.html",
+            "source": "Hindustan Times",
+            "summary": "Former Andhra Pradesh CM Jagan challenged CM Naidu to order a CBI probe into alleged APPSC exam irregularities, defending the process under his government.",
+            "published": "2026-08-21T11:17:33+05:30"
+          },
+          {
+            "title": "How Rahul Gandhi Is Rewriting Political Strategy With His Outreach To Gen Z, Women",
+            "link": "https://www.ndtv.com/india-news/how-rahul-gandhi-is-rewriting-political-strategy-with-his-outreach-to-gen-z-women-11939191#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Instead of relying solely on massive rally grounds, the strategy often centres on meeting students where their everyday anxieties lie. The broader push gained momentum through the 'Chhatron Ki Goonj' initiative.",
+            "published": "2026-08-21T11:15:14+05:30"
+          },
+          {
+            "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+            "link": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece",
+            "source": "The Hindu",
+            "summary": "The State government was informed of the denial of permission for the U.S. visit after the official delegation had already reached the U.K.",
+            "published": "2026-08-21T11:11:12+05:30"
+          },
+          {
+            "title": "What led to the re-test of three UGC-NET papers? | Explained",
+            "link": "https://www.thehindu.com/education/what-led-to-the-re-test-of-threeugc-netpapers-explained/article71372196.ece",
+            "source": "The Hindu",
+            "summary": "What were the errors in the question papers? Why are candidates concerned? What happens to candidates who sat for the other 84 exams?",
+            "published": "2026-08-21T11:07:39+05:30"
+          },
+          {
+            "title": "‘Vijay remained silent, Shivakumar spoke openly on Mekedatu project’: DMK on South CMs-Amit Shah meeting",
+            "link": "https://www.hindustantimes.com/india-news/dmk-slams-cm-vijays-silence-on-mekedatu-dam-in-meeting-with-amit-shah-shivakumar-spoke-openly-101787287834193.html",
+            "source": "Hindustan Times",
+            "summary": "DMK alleged that DK Shivakumar openly argued in favour of the Mekedatu project while CM Vijay did not directly oppose it during the meeting.",
+            "published": "2026-08-21T11:07:05+05:30"
+          },
+          {
+            "title": "Centre allows duty-free import of raw sugar to curb surging prices",
+            "link": "https://www.hindustantimes.com/india-news/centre-allows-duty-free-import-of-raw-sugar-to-curb-surging-prices-101787287141977.html",
+            "source": "Hindustan Times",
+            "summary": "The Centre has allowed 1 million tonnes of raw sugar to be imported duty-free until October 31 as domestic prices climb ahead of the festive season",
+            "published": "2026-08-21T11:06:09+05:30"
+          },
+          {
+            "title": "\"Medically Fit\": Imran Khan Taken Back To Jail After Check-Up At Hospital",
+            "link": "https://www.ndtv.com/world-news/imran-khan-back-in-prison-hours-after-he-was-shifted-to-hospital-11938746#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Khan has been imprisoned since August 2023. He says the cases against him are politically motivated, an accusation the government denies.",
+            "published": "2026-08-21T11:06:04+05:30"
+          },
+          {
+            "title": "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for ‘logical discrepancy’",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-over-4380-lakh-voters-to-get-notice-over-20-lakh-flagged-for-logical-discrepancy/article71369088.ece",
+            "source": "The Hindu",
+            "summary": "Notices will be served to 23.45 lakh people who could not find their own or their parents’ details in the 2002 electoral roll",
+            "published": "2026-08-21T11:05:00+05:30"
+          },
+          {
+            "title": "In 2016, Burt's Bees co-founder gave US 87,500 acres; now it's a monument",
+            "link": "https://timesofindia.indiatimes.com/world/us/in-2016-the-burts-bees-co-founder-gave-the-us-87500-acres-and-backed-it-with-40-million-10-years-later-the-maine-wilderness-is-a-national-monument/articleshow/133393193.cms",
+            "source": "Times of India",
+            "summary": "Roxanne Quimby, the visionary behind Burt's Bees, initially embraced a life of artistic expression and sustainability before venturing into the business world. After partnering with Burt Shavitz, they created a beloved range of beeswax products. Motivated by her love for nature, Quimby invested her earnings into the conservation of Maine's forests, acquiring extensive land despite pushback from logging interests.",
+            "published": "2026-08-21T10:58:00+05:30"
+          },
+          {
             "title": "Why are close to 1.08 crore voters staring at mass exclusion? | Decode Karnataka",
             "link": "https://www.thehindu.com/videos/shows/why-are-close-to-108-crore-voters-staring-at-mass-exclusion-decode-karnataka/article71372307.ece",
             "source": "The Hindu",
@@ -113,84 +183,21 @@
             "published": "2026-08-21T10:54:25+05:30"
           },
           {
-            "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
-            "link": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece",
-            "source": "The Hindu",
-            "summary": "The State government was informed of the denial of permission for the U.S. visit after the official delegation had already reached the U.K.",
-            "published": "2026-08-21T10:54:07+05:30"
-          },
-          {
             "title": "Student well-being in India declines sharply through senior school years, finds study",
             "link": "https://www.thehindu.com/education/student-well-being-in-india-declines-sharply-through-senior-school-years-finds-study/article71370262.ece",
             "source": "The Hindu",
             "summary": "According to the findings of the study, sleep declined steadily and sharply as students moved into higher grades; the grade-level trend showed a deterioration in sleep as academic pressure increased.",
             "published": "2026-08-21T10:51:20+05:30"
-          },
-          {
-            "title": "'I won't say no': CSK legend considers England batting coach role",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-not-say-no-csk-legend-considers-england-batting-coach-role-for-ashes/articleshow/133393141.cms",
-            "source": "Times of India",
-            "summary": "\"There is a lot of different things to consider. My short answer is I would not say no to anything really,\" Hussey told Fox Sports News.",
-            "published": "2026-08-21T10:47:44+05:30"
-          },
-          {
-            "title": "Centre denies permission to Revanth Reddy for US visit, his office claims",
-            "link": "https://www.hindustantimes.com/india-news/centre-denies-permission-to-revanth-reddy-for-us-visit-his-office-claims-telangana-cm-101787289126033.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-08-21T10:44:23+05:30"
-          },
-          {
-            "title": "Jharkhand examination irregularities: SC to hear plea for CBI probe on Monday",
-            "link": "https://www.hindustantimes.com/india-news/jharkhand-examination-irregularities-sc-to-hear-plea-for-cbi-probe-on-monday-101787289160644.html",
-            "source": "Hindustan Times",
-            "summary": "The plea comes against the backdrop of a 26-day agitation by job aspirants in Jharkhand over alleged irregularities in recruitment examinations",
-            "published": "2026-08-21T10:42:40+05:30"
-          },
-          {
-            "title": "SIM card rules 2026: What changes from Aug 24 &amp; how many connections can you have",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/sim-card-rules-2026-what-changes-from-august-24-and-how-many-connections-can-you-have/articleshow/133393839.cms",
-            "source": "Times of India",
-            "summary": "Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevention of excess connections are mandated by November thirtieth. This aims to enforce existing limits across all licensed…",
-            "published": "2026-08-21T10:42:04+05:30"
-          },
-          {
-            "title": "Elon Musk pitches Starlink for India, says it would help the ‘least served’",
-            "link": "https://www.hindustantimes.com/india-news/elon-musk-pitches-starlink-for-india-says-it-would-help-the-least-served-101787287538361.html",
-            "source": "Hindustan Times",
-            "summary": "Starlink, the satellite broadband service of SpaceX, aims to provide high-speed internet using a network of thousands of satellites placed in low-Earth orbit.",
-            "published": "2026-08-21T10:41:41+05:30"
-          },
-          {
-            "title": "'Starlink would help the least served in India, especially in rural areas': Elon Musk",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/starlink-would-help-the-least-served-in-india-especially-in-rural-areas-elon-musk/articleshow/133393432.cms",
-            "source": "Times of India",
-            "summary": "Elon Musk supports Starlink's satellite internet for India's underserved rural communities. The service aims to bridge significant connectivity gaps where 4G access remains limited. Starlink's network could reach remote areas, overcoming terrain and infrastructure challenges. The Indian government is developing regulatory frameworks for satellite spectrum allocation. Starlink remains in active discussions with the…",
-            "published": "2026-08-21T10:38:38+05:30"
-          },
-          {
-            "title": "Rupee continues to rally, opens 9 paise stronger against US dollar",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-rally-opens-9-paise-stronger-against-us-dollar/articleshow/133393360.cms",
-            "source": "Times of India",
-            "summary": "On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to result in significant rupee gains. Additionally, domestic equities began trading on a slightly weaker note.",
-            "published": "2026-08-21T10:36:47+05:30"
-          },
-          {
-            "title": "Sajjan Kumar, convicted for role in 1984 riots , dies",
-            "link": "https://www.hindustantimes.com/india-news/conress-mp-sajjan-kumar-convicted-for-role-in-84-riots-dies-anti-sikh-riots-101787287869238.html",
-            "source": "Hindustan Times",
-            "summary": "He was serving life imprisonment for his role in the violence, which resulted in the deaths of many Sikhs. His controversies plagued his political career.",
-            "published": "2026-08-21T10:35:32+05:30"
-          },
-          {
-            "title": "TTD tests AI-powered robotic dog for wildlife monitoring, devotees safety",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-tests-ai-powered-robotic-dog-for-wildlife-monitoring-devotees-safety/article71370123.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-21T10:35:18+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+            "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+            "published": "2026-08-21T05:47:32+00:00"
+          },
           {
             "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
             "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
@@ -225,13 +232,6 @@
             "source": "Al Jazeera",
             "summary": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
             "published": "2026-08-21T03:08:09+00:00"
-          },
-          {
-            "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-            "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-            "published": "2026-08-21T02:59:46+00:00"
           },
           {
             "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -368,87 +368,101 @@
             "link": "https://www.cricinfo.com/ci/content/story/1550848.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Bangladesh did the unthinkable in Darwin, and will have to do it all over again if they want to convert the Test match win to a Test series win",
-            "published": "2026-08-21T05:24:38+00:00"
-          },
-          {
-            "title": "Renshaw locked in to open as Lyon survives selection call",
-            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Jake Weatherald, who had opened with Travis Head in the first Test against Bangladesh, was dropped from the squad prior to the second Test, which starts on Saturday in Mackay",
-            "published": "2026-08-21T05:19:56+00:00"
-          },
-          {
-            "title": "Shadab leads Falcons past Patriots to fourth place on the table",
-            "link": "https://www.cricinfo.com/ci/content/story/1550835.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Dasun Shanaka gave Patriots a boost by slamming 49* in 17 balls but the slow progress by their other batters hurt them",
-            "published": "2026-08-21T04:36:25+00:00"
-          },
-          {
-            "title": "India Cricketer, Who Played 10 ODIs, Acquitted In 22-Year-Old Criminal Case",
-            "link": "https://sports.ndtv.com/cricket/india-cricketer-jacob-martin-who-played-10-odis-acquitted-in-22-year-old-criminal-case-11938739#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former Indian cricketer and Vadodara resident Jacob Martin has been acquitted of all charges by the Patiala House Court in a 22-year-old criminal case which stemmed from a 2004 FIR.",
-            "published": "2026-08-21T09:40:43+05:30"
-          },
-          {
-            "title": "India To Face Spin-Friendly Pitch In Colombo Test Against Sri Lanka? Report Reveals Big Details",
-            "link": "https://sports.ndtv.com/cricket/india-to-face-spin-friendly-pitch-in-colombo-test-against-sri-lanka-report-reveals-big-details-11937129#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The temptation to produce a dustbowl to exploit Indian batters' discomfort against spin might be running high, but the Sinhalese Sports Club for the second Test might just feature a track similar to the one at Galle.",
-            "published": "2026-08-21T09:17:13+05:30"
-          },
-          {
-            "title": "'Pass On The Weed': South Africa Great Mocked For Stunning Sachin Tendulkar-Virat Kohli Comparison",
-            "link": "https://sports.ndtv.com/cricket/pass-on-the-weed-south-africa-great-mocked-for-stunning-sachin-tendulkar-virat-kohli-comparison-11938749#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former Indian cricket team fast bowler Dodda Ganesh mocked South Africa great AB de Villiers for his recent comments on Virat Kohli and Sachin Tendulkar.",
-            "published": "2026-08-21T09:07:25+05:30"
-          },
-          {
-            "title": "Lionel Messi, Cristiano Ronaldo Jerseys Go Head-To-Head In Auction. Here's What Happened Next",
-            "link": "https://sports.ndtv.com/football/lionel-messi-cristiano-ronaldo-jerseys-go-head-to-head-in-auction-one-sells-for-6-times-more-11938679#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "A Lionel Messi jersey from his FC Barcelona days was sold for 66,107 Dollars as it massively exceeded the price paid for a Cristiano Ronaldo jersey from the same collection.",
-            "published": "2026-08-21T09:07:03+05:30"
-          },
-          {
-            "title": "\"I Look Back Shamefully\": England Star Makes Massive Admission On 4-1 Ashes Humiliation, Reveals Turning Point",
-            "link": "https://sports.ndtv.com/cricket/i-look-back-shamefully-england-star-makes-massive-admission-on-4-1-ashes-humiliation-reveals-turning-point-11937365#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Fast bowler Mark Wood said he looks back on his performance in England's dismal Ashes campaign in Australia with shame,' adding that the tourists should have won the opening Test in Perth before their tour unravelled both on and off the field.",
-            "published": "2026-08-21T07:41:33+05:30"
-          },
-          {
-            "title": "Gautam Gambhir Sent Huge Warning Despite Galle Test Win: 'Give Them Time'",
-            "link": "https://sports.ndtv.com/cricket/gautam-gambhir-sent-huge-warning-despite-galle-test-win-give-them-time-11934939#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The former India cricketer also urged the BCCI to organise preparatory camps, saying they would allow players and coaches to spend more time together before the start of a series.",
-            "published": "2026-08-21T07:29:19+05:30"
-          },
-          {
-            "title": "Vaibhav Sooryavanshi In, Big Names Dropped From India's 2027 World Cup Team? Ex-CSK Star Drops \"Bomb Squad\"",
-            "link": "https://sports.ndtv.com/cricket/vaibhav-sooryavanshi-in-big-names-dropped-from-indias-2027-world-cup-team-ex-csk-star-drops-bomb-squad-11938059#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former Chennai Super Kings (CSK) and Kolkata Knight Riders (KKR) star Robin Uthappa made a number of bold calls in his India squad for the 2027 ODI World Cup.",
-            "published": "2026-08-21T07:25:09+05:30"
-          },
-          {
-            "title": "Usman rues Pakistan bowling lapses despite five-wicket haul",
-            "link": "https://www.cricinfo.com/ci/content/story/1550824.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Spinner believes team must be positive with the bat when second innings comes about",
-            "published": "2026-08-20T21:58:36+00:00"
+            "published": "2026-08-21T05:58:21+00:00"
           },
           {
             "title": "Imran Khan moved to private hospital amid deteriorating health",
             "link": "https://www.cricinfo.com/ci/content/story/1550825.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Former Pakistan prime minister and cricket captain has been serving extended prison sentences",
-            "published": "2026-08-20T21:52:32+00:00"
+            "published": "2026-08-21T05:51:44+00:00"
+          },
+          {
+            "title": "Lyon survives selection call as Renshaw locked in to open",
+            "link": "https://www.cricinfo.com/ci/content/story/1550834.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Jake Weatherald, who had opened with Travis Head in the first Test against Bangladesh, was dropped from the squad prior to the second Test, which starts on Saturday in Mackay",
+            "published": "2026-08-21T05:42:13+00:00"
+          },
+          {
+            "title": "Carlos Alcaraz Set To Return From Wrist Injury And Defend US Open Title",
+            "link": "https://sports.ndtv.com/tennis/carlos-alcaraz-set-to-return-from-wrist-injury-and-defend-us-open-title-11938117#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Carlos Alcaraz is ready to return from injury to defend his U.S. Open title. \"Here we go,\" Alcaraz posted on his social media pages Thursday, with one picture showing him in front of the U.S. Open logo.",
+            "published": "2026-08-21T10:57:45+05:30"
+          },
+          {
+            "title": "Harry Brook Makes Pakistan Pay For Drop As England Dominate First Test",
+            "link": "https://sports.ndtv.com/cricket/harry-brook-makes-pakistan-pay-for-drop-as-england-dominate-first-test-11938173#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Harry Brook punished Pakistan for dropping him at the start of his innings Thursday with a quickfire 91 that strengthened England's grip on the first Test at Headingley.",
+            "published": "2026-08-21T10:54:03+05:30"
+          },
+          {
+            "title": "Barcelona Enter New Era As Hansi Flick Targets La Liga Hat-Trick",
+            "link": "https://sports.ndtv.com/football/barcelona-enter-new-era-as-hansi-flick-targets-la-liga-hat-trick-11938502#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Hansi Flick's second season at Barcelona built on the success of his first, with the German coach guiding the Catalan giants to a second straight La Liga title.",
+            "published": "2026-08-21T10:48:31+05:30"
+          },
+          {
+            "title": "England vs Pakistan, 1st Test Day 2 Highlights: England Take 195-Run Lead",
+            "link": "https://sports.ndtv.com/cricket/england-vs-pakistan-1st-test-day-2-live-score-updates-11934984#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "England vs Pakistan, 1st Test Day 2, Highlights: Harry Brook (91) top-scored for England against Pakistan as the side took a 195-run lead at Stumps on Day 2 of the first Test at Headingley",
+            "published": "2026-08-21T10:47:08+05:30"
+          },
+          {
+            "title": "Inside Borussia Dortmund's Signal Iduna Park: 100,000 Litres Of Beer, A Prison And The Yellow Wall",
+            "link": "https://sports.ndtv.com/football/inside-borussia-dortmunds-signal-iduna-park-100-000-litres-of-beer-a-prison-and-the-yellow-wall-11935810#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "During NDTV's trip to Germany for the Franz Beckenbauer Super Cup, some fascinating stories emerged from the venue of the match, Signal Iduna Park.",
+            "published": "2026-08-21T10:43:51+05:30"
+          },
+          {
+            "title": "Bangladesh Coach Phil Simmons Wary Of Australia Backlash In Second Test",
+            "link": "https://sports.ndtv.com/cricket/bangladesh-coach-phil-simmons-wary-of-australia-backlash-in-second-test-11938652#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Bangladesh coach Phil Simmons has warned his players that Australia will come at them \"harder\" in the second Test at Mackay on Saturday after his side's shock win in the opening match.",
+            "published": "2026-08-21T10:41:25+05:30"
+          },
+          {
+            "title": "Mike Hussey In England Camp For Ashes? Australian Great Drops Big Hint",
+            "link": "https://sports.ndtv.com/cricket/mike-hussey-in-england-camp-for-the-ashes-australian-great-drops-big-hint-11938809#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Australian great Mike Hussey could face his own country in the Ashes after saying Friday he was open to joining England as their Test batting coach.",
+            "published": "2026-08-21T10:37:03+05:30"
+          },
+          {
+            "title": "Arjun Tendulkar Takes Key Career Decision. Report Reveals Major Details",
+            "link": "https://sports.ndtv.com/cricket/arjun-tendulkar-takes-key-career-decision-report-reveals-major-details-11939053#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Arjun Tendulkar, son of legendary Indian cricket team batter Sachin Tendulkar, will continue to play for Goa in domestic cricket amid speculations over his future, according to a report.",
+            "published": "2026-08-21T10:29:09+05:30"
+          },
+          {
+            "title": "Iga Swiatek Enters Cincinnati Semi-Finals After Elena Rybakina Injury",
+            "link": "https://sports.ndtv.com/tennis/iga-swiatek-enters-cincinnati-semi-finals-after-elena-rybakina-injury-11938634#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Iga Swiatek moved into the semi-finals of the ATP-WTA Cincinnati Masters as Elena Rybakina was forced to retire with a heel injury less than half an hour into their clash Thursday.",
+            "published": "2026-08-21T10:23:09+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Nothing to Unveil Android 17-Based Nothing OS 5.0 Next Week: Expected Features",
+            "link": "https://www.gadgets360.com/mobiles/news/nothing-os-5-launch-date-announced-android-17-upgrades-features-design-11939018",
+            "source": "Gadgets 360",
+            "summary": "Nothing has announced that it will unveil the Android 17-based Nothing OS 5.0 version on August 25 at 11:00 am BST (3:30 pm IST). While the video teaser does not reveal any details about the upcoming major firmware update, it does hint at a few design changes, including new icons and widgets. The Nothing OS 5.0 will be based on the latest Android 17 update, which means it could bring new features as part of the OS…",
+            "published": "2026-08-21T10:18:41+05:30"
+          },
+          {
+            "title": "Waiting for iPhone 18? Launch Could Be Months Away as Apple Splits its iPhone Releases",
+            "link": "https://www.gadgets360.com/mobiles/news/iphone-18-launch-timeline-september-event-apple-11938961",
+            "source": "Gadgets 360",
+            "summary": "Apple's annual September event is just weeks away. While anticipation has been building for the next-generation iPhones, the rumour mill widely suggests that one of the Cupertino-based tech giant’s most important products could be missing from the showcase. Apple has been rumoured to adopt a staggered launch strategy this year, with only the iPhone 18 Pro models debuting alongside the Ultra. The standard iPhone…",
+            "published": "2026-08-21T10:01:10+05:30"
+          },
           {
             "title": "Android Auto Connection Problem Resolved With the Latest Update, Google Says",
             "link": "https://www.gadgets360.com/auto/news/android-auto-connection-problem-resolved-update-user-complaints-11938827",
@@ -506,7 +520,7 @@
             "published": "2026-08-20T18:23:18+05:30"
           },
           {
-            "title": "Huawei Pura X View Pre-Orders Begin; Confirmed to Feature Wide-Screen 16:9.5 Display, 7,000mAh Battery",
+            "title": "Huawei Pura X View Pre-Orders Begin; Confirmed to Feature Wide-Screen, 7,000mAh Battery",
             "link": "https://www.gadgets360.com/mobiles/news/huawei-pura-x-view-launch-specifications-pre-orders-features-11936296",
             "source": "Gadgets 360",
             "summary": "Huawei Pura X View will go on sale in China on August 28. The company has opened pre-orders for the phone through its Vmall in China on Thursday. The listing shows the phone in Phantom Night Black, Leaping Shadow Red, Linen Grey and Zero Degree White shades (translated from Chinese). It measures 6.68mm in thickness and weighs 201g.",
@@ -518,23 +532,16 @@
             "source": "Gadgets 360",
             "summary": "iQOO's rumoured compact gaming tablet could use Qualcomm's upcoming Snapdragon 8 Elite Gen 6 Pro, according to a new leak. The prototype is also said to include a high-powered fan for active cooling. The chipset could use a 2nm process and support LPDDR6 memory, while earlier reports have linked it to the iQOO 16. The tablet may arrive in the second half of 2026 and could compete with compact gaming models such as…",
             "published": "2026-08-20T18:21:41+05:30"
-          },
-          {
-            "title": "iQOO Buds Review: Budget TWS With Not-So-Budget Sound",
-            "link": "https://www.gadgets360.com/audio/reviews/iqoo-buds-review-11934453",
-            "source": "Gadgets 360",
-            "summary": "The iQOO Buds is the latest addition to the Vivo sub-brand’s TWS lineup in India. Priced under Rs. 2,000, the iQOO Buds offers great value for its cost. While it lacks a few features, it makes up for them by delivering great audio quality for its price range. The long battery life also helps its case in many ways. However, the lack of wear detection does hinder daily use and the overall experience. Overall, it is a…",
-            "published": "2026-08-20T18:00:01+05:30"
-          },
-          {
-            "title": "OnePlus Tipped to Launch a New 4G Phone Exclusively in India Next Month",
-            "link": "https://www.gadgets360.com/mobiles/news/oneplus-4g-phone-india-launch-timeline-tipped-11936021",
-            "source": "Gadgets 360",
-            "summary": "OnePlus is planning to launch a new 4G smartphone in India in September, according to a tipster. The smartphone is said to debut exclusively in India, similar to the tech firm’s latest budget N series. Further, the leaker claims that the upcoming 4G handset could be the smartphone maker’s last product to launch in the country. If this is true, then the next OnePlus phone could be the tech firm’s first 4G handset to…",
-            "published": "2026-08-20T17:20:34+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+            "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+            "published": "2026-08-21T05:30:18+00:00"
+          },
           {
             "title": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
             "link": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Law appeared in films alongside both of her daughters, Dame Emma and Sophie, including 1996's Emma.",
             "published": "2026-08-18T16:10:09+00:00"
-          },
-          {
-            "title": "National Television Awards pick first all-female shortlist for drama acting award",
-            "link": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The five-strong list features Ella Bruccoleri, Sheridan Smith, Ruth Jones, Vicky McClure and Judy Parfitt.",
-            "published": "2026-08-18T11:57:42+00:00"
           }
         ]
       }
@@ -627,18 +627,67 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Price Hike: क्या आप भी खरीदने वाले हैं टाटा की कार? एक सितंबर से पहले जानें ये अपडेट, वरना ढीली होगी जेब",
-            "link": "https://www.amarujala.com/automobiles/tata-motors-increase-car-prices-by-up-25-000-from-september-1-2026-08-21",
-            "source": "Amar Ujala",
+            "title": "साइको पति ने सुहागरात में ही रखी थी शर्त! प्रज्ञा मिश्रा को सब पता था, फिर भी क्यों नहीं बचा पाईं बहन की जान?",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/divya-mishra-death-case-pragya-mishra-statement-manas-bajpai-killed-wife-whatsapp-status-1633369.html",
+            "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-08-21T10:40:27+05:30"
+            "published": "2026-08-21T11:24:12+05:30"
           },
           {
-            "title": "अयोध्या : चंपत राय के पत्र पर नृपेंद्र मिश्रा बोले- मैंने पत्र नहीं देखा, राम मंदिर निर्माण को लेकर दी जानकारी",
-            "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/nripendra-mishra-said-adding-that-60-out-of-the-70-tasks-for-the-ram-mandir-construction-have-been-completed-2026-08-21",
+            "title": "कोलगेट-पामोलिव इंडिया: मनीष आनंदानी नए एमडी और सीईओ, जानें प्रभा नरसिम्हन को मिली क्या जिम्मेदारी",
+            "link": "https://www.amarujala.com/business/business-diary/colgate-palmolive-india-gets-new-md-ceo-prabha-narasimhan-elevated-to-asia-pacific-role-2026-08-21",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-21T10:03:11+05:30"
+            "published": "2026-08-21T11:17:25+05:30"
+          },
+          {
+            "title": "'हिंदू-मुस्लिम सोच से बाहर आओ', शर्मिला टैगोर पर भड़कीं BJP MP कंगना रनौत, 'वंदे मातरम' विवाद में नया ट्विस्ट",
+            "link": "https://hindi.oneindia.com/news/entertainment/kangana-ranaut-slams-sharmila-tagore-bjp-mp-said-getting-over-hindu-muslim-mindset-on-vande-mataram-1633365.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-21T11:13:22+05:30"
+          },
+          {
+            "title": "इथेनॉल के कारण क्या भारत में बढ़ रही है चीनी की क़ीमत",
+            "link": "https://www.bbc.com/hindi/articles/c9d87gy8v5wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-21T05:39:19+00:00"
+          },
+          {
+            "title": "तेलंगाना CM रेड्डी को अमेरिका जाने की परमिशन नहीं मिली:दावा- केंद्र सरकार ने राजनीतिक आधार पर मंजूरी नहीं दी, 23 अगस्त को हैदराबाद लौटेंगे",
+            "link": "https://www.bhaskar.com/g/national/news/telangana-cm-revanth-reddy-usa-visit-denied-approval-update-138790375.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-21T05:31:18+00:00"
+          },
+          {
+            "title": "पंजाब बंद के PHOTOS:हाईवे पर गाड़ियों की कतार; प्रदर्शनकारी बोला- एक दिन घर नहीं टिक सकते; व्यक्ति बोला- मैं डॉक्टर हूं, जाने दो",
+            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/punjab-bandh-kaumi-insaf-morcha-protest-jagtar-hawara-release-photos-138790374.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-21T05:31:05+00:00"
+          },
+          {
+            "title": "Lausanne Diamond League: भारतीय समयानुसार कितने बजे से होगा नीरज चोपड़ा का मैच? जानें कौन-कौन दिग्गज आएंगे नजर",
+            "link": "https://www.amarujala.com/sports/neeraj-chopra-in-action-at-lausanne-diamond-league-live-streaming-details-where-to-watch-match-and-updates-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T10:54:20+05:30"
+          },
+          {
+            "title": "कोर्ट परिसर में हत्या: जैसे ही पानू गेट की तरफ बढ़ा, बरसा दी गईं गोलियां, बदमाशों ने यूं दिया वारदात को अंजाम",
+            "link": "https://www.amarujala.com/haryana/hisar/murder-in-court-premises-as-panu-moved-towards-gate-bullets-were-fired-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T10:50:28+05:30"
+          },
+          {
+            "title": "'दो हफ्ते में परमाणु बम बना लेता ईरान': ट्रंप का तेहरान हमलों पर बड़ा दावा, होर्मुज पर कब्जे को लेकर क्या कहा?",
+            "link": "https://www.amarujala.com/world/donald-trump-on-iran-strategic-waterways-nuclear-weapons-us-take-full-control-of-straits-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T10:30:01+05:30"
           },
           {
             "title": "Shweta Tiwari को लोगों ने क्यों दी गालियां? ऑनलाइन किया जा रहा बेइज्जत, राज ठाकरे से एक्ट्रेस ने किया ऐसा सवाल",
@@ -655,63 +704,21 @@
             "published": "2026-08-21T09:52:28+05:30"
           },
           {
-            "title": "न्यूयॉर्क कैपिटल-टाइम्स स्क्वायर उड़ाने की थी साजिश: US ने नाकाम किया ISIS का बड़ा हमला, आरोपी महिला गिरफ्तार",
-            "link": "https://www.amarujala.com/world/plot-to-attack-times-square-from-new-york-thwarted-isis-supporting-woman-arrested-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T09:41:12+05:30"
-          },
-          {
-            "title": "SIM Rules: अब मनमाने सिम नहीं ले पाएंगे! 24 अगस्त से लागू होंगे नए नियम, जानिए कितने नंबर रख सकते हैं आप",
-            "link": "https://www.amarujala.com/technology/tech-diary/new-sim-card-rules-limites-users-to-maximum-9-sim-connections-dot-rules-effective-24-august-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T09:25:43+05:30"
-          },
-          {
             "title": "Kangana Ranaut: शर्मिला टैगोर के वंदे मातरम वाले बयान पर क्या बोलीं कंगना? गले लगने वाली बात का किया जिक्र",
             "link": "https://www.amarujala.com/entertainment/bollywood/kangana-ranaut-reacts-on-sharmila-tagores-vande-mataram-comment-says-come-out-of-the-religious-mentality-2026-08-21",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-21T09:24:06+05:30"
-          },
-          {
-            "title": "दिल्ली-NCR में तेजी से फैल रहा H1N1 स्वाइन फ्लू, अस्पतालों की OPD में बढ़े मरीज, कैसे करें बचाव?",
-            "link": "https://hindi.oneindia.com/news/delhi/h1n1-swine-flu-cases-rising-in-delhi-ncr-hospitals-opd-symptoms-and-prevention-tips-1633341.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-21T09:13:31+05:30"
-          },
-          {
-            "title": "IND vs SL: दूसरे टेस्ट से पहले श्रीलंका ने खेला बड़ा दांव, 145 रन ठोकने वाले खिलाड़ी की टीम में एंट्री",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/ind-vs-sl-sri-lanka-add-two-new-faces-to-squad-for-2nd-test-145-run-star-gets-chance-1633285.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-21T09:10:14+05:30"
-          },
-          {
-            "title": "वंदे मातरम को लेकर रवींद्रनाथ टैगोर की क्या राय थी, उन्होंने कांग्रेस से क्या कहा था?",
-            "link": "https://www.bbc.com/hindi/articles/cx25x0zk08eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-21T03:27:40+00:00"
-          },
-          {
-            "title": "जांच के बाद जेल भेजे गए इमरान खान: छह डॉक्टरों की टीम ने किया चेकअप; नौ महीने बाद पत्नी और बहन से हुई मुलाकात",
-            "link": "https://www.amarujala.com/world/pakistan-ex-pm-pti-founder-imran-khan-shifted-to-jail-from-shifa-international-hospital-islamabad-know-update-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T08:47:34+05:30"
-          },
-          {
-            "title": "लॉरेंस बिश्नोई गैंग का कमल कौन? जिसकी तलाश में जुटी अमेरिकी FBI, क्या है आरोप",
-            "link": "https://hindi.oneindia.com/news/international/who-is-kamal-lawrence-bishnoi-gang-member-fbi-lookout-notice-extortion-charges-news-hindi-1633339.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-21T08:39:10+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "'हिंदू-मुस्लिम सोच से बाहर आओ', शर्मिला टैगोर पर भड़कीं BJP MP कंगना रनौत, 'वंदे मातरम' विवाद में नया ट्विस्ट",
+            "link": "https://hindi.oneindia.com/news/entertainment/kangana-ranaut-slams-sharmila-tagore-bjp-mp-said-getting-over-hindu-muslim-mindset-on-vande-mataram-1633365.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-21T11:13:22+05:30"
+          },
           {
             "title": "Shweta Tiwari को लोगों ने क्यों दी गालियां? ऑनलाइन किया जा रहा बेइज्जत, राज ठाकरे से एक्ट्रेस ने किया ऐसा सवाल",
             "link": "https://hindi.oneindia.com/news/entertainment/shweta-tiwari-why-people-abuse-her-she-insulted-online-actress-asked-raj-thackeray-this-question-1633355.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-19T16:23:43+05:30"
-          },
-          {
-            "title": "'MMS कांड' वाली Anjali Arora बनीं माता सीता, बौखलाए लोग, टीजर देख 26 साल की लड़की के कैरेक्टर पर उठाया सवाल",
-            "link": "https://hindi.oneindia.com/news/entertainment/anjali-arora-mms-scandal-plays-sita-people-shocked-watching-teaser-question-raised-on-26-age-girl-1632039.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-19T15:16:01+05:30"
           }
         ]
       }
@@ -803,6 +803,20 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "તેલંગાણાના CM રેડ્ડીને અમેરિકા જવાની મંજૂરી ન મળી:કેન્દ્ર સરકારે રાજકીય આધાર પર મંજૂરી આપી ન હોવાનો દાવો, 23 ઓગસ્ટે હૈદરાબાદ પરત ફરશે",
+            "link": "https://www.divyabhaskar.co.in/national/news/telangana-cm-revanth-reddy-usa-visit-denied-central-government-138790510.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-21T05:56:58+00:00"
+          },
+          {
+            "title": "ગુજરાતના આ ગામે 5-10 રૂપિયામાં મળતા નાસ્તાનાં તૈયાર પડીકાં પર પ્રતિબંધ મૂક્યો, પૅકેજ્ડ ફૂડ બાળકો માટે કેટલું હાનિકારક",
+            "link": "https://www.bbc.com/gujarati/articles/cp3rg0w9127o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-21T05:47:09+00:00"
+          },
           {
             "title": "1 કરોડ આપ તો જ ડિવોર્સ પેપર પર સહી થશે:લખનઉ દિવ્યા મિશ્રા મર્ડર કેસમાં નવો ટ્વિસ્ટ, 2018માં લગ્ન, છૂટાછેડા માટે દિવ્યા 1 કરોડ માંગતી, તણાવમાં રહેતા પતિએ પતાવી દીધી",
             "link": "https://www.divyabhaskar.co.in/national/news/lucknow-divya-mishra-murder-case-divorce-money-demand-video-138790273.html",
@@ -839,7 +853,7 @@
             "published": "2026-08-21T04:44:46+00:00"
           },
           {
-            "title": "કૌમી ઇન્સાફ મોરચાનો પંજાબ બંધ:ખરડ-ચંદીગઢ હાઈવે બંધ કરાયો, અમૃતસરમાં બસો બંધ; સ્કૂલોમાં રજા",
+            "title": "શીખોની મુક્તિ માટે પંજાબ બંધ:તમામ પ્રાઈવેટ સ્કૂલોમાં રજા, મોહાલીમાં હાઈવે જામ, લુધિયાણામાં નિહંગ જામ કરવા પહોંચ્યા; જલંધર બસ સ્ટેન્ડ પર મુસાફરો ફસાયા",
             "link": "https://www.divyabhaskar.co.in/national/news/punjab-bandh-kaumi-insaf-morcha-kharrar-chandigarh-highway-blockade-138789714.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-20T23:30:00+00:00"
-          },
-          {
-            "title": "પીએમ મોદીની કેન્દ્રીય સચિવો સાથે બેઠક:કહ્યું- યુવાનો સાથે જોડાઓ, જેથી નીતિઓ બનાવવામાં નવા વિચારો મળી શકે",
-            "link": "https://www.divyabhaskar.co.in/national/news/pm-modi-meets-secretaries-youth-engagement-policy-ideas-delhi-138788482.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-20T21:00:09+00:00"
-          },
-          {
-            "title": "\"આ દવા વિના હું ઘરની બહાર નથી નીકળી શકતી\", Gen-Zમાં દારૂને બદલે દવાઓની લત કેમ વધી રહી છે?",
-            "link": "https://www.bbc.com/gujarati/articles/ce97lv93nl0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-20T16:01:23+00:00"
           }
         ]
       }
@@ -895,7 +895,7 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "'பள்ளி முதல்வரை திட்டமிட்டுக் கொன்ற 10ஆம் வகுப்பு மாணவர்கள்' - ஒரே ஒரு வார்த்தையால் துப்பு துலங்கியது எப்படி?",
+            "title": "'பள்ளி முதல்வரை கொன்ற 10ஆம் வகுப்பு மாணவர்கள்' - ஒரே ஒரு வார்த்தையால் துப்பு துலங்கியது எப்படி?",
             "link": "https://www.bbc.com/tamil/articles/cx2j8x255jlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
             "summary": "",
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "కొండా పై హైకమాండ్ సీరియస్, కఠిన చర్యలు..!?",
+            "link": "https://telugu.oneindia.com/news/telangana/aicc-chances-to-serious-action-against-konda-amid-latest-controversy-and-cm-revanth-serious-502611.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-21T11:21:31+05:30"
+          },
+          {
+            "title": "Margadarsi: మార్గదర్శి అంటే నమ్మకం.. సుప్రీం తీర్పుపై చందాదారుల హర్షం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDIyQ1NjbXh5UWxUVFc3c0ZoaXFHQ1cya2VhZGswRGw5eUQzcW14VWxKR2xRZW9CSUtDS19USVJyLVZFcFhoLTJ5V1RwZWdIOG54YU5BWjdWdkNRTHBRanQ3LWNpRHJ4MlRtT1plU1NHdUt0bDVNNHNzR2RyYnhuSFJ5aWhrd0NESUxUVjdxMHUzeUw1WjdNTnBMbmpaOFYxbGR1MWc1eEpnSFZaREhRaUtXUS03dw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T05:49:32+00:00"
+          },
+          {
+            "title": "జిన్నా అనారోగ్యం గురించి ముందే తెలిస్తే భారత విభజన ఆగిపోయేదా? ఆ జబ్బు రహస్యాన్ని దాచిన వైద్యులు ఎవరు?",
+            "link": "https://www.bbc.com/telugu/articles/cx2m885n1gno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-21T05:43:22+00:00"
+          },
+          {
             "title": "ఇందిరమ్మ ఇళ్ళ లబ్దిదారులకు తీపికబురు.. చివరవిడత డబ్బుల జమ అప్పుడే!",
             "link": "https://telugu.oneindia.com/news/telangana/indiramma-houses-final-installment-for-indiramma-housing-scheme-beneficiaries-preparations-underway-502607.html",
             "source": "Oneindia Telugu",
@@ -1084,6 +1105,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-21T10:50:17+05:30"
+          },
+          {
+            "title": "PV Sindhu: వాంగ్ తీరుపై సింధు అసంతృప్తి.. రూల్స్ ఏం చెబుతున్నాయంటే? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2ZZd2NfR1RYWmRCVWJQcnNUZXVMOEJ3MFZ5RzVrcXhETUxmemNPYXVXb1lkeEVPbEppQWdDVHhpb0YwbGFUTENtZXhQVW5MdDBndXNtZ0ZlLUFkSk96SjBCNHZuWExhakItN1JxdjIyUGlibEZNb1lSRXVxTHo1Y0lRQ2s0UUotUDM2cUx3UnJwYW9kSExnWmIwdjV5VnlqYWVEN2J1azNRWEJkUTZsUllPR04?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T05:19:43+00:00"
           },
           {
             "title": "Odisha: వరదలో చిక్కుకున్న వృద్ధురాలిని మోసుకెళ్లిన ఆశా వర్కర్‌ - Eenadu",
@@ -1126,34 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-21T04:40:38+00:00"
-          },
-          {
-            "title": "కాంగ్రెస్ కోర్ టీం లోకి జగన్ విధేయ అధికారి- ఎన్నికల బరిలోకి..!!",
-            "link": "https://telugu.oneindia.com/news/india/ias-praveen-prakash-all-set-to-contest-in-uttara-pradesh-elections-from-congress-party-here-the-det-502597.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T10:08:10+05:30"
-          },
-          {
-            "title": "మారుతున్న పవన్ 'స్థానిక' రాజకీయం - పొత్తుల లెక్కల్లో కొత్త ఫార్ములా..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/janasena-chief-pawan-kalyan-changes-strategy-for-local-body-elections-moving-with-the-new-sketch-502593.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-21T09:48:31+05:30"
-          },
-          {
-            "title": "‘ఇరుముడి’.. థియేటర్‌లలో అభిమానుల హారతులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHBRelhDaXFQRTVaRTVaSkg3bHlYUEQ4LXliTlEzV3kyYlA3Y1RlOC13aEpzeDg5eTY2VGJYdGlSY2I2SWFHcGpfd3l5ZVM4VjVldlQ2dlR1czlKY0RGd2c0VDFrelVybmFyWlU2WlBfMzVQenltVy1ZckRVUkp0aE9qa1FLTUZuMUE2aGVYSVhvcjJZQjdxOC01Vk84cVpvb016c3plWXI?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-21T04:17:59+00:00"
-          },
-          {
-            "title": "Varalakshmi Vratam: తెలుగు రాష్ట్రాల్లో ‘శ్రావణ’శోభ.. ఫొటోలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTM4WTJlbmhudGtYUDZJNzdWODVxUnFFdWlGRm10eUJHRW1KWUY1ZFNSRmt1WkNZVEM4Z09uUDc5dXAxY1VqZWtlemZuX09SNmljSkNINllUT05MS0FQMXNNb2tTLTlPNkVWUFdPWXVJV3NrRVU3MTcybDc1MEdWSXVXM1JqdVRSZ1VoSg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-21T04:17:28+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "তিন ব্যাটার নেই, তাই আর স্পিন সহায়ক পিচ নয়, ভারতের বিরুদ্ধে দ্বিতীয় টেস্টে নিরাপদ ২২ গজ চায় শ্রীলঙ্কা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTjQ3UVloMEJnNkdtemxuUEcwX1FmbDlEX1VoV2w2X0VSdmJ2V3J1eXNkWUZ5MjkwTWJBeWNzRHVwRlFKN3lDWkxXMkdJTnJrTmpvQlhkcWhzeTFqTlB1OW4tUkZRdkJCaTgzM21QbUlYSll3QWZtODZ3TmdFSXQxd1VtbzJScHVteGdNNk0zZklBbENtZm9KMGFaNk9VTGg1ZXhTd2NOLV9ZX2pUYUJwOF82UnFLM1NUS2JXQmF1aG94LXNtQTU5QnFhTDNhWTVOXzNKejBXQXNxTmc1aUlpYVJ6dGtDTV9CQUE2a0d4d9IB7wFBVV95cUxNTjQ3UVloMEJnNkdtemxuUEcwX1FmbDlEX1VoV2w2X0VSdmJ2V3J1eXNkWUZ5MjkwTWJBeWNzRHVwRlFKN3lDWkxXMkdJTnJrTmpvQlhkcWhzeTFqTlB1OW4tUkZRdkJCaTgzM21QbUlYSll3QWZtODZ3TmdFSXQxd1VtbzJScHVteGdNNk0zZklBbENtZm9KMGFaNk9VTGg1ZXhTd2NOLV9ZX2pUYUJwOF82UnFLM1NUS2JXQmF1aG94LXNtQTU5QnFhTDNhWTVOXzNKejBXQXNxTmc1aUlpYVJ6dGtDTV9CQUE2a0d4dw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T05:55:18+00:00"
+          },
+          {
+            "title": "সাংসদ-পুত্রের বিলাসবহুল গাড়ি পিষে দিয়ে চলে গেল তরুণীকে! হায়দরাবাদের ঘটনায় অভিযুক্ত এখনও অধরাই, কী বলল পুলিশ? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDNBTjZheWJWbkNPOGgxcTF4UGN6aDBJOFpjZkloNHVyMHBqTVlNSktsMFRNVUZ6MmpYS2lCUi1HSlRKZW5uRFFHaWV4U2JCQ2xMcFRmNG5PWTNHb2QzSGFzemp0azU3eV9QRnA4ZmxOdk5pc0lMTU9NdGlwbFZBaUtRblg1Q2tOd1RqVjM1d2RVZnRVcWNIZkNCZFVINENTckdlZ2FReHhxOXlSUXZCaUgtVdIBswFBVV95cUxQVDNBTjZheWJWbkNPOGgxcTF4UGN6aDBJOFpjZkloNHVyMHBqTVlNSktsMFRNVUZ6MmpYS2lCUi1HSlRKZW5uRFFHaWV4U2JCQ2xMcFRmNG5PWTNHb2QzSGFzemp0azU3eV9QRnA4ZmxOdk5pc0lMTU9NdGlwbFZBaUtRblg1Q2tOd1RqVjM1d2RVZnRVcWNIZkNCZFVINENTckdlZ2FReHhxOXlSUXZCaUgtVQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T05:41:13+00:00"
+          },
+          {
+            "title": "কাজিরাঙা জাতীয় উদ্যানের বাফার জ়োন সঙ্কোচনে বিতর্ক কেন? ক্ষতি কার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTklzT2Y3dnpsWkFreVBuSTBxRGtudFVmWmhTeFpxTVZ2N1FUY2xucmI2MnFDb1ViSTNJWmU4SEV6eklFUzZVUkJSRHVKbUViNDBYd3N0RGJ3VldXa2h2UWZtSk9jQ2thYVM1UW96azRONEJjbGRiSUdlT0UzTi1BTjdfZVFCQUxWb0V6YVEzSHRaUlFVQ2Q5V2JiRnPSAaIBQVVfeXFMTUt6MzRqcHRUWWtNaUNraHJtOFZxcmUxeU5tQ2tlOVBsS0hUQ1hiT3BfMnN1MXBNejZ1bTl2ZjBJRmFydEg3OG4xMlRvbmc1YlZXeWRVWWh4YUpTOVpyNlhUUFV2aUhtRWpnbWU3REZ3eUxKcUxIcENLZTJHS2NLYUU1OFJFUjlRWDd4ck1sd2JaMzBVaEplcDBucHRSRnNNOWVR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-21T04:28:04+00:00"
+          },
+          {
             "title": "হঠাৎ বন্ধ গড়িয়া স্টেশন রোড, তীব্র হয়রানি - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1Y5LXpZWDBfS1VWaG1KaXRYa1lhNDdtWE91LWozUDhGVmNRM25SaDNyRmhWOTA0RXgtN1RjOXJmbWMtVVBtUE44VVBoaUtuUjVtSGZRYzZmdUVmLUF5VEk0T3RDVUhPSUtrcGdraUg3dUMtSFBQZjlXVjdWX1RVRGRRNmdjRndILVVlYjdZZ2l5UUo5TXQtSkl0VnVVeTdv?oc=5",
             "source": "Anandabazar Patrika",
@@ -1476,10 +1497,10 @@
           },
           {
             "title": "শিক্ষক পদের একশো চিকিৎসকের বদলির বিজ্ঞপ্তি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObjNzTU8zUmVmOWJCZGFSVWF3Sjl5RE5LVFd6ZjUxYm84YWhtWW8zZ3hBRGhVdHJyczA3ellEcDNTYmNVOGlJNXJqdHBFVk1lazQtQUFacjBrRF9wTW1LckNLV2Y0RXFOd2ZkeVpXTGZvSEdWMmstZkF2eFJkcmkzdTNnRUFEbFVYZjZlTE52Nk1VenM3aDlsOTNwSWQyc1hZZDIxcml6RQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2tUQmZtTUF6UEkzendNd2pRNExnZkxDQVZDM1JGY0Q4N2JXVXp4VnNLZ1otRk1hYnl5bS14SVpzNENiOEFyX0kwaTBCYlphUXpxVlh6YnFaV190VkV0RTROWk1OazUzUFotZldOa2tfblRYYWdmMlJFNFZ6a3JlT3ZjYjRSc01mWXM5OXhONEk0STBYY2NhaTFvcGZ5NUN0Z0FHSUdJSko0U25s0gGsAUFVX3lxTE9na1RCZm1NQXpQSTN6d013alE0TGdmTENBVkMzUkZjRDg3YldVenhWc0tnWi1GTWFieXltLXhJWnM0Q2I4QXJfSTBpMEJiWmFRenFWWHpicVpXX3RWRXRFNE5aTU5rNTNQWi1mV05ra19uVFhhZ2YyUkU0VnprcmVPdmNiNFJzTWZZczk5eE40STRJMFhjY2FpMW9wZnk1Q3RnQUdJR0lKSjRTbmw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-08-21T02:25:09+00:00"
+            "published": "2026-08-21T02:26:34+00:00"
           },
           {
             "title": "ত্রস্ত বাংলাদেশিরা কেউ বাড়ির পথে, কেউ বা খুঁজছেন অন্য হোটেল - Anandabazar Patrika",
@@ -1487,27 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-21T02:18:32+00:00"
-          },
-          {
-            "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
-            "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-08-21T02:01:34+00:00"
-          },
-          {
-            "title": "শাহের দক্ষিণী বৈঠকের কেন্দ্রে পুনর্বিন্যাস বিলই - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWtnT25TRzctNmtWZnNoTVlycWlrb0kzckg3cmpTMnluSTlPRlk1OUZNZk44dXRWWVlqM2NoUThQU0ZzVHprM05KeVdYQzdYZU5uMFdHLWlnblRGeDFzS1oyQU9NaV9ueHNFY3ozSkpHcmRSc1pjVjhZcUZFT2FTa3NIekZiaDhhd2hXOHplRjhTQW9iVk8tc0xUd3VFVGRYR0YtMDhvS3lwMjdNWUE5Zm9iVzhqdkl6MXNSc3ZWbnNaOFVVM1dvYQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T01:55:03+00:00"
-          },
-          {
-            "title": "সংগঠন সাজাতে কর্মী-মতে জোর, বার্তা পর্যবেক্ষকের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU25WM1ZjWHpRVThnbWljM2JiV2pRZEM5eUhjNW1Gb3phdDFDZ0VGYmlaSUZ3cFViY2hSQV84UHlHazdwVXFDcUYzSjN0SjlrUmVINE8xdlF5YkI3LVlWVDZsOWdZZC16eDFOTmxjc1VMZkFMRW1ES3o1WGNwN0lMQnZ3TjRnS0tWME9jam92enBfOE9wR05YUGh4UkpheTRPWmM0ckNrVVNNUEJER09yRlBEa1ZkUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T01:50:30+00:00"
           }
         ]
       }
