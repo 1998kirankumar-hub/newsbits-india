@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-08-21T23:31:19.690109+00:00",
+  "updated_at": "2026-08-21T23:34:16.269313+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
-          {
-            "title": "US debt tops $40 trillion, Americans left with the bill",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.",
-            "published": "2026-08-21T23:19:48+00:00"
-          },
-          {
-            "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
-            "published": "2026-08-21T23:19:37+00:00"
-          },
           {
             "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
             "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
@@ -102,6 +88,20 @@
             "source": "BBC Business",
             "summary": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
             "published": "2026-08-21T21:27:14+00:00"
+          },
+          {
+            "title": "One killed, three wounded in sword attack at Swedish high school",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
+            "published": "2026-08-21T21:23:35+00:00"
+          },
+          {
+            "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
+            "link": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"Ukraine has imposed sanctions against the producers and distributors of the Russian animated series 'Masha and the Bear',\" Ukrainian Culture Minister Tetyana Berezhna said on X.",
+            "published": "2026-08-22T02:47:34+05:30"
           }
         ],
         "India": [
@@ -192,20 +192,6 @@
         ],
         "World": [
           {
-            "title": "US debt tops $40 trillion, Americans left with the bill",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.",
-            "published": "2026-08-21T23:19:48+00:00"
-          },
-          {
-            "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
-            "published": "2026-08-21T23:19:37+00:00"
-          },
-          {
             "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
             "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
             "source": "Al Jazeera",
@@ -274,6 +260,20 @@
             "source": "Al Jazeera",
             "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
             "published": "2026-08-21T20:27:14+00:00"
+          },
+          {
+            "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
+            "published": "2026-08-21T20:16:59+00:00"
+          },
+          {
+            "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+            "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
+            "published": "2026-08-21T20:07:40+00:00"
           }
         ],
         "Business": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:રાહુલના 6 કલાકના ધરણા, ત્યારે પેલેટગન મામલે FIR; જયપુરમાં CJP પ્રવક્તા પીટાયા; અમદાવાદમાં એનાલોગ પનીર સસ્તા ભાવે વેચવાનું કૌભાંડ",
+            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-ahmedabad-analog-paneer-scam-bhavnagar-latthakand-138795566.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-21T23:30:00+00:00"
+          },
+          {
             "title": "નેશનલ ટીચર્સ એવોર્ડ 2026ની જાહેરાત, 48 નામ:યુપીમાંથી ત્રણ, એમપી-રાજસ્થાન અને બિહારમાંથી બબ્બે શિક્ષકો; 5 સપ્ટેમ્બરે રાષ્ટ્રપતિ પુરસ્કાર આપશે",
             "link": "https://www.divyabhaskar.co.in/national/news/national-teachers-award-2026-winners-list-education-ministry-138797257.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-21T10:31:05+00:00"
-          },
-          {
-            "title": "દિલ્હીમાં સ્વાઈન ફ્લૂના કુલ 1,777 કેસ, નડ્ડાએ બેઠક બોલાવી:ઘણા ડોકટરો પણ ઝપેટમાં, MPમાં મહિલાનું મોત, સ્વાઇન ફ્લૂથી આ સિઝનનું પહેલું મોત",
-            "link": "https://www.divyabhaskar.co.in/national/news/swine-flu-death-indore-madhya-pradesh-health-minister-nadda-meeting-138792150.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-21T09:41:36+00:00"
           }
         ]
       }
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "గౌరవెల్లి ప్రాజెక్టు పూర్తిచేయకుంటే ఓట్లు అడగను: పొన్నం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45TlRFel9kNEk1RFM2bDJDNWJibkc3M284SGcwLUxBS0hORGNKeXBxN1g0a2hwc2hnQU5xbTg2d05yMTMtV0l1NFlrZk9keUhmOUxnaXM4U1VWTVUwWlBjd21rcTJJSzFOckJiY3FRN01ySkc0VnfSAXZBVV95cUxOOU5URXpfZDRJNURTNmwyQzViYm5HNzNvOEhnMC1MQUtITkRjSnlwcTdYNGtocHNoZ0FOcW04NndOcjEzLVdJdTRZa2ZPZHlIZjlMZ2lzOFNVVk1VMFpQY3dta3EySUsxTnJCYmNxUTdNckpHNFZ3?oc=5",
-            "source": "Eenadu",
+            "title": "Video: కొడుకు మారం, తప్పని మరణం.. ఐఫోన్ క్రేజ్ ఎంత పని చేసిందంటే?",
+            "link": "https://telugu.oneindia.com/news/india/tragic-iphone-emi-dispute-in-maharashtra-teen-and-parents-die-after-falling-off-hill-in-sambhajinag-502727.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T23:25:12+00:00"
+            "published": "2026-08-21T23:50:20+05:30"
           },
           {
-            "title": "రూ.125 కోట్ల లావాదేవీలు.. 110 బ్యాంకు ఖాతాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0OTctQUdLdF8zS2EtWGVIVnFnSkx4ckhKN3IxQ3J3S19ESEFLTVdXbzhkUjJ4S2pOQkVHTndjRXdCR2tVbXlxV0FMdUstOV9WZHlQWjJLUmxRSEVycGdpeDlMZXg0LTlKUHVhT3lPZE9jRWdla3fSAXZBVV95cUxQNDk3LUFHS3RfM0thLVhlSFZxZ0pMeHJISjdyMUNyd0tfREhBS01XV284ZFIyeEtqTkJFR053Y0V3QkdrVW15cVdBTHVLLTlfVmR5UFoyS1JsUUhFcnBnaXg5TGV4NC05SlB1YU95T2RPY0VnZWt3?oc=5",
-            "source": "Eenadu",
+            "title": "UGC Roll Back: రిజర్వేషన్ వ్యవస్థలో మార్పుల కోసం ధర్నా",
+            "link": "https://telugu.oneindia.com/news/india/mass-protest-at-jantar-mantar-today-thousands-demand-caste-reservation-reforms-and-ugc-rule-changes-502725.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T23:11:53+00:00"
+            "published": "2026-08-21T22:36:40+05:30"
           },
           {
-            "title": "వసతి గృహాల్లో నిఘా నేత్రాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XNlVFNlVwenl6cmctTFJ3NE1LQTRJeFB5Z0tzWXoxOTlUTkNKMXVfU0hyMVhOUmRXa0h2SGFOcm5rVEpCakxPTFYtcFZ0T09KNzl4dnNLNmlTcC1YZjBRaEhCTWlqYVR0TGdWQWU3U19lZUNxSS1vdw?oc=5",
-            "source": "Eenadu",
+            "title": "ఆక్స్‌ఫర్డ్‌లో సీఎం రేవంత్‌రెడ్డి.. 900 ఏళ్ల ఘనమైన చరిత్ర",
+            "link": "https://telugu.oneindia.com/news/telangana/cm-revanth-reddy-visits-oxford-university-telangana-delegation-focuses-on-global-education-alliance-502723.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T22:35:58+00:00"
+            "published": "2026-08-21T21:35:21+05:30"
           },
           {
-            "title": "Modi: అంతరిక్ష అంకురాలకు తోడ్పాటు ఇస్తాం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW9UQ0l6Z2ZTRl9uaTZKWnkzcS1ic3BGQmRzTGtJcXRyVTdoTk1lamI4YWxMVHQ5QXVwZ0RXWlFyamRqdDc4SDU0NThPbWtadElzNU1iZjZWUU1jYUc5YVdxQkRoczRoem1uVkZwMGppV1lSNkxSY0Nmd0RIQUZHbjNuS2FaQkp4dDNfNW9GR1ppZDTSAZMBQVVfeXFMTy1vVENJemdmU0Zfbmk2Slp5M3EtYnNwRkJkc0xrSXF0clU3aE5NZWpiOGFsTFR0OUF1cGdEV1pRcmpkanQ3OEg1NDU4T21rWnRJczVNYmY2VlFNY2FHOWFXcUJEaHM0aHptblZGcDBqaVdZUjZMUmNDZndESEFGR24zbkthWkJKeHQzXzVvRkdaaWQ0?oc=5",
-            "source": "Eenadu",
+            "title": "SIR పై వైసీపీ ఫీడ్ బ్యాక్ ఇదే- పార్టీ నేతలతో సజ్జల కీలక వ్యాఖ్యలు..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/sajjala-satisfied-with-ap-sir-progress-directs-ysrcp-cadre-to-monitor-duplicate-and-deleted-votes-502721.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T22:20:08+00:00"
+            "published": "2026-08-21T20:49:55+05:30"
           },
           {
-            "title": "‘చైనా వాటా’కు ఆమోదించాక రూ.4896 కోట్ల ఎఫ్‌డీఐ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iZnBtZ25OMTJpN0R0SFFVZjBrTTFrOUpIZ3ZYSE5TUjFPcFVKdjRwWVF2RVk4MldEWXg0TFZ2SnNaNFFtNjZON3ZGdERLS3lGWTN4NmFpWHctZG8zeUJDdUwwX0Q3MWh5enY3OGtHZkFFSXMt0gF0QVVfeXFMTmJmcG1nbk4xMmk3RHRIUVVmMGtNMWs5SkhndlhITlNSMU9wVUp2NHBZUXZFWTgyV0RZeDRMVnZKc1o0UW02Nk43dkZ0REtLeUZZM3g2YWlYdy1kbzN5QkN1TDBfRDcxaHl6djc4a0dmQUVJcy0?oc=5",
-            "source": "Eenadu",
+            "title": "రుతుపవనాలు రివర్స్.. బంగాళాఖాతంలో ఒకేసారి రెండు అల్పపీడనాలు!",
+            "link": "https://telugu.oneindia.com/news/india/imd-heavy-rain-alert-twin-weather-systems-in-bay-of-bengal-to-trigger-fresh-monsoon-spell-in-india-502719.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T22:08:04+00:00"
+            "published": "2026-08-21T20:47:34+05:30"
           },
           {
-            "title": "Hockey World Cup: అమ్మాయిలకు నిరాశ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdW9seTdNSmE5YUdCT2hJOGZzZjhLRVdVdmRRSURDdWhlUWxQc005MC1MNlU0cDB6OEtIM3hYZzlvNHJ0REVvNHY0bm5lZlhpYkhiUnZzTTVBR0tWZWpRYXBmRkR3aVpxcGJCYzF2MWdMLUJWQ05qQU92SURENmtFQjFESHhXV242WDh4WU9veVFYUW9M0gGUAUFVX3lxTE91b2x5N01KYTlhR0JPaEk4ZnNmOEtFV1V2ZFFJREN1aGVRbFBzTTkwLUw2VTRwMHo4S0gzeFhnOW80cnRERW80djRubmVmWGliSGJSdnNNNUFHS1ZlalFhcGZGRHdpWnFwYkJjMXYxZ0wtQlZDTmpBT3ZJREQ2a0VCMURIeFdXbjZYOHhZT295UVhRb0w?oc=5",
-            "source": "Eenadu",
+            "title": "Rayadurgam Land Record: ఎకరా రూ.264 కోట్లు..! హైదరాబాద్ లో సరికొత్త రికార్డు..!",
+            "link": "https://telugu.oneindia.com/news/telangana/hyderabad-rayadurgam-land-set-record-with-264-crore-per-acre-price-502715.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T21:52:15+00:00"
+            "published": "2026-08-21T20:31:07+05:30"
           },
           {
-            "title": "భారత్‌కు డచ్‌ పరీక్ష - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xbHNoazUwUWI5N2JVazZhU3R4YWRtMlNHd1pkZlRhNF9VUHFrY2xKN1BCTl8xemdGbWJRQlpIczBOVWV1bGVoX1k5bUFJaEVwRnRuUzJfRkNnUWxzX250RUh2RHJXM2YxT0NlMG1GaHRXd9IBckFVX3lxTE8xbHNoazUwUWI5N2JVazZhU3R4YWRtMlNHd1pkZlRhNF9VUHFrY2xKN1BCTl8xemdGbWJRQlpIczBOVWV1bGVoX1k5bUFJaEVwRnRuUzJfRkNnUWxzX250RUh2RHJXM2YxT0NlMG1GaHRXdw?oc=5",
-            "source": "Eenadu",
+            "title": "Rahul Gandhi: రాహుల్ దెబ్బకు దిగొచ్చిన కేంద్రం..! ఎట్టకేలకు అడిగింది ఇచ్చి..!",
+            "link": "https://telugu.oneindia.com/news/india/rahul-gandhi-s-police-station-protest-leads-to-fir-in-pellet-gun-case-502717.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T21:51:53+00:00"
+            "published": "2026-08-21T20:23:24+05:30"
           },
           {
-            "title": "నీరజ్‌కు రెండో స్థానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBWVU2cW1ET0EwYzRhYThSQ0tlMjNnSGpIajNxSTZwMWxPLWJPcDVQV0lwRDU5QkFveVFBOVdaRi1DUmRJTDZuLWk3X3dnMjlaZWRZQ2dOTnlFRlcwNVpSQzBsQzNOTUdodFBxd1E3VkJxQdIBckFVX3lxTFBBWVU2cW1ET0EwYzRhYThSQ0tlMjNnSGpIajNxSTZwMWxPLWJPcDVQV0lwRDU5QkFveVFBOVdaRi1DUmRJTDZuLWk3X3dnMjlaZWRZQ2dOTnlFRlcwNVpSQzBsQzNOTUdodFBxd1E3VkJxQQ?oc=5",
-            "source": "Eenadu",
+            "title": "జనసేన ఎంపీ లింగమనేని రమేశ్ కుమారుడి కారు ఢీకొని యువతి మృతి.. పోలీసులు ఏం చెప్పారు? ఎంపీ కొడుకు ఏమంటున్నారు",
+            "link": "https://www.bbc.com/telugu/articles/cn7n0kndn6yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-08-21T21:49:22+00:00"
+            "published": "2026-08-21T14:23:41+00:00"
           },
           {
-            "title": "వేంపాడు యువకుడికి దక్షిణ కొరియా డాక్టరేట్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW40aHdOU0Z5ZVhyUHp0OGZsTFVQSW5fYUpSSEEwSE54T3RXaUpuUTRPbnJWWDZPREhnMXQ4ci1UMW1JUkVtYVMzRnRETFdESU1URVNDRVRHaW85NlRuVkNsMHE3c1l0MU5UVzZzTU5fQkJZSnV6MkZscnpwci0tYTF1NXhJQWlhRlhCckRn?oc=5",
-            "source": "Eenadu",
+            "title": "YS Avinash Reddy డబ్బులు సీజ్! వివేకా హత్య కేసులు ఈడీ బిగ్ షాక్",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ed-raids-ysrcp-mp-avinash-reddy-premises-seizes-unaccounted-cash-bank-locker-keys-in-viveka-murde-502713.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T21:38:34+00:00"
+            "published": "2026-08-21T19:39:27+05:30"
           },
           {
-            "title": "హకీంపేట వద్ద భూగర్భంలో.. మదీనాగూడలో డబుల్‌డెక్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnFMTUpwa1Y3Mm5pc3ptd0xWaGdnOFhHazAtSlVNaTVJVnJkRENSZUh6QkdFcmc3Y0tzbXZNME9ITGVBbnVablE2cUpGWm1GcXFXaXNlb2ZEVlEwWVNNUWQ1TmNGWGRwcExLcHBEM2RmSkN6Nzl3bDNuSFFwUQ?oc=5",
-            "source": "Eenadu",
+            "title": "లింగమనేని కుమారుడి యాక్సిడెంట్ కేసు-షాకింగ్ వీడియో..! తప్పించే యత్నాలు?",
+            "link": "https://telugu.oneindia.com/news/telangana/janasena-mp-son-lingamaneni-sanjush-case-new-video-raises-questions-over-cctv-footage-and-investiga-502711.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T21:05:37+00:00"
+            "published": "2026-08-21T19:11:55+05:30"
           },
           {
-            "title": "బెర్రీ పరిశ్రమలో గ్యాస్‌ లీక్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEVJckVKNmNUeTF5ekp5czdJQVN4SnFMSnFxWHgwM2VpS0tiRGw4SkFHVlE5RkN3LU1ld1FLQkt1TmY5dFYzWEZJWUxKSS1vYXozcGNuNzMzM2RaZXNJX0Y3VXN6dGg2ZUZBQk5WZEhiM21BZFY3cGNFT2tiWDB3TDBiZ0ZSa0VFY3B3?oc=5",
-            "source": "Eenadu",
+            "title": "‘మూడు నెలల పసిబిడ్డతో షూటింగ్‌కు వచ్చారు.. ఫస్ట్‌నైట్ సీన్‌లో నటించి బంధువులకు కొంతకాలం దూరమయ్యారు’",
+            "link": "https://www.bbc.com/telugu/articles/cyvldg375r8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-08-21T20:55:32+00:00"
+            "published": "2026-08-21T13:34:41+00:00"
           },
           {
-            "title": "సజ్జన్‌ కుమార్‌ అంత్యక్రియలు పూర్తి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRDZpYVU5S1lxb0lqRVYtVm5KTy1nTzN2VGdaWVVHaklhSHJldVJQbUIyNzBveUVxWUNsWDg1WG1heTZ3R2N1Q0RJYUdGdzJOUGNGem10N3BGMVYxWXUyMVRyU0YzLWtjcExKVVU1Tkhmc0RoLVF3Xw?oc=5",
-            "source": "Eenadu",
+            "title": "53 ఏళ్ల ఏనుగు విమానమెక్కిన వేళ.. దేశ చరిత్రలోనే తొలిసారి",
+            "link": "https://telugu.oneindia.com/news/india/miraculous-rescue-of-joymoti-53-year-old-injured-elephant-airlifted-to-vantara-for-lifesaving-care-502709.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-08-21T20:13:51+00:00"
+            "published": "2026-08-21T18:56:44+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,48 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "দিল্লির এমসে ভর্তি বিমান বসু! সিপিএম জানাল, রুটিন চেকআপের জন্যই হাসপাতালে বামফ্রন্ট চেয়ারম্যান - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUllKU25mNDgtTGxmRzlUYlM5NzgwQTVZZEJtS3lRWlFia2hWcm5UMlk1Z29QZ0NnUWJZSXc3aVNXRmxfNTQwNXc4SmhDTk8zVDZsTnlCcC03aWNiLU1SY25RMTVUNUl3NDRfdW1XeS0yUFl5a1lMNzFONjZnaTJnMEx5Uk1MN3ZBN2RLM1FfTHctOTZ4MjN5T3N2S3lvZmvSAZ8BQVVfeXFMUFJZSlNuZjQ4LUxsZkc5VGJTOTc4MEE1WWRCbUt5UVpRYmtoVnJuVDJZNWdvUGdDZ1FiWUl3N2lTV0ZsXzU0MDV3OEpoQ05PM1Q2bE55QnAtN2ljYi1NUmNuUTE1VDVJdzQ0X3VtV3ktMlBZeWtZTDcxTjY2Z2kyZzBMeVJNTDd2QTdkSzNRX0x3LTk2eDIzeU9zdkt5b2Zr?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T17:53:11+00:00"
-          },
-          {
-            "title": "অগ্নিকাণ্ডের পরে কর্মচারীর সঙ্গে কথা বলে বন্ধ করে দেন ফোন! নিউ মার্কেটের সেই হোটেলের মালিকের খোঁজে দিঘায় পুলিশ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXl4THFYNHl5clRaYkFobjZNcURCRnlwcEw0QzlvQjlRYXV0ZWd5YkxFY0tNZzlGUVZoU0toSmZGMWZMUUxjOXBHdl9feXZpcU9zOTg0Z3FxUjRlR3hOTnZEWUZzbnhSZ0Q1STNReXlPUHN6a29fMWtxbzBiQjhtME4wX3BTMGpabW1lLUYtdkh2V1FsMGE0MTBlY2t6ejlyazZsLTREV2lvTWJZSjRVNNIBtgFBVV95cUxPdmpFYVYzU2xSV2lZNGpKLVhiODZCOGdfbUloZGI3dEpfaFdwZF9UTk9fNUVhbEZpLUhxbUI5aXJHamZpaUM4R0hfOHJLN2pwRlpxanZocjh5dFRiLTg1U3VleXpreEpIYk5rVkR1YUNPSjhhWExtYnNVdHluQmNEbWdORTF4dVZGTHVVREF0WlVzRzZWMXE3bzNBOU4yWngxQ3gxd0taTHFpU1IxdEhhQXI4WG9zdw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T17:08:29+00:00"
-          },
-          {
-            "title": "কলম্বোয় দ্বিতীয় টেস্টে কুলদীপের খেলা নিয়ে সংশয়, ভারতীয় স্পিনারের সম্ভাবনা নিয়ে মুখ খুললেন বোলিং কোচ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlZTYjRuNUhZOWtSNmRyZmpVcnJkUk5CeXJiX2ZNUnF1MkZGZ3BlelNPNVhHbXoxWWFzR1ItU1I0LTB3ZnhKeWJpSllyQU9zbFByZUFzWUJ1SUJoemdhR1g1WlNhclVocUtMWnNodDI3YVNUSFNLWlRwWUFtNXZNY3lCdFJOZVZZVV9QRXhYSWVqQjZkUFBqVTZRN2taY04zZU1YM0VpanhkUHM0YkQ5MkVBX1d6NDQ2dV9NcldWbHpFdUd2ZHfSAcsBQVVfeXFMTzVqcEdGc1V1NWtyV0NBTUpDNXZFY19XYWpWNEtSYU9zSGMyX1ZHZVFuUGNIRTNtYXJmSUxQc0RGdmlFaFF4TXBlTVN2MkxiTUFuZDVJejVPbjhxMGd4MXhjSVVWSUNiMHhDRVhpa2xJNG1DTERkbkVxQ2tyaU1vLXVFQTJVVFh2cnhoQjJic3BlRV83alYtdkJ5MVJMMml3Vmh3aWtkMldWNDBpbzlBWmdMalZyR1BoYmpXT0FWXzRVZG05aENneTVYZEk?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T16:36:52+00:00"
-          },
-          {
-            "title": "নেতানিয়াহুর বিরুদ্ধে গ্রেফতারি পরোয়ানা জারি তুরস্কের! ইন্টারপোলের কাছে রেড কর্নার নোটিস জারির আর্জিও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2MzMC1uTVhlM0NWV3N2eVVXZWVwWHVXN01XaE81bTBwMDBTZDRCXzY5cWktVE5kM0drTWxUNF9MTDR4U1BjQnNHcDMtTDZtbGphb0RDcGIxeDFVZF9DUlNyTmJGZUd3RWhFT21kbHA3Nm9VenE1SmdOMDFIMzNSZVVJVTVCV1pnLUZSOG9PMDhUU19KQUdEa1lWY3FjVnp6NGpwaWo4Q0tQNWVMRjFXQVlCcDEtZUtydnBfbVptazVKQ2tER3FsWjB4ZGxBcWdjYTNN0gHYAUFVX3lxTE1KTzcxUGtmdUhnbndNbWNUNll2SlNPQ3dKT3JDV2pXcG1qUG85c0Rjb2lxTHF5Rm5WNi05NEFBZW14MEs5SXBtakV1WnZxdTAwQWV1VHgzdlZxcnN4azlsLUx0QVI1a05LQmMtQ1BYQ3B0TWJrNE1ab1FFMHNQdDFyMUxWWEwzYnJCb0oyeW9Eb2FZckFpYllTVmJTSl9MNXhXRDV5ZkkzSzFVb0taeGxxSGhqY1hsS0xPTVpoM0ZLUmVTUW5YYUVxQmVkUzYwMUdTT2xSb3Rtaw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T16:10:47+00:00"
-          },
-          {
-            "title": "১৮ ম‍্যাচ নির্বাসনের শাস্তি আর্জেন্টিনার তিন ফুটবলারকে, বিশ্বকাপ ফাইনালে মারামারি করে নির্বাসিত স্পেনের ফুটবলারও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9od0UyYVNLWnBSQ2tLUlRqejdHczg0MldGbnJ0cXhXOS1iNzg4TU5nRF9FR1ZQZVEtc2dQNHlqRlZFUktlRDlXcVh0R2JOTE1EZFBWWEFDUWlJXzlvQWpuVXM3WGtQd1N4WmtnaWVzSEdSMXdjaE5jRE1DNmFFVTl4RnZRcjdDUmpsaXVZdmVOYUp3bTJUV0RJUWlWRVAtZTNQenY2QVpyWjFQUWVZdkd3dFJQakNDd0lXdVhXZ1BNbFRY0gHKAUFVX3lxTE1aUDlxWUYzMzFzS01nLVFpUC14R1l1X3lQcEF6bVZwb1RqdW1sMWtEbnNSampJN0NreVNGVWhoWTdhS1NDMFcxRWhkd0FTRDdHUTIxMXdKTzROQmwxb00zZHQzMlBwY1U5NVMzdUlyX1dJZU9KR1R4X0tLcHJmQXdHbVJkYS1OV0Y2TXhlbzdZYUQzNDRLRGdzWDQ3U0R6Tlc5aU1MSkhJejZLZnJQRXE2LWZqdHowWVVGaTFiVnZ4ZlJxWk5QQkNqUWc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T16:08:47+00:00"
-          },
-          {
-            "title": "মধ্য চল্লিশে হরমোনের গোলমাল খুব ভোগায়, ওই বয়সে কী কী ব্যায়াম করলে শরীর ভাল থাকবে? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTQzYzVqR1RzbVdDemEyNng2U0FyRGNOU3BwdUI2eUlKbU5UZGRpR2ZnTlZzTERpbnRRU3J5QldMUkhPMWZ2czBIX3E5TTl3Mlc1NHNoanFOSmNZbHZuTHkwams5cVJuNzMtWU5jMEJyVXJ0ekFNYTJUcUkwOFZzSTRrUU5KaGR5Y3huTjBzR1RVUXItdWdjR0VVVDdpWTR4V25CZFU5UE1BUDRQSUlHc1Jn0gG3AUFVX3lxTE12QUZ3eGx4YmZwaUxHaGhpLUNyRkFBaFZmRjJHRDIzeUVybmxBRVNPRnhkaHgxWVBtUVM4ekNCakFjQ0xMTlRtVEVzTVloX2JqeDhuTm1qTVFLU0Q1LWNuc054Z0gwV2RtZmJmZXU5UjZWQXFNY1VCUUhmSENEM0FpbTlSUmxsWmx1VmptUmtOZDVKczFPM2l2M2hEeFFJdkxFV2JaRldYd0R5aFVLZTRzU1Z6WUNJVQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-21T16:04:44+00:00"
-          },
-          {
             "title": "কলকাতায় গা ঘেঁষে দাঁড়ানো হোটেলগুলোয় আগুন থেকে বাঁচার কী উপায় আছে?",
             "link": "https://www.bbc.com/bengali/articles/ckg3ml1122ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1482,32 +1440,74 @@
             "published": "2026-08-21T15:21:08+00:00"
           },
           {
-            "title": "তৃণমূল আমলের শেষ পাঁচ বছরে দেওয়া জন্মশংসাপত্রের বৈধতা যাচাই করবে সরকার! প্রয়োজনে গড়া হবে তদন্তকারী দলও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUxNY2hoWmRFZENLcUMtVzVwM3FkSTZ1OVR0RHFkQkxaZUlqaDlfdV9lMGlCTDRsVWJSOWtqTXFSOGdEWDFkbFVSVHNvdElOUFZKMmRZSjdNcmgzb0FzbVhYZl9lTnJ6amRZUVpMcC1oUFFjMnU1M3Z5bV9mMmQxek1pc2NCWFM0RHJCRWF6b1VUWWM5N2g0YmkzZkd5MTFsTVUzY193UnVkNXFXMFIzTVJIek1obl9XVGhKUFNiX2owdVVNU1lqTEtrdVBlcFlJajlyN1pDV0lvUDRNaEI5LXg0c3gtWEJFSGM40gHwAUFVX3lxTE9Md1pqdDh6S0Z6bWk1NU04c3lrT1pmLTRNOG44ZDRRTWZXZERNVjdLZ3hzSXZ1ZGNOSndNbC1XVjdOeTFaLUZPS1llNWZrY3ZWSUM3MHBMdkw4WTFlbEwwaUZQZ3QwRDIwa09VcV9naXU5ckp2X3dBLWlmM1lJTHNBMzNmekUxUy1pRWhKUGFTdjc2bDVhTTJkd0NSSFdIelIwTHg1NE5GSGFncjByamFmNW96Y2hLVWMwdXF4VURlVHJiTFdXcnJfTThDZWpCTUt5U1FvZ09YT0dLdU5admFwZFNHcldDckZ4Y2VuSkdHQQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "মাজার থেকে বঙ্গভবন- যে ইতিহাস কয়েক শতকের",
+            "link": "https://www.bbc.com/bengali/articles/c0qvkk2kl5eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-21T15:13:08+00:00"
+            "published": "2026-08-21T09:00:12+00:00"
           },
           {
-            "title": "বেসিনের কলে মরচে পড়েছে? ৩টি সহজ কৌশল মানলেই একেবারে ঝকঝকে দেখাবে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGx1ZXJfZ3hjNGNrcXU4QXZiOTU3UUlLaGZVSUdRX2xKQlFqSGFVcUVHRG8xUkkyOUhHTGFpWEZ4UUlPR3dGX01yZ3FfX2ZMM3A4dFY5T2M1WllnczFZdWY4TTFsS092NHlzTnFlYXdRdDNBSExQS2xPWnFvSm55UGlielN2RlB5cy12dmx5bUVFUdIBkgFBVV95cUxOMGx1ZXJfZ3hjNGNrcXU4QXZiOTU3UUlLaGZVSUdRX2xKQlFqSGFVcUVHRG8xUkkyOUhHTGFpWEZ4UUlPR3dGX01yZ3FfX2ZMM3A4dFY5T2M1WllnczFZdWY4TTFsS092NHlzTnFlYXdRdDNBSExQS2xPWnFvSm55UGlielN2RlB5cy12dmx5bUVFUQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "বাংলাদেশে বিদ্যুৎ সংকটের সমাধান কী?",
+            "link": "https://www.bbc.com/bengali/articles/cx2renvyvdpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-21T15:06:41+00:00"
+            "published": "2026-08-21T06:18:04+00:00"
           },
           {
-            "title": "পার পেলেন না মেসিরা, ৩ কোটি টাকা জরিমানা আর্জেন্টিনার! বিশ্বকাপে ইংল্যান্ড ম‍্যাচের পর গোলমালের ঘটনায় শাস্তি ফিফার - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1JjM093V0VHLWdsdFhONDcxM0ZfaFZkT25hWlFITHZWSGZORWt5MHcxX2VhS0RBalVRRkdKTkE0b19uTFFOcGdUdXoza2ZocXRZSklXWEdRSHpzU0JsaXlNazJtS25CX2hiN1Jwcm5ILWFlcWRVYUdUNjFxUHhqMzFWVmNTaHRDeGY1SUJSMjRrd2diRDlHVlVTUHRLaHdnSVdaVzRCV1lUT3lZLU9oaGFxXzNhS2hqYTZPXzFHR2Zjc3ZqYmRoVDlXalRHQzVIUXE40gHYAUFVX3lxTFBnajVRVW1LRXFpR21VNF9FQzU0UDZoaEJJYk41dGFSS3pYXzlIS21TR0hEQmp4eG4zRF9nYmpXdDQxVUZQZHNsdWR4SzRwbGdfM1Y2OWhUcEtKWk11TmVpRWJlQ2ZQOFAzOEZ5b3RIdlNFNi1RSWp3UnNFbFkzbm1rV0tndlRXMU1WdEI5MWthbm1PUld4bHVxaHhPVVFaeVljSnB3WHVQNUVxSXVzd0xrQmp0c1lXVmwtQ0tPa2U1bkdYcWI2VTBnZ0pfTkxFUWNBMC1IaGNLbQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "যুক্তরাষ্ট্র-দক্ষিণ কোরিয়া সামরিক মহড়া মাঝপথেই বন্ধ করে দেওয়ার কারণ কী?",
+            "link": "https://www.bbc.com/bengali/articles/c74g2zglgpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-21T15:06:39+00:00"
+            "published": "2026-08-21T03:37:56+00:00"
           },
           {
-            "title": "‘উত্তর কোরিয়ার হাতে ৫৭টি পরমাণু বোমা রয়েছে’, বললেন ট্রাম্প! বার্তা দিলেন কিমের সঙ্গে বৈঠক নিয়েও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONzV1dHNnVU1jLXBiZFdSWnlrWm1id2xMMW1OeTFfSW1LdElvYUh3TFdTVV9ZOEVSRF85QzExWElqWXh5ZWlwdG9keGVvZld5NmJLT21paVdqY0VUNkV2ZHBnWTVhUlpQdDRUN3JXU2FWTlJCWUthVVRuZ0ZJamZQd1RzcUdIMjJNMnhkVFZBLUYwQk5STWVLVks3NTVxdS15Mlo0NExHLTNSWWRJczhTRzJwTnllSkxKRDhOTWF3cXdBOVdCbGZQZkE0T0xHeDhGREtnU1NTTW1qeU5FSUJYQm1xWURpT1htelhqRU9FQXRwQdIB9wFBVV95cUxPcEpXMk1ELW9sZ21rdjNfNjRYWTZUVlZNZWpuZEswYk5KeHVqN3JNa0VrVERZdFQ1NFluVlhiZkFhYzZjc2pkTE5qRWprUzRwRHZNQ1dHdEVMdzEzVWs3elhOS2tyYTIzcExyNUlyWHc1d2ZfWFV3TFJHX1M4R0VnLXJ4U2M3cGVhWGFoNGVyaVVkUlpsRTRKX0MxcDZtV1ctZlg4ODZzYzkzY0dLeHpjZlhEU09fZWNINTFGWkJTeDVSakJBZzJZYlFPQlBISWJmQno0Z0RBNGFoN0ItTFZoN0lzMkRfSjdyalIzUGxuaTRzMkRhQ2FZ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "কেন জিন্নাহর স্বাস্থ্যকে 'ভারতের গোপনতম রহস্য' বলে মনে করা হতো?",
+            "link": "https://www.bbc.com/bengali/articles/ce34rk2d6ldo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-08-21T14:42:32+00:00"
+            "published": "2026-08-21T02:01:34+00:00"
+          },
+          {
+            "title": "পৌর চেয়ারম্যান থেকে রাষ্ট্রপতি - মির্জা ফখরুল ইসলাম আলমগীরের রাজনৈতিক জীবন",
+            "link": "https://www.bbc.com/bengali/articles/c935z00rqd2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-20T11:25:45+00:00"
+          },
+          {
+            "title": "আমেরিকার প্রথম মুসলিম সেনেটর হওয়ার দৌড়ে থাকা তরুণ রাজনীতিবিদ আবদুল এল সাইদ কে?",
+            "link": "https://www.bbc.com/bengali/articles/c2049yqvpq0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-18T12:08:22+00:00"
+          },
+          {
+            "title": "ব্রিটিশদের ১০৯ বছর আগে ধার দেওয়া টাকা এখন সুদসহ ফেরত চায় ভারতের এক পরিবার",
+            "link": "https://www.bbc.com/bengali/articles/c80n9nezdv5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-15T05:20:57+00:00"
+          },
+          {
+            "title": "আওয়ামী লীগের অগাস্ট ফ্যাক্টর: হত্যা, হামলা, ক্ষমতাচ্যুতি",
+            "link": "https://www.bbc.com/bengali/articles/c1718krllp4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-14T12:49:56+00:00"
+          },
+          {
+            "title": "৩৫ বছর আগে সরাসরি রাষ্ট্রপতি নির্বাচন যেভাবে হয়েছিল",
+            "link": "https://www.bbc.com/bengali/articles/cd7ljpl7y7do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-11T14:39:39+00:00"
+          },
+          {
+            "title": "বাংলাদেশের রাষ্ট্রপতি কী করতে পারেন আর কী পারেন না?",
+            "link": "https://www.bbc.com/bengali/articles/cp9e4de3lymo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-08-10T01:37:29+00:00"
           }
         ]
       }
