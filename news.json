@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-08-21T22:36:10.519934+00:00",
+  "updated_at": "2026-08-21T22:58:37.207814+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "2 killed after small plane crashes in Croatia",
+            "link": "https://timesofindia.indiatimes.com/world/europe/2-killed-after-small-plane-crashes-in-croatia/articleshow/133415369.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T04:21:46+05:30"
+          },
+          {
+            "title": "Two injured in stabbing attack at Canada Sikh temple",
+            "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+            "published": "2026-08-21T22:45:01+00:00"
+          },
+          {
             "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-            "published": "2026-08-21T22:00:23+00:00"
+            "published": "2026-08-21T22:36:12+00:00"
+          },
+          {
+            "title": "T.N. Government places orders with two jewellers for supply of gold rings scheme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-work-orders-issued-to-joyalukkas-kalyan-jewellers-for-gold-ring-supply/article71375124.ece",
+            "source": "The Hindu",
+            "summary": "Joyalukkas and Kalyan Jewellers are expected to supply a total of 1,28,499 one-gram gold rings for a four-month period beginning from June",
+            "published": "2026-08-22T03:50:03+05:30"
           },
           {
             "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
@@ -25,6 +46,13 @@
             "source": "Al Jazeera",
             "summary": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
             "published": "2026-08-21T21:38:32+00:00"
+          },
+          {
+            "title": "Nagaland inks deal for first private-sector solar plant",
+            "link": "https://www.thehindu.com/news/national/nagaland/nagaland-inks-deal-for-first-private-sector-solar-plant/article71373752.ece",
+            "source": "The Hindu",
+            "summary": "The 20 MW solar power project at Tizit is expected to help the State reduce its energy imports",
+            "published": "2026-08-22T03:07:01+05:30"
           },
           {
             "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
@@ -74,37 +102,30 @@
             "source": "BBC World",
             "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
             "published": "2026-08-21T21:03:24+00:00"
-          },
-          {
-            "title": "Fadnavis letter: SG flags power tribunal to CJI",
-            "link": "https://timesofindia.indiatimes.com/india/fadnavis-letter-sg-flags-power-tribunal-to-cji/articleshow/133413625.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-22T02:33:19+05:30"
-          },
-          {
-            "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
-            "link": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-22T02:21:20+05:30"
-          },
-          {
-            "title": "48 teachers to be honoured by President on September 5",
-            "link": "https://www.thehindu.com/news/national/teachers-to-be-honoured-by-president-on-september-5/article71375223.ece",
-            "source": "The Hindu",
-            "summary": "This year, a total of 48 school teachers have been selected through a three-stage selection process at the district, State and national levels by the Department of School Education and Literacy",
-            "published": "2026-08-22T02:14:58+05:30"
-          },
-          {
-            "title": "Tunisian protesters call for President Kais Saied to step down",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.",
-            "published": "2026-08-21T20:35:07+00:00"
           }
         ],
         "India": [
+          {
+            "title": "2 killed after small plane crashes in Croatia",
+            "link": "https://timesofindia.indiatimes.com/world/europe/2-killed-after-small-plane-crashes-in-croatia/articleshow/133415369.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T04:21:46+05:30"
+          },
+          {
+            "title": "T.N. Government places orders with two jewellers for supply of gold rings scheme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-work-orders-issued-to-joyalukkas-kalyan-jewellers-for-gold-ring-supply/article71375124.ece",
+            "source": "The Hindu",
+            "summary": "Joyalukkas and Kalyan Jewellers are expected to supply a total of 1,28,499 one-gram gold rings for a four-month period beginning from June",
+            "published": "2026-08-22T03:50:03+05:30"
+          },
+          {
+            "title": "Nagaland inks deal for first private-sector solar plant",
+            "link": "https://www.thehindu.com/news/national/nagaland/nagaland-inks-deal-for-first-private-sector-solar-plant/article71373752.ece",
+            "source": "The Hindu",
+            "summary": "The 20 MW solar power project at Tizit is expected to help the State reduce its energy imports",
+            "published": "2026-08-22T03:07:01+05:30"
+          },
           {
             "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
             "link": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand",
@@ -167,30 +188,16 @@
             "source": "Times of India",
             "summary": "Says Drop Not Due To Ethanol Diversion",
             "published": "2026-08-22T01:51:30+05:30"
-          },
-          {
-            "title": "Grievances registration line soon for sanitation workers",
-            "link": "https://www.thehindu.com/news/national/ncsk-to-launch-missed-call-facility-to-address-grievances-of-safai-karmacharis/article71373618.ece",
-            "source": "The Hindu",
-            "summary": "National Commission for Safai Karmacharis is engaging with the Labour Ministry to raise the minimum wages of safai karmacharis to be on par with those of skilled or semi-skilled workers",
-            "published": "2026-08-22T01:50:14+05:30"
-          },
-          {
-            "title": "Advocates can now apply for judge posts after 1-year practice",
-            "link": "https://timesofindia.indiatimes.com/india/advocates-can-now-apply-for-judge-posts-after-1-year-practice/articleshow/133413515.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-22T01:45:00+05:30"
-          },
-          {
-            "title": "Rahul’s street politics signals a new Opposition playbook",
-            "link": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
-            "published": "2026-08-22T01:44:25+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Two injured in stabbing attack at Canada Sikh temple",
+            "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+            "published": "2026-08-21T22:45:01+00:00"
+          },
           {
             "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
             "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
             "published": "2026-08-21T20:03:35+00:00"
-          },
-          {
-            "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-            "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Trump administration has argued the $400m White House ballroom is needed for national security purposes.",
-            "published": "2026-08-21T19:52:34+00:00"
           }
         ],
         "Business": [
@@ -454,7 +454,7 @@
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-            "published": "2026-08-21T22:00:23+00:00"
+            "published": "2026-08-21T22:36:12+00:00"
           },
           {
             "title": "MANTRA Halts Network Transactions Following Unspecified Incident",
@@ -1100,13 +1100,6 @@
             "published": "2026-08-21T21:38:34+00:00"
           },
           {
-            "title": "Ekta Bhayan: విధి విసిరిన సవాలుకు... విజయమే సమాధానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzgybmtEZHhvVzVySGxxbnJrSWJaeVRZcFNkYVBpcG11UkdjbDZBMmg5V2xRc3JEQlZqZUtXRGtBMWowSjVIWW1ZRUkzQmFHWUVoSUFVdDJsdXgxUUpXaENVVlNMZld2dm83ZWV3c3NPUzN1VldmakIyYmRPZVFTZ0xYdERDZ9IBhgFBVV95cUxNNzgybmtEZHhvVzVySGxxbnJrSWJaeVRZcFNkYVBpcG11UkdjbDZBMmg5V2xRc3JEQlZqZUtXRGtBMWowSjVIWW1ZRUkzQmFHWUVoSUFVdDJsdXgxUUpXaENVVlNMZld2dm83ZWV3c3NPUzN1VldmakIyYmRPZVFTZ0xYdERDZw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-21T21:32:24+00:00"
-          },
-          {
             "title": "బెర్రీ పరిశ్రమలో గ్యాస్‌ లీక్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEVJckVKNmNUeTF5ekp5czdJQVN4SnFMSnFxWHgwM2VpS0tiRGw4SkFHVlE5RkN3LU1ld1FLQkt1TmY5dFYzWEZJWUxKSS1vYXozcGNuNzMzM2RaZXNJX0Y3VXN6dGg2ZUZBQk5WZEhiM21BZFY3cGNFT2tiWDB3TDBiZ0ZSa0VFY3B3?oc=5",
             "source": "Eenadu",
@@ -1133,6 +1126,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-21T20:00:24+00:00"
+          },
+          {
+            "title": "కొంటె కొటేషన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jb2lEQXUxZmVYN2tNc2dZVENCajJOX3FFVTRsTGV1LVFRQ0tmeHdjQV9BcFZoMEV6dUM4UElnRkt0TzFKQzNnYUN2T0toSFJBZTVWLVc3cXJvN1ZZM0RucFhQU0tiYmpIblhpMDFJSXd4UFhz0gF0QVVfeXFMT2NvaURBdTFmZVg3a01zZ1lUQ0JqMk5fcUVVNGxMZXUtUVFDS2Z4d2NBX0FwVmgwRXp1QzhQSWdGS3RPMUpDM2dhQ3ZPS2hIUkFlNVYtVzdxcm83VlkzRG5wWFBTS2JiakhuWGkwMUlJd3hQWHM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T19:58:51+00:00"
           },
           {
             "title": "మళ్లీ కలవాలని.. - Eenadu",
