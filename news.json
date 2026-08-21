@@ -1,116 +1,151 @@
 {
-  "updated_at": "2026-08-21T00:31:10.771828+00:00",
+  "updated_at": "2026-08-21T01:01:22.690825+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Foreign investors continue to buy, with financials top the list",
+            "title": "Sebi eases FPI onboarding with digital power of attorney",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-onboarding-with-digital-power-of-attorney/articleshow/133390422.cms",
+            "source": "Economic Times",
+            "summary": "In a progressive move, the capital markets regulator has allowed foreign investors to adopt digital signatures, streamlining the onboarding experience. This change eliminates notarisation and apostillisation for power of attorney documents, thus accelerating onboarding times and enhancing regulatory processes. The goal is to invite more international capital into the Indian market landscape.",
+            "published": "2026-08-21T06:22:53+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks follow Wall Street lower, dollar slips",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-follow-wall-street-lower-dollar-slips/articleshow/133390428.cms",
+            "source": "Economic Times",
+            "summary": "Asian bonds and equities faced a downturn, reflecting the declines witnessed on Wall Street. An uptick in US Treasury yields dampened investor enthusiasm surrounding debt repurchases. Meanwhile, the yen held steady, suggesting that inflation trends could lead to a rate increase by the Bank of Japan. Bitcoin soared past seventy thousand dollars following discussions with crypto leaders, while technology stocks gained…",
+            "published": "2026-08-21T06:22:06+05:30"
+          },
+          {
+            "title": "Joe Root scripts history, becomes first player to achieve this feat",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
+            "source": "Times of India",
+            "summary": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop the WTC captaincy run charts. His stellar performance has not only propelled England to a commanding first-innings advantage but also reinforces his legacy in…",
+            "published": "2026-08-21T06:20:21+05:30"
+          },
+          {
+            "title": "Bond yields are the 'Elephant in the Room' stock investors are ignoring",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-yields-are-the-elephant-in-the-room-stock-investors-are-ignoring/articleshow/133390377.cms",
+            "source": "Economic Times",
+            "summary": "Global fund managers hold the highest equity proportion since late 2021. Rising bond yields are seen as a significant threat to stock markets. Stronger earnings expectations and economic outlooks support investor optimism. The US Treasury's debt buyback plan offered some temporary relief. Analysts watch the yield curve, finding current conditions favorable for stocks.",
+            "published": "2026-08-21T06:17:00+05:30"
+          },
+          {
+            "title": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
+            "link": "https://www.ndtv.com/india-news/andhra-pradesh-on-camera-6-year-old-falls-face-first-dies-after-being-slapped-by-teacher-11936387#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The family has alleged that the incident was not an isolated act of physical punishment, claiming that other children had also been beaten. They have demanded strict action.",
+            "published": "2026-08-21T06:16:24+05:30"
+          },
+          {
+            "title": "Taliban release two detained UN staff members in Afghanistan",
+            "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+            "published": "2026-08-21T00:44:46+00:00"
+          },
+          {
+            "title": "PM Meets Japanese Defence Minister, Stresses On Boosting India-Japan Ties",
+            "link": "https://www.ndtv.com/india-news/pm-modi-meets-japanese-defence-minister-stresses-on-boosting-india-japan-ties-11938485#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "During the meeting, PM Modi recalled his detailed discussions with Japanese Prime Minister Sanae Takaichi during her visit to India for the 16th India-Japan Annual Summit in July 2026.",
+            "published": "2026-08-21T06:11:07+05:30"
+          },
+          {
+            "title": "US Says It Will Impose \"Toughest Sanctions In History\" On Iran",
+            "link": "https://www.ndtv.com/world-news/us-says-it-will-impose-toughest-sanctions-in-history-on-iran-11938473#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Bessent told CNBC he would share more details on the latest package and \"talk about exactly what we're going to do\" on Iran at a press conference on Monday.",
+            "published": "2026-08-21T05:57:12+05:30"
+          },
+          {
+            "title": "Indian equity markets rally nearly 1% as dollar retreats and US bond yields cool",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-markets-rally-nearly-1-as-dollar-retreats-and-us-bond-yields-cool/articleshow/133390323.cms",
+            "source": "Economic Times",
+            "summary": "The Indian stock market rebounded on Thursday, marking the end of a downward trend. Major indices Nifty and Sensex enjoyed notable gains, supported by a robust response in midcap and smallcap sectors. A weakening dollar index alongside declining US bond yields positively impacted emerging markets. Nonetheless, bond yields in India increased, influenced by recent hawkish policy discussions.",
+            "published": "2026-08-21T05:55:48+05:30"
+          },
+          {
+            "title": "Indian National On FBI's Most Wanted List Over Lawrence Bishnoi Gang Links",
+            "link": "https://www.ndtv.com/world-news/indian-national-kamal-on-fbis-most-wanted-list-over-lawrence-bishnoi-gang-links-11938467#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Kamal is wanted for his alleged involvement in a transnational criminal organisation engaged in conspiracy to interfere with commerce by extortion, the FBI said on Thursday.",
+            "published": "2026-08-21T05:50:12+05:30"
+          },
+          {
+            "title": "FPIs turn bullish on financials, autos and IT in first half of August",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms",
             "source": "Economic Times",
             "summary": "Overseas investors showed strong buying in early August, marking four consecutive fortnights of inflows. Financial services and automobiles attracted the highest foreign investment during this period. Broader markets demonstrated resilience, with investors favoring mid-cap names within key sectors. Foreign investors net bought shares worth ₹16,621 crore across sectors during August 1-15. This trend signals a…",
             "published": "2026-08-21T05:46:28+05:30"
           },
           {
-            "title": "Indian National On FBI's Most Wanted' List Over Lawrence Bishnoi Gang Links",
-            "link": "https://www.ndtv.com/world-news/indian-national-kamal-on-fbis-most-wanted-list-over-lawrence-bishnoi-gang-links-11938467#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Kamal is wanted for his alleged involvement in a transnational criminal organisation engaged in conspiracy to interfere with commerce by extortion, the FBI said on Thursday.",
-            "published": "2026-08-21T05:44:51+05:30"
-          },
-          {
-            "title": "Noel Tata kicks off hunt for next Tata Sons chief",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/informal-search-for-new-tata-sons-chief-begins/articleshow/133389987.cms",
+            "title": "'Awarapan 2' day 7: Rs 113cr week 1, 151% ROI, declared a hit",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-7-emraan-hashmi-starrer-wraps-up-first-week-with-solid-rs-113-crore-is-a-hit-with-151-percent-roi/articleshow/133390145.cms",
             "source": "Times of India",
-            "summary": "Trusts Chairman Noel Tata, Another Trustee Meet HDFC's Ex-Chairman Deepak Parekh",
-            "published": "2026-08-21T05:29:01+05:30"
+            "summary": "Emraan Hashmi's 'Awarapan 2' has emerged as a blockbuster sensation, raking in over 113 crore rupees in just one week. Leveraging the buzz of the Independence Day holiday, the film has maintained impressive momentum, heralding a remarkable resurgence for the actor. This achievement positions the film among the most lucrative post-COVID releases during the Independence Day weekend.",
+            "published": "2026-08-21T05:45:31+05:30"
           },
           {
-            "title": "Government to amend investment treaty to woo global players",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/government-to-amend-investment-treaty-to-woo-global-players/articleshow/133389908.cms",
-            "source": "Times of India",
-            "summary": "To Allow International Arbitration In A Year Instead Of 5 Yrs",
-            "published": "2026-08-21T05:14:07+05:30"
-          },
-          {
-            "title": "Delhi Boosts Women's Safety With More Police Near Colleges, Transit Hubs",
-            "link": "https://www.ndtv.com/delhi-news/delhi-boosts-womens-safety-with-more-police-patrols-near-colleges-transit-hubs-11938436#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Shishtachar Squads are deployed to check eve-teasing and harassment and maintain order around educational institutions, transport hubs and crowded marketplaces.",
-            "published": "2026-08-21T05:03:27+05:30"
-          },
-          {
-            "title": "Why Nigeria's one-time political giant may face extinction",
-            "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-            "published": "2026-08-20T23:21:22+00:00"
-          },
-          {
-            "title": "Ex-Pak PM Imran Khan moved to private hospital from prison after SC order",
-            "link": "https://timesofindia.indiatimes.com/world/pakistan/ex-pak-pm-imran-khan-moved-to-private-hospital-from-prison-after-sc-order/articleshow/133389827.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-21T04:50:11+05:30"
-          },
-          {
-            "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-            "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+            "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+            "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-            "published": "2026-08-20T23:19:56+00:00"
+            "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+            "published": "2026-08-21T00:12:37+00:00"
           },
           {
-            "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-            "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-            "published": "2026-08-20T23:16:45+00:00"
-          },
-          {
-            "title": "Why the US economy is ringing alarm bells",
-            "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-            "published": "2026-08-20T23:15:15+00:00"
-          },
-          {
-            "title": "Air Taxis In Delhi's Future? New Master Plan Makes First Mention",
-            "link": "https://www.ndtv.com/delhi-news/air-taxis-in-delhis-future-new-master-plan-makes-first-mention-11938429#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Master Plan for Delhi 2047, notified by the Centre, lists air taxis and air pods among transport modes that could be considered as the city plans for the coming decades.",
-            "published": "2026-08-21T04:43:11+05:30"
-          },
-          {
-            "title": "How landscape gardening is being electrified",
-            "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
-            "published": "2026-08-20T23:12:38+00:00"
-          },
-          {
-            "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-            "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
-            "published": "2026-08-20T23:10:58+00:00"
-          },
-          {
-            "title": "Use medical tourists' money to treat poor Indians: Panel",
-            "link": "https://timesofindia.indiatimes.com/india/use-medical-tourists-money-to-treat-poor-indians-panel/articleshow/133389777.cms",
-            "source": "Times of India",
-            "summary": "Move To Make Healthcare Affordable",
-            "published": "2026-08-21T04:38:04+05:30"
+            "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+            "published": "2026-08-21T00:00:00+00:00"
           }
         ],
         "India": [
           {
-            "title": "Indian National On FBI's Most Wanted' List Over Lawrence Bishnoi Gang Links",
+            "title": "Joe Root scripts history, becomes first player to achieve this feat",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
+            "source": "Times of India",
+            "summary": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop the WTC captaincy run charts. His stellar performance has not only propelled England to a commanding first-innings advantage but also reinforces his legacy in…",
+            "published": "2026-08-21T06:20:21+05:30"
+          },
+          {
+            "title": "On Camera, 6-Year-Old Falls Face First, Dies After Being Slapped By Teacher",
+            "link": "https://www.ndtv.com/india-news/andhra-pradesh-on-camera-6-year-old-falls-face-first-dies-after-being-slapped-by-teacher-11936387#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The family has alleged that the incident was not an isolated act of physical punishment, claiming that other children had also been beaten. They have demanded strict action.",
+            "published": "2026-08-21T06:16:24+05:30"
+          },
+          {
+            "title": "PM Meets Japanese Defence Minister, Stresses On Boosting India-Japan Ties",
+            "link": "https://www.ndtv.com/india-news/pm-modi-meets-japanese-defence-minister-stresses-on-boosting-india-japan-ties-11938485#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "During the meeting, PM Modi recalled his detailed discussions with Japanese Prime Minister Sanae Takaichi during her visit to India for the 16th India-Japan Annual Summit in July 2026.",
+            "published": "2026-08-21T06:11:07+05:30"
+          },
+          {
+            "title": "US Says It Will Impose \"Toughest Sanctions In History\" On Iran",
+            "link": "https://www.ndtv.com/world-news/us-says-it-will-impose-toughest-sanctions-in-history-on-iran-11938473#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Bessent told CNBC he would share more details on the latest package and \"talk about exactly what we're going to do\" on Iran at a press conference on Monday.",
+            "published": "2026-08-21T05:57:12+05:30"
+          },
+          {
+            "title": "Indian National On FBI's Most Wanted List Over Lawrence Bishnoi Gang Links",
             "link": "https://www.ndtv.com/world-news/indian-national-kamal-on-fbis-most-wanted-list-over-lawrence-bishnoi-gang-links-11938467#publisher=newsstand",
             "source": "NDTV",
             "summary": "Kamal is wanted for his alleged involvement in a transnational criminal organisation engaged in conspiracy to interfere with commerce by extortion, the FBI said on Thursday.",
-            "published": "2026-08-21T05:44:51+05:30"
+            "published": "2026-08-21T05:50:12+05:30"
+          },
+          {
+            "title": "'Awarapan 2' day 7: Rs 113cr week 1, 151% ROI, declared a hit",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-7-emraan-hashmi-starrer-wraps-up-first-week-with-solid-rs-113-crore-is-a-hit-with-151-percent-roi/articleshow/133390145.cms",
+            "source": "Times of India",
+            "summary": "Emraan Hashmi's 'Awarapan 2' has emerged as a blockbuster sensation, raking in over 113 crore rupees in just one week. Leveraging the buzz of the Independence Day holiday, the film has maintained impressive momentum, heralding a remarkable resurgence for the actor. This achievement positions the film among the most lucrative post-COVID releases during the Independence Day weekend.",
+            "published": "2026-08-21T05:45:31+05:30"
           },
           {
             "title": "Noel Tata kicks off hunt for next Tata Sons chief",
@@ -153,44 +188,30 @@
             "source": "Times of India",
             "summary": "Move To Make Healthcare Affordable",
             "published": "2026-08-21T04:38:04+05:30"
-          },
-          {
-            "title": "Economic Pressure A \"Delicate Dance\" Against Iran: JD Vance",
-            "link": "https://www.ndtv.com/world-news/economic-pressure-a-delicate-dance-against-iran-jd-vance-11938410#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "JD Vance said maintaining pressure on Iran over attacks on commercial vessels would influence Tehran's decision-making.",
-            "published": "2026-08-21T04:29:51+05:30"
-          },
-          {
-            "title": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead",
-            "link": "https://www.thehindu.com/news/cities/Delhi/sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots-case-passes-away/article71368388.ece",
-            "source": "The Hindu",
-            "summary": "Convicted twice but acquitted in another case, the former Congress MP spent his final years in prison after decades of investigations, committee reports and court battles",
-            "published": "2026-08-21T04:27:51+05:30"
-          },
-          {
-            "title": "61.5% of women taking up G RAM G work shows positive indicator of rural livelihoods",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/61-5-of-women-taking-up-g-ram-g-work-shows-positive-indicator-of-rural-livelihoods/articleshow/133389760.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-21T04:27:01+05:30"
-          },
-          {
-            "title": "Lawyers stage protest outside BCI office, seek chairman’s resignation amid NALSAR row",
-            "link": "https://www.thehindu.com/news/national/lawyers-protest-outside-bci-office-demand-chairman-manan-mishras-resignation-amid-nalsar-row/article71368148.ece",
-            "source": "The Hindu",
-            "summary": "Questioning Manan Kumar Mishra’s 14-year tenure as chairman, the protesters wanted reforms in the BCI’s election mechanism",
-            "published": "2026-08-21T04:22:37+05:30"
-          },
-          {
-            "title": "Tejpal moves Supreme Court against sentence in rape case",
-            "link": "https://www.thehindu.com/news/national/tarun-tejpal-appeals-in-supreme-court-against-10-year-term-in-2013-rape-case/article71368147.ece",
-            "source": "The Hindu",
-            "summary": "The journalist’s appeal follows the State of Goa’s petition in the top court a few days ago for enhancement of his punishment to life imprisonment",
-            "published": "2026-08-21T04:05:16+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Taliban release two detained UN staff members in Afghanistan",
+            "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+            "published": "2026-08-21T00:44:46+00:00"
+          },
+          {
+            "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+            "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+            "published": "2026-08-21T00:12:37+00:00"
+          },
+          {
+            "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+            "published": "2026-08-21T00:00:00+00:00"
+          },
           {
             "title": "Why Nigeria's one-time political giant may face extinction",
             "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
@@ -253,32 +274,39 @@
             "source": "Al Jazeera",
             "summary": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years.",
             "published": "2026-08-20T21:18:10+00:00"
-          },
-          {
-            "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
-            "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
-            "published": "2026-08-20T21:03:30+00:00"
-          },
-          {
-            "title": "Watch: Fishermen rescued after five days adrift in cool box",
-            "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-            "published": "2026-08-20T20:41:31+00:00"
-          },
-          {
-            "title": "US pummels Cuban economy with new sanctions on mining, construction",
-            "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
-            "published": "2026-08-20T20:37:25+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Foreign investors continue to buy, with financials top the list",
+            "title": "Sebi eases FPI onboarding with digital power of attorney",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-onboarding-with-digital-power-of-attorney/articleshow/133390422.cms",
+            "source": "Economic Times",
+            "summary": "In a progressive move, the capital markets regulator has allowed foreign investors to adopt digital signatures, streamlining the onboarding experience. This change eliminates notarisation and apostillisation for power of attorney documents, thus accelerating onboarding times and enhancing regulatory processes. The goal is to invite more international capital into the Indian market landscape.",
+            "published": "2026-08-21T06:22:53+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks follow Wall Street lower, dollar slips",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-follow-wall-street-lower-dollar-slips/articleshow/133390428.cms",
+            "source": "Economic Times",
+            "summary": "Asian bonds and equities faced a downturn, reflecting the declines witnessed on Wall Street. An uptick in US Treasury yields dampened investor enthusiasm surrounding debt repurchases. Meanwhile, the yen held steady, suggesting that inflation trends could lead to a rate increase by the Bank of Japan. Bitcoin soared past seventy thousand dollars following discussions with crypto leaders, while technology stocks gained…",
+            "published": "2026-08-21T06:22:06+05:30"
+          },
+          {
+            "title": "Bond yields are the 'Elephant in the Room' stock investors are ignoring",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-yields-are-the-elephant-in-the-room-stock-investors-are-ignoring/articleshow/133390377.cms",
+            "source": "Economic Times",
+            "summary": "Global fund managers hold the highest equity proportion since late 2021. Rising bond yields are seen as a significant threat to stock markets. Stronger earnings expectations and economic outlooks support investor optimism. The US Treasury's debt buyback plan offered some temporary relief. Analysts watch the yield curve, finding current conditions favorable for stocks.",
+            "published": "2026-08-21T06:17:00+05:30"
+          },
+          {
+            "title": "Indian equity markets rally nearly 1% as dollar retreats and US bond yields cool",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-markets-rally-nearly-1-as-dollar-retreats-and-us-bond-yields-cool/articleshow/133390323.cms",
+            "source": "Economic Times",
+            "summary": "The Indian stock market rebounded on Thursday, marking the end of a downward trend. Major indices Nifty and Sensex enjoyed notable gains, supported by a robust response in midcap and smallcap sectors. A weakening dollar index alongside declining US bond yields positively impacted emerging markets. Nonetheless, bond yields in India increased, influenced by recent hawkish policy discussions.",
+            "published": "2026-08-21T05:55:48+05:30"
+          },
+          {
+            "title": "FPIs turn bullish on financials, autos and IT in first half of August",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms",
             "source": "Economic Times",
             "summary": "Overseas investors showed strong buying in early August, marking four consecutive fortnights of inflows. Financial services and automobiles attracted the highest foreign investment during this period. Broader markets demonstrated resilience, with investors favoring mid-cap names within key sectors. Foreign investors net bought shares worth ₹16,621 crore across sectors during August 1-15. This trend signals a…",
@@ -327,39 +355,11 @@
             "published": "2026-08-20T20:15:45+00:00"
           },
           {
-            "title": "Protection, annuity more relevant in insurance products: Sumit Madan, MD &amp; CEO, Axis Max Life",
-            "link": "https://economictimes.indiatimes.com/markets/expert-view/protection-annuity-more-relevant-in-insurance-products-sumit-madan-md-ceo-axis-max-life/articleshow/133390261.cms",
-            "source": "Economic Times",
-            "summary": "While things are changing, insurance is still seen as a bit of a savings and tax product. We are focusing on making protection and annuity more relevant across proprietary and partnership channels, where we are looking at growth of 15% or 16%. The discussion is around protection rather than just premium. We've started focusing very sharply on the young Indian middle clas, says Sumit Madan.",
-            "published": "2026-08-20T23:55:42+05:30"
-          },
-          {
-            "title": "Niva Bupa, Acko General Insurance barred from opening places of biz for 6 months",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/niva-bupa-acko-general-insurance-barred-from-opening-places-of-biz-for-6-months/articleshow/133390233.cms",
-            "source": "Economic Times",
-            "summary": "Niva Bupa's allowable expense for FY25 was Rs 2,403.75 crore, while its actual expenses stood at Rs 2,652.12 crore, exceeding the limit by Rs 248.37 crore, according to the regulator's order. Irdai has prescribed limits to ensure insurers control management and operating costs so that a reasonable portion of premiums collected from policyholders is available for providing insurance cover and settling claims.",
-            "published": "2026-08-20T23:43:01+05:30"
-          },
-          {
             "title": "Walmart sales under strain as US shoppers pull back",
             "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
             "published": "2026-08-20T17:59:59+00:00"
-          },
-          {
-            "title": "Local funds' share rises in private credit market: EY report",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/local-funds-share-rises-in-private-credit-market-ey-report/articleshow/133390197.cms",
-            "source": "Economic Times",
-            "summary": "Private credit investments were broadly similar to the second half of 2025 levels of $3.4 billion, with refinancing, holding-company funding and acquisition financing serving as key drivers of activity. \"The growing share of domestic capital is one of the most significant developments in India's private credit market,\" Vishal Bansal, partner, debt and special situations, EY India, said.",
-            "published": "2026-08-20T23:18:51+05:30"
-          },
-          {
-            "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-            "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
-            "published": "2026-08-20T16:31:44+00:00"
           }
         ],
         "Sports": [
@@ -641,11 +641,25 @@
             "published": "2026-08-21T12:08:37+05:30"
           },
           {
-            "title": "अमेरिका का कर्ज 40 खरब डॉलर के पार: ट्रंप की नीतियों से कितना बढ़ा, ईरान युद्ध और टैक्स कटौती कितनी जिम्मेदार?",
-            "link": "https://www.amarujala.com/world/america-debt-crosses-40-trillion-dollar-how-much-are-trump-s-policies-iran-war-and-tax-cuts-responsible-2026-08-21",
+            "title": "जो रूट ने की महान सचिन तेंदुलकर के बड़े कीर्तिमान की बराबरी, अब वर्ल्ड रिकॉर्ड से महज एक कदम दूर",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/joe-root-equals-great-sachin-tendulkar-s-major-record-now-just-one-step-away-from-a-world-record-1633271.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-21T06:05:21+05:30"
+          },
+          {
+            "title": "'पापा ने बहन को 1रु. में बेचा, ससुराल वाले रोज रात को गंदा काम करते थे', Kangana Sharma का शॉकिंग खुलासा",
+            "link": "https://hindi.oneindia.com/news/entertainment/kangana-sharma-said-father-sold-sister-for-rs-1-in-laws-do-dirty-things-to-her-every-night-1632859.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-21T06:05:18+05:30"
+          },
+          {
+            "title": "आज के दिन: गृह मंत्री अमित शाह का सिलीगुड़ी दौरा, हिमाचल विधानसभा के मानसून सत्र का आगाज",
+            "link": "https://www.amarujala.com/india-news/21-august-2026-major-event-2026-08-20",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-21T05:45:55+05:30"
+            "published": "2026-08-21T06:00:02+05:30"
           },
           {
             "title": "TikTok के वीडियो से खुला 'पाताल लोक' का रहस्य:सांप जैसे रेंगती है, न आंखें, न पसलियां, बिहार में मिली अजूबी मछली की कहानी",
@@ -662,13 +676,6 @@
             "published": "2026-08-20T23:35:00+00:00"
           },
           {
-            "title": "पूर्वी सीमा पर केंद्र की पैनी नजर: एक महीने में दूसरी बार उत्तर बंगाल पहुंचे अमित शाह, क्या है सुरक्षा एजेंडा?",
-            "link": "https://www.amarujala.com/india-news/centre-keeps-a-close-watch-on-eastern-border-amit-shah-visits-north-bengal-for-second-time-in-a-month-agenda-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T05:04:35+05:30"
-          },
-          {
             "title": "कौमी इंसाफ मोर्चा का पंजाब बंद आज:7 घंटे हाईवेज-रेलवे ट्रैक जाम रहेंगे; जानिए क्या बंद रहेगा और क्या खुला",
             "link": "https://www.bhaskar.com/local/punjab/mohali/news/punjab-bandh-kaumi-insaf-morcha-highway-railway-protest-update-138785382.html",
             "source": "Dainik Bhaskar",
@@ -683,6 +690,13 @@
             "published": "2026-08-20T23:24:27+00:00"
           },
           {
+            "title": "आतंक के अंधेरे पर भारी खेल का उजाला: कश्मीर में रात दो बजे खेल की उमंग, पुलवामा में क्रिकेट का रोमांच चरम पर",
+            "link": "https://www.amarujala.com/gorakhpur/the-light-of-sports-triumphs-over-the-darkness-of-terror-night-time-sports-in-kashmir-cricket-in-pulwama-2026-08-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-21T04:31:39+05:30"
+          },
+          {
             "title": "आज का शब्द: दायी और सुरेश कुमार शुक्ल 'संदेश' की कविता- सरयू तट पर",
             "link": "https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-dayi-suresh-kumar-shukl-sandesh-ki-kavita-saryu-tat-par-2026-08-20",
             "source": "Amar Ujala",
@@ -695,23 +709,16 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-21T04:26:17+05:30"
-          },
-          {
-            "title": "Politics: शशि थरूर ने नए संसद भवन को बताया 'बेजान कॉन्फ्रेंस सेंटर', बोले- पुरानी इमारत में अपनापन था",
-            "link": "https://www.amarujala.com/india-news/tharoor-calls-new-parliament-building-soulless-conference-centre-lacking-in-intimacy-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T04:00:27+05:30"
-          },
-          {
-            "title": "US: एफबीआई की वांटेड सूची में भारतीय कमल का नाम, गिरफ्तारी वारंट जारी; लॉरेंस बिश्नोई गैंग से क्या कनेक्शन?",
-            "link": "https://www.amarujala.com/world/us-indian-national-kamal-on-fbi-wanted-list-arrest-warrant-issued-what-is-his-link-to-lawrence-bishnoi-gang-2026-08-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-21T03:12:15+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "'पापा ने बहन को 1रु. में बेचा, ससुराल वाले रोज रात को गंदा काम करते थे', Kangana Sharma का शॉकिंग खुलासा",
+            "link": "https://hindi.oneindia.com/news/entertainment/kangana-sharma-said-father-sold-sister-for-rs-1-in-laws-do-dirty-things-to-her-every-night-1632859.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-21T06:05:18+05:30"
+          },
           {
             "title": "Govinda के मैनेजर शशि सिन्हा का बड़ा बयान, एक्टर की पत्नी सुनीता आहूजा पर निकाली भड़ास, बोले- तमाशा कर रही है",
             "link": "https://hindi.oneindia.com/news/entertainment/govinda-manager-shashi-sinha-lashed-out-at-actor-wife-sunita-ahuja-said-tamasha-kar-rahi-hai-1632777.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-19T12:41:34+05:30"
-          },
-          {
-            "title": "TV के इस बड़े स्टार की खुली पोल, पत्नी-बच्चे दूसरे शहर, नई एक्ट्रेस संग किया लिव-इन, मांगे पैसे, फिर जो हुआ",
-            "link": "https://hindi.oneindia.com/news/entertainment/tv-star-exposed-tanya-puri-said-left-wife-and-kids-live-in-relation-with-actress-demanded-money-1631889.html",
-            "source": "Oneindia Hindi",
-            "summary": "टीवी जगत के एक मशहूर अभिनेता का निजी जीवन हाल ही में विवादों के घेरे में आ गया है, जिसका खुलासा तान्या पुरी की डिटेक्टिव एजेंसी ने किया है। रिपोर्ट्स के अनुसार, यह अभिनेता अपनी पत्नी और बच्चों को दूसरे शहर में छोड़कर एक अन्य अभिनेत्री के साथ लिव-इन रिलेशनशिप में रह रहा था। मामला तब और गंभीर हो गया जब उस नई अभिनेत्री को अपने पार्टनर पर शक होने लगा। संदेह बढ़ने पर अभिनेत्री ने तान्या पुरी से संपर्क किया और अभिनेता की हरकतों की सच्चाई पता लगाने के लिए जांच की मांग की। जांच के दौरान यह चौंकाने वाला सच सामने आया कि अभिनेता न केवल अपनी निजी जिंदगी के बारे में झूठ बोल रहा था, बल्कि उसने कथित तौर पर पैसे की भी मांग की थी। यह खबर मनोरंजन जगत में चर्चा का विषय बनी हुई है क्योंकि यह किसी के भरोसे को तोड़ने और रिश्तों में धोखे के एक कड़वे सच को बयां करती है। ऐसे मामलों में अक्सर लोग निजी जांच एजेंसियों का सहारा लेते हैं ताकि वे अपनी असुरक्षाओं को दूर कर सकें और सच्चाई जान सकें। अभिनेता के इस दोहरे चरित्र ने प्रशंसकों और इंडस्ट्री के लोगों को हैरान कर दिया है।",
-            "published": "2026-08-19T10:52:40+05:30"
           }
         ]
       }
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Janasena Party chief Pawan Kalyan: స్థానిక ఎన్నికల్లో భిన్నమైన వ్యూహంతో.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLU5OMUpndlhrTkxzdWlPeVhrVEFqc3JkOTc1MWRxVFFSWE0tUndHRWNvMzJPM2g3OElSc1NOVGhZeDNaMXBoX1lWUnl1OW52UDF0bHJKVjNRS1RCYThsV2FpOTlLdDRqZmo5aVh3U2FLRFFwbW9LQkpzUUlQTEFRVl9FNndsZElWdWNFWkphVEFqNEp5ay00dzJ2OGFJNkEwNnFkcWt2bXJaU0g2QkVzNEdndy0yZVRCcllQU0JKcVRORU5lZEhnakl6N3BQekNjZ05j?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-21T00:18:40+00:00"
+          },
+          {
             "title": "బంగ్లాదేశ్‌ అధ్యక్షుడిగా అలంగీర్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa0hBNEpkTmFKeXd4a0RIeTl5cUs5a0Nvak5BelkzalFqQWdoZDRZZ3dwMTZ4dXc5amdzVFZVVEUyQWUxUFBETjRmUjZYVFBpOEFIVndvNUNOVVpVd3hsQmZzQ1lYX0F3dlRpMUl0VE0?oc=5",
             "source": "Eenadu",
@@ -1100,11 +1107,25 @@
             "published": "2026-08-20T23:55:29+00:00"
           },
           {
+            "title": "సహజీవనం పెళ్లితో సమానం.. తల్లిదండ్రుల జోక్యం తగదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TOTdOWGJMelduV0xfQVV2MGFfdjRYZHNCZDVlcVFRM1M5aDdhakRCWFVMMVBTeTBpNzJ0b0lpVXNRbEtOR0lnTllPTlJLRk5rRnJPRmRKaWNqQzY1dXdMSDdNR25TejZLcHltNEJpeUs?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-20T23:55:01+00:00"
+          },
+          {
             "title": "Revanth Reddy: నేడు ఆక్స్‌ఫర్డ్‌ వర్సిటీకి సీఎం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzVSUXh4UmxScUZ4VWYyai1Rcnh1Sm9ld2NNUUE1SFJJdGw4c0otOTdVYmVBSG9XbXZvb0Z5dDlDX1VpR1diTkNVa21DMjBGajRLeTFkeGtaejNscllvSU5vOVkxNU5BY2txclRuTkhUclROQlF2S0lkUGc4Tno2TE9sWkZkdGh5aVdUYktmcVVob1p3NjJyR2JpTVptU3VDbXI3cExwc0JtejNaVkE?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-20T23:51:26+00:00"
+          },
+          {
+            "title": "రూ.1.20 కోట్లతో రైలు ప్రయాణానికి యత్నం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGxTU3YySnVndWlhcFFHblBSVF9xRG5ZTkhqd2NtOUtOVlk2djVlamE3SjdrM3NtU25pekdQaVk1VDlRWTBUZzh0NlJlZ2V4ckxiNFpZMXZHOGd5aDRkeWFEeTNKQWVoUktvdW1QUzlTRlFxdGtBQzItX3NyMkgtekp3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-20T23:50:18+00:00"
           },
           {
             "title": "Mahatma Gandhi: గాంధీజీ లేఖలు, సందేశాలకు రికార్డు ధర - Eenadu",
@@ -1114,46 +1135,25 @@
             "published": "2026-08-20T23:50:10+00:00"
           },
           {
+            "title": "రచ్చబండ.. తిరిగొచ్చింది! - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tYU1McVZEX0ptOS1BOUNJczNYY2owdWVISHJjWU5OakFMR2I0cEJWOFZpcTZHcW0wM05GNWVndno5Mmp0djFPZXltTlhMYlgtX3paZ1lFbm4tY0tuVU9HbXpkQ29scHN4QXFjVThZNkltMVJVaWc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-20T23:49:33+00:00"
+          },
+          {
+            "title": "రాబోయేది భారాస ప్రభుత్వమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NZ0w0QlJOTUlhTFdQWUJBb20wSHFObkpDbGdoYndhTGJmcXpDYkMxaGVXVUZLM183OFUyNTZoZXp5dVVLdXg1LUFWRFljWlg1QkNrMm9DdTJaMDFsaTByU3ZIb3NoTFFUUk5rbmxkMF9GTy16SlE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-20T23:48:29+00:00"
+          },
+          {
             "title": "ఏపీ సముద్రతీరంలో అపారమైన వనరులు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMnJpZ1hNT1hJWExfVVI0Y0tPZjE5Z2pKM3I4dzFJVFpKUDRKbk5qM0F4bi1jdEQ0WHdNVnZWQWQtYVlieGs4WHV5V3UzU2ROYVJGcktabzU1d1g2a2JXYkdZTkxETnBnUEkxTWNKdmNsUkhhWnNEUlJoTFE?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-20T23:37:11+00:00"
-          },
-          {
-            "title": "మంత్రి సురేఖ మాజీ ఓఎస్డీపై హత్యాయత్నం కేసు! - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOVZRMkVFTjhCQjhBQVM5bTdIYXk1ZUhmMVV1MS16V1gyaXhKVjRKOEZTQWVJcUlTNXAyUFJNc09RM1h1YlNwY09wSVJEWk5sWVRJbjRYZ0J0bTU3eVQ4bkhQWmhDemlnRzZ0WmVCOHZveWlZS2c?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-20T23:29:06+00:00"
-          },
-          {
-            "title": "ఇక ప్రైవేట్‌ పాఠశాలలపై ఫిర్యాదులకు ఆన్‌లైన్‌ విధానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbzczaTFhUGNXYmU4VC05eGFocjVSVmdYM2gxWUhWZHYtQzd1RDRwcm5PaHZWTEtwQ3d6cTd2RmRBcFVLdWxnSWtHYzFDTExsdHh3Zkc5UUtmc1BIMmVFT1lmeVVXRXJlVkN3Yy1OajVDNmlFR2c?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-20T23:28:25+00:00"
-          },
-          {
-            "title": "సీఎం నాయకత్వాన్ని ప్రశ్నించే నైతిక హక్కు మీకెక్కడిది? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJQlBXOWNaYklGRTNNaGVlblV3N0tzeVRXcG9FR3k5UzVLN2tOdWVEMDZxU1BPeUtzTUVSZUE3dGFmOWlrQW5jV1ZUbjRUbF9pVW0zUXpQZDBheHdIOFR3M3pvTE9fMHV5ZjNtZG5pVDJDWGVtR0E?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-20T23:09:29+00:00"
-          },
-          {
-            "title": "‘కుత్బుల్లాపూర్‌ నర్సింగ్‌ కాలేజీకి భూములు ఇవ్వలేం’ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VQXR5cTNEcTB4UGx1UUFRWmUyUkpLSy1UZVhrenV4U1JKekZoQkhMblQzQVFMVkdSNGhKMF9hXzZvWF95TWdfOGJyUzVoSUxxdHFFVl80Q3JENWVONmZmYmw3LTZrY0c2TkQ0d1NiRnpfSU83QVE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-20T23:02:05+00:00"
-          },
-          {
-            "title": "అగ్నిమాపక నకిలీ ఎన్‌ఓసీల వ్యవహారంలో... ఇద్దరు డీఐఈఓలకు నోటీసులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CS3dSUTZKcTVaLVN3TV9VbUNTVG0wRC1RRzdnVEZ6RTNyZXpDLVZWUWM0Sm9HUlY1bTZzc3F6b3FYRnZfOTJKZnBha0REUUtxcWU1blRoOENMdFhDalpJZVNXZDkzNmRlcGI1dzI3RG1wTGxSWWc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-20T22:56:13+00:00"
           }
         ],
         "Entertainment": [
