@@ -1,37 +1,100 @@
 {
-  "updated_at": "2026-08-22T09:37:14.411691+00:00",
+  "updated_at": "2026-08-22T09:57:41.861619+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "India’s submarine hunting fleet gets stronger with indigenous warship Mangrol",
-            "link": "https://timesofindia.indiatimes.com/defence/news/indias-submarine-hunting-fleet-gets-stronger-with-indigenous-warship-mangrol/articleshow/133421182.cms",
-            "source": "Times of India",
-            "summary": "The Indian Navy proudly welcomes Mangrol, its third indigenous Anti-Submarine Warfare Shallow Water Craft. This state-of-the-art vessel is crucial for enhancing coastal defense and forms part of an ambitious program to build eight such ships. With cutting-edge torpedoes and sonar systems for threat detection, Mangrol is primed for underwater surveillance and anti-submarine missions, bolstering India's capacity in…",
-            "published": "2026-08-22T14:55:50+05:30"
-          },
-          {
-            "title": "Jharkhand exam protesters accuse government of 'betrayal' as High Court stays several job test cancellations",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protesters-accuse-government-of-betrayal-as-high-court-stays-several-job-test-cancellations/article71377044.ece",
+            "title": "Two killed, nine injured in reactor blast at pharma unit in Yadadri-Bhongir",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/workers-killed-in-pharma-unit-blast-near-hyderabad/article71376487.ece",
             "source": "The Hindu",
-            "summary": "The BJP extended its support to the protesters and accused Congress leader Rahul Gandhi of showcasing a \"duplicitous attitude\" over students' welfare. The ruling JMM, on the other hand, alleged the BJP was using students to further its political interests",
-            "published": "2026-08-22T14:52:31+05:30"
+            "summary": "According to police officials, the incident occurred late on Friday, August 21, night triggering panic among residents due to the explosion.",
+            "published": "2026-08-22T15:16:15+05:30"
           },
           {
-            "title": "Tamil Nadu CM Vijay extends Madras Day greetings",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-extends-madras-day-greetings/article71376873.ece",
+            "title": "Judges are not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol",
+            "link": "https://www.thehindu.com/news/national/judges-are-not-gods-wont-get-every-judgment-right-outgoing-sc-judge-sanjay-karol/article71377123.ece",
             "source": "The Hindu",
-            "summary": "Chennai embraces people of diverse languages, communities, and cultures, providing opportunities for all, he said",
-            "published": "2026-08-22T14:46:16+05:30"
+            "summary": "Mr. Karol said that judging requires a certain degree of humility and the ability to see the real person behind every litigant",
+            "published": "2026-08-22T15:14:55+05:30"
           },
           {
-            "title": "‘Misinformation’: Cochin airport rejects SpiceJet’s ‘bad weather in Kochi' claim",
-            "link": "https://www.hindustantimes.com/india-news/misinformation-cochin-airport-rejects-spicejet-bad-weather-in-kochi-claim-101787389296141.html",
+            "title": "BRICS delegates visit Thotlakonda Buddhist site in A.P. on sidelines of Youth and Sports Ministers’ meet",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/brics-delegates-visit-thotlakonda-buddhist-site-in-ap-on-sidelines-of-youth-and-sports-ministers-meet/article71376983.ece",
+            "source": "The Hindu",
+            "summary": "Union Minister Mansukh Mandaviya planted a sapling under ‘Ek Ped Maa Ke Naam’ drive",
+            "published": "2026-08-22T15:14:17+05:30"
+          },
+          {
+            "title": "ONGC promises ₹36.6 crore aid for cancer treatment equipment in Kakinada Government hospital",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ongc-promises-366-crore-aid-for-cancer-treatment-equipment-in-kakinada-government-hospital/article71376980.ece",
+            "source": "The Hindu",
+            "summary": "The Atomic Energy Regulatory Board has permitted the installation of a radiotherapy bunker in the cancer block of GGH-Kakinada, said Deputy CM Pawan Kalyan",
+            "published": "2026-08-22T15:14:01+05:30"
+          },
+          {
+            "title": "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
+            "link": "https://www.thehindu.com/news/national/karnataka/shivamogga-school-teacher-wins-national-teachers-award-to-receive-award-from-president-in-delhi/article71376637.ece",
+            "source": "The Hindu",
+            "summary": "Ms. Ratnakumari, who has over 30 years of teaching experience, is known for adopting innovative techniques to make teaching effective. She believes in engaging schoolchildren through activities on campus.",
+            "published": "2026-08-22T15:12:41+05:30"
+          },
+          {
+            "title": "Chintha Jerome elected DYFI’s first woman State president in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/chintha-jerome-elected-dyfis-first-woman-state-president-in-keralam/article71377068.ece",
+            "source": "The Hindu",
+            "summary": "Former SFI State secretary and Kalliaseri MLA M. Vijin was elected State secretary, while R. Rahul of Alappuzha was elected treasurer",
+            "published": "2026-08-22T15:11:43+05:30"
+          },
+          {
+            "title": "Four years after Supreme Court-formed panel’s nudge, Assam mum on construction in Kaziranga animal corridors",
+            "link": "https://www.thehindu.com/news/national/assam/four-years-after-supreme-court-formed-panels-nudge-assam-mum-on-construction-in-kaziranga-animal-corridors/article71377030.ece",
+            "source": "The Hindu",
+            "summary": "In March 2022, the Central Empowered Committee sought a response “without delay” from the Assam Chief Secretary on the list of activities undertaken in each of the nine corridors in violation of the Supreme Court’s order on April 12, 2019",
+            "published": "2026-08-22T15:08:11+05:30"
+          },
+          {
+            "title": "TNCC president Manickam Tagore opposes proposed charges on Jan Dhan account withdrawals",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tncc-president-manickam-tagore-opposes-proposed-charges-on-jan-dhan-account-withdrawals/article71377000.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-22T15:06:31+05:30"
+          },
+          {
+            "title": "Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM",
+            "link": "https://www.hindustantimes.com/india-news/cinema-set-punch-dialogues-mk-stalin-s-sharp-dig-at-cm-vijay-over-tamil-nadu-assembly-conduct-101787387874162.html",
             "source": "Hindustan Times",
-            "summary": "The authorities said there was no adverse weather in Kochi that could disrupt the flights at the airport.",
-            "published": "2026-08-22T14:45:06+05:30"
+            "summary": "Addressing a DMK executive meeting, MK Stalin also accused CM Vijay of changing the names of schemes introduced during the DMK's tenure.",
+            "published": "2026-08-22T15:06:24+05:30"
+          },
+          {
+            "title": "Sikhs protest outside Rahul Gandhi's residence against Congress leaders calling Sajjan Kumar ‘hero’",
+            "link": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
+            "source": "The Hindu",
+            "summary": "The protesters said they were seeking an apology from Mr. Gandhi and other Congress leaders over the alleged remarks",
+            "published": "2026-08-22T15:04:39+05:30"
+          },
+          {
+            "title": "3 detained for burning leopard caught in snare in Karnataka’s Tumakuru: Official",
+            "link": "https://www.hindustantimes.com/india-news/3-detained-for-burning-leopard-caught-in-snare-in-karnataka-s-tumakuru-official-101787391182273.html",
+            "source": "Hindustan Times",
+            "summary": "Frustrated by the crop loss and seeking to protect the remaining crop from wild animals, a sharp wire snare trap was illegally set around the field",
+            "published": "2026-08-22T15:03:01+05:30"
+          },
+          {
+            "title": "Texas constable unplugs 3 surveillance cameras, tells Flock to collect them",
+            "link": "https://timesofindia.indiatimes.com/world/us/texas-constable-unplugged-3-police-surveillance-cameras-after-county-ended-flock-contract-then-told-company-to-come-get-your-garbage/articleshow/133421043.cms",
+            "source": "Times of India",
+            "summary": "Following a contract cancellation with Flock Safety cameras, Hood County officials have initiated a refund request and equipment retrieval. A local constable took the initiative to disable and cover the cameras, openly criticizing the issue of warrantless surveillance. This controversy feeds into a broader discussion across the country regarding the clash between enhanced investigatory methods and the preservation…",
+            "published": "2026-08-22T15:01:39+05:30"
+          },
+          {
+            "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
+            "source": "Economic Times",
+            "summary": "BSE’s new Closing Auction Session has faced weak participation, with Nuvama reporting sharp declines in option premium volumes and contracts. Thin liquidity is creating a self-reinforcing cycle, while early confusion, retail concerns and alleged CAS manipulation have further intensified scrutiny of the new closing-price mechanism.",
+            "published": "2026-08-22T14:58:53+05:30"
           },
           {
             "title": "Iran says new US sanctions violate sovereignty of other states",
@@ -39,155 +102,92 @@
             "source": "Al Jazeera",
             "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.",
             "published": "2026-08-22T09:14:09+00:00"
-          },
-          {
-            "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-            "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-            "published": "2026-08-22T09:13:26+00:00"
-          },
-          {
-            "title": "Six for Starc, six for Shoriful, Australia in front after 18-wicket opening day",
-            "link": "https://www.cricinfo.com/ci/content/story/1550957.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Bangladesh were knocked over in just 34 overs for 64 but fought back to leave Australia eight down - though 101 runs in front - by the end of the first day",
-            "published": "2026-08-22T09:12:16+00:00"
-          },
-          {
-            "title": "‘Paise Ki Goonj’: BJP claims Congress paid influencers to draw crowds for Rahul Gandhi’s Pune event",
-            "link": "https://www.thehindu.com/news/national/paise-ki-goonj-bjp-claims-congress-paid-influencers-to-draw-crowds-for-rahul-gandhis-pune-event/article71376940.ece",
-            "source": "The Hindu",
-            "summary": "BJP leaders claimed videos had surfaced showing offers of ₹30,000 to ₹35,000 to social media influencers to promote the Pune event, covering their travel expenses and promoting the programme online",
-            "published": "2026-08-22T14:40:59+05:30"
-          },
-          {
-            "title": "Fifth in WTC, two home whitewashes: Gambhir says India 'not struggling' in Tests",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rankings-do-not-matter-under-fire-gautam-gambhir-says-india-not-struggling-in-tests/articleshow/133420994.cms",
-            "source": "Times of India",
-            "summary": "India go into the second Test against Sri Lanka in Colombo with a 1-0 lead after their 165-run win in Galle. But the series has also kept the focus on a team that is trying to build a new Test side after the departure of some of its biggest names.",
-            "published": "2026-08-22T14:38:54+05:30"
-          },
-          {
-            "title": "TikTok to pay $400 million in US child privacy settlement over alleged violations",
-            "link": "https://timesofindia.indiatimes.com/world/us/tiktok-to-pay-400-million-in-us-child-privacy-settlement-over-alleged-violations/articleshow/133420785.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-22T14:34:13+05:30"
-          },
-          {
-            "title": "SL hope for spinners to step up to equalise in Colombo",
-            "link": "https://www.cricinfo.com/ci/content/story/1551014.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Having put in the performance they did in Galle, anything less than a win now will be unsatisfactory for India irrespective of the toss",
-            "published": "2026-08-22T09:03:20+00:00"
-          },
-          {
-            "title": "Annamalai urges Tamil Nadu government to form high-level panel to re-survey land in Megamalai",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-urges-tamil-nadu-government-to-form-high-level-panel-to-re-survey-land-in-megamalai/article71376994.ece",
-            "source": "The Hindu",
-            "summary": "He said protecting the forests and tiger reserve was as important as protecting the livelihoods of people who had lived there for several generations",
-            "published": "2026-08-22T14:29:17+05:30"
-          },
-          {
-            "title": "Mom's Belief operator to launch IPO on Sep 1",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
-            "source": "Economic Times",
-            "summary": "On September 1, Rays of Belief Ltd will make its debut in the stock market with an initial public offering. With ambitious plans to open 319 new centers across India by FY29, the IPO proceeds will support expansion efforts, including fit-outs and technological advancements. The company aims to enhance neurodevelopmental care in Tier-II and Tier-III cities while showcasing impressive revenue growth.",
-            "published": "2026-08-22T14:25:28+05:30"
-          },
-          {
-            "title": "Punnamada in Keralam’s Alappuzha sizzles as boat clubs battle for NTBR crown",
-            "link": "https://www.thehindu.com/news/national/kerala/punnamada-in-keralams-alappuzha-sizzles-as-boat-clubs-battle-for-ntbr-crown/article71376956.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T14:23:28+05:30"
           }
         ],
         "India": [
           {
-            "title": "India’s submarine hunting fleet gets stronger with indigenous warship Mangrol",
-            "link": "https://timesofindia.indiatimes.com/defence/news/indias-submarine-hunting-fleet-gets-stronger-with-indigenous-warship-mangrol/articleshow/133421182.cms",
-            "source": "Times of India",
-            "summary": "The Indian Navy proudly welcomes Mangrol, its third indigenous Anti-Submarine Warfare Shallow Water Craft. This state-of-the-art vessel is crucial for enhancing coastal defense and forms part of an ambitious program to build eight such ships. With cutting-edge torpedoes and sonar systems for threat detection, Mangrol is primed for underwater surveillance and anti-submarine missions, bolstering India's capacity in…",
-            "published": "2026-08-22T14:55:50+05:30"
-          },
-          {
-            "title": "Jharkhand exam protesters accuse government of 'betrayal' as High Court stays several job test cancellations",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protesters-accuse-government-of-betrayal-as-high-court-stays-several-job-test-cancellations/article71377044.ece",
+            "title": "Two killed, nine injured in reactor blast at pharma unit in Yadadri-Bhongir",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/workers-killed-in-pharma-unit-blast-near-hyderabad/article71376487.ece",
             "source": "The Hindu",
-            "summary": "The BJP extended its support to the protesters and accused Congress leader Rahul Gandhi of showcasing a \"duplicitous attitude\" over students' welfare. The ruling JMM, on the other hand, alleged the BJP was using students to further its political interests",
-            "published": "2026-08-22T14:52:31+05:30"
+            "summary": "According to police officials, the incident occurred late on Friday, August 21, night triggering panic among residents due to the explosion.",
+            "published": "2026-08-22T15:16:15+05:30"
           },
           {
-            "title": "Tamil Nadu CM Vijay extends Madras Day greetings",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-extends-madras-day-greetings/article71376873.ece",
+            "title": "Judges are not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol",
+            "link": "https://www.thehindu.com/news/national/judges-are-not-gods-wont-get-every-judgment-right-outgoing-sc-judge-sanjay-karol/article71377123.ece",
             "source": "The Hindu",
-            "summary": "Chennai embraces people of diverse languages, communities, and cultures, providing opportunities for all, he said",
-            "published": "2026-08-22T14:46:16+05:30"
+            "summary": "Mr. Karol said that judging requires a certain degree of humility and the ability to see the real person behind every litigant",
+            "published": "2026-08-22T15:14:55+05:30"
           },
           {
-            "title": "‘Misinformation’: Cochin airport rejects SpiceJet’s ‘bad weather in Kochi' claim",
-            "link": "https://www.hindustantimes.com/india-news/misinformation-cochin-airport-rejects-spicejet-bad-weather-in-kochi-claim-101787389296141.html",
+            "title": "BRICS delegates visit Thotlakonda Buddhist site in A.P. on sidelines of Youth and Sports Ministers’ meet",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/brics-delegates-visit-thotlakonda-buddhist-site-in-ap-on-sidelines-of-youth-and-sports-ministers-meet/article71376983.ece",
+            "source": "The Hindu",
+            "summary": "Union Minister Mansukh Mandaviya planted a sapling under ‘Ek Ped Maa Ke Naam’ drive",
+            "published": "2026-08-22T15:14:17+05:30"
+          },
+          {
+            "title": "ONGC promises ₹36.6 crore aid for cancer treatment equipment in Kakinada Government hospital",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ongc-promises-366-crore-aid-for-cancer-treatment-equipment-in-kakinada-government-hospital/article71376980.ece",
+            "source": "The Hindu",
+            "summary": "The Atomic Energy Regulatory Board has permitted the installation of a radiotherapy bunker in the cancer block of GGH-Kakinada, said Deputy CM Pawan Kalyan",
+            "published": "2026-08-22T15:14:01+05:30"
+          },
+          {
+            "title": "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
+            "link": "https://www.thehindu.com/news/national/karnataka/shivamogga-school-teacher-wins-national-teachers-award-to-receive-award-from-president-in-delhi/article71376637.ece",
+            "source": "The Hindu",
+            "summary": "Ms. Ratnakumari, who has over 30 years of teaching experience, is known for adopting innovative techniques to make teaching effective. She believes in engaging schoolchildren through activities on campus.",
+            "published": "2026-08-22T15:12:41+05:30"
+          },
+          {
+            "title": "Chintha Jerome elected DYFI’s first woman State president in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/chintha-jerome-elected-dyfis-first-woman-state-president-in-keralam/article71377068.ece",
+            "source": "The Hindu",
+            "summary": "Former SFI State secretary and Kalliaseri MLA M. Vijin was elected State secretary, while R. Rahul of Alappuzha was elected treasurer",
+            "published": "2026-08-22T15:11:43+05:30"
+          },
+          {
+            "title": "Four years after Supreme Court-formed panel’s nudge, Assam mum on construction in Kaziranga animal corridors",
+            "link": "https://www.thehindu.com/news/national/assam/four-years-after-supreme-court-formed-panels-nudge-assam-mum-on-construction-in-kaziranga-animal-corridors/article71377030.ece",
+            "source": "The Hindu",
+            "summary": "In March 2022, the Central Empowered Committee sought a response “without delay” from the Assam Chief Secretary on the list of activities undertaken in each of the nine corridors in violation of the Supreme Court’s order on April 12, 2019",
+            "published": "2026-08-22T15:08:11+05:30"
+          },
+          {
+            "title": "TNCC president Manickam Tagore opposes proposed charges on Jan Dhan account withdrawals",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tncc-president-manickam-tagore-opposes-proposed-charges-on-jan-dhan-account-withdrawals/article71377000.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-22T15:06:31+05:30"
+          },
+          {
+            "title": "Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM",
+            "link": "https://www.hindustantimes.com/india-news/cinema-set-punch-dialogues-mk-stalin-s-sharp-dig-at-cm-vijay-over-tamil-nadu-assembly-conduct-101787387874162.html",
             "source": "Hindustan Times",
-            "summary": "The authorities said there was no adverse weather in Kochi that could disrupt the flights at the airport.",
-            "published": "2026-08-22T14:45:06+05:30"
+            "summary": "Addressing a DMK executive meeting, MK Stalin also accused CM Vijay of changing the names of schemes introduced during the DMK's tenure.",
+            "published": "2026-08-22T15:06:24+05:30"
           },
           {
-            "title": "‘Paise Ki Goonj’: BJP claims Congress paid influencers to draw crowds for Rahul Gandhi’s Pune event",
-            "link": "https://www.thehindu.com/news/national/paise-ki-goonj-bjp-claims-congress-paid-influencers-to-draw-crowds-for-rahul-gandhis-pune-event/article71376940.ece",
+            "title": "Sikhs protest outside Rahul Gandhi's residence against Congress leaders calling Sajjan Kumar ‘hero’",
+            "link": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
             "source": "The Hindu",
-            "summary": "BJP leaders claimed videos had surfaced showing offers of ₹30,000 to ₹35,000 to social media influencers to promote the Pune event, covering their travel expenses and promoting the programme online",
-            "published": "2026-08-22T14:40:59+05:30"
+            "summary": "The protesters said they were seeking an apology from Mr. Gandhi and other Congress leaders over the alleged remarks",
+            "published": "2026-08-22T15:04:39+05:30"
           },
           {
-            "title": "Fifth in WTC, two home whitewashes: Gambhir says India 'not struggling' in Tests",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rankings-do-not-matter-under-fire-gautam-gambhir-says-india-not-struggling-in-tests/articleshow/133420994.cms",
-            "source": "Times of India",
-            "summary": "India go into the second Test against Sri Lanka in Colombo with a 1-0 lead after their 165-run win in Galle. But the series has also kept the focus on a team that is trying to build a new Test side after the departure of some of its biggest names.",
-            "published": "2026-08-22T14:38:54+05:30"
-          },
-          {
-            "title": "TikTok to pay $400 million in US child privacy settlement over alleged violations",
-            "link": "https://timesofindia.indiatimes.com/world/us/tiktok-to-pay-400-million-in-us-child-privacy-settlement-over-alleged-violations/articleshow/133420785.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-22T14:34:13+05:30"
-          },
-          {
-            "title": "Annamalai urges Tamil Nadu government to form high-level panel to re-survey land in Megamalai",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-urges-tamil-nadu-government-to-form-high-level-panel-to-re-survey-land-in-megamalai/article71376994.ece",
-            "source": "The Hindu",
-            "summary": "He said protecting the forests and tiger reserve was as important as protecting the livelihoods of people who had lived there for several generations",
-            "published": "2026-08-22T14:29:17+05:30"
-          },
-          {
-            "title": "Punnamada in Keralam’s Alappuzha sizzles as boat clubs battle for NTBR crown",
-            "link": "https://www.thehindu.com/news/national/kerala/punnamada-in-keralams-alappuzha-sizzles-as-boat-clubs-battle-for-ntbr-crown/article71376956.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-22T14:23:28+05:30"
-          },
-          {
-            "title": "Engineer’s family death pact: Accussed Sk. Sadhik Khan arrested in Uttar Pradesh",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/engineers-family-death-pact-accussed-sk-sadhik-khan-arrested-in-uttar-pradesh/article71376946.ece",
-            "source": "The Hindu",
-            "summary": "Eluru Range Inspector General of Police G.V.G. Ashok Kumar told The Hindu that seven teams had been deployed to nab Mr. Sadhik during the search operation",
-            "published": "2026-08-22T14:14:40+05:30"
-          },
-          {
-            "title": "Judges not gods, won't get every judgment right: Outgoing SC Judge Sanjay Karol",
-            "link": "https://www.hindustantimes.com/india-news/judges-not-gods-won-t-get-every-judgment-right-outgoing-sc-judge-sanjay-karol-101787388264948.html",
+            "title": "3 detained for burning leopard caught in snare in Karnataka’s Tumakuru: Official",
+            "link": "https://www.hindustantimes.com/india-news/3-detained-for-burning-leopard-caught-in-snare-in-karnataka-s-tumakuru-official-101787391182273.html",
             "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-08-22T14:14:24+05:30"
+            "summary": "Frustrated by the crop loss and seeking to protect the remaining crop from wild animals, a sharp wire snare trap was illegally set around the field",
+            "published": "2026-08-22T15:03:01+05:30"
           },
           {
-            "title": "GitHub CTO apologises to developers after one of the biggest outages",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/github-cto-apologises-to-developers-after-one-of-the-biggest-outages-admits-since-april-monthly-commits-have-doubled-this-shows-pressure-on-our-systems-but-it-is-no-excuse-for-outages/articleshow/133420662.cms",
+            "title": "Texas constable unplugs 3 surveillance cameras, tells Flock to collect them",
+            "link": "https://timesofindia.indiatimes.com/world/us/texas-constable-unplugged-3-police-surveillance-cameras-after-county-ended-flock-contract-then-told-company-to-come-get-your-garbage/articleshow/133421043.cms",
             "source": "Times of India",
-            "summary": "GitHub experienced a significant outage lasting nearly eight hours on August seventeenth. The platform failed because it ran out of storage capacity during a traffic peak. A critical infrastructure component in the Central US data center could not scale effectively. This led to widespread service disruptions affecting various GitHub features and tools. GitHub has apologized and is implementing fixes to prevent…",
-            "published": "2026-08-22T14:13:23+05:30"
+            "summary": "Following a contract cancellation with Flock Safety cameras, Hood County officials have initiated a refund request and equipment retrieval. A local constable took the initiative to disable and cover the cameras, openly criticizing the issue of warrantless surveillance. This controversy feeds into a broader discussion across the country regarding the clash between enhanced investigatory methods and the preservation…",
+            "published": "2026-08-22T15:01:39+05:30"
           }
         ],
         "World": [
@@ -255,7 +255,7 @@
             "published": "2026-08-22T07:41:21+00:00"
           },
           {
-            "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+            "title": "Libya’s brain drain, 15 years after Tripoli fell",
             "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
@@ -278,11 +278,11 @@
         ],
         "Business": [
           {
-            "title": "Mom's Belief operator to launch IPO on Sep 1",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
+            "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
             "source": "Economic Times",
-            "summary": "On September 1, Rays of Belief Ltd will make its debut in the stock market with an initial public offering. With ambitious plans to open 319 new centers across India by FY29, the IPO proceeds will support expansion efforts, including fit-outs and technological advancements. The company aims to enhance neurodevelopmental care in Tier-II and Tier-III cities while showcasing impressive revenue growth.",
-            "published": "2026-08-22T14:25:28+05:30"
+            "summary": "BSE’s new Closing Auction Session has faced weak participation, with Nuvama reporting sharp declines in option premium volumes and contracts. Thin liquidity is creating a self-reinforcing cycle, while early confusion, retail concerns and alleged CAS manipulation have further intensified scrutiny of the new closing-price mechanism.",
+            "published": "2026-08-22T14:58:53+05:30"
           },
           {
             "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
@@ -320,11 +320,11 @@
             "published": "2026-08-22T12:14:47+05:30"
           },
           {
-            "title": "ETMarkets NRI Talk | Rs 1 crore, 5-7 years: How NRIs should allocate across Indian equities, bonds, gold and alternatives, says Rohit Sarin",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms",
+            "title": "Planning a Rs 10 crore retirement corpus? Know the mutual fund SIP amount you need",
+            "link": "https://economictimes.indiatimes.com/mf/analysis/planning-a-rs-10-crore-retirement-corpus-know-the-mutual-fund-sip-amount-you-need/target-corpus/slideshow/133418612.cms",
             "source": "Economic Times",
-            "summary": "NRIs investing in India should assess their global portfolio, existing India exposure, liquidity, risk appetite, taxes and repatriation needs before investing. For a Rs 1 crore portfolio, an illustrative allocation is 55–65% equities, 15–20% fixed income, 5–10% gold and 5–10% alternatives, complemented by real assets and diversification.",
-            "published": "2026-08-22T10:41:45+05:30"
+            "summary": "Are you planning a retirement corpus of Rs 10 crore by the time you reach the age of 60? Here is the mutual fund SIP amount you need to invest to reach your target corpus, according to the Wealth Conversations Report by FundsIndia.",
+            "published": "2026-08-22T11:31:07+05:30"
           },
           {
             "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "जंतर मंतर प्रोटेस्टः प्रदर्शनकारियों पर फ़ेशियल रिकॉग्निशन तकनीक से कैसे रखी जा रही थी नज़र - बीबीसी पड़ताल",
+            "link": "https://www.bbc.com/hindi/articles/cy8e6lgx3l4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-22T09:52:33+00:00"
+          },
+          {
+            "title": "'मुसलमानों के साथ यही करती है BJP', शहजाद पूनावाला के अब किस बयान पर मचा है बवाल, राहुल गांधी की खोली दी पोल",
+            "link": "https://hindi.oneindia.com/news/india/shehzad-poonawalla-attacks-congress-post-bjp-exit-why-he-says-bjp-musalmano-ke-sath-yahi-karti-hai-1634175.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-22T15:13:00+05:30"
+          },
+          {
             "title": "पलायन पर लगाम और सपनों को उड़ान: उत्तराखंड में 'युवा आयोग', Gen Z के लिए क्या है धामी सरकार का मास्टरप्लान",
             "link": "https://hindi.oneindia.com/news/uttarakhand/youth-commission-boosts-employment-skill-development-prevents-migration-india-1634169.html",
             "source": "Oneindia Hindi",
@@ -655,7 +669,7 @@
             "published": "2026-08-22T14:31:18+05:30"
           },
           {
-            "title": "सिख परिवारों का राहुल के घर के बाहर प्रदर्शन:सिख दंगों के दोषी सज्जन कुमार को हीरो कहने पर नाराजगी; 2 दिन पहले निधन हुआ था",
+            "title": "सिख परिवारों का राहुल के घर के बाहर प्रदर्शन:पुतला जलाया, सिख दंगों के दोषी सज्जन को हीरो कहने पर नाराजगी; 2 दिन पहले निधन हुआ",
             "link": "https://www.bhaskar.com/g/national/news/new-delhi-sikh-protest-rahul-gandhi-sajjan-kumar-controversy-update-138801443.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-22T13:16:35+05:30"
-          },
-          {
-            "title": "Bihar: पटना में फिर बड़ा हंगामा, असिस्टेंट प्रोफेसर अभ्यर्थियों के लोकभवन मार्च के दौरान पुलिस से झड़प",
-            "link": "https://www.amarujala.com/bihar/patna/bihar-news-assistant-professor-candidates-march-to-lok-bhawan-in-patna-new-recruitment-rules-ugc-2026-08-22",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-22T12:57:54+05:30"
-          },
-          {
-            "title": "Poonam Dhillon: अस्पताल में भर्ती हुईं पूनम ढिल्लों, दोस्त पद्मिनी कोल्हापुरे ने दी हेल्थ अपडेट; कैसा है हाल?",
-            "link": "https://www.amarujala.com/entertainment/bollywood/poonam-dhillon-admitted-to-mumbais-lilavati-hospital-actress-diagnosed-with-dengue-2026-08-22",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-22T12:57:36+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'લતીફને ભૂલતા નહીં...' - ગુજરાતમાં ભાજપે વર્ષો સુધી એક ગૅંગસ્ટરનો રાજકીય ફાયદો લીધો?",
+            "link": "https://www.bbc.com/gujarati/articles/cn0nd9jxnpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "ગુજરાતના ઈતિહાસમાં 1980ના દાયકામાં અબ્દુલ લતીફના નામનો ભારે આતંક હતો અને આજે પણ જ્યારે તેની ચર્ચા થાય ત્યારે ગુનાખોરી અને રાજકારણના અંધારા પાસાઓ સામે આવે છે. લતીફ માત્ર એક સામાન્ય ગેંગસ્ટર નહોતો, પરંતુ તેણે ગેરકાયદે દારૂના ધંધા અને હત્યાઓ દ્વારા અમદાવાદમાં એક મોટું સામ્રાજ્ય ઉભું કર્યું હતું. તેના નામ સાથે અનેક ગુનાહિત પ્રવૃત્તિઓ જોડાયેલી હોવા છતાં, તે સમયે રાજકારણ સાથેના તેના કથિત સંબંધોએ અનેક પ્રશ્નો ઊભા કર્યા હતા. અહેવાલો મુજબ, ભાજપ જેવા મોટા પક્ષોએ પણ પોતાના રાજકીય ફાયદા માટે લતીફ જેવા તત્વોનો ઉપયોગ કર્યો હોવાની વાતો દાયકાઓથી ચાલી રહી છે. લતીફનું પ્રભુત્વ એટલું વધી ગયું હતું કે તે ચૂંટણી લડવા સુધી સક્રિય થયો હતો, જે તે સમયની રાજકીય નૈતિકતા પર મોટો સવાલ હતો. લતીફની વાર્તા એ વાતની સાક્ષી છે કે કેવી રીતે ગુનેગારો રાજકારણના આશરે પોતાની સુરક્ષા અને સત્તા મેળવતા હોય છે. ગુજરાતના સામાજિક અને રાજકીય માળખા પર આ ગેંગસ્ટરના પ્રભાવની ચર્ચાઓ આજે પણ રાજકીય ગલિયારાઓમાં થતી રહે છે, જે દર્શાવે છે કે આ એક જટિલ અને સંવેદનશીલ વિષય છે.",
+            "published": "2026-08-22T09:55:02+00:00"
+          },
+          {
+            "title": "તમિલનાડુમાં DMK ધારાસભ્યોનો સરકારી કાર લેવાનો ઇનકાર:ઉદયનિધિ બોલ્યા- સરકાર દેવામાં છે, ફક્ત જરૂરિયાતમંદ ધારાસભ્યોને જ આપવામાં આવે",
+            "link": "https://www.divyabhaskar.co.in/national/news/tamilnadu-dmk-mla-refuse-government-cars-udhayanidhi-stalin-statement-138802037.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-22T09:50:31+00:00"
+          },
+          {
+            "title": "શીખ પરિવારોનું રાહુલ ગાંધીના ઘરની બહાર પ્રદર્શન:શીખ રમખાણોના દોષિત સજ્જન કુમારને હીરો કહેવા પર નારાજગી; 2 દિવસ પહેલા નિધન થયું હતું",
+            "link": "https://www.divyabhaskar.co.in/national/news/sajjan-kumar-controversy-protest-rahul-gandhi-house-delhi-138802020.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-22T09:49:08+00:00"
+          },
+          {
+            "title": "શરદી-ખાંસીની બે દવાઓનું કોમ્બિનેશન બાળકો માટે પ્રતિબંધિત:4 વર્ષથી નાના બાળકોને જોખમ, પેકેટ પર ચેતવણી લખવી જરૂરી",
+            "link": "https://www.divyabhaskar.co.in/national/news/cough-cold-syrup-ban-children-warning-label-india-2026-138801938.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-22T09:41:20+00:00"
+          },
+          {
             "title": "આઈફોન માટે પહાડ પરથી કૂદેલા યુવકનો નવો શોકિંગ VIDEO:બચાવવા જતાં પિતા પણ નીચે પડ્યા, આઘાતમાં માતાએ પડતું મુક્યું, ગણતરીની મિનિટોમાં જ આખો પરિવાર ખતમ",
             "link": "https://www.divyabhaskar.co.in/national/news/chhatrapati-sambhajinagar-family-death-iphone-emi-controversy-video-138801792.html",
             "source": "Divya Bhaskar",
@@ -858,34 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-22T07:05:58+00:00"
-          },
-          {
-            "title": "મોહાલીમાં કપલે ઝેર પીધું, વિદેશ જવા માટે 36 લાખ આપ્યા:પત્નીનું મોત, પતિ હોસ્પિટલમાં; એજન્ટે છોકરી સાથે ખોટા લગ્ન કરાવડાવ્યા; 7 પાનાની સુસાઈડ નોટ મળી",
-            "link": "https://www.divyabhaskar.co.in/national/news/mohali-couple-suicide-case-fraud-visa-agent-investigation-138800769.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-22T07:05:23+00:00"
-          },
-          {
-            "title": "ચંડીગઢમાં મહિલાઓને મળશે ફ્રી iPhone:વેપારીએ કહ્યું- રોજ 5ને આપશે; પહેલા ₹500-₹500 વહેંચી ચૂક્યા છે, પેટ્રોલની લંગર લગાવી શક્યા નથી",
-            "link": "https://www.divyabhaskar.co.in/national/news/chandigarh-businessman-rakesh-trehan-offer-free-iphone-women-138800557.html",
-            "source": "Divya Bhaskar",
-            "summary": "ચંડીગઢના એક અનોખા ઉદ્યોગપતિ રાકેશ ત્રેહન, જેઓ ‘રાજા ધી કિંગ’ તરીકે જાણીતા છે, ફરી એકવાર ચર્ચામાં આવ્યા છે. અગાઉ તેમણે પેટ્રોલની લંગરની જાહેરાત કરીને સૌનું ધ્યાન ખેંચ્યું હતું, પરંતુ હવે તેઓ મહિલાઓને ફ્રી આઈફોન આપવાની તૈયારી કરી રહ્યા છે. આ યોજનાના ભાગરૂપે તેમણે 18 વર્ષથી વધુ ઉંમરની મહિલાઓ માટે એક વોટ્સએપ ગ્રુપ બનાવ્યું છે. આ સ્કીમનો લાભ લેવા માટે મહિલાઓએ આપેલા મોબાઈલ નંબર પર સંપર્ક કરી પોતાનું રજીસ્ટ્રેશન કરાવવું પડે છે. ગ્રુપમાં જોડાયા બાદ મહિલાઓએ ‘જય માતા દી’ લખીને પોતાની હાજરી નોંધાવવાની રહે છે. રાકેશ ત્રેહનના મતે, આ એક પ્રકારની લોકકલ્યાણની પહેલ છે, જેની પાછળનો મુખ્ય હેતુ લોકોની મદદ કરવાનો છે. અગાઉ તેઓ 500-500 રૂપિયાની વહેંચણી પણ કરી ચૂક્યા છે. જોકે, તેમની આ પ્રકારની જાહેરાતો અને કામ કરવાની રીત હંમેશા લોકોમાં કુતૂહલ અને ચર્ચાનો વિષય બનતી હોય છે. હવે જોવાનું એ રહેશે કે આ ફ્રી આઈફોન વહેંચવાની તેમની આ યોજના કેટલી સફળ થાય છે અને કેટલી મહિલાઓને તેનો સીધો લાભ મળે છે.",
-            "published": "2026-08-22T06:37:28+00:00"
-          },
-          {
-            "title": "નવી BJP ટીમ સાથે નિતિન નબીનની પ્રથમ બેઠક:વંદે માતરમના તમામ 6 અંતરા ગવાયા; આગામી ચૂંટણીઓ અને યુવાનોને જોડવા પર ચર્ચા થઈ",
-            "link": "https://www.divyabhaskar.co.in/national/news/nitin-nabin-bjp-team-meeting-election-strategy-youth-engagement-138800466.html",
-            "source": "Divya Bhaskar",
-            "summary": "ભાજપમાં સંગઠનાત્મક ફેરફારો અને નવી ટીમના ગઠન બાદ એક મહત્વની બેઠક દિલ્હી ખાતે યોજાઈ હતી. ભાજપ અધ્યક્ષ નિતિન નબીનની અધ્યક્ષતામાં મળેલી આ પ્રથમ બેઠકમાં પાર્ટીની નવી 65 સભ્યોની રાષ્ટ્રીય ટીમે ભાગ લીધો હતો. બેઠકની શરૂઆત ખૂબ જ દેશભક્તિના માહોલમાં થઈ હતી, જેમાં વંદે માતરમના તમામ 6 અંતરા ગાઈને રાષ્ટ્ર પ્રત્યે આદર વ્યક્ત કરવામાં આવ્યો હતો. આ બેઠકનો મુખ્ય ઉદ્દેશ્ય આગામી વિધાનસભા ચૂંટણીઓ માટે મજબૂત રણનીતિ તૈયાર કરવાનો હતો. સંગઠનને બૂથ સ્તર સુધી મજબૂત બનાવવા અને યુવા પેઢીને પાર્ટી સાથે જોડવા પર ભાર મૂકવામાં આવ્યો હતો. સાથે જ, સરકારની કલ્યાણકારી યોજનાઓ છેવાડાના માનવી સુધી પહોંચે તે માટેનો રોડમેપ પણ તૈયાર કરવામાં આવ્યો છે. નિતિન નબીન ત્યારબાદ ભાજપ શાસિત રાજ્યોના મુખ્યમંત્રીઓ અને પ્રદેશ અધ્યક્ષો સાથે પણ મહત્વની ચર્ચા કરી રહ્યા છે, જે સૂચવે છે કે ભાજપ હવે આક્રમક રીતે આગામી રાજકીય પડકારોનો સામનો કરવા માટે સજ્જ થઈ રહ્યો છે. સંગઠનમાં નવો જોશ ભરવા અને કાર્યકરોમાં એકતા લાવવાનો આ એક સુનિયોજિત પ્રયાસ માનવામાં આવી રહ્યો છે.",
-            "published": "2026-08-22T06:24:16+00:00"
-          },
-          {
-            "title": "'લતીફને ભૂલતા નહીં...' - ગુજરાતમાં ભાજપે વર્ષો સુધી એક ગૅંગસ્ટરનો રાજકીય ફાયદો લીધો?",
-            "link": "https://www.bbc.com/gujarati/articles/cn0nd9jxnpxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "ગુજરાતના ઈતિહાસમાં 1980ના દાયકામાં અબ્દુલ લતીફના નામનો ભારે આતંક હતો અને આજે પણ જ્યારે તેની ચર્ચા થાય ત્યારે ગુનાખોરી અને રાજકારણના અંધારા પાસાઓ સામે આવે છે. લતીફ માત્ર એક સામાન્ય ગેંગસ્ટર નહોતો, પરંતુ તેણે ગેરકાયદે દારૂના ધંધા અને હત્યાઓ દ્વારા અમદાવાદમાં એક મોટું સામ્રાજ્ય ઉભું કર્યું હતું. તેના નામ સાથે અનેક ગુનાહિત પ્રવૃત્તિઓ જોડાયેલી હોવા છતાં, તે સમયે રાજકારણ સાથેના તેના કથિત સંબંધોએ અનેક પ્રશ્નો ઊભા કર્યા હતા. અહેવાલો મુજબ, ભાજપ જેવા મોટા પક્ષોએ પણ પોતાના રાજકીય ફાયદા માટે લતીફ જેવા તત્વોનો ઉપયોગ કર્યો હોવાની વાતો દાયકાઓથી ચાલી રહી છે. લતીફનું પ્રભુત્વ એટલું વધી ગયું હતું કે તે ચૂંટણી લડવા સુધી સક્રિય થયો હતો, જે તે સમયની રાજકીય નૈતિકતા પર મોટો સવાલ હતો. લતીફની વાર્તા એ વાતની સાક્ષી છે કે કેવી રીતે ગુનેગારો રાજકારણના આશરે પોતાની સુરક્ષા અને સત્તા મેળવતા હોય છે. ગુજરાતના સામાજિક અને રાજકીય માળખા પર આ ગેંગસ્ટરના પ્રભાવની ચર્ચાઓ આજે પણ રાજકીય ગલિયારાઓમાં થતી રહે છે, જે દર્શાવે છે કે આ એક જટિલ અને સંવેદનશીલ વિષય છે.",
-            "published": "2026-08-22T06:03:35+00:00"
           }
         ]
       }
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "అమెరికాలో ఆ ఇద్దరు వీవీఐపీలతో భేటీకి రేవంత్.. ! అందుకేనా కేంద్రం బ్రేక్ ?",
+            "link": "https://telugu.oneindia.com/news/telangana/cm-revanth-reddy-us-visit-faces-centre-s-objections-over-plans-to-meet-jd-vance-zohran-mamdani-502815.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-22T15:25:11+05:30"
+          },
+          {
+            "title": "CURRENT AFFAIRS - eenadu pratibha",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1JDelFLNmY4Vm9fUnIySFhRcC1KZTRvbjZ2bmJSSEI1Rk1OZmQ4S1ZheUFpRnVEeUFNSERZY2Z4d0h4X0xNQ0RoeU5aanc4Slg0aTZTS2R1b2kyR0JNR3V6VEhMZDRuaVZaNXJjNU5tTl9zVHdwUkExdjB1N082cEx0QlpuWDFDcnpsQnFLTEozVWg2VmpPUnZCUE5PN0RSdEE4WE9FWDgyMG1pODAtYnhlbUR1SzBKTVFtZlZZMUNPc2VHVGxB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-22T09:52:02+00:00"
+          },
+          {
             "title": "Venu Swamy: జగన్ జాతకంలో గండం? ఆరోగ్య సమస్యలు, లీగల్ ఇబ్బందులు అంటూ జోస్యం",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/astrologer-venu-swamy-predicts-tough-phase-for-ys-jagan-mohan-reddy-from-june-2027-details-inside-502813.html",
             "source": "Oneindia Telugu",
@@ -1114,6 +1128,13 @@
             "published": "2026-08-22T14:16:16+05:30"
           },
           {
+            "title": "Hyderabad: గచ్చిబౌలిలో కూలిన ఏడంతస్తుల భవనం.. ఇద్దరు మృతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWll0dWVHTWI0OWNZQUpZZ2RsREctZTdJWWpiTDZnQmV1OHRCNE90YzJGeW9XOURUX3VTNi1LbDFHalNEZExmd1FZTHlsQ3k0aW1CMFl2TzVqcTVnSjVDZkZEbmpuU2xtMFBoTTN0MUl5VXpPU1dnOGJIWU1RUkNFOEpORjhPdGpnN3J2WlJPWmREZ1VjVVB6QWRGd3ltcU9ONUVLREpxQjRSN0d4RTRDUjlBdkRLcnR2dFp1SEdJVFU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-22T08:44:04+00:00"
+          },
+          {
             "title": "Lokesh: క్రికెట్‌ అంటే చాలా ఇష్టం.. కానీ : లోకేశ్‌ సరదా వ్యాఖ్యలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUEFUc0dnbDFZSW5vT2RLTExWaU85VHFwQnFQQ1BGV1ZWVWJ0aGFEcDVVQ3BPQmV6eGg5dUF3SHBOUGZraENoMTFwVjdxUGx6RExNRjExdkppQ28ycGVZZGJVcERGM1JsNm40dGE3NWdibW1xNE9DRjV6bW5wM1h4QnIzX0IwTHlDZFHSAYoBQVVfeXFMUFBBVHNHZ2wxWUlub09kS0xMVmlPOVRxcEJxUENQRldWVlVidGhhRHA1VUNwT0JlenhoOXVBd0hwTlBma2hDaDExcFY3cVBsekRMTUYxMXZKaUNvMnBlWWRiVXBERjNSbDZuNHRhNzVnYm1tcTRPQ0Y1em1ucDNYeEJyM19CMEx5Q2RR?oc=5",
             "source": "Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-22T13:32:04+05:30"
-          },
-          {
-            "title": "ఏపీ మీదుగా అహ్మదాబాద్, తిరుచిరాపల్లి, బెంగళూరుకు రెగ్యులర్ రైళ్లు: రూట్, షెడ్యూల్..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/railways-announces-weekly-trains-for-banglorea-and-tiruchaplly-upgrades-as-regular-trains-schedule-502793.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-22T13:27:55+05:30"
-          },
-          {
-            "title": "Visakhapatnam: విశాఖలో నడిరోడ్డుపై యువకుల వీరంగం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWFBUEx1RXdoczBqd1RKMThGeExQSXJYekZZYVQzdm8tLWtpdXZBcDJoU05ZbWpIUWhqbXo4Mm5yRHZOR3NXbjJGaEszTHVTREFab204V2RvdTVIZUpMRDU5d3hpZElDTXMyLUNEYVNSLTBqQ1FONlVQVm5PZjVtZVBvejA1R21iX1BfSE9lOFJLbmVFZFlEdl9GQdIBmwFBVV95cUxQTWFBUEx1RXdoczBqd1RKMThGeExQSXJYekZZYVQzdm8tLWtpdXZBcDJoU05ZbWpIUWhqbXo4Mm5yRHZOR3NXbjJGaEszTHVTREFab204V2RvdTVIZUpMRDU5d3hpZElDTXMyLUNEYVNSLTBqQ1FONlVQVm5PZjVtZVBvejA1R21iX1BfSE9lOFJLbmVFZFlEdl9GQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-22T07:40:04+00:00"
-          },
-          {
-            "title": "Chiranjeevi Net Worth: వెండితెర వెలుగుల నుంచి వేల కోట్ల సామ్రాజ్యం వరకు.. మెగాస్టార్ ఆర్ధిక ప్రయాణం",
-            "link": "https://telugu.oneindia.com/news/business/megastar-chiranjeevi-net-worth-inside-the-massive-wealth-and-luxury-assets-of-telugu-cinema-s-super-502789.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-22T13:00:42+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,11 +1426,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "পাহাড়চূড়ায় আতঙ্ক! বেলা ১০টা থেকে বিকেল ৩টে, কী ভাবে ব্যর্থ হল পরের পর চেষ্টা, আইফোনের জন্য কী ভাবে প্রাণ গেল ৩ জনের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUzkxZjVHMU1tUmp5c0JvVlFaQW9xaVd6Qk5Lc0pIekJZRGdfUHBUQ0lrbmhCSE1NcjB2VzNwaU95a25QeWl3SkF4Y1VVRk0zS1NhQ1RZSV8zcE5DblBMZkFrckMzSnMtdE1mdDduTUdnbl9jTXI5N0EyQW05dGx1MVZxS1JoTFpsZGRDeTlwVDlIOTg2YTFTUVJzeW8tMTMtYlpPTW1ndU1weVlGckZfN2FYVE02UkIycEk1VG8wZW9jUkxBU1hFSFZ30gHPAUFVX3lxTE8taTNoTXlTRXVVNlZlczdVdm11d1NBS0FBZVNTbGIybUtjYTlpeUpHZ0x1LVJmRDJFS0x6bUxfWEFWMllZN3RkSUVOdlNFZ0hRQVRteWVPNVlWaGJLTk1IQzdrS2xEUjFzbXBYcEZvZEN4Q20yMmJEekpCZUdRUUo3bmxsUXVaOWkySEE2NzVwcWxCanlhWUtSd25ESE1nYVNhSUlHMnBUTS1KYW9RQWluOFhpaFRQWi1Qdk55Rzc3X190MTRpQU5kUUFEaWI0SQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-22T07:51:19+00:00"
+          },
+          {
             "title": "বাংলাদেশসহ ৭৫ দেশের অভিবাসী ভিসা স্থগিতের নীতি বাতিল মার্কিন আদালতে",
             "link": "https://www.bbc.com/bengali/articles/c4gxngpjj35o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "যুক্তরাষ্ট্রের আদালত বাংলাদেশসহ মোট ৭৫টি দেশের নাগরিকদের জন্য অভিবাসী ভিসা স্থগিত করার ট্রাম্প প্রশাসনের বিতর্কিত নীতিটিকে বেআইনি ঘোষণা করে বাতিল করে দিয়েছে। মার্কিন বিচার বিভাগীয় এই রায়ে স্পষ্টভাবে উল্লেখ করা হয়েছে যে, পররাষ্ট্রমন্ত্রী মার্কো রুবিও এই কঠোর সিদ্ধান্তটি নেওয়ার ক্ষেত্রে তার ওপর অর্পিত আইনি ক্ষমতার সীমা অতিক্রম করেছেন। মূলত ট্রাম্প প্রশাসনের পক্ষ থেকে বিভিন্ন দেশের নাগরিকদের যুক্তরাষ্ট্রে প্রবেশে বিধিনিষেধ আরোপের যে প্রক্রিয়া শুরু হয়েছিল, তা নিয়ে দীর্ঘ সময় ধরে বিশ্বজুড়ে সমালোচনা চলছিল। এই আদালতের সিদ্ধান্তের ফলে সেই নীতিটি কার্যত ভেস্তে গেল, যা অভিবাসনপ্রত্যাশী হাজার হাজার মানুষের জন্য বড় স্বস্তির খবর। বাংলাদেশের মতো দেশগুলোর জন্য এই রায় অত্যন্ত তাৎপর্যপূর্ণ, কারণ এর ফলে বৈধ উপায়ে যুক্তরাষ্ট্রে অভিবাসনের সুযোগ সংক্রান্ত অনিশ্চয়তা কিছুটা হলেও কাটবে বলে মনে করছেন বিশেষজ্ঞরা। ক্ষমতার অপব্যবহার করে ব্যক্তিগত বা রাজনৈতিক সিদ্ধান্তে এভাবে ভিসা নীতি পরিবর্তন করা যে মার্কিন আইনি কাঠামোর পরিপন্থী, তা এই রায়ের মাধ্যমে পুনরায় প্রমাণিত হয়েছে। ভবিষ্যতে অভিবাসন সংক্রান্ত যেকোনো নীতি গ্রহণের ক্ষেত্রে ট্রাম্প প্রশাসনকে এখন বাড়তি সতর্কতা ও আইনি স্বচ্ছতা বজায় রাখতে হবে। এই ঘটনা আন্তর্জাতিক কূটনীতিতেও যুক্তরাষ্ট্রের ভাবমূর্তি রক্ষায় ভূমিকা রাখবে বলে আশা করা হচ্ছে।",
             "published": "2026-08-22T06:47:27+00:00"
+          },
+          {
+            "title": "কাজে এল না মায়ের আকুতিও! আইফোনের দাবিতে নিজেকে শেষ করার আগে তরুণের শেষ কথা কী ছিল? ভাইরাল ভিডিয়ো - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWU9JM2NfUm1HYVd6THhfNzdyTm5qeV9Jckd2aUJzbEJ0djd6anJHb2VFVGpqcXlHRGRNaHRUUjZEbUVhQmpycVZ3QUEyRm1mUUVNT041WWVZNno1UUltdlV5anVocWlKd2hRQVZFMmJTQy1IQlpyYU05dlFoNDlLLW1ral90dkZNaDA2QjVfTk5OUzNZbXJrb0lqeXdCX3ljbjdWZkVGdktwTU5xTXNIVlJHYkdudXBHc1N1dTh6clBmZTNoYVJ6RjByMVp0QmxrWjY5aFJnWlJHX0pnTXNxWlpSdkJYa3JtaGdj0gHwAUFVX3lxTE80S1dJQldpNV9Ianl5T2VXY0tJNlZQbTB4ek83VDZHUmgtYWFqTmt0M1VNWWhaSlMxUlNoRnp5RlR6b2VsQjlGMi1oTWhIZ3JtNjAwUTNPV0JHU0lXVG9TTU5DSExlSGRPcHNUTV93dG1JQlFXSm5IaHFFVU90QUdYX2Jsdm5HMzBRMjdmWW1BMHJ6M3d3NDc4Tjc3aThQY3JlejdfTzNUa0JEVWhSZTdTWUxmdWRZWkNoOW9ibnJ2eGdtQ0VFdGg0SmZVWmVhWjZJWWpKUkJ3QTZySWFkMmh5VEtma2dwOTJwSl9RWGFhcA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-22T06:37:10+00:00"
           },
           {
             "title": "দিল্লিকে ঢাকার কঠিন শর্ত: নেপথ্যে 'অবিশ্বাস', নাকি সম্পর্কের 'রিসেট' চায় ঢাকা?",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "হায়দরাবাদের এক সাংসদের পুত্রের বিরুদ্ধে গাড়ি চাপা দিয়ে এক তরুণীকে পিষে মারার অভিযোগ ওঠার পর দেশজুড়ে চাঞ্চল্য সৃষ্টি হয়েছে। অত্যন্ত দুঃখজনক এই ঘটনায় অভিযুক্তের পাশে দাঁড়িয়ে সাংসদের ভূমিকা নিয়ে এখন তীব্র বিতর্ক তৈরি হয়েছে। ঘটনার পর সাংসদ নিজে একটি বিবৃতি দিয়েছেন, যেখানে তিনি তিনটি ভিন্ন যুক্তির মাধ্যমে নিজের অবস্থান ব্যাখ্যা করার চেষ্টা করেছেন। তবে এই বিবৃতিতে তিনি ঠিক কী বার্তা দিতে চেয়েছেন এবং কেন তিনি অভিযুক্তের পক্ষ নিয়েছেন, তা নিয়ে সাধারণ মানুষের মধ্যে ক্ষোভ দেখা দিয়েছে। আইন নিজের হাতে তুলে নেওয়া বা ক্ষমতার দাপট দেখিয়ে বিচারের পথ রুদ্ধ করার চেষ্টা করা হচ্ছে কি না, তা নিয়েও প্রশ্ন উঠছে। একজন জনপ্রতিনিধির কাছ থেকে যে দায়িত্বশীল আচরণের প্রত্যাশা করা হয়, এই ঘটনায় তা লঙ্ঘিত হয়েছে বলে অনেকে মনে করছেন। মামলার গতিপথ এবং প্রশাসনের পদক্ষেপের দিকে এখন নজর রেখেছেন দেশের সচেতন নাগরিকরা। এই ঘটনাটি সমাজের প্রভাবশালী ব্যক্তিদের দায়বদ্ধতা এবং বিচার ব্যবস্থার নিরপেক্ষতা নিয়ে আবারও বড়সড় আলোচনার জন্ম দিয়েছে।",
             "published": "2026-08-22T02:44:04+00:00"
-          },
-          {
-            "title": "দুগ্গার কারখানায় প্রস্তুতি তুঙ্গে, থিম সরিয়ে ফিরছে সে কালের প্রতিমা! এ বার কুমোরটুলিতেও পরিবর্তনের বছর? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcFZTUXZULWM2SmprRURsVWZYY2RuUE5oMWlBZGd6YzNLVW5vQllmUXJMSzZVck1FVzlmemszZ0VBVnRBSDRzX0NpNkFWTEtUN2t5Wi1YWHFDemlGVXZvcFptb282VktmbmdRSTdiYVlleTVOeGxuSGdPZ3V1RDhVWl9IN0dBc0REd1BMOTB2eHBPb1BtdVZVMVhiaDQ4cnlmRDFJT3A3SmR5cVNHYlNzaml4SHI2VUhZZWNJSUNGMW1ibUtWQk0zMEU4QVRqQWNoV2JUNHZWcS1kbGMwUHVic042cV9nZ2Yt0gHuAUFVX3lxTE5aSXlnUnNySUEteEtELVF1MXNPdDNQYUtnYUEweUNxMEJ2SklsMGhqZ2c1Y1AzZnNoejRkNGxOa29hQ3V6bEhHMnRySDBHMFpZZmFCSWN3X0ZrTnFxaDBweVdoMGpSRmlPbjhsbzhPdFFnT3I5Vm9Ld21aWndZaUwyZWJvQmQwaktIaU91eUl4RVJnb2lqNm9SaXFQTWN0R0hwSTlhQ2ZRM0l4VGhISU45eld0WkhkZEdSZ1NIaWNxeWI1a0hPN1lWdmpzc2lrdUFLLVRNQ0RaWEM0dkMza2lYd1BQRTRPc1VFa0NCTVE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "কুমোরটুলির মৃৎশিল্পীদের কর্মশালায় এখন ব্যস্ততার শেষ নেই, কারণ দুর্গাপূজার প্রস্তুতি পুরোদমে চলছে। বিগত কয়েক বছর ধরে পুজোয় নানারকম থিম এবং কৃত্রিম সাজসজ্জার আধিক্য দেখা গেলেও, এবার চিত্রটা অনেকটা বদলে যাচ্ছে বলে মনে করছেন শিল্পীরা। থিম-নির্ভর প্রতিমার পরিবর্তে মানুষ আবার সেই সাবেকী বা সাবেকি ঘরানার প্রতিমার দিকে ঝুঁকছে। সাবেকী প্রতিমার সেই চিরচেনা রূপ, যা বাঙালি ঐতিহ্যের সাথে মিশে আছে, তা ফিরিয়ে আনার দাবি জানিয়েছেন দর্শকরাও। কুমোরটুলির শিল্পীরাও এই বদলটিকে সাদরে গ্রহণ করছেন, কারণ এতে পুরোনো কারুকার্য ও শিল্পকলা আবার প্রাণ ফিরে পাচ্ছে। মাটির প্রতিমার সেই সনাতন রূপ দিতে দিনরাত কাজ করে চলেছেন মৃৎশিল্পীরা। পুজোর কারখানায় এখন তুলির শেষ আঁচড় আর রঙ-তুলির ব্যবহারে ব্যস্ততা তুঙ্গে। থিমের বাহুল্য সরিয়ে শিকড়ের সন্ধানে ফিরে যাওয়ার এই প্রবণতা প্রমাণ করে যে, আধুনিকতার মাঝেও ঐতিহ্যকে ধরে রাখার এক প্রবল ইচ্ছা বাঙালির অন্তরে আজও প্রবলভাবে বিদ্যমান।",
-            "published": "2026-08-22T02:30:36+00:00"
-          },
-          {
-            "title": "‘ডিজিটাল গ্রেফতারি’র নামে লোপাট তিন কোটিরও বেশি, ধৃত ৩ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0RJTmY0SVBwXzZReVdJNy0zMTFVOXpDU0JNeEVPVVlpQW5ramtLbFRRUjdMWVJCWDB2RG55c2dIbmo3UnhLMHhFMkpFaXVwbnVSSEdTYnJRM0t5dEQ5S2xONmVHaVJyeUZYTTRRV3hCUXhFMDBrS3J3NjFsU2FQUjUyZHFhQ2xVaTlqV0ZwVGRLQ05yVFBqLXhQelVxOUFF?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "সম্প্রতি দেশের বিভিন্ন প্রান্তে সাইবার জালিয়াতির একটি নতুন ধরণ অত্যন্ত উদ্বেগজনক হয়ে দাঁড়িয়েছে, যা 'ডিজিটাল গ্রেফতারি' নামে পরিচিত। এই চক্রটি অত্যন্ত সুকৌশলে মানুষকে ভয় দেখিয়ে তিন কোটি টাকারও বেশি অর্থ হাতিয়ে নিয়েছে বলে অভিযোগ পাওয়া গেছে। পুলিশি তদন্তের পর এই ঘটনায় জড়িত থাকার অভিযোগে মোট তিনজনকে গ্রেপ্তার করা হয়েছে। ভুক্তভোগীদের সাথে মূলত ভুয়া ভিডিও কলের মাধ্যমে যোগাযোগ করে তাদের বিভিন্ন অপরাধে জড়িয়ে ফেলার হুমকি দেওয়া হয় এবং এই পরিস্থিতি থেকে রক্ষা পাওয়ার প্রলোভন দেখিয়ে মোটা অঙ্কের টাকা দাবি করা হয়। ডিজিটাল যুগে প্রযুক্তিকে অপব্যবহার করে মানুষের দুর্বলতাকে পুঁজি করে এই অপরাধী চক্রটি সাধারণ মানুষকে সর্বস্বান্ত করে দিচ্ছে। প্রশাসনের পক্ষ থেকে বারবার সচেতন হওয়ার সতর্কবার্তা দেওয়া সত্ত্বেও এই ধরনের প্রতারণা বেড়েই চলেছে। ধৃত ব্যক্তিদের জিজ্ঞাসাবাদ করে পুলিশ জানার চেষ্টা করছে এই চক্রের জাল কতদূর বিস্তৃত এবং আরও কত মানুষ এই ডিজিটাল জালিয়াতির শিকার হয়েছে। সাইবার নিরাপত্তা বিশেষজ্ঞদের মতে, অচেনা নম্বর থেকে আসা কোনো ভিডিও কলে সাড়া না দেওয়াই এখন সবচেয়ে নিরাপদ।",
-            "published": "2026-08-22T02:28:51+00:00"
           }
         ]
       }
