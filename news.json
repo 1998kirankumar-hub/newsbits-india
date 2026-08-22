@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-22T22:54:39.835996+00:00",
+  "updated_at": "2026-08-22T23:01:21.672260+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Struggling households need more help with bills, energy industry says",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "published": "2026-08-22T23:00:03+00:00"
+          },
           {
             "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
             "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
@@ -95,13 +102,6 @@
             "source": "Times of India",
             "summary": "Accuses Cong Of Communalising Nat'l Symbols",
             "published": "2026-08-23T02:15:27+05:30"
-          },
-          {
-            "title": "Lucknow locals upset as iconic coffee house remains shut amid concern for social spaces",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/lucknow-locals-upset-as-iconic-coffee-house-remains-shut-amid-concern-for-social-spaces/article71378666.ece",
-            "source": "The Hindu",
-            "summary": "The Hindu contacted the official Lucknow number of the coffee house, where the person who didn’t reveal the identity informed that staff issues is responsible for temporary shutdown and it will be opened soon",
-            "published": "2026-08-23T02:10:42+05:30"
           }
         ],
         "India": [
@@ -278,6 +278,13 @@
         ],
         "Business": [
           {
+            "title": "Struggling households need more help with bills, energy industry says",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "published": "2026-08-22T23:00:03+00:00"
+          },
+          {
             "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms",
             "source": "Economic Times",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
             "published": "2026-08-21T16:45:09+00:00"
-          },
-          {
-            "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-            "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-            "published": "2026-08-21T11:20:57+00:00"
           }
         ],
         "Sports": [
@@ -1114,13 +1114,6 @@
             "published": "2026-08-22T19:40:37+00:00"
           },
           {
-            "title": "Mitchell Starc: ఫస్ట్ బాల్‌కే వికెట్‌.. తొలి ఆటగాడిగా మిచెల్ స్టార్క్ ప్రపంచ రికార్డు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3ZZSHRGS21zU0NLQU5iaHk3SHh4a2tESFpkMmVXU3JhTUxLb3VobVl2NXdPMnpEOC1RZlNGR0NXbW9YYmhGR1NFYy1Vc1lpcFdCZldVLU1tVEUxS3d2d3o1amRlSzdOZlBrZkhOX1dJVnhYSUxPUlNFR1ZORjNzWGJBMHhkQ21HXy14bTA1UkJDZmMxc3BNc21FTTZpQlc5dmZmNmJyYmZBMjV6Z0Uzd3E1cVNFY2FD0gG4AUFVX3lxTE5LdllIdEZLbXNTQ0tBTmJoeTdIeHhra0RIWmQyZVdTcmFNTEtvdWhtWXY1d08yekQ4LVFmU0ZHQ1dtb1hiaEZHU0VjLVVzWWlwV0JmV1UtTW1URTFLd3Z3ejVqZGVLN05mUGtmSE5fV0lWeFhJTE9SU0VHVk5GM3NYYkEweGRDbUdfLXhtMDVSQkNmYzFzcE1zbUVNNmlCVzl2ZmY2YnJiZkEyNXpnRTN3cTVxU0VjYUM?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-22T19:33:00+00:00"
-          },
-          {
             "title": "Chhattisgarh Paper Leak: ఎండోస్కోపిక్‌ కెమెరాతో ఫొటోలు తీసి.. ప్రశ్నపత్రం లీక్‌ చేసి - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3JoUEVqdEV3c2RTSEJnTVBCMXNXN292NVhFdW5JS1lWY2ZhZU1FSEhKOEdnYUF6eXFlYTZDU25lQ2NCVFdBYVJHZlp2aEhhd1VmMWo3eVNELXppVU9SQW9BTGVubUlIQ2s3MmNITzl2VXNpY25UaEtvbEFNTllBb3lrX1ZnTnZBbm5YWFJHM0J0TTVITHlwM2NHSUdWazdESzBjeTVLUjlRWUdhWnB1eWNpVGZxVkJ1WjduTHE3N20xOWxpSHgtcDV6WDhIOXAwWnRoTmM5ONIB1wFBVV95cUxQY3JoUEVqdEV3c2RTSEJnTVBCMXNXN292NVhFdW5JS1lWY2ZhZU1FSEhKOEdnYUF6eXFlYTZDU25lQ2NCVFdBYVJHZlp2aEhhd1VmMWo3eVNELXppVU9SQW9BTGVubUlIQ2s3MmNITzl2VXNpY25UaEtvbEFNTllBb3lrX1ZnTnZBbm5YWFJHM0J0TTVITHlwM2NHSUdWazdESzBjeTVLUjlRWUdhWnB1eWNpVGZxVkJ1WjduTHE3N20xOWxpSHgtcDV6WDhIOXAwWnRoTmM5OA?oc=5",
             "source": "Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-22T18:33:00+00:00"
+          },
+          {
+            "title": "బంగాళాఖాతంలో మునిగిన కార్గో నౌక.. 24 మంది సిబ్బంది గల్లంతు..",
+            "link": "https://telugu.oneindia.com/news/international/cargoship-sinks-in-the-bay-of-bengal-near-the-odisha-coast-24-crew-members-missing-cargo-ship-sink-502863.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-22T23:45:17+05:30"
           }
         ],
         "Entertainment": [
