@@ -1,51 +1,100 @@
 {
-  "updated_at": "2026-08-22T11:30:53.559309+00:00",
+  "updated_at": "2026-08-22T11:53:15.124412+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Labuschagne's Test future hangs in balance after Mackay first-innings failure",
+            "link": "https://www.cricinfo.com/ci/content/story/1551035.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The Australia No. 3 was bowled for 4 after the ball deflected off his thigh pad, taking his average down to 24.69 since his last Test century in July 2023",
+            "published": "2026-08-22T11:51:07+00:00"
+          },
+          {
+            "title": "Pinarayi Vijayan, Binoy Viswam lock horns over Deputy Leader of the Opposition post",
+            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-of-the-opposition-post/article71377432.ece",
+            "source": "The Hindu",
+            "summary": "Pinarayi Vijayan claims the position rightfully belongs to CPI(M), dismissing CPI’s claims. Viswam says the remark was unbecoming of the Leader of the Opposition.",
+            "published": "2026-08-22T17:15:39+05:30"
+          },
+          {
+            "title": "Journalism must question power, produce informed citizens: Bhatti Vikramarka",
+            "link": "https://www.thehindu.com/news/national/telangana/journalism-must-question-power-produce-informed-citizens-bhatti-vikramarka/article71377252.ece",
+            "source": "The Hindu",
+            "summary": "Telangana Deputy Chief Minister Mallu Bhatti Vikramarka has called for a strong and independent media, saying journalism’s role in a democracy is to make those in power “explain itself” and hold authority to account",
+            "published": "2026-08-22T17:15:14+05:30"
+          },
+          {
+            "title": "DMK revamps party organisation; sets 70 as age limit for district secretaries, 45 for local units",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-revamps-party-organisation-age-limits-tenures-district-units/article71377288.ece",
+            "source": "The Hindu",
+            "summary": "A resolution adopted at the party’s high-level executive committee meeting, chaired by President Stalin, has decided to create more district units and increase the count to 110",
+            "published": "2026-08-22T17:11:12+05:30"
+          },
+          {
+            "title": "Over half of 18th Lok Sabha bills passed in same session, shows data",
+            "link": "https://timesofindia.indiatimes.com/india/bills-on-fast-track-over-half-of-18th-lok-sabha-bills-passed-in-same-session-shows-data/articleshow/133423110.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-22T17:04:25+05:30"
+          },
+          {
+            "title": "Liverpool delegation meets CM Revanth Reddy, partnership with Telangana in works",
+            "link": "https://www.thehindu.com/news/national/telangana/liverpool-delegation-meets-cm-revanth-reddy-partnership-with-telangana-in-works/article71377203.ece",
+            "source": "The Hindu",
+            "summary": "A delegation from Liverpool City Development and Liverpool Football Club met with Chief Minister Revanth Reddy in London",
+            "published": "2026-08-22T17:02:36+05:30"
+          },
+          {
+            "title": "Kuldeep or Saransh? The subplot thickens as Colombo braces for a different script",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
+            "source": "Times of India",
+            "summary": "Kuldeep Yadav's absence from India's final training sessions has intensified the selection intrigue ahead of the Colombo Test, with Saransh Jain's strong showing in the nets and Sri Lanka's left-hand-heavy batting line-up adding weight to the off-spinner's case. The second Test between India and Sri Lanka will start from Sunday at the Sinhalese Sports Club ground in Colombo.",
+            "published": "2026-08-22T17:02:25+05:30"
+          },
+          {
+            "title": "BJP to hold ‘Seva Pakhwada’ from Sept 17 to mark PM Modi’s 25 years in office",
+            "link": "https://www.hindustantimes.com/india-news/bjp-to-hold-seva-pakhwada-from-sept-17-to-mark-pm-modi-s-25-years-in-office-101787398324040.html",
+            "source": "Hindustan Times",
+            "summary": "The BJP’s ‘Seva Pakhwada’ will run from September 17 to October 2, with sanitation, blood donation and health camps marking PM Modi’s 25 years in public office.",
+            "published": "2026-08-22T17:02:03+05:30"
+          },
+          {
+            "title": "Delhi Police arrests man linked to Bishnoi-Malik gang",
+            "link": "https://www.thehindu.com/news/national/delhi-police-arrests-man-linked-to-bishnoi-malik-gang/article71377439.ece",
+            "source": "The Hindu",
+            "summary": "The complainant approached the police alleging that he had received calls and messages from a person claiming to be Randeep Malik of the Lawrence Bishnoi gang",
+            "published": "2026-08-22T17:01:14+05:30"
+          },
+          {
+            "title": "‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is not over yet",
+            "link": "https://www.hindustantimes.com/india-news/reservation-hatao-andolan-protesters-say-govt-agreed-to-talks-on-reform-clarify-movement-is-not-over-yet-101787397684800.html",
+            "source": "Hindustan Times",
+            "summary": "RHA, a social media page made using Cockroach Janta Party (CJP) tactics, was protesting at Jantar Mantar on Friday.",
+            "published": "2026-08-22T17:00:54+05:30"
+          },
+          {
+            "title": "Keralam Opposition leader Pinarayi Vijayan rejects hawala allegations, claims family being targeted",
+            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
+            "source": "The Hindu",
+            "summary": "Keralam Leader of the Opposition says daughter Veena has cooperated with ED probe.",
+            "published": "2026-08-22T16:59:09+05:30"
+          },
+          {
+            "title": "People unaware of data centre’s potential are criticising Google’s project, says CM Naidu",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/people-unaware-of-data-centres-potential-are-criticising-googles-project-says-cm-naidu/article71377018.ece",
+            "source": "The Hindu",
+            "summary": "The Chief Minister’s remarks followed an impressive presentation by students of ZPHS, A. Koduru, who spoke fluently in English about the Swarna Andhra–Swachch Andhra programme, zero-waste management and emerging technologies",
+            "published": "2026-08-22T16:59:05+05:30"
+          },
+          {
             "title": "Youth burnt alive, driver succumbs to injuries as car collides with lorry on highway in Polavaram district",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/youth-burnt-alive-driver-succumbs-to-injuries-as-car-collides-with-lorry-on-highway-in-polavaram-district/article71376866.ece",
             "source": "The Hindu",
             "summary": "Two men were killed in a horrific road accident on NH-326 near Chintoor after their car collided with an iron-laden lorry while they were travelling from Hyderabad to East Godavari",
             "published": "2026-08-22T16:56:41+05:30"
-          },
-          {
-            "title": "Extended search operations urged for missing fishermen in sea off Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/extended-search-operations-urged-for-missing-fishermen-in-sea-off-andhra-pradesh/article71377116.ece",
-            "source": "The Hindu",
-            "summary": "East Coast Mechanised Fishing Boat Owners Association of India President Vasupalli Janakiram argued that standard short-term rescue protocols are inadequate and demanded that the Indian Coast Guard and Indian Navy maintain an extended, wide-area search until the missing fishermen are located",
-            "published": "2026-08-22T16:53:23+05:30"
-          },
-          {
-            "title": "Amit Shah reviews Siliguri Corridor security, pushes for ‘triangular grid’",
-            "link": "https://www.thehindu.com/news/national/west-bengal/amit-shah-reviews-siliguri-corridor-security-pushes-for-triangular-grid/article71377366.ece",
-            "source": "The Hindu",
-            "summary": "‘We have prepared a triangular grid comprising three new military garrisons at Dhubri in Assam, Kishanganj in Bihar and Chopra in West Bengal,’ said Amit Shah",
-            "published": "2026-08-22T16:52:00+05:30"
-          },
-          {
-            "title": "Failure to provide information: Keralam Survey Director ordered to pay ₹1 lakh compensation",
-            "link": "https://www.thehindu.com/news/national/kerala/failure-to-provide-information-keralam-survey-director-ordered-to-pay-1-lakh-compensation/article71376981.ece",
-            "source": "The Hindu",
-            "summary": "An 82-year-old Kerala man is set to receive ₹1 lakh in compensation after the State Information Commission found that a Public Information Officer gave a false and misleading reply to his RTI application seeking access to his property records",
-            "published": "2026-08-22T16:51:45+05:30"
-          },
-          {
-            "title": "Pinarayi Vijayan rejects hawala allegations, claims family being targeted",
-            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
-            "source": "The Hindu",
-            "summary": "Leader of the Opposition says daughter Veena has cooperated with ED probe.",
-            "published": "2026-08-22T16:51:38+05:30"
-          },
-          {
-            "title": "DMK revamp: M.K. Stalin says ‘bitter medicine’ is good for party’s health",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-revamp-mk-stalin-says-bitter-medicine-is-good-for-partys-health/article71377320.ece",
-            "source": "The Hindu",
-            "summary": "“We have to acknowledge our mistakes first. We must admit them openly. The organisation suffers because of the performance of an individual,” he said while addressing the party’s high-level executive committee, which adopted the proposals to revamp the party organisation",
-            "published": "2026-08-22T16:51:06+05:30"
           },
           {
             "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -53,141 +102,92 @@
             "source": "BBC World",
             "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
             "published": "2026-08-22T11:21:05+00:00"
+          }
+        ],
+        "India": [
+          {
+            "title": "Pinarayi Vijayan, Binoy Viswam lock horns over Deputy Leader of the Opposition post",
+            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-of-the-opposition-post/article71377432.ece",
+            "source": "The Hindu",
+            "summary": "Pinarayi Vijayan claims the position rightfully belongs to CPI(M), dismissing CPI’s claims. Viswam says the remark was unbecoming of the Leader of the Opposition.",
+            "published": "2026-08-22T17:15:39+05:30"
           },
           {
             "title": "Journalism must question power, produce informed citizens: Bhatti Vikramarka",
             "link": "https://www.thehindu.com/news/national/telangana/journalism-must-question-power-produce-informed-citizens-bhatti-vikramarka/article71377252.ece",
             "source": "The Hindu",
             "summary": "Telangana Deputy Chief Minister Mallu Bhatti Vikramarka has called for a strong and independent media, saying journalism’s role in a democracy is to make those in power “explain itself” and hold authority to account",
-            "published": "2026-08-22T16:48:46+05:30"
+            "published": "2026-08-22T17:15:14+05:30"
           },
           {
-            "title": "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
-            "link": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
+            "title": "DMK revamps party organisation; sets 70 as age limit for district secretaries, 45 for local units",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-revamps-party-organisation-age-limits-tenures-district-units/article71377288.ece",
             "source": "The Hindu",
-            "summary": "Around 200 Sikh community representatives, including families of 1984 anti-Sikh riot victims, protested near Rahul Gandhi’s Delhi residence, demanding an apology and his resignation; several protesters were detained",
-            "published": "2026-08-22T16:45:54+05:30"
+            "summary": "A resolution adopted at the party’s high-level executive committee meeting, chaired by President Stalin, has decided to create more district units and increase the count to 110",
+            "published": "2026-08-22T17:11:12+05:30"
           },
           {
-            "title": "Four years after Supreme Court-formed panel’s nudge, Assam mum on construction in Kaziranga animal corridors",
-            "link": "https://www.thehindu.com/news/national/assam/four-years-after-supreme-court-formed-panels-nudge-assam-mum-on-construction-in-kaziranga-animal-corridors/article71377030.ece",
-            "source": "The Hindu",
-            "summary": "In March 2022, the Central Empowered Committee sought a response “without delay” from the Assam Chief Secretary on the list of activities undertaken in each of the nine corridors in violation of the Supreme Court’s order on April 12, 2019",
-            "published": "2026-08-22T16:45:08+05:30"
-          },
-          {
-            "title": "\"That Is The Difference Between Me And Everyone\": Gautam Gambhir Minces No Words Before 2nd India vs Sri Lanka Test",
-            "link": "https://sports.ndtv.com/cricket/that-is-the-difference-between-me-and-everyone-gautam-gambhir-minces-no-words-before-2nd-india-vs-sri-lanka-test-11944666#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Gautam Gambhir isn't bothered by the \"outside noise\" and the brickbats hurled at him after a string of poor results, saying his focus firmly remains on \"winning trophies for India\"",
-            "published": "2026-08-22T16:41:59+05:30"
-          },
-          {
-            "title": "Jharkhand exam protesters accuse government of 'betrayal' as High Court stays several job test cancellations",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protesters-accuse-government-of-betrayal-as-high-court-stays-several-job-test-cancellations/article71377044.ece",
-            "source": "The Hindu",
-            "summary": "The BJP extended its support to the protesters and accused Congress leader Rahul Gandhi of showcasing a \"duplicitous attitude\" over students' welfare. The ruling JMM, on the other hand, alleged the BJP was using students to further its political interests",
-            "published": "2026-08-22T16:38:19+05:30"
-          },
-          {
-            "title": "Why Samajwadi Party never split? Akhilesh points out 'benefit' of dynastic politics",
-            "link": "https://timesofindia.indiatimes.com/india/why-samajwadi-party-never-split-akhilesh-yadav-points-out-benefit-of-dynastic-politics/articleshow/133422401.cms",
+            "title": "Over half of 18th Lok Sabha bills passed in same session, shows data",
+            "link": "https://timesofindia.indiatimes.com/india/bills-on-fast-track-over-half-of-18th-lok-sabha-bills-passed-in-same-session-shows-data/articleshow/133423110.cms",
             "source": "Times of India",
-            "summary": "Akhilesh Yadav pointed to the presence of multiple members of his family in the SP and suggested that this had helped prevent a split in the party. \"Have you ever wondered why the entire party did not split? Because there are five MPs from the same family. We also have several Muslim MPs, and some staunch socialists, so our numbers would not decrease,\" he said.",
-            "published": "2026-08-22T16:34:28+05:30"
+            "summary": "",
+            "published": "2026-08-22T17:04:25+05:30"
           },
           {
-            "title": "Kurnool SP launches traffic awareness vehicle",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-sp-launches-traffic-awareness-vehicle/article71377121.ece",
+            "title": "Liverpool delegation meets CM Revanth Reddy, partnership with Telangana in works",
+            "link": "https://www.thehindu.com/news/national/telangana/liverpool-delegation-meets-cm-revanth-reddy-partnership-with-telangana-in-works/article71377203.ece",
             "source": "The Hindu",
-            "summary": "Videos raising awareness about traffic regulations will be displayed on this digital screen",
-            "published": "2026-08-22T16:31:19+05:30"
-          }
-        ],
-        "India": [
+            "summary": "A delegation from Liverpool City Development and Liverpool Football Club met with Chief Minister Revanth Reddy in London",
+            "published": "2026-08-22T17:02:36+05:30"
+          },
+          {
+            "title": "Kuldeep or Saransh? The subplot thickens as Colombo braces for a different script",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
+            "source": "Times of India",
+            "summary": "Kuldeep Yadav's absence from India's final training sessions has intensified the selection intrigue ahead of the Colombo Test, with Saransh Jain's strong showing in the nets and Sri Lanka's left-hand-heavy batting line-up adding weight to the off-spinner's case. The second Test between India and Sri Lanka will start from Sunday at the Sinhalese Sports Club ground in Colombo.",
+            "published": "2026-08-22T17:02:25+05:30"
+          },
+          {
+            "title": "BJP to hold ‘Seva Pakhwada’ from Sept 17 to mark PM Modi’s 25 years in office",
+            "link": "https://www.hindustantimes.com/india-news/bjp-to-hold-seva-pakhwada-from-sept-17-to-mark-pm-modi-s-25-years-in-office-101787398324040.html",
+            "source": "Hindustan Times",
+            "summary": "The BJP’s ‘Seva Pakhwada’ will run from September 17 to October 2, with sanitation, blood donation and health camps marking PM Modi’s 25 years in public office.",
+            "published": "2026-08-22T17:02:03+05:30"
+          },
+          {
+            "title": "Delhi Police arrests man linked to Bishnoi-Malik gang",
+            "link": "https://www.thehindu.com/news/national/delhi-police-arrests-man-linked-to-bishnoi-malik-gang/article71377439.ece",
+            "source": "The Hindu",
+            "summary": "The complainant approached the police alleging that he had received calls and messages from a person claiming to be Randeep Malik of the Lawrence Bishnoi gang",
+            "published": "2026-08-22T17:01:14+05:30"
+          },
+          {
+            "title": "‘Reservation Hatao Andolan’ protesters say govt agreed to talks on reform, clarify movement is not over yet",
+            "link": "https://www.hindustantimes.com/india-news/reservation-hatao-andolan-protesters-say-govt-agreed-to-talks-on-reform-clarify-movement-is-not-over-yet-101787397684800.html",
+            "source": "Hindustan Times",
+            "summary": "RHA, a social media page made using Cockroach Janta Party (CJP) tactics, was protesting at Jantar Mantar on Friday.",
+            "published": "2026-08-22T17:00:54+05:30"
+          },
+          {
+            "title": "Keralam Opposition leader Pinarayi Vijayan rejects hawala allegations, claims family being targeted",
+            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
+            "source": "The Hindu",
+            "summary": "Keralam Leader of the Opposition says daughter Veena has cooperated with ED probe.",
+            "published": "2026-08-22T16:59:09+05:30"
+          },
+          {
+            "title": "People unaware of data centre’s potential are criticising Google’s project, says CM Naidu",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/people-unaware-of-data-centres-potential-are-criticising-googles-project-says-cm-naidu/article71377018.ece",
+            "source": "The Hindu",
+            "summary": "The Chief Minister’s remarks followed an impressive presentation by students of ZPHS, A. Koduru, who spoke fluently in English about the Swarna Andhra–Swachch Andhra programme, zero-waste management and emerging technologies",
+            "published": "2026-08-22T16:59:05+05:30"
+          },
           {
             "title": "Youth burnt alive, driver succumbs to injuries as car collides with lorry on highway in Polavaram district",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/youth-burnt-alive-driver-succumbs-to-injuries-as-car-collides-with-lorry-on-highway-in-polavaram-district/article71376866.ece",
             "source": "The Hindu",
             "summary": "Two men were killed in a horrific road accident on NH-326 near Chintoor after their car collided with an iron-laden lorry while they were travelling from Hyderabad to East Godavari",
             "published": "2026-08-22T16:56:41+05:30"
-          },
-          {
-            "title": "Extended search operations urged for missing fishermen in sea off Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/extended-search-operations-urged-for-missing-fishermen-in-sea-off-andhra-pradesh/article71377116.ece",
-            "source": "The Hindu",
-            "summary": "East Coast Mechanised Fishing Boat Owners Association of India President Vasupalli Janakiram argued that standard short-term rescue protocols are inadequate and demanded that the Indian Coast Guard and Indian Navy maintain an extended, wide-area search until the missing fishermen are located",
-            "published": "2026-08-22T16:53:23+05:30"
-          },
-          {
-            "title": "Amit Shah reviews Siliguri Corridor security, pushes for ‘triangular grid’",
-            "link": "https://www.thehindu.com/news/national/west-bengal/amit-shah-reviews-siliguri-corridor-security-pushes-for-triangular-grid/article71377366.ece",
-            "source": "The Hindu",
-            "summary": "‘We have prepared a triangular grid comprising three new military garrisons at Dhubri in Assam, Kishanganj in Bihar and Chopra in West Bengal,’ said Amit Shah",
-            "published": "2026-08-22T16:52:00+05:30"
-          },
-          {
-            "title": "Failure to provide information: Keralam Survey Director ordered to pay ₹1 lakh compensation",
-            "link": "https://www.thehindu.com/news/national/kerala/failure-to-provide-information-keralam-survey-director-ordered-to-pay-1-lakh-compensation/article71376981.ece",
-            "source": "The Hindu",
-            "summary": "An 82-year-old Kerala man is set to receive ₹1 lakh in compensation after the State Information Commission found that a Public Information Officer gave a false and misleading reply to his RTI application seeking access to his property records",
-            "published": "2026-08-22T16:51:45+05:30"
-          },
-          {
-            "title": "Pinarayi Vijayan rejects hawala allegations, claims family being targeted",
-            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
-            "source": "The Hindu",
-            "summary": "Leader of the Opposition says daughter Veena has cooperated with ED probe.",
-            "published": "2026-08-22T16:51:38+05:30"
-          },
-          {
-            "title": "DMK revamp: M.K. Stalin says ‘bitter medicine’ is good for party’s health",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-revamp-mk-stalin-says-bitter-medicine-is-good-for-partys-health/article71377320.ece",
-            "source": "The Hindu",
-            "summary": "“We have to acknowledge our mistakes first. We must admit them openly. The organisation suffers because of the performance of an individual,” he said while addressing the party’s high-level executive committee, which adopted the proposals to revamp the party organisation",
-            "published": "2026-08-22T16:51:06+05:30"
-          },
-          {
-            "title": "Journalism must question power, produce informed citizens: Bhatti Vikramarka",
-            "link": "https://www.thehindu.com/news/national/telangana/journalism-must-question-power-produce-informed-citizens-bhatti-vikramarka/article71377252.ece",
-            "source": "The Hindu",
-            "summary": "Telangana Deputy Chief Minister Mallu Bhatti Vikramarka has called for a strong and independent media, saying journalism’s role in a democracy is to make those in power “explain itself” and hold authority to account",
-            "published": "2026-08-22T16:48:46+05:30"
-          },
-          {
-            "title": "Sikh protesters burn Rahul Gandhi effigy over Sajjan Kumar ‘role model’ remark",
-            "link": "https://www.thehindu.com/news/national/sikhs-protest-outside-rahul-gandhis-residence-against-congress-leaders-calling-sajjan-kumar-hero/article71377114.ece",
-            "source": "The Hindu",
-            "summary": "Around 200 Sikh community representatives, including families of 1984 anti-Sikh riot victims, protested near Rahul Gandhi’s Delhi residence, demanding an apology and his resignation; several protesters were detained",
-            "published": "2026-08-22T16:45:54+05:30"
-          },
-          {
-            "title": "Four years after Supreme Court-formed panel’s nudge, Assam mum on construction in Kaziranga animal corridors",
-            "link": "https://www.thehindu.com/news/national/assam/four-years-after-supreme-court-formed-panels-nudge-assam-mum-on-construction-in-kaziranga-animal-corridors/article71377030.ece",
-            "source": "The Hindu",
-            "summary": "In March 2022, the Central Empowered Committee sought a response “without delay” from the Assam Chief Secretary on the list of activities undertaken in each of the nine corridors in violation of the Supreme Court’s order on April 12, 2019",
-            "published": "2026-08-22T16:45:08+05:30"
-          },
-          {
-            "title": "Jharkhand exam protesters accuse government of 'betrayal' as High Court stays several job test cancellations",
-            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protesters-accuse-government-of-betrayal-as-high-court-stays-several-job-test-cancellations/article71377044.ece",
-            "source": "The Hindu",
-            "summary": "The BJP extended its support to the protesters and accused Congress leader Rahul Gandhi of showcasing a \"duplicitous attitude\" over students' welfare. The ruling JMM, on the other hand, alleged the BJP was using students to further its political interests",
-            "published": "2026-08-22T16:38:19+05:30"
-          },
-          {
-            "title": "Why Samajwadi Party never split? Akhilesh points out 'benefit' of dynastic politics",
-            "link": "https://timesofindia.indiatimes.com/india/why-samajwadi-party-never-split-akhilesh-yadav-points-out-benefit-of-dynastic-politics/articleshow/133422401.cms",
-            "source": "Times of India",
-            "summary": "Akhilesh Yadav pointed to the presence of multiple members of his family in the SP and suggested that this had helped prevent a split in the party. \"Have you ever wondered why the entire party did not split? Because there are five MPs from the same family. We also have several Muslim MPs, and some staunch socialists, so our numbers would not decrease,\" he said.",
-            "published": "2026-08-22T16:34:28+05:30"
-          },
-          {
-            "title": "Kurnool SP launches traffic awareness vehicle",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-sp-launches-traffic-awareness-vehicle/article71377121.ece",
-            "source": "The Hindu",
-            "summary": "Videos raising awareness about traffic regulations will be displayed on this digital screen",
-            "published": "2026-08-22T16:31:19+05:30"
           }
         ],
         "World": [
@@ -197,6 +197,13 @@
             "source": "BBC World",
             "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
             "published": "2026-08-22T11:21:05+00:00"
+          },
+          {
+            "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.",
+            "published": "2026-08-22T11:15:39+00:00"
           },
           {
             "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.",
             "published": "2026-08-22T08:01:55+00:00"
-          },
-          {
-            "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
-            "published": "2026-08-22T08:00:30+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Labuschagne's Test future hangs in balance after Mackay first-innings failure",
+            "link": "https://www.cricinfo.com/ci/content/story/1551035.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The Australia No. 3 was bowled for 4 after the ball deflected off his thigh pad, taking his average down to 24.69 since his last Test century in July 2023",
+            "published": "2026-08-22T11:51:07+00:00"
+          },
+          {
             "title": "\"That Is The Difference Between Me And Everyone\": Gautam Gambhir Minces No Words Before 2nd India vs Sri Lanka Test",
             "link": "https://sports.ndtv.com/cricket/that-is-the-difference-between-me-and-everyone-gautam-gambhir-minces-no-words-before-2nd-india-vs-sri-lanka-test-11944666#publisher=newsstand",
             "source": "NDTV Sports",
@@ -439,16 +446,23 @@
             "source": "ESPN Cricinfo",
             "summary": "Zubin Bharucha has worked in various capacities with Rajasthan Royals since the start of the IPL except for two years in between when he was with Delhi Daredevils",
             "published": "2026-08-22T10:13:24+00:00"
-          },
-          {
-            "title": "Former World Champion Boxer Zolani Tete Shot And Killed In South Africa",
-            "link": "https://sports.ndtv.com/boxing/former-world-champion-boxer-zolani-tete-killed-in-south-africa-11943892#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former world champion boxer Zolani Tete has been shot and killed at his home in South Africa, government officials said.",
-            "published": "2026-08-22T15:31:29+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "How to Check Battery Health on an Android Phone: A Step-by-Step Guide",
+            "link": "https://www.gadgets360.com/how-to/features/poco-m8x-5g-battery-charging-details-announced-specifications-features-11925241",
+            "source": "Gadgets 360",
+            "summary": "Google lets Android phone users check the battery health of their handsets directly in the Settings menu. Hence, users do not have to download third-party apps to check the same. However, it is worth noting that your Android phone will only display an estimated percentage of battery health, while comparing the same with its capacity when it was brand new and unused. There are multiple benefits of checking your…",
+            "published": "2026-08-22T16:00:01+05:30"
+          },
+          {
+            "title": "Best Gaming Laptops Under Rs 1 Lakh in India From Asus, Acer, HP and More",
+            "link": "https://www.gadgets360.com/laptops/features/best-gaming-laptops-under-rs-1-lakh-in-india-asus-acer-hp-lenovo-msi-11922145",
+            "source": "Gadgets 360",
+            "summary": "Gaming laptop buyers have several options below Rs. 1 lakh, with the models in this list offering Nvidia GeForce RTX 3050 graphics and at least 16GB RAM. The Asus TUF Gaming A15 stands out with a 1TB SSD, while the Acer ALG has the lowest price at Rs. 79,999. The HP Victus offers a larger 16.1-inch display, the Lenovo LOQ Essential reaches the Rs. 1 lakh mark, and the MSI Thin 15 is the lightest option among the…",
+            "published": "2026-08-22T14:00:46+05:30"
+          },
           {
             "title": "Best Phones With 144Hz Display Under Rs. 30,000 in India: Realme 16x 5G, Motorola Edge 70 Fusion, More",
             "link": "https://www.gadgets360.com/mobiles/features/best-phones-144hz-display-under-rs-30000-in-india-realme-16x-5g-motorola-edge-70-fusion-11921810",
@@ -518,20 +532,6 @@
             "source": "Gadgets 360",
             "summary": "The Vivo X500 series is expected to be launched in China soon. While the company has yet to confirm its upcoming flagship lineup, the rumour mill suggests it could include three models — Vivo X500, Vivo X500 Pro, and Vivo X500 Max. Ahead of its anticipated debut, an alleged sighting may have just offered an early look at one of the upcoming Pro models. One of the Vivo X500 Pro models was reportedly seen recently…",
             "published": "2026-08-21T17:36:47+05:30"
-          },
-          {
-            "title": "Qualcomm’s Upcoming Flagship Snapdragon Chipset Names Tipped Ahead of Launch",
-            "link": "https://www.gadgets360.com/mobiles/news/qualcomm-chipset-snapdragon-8-elite-names-leak-weibo-11940813",
-            "source": "Gadgets 360",
-            "summary": "A new leak has suggested the names of Qualcomm’s upcoming 2nm Snapdragon chipsets. The SM8950 is tipped to be branded as the Snapdragon 8 Elite Gen 6, while the chipset codenamed SM8975 is said to be marketed as Snapdragon 8 Elite Extreme Gen 6. We can expect more details about the next-generation Snapdragon chipsets to surface online soon. The company will launch the new chipsets at its Snapdragon Summit in Maui…",
-            "published": "2026-08-21T17:16:20+05:30"
-          },
-          {
-            "title": "Lava Virat V1 Pro 5G India Launch Date Confirmed, Key Specifications Leaked",
-            "link": "https://www.gadgets360.com/mobiles/news/lava-virat-v1-pro-5g-india-launch-date-features-expected-curve-model-report-11940597",
-            "source": "Gadgets 360",
-            "summary": "Lava is preparing to add another 5G smartphone to its Virat series in India. The Virat V1 Pro 5G will arrive on August 24 through Flipkart, with its price still under wraps. A report has revealed details including a 6.75-inch 120Hz display, Unisoc T8200 chipset, up to 8GB of RAM and a 50-megapixel rear camera. Lava is also reportedly developing the Virat Curve 5G, which has appeared in the GSMA IMEI Database with…",
-            "published": "2026-08-21T17:15:51+05:30"
           }
         ],
         "Entertainment": [
@@ -628,7 +628,7 @@
         "Top Stories": [
           {
             "title": "जस्टिस करोल बोले- जज भगवान नहीं, हर फैसला सही नहीं:कहा- न्याय के लिए विनम्रता जरूरी, याचिकाकर्ता के पीछे खड़े इंसान को भी देखें",
-            "link": "https://www.bhaskar.com/national/news/justice-sanjay-karol-retirement-speech-supreme-court-delhi-statement-138802937.html",
+            "link": "https://www.bhaskar.com/g/national/news/justice-sanjay-karol-retirement-speech-supreme-court-delhi-statement-138802937.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-22T11:29:19+00:00"
@@ -846,7 +846,7 @@
             "published": "2026-08-22T09:41:20+00:00"
           },
           {
-            "title": "આઈફોન માટે પહાડ પરથી કૂદેલા યુવકનો નવો શોકિંગ VIDEO:બચાવવા જતાં પિતા પણ નીચે પડ્યા, આઘાતમાં માતાએ પડતું મુક્યું, ગણતરીની મિનિટોમાં જ આખો પરિવાર ખતમ",
+            "title": "આઈફોન માટે પહાડ પરથી કૂદેલા યુવકનો નવો શોકિંગ VIDEO:મોત પહેલાં માતાએ દીકરા સામે હાથ જોડીને કહ્યું- હું તારા પગે પડું છું, પાછો આવી જા...",
             "link": "https://www.divyabhaskar.co.in/national/news/chhatrapati-sambhajinagar-family-death-iphone-emi-controversy-video-138801792.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "'மாணவர்கள் மத்தியில் போதைப் பொருள் பயன்பாடு' - பிபிசி தமிழ் கள ஆய்வில் கிடைத்த அதிர்ச்சித் தகவல்",
+            "link": "https://www.bbc.com/tamil/articles/cj9d9jd0znmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-22T11:36:00+00:00"
+          },
           {
             "title": "611 பள்ளிகளுக்கு சொந்த கட்டிடம் இல்லை.. அரசு பள்ளிகளின் அவலம்! CJP ஆய்வில் ஷாக்!",
             "link": "https://tamil.oneindia.com/news/india/rajasthan-school-infrastructure-shocker-611-government-schools-without-buildings-audit-finds-825609.html",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "கீழடி அகழாய்வு குறித்த இந்த ஆய்வு, தமிழர் வரலாற்றின் தொன்மையை உலகிற்கு மீண்டும் பறைசாற்றியுள்ளது. மதுரை காமராஜர் பல்கலைக்கழகத்தின் தொல் மரபியல் ஆய்வகத்தினர் மேற்கொண்ட இந்த ஆய்வில், கீழடியில் கண்டெடுக்கப்பட்ட மனித எலும்புக்கூடுகளின் டிஎன்ஏ மாதிரிகள், தற்போதைய தெற்காசிய மக்களின் மரபணுக்களோடு நெருங்கிய தொடர்புடையவை என்பது கண்டறியப்பட்டுள்ளது. இதன் மூலம், ஆயிரக்கணக்கான ஆண்டுகளுக்கு முன்பே கீழடியில் வாழ்ந்த மக்கள், இந்த மண்ணின் பூர்வகுடிகளாகவும், இன்றைய தமிழர்களின் நேரடி வழித்தோன்றல்களாகவும் இருந்திருப்பது உறுதியாகிறது. மேலும், இந்த ஆய்வில் அவர்கள் பயன்படுத்திய உணவு முறைகள் மற்றும் அவர்களின் வாழ்வியல் மாற்றங்கள் குறித்த முக்கியத் தகவல்களும் வெளிவந்துள்ளன. பண்டைய மனிதர்களின் உணவுப் பழக்கம், அன்றைய விவசாய முறைகள் மற்றும் சுற்றுச்சூழல் சார்ந்து அவர்கள் எப்படி வாழ்ந்தார்கள் என்பதைப் புரிந்துகொள்ள இந்தத் தரவுகள் மிகவும் உதவுகின்றன. ஒரு நாகரிகத்தின் வேர்களைக் கண்டறிவதில் டிஎன்ஏ ஆய்வு எவ்வளவு முக்கியமானது என்பதற்கு இது ஒரு சிறந்த எடுத்துக்காட்டாகும். கீழடி மக்கள் வெறும் வரலாற்றுச் சுவடுகளாக மட்டுமல்லாமல், மரபணு ரீதியாக நம்முடன் பிணைக்கப்பட்டவர்கள் என்பது இந்த ஆய்வின் மூலம் நிரூபணமாகியுள்ளது. இது போன்ற கண்டுபிடிப்புகள், இந்தியத் துணைக் கண்டத்தின் வரலாற்றை மாற்றி எழுதுவதற்கும், சங்க கால மக்களின் பெருமையை ஆவணப்படுத்துவதற்கும் பெரும் உதவியாக இருக்கும் என்பதில் ஐயமில்லை. எதிர்காலத்தில் மேற்கொள்ளப்படும் கூடுதல் ஆய்வுகள், கீழடி நாகரிகத்தின் முழு பரிமாணத்தையும் வெளிக்கொண்டு வரும் என எதிர்பார்க்கப்படுகிறது.",
             "published": "2026-08-22T02:42:58+00:00"
-          },
-          {
-            "title": "வகுப்பறையில் ஆசிரியை மீதே மயங்கி சரிந்த 6 வயது மாணவன் உயிரிழப்பு - வைரல் வீடியோவின் பின்னணி",
-            "link": "https://www.bbc.com/tamil/articles/cg7mlvpn7vko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "விசாகப்பட்டினத்தில் உள்ள ஒரு தனியார் பள்ளியில் ஆறு வயது சிறுவன் வகுப்பறையில் மயங்கி விழுந்து உயிரிழந்த சம்பவம் மிகுந்த அதிர்ச்சியை ஏற்படுத்தியுள்ளது. சிறுவன் வகுப்பறையில் இருந்தபோது எதிர்பாராத விதமாக மயங்கி விழுந்து, பின்னர் உயிரிழந்தது குறித்த காணொளி சமூக வலைதளங்களில் வைரலாகப் பரவி வருகிறது. இந்தச் சம்பவத்தைத் தொடர்ந்து, ஆசிரியர் அந்த மாணவரைத் தாக்கியதால் தான் இத்தகைய அசம்பாவிதம் நடந்ததா என்ற சந்தேகம் எழுப்பப்பட்டு வருகிறது. குழந்தையின் இறப்பிற்கான உண்மையான காரணம் என்ன என்பதை அறிய காவல்துறை தீவிர விசாரணையைத் தொடங்கியுள்ளது. ஒரு சிறுவனின் உயிர்ப் பறிபோனது பெற்றோர்கள் மற்றும் பொதுமக்கள் மத்தியில் பெரும் சோகத்தையும், பள்ளிகளின் பாதுகாப்பு நடவடிக்கைகள் குறித்த அச்சத்தையும் உருவாக்கியுள்ளது. உண்மையில் ஆசிரியர் அடித்தாரா அல்லது சிறுவனுக்கு இருந்த உடல்நலக் கோளாறு ஏதேனும் காரணமா என்பது பிரேதப் பரிசோதனை அறிக்கைக்குப் பிறகே உறுதி செய்யப்படும். இச்சம்பவம் பள்ளிகளில் மாணவர்களின் பாதுகாப்பு மற்றும் ஆசிரியர்களின் செயல்பாடுகள் குறித்து மீண்டும் ஒரு விவாதத்தை எழுப்பியுள்ளது. கல்வி கற்கும் இடத்தில் இத்தகைய துயரங்கள் நடப்பது ஒட்டுமொத்த சமூகத்தையும் உலுக்கியுள்ளது. மாணவர்களின் உடல்நலம் மற்றும் மனநலத்தைப் பேணுவதில் பள்ளிகள் காட்டும் அலட்சியம் குறித்து பலரும் கேள்வி எழுப்பி வருகின்றனர். உரிய விசாரணை நடத்தி தவறு செய்தவர்கள் யாராக இருந்தாலும் தண்டிக்கப்பட வேண்டும் என்பதே அனைவரின் கோரிக்கையாக உள்ளது.",
-            "published": "2026-08-22T02:24:04+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,11 +1426,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "বন্দে মাতরম্‌: মহাত্মা গাঁধীর বক্তব্য দেশ জুড়ে প্রচার করবে বিজেপি! রাহুল-সনিয়া-খড়্গেদের জবাব দিতে সিদ্ধান্ত নিতিন নবীনদের বৈঠকে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLThwbk5Kdl9nTlMzXzFRMlR5Q2dIWjRkaTFMd2wyaXhvdjlBa3Jsa1B0Q3lxNUUwQ0h0V2dNNXVwNkZMQlREcHNKS1VmR0t1YzV4VWlXcFhIQzV5RWpQWmdKMWQ3LWE1aDg4NHFYeGc5WFQ3cHR3bDFhVEFBQnRiVDlpN1AwTkhlb0pwWFFQdFk5bFRERWkwTGxZZjlCd1NCRVFfeFoyQkFYVDJ3c3pYdERGS0MzRlZ0S3RVa21WcXhZdVNDNnFMOE9n0gHPAUFVX3lxTE8zS2t6WEZ0MTJ2OGpVd2txQTZPOTk4OXBMSThMNHlSX0FuSW1JNUdUSEtBNWpwZ3dsQ3NickFYRkxRZXdnd19SQ3FwUmJrMDlQbDY5MFpxOUdUVTBZbmhvODdZUnVqNEtid3c0eENfdmwwWVdNVWhVbWh3VWxOWEs3X0FhSnNEWHZRS0FaOWhZcjliRGp1MWxRcng2a0JKbnE4ODNwWEI3bmM3WDg1OXlWRkUyVVB4cE5DNDRTNk02eVZ4d0lZVkFHQ3c3Q2ozSQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-22T10:34:21+00:00"
+          },
+          {
             "title": "যখন মান্না দে বলেছিলেন, 'হাজারটা মান্না দে হলেও রফি আর হবে না'",
             "link": "https://www.bbc.com/bengali/articles/c5yex9952n3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-08-22T10:01:41+00:00"
+          },
+          {
+            "title": "স্কুলপাঠ্য থেকে মুছল প্যালেস্টাইনের নাম! মারের ভয়ে ইজ়রায়েলকে স্বীকৃতি দিতে চলেছে আরও এক আরব রাষ্ট্র? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPakRIUEV1amxJWGEtUTVkT0U3WlE5ZVFpM1MzWlNPbmJ1T2pKdFBoamNMQTFpR09jYlpKb0N1cUNEUldMY1Bpcmhmb25pSEdGV21HNUVDV1JUTTd4RkcwYUxvZW1NMDljTXpzM0NqbC1udzVPWk02UTQzUktCUm16NVE1QTBHb3J6OFpCS21qejI1SGxyVGlNS1R6YTVCWTNlVmFKcDl6QjdqeWVIS2FPeHFjZGduSmpaY3hLOVdDdzUyY0FKT3UtbnBFNXJYTzZreW1FVmMxRTh2MDh5Q0tRMW1fRlF1cG5WR3VLTkV3WGUzM1NnSm92RWtad2FmVzVEN1JjMdIBigJBVV95cUxQLTh3MkhpNk5TcnZNM0JxcG1yRWN5eTR2UjJKZkZpcS1nOThRMmxKWFlrR1BZN1cxTGZlVEVkQ3lFT1pfQUdLamYxS0hLQ2VyTVF3MUUwbTNzcUxEc3ZxeGJNRDl2Zzg3QXpHN1d5cUp0N1FpWE1oMzJQeWRkQjl1S2RNTmhZeXVPdDAxenVFd2xLeFBXN0dHVElVYnlkZlFxTUJuRUlRY3BWYm90cjBoMVJhNHlubjQwalI0TUVxeU5pWHJka3VKWnpQWWl4YVBNc0VpR1k1RHlEX3lONC1DWktyNUFtMmh3azBoQWJwTmRfNUJrMWQxcUJUTFQzaWN4QWstaXNlTUdmZw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-22T09:01:27+00:00"
           },
           {
             "title": "পাহাড়চূড়ায় আতঙ্ক! বেলা ১০টা থেকে বিকেল ৩টে, কী ভাবে ব্যর্থ হল পরের পর চেষ্টা, আইফোনের জন্য কী ভাবে প্রাণ গেল ৩ জনের - Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-22T05:39:04+00:00"
-          },
-          {
-            "title": "টেস্ট চ্যাম্পিয়নশিপ ফাইনাল খেলতে বাংলাদেশকে কী করতে হবে?",
-            "link": "https://www.bbc.com/bengali/articles/c629pe5485xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে ওঠার স্বপ্ন এখন বাংলাদেশের সামনে একটি বড় হাতছানি হয়ে দাঁড়িয়েছে। বর্তমানে অস্ট্রেলিয়ার মাটিতে সফররত বাংলাদেশ দল এমন একটি সন্ধিক্ষণে দাঁড়িয়ে আছে, যেখানে প্রতিটি ম্যাচ ও প্রতিটি জয় তাদের বিশ্বমঞ্চে নিজেদের অবস্থান পাকাপোক্ত করতে সাহায্য করবে। বিশ্ব টেস্ট চ্যাম্পিয়নশিপের পয়েন্ট টেবিলের লড়াইয়ে টিকে থাকতে হলে বাংলাদেশের জন্য এই সিরিজটি অত্যন্ত গুরুত্বপূর্ণ। কেবল একটি সিরিজের ফলাফল বা জয়ের আনন্দই নয়, বরং এই জয়ের গুরুত্ব অনেক বেশি বিস্তৃত—তা সরাসরি চ্যাম্পিয়নশিপের ফাইনালে যাওয়ার সমীকরণের সাথে যুক্ত। দলের খেলোয়াড়দের জন্য এটি নিজের সক্ষমতা প্রমাণের এক দারুণ সুযোগ, একইসাথে ক্রিকেটবিশ্বে বাংলাদেশের মর্যাদা বৃদ্ধির এক বড় সুযোগ। যদি বাংলাদেশ বর্তমান চ্যালেঞ্জগুলোকে জয় করে ধারাবাহিক পারফরম্যান্স ধরে রাখতে পারে, তবে পুরো টেস্ট চ্যাম্পিয়নশিপের হিসাব পুরোপুরি বদলে যাওয়ার সম্ভাবনা রয়েছে। ক্রিকেটপ্রেমীদের প্রত্যাশা, দলের তারুণ্য ও অভিজ্ঞতার সংমিশ্রণ কাজে লাগিয়ে বাংলাদেশ অস্ট্রেলিয়ার মাটিতে ইতিহাস গড়বে। এটি কেবল কোনো সাধারণ জয় নয়, বরং দেশের ক্রিকেটের ভবিষ্যৎ নির্ধারণে এক বড় পদক্ষেপ। পুরো দল এখন নিজেদের সেরা ছন্দে ফেরার জন্য লড়াই করছে এবং চ্যাম্পিয়নশিপের ফাইনাল খেলার স্বপ্নকে বাস্তব রূপ দিতে বদ্ধপরিকর।",
-            "published": "2026-08-22T04:38:37+00:00"
-          },
-          {
-            "title": "‘বখরার অঙ্কেই বন্ধ ছাত্রভোট’! কবুল করছেন তৃণমূল নেতারাই, কলেজের মধুভাণ্ডের হাতছানির সঙ্গে আর কোন কোন সমীকরণ? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVkdkMklMVzNhanJkRFgtalkzQTY5QWpnZHRpRlp2RWpzM2ROb2VmeTB4TlcxTnZiVHRlVFY5eFAzY25VNnJ5Wjh2M2p4OUpVRnJRekk2VUx1UmY5d2g1aVNBWFgxTkttWnJ3VTZzY2JfTElESXlBRW5HVVlNWjR3OW5jdjU1R3BpVFhGR1RKeFhobThxMEVTc01BaXRBN214YzY3TXJJVndHdFkzUkpZcDU2aEhja0tMaldIbTl6R2RkQi1BWjVTSkhmUkNfc3JxQ2lybTB2aVZsWXpCcnl4elFOWEMtaHVXWmRoUC04bW9nal9YUkZfbFliNGcwbXp1QmU0MlZZejB4aGVBU3N0blRXNl90QV9qLU9HTDNiTXJtVUhyV3fSAasCQVVfeXFMTlVpRmt6clQ3bDdScWI0eFNFRzFpOU0tdzktOWJkNjVQdzNwZTNoS09pMlFnZ3ZOMmRNNVRmcDZ3U2ZFTTlUa1Rjd0xrM3BTS2NoV0VqdzkzZUt6ZVhkSjk0TWhrUDlZemhreVhCdnU1SWlZV0oxemp4b2pfN3J6Qnd0c25WVzU3NmRzUXhrVHNSZnNlNk0zRnltZ0pzYlRwVkx1ZE1xc0JfNFNUUmxCUE5hd3hNWGRiVHlZTkxMOW5veXduMmZVX0tMamJWenJjcWhDYUo2by1reF9uZkk3S3o0YzVROTZLM3dyd21vMy13MEpZd21KWU8yaG40T2RDejNmMWlqNVBRSXdTWW9iUC1JQzd4TlVmVW9NRlY1UkZpLUM3OHhwbGptWGs?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-22T04:04:54+00:00"
           }
         ]
       }
