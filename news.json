@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-08-23T23:01:31.549718+00:00",
+  "updated_at": "2026-08-23T23:31:25.194932+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Why students are being paid £2,000 to play computer games",
+            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+            "published": "2026-08-23T23:23:55+00:00"
+          },
+          {
+            "title": "Cost pressure: Carmakers see strong sales but lower profits",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/cost-pressure-carmakers-see-strong-sales-but-lower-profits/articleshow/133448506.cms",
+            "source": "Times of India",
+            "summary": "Rising Commodity Prices, Adverse Forex Movements Take Toll",
+            "published": "2026-08-24T04:41:43+05:30"
+          },
+          {
+            "title": "Change in revenue record doesn't create, end property title: SC",
+            "link": "https://timesofindia.indiatimes.com/india/change-in-revenue-record-doesnt-create-end-property-title-sc/articleshow/133448459.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-24T04:20:49+05:30"
+          },
           {
             "title": "Monsoon session yet to be prorogued, BJP, Congress face off over women’s bill",
             "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
@@ -81,30 +102,23 @@
             "source": "Al Jazeera",
             "summary": "A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.",
             "published": "2026-08-23T21:08:17+00:00"
-          },
-          {
-            "title": "Many poor in queue, can't allow 'luxury litigation' by rich: SC",
-            "link": "https://timesofindia.indiatimes.com/india/many-poor-in-queue-cant-allow-luxury-litigation-by-rich-sc/articleshow/133446537.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T02:36:40+05:30"
-          },
-          {
-            "title": "Is Israel about to split the occupied West Bank in half?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
-            "published": "2026-08-23T20:23:01+00:00"
-          },
-          {
-            "title": "Onion prices surge; Centre to roll out Kanda Express from Monday",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/onion-prices-surge-centre-to-roll-out-kanda-express-from-monday/articleshow/133446454.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T01:49:36+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Cost pressure: Carmakers see strong sales but lower profits",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/cost-pressure-carmakers-see-strong-sales-but-lower-profits/articleshow/133448506.cms",
+            "source": "Times of India",
+            "summary": "Rising Commodity Prices, Adverse Forex Movements Take Toll",
+            "published": "2026-08-24T04:41:43+05:30"
+          },
+          {
+            "title": "Change in revenue record doesn't create, end property title: SC",
+            "link": "https://timesofindia.indiatimes.com/india/change-in-revenue-record-doesnt-create-end-property-title-sc/articleshow/133448459.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-24T04:20:49+05:30"
+          },
           {
             "title": "Monsoon session yet to be prorogued, BJP, Congress face off over women’s bill",
             "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
@@ -174,20 +188,6 @@
             "source": "The Hindu",
             "summary": "Even as online stores are said to be drawing customers away, the internet is also bringing some shoppers to the market",
             "published": "2026-08-24T01:25:35+05:30"
-          },
-          {
-            "title": "On National Space Day, PM Modi hails Gen Z for building new tech",
-            "link": "https://timesofindia.indiatimes.com/india/on-national-space-day-pm-modi-hails-gen-z-for-building-new-tech-isro-chief-says-plan-to-launch-8-vehicle-12-satellite-missions/articleshow/133446253.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T01:21:59+05:30"
-          },
-          {
-            "title": "Rajasthan High Court questions police as probe into attack on Dalit family changes hands six times",
-            "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-dalit-family-case-changed-hands-six-times-hc-seeks-explanation/article71380790.ece",
-            "source": "The Hindu",
-            "summary": "High Court seeks affidavits from investigating officers and supervisory committee over delay in probe into alleged land encroachment and attack on Dalit family",
-            "published": "2026-08-24T01:19:31+05:30"
           }
         ],
         "World": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Why students are being paid £2,000 to play computer games",
+            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+            "published": "2026-08-23T23:23:55+00:00"
+          },
+          {
             "title": "Samsung Galaxy Z Fold 8 Ultra Review: The Best Z Fold Yet",
             "link": "https://www.gadgets360.com/mobiles/reviews/samsung-galaxy-z-fold-8-ultra-review-11948538",
             "source": "Gadgets 360",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Smartphones are available with 4GB, 6GB, 8GB, 12GB and 16GB of RAM. 4GB is generally limited to entry-level phones, while 6GB can handle everyday use. 8GB and 12GB of RAM are mostly found in mid-range handsets. There are also smartphones with 24GB of RAM. Gaming-focused phones such as the RedMagic 10 Pro and OnePlus 13 are available with 24GB of RAM.",
             "published": "2026-08-22T18:00:17+05:30"
-          },
-          {
-            "title": "How to Check Battery Health on an Android Phone: A Step-by-Step Guide",
-            "link": "https://www.gadgets360.com/how-to/features/poco-m8x-5g-battery-charging-details-announced-specifications-features-11925241",
-            "source": "Gadgets 360",
-            "summary": "Google lets Android phone users check the battery health of their handsets directly in the Settings menu. Hence, users do not have to download third-party apps to check the same. However, it is worth noting that your Android phone will only display an estimated percentage of battery health, while comparing the same with its capacity when it was brand new and unused. There are multiple benefits of checking your…",
-            "published": "2026-08-22T16:00:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ద్విచక్రవాహనాన్ని ఢీకొన్న ట్రక్కు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GbjdOM2V6MHRkLTVlSmcwaXl5NWFxdjZ2emtvLURhYmpJZTRVSjdkR2JBQmEwUldvS3RlR0Rxa2RGaXVKNFdURHFHQXF4UFBOT2Y4SzFNSEswcjJrWUJ6bnJQUzdQdHZFOHFfTjY3QUkxdTI1NlF3MA?oc=5",
+            "title": "Town Planning: అవినీతి ఊబిలో ‘పట్టణ ప్రణాళిక’ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2xtcTFhWjIyNDBsOFRlYjZWSWw4U3Vzd0dTYmlrYy02ak5MUVNkQnBaY2E1NGJYZldPT0ZVWXo0c1NNZ2JGcWpqR1VJLVYwNG94ZVFLOXp0RmFJbkFsQy1kMml3dWVvS2NrSFh3S2czOV9Fck1WRl9rVHdKRXFrSzQ0dlV3WEY3b3FWTEt5S3J3akwtVXRUVWdFZHVHSjRwcHdQSS1DUURXZ2xkUnfSAa4BQVVfeXFMTk9sbXExYVoyMjQwbDhUZWI2VklsOFN1c3dHU2Jpa2MtNmpOTFFTZEJwWmNhNTRiWGZXT09GVVl6NHNTTWdiRnFqakdVSS1WMDRveGVRSzl6dEZhSW5BbEMtZDJpd3Vlb0tja0hYd0tnMzlfRXJNVkZfa1R3SkVxa0s0NHZVd1hGN29xVkxLeUtyd2pMLVV0VFVnRWR1R0o0cHB3UEktQ1FEV2dsZFJ3?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T22:43:43+00:00"
+            "published": "2026-08-23T22:59:11+00:00"
+          },
+          {
+            "title": "Price: బె‘ధర’గొడుతున్నాయ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGNGQk1NT1Iwa01SMDFfNXpnalhIamN0T3lXMUM5R1VMcEFXbXM4eDgyNEpCcTMteThKeE1aTWZIZjc2TGxzNTM0M0lqbS1YT2ZfTll4d2lNbE5lVjM2T2Z2Y0RsLVZoS0loRGExNzllWUZDNDhWSWZDZlpNeWJTdm1TaVVtU2hNTXdGUEdNWWpiTGVqZ2JRQjJiYWUyTzFLSEM5QnU1TXc0ZWxLWXFN0gGvAUFVX3lxTE9UY0ZCTU1PUjBrTVIwMV81emdqWEhqY3RPeVcxQzlHVUxwQVdtczh4ODI0SkJxMy15OEp4TVpNZkhmNzZMbHM1MzQzSWptLVhPZl9OWXh3aU1sTmVWMzZPZnZjRGwtVmhLSWhEYTE3OWVZRkM0OFZJZkNmWk15YlN2bVNpVW1TaE1Nd0ZQR01ZamJMZWpnYlFCMmJhZTJPMUtIQzlCdTVNdzRlbEtZcU0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-23T22:49:15+00:00"
+          },
+          {
+            "title": "Balakrishna: క్రిస్మస్‌ బరిలో బాలకృష్ణ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkZXdnJJak5FajhNdjV2MzNRZmFpTC0zZHJyLWtpZk54N3VneEUtTzR2U2htZ3UwZkc1MGJRS2Q2Qnp5WlNIUU9UanhsREd0OVJkSVZVTnY5UVpLYXUwSmtNenRZZ2VJT2F0NDlZYmc4Q0poT1ZTQmRKTTFMd1JnQmJ0MTJkaWw2WnY5NmU1aENFUHBR0gGUAUFVX3lxTE9KRld2cklqTkVqOE12NXYzM1FmYWlMLTNkcnIta2lmTng3dWd4RS1PNHZTaG1ndTBmRzUwYlFLZDZCenlaU0hRT1RqeGxER3Q5UmRJVlVOdjlRWkthdTBKa016dFlnZUlPYXQ0OVliZzhDSmhPVlNCZEpNMUx3UmdCYnQxMmRpbDZadjk2ZTVoQ0VQcFE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-23T22:03:45+00:00"
+          },
+          {
+            "title": "హాయ్‌ దర్శకుడితో విక్రమ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WVHUyZmpXZ2lMQ2NMN2l2Vi04TTFlRmlPMEZXYjhHaFF3OTNQNlVnV2pteHE1VTZVZE5saW1BWFVTODNhbXZ1M3JiSzFkVGRDQlE5TDJ1ZmdLZ3pTTDh1enJuWkR1NEE2LU1vWm5jelhMZ9IBckFVX3lxTE1WVHUyZmpXZ2lMQ2NMN2l2Vi04TTFlRmlPMEZXYjhHaFF3OTNQNlVnV2pteHE1VTZVZE5saW1BWFVTODNhbXZ1M3JiSzFkVGRDQlE5TDJ1ZmdLZ3pTTDh1enJuWkR1NEE2LU1vWm5jelhMZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-23T22:02:34+00:00"
           },
           {
             "title": "అనుకోని ఛాంపియన్లు - Eenadu",
@@ -1086,18 +1107,25 @@
             "published": "2026-08-23T21:23:19+00:00"
           },
           {
-            "title": "ఫ్రాన్స్‌ డబుల్‌ ధమాకా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ncmF1UUdoU2hTX3F0aHptdFVYLUcxa2MwS3JLdVltZk1VRm9peVAxdDJoVFF5Q1pyVVhoTU1LcU1jVjhNaHphYkhtVlJuMG92V0c4Zk95NTBKTjkxdTVxRk5nMVFhQ18zQVpaa1dhSzJmd9IBckFVX3lxTE9ncmF1UUdoU2hTX3F0aHptdFVYLUcxa2MwS3JLdVltZk1VRm9peVAxdDJoVFF5Q1pyVVhoTU1LcU1jVjhNaHphYkhtVlJuMG92V0c4Zk95NTBKTjkxdTVxRk5nMVFhQ18zQVpaa1dhSzJmdw?oc=5",
+            "title": "పసిడి ఆకర్షణీయం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zRVlxeURBbmdDMzlyMzhxbWgxV1dzRi10Yk1VM1VfZXhySlg4YWN3dXZLTnBVV0VndEVkRTVoQktPWkdwX3p0UGZKbUlpNXp5ZlVIOGkyX0RRclhidEVDeXphbWtLUS1TejE3R1B6Sk1DYlhF0gF0QVVfeXFMTTNFWXF5REFuZ0MzOXIzOHFtaDFXV3NGLXRiTVUzVV9leHJKWDhhY3d1dktOcFVXRWd0RWRFNWhCS09aR3BfenRQZkptSWk1enlmVUg4aTJfRFFyWGJ0RUN5emFta0tRLVN6MTdHUHpKTUNiWEU?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T21:22:16+00:00"
+            "published": "2026-08-23T20:40:07+00:00"
           },
           {
-            "title": "మీకు తెలుసా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xOUp3NlgzYWhPcVppYXd5WjNiUGNDNVVOb1g4TkZIZ3IxMVIyN2Y0Z3dUd0pxVjU4anZubXFReVZpTGlURkFBanh6QzNPZ0RET1VXUzlhOUZGTjdkejdZLUQ4MXlwY1d0WWRtWnZXeFDSAXBBVV95cUxPMTlKdzZYM2FoT3FaaWF3eVozYlBjQzVVTm9YOE5GSGdyMTFSMjdmNGd3VHdKcVY1OGp2bm1xUXlWaUxpVEZBQWp4ekMzT2dERE9VV1M5YTlGRk43ZHo3WS1EODF5cGNXdFlkbVp2V3hQ?oc=5",
+            "title": "మార్చే రిటెయిల్‌ లైసెన్స్‌ సస్పెన్షన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NdkRLbENqekJsSTZad0wzY0ZCODc1SG9McUNsSHR3RDVhMXBqSl9CTzVJc2tGWU5XWFhXb0ZuNkZFN0dLd19RV0luLTNSR0g4MVRsalF4Uy14NnZWS1JzenFPYnJkZkx0ZHpkMkhmTUFZWl800gF0QVVfeXFMT012REtsQ2p6QmxJNlp3TDNjRkI4NzVIb0xxQ2xIdHdENWExcGpKX0JPNUlza0ZZTldYWFdvRm42RkU3R0t3X1FXSW4tM1JHSDgxVGxqUXhTLXg2dlZLUnN6cU9icmRmTHRkemQySGZNQVlaXzQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T19:49:17+00:00"
+            "published": "2026-08-23T20:39:45+00:00"
+          },
+          {
+            "title": "ఏ కోర్సుతో ఎక్కువ అవకాశాలు? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43NVNEbjdRVmx1OTBLLWt3LTVBSTFqdlVYMEVQR3hpTEhUaU1WMnlSWVA3YnRkQ1dNWmJDaGN3djBkS2RiUTJzMVA1S3NyRnFYRUx5ZDNqYzY1d3kwel9jUXlRUEdZb1dUYk9NUzRBNXRkOXRoS19hQnpn0gF6QVVfeXFMTjc1U0RuN1FWbHU5MEsta3ctNUFJMWp2VVgwRVBHeGlMSFRpTVYyeVJZUDdidGRDV01aYkNoY3d2MGRLZGJRMnMxUDVLc3JGcVhFTHlkM2pjNjV3eTB6X2NReVFQR1lvV1RiT01TNEE1dGQ5dGhLX2FCemc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-23T18:51:36+00:00"
           },
           {
             "title": "బాడీ లైన్‌.. నెగెటివ్‌ బౌలింగ్‌.. నోరు జారుడు... తొలిరోజే డిఫెన్స్‌లోకి లంకేయులు - Eenadu",
@@ -1126,34 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-23T23:35:07+05:30"
-          },
-          {
-            "title": "రాష్ట్ర ప్రభుత్వంతో చర్చలు సఫలం.. తెలంగాణలో ఆటో, క్యాబ్ సమ్మె విరమణ",
-            "link": "https://telugu.oneindia.com/news/telangana/auto-talks-with-the-government-successful-auto-cab-strike-called-off-in-telangana-ponnam-prabhakar-502997.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-23T22:25:38+05:30"
-          },
-          {
-            "title": "తెలంగాణ ఉద్యోగులకు గుడ్‌ న్యూస్.. అమల్లోకి కొత్త ఆరోగ్య పథకం.. మార్గదర్శకాలు ఇవే..",
-            "link": "https://telugu.oneindia.com/news/telangana/telangana-good-news-for-employees-new-health-scheme-comes-into-effect-here-are-the-guidelines-502995.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-23T21:45:42+05:30"
-          },
-          {
-            "title": "DHEE 21: ఢీ 21.. ఈ టీవీ విన్‌ ఒరిజినల్‌ షో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWJtMi0tQzJHVFNRMHFrUnBBV2h4UVI4NlNkQ25zVFo0eWh1ZkRLRmF2YVNQQ05wVnIxRjY0MlkyZnFkRWZLWTFJLWVlOHFoUmhOaDA3LW90Znd0QmdoMkU2NUFZb2dKZUtGb2dYa0otVkp1Ui1PSHFGMzRBMHhvTFRPMFNXLU1ybmN0b194REV1bVnSAZMBQVVfeXFMUFVibTItLUMyR1RTUTBxa1JwQVdoeFFSODZTZENuc1RaNHlodWZES0ZhdmFTUENOcFZyMUY2NDJZMmZxZEVmS1kxSS1lZThxaFJoTmgwNy1vdGZ3dEJnaDJFNjVBWW9nSmVLRm9nWGtKLVZKdVItT0hxRjM0QTB4b0xUTzBTVy1Ncm5jdG9feERFdW1Z?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-23T15:47:34+00:00"
-          },
-          {
-            "title": "ఎర్లింగ్ హాలాండ్ కొత్త హెయిర్‌స్టైల్",
-            "link": "https://www.bbc.com/telugu/articles/cg4d4wnz6reo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-08-23T15:41:23+00:00"
           }
         ],
         "Entertainment": [
