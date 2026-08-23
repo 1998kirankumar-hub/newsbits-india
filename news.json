@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-08-23T16:37:49.238201+00:00",
+  "updated_at": "2026-08-23T17:01:25.413732+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "LIVE: Elche vs Barcelona – La Liga",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.",
+            "published": "2026-08-23T16:50:00+00:00"
+          },
+          {
+            "title": "Bess takes five as Yorkshire close out tight 39-run win",
+            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Hampshire fight hard in stiff run-chase but spinner chips away",
+            "published": "2026-08-23T16:42:00+00:00"
+          },
           {
             "title": "Two drown in sea, two rescued at Kakinada",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-drown-in-sea-two-rescued-at-kakinada/article71381903.ece",
@@ -25,6 +39,13 @@
             "source": "The Hindu",
             "summary": "U.P. government highlights its focus on village industries in khadi, handloom, and silk sectors for the rural economy and, for the generation of employment",
             "published": "2026-08-23T22:02:26+05:30"
+          },
+          {
+            "title": "Several detained after 300 people gathered at Delhi's Connaught Place to protest reservation",
+            "link": "https://www.hindustantimes.com/india-news/several-detained-after-300-people-gathered-at-delhis-connaught-place-to-protest-reservation-hatao-andolan-101787500587671.html",
+            "source": "Hindustan Times",
+            "summary": "Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.",
+            "published": "2026-08-23T22:00:53+05:30"
           },
           {
             "title": "Leach leads the way as Somerset seal dominant win",
@@ -55,13 +76,6 @@
             "published": "2026-08-23T21:51:08+05:30"
           },
           {
-            "title": "Bess takes five as Yorkshire close out tight 39-run win",
-            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Hampshire fight hard in stiff run-chase but spinner chips away",
-            "published": "2026-08-23T16:21:02+00:00"
-          },
-          {
             "title": "Freedom doesn’t mean crossing limits: Mahesh Goud",
             "link": "https://www.thehindu.com/news/national/telangana/freedom-doesnt-mean-crossing-limits-mahesh-goud/article71381859.ece",
             "source": "The Hindu",
@@ -88,20 +102,6 @@
             "source": "The Hindu",
             "summary": "Assembly polls are due in Punjab, Uttar Pradesh, Uttarakhand, Goa, Himachal Pradesh and Gujarat in 2027",
             "published": "2026-08-23T21:41:35+05:30"
-          },
-          {
-            "title": "Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad",
-            "link": "https://www.hindustantimes.com/india-news/denied-us-tour-permission-telangana-cm-revanth-reddy-to-return-to-hyderabad-101787500785170.html",
-            "source": "Hindustan Times",
-            "summary": "CM Reddy was scheduled to travel from London to Boston. However, following the denial of permission by the MEA, he said he would board a flight to Hyderabad.",
-            "published": "2026-08-23T21:40:49+05:30"
-          },
-          {
-            "title": "Holland fires Leicestershire to victory despite Carlson 99",
-            "link": "https://www.cricinfo.com/ci/content/story/1551232.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Seamer takes nine wickets in match to seal 42-run win at Grace Road",
-            "published": "2026-08-23T16:10:32+00:00"
           }
         ],
         "India": [
@@ -125,6 +125,13 @@
             "source": "The Hindu",
             "summary": "U.P. government highlights its focus on village industries in khadi, handloom, and silk sectors for the rural economy and, for the generation of employment",
             "published": "2026-08-23T22:02:26+05:30"
+          },
+          {
+            "title": "Several detained after 300 people gathered at Delhi's Connaught Place to protest reservation",
+            "link": "https://www.hindustantimes.com/india-news/several-detained-after-300-people-gathered-at-delhis-connaught-place-to-protest-reservation-hatao-andolan-101787500587671.html",
+            "source": "Hindustan Times",
+            "summary": "Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.",
+            "published": "2026-08-23T22:00:53+05:30"
           },
           {
             "title": "KTR calls for State-wide protests from September 2 on ‘govt. failures’",
@@ -181,16 +188,16 @@
             "source": "Hindustan Times",
             "summary": "CPI(M) state secretary M V Govindan alleged that the ED was conducting the investigation with an ulterior political motive.&nbsp;",
             "published": "2026-08-23T21:38:21+05:30"
-          },
-          {
-            "title": "Vancouver turns sewage heat into renewable energy for buildings",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/vancouver-captures-heat-that-normally-disappears-down-showers-sinks-and-toilets-and-sends-it-back-into-buildings-sewage-now-supplies-most-of-one-districts-renewable-heat/articleshow/133439185.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-23T21:38:13+05:30"
           }
         ],
         "World": [
+          {
+            "title": "LIVE: Elche vs Barcelona – La Liga",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.",
+            "published": "2026-08-23T16:50:00+00:00"
+          },
           {
             "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
             "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
             "published": "2026-08-23T13:37:50+00:00"
-          },
-          {
-            "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-            "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-            "published": "2026-08-23T13:35:06+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Bess takes five as Yorkshire close out tight 39-run win",
+            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Hampshire fight hard in stiff run-chase but spinner chips away",
+            "published": "2026-08-23T16:42:00+00:00"
+          },
+          {
             "title": "Leach leads the way as Somerset seal dominant win",
             "link": "https://www.cricinfo.com/ci/content/story/1551254.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -376,13 +383,6 @@
             "source": "ESPN Cricinfo",
             "summary": "Gill struck 50 while Asitha Fernando was the most successful bowler for Sri Lanka, picking up three wickets",
             "published": "2026-08-23T16:26:27+00:00"
-          },
-          {
-            "title": "Bess takes five as Yorkshire close out tight 39-run win",
-            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Hampshire fight hard in stiff run-chase but spinner chips away",
-            "published": "2026-08-23T16:21:02+00:00"
           },
           {
             "title": "Holland fires Leicestershire to victory despite Carlson 99",
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'मेरी जवानी के सपने मत देखो'कंगना रनौत के इस बयान पर अब बाबा रामदेव ने तोड़ी चुप्पी, दिया करारा जवाब",
+            "link": "https://hindi.oneindia.com/news/india/baba-ramdev-breaks-silence-on-kangana-ranaut-he-says-dont-want-to-comment-on-such-people-1634949.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-23T22:22:00+05:30"
+          },
+          {
             "title": "Ganpati Chakraborty Family Murder: 4 कत्ल, फिर नशा-खजूर और स्नान, लाशों के बीच 7 घंटे क्या-क्या किया?",
             "link": "https://hindi.oneindia.com/news/international/ganpati-chakraborty-family-murder-2-killers-stayed-with-bodies-took-drugs-bathed-bangladesh-news-1634925.html",
             "source": "Oneindia Hindi",
@@ -655,7 +662,7 @@
             "published": "2026-08-23T15:51:46+00:00"
           },
           {
-            "title": "चंडीगढ़ में बस स्टैंड के पास मिला IED:बैग में रखा था, 3 लोग गिरफ्तार, पुलिस ने इलाका सील किया",
+            "title": "चंडीगढ़ में बस स्टैंड के पास मिला IED:बैग में टिफिन के अंदर रखा था, 3 लोग गिरफ्तार, पुलिस ने इलाका सील किया",
             "link": "https://www.bhaskar.com/local/chandigarh/news/chandigarh-sector-43-suspicious-bag-id-arrest-police-investigation-138814651.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-23T19:33:21+05:30"
-          },
-          {
-            "title": "'मुस्लिम पड़ोसियों को छोड़ना बुज़दिली': कश्मीर का सर्वानंद कौल हत्याकांड जिसकी 36 साल बाद खुली फ़ाइल",
-            "link": "https://www.bbc.com/hindi/articles/cn5n0rgwek6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-23T14:02:29+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "రాష్ట్ర ప్రభుత్వంతో చర్చలు సఫలం.. తెలంగాణలో ఆటో, క్యాబ్ సమ్మె విరమణ",
+            "link": "https://telugu.oneindia.com/news/telangana/auto-talks-with-the-government-successful-auto-cab-strike-called-off-in-telangana-ponnam-prabhakar-502997.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-23T22:25:38+05:30"
+          },
+          {
             "title": "తెలంగాణ ఉద్యోగులకు గుడ్‌ న్యూస్.. అమల్లోకి కొత్త ఆరోగ్య పథకం.. మార్గదర్శకాలు ఇవే..",
             "link": "https://telugu.oneindia.com/news/telangana/telangana-good-news-for-employees-new-health-scheme-comes-into-effect-here-are-the-guidelines-502995.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-23T18:02:46+05:30"
-          },
-          {
-            "title": "పవన్ కళ్యాణ్ మాస్టర్ ప్లాన్.. 100 ప్రముఖ పుణ్యక్షేత్రాలకు పక్కా రోడ్లు!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-deputy-cm-pawan-kalyan-directs-accelerated-construction-of-road-infrastructure-for-over-100-relig-502971.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-23T17:55:23+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Imd Weather Forecast: ಬಂಗಾಳ ಕೊಲ್ಲಿಯಲ್ಲಿ ವಾಯುಭಾರ ಕುಸಿತ: ಈ ಭಾಗಗಳಲ್ಲಿ ಭಾರೀ ಮಳೆ: ಐಎಂಡಿ ಮುನ್ಸೂಚನೆ",
+            "link": "https://kannada.oneindia.com/news/india/imd-weather-forecast-low-pressure-area-over-bay-of-bengal-heavy-rain-alert-for-several-states-465529.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-23T22:11:22+05:30"
+          },
+          {
             "title": "ದೇವದತ್ ಪಡಿಕ್ಕಲ್ ಐತಿಹಾಸಿಕ ಸಾಧನೆ.. ರಾಹುಲ್ ದ್ರಾವಿಡ್ ಅವರ 27 ವರ್ಷಗಳ ಹಳೆಯ ದಾಖಲೆ ಉಡೀಸ್",
             "link": "https://kannada.oneindia.com/news/sports/devdutt-padikkal-hits-117-breaks-rahul-dravid-s-27-year-old-record-know-complete-statistics-detail-465521.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-23T14:52:52+05:30"
-          },
-          {
-            "title": "Education Revolution 2030: ₹2,500 ಕೋಟಿ ವೆಚ್ಚದಲ್ಲಿ 500 KPS ಶಾಲೆಗಳ ಸಮಗ್ರ ಅಭಿವೃದ್ಧಿಗೆ ಡಿಕೆಶಿ ಗುಡ್‌ನ್ಯೂಸ್‌",
-            "link": "https://kannada.oneindia.com/news/karnataka/education-revolution-2030-dk-shivakumar-announces-2-500-crore-plan-to-upgrade-500-kps-schools-465485.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-23T14:51:10+05:30"
           }
         ],
         "Entertainment": [
