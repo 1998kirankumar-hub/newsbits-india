@@ -1,116 +1,158 @@
 {
-  "updated_at": "2026-08-24T01:01:23.218071+00:00",
+  "updated_at": "2026-08-24T01:31:14.265539+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Tempsens grey premium sales surge, exceeding 100% growth this quarter",
+            "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
+            "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
+            "published": "2026-08-24T01:23:19+00:00"
+          },
+          {
+            "title": "22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway",
+            "link": "https://www.hindustantimes.com/india-news/odisha-china-bay-of-bengal-tanker-seafarers-iron-ore-myanmar-bangladesh-national-rescue-operations-efforts-navy-maritime-101787529775861.html",
+            "source": "Hindustan Times",
+            "summary": "The China-bound vessel left Paradip Port on Friday. It reportedly sank in deep waters of the Bay of Bengal on Saturday.",
+            "published": "2026-08-24T06:40:22+05:30"
+          },
+          {
+            "title": "2 MLAs among several injured after car crashes into SUV in Delhi",
+            "link": "https://www.hindustantimes.com/india-news/2-mlas-among-several-injured-after-car-crashes-into-suv-at-delhi-ito-anil-jha-abhay-patil-101787533412410.html",
+            "source": "Hindustan Times",
+            "summary": "Delhi's Anil Jha and Karnataka's Abhay Patil were injured after a Swift car crossed a divider and collided with an Innova.",
+            "published": "2026-08-24T06:37:12+05:30"
+          },
+          {
+            "title": "Watch: Max Verstappen’s horrific Dutch GP crash as Lando Norris wins chaotic race",
+            "link": "https://timesofindia.indiatimes.com/sports/racing/top-stories/watch-max-verstappens-horrific-dutch-gp-crash-as-lando-norris-wins-chaotic-race/articleshow/133448926.cms",
+            "source": "Times of India",
+            "summary": "Max Verstappen's Dutch Grand Prix ended early after a first-lap crash on a damp track. Lando Norris capitalised on the chaos, securing a crucial victory for his title hopes. Norris made a daring overtake to take the lead and hold it until the finish. Kimi Antonelli finished second, with George Russell completing the podium. The Dutch Grand Prix is departing the Formula 1 calendar after this season.",
+            "published": "2026-08-24T06:36:27+05:30"
+          },
+          {
+            "title": "Derivatives get gen Z twist, but losses cast a long shadow: Sebi",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/derivatives-get-gen-z-twist-but-losses-cast-a-long-shadow-sebi/articleshow/133448921.cms",
+            "source": "Economic Times",
+            "summary": "Young traders below thirty years of age now make up an impressive forty-three percent of participants engaged in equity derivatives. However, this age group encountered a spike in trading losses in FY26. Moreover, individuals from lower-income categories and smaller towns are on the rise in the trading scene, contributing to significant turnover and losses while showcasing a greater risk appetite in derivatives than…",
+            "published": "2026-08-24T06:36:12+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks dip with AI in focus, oil declines",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms",
+            "source": "Economic Times",
+            "summary": "MSCI’s Asia Pacific equities gauge dipped 0.1%, with the Kospi Index in South Korea — a bellwether for AI investments — falling 1.2%. However, US equity-index futures erased earlier losses to edged up, with contracts for the tech-heavy Nasdaq 100 climbing 0.1%.",
+            "published": "2026-08-24T06:33:43+05:30"
+          },
+          {
+            "title": "IPO rush continues: 10 issues to raise over Rs 3,500 crore this week",
+            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/primary-market-keeps-the-party-going-with-over-rs-3500-cr-in-play/articleshow/133448877.cms",
+            "source": "Economic Times",
+            "summary": "This week sees the launch of six mainboard IPOs and four from the SME sector, with total fundraising expected to surpass Rs 3,500 crore. Among these, Symbiotec Pharmalab's IPO stands out as the largest, aiming for substantial investment. The market is buzzing with other companies also set for their stock market introductions, ensuring a robust IPO pipeline this month.",
+            "published": "2026-08-24T06:27:10+05:30"
+          },
+          {
+            "title": "\"No Need To Fake Illness\": India Coach Makes Stunning Remark On Kuldeep Yadav",
+            "link": "https://sports.ndtv.com/cricket/no-need-to-fake-illness-india-coach-makes-stunning-remark-on-kuldeep-yadav-11948458#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India's batting coach Sitanshu Kotak on Sunday asserted that Kuldeep Yadav was benched from the second Test against Sri Lanka due viral fever.",
+            "published": "2026-08-24T06:23:00+05:30"
+          },
+          {
+            "title": "\"If You Can't Take It Back, Don't Say It To Others\": Ajay Jadeja To Yashasvi Jaiswal Over On-Field Spat",
+            "link": "https://sports.ndtv.com/cricket/if-you-cant-take-it-back-dont-say-it-to-others-ajay-jadeja-to-yashasvi-jaiswal-over-on-field-spat-11948687#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The on-field spat took place on Day 1 of the second Test between India and Sri Lanka in Colombo.",
+            "published": "2026-08-24T06:20:18+05:30"
+          },
+          {
+            "title": "Can Symbiotec Pharmalab IPO deliver long-term growth for high-risk investors?",
+            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-symbiotec-pharmalab-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133448856.cms",
+            "source": "Economic Times",
+            "summary": "Symbiotec Pharmalab plans a ₹150 crore IPO to repay debt and expand operations. The company holds a global leadership position in corticosteroid and steroidal-hormone APIs. Its revenue primarily comes from international markets, with Europe being a significant contributor. Financials show steady revenue and EBITDA growth over recent years. Investors with a high-risk appetite may consider this long-term opportunity.",
+            "published": "2026-08-24T06:20:02+05:30"
+          },
+          {
+            "title": "England Star Handcuffed After Incident In Nightclub. ECB Issues Statement",
+            "link": "https://sports.ndtv.com/cricket/england-star-brydon-carse-handcuffed-after-incident-in-nightclub-ecb-issues-statement-11948797#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "England cricket team fast bowler Brydon Carse is under investigation after he was allegedly involved in an incident at a nightclub in Derby on Saturday.",
+            "published": "2026-08-24T06:17:53+05:30"
+          },
+          {
+            "title": "Chlorine leak from tanker leaves several ill in Nagpur's Godni",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/chlorine-leak-from-tanker-leaves-several-ill-in-nagpurs-godni/articleshow/133448844.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-24T06:14:33+05:30"
+          },
+          {
+            "title": "PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’",
+            "link": "https://www.hindustantimes.com/india-news/pm-modi-says-india-can-very-quickly-make-its-place-in-global-space-sector-we-must-create-an-aura-that-101787528407473.html",
+            "source": "Hindustan Times",
+            "summary": "PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy",
+            "published": "2026-08-24T06:12:57+05:30"
+          },
+          {
+            "title": "Tempsens Instrument IPO: GMP soars past 100%, signalling strong listing hopes",
             "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-grey-premium-sales-surge-exceeding-100-growth-this-quarter/articleshow/133448795.cms",
             "source": "Economic Times",
             "summary": "Tempsens Instruments IPO grey market premium has surged 100 percent. This marks the first IPO to cross this milestone in nearly two years. The IPO was subscribed nearly 22 times on its second day. Other upcoming IPOs also show strengthening grey market premiums. Investor appetite for new share sales appears to be reviving.",
             "published": "2026-08-24T06:04:43+05:30"
-          },
-          {
-            "title": "Liquor sales expected to go up during Onam season",
-            "link": "https://www.thehindu.com/news/national/kerala/liquor-sales-expected-to-go-up-during-onam-season/article71381047.ece",
-            "source": "The Hindu",
-            "summary": "Bevco sold liquor to the tune of ₹970.74 crore during the Onam season in 2025, compared to the ₹842.07 crore the year before",
-            "published": "2026-08-24T06:03:09+05:30"
-          },
-          {
-            "title": "Large forest fire burns close to residential areas in Ankara",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.",
-            "published": "2026-08-24T00:30:00+00:00"
-          },
-          {
-            "title": "Hawkish MPC, West Asia conflict cloud rupee, bond yield outlook",
-            "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/mpcs-rate-hike-signals-add-to-war-driven-risks-for-rupee-and-bonds/articleshow/133448587.cms",
-            "source": "Economic Times",
-            "summary": "In light of the hawkish monetary policy minutes and the ongoing conflict in West Asia, the outlook for the rupee and bond yields appears uncertain. However, record forex inflows offer a cushion for the central bank, allowing it to manage currency pressures effectively. Analysts expect the rupee to fluctuate between 95.50 and 96.00, with interventions from the central bank.",
-            "published": "2026-08-24T05:50:40+05:30"
-          },
-          {
-            "title": "Sebi turns down Adani-linked FPIs' settlement applications",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-turns-down-adani-linked-fpis-settlement-applications/articleshow/133448753.cms",
-            "source": "Economic Times",
-            "summary": "The regulator communicated its decision to the FPIs' representatives last week, the people said, reviving a case that dates back to October 2020, when Sebi's surveillance systems first flagged the unusual concentration of their holdings. Sebi's investigation had flagged 13 FPIs. They subsequently sought to settle the case.",
-            "published": "2026-08-24T05:46:52+05:30"
-          },
-          {
-            "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.",
-            "published": "2026-08-24T00:12:21+00:00"
-          },
-          {
-            "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.",
-            "published": "2026-08-24T00:00:00+00:00"
-          },
-          {
-            "title": "Review launched into how pub and hotel business rates calculated",
-            "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
-            "published": "2026-08-23T23:26:15+00:00"
-          },
-          {
-            "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-            "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-            "published": "2026-08-23T23:25:44+00:00"
-          },
-          {
-            "title": "Why students are being paid £2,000 to play computer games",
-            "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
-            "published": "2026-08-23T23:23:55+00:00"
-          },
-          {
-            "title": "Cost pressure: Carmakers see strong sales but lower profits",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/cost-pressure-carmakers-see-strong-sales-but-lower-profits/articleshow/133448506.cms",
-            "source": "Times of India",
-            "summary": "Rising Commodity Prices, Adverse Forex Movements Take Toll",
-            "published": "2026-08-24T04:41:43+05:30"
-          },
-          {
-            "title": "Change in revenue record doesn't create, end property title: SC",
-            "link": "https://timesofindia.indiatimes.com/india/change-in-revenue-record-doesnt-create-end-property-title-sc/articleshow/133448459.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T04:20:49+05:30"
-          },
-          {
-            "title": "Digging for gold",
-            "link": "https://www.thehindu.com/news/national/odisha/spotlight-digging-for-gold/article71376668.ece",
-            "source": "The Hindu",
-            "summary": "Parliament passed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, which put the extraction and management of minerals in the hands of the Central government. Many in Odisha, one of India’s most mineral-rich States, fear that the new law will impact the State’s fiscal health, while also disrupting the Centre-State relationship. Satyasundar Barik delves into the amendment’s far-reaching…",
-            "published": "2026-08-24T04:19:25+05:30"
-          },
-          {
-            "title": "Monsoon session yet to be prorogued, BJP, Congress face off over women’s bill",
-            "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T03:53:04+05:30"
           }
         ],
         "India": [
           {
+            "title": "22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway",
+            "link": "https://www.hindustantimes.com/india-news/odisha-china-bay-of-bengal-tanker-seafarers-iron-ore-myanmar-bangladesh-national-rescue-operations-efforts-navy-maritime-101787529775861.html",
+            "source": "Hindustan Times",
+            "summary": "The China-bound vessel left Paradip Port on Friday. It reportedly sank in deep waters of the Bay of Bengal on Saturday.",
+            "published": "2026-08-24T06:40:22+05:30"
+          },
+          {
+            "title": "2 MLAs among several injured after car crashes into SUV in Delhi",
+            "link": "https://www.hindustantimes.com/india-news/2-mlas-among-several-injured-after-car-crashes-into-suv-at-delhi-ito-anil-jha-abhay-patil-101787533412410.html",
+            "source": "Hindustan Times",
+            "summary": "Delhi's Anil Jha and Karnataka's Abhay Patil were injured after a Swift car crossed a divider and collided with an Innova.",
+            "published": "2026-08-24T06:37:12+05:30"
+          },
+          {
+            "title": "Watch: Max Verstappen’s horrific Dutch GP crash as Lando Norris wins chaotic race",
+            "link": "https://timesofindia.indiatimes.com/sports/racing/top-stories/watch-max-verstappens-horrific-dutch-gp-crash-as-lando-norris-wins-chaotic-race/articleshow/133448926.cms",
+            "source": "Times of India",
+            "summary": "Max Verstappen's Dutch Grand Prix ended early after a first-lap crash on a damp track. Lando Norris capitalised on the chaos, securing a crucial victory for his title hopes. Norris made a daring overtake to take the lead and hold it until the finish. Kimi Antonelli finished second, with George Russell completing the podium. The Dutch Grand Prix is departing the Formula 1 calendar after this season.",
+            "published": "2026-08-24T06:36:27+05:30"
+          },
+          {
+            "title": "Chlorine leak from tanker leaves several ill in Nagpur's Godni",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/chlorine-leak-from-tanker-leaves-several-ill-in-nagpurs-godni/articleshow/133448844.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-24T06:14:33+05:30"
+          },
+          {
+            "title": "PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’",
+            "link": "https://www.hindustantimes.com/india-news/pm-modi-says-india-can-very-quickly-make-its-place-in-global-space-sector-we-must-create-an-aura-that-101787528407473.html",
+            "source": "Hindustan Times",
+            "summary": "PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy",
+            "published": "2026-08-24T06:12:57+05:30"
+          },
+          {
             "title": "Liquor sales expected to go up during Onam season",
             "link": "https://www.thehindu.com/news/national/kerala/liquor-sales-expected-to-go-up-during-onam-season/article71381047.ece",
             "source": "The Hindu",
             "summary": "Bevco sold liquor to the tune of ₹970.74 crore during the Onam season in 2025, compared to the ₹842.07 crore the year before",
             "published": "2026-08-24T06:03:09+05:30"
+          },
+          {
+            "title": "'Awarapan 2' box office day 10: Emraan's film declared hit with 202% profit",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-10-emraan-hashmis-film-nears-rs-140-crore-net-in-india-after-an-impressive-second-weekend-declared-a-big-hit/articleshow/133448757.cms",
+            "source": "Times of India",
+            "summary": "Awarapan 2 is enjoying an impressive box office journey, surpassing the Rs 136 crore net mark in India. The film made a strong opening with Rs 22 crore and achieved a remarkable first-week collection of Rs 113.50 crore. Following a successful second weekend, its domestic net collection grew to Rs 127.50 crore and the worldwide gross soared to Rs 193.00 crore.",
+            "published": "2026-08-24T05:47:12+05:30"
           },
           {
             "title": "Cost pressure: Carmakers see strong sales but lower profits",
@@ -146,48 +188,6 @@
             "source": "Times of India",
             "summary": "Using youth for drugs, P 6",
             "published": "2026-08-24T03:44:28+05:30"
-          },
-          {
-            "title": "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-invited-to-join-mecca-pact-by-saudi-arabia-turkey-pakistan-report/articleshow/133446770.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T03:24:43+05:30"
-          },
-          {
-            "title": "Two inmates arrested under POCSO Act escape from Srinagar Central Jail; search launched",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-inmates-arrested-under-pocso-act-escape-from-srinagar-central-jail-search-launched/article71382241.ece",
-            "source": "The Hindu",
-            "summary": "The police urged the public to share any information that could help trace or apprehend the two men by contacting the nearest police station or dialling 112",
-            "published": "2026-08-24T03:02:10+05:30"
-          },
-          {
-            "title": "Aaditya Thackeray accuses BMC of giving open spaces to institutions linked to BJP lawmakers",
-            "link": "https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-accuses-bmc-of-giving-open-spaces-to-institutions-linked-to-bjp-lawmakers/article71382237.ece",
-            "source": "The Hindu",
-            "summary": "Aaditya Thackeray warned, he would do a sit-in outside the BMC office to reclaim the open spaces",
-            "published": "2026-08-24T02:45:03+05:30"
-          },
-          {
-            "title": "Many poor in queue, can't allow 'luxury litigation' by rich: SC",
-            "link": "https://timesofindia.indiatimes.com/india/many-poor-in-queue-cant-allow-luxury-litigation-by-rich-sc/articleshow/133446537.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T02:36:40+05:30"
-          },
-          {
-            "title": "Onion prices surge; Centre to roll out Kanda Express from today",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/onion-prices-surge-centre-to-roll-out-kanda-express-from-monday/articleshow/133446454.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-24T01:49:36+05:30"
-          },
-          {
-            "title": "Tamil Nadu HR&CE Minister defends mandapam proposal at temple for devotees cured of chickenpox",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-defends-mandapam-proposal-at-temple-for-devotees-cured-of-chickenpox/article71381377.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-24T01:43:32+05:30"
           }
         ],
         "World": [
@@ -278,7 +278,42 @@
         ],
         "Business": [
           {
-            "title": "Tempsens grey premium sales surge, exceeding 100% growth this quarter",
+            "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
+            "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
+            "published": "2026-08-24T01:23:19+00:00"
+          },
+          {
+            "title": "Derivatives get gen Z twist, but losses cast a long shadow: Sebi",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/derivatives-get-gen-z-twist-but-losses-cast-a-long-shadow-sebi/articleshow/133448921.cms",
+            "source": "Economic Times",
+            "summary": "Young traders below thirty years of age now make up an impressive forty-three percent of participants engaged in equity derivatives. However, this age group encountered a spike in trading losses in FY26. Moreover, individuals from lower-income categories and smaller towns are on the rise in the trading scene, contributing to significant turnover and losses while showcasing a greater risk appetite in derivatives than…",
+            "published": "2026-08-24T06:36:12+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks dip with AI in focus, oil declines",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms",
+            "source": "Economic Times",
+            "summary": "MSCI’s Asia Pacific equities gauge dipped 0.1%, with the Kospi Index in South Korea — a bellwether for AI investments — falling 1.2%. However, US equity-index futures erased earlier losses to edged up, with contracts for the tech-heavy Nasdaq 100 climbing 0.1%.",
+            "published": "2026-08-24T06:33:43+05:30"
+          },
+          {
+            "title": "IPO rush continues: 10 issues to raise over Rs 3,500 crore this week",
+            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/primary-market-keeps-the-party-going-with-over-rs-3500-cr-in-play/articleshow/133448877.cms",
+            "source": "Economic Times",
+            "summary": "This week sees the launch of six mainboard IPOs and four from the SME sector, with total fundraising expected to surpass Rs 3,500 crore. Among these, Symbiotec Pharmalab's IPO stands out as the largest, aiming for substantial investment. The market is buzzing with other companies also set for their stock market introductions, ensuring a robust IPO pipeline this month.",
+            "published": "2026-08-24T06:27:10+05:30"
+          },
+          {
+            "title": "Can Symbiotec Pharmalab IPO deliver long-term growth for high-risk investors?",
+            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-symbiotec-pharmalab-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133448856.cms",
+            "source": "Economic Times",
+            "summary": "Symbiotec Pharmalab plans a ₹150 crore IPO to repay debt and expand operations. The company holds a global leadership position in corticosteroid and steroidal-hormone APIs. Its revenue primarily comes from international markets, with Europe being a significant contributor. Financials show steady revenue and EBITDA growth over recent years. Investors with a high-risk appetite may consider this long-term opportunity.",
+            "published": "2026-08-24T06:20:02+05:30"
+          },
+          {
+            "title": "Tempsens Instrument IPO: GMP soars past 100%, signalling strong listing hopes",
             "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-grey-premium-sales-surge-exceeding-100-growth-this-quarter/articleshow/133448795.cms",
             "source": "Economic Times",
             "summary": "Tempsens Instruments IPO grey market premium has surged 100 percent. This marks the first IPO to cross this milestone in nearly two years. The IPO was subscribed nearly 22 times on its second day. Other upcoming IPOs also show strengthening grey market premiums. Investor appetite for new share sales appears to be reviving.",
@@ -290,13 +325,6 @@
             "source": "Economic Times",
             "summary": "In light of the hawkish monetary policy minutes and the ongoing conflict in West Asia, the outlook for the rupee and bond yields appears uncertain. However, record forex inflows offer a cushion for the central bank, allowing it to manage currency pressures effectively. Analysts expect the rupee to fluctuate between 95.50 and 96.00, with interventions from the central bank.",
             "published": "2026-08-24T05:50:40+05:30"
-          },
-          {
-            "title": "Sebi turns down Adani-linked FPIs' settlement applications",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-turns-down-adani-linked-fpis-settlement-applications/articleshow/133448753.cms",
-            "source": "Economic Times",
-            "summary": "The regulator communicated its decision to the FPIs' representatives last week, the people said, reviving a case that dates back to October 2020, when Sebi's surveillance systems first flagged the unusual concentration of their holdings. Sebi's investigation had flagged 13 FPIs. They subsequently sought to settle the case.",
-            "published": "2026-08-24T05:46:52+05:30"
           },
           {
             "title": "Review launched into how pub and hotel business rates calculated",
@@ -320,20 +348,6 @@
             "published": "2026-08-23T23:23:55+00:00"
           },
           {
-            "title": "West Bengal plans incentives to spur industrial investments",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-plans-incentives-to-spur-industrial-investments/articleshow/133448733.cms",
-            "source": "Economic Times",
-            "summary": "The government is exploring off-balance sheet incentives like soft loans to keep the weightage on budget-dependent industrial promotion lower, the finance minister said. Concession on power tariff is also being explored.",
-            "published": "2026-08-24T01:11:51+05:30"
-          },
-          {
-            "title": "Aditya Birla Group taps local lenders for Sprng Energy",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-group-taps-local-lenders-for-sprng-energy/articleshow/133448716.cms",
-            "source": "Economic Times",
-            "summary": "Axis Bank has underwritten the entire amount and is likely to keep a large part of around Rs 5,000 crore to the financing, while State Bank of India and HDFC Bank are evaluating commitments for the remaining amount, the people said. Aditya Birla has also held discussions with six to seven other domestic lenders, but prefers to close the financing with two banks, or a maximum of three lenders, they said.",
-            "published": "2026-08-24T01:05:54+05:30"
-          },
-          {
             "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
             "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -346,23 +360,30 @@
             "source": "BBC Business",
             "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
             "published": "2026-08-23T14:05:16+00:00"
-          },
-          {
-            "title": "Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jayaswal-neco-industries-among-2-stock-recommendations-for-monday/articleshow/133438554.cms",
-            "source": "Economic Times",
-            "summary": "Analysts recommend Jayaswal Neco Industries and Alkyl Amines for Friday, citing bullish breakouts, strong trading volumes and improving RSI momentum. Jayaswal Neco has a target of Rs 110, while Alkyl Amines has a target of Rs 2,250, with both stocks trading above key moving averages.",
-            "published": "2026-08-23T16:39:50+05:30"
-          },
-          {
-            "title": "Struggling households need more help with bills, energy industry says",
-            "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-            "published": "2026-08-23T10:11:21+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "\"No Need To Fake Illness\": India Coach Makes Stunning Remark On Kuldeep Yadav",
+            "link": "https://sports.ndtv.com/cricket/no-need-to-fake-illness-india-coach-makes-stunning-remark-on-kuldeep-yadav-11948458#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India's batting coach Sitanshu Kotak on Sunday asserted that Kuldeep Yadav was benched from the second Test against Sri Lanka due viral fever.",
+            "published": "2026-08-24T06:23:00+05:30"
+          },
+          {
+            "title": "\"If You Can't Take It Back, Don't Say It To Others\": Ajay Jadeja To Yashasvi Jaiswal Over On-Field Spat",
+            "link": "https://sports.ndtv.com/cricket/if-you-cant-take-it-back-dont-say-it-to-others-ajay-jadeja-to-yashasvi-jaiswal-over-on-field-spat-11948687#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The on-field spat took place on Day 1 of the second Test between India and Sri Lanka in Colombo.",
+            "published": "2026-08-24T06:20:18+05:30"
+          },
+          {
+            "title": "England Star Handcuffed After Incident In Nightclub. ECB Issues Statement",
+            "link": "https://sports.ndtv.com/cricket/england-star-brydon-carse-handcuffed-after-incident-in-nightclub-ecb-issues-statement-11948797#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "England cricket team fast bowler Brydon Carse is under investigation after he was allegedly involved in an incident at a nightclub in Derby on Saturday.",
+            "published": "2026-08-24T06:17:53+05:30"
+          },
           {
             "title": "Cummins to use South Africa ODIs as Test preparation",
             "link": "https://www.cricinfo.com/ci/content/story/1551242.html?ex_cid=OTC-RSS",
@@ -425,27 +446,6 @@
             "source": "ESPN Cricinfo",
             "summary": "Spinner takes five-for as Essex resistance is worn away on final day",
             "published": "2026-08-23T17:02:23+00:00"
-          },
-          {
-            "title": "Bess takes five as Yorkshire close out tight 39-run win",
-            "link": "https://www.cricinfo.com/ci/content/story/1551251.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Hampshire fight hard in stiff run-chase but spinner chips away",
-            "published": "2026-08-23T16:42:00+00:00"
-          },
-          {
-            "title": "Padikkal century puts India ahead on hard-fought day",
-            "link": "https://www.cricinfo.com/ci/content/story/1551233.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Gill struck 50 while Asitha Fernando was the most successful bowler for Sri Lanka, picking up three wickets",
-            "published": "2026-08-23T16:26:27+00:00"
-          },
-          {
-            "title": "Holland fires Leicestershire to victory despite Carlson 99",
-            "link": "https://www.cricinfo.com/ci/content/story/1551232.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Seamer takes nine wickets in match to seal 42-run win at Grace Road",
-            "published": "2026-08-23T16:10:32+00:00"
           }
         ],
         "Technology": [
@@ -634,18 +634,25 @@
             "published": "2026-08-24T12:40:48+05:30"
           },
           {
-            "title": "लखनऊ: यूपी में देर रात 17 प्रशासनिक अधिकारियों के तबादले, मुरादाबाद औरअलीगढ़ में नए आयुक्तों को दायित्व",
-            "link": "https://www.amarujala.com/lucknow/lucknow-17-administrative-officers-transferred-late-last-night-in-up-2026-08-24",
-            "source": "Amar Ujala",
+            "title": "जौहर यूनिवर्सिटी गिराने पर रोक लगाने वाले IAS आंजनेय सिंह कौन? नहीं मिला एक्सटेंशन, UP में 17 अफसरों का तबादला",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/up-17-ias-transfer-who-is-ias-officer-anjaneya-singh-jauhar-university-rampur-all-details-1634991.html",
+            "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-08-24T12:24:25+05:30"
+            "published": "2026-08-24T06:53:10+05:30"
           },
           {
-            "title": "IND vs AUS Hockey: सेमीफाइनल में पहुंचने से चूकी भारतीय महिला हॉकी टीम, ऑस्ट्रेलिया से खेला गोलरहित ड्रॉ",
-            "link": "https://www.amarujala.com/sports/hockey/ind-vs-aus-live-fih-womens-hockey-world-cup-belgium-netherlands-2026-match-updates-and-scorecard-2026-08-23",
+            "title": "Weekly Horoscope (24-30 Aug 2026): यहां जानें करियर, धन और रिश्तों के लिए कैसा रहेगा अगस्त का आखिरी सप्ताह",
+            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/weekly-horoscope-24-august-to-30-august-2026-saptahik-rashifal-in-hindi-2026-08-22",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-24T12:18:27+05:30"
+            "published": "2026-08-24T06:34:31+05:30"
+          },
+          {
+            "title": "चीन: कैब बुक करते ही आती है स्मार्ट कार, मशीन से कट जाते हैं पैसे: AI ने कैसे बदली रोजमर्रा की जिंदगी?",
+            "link": "https://www.amarujala.com/world/china-ai-smart-cars-robots-digital-payment-everyday-life-2026-08-24",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-24T06:29:24+05:30"
           },
           {
             "title": "भास्कर अपडेट्स:बंगाल में TMC नेता के गैराज में दो बम मिले",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-08-23T23:35:00+00:00"
-          },
-          {
-            "title": "Delhi Accident: आईटीओ पर कारों की टक्कर, दो विधायक समेत छह घायल, पुलिस ने शुरू की जांच-पड़ताल",
-            "link": "https://www.amarujala.com/delhi-ncr/two-cars-collide-in-central-delhi-six-injured-including-two-mlas-2026-08-23",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-24T03:53:50+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "శ్రీవారి దర్శనానికి వెళ్లిన వారికి ఈ విశేష ఉత్సవం తిలకించే ఛాన్స్.. రద్దీ !!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/tirumala-celebrates-pavitrotsavams-with-snapana-tirumanjanam-malayappa-swamy-devotees-eye-feast-503001.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-24T07:00:12+05:30"
+          },
+          {
+            "title": "సముద్ర జలాల్లో బోటు మునక - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ZkRqVVFDcVRKNWg3VFNvdmJCZWNPZnlfTjJnTFVvSi1xemJKdTE3TjRTOENZU2VsM1NTbjZoT2hBMHRTa244OVBMTGJ1elBwNWhCZ19Hd3pIVHhPVHBBQXE2LWFQM3NRbUJzRUtqN21xaFdPYjNnMzhTQ3nSAXxBVV95cUxQNWZEalVRQ3FUSjVoN1RTb3ZiQmVjT2Z5X04yZ0xVb0otcXpiSnUxN040UzhDWVNlbDNTU242aE9oQTB0U2tuODlQTExidXpQcDVoQmdfR3d6SFR4T1RwQUFxNi1hUDNzUW1Cc0VLajdtcWhXT2IzZzM4U0N5?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-24T00:10:23+00:00"
+          },
+          {
             "title": "TTD: తిరుమలలో పవిత్రోత్సవాలు ప్రారంభం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTd3eE95azVyTklnQ2x1a21TMzlEQ2NNdU5NcGhWR2RVbmtjd0x0WVJxY2ZkZll1RWNDZ0M0cFZaREY2cWNuQ2ZTUzhuYzFyWWh6SjVuSl80U1lCYUx2V3NraUxfYmhmYTEyRjhLUm01bEpPNUF2azBhdzQyZ0lUN2paSlE1NWFjb1BZMUQ1VWdjLXFCVlFpQmg5ZURpQdIBngFBVV95cUxQSTd3eE95azVyTklnQ2x1a21TMzlEQ2NNdU5NcGhWR2RVbmtjd0x0WVJxY2ZkZll1RWNDZ0M0cFZaREY2cWNuQ2ZTUzhuYzFyWWh6SjVuSl80U1lCYUx2V3NraUxfYmhmYTEyRjhLUm01bEpPNUF2azBhdzQyZ0lUN2paSlE1NWFjb1BZMUQ1VWdjLXFCVlFpQmg5ZURpQQ?oc=5",
             "source": "Eenadu",
@@ -1084,13 +1098,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-23T23:58:50+00:00"
-          },
-          {
-            "title": "అమెరికాతో అవగాహనను సమర్థించిన ఇరాన్‌ అధ్యక్షుడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHdnNxa25oV1lSNnVNYWpMZDZtZ0l4aTQ0cTlSRGJsSlQxQ3V6VFlQb2J1bGZJNGVKdml4MUFEU01wd0RDVlV0V3lBNVlsaUtyVTN6bWI4NlhHT3VoWWdlbkRfbndzdm55VDJMdTJXRk3SAXBBVV95cUxQR3ZzcWtuaFdZUjZ1TWFqTGQ2bWdJeGk0NHE5UkRibEpUMUN1elRZUG9idWxmSTRlSnZpeDFBRFNNcHdEQ1ZVdFd5QTVZbGlLclUzem1iODZYR091aFlnZW5EX253c3ZueVQyTHUyV0ZN?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-23T23:57:03+00:00"
           },
           {
             "title": "చైనా లూనార్‌ మిషన్‌ వాయిదా - Eenadu",
@@ -1128,32 +1135,25 @@
             "published": "2026-08-23T23:55:12+00:00"
           },
           {
-            "title": "ప్రొరోగ్‌పై వెలువడని ప్రకటన - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HWVo1alBnM3otbE5WemxqdkNGTEF5MUhPbEtnNXZ4MWMzbXRNMDJFMXl1V1F0a3QtMTJpWlJWRHpteXhSUXY0SmZBY2ZBa3pOeEVpUFpwVjhjUmtvZy1qYWJONnZkMmJZWXNUNmVBWGPSAXBBVV95cUxOR1laNWpQZzN6LWxOVnpsanZDRkxBeTFIT2xLZzV2eDFjM210TTAyRTF5dVdRdGt0LTEyaVpSVkR6bXl4UlF2NEpmQWNmQWt6TnhFaVBacFY4Y1Jrb2ctamFiTjZ2ZDJiWVlzVDZlQVhj?oc=5",
+            "title": "బ్యాట్‌మ్యాన్‌ రాహుల్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENy0wenkxdWxHSFZGRnZGSXQ3RUxXcmRqeVBVdXUtdFhGN2lvYzY5bjVlYnRnYWhGaDJZMUlia2ZNU25fSXREUGM4aXB4cGF2a1JUUWtCbndpSXpmdVdrbXhaTnd6eWNfaWFEa2F3TmzSAXBBVV95cUxPRDctMHp5MXVsR0hWRkZ2Rkl0N0VMV3JkanlQVXV1LXRYRjdpb2M2OW41ZWJ0Z2FoRmgyWTFJYmtmTVNuX0l0RFBjOGlweHBhdmtSVFFrQm53aUl6ZnVXa214Wk53enljX2lhRGthd05s?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T23:48:16+00:00"
+            "published": "2026-08-23T23:52:55+00:00"
           },
           {
-            "title": "ఆరోగ్యశ్రీ సిబ్బంది జీతాలు వెంటనే విడుదల చేయాలి: హరీశ్‌రావు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxbjVEQkZVSy01R2l5aHk0cW1DNUswSmJReUU2Y0tHdHBnYTZjakdVanlCeVNhWnVtSWozTnFrMTkyb2g5Z3NLSExHWm9mLVRrSkY4ZWVCQWVROTlRck00UlFYUWx6b1BsaFZtcGExRWJ0VWh6cHfSAXZBVV95cUxQcW41REJGVUstNUdpeWh5NHFtQzVLMEpiUXlFNmNLR3RwZ2E2Y2pHVWp5QnlTYVp1bUlqM05xazE5Mm9oOWdzS0hMR1pvZi1Ua0pGOGVlQkFlUTk5UXJNNFJRWFFsem9QbGhWbXBhMUVidFVoenB3?oc=5",
+            "title": "Prime Minister: ఏ ప్రధానికి ఏమిష్టం? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEdrQWZlT3RWN1cyUTY4cExPbFFWeTBxUUkzWndIam9jb20wWDFTOXZsa19LUml4Y21IYkFlTjRMT08yb3pPa0g2S2NfTmx6dk1FMkJIdThoYlZPeG00MkJwSHJ3aGFveWFBV0FBT0xhbnV2OEdMWlc4X3dwZnVyUi0tTFZHcHJ5WXk2MGhPVHZRUEtZN21j0gGXAUFVX3lxTE84R2tBZmVPdFY3VzJRNjhwTE9sUVZ5MHFRSTNad0hqb2NvbTBYMVM5dmxrX0tSaXhjbUhiQWVONExPTzJvek9rSDZLY19ObHp2TUUyQkh1OGhiVk94bTQyQnBIcndoYW95YUFXQUFPTGFudXY4R0xaVzhfd3BmdXJSLS1MVkdwcnlZeTYwaE9UdlFQS1k3bWM?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T23:35:01+00:00"
+            "published": "2026-08-23T23:50:31+00:00"
           },
           {
-            "title": "Pawan Kalyan: Rs. 120 కోట్లతో గుడి బాట - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjF5VzREYXF0MzBtT005R190TlhWSlhpS3p2ZGhuMjNqTUs4YjVXcUxmdVBZVmFDa1oxZ05GSFA1dlFzOVB1U2RMNUgzbkRnbm9ocDVYM2VfUmY4SFRiTHIzOWtheGk1UHgtMlYtbnFpWXlicWwtR1NZNmJnWDRHSVJBY1UtT3pNNWlJZEpGRTMtdDZkeGR5VDA0dURER29JUDhFWEFvc3p6dUg4VFpSONIBsAFBVV95cUxQSjF5VzREYXF0MzBtT005R190TlhWSlhpS3p2ZGhuMjNqTUs4YjVXcUxmdVBZVmFDa1oxZ05GSFA1dlFzOVB1U2RMNUgzbkRnbm9ocDVYM2VfUmY4SFRiTHIzOWtheGk1UHgtMlYtbnFpWXlicWwtR1NZNmJnWDRHSVJBY1UtT3pNNWlJZEpGRTMtdDZkeGR5VDA0dURER29JUDhFWEFvc3p6dUg4VFpSOA?oc=5",
+            "title": "పిల్లల పెంపకంలో క్రమశిక్షణే ముఖ్యం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSzlPOVZFdjlneXpEdVlXMFB6bW1PcVNlVFZsNHNNZ2JqMnd6eTZndlhiZlctb2E2ak5TMDdYOGRHMEpRX190SnZoZzFkV1lPQlkzOHRhN0hpMGh3MXB2RDg4SUJzVDJzLXRGNmw1WHbSAXBBVV95cUxORUs5TzlWRXY5Z3l6RHVZVzBQem1tT3FTZVRWbDRzTWdiajJ3enk2Z3ZYYmZXLW9hNmpOUzA3WDhkRzBKUV9fdEp2aGcxZFdZT0JZMzh0YTdIaTBodzFwdkQ4OElCc1Qycy10RjZsNVh2?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-23T23:30:15+00:00"
-          },
-          {
-            "title": "నవంబరు 17 నాటికి స్పందించకుంటే సామూహిక సెలవులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TclFVZEpHM1hiNVJWdFd3VmR0dXdYUWpMYzJwVDRZSlplWkNfejFBM0JxWWxhVjRwOTBYUjd6dHZRaWVYUV9XOEs1SmppdzlSd0ZTMjI1SlRuMkk5Qm5Xb0R4MVpNTGRRbENVWWVfcEJVWGZ2cGfSAXZBVV95cUxNU3JRVWRKRzNYYjVSVnRXd1ZkdHV3WFFqTGMycFQ0WUpaZVpDX3oxQTNCcVlsYVY0cDkwWFI3enR2UWllWFFfVzhLNUpqaXc5UndGUzIyNUpUbjJJOUJuV29EeDFaTUxkUWxDVVllX3BCVVhmdnBn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-23T23:29:18+00:00"
+            "published": "2026-08-23T23:43:59+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ರೈತರ ಸಾಲ ಮನ್ನಾ ವಿಚಾರದಲ್ಲಿ ಸರ್ಕಾರದ ಮುಂದಿನ ಹೆಜ್ಜೆ ಏನು? ಸವದಿ ಸ್ಪಷ್ಟನೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/farmer-loan-waiver-lakshman-savadi-says-cabinet-decision-after-3-departments-reports-465543.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-24T06:49:55+05:30"
+          },
+          {
             "title": "PNG Gas: ಎಲ್‌ಪಿಜಿ ಸಿಲಿಂಡರ್ ಮೇಲಿನ ಅವಲಂಬನೆ ಕಡಿಮೆ ಮಾಡಲು ಕೇಂದ್ರ ಸರ್ಕಾರ ಮಹತ್ವದ ನಿರ್ಧಾರ",
             "link": "https://kannada.oneindia.com/news/business/png-gas-connection-lpg-cylinder-free-cooking-gas-supply-in-india-by-central-govt-know-details-465537.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-23T15:34:55+05:30"
-          },
-          {
-            "title": "ಉದ್ಯಾನಗಳ ಶೇ.5 ಜಾಗ ಬಳಕೆಗೆ ವಿರೋಧ: ‘ಬೆಂಗಳೂರು ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಪ್ರಯೋಗಾಲಯವಲ್ಲ: ಸಿಎಂಗೆ ತೇಜಸ್ವಿ ಸೂರ್ಯ ಪತ್ರ",
-            "link": "https://kannada.oneindia.com/news/karnataka/bengaluru-parks-row-tejasvi-surya-opposes-5-land-use-change-writes-to-dk-shivakumar-465493.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-23T15:16:24+05:30"
           }
         ],
         "Entertainment": [
