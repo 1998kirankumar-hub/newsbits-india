@@ -1,196 +1,217 @@
 {
-  "updated_at": "2026-08-26T07:31:15.564678+00:00",
+  "updated_at": "2026-08-26T07:55:48.888579+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "published": "2026-08-26T07:48:50+00:00"
+          },
+          {
+            "title": "India rejects ‘politically motivated, malicious references' in UN panel's rights report",
+            "link": "https://www.hindustantimes.com/india-news/india-rejects-politically-motivated-malicious-references-in-un-racial-discrimination-uncerd-report-101787730195758.html",
+            "source": "Hindustan Times",
+            "summary": "MEA spokesperson Randhir Jaiswal said India had participated in the review in a “spirit of constructive engagement”.",
+            "published": "2026-08-26T13:15:46+05:30"
+          },
+          {
+            "title": "House price growth slows to 3.6% in Q1 FY27, says RBI; what’s driving the moderation",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/house-price-growth-slows-to-3-6-in-q1-fy27-says-rbi-whats-driving-the-moderation/articleshow/133533782.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-26T13:14:58+05:30"
+          },
+          {
+            "title": "Sonya Gill, AIDWA leader and women’s rights activist, dies at 70",
+            "link": "https://www.thehindu.com/news/national/maharashtra/sonya-gill-aidwa-leader-and-womens-rights-activist-dies-at-70/article71391923.ece",
+            "source": "The Hindu",
+            "summary": "Co-founder of the People’s Archive of Rural India (PARI), Sonya was dedicated to uplifting women in marginalised communities",
+            "published": "2026-08-26T13:13:13+05:30"
+          },
+          {
+            "title": "From formulas to verses: Retired Rajasthan professor brings poetry to physics",
+            "link": "https://www.hindustantimes.com/india-news/from-formulas-to-verses-retired-rajasthan-professor-brings-poetry-to-physics-101787728488170.html",
+            "source": "Hindustan Times",
+            "summary": "Retired professor Rishi Kumar Singhal teaches physics through Hindi poetry, using 250 poems across four books to simplify concepts for Class 12 to MSc students.",
+            "published": "2026-08-26T13:11:55+05:30"
+          },
+          {
+            "title": "How a family reunion in China ended in a 3-year prison term for artist Gao Zhen",
+            "link": "https://timesofindia.indiatimes.com/world/china/how-a-family-reunion-in-china-ended-in-a-3-year-prison-term-for-artist-gao-zhen/articleshow/133533651.cms",
+            "source": "Times of India",
+            "summary": "Chinese artist Gao Zhen received a three-year prison sentence for his satirical artwork. Authorities charged him with \"infringing upon the reputation of heroes\" for his art. Gao's wife expressed deep disappointment and sadness over the unexpected conviction. His supporters argue the artworks predate the law under which he was prosecuted. The sentence highlights China's narrowing space for artistic and political…",
+            "published": "2026-08-26T13:11:32+05:30"
+          },
+          {
+            "title": "Karnataka to bar political affiliations in student polls; first phase in PU, degree colleges",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-bar-political-affiliations-in-student-polls-first-phase-in-pu-degree-colleges/article71389289.ece",
+            "source": "The Hindu",
+            "summary": "All the provisions will be made clear once the government order is passed, in about 15 days: Minister",
+            "published": "2026-08-26T13:08:45+05:30"
+          },
+          {
+            "title": "When Chennai’s sea food edged out catch from rivers, estuaries in the city",
+            "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-when-sea-food-edged-out-catch-from-rivers-estuaries-in-the-city/article71385832.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-08-26T13:07:29+05:30"
+          },
+          {
+            "title": "Chennai couple accused of cheating man of ₹1 crore arrested after 10 years",
+            "link": "https://www.hindustantimes.com/india-news/chennai-couple-accused-of-cheating-man-of-rs-1-crore-arrested-after-10-years-101787720996451.html",
+            "source": "Hindustan Times",
+            "summary": "A complaint was filed on April 20, 2015, by James and the case was being investigated by the Central Crime Branch, Chennai since then.",
+            "published": "2026-08-26T13:06:12+05:30"
+          },
+          {
+            "title": "Karnataka minister B Nagendra dismisses resignation reports over scam allegations: ‘Completely untrue’",
+            "link": "https://www.hindustantimes.com/india-news/karnataka-minister-b-nagendra-dismisses-resignation-reports-over-scam-allegations-completely-untrue-101787728123165.html",
+            "source": "Hindustan Times",
+            "summary": "The BJP and its ally JD(S) have sought B Nagendra's removal from the Cabinet over the alleged ₹89 crore irregularities in the KMVSTDC.",
+            "published": "2026-08-26T13:05:47+05:30"
+          },
+          {
+            "title": "Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car",
+            "link": "https://www.hindustantimes.com/india-news/cjp-abhijeet-dipke-jibe-at-cops-after-gwalior-man-made-to-clean-3-400-kiss-marks-from-car-101787726492901.html",
+            "source": "Hindustan Times",
+            "summary": "Taking to social media, Dipke took a sarcastic dig at the police and stated that the a sticker of rapist Ram Rahim should have been put on the car instead.",
+            "published": "2026-08-26T13:05:40+05:30"
+          },
+          {
+            "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/seven-low-pressure-systems-but-little-rain-relief-for-andhra-pradesh/article71388879.ece",
+            "source": "The Hindu",
+            "summary": "State faces a 51.2% monsoon deficit as the systems bring only localised rainfall, raising concerns over the impact on farmers",
+            "published": "2026-08-26T13:05:10+05:30"
+          },
+          {
+            "title": "MG Hector Tomahawk launched: Prices, range &amp; more",
+            "link": "https://timesofindia.indiatimes.com/auto/electric-vehicles/mg-hector-tomahawk-launched-prices-range-more/articleshow/133533593.cms",
+            "source": "Times of India",
+            "summary": "JSW MG Motor India has launched the new Hector Tomahawk SUV. This seven-seater vehicle offers both pure-electric and plug-in hybrid powertrains. The electric version boasts a claimed 517 km range on a single charge. It also features advanced connected technology and India's first Gen AI with karaoke. The Hector Tomahawk is built on MG's new ADAPT platform supporting various electrified configurations.",
+            "published": "2026-08-26T13:00:47+05:30"
+          },
+          {
             "title": "India vs Sri Lanka LIVE Score, 2nd Test Day 4, IND vs SL Updates: Rain Arrives In Colombo But Play Not Stopped; Sri Lanka 2 Down",
             "link": "https://sports.ndtv.com/cricket/india-vs-sri-lanka-live-score-2nd-test-day-4-ind-vs-sl-live-updates-colombo-august-26-11958734#publisher=newsstand",
             "source": "NDTV Sports",
             "summary": "India vs Sri Lanka LIVE Score Updates, 2nd Test Day 4: Ravindra Jadeja has given India their second wicket as he dismissed Kamil Mishara for 32.",
             "published": "2026-08-26T12:57:21+05:30"
-          },
-          {
-            "title": "Sri Lanka Star Sonal Dinusha Breaks Massive Record After Century In 2nd Test Against India",
-            "link": "https://sports.ndtv.com/cricket/sri-lanka-star-sonal-dinusha-breaks-massive-record-after-century-in-2nd-test-against-india-11959891#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Sonal Dinusha's composed 103 was the standout effort in an innings that otherwise struggled to keep pace with India's imposing first-innings total.",
-            "published": "2026-08-26T12:56:31+05:30"
-          },
-          {
-            "title": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan",
-            "link": "https://www.thehindu.com/news/national/loitering-munition-may-have-hit-kirana-hills-during-operation-sindoor-former-cds-anil-chauhan/article71390353.ece",
-            "source": "The Hindu",
-            "summary": "Nuclear-related facilities are located in the Kirana Hills area near Pakistan’s Sargodha",
-            "published": "2026-08-26T12:55:01+05:30"
-          },
-          {
-            "title": "What will the energy cap changes mean for my bills?",
-            "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The regulator Ofgem says the price cap will increase by 4% in October for millions of households.",
-            "published": "2026-08-26T07:24:16+00:00"
-          },
-          {
-            "title": "Attachment of properties under TANPID Act will take precedence over attachment under money laundering charges: Madras High Court",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/attachment-of-properties-under-tanpid-act-will-take-precedence-over-attachment-under-money-laundering-charges-madras-high-court/article71391275.ece",
-            "source": "The Hindu",
-            "summary": "Justices G.R. Swaminathan and V. Lakshminarayanan come to the rescue of thousands of depositors duped by fraudulent financial institutions which had promised high rate of interest",
-            "published": "2026-08-26T12:52:09+05:30"
-          },
-          {
-            "title": "Youth vote and its electoral impact",
-            "link": "https://www.thehindu.com/news/national/youth-vote-and-its-electoral-impact/article71390301.ece",
-            "source": "The Hindu",
-            "summary": "The byelection results in Bankipur and Datia, where the BJP lost, as well as the Jantar Mantar protests, have drawn considerable attention to the youth vote. In light of these developments, it may be appropriate to examine how young people have behaved politically over the past decade",
-            "published": "2026-08-26T12:44:07+05:30"
-          },
-          {
-            "title": "Five killed after speeding car runs over people performing 'kirtan' in Bihar's Supaul",
-            "link": "https://www.hindustantimes.com/india-news/five-killed-after-speeding-car-runs-over-people-performing-kirtan-in-bihars-supaul-101787728026360.html",
-            "source": "Hindustan Times",
-            "summary": "The incident took place near Kataiya Chowk under the Pipra police station area when the speeding car allegedly lost control and rammed into the group.",
-            "published": "2026-08-26T12:40:46+05:30"
-          },
-          {
-            "title": "15 tonnes of adulterated, unhygienic food seized from Hyderabad’s sweets and savoury units; pest infestations found",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/15-tonnes-of-adulterated-unhygienic-food-seized-from-hyderabads-sweets-and-savoury-units-pest-infestations-found/article71389750.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-26T12:36:04+05:30"
-          },
-          {
-            "title": "Kriti Sanon's Rakhi ad pulled by jewellery brand after controversy",
-            "link": "https://www.thehindu.com/entertainment/kriti-sanons-rakhi-ad-pulled-by-jewellery-brand-after-controversy/article71391734.ece",
-            "source": "The Hindu",
-            "summary": "\"If our recent advertisement has inadvertently hurt the sentiments of some segments of society, that was not our intent at all. Out of respect, we have withdrawn the said advertisement from all media,\" says GIVA",
-            "published": "2026-08-26T12:34:02+05:30"
-          },
-          {
-            "title": "\"Many Were In Tears\": Sri Lanka Great Remembers Iconic 1985 Test Victory Over India",
-            "link": "https://sports.ndtv.com/sports/many-were-in-tears-sri-lanka-great-remembers-iconic-1985-test-victory-over-india-11960216#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Sri Lanka defeated India by 149 runs at the P Saravanamuthu Oval 41 years ago with Roy Dias playing a big hand, scoring 95 and an unbeaten 60.",
-            "published": "2026-08-26T12:33:57+05:30"
-          },
-          {
-            "title": "‘Be ready for cockroaches!’ CJP renews Sept 5 protest call over 3 pending demands",
-            "link": "https://timesofindia.indiatimes.com/india/be-ready-for-cockroaches-cjp-doubles-down-on-september-5-protest-as-3-demands-still-pending/articleshow/133532841.cms",
-            "source": "Times of India",
-            "summary": "The Cockroach Janta Party plans a September 5 march in Delhi over unmet demands. Three of four demands remain pending since the July 25 protest withdrawal. The party seeks compensation and withdrawal of FIRs against student protesters. Assurances were given by ministers after talks on July 25. The march will proceed from India Gate to the Police Headquarters.",
-            "published": "2026-08-26T12:33:37+05:30"
-          },
-          {
-            "title": "US singer Mary Millben hits back at Mamdani for opposing Mohan Bhagwat's Madison Square event",
-            "link": "https://www.hindustantimes.com/india-news/us-singer-mary-millben-hits-back-at-mamdani-for-opposing-mohan-bhagwats-madison-square-event-101787725120381.html",
-            "source": "Hindustan Times",
-            "summary": "Her remarks follow New York City Mayor Zohran Mamdani's opposition to the event, where Bhagwat will speak during his centenary global outreach tour.",
-            "published": "2026-08-26T12:33:21+05:30"
-          },
-          {
-            "title": "China Defies Trump Pressure, Vows To Protect Economic Ties With Iran",
-            "link": "https://www.ndtv.com/world-news/china-defies-trump-pressure-vows-to-protect-economic-ties-with-iran-11959691#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia",
-            "published": "2026-08-26T12:33:10+05:30"
-          },
-          {
-            "title": "More Than Rs 50 Crore: US Open Singles Champions To Earn Record Prize Money In 2026",
-            "link": "https://sports.ndtv.com/tennis/more-than-rs-50-crore-us-open-singles-champions-to-earn-record-prize-money-in-2026-11937033#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The U.S. Open singles champions will earn $5.5 million (approx. Rs 52.66 crore), the highest winnings in Grand Slam tennis history.",
-            "published": "2026-08-26T12:32:34+05:30"
           }
         ],
         "India": [
           {
-            "title": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan",
-            "link": "https://www.thehindu.com/news/national/loitering-munition-may-have-hit-kirana-hills-during-operation-sindoor-former-cds-anil-chauhan/article71390353.ece",
-            "source": "The Hindu",
-            "summary": "Nuclear-related facilities are located in the Kirana Hills area near Pakistan’s Sargodha",
-            "published": "2026-08-26T12:55:01+05:30"
-          },
-          {
-            "title": "Attachment of properties under TANPID Act will take precedence over attachment under money laundering charges: Madras High Court",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/attachment-of-properties-under-tanpid-act-will-take-precedence-over-attachment-under-money-laundering-charges-madras-high-court/article71391275.ece",
-            "source": "The Hindu",
-            "summary": "Justices G.R. Swaminathan and V. Lakshminarayanan come to the rescue of thousands of depositors duped by fraudulent financial institutions which had promised high rate of interest",
-            "published": "2026-08-26T12:52:09+05:30"
-          },
-          {
-            "title": "Youth vote and its electoral impact",
-            "link": "https://www.thehindu.com/news/national/youth-vote-and-its-electoral-impact/article71390301.ece",
-            "source": "The Hindu",
-            "summary": "The byelection results in Bankipur and Datia, where the BJP lost, as well as the Jantar Mantar protests, have drawn considerable attention to the youth vote. In light of these developments, it may be appropriate to examine how young people have behaved politically over the past decade",
-            "published": "2026-08-26T12:44:07+05:30"
-          },
-          {
-            "title": "Five killed after speeding car runs over people performing 'kirtan' in Bihar's Supaul",
-            "link": "https://www.hindustantimes.com/india-news/five-killed-after-speeding-car-runs-over-people-performing-kirtan-in-bihars-supaul-101787728026360.html",
+            "title": "India rejects ‘politically motivated, malicious references' in UN panel's rights report",
+            "link": "https://www.hindustantimes.com/india-news/india-rejects-politically-motivated-malicious-references-in-un-racial-discrimination-uncerd-report-101787730195758.html",
             "source": "Hindustan Times",
-            "summary": "The incident took place near Kataiya Chowk under the Pipra police station area when the speeding car allegedly lost control and rammed into the group.",
-            "published": "2026-08-26T12:40:46+05:30"
+            "summary": "MEA spokesperson Randhir Jaiswal said India had participated in the review in a “spirit of constructive engagement”.",
+            "published": "2026-08-26T13:15:46+05:30"
           },
           {
-            "title": "15 tonnes of adulterated, unhygienic food seized from Hyderabad’s sweets and savoury units; pest infestations found",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/15-tonnes-of-adulterated-unhygienic-food-seized-from-hyderabads-sweets-and-savoury-units-pest-infestations-found/article71389750.ece",
+            "title": "House price growth slows to 3.6% in Q1 FY27, says RBI; what’s driving the moderation",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/house-price-growth-slows-to-3-6-in-q1-fy27-says-rbi-whats-driving-the-moderation/articleshow/133533782.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-26T13:14:58+05:30"
+          },
+          {
+            "title": "Sonya Gill, AIDWA leader and women’s rights activist, dies at 70",
+            "link": "https://www.thehindu.com/news/national/maharashtra/sonya-gill-aidwa-leader-and-womens-rights-activist-dies-at-70/article71391923.ece",
+            "source": "The Hindu",
+            "summary": "Co-founder of the People’s Archive of Rural India (PARI), Sonya was dedicated to uplifting women in marginalised communities",
+            "published": "2026-08-26T13:13:13+05:30"
+          },
+          {
+            "title": "From formulas to verses: Retired Rajasthan professor brings poetry to physics",
+            "link": "https://www.hindustantimes.com/india-news/from-formulas-to-verses-retired-rajasthan-professor-brings-poetry-to-physics-101787728488170.html",
+            "source": "Hindustan Times",
+            "summary": "Retired professor Rishi Kumar Singhal teaches physics through Hindi poetry, using 250 poems across four books to simplify concepts for Class 12 to MSc students.",
+            "published": "2026-08-26T13:11:55+05:30"
+          },
+          {
+            "title": "How a family reunion in China ended in a 3-year prison term for artist Gao Zhen",
+            "link": "https://timesofindia.indiatimes.com/world/china/how-a-family-reunion-in-china-ended-in-a-3-year-prison-term-for-artist-gao-zhen/articleshow/133533651.cms",
+            "source": "Times of India",
+            "summary": "Chinese artist Gao Zhen received a three-year prison sentence for his satirical artwork. Authorities charged him with \"infringing upon the reputation of heroes\" for his art. Gao's wife expressed deep disappointment and sadness over the unexpected conviction. His supporters argue the artworks predate the law under which he was prosecuted. The sentence highlights China's narrowing space for artistic and political…",
+            "published": "2026-08-26T13:11:32+05:30"
+          },
+          {
+            "title": "Karnataka to bar political affiliations in student polls; first phase in PU, degree colleges",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-bar-political-affiliations-in-student-polls-first-phase-in-pu-degree-colleges/article71389289.ece",
+            "source": "The Hindu",
+            "summary": "All the provisions will be made clear once the government order is passed, in about 15 days: Minister",
+            "published": "2026-08-26T13:08:45+05:30"
+          },
+          {
+            "title": "When Chennai’s sea food edged out catch from rivers, estuaries in the city",
+            "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-when-sea-food-edged-out-catch-from-rivers-estuaries-in-the-city/article71385832.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-08-26T12:36:04+05:30"
+            "published": "2026-08-26T13:07:29+05:30"
           },
           {
-            "title": "Kriti Sanon's Rakhi ad pulled by jewellery brand after controversy",
-            "link": "https://www.thehindu.com/entertainment/kriti-sanons-rakhi-ad-pulled-by-jewellery-brand-after-controversy/article71391734.ece",
-            "source": "The Hindu",
-            "summary": "\"If our recent advertisement has inadvertently hurt the sentiments of some segments of society, that was not our intent at all. Out of respect, we have withdrawn the said advertisement from all media,\" says GIVA",
-            "published": "2026-08-26T12:34:02+05:30"
-          },
-          {
-            "title": "‘Be ready for cockroaches!’ CJP renews Sept 5 protest call over 3 pending demands",
-            "link": "https://timesofindia.indiatimes.com/india/be-ready-for-cockroaches-cjp-doubles-down-on-september-5-protest-as-3-demands-still-pending/articleshow/133532841.cms",
-            "source": "Times of India",
-            "summary": "The Cockroach Janta Party plans a September 5 march in Delhi over unmet demands. Three of four demands remain pending since the July 25 protest withdrawal. The party seeks compensation and withdrawal of FIRs against student protesters. Assurances were given by ministers after talks on July 25. The march will proceed from India Gate to the Police Headquarters.",
-            "published": "2026-08-26T12:33:37+05:30"
-          },
-          {
-            "title": "US singer Mary Millben hits back at Mamdani for opposing Mohan Bhagwat's Madison Square event",
-            "link": "https://www.hindustantimes.com/india-news/us-singer-mary-millben-hits-back-at-mamdani-for-opposing-mohan-bhagwats-madison-square-event-101787725120381.html",
+            "title": "Chennai couple accused of cheating man of ₹1 crore arrested after 10 years",
+            "link": "https://www.hindustantimes.com/india-news/chennai-couple-accused-of-cheating-man-of-rs-1-crore-arrested-after-10-years-101787720996451.html",
             "source": "Hindustan Times",
-            "summary": "Her remarks follow New York City Mayor Zohran Mamdani's opposition to the event, where Bhagwat will speak during his centenary global outreach tour.",
-            "published": "2026-08-26T12:33:21+05:30"
+            "summary": "A complaint was filed on April 20, 2015, by James and the case was being investigated by the Central Crime Branch, Chennai since then.",
+            "published": "2026-08-26T13:06:12+05:30"
           },
           {
-            "title": "China Defies Trump Pressure, Vows To Protect Economic Ties With Iran",
-            "link": "https://www.ndtv.com/world-news/china-defies-trump-pressure-vows-to-protect-economic-ties-with-iran-11959691#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia",
-            "published": "2026-08-26T12:33:10+05:30"
+            "title": "Karnataka minister B Nagendra dismisses resignation reports over scam allegations: ‘Completely untrue’",
+            "link": "https://www.hindustantimes.com/india-news/karnataka-minister-b-nagendra-dismisses-resignation-reports-over-scam-allegations-completely-untrue-101787728123165.html",
+            "source": "Hindustan Times",
+            "summary": "The BJP and its ally JD(S) have sought B Nagendra's removal from the Cabinet over the alleged ₹89 crore irregularities in the KMVSTDC.",
+            "published": "2026-08-26T13:05:47+05:30"
           },
           {
-            "title": "Piyush Goyal proposes India-Japan 'Shark Tank' style startup series to boost investments, business ties",
-            "link": "https://www.thehindu.com/business/piyush-goyal-proposes-india-japan-shark-tank-style-startup-series-to-boost-investments-business-ties/article71391553.ece",
+            "title": "Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car",
+            "link": "https://www.hindustantimes.com/india-news/cjp-abhijeet-dipke-jibe-at-cops-after-gwalior-man-made-to-clean-3-400-kiss-marks-from-car-101787726492901.html",
+            "source": "Hindustan Times",
+            "summary": "Taking to social media, Dipke took a sarcastic dig at the police and stated that the a sticker of rapist Ram Rahim should have been put on the car instead.",
+            "published": "2026-08-26T13:05:40+05:30"
+          },
+          {
+            "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/seven-low-pressure-systems-but-little-rain-relief-for-andhra-pradesh/article71388879.ece",
             "source": "The Hindu",
-            "summary": "The Minister said India offers a complete bouquet from design to large-scale deployment, and the country has a market not only for testing products, but to sell and deploy products also",
-            "published": "2026-08-26T12:32:30+05:30"
+            "summary": "State faces a 51.2% monsoon deficit as the systems bring only localised rainfall, raising concerns over the impact on farmers",
+            "published": "2026-08-26T13:05:10+05:30"
           },
           {
-            "title": "Opinion: Opinion | Harry And Meghan Are Already Annoying British Taxpayers",
-            "link": "https://www.ndtv.com/opinion/uk-taxpayers-may-have-to-pay-for-prince-harry-meghans-security-11960350#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Harry has been accused of worsening the risk to himself by boasting in his memoir Spare of killing 25 Taliban fighters during two military tours.",
-            "published": "2026-08-26T12:30:07+05:30"
-          },
-          {
-            "title": "Maharashtra's Food 'Nayak' And A History Of 25 Transfers But Zero Compromises",
-            "link": "https://www.ndtv.com/india-news/tukaram-mundhe-profile-fda-commissioner-restaurants-raids-maharashtras-food-nayak-and-a-history-of-25-transfers-but-zero-compromises-11960320#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "As FDA commissioner, Tukaram Mundhe has his eyes on Maharashtra's plate. Food adulterators, storied restaurants and clubs, dark stores of quick commerce platforms, school and government canteens, surrogate advertisers of banned products - no one is out of bounds.",
-            "published": "2026-08-26T12:29:28+05:30"
+            "title": "MG Hector Tomahawk launched: Prices, range &amp; more",
+            "link": "https://timesofindia.indiatimes.com/auto/electric-vehicles/mg-hector-tomahawk-launched-prices-range-more/articleshow/133533593.cms",
+            "source": "Times of India",
+            "summary": "JSW MG Motor India has launched the new Hector Tomahawk SUV. This seven-seater vehicle offers both pure-electric and plug-in hybrid powertrains. The electric version boasts a claimed 517 km range on a single charge. It also features advanced connected technology and India's first Gen AI with karaoke. The Hector Tomahawk is built on MG's new ADAPT platform supporting various electrified configurations.",
+            "published": "2026-08-26T13:00:47+05:30"
           }
         ],
         "World": [
+          {
+            "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+            "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
+            "published": "2026-08-26T07:26:45+00:00"
+          },
+          {
+            "title": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
+            "link": "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Fernandes rewarded for an outstanding season with a record number of assists in the league; Shaw builds on league win and Golden Boot.",
+            "published": "2026-08-26T07:20:06+00:00"
+          },
+          {
+            "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+            "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.",
+            "published": "2026-08-26T07:18:07+00:00"
+          },
           {
             "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
             "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
@@ -253,43 +274,22 @@
             "source": "Al Jazeera",
             "summary": "Meta is on trial over claims it hooked young users on its platforms despite mental health risks.",
             "published": "2026-08-26T03:40:26+00:00"
-          },
-          {
-            "title": "Who were the Syrian Democratic Forces and why dissolve?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.",
-            "published": "2026-08-26T03:28:43+00:00"
-          },
-          {
-            "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
-            "published": "2026-08-26T02:54:12+00:00"
-          },
-          {
-            "title": "Mamdani opposes Hindu nationalist event in New York",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.",
-            "published": "2026-08-26T02:47:02+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "published": "2026-08-26T07:48:50+00:00"
+          },
           {
             "title": "What will the energy cap changes mean for my bills?",
             "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The regulator Ofgem says the price cap will increase by 4% in October for millions of households.",
             "published": "2026-08-26T07:24:16+00:00"
-          },
-          {
-            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-            "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-            "published": "2026-08-26T07:01:44+00:00"
           },
           {
             "title": "Physicswallah shares jump 5% after block deal worth Rs 550 crore. What’s ahead after 63% rally in 6 months?",
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Elton John, Oprah Winfrey and Paul McCartney join tributes to Dolly Parton",
+            "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.",
+            "published": "2026-08-26T05:13:39+00:00"
+          },
+          {
             "title": "Chinese artist jailed over satirical Mao sculptures, say rights groups",
             "link": "https://www.bbc.co.uk/news/articles/c07lng44ng5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Three men allegedly stole the Richard Mille watch straight from Catalin Botezatu's wrist.",
             "published": "2026-08-25T15:34:02+00:00"
-          },
-          {
-            "title": "'Obsessive' Billie Piper stalker jailed for 12 months",
-            "link": "https://www.bbc.co.uk/news/articles/ce8e0kypk66o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Philip Jerome admits breaching a stalking prevention order designed to protect the ex-Doctor Who star.",
-            "published": "2026-08-25T13:44:21+00:00"
           }
         ]
       }
@@ -627,18 +627,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "डेस्क जॉब करने वाले संभल जाएं: घंटों बैठे रहना बना सकता है दिल को बीमार! ऑफिस वालों को जरूर जाननी चाहिए ये बात",
-            "link": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/side-effects-of-long-sitting-on-heart-in-hindi-does-sitting-for-too-long-can-harm-my-heart-2026-08-26",
-            "source": "Amar Ujala",
+            "title": "ऑपरेशन सिंदूर के 15 महीने बाद तत्कालीन सीडीएस जनरल चौहान ने 'सफ़ाई' क्यों दी?",
+            "link": "https://www.bbc.com/hindi/articles/cwyzew517gvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
             "summary": "",
-            "published": "2026-08-26T12:49:54+05:30"
+            "published": "2026-08-26T07:49:04+00:00"
           },
           {
-            "title": "IND vs SL Live Score: श्रीलंका दो विकेट पर 80 रन के पार, भारत से अभी भी 120+ रन पीछे; पासिंदु-कामिंदु क्रीज पर",
-            "link": "https://www.amarujala.com/live/cricket/ind-vs-sl-test-live-score-india-vs-sri-lanka-2nd-test-day-4-match-scorecard-ball-by-ball-updates-2026-08-26",
+            "title": "एच-1बी वीजा में बड़े बदलाव की तैयारी: अमेरिका ने सभी वीजा अपॉइंटमेंट रोके,ऐसा क्या कर रहा ट्रंप प्रशासन?",
+            "link": "https://www.amarujala.com/world/us-halts-all-visa-appointments-globally-amid-trump-immigration-crackdown-report-2026-08-26",
             "source": "Amar Ujala",
-            "summary": "कोलंबो के सिंहलीज स्पोर्ट्स क्लब मैदान पर भारत और श्रीलंका के बीच खेले जा रहे दूसरे टेस्ट मैच में मुकाबला बेहद रोमांचक मोड़ पर पहुंच गया है। मैच का चौथा दिन खेल के नजरिए से काफी महत्वपूर्ण है, क्योंकि लंच के समय तक श्रीलंका की टीम अपनी दूसरी पारी में 2 विकेट के नुकसान पर 83 रन बना चुकी है। श्रीलंका की टीम अभी भी भारत के स्कोर से 130 रन पीछे चल रही है, जिससे यह स्पष्ट है कि जीत के लिए उन्हें अभी काफी संघर्ष करना होगा। पारी की शुरुआत में श्रीलंका के उदारा और मिशारा ने अच्छी कोशिश की, लेकिन भारतीय गेंदबाजों के सामने वे अपनी पारी को ज्यादा देर तक नहीं खींच सके और अंततः आउट होकर पवेलियन लौट गए। मैच के इस चरण में भारतीय टीम का पलड़ा थोड़ा भारी नजर आ रहा है क्योंकि उनके गेंदबाजों ने अनुशासित गेंदबाजी की है। दूसरी ओर, श्रीलंकाई बल्लेबाजों के लिए यह एक बड़ी परीक्षा है कि वे भारतीय स्पिन और तेज गेंदबाजी के मिश्रण का सामना कैसे करते हैं। अमर उजाला के लाइव ब्लॉग के माध्यम से दर्शकों को पल-पल की जानकारी मिल रही है, जिसमें यह देखना दिलचस्प होगा कि मैच के अगले सत्रों में श्रीलंका की टीम कितनी मजबूती के साथ वापसी करती है या भारतीय गेंदबाज जल्दी विकेट चटकाकर मैच को अपनी गिरफ्त में ले लेते हैं।",
-            "published": "2026-08-26T12:49:38+05:30"
+            "summary": "",
+            "published": "2026-08-26T12:51:56+05:30"
           },
           {
             "title": "US Visa पर फिर चली ट्रंप की कैंची! रातों-रात बदले वीजा इंटरव्यू के नियम, क्या रद्द हो जाएंगे अपॉइंटमेंट्स?",
@@ -804,18 +804,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "કૃતિ સેનનની રક્ષાબંધનની જાહેરાતને વિવાદ બાદ હટાવાઈ - ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/c74e9m73eg9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "પૂર્વ ભારતીય ક્રિકેટર સંજય માંજરેકરે યુવા ક્રિકેટર વૈભવ સૂર્યવંશી અને સ્ટાર બેટ્સમેન યશસ્વી જયસ્વાલના મેદાન પરના વ્યવહાર અને વર્તણૂકને લઈને પોતાની નારાજગી વ્યક્ત કરી છે. ક્રિકેટના નિષ્ણાત તરીકે જાણીતા માંજરેકરે આ બંને ખેલાડીઓના આચરણ પર જે પ્રશ્નો ઉઠાવ્યા છે, તે રમત જગતમાં ચર્ચાનો વિષય બન્યા છે. સામાન્ય રીતે, જ્યારે પણ કોઈ યુવા ખેલાડીની વર્તણૂક પર દિગ્ગજો ટિપ્પણી કરે છે, ત્યારે તે ખેલાડીના કરિયરના ઘડતર માટે મહત્વપૂર્ણ માનવામાં આવે છે. માંજરેકરનું માનવું છે કે શિસ્ત અને મેદાન પરની ગંભીરતા રમતની મર્યાદા જાળવવા માટે અનિવાર્ય છે. આ મામલે લોકોની નજર હવે એ બાબત પર છે કે આ ખેલાડીઓ પોતાની ભૂલોમાંથી કેટલો બોધપાઠ લે છે. બીબીસી ગુજરાતી દ્વારા આ સમાચારને પ્રાધાન્ય આપવામાં આવ્યું છે, જે દર્શાવે છે કે રમતગમતના ખેલાડીઓની શિસ્તબદ્ધ જીવનશૈલી ચાહકો અને નિષ્ણાતો માટે કેટલી મહત્વની છે. માંજરેકરની આ ટિપ્પણી માત્ર આ બે ખેલાડીઓ પૂરતી સીમિત નથી, પરંતુ તે ભારતીય ક્રિકેટમાં નવી પેઢીના ખેલાડીઓ માટે એક શિખામણ સમાન છે કે તેઓ કેવી રીતે પોતાની છબી જાળવી રાખે.",
+            "published": "2026-08-26T07:51:24+00:00"
+          },
+          {
+            "title": "ચાંદી ₹2,299 વધીને ₹2.44 લાખ પ્રતિ કિલોએ પહોંચી:આ વર્ષે ₹14 હજાર મોંઘી થઈ, સોનું ₹610 ઘટીને ₹1.61 લાખ પ્રતિ 10 ગ્રામ થયું",
+            "link": "https://www.divyabhaskar.co.in/business/news/gold-silver-price-india-update-sona-chandi-bhav-2026-138841157.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-26T07:34:14+00:00"
+          },
+          {
             "title": "ગુજરાતની બાજુમાં આવેલી અરબી સમુદ્રમાં સિસ્ટમ કેમ નથી બનતી?",
             "link": "https://www.bbc.com/gujarati/articles/clym7z2mwl9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-08-26T07:18:40+00:00"
-          },
-          {
-            "title": "વૈભવ સૂર્યવંશી અને યશસ્વી જયસ્વાલના વર્તન પર સંજય માંજરેકરે નારાજગી વ્યક્ત કરી - ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/c74e9m73eg9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "પૂર્વ ભારતીય ક્રિકેટર સંજય માંજરેકરે યુવા ક્રિકેટર વૈભવ સૂર્યવંશી અને સ્ટાર બેટ્સમેન યશસ્વી જયસ્વાલના મેદાન પરના વ્યવહાર અને વર્તણૂકને લઈને પોતાની નારાજગી વ્યક્ત કરી છે. ક્રિકેટના નિષ્ણાત તરીકે જાણીતા માંજરેકરે આ બંને ખેલાડીઓના આચરણ પર જે પ્રશ્નો ઉઠાવ્યા છે, તે રમત જગતમાં ચર્ચાનો વિષય બન્યા છે. સામાન્ય રીતે, જ્યારે પણ કોઈ યુવા ખેલાડીની વર્તણૂક પર દિગ્ગજો ટિપ્પણી કરે છે, ત્યારે તે ખેલાડીના કરિયરના ઘડતર માટે મહત્વપૂર્ણ માનવામાં આવે છે. માંજરેકરનું માનવું છે કે શિસ્ત અને મેદાન પરની ગંભીરતા રમતની મર્યાદા જાળવવા માટે અનિવાર્ય છે. આ મામલે લોકોની નજર હવે એ બાબત પર છે કે આ ખેલાડીઓ પોતાની ભૂલોમાંથી કેટલો બોધપાઠ લે છે. બીબીસી ગુજરાતી દ્વારા આ સમાચારને પ્રાધાન્ય આપવામાં આવ્યું છે, જે દર્શાવે છે કે રમતગમતના ખેલાડીઓની શિસ્તબદ્ધ જીવનશૈલી ચાહકો અને નિષ્ણાતો માટે કેટલી મહત્વની છે. માંજરેકરની આ ટિપ્પણી માત્ર આ બે ખેલાડીઓ પૂરતી સીમિત નથી, પરંતુ તે ભારતીય ક્રિકેટમાં નવી પેઢીના ખેલાડીઓ માટે એક શિખામણ સમાન છે કે તેઓ કેવી રીતે પોતાની છબી જાળવી રાખે.",
-            "published": "2026-08-26T06:47:55+00:00"
           },
           {
             "title": "ચંપત રાયે કહ્યું- ચૂંટણીના કારણે દાન ચોરીની FIR ન કરાવી:નૃપેન્દ્ર મિશ્રાએ 14 ઇન્ટરવ્યૂ કોના ઇશારે આપ્યા, અસલી ભેદીયો કોણ? ડાયરીમાં ખુલાસા કર્યા",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "ઉત્તર ભારતમાં હાલ ચોમાસાના ભારે વરસાદે વિકરાળ સ્વરૂપ ધારણ કર્યું છે, જેના કારણે જનજીવન ભારે પ્રભાવિત થયું છે. પવિત્ર નગરી કાશીમાં ગંગા નદીનું જળસ્તર સતત વધી રહ્યું છે, જેના કારણે ગંગાના તમામ 84 ઘાટ પાણીમાં ડૂબી ગયા છે. પાણીના વધતા સ્તરને ધ્યાનમાં રાખીને ઘાટ કિનારે આવેલી અંદાજે 5 હજાર જેટલી દુકાનો બંધ કરી દેવી પડી છે, જેનો સીધો અસર સ્થાનિક વેપાર પર પડી રહ્યો છે. તેવી જ રીતે, બિહારના બેગુસરાયમાં પણ ગંગા નદી ભયજનક સપાટીથી ઉપર વહી રહી છે, જેના કારણે પૂરના પાણી અનેક વિસ્તારોમાં ઘૂસી ગયા છે અને લગભગ 50 હજારથી વધુ લોકો પૂરથી ઘેરાયેલા છે. હવામાન વિભાગે સ્થિતિની ગંભીરતાને જોતા આગામી સમય માટે સતર્કતા દાખવી છે અને મધ્ય પ્રદેશના 21 જિલ્લાઓમાં ભારે વરસાદની આગાહી કરી છે. મધ્ય પ્રદેશના પૂર્વીય ભાગોમાં વરસાદ બાદ હવે ઉત્તરીય, પશ્ચિમી અને મધ્ય ભાગોમાં પણ વાતાવરણ બગડવાની શક્યતા છે. નદીઓના વધતા જળસ્તરને કારણે નીચાણવાળા વિસ્તારોમાં રહેતા લોકો માટે મુશ્કેલીઓ વધી છે, અને પ્રશાસન દ્વારા રાહત અને બચાવ કામગીરી પર વિશેષ ધ્યાન આપવામાં આવી રહ્યું છે, જેથી જાન-માલનું નુકસાન ઘટાડી શકાય.",
             "published": "2026-08-26T02:54:35+00:00"
-          },
-          {
-            "title": "48 ડિગ્રી ગરમી અને એક ડોલ પાણી માટે કલાકો સુધી રાહ જોવી પડે, દુષ્કાળમાં પણ જ્ઞાતિનો ભેદભાવ સહન કરતા લોકો",
-            "link": "https://www.bbc.com/gujarati/articles/c5yedn40n79o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "બુંદેલખંડ વિસ્તાર વર્ષોથી ભયાનક દુષ્કાળ અને પાણીની તીવ્ર અછતનો સામનો કરી રહ્યો છે, જે ત્યાંના રહેવાસીઓ માટે એક કાયમી સંઘર્ષ બની ગયો છે. તાજેતરમાં વધતા જતા તાપમાનને કારણે પારો ૪૮ ડિગ્રી સેલ્સિયસ સુધી પહોંચી ગયો છે, જેનાથી સ્થિતિ વધુ વિકટ બની છે. આટલી કાળઝાળ ગરમીમાં લોકોએ માત્ર એક ડોલ પાણી મેળવવા માટે કલાકો સુધી લાઈનમાં ઉભા રહેવું પડે છે, જે તેમની દૈનિક જીવનચર્યાને ખૂબ જ મુશ્કેલ બનાવે છે. આ પરિસ્થિતિમાં વધુ દુઃખદ બાબત એ છે કે, પાણીની અછત વચ્ચે પણ સામાજિક ભેદભાવના કિસ્સાઓ સામે આવી રહ્યા છે. સમાજનો એક ચોક્કસ વર્ગ જે પહેલાથી જ ગરીબી અને પાણીની તંગીથી પીડાય છે, તેમને જાતિ આધારિત ભેદભાવનો પણ સામનો કરવો પડી રહ્યો છે. પાણી જેવી પાયાની જરૂરિયાત મેળવવા માટે પણ લોકોએ સામાજિક અન્યાય સહન કરવો પડે છે, જે માનવીય દૃષ્ટિકોણથી અત્યંત ચિંતાજનક છે. બુંદેલખંડનો આ વિસ્તાર ભૌગોલિક રીતે વરસાદની અછત માટે કુખ્યાત છે, પરંતુ વધતી ગરમી અને સામાજિક કુરિવાજોનું મિશ્રણ સ્થિતિને વધુ ગંભીર બનાવી રહ્યું છે. સ્થાનિક સ્તરે વહીવટી તંત્ર દ્વારા પાણીની વ્યવસ્થા કરવામાં આવી રહી હોવા છતાં, તે પૂરતી સાબિત થઈ રહી નથી. આ સમસ્યા માત્ર પાણીની નથી, પરંતુ સામાજિક સમાનતા અને વહીવટી નિષ્ફળતાની પણ છે, જેના કારણે સામાન્ય જનતા રઝળી રહી છે.",
-            "published": "2026-08-26T02:38:28+00:00"
           }
         ]
       }
@@ -894,6 +894,34 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "பாஜக முதல்வரை சுத்து போட்ட GenZ இளைஞர்கள்! பீகாரில் ஆட்சிக்கு ஆபத்து.. தெருவுக்கு வந்த மாணவர்கள்!",
+            "link": "https://tamil.oneindia.com/news/india/bihar-government-faces-heat-as-genz-protesters-demand-jobs-exam-transparency-police-use-water-cann-826455.html",
+            "source": "Oneindia Tamil",
+            "summary": "பீகாரில் அரசு பணிகளுக்கான தேர்வுகள் நடத்துவதில் முறைகேடுகள் நடப்பதாகக் கூறி, மாணவர்கள் பெரும் போராட்டத்தை முன்னெடுத்துள்ளனர். பீகார் மாநில அரசு பணியாளர் தேர்வாணையம் நடத்தும் தேர்வுகளில் வெளிப்படைத்தன்மை இல்லை என்று குற்றம் சாட்டும் மாணவர்கள், தங்கள் எதிர்ப்பை தீவிரமாகப் பதிவு செய்து வருகின்றனர். போராட்டத்தின் ஒரு பகுதியாக, துணை முதலமைச்சர் சம்ராட் சௌத்ரியின் இல்லத்தை முற்றுகையிட மாணவர்கள் முயன்றது பெரும் பரபரப்பை ஏற்படுத்தியது. இந்த முற்றுகை முயற்சியின் போது, அங்கு பாதுகாப்பு பணியில் இருந்த காவல்துறையினர், மாணவர்களைக் கலைக்க தடியடி நடத்தினர். இந்த சம்பவம் மாணவர்களிடையே மேலும் கொந்தளிப்பை ஏற்படுத்தியுள்ளது. இளைஞர்களின் இந்த போராட்டம், பீகாரில் தற்போதைய கூட்டணி அரசுக்கு மிகப்பெரிய அரசியல் நெருக்கடியை உருவாக்கியுள்ளது. GenZ எனப்படும் இன்றைய இளம் தலைமுறையினர் தங்களின் வேலைவாய்ப்பு உரிமைகளுக்காகத் தெருவுக்கு வந்து போராடுவது மாநில அரசியலில் முக்கிய மாற்றங்களை ஏற்படுத்தக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. முறைகேடுகளைத் தடுக்கவும், தேர்வு முறைகளைச் சீரமைக்கவும் அரசு விரைவான நடவடிக்கைகளை எடுக்க வேண்டும் என்பதே இப்போராட்டத்தின் முக்கிய கோரிக்கையாக உள்ளது. தடியடி சம்பவத்தைத் தொடர்ந்து, மாணவர் அமைப்புகள் மற்றும் எதிர்க்கட்சிகள் அரசுக்கு எதிராக விமர்சனங்களை முன்வைத்துள்ளன. வரவிருக்கும் நாட்களில் இந்த விவகாரம் பீகார் மாநில அரசியலில் இன்னும் பெரிய தாக்கத்தை ஏற்படுத்தும் எனத் தெரிகிறது.",
+            "published": "2026-08-26T13:18:27+05:30"
+          },
+          {
+            "title": "40% எகிறிய சர்க்கரை விலை.. E20 எத்தனாலுக்கு கரும்பு மொத்தமாக திருப்பிவிடப்பட்டது காரணம்? உண்மை என்ன",
+            "link": "https://tamil.oneindia.com/news/business/sugar-price-rise-in-india-is-ethanol-production-the-real-reason-behind-the-40-surge-in-a-week-826481.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-08-26T13:18:17+05:30"
+          },
+          {
+            "title": "காணொளி: பெல்லட் குண்டால் பார்வை பாதிக்கப்பட்ட காஷ்மீர் பெண்",
+            "link": "https://www.bbc.com/tamil/articles/ckg70wz5nq1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-26T07:43:25+00:00"
+          },
+          {
+            "title": "க்ரிதி சனோனின் ரக்ஷா பந்தன் விளம்பரம் நீக்கம் - என்ன சர்ச்சை?",
+            "link": "https://www.bbc.com/tamil/articles/crerj8vg4vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "நகை நிறுவனம் ஒன்றின் ரக்ஷா பந்தன் விளம்பரம் தற்போது சமூக வலைதளங்களில் பெரும் விவாதப் பொருளாக மாறியுள்ளது. இதில் நடிகை க்ரிதி சனோன் அணிந்திருந்த ஆடை மற்றும் வளர்ப்பு நாய்க்கு ராக்கி கயிறு கட்டும் காட்சி இடம்பெற்றுள்ளது. இது நமது கலாச்சாரத்திற்கு எதிரானது என்று ஒரு தரப்பினர் விமர்சித்து வருகின்றனர். இருப்பினும், தனிப்பட்ட விருப்பம் மற்றும் கலை சார்ந்த சுதந்திரம் என்ற அடிப்படையில் பெரும் ஆதரவும் எழுந்துள்ளது. இந்த விவகாரத்தில் காங்கிரஸ் தலைவர் ராகுல் காந்தி உள்ளிட்ட பலரும் தங்கள் கருத்துக்களைப் பதிவு செய்துள்ளனர். பொதுவாக விளம்பரங்கள் என்பது ஒரு நிறுவனத்தின் வணிக உத்தியாகும், ஆனால் அவை சமூகத்தில் உணர்ச்சிகரமான தாக்கங்களை ஏற்படுத்தும் போது சர்ச்சைகள் வெடிக்கின்றன. இத்தகைய விளம்பரங்கள் கலாச்சாரத்தைப் புண்படுத்துகிறதா அல்லது புதிய பரிமாணமாகப் பார்க்கப்பட வேண்டுமா என்ற விவாதம் தொடர்ந்து கொண்டே இருக்கிறது. ஆதரவாளர்கள் இது வெறும் கலைப்படைப்பு என்றும், அதை இவ்வளவு பெரிதுபடுத்தத் தேவையில்லை என்றும் வாதிடுகின்றனர். எது எப்படியிருந்தாலும், சமூக ஊடகங்களில் கருத்து மோதல்கள் அதிகரிப்பது விளம்பர நிறுவனங்களுக்கு ஒரு பாடமாகவும், மக்கள் எத்தகைய உணர்வுகளுடன் இதைப் பார்க்கிறார்கள் என்பதற்கான கண்ணாடியாகவும் அமைகிறது.",
+            "published": "2026-08-26T07:30:46+00:00"
+          },
           {
             "title": "பரந்தூர் விமான நிலையத் திட்டம் கைவிடப்பட்டதால் தொழில் வளர்ச்சி பாதிக்கப்படுமா? ஆதரவும் எதிர்ப்பும்",
             "link": "https://www.bbc.com/tamil/articles/c14d8z7n3e7o?at_medium=RSS&at_campaign=rss",
@@ -907,13 +935,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-08-26T12:44:59+05:30"
-          },
-          {
-            "title": "பாஜக முதல்வரை சுத்து போட்ட GenZ இளைஞர்கள்! பீகாரில் ஆட்சிக்கு ஆபத்து.. தெருவுக்கு வந்த மாணவர்கள்!",
-            "link": "https://tamil.oneindia.com/news/india/bihar-government-faces-heat-as-genz-protesters-demand-jobs-exam-transparency-police-use-water-cann-826455.html",
-            "source": "Oneindia Tamil",
-            "summary": "பீகாரில் அரசு பணிகளுக்கான தேர்வுகள் நடத்துவதில் முறைகேடுகள் நடப்பதாகக் கூறி, மாணவர்கள் பெரும் போராட்டத்தை முன்னெடுத்துள்ளனர். பீகார் மாநில அரசு பணியாளர் தேர்வாணையம் நடத்தும் தேர்வுகளில் வெளிப்படைத்தன்மை இல்லை என்று குற்றம் சாட்டும் மாணவர்கள், தங்கள் எதிர்ப்பை தீவிரமாகப் பதிவு செய்து வருகின்றனர். போராட்டத்தின் ஒரு பகுதியாக, துணை முதலமைச்சர் சம்ராட் சௌத்ரியின் இல்லத்தை முற்றுகையிட மாணவர்கள் முயன்றது பெரும் பரபரப்பை ஏற்படுத்தியது. இந்த முற்றுகை முயற்சியின் போது, அங்கு பாதுகாப்பு பணியில் இருந்த காவல்துறையினர், மாணவர்களைக் கலைக்க தடியடி நடத்தினர். இந்த சம்பவம் மாணவர்களிடையே மேலும் கொந்தளிப்பை ஏற்படுத்தியுள்ளது. இளைஞர்களின் இந்த போராட்டம், பீகாரில் தற்போதைய கூட்டணி அரசுக்கு மிகப்பெரிய அரசியல் நெருக்கடியை உருவாக்கியுள்ளது. GenZ எனப்படும் இன்றைய இளம் தலைமுறையினர் தங்களின் வேலைவாய்ப்பு உரிமைகளுக்காகத் தெருவுக்கு வந்து போராடுவது மாநில அரசியலில் முக்கிய மாற்றங்களை ஏற்படுத்தக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. முறைகேடுகளைத் தடுக்கவும், தேர்வு முறைகளைச் சீரமைக்கவும் அரசு விரைவான நடவடிக்கைகளை எடுக்க வேண்டும் என்பதே இப்போராட்டத்தின் முக்கிய கோரிக்கையாக உள்ளது. தடியடி சம்பவத்தைத் தொடர்ந்து, மாணவர் அமைப்புகள் மற்றும் எதிர்க்கட்சிகள் அரசுக்கு எதிராக விமர்சனங்களை முன்வைத்துள்ளன. வரவிருக்கும் நாட்களில் இந்த விவகாரம் பீகார் மாநில அரசியலில் இன்னும் பெரிய தாக்கத்தை ஏற்படுத்தும் எனத் தெரிகிறது.",
-            "published": "2026-08-26T12:17:18+05:30"
           },
           {
             "title": "காரில் 4 நாட்கள் மறைத்து வைக்கப்பட்ட பெண் உடல்: 'அசைவ உணவு' என கூறிய நபர் சிக்கியது எப்படி? பெண்ணின் தந்தைக்கும் தொடர்பா?",
@@ -956,27 +977,6 @@
             "source": "BBC Tamil",
             "summary": "தமிழக சட்டப்பேரவை நிகழ்வுகள் மற்றும் விவாதங்கள் தொடர்பாக தற்போது முக்கியமான விவாதங்கள் எழுந்துள்ளன. சட்டப்பேரவையில் நடைபெறும் நிகழ்வுகளை வீடியோ துணுக்குகளாக அல்லது ரீல்ஸ்களாக சமூக ஊடகங்களில் பகிர்வது தொடர்பாக எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் தனது கவலையைப் பதிவு செய்துள்ளார். குறிப்பாக, அவைக்குறிப்பிலிருந்து நீக்கப்பட்ட பேச்சுகள் கூட மீண்டும் சமூக வலைதளங்களில் பகிரப்படுவது ஜனநாயக மரபுகளுக்கு எதிரானது என்பது அவரது வாதமாகும். இதற்குப் பதிலளித்த பேரவைத் தலைவர் ஜேசிடி பிரபாகர், இந்த விவகாரம் மிக முக்கியமானது என்று கருதி, அதனை உரிமைக் குழுவின் ஆய்வுக்கு அனுப்பப்போவதாக அறிவித்துள்ளார். அவைக்குறிப்பு என்பது பேரவையின் அதிகாரப்பூர்வ ஆவணமாகும்; அதில் இல்லாத ஒன்றைப் பொதுவெளியில் பரப்புவது சட்டப்படி தவறு என்பதால், இது குறித்து தீவிர விசாரணை நடத்தப்பட உள்ளது. இது போன்ற செயல்கள் சட்டமன்றத்தின் கண்ணியத்தைக் குறைப்பதாகவும், தவறான தகவல்கள் பரவ வழிவகுப்பதாகவும் கருதப்படுகிறது. எனவே, எதிர்காலத்தில் இது போன்ற செயல்களைத் தடுக்கவும், விதிமுறை மீறல்களைக் கட்டுப்படுத்தவும் அரசு கடுமையான நடவடிக்கைகளை எடுக்கத் திட்டமிட்டுள்ளது. சட்டத்தின் மாண்பைப் பாதுகாப்பதும், அவையின் புனிதத்தைக் காப்பதும் ஒவ்வொரு உறுப்பினரின் கடமையாகும் என்பதில் மாற்றுக் கருத்து இல்லை.",
             "published": "2026-08-26T05:53:40+00:00"
-          },
-          {
-            "title": "தங்கம்.. இப்போது வாங்கலாமா? இல்லை கொஞ்சம் வெயிட் பண்ணலாமா? ஈஸியாக விளக்கிய ஆனந்த் சீனிவாசன்!",
-            "link": "https://tamil.oneindia.com/news/business/gold-price-rise-explained-anand-srinivasan-reveals-why-gold-is-rising-and-what-happens-next-826367.html",
-            "source": "Oneindia Tamil",
-            "summary": "தங்கத்தின் விலை நாளுக்கு நாள் அதிகரித்து வரும் சூழலில், சாமானிய மக்கள் முதலீடு செய்யலாமா அல்லது காத்திருக்கலாமா என்ற குழப்பத்தில் உள்ளனர். இது குறித்துப் பொருளாதார நிபுணர் ஆனந்த் சீனிவாசன் விரிவான விளக்கம் அளித்துள்ளார். தங்கம் என்பது இந்தியர்களின் கலாச்சாரம் மற்றும் பொருளாதாரப் பாதுகாப்போடு பின்னிப் பிணைந்த ஒன்றாகும். சர்வதேசச் சந்தையில் நிலவும் மாற்றங்கள், அமெரிக்க டாலரின் மதிப்பு, மத்திய வங்கிகளின் கையிருப்பு மற்றும் உலகளாவிய புவிசார் அரசியல் சூழல்கள் தங்கம் விலையைத் தீர்மானிக்கின்றன. விலை உயரும் போது பதற்றப்படாமல், முதலீட்டாளர்கள் நீண்ட கால நோக்கத்துடன் திட்டமிட வேண்டும் என்று அவர் அறிவுறுத்துகிறார். அவசரப்பட்டு முடிவுகளை எடுப்பதை விட, சந்தையின் போக்கு மற்றும் பொருளாதார நிலவரங்களை உற்று நோக்கி முதலீடு செய்வது புத்திசாலித்தனம். தங்கத்தில் முதலீடு செய்பவர்கள், நகை வாங்குவதைத் தவிர்த்து டிஜிட்டல் தங்கம் அல்லது கோல்ட் இடிஎஃப் (Gold ETF) போன்ற நவீன முறைகளைத் தேர்வு செய்வது கூடுதல் பலன்களைத் தரும் என்றும் அவர் விளக்குகிறார். சந்தை நிலவரத்தை உணர்ந்து செயல்பட்டால் மட்டுமே லாபகரமாக முதலீடு செய்ய முடியும் என்பதை நிபுணரின் கருத்துக்கள் தெளிவுபடுத்துகின்றன. தேவையற்ற பீதியைத் தவிர்த்து, நிதானமான முதலீட்டு முடிவுகளே பொருளாதார வளர்ச்சிக்கு வழிவகுக்கும்.",
-            "published": "2026-08-26T09:58:28+05:30"
-          },
-          {
-            "title": "க்ரிதி சனோனின் ரக்‌ஷா பந்தன் விளம்பரத்தில் அவரின் உடை குறித்து விவாதம் எழுவது ஏன்? ராகுல் காந்தி கூறியது என்ன?",
-            "link": "https://www.bbc.com/tamil/articles/crerj8vg4vro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "நகை நிறுவனம் ஒன்றின் ரக்ஷா பந்தன் விளம்பரம் தற்போது சமூக வலைதளங்களில் பெரும் விவாதப் பொருளாக மாறியுள்ளது. இதில் நடிகை க்ரிதி சனோன் அணிந்திருந்த ஆடை மற்றும் வளர்ப்பு நாய்க்கு ராக்கி கயிறு கட்டும் காட்சி இடம்பெற்றுள்ளது. இது நமது கலாச்சாரத்திற்கு எதிரானது என்று ஒரு தரப்பினர் விமர்சித்து வருகின்றனர். இருப்பினும், தனிப்பட்ட விருப்பம் மற்றும் கலை சார்ந்த சுதந்திரம் என்ற அடிப்படையில் பெரும் ஆதரவும் எழுந்துள்ளது. இந்த விவகாரத்தில் காங்கிரஸ் தலைவர் ராகுல் காந்தி உள்ளிட்ட பலரும் தங்கள் கருத்துக்களைப் பதிவு செய்துள்ளனர். பொதுவாக விளம்பரங்கள் என்பது ஒரு நிறுவனத்தின் வணிக உத்தியாகும், ஆனால் அவை சமூகத்தில் உணர்ச்சிகரமான தாக்கங்களை ஏற்படுத்தும் போது சர்ச்சைகள் வெடிக்கின்றன. இத்தகைய விளம்பரங்கள் கலாச்சாரத்தைப் புண்படுத்துகிறதா அல்லது புதிய பரிமாணமாகப் பார்க்கப்பட வேண்டுமா என்ற விவாதம் தொடர்ந்து கொண்டே இருக்கிறது. ஆதரவாளர்கள் இது வெறும் கலைப்படைப்பு என்றும், அதை இவ்வளவு பெரிதுபடுத்தத் தேவையில்லை என்றும் வாதிடுகின்றனர். எது எப்படியிருந்தாலும், சமூக ஊடகங்களில் கருத்து மோதல்கள் அதிகரிப்பது விளம்பர நிறுவனங்களுக்கு ஒரு பாடமாகவும், மக்கள் எத்தகைய உணர்வுகளுடன் இதைப் பார்க்கிறார்கள் என்பதற்கான கண்ணாடியாகவும் அமைகிறது.",
-            "published": "2026-08-26T04:21:40+00:00"
-          },
-          {
-            "title": "டிரம்பிற்கு அதிர்ச்சி.. அமெரிக்கா வரை சென்று தாக்கும் ஏவுகணை.. சீனா உருவாக்கிய புதிய மர்ம ஆயுதம்!",
-            "link": "https://tamil.oneindia.com/news/international/china-develops-hypersonic-missile-capable-of-striking-targets-us-thousands-of-kilometers-away-826385.html",
-            "source": "Oneindia Tamil",
-            "summary": "சீனா தற்போது அமெரிக்காவை இலக்காகக் கொண்டு அதிநவீன ஏவுகணை தொழில்நுட்பத்தை உருவாக்கியிருப்பது உலக அளவில் பெரும் அதிர்வலையை ஏற்படுத்தியுள்ளது. வான்வழியாக ஏவக்கூடிய ஹைப்பர்சோனிக் கிளைடு ஏவுகணைகளை சீனா உருவாக்கியுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன. இவை ஒலியை விட பல மடங்கு வேகத்தில் பயணிக்கக்கூடியவை என்பதால், எதிரிகளின் தற்காப்பு அமைப்புகளால் இவற்றை எளிதில் கண்டறிந்து இடைமறிக்க முடியாது என்பது குறிப்பிடத்தக்கது. மிக நீண்ட தூரத்தில் உள்ள இலக்குகளைத் துல்லியமாகத் தாக்கும் திறன் கொண்ட இந்த ஏவுகணை, அமெரிக்காவின் முக்கிய தளங்களையும், விமானங்களையும் குறிவைக்கும் வல்லமை வாய்ந்தது என்று கூறப்படுகிறது. இது போர் வியூகத்தில் ஒரு பெரிய மாற்றத்தை ஏற்படுத்தும் என்பதால், அமெரிக்கா உட்பட உலக நாடுகளிடையே பாதுகாப்பு குறித்த கவலை எழுந்துள்ளது. ஏவுகணை தொழில்நுட்பத்தில் ஏற்பட்டுள்ள இந்த அதிரடி முன்னேற்றம், சர்வதேச உறவுகளிலும், ராணுவ சமநிலையிலும் புதிய பதற்றத்தை உருவாக்கியுள்ளது. தனது ராணுவ வலிமையை உலகிற்குப் பறைசாற்ற சீனா எடுக்கும் முயற்சிகளில் ஒன்றாக இது பார்க்கப்படுகிறது. இந்த மர்ம ஆயுதம் உண்மையாகவே போர் சூழலில் எந்த மாதிரியான தாக்கத்தை ஏற்படுத்தும் என்பதுதான் தற்போதைய சர்வதேச பாதுகாப்புக் கொள்கை வகுப்பாளர்களின் பெரிய கவலையாக உள்ளது.",
-            "published": "2026-08-26T08:59:53+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "చంద్రబాబు ఆ ఒక్క నిర్ణయానికి జై కొట్టిన జగన్- అక్కడే అసలు లెక్క..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-clear-directions-for-party-leaders-over-local-body-poll-key-comments-on-direct-election-d-503371.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-26T13:17:24+05:30"
+          },
+          {
+            "title": "పంచదార ధరలు ఎందుకు తగ్గడం లేదు?",
+            "link": "https://www.bbc.com/telugu/articles/cde0n25p93ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-26T07:40:31+00:00"
+          },
+          {
             "title": "రీల్స్ మానసిక ఆరోగ్యంపై ప్రభావం చూపుతున్నాయా, పిల్లల్లో డిప్రెషన్‌కు కారణమేంటి?",
             "link": "https://www.bbc.com/telugu/articles/c86n6n95nvzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1140,20 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "ఆంధ్రప్రదేశ్‌లోని రాయలసీమ ప్రాంతంలో ఆర్థికాభివృద్ధికి పెద్దపీట వేసే దిశగా ఒక భారీ ప్రాజెక్టు పట్టాలెక్కనుంది. సుజ్లాన్ గ్రూప్ సంస్థ అనంతపురం జిల్లాలోని రాయదుర్గంలో ఏకంగా రూ. 10,000 కోట్ల భారీ పెట్టుబడితో విండ్ మరియు సోలార్ హైబ్రిడ్ విద్యుత్ ప్రాజెక్టులను చేపట్టబోతోంది. ఈ ప్రతిష్టాత్మక ప్రాజెక్టు వల్ల ఆ ప్రాంతంలో విద్యుత్ ఉత్పత్తి సామర్థ్యం గణనీయంగా పెరగడమే కాకుండా, స్థానికంగా ఉపాధి అవకాశాలు పుష్కలంగా లభించే అవకాశం ఉంది. రాయలసీమ వంటి వెనుకబడిన ప్రాంతాల్లో ఇటువంటి భారీ పారిశ్రామిక పెట్టుబడులు రావడం ద్వారా ఆర్థిక పరిస్థితి పూర్తిగా మారిపోతుందని ప్రభుత్వం ఆశిస్తోంది. గ్రీన్ ఎనర్జీ హబ్‌గా ఏపీని తీర్చిదిద్దాలనే లక్ష్యంలో భాగంగా ఈ ప్రాజెక్టు కీలకం కానుంది. విద్యుత్ రంగానికి తోడు, అనుబంధ పరిశ్రమలు కూడా ఈ ప్రాంతానికి రావడం వల్ల రాయదుర్గం తదితర పరిసర ప్రాంతాల రూపురేఖలు మారనున్నాయి. ఇది పారిశ్రామికాభివృద్ధికి ఊతం ఇవ్వడమే కాకుండా, పర్యావరణహిత విద్యుత్ ఉత్పత్తిలో కూడా దేశంలోనే ఏపీని అగ్రగామిగా నిలిపేందుకు దోహదపడుతుంది. స్థానిక యువతకు ఉద్యోగ కల్పన పరంగా కూడా ఇది ఒక శుభసూచికగా కనిపిస్తోంది.",
             "published": "2026-08-26T11:27:27+05:30"
-          },
-          {
-            "title": "Fresh Bus: ఘోర రోడ్డు ప్రమాదం: ఆరుగురు మృతి, 20 మందికి గాయాలు!",
-            "link": "https://telugu.oneindia.com/news/telangana/kodada-bus-accident-private-travel-bus-rams-container-truck-near-kodada-6-dead-and-many-injured-503321.html",
-            "source": "Oneindia Telugu",
-            "summary": "సూర్యాపేట జిల్లా కోదాడ మండలం దోరకుంట సమీపంలో జరిగిన ఘోర రోడ్డు ప్రమాదం తీవ్ర విషాదాన్ని నింపింది. హైదరాబాద్ నుండి విజయవాడ వైపు ప్రయాణిస్తున్న ఒక ప్రైవేట్ ట్రావెల్స్ బస్సు, ముందు వెళ్తున్న కంటైనర్ లారీని బలంగా ఢీకొట్టడంతో ఈ దుర్ఘటన చోటుచేసుకుంది. ఈ ప్రమాదంలో ఆరుగురు ప్రయాణికులు అక్కడికక్కడే మరణించగా, సుమారు 20 మందికి పైగా తీవ్ర గాయాలయ్యాయి. విషయం తెలిసిన వెంటనే స్థానికులు మరియు పోలీసులు రంగంలోకి దిగి సహాయక చర్యలు చేపట్టారు. గాయపడిన వారిని సమీపంలోని ఆసుపత్రులకు తరలించి చికిత్స అందిస్తున్నారు. అయితే, ప్రమాద తీవ్రత కారణంగా మృతుల సంఖ్య మరింత పెరిగే అవకాశం ఉందని సమాచారం. అర్ధరాత్రి సమయంలో బస్సు అతి వేగంతో ప్రయాణించడం లేదా డ్రైవర్ నిద్రమత్తు కారణంగా అదుపు తప్పి లారీని ఢీకొట్టి ఉండవచ్చని ప్రాథమికంగా అనుమానిస్తున్నారు. ఈ ఘటన ప్రయాణికులలో భయాందోళనలను కలిగించింది. ట్రాఫిక్ నిబంధనలను పాటించకపోవడం మరియు రహదారులపై సరైన జాగ్రత్తలు తీసుకోకపోవడం వల్లే ఇలాంటి ప్రాణనష్టం సంభవిస్తోందని అధికారులు హెచ్చరిస్తున్నారు. మృతుల కుటుంబాలను ఆదుకోవాలని మరియు బాధితులకు మెరుగైన వైద్యం అందించాలని స్థానికులు కోరుతున్నారు.",
-            "published": "2026-08-26T10:55:45+05:30"
-          },
-          {
-            "title": "రూ.లక్ష పెట్టి కొంటే.. ఇంజెక్షన్‌లో మందు కాదు నీళ్లు! నకిలీ క్యాన్సర్ డ్రగ్స్ గుట్టురట్టు!!",
-            "link": "https://telugu.oneindia.com/news/india/fake-cancer-drugs-racket-busted-rs-1-lakh-injection-filled-with-water-17-arrested-in-7-states-503349.html",
-            "source": "Oneindia Telugu",
-            "summary": "ఢిల్లీ క్రైమ్ బ్రాంచ్ పోలీసులు అత్యంత చాకచక్యంగా వ్యవహరించి, ప్రజల ప్రాణాలతో చెలగాటమాడుతున్న ఒక భారీ నకిలీ క్యాన్సర్ మందుల ముఠాను పట్టుకున్నారు. దాదాపు ఏడు రాష్ట్రాల్లో విస్తరించి ఉన్న ఈ ముఠా దాదాపు రూ. 9 కోట్ల విలువైన నకిలీ క్యాన్సర్ డ్రగ్స్ నెట్‌వర్క్‌ను నడుపుతోంది. ఈ ముఠా సభ్యులు క్యాన్సర్ రోగులకు అత్యవసరమైన ఖరీదైన ఇంజెక్షన్లలో అసలైన మందులకు బదులుగా కేవలం నీటిని నింపి, వాటిని రూ. 1 లక్ష వరకు విక్రయిస్తూ ప్రజలను మోసం చేస్తున్నారు. ఈ దారుణమైన నేరానికి సంబంధించి ఇప్పటి వరకు 17 మందిని పోలీసులు అరెస్ట్ చేశారు. ప్రాణాంతక వ్యాధితో పోరాడుతున్న పేద మరియు మధ్యతరగతి రోగుల అమాయకత్వాన్ని ఆసరాగా చేసుకుని, ఇంతటి దారుణానికి ఒడిగట్టడంపై సర్వత్రా ఆగ్రహం వ్యక్తమవుతోంది. ఈ ముఠా కేవలం డబ్బు కోసమే కాకుండా, రోగుల ప్రాణాలతో ఆడుకుంటోందని అధికారులు ధ్వజమెత్తారు. దేశవ్యాప్తంగా ఉన్న ఫార్మా రంగంలో జరుగుతున్న ఇటువంటి అక్రమాలపై ప్రభుత్వం నిఘా పెంచాల్సిన అవసరం ఉందని ప్రజలు భావిస్తున్నారు. నిందితులపై కఠిన చర్యలు తీసుకోవాలని డిమాండ్ చేస్తున్నారు.",
-            "published": "2026-08-26T10:51:55+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಕಿರಿಕಿರಿ ಇಲ್ಲ, ಪ್ರಶ್ನೆಗಳಿಲ್ಲ: ರಜೆ ಕೇಳಿದ ತಕ್ಷಣ ಓಕೆ ಎನ್ನುವ ಬಾಸ್‌ನ ಬೋರಿಂಗ್ ವಾಟ್ಸಾಪ್ ಚಾಟ್ ವೈರಲ್!",
+            "link": "https://kannada.oneindia.com/news/karnataka/viral-reddit-post-employee-shares-boring-whatsapp-chats-showing-normal-boss-approving-wfh-leave-465805.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-26T13:21:12+05:30"
+          },
+          {
+            "title": "UGCET 2026: ಎರಡನೇ ಸುತ್ತಿನ ಸೀಟು ಹಂಚಿಕೆ ಅಂತಿಮ; ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಆ.28ರೊಳಗೆ ಪ್ರವೇಶಕ್ಕೆ ಸೂಚನೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/ugcet-2026-second-round-seat-allotment-final-result-out-august-28-last-date-for-admission-465803.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-26T13:14:31+05:30"
+          },
+          {
             "title": "Tiger Spotted: 50 ವರ್ಷಗಳ ಬಳಿಕ ಕೊಪ್ಪಳ ಕಾಡಲ್ಲಿ ಹುಲಿ ಪ್ರತ್ಯಕ್ಷ! 4 ಡ್ರೋನ್, 38 ಸಹಿತ ಕಾರ್ಯಾಚರಣೆ ಶುರು",
             "link": "https://kannada.oneindia.com/news/karnataka/tiger-spotted-in-koppal-forest-after-50-years-forest-officials-launch-massive-capture-operation-465799.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸಾರ್ವಜನಿಕ ಸೇವಾ ಆಯೋಗದ (ಕೆಪಿಎಸ್‌ಸಿ) ಅಧ್ಯಕ್ಷರಾಗಿರುವ ಶಿವಶಂಕರಪ್ಪ ಎಸ್. ಸಾಹುಕಾರ್ ಅವರನ್ನು ಇದೀಗ ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ. ಭ್ರಷ್ಟಾಚಾರ ಮತ್ತು ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ನಡೆದಿದೆ ಎನ್ನಲಾದ ಗಂಭೀರ ಅಕ್ರಮಗಳ ಆರೋಪದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಈ ಕಠಿಣ ಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗಿದೆ. ರಾಜ್ಯಪಾಲ ಥಾವರ್‌ಚಂದ್ ಗೆಹ್ಲೋಟ್ ಅವರು ರಾಜ್ಯ ಸಚಿವ ಸಂಪುಟದ ಶಿಫಾರಸನ್ನು ಸ್ವೀಕರಿಸಿ, ಈ ಆದೇಶವನ್ನು ಹೊರಡಿಸಿದ್ದಾರೆ. ಸಾಹುಕಾರ್ ಅವರ ವಿರುದ್ಧ ಭ್ರಷ್ಟಾಚಾರದ ಆರೋಪ ಕೇಳಿಬಂದಿರುವುದು ಇದೇ ಮೊದಲಲ್ಲ, ಇದಕ್ಕೂ ಮುನ್ನವೇ ಅವರು ಅಮಾನತುಗೊಂಡಿದ್ದರು. ಇದೀಗ ಎರಡನೇ ಬಾರಿಗೆ ಅವರ ವಿರುದ್ಧ ಇಂತಹ ಕ್ರಮ ಜರುಗಿಸಿರುವುದು ರಾಜ್ಯದಲ್ಲಿ ಸದ್ದು ಮಾಡುತ್ತಿದೆ. ಉನ್ನತ ಸಾಂವಿಧಾನಿಕ ಹುದ್ದೆಯಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯ ಮೇಲೆ ಇಂತಹ ಗಂಭೀರ ಆರೋಪಗಳು ಕೇಳಿಬಂದಿರುವುದು ಆಡಳಿತ ಯಂತ್ರದ ಪಾರದರ್ಶಕತೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಭ್ರಷ್ಟಾಚಾರದ ವಿರುದ್ಧ ಸರ್ಕಾರವು ಶೂನ್ಯ ಸಹಿಷ್ಣುತೆ ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ ಎಂಬ ಸಂಕೇತವನ್ನು ಇದು ರವಾನಿಸಿದೆ. ಈ ಅಮಾನತು ಆದೇಶದ ನಂತರ, ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿನ ಅವ್ಯವಸ್ಥೆಗಳನ್ನು ಸರಿಪಡಿಸುವ ಕುರಿತು ಸರ್ಕಾರ ಮುಂದಿನ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳುವ ಸಾಧ್ಯತೆಯಿದೆ. ಕೆಪಿಎಸ್‌ಸಿಯಂತಹ ಪ್ರತಿಷ್ಠಿತ ಸಂಸ್ಥೆಯ ಘನತೆಯನ್ನು ಕಾಪಾಡುವ ದೃಷ್ಟಿಯಿಂದ ಈ ಕ್ರಮವನ್ನು ಅಗತ್ಯವೆಂದು ನೋಡಲಾಗುತ್ತಿದೆ. ಪ್ರಕರಣದ ತನಿಖೆ ಮುಂದುವರಿಯಲಿದ್ದು, ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಇನ್ನಷ್ಟು ಮಾಹಿತಿ ಹೊರಬೀಳಲಿದೆ.",
             "published": "2026-08-26T09:02:39+05:30"
-          },
-          {
-            "title": "Karnataka Rain: ಕರ್ನಾಟಕದಲ್ಲಿ ಮುಂಗಾರು ಚುರುಕು: ಹಲವು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಮುಂದಿನ 2 ದಿನ ಮಳೆ",
-            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-weather-heavy-rain-alert-for-coastal-karnataka-on-august-26-27-465767.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಕರ್ನಾಟಕದಲ್ಲಿ ಮುಂಗಾರು ಮಳೆಯ ಅಬ್ಬರ ಮತ್ತೊಮ್ಮೆ ಹೆಚ್ಚಾಗುವ ಸಾಧ್ಯತೆ ಕಂಡುಬರುತ್ತಿದೆ. ಹವಾಮಾನ ಇಲಾಖೆಯ ವರದಿಯ ಪ್ರಕಾರ, ರಾಜ್ಯದ ಹಲವು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಮುಂಬರುವ ಎರಡು ದಿನಗಳ ಕಾಲ ಮಳೆಯಾಗುವ ಮುನ್ಸೂಚನೆ ನೀಡಲಾಗಿದೆ. ವಿಶೇಷವಾಗಿ ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಆಗಸ್ಟ್ 26 ಮತ್ತು 27 ರಂದು ಭಾರೀ ಮಳೆಯಾಗುವ ಎಚ್ಚರಿಕೆಯನ್ನು ನೀಡಲಾಗಿದೆ. ಕರಾವಳಿ ಭಾಗದಲ್ಲಿ ಸಮುದ್ರದ ಸ್ಥಿತಿ ಮತ್ತು ಗಾಳಿಯ ವೇಗವನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಮೀನುಗಾರರಿಗೆ ಹಾಗೂ ಕಡಲತೀರದ ಜನರಿಗೆ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಲು ಸೂಚಿಸಲಾಗಿದೆ. ಮುಂಗಾರು ಚುರುಕಾಗಿರುವುದರಿಂದ ಕೇವಲ ಕರಾವಳಿ ಮಾತ್ರವಲ್ಲದೆ, ಮಲೆನಾಡು ಹಾಗೂ ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಭಾಗಗಳಲ್ಲಿಯೂ ಸಾಧಾರಣದಿಂದ ಉತ್ತಮ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ಹವಾಮಾನ ತಜ್ಞರು ತಿಳಿಸಿದ್ದಾರೆ. ಕೃಷಿ ಚಟುವಟಿಕೆಗಳಿಗೆ ಈ ಮಳೆ ಅತೀ ಅಗತ್ಯವಾಗಿದ್ದು, ರೈತರಲ್ಲಿ ಸಂತಸ ಮೂಡಿಸಿದೆ. ಆದಾಗ್ಯೂ, ಭಾರೀ ಮಳೆಯಿಂದಾಗಿ ತಗ್ಗು ಪ್ರದೇಶಗಳಲ್ಲಿ ಪ್ರವಾಹದ ಪರಿಸ್ಥಿತಿ ಉಂಟಾಗದಂತೆ ಜಿಲ್ಲಾಡಳಿತಗಳು ಅಗತ್ಯ ಸಿದ್ಧತೆಗಳನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಕಿದೆ. ಸಾರ್ವಜನಿಕರು ಮಳೆಗಾಲದ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ಪಾಲಿಸುವಂತೆ ಸೂಚಿಸಲಾಗಿದೆ. ಹವಾಮಾನದ ಏರುಪೇರುಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇಡಲಾಗಿದ್ದು, ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಮಳೆಯ ಪ್ರಮಾಣ ಹೆಚ್ಚಾಗಲಿದೆಯೇ ಅಥವಾ ಕಡಿಮೆಯಾಗಲಿದೆಯೇ ಎಂಬುದನ್ನು ಹವಾಮಾನ ಇಲಾಖೆಯು ನಿರಂತರವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಿದೆ.",
-            "published": "2026-08-26T07:45:14+05:30"
-          },
-          {
-            "title": "ಹೋಟೆಲ್‌, ಆಹಾರ ಉದ್ದಿಮೆಗಳಿಗೆ ರಾಜ್ಯ ಸರ್ಕಾರದ ಖಡಕ್‌ ಸೂಚನೆ: ಈ ನಿಯಮ ಪಾಲನೆ ಕಡ್ಡಾಯ",
-            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-issues-new-food-safety-guidelines-for-hotels-food-businesses-465765.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-26T06:49:57+05:30"
           }
         ],
         "Entertainment": [
@@ -1440,6 +1440,20 @@
             "published": "2026-08-26T04:51:06+00:00"
           },
           {
+            "title": "‘ভারত ফাঁস করেনি’! তার পরেও পাকিস্তানের সঙ্গে সংঘর্ষবিরতির তথ্য কী ভাবে পেলেন ট্রাম্প? প্রশ্ন সেনার প্রাক্তন শীর্ষকর্তার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFdKek5OM192Uy1UR0dxTFRNSXowMkFHWU1mM3lvMkZ0Q3lxZktTcmwySTRib0JUUnhRZ0ZRV25NcHdfOHpYd0dQb2d1bWozZmlMS1ZZSFNUZzlQa3AyY1pwY2RaS3ZUajFZLWNrZ0RkUVJCMVJrSzkyX0ctM3BuRFo5S0VkNmxWWmxrMk1mcTA1YnZpd1BpREZ6UVBRWHBrcjVZSmZLRjNNVEltQWtPT3Y4Y2tGS2k0bXBEclpOS290NHFhcVhRV0FB0gHPAUFVX3lxTE1OT2MzTDRhNzBhYnNWdW9xSUkyeFctZXR5OWFudkdscU83RUJmRDFqcl82eWRLb1VRbkZxZHJ3NkRYVHNpODBmV0gyUTFmNG1manRBYTZGQThCMGUzc1A4cG4xX0phT0xpbGlldHk2dTBtVVBxMjhGbFcxZUY4MUhydC1uWXgxWllXUFVxMkNTcm4zRk40YUw3TUktVlpmLVlmRGN0QTVNWFpxYVlSWWRyVHQ1OVIweThsSEhZdm8tYXBTSDFnWjZRdi1zVkd0TQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-26T04:42:19+00:00"
+          },
+          {
+            "title": "একটি রাত কাটাতেই খরচ ২৬ লক্ষ টাকা! কী এমন সুযোগ সুবিধা আছে ‘অতি বিলাসবহুল’ প্রমোদতরী আমনগতি-তে? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcTFWcm1pTWZSb19kTUlvUlBVMnc4RnpKTDd2ZlVLYlZzY01abFRnVDlKUGxoWjh6YUVwLS1FRG5JUHZuVFlDYy0zU19GYUI1Uzd1b094RGxmb2pLUGxDc0c2ZkNGdXh5cEFuaTJnZmgyMGV5Zm9uUTBjTTlsalFRTXdZY3FYdjVJLVNqa3NKeS1LR1h4dGQ4SEFkaS1QWnppQzB2T1hzMUpsQ0pCZEdDY1pqS0NVOHBLSmlrNEd1bllUcEEtYmZjTzFZUUF2TUtvSzhEV00tQkUwQWpjS0hua3Jsc2JwbWw1MnY0VkZGb3pTTnBYb1hxZVlQNEzSAYICQVVfeXFMTkRYVFl4TUVPMXhYcmdtUWFxM2lqRHJYV3FtaHdWVHRwel9HNUxwWmxnaS0wRWpZQ3pTb1dVcEkxSTl2ZkVmX1FtTEp0Z1FTbTV6ZHFTOVAtMnpxNHVQSkpNWGJMQXdsRURHYjF2SlMyZlJwZjVhZmZ5aWxaWHRKTkh0LVV1ekJfM2g0YzMzNUV0SFI1YWt5VktSZ3lvOVRGWFVKU0stOHdGWV9WbmU3NURjdHdKdlNUOUxXbEQ4RmJXbXh1c1RwdkVyS1FvajR5RUpmUUptWTdvUlc1aGxUbE85NEtrVXh5U3NKWlMzcG9raGNHbEJXeHdiMHl6VzdRUHNn?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-26T04:28:49+00:00"
+          },
+          {
             "title": "হাতে নয়, ইরানকে ভাতে মারার কৌশল ট্রাম্পের! আপাতত সামরিক অভিযানে নেই আমেরিকা, নেপথ্যে কী পরিকল্পনা? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX3ZaQ29yaUZURU1ndVBkSGI3UUNscWZsVkZKeURYYV9VdVlKQ0pheWdYLUJXRnl0dE4tMm1OenBIeU5zZUpFNTFNdEJ1RHZpTTRicFF6V0ZxMnlFMVkwR2lhS3RjS0FJVWZIb0ZmSVM2QVhob05xOEZfTXJfbVJZT2FXVXlHbzVYajhmVkJzdW5MV1hjZm1JakhDbE5oUklBcWt6ZzFYSFoycTJaWThvYkQxTVhqUXhCQmFHQjNka3l0c0Z6TDBDNTBDVdIB0AFBVV95cUxQRm96U1M0OXFGQ05HT09GUGNJSWUxUnhPazJLWFpicEFvRTh2LVBURmI3ZEVSOGhQanJtNWJiWnJySWJ6LURnYUdqR0dHblpNcENfcnpaRG5QelRxZmt4SjlNdlpiSjJEUk42Y19RUzdyYldCcHJIcVBUdW1pSHdjVnNaUTR3QVJZdzlORW56c05jY3Blb3U2Z1V5MUR4NzVyamtSV2g4NERkSjNISFE3YUVVU1otZkxSNlo0aXc3X1FFWHNtR3V6cExUcUw0a3BY?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "সমাজের নিচু তলার মানুষদের প্রতি অবজ্ঞার দৃষ্টিভঙ্গি যে কতটা ভুল, তা আবারও প্রমাণ করলেন এক ব্যক্তি যিনি তার কাজের মাধ্যমেই এক অনন্য দৃষ্টান্ত স্থাপন করেছেন। অর্থাভাবে যখন নিজের বাবার সৎকার করার মতো সামর্থ্য তার ছিল না, তখন এক পুলিশ সাব-ইনস্পেক্টর তাকে মানবিকতার দিশা দেখিয়েছিলেন। সেই কঠিন সময়ের লড়াই তাকে বুঝিয়ে দিয়েছিল যে, আত্মসম্মান এবং পরিশ্রমই মানুষের প্রকৃত পরিচয়। আশ্চর্যজনকভাবে, আজ সেই ব্যক্তি এতটাই সফল যে তিনি দামি গাড়ি হাঁকিয়ে চলাফেরা করেন, কিন্তু তবুও নিজের অতীতের পেশা অর্থাৎ রাস্তা পরিষ্কার করার কাজ তিনি আজও চালিয়ে যাচ্ছেন। তিনি বুঝিয়ে দিয়েছেন যে, কাজ কখনো ছোট বা বড় হয় না এবং পরিশ্রমের মাধ্যমেই যে কোনো মানুষ নিজের জীবনের লক্ষ্য অর্জন করতে পারে। তার এই কাহিনী স্থানীয় এলাকায় ব্যাপক প্রশংসিত হয়েছে এবং বহু মানুষের মনে प्रेरणा জাগিয়েছে। দামি গাড়ির চাকচিক্য বা সাফল্যের শিখরে পৌঁছেও মাটির কাছাকাছি থাকার এই শিক্ষা বর্তমান সমাজের জন্য একটি বড় বার্তা। মানুষ যখন তাকে ঝাড়ু হাতে রাস্তা পরিষ্কার করতে দেখেন, তখন তারা তার মানসিক দৃঢ়তা ও মাটির প্রতি দায়বদ্ধতার কথা ভেবে অবাক হন। তার এই জীবনের গল্প আমাদের শেখায় যে, অদম্য ইচ্ছা থাকলে কঠিন পরিস্থিতি জয় করা সম্ভব।",
             "published": "2026-08-26T02:18:24+00:00"
-          },
-          {
-            "title": "থাকেন পাহাড়-জঙ্গলে, চালান ফার্মস্টে, প্রথম ছবিতে সাফল্যের পর বলিউডের দিকে আর ফিরেও তাকাননি সুন্দরী 'অশরীরী'! - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRHBlbjFPRjREUFU0RjhaZ3Fkd1h4R2lyZHl1SVVialhmaWt3SjBTcTRhZWFrWDQ0NkVNV0c5WUlFY2VtbTljWHlrNXVmbjlEQkRDQTF2M082SGR6WXZ2WEp1R01iWW9iRW5vQlBrVElZNlN0ZWE0cU1Eb2xuRXZZTFIyNlNJNF9ld2NodkdsMGhHZkJLN0FYVjk4UzRZdzRoenI0eElOSEZsUjFlcUYwdEo1ZWVuajZicmgxeEtrRnA0MTdfT2NhRXhmQkNyclgwV3hJZF9TZmYyaWRHdUJQSU1QWWZYTkZXYTNsalJMUEFPeWxwaXN30gH8AUFVX3lxTE54WGZ4Ni01MEZ5S1JVTXVLQXBTdDUyaGdmUTRKTHROQ2M5OWZPY1B3UUo4T2lLcEF4dW53M2NHQkQ4WFIxYUozOFM5NjZqZFZYSW5Tb1NLQ3pDVFUtWGRRRzBvdk5mZldzMVEzS0RTNTlXSTRRcVRMVmdHNG9KcW9nT2Q4Z2QyTDJ2S1JZMl9RM08zMlQ5NFdTU0MzaDI4LWRQVllzY2NucDMyUWNPZUsxSzQzMHM1R2syUzY1Q2wyQWdVWjkzRUc2SUo0UEZHdGJXakdHcTJpc21pdGJVV2FzLWUxSExoemRMQTBBdHJQTWEyVllqUG9oOXZrQw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "বলিউডের চকচকে দুনিয়ায় যারা একবার পা রাখেন, তারা সাধারণত খ্যাতি ও গ্ল্যামারের মায়া কাটিয়ে বেরিয়ে আসতে পারেন না। কিন্তু এক অভিনেত্রী, যাকে দর্শক 'অশরীরী' চরিত্রের জন্য আজও মনে রেখেছেন, তিনি সাফল্যের চরম শিখরে পৌঁছেও অভিনয় জগতকে চিরতরে বিদায় জানিয়েছেন। প্রথম ছবিতে দারুণ সাফল্য পাওয়ার পরেও তিনি কেন অভিনয় থেকে মুখ ফিরিয়ে নিলেন, তা অনেকের কাছেই রহস্যের বিষয়। জানা গিয়েছে, তিনি এখন শহরের কোলাহল থেকে অনেক দূরে পাহাড় ও জঙ্গলের নির্জনতায় জীবন কাটাচ্ছেন। সেখানে তিনি অভিনয় নয়, বরং ফার্মস্টে পরিচালনার কাজে নিজেকে নিয়োজিত রেখেছেন। প্রকৃতির সান্নিধ্যে শান্ত জীবনযাপনই এখন তার প্রধান লক্ষ্য। তার এই অদ্ভুত সিদ্ধান্ত বলিউড প্রেমীদের অবাক করলেও, তিনি যে নিজের শর্তে জীবন কাটাতে ভালোবাসেন তা তার বর্তমান জীবনধারা থেকেই স্পষ্ট। অভিনয় জগতের কৃত্রিম জীবনের পরিবর্তে মাটির গন্ধ মাখা জীবন বেছে নিয়ে তিনি এক অদ্ভুত তৃপ্তি খুঁজে পেয়েছেন। তার এই সাহসিকতা এবং জীবনযাত্রার পরিবর্তন অনেকের কাছেই এক দৃষ্টান্ত হয়ে থাকবে। সাফল্যের চূড়ায় থেকেও সব বিসর্জন দিয়ে সাধারণ জীবনে ফিরে আসার এই প্রবণতা খুব কম মানুষের মধ্যেই দেখা যায়।",
-            "published": "2026-08-26T02:12:19+00:00"
-          },
-          {
-            "title": "তফসিলিদের নির্যাতনে উদ্বিগ্ন রাষ্ট্রপুঞ্জের কমিটি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWQ2akRCMnE0TklYMGxtdnBpWUdEZEdwRmhGQmdvVDNPTG1ZZGtZdlZ3U1JjWVY5OFVRWThkbmQyN3dMSzJQQjc3UHVncHQ3TTMyV0YtMTdCaUFRVHotTXFldk0yT0MyQUVwa3ZXWU96YVhvTC1vaUtOX2xKZ2xfeWx4c9IBgwFBVV95cUxOTWQ2akRCMnE0TklYMGxtdnBpWUdEZEdwRmhGQmdvVDNPTG1ZZGtZdlZ3U1JjWVY5OFVRWThkbmQyN3dMSzJQQjc3UHVncHQ3TTMyV0YtMTdCaUFRVHotTXFldk0yT0MyQUVwa3ZXWU96YVhvTC1vaUtOX2xKZ2xfeWx4cw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-26T01:54:23+00:00"
           }
         ]
       }
