@@ -1,14 +1,35 @@
 {
-  "updated_at": "2026-08-26T22:01:41.035665+00:00",
+  "updated_at": "2026-08-26T22:28:09.096700+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+            "published": "2026-08-26T22:03:45+00:00"
+          },
+          {
+            "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+            "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+            "published": "2026-08-26T22:02:18+00:00"
+          },
+          {
+            "title": "Nepal flood: For centuries, flood-hit corridor was key route of Himalayan trade",
+            "link": "https://timesofindia.indiatimes.com/world/south-asia/for-centuries-flood-hit-corridor-was-key-route-of-himalayan-trade/articleshow/133551114.cms",
+            "source": "Times of India",
+            "summary": "Long before trucks climbed Bhote Koshi valley, mule caravans carried rice and other grain from Nepal north to Gyirong, where traders exchanged them for Tibetan salt and wool. Salt, highly valued in Nepal’s middle hills, travelled farther south towards India. Newar merchant communities also settled in Tibetan trading towns. Nepalese troops later used the route during invasions of Tibet in 1788 and 1791 before Chinese…",
+            "published": "2026-08-27T03:30:55+05:30"
+          },
+          {
             "title": "Nvidia revenue doubles on continued AI demand",
             "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
+            "source": "BBC Business",
             "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
             "published": "2026-08-26T21:49:26+00:00"
           },
@@ -81,30 +102,16 @@
             "source": "NDTV",
             "summary": "Pakistan Hospital Fire: Witnesses described chaotic and harrowing scenes, including intense smoke and broken glass, a slow response from emergency services and guards reportedly preventing people from leaving the building.",
             "published": "2026-08-27T02:32:42+05:30"
-          },
-          {
-            "title": "UN panel report on minorities is politically motivated: Govt",
-            "link": "https://timesofindia.indiatimes.com/india/un-panel-report-on-minorities-is-politically-motivated-govt/articleshow/133550726.cms",
-            "source": "Times of India",
-            "summary": "UN Committee on the Elimination of Racial Discrimination had “highlighted” in a report the increase in law enforcement operations targeting “Rohingya, Bengali-speaking Muslims, migrants and asylum-seekers, particularly following the 2017 home affairs order and the April 2025 Pahalgam attack in Kashmir”. Ministry of external affairs spokesperson Randhir Jaiswal said, “India rejects any politically motivated, highly…",
-            "published": "2026-08-27T02:32:15+05:30"
-          },
-          {
-            "title": "3 lakh tonnes of refined sugar to enter market",
-            "link": "https://timesofindia.indiatimes.com/india/3-lakh-tonnes-of-refined-sugar-to-enter-market/articleshow/133550725.cms",
-            "source": "Times of India",
-            "summary": "Govt had allowed duty-free import of 10 lakh tonnes of raw sugar and also allowed the processors to sell some refined sugar, which was meant for export only, in the domestic market. Officials and industry insiders said at least 3 lakh tonnes of processed sugar could come into the market quickly. The subsequent import of 10 lakh tonnes of raw sugar will help tide over any supply issue. Meanwhile, the ex-mill price of…",
-            "published": "2026-08-27T02:30:14+05:30"
-          },
-          {
-            "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
-            "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US authorities seized two domains allegedly used to target sensitive government networks since 2018.",
-            "published": "2026-08-26T20:59:10+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Nepal flood: For centuries, flood-hit corridor was key route of Himalayan trade",
+            "link": "https://timesofindia.indiatimes.com/world/south-asia/for-centuries-flood-hit-corridor-was-key-route-of-himalayan-trade/articleshow/133551114.cms",
+            "source": "Times of India",
+            "summary": "Long before trucks climbed Bhote Koshi valley, mule caravans carried rice and other grain from Nepal north to Gyirong, where traders exchanged them for Tibetan salt and wool. Salt, highly valued in Nepal’s middle hills, travelled farther south towards India. Newar merchant communities also settled in Tibetan trading towns. Nepalese troops later used the route during invasions of Tibet in 1788 and 1791 before Chinese…",
+            "published": "2026-08-27T03:30:55+05:30"
+          },
           {
             "title": "160 killed in deadly Nepal deluge; at least 133 Indians among 844 missing",
             "link": "https://timesofindia.indiatimes.com/india/160-killed-in-deadly-nepal-deluge-at-least-133-indians-among-844-missing/articleshow/133550897.cms",
@@ -181,16 +188,16 @@
             "source": "The Hindu",
             "summary": "The fourth edition of TEDx, organised by the Indian Institute of Health Management Research (IIHMR) University, brought a new perspective on health, innovation, entrepreneurship, social impact, culture, and the arts",
             "published": "2026-08-27T02:02:31+05:30"
-          },
-          {
-            "title": "Supreme Court judge seeks transfer of Rajasthan High Court acting Chief Justice, CJI says allegations can’t be treated as a finding",
-            "link": "https://www.thehindu.com/news/national/supreme-court-judge-letters-transfer-of-rajasthan-hc-acting-chief-justice-cji-ignored-appeals/article71391629.ece",
-            "source": "The Hindu",
-            "summary": "CJI Surya Kant says that the matter is being examined at the appropriate level and that the process will take into account the material placed by Justice Mehta as well as the response of Justice Sharma",
-            "published": "2026-08-27T02:02:30+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+            "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+            "published": "2026-08-26T22:02:18+00:00"
+          },
           {
             "title": "Meta agrees to $17B settlement in landmark child-safety case",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
@@ -267,16 +274,23 @@
             "source": "Al Jazeera",
             "summary": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
             "published": "2026-08-26T19:31:34+00:00"
-          },
-          {
-            "title": "UNRWA chief condemns Israeli seizure of East Jerusalem training centre",
-            "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.",
-            "published": "2026-08-26T19:25:04+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+            "published": "2026-08-26T22:03:45+00:00"
+          },
+          {
+            "title": "Nvidia revenue doubles on continued AI demand",
+            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+            "published": "2026-08-26T21:49:26+00:00"
+          },
           {
             "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
             "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
@@ -346,20 +360,6 @@
             "source": "BBC Business",
             "summary": "The government is under pressure to support billpayers when domestic energy prices predicted to rise further.",
             "published": "2026-08-26T10:10:33+00:00"
-          },
-          {
-            "title": "Adani’s Cemindia is said to near up to $524 million share sale",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
-            "source": "Economic Times",
-            "summary": "Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointed ICICI Securities and SBI Capital Markets as advisers and has been meeting institutional investors ahead of the potential share sale.",
-            "published": "2026-08-26T15:16:36+05:30"
-          },
-          {
-            "title": "Energy prices to rise to three-year high",
-            "link": "https://www.bbc.co.uk/news/videos/cly7nm72ne0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Energy bills for millions of households are expected to rise this winter to the highest level for three years",
-            "published": "2026-08-26T09:45:46+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+            "published": "2026-08-26T22:03:45+00:00"
+          },
+          {
             "title": "Nvidia revenue doubles on continued AI demand",
             "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Bitwise has introduced three Automated Token Portfolios that let eligible investors outside the US copy professionally managed stock portfolio models using Coinbase’s tokenised US stocks. The portfolios can be held in self-custody wallets, while Glider handles trades and rebalancing. Bitwise will charge a 0.15 percent methodology fee, excluding transaction and Glider fees.",
             "published": "2026-08-26T17:35:56+05:30"
-          },
-          {
-            "title": "Oppo Find X10 Series Display Features Leaked Again Ahead of Expected September Launch",
-            "link": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-series-display-features-expected-launch-weibo-leak-11961772",
-            "source": "Gadgets 360",
-            "summary": "Oppo Find X10 series is tipped to use a new Tianma OLED panel when it launches in China in September. The display could offer 2,000 nits of global brightness, narrower four-sided bezels and 95 percent BT.2020 colour gamut coverage. It is also expected to use N1 luminescent material and produce 5.5 percent beneficial red light. The panel is linked to Tianma’s Tiangong Screen 2.0 technology, which supports 0.01-nit…",
-            "published": "2026-08-26T17:34:59+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Creativity: సృజనను మేల్కొలపండి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUtralNBZEdxenRWWDNndUZneGxJdnFlYlpCMXdrdi1LclhmblJxTmhPYU9MbzZXNVJJVkNsQUJlOG9kUzdIdjZKR3lwc2FqYlRORFJQeVlSSngxOW1rUWdNX0tlc2RmTnJhS2lXZGdicjUySjhLd19Ba3Q4anZ2ZWlBMXhFa2dN0gGIAUFVX3lxTFBlS2tqU0FkR3F6dFZYM2d1Rmd4bEl2cWViWkIxd2t2LUtyWGZuUnFOaE9hT0xvNlc1UklWQ2xBQmU4b2RTN0h2NkpHeXBzYWpiVE5EUlB5WVJKeDE5bWtRZ01fS2VzZGZOcmFLaVdkZ2JyNTJKOEt3X0FrdDhqdnZlaUExeEVrZ00?oc=5",
+            "title": "IND vs SL: అదిగో విజయం.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3VrU2Y2LWNiLTJtZE5hbVIwb2NfeHZTRU4tY1dBN3B1WE90b21uYkxFeVlfeGlZRUVfbTltYWg2Q19NS3FjdWZPZjY1eFFRSndfNE12UmFvVlZVMEpvNldNQmxNRjVvRVFlUVViaUpYT2VoMEFqOEdYX2Y0US1TS1ZXbXUtMGJYajd1aElhNXd3Z19pOW1nbWk5b09RaWY4VEhyTtIBpAFBVV95cUxQQ3VrU2Y2LWNiLTJtZE5hbVIwb2NfeHZTRU4tY1dBN3B1WE90b21uYkxFeVlfeGlZRUVfbTltYWg2Q19NS3FjdWZPZjY1eFFRSndfNE12UmFvVlZVMEpvNldNQmxNRjVvRVFlUVViaUpYT2VoMEFqOEdYX2Y0US1TS1ZXbXUtMGJYajd1aElhNXd3Z19pOW1nbWk5b09RaWY4VEhyTg?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-26T20:45:15+00:00"
+            "published": "2026-08-26T21:50:00+00:00"
           },
           {
             "title": "India- Afghanistan: కాబూల్‌లో కొత్త సమీకరణాలు - Eenadu",
@@ -1084,13 +1084,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-26T20:18:04+00:00"
-          },
-          {
-            "title": "August 25 Scam: ‘25 ఆగస్టు 2026 స్కామ్‌’.. ఇలా కూడా మోసం చేయొచ్చా.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT0hOVmd2a21vS2o5cU1OSkdYTmhVYWVOalZHVkRUb255U19pRUxlVVlMdHFtelJ6cnJQSTZWNTdQU09OMkxGSzdwRG1ZcUhYT2hVMkNfMHFDUHlRSkRvcmFwVkUwMXBrLTZubjN0UUlLdG54ejZ5U1owZVM3RFpKY1lhN1VOLTRCWnhTUGY2cXdaVmEzc3ZuRnZBN01ra3YzWWZ3blJXRzFKTmVtVTNtQzlBSFk5MUppS1JmNXpBMGh0WGFHQmJIZkpPdHUyZEx0UTAtTHNB0gHWAUFVX3lxTE9PSE5WZ3ZrbW9LajlxTU5KR1hOaFVhZU5qVkdWRFRvbnlTX2lFTGVVWUx0cW16UnpyclBJNlY1N1BTT04yTEZLN3BEbVlxSFhPaFUyQ18wcUNQeVFKRG9yYXBWRTAxcGstNm5uM3RRSUt0bnh6NnlTWjBlUzdEWkpjWWE3VU4tNEJaeFNQZjZxd1pWYTNzdm5GdkE3TWtrdjNZZnduUldHMUpOZW1VM21DOUFIWTkxSmlLUmY1ekEwaHRYYUdCYkhmSk90dTJkTHRRMC1Mc0E?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-26T18:54:00+00:00"
           },
           {
             "title": "నగరంలో కొత్త ట్రెండ్.. 'హైబ్రిడ్ సైబర్ ఫ్రాడ్'.. ప్రజలు అప్రమత్తంగా ఉండాలి.. సీపీ సజ్జనార్ హెచ్చరిక‌లు..",
@@ -1154,6 +1147,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-26T20:32:45+05:30"
+          },
+          {
+            "title": "El Nino: ఎల్ నినోపై జగన్ కు సర్కార్ కౌంటర్..! వర్షాల్లేకపోయినా ఖరీఫ్ సాగు..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-rejects-jagan-s-el-nino-charge-says-kharif-farming-continues-despite-rainfall-deficit-503451.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-26T20:04:29+05:30"
           }
         ],
         "Entertainment": [
