@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-28T22:31:28.537595+00:00",
+  "updated_at": "2026-08-28T23:01:34.881910+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+            "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "It marked the British singer's first UK festival gig since releasing her latest album Music, Fashion, Film.",
+            "published": "2026-08-28T22:42:54+00:00"
+          },
           {
             "title": "Israeli strike kills three Palestinians in Jenin",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
@@ -95,13 +102,6 @@
             "source": "BBC World",
             "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
             "published": "2026-08-28T21:17:54+00:00"
-          },
-          {
-            "title": "India has 7,500 Himalayan glacial lakes, 200 are high risk amid flood fears",
-            "link": "https://timesofindia.indiatimes.com/india/flash-floods-put-focus-on-indias-glacial-lakes/articleshow/133599814.cms",
-            "source": "Times of India",
-            "summary": "Nepal's alarming glacial lake outburst flood serves as a wake-up call for India, which is home to about 200 vulnerable glacial lakes in the Himalayas. The GLOF incident in Sikkim resulted in severe damage, highlighting the urgency of proactive measures. In response, the Indian government has launched a National GLOF Risk Mitigation Programme focused on thorough assessments, continuous monitoring, effective early…",
-            "published": "2026-08-29T02:46:45+05:30"
           }
         ],
         "India": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+            "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "It marked the British singer's first UK festival gig since releasing her latest album Music, Fashion, Film.",
+            "published": "2026-08-28T22:42:54+00:00"
+          },
+          {
             "title": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40",
             "link": "https://www.bbc.co.uk/news/articles/c8d3ml106j8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Matt Brittin succeeded Tim Davie as boss of the BBC in May.",
             "published": "2026-08-27T17:09:37+00:00"
-          },
-          {
-            "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-            "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
-            "published": "2026-08-27T16:00:12+00:00"
           }
         ]
       }
@@ -1072,11 +1072,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "CREDAI: అమ్మకానికి 1.42 లక్షల ఇళ్లు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOell6OTVJS3FvakJOTWF5S1V1SmV3aGVRNzlxbnRBWFdzY2pnWDNNTU56akRQMURsODJFanNYTHdwenp6emd5QXVoYmtwUjdybmh6Zy1VcGhvTlpBcUFRVWRpQ1ZGRXhvZEZYWjVpM19YUzAyZlNUQzIxMEZtLVdrYTlWTUM2OVN2VDMyYnYzM3Zjb0FFZG9vZWVTRVlCMVczZWowekRMYzgwalZsVjl4TFpSQzE0RDhpbzJuY1dEOFM5QnlvOW1kSk82SUFsZ9IBzgFBVV95cUxOell6OTVJS3FvakJOTWF5S1V1SmV3aGVRNzlxbnRBWFdzY2pnWDNNTU56akRQMURsODJFanNYTHdwenp6emd5QXVoYmtwUjdybmh6Zy1VcGhvTlpBcUFRVWRpQ1ZGRXhvZEZYWjVpM19YUzAyZlNUQzIxMEZtLVdrYTlWTUM2OVN2VDMyYnYzM3Zjb0FFZG9vZWVTRVlCMVczZWowekRMYzgwalZsVjl4TFpSQzE0RDhpbzJuY1dEOFM5QnlvOW1kSk82SUFsZw?oc=5",
+            "title": "Sandhya Devanathan: మెటా నుంచి ఓపెన్‌ ఏఐకు సంధ్య దేవనాథన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU45NGlULVRnclFHa01yV2VlTXkydzVHT2RCZW1DOF9xQ3dBWk92Mkh4QkZ2SlJlZGYwbVJpa3o4Z05GSUkwakV0cTFUTFQ0NDFYUUlEUVo4OEp6YkdMU24xSzhKSF83MWdnWXZpTTYtQ1ZVa0ZDMThKZW5MVG1uc2dvTHlqRk5hbm5Ub2RFVmdyRkZmS191MG9ISkFMcFR5SHdGUE8yeHR6U0g4Z1NGVXctMi1LbUJuN1lNMUZ2Qm03VDl0eEHSAcYBQVVfeXFMT2VOOTRpVC1UZ3JRR2tNcldlZU15Mnc1R09kQmVtQzhfcUN3QVpPdjJIeEJGdkpSZWRmMG1SaWt6OGdORklJMGpFdHExVExUNDQxWFFJRFFaODhKemJHTFNuMUs4SkhfNzFnZ1l2aU02LUNWVWtGQzE4SmVuTFRtbnNnb0x5akZOYW5uVG9kRVZnckZGZktfdTBvSEpBTHBUeUh3RlBPMnh0elNIOGdTRlV3LTItS21CbjdZTTFGdkJtN1Q5dHhB?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-28T21:19:05+00:00"
+            "published": "2026-08-28T22:41:12+00:00"
+          },
+          {
+            "title": "Cartoons News, Headlines, Breaking News, Articles1 - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51UnBGaDk0Y3dmOWY5d0lkSnZPeUZ3SGczVTVrUUFzSG4yRXljY1Y5OFBaT0lRSWRVcHY2eFIwUXZWMFpPMFVKUDlEY3AzQ19JZkkxTlZMWW9YQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-28T22:37:40+00:00"
+          },
+          {
+            "title": "తెరపై.. తెలుగు వైభవం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wazdQMVNlNVVhaTFjRFRuY2MxZGVNNUVoVllqT2p0X214Q2o4OEp4NFJhaFloelFlLS1IQk9XT0NydFR3Z2Q1YzA4UUdyRVBnVlR5ODdNdHVVTUNHWjNOMHVhcUhPMzZpRHBmTnVmdmNRb1NKY1E0MXVGWlg?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-28T21:14:25+00:00"
           },
           {
             "title": "B Nagendra Quits: కర్ణాటక మంత్రి నాగేంద్ర రెండోసారీ రాజీనామా - Eenadu",
@@ -1114,6 +1128,13 @@
             "published": "2026-08-28T23:45:13+05:30"
           },
           {
+            "title": "Anantapur: దేశంలోనే తొలి స్మార్ట్ వర్సిటీ.. అనంతపురం సెంట్రల్ యూనివర్సిటీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnQzODY3N3VKYlEzRTg2M3Y4WVlMOUl5dWFpSVktZWF2N3dzWFhHR3FtUUhWRzN1enA0RXJvMzF5QXdDWXp4bDBJZGlNb2JsYXJBdFdzbFd6bUZBb2dXbmczU2UwUFV2YjYxLWZwMHdiQ0p0VkFadHE4cHdJX2ktdzM4cmZqb0V0eUF4NtIBjAFBVV95cUxNcnQzODY3N3VKYlEzRTg2M3Y4WVlMOUl5dWFpSVktZWF2N3dzWFhHR3FtUUhWRzN1enA0RXJvMzF5QXdDWXp4bDBJZGlNb2JsYXJBdFdzbFd6bUZBb2dXbmczU2UwUFV2YjYxLWZwMHdiQ0p0VkFadHE4cHdJX2ktdzM4cmZqb0V0eUF4Ng?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-28T18:12:15+00:00"
+          },
+          {
             "title": "తెలంగాణలో భూములకు రికార్డు ధర.. రాయదుర్గంలో ఎకరం రూ. 269 కోట్లు",
             "link": "https://telugu.oneindia.com/news/telangana/telangana-land-record-land-prices-in-telangana-acre-fetches-269-crore-in-tsiic-auction-at-raidurg-503791.html",
             "source": "Oneindia Telugu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-28T16:30:33+00:00"
-          },
-          {
-            "title": "యష్ 'టాక్సిక్‌' పై అన్నామలై షాకింగ్ రివ్యూ..!",
-            "link": "https://telugu.oneindia.com/news/india/annamalai-review-on-rocking-star-yashs-toxic-lashes-out-over-the-plight-of-women-in-the-country-503789.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-28T22:00:03+05:30"
-          },
-          {
-            "title": "karimnagar: డ్రైవర్‌గా విధుల్లో తమ్ముడు.. బస్సులోనే రాఖీ కట్టిన సోదరి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTC1xMjBLc1hRck1vdjRXX1lZNV83SEd6QzhXZHM0TjNQUE9mOGdQa3I2WE91SzFfbElkYkFBQk51bVdHVE9VNmdEZEVBWlE3dEdzdjRlTklRVjg2OFdyM1BkZVlTRV9XOFIxRGpBdzM1dnA0bkxoWFdXcjZpNUh2Ym5ydmwxX0REb0xlMnlneHJJQnBjT242UFZkcW5WZTRRNE1rR2lsanZ0NFcxRU1HTWZ30gGyAUFVX3lxTFBMLXEyMEtzWFFyTW92NFdfWVk1XzdIR3pDOFdkczROM1BQT2Y4Z1BrcjZYT3VLMV9sSWRiQUFCTnVtV0dUT1U2Z0RkRUFaUTd0R3N2NGVOSVFWODY4V3IzUGRlWVNFX1c4UjFEakF3MzV2cDRuTGhYV1dyNmk1SHZibnJ2bDFfRERvTGUyeWd4cklCcGNPbjZQVmRxblZlNFE0TWtHaWxqdnQ0VzFFTUdNZnc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-28T16:25:23+00:00"
-          },
-          {
-            "title": "అదృష్టం అంటే ఆ చిన్నారిదే.. లక్కీ డ్రా తీసిన చిన్నోడి కుటుంబానికే ఇల్లు..",
-            "link": "https://telugu.oneindia.com/news/telangana/indirammaillu-little-child-very-boy-who-picked-the-winning-slip-saw-the-house-go-to-his-own-family-503787.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-28T21:18:21+05:30"
           }
         ],
         "Entertainment": [
