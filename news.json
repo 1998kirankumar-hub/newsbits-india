@@ -1,111 +1,167 @@
 {
-  "updated_at": "2026-08-30T06:01:35.538206+00:00",
+  "updated_at": "2026-08-30T06:31:25.375890+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "One dead and five injured in Swiss shooting, police say",
+            "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
+            "published": "2026-08-30T06:27:12+00:00"
+          },
+          {
+            "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+            "link": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
+            "source": "The Hindu",
+            "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
+            "published": "2026-08-30T11:49:25+05:30"
+          },
+          {
+            "title": "70 rounds of fire, 3,000-round endurance: How India turned a Russian AK-203 into its own ‘Sher’",
+            "link": "https://timesofindia.indiatimes.com/defence/news/70-rounds-of-fire-3000-round-endurance-how-india-turned-a-russian-ak-203-into-its-own-sher/articleshow/133623903.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-30T11:38:11+05:30"
+          },
+          {
+            "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
+            "source": "The Hindu",
+            "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
+            "published": "2026-08-30T11:37:12+05:30"
+          },
+          {
+            "title": "‘Do you feel you are a lord?’: Bombay HC rebukes Tukaram Mundhe-led FDA over crackdown on MCA eateries",
+            "link": "https://www.hindustantimes.com/india-news/bombay-hc-rebukes-tukaram-mundhe-led-fda-over-mca-eateries-do-you-feel-you-are-a-lord-101788067049472.html",
+            "source": "Hindustan Times",
+            "summary": "Following the court’s remarks, the Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of the five restaurants.",
+            "published": "2026-08-30T11:32:06+05:30"
+          },
+          {
+            "title": "\"This Is Such A Mess\": Tearful Roger Federer Breaks Down During Tennis Hall Of Fame Speech",
+            "link": "https://sports.ndtv.com/tennis/this-is-such-a-mess-tearful-roger-federer-breaks-down-during-tennis-hall-of-fame-speech-11977152#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Roger Federer became emotional as he was inducted into the International Tennis Hall of Fame.",
+            "published": "2026-08-30T11:28:39+05:30"
+          },
+          {
+            "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+            "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
+            "published": "2026-08-30T05:58:28+00:00"
+          },
+          {
+            "title": "Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh",
+            "link": "https://www.hindustantimes.com/india-news/army-cheetal-carries-out-evacuation-of-injured-mountaineer-at-18-600-ft-in-ladakh-101788069249630.html",
+            "source": "Hindustan Times",
+            "summary": "Army pilots land a Cheetal helicopter at 18,600 ft on a treacherous Ladakh slope to evacuate an injured JCO near the Nun-Kun peaks.",
+            "published": "2026-08-30T11:24:09+05:30"
+          },
+          {
+            "title": "Man throws acid on ex-fiancee, her sister after marriage called off in UP",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/up-horror-man-throws-acid-on-ex-fiancee-sister-after-marriage-called-off-over-drug-addiction/articleshow/133623851.cms",
+            "source": "Times of India",
+            "summary": "A disturbing event unfolded when Harsh Bhati reportedly hurled acid at his former fiancée and her sibling after their engagement was dissolved. Family members of the victims managed to detain him before calling the police. The alliance was called off upon discovering his alleged substance abuse issues. The sisters suffered serious injuries and are currently hospitalized, as law enforcement continues to probe the…",
+            "published": "2026-08-30T11:23:51+05:30"
+          },
+          {
+            "title": "FPIs turn buyers for second straight month, invest Rs 30,919 cr in August",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-for-second-straight-month-invest-rs-30919-cr-in-august/articleshow/133624069.cms",
+            "source": "Economic Times",
+            "summary": "During August, foreign portfolio investors added over Rs 30,000 crore to Indian equities, showcasing the ongoing trend of substantial market inflows for the second month in a row. This surge can be attributed to enhancing corporate earnings and a stable economic environment. Furthermore, easing global geopolitical tensions have aided investor optimism, yet uncertainties surrounding crude oil prices and US bond…",
+            "published": "2026-08-30T11:23:12+05:30"
+          },
+          {
+            "title": "7 of top 10 firms shed Rs 1.13 lakh cr in m-cap; Airtel, Reliance worst hit",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-firms-shed-rs-1-13-lakh-cr-in-m-cap-airtel-reliance-worst-hit/articleshow/133624042.cms",
+            "source": "Economic Times",
+            "summary": "Last week observed a notable decline in market valuations, with seven out of the ten top firms witnessing a reduction of Rs 1.13 lakh crore. The greatest impact was felt by Bharti Airtel and Reliance Industries, linked to concerns over global interest rates and geopolitical instability. Nonetheless, there was robust buying in IT stocks, which facilitated a recovery in the market on Friday.",
+            "published": "2026-08-30T11:21:00+05:30"
+          },
+          {
+            "title": "High-altitude, higher courage: How Indian Army aviation pilots executed rescue at 18,600 feet near Nun Kun | WATCH",
+            "link": "https://www.hindustantimes.com/india-news/indian-army-aviation-pilots-execute-rescue-at-18600-feet-near-nun-kun-watch-101788063923774.html",
+            "source": "Hindustan Times",
+            "summary": "In a rescue mission at 18,600 ft near Nun Kun, Indian Army Aviation pilots evacuated a casualty from a challenging slope with no landing space, as per the post.",
+            "published": "2026-08-30T11:17:49+05:30"
+          },
+          {
+            "title": "UP's Chitrakoot on high alert as Mandakini River overflows; drones deployed",
+            "link": "https://www.hindustantimes.com/india-news/ups-chitrakoot-on-high-alert-as-mandakini-river-overflows-drones-deployed-101788067143593.html",
+            "source": "Hindustan Times",
+            "summary": "According to the Chitrakoot Police, drone cameras are being utilised to monitor the flood-affected areas and assess the situation on the ground.",
+            "published": "2026-08-30T11:16:36+05:30"
+          },
+          {
             "title": "Russia turns to India for petrol as Ukraine attacks disrupt fuel supplies",
             "link": "https://timesofindia.indiatimes.com/business/india-business/india-becomes-key-petrol-supplier-to-russia-amid-attacks-on-refineries-fuel-shortages/articleshow/133623733.cms",
             "source": "Times of India",
             "summary": "India's role as a major gasoline supplier to Russia has surged recently, particularly after Ukrainian drone strikes impacted Russian refinery activities. In August, Russian gasoline imports hit unprecedented levels, with India emerging as a central contributor. Much of this gasoline was transported using sanctioned ships and involved intricate transfer practices. Increased crude oil imports from Russia by India are…",
             "published": "2026-08-30T11:11:05+05:30"
-          },
-          {
-            "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
-            "source": "The Hindu",
-            "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
-            "published": "2026-08-30T11:10:21+05:30"
-          },
-          {
-            "title": "Several injured after shots fired at event in Switzerland's Aarau",
-            "link": "https://timesofindia.indiatimes.com/world/europe/several-injured-after-shots-fired-at-event-in-switzerlands-aarau/articleshow/133623516.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-30T11:04:24+05:30"
-          },
-          {
-            "title": "Nasa Administrator joins Elon Musk &amp; Sundar Pichai in their Space data center plans",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/nasa-administrator-jared-isaacman-joins-elon-musk-and-sundar-pichai-in-their-space-data-center-plans-says-lets-take-our-data-centers-to-/articleshow/133623759.cms",
-            "source": "Times of India",
-            "summary": "NASA Administrator Jared Isaacman supports moving data centers into Earth's orbit. This initiative aims to utilize solar energy and reduce terrestrial environmental impacts. Elon Musk and Sundar Pichai also champion this forward-thinking space-based data center concept. Public opposition to ground-based facilities is growing due to economic and environmental issues. Companies are exploring these \"moonshot\" ideas for…",
-            "published": "2026-08-30T11:03:10+05:30"
-          },
-          {
-            "title": "Trinbago Knight Riders retire Dwayne Bravo's No. 47 jersey",
-            "link": "https://www.cricinfo.com/ci/content/story/1552197.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Dwayne Bravo won the CPL title five times as a player and then as head coach of Trinbago Knight Riders last season",
-            "published": "2026-08-30T05:29:31+00:00"
-          },
-          {
-            "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-            "link": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
-            "source": "The Hindu",
-            "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
-            "published": "2026-08-30T10:54:43+05:30"
-          },
-          {
-            "title": "'Whatever Sonia Gandhi writes might affect BJP's health: Congress' Bhupesh Baghel on row over memoir publication",
-            "link": "https://www.hindustantimes.com/india-news/whatever-sonia-gandhi-writes-might-affect-bjps-health-congress-bhupesh-baghel-on-row-over-memoir-publication-101788066508695.html",
-            "source": "Hindustan Times",
-            "summary": "Congress leader Bhupesh Baghel's remarks came amid a controversy over the publication of Sonia Gandhi's memoir ‘Belonging’.",
-            "published": "2026-08-30T10:53:56+05:30"
-          },
-          {
-            "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
-            "link": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
-            "source": "The Hindu",
-            "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
-            "published": "2026-08-30T10:46:01+05:30"
-          },
-          {
-            "title": "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
-            "link": "https://www.hindustantimes.com/india-news/manipur-set-to-get-5th-chief-secretary-in-3-years-as-puneet-goel-retires-101788065085857.html",
-            "source": "Hindustan Times",
-            "summary": "Though the government is yet to announce the new chief secretary, people familiar with the matter said that Rajeev Singh Thakur was likely to be appointed.",
-            "published": "2026-08-30T10:41:41+05:30"
-          },
-          {
-            "title": "4 days under debris, still alive: How a 97-year-old woman survived Nepal floods",
-            "link": "https://timesofindia.indiatimes.com/world/south-asia/4-days-under-debris-still-alive-how-a-97-year-old-woman-survived-nepal-floods/articleshow/133623429.cms",
-            "source": "Times of India",
-            "summary": "In an inspiring tale of survival, a 97-year-old woman managed to endure four harrowing days trapped in rubble after the catastrophic flash floods in Nepal. Rescue teams are still combing through the obliterated regions for additional survivors. Although some individuals fled to safety, many families are left mourning their missing members and the devastation of their homes, revealing a bittersweet mix of hope and…",
-            "published": "2026-08-30T10:41:35+05:30"
-          },
-          {
-            "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
-            "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-            "published": "2026-08-30T05:09:11+00:00"
-          },
-          {
-            "title": "Watch: PM Modi takes part in yoga session during Uzbekistan visit",
-            "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-takes-part-in-yoga-session-during-uzbekistan-visit/articleshow/133623338.cms",
-            "source": "Times of India",
-            "summary": "Prime Minister Narendra Modi joined a yoga session in Tashkent on Sunday, where he interacted with attendees and posed for a memorable group photo. Uzbek President Shavkat Mirziyoyev extended a warm welcome to the Prime Minister. Delegation-level discussions are planned to focus on trade and defense partnerships, ahead of Modi's participation in the upcoming SCO Summit in Bishkek.",
-            "published": "2026-08-30T10:36:52+05:30"
-          },
-          {
-            "title": "Kazakhstan set to receive Russian Su-57 fighter jets within two years: Reports",
-            "link": "https://timesofindia.indiatimes.com/defence/international/kazakhstan-set-to-receive-russian-su-57-fighter-jets-within-two-years-reports/articleshow/133623268.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-30T10:31:16+05:30"
-          },
-          {
-            "title": "WhatsApp chat used to send cash for crime and extremism",
-            "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
-            "published": "2026-08-30T04:59:56+00:00"
           }
         ],
         "India": [
           {
+            "title": "India emerges as key petrol supplier to Russia as refinery attacks disrupt fuel supplies",
+            "link": "https://www.thehindu.com/news/international/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407088.ece",
+            "source": "The Hindu",
+            "summary": "Since 2022, India has pivoted towards Russia to meet the bulk of its crude oil needs — raw material for making fuels like petrol and diesel",
+            "published": "2026-08-30T11:49:25+05:30"
+          },
+          {
+            "title": "70 rounds of fire, 3,000-round endurance: How India turned a Russian AK-203 into its own ‘Sher’",
+            "link": "https://timesofindia.indiatimes.com/defence/news/70-rounds-of-fire-3000-round-endurance-how-india-turned-a-russian-ak-203-into-its-own-sher/articleshow/133623903.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-30T11:38:11+05:30"
+          },
+          {
+            "title": "Bihar Congress leaders plan Delhi protest on Sept. 8 seeking removal of in-charge, State chief",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-congress-leaders-plan-delhi-protest-on-sept-8-seeking-removal-of-in-charge-state-chief/article71407082.ece",
+            "source": "The Hindu",
+            "summary": "In a letter dated August 15, the workers alleged “disorder” in the Bihar Pradesh Congress Committee (BPCC) during the Assembly election and accused the party’s in-charge of acting arbitrarily in the distribution of tickets.",
+            "published": "2026-08-30T11:37:12+05:30"
+          },
+          {
+            "title": "‘Do you feel you are a lord?’: Bombay HC rebukes Tukaram Mundhe-led FDA over crackdown on MCA eateries",
+            "link": "https://www.hindustantimes.com/india-news/bombay-hc-rebukes-tukaram-mundhe-led-fda-over-mca-eateries-do-you-feel-you-are-a-lord-101788067049472.html",
+            "source": "Hindustan Times",
+            "summary": "Following the court’s remarks, the Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of the five restaurants.",
+            "published": "2026-08-30T11:32:06+05:30"
+          },
+          {
+            "title": "Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh",
+            "link": "https://www.hindustantimes.com/india-news/army-cheetal-carries-out-evacuation-of-injured-mountaineer-at-18-600-ft-in-ladakh-101788069249630.html",
+            "source": "Hindustan Times",
+            "summary": "Army pilots land a Cheetal helicopter at 18,600 ft on a treacherous Ladakh slope to evacuate an injured JCO near the Nun-Kun peaks.",
+            "published": "2026-08-30T11:24:09+05:30"
+          },
+          {
+            "title": "Man throws acid on ex-fiancee, her sister after marriage called off in UP",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/up-horror-man-throws-acid-on-ex-fiancee-sister-after-marriage-called-off-over-drug-addiction/articleshow/133623851.cms",
+            "source": "Times of India",
+            "summary": "A disturbing event unfolded when Harsh Bhati reportedly hurled acid at his former fiancée and her sibling after their engagement was dissolved. Family members of the victims managed to detain him before calling the police. The alliance was called off upon discovering his alleged substance abuse issues. The sisters suffered serious injuries and are currently hospitalized, as law enforcement continues to probe the…",
+            "published": "2026-08-30T11:23:51+05:30"
+          },
+          {
+            "title": "High-altitude, higher courage: How Indian Army aviation pilots executed rescue at 18,600 feet near Nun Kun | WATCH",
+            "link": "https://www.hindustantimes.com/india-news/indian-army-aviation-pilots-execute-rescue-at-18600-feet-near-nun-kun-watch-101788063923774.html",
+            "source": "Hindustan Times",
+            "summary": "In a rescue mission at 18,600 ft near Nun Kun, Indian Army Aviation pilots evacuated a casualty from a challenging slope with no landing space, as per the post.",
+            "published": "2026-08-30T11:17:49+05:30"
+          },
+          {
+            "title": "UP's Chitrakoot on high alert as Mandakini River overflows; drones deployed",
+            "link": "https://www.hindustantimes.com/india-news/ups-chitrakoot-on-high-alert-as-mandakini-river-overflows-drones-deployed-101788067143593.html",
+            "source": "Hindustan Times",
+            "summary": "According to the Chitrakoot Police, drone cameras are being utilised to monitor the flood-affected areas and assess the situation on the ground.",
+            "published": "2026-08-30T11:16:36+05:30"
+          },
+          {
             "title": "Russia turns to India for petrol as Ukraine attacks disrupt fuel supplies",
             "link": "https://timesofindia.indiatimes.com/business/india-business/india-becomes-key-petrol-supplier-to-russia-amid-attacks-on-refineries-fuel-shortages/articleshow/133623733.cms",
             "source": "Times of India",
@@ -132,65 +188,23 @@
             "source": "Times of India",
             "summary": "NASA Administrator Jared Isaacman supports moving data centers into Earth's orbit. This initiative aims to utilize solar energy and reduce terrestrial environmental impacts. Elon Musk and Sundar Pichai also champion this forward-thinking space-based data center concept. Public opposition to ground-based facilities is growing due to economic and environmental issues. Companies are exploring these \"moonshot\" ideas for…",
             "published": "2026-08-30T11:03:10+05:30"
-          },
-          {
-            "title": "BJP brainstorming on Gen Z outreach concludes cohort is not ‘homogenous’",
-            "link": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
-            "source": "The Hindu",
-            "summary": "Sources said some leaders in the meeting suggested avoiding the term “Gen Z” and instead using the broader term “youth” or references to specific age groups",
-            "published": "2026-08-30T10:54:43+05:30"
-          },
-          {
-            "title": "'Whatever Sonia Gandhi writes might affect BJP's health: Congress' Bhupesh Baghel on row over memoir publication",
-            "link": "https://www.hindustantimes.com/india-news/whatever-sonia-gandhi-writes-might-affect-bjps-health-congress-bhupesh-baghel-on-row-over-memoir-publication-101788066508695.html",
-            "source": "Hindustan Times",
-            "summary": "Congress leader Bhupesh Baghel's remarks came amid a controversy over the publication of Sonia Gandhi's memoir ‘Belonging’.",
-            "published": "2026-08-30T10:53:56+05:30"
-          },
-          {
-            "title": "AAP leader Gurpreet Gopi shot dead in Punjab’s Ferozepur",
-            "link": "https://www.thehindu.com/news/national/punjab/aap-leader-gurpreet-gopi-shot-dead-in-punjabs-ferozepur/article71406995.ece",
-            "source": "The Hindu",
-            "summary": "The four car-borne assailants got down from their vehicle in the main bazaar of Mamdot in Ferozepur on Saturday (August 29) evening and opened fire towards the car in which the 45-year-old Singh was travelling",
-            "published": "2026-08-30T10:46:01+05:30"
-          },
-          {
-            "title": "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
-            "link": "https://www.hindustantimes.com/india-news/manipur-set-to-get-5th-chief-secretary-in-3-years-as-puneet-goel-retires-101788065085857.html",
-            "source": "Hindustan Times",
-            "summary": "Though the government is yet to announce the new chief secretary, people familiar with the matter said that Rajeev Singh Thakur was likely to be appointed.",
-            "published": "2026-08-30T10:41:41+05:30"
-          },
-          {
-            "title": "4 days under debris, still alive: How a 97-year-old woman survived Nepal floods",
-            "link": "https://timesofindia.indiatimes.com/world/south-asia/4-days-under-debris-still-alive-how-a-97-year-old-woman-survived-nepal-floods/articleshow/133623429.cms",
-            "source": "Times of India",
-            "summary": "In an inspiring tale of survival, a 97-year-old woman managed to endure four harrowing days trapped in rubble after the catastrophic flash floods in Nepal. Rescue teams are still combing through the obliterated regions for additional survivors. Although some individuals fled to safety, many families are left mourning their missing members and the devastation of their homes, revealing a bittersweet mix of hope and…",
-            "published": "2026-08-30T10:41:35+05:30"
-          },
-          {
-            "title": "Watch: PM Modi takes part in yoga session during Uzbekistan visit",
-            "link": "https://timesofindia.indiatimes.com/india/watch-pm-modi-takes-part-in-yoga-session-during-uzbekistan-visit/articleshow/133623338.cms",
-            "source": "Times of India",
-            "summary": "Prime Minister Narendra Modi joined a yoga session in Tashkent on Sunday, where he interacted with attendees and posed for a memorable group photo. Uzbek President Shavkat Mirziyoyev extended a warm welcome to the Prime Minister. Delegation-level discussions are planned to focus on trade and defense partnerships, ahead of Modi's participation in the upcoming SCO Summit in Bishkek.",
-            "published": "2026-08-30T10:36:52+05:30"
-          },
-          {
-            "title": "Kazakhstan set to receive Russian Su-57 fighter jets within two years: Reports",
-            "link": "https://timesofindia.indiatimes.com/defence/international/kazakhstan-set-to-receive-russian-su-57-fighter-jets-within-two-years-reports/articleshow/133623268.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-30T10:31:16+05:30"
-          },
-          {
-            "title": "Karnataka IAS Officer Gyanendra Kumar Gangwar Detained In Exam Scam",
-            "link": "https://www.ndtv.com/india-news/karnataka-ias-officer-gyanendra-kumar-gangwar-detained-in-kpsc-veterinary-exam-scam-11976988#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "IAS officer Gyanendra Kumar Gangwar was serving as Controller of Examinations at the KPSC when the irregularities occurred.",
-            "published": "2026-08-30T10:27:20+05:30"
           }
         ],
         "World": [
+          {
+            "title": "One dead and five injured in Swiss shooting, police say",
+            "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
+            "published": "2026-08-30T06:27:12+00:00"
+          },
+          {
+            "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+            "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.",
+            "published": "2026-08-30T05:58:28+00:00"
+          },
           {
             "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
             "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
@@ -260,23 +274,30 @@
             "source": "Al Jazeera",
             "summary": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
             "published": "2026-08-30T03:10:06+00:00"
-          },
-          {
-            "title": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A memorial display in Berlin has recreated the scene of the killing of six-year-old Palestinian girl Hind Rajab.",
-            "published": "2026-08-30T01:43:52+00:00"
-          },
-          {
-            "title": "Isolated by raging floodwaters, Nepal’s miracle home amid the devastation",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/isolated-by-raging-floodwaters-nepals-miracle-home-amid-the-devastation?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Footage shows a house surrounded by raging floodwaters at the Nepal-Tibet border, with people trapped on rooftops.",
-            "published": "2026-08-30T01:35:27+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "FPIs turn buyers for second straight month, invest Rs 30,919 cr in August",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-for-second-straight-month-invest-rs-30919-cr-in-august/articleshow/133624069.cms",
+            "source": "Economic Times",
+            "summary": "During August, foreign portfolio investors added over Rs 30,000 crore to Indian equities, showcasing the ongoing trend of substantial market inflows for the second month in a row. This surge can be attributed to enhancing corporate earnings and a stable economic environment. Furthermore, easing global geopolitical tensions have aided investor optimism, yet uncertainties surrounding crude oil prices and US bond…",
+            "published": "2026-08-30T11:23:12+05:30"
+          },
+          {
+            "title": "7 of top 10 firms shed Rs 1.13 lakh cr in m-cap; Airtel, Reliance worst hit",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-firms-shed-rs-1-13-lakh-cr-in-m-cap-airtel-reliance-worst-hit/articleshow/133624042.cms",
+            "source": "Economic Times",
+            "summary": "Last week observed a notable decline in market valuations, with seven out of the ten top firms witnessing a reduction of Rs 1.13 lakh crore. The greatest impact was felt by Bharti Airtel and Reliance Industries, linked to concerns over global interest rates and geopolitical instability. Nonetheless, there was robust buying in IT stocks, which facilitated a recovery in the market on Friday.",
+            "published": "2026-08-30T11:21:00+05:30"
+          },
+          {
+            "title": "Corporate actions this week: NTPC, Coal India among nearly 90 cos set to hit record dates for dividend payouts, bonus issues &amp; stock splits",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/corporate-actions-this-week-ntpc-coal-india-among-nearly-90-stocks-with-record-dates-for-bonus-issues-stock-splits-and-dividend-payouts-check-full-list/articleshow/133623707.cms",
+            "source": "Economic Times",
+            "summary": "Nearly 90 companies, including NTPC, Coal India and Oil India, have scheduled record dates for dividends, bonus issues and stock splits from August 31 to September 4. Investors must hold the respective shares as of the record date to qualify. Mastek, Glenmark Pharma and Triveni Engineering are among Monday’s stocks, with several companies announcing dividends for shareholders.",
+            "published": "2026-08-30T10:56:06+05:30"
+          },
           {
             "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
             "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -327,13 +348,6 @@
             "published": "2026-08-29T14:53:16+05:30"
           },
           {
-            "title": "Reliance JIO IPO: 7 risk factors investors should know as firm gets Sebi nod for Rs 37,000-crore offer",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-7-risk-factors-investors-should-know-as-firm-gets-sebi-nod-for-rs-37000-crore-issue/articleshow/133608417.cms",
-            "source": "Economic Times",
-            "summary": "Reliance Jio’s proposed Rs 37,700-crore IPO has received Sebi approval, bringing the much-awaited listing closer. While the offering could value Jio Platforms at nearly Rs 9.5 lakh crore, its DRHP flags several risks, including spectrum challenges, intense competition, high capital expenditure, vendor dependence, infrastructure concentration and cybersecurity threats.",
-            "published": "2026-08-29T14:48:10+05:30"
-          },
-          {
             "title": "Vedanta, Wipro among 10 stocks that saw biggest jump in retail holders in Q1. See full list",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-wipro-among-10-stocks-that-saw-biggest-jump-in-retail-holders-in-q1-see-full-list/slideshow/133608528.cms",
             "source": "Economic Times",
@@ -346,29 +360,36 @@
             "source": "BBC Business",
             "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
             "published": "2026-08-28T17:47:00+00:00"
-          },
-          {
-            "title": "Gatwick Airport faced water outage after main burst",
-            "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-            "published": "2026-08-28T17:38:37+00:00"
-          },
-          {
-            "title": "'A lot of pressure' - SSE Airtricity to increase gas prices by 19%",
-            "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The annual gas bill of a typical household in the greater Belfast and west gas network areas will increase by almost £172.",
-            "published": "2026-08-28T16:15:11+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "\"This Is Such A Mess\": Tearful Roger Federer Breaks Down During Tennis Hall Of Fame Speech",
+            "link": "https://sports.ndtv.com/tennis/this-is-such-a-mess-tearful-roger-federer-breaks-down-during-tennis-hall-of-fame-speech-11977152#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Roger Federer became emotional as he was inducted into the International Tennis Hall of Fame.",
+            "published": "2026-08-30T11:28:39+05:30"
+          },
           {
             "title": "Trinbago Knight Riders retire Dwayne Bravo's No. 47 jersey",
             "link": "https://www.cricinfo.com/ci/content/story/1552197.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Dwayne Bravo won the CPL title five times as a player and then as head coach of Trinbago Knight Riders last season",
             "published": "2026-08-30T05:29:31+00:00"
+          },
+          {
+            "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Onus On Rajat Patidar As Central Zone Go 2 Down vs East",
+            "link": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score: East Zone captain Ishan Kishan won the toss and opted to bowl against Central Zone in the Duleep Trophy semi-final.",
+            "published": "2026-08-30T10:51:45+05:30"
+          },
+          {
+            "title": "\"Didn't Work Hard Enough\": Suryakumar Yadav's Blunt Confession Over ODI Catastrophe",
+            "link": "https://sports.ndtv.com/cricket/didnt-work-hard-enough-suryakumar-yadavs-blunt-confession-over-odi-catastrophe-11977004#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Suryakumar Yadav scored 773 runs in 35 ODI innings at an average of 25.76 and a strike rate of over 105, with four fifties and a highest score of 72 not-out.",
+            "published": "2026-08-30T10:35:42+05:30"
           },
           {
             "title": "Kingsmen get past Knight Riders as rain scuttles potential thriller",
@@ -383,13 +404,6 @@
             "source": "NDTV Sports",
             "summary": "A tearful Roger Federer was inducted into the International Tennis Hall of Fame on Saturday, describing his formal entrance into the sport's pantheon as one of the \"greatest honors of my life.\"",
             "published": "2026-08-30T09:52:11+05:30"
-          },
-          {
-            "title": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Updates: Vaibhav Sooryavanshi The Bowler In Focus As East Zone Opt To Field",
-            "link": "https://sports.ndtv.com/cricket/central-zone-vs-east-zone-duleep-trophy-1st-semi-final-live-score-updates-vaibhav-sooryavanshi-ishan-kishan-rajat-patidar-11975999#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Central Zone vs East Zone, Duleep Trophy 1st Semi-Final LIVE Score: East Zone captain Ishan Kishan won the toss and opted to bowl against Central Zone in the Duleep Trophy semi-final.",
-            "published": "2026-08-30T09:42:34+05:30"
           },
           {
             "title": "\"Aise Bhi Log Hote Hain\": Suryakumar Yadav Reveals Sanju Samson's Stunning Reaction To Being Dropped",
@@ -432,20 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Lionel Messi scored four goals as Inter Miami snapped their five-game winless streak with a 7-1 thrashing of struggling Montreal in Major League Soccer on Saturday.",
             "published": "2026-08-30T08:43:04+05:30"
-          },
-          {
-            "title": "Anaya Bangar Sends World Cup Message To BCCI After \"Living In Dressing Rooms\" To Survive",
-            "link": "https://sports.ndtv.com/cricket/anaya-bangar-sends-world-cup-message-to-bcci-after-living-in-dressing-rooms-to-survive-11976757#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "After being given the pathway to return to professional cricket, Anaya Bangar said that she used to live in the dressing rooms in the United Kingdom just for survival.",
-            "published": "2026-08-30T08:33:58+05:30"
-          },
-          {
-            "title": "South Zone vs North Zone, Duleep Trophy 2026 Semi-Final - LIVE Score Updates",
-            "link": "https://sports.ndtv.com/cricket/south-zone-vs-north-zone-duleep-trophy-2026-semi-final-live-score-updates-11976198#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "South Zone vs North Zone, Duleep Trophy 2026 LIVE Score Updates: After beating West Zone in the quarter-final, North Zone face a tough challenge against Tilak Varma-led South Zone in the semi-final.",
-            "published": "2026-08-30T08:19:40+05:30"
           }
         ],
         "Technology": [
@@ -627,11 +627,39 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'सब कुछ'हासिल करके भी अधूरा था मन! UP की IAS दिव्या मित्तल इस्तीफा के बाद अब क्या करेंगी? क्या है प्लान?",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/what-will-up-ias-officer-divya-mittal-do-after-resigning-what-s-her-plan-1638793.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-30T11:41:47+05:30"
+          },
+          {
+            "title": "क्यों 23 वर्षीय भारतीय खिलाड़ी को किया जा रहा वर्ल्ड कप 2027 के लिए तैयार? रुतुराज गायकवाड़ की छुट्टी तय",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/why-is-tilak-varma-being-prepared-for-the-2027-world-cup-know-the-reason-1638791.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-30T11:40:22+05:30"
+          },
+          {
             "title": "मन की बात लाइव: पीएम मोदी ने सूर्यपथ तिरंगा अभियान का किया जिक्र, ड्रग्स के खिलाफ जागरुकता का दिया संदेश",
             "link": "https://www.amarujala.com/live/india-news/pm-modi-mann-ki-baat-live-updates-prime-minister-narendra-modi-address-nation-broadcast-137th-episode-2026-08-30",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-30T11:27:42+05:30"
+            "published": "2026-08-30T11:37:05+05:30"
+          },
+          {
+            "title": "इमरान की सेहत को लेकर उनके बेटों के दावों के बाद क्या पाकिस्तान पर बढ़ रहा दबाव",
+            "link": "https://www.bbc.com/hindi/articles/cd68052nw00o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-08-30T06:01:10+00:00"
+          },
+          {
+            "title": "सुरंग में फंसे हैं 898 लोग, भारत के टनल एक्सपर्ट कैसे करेंगे सबसे मुश्किल रेस्क्यू? 6 इंच के पाइप से पहुंच रही",
+            "link": "https://hindi.oneindia.com/news/international/how-indian-tunnel-experts-will-rescue-898-workers-trapped-in-nepal-hydropower-tunnel-six-inch-pipe-1638789.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-30T11:30:04+05:30"
           },
           {
             "title": "Manjeet Kaur Death Case: प्रेग्नेंट थी जिंदा जलाई गई इन्फ्लुएंसर मनजीत कौर, लिव-इन पार्टनर ने दी दर्दनाक मौत!",
@@ -646,6 +674,20 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-30T10:55:49+05:30"
+          },
+          {
+            "title": "नेपाल त्रासदी: चाय पीने रुके तो बच गई जान, बाढ़ में फंसने से बाल-बाल बचे छत्तीसगढ़ के 5 दोस्त",
+            "link": "https://www.amarujala.com/chhattisgarh/raipur/nepal-flood-chhattisgarh-raipur-five-friends-tea-break-rakhi-arrow-escape-2026-08-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-30T10:49:56+05:30"
+          },
+          {
+            "title": "खूबसूरती ऐसी कि नजरें ठहर जाएं: दमखम ऐसा कि चुटकियों में विरोधी को चटा दें धूल; WWE की 15 धाकड़ महिला पहलवान",
+            "link": "https://www.amarujala.com/photo-gallery/sports/15-most-powerful-and-charismatic-wwe-women-wrestlers-who-combine-beauty-muscle-and-dominance-2026-08-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-30T10:37:55+05:30"
           },
           {
             "title": "एक हुए हार्दिक पांड्या और क्रुणाल पांड्या? वायरल फोटो ने मचाई हलचल, सामने आया चौंकाने वाल सच",
@@ -667,48 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-08-30T10:14:23+05:30"
-          },
-          {
-            "title": "मणिपुर में फिर हिंसा: नोनी में उग्रवादी गुटों के बीच गोलीबारी, एक की मौत और छह घायल; थौबल में ग्रेनेड धमाका",
-            "link": "https://www.amarujala.com/india-news/manipur-violence-several-militant-killed-in-factional-gunfight-in-noney-grenade-blast-at-thoubal-oil-pump-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T10:11:10+05:30"
-          },
-          {
-            "title": "4 फ्लाइट, 68.5 टन राहत, ब्रिज, DNA टीम! नेपाल बाढ़ पीड़ितों के लिए भारत ने अब तक क्या-क्या भेजा?",
-            "link": "https://hindi.oneindia.com/news/international/india-nepal-flood-relief-explainer-4-flights-relief-material-bridges-dna-forensic-search-rescue-team-1638769.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-30T10:09:27+05:30"
-          },
-          {
-            "title": "सिब्बल का भागवत पर निशाना: कहा- विदेश में समझदारी की बातें, देश में चुप्पी; मौलाना यासूब अब्बास ने की तारीफ",
-            "link": "https://www.amarujala.com/india-news/kapil-sibal-targets-mohan-bhagwat-diversity-unity-comment-us-maulana-yasoob-abbas-praises-other-reactions-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T10:06:55+05:30"
-          },
-          {
-            "title": "खड़े होकर पानी पीना सेहत के लिए सही है या ग़लत? डॉक्टर से जानिए",
-            "link": "https://www.bbc.com/hindi/articles/c62k33z649lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-08-30T04:36:32+00:00"
-          },
-          {
-            "title": "बिहार : भरत तिवारी एनकाउंटर में हटाए अफसर को फिर ड्यूटी; IAS, BAS और बिहार पुलिस ट्रांसफर सूची पढ़ें",
-            "link": "https://www.amarujala.com/bihar/patna/bihar-officer-removed-after-bharat-tiwari-encounter-back-on-duty-read-transfer-list-for-ias-bas-bps-officers-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T10:01:06+05:30"
-          },
-          {
-            "title": "रक्षाबंधन पर CM रेखा गुप्ता से मिले सड़क पर रहने वाले बच्चे, बांधी राखी, कुछ का हाल में स्कूल में हुआ दाखिला",
-            "link": "https://hindi.oneindia.com/news/delhi/delhi-cm-rekha-gupta-celebrates-raksha-bandhan-with-street-children-promises-education-support-1638765.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-08-30T09:57:47+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મોહન ભાગવતે મુસ્લિમોને દેશમાંથી હાંકી કાઢવાના વિચાર ધરાવતા હિન્દુઓ વિશે શું કહ્યું",
+            "link": "https://www.bbc.com/gujarati/articles/czdz4845m19o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-30T06:14:12+00:00"
+          },
+          {
             "title": "બિહારનો વિચિત્ર કિસ્સો, એક ભેંસના બે માલિક? પોલીસ કરાવવો પડ્યો ભેંસનો ડીએનએ ટેસ્ટ",
             "link": "https://www.bbc.com/gujarati/articles/cddv0q0lqj6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-29T23:30:00+00:00"
-          },
-          {
-            "title": "ભારતના DNAમાં એકતા-વિવિધતા:ન્યૂયોર્કમાં ભાગવતે કહ્યું- આપણે અલગ હોવા છતાં એકબીજા સાથે જોડાયેલા, ખોટી વિચારસરણી માણસને પ્રાણીઓની નજીક લઈ જાય છે",
-            "link": "https://www.divyabhaskar.co.in/national/news/rss-chief-mohan-bhagwat-new-york-times-square-speech-138874263.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-08-29T19:02:49+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "நேபாள வெள்ளம்: சுற்றியிருந்த வீடுகள் இடிந்தாலும், உறுதியாக நின்ற வீட்டிற்கும், பால்கனியில் நின்றவர்களுக்கும் என்ன ஆனது?",
+            "link": "https://www.bbc.com/tamil/articles/c5ymvrzny52o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-30T06:13:28+00:00"
+          },
           {
             "title": "சேறு சகதியில்.. 3 நாட்களாக சிக்கியிருந்த 6 வயது சிறுமியை உயிருடன் மீட்ட ராணுவத்தினர்! நெகிழ்ச்சி",
             "link": "https://tamil.oneindia.com/news/international/miracle-in-nepal-6-year-old-pulled-alive-from-debris-after-3-days-in-rasuwa-floods-827343.html",
@@ -928,13 +935,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-08-30T03:25:30+00:00"
-          },
-          {
-            "title": "நேபாளம்: வைரல் வீடியோவில் வெள்ளம் சூழ்ந்த வீட்டின் பால்கனியில் நின்றவர்கள் என்ன ஆயினர்?",
-            "link": "https://www.bbc.com/tamil/articles/c5ymvrzny52o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-08-30T03:04:08+00:00"
           },
           {
             "title": "பகலில் எத்தனை நிமிட குட்டித்தூக்கம் நல்லது? நீங்கள் அறிய வேண்டிய 6 முக்கிய விஷயங்கள்",
@@ -1100,13 +1100,6 @@
             "published": "2026-08-30T10:32:07+05:30"
           },
           {
-            "title": "Wedding card: మా ఇంట్ల లగ్గం.. జర యాదిమరవకుండ్రి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTNFQWpGaVpQc1dnbUFvMDdUbHRreFlmTC01bTRNRWVHb05hQ2tNNm84WU4xRGJFVnc2eTNyRmNNUlNoMUJZcEhMWW1NVXF1cTRMZ0xMMFlib1g5UUw5Um52azBDdUtwaDJLUEloRnh0ZmRXUmdpQ0Z6QmVjaktxTUZaYUJDNExLUWxCRkNrcU4tNVnSAZMBQVVfeXFMTkEzRUFqRmlaUHNXZ21BbzA3VGx0a3hZZkwtNW00TUVlR29OYUNrTTZvOFlOMURiRVZ3NnkzckZjTVJTaDFCWXBITFltTVVxdXE0TGdMTDBZYm9YOVFMOVJudmswQ3VLcGgyS1BJaEZ4dGZkV1JnaUNGekJlY2pLcU1GWmFCQzRMS1FsQkZDa3FOLTVZ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-30T04:34:30+00:00"
-          },
-          {
             "title": "Nepal floods: శిథిలాల నుంచి.. మూడ్రోజుల అనంతరం సజీవంగా చిన్నారి.. - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGdDRTdONzBjZkV5TnBpTHJfbmNwcURzVExHd2VsUE8ySE44QU9XMFdZQVY5b0psYlU2NGtBYlBSNndvOE5kX0E2MVpZNGwwUTBNNGQxcUFqWkxWb0FOVDZPNE55TVRpQmtMZDRiOWhYZXQwOWM3ckllcnU5V3pzSWh5UmZkTXNHSVZJWWJEdG1Cek9oRDFPTlZhNlhDVGdXeWppcnIzdFVuYWtiTnJYaDd2Z01veXBMRGZqYjk5Z184emRTNXVn0gHHAUFVX3lxTE5EZ0NFN043MGNmRXlOcGlMcl9uY3BxRHNUTEd3ZWxQTzJITjhBT1cwV1lBVjlvSmxiVTY0a0FiUFI2d284TmRfQTYxWlk0bDBRME00ZDFxQWpaTFZvQU5UNk80TnlNVGlCa0xkNGI5aFhldDA5YzdySWVydTlXenNJaHlSZmRNc0dJVklZYkR0bUJ6T2hEMU9OVmE2WENUZ1d5amlycjN0VW5ha2JOclhoN3ZnTW95cExEZmpiOTlnXzh6ZFM1dWc?oc=5",
             "source": "Eenadu",
@@ -1133,6 +1126,13 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-08-30T03:41:27+00:00"
+          },
+          {
+            "title": "మాజీ మంత్రి ధర్మానపై కేసు నమోదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QS2UwRndlQldlN2lFUi1wM3VBOG4yQUlOeGlQQk9kOVc1OVliaHh2NEdfY1hRSXBRWk5SZG1SbHltcDhTU3VwQ0JfUzIxT21naXFPMl9PSEZMdDZWSC1RaklycW52XzU1TWRmTWgyc0xVeEJiLWkxZzd4SFRRQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-30T03:35:00+00:00"
           },
           {
             "title": "సురేఖ సహా ముగ్గురు ఔట్: రాములమ్మ, మహేష్ గౌడ్ ఇన్- పీసీసీ చీఫ్, స్పీకర్ మార్పు..!?",
@@ -1454,6 +1454,13 @@
             "published": "2026-08-30T03:04:29+00:00"
           },
           {
+            "title": "‘শেষ পর্যন্ত মানুষের গল্পই বলতে হবে’, ভাবনা-দর্শন আর অক্ষরের মায়া ছুঁয়ে সন্মাত্রানন্দের পথচলা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1Z0TjVTS1NmWHNOcGxtSFoxY0I5X29YcllSdF9pbk5UZVlLdW5STHlMZ1JsR25zX2phcmVlZWRaV0ZVZ21UNl9kZ1RJWkVIUzhHa1BNbmFaOVRwS1NRUm1mOFJZRHlDX0IybngzaHJ5NmkwWmRId0ttazh2eDJPVklFbGFYbVNRZE9QaFdoMVRILVNBRVpLMkktMmtfLTg0bVBqTzh3Y3ZuMGVCV0UtZ9IBtgFBVV95cUxNWm9VODRyeVRlRzRqVjBYeUo0VjJyT3dzWlFEeWNnQkpUQkkyeHlXdTVCaU81YlVLT1E0QlhrZjZSdE1tVDJsdkxEQ0t6cGQyS2Rmcm10LTdpYnpnMUJEU2NjaXVJcDhQX3ZjT3g0MFE5MTVra2oxRUpXcERkdWdJQkZDbWRIWnloc3N1SnpoMTFpY0RuNE04TmNRQUlVTFczQWhFeHlILU1lMkRtdFpVcVNQWnhWdw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-30T02:31:30+00:00"
+          },
+          {
             "title": "Daily Bengali Horoscopes, Ajker Rashifal, Free Today’s Bangla Rashifal, দৈনিক রাশিফল - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90eDNwcWtvR0ZxcVZuYUZJNElFS1ZJa3h1ZUlFUEltQzhvS3NsSjRrMHRnNGc3cjRBTW5CYU9IaUNFTVZ4OGZfQmlrRVllVUl3b2tRMUU1ZXNzUQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-29T16:33:59+00:00"
-          },
-          {
-            "title": "কিষেণজির এনকাউন্টারের বিচারবিভাগীয় তদন্ত হোক! দাবি সেলিমের, কল্যাণীতে দীনদয়াল- সীতারামের সম্মুখসমর হোর্ডিংয়ে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRGNk5jMENjU3BscWk4ZXljemF2UzZrQnNpcUdORjVfd2U5d3Y4VjcxLUZBQ3pueXdyQmN1cklpX2RkYk1VMGQyYTRiQXpGay1oRzNfZHdKWWRKc3RlWm50cUY3X2pSaWZoOS1IZWwzRjYxOTM4N2lLVGU1VnRiZ0Uyc2hSVGVITnlaV0xsUkxPNDlkMU03SUJBSENTcDFZOFFJaV9UTHZ3bmo5SHg5OVRJWXpud2R5cHBrbFp6Tk9RLXhackhSZGV3bEdjQdIB0wFBVV95cUxPRmRBVWFscHAxVFJVM3dqWmphbFh3TkxvdU4wUTNHaWg2bnVCbGc0LUNWTjdBOWgtZlRJR3NHZkFnZlAxaDJHeFFXSk94NXpIOXlXNmExNXJGU3BGOUdsbDdkVy1vbkZvR0dDaTlGc0d1QWV2eGprU01aa2dobUlCYkFtaEJ2NFhWNjdDLUxmc2VYaUplWVBPd2c3MW1zT3RPV0ZTeDJuQlRIamhCU3VVMzBfcWlyS1pKNHUyX3VEano2bkxrVUkycEQxTjZnYTV3ZV9j?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-29T16:33:04+00:00"
           }
         ]
       }
