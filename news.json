@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-08-30T16:31:24.343854+00:00",
+  "updated_at": "2026-08-30T16:36:41.184549+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Russia says it helped to repel Niger attempted coup",
+            "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+            "published": "2026-08-30T16:33:17+00:00"
+          },
           {
             "title": "Revanth’s govt. leaves its imprint after 1,000 days in office",
             "link": "https://www.thehindu.com/news/national/telangana/revanths-govt-leaves-its-imprint-after-1000-days-in-office/article71408545.ece",
@@ -62,11 +69,25 @@
             "published": "2026-08-30T21:41:03+05:30"
           },
           {
+            "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+            "link": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.",
+            "published": "2026-08-30T16:09:16+00:00"
+          },
+          {
             "title": "Two killed as tractor-trolley collides with motorcycle",
             "link": "https://www.thehindu.com/news/national/telangana/two-killed-as-tractor-trolley-collides-with-motorcycle/article71408444.ece",
             "source": "The Hindu",
             "summary": "",
             "published": "2026-08-30T21:36:37+05:30"
+          },
+          {
+            "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+            "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.",
+            "published": "2026-08-30T16:06:15+00:00"
           },
           {
             "title": "Road safety awareness drive conducted at Gudimalkapur Market in Hyderabad",
@@ -81,27 +102,6 @@
             "source": "Al Jazeera",
             "summary": "Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.",
             "published": "2026-08-30T16:03:27+00:00"
-          },
-          {
-            "title": "All registered workers migrated to VB-G RAM G; e-KYC not mandatory for employment: Centre",
-            "link": "https://www.thehindu.com/news/national/all-registered-workers-migrated-to-vb-g-ram-g-e-kyc-not-mandatory-for-employment-centre/article71408080.ece",
-            "source": "The Hindu",
-            "summary": "The Union Rural Development Ministry says pending e-KYC will not prevent workers from demanding or receiving employment. It urges States/Union Territories to expedite verification",
-            "published": "2026-08-30T21:32:53+05:30"
-          },
-          {
-            "title": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi",
-            "link": "https://www.thehindu.com/news/national/kerala/congregation-facing-mass-resumes-at-st-marys-cathedral-basilica-in-kochi/article71407030.ece",
-            "source": "The Hindu",
-            "summary": "A sizeable share of priests and laity members of the Ernakulam-Angamaly Archdiocese had been demanding this mode of Mass, while opposing the Unified Mass that the Synod of the Syro-Malabar Church had been insisting on",
-            "published": "2026-08-30T21:32:01+05:30"
-          },
-          {
-            "title": "Realise your mistake and work for strengthening CPI(M), Pinarayi tells LDF supporters",
-            "link": "https://www.thehindu.com/news/national/kerala/realise-your-mistake-and-work-for-strengthening-cpim-pinarayi-tells-ldf-supporters/article71408239.ece",
-            "source": "The Hindu",
-            "summary": "Keralam Leader of the Opposition says the electoral defeat in Taliparampa should not be viewed as the end of the party’s political prospects or as a permanent change in the constituency’s political allegiance. He says the party will work to regain public confidence",
-            "published": "2026-08-30T21:31:52+05:30"
           }
         ],
         "India": [
@@ -192,11 +192,32 @@
         ],
         "World": [
           {
+            "title": "Russia says it helped to repel Niger attempted coup",
+            "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+            "published": "2026-08-30T16:33:17+00:00"
+          },
+          {
             "title": "Iceland votes against restarting EU membership talks",
             "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
             "published": "2026-08-30T16:11:44+00:00"
+          },
+          {
+            "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+            "link": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.",
+            "published": "2026-08-30T16:09:16+00:00"
+          },
+          {
+            "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+            "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.",
+            "published": "2026-08-30T16:06:15+00:00"
           },
           {
             "title": "Educated? Skilled? Ambitious? Traffickers are looking for you",
@@ -253,27 +274,6 @@
             "source": "BBC World",
             "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
             "published": "2026-08-30T14:25:43+00:00"
-          },
-          {
-            "title": "How does your name taste? The strange science of synaesthesia",
-            "link": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.",
-            "published": "2026-08-30T14:14:06+00:00"
-          },
-          {
-            "title": "Iceland votes to reject EU accession talks: What happens next?",
-            "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
-            "published": "2026-08-30T13:37:54+00:00"
-          },
-          {
-            "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
-            "link": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
-            "published": "2026-08-30T13:23:48+00:00"
           }
         ],
         "Business": [
@@ -1079,13 +1079,6 @@
             "published": "2026-08-30T21:38:39+05:30"
           },
           {
-            "title": "CV Anand: సెంచరీతో చెలరేగిన డీజీపీ సీవీ ఆనంద్‌.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDljV3d1eDF6cE16VnFoc25mc054alVSbkVybE16NDBPUWdGT2ZmS3lHdHR0X1JwTWlDNE5seWJjcjhhd3BhT0dyOGZ0b1A4M1VsYzk0NERJa2Z5OW1Wc2xXY3g1bWVZWm80WkotZkRxbGhmekI3UG9NcmpjclFoWlFqd29UcjRtRWpkN2Y1bVRZbVY4WUZSbjlPQ1ZYTXlqY1RHVzc0TmJvOEkxR2V4RtIBsAFBVV95cUxQRDljV3d1eDF6cE16VnFoc25mc054alVSbkVybE16NDBPUWdGT2ZmS3lHdHR0X1JwTWlDNE5seWJjcjhhd3BhT0dyOGZ0b1A4M1VsYzk0NERJa2Z5OW1Wc2xXY3g1bWVZWm80WkotZkRxbGhmekI3UG9NcmpjclFoWlFqd29UcjRtRWpkN2Y1bVRZbVY4WUZSbjlPQ1ZYTXlqY1RHVzc0TmJvOEkxR2V4Rg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-30T15:14:24+00:00"
-          },
-          {
             "title": "1996 నాటి సంకల్పం.. సాకారమవుతున్న వెలిగొండ స్వప్నం!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/veligonda-project-trial-run-success-cm-chandrababu-naidu-to-dedicate-historic-water-project-to-nati-504049.html",
             "source": "Oneindia Telugu",
@@ -1105,13 +1098,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-30T19:54:57+05:30"
-          },
-          {
-            "title": "Viral Wedding Video: విదేశంలో వివాహం.. ఆన్‌లైన్‌లో ఆశీర్వాదం.. వీడియో వైరల్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkRCVi0wVURJa3daVlIwQV9lTXZFazFTNFdWWUhISzJkaGx5bk43Z2NObzh5MGZVdVRaM1IyWEIzazhFQTVEMTlzUmhzY3F3RENiNVhoMFRtMVBmd1ZXTmpaSklhMXh0Q2F5cjlKdU90S3ptVlY0bXVGbi14dGpvUXJBcDhFVlhCVjI0TlFXYWY2bUwzQWVoTNIBmAFBVV95cUxQMkRCVi0wVURJa3daVlIwQV9lTXZFazFTNFdWWUhISzJkaGx5bk43Z2NObzh5MGZVdVRaM1IyWEIzazhFQTVEMTlzUmhzY3F3RENiNVhoMFRtMVBmd1ZXTmpaSklhMXh0Q2F5cjlKdU90S3ptVlY0bXVGbi14dGpvUXJBcDhFVlhCVjI0TlFXYWY2bUwzQWVoTA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-30T14:22:53+00:00"
           },
           {
             "title": "JanaSena: పవన్‌ పుట్టిన రోజున.. జనసేన యువజన విభాగం ఆవిష్కరణ - Eenadu",
@@ -1154,6 +1140,20 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-30T12:05:30+00:00"
+          },
+          {
+            "title": "నేపాల్ వరదలు: 'పిల్లి అనుకుని వెళ్తే శిథిలాల కింద పాప కనిపించింది'",
+            "link": "https://www.bbc.com/telugu/articles/c1l6nydzqyvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-30T11:56:11+00:00"
+          },
+          {
+            "title": "దివాళా తీసిన పాకిస్తాన్.. ఆకలి కేకల లాహోర్..",
+            "link": "https://telugu.oneindia.com/news/international/pakistan-inflation-crisis-soaring-prices-of-vegetables-and-fuel-hit-daily-wage-earners-hard-in-laho-504041.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-30T17:15:01+05:30"
           }
         ],
         "Entertainment": [
