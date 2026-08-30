@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-08-29T23:31:26.094756+00:00",
+  "updated_at": "2026-08-30T00:01:44.660488+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "'RSS vision is to see the world as one': Sangh chief Mohan Bhagwat at New York event",
+            "title": "Israeli settlers attack international news team in occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+            "published": "2026-08-29T23:48:22+00:00"
+          },
+          {
+            "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
+            "published": "2026-08-29T23:34:11+00:00"
+          },
+          {
+            "title": "Voting closes in Iceland’s knife-edge EU referendum",
+            "link": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.",
+            "published": "2026-08-29T23:33:03+00:00"
+          },
+          {
+            "title": "Ukrainian nuclear power plant without external power for over a week",
+            "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
+            "published": "2026-08-29T23:25:07+00:00"
+          },
+          {
+            "title": "'RSS vision is to see the world as one': Sangh chief Mohan Bhagwat at MSG event",
             "link": "https://timesofindia.indiatimes.com/india/rss-vision-is-to-see-the-world-as-one-sangh-chief-mohan-bhagwat-at-new-york-event/articleshow/133621631.cms",
             "source": "Times of India",
             "summary": "",
@@ -74,39 +102,11 @@
             "source": "NDTV",
             "summary": "Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), addresses a gathering at Madison Square Garden. The event had leaders from across religions among the first-row audience.",
             "published": "2026-08-30T03:10:15+05:30"
-          },
-          {
-            "title": "Kathryn Bryce leads with bat and ball as The Blaze seal T20 double",
-            "link": "https://www.cricinfo.com/ci/content/story/1552178.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Scotland international sets up win over Surrey with 4 for 18 before unbeaten 38 in rain-reduced Final",
-            "published": "2026-08-29T21:31:57+00:00"
-          },
-          {
-            "title": "Highlights: In Mohan Bhagwat's Address To Indian Expats, A \"Janmabhumi-Karmabhumi\" Lesson",
-            "link": "https://www.ndtv.com/world-news/rss-chief-mohan-bhagwat-new-york-madison-square-garden-live-updates-11975846#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "RSS chief is set to speak to around 5,000 people at the Manhattan venue, at an event billed as a \"landmark Raksha Bandhan gathering\".",
-            "published": "2026-08-30T03:01:28+05:30"
-          },
-          {
-            "title": "August rainfall fails to reduce India's monsoon deficit",
-            "link": "https://timesofindia.indiatimes.com/india/august-rainfall-fails-to-reduce-indias-monsoon-deficit/articleshow/133619584.cms",
-            "source": "Times of India",
-            "summary": "India's cumulative monsoon rainfall deficit remains despite August's better-than-expected rains. This deficit has caused a significant acreage gap in kharif crop sowing. Paddy and maize acreage have both reported notable declines compared to last year. Erratic rainfall distribution prevented increased acreage for most kharif crops. Several states, including Bihar and Andhra Pradesh, face substantial rainfall…",
-            "published": "2026-08-30T02:57:29+05:30"
-          },
-          {
-            "title": "FSSAI bans Everest, LG from selling hing",
-            "link": "https://timesofindia.indiatimes.com/india/fssai-bans-everest-lg-from-selling-hing/articleshow/133619574.cms",
-            "source": "Times of India",
-            "summary": "The Food Safety and Standards Authority of India has issued prohibition orders against two spice companies. Everest Food Products and Laljee Godhoo and Company faced these orders for non-compliance issues. Samples of compounded asafoetida and hing powder did not meet alcohol-soluble extract requirements. Earlier reviews also found violations in other masala products from Everest. These actions highlight ongoing food…",
-            "published": "2026-08-30T02:51:07+05:30"
           }
         ],
         "India": [
           {
-            "title": "'RSS vision is to see the world as one': Sangh chief Mohan Bhagwat at New York event",
+            "title": "'RSS vision is to see the world as one': Sangh chief Mohan Bhagwat at MSG event",
             "link": "https://timesofindia.indiatimes.com/india/rss-vision-is-to-see-the-world-as-one-sangh-chief-mohan-bhagwat-at-new-york-event/articleshow/133621631.cms",
             "source": "Times of India",
             "summary": "",
@@ -139,6 +139,13 @@
             "source": "NDTV",
             "summary": "Mohan Bhagwat, chief of the Rashtriya Swayamsevak Sangh (RSS), addresses a gathering at Madison Square Garden. The event had leaders from across religions among the first-row audience.",
             "published": "2026-08-30T03:10:15+05:30"
+          },
+          {
+            "title": "Congress &amp; BJP clash over Haldwani ‘purification’ row, Rahul seeks FIR",
+            "link": "https://timesofindia.indiatimes.com/india/congress-bjp-clash-over-haldwani-purification-row-rahul-seeks-fir/articleshow/133619674.cms",
+            "source": "Times of India",
+            "summary": "BJP and Congress clashed over allegations of rally venue purification. Rahul Gandhi demanded an FIR, linking it to untouchability practices. BJP rebutted charges, showing organizers' videos and questioning the delay. Organizers stated a hawan followed cleaning for Ramlila, denying BJP links. Both parties exchanged accusations regarding caste divisions and past incidents.",
+            "published": "2026-08-30T03:08:41+05:30"
           },
           {
             "title": "Highlights: In Mohan Bhagwat's Address To Indian Expats, A \"Janmabhumi-Karmabhumi\" Lesson",
@@ -181,16 +188,37 @@
             "source": "Times of India",
             "summary": "On his diplomatic mission to Uzbekistan and Kyrgyzstan, Prime Minister Modi aims to bolster India's regional aspirations and forge stronger ties. At the SCO summit, he will advocate for collective efforts against terrorism and initiate dialogue on trade and strategic collaboration. This trip underscores India’s dedication to nurturing historical connections and fostering prosperity for all involved nations.",
             "published": "2026-08-30T02:27:56+05:30"
-          },
-          {
-            "title": "4 at hydropower tunnel among 108 Indians rescued; toll 682",
-            "link": "https://timesofindia.indiatimes.com/world/south-asia/4-at-hydel-unit-among-108-indians-rescued-toll-682/articleshow/133619521.cms",
-            "source": "Times of India",
-            "summary": "Nepal's Bhote Koshi-Trishuli disaster death toll reached 675, with 2,426 people still missing. Rescuers searched mud-filled valleys and tunnels three days after the catastrophic flood occurred. Chinese authorities reported seven deaths and 554 missing at Gyirong port across the border. Indian nationals unaccounted for in Nepal were revised down to 287. India sent relief and worked to bring back citizens stranded on…",
-            "published": "2026-08-30T02:21:30+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Israeli settlers attack international news team in occupied West Bank",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+            "published": "2026-08-29T23:48:22+00:00"
+          },
+          {
+            "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
+            "published": "2026-08-29T23:34:11+00:00"
+          },
+          {
+            "title": "Voting closes in Iceland’s knife-edge EU referendum",
+            "link": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.",
+            "published": "2026-08-29T23:33:03+00:00"
+          },
+          {
+            "title": "Ukrainian nuclear power plant without external power for over a week",
+            "link": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
+            "published": "2026-08-29T23:25:07+00:00"
+          },
           {
             "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
             "link": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
             "published": "2026-08-29T20:07:47+00:00"
-          },
-          {
-            "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.",
-            "published": "2026-08-29T20:05:46+00:00"
-          },
-          {
-            "title": "Can international diplomacy find a way forward in Libya?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Efforts intensify to break political impasse in a divided country.",
-            "published": "2026-08-29T20:01:02+00:00"
-          },
-          {
-            "title": "The rise of K-Beauty: Can South Korea overtake France?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-rise-of-k-beauty-can-south-korea-overtake-france?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "South Korea’s beauty industry has surpassed the US to become the world’s second-largest cosmetics exporter.",
-            "published": "2026-08-29T19:45:43+00:00"
-          },
-          {
-            "title": "Former Ecuadorian president imprisoned for corruption",
-            "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-            "published": "2026-08-29T19:44:54+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,41 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
+            "link": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-08-30T05:18:46+05:30"
+          },
+          {
+            "title": "नेपाल ने बाढ़ में मरने वालों की तस्वीरें जारी कीं:PM बालेन बोले- शवों के DNA सुरक्षित रखे जाएंगे; 682 मौतें, 287 भारतीयों समेत 3000 लापता",
+            "link": "https://www.bhaskar.com/national/news/nepal-flood-update-pm-balen-shah-dna-identification-missing-victims-list-138876606.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-29T23:37:36+00:00"
+          },
+          {
+            "title": "खबर हटके- पतंग के साथ हवा में उड़ा युवक:कचौड़ी खाते हुए मैराथन दौड़ रहे लोग; महिला की जैकेट से मिलीं 116 छिपकलियां",
+            "link": "https://www.bhaskar.com/bhaskar-khaas/khabar-hatke/news/man-flies-with-kite-bikaner-kachori-run-116-lizards-found-in-jacket-viral-news-138873668.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-29T23:35:00+00:00"
+          },
+          {
+            "title": "मंदाकिनी नदी की बाढ़ में चित्रकूट डूबा:बिहार के 6 जिलों में हाई अलर्ट, राजस्थान में 17 जिलों में सूखे जैसे हालात",
+            "link": "https://www.bhaskar.com/national/news/bihar-rajasthan-flood-drought-alert-weather-update-138873786.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-29T23:35:00+00:00"
+          },
+          {
+            "title": "मन की बात का 137वां एपिसोड आज:पीएम मोदी जेन-जी और चीनी की खपत को लेकर बात कर सकते हैं",
+            "link": "https://www.bhaskar.com/national/news/mann-ki-baat-episode-pm-modi-gen-z-sugar-price-update-138873442.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-29T23:32:00+00:00"
+          },
+          {
             "title": "सीएनजी महंगी: कैब चालकों की कमाई पर कैंची, यात्रियों में बढ़ा किराये का डर, ऑटो-टैक्सी हड़ताल की चेतावनी",
             "link": "https://www.amarujala.com/delhi-ncr/rise-in-cng-prices-in-delhi-impacts-the-earnings-of-cab-and-auto-rickshaw-drivers-2026-08-30",
             "source": "Amar Ujala",
@@ -674,41 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-08-30T02:08:16+05:30"
-          },
-          {
-            "title": "पश्चिम एशिया संकट: नेतन्याहू वेस्ट बैंक हिंसा पर क्यों नाराज, इस्राइल-हमास और ईरान-अमेरिका जंग में क्या बदला?",
-            "link": "https://www.amarujala.com/world/west-asia-crisis-why-netanyahu-condemn-west-bank-violence-what-changed-in-israel-hamas-and-iran-us-war-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T01:32:20+05:30"
-          },
-          {
-            "title": "नेपाल बाढ़ लाइव: त्रासदी में 675 मौतों की पुष्टि, 275+ भारतीय लापता; चीन में फंसे भारतीयों की क्या स्थिति है?",
-            "link": "https://www.amarujala.com/live/world/nepal-flash-flood-live-updates-casualties-indians-return-death-toll-surge-search-rescue-ops-hindi-news-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T01:21:26+05:30"
-          },
-          {
-            "title": "भास्कर अपडेट्स:महाराष्ट्र में समृद्धि एक्सप्रेसवे पर गैस पाइपलाइन लीक, 24 किमी तक ट्रैफिक डायवर्ट",
-            "link": "https://www.bhaskar.com/national/news/bhaskar-live-updates-breaking-news-30-august-delhi-mumbai-pune-gujarat-kolkata-latest-news-138874570.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-29T19:45:48+00:00"
-          },
-          {
-            "title": "बस्ती में भीषण सड़क हादसा: बाइक-कार की टक्कर में तीन युवकों की मौत, एक गंभीर रूप से घायल",
-            "link": "https://www.amarujala.com/uttar-pradesh/basti/three-bike-borne-men-die-after-ramming-into-four-wheeler-in-up-s-basti-car-driver-critical-2026-08-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-08-30T01:09:49+05:30"
-          },
-          {
-            "title": "न्यूयॉर्क में भागवत बोले- भारत के DNA में एकता-विविधता:हम अलग होकर भी एकदूसरे से जुड़े, गलत सोच इंसान को जानवरों के करीब ले जाती है",
-            "link": "https://www.bhaskar.com/national/news/mohan-bhagwat-speech-madison-square-garden-new-york-live-update-138874148.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-29T18:40:16+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:800 મીટર લાંબો ગ્લેશિયર તૂટવાથી નેપાળમાં તબાહી; અમેરિકાનો વેનેઝુએલાના તેલ પર કબજો; ગુજરાતમાં વરસાદે ખેડૂતોની ચિંતા વધારી",
+            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-neeraj-chopra-out-of-asian-games-nepal-tibet-flood-rescue-138873331.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-29T23:30:00+00:00"
+          },
+          {
             "title": "ન્યૂયોર્કમાં ભાગવત બોલ્યા- ભારતના DNAમાં એકતા-વિવિધતા:આપણે અલગ હોવા છતાં એકબીજા સાથે જોડાયેલા, ખોટી વિચારસરણી માણસને પ્રાણીઓની નજીક લઈ જાય છે",
             "link": "https://www.divyabhaskar.co.in/national/news/rss-chief-mohan-bhagwat-new-york-times-square-speech-138874263.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-08-29T10:43:09+00:00"
-          },
-          {
-            "title": "અમદાવાદમાં બ્લડ પ્રેશરની જે નકલી દવા ઝડપાઈ એ કેટલી ખતરનાક અને આવી દવા કેવી રીતે ઓળખવી?",
-            "link": "https://www.bbc.com/gujarati/articles/c0j318dyq5go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-08-29T10:29:45+00:00"
           }
         ]
       }
@@ -1072,11 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Cartoons News, Headlines, Breaking News, Articles1 - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wS2hlRG9QcmNiMlhPcUxQOHZleEZfdDdiU2tMUHNuU0dYZ3UxWVlmUVYyN3Bxd3M5UFZFaklwVThfVk1QMGFhVERUV2pvT01veW15WWRjeTNZUQ?oc=5",
+            "title": "నూతన సైనిక స్పేస్‌ అకాడమీ ఏర్పాటు చేస్తాం: ట్రంప్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tS0U3QmJUYWdCci1oLWstWmxfS1lzbDluUTlRdHo1czU1TF9SakxIcnRndUxORWNvNDYzRXNNUFNjVXFvUHBLVXpEV3Z2RXFzQmlUZDNVd0dBSEVucm1VU3YyV3BjN3dlaEdFeEprSWXSAXBBVV95cUxPLUtFN0JiVGFnQnItaC1rLVpsX0tZc2w5blE5UXR6NXM1NUxfUmpMSHJ0Z3VMTkVjbzQ2M0VzTVBTY1Vxb1BwS1V6RFd2dkVxc0JpVGQzVXdHQUhFbnJtVVN2MldwYzd3ZWhHRXhKa0ll?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-29T23:06:55+00:00"
+            "published": "2026-08-29T23:37:18+00:00"
+          },
+          {
+            "title": "కేరళ సీఎంను అడ్డుకున్న కాంగ్రెస్‌ నేత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXNjhsSXNnR1N2ZnQ5Qko3VUY0SHl6ZTR5c0VrZHlTbW1SQ2RUMjhhTHk3dS1zMEpMVkg4RGF5TUFvZUNZZlBnZDE1YjhFTkxtcVhfZndiRkZ3UGJuSmI5U0wyM2ZSandpbFJMRWN5c2_SAXBBVV95cUxQVzY4bElzZ0dTdmZ0OUJKN1VGNEh5emU0eXNFa2R5U21tUkNkVDI4YUx5N3UtczBKTFZIOERheU1Bb2VDWWZQZ2QxNWI4RU5MbXFYX2Z3YkZGd1BibkpiOVNMMjNmUmp3aWxSTEVjeXNv?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-29T23:36:59+00:00"
           },
           {
             "title": "పెద్ద కంపెనీల జీఎస్‌టీ రిజిస్ట్రేషన్‌ సులభతరం - Eenadu",
@@ -1084,13 +1091,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-29T23:01:36+00:00"
-          },
-          {
-            "title": "కాటేసిన పాముతో ఆసుపత్రికి చేరుకున్న యువకుడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUFQ1UE5qbkktTDY0MUpITTFLZzRjTUJvSWR5MDV6SFlHQVRNMmxlOWdRMU5sTjEyc0JBNUdnR1FOVUxPbTZKQUhEZTBZalQzbWJQX2lhRUowcFlDbXJvWVBzNHpvVVZsLUZTT1dxdVdFSmR0Vm1EaVNR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-29T22:45:40+00:00"
           },
           {
             "title": "Tirupati: తిరుపతి జిల్లాలో కాళికాదేవి విగ్రహం లభ్యం - Eenadu",
@@ -1107,25 +1107,11 @@
             "published": "2026-08-29T22:35:59+00:00"
           },
           {
-            "title": "Vijaysai Reddy: వైకాపాలో సజ్జలే నంబర్‌ వన్‌.. జగన్‌ది రెండో స్థానమే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmJXbnpkcG1ncFdTNjMwTHpETU9FdDJnVjlyb0w4aF9NSmVGZ2otdV9LMGpka0JvdHViOGZtWm16ekpJV3Z6UGZGeVY2cU5EMWNvYk5fOG5zM2NMa0d4dkFaY0xEd1hZRGs0ZFpkbnRwUGM1anVBUTJPTnlneVFzUmo1eUUzRmdCV1NMcklsemZEc3NjT0ZIajFISmFmdVptSE5pdkVVN0Y5WnR2VlNHcloybDRXNng5SHpVakpn0gG-AUFVX3lxTE1GYlduemRwbWdwV1M2MzBMekRNT0V0MmdWOXJvTDhoX01KZUZnai11X0swamRrQm90dWI4Zm1abXp6SklXdnpQZkZ5VjZxTkQxY29iTl84bnMzY0xrR3h2QVpjTER3WFlEazRkWmRudHBQYzVqdUFRMk9OeWd5UXNSajV5RTNGZ0JXU0xySWx6ZkRzc2NPRkhqMUhKYWZ1Wm1ITml2RVU3RjladHZWU0dyWjJsNFc2eDlIelVqSmc?oc=5",
+            "title": "Super El Nino: సముద్రంపై గాడ్జిల్లా ఎల్‌నినో ప్రభావం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWxGYmhicmczd1BPR2l5TzZuUkF3ODZ6d0Jvek44QnBKWHY2V1EzZmpiZjI3THVyQU1oMmREM29LS05zNk9ORzFVS0J3N2w1bWpRRVg4UEl4cDhOT08xU3Q1QkNqTVNMVDhDbnBpMklTM2pxMlpUTFg5TGtWcUR5Z2JTX3hNZTVtWUwteXYtVzJpNTFDaGFMTDNGekxFY0xvUEdOd0lfYzHSAagBQVVfeXFMT3lsRmJoYnJnM3dQT0dpeU82blJBdzg2endCb3pOOEJwSlh2NldRM2ZqYmYyN0x1ckFNaDJkRDNvS0tOczZPTkcxVUtCdzdsNW1qUUVYOFBJeHA4Tk9PMVN0NUJDak1TTFQ4Q25waTJJUzNqcTJaVExYOUxrVnFEeWdiU194TWU1bVlMLXl2LVcyaTUxQ2hhTEwzRnpMRWNMb1BHTndJX2Mx?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-08-29T22:16:00+00:00"
-          },
-          {
-            "title": "Nagarjuna: క్రిస్మస్‌కు ‘కింగ్‌ 100’ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUtGYmxLMDhBN2wwd01tOEV2VlEwNE9GMDdwRk9Zazk0bFhIbTZaeXBGZl9Ja1VmRnNvTmpKTWNhc0RoMzZXZlQ5TDVCMU5pZlhRZ1JRY3QwS25HcGNyRVpFVFZmMlAyNThKNDdPaDdqdjFvUmZDcHlEMmZuWWdkTkNVXzBjREZVT18yTlhIMFFEZlJ4dmFLSlZJODdRTHVVei16cGlScDRXNUttb001ZWFJY1NWM3JfMTRpaDR4Y9IBvwFBVV95cUxPZUtGYmxLMDhBN2wwd01tOEV2VlEwNE9GMDdwRk9Zazk0bFhIbTZaeXBGZl9Ja1VmRnNvTmpKTWNhc0RoMzZXZlQ5TDVCMU5pZlhRZ1JRY3QwS25HcGNyRVpFVFZmMlAyNThKNDdPaDdqdjFvUmZDcHlEMmZuWWdkTkNVXzBjREZVT18yTlhIMFFEZlJ4dmFLSlZJODdRTHVVei16cGlScDRXNUttb001ZWFJY1NWM3JfMTRpaDR4Yw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-29T21:59:27+00:00"
-          },
-          {
-            "title": "వర్షం కోసం దేవుడికి నిందా స్తుతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZGtyQjlWU0lEVExidXRQdnRYX2pVUktxWEdmM3pka2ZwWWlvcFZOelIzM0RUTk94Vm96bEpPVUhiNkYybGE3SklTOW9CQkVjek83NTl5MUJDaWtlMDVDUm5sTDVOX1VCWXVfX0RjT1fSAXBBVV95cUxOZGRrckI5VlNJRFRMYnV0UHZ0WF9qVVJLcVhHZjN6ZGtmcFlpb3BWTnpSMzNEVE5PeFZvemxKT1VIYjZGMmxhN0pJUzlvQkJFY3pPNzU5eTFCQ2lrZTA1Q1JubEw1Tl9VQll1X19EY09X?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-29T21:45:54+00:00"
+            "published": "2026-08-29T22:23:43+00:00"
           },
           {
             "title": "గిరిజన విద్యార్థుల డిమాండ్లకు ప్రభుత్వం అంగీకారం - Eenadu",
@@ -1142,18 +1128,32 @@
             "published": "2026-08-29T21:28:33+00:00"
           },
           {
-            "title": "Hockey World Cup: మహిళల హాకీ ప్రపంచకప్‌ విజేత అర్జెంటీనా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGtpLVJ4djlMbVl6S1hTYzc0WTdtTHpOYjNpbW9RZjltNnJmcGtzZWJCUi10WjFZdjNNSjUxZzFVVUswZExTZEZNci1yUWlMLUdBdm54ajIzM09BNEU4Qy1jamgxbFNJa1RCeVJITVZpSmRXWkloRlJlUl9nRFBBd3JXSndWdkl2aUs0TWFJVXJEV0xfQWk2eTNWYkvSAZwBQVVfeXFMTXBraS1SeHY5TG1ZektYU2M3NFk3bUx6TmIzaW1vUWY5bTZyZnBrc2ViQlItdFoxWXYzTUo1MWcxVVVLMGRMU2RGTXItclFpTC1HQXZueGoyMzNPQTRFOEMtY2poMWxTSWtUQnlSSE1WaUpkV1pJaEZSZVJfZ0RQQXdyV0p3VnZJdmlLNE1hSVVyRFdMX0FpNnkzVmJL?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-29T21:03:15+00:00"
-          },
-          {
             "title": "అమ్మకాలకు ఒత్తిడి తెచ్చి.. వేధింపులకు గురిచేశారు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQWRkRVIzNU54WUI1Nk5uTVJITmYtWXpJY0dnT0ZrcU1NcmVOVnZkMVBvdWtiRFg2S241a0l0M2NZcjdLR3B5S0k3eXNRTFJ2M3JYdlB2R0x1SWJlbThKWVVPSEx3RUlFbWs4enZfZkZzSk84T214NktjWkk2WFlXaA?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-29T20:58:38+00:00"
+          },
+          {
+            "title": "నడువీధిలో తల్వార్లతో యువకుడి నరికివేత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HV1NldTQ4UTkwWUp0azBVU1FiYXVGUEU5Z1czTGRxclBmY0gtYWxzS1dOT0I3b2NUcnAyVXY3V3RBMS1JMG1zZm9wQnIzeEE2UC1HbzB5ZUVzZ2ZQQ2RLY2FkUmZDb0dDRkNHd0N0M0c0LVJvXzh0dTh1NW8xUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-29T20:51:14+00:00"
+          },
+          {
+            "title": "సంక్షిప్త వార్తలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LRnN1ejloZmRqbi1YUGo3ejg1MlRZNmNDYk1CbFl6dDhtNTloMVhSNnFhRGlqRkQ5T1NMMDRRQ3g1YU9CYmUxQUFrSDlEei1OODA3Qi1MNGMzeE9FWXVvalBjbm9YY2VTVlBiX2lPM2o4UdIBckFVX3lxTE5LRnN1ejloZmRqbi1YUGo3ejg1MlRZNmNDYk1CbFl6dDhtNTloMVhSNnFhRGlqRkQ5T1NMMDRRQ3g1YU9CYmUxQUFrSDlEei1OODA3Qi1MNGMzeE9FWXVvalBjbm9YY2VTVlBiX2lPM2o4UQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-29T20:47:02+00:00"
+          },
+          {
+            "title": "పేదల ఇళ్లు.. పక్కదారి! - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMDF2M2owNm5vRlo3UTJjSTVlbTFDOWQ0Mm5sd1JCV1FySXNfakFUdDI0R0pFU0NIUjJjQk9RV1J0dndLS3phSmZmX2xQTS1fS0xZRmRVcmxmNkZ4OTMwQnF2d3JYT1ZVWGNKRWs4QzR0Qi1QTnFlYQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-29T20:04:21+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "সম্পাদক সমীপেষু: জীবনের জয়গান - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa19WeUlVMl9QbzQzejhjVHBDcVJQRjFfZTlXZUg3OWI0XzdPazRxTkNwcm9TeWpvcXhxcFNMeUpaRHpSUXFJTGd5RzQ1OWRKV04xRW1SZWh2OXBvSVBlNXJwRGczZ3pXeDZSX2dwX2NfbzNvcG9tVmxxVmdLUF9Gem9xXzFTQjNibVhlNV9DYnRKRXdleF9nVDc2bkY0aHRCN0dCRGM4dnotN1BLdWlGX29ENWRKSTQ5LVEzbE9Mdw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-29T23:43:04+00:00"
+          },
+          {
+            "title": "দিল্লি ডায়েরি: বয়সে নবীন হলেও যুক্তিতে তো পাকা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fcnh6ZFJwT0FPOXF0ZnEyd0hTQTZfZU96U0s4dzRFQ1BEbDVJZ1ZBVUtLWnA2VDl4TnpiVDJMdXkwMFhtVzB2WFUxaG03aE4ydkdYNW1vNzBzNUFGMzFVZHVHN1VZdlFtTUQ0UkM4V29fdHJB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-08-29T23:22:54+00:00"
+          },
+          {
             "title": "টানা তিন দিন ফিল্ডিং করেও শান্তি নেই, বোর্ডের নির্দেশে শ্রীলঙ্কা সফর শেষের ৪৮ ঘণ্টার মধ্যে ফিটনেস পরীক্ষা দিলেন পন্থ, যশস্বীরা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2JVbHVaelFUZkVydE1GdlJXQWJWYkhnN0NON09qY2ZValE4elNXVmw3WXVRb2lWQ1ZtcjN1NGcycS1nMjRhR0lxVlNNcnE2YUk1U3hTUXN6Q09yTE5EQk00Vi04V3NUU1N2S1pXN3JGbDMxVlpQSThHMWFUbUdBZUp1SFlQNmFQdUY1YVl5U3Y1bkM1aVptWUJYUjFrSTBZUVNUbklscEUzNFpaQXfSAbMBQVVfeXFMUFZKTkItZzFNWXpfR0g5WlExS1R0TGxiZWFhd2tBSTNwc2lhakVpRUVkdTVTcno2MXlobGhXdndpQ25lNGltQjhOR2NBZGhwb3RvQmpTbWpKTzBMRlFzNExuZFlUR2JQUFBRaHE0X2kxYkRuMHhHSEtrMGwtQm1WdzYxdVZaTndmOVFheG01SDQxQ3BXM3ZoOFBxc3Ftc2JvdjJDbHJzRTFDaWNPTi1idzdNTjA?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-08-29T14:45:18+00:00"
-          },
-          {
-            "title": "একের পর এক প্রতিমা ভেঙে রাস্তায় ফেলেছেন! হাওড়ার মন্দিরতলা থেকে গ্রেফতার ১, মৃৎশিল্পীদের পাড়ায় চাঞ্চল্য - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM045Nk9vMVJEcGs0dEdScFlMWlZ5R1hQMkdBWXRuZGx5T2hmSXdtV0R5R2hxbTZBVFg3UW9JYzk5d3h2SG03VGlGX3dtUGxfMVFFaUVuYVZMLVNpTVBWejAzOGpKTG5rUF9kTng2QXV0RFhkYjdJWV8yS24teE9kZUg4YmJwUHpkTHllZkE4R0J2NVQ3SjlDdjhBVUJ2R0NwSHlrOGZrR1ZiWFR6TjljSThmakFydERi0gG-AUFVX3lxTFB4MnNMaEtaTUY0OUI3bnhlVDM4UjREZTZCNDVtZmxtT3hxcHltNGRHdTUxVGt3WEUwZU9oRnppVXNsQnY5YXlsWXAxelcyYTV5OGstQmFGd2JrbHRyZ0tFd3RzRDdZMDRvbEEwQ1puUXB3SmFtMWxGZFkyNTEyZkUyUFRPV1pEaDY2T1NpOW80ZnBUQ3BBaldycmhwUzVIeTJzdURTOFdyOGJmR0YxcXhycXc2RHFtRkE1U3NUUHc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-29T14:16:19+00:00"
-          },
-          {
-            "title": "আশিস বন্দ্যোপাধ্যায়ের মৃত্যু বেদনাদায়ক, কিন্তু টিআরডিএ নিয়ে তদন্ত শেষ, এটা ভাবলে ভুল হবে: রামপুরহাটে মুখ্যমন্ত্রী - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRUlxV3FhVFNMbGtjWi1MamloTHQ4UFBOS1VUajNIdl9ucDBGRnQzRE5QM0tlVnVTOXRJWFpUTm0xZnJNVmZUZGFlQUZ5ZnpzN3BWWXEzalZNOEdwd0xvbmtDaUhxS0Fsd1BWSHgzdUVqQUpNUk8tZExHTDFZNm04SWRMbl9scVZHekhnQTV1YUt2UXE4U1E1bkllcklINTRBSkJ6b1NQN2R5aHROYWdwMW9zNkc5czVadlE4WU1lNEJITk1GUnVDY2htT2dqZGNLeGtpRzd0aXNDbGdBSHctSC0weG1GSVZDVTlHbXd0OFJfR1kzMHV5c3VNONIBgAJBVV95cUxQOWt6b3VKRWN5czZmVnFrQ0tkUkw4NTNCcFVEX0EyV19qeVliWDY1bExYXzFnVW9MY1FHLS1EZHQ0MkNwS0hZeVlnSG1XeENWM0VqVTRpRmpwMlVCTDZqWkdCQ0p6akphYXBLNGNlTmRqQk92TWV0TFVhOFpVdUpyTW94VDd0b0JJX0JMQmFMeGtJODdCRDExMVVUVnM3a20zM3lSWjYxTmszNmw4ZXNYbk9UUkFwY0QxQlA4YUVnV01rcGplRWgxNkpnYTNVY1htTGVRRUw3TmhtSDJsaW9QanpielVQaXZHb1E3VFZkdEpWQVFteGVuYUVoNWZPSzBs?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-08-29T14:02:41+00:00"
           }
         ]
       }
