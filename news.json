@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-08-30T21:01:36.950891+00:00",
+  "updated_at": "2026-08-30T21:31:25.610716+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+            "published": "2026-08-30T21:15:42+00:00"
+          },
+          {
+            "title": "Israeli strike kills 3-year-old child in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+            "published": "2026-08-30T21:02:45+00:00"
+          },
+          {
+            "title": "FPIs turn buyers for second month, invest ₹30,919 crore in August",
+            "link": "https://www.thehindu.com/business/markets/fpis-turn-buyers-for-second-month-invest-30919-crore-in-august/article71407917.ece",
+            "source": "The Hindu",
+            "summary": "The inflow follows ₹20,200 crore invested in July, marking a sharp turnaround after four consecutive months of heavy selling",
+            "published": "2026-08-31T02:27:51+05:30"
+          },
           {
             "title": "US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\"",
             "link": "https://www.ndtv.com/world-news/us-strikes-irans-larak-island-tehran-vows-response-and-punishment-11979563#publisher=newsstand",
@@ -81,30 +102,16 @@
             "source": "Al Jazeera",
             "summary": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.",
             "published": "2026-08-30T19:50:15+00:00"
-          },
-          {
-            "title": "NHAI mandates end-to-end AI-MC deployment for projects over 20 km in length",
-            "link": "https://timesofindia.indiatimes.com/india/nhai-mandates-end-to-end-ai-mc-deployment-for-projects-over-20-km-in-length/articleshow/133636665.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-08-31T01:18:35+05:30"
-          },
-          {
-            "title": "Abbas: \"Everyone is worried\" as Pakistan's grim run of form is extended",
-            "link": "https://www.cricinfo.com/ci/content/story/1552287.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Despite improvements, particularly with the ball, from Headingley, lack of competitiveness persists",
-            "published": "2026-08-30T19:47:21+00:00"
-          },
-          {
-            "title": "Lola Young surprises Reading Festival with final day set",
-            "link": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
-            "published": "2026-08-30T19:36:06+00:00"
           }
         ],
         "India": [
+          {
+            "title": "FPIs turn buyers for second month, invest ₹30,919 crore in August",
+            "link": "https://www.thehindu.com/business/markets/fpis-turn-buyers-for-second-month-invest-30919-crore-in-august/article71407917.ece",
+            "source": "The Hindu",
+            "summary": "The inflow follows ₹20,200 crore invested in July, marking a sharp turnaround after four consecutive months of heavy selling",
+            "published": "2026-08-31T02:27:51+05:30"
+          },
           {
             "title": "US Strikes Iran's Larak Island, Tehran Vows \"Response And Punishment\"",
             "link": "https://www.ndtv.com/world-news/us-strikes-irans-larak-island-tehran-vows-response-and-punishment-11979563#publisher=newsstand",
@@ -176,21 +183,28 @@
             "published": "2026-08-31T00:39:14+05:30"
           },
           {
-            "title": "PM Modi’s 36 international honours, at a glance | Graphics",
-            "link": "https://www.thehindu.com/news/national/thirty-six-honorary-awards-bestowed-upon-prime-minister-narendra-modi-by-other-countries-graphics/article71206617.ece",
+            "title": "Jammu and Kashmir should focus on retaining talented youth: Mattoo",
+            "link": "https://www.thehindu.com/news/cities/Delhi/jammu-and-kashmir-should-focus-on-retaining-talented-youth-mattoo/article71408506.ece",
             "source": "The Hindu",
-            "summary": "On August 30, 2026, PM Modi was conferred with Uzbekistan's prestigious ‘Oliy Darajali Do'stlik’ Order",
-            "published": "2026-08-31T00:33:36+05:30"
-          },
-          {
-            "title": "Amid Alliance Suspense, Akali-BJP Student Wings Tie Up For University Polls",
-            "link": "https://www.ndtv.com/india-news/amid-alliance-suspense-akali-bjp-student-wings-tie-up-for-university-polls-11979430#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Akhil Bharatiya Vidyarthi Parishad or ABVP, affiliated with the BJP, and the Shiromani Akali Dal-backed Students' Organisation of India (SOI) announced an alliance on Sunday.",
-            "published": "2026-08-31T00:33:29+05:30"
+            "summary": "",
+            "published": "2026-08-31T00:34:58+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+            "published": "2026-08-30T21:15:42+00:00"
+          },
+          {
+            "title": "Israeli strike kills 3-year-old child in Gaza",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+            "published": "2026-08-30T21:02:45+00:00"
+          },
           {
             "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
@@ -260,20 +274,6 @@
             "source": "BBC World",
             "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
             "published": "2026-08-30T18:53:53+00:00"
-          },
-          {
-            "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.",
-            "published": "2026-08-30T18:51:33+00:00"
-          },
-          {
-            "title": "Devastation from the Nepal-China Floods in 30 photos",
-            "link": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.",
-            "published": "2026-08-30T18:34:59+00:00"
           }
         ],
         "Business": [
@@ -1079,6 +1079,13 @@
             "published": "2026-08-30T18:40:00+00:00"
           },
           {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (31/08/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEpsbDJGeEtUYVJZd2llTkJnTnh2U0RnSDhzd1hCUkw2UUZrYjFoQXRtbkltNnY3ZUN2d1hGam02RnJwN0FfSDhlbVdUMnUweVNlVmVRRWkzS2ZXYjFZWGVDOUdVeS1zRzN6cjA2TFBYU182QmY5eHVUR01ZeS1Kc0hrZzNuaVNac3ZNaVFuY214TG55NVpZYjdMUDRHMEhpYUhWNl82TDZEd9IBqgFBVV95cUxOdEpsbDJGeEtUYVJZd2llTkJnTnh2U0RnSDhzd1hCUkw2UUZrYjFoQXRtbkltNnY3ZUN2d1hGam02RnJwN0FfSDhlbVdUMnUweVNlVmVRRWkzS2ZXYjFZWGVDOUdVeS1zRzN6cjA2TFBYU182QmY5eHVUR01ZeS1Kc0hrZzNuaVNac3ZNaVFuY214TG55NVpZYjdMUDRHMEhpYUhWNl82TDZEdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-08-30T18:33:10+00:00"
+          },
+          {
             "title": "Traffic Updates: 5 కీలక ఫ్లైఓవర్లపై వీరికి నో ఎంట్రీ! సెప్టెంబర్ 4 నుంచి కొత్త రూల్స్",
             "link": "https://telugu.oneindia.com/news/india/bengaluru-traffic-police-announce-vehicle-restrictions-on-five-major-flyovers-starting-september-4-504061.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-08-30T12:30:00+00:00"
-          },
-          {
-            "title": "నైరుతి జోరు.. వచ్చే వారం వరకు దంచికొట్టనున్న వర్షాలు!",
-            "link": "https://telugu.oneindia.com/news/india/imd-monsoon-alert-heavy-to-very-heavy-rainfall-forecast-across-multiple-states-with-flash-flood-ris-504045.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-30T17:57:55+05:30"
           }
         ],
         "Entertainment": [
