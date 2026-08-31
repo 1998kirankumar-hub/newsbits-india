@@ -1,111 +1,160 @@
 {
-  "updated_at": "2026-08-31T08:31:36.147604+00:00",
+  "updated_at": "2026-08-31T09:01:41.203664+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
-            "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+            "title": "Anthropic Faces Lawsuit From Sony Music, Warner Chappell Over Alleged Copyrighted Material Use",
+            "link": "https://www.gadgets360.com/ai/news/sony-music-warner-chappell-sue-anthropic-copyright-lawsuit-dario-amodei-benjamin-mann-11981131",
+            "source": "Gadgets 360",
+            "summary": "Sony Music and Warner Chappell have filed a lawsuit against Anthropic. The Claude maker allegedly used copyrighted material without permission. Anthropic co-founders Dario Amodei and Benjamin Mann are named as individual defendants. The complaint alleges that Mann used BitTorrent to download many pirated books, and Anthropic employees allegedly downloaded at least two million more books from the Pirate Library…",
+            "published": "2026-08-31T14:20:55+05:30"
+          },
+          {
+            "title": "China tightens property rules: What it means for buyers, developers",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/china-tightens-property-rules-what-it-means-for-buyers-developers/articleshow/133647509.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-31T14:19:00+05:30"
+          },
+          {
+            "title": "Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?",
+            "link": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump&#039;s unilateralism.",
+            "published": "2026-08-31T08:47:03+00:00"
+          },
+          {
+            "title": "Lakshya Sen Spearheads Indian Challenge At China Masters, Youngsters In Focus",
+            "link": "https://sports.ndtv.com/badminton/lakshya-spearheads-indian-challenge-at-china-masters-young-womens-singles-trio-in-focus-11980185#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Lakshya Sen will look to bounce back from the disappointment of his early exit at the World Championships but a tough opener awaits him when he spearheads the Indian challenge at the USD 1,250,000 China Masters Super 750",
+            "published": "2026-08-31T14:15:11+05:30"
+          },
+          {
+            "title": "Capri Sports Bets On Girls' Football, Targets 1.5 Million Girls In 10 Years",
+            "link": "https://sports.ndtv.com/football/capri-sports-bets-on-girls-football-targets-1-5-million-girls-in-10-years-11981184#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "For Capri Sports Director and Promoter Jinisha Sharma, the move represents a shift from investing primarily in sporting assets to building the pipeline that feeds them.",
+            "published": "2026-08-31T14:12:52+05:30"
+          },
+          {
+            "title": "Borussia Dortmund's Giannis Konstantelias To Miss 'Several Months' With Knee Injury",
+            "link": "https://sports.ndtv.com/football/borussia-dortmunds-giannis-konstantelias-to-miss-several-months-with-knee-injury-11979052#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Borussia Dortmund newcomer Giannis Konstantelias will miss \"several months\" with a serious knee injury picked up in Saturday's home win over Hamburg, his club announced on Sunday.",
+            "published": "2026-08-31T14:10:11+05:30"
+          },
+          {
+            "title": "Anti-conversion bill won’t be tabled in Goa assembly: BJP lawmaker",
+            "link": "https://www.hindustantimes.com/india-news/anticonversion-bill-won-t-be-tabled-in-goa-assembly-bjp-lawmaker-101788165390367.html",
+            "source": "Hindustan Times",
+            "summary": "Ruling Bharatiya Janata Party (BJP) lawmaker Michael Lobo said the government acted in haste in having the bill cleared in the Cabinet",
+            "published": "2026-08-31T14:06:30+05:30"
+          },
+          {
+            "title": "US and Iran trade strikes for first time in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
-            "published": "2026-08-31T08:17:25+00:00"
+            "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+            "published": "2026-08-31T08:34:25+00:00"
           },
           {
-            "title": "Telangana CM to inaugurate 400-metre-wide bridge connecting Moosarambagh and Amberpet",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-cm-to-inaugurate-400-metre-wide-bridge-connecting-moosarambagh-and-amberpet/article71409924.ece",
+            "title": "Keralam Minister Bindu Krishna slams Kanthapuram’s directive on ‘restricting’ women at public events",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-minister-bindu-krishna-slams-kanthapurams-directive-on-restricting-women-at-public-events/article71410080.ece",
             "source": "The Hindu",
-            "summary": "Revanth Reddy to unveil logos of CMC, MMC and GHMC",
-            "published": "2026-08-31T13:44:38+05:30"
+            "summary": "Bindu Krishna says such directives can push women “centuries back” and should not be accepted in a society that guarantees equal rights to men and women",
+            "published": "2026-08-31T14:04:15+05:30"
           },
           {
-            "title": "England vs Pakistan second Test: Three talking points from cricket series",
-            "link": "https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pakistan’s batting collapses, concerns over the Lord’s pitch and Ollie Robinson’s rampant form highlight the series.",
-            "published": "2026-08-31T08:12:54+00:00"
-          },
-          {
-            "title": "Three decades after laying stone, Chandrababu Naidu inaugurates first phase of Veligonda irrigation project",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/three-decades-after-laying-stone-chandrababu-naidu-to-inaugurate-first-phase-of-veligonda-irrigation-project-on-august-31/article71408016.ece",
-            "source": "The Hindu",
-            "summary": "About 10.70 tmc ft of Krishna water is being released from the Srisailam reservoir into Nallamala Sagar, providing irrigation to approximately 1.19 lakh acres and drinking water to 4 lakh people",
-            "published": "2026-08-31T13:41:18+05:30"
-          },
-          {
-            "title": "Milk gets costlier: TN raises procurement price; wholesale rate in Mumbai to cross Rs 100",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/milk-gets-costlier-tamil-nadu-raises-procurement-price-wholesale-prices-in-mumbai-to-cross-rs-100/articleshow/133645906.cms",
-            "source": "Times of India",
+            "title": "Goa nightclub fire case: SC upholds HC order cancelling bail of club owners",
+            "link": "https://www.hindustantimes.com/india-news/goa-nightclub-fire-case-sc-upholds-hc-order-cancelling-bail-of-club-owners-101788165207459.html",
+            "source": "Hindustan Times",
             "summary": "",
-            "published": "2026-08-31T13:37:18+05:30"
+            "published": "2026-08-31T14:03:27+05:30"
           },
           {
-            "title": "Twin murder charges in US leave Anila’s native village in Keralam in shock",
-            "link": "https://www.thehindu.com/news/national/kerala/twin-murder-charges-in-us-leave-anilas-native-village-in-keralam-in-shock/article71409979.ece",
+            "title": "Expect everybody to act in responsible manner: SC refuses to prohibit CJP’s September 5 protest march",
+            "link": "https://www.thehindu.com/news/national/cockroach-janta-party-september-5-protest-supreme-court/article71410083.ece",
             "source": "The Hindu",
-            "summary": "Anila, a former resident of Tazhakkavayal in Kottayam, has been arrested in United States for allegedly killing two Keralite women in California",
-            "published": "2026-08-31T13:36:42+05:30"
+            "summary": "The CJP has called for a protest march in Delhi, accusing the Centre of failing to honour the promises made on July 25 to persuade the group to withdraw its 36-day agitation against examination irregularities",
+            "published": "2026-08-31T14:01:22+05:30"
           },
           {
-            "title": "‘One Nation, One Time’ and how it works | Explained",
-            "link": "https://www.thehindu.com/news/national/what-is-one-nation-one-time-how-it-works/article71409841.ece",
-            "source": "The Hindu",
-            "summary": "The government said that the need for a common time reference has increased with the growing use of digital and technology-based systems",
-            "published": "2026-08-31T13:36:25+05:30"
+            "title": "How NEET portal flaws flagged by a teen led to IIT Kanpur job",
+            "link": "https://www.hindustantimes.com/india-news/how-neet-portal-flaws-flagged-by-a-teen-led-to-iit-kanpur-job-101788164755223.html",
+            "source": "Hindustan Times",
+            "summary": "Anil was approached by IIT Kanpur and offered a role at its cybersecurity innovation hub, C3iHub",
+            "published": "2026-08-31T14:01:13+05:30"
           },
           {
-            "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
-            "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
-            "published": "2026-08-31T08:05:52+00:00"
+            "title": "Panic In Pakistan After England Debacle, PCB Calls Up 6 Players To England, Changes Coaching Reins",
+            "link": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Pakistan Cricket Board (PCB) has hit the panic button, with sweeping change unloading ahead of the third and final Test against England.",
+            "published": "2026-08-31T13:59:19+05:30"
           },
           {
-            "title": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/mettur-dam-the-water-source-for-tamil-nadus-rice-belt/article71409983.ece",
-            "source": "The Hindu",
-            "summary": "With poor monsoon, the release has been delayed this year and Chief Minister C. Joseph Vijay will open water from dam on September 1, 2026",
-            "published": "2026-08-31T13:35:36+05:30"
-          },
-          {
-            "title": "Nord Stream bombings put Ukraine’s ties with Germany under pressure",
-            "link": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say.",
-            "published": "2026-08-31T08:03:48+00:00"
-          },
-          {
-            "title": "‘An act of resistance’: Raja Shehadeh’s Palestinian diaries find a new home",
-            "link": "https://www.aljazeera.com/news/2026/8/31/an-act-of-resistance-raja-shehadehs-palestinian-diaries-find-a-new-home?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Al Jazeera interviews the leading writer and lawyer, 75, in Edinburgh, where his daily documentation is being archived.",
-            "published": "2026-08-31T08:03:31+00:00"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay announces Semiconductor Park at Kancheepuram",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-semiconductor-park-at-kancheepuram/article71410016.ece",
-            "source": "The Hindu",
-            "summary": "A FinTech Hub is to be set up at Coimbatore and a Multi-Modal Logistics Hub is to come up at Tiruchi",
-            "published": "2026-08-31T13:30:50+05:30"
-          },
-          {
-            "title": "Over 70% of Chennai’s stormwater drains to be desilted by September-end: GCC",
-            "link": "https://www.thehindu.com/news/cities/chennai/over-70-of-chennais-stormwater-drains-to-be-desilted-by-september-end-gcc/article71408288.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-31T13:27:30+05:30"
-          },
-          {
-            "title": "Zomato bans these dishes on its platform with immediate effect",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-bans-these-dishes-on-its-platform-with-immediate-effect/articleshow/133646558.cms",
-            "source": "Times of India",
-            "summary": "Zomato has banned analogue dairy dishes from its platform immediately. Restaurant partners must transition to natural dairy products or remove items. This consumer-first step ensures transparency and upholds food quality standards. Separately, Zomato shut down its Hyderabad customer support operations. This restructuring led to approximately 250 employees losing their jobs.",
-            "published": "2026-08-31T13:24:57+05:30"
+            "title": "\"Ask Chelsea About Musiala\": Bayern Campus Head On Kenan Yildiz 'Regret', Lennart Karl's Rise",
+            "link": "https://sports.ndtv.com/football/from-lennart-karl-to-aleksandar-pavlovic-the-untold-story-behind-bayerns-next-golden-generation-11980366#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Speaking to NDTV, Bayern Munich head of youth academy Jochen Sauer explained the core principles that saw multiple Campus players earn promotion to the first team at the club.",
+            "published": "2026-08-31T13:55:48+05:30"
           }
         ],
         "India": [
           {
+            "title": "China tightens property rules: What it means for buyers, developers",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/china-tightens-property-rules-what-it-means-for-buyers-developers/articleshow/133647509.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-31T14:19:00+05:30"
+          },
+          {
+            "title": "Anti-conversion bill won’t be tabled in Goa assembly: BJP lawmaker",
+            "link": "https://www.hindustantimes.com/india-news/anticonversion-bill-won-t-be-tabled-in-goa-assembly-bjp-lawmaker-101788165390367.html",
+            "source": "Hindustan Times",
+            "summary": "Ruling Bharatiya Janata Party (BJP) lawmaker Michael Lobo said the government acted in haste in having the bill cleared in the Cabinet",
+            "published": "2026-08-31T14:06:30+05:30"
+          },
+          {
+            "title": "Keralam Minister Bindu Krishna slams Kanthapuram’s directive on ‘restricting’ women at public events",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-minister-bindu-krishna-slams-kanthapurams-directive-on-restricting-women-at-public-events/article71410080.ece",
+            "source": "The Hindu",
+            "summary": "Bindu Krishna says such directives can push women “centuries back” and should not be accepted in a society that guarantees equal rights to men and women",
+            "published": "2026-08-31T14:04:15+05:30"
+          },
+          {
+            "title": "Goa nightclub fire case: SC upholds HC order cancelling bail of club owners",
+            "link": "https://www.hindustantimes.com/india-news/goa-nightclub-fire-case-sc-upholds-hc-order-cancelling-bail-of-club-owners-101788165207459.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-08-31T14:03:27+05:30"
+          },
+          {
+            "title": "Expect everybody to act in responsible manner: SC refuses to prohibit CJP’s September 5 protest march",
+            "link": "https://www.thehindu.com/news/national/cockroach-janta-party-september-5-protest-supreme-court/article71410083.ece",
+            "source": "The Hindu",
+            "summary": "The CJP has called for a protest march in Delhi, accusing the Centre of failing to honour the promises made on July 25 to persuade the group to withdraw its 36-day agitation against examination irregularities",
+            "published": "2026-08-31T14:01:22+05:30"
+          },
+          {
+            "title": "How NEET portal flaws flagged by a teen led to IIT Kanpur job",
+            "link": "https://www.hindustantimes.com/india-news/how-neet-portal-flaws-flagged-by-a-teen-led-to-iit-kanpur-job-101788164755223.html",
+            "source": "Hindustan Times",
+            "summary": "Anil was approached by IIT Kanpur and offered a role at its cybersecurity innovation hub, C3iHub",
+            "published": "2026-08-31T14:01:13+05:30"
+          },
+          {
+            "title": "Madras High Court reserves orders on M.K. Stalin’s plea to declare him elected from Kolathur constituency",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-on-mk-stalins-plea-to-declare-him-elected-from-kolathur-constituency/article71409830.ece",
+            "source": "The Hindu",
+            "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan permit the former Chief Minister to withdraw another writ petition challenging certain provisions of the SOP framed by the ECI for verifying 5% of EVM sets",
+            "published": "2026-08-31T13:55:01+05:30"
+          },
+          {
             "title": "Telangana CM to inaugurate 400-metre-wide bridge connecting Moosarambagh and Amberpet",
             "link": "https://www.thehindu.com/news/cities/Hyderabad/telangana-cm-to-inaugurate-400-metre-wide-bridge-connecting-moosarambagh-and-amberpet/article71409924.ece",
             "source": "The Hindu",
@@ -120,6 +169,13 @@
             "published": "2026-08-31T13:41:18+05:30"
           },
           {
+            "title": "5 dead, several injured in blast at cracker manufacturing unit in UP",
+            "link": "https://timesofindia.indiatimes.com/city/allahabad/6-dead-several-injured-in-blast-at-cracker-manufacturing-unit-in-up/articleshow/133646813.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-08-31T13:38:04+05:30"
+          },
+          {
             "title": "Milk gets costlier: TN raises procurement price; wholesale rate in Mumbai to cross Rs 100",
             "link": "https://timesofindia.indiatimes.com/business/india-business/milk-gets-costlier-tamil-nadu-raises-procurement-price-wholesale-prices-in-mumbai-to-cross-rs-100/articleshow/133645906.cms",
             "source": "Times of India",
@@ -132,71 +188,36 @@
             "source": "The Hindu",
             "summary": "Anila, a former resident of Tazhakkavayal in Kottayam, has been arrested in United States for allegedly killing two Keralite women in California",
             "published": "2026-08-31T13:36:42+05:30"
-          },
-          {
-            "title": "‘One Nation, One Time’ and how it works | Explained",
-            "link": "https://www.thehindu.com/news/national/what-is-one-nation-one-time-how-it-works/article71409841.ece",
-            "source": "The Hindu",
-            "summary": "The government said that the need for a common time reference has increased with the growing use of digital and technology-based systems",
-            "published": "2026-08-31T13:36:25+05:30"
-          },
-          {
-            "title": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/mettur-dam-the-water-source-for-tamil-nadus-rice-belt/article71409983.ece",
-            "source": "The Hindu",
-            "summary": "With poor monsoon, the release has been delayed this year and Chief Minister C. Joseph Vijay will open water from dam on September 1, 2026",
-            "published": "2026-08-31T13:35:36+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay announces Semiconductor Park at Kancheepuram",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-semiconductor-park-at-kancheepuram/article71410016.ece",
-            "source": "The Hindu",
-            "summary": "A FinTech Hub is to be set up at Coimbatore and a Multi-Modal Logistics Hub is to come up at Tiruchi",
-            "published": "2026-08-31T13:30:50+05:30"
-          },
-          {
-            "title": "Over 70% of Chennai’s stormwater drains to be desilted by September-end: GCC",
-            "link": "https://www.thehindu.com/news/cities/chennai/over-70-of-chennais-stormwater-drains-to-be-desilted-by-september-end-gcc/article71408288.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-31T13:27:30+05:30"
-          },
-          {
-            "title": "Zomato bans these dishes on its platform with immediate effect",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/zomato-bans-these-dishes-on-its-platform-with-immediate-effect/articleshow/133646558.cms",
-            "source": "Times of India",
-            "summary": "Zomato has banned analogue dairy dishes from its platform immediately. Restaurant partners must transition to natural dairy products or remove items. This consumer-first step ensures transparency and upholds food quality standards. Separately, Zomato shut down its Hyderabad customer support operations. This restructuring led to approximately 250 employees losing their jobs.",
-            "published": "2026-08-31T13:24:57+05:30"
-          },
-          {
-            "title": "Taliparamba MLA T.K. Govindan declines to comment on Pinarayi Vijayan’s criticism",
-            "link": "https://www.thehindu.com/news/national/kerala/taliparamba-mla-tk-govindan-declines-to-comment-on-pinarayi-vijayans-criticism/article71409921.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-08-31T13:19:56+05:30"
-          },
-          {
-            "title": "SC says probe agencies tend to go slow on the powerful, but quick to act with commoners",
-            "link": "https://www.thehindu.com/news/national/sc-says-probe-agencies-tend-to-go-slow-on-the-powerful-but-quick-to-act-with-commoners/article71410004.ece",
-            "source": "The Hindu",
-            "summary": "The observations were made while hearing a petition filed by Sumit Roy, the personal assistant to Trinamool Congress MP Abhishek Banerjee, in connection with the Salboni land-grabbing case",
-            "published": "2026-08-31T13:19:46+05:30"
-          },
-          {
-            "title": "Zomato bans analogue paneer on its platform, asks restaurants to switch to dairy",
-            "link": "https://www.hindustantimes.com/india-news/zomato-bans-analogue-paneer-on-its-platform-asks-restaurants-to-switch-to-dairy-101788162058983.html",
-            "source": "Hindustan Times",
-            "summary": "With immediate effect, dishes that restaurant partners have declared as containing analogue dairy have been removed from Zomato.",
-            "published": "2026-08-31T13:14:20+05:30"
           }
         ],
         "World": [
           {
-            "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
+            "title": "Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?",
+            "link": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump&#039;s unilateralism.",
+            "published": "2026-08-31T08:47:03+00:00"
+          },
+          {
+            "title": "US and Iran trade strikes for first time in weeks",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+            "published": "2026-08-31T08:34:25+00:00"
+          },
+          {
+            "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
             "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
             "published": "2026-08-31T08:17:25+00:00"
+          },
+          {
+            "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+            "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+            "published": "2026-08-31T08:13:40+00:00"
           },
           {
             "title": "England vs Pakistan second Test: Three talking points from cricket series",
@@ -234,11 +255,11 @@
             "published": "2026-08-31T07:34:14+00:00"
           },
           {
-            "title": "US and Iran trade strikes for first time in weeks",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "title": "'Moonies' church leader jailed for two years over bribery offences",
+            "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-            "published": "2026-08-31T07:04:36+00:00"
+            "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
+            "published": "2026-08-31T06:56:40+00:00"
           },
           {
             "title": "FIFA president Infantino ‘must go’, says former UEFA boss Platini",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.",
             "published": "2026-08-31T05:37:23+00:00"
-          },
-          {
-            "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
-            "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.",
-            "published": "2026-08-31T05:31:25+00:00"
-          },
-          {
-            "title": "Global coral reef coverage risks irreversible decline, new report warns",
-            "link": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Coral reefs make up just 1 percent of ocean coverage, but host a quarter of all life in the sea.",
-            "published": "2026-08-31T05:19:05+00:00"
-          },
-          {
-            "title": "People return to their flood-ravaged homes in Nepal",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.",
-            "published": "2026-08-31T04:19:22+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,48 @@
         ],
         "Sports": [
           {
+            "title": "Lakshya Sen Spearheads Indian Challenge At China Masters, Youngsters In Focus",
+            "link": "https://sports.ndtv.com/badminton/lakshya-spearheads-indian-challenge-at-china-masters-young-womens-singles-trio-in-focus-11980185#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Lakshya Sen will look to bounce back from the disappointment of his early exit at the World Championships but a tough opener awaits him when he spearheads the Indian challenge at the USD 1,250,000 China Masters Super 750",
+            "published": "2026-08-31T14:15:11+05:30"
+          },
+          {
+            "title": "Capri Sports Bets On Girls' Football, Targets 1.5 Million Girls In 10 Years",
+            "link": "https://sports.ndtv.com/football/capri-sports-bets-on-girls-football-targets-1-5-million-girls-in-10-years-11981184#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "For Capri Sports Director and Promoter Jinisha Sharma, the move represents a shift from investing primarily in sporting assets to building the pipeline that feeds them.",
+            "published": "2026-08-31T14:12:52+05:30"
+          },
+          {
+            "title": "Borussia Dortmund's Giannis Konstantelias To Miss 'Several Months' With Knee Injury",
+            "link": "https://sports.ndtv.com/football/borussia-dortmunds-giannis-konstantelias-to-miss-several-months-with-knee-injury-11979052#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Borussia Dortmund newcomer Giannis Konstantelias will miss \"several months\" with a serious knee injury picked up in Saturday's home win over Hamburg, his club announced on Sunday.",
+            "published": "2026-08-31T14:10:11+05:30"
+          },
+          {
+            "title": "Panic In Pakistan After England Debacle, PCB Calls Up 6 Players To England, Changes Coaching Reins",
+            "link": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Pakistan Cricket Board (PCB) has hit the panic button, with sweeping change unloading ahead of the third and final Test against England.",
+            "published": "2026-08-31T13:59:19+05:30"
+          },
+          {
+            "title": "\"Ask Chelsea About Musiala\": Bayern Campus Head On Kenan Yildiz 'Regret', Lennart Karl's Rise",
+            "link": "https://sports.ndtv.com/football/from-lennart-karl-to-aleksandar-pavlovic-the-untold-story-behind-bayerns-next-golden-generation-11980366#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Speaking to NDTV, Bayern Munich head of youth academy Jochen Sauer explained the core principles that saw multiple Campus players earn promotion to the first team at the club.",
+            "published": "2026-08-31T13:55:48+05:30"
+          },
+          {
+            "title": "Asian Games Organisers Issue Statement As BCCI Flags Concern Over Facilities",
+            "link": "https://sports.ndtv.com/othersports/asian-games-organisers-issue-statement-as-bcci-flags-concern-over-facilities-11980774#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The 2026 Asian Games are scheduled to be held in Aichi-Nagoya, Japan, from September 19 to October 4. However, the showpiece event recently found itself at the centre of a controversy over athletes' accommodation.",
+            "published": "2026-08-31T12:41:48+05:30"
+          },
+          {
             "title": "Babar Azam Exposed During Post-Match Chat, His Response To 'Change' Shows His Tactical Limits",
             "link": "https://sports.ndtv.com/cricket/babar-azam-exposed-during-post-match-chat-his-response-to-change-shows-his-tactical-limits-11979866#publisher=newsstand",
             "source": "NDTV Sports",
@@ -404,51 +446,30 @@
             "source": "ESPN Cricinfo",
             "summary": "Australia's ODI squads for the Zimbabwe and South Africa series will be named this week",
             "published": "2026-08-31T05:59:00+00:00"
-          },
-          {
-            "title": "Pakistan Hit Panic Button: Squad Clear-Out And Coaching Change Unloading Ahead Of 3rd Test",
-            "link": "https://sports.ndtv.com/cricket/pakistan-hit-panic-button-squad-clear-out-and-coaching-change-unloading-ahead-of-3rd-test-11980455#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The Pakistan Cricket Board (PCB) has hit the panic button, with sweeping change unloading ahead of the third and final Test against England.",
-            "published": "2026-08-31T11:12:49+05:30"
-          },
-          {
-            "title": "US Open 2026: Novak Djokovic In Tears After First Opening Round Exit In 20 Years",
-            "link": "https://sports.ndtv.com/tennis/us-open-2026-novak-djokovic-in-tears-after-first-opening-round-exit-in-20-years-11980440#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "US Open 2026 witnessed one of the biggest upsets in the tournament's history as Novak Djokovic crashed out in the first round after losing to Mariano Navone.",
-            "published": "2026-08-31T11:08:34+05:30"
-          },
-          {
-            "title": "From Lennart Karl To Aleksandar Pavlovic: The Untold Story Behind Bayern's Next Golden Generation",
-            "link": "https://sports.ndtv.com/football/from-lennart-karl-to-aleksandar-pavlovic-the-untold-story-behind-bayerns-next-golden-generation-11980366#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Speaking to NDTV, Bayern Munich head of youth academy Jochen Sauer explained the core principles that saw multiple Campus players earn promotion to the first team at the club.",
-            "published": "2026-08-31T10:48:33+05:30"
-          },
-          {
-            "title": "Joe Root's Blockbuster Praise For Team England After Dominating Win vs Pakistan",
-            "link": "https://sports.ndtv.com/cricket/lot-of-good-things-to-build-on-joe-root-praises-englands-performance-after-lords-win-over-pakistan-11980021#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "England Test captain Joe Root praised his team's all-round performance after the Three Lions secured a commanding 194-run victory over Pakistan in the second Test at Lord's on Sunday.",
-            "published": "2026-08-31T10:20:40+05:30"
-          },
-          {
-            "title": "Real Madrid, Malaga Players Pay Tribute To Nepal Floods Victims Before La Liga Match",
-            "link": "https://sports.ndtv.com/football/real-madrid-malaga-players-pay-tribute-to-nepal-floods-victims-before-la-liga-match-11980007#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Football clubs Real Madrid and Malaga observed a minute's silence before their La Liga match at the Santiago Bernabeu on Sunday as a mark of respect for the victims of the devastating floods in Nepal and Tibet.",
-            "published": "2026-08-31T10:09:45+05:30"
-          },
-          {
-            "title": "All Eyes On Carlos Alcaraz As Defending Champ Returns From Injury At US Open",
-            "link": "https://sports.ndtv.com/tennis/all-eyes-on-alcaraz-as-defending-champ-returns-from-injury-at-us-open-11979752#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Defending champion Carlos Alcaraz will try to shake off the rust quickly when he launches his US Open campaign against Roman Safiullin on Monday in the Spaniard's first match in more than four months.",
-            "published": "2026-08-31T10:00:57+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Anthropic Faces Lawsuit From Sony Music, Warner Chappell Over Alleged Copyrighted Material Use",
+            "link": "https://www.gadgets360.com/ai/news/sony-music-warner-chappell-sue-anthropic-copyright-lawsuit-dario-amodei-benjamin-mann-11981131",
+            "source": "Gadgets 360",
+            "summary": "Sony Music and Warner Chappell have filed a lawsuit against Anthropic. The Claude maker allegedly used copyrighted material without permission. Anthropic co-founders Dario Amodei and Benjamin Mann are named as individual defendants. The complaint alleges that Mann used BitTorrent to download many pirated books, and Anthropic employees allegedly downloaded at least two million more books from the Pirate Library…",
+            "published": "2026-08-31T14:20:55+05:30"
+          },
+          {
+            "title": "Xiaomi Pad 9 Pro Could Get a Huge 11,000mAh Battery and Bigger 12.5-Inch Display, Leak Suggests",
+            "link": "https://www.gadgets360.com/tablets/news/xiaomi-pad-9-pro-hardware-details-leaked-display-battery-specifications-11980989",
+            "source": "Gadgets 360",
+            "summary": "Details about Xiaomi’s Pad 9 Pro have leaked, revealing key hardware details about the upcoming tablet. According to a tipster on Weibo, the tablet will feature a 12.5-inch display and a Qualcomm processor instead of Xiaomi’s Xring O3 processor, which is said to debut on upcoming products launching in early September.",
+            "published": "2026-08-31T13:45:28+05:30"
+          },
+          {
+            "title": "BGMI Redeem Codes for August 31: How to Claim Dracostride Skin for UZI, Other Free Rewards",
+            "link": "https://www.gadgets360.com/games/news/bgmi-redeem-codes-for-august-31-how-to-claim-dracostride-skin-for-uzi-other-free-rewards-11980967",
+            "source": "Gadgets 360",
+            "summary": "Krafton India recently celebrated the 5th Anniversary Edition 4.5 Update of Battlegrounds Mobile India (BGMI). To commemorate the hugely popular online battle royale game, the developer has been frequently releasing BGMI redeem codes in recent weeks. The latest batch, which contains 50 codes in total, gives players a chance to claims limited-time in-game rewards. Each code has a limited redemption capacity and is…",
+            "published": "2026-08-31T13:18:47+05:30"
+          },
           {
             "title": "Redmi 17 5G India Launch Date Announced; Will Debut With a Larger Battery Than the Global Model",
             "link": "https://www.gadgets360.com/mobiles/news/redmi-17-5g-india-launch-date-announced-colour-options-battery-specifications-features-11980837",
@@ -511,27 +532,6 @@
             "source": "Gadgets 360",
             "summary": "WhatsApp is reportedly rolling out the Scam Alert feature to a limited number of Android beta testers with version 2.26.34.1. This functionality runs an on-device machine learning model to alert users about potential scam messages. It is an optional feature, and when the model identifies a message as a likely scam attempt, the user sees a warning in the chat, which is not visible to the other person.",
             "published": "2026-08-31T11:40:20+05:30"
-          },
-          {
-            "title": "Poco F9 Ultra May Cost Nearly Twice as Much as Poco F9 Pro, Tipster Claims",
-            "link": "https://www.gadgets360.com/mobiles/news/poco-f9-pro-ultra-price-leak-philippines-september-1-launch-11980142",
-            "source": "Gadgets 360",
-            "summary": "The Poco F9 is set to launch soon in the global marketers as the company’s next-generation performance-focussed lineup, comprising the Poco F9 Pro and F9 Ultra. Both models expected to be based on the Redmi K100 series smartphones sold in China. With just a day to go till their debut, pricing of the Poco F9 series has been leaked by a tipster. The Ultra model is believed to be twice as expensive as the F9 Pro in…",
-            "published": "2026-08-31T09:39:01+05:30"
-          },
-          {
-            "title": "Apple Watch Series 12, Ultra 4 Could Get Two Major Health Upgrades, New Finishes: Report",
-            "link": "https://www.gadgets360.com/wearables/news/apple-watch-series-12-ultra-4-new-health-features-colour-options-mark-gurman-report-11980054",
-            "source": "Gadgets 360",
-            "summary": "With less than two weeks to go for Apple’s ‘Surprise and shine’ event, rumours about the tech giant’s next-generation hardware are now surfacing rapidly. While most of the focus seems to be on the iPhone 18 series, particularly the iPhone Ultra, a new report suggests that Apple could also be preparing a significant health-focused update for its next-generation smartwatch. Apple Watch Series 12 and Watch Ultra 4 are…",
-            "published": "2026-08-31T09:03:19+05:30"
-          },
-          {
-            "title": "Smartphones Launching in September 2026: iPhone 18 Pro Lineup, iPhone Ultra, Poco F9 Series and More",
-            "link": "https://www.gadgets360.com/mobiles/features/smartphones-launching-in-september-2026-iphone-18-pro-lineup-ultra-poco-f9-series-11967791",
-            "source": "Gadgets 360",
-            "summary": "September will bring a mix of flagship, foldable and budget smartphones, with launches spread across India, China and global markets. Vivo has two lineups in the pipeline, while Xiaomi and Apple are preparing major flagship releases. Redmi’s new Note models could reach Indian buyers after their international availability, and Poco is set to expand its F series globally. Several launches remain based on reports…",
-            "published": "2026-08-30T18:00:18+05:30"
           }
         ],
         "Entertainment": [
@@ -627,11 +627,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Firecracker Blast Reason: UP डिप्टी CM के गृह जनपद में फैक्ट्री कैसे बनी आग का गोला? 1 की मौत-13 अंदर फंसे",
+            "title": "नेपाल में आई बाढ़ से पहले ग्लेशियर ढहने का Video ड्रोन में कैद, देखिए आखिर हुआ क्या था, जिसने मचाई तबाही",
+            "link": "https://hindi.oneindia.com/news/international/nepal-flood-before-glacier-collapse-drone-video-tibet-langtang-lirung-glacier-bhotekoshi-trishuli-1639405.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-31T14:24:44+05:30"
+          },
+          {
+            "title": "दिल्ली में 47 लाख नाम SIR ड्राफ्ट रोल से बाहर:महाराष्ट्र के 2 करोड़ 7 लाख नाम छूटे; 30 सितंबर तक आपत्ति दर्ज कराने की तारीख",
+            "link": "https://www.bhaskar.com/national/news/maharashtra-delhi-voter-list-draft-roll-objection-deadline-update-138887842.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-08-31T08:45:16+00:00"
+          },
+          {
+            "title": "कौन है अमरदीप कुमार की बदहाली का जिम्मेदार? देश को 4 गोल्ड मेडल देकर टमाटर-मिर्च बेचने को मजबूर",
+            "link": "https://hindi.oneindia.com/news/sports/more-sports/who-is-responsible-for-amardeep-kumar-struggle-selling-vegitable-after-winning-gold-medals-for-india-1639397.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-08-31T14:07:14+05:30"
+          },
+          {
+            "title": "Firecracker Blast Reason: UP डिप्टी CM के गृह जनपद में फैक्ट्री कैसे बनी आग का गोला? 5 की मौत-15 अंदर फंसे",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/kaushambi-firecracker-blast-reason-up-deputy-cm-keshav-prasad-maurya-district-many-died-injured-1639381.html",
             "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-08-31T13:51:17+05:30"
+            "published": "2026-08-31T14:01:15+05:30"
           },
           {
             "title": "Delhi: बारिश में लिफ्ट मांगना पड़ा भारी,स्लीपर बस में 16 साल की लड़की से गैंगरेप, क्या हुआ 4 अगस्त की रात?",
@@ -683,32 +704,11 @@
             "published": "2026-08-31T07:17:49+00:00"
           },
           {
-            "title": "प्रयागराज एयरफोर्स स्टेशन के पास पटाखा फैक्ट्री में विस्फोट:5 की मौत, 15 फंसे; आसपास के 7 घर जमींदोज; चारपाई में घायलों को लेकर भागे लोग",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/kaushambi/news/kaushambi-firecracker-godown-blast-pipri-manori-market-update-138887050.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-31T07:03:48+00:00"
-          },
-          {
-            "title": "‘मोहम्मद दीपक’ पर दर्ज FIR पर सुप्रीम कोर्ट की रोक:सोशल मीडिया पोस्ट पर हाईकोर्ट का आदेश भी स्थगित; 4 हफ्ते में जवाब मांगा",
-            "link": "https://www.bhaskar.com/local/uttarakhand/dehradun/news/kotdwar-mohammad-deepak-supreme-court-fir-stay-case-update-138887017.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-08-31T06:58:22+00:00"
-          },
-          {
-            "title": "शामली: अंकित के परिजनों से मिले जयंत सिंह, बोले- दो हत्यारे ढेर, बाकी पर भी होगी कार्रवाई, सरकार गंभीर",
-            "link": "https://www.amarujala.com/uttar-pradesh/shamli/shamli-jayant-singh-met-ankit-s-family-stated-that-two-killers-have-been-eliminated-action-will-be-taken-2026-08-31",
+            "title": "नेपाल बाढ़: एक जिला, दो सौ से ज्यादा गुमनाम शव; डीएनए सुरक्षित कर कब्रों में किया जा रहा दफन; क्यों मचा बवाल?",
+            "link": "https://www.amarujala.com/world/nepal-flood-many-deaths-chitwan-unidentified-bodies-temporary-burial-dna-identification-create-ruckus-2026-08-31",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-08-31T12:26:27+05:30"
-          },
-          {
-            "title": "6,6,6,6,6,6,6! वैभव सूर्यवंशी ने छक्कों की बारिश से तोड़ा 57 साल पुराना रिकॉर्ड, रहम की भीख मांगते दिखे गेंदबाज",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/vaibhav-sooryavanshi-falls-8-runs-short-of-maiden-duleep-trophy-hundred-creates-history-1639327.html",
-            "source": "Oneindia Hindi",
-            "summary": "क्रिकेट की दुनिया में वैभव सूर्यवंशी ने एक ऐतिहासिक कारनामा कर दिखाया है, जिसने 57 साल पुराने रिकॉर्ड को ध्वस्त कर दिया है। दिलीप ट्रॉफी के एक हालिया मुकाबले में उन्होंने अपने बल्ले से तूफानी खेल दिखाते हुए लगातार सात छक्के जड़े, जिससे मैदान में मौजूद गेंदबाज पूरी तरह से बेबस और लाचार नजर आए। उनकी बल्लेबाजी इतनी आक्रामक थी कि गेंदबाज खुद को बचाने के लिए संघर्ष करते दिखे। इस युवा खिलाड़ी ने न केवल अपनी प्रतिभा का लोहा मनवाया है, बल्कि खेल के रिकॉर्ड बुक में अपना नाम सुनहरे अक्षरों में दर्ज करा लिया है। वैभव की इस शानदार पारी के बाद क्रिकेट जगत में उनकी जमकर तारीफ हो रही है। यह प्रदर्शन इस बात का संकेत है कि भारतीय क्रिकेट को भविष्य का एक बड़ा स्टार मिल चुका है, जो बड़े मंचों पर अपनी छाप छोड़ने की काबिलियत रखता है। गेंदबाजों के लिए उनकी आक्रामक शैली एक नई चुनौती बनकर उभरी है, जिसने इस मैच को यादगार बना दिया है। उनके इस कारनामे ने खेल प्रेमियों के बीच उत्साह भर दिया है और आने वाले समय में उनसे और भी बेहतर प्रदर्शन की उम्मीदें बढ़ गई हैं।",
-            "published": "2026-08-31T12:19:14+05:30"
+            "published": "2026-08-31T12:41:02+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ભાયલી ગૅંગરેપ કેસ : વડોદરાની કોર્ટે પાંચેય આરોપીઓને આજીવન કેદની સજા ફટકારી",
+            "link": "https://www.bbc.com/gujarati/articles/cr7deex1xkyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-08-31T08:47:06+00:00"
+          },
+          {
+            "title": "પ્રયાગરાજ એરફોર્સ સ્ટેશન પાસે ફટાકડા ફેક્ટરીમાં વિસ્ફોટ:5 લોકોના મોત, 15 ફસાયા, આસપાસના 7 ઘર પડી ગયા; લોકો ઘાયલોને ખાટલામાં લઈને દોડ્યા",
+            "link": "https://www.divyabhaskar.co.in/national/news/prayagraj-fireworks-factory-explosion-kaushambi-accident-138887788.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-08-31T08:39:16+00:00"
+          },
+          {
             "title": "અનામત હટાવો આંદોલન : શું આ મુદ્દો ભાજપ માટે મોટો પડકાર બની રહ્યો છે?",
             "link": "https://www.bbc.com/gujarati/articles/c4gj2yd1v90o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "વડાપ્રધાન નરેન્દ્ર મોદી શાંઘાઈ કોઓપરેશન ઓર્ગેનાઈઝેશન (SCO) ની મહત્વપૂર્ણ સમિટમાં ભાગ લેવા માટે કિર્ગિસ્તાનની રાજધાની બિશ્કેક પહોંચ્યા છે. આ પ્રવાસના ભાગરૂપે તેમણે બિશ્કેકમાં મહાત્મા ગાંધીજીની પ્રતિમાને પુષ્પાંજલિ અર્પણ કરી તેમની સ્મૃતિને વંદન કર્યા હતા. આ કાર્યક્રમ બાદ વડાપ્રધાને ત્યાં વસતા ભારતીય સમુદાયના લોકો સાથે સીધો સંવાદ સાધ્યો હતો. ઉલ્લેખનીય છે કે આ વખતે SCO ની સ્થાપનાના ૨૫ વર્ષ પૂર્ણ થઈ રહ્યા હોવાથી આ સંમેલન અત્યંત વિશેષ છે. 'શાશ્વત શાંતિ, વિકાસ અને સમૃદ્ધિ માટે સાથે મળીને આગળ વધવું' એ આ વર્ષની સમિટનો મુખ્ય વિષય છે. આ સમિટમાં ભારત સહિત ચીન, રશિયા, પાકિસ્તાન અને ઈરાન જેવા કુલ ૧૦ સભ્ય દેશોના સર્વોચ્ચ નેતાઓ ઉપસ્થિત રહ્યા છે. આ પ્લેટફોર્મ પરથી પ્રાદેશિક સ્થિરતા અને આર્થિક સહયોગ અંગે વડાપ્રધાન મોદીની રશિયાના રાષ્ટ્રપતિ પુતિન અને ચીનના રાષ્ટ્રપતિ જિનપિંગ સાથે મુલાકાત થવાની સંભાવના વ્યક્ત કરવામાં આવી રહી છે. ભૌગોલિક અને રાજકીય દૃષ્ટિએ આ મુલાકાત ભારત માટે ખૂબ જ મહત્ત્વપૂર્ણ માનવામાં આવે છે, જે ભારતની વધતી જતી આંતરરાષ્ટ્રીય ભૂમિકાને દર્શાવે છે.",
             "published": "2026-08-31T05:12:57+00:00"
-          },
-          {
-            "title": "દિલ્હીમાં ફરી નિર્ભયાકાંડ જેવી ઘટના, સ્લીપર બસમાં ગેંગરેપ:47 કિમી સુધી રસ્તા પર દોડતી રહી બસ, 11મા ધોરણની વિદ્યાર્થિની પર રેપ; ડ્રાઈવર- કંડક્ટરની ધરપકડ",
-            "link": "https://www.divyabhaskar.co.in/national/news/delhi-bus-gangrape-minor-girl-arrest-driver-conductor-138886400.html",
-            "source": "Divya Bhaskar",
-            "summary": "દિલ્હીમાં એક ૧૬ વર્ષની સગીરા સાથે સ્લીપર બસમાં ગેંગરેપની ચોંકાવનારી ઘટના સામે આવતા ભારે રોષ ફેલાયો છે. આ ગંભીર કિસ્સો ૪ ઓગસ્ટનો છે, જેની વિગતો પોલીસે સોમવારે જાહેર કરી હતી. ઉત્તર પ્રદેશના મૈનપુરી જિલ્લાની રહેવાસી અને ૧૧મા ધોરણમાં અભ્યાસ કરતી આ વિદ્યાર્થિનીને આરોપીઓએ પરી ચોક પાસેથી બસમાં બેસાડી હતી. ત્યારબાદ આરોપી ડ્રાઈવર અને કંડક્ટરે મળીને બસની અંદર જ તેની સાથે બળાત્કાર ગુજાર્યો હતો. પોલીસના જણાવ્યા અનુસાર, બસ લગભગ ૪૭ કિલોમીટર સુધી રસ્તા પર દોડતી રહી અને તે દરમિયાન આ હીન કૃત્ય આચરવામાં આવ્યું હતું. આ ઘટના નિર્ભયાકાંડની યાદ અપાવે તેવી ભયાનક છે. પોલીસે સક્રિયતા દાખવીને તિમારપુર વિસ્તારમાંથી બસના ડ્રાઈવર કુલદીપ અને કંડક્ટર સંદીપની ધરપકડ કરી લીધી છે. હાલમાં આ બસને ફોરેન્સિક તપાસ માટે જપ્ત કરી લેવામાં આવી છે જેથી ગુનાના વધુ પુરાવા એકત્રિત કરી શકાય. આ ઘટનાએ ફરી એકવાર જાહેર પરિવહનની સુરક્ષા અને મહિલાઓની સુરક્ષા પર ગંભીર સવાલો ઉભા કર્યા છે.",
-            "published": "2026-08-31T05:04:15+00:00"
-          },
-          {
-            "title": "દિલ્હીની શાળામાં નર્સરીની બાળકી સાથે યૌન શોષણ:ચોકલેટની લાલચ આપીને ખોટી રીતે સ્પર્શ કર્યો, પીડિતાએ માતાને કહ્યું- આ 'ખરાબ અંકલ'",
-            "link": "https://www.divyabhaskar.co.in/national/news/bawana-school-girl-harassment-case-cab-driver-arrested-under-pocso-act-138886081.html",
-            "source": "Divya Bhaskar",
-            "summary": "દિલ્હીના બવાના વિસ્તારની એક ખાનગી શાળામાં ત્રણ વર્ષની નર્સરીની બાળકી સાથે યૌન શોષણનો અત્યંત શરમજનક કિસ્સો પ્રકાશમાં આવ્યો છે. પોલીસ રિપોર્ટ મુજબ, શાળામાં કામ કરતા કેબ ડ્રાઈવરે બાળકીને ચોકલેટની લાલચ આપીને પોતાનો શિકાર બનાવી હતી. આરોપીએ ઘણી વખત બાળકીને અયોગ્ય રીતે સ્પર્શ કરીને તેનું શોષણ કર્યું હોવાનું પ્રાથમિક તપાસમાં બહાર આવ્યું છે. આ સમગ્ર ઘટના ત્યારે સામે આવી જ્યારે બાળકીની માતાએ તેના વર્તનમાં આવેલો અચાનક બદલાવ નોંધ્યો. પૂછપરછ દરમિયાન માસૂમ બાળકીએ પોતાની માતાને જણાવ્યું કે શાળામાં આવતા એક 'ખરાબ અંકલ' તેને ખોટી રીતે અડતા હતા. બાળકી દ્વારા કરાયેલી ફરિયાદના આધારે પોલીસે તાત્કાલિક કાર્યવાહી કરતા આરોપી કેબ ડ્રાઈવરની ધરપકડ કરી લીધી છે. શાળા જેવી સુરક્ષિત જગ્યાએ બનેલી આ ઘટનાને કારણે વાલીઓમાં ભારે આક્રોશ અને ડર જોવા મળી રહ્યો છે. પોલીસ આ મામલે આગળની કાયદાકીય પ્રક્રિયા હાથ ધરી રહી છે, અને શાળા વહીવટીતંત્રની ભૂમિકા અંગે પણ તપાસ કરવામાં આવશે.",
-            "published": "2026-08-31T04:03:48+00:00"
           }
         ]
       }
@@ -895,11 +895,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "சுற்றிலும் பேரழிவு.. அசராமல் நின்ற ஒற்றை வீடு.. வெள்ளத்தின் கோர தாண்டவத்தில் இருந்து தப்பியது எப்படி",
+            "link": "https://tamil.oneindia.com/news/international/nepal-flood-how-did-the-green-house-survive-experts-solved-the-mystery-science-is-the-reason-827615.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-08-31T14:26:42+05:30"
+          },
+          {
+            "title": "'டைனோசருடன் மோதுவது போல' - சுறாவிடம் சண்டையிட்டு உயிர் தப்பிய இளம்பெண்",
+            "link": "https://www.bbc.com/tamil/articles/cwyzpe0zenwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-08-31T08:35:41+00:00"
+          },
+          {
             "title": "மன்னார்குடியில் வெறும் மண்ணு மட்டும்தான் தெரியுது.. இப்படி ஆக்கிட்டிங்களே! டிஆர்பி ராஜா வேதனை",
             "link": "https://tamil.oneindia.com/news/tamilnadu/delta-districts-face-drought-as-karnataka-fails-to-release-adequate-cauvery-water-says-trb-raja-827585.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-08-31T12:59:09+05:30"
+            "published": "2026-08-31T14:01:33+05:30"
           },
           {
             "title": "வளைகுடா பிராந்தியத்தில் பாகிஸ்தான் செல்வாக்கு அதிகரிக்கிறதா? அடுத்தடுத்து ஒப்பந்தங்கள் கையெழுத்து",
@@ -963,20 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "நேபாளத்தில் சமீபத்தில் ஏற்பட்ட பேரழிவிற்கு யலா பனிப்பாறை (Yala Glacier) சரிந்ததே முதன்மைக் காரணமாகக் கூறப்படுகிறது. சுமார் 300 அடி உயரம் கொண்ட பிரம்மாண்டமான நீர் சுவர்கள் வெறும் ஏழு நிமிட இடைவெளியில் 21 கிலோமீட்டர் தொலைவிற்குப் பரவி, அந்தப் பகுதியையே புரட்டிப் போட்டுள்ளது. பனிப்பாறை உடைந்ததால் ஏற்பட்ட இந்த திடீர் வெள்ளம், முன்னெப்போதும் இல்லாத வகையில் மிகக் குறுகிய காலத்தில் பெரும் சேதத்தை விளைவித்துள்ளது. பூகோள மாற்றங்கள் மற்றும் புவி வெப்பமடைதல் காரணமாக இமயமலைப் பகுதிகளில் இத்தகைய பனிப்பாறை சரிவுகள் அதிகரித்து வருவதை நிபுணர்கள் கவலையுடன் சுட்டிக்காட்டுகின்றனர். இவ்வளவு குறைந்த நேரத்தில், இவ்வளவு பெரிய தூரத்திற்கு வெள்ளம் பரவியது அந்தப் பகுதி மக்களுக்கும் அதிகாரிகளுக்கும் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. இயற்கைச் சீற்றத்தின் தீவிரத்தை உணர்த்தும் வகையில், அந்தப் பகுதியில் இருந்த கட்டமைப்புகள் மற்றும் வாழ்வாதாரங்கள் இந்த வெள்ளத்தால் கடுமையாகப் பாதிக்கப்பட்டுள்ளன. இந்த நிகழ்வு, மலைப்பாங்கான பகுதிகளில் வசிக்கும் மக்களின் பாதுகாப்பு குறித்த கேள்விகளை மீண்டும் எழுப்பியுள்ளது. இத்தகைய பேரழிவுகள் நிகழும் போது, முன்னெச்சரிக்கை நடவடிக்கைகளை எவ்வாறு பலப்படுத்துவது மற்றும் எதிர்காலத்தில் ஏற்படக்கூடிய ஆபத்துகளை எப்படிக் குறைப்பது என்பது குறித்து உலகளாவிய அளவில் விவாதம் தொடங்கியுள்ளது. இந்த வெள்ளத்தின் தாக்கத்தை நேபாளம் இன்னும் முழுமையாகக் கடந்து வரவில்லை என்பது குறிப்பிடத்தக்கது.",
             "published": "2026-08-31T10:26:51+05:30"
-          },
-          {
-            "title": "மக்களை வசியப்படுத்திய ஜப்பானிய கலைஞரின் மாயாஜால படைப்புகள்",
-            "link": "https://www.bbc.com/tamil/articles/czjzd2109z2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "ஜப்பானைச் சேர்ந்த உலகப்புகழ் பெற்ற கலைஞர் யயோய் குசாமா, தனது வாழ்நாள் முழுவதும் கலை உலகிற்கு ஆற்றிய பங்களிப்பு அளப்பரியது. 97 வயதில் மறைந்த அவர், தனது கலைப்படைப்புகள் மூலம் உலகெங்கிலும் உள்ள மில்லியன் கணக்கான மக்களை வசீகரித்தார். ஒளிரும் வண்ணங்கள், தனித்துவமான வடிவங்கள் மற்றும் பிரதிபலிப்புகளைக் கொண்டு அவர் உருவாக்கிய மாயாஜால உலகம், பார்வையாளர்களை ஒரு நிஜமற்ற பிரபஞ்சத்திற்கு அழைத்துச் செல்லும் திறன் கொண்டது. ஒரு படைப்பு வெறும் காட்சியாக இல்லாமல், அது எப்படி ஒருவரை மனதளவில் பாதித்து, அந்த மாயைக்குள் மூழ்கடிக்கும் என்பதற்கு குசாமாவின் படைப்புகளே சிறந்த சான்றாகும். அவர் பயன்படுத்திய புள்ளிகள் மற்றும் கண்ணாடிகள் மூலமான கலை அமைப்புகள், பார்வையாளர்களுக்கு ஒரு விசித்திரமான மற்றும் அழகான அனுபவத்தை வழங்கின. உலகம் முழுவதும் பல நாடுகளில் அவரது கலைக் கண்காட்சிகள் நடத்தப்பட்டு, பெரும் வரவேற்பைப் பெற்றன. கலை என்பது வெறும் காகிதத்திலோ அல்லது கேன்வாஸிலோ முடிவடைந்து விடாமல், பார்வையாளரின் உணர்வுகளோடு கலக்க வேண்டும் என்ற அவரது அணுகுமுறை பல இளம் கலைஞர்களுக்கு ஊக்கமளிப்பதாக இருந்தது. டோக்கியோவை மையமாகக் கொண்டு அவர் இயங்கினாலும், அவரது கலை உலகளாவிய அங்கீகாரத்தைப் பெற்றது. கலைத்துறைக்கு அவர் செய்த சேவைகள் என்றும் நிலைத்திருக்கும், மேலும் அவரது மறைவு கலை உலகிற்கு ஒரு பேரிழப்பாகவே கருதப்படுகிறது.",
-            "published": "2026-08-31T04:36:33+00:00"
-          },
-          {
-            "title": "நேபாள வெள்ளத்தில் உயிர் பிழைத்த 97 வயது மூதாட்டி",
-            "link": "https://www.bbc.com/tamil/watch/c4gkxkg6gdgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "நேபாளத்தில் ஏற்பட்ட கொடூரமான வெள்ளச் சீற்றத்தின் கோர முகத்தை வெளிப்படுத்தும் வகையில் பல இதயத்தை உலுக்கும் காட்சிகள் வெளியாகி வருகின்றன. அந்தப் பேரிடரில் இருந்து உயிர் பிழைத்த 97 வயது மூதாட்டி ஒருவரின் புகைப்படம், ஒட்டுமொத்த நேபாள வெள்ளத்தின் அடையாளமாக உருவெடுத்துள்ளது. வாழ்நாளின் இறுதிக் கட்டத்தில் இவ்வளவு பெரிய இயற்கைச் சீற்றத்தைச் சந்தித்து, அதிலிருந்து மீண்டு வந்த அந்த மூதாட்டியின் மன உறுதி பலரையும் வியக்க வைக்கிறது. வெள்ளம் ஊர்களைச் சூழ்ந்து அனைத்தையும் அழித்த போதும், அவர் பிழைத்திருப்பது ஒரு அதிசயத்தையே ஏற்படுத்தியுள்ளது. இத்தகைய புகைப்படங்கள் மற்றும் காணொளிகள் அந்தப் பேரிடரின் தீவிரத்தை உலகிற்கு உரக்கச் சொல்கின்றன. பாதிக்கப்பட்டவர்களின் வலிகளையும், அவர்களின் மீண்டெழுதலுக்கான போராட்டத்தையும் இந்த சம்பவங்கள் பிரதிபலிக்கின்றன. அரசாங்கமும் தன்னார்வலர்களும் அந்தப் பகுதியில் மீட்புப் பணிகளைத் தீவிரப்படுத்தியுள்ள நிலையில், பாதிக்கப்பட்ட மக்களுக்குத் தேவையான உணவு, உடை மற்றும் மருத்துவ வசதிகளை வழங்குவதில் சவால்கள் நீடிக்கின்றன. இயற்கையின் சீற்றத்திற்கு முன்னால் மனித வாழ்வு எவ்வளவு பலவீனமானது என்பதை உணர்த்தும் அதே வேளையில், உயிர் பிழைத்தவர்கள் காட்டும் மனவலிமை நமக்கு நம்பிக்கையையும் தருகிறது. இந்தத் துயரமான நிகழ்வு, நேபாளத்தின் வரலாற்றில் ஒரு கறுப்புப் பக்கமாகப் பதியப்பட்டுள்ளது.",
-            "published": "2026-08-31T04:16:46+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "వెలిగొండ ప్రాజెక్ట్ ను ప్రారంభించిన సీఎం చంద్రబాబు భావోద్వేగంతో ఏం చేశారంటే!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/veligonda-project-cm-chandrababu-inaugurated-and-emotional-on-first-phase-of-the-veligonda-project-504131.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-31T14:21:33+05:30"
+          },
+          {
+            "title": "కాక్రోచ్ జనత పార్టీకి సుప్రీంకోర్టు నుంచి బిగ్ రిలీఫ్.. సీజేఐ బెంచ్ స్వయంగా..!!",
+            "link": "https://telugu.oneindia.com/news/india/supreme-court-refuses-to-postpone-cockroach-janata-party-protests-ahead-of-brics-summit-in-delhi-504137.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-31T14:05:03+05:30"
+          },
+          {
+            "title": "షార్క్‌ దాడి:‘‘అప్పుడు నాకు డైనోసార్‌తో పోరాడుతున్నట్లు అనిపించింది’’ అంటూ గుర్తు చేసుకున్న మహిళ",
+            "link": "https://www.bbc.com/telugu/articles/cqjkvzp977po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-08-31T08:33:00+00:00"
+          },
+          {
             "title": "పూల సుబ్బయ్య వెలిగొండ ప్రాజెక్టు తొలిదశ ప్రారంభం.. కానీ ఈ ఏడాది పొలాలకు సాగునీరు ఎందుకు ఇవ్వడం లేదంటే?",
             "link": "https://www.bbc.com/telugu/articles/cy5zk3zg0xlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1091,20 +1112,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-31T13:43:01+05:30"
-          },
-          {
-            "title": "Sadashivpet: 400 ఏళ్ల నాటి బావి.. సదాశివపేటలో అద్భుత పుష్కరిణి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOem1YMGFiZHVLbnYwWW41YXdleXUwOXpXVHVsdGFoMVY0aENta1ZjRlhhdDdnc2FLT3JmT1FKTGY1LTlraDRkSVZkZ3h6aThNeE0yZEc0VHZkSW5mLVpBWnlBSlhVWFpyR3ZSY2kxcDNSdUt2THRQenRmYkI1QS11eHVVQ1dJd214SUHSAYoBQVVfeXFMTnptWDBhYmR1S252MFluNWF3ZXl1MDl6V1R1bHRhaDFWNGhDbWtWY0ZYYXQ3Z3NhS09yZk9RSkxmNS05a2g0ZElWZGd4emk4TXhNMmRHNFR2ZEluZi1aQVp5QUpYVVhackd2UmNpMXAzUnVLdkx0UHp0ZmJCNUEtdXh1VUNXSXdteElB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-08-31T08:11:30+00:00"
-          },
-          {
-            "title": "వెలిగొండ ప్రాజెక్ట్ ను ప్రారంభించిన సీఎం చంద్రబాబు భావోద్వేగంతో ఏం చేశారంటే!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/veligonda-project-cm-chandrababu-inaugurated-and-emotional-on-first-phase-of-the-veligonda-project-504131.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-31T13:39:34+05:30"
           },
           {
             "title": "children Health: సెల్‌ చెర వీడితేనే భవిత భద్రం.. డాక్టర్ మాధవి కీలక సూచనలు - Eenadu",
@@ -1147,16 +1154,16 @@
             "source": "Oneindia Telugu",
             "summary": "రాబోయే కేంద్ర మంత్రివర్గ ప్రక్షాళనలో తెలంగాణకు చెందిన ఇద్దరు ఎంపీలకు చోటు దక్కే అవకాశం ఉందని భారతీయ జనతా పార్టీ వర్గాలు పేర్కొంటున్నాయి. మోదీ కేబినెట్ విస్తరణ లేదా మార్పుల నేపథ్యంలో తెలంగాణ నుంచి ఇద్దరు కీలక నేతలను మంత్రివర్గంలోకి తీసుకోవాలని హైకమాండ్ యోచిస్తున్నట్లు సమాచారం. ప్రస్తుతం రాష్ట్రంలో బీజేపీ బలాన్ని పెంచే దిశగా మరియు వచ్చే ఎన్నికలను దృష్టిలో ఉంచుకుని ఈ కీలక నిర్ణయం తీసుకుంటున్నట్లు తెలుస్తోంది. గత కొంతకాలంగా తెలంగాణలో కమలం పార్టీ తన ఉనికిని చాటుకోవడానికి తీవ్రంగా ప్రయత్నిస్తున్న తరుణంలో, కేంద్ర పదవుల ద్వారా నాయకత్వానికి ప్రాధాన్యత కల్పించడం వ్యూహాత్మక చర్యగా కనిపిస్తోంది. ఏ ఇద్దరు నేతలకు ఈ అవకాశం దక్కుతుందనేది ఇప్పుడు రాజకీయ వర్గాల్లో ఆసక్తికర చర్చకు దారితీసింది. ఇప్పటికే పార్టీ తరపున గెలిచిన ఎంపీలలో సీనియారిటీ, రాజకీయ అనుభవం మరియు క్షేత్రస్థాయిలో వారికున్న పట్టు ఆధారంగా ఎంపిక ప్రక్రియ కొనసాగుతోంది. ఈ పరిణామం రాబోయే రోజుల్లో రాష్ట్రంలో బీజేపీ రాజకీయ గమనాన్ని మార్చడమే కాకుండా, కార్యకర్తలలో నూతన ఉత్సాహాన్ని నింపే అవకాశం ఉంది. కేంద్ర నాయకత్వం తెలంగాణకు ఇచ్చే ఈ ప్రాధాన్యత, ఏ విధంగా రాష్ట్ర రాజకీయాల్లో ప్రభావం చూపుతుందనేది వేచి చూడాలి.",
             "published": "2026-08-31T12:24:08+05:30"
-          },
-          {
-            "title": "ప్రయాణికులకు ఏపీఎస్ఆర్టీసీ శుభవార్త.. త్వరలో మీకోసం 1,050 ఎలక్ట్రిక్ బస్సులు!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/apsrtc-good-news-for-passengers-1-050-electric-buses-coming-your-way-soon-in-pm-e-bus-sewa-scheme-504111.html",
-            "source": "Oneindia Telugu",
-            "summary": "ఆంధ్రప్రదేశ్ ప్రజలకు ఎంతో ఆసక్తిని కలిగించేలా, రాష్ట్ర రవాణా సంస్థ ఏపీఎస్‌ఆర్‌టీసీ కీలక నిర్ణయం తీసుకుంది. కేంద్ర ప్రభుత్వం అమలు చేస్తున్న ప్రతిష్టాత్మక 'పీఎం ఈ-బస్ సేవా' పథకం కింద, రాబోయే డిసెంబర్ నాటికి ఏకంగా 1,050 ఎలక్ట్రిక్ బస్సులను రాష్ట్రవ్యాప్తంగా ప్రవేశపెట్టాలని ప్రణాళికలు సిద్ధం చేసింది. పెరుగుతున్న కాలుష్యాన్ని నియంత్రించడంతో పాటు, పర్యావరణహితమైన ప్రయాణాన్ని సామాన్యులకు అందుబాటులోకి తీసుకురావడమే ఈ నిర్ణయం వెనుక ఉన్న ప్రధాన ఉద్దేశ్యం. ప్రధాన నగరాల్లో ప్రజా రవాణా వ్యవస్థను మరింత ఆధునీకరించడం ద్వారా ప్రయాణికులకు మెరుగైన సేవలందించాలని ఆర్టీసీ భావిస్తోంది. ఈ ఎలక్ట్రిక్ బస్సులు అందుబాటులోకి వస్తే ఇంధన ఖర్చులు తగ్గడమే కాకుండా, నిర్వహణ వ్యయం కూడా తక్కువగా ఉంటుందని అధికారులు అంచనా వేస్తున్నారు. ఇప్పటికే పలు నగరాల్లో పైలెట్ ప్రాజెక్టులుగా కొన్ని బస్సులను నడుపుతున్నప్పటికీ, ఇప్పుడు భారీ సంఖ్యలో బస్సులు రానుండటంతో రవాణా రంగంలో పెను మార్పులు రానున్నాయి. డిసెంబర్ గడువులోపు ఈ బస్సులన్నింటినీ రోడ్డెక్కించి, ప్రజలకు మరింత నాణ్యమైన మరియు సౌకర్యవంతమైన ప్రయాణాన్ని అందించడమే లక్ష్యంగా ఆర్టీసీ యంత్రాంగం వేగంగా అడుగులు వేస్తోంది. ఇది పర్యావరణ పరిరక్షణకు కూడా పెద్దపీట వేసే చర్యగా నిలుస్తుంది.",
-            "published": "2026-08-31T12:19:19+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "ప్రతి 10 నిముషాలకు ఒక ట్విస్టు",
+            "link": "https://telugu.oneindia.com/entertainment/churuli-the-unpredictable-thriller-with-twists-and-surprises-every-10-minutes-504117.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-08-31T14:30:22+05:30"
+          },
           {
             "title": "అల్లు అరవింద్‌కు అదిరిపోయే కౌంటర్ ఇచ్చిన యష్ తల్లి",
             "link": "https://telugu.oneindia.com/entertainment/yash-mother-pushpa-delivers-a-stunning-counter-to-producer-allu-arvind-504113.html",
@@ -1233,13 +1240,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-08-29T17:32:47+05:30"
-          },
-          {
-            "title": "Bigg Boss 10: బిగ్‌బాస్ ప్రేమికులకు గుడ్ న్యూస్.. లాంచ్ డేట్ ఫిక్స్.. లీకైన కంటెస్టెంట్ల లిస్ట్ ఇదే!",
-            "link": "https://telugu.oneindia.com/entertainment/bigg-boss-telugu-season-10-launch-date-announced-nagarjuna-to-host-the-reality-show-full-details-503913.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-08-29T16:27:38+05:30"
           }
         ]
       }
@@ -1248,6 +1248,27 @@
       "label": "ಕನ್ನಡ",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Islam Religion:‘ಇಸ್ಲಾಂ ಶ್ರೇಷ್ಠ ಧರ್ಮ’ ಎಂದ ಸಚಿವ ರಾಯರೆಡ್ಡಿ; ಬೆಂಬಲಕ್ಕೆ ನಿಂತ ಯತೀಂದ್ರ ಸಿದ್ದರಾಮಯ್ಯ",
+            "link": "https://kannada.oneindia.com/news/karnataka/islam-religion-basavaraj-rayareddy-calls-islam-a-great-religion-yathindra-siddaramaiah-extends-sup-466317.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-31T14:21:57+05:30"
+          },
+          {
+            "title": "Minister Eshwar Khandre: ಜನರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್‌: ಇ-ಸ್ವತ್ತು, ಕಾಮಗಾರಿ ದೂರು ದಾಖಲಿಸಲು ಆನ್‌ಲೈನ್‌ ವ್ಯವಸ್ಥೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/minister-eshwar-khandre-online-system-to-filecomplaints-on-e-swathu-public-services-and-works-466327.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-31T14:19:48+05:30"
+          },
+          {
+            "title": "ITR Filing : ಆದಾಯ ತೆರಿಗೆ ವಿವರ ಸಲ್ಲಿಸುವುದನ್ನು ಮರೆತಿದ್ದೀರಾ? ಇಂದು ಕೊನೆಯ ದಿನ, ತಡವಾದರೆ ಏನೆಲ್ಲ ನಷ್ಟ?",
+            "link": "https://kannada.oneindia.com/news/india/itr-filing-forgot-to-file-your-itr-today-is-the-deadline-what-happens-if-you-miss-it-check-now-466329.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-08-31T14:18:54+05:30"
+          },
           {
             "title": "Nepal Flood: 3 ದಿನ ಮಣ್ಣಿನಡಿ ಸಿಲುಕಿದ್ದ 6 ವರ್ಷದ ಬಾಲಕಿ ಜೀವಂತ ಪತ್ತೆ: ನೇಪಾಳದಲ್ಲಿ ಪವಾಡಸದೃಶ ರಕ್ಷಣೆ",
             "link": "https://kannada.oneindia.com/news/international/nepal-flood-six-year-old-girl-rescued-alive-after-3-days-trapped-under-debris-in-rasuwa-what-happen-466321.html",
@@ -1261,13 +1282,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-31T13:14:54+05:30"
-          },
-          {
-            "title": "Islam Religion:‘ಇಸ್ಲಾಂ ಶ್ರೇಷ್ಠ ಧರ್ಮ’ ಎಂದ ಸಚಿವ ರಾಯರೆಡ್ಡಿ; ಬೆಂಬಲಕ್ಕೆ ನಿಂತ ಯತೀಂದ್ರ ಸಿದ್ದರಾಮಯ್ಯ",
-            "link": "https://kannada.oneindia.com/news/karnataka/islam-religion-basavaraj-rayareddy-calls-islam-a-great-religion-yathindra-siddaramaiah-extends-sup-466317.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-31T13:00:29+05:30"
           },
           {
             "title": "ಸೆಪ್ಟೆಂಬರ್ 1ರಿಂದ ಎಲ್‌ಪಿಜಿ ಸೇರಿ ಹಲವು ನಿಯಮಗಳಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆ",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಕರ್ನಾಟಕದಲ್ಲಿ ಮುಂಗಾರು ಮಳೆ ಮತ್ತೆ ತನ್ನ ಆರ್ಭಟವನ್ನು ತೋರಿಸಲಾರಂಭಿಸಿದೆ. ಹವಾಮಾನ ಇಲಾಖೆಯ ವರದಿಯ ಪ್ರಕಾರ, ರಾಜ್ಯದ ಕರಾವಳಿ ಮತ್ತು ಮಲೆನಾಡು ಭಾಗಗಳಲ್ಲಿ ಮುಂಗಾರು ಚುರುಕುಗೊಂಡಿದ್ದು, ಇಂದು ಭಾರೀ ಮಳೆಯಾಗುವ ಮುನ್ಸೂಚನೆ ನೀಡಲಾಗಿದೆ. ಈ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಜಿಲ್ಲಾಡಳಿತಗಳು ಮತ್ತು ನಾಗರಿಕರು ಎಚ್ಚೆತ್ತುಕೊಳ್ಳುವಂತೆ ಸೂಚಿಸಲಾಗಿದ್ದು, ಹವಾಮಾನ ಇಲಾಖೆಯು ಈ ಪ್ರದೇಶಗಳಿಗೆ 'ಯೆಲ್ಲೋ ಅಲರ್ಟ್' ಘೋಷಿಸಿದೆ. ನಿರಂತರ ಮಳೆಯಿಂದಾಗಿ ನದಿಗಳು ತುಂಬಿ ಹರಿಯುವ ಸಾಧ್ಯತೆ ಮತ್ತು ತಗ್ಗು ಪ್ರದೇಶಗಳಲ್ಲಿ ನೀರು ನಿಲ್ಲುವ ಅಪಾಯವಿದ್ದು, ಮುಂಜಾಗ್ರತಾ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಲು ತಿಳಿಸಲಾಗಿದೆ. ಮತ್ತೊಂದೆಡೆ, ರಾಜ್ಯ ರಾಜಧಾನಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಮೋಡಕವಿದ ವಾತಾವರಣ ಮುಂದುವರಿಯಲಿದ್ದು, ಸಂಜೆ ವೇಳೆಗೆ ಸಾಧಾರಣ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ಹವಾಮಾನ ತಜ್ಞರು ತಿಳಿಸಿದ್ದಾರೆ. ಕೃಷಿ ಚಟುವಟಿಕೆಗಳಿಗೆ ಮಳೆ ಅಗತ್ಯವಿದ್ದರೂ, ಅತಿಯಾದ ಮಳೆಯು ಹಲವು ಕಡೆಗಳಲ್ಲಿ ಸಂಚಾರ ಮತ್ತು ಸಾಮಾನ್ಯ ಜನಜೀವನಕ್ಕೆ ಅಡಚಣೆಯನ್ನು ಉಂಟುಮಾಡಬಹುದು. ಹವಾಮಾನದ ಈ ಬದಲಾವಣೆಯು ರಾಜ್ಯದ ಹಲವು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ತಾಪಮಾನವನ್ನು ತಗ್ಗಿಸಿದ್ದು, ಚಳಿಯ ವಾತಾವರಣ ಉಂಟಾಗಿದೆ. ಮಳೆಗಾಲದ ಈ ಹಂತದಲ್ಲಿ ಪ್ರವಾಸಿಗರು ಮತ್ತು ಕರಾವಳಿ ಪ್ರದೇಶದ ನಿವಾಸಿಗಳು ಹವಾಮಾನ ಇಲಾಖೆಯ ಸೂಚನೆಗಳನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಎಚ್ಚರಿಕೆಯಿಂದ ಇರುವುದು ಉತ್ತಮ.",
             "published": "2026-08-31T10:16:52+05:30"
-          },
-          {
-            "title": "LPG: ಎಲ್‌ಪಿಜಿ ಬಳಕೆದಾರರು ಇಂದೇ ಈ ಕೆಲ್ಸ ಮಾಡದಿದ್ರೆ ಸಮಸ್ಯೆ ಕಟ್ಟಿಟ್ಟ ಬುತ್ತಿ",
-            "link": "https://kannada.oneindia.com/news/india/lpg-e-kyc-deadline-today-august-31-complete-gas-e-kyc-online-to-avoid-subsidy-issues-know-detail-466295.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-31T09:46:59+05:30"
-          },
-          {
-            "title": "ರಾಜ್ಯದ ಈ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಪೆಟ್ರೋಲ್, ಡೀಸೆಲ್ ಬೆಲೆ ಇಳಿಕೆ: ಇಲ್ಲಿದೆ ಆಗಸ್ಟ್‌ 31ರ ದರಪಟ್ಟಿ",
-            "link": "https://kannada.oneindia.com/news/business/petrol-diesel-price-in-karnataka-on-august-31-know-district-wise-complete-statistics-details-466291.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-31T09:11:37+05:30"
           }
         ],
         "Entertainment": [
