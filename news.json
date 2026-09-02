@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-02T23:01:46.047558+00:00",
+  "updated_at": "2026-09-02T23:31:25.352958+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Almost half of households do not see benefits of economic growth, report says",
+            "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+            "published": "2026-09-02T23:26:58+00:00"
+          },
+          {
+            "title": "'I don't even like them': How much should you give to office gift collections?",
+            "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+            "published": "2026-09-02T23:25:50+00:00"
+          },
+          {
             "title": "Multiple victims, 2 police officers injured in Minneapolis shooting",
             "link": "https://timesofindia.indiatimes.com/world/us/multiple-victims-2-police-officers-injured-in-minneapolis-shooting/articleshow/133722417.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-03T04:24:45+05:30"
+          },
+          {
+            "title": "US Court Blocks Trump's Newest Order Limiting Birthright Citizenship",
+            "link": "https://www.ndtv.com/world-news/us-court-blocks-trumps-newest-order-limiting-birthright-citizenship-11994766#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The US Supreme Court on June 30 rejected that initial effort to end birthright citizenship for children whose parents were not American citizens or legal permanent residents, known as green card holders.",
+            "published": "2026-09-03T04:11:03+05:30"
           },
           {
             "title": "Siblings give up development rights on 20.66 acres beside Zion National Park",
@@ -81,27 +102,6 @@
             "source": "Al Jazeera",
             "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
             "published": "2026-09-02T21:23:55+00:00"
-          },
-          {
-            "title": "Children return to school in DR Congo amid growing concerns over Ebola",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-09-02T21:21:36+00:00"
-          },
-          {
-            "title": "South African airline behind daring stadium stunt cancels next flyby",
-            "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-            "published": "2026-09-02T21:21:08+00:00"
-          },
-          {
-            "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-            "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.",
-            "published": "2026-09-02T21:19:32+00:00"
           }
         ],
         "India": [
@@ -111,6 +111,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-03T04:24:45+05:30"
+          },
+          {
+            "title": "US Court Blocks Trump's Newest Order Limiting Birthright Citizenship",
+            "link": "https://www.ndtv.com/world-news/us-court-blocks-trumps-newest-order-limiting-birthright-citizenship-11994766#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The US Supreme Court on June 30 rejected that initial effort to end birthright citizenship for children whose parents were not American citizens or legal permanent residents, known as green card holders.",
+            "published": "2026-09-03T04:11:03+05:30"
           },
           {
             "title": "Siblings give up development rights on 20.66 acres beside Zion National Park",
@@ -181,13 +188,6 @@
             "source": "Times of India",
             "summary": "'Lavish spending', P 10",
             "published": "2026-09-03T01:59:16+05:30"
-          },
-          {
-            "title": "Excise forms SIT to probe cases related to seizure of suspected MDMA",
-            "link": "https://www.thehindu.com/news/national/kerala/excise-forms-sit-to-probe-cases-related-to-seizure-of-suspected-mdma/article71420383.ece",
-            "source": "The Hindu",
-            "summary": "Investigators to seek custody of four arrested youths",
-            "published": "2026-09-03T01:54:00+05:30"
           }
         ],
         "World": [
@@ -278,6 +278,20 @@
         ],
         "Business": [
           {
+            "title": "Almost half of households do not see benefits of economic growth, report says",
+            "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+            "published": "2026-09-02T23:26:58+00:00"
+          },
+          {
+            "title": "'I don't even like them': How much should you give to office gift collections?",
+            "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+            "published": "2026-09-02T23:25:50+00:00"
+          },
+          {
             "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
             "link": "https://www.bbc.co.uk/news/videos/c1l6p7j9652o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -346,20 +360,6 @@
             "source": "BBC Business",
             "summary": "Ex-Commonwealth lightweight champion Tommy Coyle is running the event in Hull for the seventh year.",
             "published": "2026-09-02T12:48:32+00:00"
-          },
-          {
-            "title": "VAT cuts won't lower prices for customers, say NI hospitality leaders",
-            "link": "https://www.bbc.co.uk/news/articles/clyq82ldyl5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A Londonderry hotel manager said it would be \"disingenuous\" to suggest a VAT cut would help lower prices",
-            "published": "2026-09-02T12:02:29+00:00"
-          },
-          {
-            "title": "Why are UK borrowing costs rising and what does it mean for me?",
-            "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
-            "published": "2026-09-02T11:05:22+00:00"
           }
         ],
         "Sports": [
@@ -1072,11 +1072,60 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "పోలవరం ప్రాజెక్టులో జగన్‌ పూర్తి చేసింది రెండు శాతం పనులే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zNHVQeWdQeU9YNF9OZEdPQzNGc1ZaVnltLVdzZUcxWjhBWUVINmZ1WVNiMnIwcGxiU0Z2N3VUWU1hYUd2ZVpBZk9SbEkwNktURWNmQTA2Znc4cGhuRE9CbkdFaG5qMXFWd3JvZ1Y5MVZvaF90blBvRTF4OUzSAXxBVV95cUxPczR1UHlnUHlPWDRfTmRHT0MzRnNWWlZ5bS1Xc2VHMVo4QVlFSDZmdVlTYjJyMHBsYlNGdjd1VFlNYWFHdmVaQWZPUmxJMDZLVEVjZkEwNmZ3OHBobkRPQm5HRWhuajFxVndyb2dWOTFWb2hfdG5Qb0UxeDlM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T23:07:18+00:00"
+          },
+          {
+            "title": "క్రమశిక్షణ చర్యల్లో జాప్యానికి సంబంధిత అధికారులదే బాధ్యత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hanRCM2pQOEFuT3RINkpzdU42UElwRUtXQlhQOVV5c1g4TzNQZ0tWdVlXQ2pkc29XaHZlWDN4Q2szVFJSQURSek9JZkp1cVFFbThqX3d5UWRic3A2eVBiWVBUX2F4LXhJR2hlcTdkdVJkYlloVEJkMWY2NW7SAXxBVV95cUxOYWp0QjNqUDhBbk90SDZKc3VONlBJcEVLV0JYUDlVeXNYOE8zUGdLVnVZV0NqZHNvV2h2ZVgzeENrM1RSUkFEUnpPSWZKdXFRRW04al93eVFkYnNwNnlQYllQVF9heC14SUdoZXE3ZHVSZGJZaFRCZDFmNjVu?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:58:41+00:00"
+          },
+          {
+            "title": "INS Samarthak: నేవీకి ఐఎన్‌ఎస్‌ ‘సమర్థక్‌’ నౌక అప్పగింత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFUxcVdUQ2hrMFdCVE4xUXJZTmwxcGNEalcwM18zRl92Vk1xVEZkLVdJSjQwR3lXbVRvRFBfcnhIaVVod09lWFd5N2trTnZFbF9Kek1RVWNwSF9Tb3I0S0VqV3FsTU9aLUxFMVJCb3BNT2VUYTJwMGpqRW1oWUFqUmJSVS1RQjRNOGZ6YjN5MnNmNWtObFJiX9IBmAFBVV95cUxPNFUxcVdUQ2hrMFdCVE4xUXJZTmwxcGNEalcwM18zRl92Vk1xVEZkLVdJSjQwR3lXbVRvRFBfcnhIaVVod09lWFd5N2trTnZFbF9Kek1RVWNwSF9Tb3I0S0VqV3FsTU9aLUxFMVJCb3BNT2VUYTJwMGpqRW1oWUFqUmJSVS1RQjRNOGZ6YjN5MnNmNWtObFJiXw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:49:02+00:00"
+          },
+          {
+            "title": "Konda Surekha: ప్రజలకు సేవ చేయాలనుకుంటున్నా.. పదవిలో కొనసాగించండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN084SDh0VEFzZkxmcng1OWl6LUdPTU1aWjliUWVxVDlvcVUtVDJEZ2V3b3M0alpKYzgtUUd1UVhZcWp5ajhicW5UOU1Rbi11WWdYQUx5Y2R0V1ZXWGRKbjBuVW45YkVmLTlvZTdtWTdaVlNodm94T0E4ZnlWQVlJM3ZMVEk5YmJacjR6MzdINWFHR2RVMDFidWtwY9IBmwFBVV95cUxQN084SDh0VEFzZkxmcng1OWl6LUdPTU1aWjliUWVxVDlvcVUtVDJEZ2V3b3M0alpKYzgtUUd1UVhZcWp5ajhicW5UOU1Rbi11WWdYQUx5Y2R0V1ZXWGRKbjBuVW45YkVmLTlvZTdtWTdaVlNodm94T0E4ZnlWQVlJM3ZMVEk5YmJacjR6MzdINWFHR2RVMDFidWtwYw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:41:50+00:00"
+          },
+          {
+            "title": "పవన్‌ ప్రతి అడుగూ మేలు కోసమే: చిరంజీవి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGdKaC1IVzJuMHJMa3FHbkxhU0RRMmVvUUJ4U0p6UFQ0aGVDdHp6X3loVzI2ZjdLZmxJX1FBSnU2YlVYaVFPcWVFeEdocHpuWnlVNG8xLWhhQXFHcEd6LWlBYlVSZHR6cjRRSlQ4aW53S2Z0NlRma25Pajh1Z1lMQmVXMm5qak00Z0xqc2t4dmNLMTNVTW1OWnk5S1NsRzVST0JUR3Y0Q2t2QktUcWJ0dHhWTTE1bHdm0gG4AUFVX3lxTE5oZ0poLUhXMm4wckxrcUduTGFTRFEyZW9RQnhTSnpQVDRoZUN0enpfeWhXMjZmN0tmbElfUUFKdTZiVVhpUU9xZUV4R2hwem5aeVU0bzEtaGFBcUdwR3otaUFiVVJkdHpyNFFKVDhpbndLZnQ2VGZrbk9qOHVnWUxCZVcybmpqTTRnTGpza3h2Y0sxM1VNbU5aeTlLU2xHNVJPQlRHdjRDa3ZCS1RxYnR0eFZNMTVsd2Y?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:36:50+00:00"
+          },
+          {
+            "title": "‘సేవా సంకల్ప్‌’ దక్షిణాది సారథిగా మంత్రి సత్యకుమార్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93X1VkaDhKczY1eXVfUXdLLVdMUmhkejdpeWN3elhSQUtORnBzemhWbVprZ1d6MkppVmNORlF4S3FjRUo4Nnh1cnB2ZmdNdjdYUmE0Q3N1SVp1TmJZd1ZXZTlBNW5KU2F6WEJRSVRiOWNwaXExWlZGNDA4S2jSAXxBVV95cUxPd19VZGg4SnM2NXl1X1F3Sy1XTFJoZHo3aXljd3pYUkFLTkZwc3poVm1aa2dXejJKaVZjTkZReEtxY0VKODZ4dXJwdmZnTXY3WFJhNENzdUladU5iWXdWV2U5QTVuSlNhelhCUUlUYjljcGlxMVpWRjQwOEto?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:36:41+00:00"
+          },
+          {
             "title": "Tech job: 1,75,000కు పైగా టెక్‌ ఉద్యోగాల కోత - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVMydGxhb3I2dndsLWJJRFpNdUFNUUx5MTctMDVwY2VFR2hvYjVKV1IxVC1rWGc4b1AtVWdLUGphQkZ0VUtZemR2c2FXSlg4WTdMWG90c3hVOUNpN0RZWjZsbHpkQUs5cFk4eFBJaHNRYXhmY2pNa0RGMU9nNFZ0X1QzdzUwdVJoQmfSAYoBQVVfeXFMT2VTMnRsYW9yNnZ3bC1iSURaTXVBTVFMeTE3LTA1cGNlRUdob2I1SldSMVQta1hnOG9QLVVnS1BqYUJGdFVLWXpkdnNhV0pYOFk3TFhvdHN4VTlDaTdEWVo2bGx6ZEFLOXBZOHhQSWhzUWF4ZmNqTWtERjFPZzRWdF9UM3c1MHVSaEJn?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-02T22:07:13+00:00"
+          },
+          {
+            "title": "Stock Market Today: మూడో రోజూ సూచీలకు నష్టాలే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOby15c3Z5bmNkbVZjMkJCTzc0RXZkU21XNWdqeU40aEpIRVlUT2pJQkNPblgyenQ4TWZQbEFqaUlfaHcyU2VVdmdUQ09WZm92VXNJYXVLZlhVVHNBU2piSEhQanhLNmk1T09uZ2pnS3BmUU0taWw3VWFsbXVLbVZjaFhJNVhhZXVaMG1qc2M2dEZmaFNNcjFCTExuMnRtYXJUNFgtejlUdmxFV1gx0gGsAUFVX3lxTE5vLXlzdnluY2RtVmMyQkJPNzRFdmRTbVc1Z2p5TjRoSkhFWVRPaklCQ09uWDJ6dDhNZlBsQWppSV9odzJTZVV2Z1RDT1Zmb3ZVc0lhdUtmWFVUc0FTamJISFBqeEs2aTVPT25namdLcGZRTS1pbDdVYWxtdUttVmNoWEk1WGFldVowbWpzYzZ0RmZoU01yMUJMTG4ydG1hclQ0WC16OVR2bEVXWDE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T22:06:28+00:00"
           },
           {
             "title": "సంక్షిప్త వార్తలు (3) - Eenadu",
@@ -1093,11 +1142,11 @@
             "published": "2026-09-02T20:34:19+00:00"
           },
           {
-            "title": "మీకు తెలుసా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZXhSRUZraUVoTUdidXJmUHhha2NuMkNCR21xcHduaDd0TzN5anZ1cTUtajhCcWtoZE1iUHdkbFozWEx5T2dNZXp6cWdUdUtmRE1RWDhMWDFpMXpDSkJFbm9JWkZ2OTducUZYcER6bFHSAXBBVV95cUxOWWV4UkVGa2lFaE1HYnVyZlB4YWtjbjJDQkdtcXB3bmg3dE8zeWp2dXE1LWo4QnFraGRNYlB3ZGxaM1hMeU9nTWV6enFnVHVLZkRNUVg4TFgxaTF6Q0pCRW5vSVpGdjk3bnFGWHBEemxR?oc=5",
+            "title": "SCO Summit 2026: బిష్కెక్‌ భేటీలో ఘన సంకల్పాలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcy1BMFdCRVAxOTBFNXZqV1VDUS1Lb1dXb00wNDBrOEFRS0NHM19sTFRSTzdmUVR3bjhKaHdHWWRBTXUybS1UandiZmVOSFRZTkJCaDVuRjJ5bTN5TFFWN2dqZ1MyM0dtMmJleGpoVC1vVFFmemFlNHFjaWZ5MGFWeXZ2NGdtUDc2MlhYZ0NJMzFubnE3NTJHUS03NTlxUUxnb1pIZXFqLVBVejMtUjd1eGlZWDFjcGNZQzdRZtIBvAFBVV95cUxQcy1BMFdCRVAxOTBFNXZqV1VDUS1Lb1dXb00wNDBrOEFRS0NHM19sTFRSTzdmUVR3bjhKaHdHWWRBTXUybS1UandiZmVOSFRZTkJCaDVuRjJ5bTN5TFFWN2dqZ1MyM0dtMmJleGpoVC1vVFFmemFlNHFjaWZ5MGFWeXZ2NGdtUDc2MlhYZ0NJMzFubnE3NTJHUS03NTlxUUxnb1pIZXFqLVBVejMtUjd1eGlZWDFjcGNZQzdRZg?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-02T19:24:48+00:00"
+            "published": "2026-09-02T20:09:46+00:00"
           },
           {
             "title": "జ్ఞానసంపద అనంతం - Eenadu",
@@ -1105,55 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-02T19:24:38+00:00"
-          },
-          {
-            "title": "Virat Kohli: అందుకే కోహ్లీ-అనుష్క లండన్‌లో స్థిరపడ్డారు.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTN2OFpzc2lQcEp5d3VvOEFqNy1wXzc3ajJvclJNM21sM0ZCekdiamtIYV9HMWF2RnBwVUtoeWNWWmdYRXBMNWtpeHZVRjdyeU5id181S2lmMmgyTV9CMWZlTEZ1TlRnOWtudGhrZVVJUW1VNlRLVXBSV0tyczZlMTFYR3BnWV9sc1lXVGdwdmJHQ1pfVGF2STF3WDBIOFRZd1dXbHBCbUkweXpGNG1XeDQ2YVNtNEZEcEU2S2hrYkdZTWxoZllkZG1lMNIBywFBVV95cUxNeTN2OFpzc2lQcEp5d3VvOEFqNy1wXzc3ajJvclJNM21sM0ZCekdiamtIYV9HMWF2RnBwVUtoeWNWWmdYRXBMNWtpeHZVRjdyeU5id181S2lmMmgyTV9CMWZlTEZ1TlRnOWtudGhrZVVJUW1VNlRLVXBSV0tyczZlMTFYR3BnWV9sc1lXVGdwdmJHQ1pfVGF2STF3WDBIOFRZd1dXbHBCbUkweXpGNG1XeDQ2YVNtNEZEcEU2S2hrYkdZTWxoZllkZG1lMA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T19:03:00+00:00"
-          },
-          {
-            "title": "Gold and Silver Prices Today: తెలుగు రాష్ట్రాల్లోని ప్రధాన నగరాల్లో బంగారం, వెండి ధరలు ఇలా.. (02/09/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHFkaHZVWmt2bnpnRGNaZEJOWl9heGVUMEs0YTZhR0R6SmdxSDlXREp0SVlBRk5wbnIyZEpRUV9xZk44X2c1YVk0RFh2VEJjQ3c3cmM5XzFKWVp1Wm43MWN1THBuNENmR2JCTUtqWTA2Z3prUTY0aDJNekxMZHdtNTlwVWVLMUJKdnZIVGR1WXBjOWtmaVgzWFlWa2t1UGl3Y1dBdTVibmRTcXdEWGtCWmZVWTlrWnJuYU9vM3djZUp5SFBHYWN2d1FQdkxyVWk3a25QS0duak5WaERUdk930gHfAUFVX3lxTE9EcWRodlVaa3ZuemdEY1pkQk5aX2F4ZVQwSzRhNmFHRHpKZ3FIOVdESnRJWUFGTnBucjJkSlFRX3FmTjhfZzVhWTREWHZUQmNDdzdyYzlfMUpZWnVabjcxY3VMcG40Q2ZHYkJNS2pZMDZnemtRNjRoMk16TExkd201OXBVZUsxQkp2dkhUZHVZcGM5a2ZpWDNYWVZra3VQaXdjV0F1NWJuZFNxd0RYa0JaZlVZOWtacm5hT28zd2NlSnlIUEdhY3Z3UVB2THJVaTdrblBLR25qTlZoRFR2T3c?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T18:46:21+00:00"
-          },
-          {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (03/09/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0I3OWtUMXJEZmk5cG14SWdCblVWTDU0YlRMUWhrY0FJU2JzSXhQSTBPV2tOc0Y1Y0VfTHFzT2lacXJUeHdKVzNwU3gyWnRKSm5Kb3RrOWxoejRfajJ5UGRHeEgwcG43MXp0ZnZBclVvWTF5cHJtOExvQlBuWGU1T3dEWWFJMW1PMG5UREhkWEg1emI5WS1FS0JTUno5cEtFRjBWeHpaSTBYVl8tLVZDdDZDSErSAbQBQVVfeXFMTmdCNzlrVDFyRGZpOXBteElnQm5VVkw1NGJUTFFoa2NBSVNic0l4UEkwT1drTnNGNWNFX0xxc09pWnFyVHh3SlczcFN4Mlp0SkpuSm90azlsaHo0X2oyeVBkR3hIMHBuNzF6dGZ2QXJVb1kxeXBybThMb0JQblhlNU93RFlhSTFtTzBuVERIZFhINXpiOVktRUtCU1J6OXBLRUYwVnh6WkkwWFZfLS1WQ3Q2Q0hK?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T18:31:55+00:00"
-          },
-          {
-            "title": "ఘోర రోడ్డు ప్రమాదం.. ఐదుగురు మృతి, 30 మందికి సీరియస్",
-            "link": "https://telugu.oneindia.com/news/india/madhyapradesh-horrific-road-accident-five-dead-30-critically-injured-collision-between-a-bus-truck-504509.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-02T23:45:21+05:30"
-          },
-          {
-            "title": "Vivek Venkataswamy: జపాన్, జర్మన్‌ భాషలతో ఎక్కువ ఉద్యోగావకాశాలు: మంత్రి వివేక్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3lKN0oweHZVRFpnaUVnTklseUhzRGc3VEU1cm8zd2pFU0hIUUZUWTNyUDBjbUdtZVNyMk5HeGh1LWxYckhqRlR4NDM4Y0F3ekZMRlJQYkFfQkF4Zk03b0pnZEZhdW52MHljYlBjOWlyS1BGcFhJeTlub0lZdUdFZ1YyYU9LX1RTX1NGRmdIanhVY1FhUmxGaUdWV01VNWPSAZ8BQVVfeXFMTVd5SjdKMHh2VURaZ2lFZ05JbHlIc0RnN1RFNXJvM3dqRVNISFFGVFkzclAwY21HbWVTcjJOR3hodS1sWHJIakZUeDQzOGNBd3pGTEZSUGJBX0JBeGZNN29KZ2RGYXVudjB5Y2JQYzlpcktQRnBYSXk5bm9JWXVHRWdWMmFPS19UU19TRkZnSGp4VWNRYVJsRmlHVldNVTVj?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T17:58:20+00:00"
-          },
-          {
-            "title": "హార్మూజ్ జలసంధి పేరు మార్చిన ట్రంప్..? \"ట్రంప్ స్ట్రెయిట్\" అంటూ",
-            "link": "https://telugu.oneindia.com/news/international/trump-strait-hormuz-rename-it-did-trump-rename-the-strait-of-hormuz-calling-it-the-trump-strait-504507.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-02T23:05:12+05:30"
-          },
-          {
-            "title": "Mahesh Kumar Goud: కొండా సురేఖపై తుది నిర్ణయం అధిష్ఠానానిదే: మహేశ్‌కుమార్‌ గౌడ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUoxaHdGSkd6X1JjNVlIelA4dXNuM1pUNFlZWENPd3BpQTdfYVFGbHBvbkxjdWk1aDVlNldLQzJRaEU3eFhYR0M2MVpzLUNqdWFhZkQ4ZENwRTlOeUdoOG9CaTFIYTVoM2pqZGtQNEFTcGJCcE40d2JzTDZFZDhSWGFmeWNkMzU0bi1VYnRmcUlWejZiVE1jatIBmAFBVV95cUxQdUoxaHdGSkd6X1JjNVlIelA4dXNuM1pUNFlZWENPd3BpQTdfYVFGbHBvbkxjdWk1aDVlNldLQzJRaEU3eFhYR0M2MVpzLUNqdWFhZkQ4ZENwRTlOeUdoOG9CaTFIYTVoM2pqZGtQNEFTcGJCcE40d2JzTDZFZDhSWGFmeWNkMzU0bi1VYnRmcUlWejZiVE1jag?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T17:19:43+00:00"
           }
         ],
         "Entertainment": [
