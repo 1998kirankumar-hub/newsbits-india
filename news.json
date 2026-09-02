@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-02T01:01:26.303592+00:00",
+  "updated_at": "2026-09-02T01:21:09.392474+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "World War II: The unsung role of India and its soldiers in the global conflict",
+            "link": "https://www.thehindu.com/news/international/world-war-ii-india-soldiers-forgotten-role-in-a-global-conflict/article71414848.ece",
+            "source": "The Hindu",
+            "summary": "Although the Indian Army fielded the largest volunteer force and fought on battlefields across the globe, there is little by way of a comprehensive archive documenting its experiences",
+            "published": "2026-09-02T06:39:44+05:30"
+          },
+          {
+            "title": "Global bond yields surge as debt and inflation risks mount",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-yields-surge-as-debt-and-inflation-risks-mount/articleshow/133694701.cms",
+            "source": "Economic Times",
+            "summary": "Global bond markets are experiencing a significant selloff as inflation concerns grow. Government debt levels are increasing, impacting consumers and businesses worldwide. Japan's 10-year yield reached three percent, its highest since 1996. Wars and increased deficit spending are contributing to higher oil prices and interest rates. This situation puts pressure on borrowing costs for both public and private sectors.",
+            "published": "2026-09-02T06:24:40+05:30"
+          },
+          {
+            "title": "Moment US strikes on Iranian port city hit wedding party",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
+            "published": "2026-09-02T00:47:41+00:00"
+          },
           {
             "title": "Exclusive: Return to Bangladesh not about power but to stand by people, says ex-PM Sheikh Hasina",
             "link": "https://www.hindustantimes.com/india-news/sheikh-hasina-india-extradition-return-latest-news-interview-bangladesh-nationalist-party-tarique-rahman-101788308754407.html",
@@ -81,30 +102,16 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-02T05:03:18+05:30"
-          },
-          {
-            "title": "Will self-flying planes transform the skies?",
-            "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
-            "published": "2026-09-01T23:27:35+00:00"
-          },
-          {
-            "title": "Soft launches and late sittings - six ways to get cheaper meals out",
-            "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
-            "published": "2026-09-01T23:26:38+00:00"
-          },
-          {
-            "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-            "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-            "published": "2026-09-01T23:17:10+00:00"
           }
         ],
         "India": [
+          {
+            "title": "World War II: The unsung role of India and its soldiers in the global conflict",
+            "link": "https://www.thehindu.com/news/international/world-war-ii-india-soldiers-forgotten-role-in-a-global-conflict/article71414848.ece",
+            "source": "The Hindu",
+            "summary": "Although the Indian Army fielded the largest volunteer force and fought on battlefields across the globe, there is little by way of a comprehensive archive documenting its experiences",
+            "published": "2026-09-02T06:39:44+05:30"
+          },
           {
             "title": "Exclusive: Return to Bangladesh not about power but to stand by people, says ex-PM Sheikh Hasina",
             "link": "https://www.hindustantimes.com/india-news/sheikh-hasina-india-extradition-return-latest-news-interview-bangladesh-nationalist-party-tarique-rahman-101788308754407.html",
@@ -181,16 +188,16 @@
             "source": "The Hindu",
             "summary": "The aircraft is undergoing maintenance checks and will resume operations after securing necessary clearances, the airline said; arrangements were made for the passengers to reach their destination",
             "published": "2026-09-02T01:54:37+05:30"
-          },
-          {
-            "title": "Defence PSUs told to reduce dependence on imports",
-            "link": "https://www.thehindu.com/news/national/rajnath-singh-reviews-performance-of-16-defence-psus/article71415820.ece",
-            "source": "The Hindu",
-            "summary": "Recent global conflicts have shown the importance of assured supply chains, surge production capacity, availability of critical spares, rapid repair, and sustaining manufacturing over prolonged conflicts, says Defence Minister",
-            "published": "2026-09-02T01:46:21+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Moment US strikes on Iranian port city hit wedding party",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
+            "published": "2026-09-02T00:47:41+00:00"
+          },
           {
             "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
             "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
@@ -267,16 +274,16 @@
             "source": "Al Jazeera",
             "summary": "IAEA says lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
             "published": "2026-09-01T21:28:00+00:00"
-          },
-          {
-            "title": "Germany says Russia behind Leipzig airport drone attack",
-            "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-            "published": "2026-09-01T21:05:22+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Global bond yields surge as debt and inflation risks mount",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-yields-surge-as-debt-and-inflation-risks-mount/articleshow/133694701.cms",
+            "source": "Economic Times",
+            "summary": "Global bond markets are experiencing a significant selloff as inflation concerns grow. Government debt levels are increasing, impacting consumers and businesses worldwide. Japan's 10-year yield reached three percent, its highest since 1996. Wars and increased deficit spending are contributing to higher oil prices and interest rates. This situation puts pressure on borrowing costs for both public and private sectors.",
+            "published": "2026-09-02T06:24:40+05:30"
+          },
           {
             "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
             "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
@@ -332,13 +339,6 @@
             "source": "Economic Times",
             "summary": "In a significant development, Fortis Healthcare is assessing a recent decision from the Delhi High Court regarding the Daiichi Sankyo arbitration. The court's order for a forensic audit of earlier transactions poses a notable contingent liability for Fortis. Consequently, the company may explore the option of appealing to the Supreme Court, as this ruling could necessitate direct compensation to Daiichi Sankyo.",
             "published": "2026-09-02T01:05:53+05:30"
-          },
-          {
-            "title": "Indian banks slash FCNR deposit rates by up to 310 basis points",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-banks-slash-fcnr-deposit-rates-by-up-to-310-basis-points/articleshow/133694499.cms",
-            "source": "Economic Times",
-            "summary": "Indian banks have lowered interest rates on foreign-currency deposits significantly. This action follows the closure of the Reserve Bank of India's special swap window. Banks offered unusually high rates to attract overseas funds during the ten-week period. This special facility enabled lenders to provide substantially higher returns to depositors. The strong inflows prompted the RBI to advance the closure of this…",
-            "published": "2026-09-02T00:43:26+05:30"
           },
           {
             "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -634,25 +634,25 @@
             "published": "2026-09-02T12:55:49+05:30"
           },
           {
-            "title": "मानहानि मामला: 'सावरकर ने मुसलमानों से कभी नफरत नहीं की', राहुल गांधी के आरोप पर कोर्ट में परपोते ने क्या कहा?",
-            "link": "https://www.amarujala.com/india-news/savarkar-never-hated-muslims-but-rahul-gandhi-portrayed-him-as-their-extreme-hater-kin-to-court-2026-09-02",
+            "title": "आज का राशिफल 02 सितंबर: सिंह, मकर और कर्क राशि वालों की आर्थिक स्थिति होगी मजबूत, मिलेगा भाग्य का साथ",
+            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-02-september-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-09-01",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-02T12:50:42+05:30"
+            "published": "2026-09-02T12:10:22+05:30"
           },
           {
-            "title": "यूपी: 6 सितंबर तक भारी बारिश-बाढ़ का पूर्वानुमान, आज 21 जिलों में जमकर बरसात का अलर्ट; सतर्कता के निर्देश",
-            "link": "https://www.amarujala.com/lucknow/up-heavy-rain-and-flood-forecast-until-september-6-heavy-rain-alert-for-21-districts-today-2026-09-02",
+            "title": "यूपी: सितंबर के पहले ही दिन प्रदेश में रिकॉर्ड बारिश, टूटा 125 साल पुराना रिकॉर्ड; इन जिलों के लिए अलर्ट जारी",
+            "link": "https://www.amarujala.com/lucknow/up-record-rainfall-in-the-state-on-the-first-day-of-september-breaking-a-125-year-old-record-alert-issued-f-2026-09-01",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-02T12:38:23+05:30"
+            "published": "2026-09-02T06:14:05+05:30"
           },
           {
-            "title": "आज के दिन: जल शक्ति मंत्रालय के कार्यक्रम में शामिल होंगे पीएम मोदी, राम मंदिर ट्रस्ट को मिलेगा पहला सीईओ",
-            "link": "https://www.amarujala.com/india-news/2-september-2026-major-event-2026-09-01",
+            "title": "पीएम मोदी के जन्मदिन पर भाजपा शुरू करेगी जनसंपर्क अभियान: काशी-वडनगर से निकलेंगी यात्रा; क्या है पूरा प्लान?",
+            "link": "https://www.amarujala.com/india-news/pm-modi-birthday-bjp-month-long-campaign-kashi-vadnagar-jan-sampark-yatra-plan-2026-09-02",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-02T05:49:02+05:30"
+            "published": "2026-09-02T05:23:49+05:30"
           },
           {
             "title": "जबलपुर समेत MP के 22 जिलों में आज भारी बारिश:स्ट्रॉन्ग सिस्टम सक्रिय; कल से भोपाल, ग्वालियर-उज्जैन पहुंचेगा; सतना में स्कूल-कॉलेज की छुट्टी",
@@ -683,6 +683,13 @@
             "published": "2026-09-01T23:31:04+00:00"
           },
           {
+            "title": "9/11 की 25वीं बरसी: इराक-अफगानिस्तान की जंग में 7000 से ज्यादा अमेरिकी सैनिकों की गई जान, क्या हासिल हुआ?",
+            "link": "https://www.amarujala.com/world/9-11-25th-anniversary-iraq-afghanistan-wars-over-7000-us-soldiers-killed-what-did-us-gain-2026-09-02",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-02T05:00:37+05:30"
+          },
+          {
             "title": "सुर्खियां: 19 राज्यों में बारिश का अलर्ट; दिल्ली में स्वाइन फ्लू संक्रमण का रिकॉर्ड टूटा; यूएस-ईरान टकराव बढ़ा",
             "link": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-2-september-2026-updates-on-amar-ujala-news-in-hindi-2026-09-02",
             "source": "Amar Ujala",
@@ -690,25 +697,18 @@
             "published": "2026-09-02T04:46:19+05:30"
           },
           {
+            "title": "यूएस वीजा नियम: भारतीय पेशेवरों-निवेशकों को सितंबर में भी राहत नहीं; नौकरी छोड़ भारत लौटीं दिशा ने क्या बताया?",
+            "link": "https://www.amarujala.com/world/us-visa-rules-indian-professionals-investors-september-relief-disha-returned-india-after-quitting-job-2026-09-02",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-02T04:15:55+05:30"
+          },
+          {
             "title": "चारधाम यात्रा में अगस्त में 2.31 लाख यात्री पहुंचे:4 साल में सबसे ज्यादा; बद्रीनाथ में सबसे ज्यादा 1.25 लाख श्रद्धालु आए",
             "link": "https://www.bhaskar.com/g/national/news/chardham-yatra-record-tourist-footfall-badrinath-kedarnath-uttarakhand-138904249.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-01T22:16:09+00:00"
-          },
-          {
-            "title": "भास्कर अपडेट्स:यूक्रेन पर रूसी हमले में भारतीय समेत 12 की मौत, अब तक रूसी सेना में भर्ती 51 भारतीयों की जान गई",
-            "link": "https://www.bhaskar.com/g/national/news/breaking-news-live-updates-headlines-2-september-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138904115.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-01T21:52:55+00:00"
-          },
-          {
-            "title": "सुरों से सरहद पार: सीमा ने पहुंचाया शांति का संदेश, मंदिर में भजन गाने से शुरुआत; साहित्य अकादमी से सम्मानित",
-            "link": "https://www.amarujala.com/jammu/transcending-borders-through-melody-seema-conveys-a-message-of-peace-2026-09-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-02T03:16:20+05:30"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "\"இப்போ வேண்டாம்.. 2 வாரம் வெயிட் பண்ணுங்க..\" தங்கம் வாங்கலாமா? தெளிவாக ஆனந்த் சீனிவாசன் சொன்ன பதில்",
+            "link": "https://tamil.oneindia.com/news/business/gold-rate-direction-will-be-decided-after-september-fed-meeting-says-economist-anand-srinivasan-827959.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-09-02T06:41:55+05:30"
+          },
+          {
             "title": "மீண்டும் பற்றி எரியும் மணிப்பூர்.. தீக்கிரையான நாகா கிராமங்கள்! துப்பாக்கி சூட்டில் பாஸ்டர் படுகாயம்",
             "link": "https://tamil.oneindia.com/news/india/manipur-violence-returns-as-four-naga-villages-attacked-during-nrc-shutdown-827955.html",
             "source": "Oneindia Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-01T11:15:12+00:00"
-          },
-          {
-            "title": "கண்டுகொள்ளாமல் நழுவிய புடின்.. கையை பிடிச்சு கெஞ்சிய ஷெரீப்.. நொறுங்கியது பாகிஸ்தான் அரசியல்!",
-            "link": "https://tamil.oneindia.com/news/international/sco-summit-2026-shehbaz-sharif-stops-vladimir-putin-for-a-quick-chat-after-group-photo-827863.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-01T16:41:52+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,53 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "అలా ఆపొద్దండి.. అదే ఆపదండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkc0dfX1IxUFVSOHhQX0NBWE5SbDJGUGFiRXczTjdwQUlKNVRMMl9uV3hkM3BQTUdKQ19KYzlsTnpvdENMZDE3UmhaeE5hRkFxM1BOMW1kbllmbmlyZ2I3ZnJfQWV6dVU2cWl5OV96R3AxS054QTh1bldIQTlKdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T01:01:04+00:00"
+          },
+          {
+            "title": "పాయకరావుపేటను తాకిన గోదావరి జలాలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBna29CZHdzbFg1cjZWWjJSeTNLcjhyNXRZWmQ5LUw3bHlXQlhvNWpRY25wRlRpWUlEYWxQVzRVaUF4LVZxb3daY2Y3VjVPWVM4aTFYeXFuV01KcmllNUhFa3ZKaGtmOHZicWR2eHd3ei1iTGNZRUJxeFlmSDTSAXxBVV95cUxQZ2tvQmR3c2xYNXI2VloyUnkzS3I4cjV0WVpkOS1MN2x5V0JYbzVqUWNucEZUaVlJRGFsUFc0VWlBeC1WcW93WmNmN1Y1T1lTOGkxWHlxbldNSnJpZTVIRWt2SmhrZjh2YnFkdnh3d3otYkxjWUVCcXhZZkg0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:43:26+00:00"
+          },
+          {
             "title": "భారత్‌ను కాదని ఎక్కువ ఖర్చైనా... చైనా విద్యుత్తుకు బంగ్లా ప్రాధాన్యం? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52eDdKa1NSU195SXl5bUZqQ3FyZ00tRGxaX2pvZDJjSHFaZG5UNjRqbzRIOVZtY2lDNjVGZHF0d3U3ZHNmaHJwaEY2cTZES2NuLUR1OHNkSUtRWVFIdm43Z1RnTVBGRDBoYmpibmMtLWjSAXBBVV95cUxOdng3SmtTUlNfeUl5eW1GakNxcmdNLURsWl9qb2QyY0hxWmRuVDY0am80SDlWbWNpQzY1RmRxdHd1N2RzZmhycGhGNnE2REtjbi1EdThzZElLUVlRSHZuN2dUZ01QRkQwaGJqYm5jLS1o?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-02T00:26:19+00:00"
+          },
+          {
+            "title": "Dan Driscoll: అమెరికా రక్షణ శాఖలో లుకలుకలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObExsQWcteGhudGJKVGF0ZXpwSGJ6VnZHVTVacE8yWm5uXzRtVlk4dEF4S191ZHJzcUd3NDMyYUpHUTBLQWJMNEdyZTQ0VkxXOVR3dGdWTlNLMlpUa2ZZYUpSLVhLU3prNVVMVmlYOWRoOF8yUVlORHg4a21rV3ZING8zV1FISzBLd3NUY21oZEo5YTZuTFVFdGN3WC1fNi1xUTJQblF2bVBWbm1z0gGsAUFVX3lxTE5sTGxBZy14aG50YkpUYXRlenBIYnpWdkdVNVpwTzJabm5fNG1WWTh0QXhLX3VkcnNxR3c0MzJhSkdRMEtBYkw0R3JlNDRWTFc5VHd0Z1ZOU0syWlRrZllhSlItWEtTems1VUxWaVg5ZGg4XzJRWU5EeDhrbWtXdkg0bzNXUUhLMEt3c1RjbWhkSjlhNm5MVUV0Y3dYLV82LXFRMlBuUXZtUFZubXM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:25:30+00:00"
+          },
+          {
+            "title": "40 రోజుల్లో మినీ లెదర్‌ పార్కులు సిద్ధం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVbUxIbjdqUWNRRi1EbjFIQzJhNDI2SWdTazRKLXl5bExobTBremVWUzZfeDFycnJkTjM4a09pVUZkakhMQzQwREdTMnA2Sm5IQ0F2blRFbXJiaUgwbTdQRkJub3JYOUhfNWs1Q21fMDR4U20xcHA1QWtRazTSAXxBVV95cUxQVW1MSG43alFjUUYtRG4xSEMyYTQyNklnU2s0Si15eWxMaG0wa3plVlM2X3gxcnJyZE4zOGtPaVVGZGpITEM0MERHUzJwNkpuSENBdm5URW1yYmlIMG03UEZCbm9yWDlIXzVrNUNtXzA0eFNtMXBwNUFrUWs0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:25:12+00:00"
+          },
+          {
+            "title": "గోదావరి పుష్కరాల కోసం మరో రూ.100 కోట్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1leFA2NWJDb1phQWNkUWllSWZMTV9XM240RnczQjNvSDBrYXZac0puNEVKZWxucVBpRkdDekU4RFQxTXJHWUJXaDU4Mk0xcTJTbEJQNlhBcjRCUEhsSEcwbWxUYkdaSjRWdXl2M21WRVlyY0tWT0JyMXBxQ3fSAXxBVV95cUxNZXhQNjViQ29aYUFjZFFpZUlmTE1fVzNuNEZ3M0Izb0gwa2F2WnNKbjRFSmVsbnFQaUZHQ3pFOERUMU1yR1lCV2g1ODJNMXEyU2xCUDZYQXI0QlBIbEhHMG1sVGJHWko0VnV5djNtVkVZcmNLVk9CcjFwcUN3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:24:40+00:00"
+          },
+          {
+            "title": "స్పౌజ్‌ పింఛన్లు @ 2.30 లక్షలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Xd0c3ajdLZTZnREVIOEJsYnVudE5EamZfRFRtb3V3azJwVzRLQU94SHQ3QVRXcFRZVzZaUG5qN1hCRGdqLTZGUGQtZEVPakoxZE5vUFY2MUkwTkNhWDNaanNhVDhTX0xuSlROajl3NFlEdUQwSDNrWFlQdTfSAXxBVV95cUxPV3dHN2o3S2U2Z0RFSDhCbGJ1bnRORGpmX0RUbW91d2sycFc0S0FPeEh0N0FUV3BUWVc2WlBuajdYQkRnai02RlBkLWRFT2pKMWROb1BWNjFJME5DYVgzWmpzYVQ4U19MbkpUTmo5dzRZRHVEMEgza1hZUHU3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:22:42+00:00"
           },
           {
             "title": "అధైర్య పడొద్దు.. వచ్చేది మన ప్రభుత్వమే - Eenadu",
@@ -1100,60 +1142,18 @@
             "published": "2026-09-02T00:20:22+00:00"
           },
           {
+            "title": "Gen z: హోదా కాదు.. జీవితం ముఖ్యం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc25kTTR0a2pldGVXNV9sNnNYcEZXT05ucjlnN05hVEdwTkRwdDhKVllwU083cGhNNzh5ZUg2Q1lvZlBZclNzdWs0VkFpN0pENlBjWXpUbzJRdFVGMTk3dXlqY0M1LW1HOUlERGJYVktkYmc0VmVYMkhVSk1TWWFBQXNPZHhVQUh4ZFpRZnVHYkxfRUctSEHSAZYBQVVfeXFMTnNuZE00dGtqZXRlVzVfbDZzWHBGV09ObnI5ZzdOYVRHcE5EcHQ4SlZZcFNPN3BoTTc4eWVINkNZb2ZQWXJTc3VrNFZBaTdKRDZQY1l6VG8yUXRVRjE5N3V5amNDNS1tRzlJRERiWFZLZGJnNFZlWDJIVUpNU1lhQUFzT2R4VUFIeGRaUWZ1R2JMX0VHLUhB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T00:15:06+00:00"
+          },
+          {
             "title": "GDP: ప్రపంచవ్యాప్త సంక్షోభంలోనూభారత్‌ పురోగమనం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVNGV1RiR015M1NId0pKMHVyOThrVzRmWDMyeUhlOWlVNnJ1TTJJekVxT0FZblRSaTZCeGtDUlp2VEpYZFFHWFhIdHZEakY2VkxCdzdla3l6UzQtMXYySF9KeGFvdm12TE1ja1VyWlBHYi1HWDBMeXIzNUxfeWlUZmRVY3RHdFBra2p1MS1JNFJEQ0lFRzNZbdIBmAFBVV95cUxOVVNGV1RiR015M1NId0pKMHVyOThrVzRmWDMyeUhlOWlVNnJ1TTJJekVxT0FZblRSaTZCeGtDUlp2VEpYZFFHWFhIdHZEakY2VkxCdzdla3l6UzQtMXYySF9KeGFvdm12TE1ja1VyWlBHYi1HWDBMeXIzNUxfeWlUZmRVY3RHdFBra2p1MS1JNFJEQ0lFRzNZbQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-02T00:14:32+00:00"
-          },
-          {
-            "title": "వైద్యులపై దాడులకు పాల్పడితే బెయిల్‌ లభించదు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZzNtbXlDQ0JjNGpaSUplZEFSREFBTl9vY0tqNHJ5Y2ZkaVFYMFUwa1dsQVpMQW5GZ2JjYXZjdFZVU3ZUUFVWRmFQbEZybDR5WUVydTZTYzBEX1VOMlNlU3IxSVlKTWdldnJTd3VyQjDSAXBBVV95cUxNVmczbW15Q0NCYzRqWklKZWRBUkRBQU5fb2NLajRyeWNmZGlRWDBVMGtXbEFaTEFuRmdiY2F2Y3RWVVN2VFBVVkZhUGxGcmw0eVlFcnU2U2MwRF9VTjJTZVNyMUlZSk1nZXZyU3d1ckIw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T00:13:49+00:00"
-          },
-          {
-            "title": "చిన్నారెడ్డిపై వేటు పడుతుందా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHdFWUdoTmkxWW50R21GaHAxSVpNcUFxM05tLWpTeDhPdE9PWjJqWGZRdVJaUjVLQVQxdEtNRHZyenVxdXZHUzdIVkRWVFhjMTYzeDhRcUt4Z2dPQ1c0UWFpWVd5MU9iUmFxTldiSmFlQU4zZ2VSblg2Nkl0eG14bg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T00:10:55+00:00"
-          },
-          {
-            "title": "మమతా బెనర్జీ మేనకోడలి ఆత్మహత్య - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rT0tOVGwtb0JPU3Z5cURic1ZyTDR5dE5hTWpiaHhOdVRFTFJUeGNjTldzQlQteDI1cnRacGhJcV9TMHREbDdfMGhLLVdZRXVSZk51OUFSWVdFWUZsNko3SmlYWkd4YXV4R1pHWGo1TXHSAXBBVV95cUxOa09LTlRsLW9CT1N2eXFEYnNWckw0eXROYU1qYmh4TnVURUxSVHhjY05Xc0JULXgyNXJ0WnBoSXFfUzB0RGw3XzBoSy1XWUV1UmZOdTlBUllXRVlGbDZKN0ppWFpHeGF1eEdaR1hqNU1x?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-01T23:49:22+00:00"
-          },
-          {
-            "title": "తిరుపతిలో నేడు టోకెన్ల జారీ నిలిపివేత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xZl96M1FUQ1hYYmpacXk4aGZYYnVWekYzQVJvQW1udzJFRWkyNFJ3Uk5xVWVRZ24wTW1YWVhWQWVLRHh6MzlESWxkUFhlMnpEY24yc2h5N3p3SkpFNzZ5RU1MTmh4N3NCYlhRU1NlSTYyT2daMVhUeHA3OG3SAXxBVV95cUxPMWZfejNRVENYWGJqWnF5OGhmWGJ1VnpGM0FSb0FtbncyRUVpMjRSd1JOcVVlUWduME1tWFlYVkFlS0R4ejM5RElsZFBYZTJ6RGNuMnNoeTd6d0pKRTc2eUVNTE5oeDdzQmJYUVNTZUk2Mk9nWjFYVHhwNzht?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-01T23:48:18+00:00"
-          },
-          {
-            "title": "ఆగస్టులోనూ నిరాశే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIMFZhN1FJSDhyamh2N2FfVVhoelpkNW1jU2hBSkFaUkxEX00xeFlsQ18ybkdOa0hrUFl5SnAtZk1WUlViX2RpeTFFUEtUQkhYbEs2X0QyLWY5SXMxSUpjRE9YazRuMkdiaVJUNXZINGltNFpkVVHSAXZBVV95cUxQSDBWYTdRSUg4cmpodjdhX1VYaHpaZDVtY1NoQUpBWlJMRF9NMXhZbENfMm5HTmtIa1BZeUpwLWZNVlJVYl9kaXkxRVBLVEJIWGxLNl9EMi1mOUlzMUlKY0RPWGs0bjJHYmlSVDV2SDRpbTRaZFVR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-01T23:41:08+00:00"
-          },
-          {
-            "title": "ఏఎస్‌డీడీ జాబితాలోని 73 లక్షల ఓటర్లపై రీవెరిఫికేషన్‌ చేయాలి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JaXU5c3JuNkJyTDllQTZLc0RpOVRudWZQdEZMVDVDdnZwbWN5VGxhdnpndXpvNk9aYWZSZkJNek5tZ0VGMU0tR2psOFZKNWRNTDNzQW12N3l2b0xZX05FRDNaOXlETnBBcFhFcVFQQkZxaUdlaVHSAXZBVV95cUxPSWl1OXNybjZCckw5ZUE2S3NEaTlUbnVmUHRGTFQ1Q3Z2cG1jeVRsYXZ6Z3V6bzZPWmFmUmZCTXpObWdFRjFNLUdqbDhWSjVkTUwzc0Ftdjd5dm9MWV9ORUQzWjl5RE5wQXBYRXFRUEJGcWlHZWlR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-01T23:40:13+00:00"
-          },
-          {
-            "title": "ఉక్రెయిన్‌లో జగిత్యాల జిల్లా వాసి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtYmJBSmdGblF4RjlPQTEySUFmZ0tzXzhfV2cxMU1fOE9tV3hvXzBOTDh5N3dsaWFmTzk0c3lQZnpfZEFmLTVMeXVoWXhiRHQ2dENqak5vVURsVThWSDlBYm5QZENTdU5FMkJIT1h30gFuQVVfeXFMUG1iYkFKZ0ZuUXhGOU9BMTJJQWZnS3NfOF9XZzExTV84T21XeG9fME5MOHk3d2xpYWZPOTRzeVBmel9kQWYtNUx5dWhZeGJEdDZ0Q2pqTm9VRGxVOFZIOUFiblBkQ1N1TkUyQkhPWHc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-01T23:29:59+00:00"
           }
         ],
         "Entertainment": [
