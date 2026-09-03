@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-03T14:27:28.247810+00:00",
+  "updated_at": "2026-09-03T14:31:25.198550+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Traffic in Aluva to be restricted for Sri Krishna Jayanthi celebrations",
+            "link": "https://www.thehindu.com/news/national/kerala/traffic-in-aluva-to-be-restricted-for-sri-krishna-jayanthi-celebrations/article71423902.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-03T19:55:37+05:30"
+          },
+          {
+            "title": "PM-RAHAT: No delay or denial of treatment to accident victims, says DC",
+            "link": "https://www.thehindu.com/news/national/karnataka/pm-rahat-no-delay-or-denial-of-treatment-to-accident-victims-says-dc/article71424222.ece",
+            "source": "The Hindu",
+            "summary": "Hospitals told to ensure ₹1.5 lakh cashless treatment for accident victims",
+            "published": "2026-09-03T19:55:31+05:30"
+          },
+          {
+            "title": "Special Investigation Team will probe ‘financial misappropriation’ in bid to bring Messi to Keralam: Chennithala",
+            "link": "https://www.thehindu.com/news/national/kerala/special-investigation-team-will-probe-financial-misappropriation-in-bid-to-bring-messi-to-keralam-chennithala/article71424182.ece",
+            "source": "The Hindu",
+            "summary": "Home Minister says Additional Director General of Police (Law and Order) P. Vijayan will lead the team",
+            "published": "2026-09-03T19:54:34+05:30"
+          },
           {
             "title": "TTD ramps up medical and accommodation facilities for nine-day Brahmotsavams",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-ramps-up-medical-and-accommodation-facilities-for-nine-day-brahmotsavams/article71424269.ece",
@@ -17,7 +38,7 @@
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/row-erupts-over-road-closure-abutting-ttds-twin-complexes/article71424027.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-03T19:50:32+05:30"
+            "published": "2026-09-03T19:51:09+05:30"
           },
           {
             "title": "Tunnel road projects: Karnataka HC seeks presentation on Hebbal lake water flow, GSI report on Lal Bagh monument",
@@ -67,27 +88,6 @@
             "source": "The Hindu",
             "summary": "In the week-long ‘Operation Hotspot’, police nab gang linked to over 200 mule accounts",
             "published": "2026-09-03T19:40:19+05:30"
-          },
-          {
-            "title": "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
-            "link": "https://www.hindustantimes.com/india-news/nagaland-assembly-passes-bill-to-create-autonomous-frontier-nagaland-authority-101788444612148.html",
-            "source": "Hindustan Times",
-            "summary": "Nagaland Assembly passed the FNTA Bill, granting legislative, executive and financial autonomy to six eastern districts under a new territorial authority.",
-            "published": "2026-09-03T19:40:11+05:30"
-          },
-          {
-            "title": "GE Aerospace announces shipment of three F404 Engines to HAL",
-            "link": "https://www.thehindu.com/news/national/karnataka/ge-aerospace-announces-shipment-of-three-f404-engines-to-hal/article71423742.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-03T19:39:49+05:30"
-          },
-          {
-            "title": "Rowdy-sheeter violates externment order, commits dacoity; held with four associates",
-            "link": "https://www.thehindu.com/news/national/karnataka/rowdy-sheeter-violates-externment-order-commits-dacoity-held-with-four-associates/article71423846.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-03T19:39:32+05:30"
           },
           {
             "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
@@ -106,6 +106,27 @@
         ],
         "India": [
           {
+            "title": "Traffic in Aluva to be restricted for Sri Krishna Jayanthi celebrations",
+            "link": "https://www.thehindu.com/news/national/kerala/traffic-in-aluva-to-be-restricted-for-sri-krishna-jayanthi-celebrations/article71423902.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-03T19:55:37+05:30"
+          },
+          {
+            "title": "PM-RAHAT: No delay or denial of treatment to accident victims, says DC",
+            "link": "https://www.thehindu.com/news/national/karnataka/pm-rahat-no-delay-or-denial-of-treatment-to-accident-victims-says-dc/article71424222.ece",
+            "source": "The Hindu",
+            "summary": "Hospitals told to ensure ₹1.5 lakh cashless treatment for accident victims",
+            "published": "2026-09-03T19:55:31+05:30"
+          },
+          {
+            "title": "Special Investigation Team will probe ‘financial misappropriation’ in bid to bring Messi to Keralam: Chennithala",
+            "link": "https://www.thehindu.com/news/national/kerala/special-investigation-team-will-probe-financial-misappropriation-in-bid-to-bring-messi-to-keralam-chennithala/article71424182.ece",
+            "source": "The Hindu",
+            "summary": "Home Minister says Additional Director General of Police (Law and Order) P. Vijayan will lead the team",
+            "published": "2026-09-03T19:54:34+05:30"
+          },
+          {
             "title": "TTD ramps up medical and accommodation facilities for nine-day Brahmotsavams",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-ramps-up-medical-and-accommodation-facilities-for-nine-day-brahmotsavams/article71424269.ece",
             "source": "The Hindu",
@@ -117,7 +138,7 @@
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/row-erupts-over-road-closure-abutting-ttds-twin-complexes/article71424027.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-03T19:50:32+05:30"
+            "published": "2026-09-03T19:51:09+05:30"
           },
           {
             "title": "Tunnel road projects: Karnataka HC seeks presentation on Hebbal lake water flow, GSI report on Lal Bagh monument",
@@ -167,27 +188,6 @@
             "source": "The Hindu",
             "summary": "In the week-long ‘Operation Hotspot’, police nab gang linked to over 200 mule accounts",
             "published": "2026-09-03T19:40:19+05:30"
-          },
-          {
-            "title": "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
-            "link": "https://www.hindustantimes.com/india-news/nagaland-assembly-passes-bill-to-create-autonomous-frontier-nagaland-authority-101788444612148.html",
-            "source": "Hindustan Times",
-            "summary": "Nagaland Assembly passed the FNTA Bill, granting legislative, executive and financial autonomy to six eastern districts under a new territorial authority.",
-            "published": "2026-09-03T19:40:11+05:30"
-          },
-          {
-            "title": "GE Aerospace announces shipment of three F404 Engines to HAL",
-            "link": "https://www.thehindu.com/news/national/karnataka/ge-aerospace-announces-shipment-of-three-f404-engines-to-hal/article71423742.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-03T19:39:49+05:30"
-          },
-          {
-            "title": "Rowdy-sheeter violates externment order, commits dacoity; held with four associates",
-            "link": "https://www.thehindu.com/news/national/karnataka/rowdy-sheeter-violates-externment-order-commits-dacoity-held-with-four-associates/article71423846.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-03T19:39:32+05:30"
           }
         ],
         "World": [
@@ -1335,6 +1335,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Amruthadhare: ಜೈದೇವ್ ವಿರುದ್ಧ ಭೂಮಿಕಾ-ಮಲ್ಲಿಯ ಮಾಸ್ಟರ್ ಪ್ಲ್ಯಾನ್; ಮಧುರಾ ಕಿಡ್ನ್ಯಾಪ್‌ ಮಾಡಿಸಿದ ಕೇಡಿ",
+            "link": "https://kannada.oneindia.com/entertainment/amruthadhare-bhoomika-mallis-master-plan-against-jaidev-madhura-kidnapped-strategy-vs-counter-stra-466741.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-03T19:57:38+05:30"
+          },
+          {
             "title": "Duniya Vijay Divorce: ನಟ ದುನಿಯಾ ವಿಜಯ್-ನಾಗರತ್ನ ವಿಚ್ಛೇದನ ಮಂಜೂರು, ₹2 ಕೋಟಿ ಜೀವನಾಂಶಕ್ಕೆ ಹೈಕೋರ್ಟ್ ಆದೇಶ",
             "link": "https://kannada.oneindia.com/entertainment/duniya-vijay-divorce-karnataka-high-court-grants-divorce-to-actor-nagarathna-orders-2-crore-alimon-466673.html",
             "source": "Oneindia Kannada",
@@ -1410,13 +1417,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-08-27T12:39:10+05:30"
-          },
-          {
-            "title": "Yash Toxic: ಮೊದಲ ದಿನವೇ ಧುರಂಧರ್ ದಾಖಲೆ ಉಡೀಸ್ ಮಾಡಿದ ರಾಕಿಂಗ್ ಸ್ಟಾರ್ ಯಶ್ ಟಾಕ್ಸಿಕ್!",
-            "link": "https://kannada.oneindia.com/entertainment/yash-toxic-rocking-star-yash-breaks-dhurandhar-s-first-day-record-at-the-box-office-465829.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-08-26T16:17:20+05:30"
           }
         ]
       }
@@ -1440,14 +1440,14 @@
             "published": "2026-09-03T12:26:12+00:00"
           },
           {
-            "title": "গঙ্গার জল বেড়ে ভেঙে পড়ল বাঁধ! বন্যা পরিস্থিতি ভুতনি চরের কেশরপুরে, কী ব্যবস্থা নিল স্থানীয় প্রশাসন? - Anandabazar Patrika",
+            "title": "গঙ্গার জল বেড়ে ভেঙে পড়ল বাঁধ! বন্যা পরিস্থিতি ভুতনি চরের কেশরপুরে, কী ব্যবস্থা নিল স্থানীয় প্রশাসন? - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzJDdXJSUTJEYmdDWG1raVRwbTlJLXZwOUhCOW9SVG9xVXRYVVFDN0ROUmJVVWZacWk0MUthN0Y1VGRVb3FKbDFyV3hwSlFjcE1UUm93MGFYVTNBdlZ0YW9jSGM4QkR6aGNIUVk3SWw1ZGV2RjlOZklRUmNTSlRTLXdoUGlwYmlCYnM3cHljampEX3ptQlFMb05EMkt6RElQcWRsVzBDUXk1cmJjUVJEaW1MQnpZUHZYMjc1TXV0bVVuRGFwemfSAcsBQVVfeXFMTWtHdlN6NVhubTBjUU4tRWNvbWtwTjBIVVJldXVMdFpKSlJBbnJfNlZuQURrRE52c0xubnltOU5DVmtLZlcxdjMxU2w1T1BQVFN0YmVEb0Fmb29Sc2JOM2h3Q2FFWG9tWmgwMmlSajNTR1dkU084X3BPcFhWalhjRUxOdks3Z2hrOXlaYUJvODREb2ZEWUh0VjlObXJIZUtDOFNINWVhTGY4Y2pfamhQWWxlNHBSbkNTWndTLVQ1enlCSmF1cTlWOW1XMHM?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T10:42:12+00:00"
           },
           {
-            "title": "নেপাল বিপর্যয়ের এক সপ্তাহের মধ্যে তিব্বতে আবার ভূমিকম্প! রিখটার স্কেলে মাত্রা ৫, ফের আসতে পারে বান? - Anandabazar Patrika",
+            "title": "নেপাল বিপর্যয়ের এক সপ্তাহের মধ্যে তিব্বতে আবার ভূমিকম্প! রিখটার স্কেলে মাত্রা ৫, ফের আসতে পারে বান? - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWd1WGFlZWVXa2xoZVN1N3ZVdlgwcU0tN1NuWjBQZW1OQkgwcnpfNjRqV3FyWTRGclZ6VFUyLVBydVVDT0FtM2JUSXRPOGthWDFQYkNhbEFISnpvUUxVVlZ1bW9Nb1RMRGVmVG9OaVBmU0w0bWdWSTQydG1nRVZIYy15Y09NeTdWRzEteXNRTzU0MHBZU0FwbU9BakJ4RzRuSXRzUm9QUkZsd0RkZXR5NGVR0gG3AUFVX3lxTFBYUFQ1MkxKdHRfbWIxZGNWcXgyNENUcWlKSG5RWkZBT0FWdHhQdDRiYVFnYUZwN3g4QWl3ZlVwa01aNWNKeHB5Wm1EUUUtVUwwUG5LUExZaXFpeVBvUXB0NFV6NUVmRE5ONFBiR0FxVHZUZzlBMVBwcFhhTWVBU0xUeDdGcXpYM3lqRktiRmlqc3BIQjlnOV9wSHFKNDdLNm5zQTlzSkhEcDVvdWhsTmdOYklZTnV5Zw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1461,49 +1461,49 @@
             "published": "2026-09-03T09:30:49+00:00"
           },
           {
-            "title": "ফ্যাসিবাদ-বিরোধী স্লোগান ফিরে এল যাদবপুরে, বিদ্যাসাগরের ছবি টাঙাচ্ছে এবিভিপি, অটলও জড়ালেন দেওয়াল-রাজনীতিতে - Anandabazar Patrika",
+            "title": "ফ্যাসিবাদ-বিরোধী স্লোগান ফিরে এল যাদবপুরে, বিদ্যাসাগরের ছবি টাঙাচ্ছে এবিভিপি, অটলও জড়ালেন দেওয়াল-রাজনীতিতে - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV3hwOVNhNlYydGNYek4yUzFnb1VZYTNkZ0xENVhWWXJ6Umd6WmgtRTRva3VOWDh3U3hoT3JSdGVQdFFmVm5kN0ZzOTU3SUFiM1F0VmxNTHItNVRjQkFSZklKODJISEw0UFUtOEdNRUhaVjNUTFladi1CRU5uN2o1a191dzRpekk4YkZMeVluR0RhbjRrbnRTenVpNHU2QjNURFh4WFVrSXpzbVRBVmVDUFJXMkwwNnhQZjdfOUljVnZfM2I0aGoxNmFCSXBwUkI4VkpZQUZlNVVrYll1cDE2ZkcySFhVUmo4R2pqVG5VM293T0hSZGVGRUJBNNIBgAJBVV95cUxPSUlnU0t5S183NDRPVVZtVkVyQnhhSTN2Zk1HZ0FGWWE0WHpoWTlsSktFM01aVGV1YWttSzdGTzZyMjkyT2FPOERPTmMzY1l5Mk5ueFhaNTBrOWNQZjFSRnF5Zi1sUGIxWTNSNkNRX1JmQWxQenk2X0hhdmNuUjQ5dHZaUzZNQkhCTUgzdlZjSlhueWZmLXBQaEt2SGJSZVZyNG5MRXJnYlFHTnF4ZEFJSnppNkV0VEpKeE9HQV9oNXREdWhPalp3UjYxQll0em91RFU2UE5qSEhtbkU3N0FzU3RFQnY5S3dtT3FZaDlKVTN0UFBzblZaVVkzNlpPV3pB?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T09:27:18+00:00"
           },
           {
-            "title": "শ্রীলেখা মিত্রকে আপাতত রক্ষাকবচ কলকাতা হাই কোর্টের, প্রধানমন্ত্রীর ‘কুরুচিকর’ ছবি মামলায় নির্দেশ - Anandabazar Patrika",
+            "title": "শ্রীলেখা মিত্রকে আপাতত রক্ষাকবচ কলকাতা হাই কোর্টের, প্রধানমন্ত্রীর ‘কুরুচিকর’ ছবি মামলায় নির্দেশ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPSjRUdGVrU0Mxam4yRVRpbUNSWjRJbVdhV1Jld2NsZXZzOENyWFR5a0J4Y3NjUXBqMDhYZG9xY3ZpNFpPNGRMaFRQWGVUS29qaDdyQ3V5RHdXN1RKSGRsUmJNd045TUJZckVQb2xQNjUxS0cyWTZfZEpzN3lpSWszNXhQQkFwNmlfVHR0Q3BDZXJUMlhYWnZkTHhyWkhySzhzMWNUaW9RaWs0RnFZbVdyazV6blkyV1F5ZzRRaTYxVUNCaFVFcTQtRzdVaDM1ejROcFduX3EtUnQ3djR6SWtITzItZzB6cFlwamtPT1V1eFl3a3l0MWtPNFlUYU95NXlqZlNTdUhXdmJBNlNhSEE5bDFaekZzc0Z0bVA2RkpJdzk0X0JCRkRkc2lmRVd1dnRGSzJIRzlPUkN4UUxBa3ExbWlfeEUwSVM4MEtRS3NYRV90a280UzhFdFJQeDFodGJkckxqcWhkZGNqVVlXZHNF0gH0AkFVX3lxTFAwNmIyRUp2eG8ySUxXeHhwVXJnZFNlYWpBWnVqZ3pDclh4UUhBckVLclpSMEF3VHNDc0pRYzNXU0pyY1p3NXRYMHd5NFlSWmpDSlBRdUNKTTZFUGR4cTcySHdSWEdteTdEb0dwenFHeV9HYWF1bVpQb2I1QWpQTXlSTkpNS0RPYmpyNlZJam92NTdfR001T1RWWE1acGcwanRDXzlTSWgxbjZRbzlZSFNfQWpKdDMzSmpUQWtaM1FsV2tGcG9fTS03cDFYYTVUMkhpWXI0a1FSR3VjSDNmRkpMSTlNdk1iRFowejBWTkNhamFYcHdjeC1DbGpMeDVoRUIzR3pwR0k1RUc4bHhiRHBPMlpfZFdnRzZpOUg3VlB0Sklfako4aDNtZ01DbEx2MFU2RFRpYW91Z1RITlVxbTVOcVVDRWtJdHgzQXRHYS1OSnhNMFcxQXBfd3JlUHVwQzdFY3Y3Rm02dERQQUxCdTJtSXBFNQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T09:09:41+00:00"
           },
           {
-            "title": "তৃণমূল থেকে এনসিপিআই: ২১ দিন সময় পেলেন ‘বিদ্রোহী’ ২০ সাংসদ! সুদীপদের আবেদন মেনে নিলেন স্পিকার ওম বিড়লা - Anandabazar Patrika",
+            "title": "তৃণমূল থেকে এনসিপিআই: ২১ দিন সময় পেলেন ‘বিদ্রোহী’ ২০ সাংসদ! সুদীপদের আবেদন মেনে নিলেন স্পিকার ওম বিড়লা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVl3cm9qV3dLZmVEVkRZWlhuYm05UHFqbUdTSE4wMTI5UWQ1bF96RGJKQnBXWnB5NkZOajFKT3JZYXJJek04ZzRMX2kzWlVYRzg1S1FmbTNEc3pJam9nOGZNLVRnMHR0Szc4blJTSU9RR19HMjdoZVZTU3dOYV90WURENlFDTDh6UWl6ajRJZ204OGZ3UzJ2c2lvR0lHZXQtVVpxTmZHbHh0amYtSk90aHV5clBKa2ZRRnk5TlFWeWF2N1Bka0ZhMUx30gHPAUFVX3lxTE1FWjMzUEt0NTJsdlhOQlRDSUV6N0FSa3gtY2lqU2k1c2xCZWdmblhaMFk0b3JUM01kTmdvS0syYzF6SFlGaC1hM01yODJzSWJkSEhqMEc3Nnk2U05JTzR0dmZVOWQ3QmpFWm9BUmVwWGh3UFpKdUw5UkdoTHN6enk3bVZqZFZNMWNPRkJEYzFwU3NQZExzLUliVW1VTDhEQUlXQmE2VlYtdjFYTElETmFRSHJWSmpadmNrdENZS3hQcFRuNFF4WU10R21FMVBjTQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T09:08:11+00:00"
           },
           {
-            "title": "ডিভিসি জল ছাড়ায় উদ্বেগবৃদ্ধি দামোদরের পারে! কোথাও চিন্তা বাড়াচ্ছে নিকাশি, বৃষ্টি নামলেই জল জমছে হাসপাতালে, রাস্তায় - Anandabazar Patrika",
+            "title": "ডিভিসি জল ছাড়ায় উদ্বেগবৃদ্ধি দামোদরের পারে! কোথাও চিন্তা বাড়াচ্ছে নিকাশি, বৃষ্টি নামলেই জল জমছে হাসপাতালে, রাস্তায় - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTmxzbDA4ZUgyeGlCMDdXb25zVFBweVNBdUxoS1BySkZ6bUVGenVRWmFlNlpHSWJBUTFRQl9wWXY0MmZmcEx3TE1VdFoxa3VwN2w1aVN2a3Q5ekhxSkVwSkxLaUpSX1hweEtnTUsxc3E3R01SNlhPcDk4TnB4YXFvalJ2cjU5elQwb2VkYkpDM1dHMTVPYTI2QjR3MzNUakY3MV94eHkyZktWNWVMRk5Pbi1TcDh1S1ZRY0YwSEtJUkFoZ2pFT1VGaVU4TG9QbnhqS29JbDJnQzRSaEtJanfSAeMBQVVfeXFMTmwyUDJlX3o3eURzZ2NUZXFWRTRNM1VUd0VCOFdiRldwTFZtZUZsTzdxcXpVNnFfQzlzTVF3ZG5qaVF4M2VWVUpwRWhrWndzWnpsQUlhMV9IQ2liRlBWeExlVzJlWlpYMEQ4VnhnWHlIT25pdGw3YkQwM1N4SW5uSUhKUllDZEFpN1ZKYUQzQWUtMldUUmtnTGQxTXo2UHNtSlhWdUJFUnd5N2taUm14ekh0TS01R3Z4c2hhYXNOZEZHYUlyWWYya0c5UHhncGl4MXFhSkU0a1hfUHg5Mlc4bWdNS28?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T08:44:46+00:00"
           },
           {
-            "title": "মিগ উড়িয়ে পাকিস্তানি এফ-১৬ ধ্বংস করেন, বায়ুসেনার চাকরি ছাড়লেন সেই অভিনন্দন! যোগ দিলেন বেসরকারি সংস্থায় - Anandabazar Patrika",
+            "title": "মিগ উড়িয়ে পাকিস্তানি এফ-১৬ ধ্বংস করেন, বায়ুসেনার চাকরি ছাড়লেন সেই অভিনন্দন! যোগ দিলেন বেসরকারি সংস্থায় - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV1ZrY3dUM08ta254RUhEblhlRHphUElxYWJTdjRZMkRzaVhZVE1PWEJvX2t2Wm4xd0llLUx1YTEwd2xmdlA3MWd2bklqakZkeW5kcEJBV24tNWhuWE9Id0ZxYWZ6VmFwb2hlSnhNckEyTlFUWml2aGlNZXdHT3p3ZDJPaWV4cW9vMjU4ZnFjZmE2SS1BQ3BDNkRwMjJlM1N0M2g5bW1SdHhta1pqYXNibXVRTjhESmRvVGJFZzBLcXpTU05iS2k3VXhtWXVGazNtMjhIU2pRRi1TSGJZcTE4dUM0Y05uM2UyMlZnRkVYVHk2NGlROGFR0gH8AUFVX3lxTFBySTMyM1JSSDVKRWZ6RWNCaDJhY3VFbGxvc2xPUUtZWGZsVjUzcDNYSXcxRFBuUVVtRWZRbGNnVVJjc2hLeDBfRFI5YnJHVDhWLWNBMko5VmhCU1RFa1gwV01ya2ZFNEpuMlRtV2g3U3NSaWxaZkE5MzdGRUZmMldwSVhMaDZQMFdVaDc1ZDl5XzBsNGhXajl6VkJ0c29nMmVVLUQ2bFhQUjBvMHBtUzZ2SXlQU2VoWjNrWGlPTEkwRHpZNUlSUWxyOW4tWmVlTEJvdzBUcjlDcHdpc09kbnU0Y1NWWVNlQXd5OUZTOG9EM3hQYjh5ZGprNXhsSg?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T08:24:17+00:00"
           },
           {
-            "title": "শিয়রে শমন, কলকাতা-মুম্বইকে গিলবে সমুদ্র! ভিটেহারা হবেন লক্ষ লক্ষ মানুষ, রাষ্ট্রপুঞ্জের রিপোর্টে ভয়ঙ্কর ইঙ্গিত - Anandabazar Patrika",
+            "title": "শিয়রে শমন, কলকাতা-মুম্বইকে গিলবে সমুদ্র! ভিটেহারা হবেন লক্ষ লক্ষ মানুষ, রাষ্ট্রপুঞ্জের রিপোর্টে ভয়ঙ্কর ইঙ্গিত - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUTBVMnROQzBDdFo3eGpOUFNvemxFRGpjUFNFcmdrOVNKcnlGOERScDJLTXNWX2lHYkdWZk00RVhRWnE0SXE1UkthWmo1N1pCYVAzWFNlRkZRaHpoREpWNnJObk1faUZtMnZCalY3d1kzU0g1MTBWZ2QxcnNUS3lCZmhibE1TNnc2Yk9UQVFJdzZKMXlxaUsyVzVRYTBkMVFqRm5rdkg3OHNhT3lGQmt2Zmk4SzBmVWtxSmZ2VVZEZUZ1aUFpQ1RRUEY0X2dQMDk2MmVsbkZ4dnkybXU2NFo5eHltcFhEVHZ3Y0w5OXI2Y2pBRzBsN29sZDZRcXBNUndUUEE4bDFtWXg2Q3RwNTQ2X0VlOE5TTUZqemRPRXR4bEJSd0ViRzBnSWRCaXVqSS1ZcGRLWi16UGfSAb4CQVVfeXFMTkNlNHZuaUZmaERlNDh5dUxGdHgwcm5TalhfMUVLYVpfdzU5U3RSTWkzcGV3d2RHc3RSZURDU254N0JUdW92OW0wWFV5dkE0QXdMWVdsaXdvVC1PdUxlUFJBb3RxMmlSSWRLMTZ1Y0ZjVnJBTUF0TkluelE0RTRrNTB3ajNYVE9kRU9QaUtmem1KQ3ZsSnhmT3Vla0JHZG5mdlVLNVVZN2dIZ3R1Qmt3R0N6RDZRbnJkT0pxbnkxYUU3WGJwV01Td1FVQjBWc1p3M0QycVhVbUM0VGZjVjlVYUJjdlNGcGdlN1Z3UGhTWGdGY295eVZHbEpCYTItVjY2OE5DdHVwdktNc2FJWE1OTWlzUUhLZ3RfMDhtX2VlMzlYcllKVUFxamxWb3d2T2pJTnEzVGpqUFZZM2hLQlRB?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T07:04:39+00:00"
           },
           {
-            "title": "হিমবাহ ভাঙার ৩৮ মিনিট পর পৌঁছেছিল দুর্যোগের সতর্কবার্তা! কেন আগাম সঙ্কেত দিতে ব্যর্থ ‘ডিজ়াস্টার ওয়ার্নিং’ ব্যবস্থা? - Anandabazar Patrika",
+            "title": "হিমবাহ ভাঙার ৩৮ মিনিট পর পৌঁছেছিল দুর্যোগের সতর্কবার্তা! কেন আগাম সঙ্কেত দিতে ব্যর্থ ‘ডিজ়াস্টার ওয়ার্নিং’ ব্যবস্থা? - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkxvTmY2dzRmY2l5S0JiaEdKc1VtMnMyMERzYWVOWXRFdVFVMTBZaTJ1ZDZDZ3NqZEluWENRekxfM2ozcUxURFduN21CSzl0dzFTZzNwS21zVDV0NkJyZGwtdElaUmltdGRlalJZX2hFU1RPTS1TUVNPbzVZLVhidXBGM1VvWk0tX0dNbGc4bXJyQmc3SGJLTkZjc1czZjdm0gGmAUFVX3lxTE5FZGoySE1GSFdmNnhqRnd4NVNPYU9YY2lrMVJHMHZJTlBpTGxpRUEwcFp2SS1SaVkzNHE1WDdkOWJkSkU5WTFTX0M2X0VxelhoQUU5dXU1cjV6RlZ3Q19iRW5lWURkbGxhRTVKZVJ2VXkzSHhUSFBVNVBQRTZIZVNtdHJpbkRYNFphY29KRi1iUXEzRW1DS19rZHhRVjBQRG5sRm1vOHc?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
