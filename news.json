@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-09-03T00:01:45.597003+00:00",
+  "updated_at": "2026-09-03T00:07:37.371488+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.",
+            "published": "2026-09-03T00:00:00+00:00"
+          },
           {
             "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
             "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
@@ -95,13 +102,6 @@
             "source": "Al Jazeera",
             "summary": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
             "published": "2026-09-02T22:15:32+00:00"
-          },
-          {
-            "title": "Govt defends GDP data after ex-FS claims Q1 growth 2.6%",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/govt-defends-gdp-data-after-ex-fs-claims-q1-growth-2-6/articleshow/133720341.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-03T03:39:30+05:30"
           }
         ],
         "India": [
@@ -192,6 +192,13 @@
         ],
         "World": [
           {
+            "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.",
+            "published": "2026-09-03T00:00:00+00:00"
+          },
+          {
             "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
             "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
             "source": "Al Jazeera",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Resignation of US Army secretary is latest loss at the top for the military.",
             "published": "2026-09-02T20:48:22+00:00"
-          },
-          {
-            "title": "Nepal families hold symbolic funerals, thousands still missing",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.",
-            "published": "2026-09-02T20:30:24+00:00"
           }
         ],
         "Business": [
@@ -641,6 +641,13 @@
             "published": "2026-09-03T12:06:21+05:30"
           },
           {
+            "title": "गिरिराज, ललन, चिराग... किसकी कुर्सी खतरे में?:मोदी कैबिनेट से कौन हटेगा, कौन बनेगा, अंदरखाने की पूरी कहानी",
+            "link": "https://www.bhaskar.com/local/bihar/news/modi-cabinet-reshuffle-delhi-patna-minister-list-update-138914798.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-03T00:04:50+00:00"
+          },
+          {
             "title": "खबर हटके- CCTV को चकमा देने वाली शर्ट:ऑफिस में छाता-मास्क लगाकर काम कर रहे लोग; बिना नहाए डेट पर जाने का ट्रेंड",
             "link": "https://www.bhaskar.com/national/news/viral-trends-cctv-shirt-germany-china-mask-umbrella-dating-life-138911680.html",
             "source": "Dainik Bhaskar",
@@ -649,7 +656,7 @@
           },
           {
             "title": "यूपी के 5 शहरों में स्कूल बंद:ऋषिकेश-उत्तरकाशी में लैंडस्लाइड, ओडिशा, झारखंड और बिहार में भारी बारिश का अलर्ट",
-            "link": "https://www.bhaskar.com/national/news/rishikesh-uttarkashi-landslide-heavy-rain-alert-up-schools-closed-138911835.html",
+            "link": "https://www.bhaskar.com/g/national/news/rishikesh-uttarkashi-landslide-heavy-rain-alert-up-schools-closed-138911835.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-02T23:35:00+00:00"
@@ -702,13 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-03T02:55:02+05:30"
-          },
-          {
-            "title": "नई राह: दिल्ली-मुंबई एक्सप्रेसवे दोनों ओर से शुरू, मगर रास्तों के भ्रम से परेशानी; गूगल भी नहीं दे रहा साथ",
-            "link": "https://www.amarujala.com/delhi-ncr/delhi-mumbai-expressway-operational-from-both-ends-but-confusion-over-routes-causes-trouble-2026-09-03",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-03T01:35:14+05:30"
           }
         ],
         "Entertainment": [
@@ -1128,13 +1128,6 @@
             "published": "2026-09-02T22:36:41+00:00"
           },
           {
-            "title": "Disha Salian: దిశా సాలియన్‌ కేసులో కీలక మలుపు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3p5dF9FVzFHNURlTmczNUF1bUcwd0VBSEdkTzNjVUgxc09KX3NZVzdJU1BZTldfSHdqODZQcTdsQXRZblYzR09FYzB3THc3VVdUaDlBUi1yeURUWjhUbV9yX1lFZHZnSzAwVDd3emxZLU1Mb01XWXpCQnhydHo0R3VwazREVXhIN2UteW1VTW96LWJEbS1zcjBLRExpaEdVelpRa2cwSnVQekZ4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-02T22:12:35+00:00"
-          },
-          {
             "title": "Tech job: 1,75,000కు పైగా టెక్‌ ఉద్యోగాల కోత - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVMydGxhb3I2dndsLWJJRFpNdUFNUUx5MTctMDVwY2VFR2hvYjVKV1IxVC1rWGc4b1AtVWdLUGphQkZ0VUtZemR2c2FXSlg4WTdMWG90c3hVOUNpN0RZWjZsbHpkQUs5cFk4eFBJaHNRYXhmY2pNa0RGMU9nNFZ0X1QzdzUwdVJoQmfSAYoBQVVfeXFMT2VTMnRsYW9yNnZ3bC1iSURaTXVBTVFMeTE3LTA1cGNlRUdob2I1SldSMVQta1hnOG9QLVVnS1BqYUJGdFVLWXpkdnNhV0pYOFk3TFhvdHN4VTlDaTdEWVo2bGx6ZEFLOXBZOHhQSWhzUWF4ZmNqTWtERjFPZzRWdF9UM3c1MHVSaEJn?oc=5",
             "source": "Eenadu",
@@ -1142,11 +1135,11 @@
             "published": "2026-09-02T22:07:13+00:00"
           },
           {
-            "title": "Stock Market Today: మూడో రోజూ సూచీలకు నష్టాలే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOby15c3Z5bmNkbVZjMkJCTzc0RXZkU21XNWdqeU40aEpIRVlUT2pJQkNPblgyenQ4TWZQbEFqaUlfaHcyU2VVdmdUQ09WZm92VXNJYXVLZlhVVHNBU2piSEhQanhLNmk1T09uZ2pnS3BmUU0taWw3VWFsbXVLbVZjaFhJNVhhZXVaMG1qc2M2dEZmaFNNcjFCTExuMnRtYXJUNFgtejlUdmxFV1gx0gGsAUFVX3lxTE5vLXlzdnluY2RtVmMyQkJPNzRFdmRTbVc1Z2p5TjRoSkhFWVRPaklCQ09uWDJ6dDhNZlBsQWppSV9odzJTZVV2Z1RDT1Zmb3ZVc0lhdUtmWFVUc0FTamJISFBqeEs2aTVPT25namdLcGZRTS1pbDdVYWxtdUttVmNoWEk1WGFldVowbWpzYzZ0RmZoU01yMUJMTG4ydG1hclQ0WC16OVR2bEVXWDE?oc=5",
+            "title": "గంజాయి స్క్వాడ్‌ పేరుతో తనిఖీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjYV9XcndqRXRqOGpfMXBELU9wNVBodzlrWEU4TFlNRm4zSzQ4VHZWZXk4ZDQ5ek1ING1uQnY1TlhmeXVfZWE4a3dZLXJpN01VcXBxRjZJQ0NCSUJfTWloX0xKUmtCYzFJdUhRY0lmRC1VeHhvVkRiMlR3?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-02T22:06:28+00:00"
+            "published": "2026-09-02T20:48:45+00:00"
           },
           {
             "title": "ప్రసవించిన బాలిక.. పోక్సో కేసు నమోదు - Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-02T20:46:42+00:00"
+          },
+          {
+            "title": "Womens Asia Cup: బ్యాటుతో మెరవాలి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHpIaHVaZ2JJVm81c1dYbXY4Ty1uOGVVb3NfQVBaMnkyenU0Qk1JS2dYNXhIN3o5bHpsYS0wZUx3NFVCVHUweTQtVzBaUERQdlpEU2o3ajFOZ0VYaUhxZlM2RUlPSkkwbFpUbFUtNVV4U1BIMHJKQTVyMHhBQW5zQUJSSW5MeHk2QUg5dkFBMDlPUGJPMTgtaXhwM1BwUdIBngFBVV95cUxOMHpIaHVaZ2JJVm81c1dYbXY4Ty1uOGVVb3NfQVBaMnkyenU0Qk1JS2dYNXhIN3o5bHpsYS0wZUx3NFVCVHUweTQtVzBaUERQdlpEU2o3ajFOZ0VYaUhxZlM2RUlPSkkwbFpUbFUtNVV4U1BIMHJKQTVyMHhBQW5zQUJSSW5MeHk2QUg5dkFBMDlPUGJPMTgtaXhwM1BwUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T20:34:19+00:00"
           }
         ],
         "Entertainment": [
