@@ -1,196 +1,217 @@
 {
-  "updated_at": "2026-09-03T02:31:25.314954+00:00",
+  "updated_at": "2026-09-03T03:01:31.492927+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "US forces board and destroy alleged cartel boat in eastern Pacific",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers",
+            "published": "2026-09-03T02:52:38+00:00"
+          },
+          {
+            "title": "Supreme Court allows boy’s return to father in Canada after six years",
+            "link": "https://www.hindustantimes.com/india-news/supreme-court-allows-boy-s-return-to-father-in-canada-after-six-years-101788375106340.html",
+            "source": "Hindustan Times",
+            "summary": "The SC dismissed the mother’s appeal against a Delhi High Court order directing the child’s repatriation.",
+            "published": "2026-09-03T08:16:10+05:30"
+          },
+          {
+            "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+            "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+            "published": "2026-09-03T02:46:10+00:00"
+          },
+          {
+            "title": "Border area ‘unusual’ cash deposits under security agencies’ scanner; discussed in NSS conference",
+            "link": "https://www.hindustantimes.com/india-news/border-area-unusual-cash-deposits-under-security-agencies-scanner-discussed-in-nss-conference-101788374986179.html",
+            "source": "Hindustan Times",
+            "summary": "The two-day conference was held in Delhi on August 24 and 25 and was attended by 850 officers from across the country, including the directors general of police (DGPs) of all border states.",
+            "published": "2026-09-03T08:15:20+05:30"
+          },
+          {
+            "title": "Trump official reacts to PM Modi meeting Pezeshkian: ‘Don’t think India, Iran are making deal'",
+            "link": "https://www.hindustantimes.com/india-news/trump-official-reacts-to-modi-meeting-pezeshkian-don-t-think-india-iran-are-making-deal-marco-rubio-101788399704327.html",
+            "source": "Hindustan Times",
+            "summary": "Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian on the sidelines of the 26th SCO Summit in Kyrgyzstan's Bishkek.",
+            "published": "2026-09-03T08:14:29+05:30"
+          },
+          {
+            "title": "Former Indian Air Force Group Captain Abhinandan Varthaman joins regional airline FLY91 as pilot",
+            "link": "https://www.thehindu.com/news/national/former-indian-air-force-group-captain-abhinandan-varthaman-joins-regional-airline-fly91-as-pilot/article71422187.ece",
+            "source": "The Hindu",
+            "summary": "FLY91, which started flying in March 2024, currently operates a fleet of six ATR 72-600 aircraft. The airline's two bases are Goa and Hyderabad",
+            "published": "2026-09-03T08:08:46+05:30"
+          },
+          {
+            "title": "Will consider Bihar’s concerns before Ganga treaty renewal, says Jaishankar",
+            "link": "https://www.thehindu.com/news/national/will-consider-bihars-concerns-before-ganga-treaty-renewal-says-jaishankar/article71419960.ece",
+            "source": "The Hindu",
+            "summary": "External Affairs Minister writes to Janata Dal (U) MP Sanjay Jha after he complained that the 1996 India-Bangladesh treaty had ‘negatively impacted’ Bihar; the treaty is set to lapse on December 31",
+            "published": "2026-09-03T08:07:01+05:30"
+          },
+          {
+            "title": "India's 7.8% Growth Keeps It Fastest-Growing Major Economy: Envoy",
+            "link": "https://www.ndtv.com/india-news/indias-7-8-growth-keeps-it-fastest-growing-major-economy-envoy-11995063#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "India's 7.8 per cent GDP growth in the first quarter of 2026-27 fiscal year continues the country's trajectory as the fastest-growing large economy in the world, Indian Ambassador to the US, Vinay Kwatra, said as he rang the opening bell here at Nasdaq.",
+            "published": "2026-09-03T08:03:53+05:30"
+          },
+          {
+            "title": "Impulse Buying Eating Into Savings? 3 Hacks To Stop Overspending",
+            "link": "https://www.ndtv.com/business-news/impulse-buying-dents-savings-hacks-to-stop-overspending-personal-finance-11994883#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Research by BCG and Snap shows that Gen Z is influencing consumption across categories such as fashion, footwear, dining and entertainment.",
+            "published": "2026-09-03T08:02:40+05:30"
+          },
+          {
+            "title": "Tense scenes as SFI stages march to Secretariat in Kerala",
+            "link": "https://www.thehindu.com/news/national/kerala/tense-scenes-as-sfi-stages-march-to-secretariat-in-kerala/article71420752.ece",
+            "source": "The Hindu",
+            "summary": "The march comes after the alleged saffronisation of universities",
+            "published": "2026-09-03T08:02:26+05:30"
+          },
+          {
+            "title": "PWD decides to tighten safety measures at construction sites in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/pwd-decides-to-tighten-safety-measures-at-construction-sites-in-keralam/article71419987.ece",
+            "source": "The Hindu",
+            "summary": "Works Minister P.K. Basheer instructs officials concerned to ensure that safety standards are strictly followed at road-construction sites across the State",
+            "published": "2026-09-03T07:59:41+05:30"
+          },
+          {
+            "title": "All About US Strike On An Iran Wedding That Killed 4, Including Children",
+            "link": "https://www.ndtv.com/world-news/kuhestak-strike-iran-us-war-all-about-us-strike-on-an-iran-wedding-that-killed-4-including-children-11995054#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Iranian state media said four people - two women and two children - were killed and more than 60 were wounded. One of the children, a teenager, was killed by another strike on a nearby communications tower.",
+            "published": "2026-09-03T07:58:20+05:30"
+          },
+          {
+            "title": "'I'm Surprised': American GM after Pragg wins India's historic GCT title | Exclusive",
+            "link": "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
+            "source": "Times of India",
+            "summary": "American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
+            "published": "2026-09-03T07:56:50+05:30"
+          },
+          {
             "title": "Indian envoy meets Bangladesh Speaker; discusses parliamentary ties",
             "link": "https://www.thehindu.com/news/national/indian-envoy-meets-bangladesh-speaker-discusses-parliamentary-ties/article71422184.ece",
             "source": "The Hindu",
             "summary": "During the meetings, the envoy underlined that engagement between the two parliaments is vital for strengthening people-to-people ties between the two sovereign and democratic countries",
             "published": "2026-09-03T07:56:50+05:30"
-          },
-          {
-            "title": "Consent irrelevant in POCSO cases, says Kerala High Court",
-            "link": "https://www.thehindu.com/news/national/kerala/consent-irrelevant-in-pocso-cases-says-kerala-high-court/article71420751.ece",
-            "source": "The Hindu",
-            "summary": "The Court made the legal position clear while dismissing a plea by an accused challenging his conviction under the Protection of Children from Sexual Offences (POCSO) Act, 2012",
-            "published": "2026-09-03T07:43:14+05:30"
-          },
-          {
-            "title": "60 targets, 18m oil barrels: Inside US military’s record strike on Iran",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/60-targets-18m-barrels-inside-the-us-militarys-record-strike-on-iran/articleshow/133723270.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-03T07:38:51+05:30"
-          },
-          {
-            "title": "Banks’ 'Certificate of Deposits' rates dip as FCNR flows hit $127 billion",
-            "link": "https://www.hindustantimes.com/india-news/banks-certificate-of-deposits-rates-dip-as-fcnr-flows-hit-127-billion-101788396332608.html",
-            "source": "Hindustan Times",
-            "summary": "The RBI’s scheme for attracting foreign currency deposits from NRIs has boosted banking-system liquidity, reducing banks’ need to raise funds through CD's.",
-            "published": "2026-09-03T07:35:00+05:30"
-          },
-          {
-            "title": "Oil price today: Crude continues to trade beyond $95 per barrel",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-continues-to-trade-beyond-95-per-barrel-amid-hormuz-supply-tensions/articleshow/133723230.cms",
-            "source": "Times of India",
-            "summary": "Oil prices took a minor dip on Thursday following a turbulent trading day. Investors are closely monitoring the repercussions of the US-Iran strikes on oil supply lines. Activity in the Strait of Hormuz is currently lower than average. This disruption fosters worries regarding global oil availability and possible price hikes as countries explore alternative sources while depending on diminishing reserves.",
-            "published": "2026-09-03T07:34:53+05:30"
-          },
-          {
-            "title": "'No complaint, no insult': MP denies nod to prosecute BJP neta for Col Qureshi remarks",
-            "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-govt-denies-nod-to-prosecute-cabinet-minister-kunwar-vijay-shah-over-controversial-remarks-on-col-sofiya-qureshi/articleshow/133723201.cms",
-            "source": "Times of India",
-            "summary": "In a decisive move, the Madhya Pradesh government has crafted a five-point reply to present to the Supreme Court concerning minister Kunwar Vijay Shah’s controversial comments. The state cabinet has opted not to grant sanction for his prosecution, noting the absence of any complaints against him. They assert that he neither specified any officer nor failed to apologize.",
-            "published": "2026-09-03T07:30:47+05:30"
-          },
-          {
-            "title": "IAF veteran, Delhi businessman, lawyer, RSS worker: Meet Ram Temple Trust’s new faces",
-            "link": "https://www.hindustantimes.com/india-news/an-iaf-veteran-businessman-and-rss-worker-meet-the-ram-temple-trust-s-new-faces-101788398372230.html",
-            "source": "Hindustan Times",
-            "summary": "Jeetendra Mishra, the Ram Temple trust’s first CEO, is an IAF veteran. He was also among the senior planners of Operation Sindoor.",
-            "published": "2026-09-03T07:29:55+05:30"
-          },
-          {
-            "title": "Oil edges down as investors weigh uncertainty over U.S.-Iran strikes",
-            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms",
-            "source": "Economic Times",
-            "summary": "On Thursday, oil prices dropped slightly amid escalating military tensions. Investors are closely monitoring the hostilities between the United States and Iran, as recent clashes mark the most significant skirmishes since July, raising global supply concerns. Nevertheless, by midday Wednesday, initial signs of easing tensions appeared, with shipping data revealing a minor decrease in traffic through the Strait of…",
-            "published": "2026-09-03T07:27:24+05:30"
-          },
-          {
-            "title": "In Himachal, 150 Schools Operating Without Teachers, 3,500 Have Just One",
-            "link": "https://www.ndtv.com/india-news/in-himachal-150-schools-operating-without-teachers-3-500-have-just-one-11994982#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Himacha Education Minister Rohit Thakur said that the state boasts the country's best Pupil-Teacher Ratio (PTR) of 1:10, meaning one teacher is appointed for every 10 students.",
-            "published": "2026-09-03T07:26:20+05:30"
-          },
-          {
-            "title": "Trump $1 coin makes him first living president on US currency in a century",
-            "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"In God we trust\".",
-            "published": "2026-09-03T01:56:05+00:00"
-          },
-          {
-            "title": "‘FIDE must punish players’: Hans slams Russia No. 1 Nepo over comments on 14-yo",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/fide-must-punish-players-americas-hans-niemann-slams-russia-no-1-ian-nepomniachtchi-over-comments-on-14-year-old/articleshow/133723148.cms",
-            "source": "Times of India",
-            "summary": "American chess grandmaster Hans Niemann urged FIDE to punish players for publicly making accusations, especially involving young competitors. His comments came after Ian Nepomniachtchi questioned a move by 14-year-old Canadian IM Aaron Mendes during their Titled Tuesday game. Nepomniachtchi described the move as suspicious, while Mendes went on to win after Nepomniachtchi’s blunder and eventual resignation.",
-            "published": "2026-09-03T07:25:48+05:30"
-          },
-          {
-            "title": "Gold treads water ahead of US nonfarm payrolls report",
-            "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-ahead-of-us-nonfarm-payrolls-report/articleshow/133723178.cms",
-            "source": "Economic Times",
-            "summary": "Gold prices held steady during the early hours of Thursday’s Asian trading. Investors are closely monitoring the upcoming U.S. nonfarm payrolls data, as it may impact the Federal Reserve's policy directions. Additionally, ongoing geopolitical tensions in the Middle East are adding to market volatility. Other precious metals displayed varied performance as trading commenced.",
-            "published": "2026-09-03T07:25:30+05:30"
-          },
-          {
-            "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
-            "published": "2026-09-03T01:53:40+00:00"
-          },
-          {
-            "title": "US government now 'trusts' Anthropic, the company that it banned months ago",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-now-trusts-anthropic-the-company-that-it-banned-months-ago-howard-lutnick-says-they-are-back-on-/articleshow/133723161.cms",
-            "source": "Times of India",
-            "summary": "This week, Commerce Secretary Howard Lutnick expressed renewed confidence in AI firm Anthropic, signaling a major diplomatic shift following previously imposed export restrictions. Tom Brown, co-founder of Anthropic, has been pivotal in repairing ties with Washington, engaging in proactive discussions and gaining recognition for the company’s data center expansion. Additionally, a recent ruling from a federal judge…",
-            "published": "2026-09-03T07:20:44+05:30"
           }
         ],
         "India": [
           {
+            "title": "Supreme Court allows boy’s return to father in Canada after six years",
+            "link": "https://www.hindustantimes.com/india-news/supreme-court-allows-boy-s-return-to-father-in-canada-after-six-years-101788375106340.html",
+            "source": "Hindustan Times",
+            "summary": "The SC dismissed the mother’s appeal against a Delhi High Court order directing the child’s repatriation.",
+            "published": "2026-09-03T08:16:10+05:30"
+          },
+          {
+            "title": "Border area ‘unusual’ cash deposits under security agencies’ scanner; discussed in NSS conference",
+            "link": "https://www.hindustantimes.com/india-news/border-area-unusual-cash-deposits-under-security-agencies-scanner-discussed-in-nss-conference-101788374986179.html",
+            "source": "Hindustan Times",
+            "summary": "The two-day conference was held in Delhi on August 24 and 25 and was attended by 850 officers from across the country, including the directors general of police (DGPs) of all border states.",
+            "published": "2026-09-03T08:15:20+05:30"
+          },
+          {
+            "title": "Trump official reacts to PM Modi meeting Pezeshkian: ‘Don’t think India, Iran are making deal'",
+            "link": "https://www.hindustantimes.com/india-news/trump-official-reacts-to-modi-meeting-pezeshkian-don-t-think-india-iran-are-making-deal-marco-rubio-101788399704327.html",
+            "source": "Hindustan Times",
+            "summary": "Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian on the sidelines of the 26th SCO Summit in Kyrgyzstan's Bishkek.",
+            "published": "2026-09-03T08:14:29+05:30"
+          },
+          {
+            "title": "Former Indian Air Force Group Captain Abhinandan Varthaman joins regional airline FLY91 as pilot",
+            "link": "https://www.thehindu.com/news/national/former-indian-air-force-group-captain-abhinandan-varthaman-joins-regional-airline-fly91-as-pilot/article71422187.ece",
+            "source": "The Hindu",
+            "summary": "FLY91, which started flying in March 2024, currently operates a fleet of six ATR 72-600 aircraft. The airline's two bases are Goa and Hyderabad",
+            "published": "2026-09-03T08:08:46+05:30"
+          },
+          {
+            "title": "Will consider Bihar’s concerns before Ganga treaty renewal, says Jaishankar",
+            "link": "https://www.thehindu.com/news/national/will-consider-bihars-concerns-before-ganga-treaty-renewal-says-jaishankar/article71419960.ece",
+            "source": "The Hindu",
+            "summary": "External Affairs Minister writes to Janata Dal (U) MP Sanjay Jha after he complained that the 1996 India-Bangladesh treaty had ‘negatively impacted’ Bihar; the treaty is set to lapse on December 31",
+            "published": "2026-09-03T08:07:01+05:30"
+          },
+          {
+            "title": "India's 7.8% Growth Keeps It Fastest-Growing Major Economy: Envoy",
+            "link": "https://www.ndtv.com/india-news/indias-7-8-growth-keeps-it-fastest-growing-major-economy-envoy-11995063#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "India's 7.8 per cent GDP growth in the first quarter of 2026-27 fiscal year continues the country's trajectory as the fastest-growing large economy in the world, Indian Ambassador to the US, Vinay Kwatra, said as he rang the opening bell here at Nasdaq.",
+            "published": "2026-09-03T08:03:53+05:30"
+          },
+          {
+            "title": "Impulse Buying Eating Into Savings? 3 Hacks To Stop Overspending",
+            "link": "https://www.ndtv.com/business-news/impulse-buying-dents-savings-hacks-to-stop-overspending-personal-finance-11994883#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Research by BCG and Snap shows that Gen Z is influencing consumption across categories such as fashion, footwear, dining and entertainment.",
+            "published": "2026-09-03T08:02:40+05:30"
+          },
+          {
+            "title": "Tense scenes as SFI stages march to Secretariat in Kerala",
+            "link": "https://www.thehindu.com/news/national/kerala/tense-scenes-as-sfi-stages-march-to-secretariat-in-kerala/article71420752.ece",
+            "source": "The Hindu",
+            "summary": "The march comes after the alleged saffronisation of universities",
+            "published": "2026-09-03T08:02:26+05:30"
+          },
+          {
+            "title": "PWD decides to tighten safety measures at construction sites in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/pwd-decides-to-tighten-safety-measures-at-construction-sites-in-keralam/article71419987.ece",
+            "source": "The Hindu",
+            "summary": "Works Minister P.K. Basheer instructs officials concerned to ensure that safety standards are strictly followed at road-construction sites across the State",
+            "published": "2026-09-03T07:59:41+05:30"
+          },
+          {
+            "title": "All About US Strike On An Iran Wedding That Killed 4, Including Children",
+            "link": "https://www.ndtv.com/world-news/kuhestak-strike-iran-us-war-all-about-us-strike-on-an-iran-wedding-that-killed-4-including-children-11995054#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Iranian state media said four people - two women and two children - were killed and more than 60 were wounded. One of the children, a teenager, was killed by another strike on a nearby communications tower.",
+            "published": "2026-09-03T07:58:20+05:30"
+          },
+          {
+            "title": "'I'm Surprised': American GM after Pragg wins India's historic GCT title | Exclusive",
+            "link": "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
+            "source": "Times of India",
+            "summary": "American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
+            "published": "2026-09-03T07:56:50+05:30"
+          },
+          {
             "title": "Indian envoy meets Bangladesh Speaker; discusses parliamentary ties",
             "link": "https://www.thehindu.com/news/national/indian-envoy-meets-bangladesh-speaker-discusses-parliamentary-ties/article71422184.ece",
             "source": "The Hindu",
             "summary": "During the meetings, the envoy underlined that engagement between the two parliaments is vital for strengthening people-to-people ties between the two sovereign and democratic countries",
             "published": "2026-09-03T07:56:50+05:30"
-          },
-          {
-            "title": "Consent irrelevant in POCSO cases, says Kerala High Court",
-            "link": "https://www.thehindu.com/news/national/kerala/consent-irrelevant-in-pocso-cases-says-kerala-high-court/article71420751.ece",
-            "source": "The Hindu",
-            "summary": "The Court made the legal position clear while dismissing a plea by an accused challenging his conviction under the Protection of Children from Sexual Offences (POCSO) Act, 2012",
-            "published": "2026-09-03T07:43:14+05:30"
-          },
-          {
-            "title": "60 targets, 18m oil barrels: Inside US military’s record strike on Iran",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/60-targets-18m-barrels-inside-the-us-militarys-record-strike-on-iran/articleshow/133723270.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-03T07:38:51+05:30"
-          },
-          {
-            "title": "Banks’ 'Certificate of Deposits' rates dip as FCNR flows hit $127 billion",
-            "link": "https://www.hindustantimes.com/india-news/banks-certificate-of-deposits-rates-dip-as-fcnr-flows-hit-127-billion-101788396332608.html",
-            "source": "Hindustan Times",
-            "summary": "The RBI’s scheme for attracting foreign currency deposits from NRIs has boosted banking-system liquidity, reducing banks’ need to raise funds through CD's.",
-            "published": "2026-09-03T07:35:00+05:30"
-          },
-          {
-            "title": "Oil price today: Crude continues to trade beyond $95 per barrel",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-continues-to-trade-beyond-95-per-barrel-amid-hormuz-supply-tensions/articleshow/133723230.cms",
-            "source": "Times of India",
-            "summary": "Oil prices took a minor dip on Thursday following a turbulent trading day. Investors are closely monitoring the repercussions of the US-Iran strikes on oil supply lines. Activity in the Strait of Hormuz is currently lower than average. This disruption fosters worries regarding global oil availability and possible price hikes as countries explore alternative sources while depending on diminishing reserves.",
-            "published": "2026-09-03T07:34:53+05:30"
-          },
-          {
-            "title": "'No complaint, no insult': MP denies nod to prosecute BJP neta for Col Qureshi remarks",
-            "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-govt-denies-nod-to-prosecute-cabinet-minister-kunwar-vijay-shah-over-controversial-remarks-on-col-sofiya-qureshi/articleshow/133723201.cms",
-            "source": "Times of India",
-            "summary": "In a decisive move, the Madhya Pradesh government has crafted a five-point reply to present to the Supreme Court concerning minister Kunwar Vijay Shah’s controversial comments. The state cabinet has opted not to grant sanction for his prosecution, noting the absence of any complaints against him. They assert that he neither specified any officer nor failed to apologize.",
-            "published": "2026-09-03T07:30:47+05:30"
-          },
-          {
-            "title": "IAF veteran, Delhi businessman, lawyer, RSS worker: Meet Ram Temple Trust’s new faces",
-            "link": "https://www.hindustantimes.com/india-news/an-iaf-veteran-businessman-and-rss-worker-meet-the-ram-temple-trust-s-new-faces-101788398372230.html",
-            "source": "Hindustan Times",
-            "summary": "Jeetendra Mishra, the Ram Temple trust’s first CEO, is an IAF veteran. He was also among the senior planners of Operation Sindoor.",
-            "published": "2026-09-03T07:29:55+05:30"
-          },
-          {
-            "title": "In Himachal, 150 Schools Operating Without Teachers, 3,500 Have Just One",
-            "link": "https://www.ndtv.com/india-news/in-himachal-150-schools-operating-without-teachers-3-500-have-just-one-11994982#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Himacha Education Minister Rohit Thakur said that the state boasts the country's best Pupil-Teacher Ratio (PTR) of 1:10, meaning one teacher is appointed for every 10 students.",
-            "published": "2026-09-03T07:26:20+05:30"
-          },
-          {
-            "title": "‘FIDE must punish players’: Hans slams Russia No. 1 Nepo over comments on 14-yo",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/fide-must-punish-players-americas-hans-niemann-slams-russia-no-1-ian-nepomniachtchi-over-comments-on-14-year-old/articleshow/133723148.cms",
-            "source": "Times of India",
-            "summary": "American chess grandmaster Hans Niemann urged FIDE to punish players for publicly making accusations, especially involving young competitors. His comments came after Ian Nepomniachtchi questioned a move by 14-year-old Canadian IM Aaron Mendes during their Titled Tuesday game. Nepomniachtchi described the move as suspicious, while Mendes went on to win after Nepomniachtchi’s blunder and eventual resignation.",
-            "published": "2026-09-03T07:25:48+05:30"
-          },
-          {
-            "title": "US government now 'trusts' Anthropic, the company that it banned months ago",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-now-trusts-anthropic-the-company-that-it-banned-months-ago-howard-lutnick-says-they-are-back-on-/articleshow/133723161.cms",
-            "source": "Times of India",
-            "summary": "This week, Commerce Secretary Howard Lutnick expressed renewed confidence in AI firm Anthropic, signaling a major diplomatic shift following previously imposed export restrictions. Tom Brown, co-founder of Anthropic, has been pivotal in repairing ties with Washington, engaging in proactive discussions and gaining recognition for the company’s data center expansion. Additionally, a recent ruling from a federal judge…",
-            "published": "2026-09-03T07:20:44+05:30"
-          },
-          {
-            "title": "SC/ST quota medical seats in Karnataka see sharp decline after reconfiguration of reservation matrix",
-            "link": "https://www.thehindu.com/news/national/karnataka/scst-quota-medical-seats-in-karnataka-see-sharp-decline-after-reconfiguration-of-reservation-matrix/article71416697.ece",
-            "source": "The Hindu",
-            "summary": "As Karnataka has reverted to the earlier reservation quantum for Scheduled Castes and Scheduled Tribes, with cases against the increased reservation in recruitment being heard in the High Court of Karnataka, the number of medical seats for these communities has seen a decline",
-            "published": "2026-09-03T07:12:51+05:30"
-          },
-          {
-            "title": "PM Modi's Water Push: \"Jal Utsav\", AI And Lessons From Other States",
-            "link": "https://www.ndtv.com/india-news/pm-modis-water-push-jal-utsav-ai-and-lessons-from-other-states-11994930#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "PM Modi emphasised that water conservation cannot remain solely a government responsibility. Greater public participation, he said, will be crucial to turning conservation into a sustained people's movement.",
-            "published": "2026-09-03T07:04:57+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US forces board and destroy alleged cartel boat in eastern Pacific",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US forces boarded and sank a boat in the eastern Pacific saying it was a floating refueling station for drug-traffickers",
+            "published": "2026-09-03T02:52:38+00:00"
+          },
+          {
+            "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+            "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+            "published": "2026-09-03T02:46:10+00:00"
+          },
+          {
+            "title": "Minneapolis shooting kills two, wounds three police officers",
+            "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Police say suspected gunman is also dead and that several people, including three officers, were wounded.",
+            "published": "2026-09-03T02:18:21+00:00"
+          },
           {
             "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
@@ -234,7 +255,7 @@
             "published": "2026-09-03T00:33:06+00:00"
           },
           {
-            "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+            "title": "Iran war live: Trump says US ready to strike Iran ‘at any time’",
             "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
@@ -253,36 +274,15 @@
             "source": "Al Jazeera",
             "summary": "Food safety scares raise questions over whether Trump’s cuts weakened US food safety monitoring.",
             "published": "2026-09-02T23:25:49+00:00"
-          },
-          {
-            "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-            "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
-            "published": "2026-09-02T22:15:32+00:00"
-          },
-          {
-            "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-            "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
-            "published": "2026-09-02T21:37:41+00:00"
-          },
-          {
-            "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-            "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-            "published": "2026-09-02T21:34:27+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Oil edges down as investors weigh uncertainty over U.S.-Iran strikes",
-            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms",
+            "title": "Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms",
             "source": "Economic Times",
-            "summary": "On Thursday, oil prices dropped slightly amid escalating military tensions. Investors are closely monitoring the hostilities between the United States and Iran, as recent clashes mark the most significant skirmishes since July, raising global supply concerns. Nevertheless, by midday Wednesday, initial signs of easing tensions appeared, with shipping data revealing a minor decrease in traffic through the Strait of…",
-            "published": "2026-09-03T07:27:24+05:30"
+            "summary": "U.S. President Donald Trump said on Wednesday that the renewed U.S. campaign against Iran would not continue for \"too long\". He said U.S. forces had targeted Iran's radar and missile systems.",
+            "published": "2026-09-03T07:42:40+05:30"
           },
           {
             "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -634,11 +634,53 @@
             "published": "2026-09-03T12:06:21+05:30"
           },
           {
+            "title": "इंडियन एयरफोर्स ने खगांतक-243 का सफल ड्रॉप टेस्ट किया:125 किलो का Mk-81 वॉरहेड लगाया गया; 180km की रेंज तक निशाना लगा सकती है",
+            "link": "https://www.bhaskar.com/national/news/indian-airforce-khagantak-243-glide-bomb-successful-drop-test-nagpur-138915242.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-03T02:56:58+00:00"
+          },
+          {
+            "title": "राम मंदिर ट्रस्ट के पास कितना पैसा? अब कैसे चलेगा सिस्टम? नए CEO जीतेंद्र मिश्रा करेंगे ये 5 बड़े काम",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/ram-mandir-ceo-jitendra-mishra-will-do-5-big-things-first-ram-temple-trust-how-much-money-details-1641303.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-03T08:15:27+05:30"
+          },
+          {
+            "title": "बॉक्स ऑफिस: फिर 'टॉक्सिक' पर भारी पड़ी 'हनुमान अंश', 27वें दिन कमा डाले इतने करोड़, जानें 'इरुमुडी' का हाल",
+            "link": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/toxic-box-office-collection-day-8-know-total-earning-of-hanuman-ansh-and-irumudi-2026-09-03",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-03T08:09:49+05:30"
+          },
+          {
+            "title": "यूपी के तीन लोगों की मौत: केएमपी पर मजदूरों से भरी ईको गाड़ी ट्रक से टकराई, तीन ने तोड़ा दम; नौ लोग घायल",
+            "link": "https://www.amarujala.com/haryana/sonipat/eeco-vehicle-collides-with-truck-on-kmp-expressway-in-sonipat-many-dead-nine-injured-2026-09-03",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-03T08:09:07+05:30"
+          },
+          {
+            "title": "आकृति चौधरी ने एनएसए हिरासत रद्द होने के बाद जेल से क्या कहा",
+            "link": "https://www.bbc.com/hindi/articles/ckg7d71k66ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-03T02:34:34+00:00"
+          },
+          {
             "title": "नेपाल त्रासदी: तबाही के 38 मिनट बाद पहुंचा अलर्ट, क्या समय पर चेतावनी मिलती तो बच सकती थीं इतनी जिंदगियां?",
             "link": "https://www.amarujala.com/live/india-news/nepal-tragedy-live-death-toll-cross-1200-after-flood-over-4000-missing-youth-set-up-contact-center-for-aid-2026-09-03",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-03T07:57:23+05:30"
+          },
+          {
+            "title": "आगरा-लखनऊ एक्सप्रेसवे पर भीषण हादसा: अज्ञात वाहन से टकराई डबल डेकर बस, चालक समेत 13 घायल",
+            "link": "https://www.amarujala.com/uttar-pradesh/agra/double-decker-bus-crashes-into-unknown-vehicle-on-agra-lucknow-expressway-13-injured-2026-09-03",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-03T07:48:24+05:30"
           },
           {
             "title": "पाकिस्तानी फाइटर जेट गिराने वाले अभिनंदन ने एयरफोर्स छोड़ी:प्राइवेट एयरलाइन ज्वाइन की; 2019 एयर स्ट्राइक में PoK में पकड़ाए थे, फिर रिहा हुए",
@@ -667,48 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-09-03T01:57:18+00:00"
-          },
-          {
-            "title": "कौन हैं आकृति चौधरी? हाई कोर्ट ने रद्द की NSA हिरासत, DM मेधा रूपम की सैलरी से क्यों दिया जाएगा 5 लाख मुआवजा?",
-            "link": "https://hindi.oneindia.com/news/uttar-pradesh/who-is-aakriti-chaudhary-allahabad-hc-quash-nsa-detention-noida-dm-medha-roopa-1641299.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-03T07:24:45+05:30"
-          },
-          {
-            "title": "फ्राइडे ओटीटी रिलीज: इस वीकएंड ओटीटी पर बजेगी मनोरंजन की बंसी; दस्तक देने वाली हैं ये फिल्में और सीरीज",
-            "link": "https://www.amarujala.com/entertainment/friday-ott-releases-bigg-boss-20-gandhari-dc-unmadham-the-hard-cops-movies-and-series-on-ott-this-weekend-2026-09-01",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-03T07:00:03+05:30"
-          },
-          {
-            "title": "CM विजय का AI वीडियो बनाकर ठगी की कोशिश:लोगों से वॉट्सएप पर जुड़ने को कहा, पाकिस्तान से जुड़े फेसबुक अकाउंट भी मिले; FIR",
-            "link": "https://www.bhaskar.com/g/national/news/tamil-nadu-cm-vijay-ai-deepfake-scam-whatsapp-cbi-cid-case-138914891.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-03T01:17:45+00:00"
-          },
-          {
-            "title": "2 लड़कियों के बीच हुआ Lip Kiss-इंटीमेट सीन, 22 साल पहले इस फिल्म से मचा तहलका, दोनों एक्ट्रेसेस का हुआ ये हाल",
-            "link": "https://hindi.oneindia.com/news/entertainment/lip-kiss-intimate-scene-between-2-girls-film-created-stir-22-years-ago-both-actresses-bad-condition-1641003.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-03T06:05:19+05:30"
-          },
-          {
-            "title": "उत्तम कुमार जन्म शताब्दी: 'कातिल' मुस्कान देख साधु ने बता दिया था भविष्य; पढ़िए बंगाली महानायक से जुड़े किस्से",
-            "link": "https://www.amarujala.com/entertainment/uttam-kumar-birth-centenary-know-about-bengali-cinema-actor-movies-career-and-unknown-facts-of-personal-life-2026-09-01",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-03T06:00:02+05:30"
-          },
-          {
-            "title": "आज के दिन: विदेश मंत्री एस जयशंकर का यूक्रेन दौरा, बीसीसीआई की उच्चस्तरीय समीक्षा बैठक",
-            "link": "https://www.amarujala.com/india-news/3-september-2026-major-event-2026-09-02",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-03T06:00:02+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ભારતની જીડીપીમાં ખરેખર 7.8 ટકાની વૃદ્ધિ થઈ કે આંકડાની રમત? જીડીપીના ડેટા સામે કેમ સવાલ થઈ રહ્યા છે",
+            "link": "https://www.bbc.com/gujarati/articles/cn8e9w7pylgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-03T02:53:01+00:00"
+          },
+          {
+            "title": "લદ્દાખની એ યુવતીઓ જે લોકોને બ્રહ્માંડ બતાવે છે",
+            "link": "https://www.bbc.com/gujarati/watch/cgrv2d5vrypo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-03T02:32:52+00:00"
+          },
+          {
             "title": "અમેરિકા, કેનેડા, રશિયામાં કાન્હાના વાઘાનો ક્રેઝ:જન્માષ્ટમીએ ₹20 હજારના પોશાકની માગ, 'રાધા' નામનો ડ્રેસ ટ્રેન્ડમાં; એક ડ્રેસ બનાવવામાં 8 કલાકની મહેનત",
             "link": "https://www.divyabhaskar.co.in/national/news/mathura-vrindavan-krishna-janmashtami-poshak-export-demand-138907291.html",
             "source": "Divya Bhaskar",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-02T12:56:10+00:00"
-          },
-          {
-            "title": "'મારા નાનાને પાંચ ને પરનાનાને 11 પત્નીઓ હતી', 'ધ પોલીગેમિસ્ટ' કઈ રીતે દુનિયાભરનું ધ્યાન ખેચી રહી છે?",
-            "link": "https://www.bbc.com/gujarati/articles/c1wxerlp77no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-02T12:23:07+00:00"
-          },
-          {
-            "title": "કર્ણાટકના મુખ્યમંત્રી બોલ્યા- સીતાનું ચરિત્ર ભગવાન રામથી મોટું:કહ્યું- મહિલાઓ સંસદ સુધી નેતૃત્વ સંભાળે, સરકાર પૂરો સાથ આપશે",
-            "link": "https://www.divyabhaskar.co.in/national/news/karnataka-cm-dk-shivakumar-sita-ram-women-entrepreneurship-speech-138909129.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-02T11:36:26+00:00"
           }
         ]
       }
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "తెలుగు రాష్ట్రాలకు అలర్ట్: మళ్లీ మొదలైన వానలు.. ఈ జిల్లాల ప్రజలు జాగ్రత్త!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-telangana-rain-alert-heavy-rains-expected-from-september-3-to-5-due-to-depression-full-details-504515.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-03T08:08:11+05:30"
+          },
+          {
             "title": "గొల్లగుప్పలో ఏడేళ్ల బాలిక మరణానికి మలేరియా మాత్రల మోతాదే కారణమా, అసలేం జరిగింది?",
             "link": "https://www.bbc.com/telugu/articles/c624znnwyxjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1093,20 +1100,6 @@
             "published": "2026-09-03T06:44:41+05:30"
           },
           {
-            "title": "విడిగా ఉంటూ భార్యగా ఉంటానంటే ఎలా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GLUhkQVE2RmVCTGwxNk1JZ2dQS0h2N0ktODhQaE5yQjhEcVB4REcxUmNibGhvQWQyNzdIRXhyVm8zbVpPNk9kclpSV1ZqV2pHZUVMblpMNUZjR20wYkVwR1ZaZDNnQ2RtYXNpUUJJQ1nSAXBBVV95cUxNRi1IZEFRNkZlQkxsMTZNSWdnUEtIdjdJLTg4UGhOckI4RHFQeERHMVJjYmxob0FkMjc3SEV4clZvM21aTzZPZHJaUldWaldqR2VFTG5aTDVGY0dtMGJFcEdWWmQzZ0NkbWFzaVFCSUNZ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-03T01:06:00+00:00"
-          },
-          {
-            "title": "సీజేపీ తనిఖీ చేసిన పాఠశాల భవనం కూల్చివేత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRThJQjBFajBxRVRvNGxBai1NeXkyMFpRanZBRHlZcGN4RUV1RmJmQUZyVnhrZFFHUUYya3JSaEFNQXpQWVZRck5PVzdaTi15NGFHTEo5cnpILW53cjY3dTRtYTU5YS14bDdldzVWblrSAXBBVV95cUxQMkU4SUIwRWowcUVUbzRsQWotTXl5MjBaUWp2QUR5WXBjeEVFdUZiZkFGclZ4a2RRR1FGMmtyUmhBTUF6UFlWUXJOT1c3Wk4teTRhR0xKOXJ6SC1ud3I2N3U0bWE1OWEteGw3ZXc1Vm5a?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-03T00:55:16+00:00"
-          },
-          {
             "title": "ఒంటికాలితో గెంతుతూ బడికి.. ఏడేళ్ల చిన్నారి చదువు సంకల్పం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ER0JNbHZ5SUxJQ0pvZncwX3luM202SEJkRzYwa214dERkZDlscHBNcVdYVmNPR19mSHdjUWdVRm9fLWpHbVFreTgtQVV5cTcxRjVlckVGcERJaDBoLWpUX0hPUi1kdC1YZUl6STNhMmrSAXBBVV95cUxPREdCTWx2eUlMSUNKb2Z3MF95bjNtNkhCZEc2MGtteHREZGQ5bHBwTXFXWFZjT0dfZkh3Y1FnVUZvXy1qR21Ra3k4LUFVeXE3MUY1ZXJFRnBESWgwaC1qVF9IT1ItZHQtWGVJekkzYTJq?oc=5",
             "source": "Eenadu",
@@ -1119,6 +1112,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-03T00:49:58+00:00"
+          },
+          {
+            "title": "రాహుల్‌ బ్రిటిష్‌ పౌరుడంటూ పిటిషన్‌.. సాక్ష్యాల్లేక కేసు కొట్టివేసిన హైకోర్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80cVVTQkg1UVJya3MxUHlPN2doa2lOSkQ4U3RVSlZPcEpadDZMOFVZel9nV3NmUUJjbVZjd2JuUWZwVHBhWmtSc1c4dDZRcU0wTHk0UlZLWkhzX29ndEltQXVNUlJNbXlQOXhSOGppZUXSAXBBVV95cUxPNHFVU0JINVFScmtzMVB5TzdnaGtpTkpEOFN0VUpWT3BKWnQ2TDhVWXpfZ1dzZlFCY21WY3diblFmcFRwYVprUnNXOHQ2UXFNMEx5NFJWS1pIc19vZ3RJbUF1TVJSTW15UDl4UjhqaWVF?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-03T00:46:57+00:00"
           },
           {
             "title": "బ్యాంకులు, రైల్వేలపైనే అత్యధిక అవినీతి ఆరోపణలు: సీవీసీ - Eenadu",
@@ -1135,13 +1135,6 @@
             "published": "2026-09-03T00:39:33+00:00"
           },
           {
-            "title": "మహిళను అర్ధరాత్రి దించేసినందుకు రైల్వేకు రూ.2లక్షల జరిమానా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VN0VXcVF6bklOc3JPbnFHZU92YnV0NHJMcVpRRWpEbzZKMDVucmM2MDRXeV9QeUgwcjdwT2FQZzBhRXJIOS1NcllEWlc4UlZuc3l1V0owb1djTXYwaFZ5NEo5V2tPUkRlbTZCb3RJakHSAXBBVV95cUxNVTdFV3FRem5JTnNyT25xR2VPdmJ1dDRyTHFaUUVqRG82SjA1bnJjNjA0V3lfUHlIMHI3cE9hUGcwYUVySDktTXJZRFpXOFJWbnN5dVdKMG9XY012MGhWeTRKOVdrT1JEZW02Qm90SWpB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-03T00:34:28+00:00"
-          },
-          {
             "title": "Romanchakam movie Review: రివ్యూ: రోమాంచకం.. సుమంత్‌ ప్రభాస్‌, అనంతికల లవ్‌ డ్రామా మెప్పించిందా? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUwzUTZZOUIzUnk2cnB2NjhvaUV2em5qMmtmTVE2Q245WnlPSk1zYk5ZaTROWVhSb2lYVk1ZS19mUlFnNU1acWo3OW5BcHVjdG15RjlNajlfcmpsaUxWbzdCVnM1ckRBQ1hEcFZPVHMtdTNVS1d6cFJVWXBRNTFqTnYwNEpuaW9YNDU1OHRXQ05HUdIBkgFBVV95cUxQNUwzUTZZOUIzUnk2cnB2NjhvaUV2em5qMmtmTVE2Q245WnlPSk1zYk5ZaTROWVhSb2lYVk1ZS19mUlFnNU1acWo3OW5BcHVjdG15RjlNajlfcmpsaUxWbzdCVnM1ckRBQ1hEcFZPVHMtdTNVS1d6cFJVWXBRNTFqTnYwNEpuaW9YNDU1OHRXQ05HUQ?oc=5",
             "source": "Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-03T00:10:15+00:00"
+          },
+          {
+            "title": "ఆ నీరు.. పట్టించుకోరే ఎవరూ! - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04bWl2MWRhVjZJM0pRWERIa24tQUJNa1J5VHJrRVE4ODRacnZuWEU2U29yeEpSOUF6NVpubTBKZEFfMGhGMGJNc3lZek82NU1ZTDdGSldPRkNMd0lHX2MxVVNnQWtBNHhkdFBHQmJpNVZwdXJHN2R5RnlaYw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-02T23:49:47+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,7 +1426,35 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ওয়ার্ড বাড়ছে আরও দুই শহরে, পুনর্বন্যাস নিয়ে প্রশ্ন সর্বত্রই - anandabazar.com",
+            "title": "বিজেপি সভাপতির, ‘ধিক্কার’, জারি বিতর্কও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWdzRHMyQVg1dVE4SXhmM0pfVkVaVEZRT0hnX2RZTnlzMFN5RGJUMTJOOWE5WUp6anlqcHJJbkpyY04zVEZvMW9hT2pBT1JiUjJmVWt1a2F0cTRJb3ZvcHpxQmgwQzBfYlU1WjVXX25GNnRUTVdmT1ZqdnNSTXRCRXpwRm5wcWRna1VJM2FCc3habmJ2NUZXemxRSU5COXJfbnBSamFsUWo1SFhRRzNB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-03T02:51:18+00:00"
+          },
+          {
+            "title": "রেকর্ড বৃষ্টিতে ডুবল বোলপুর, ভোগান্তি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0t4WFZ2ZDAwd21fcTF3RjhPeFE5QXI0SmxOd3RGaEEtcEpOcEp5Um9SaEVMeFhzcUQ0TW9HbmtTWmRtVFlBOFdVcmhIRXZPbU1aZF9yOEpiaURIOWxhXzFmQjlMbjdEc0liVVZ5MkJNLUs2dW9SQ2VWTFRmMURGLWx4cE5IcnAyU1JQdVBub3JBM1Fmbkw0Vmx5M3l2dWx4ZlBVSkluOG9sdVZ0TEhNUnFqcUh6N3U2ME5taA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-03T02:45:15+00:00"
+          },
+          {
+            "title": "লগ্নি টানতে গোয়েন্‌কার জোর পরিকাঠামোয় - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXNlemcwUEpvS2o1bkx5ZXZMdjNpNFN3Tmp4d0NHaTUwWi10VVBDd2NMVm1hY2xMSjBhVUhESy1SaktaV3owMV9nTzIxSkxiR0Y1SHVjaGRLQWl2bW1oUFdDYkltN3ZRaDJITThFTnJaeHZvZEY1Q24zZkpiTHhlMlMtbHVWTUlUdWNmM3FjRDVkaVRJcjE5STFpeGd1OHo3dU5aZy1HQQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-03T02:38:16+00:00"
+          },
+          {
+            "title": "ম্যান সিটিতে এনজ়ো - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkw4M0g1TmxURHhMbmVPc2oyb3RMdlhYQUlXbTBhQWN3WWJxejRnaGx1eG9XS29CazM0X2pXUGwtejJGaWVlZ21paE9qWmVJenBoRS1YR2FQdTVDdFpWdjRZY1JNN2pvQUI4djc4ZkUyVjk0Z1dRcUstSjZ5YXFSU3RJNW44Q3hoTGM4RHVST3IzQTFwekJHX0ZOcXhXVlI4bWV6MW1uSUNGY0JGeG9zZm5JME5URHo2TnpaVy1XZ2l0c015?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-03T02:21:36+00:00"
+          },
+          {
+            "title": "ওয়ার্ড বাড়ছে আরও দুই শহরে, পুনর্বন্যাস নিয়ে প্রশ্ন সর্বত্রই - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDM4ZGtucDN2NkNNQVJwWFlLOVdMMV9jMnNnckJuQjc4N0ZvT09vLXl1LVJXSTU0YUw5bU1QeEJnNzZoTWkxUFZ3b2UtbjQtdkZMTFF4ZzBybmVpaUYzZ0Rya1NnWEJ2Y0d0bW91U2xZaGxfMzVYVGE2WFpyMUktMHhsUXM4aEtwUlpOMFVzNDdmN2trOWxiVW5uNGpXbEFGTllUT21OYTN2TkdHTWI5RlpCYU0yRDNvVmc1RDFaM1lQWHo4VU5kdXVn?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1440,74 +1468,46 @@
             "published": "2026-09-03T01:54:37+00:00"
           },
           {
-            "title": "বৃদ্ধির হারে বিতর্ক-কাঁটা, সামলাতে মাঠে কেন্দ্র - anandabazar.com",
+            "title": "বৃদ্ধির হারে বিতর্ক-কাঁটা, সামলাতে মাঠে কেন্দ্র - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmJNcXl2cHE5WS1zTldabFQ5VFdMRDF2SDBYbk9aUDNnWnVIVy1pVXFPYjFSeDh6ckt6V3NQanMwbDNYZlVmbEhCSURCNlVkYS1ZYk5WVjJLLTg5aUtveEdfcVBndXJGekQtbXdqVHBMUE1wSUZCcTFTSm5fRDJpbEt6NXlJdnVMblUwT0J4cllnUklDMWxITW9Hcm1hb0c4WEs0SnZxcHJteUdZcEF3?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T01:53:07+00:00"
           },
           {
-            "title": "চিত্তপ্রসাদের ছবিও মোছা হল যাদবপুরে - anandabazar.com",
+            "title": "চিত্তপ্রসাদের ছবিও মোছা হল যাদবপুরে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMndoLXF3b0otM01kT2FGbTdKdXZmQ25UUUROLTZ6QUZhRmJaSWU1Vnlld0pMUzg2OWtXUExTal9DWkZkeG1yQjFJUzE5U1h3a0RRY0xNcjBWSDZDbTQwbWNlNzctWnRTOEhnTXZJYzFjMFlkbWp4ZGZIZ2FoOFBKTUYyeE8zcGRXRUZsa0R4b0FPSVpqeEFmWE9USXlRY2ZyTVMxbjVza1BJX0lvYXg1Vm13?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T01:45:56+00:00"
           },
           {
-            "title": "উষ্ণায়নের বিষে নিশ্চিহ্ন বেত্রবতী - anandabazar.com",
+            "title": "উষ্ণায়নের বিষে নিশ্চিহ্ন বেত্রবতী - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnFQd1RCZTlSVTBnbVMtdWd0MUtpcGVDVmdBYmJvTk0xUTh2UVBERnVRY3YtbEs4RUNTeWhYckhnTlBzdEpkTE5Va0xRZEs3VnhoblpyalNhLUhZcXlUbXFzbUtnazN3QUdaTWtKb3hlWk01ZXRGQnpZaU1uMzRTREpfOHdqMVlmQzB1Y1hyV0NHenJ4dGo2a3dYdw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-03T01:36:10+00:00"
           },
           {
-            "title": "ম্যাঙ্গানিজের খোঁজে শুরু হবে যৌথ সমীক্ষা - anandabazar.com",
+            "title": "ম্যাঙ্গানিজের খোঁজে শুরু হবে যৌথ সমীক্ষা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVRVSGFNUEg5UGRfYkJhNG5fR252bHFMQjBnNGlSTzFsaVV5SXFWYVR1cFRLS3l2WkpKamQ1dV85aC1XM01jenY5QTZ6R1p4QlhweC1MTkNyVm5VY3VVWkF1c2REcER2SzZMcWNhcnJQM3hBWGhNN010TS1QSjJLcFFzeVdqMkptTDE5WG5Yd25KOUxZMHJxQ1NyUXVYRXkxMTNXSkVtMDBLR2ZSdGVtVnFubGFRQ2s?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-02T20:02:10+00:00"
           },
           {
-            "title": "ভাঙা পড়েছে স্কুলের ভবন, বৃষ্টিতে ত্রিপলের নীচে ক্লাস - anandabazar.com",
+            "title": "ভাঙা পড়েছে স্কুলের ভবন, বৃষ্টিতে ত্রিপলের নীচে ক্লাস - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGJfbTdwMjBQQlBObTJlbkw2ckZhVF9OUFQ0NEs5dGhsNmg3Z2xMclVLN1JLckw4UFRibk0zUjdxMS11Q2dhVUE4MnhNOUpyTnFOS05ZcU9HcFZ5d3hkZ3FGQjZNd2hkMklDMTV6TF9pZEdEaUV4VkZmbWRwTnBLMzVsQUp2X3NUTHpHd2ZkQk9iQWNlMmt4YlgtMGQ3cjFILUNOUA?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-02T19:58:09+00:00"
           },
           {
-            "title": "জরিমানা-নির্দেশ সত্ত্বেও প্লাস্টিক, থুতু ফেলা চলছে - anandabazar.com",
+            "title": "জরিমানা-নির্দেশ সত্ত্বেও প্লাস্টিক, থুতু ফেলা চলছে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWxib09tUXNZN2ktUUtZb0NOam9JbVlzWUpjbkRKaWVCRjZaZ2FSVlY1MXFjRXhXM05OR2VWbWNDRG5jMUFyUlZ5V2VsVTlDT3VRblBWYThKRi1HR0RTcTNtY1hmRmJsSGFiMzJxbVp0Rk1VVE9rQ1h3SzJNQ0NvcVpTLUF1R1NSUmdVaTZaTVRDVzdfZkIzMC1NajZMRlg4RXpHaXg5VFdIVGRkeXlEV3p2aWMxR1E3dWN1c1ZhUQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-02T19:28:26+00:00"
-          },
-          {
-            "title": "সিরাপের বদলে হুন্ডি-সোনা - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWW1ZVVdsZzJsZ1U1dkhGUTZ2S2lHSFU5OWgxY2kxMTBzU29faTg4d3R6a0hwRlB4T3hwdko0bUZ0TDlmYXVRNmJUdVZnakl2eDBLZXR2cmlXUDJQLWxXNUZER01mcTRPNC1Oekgzc0I2WU84Tk91c0lhby1ZWTBfOE1zaFNhd0ZaZWYyTGdDb2VGckVXdzRGb2ItWDZkQUtBdUZqb05oNUY3TGlr?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-02T18:59:00+00:00"
-          },
-          {
-            "title": "বাণিজ্যিক গ্যাসের দাম বৃদ্ধি, দুশ্চিন্তা - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbi1iQUg4a3RRTDU2YjRJSjh1a1BrTXMtbHFHT2dqYzlZelFJYS1odUFhcC1VNlJUSDhwR1oyV3RGOHRBN3RGVGRqeXo2RXpqeWpIY0w2Rk5JY2hfX3hMcHhZYWIxNkh2dG1HeV9kLWs5WWNZWWNzQWs0T0VyZXZ5OWNEVzVZeHljWFV0ckdmNVQ5NWdNdVBqYllGc2dzZ0l6dzNvbDBlVVZvc3FFWkctY0pZVkNseHMz?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-02T18:53:57+00:00"
-          },
-          {
-            "title": "আপনার এই মাস সেপ্টেম্বর ২০২৬, বৃষ রাশি - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzc5N0MxT3VhNXgtWk1jTGRINXZEcXN0eHVjaGNmeC1OX1N4RTdCcU5HdlFTd19pV1Q0ZFlmb3VHb2FfWERHUUxOQU1JN2ZadWxfSUxVbFktLUpMODVSMHMxNDByT3MtcWEtX0JDTXNBUVMteWZiUVBWazZEbXpzUkNZTms3REZOUHpjb2ZZdndzTzJTWEptbmdpTmgwYzlIRk5FNktoV1A1Y1RHXzJPZXRva9IBuAFBVV95cUxONjUyTUNYUEtVQmNqcnlXTFRFa2ttaHV2MmNFZXpLMnhCZk1Lc1lhRURobzhzdjRXaFhwQTdMVGFURjBqZEdBOTUwWlBTX19FajZ6VFpGYjMxcmdfZElGblByczR4OTdwY0t6X3VySnhjdnl6MUdLcWNoc3Z5eFdSeEJmd3dWRmw3aXNuZHRZQ2dGRnRNSVd1MVNLZTZFUXJiRThEOVlGaE9lRExtalprVUNmdXZTRVNY?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-02T18:27:18+00:00"
-          },
-          {
-            "title": "যাদবপুরে পুলিশ যায়নি! বলল লালবাজার, উঠে এল পোশাকে বিভ্রান্তির তত্ত্বও! অনড় পড়ুয়ারা দাবি করছেন, ফুটেজ দেখা হোক - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ29GNHBKS3FKaFdubGhpWHU3SUk0Zjl0aDN1WU5qaEpscjhPa2pnWkc0LXI4YWp1UTF2ZG5OTzBxclM3cFZxa0FydXRaNXBPbGVhN2Z3Y1pJYWoxb0lLYUd3eU0xSnR5YWp2aWdBemo1Tkg3NXhMX2NoeDhXTnltVzYxYk5rNHVablNKdGNwS3BWUXg5TzRmQTBaWVlweTcyUGVQV2E1YmhQR2p2VUlHLU84WVloWDBreGlBTkZBeGY3R1VCbDlQdFNGUV9QRlo3WjRBeU5UZnZZeHdfLWRjbXVBa9IB6AFBVV95cUxQYUlEQlRkSlA3TGxYSk1UM1MtWjJULXgwdXgydGEwVHhBWnZ4MEpxZFVfNXdGNDZZcVNkTXVraDRycGotUmdVYUNCRjQ0Ymc4ZTVKbnBjbmxZd2VTWEtSNXJPMmJzUGo4eC1MQnVQNXJvS0s0TG82NlRfVGs5Y3pPeC1hcmd3aG1IZmNfS245aENXYnVIQlgzUDVIYVhtQ1Jyb3VjYTk3NXRCcFZIaF9DcEc1enltdmwzRUROMldsSktnaTh2UmpUeU1GSXl3OXFnUTlhX0xFOUhvT1JQZGR6SWM0SHRLQmtn?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-02T17:01:09+00:00"
           }
         ]
       }
