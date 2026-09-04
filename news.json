@@ -1,116 +1,186 @@
 {
-  "updated_at": "2026-09-04T07:31:17.855577+00:00",
+  "updated_at": "2026-09-04T08:01:36.196877+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
-            "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Men&#039;s third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.",
-            "published": "2026-09-04T07:27:15+00:00"
+            "title": "'It's just the start' - Mandhana after record-breaking night",
+            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The India vice-captain 'never imagined' she would one day go past Mithali Raj's record of most runs in women's internationals",
+            "published": "2026-09-04T07:58:54+00:00"
           },
           {
-            "title": "India Under-19 player Rohit Yadav banned for two years for age discrepancy",
-            "link": "https://www.cricinfo.com/ci/content/story/1552785.html?ex_cid=OTC-RSS",
+            "title": "चहल और सेल्स की बदौलत नॉर्थैम्पटनशायर को मिली महत्वपूर्ण बढ़त",
+            "link": "https://www.cricinfo.com/ci/content/story/1552790.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "The CAB has also barred 64 others for similar age discrepancies, including former India Under-19 World Cup winner Ravi Kumar",
-            "published": "2026-09-04T07:24:43+00:00"
+            "summary": "डरहम को 205 रनों पर ऑलआउट करने में चहल ने निभाई बड़ी भूमिका",
+            "published": "2026-09-04T07:46:04+00:00"
+          },
+          {
+            "title": "Telugus in uniform: A legacy of valour, service",
+            "link": "https://www.thehindu.com/news/national/telangana/telugus-in-uniform-a-legacy-of-valour-service/article71424289.ece",
+            "source": "The Hindu",
+            "summary": "From the battlefields of 1971 and Kargil to Galwan and UN missions, generations of servicemen and women from A.P. and Telangana have upheld proud tradition of courage and sacrifice",
+            "published": "2026-09-04T13:14:38+05:30"
+          },
+          {
+            "title": "T.N. man instigates schoolgirl to mix cow dung powder in free breakfast scheme sambar at Erode school, arrested",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-man-instigates-schoolgirl-to-mix-cow-dung-powder-in-free-breakfast-scheme-sambar-at-erode-school-arrested/article71427218.ece",
+            "source": "The Hindu",
+            "summary": "Officials found that cow dung powder had been mixed only with a small quantity of sambar kept separately for a teacher to taste and that it had not been mixed with the sambar served to the students",
+            "published": "2026-09-04T13:07:44+05:30"
+          },
+          {
+            "title": "From Nawabi shahar to a vibrant urban sprawl",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/fromnawabi-shaharto-a-vibrant-urban-sprawl/article71424468.ece",
+            "source": "The Hindu",
+            "summary": "In five decades, Hyderabad has travelled a remarkable distance — from a laid-back capital with modest ambitions to a sprawling city of IT towers, Global Capability Centres and ambitious real estate projects. Various factors such as public investments, industrial and scientific institutions, migration, entrepreneurship and abundant land helped propel the city towards its present global profile",
+            "published": "2026-09-04T13:06:04+05:30"
+          },
+          {
+            "title": "Indigo flight hits pole while parking at Srinagar airport, no injuries",
+            "link": "https://www.thehindu.com/news/national/indigo-flight-hits-pole-while-parking-at-srinagar-airport-no-injuries/article71427444.ece",
+            "source": "The Hindu",
+            "summary": "The Airport Authority of India said the details and circumstances leading to the incident will be examined by the appropriate authorities according to the prescribed procedures",
+            "published": "2026-09-04T13:05:55+05:30"
+          },
+          {
+            "title": "Keralam govt raises expenditure ceiling for IT hardware for Ministers, private secretaries, dept heads",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-raises-expenditure-ceiling-for-it-hardware-for-ministers-private-secretaries-dept-heads/article71427405.ece",
+            "source": "The Hindu",
+            "summary": "Expenditure ceiling on IT hardware increased from ₹1.5 lakh to ₹2 lakh. The order by Electronics and IT department Special Secretary says hike was necessitated by the considerable increase in the market rates of common IT hardware",
+            "published": "2026-09-04T13:05:51+05:30"
+          },
+          {
+            "title": "Jal Jeevan taps reach 38 kidney disease-hit villages in Andhra’s NTR district after Pawan Kalyan’s push",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/jal-jeevan-taps-reach-38-kidney-disease-hit-villages-in-andhras-ntr-district-after-pawan-kalyans-push/article71424221.ece",
+            "source": "The Hindu",
+            "summary": "With the intervention of Deputy CM Pawan Kalyan, purified Krishna water is supplied to the villages affected by renal ailments through a 130-km pipeline",
+            "published": "2026-09-04T13:04:16+05:30"
+          },
+          {
+            "title": "31.35% of Mumbai electors to get notices for being unmapped or having anomalies",
+            "link": "https://www.hindustantimes.com/india-news/3135-of-mumbai-electors-to-get-notices-for-being-unmapped-or-having-anomalies-101788507083588.html",
+            "source": "Hindustan Times",
+            "summary": "The draft electoral roll was released on August 31 after SIR in Maharashtra, and 20.68 million electors were dropped across the state",
+            "published": "2026-09-04T13:01:23+05:30"
+          },
+          {
+            "title": "Why Pakistan overhauled its military command structure after five decades",
+            "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.",
+            "published": "2026-09-04T07:30:56+00:00"
+          },
+          {
+            "title": "Retired repairman's wind sculptures helped generate $5.3m in regional sales",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-retired-north-carolina-repairman-built-giant-wind-powered-sculptures-from-scrap-after-30-were-moved-downtown-the-park-drew-194300-visitors-and-generated-5-3-million-in-regional-sales/articleshow/133751896.cms",
+            "source": "Times of India",
+            "summary": "A retired North Carolina farm machinery repairman turned scrap metal into towering wind-powered sculptures, creating a collection that became a local attraction. After his 30 restored whirligigs were moved to downtown Wilson, the Vollis Simpson Whirligig Park opened in 2017. The park has since become a cultural and economic draw, recording about 194,300 visitors in 2024 and generating an estimated $5.3 million in…",
+            "published": "2026-09-04T13:00:00+05:30"
           },
           {
             "title": "When political continuity became the turning point",
             "link": "https://www.thehindu.com/news/cities/Hyderabad/when-political-continuity-became-the-turning-point/article71424495.ece",
             "source": "The Hindu",
             "summary": "From the emergence of HITEC City — a third city in addition to the twin cities of Hyderabad and Secunderabad — in the late 1990s as a favourite destination for IT companies, to the expansion of Cyberabad and the infrastructure push under successive governments, Hyderabad was fortunate to experience political continuity during its rapid progress over the last two-and-a-half decades",
-            "published": "2026-09-04T12:54:35+05:30"
+            "published": "2026-09-04T12:59:54+05:30"
           },
           {
-            "title": "Janmashtami 2026: How Karnataka’s Dasa poets imagined Krishna in his many forms",
-            "link": "https://www.thehindu.com/entertainment/music/from-child-to-divinity-how-dasara-padas-portrayed-krishnas-many-forms/article71418956.ece",
+            "title": "Tamil Nadu government identifies three sites for new Assembly-Secretariat complex in Chennai",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-led-tamil-nadu-government-identifies-3-sites-for-new-secretariat-complex-to-finalise-location-in-mid-september-2026/article71423051.ece",
             "source": "The Hindu",
-            "summary": "From Vyasaraya and Purandaradasa to Kanakadasa, the saint-poets’ evocative verses became an enduring part of the Carnatic repertoire.",
-            "published": "2026-09-04T12:54:24+05:30"
+            "summary": "The sites identified by the government are: the Highways Research Station (HRS) in Guindy; a residential colony established by the Tamil Nadu Housing Board in Pattinapakkam (Foreshore Estate); and the plot once occupied by the now-defunct Indian Drugs and Pharmaceuticals Ltd. (IDPL) in Nandambakkam",
+            "published": "2026-09-04T12:58:04+05:30"
           },
           {
-            "title": "Man instigates schoolgirl to mix cow dung powder in sambar at school in Erode, arrested",
-            "link": "https://www.thehindu.com/news/cities/Coimbatore/man-instigates-schoolgirl-to-mix-cow-dung-powder-in-sambar-at-schoolin-erode-arrested/article71427218.ece",
+            "title": "Expired food products seized from Chairman’s Club at Sahakaranagar in Bengaluru, kitchen shut down",
+            "link": "https://www.thehindu.com/news/national/karnataka/expired-food-products-seized-from-chairmans-club-at-sahakaranagar-in-bengaluru-kitchen-shut-down/article71426986.ece",
             "source": "The Hindu",
-            "summary": "Officials found that cow dung powder had been mixed only with a small quantity of sambar kept separately for a teacher to taste and that it had not been mixed with the sambar served to the students",
-            "published": "2026-09-04T12:54:03+05:30"
-          },
-          {
-            "title": "Real looters of Ram Temple protected by BJP-RSS, alleges Uttar Pradesh Congress chief",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/real-looters-of-ram-temple-protected-by-bjp-rss-alleges-uttar-pradesh-congress-chief/article71424255.ece",
-            "source": "The Hindu",
-            "summary": "In a pointed critique of the ruling political establishment, Uttar Pradesh Congress Committee president Ajay Rai has leveled serious allegations against the BJP and the RSS regarding the management of the Ram Temple Trust. According to Rai, the recent appointment of a new CEO for the Trust is merely a superficial distraction meant to mask deeper issues of financial impropriety and corruption. By labeling the move an 'eyewash,' the Congress leader suggests that the individuals truly responsible for looting resources or mismanaging the temple's affairs are being actively shielded by those in power. This controversy highlights the intense political scrutiny surrounding the temple’s administration and the broader battle for influence over religious institutions in Uttar Pradesh. For the Congress party, these accusations serve as a strategic effort to challenge the narrative of transparency and integrity that the BJP projects regarding the project. As the debate continues, it brings into question the internal governance of one of the most high-profile religious sites in the country and underscores the deepening political polarization between the Congress and the ruling party regarding the management of national heritage sites and religious endowments.",
-            "published": "2026-09-04T12:52:09+05:30"
-          },
-          {
-            "title": "PM Modi congratulates 'friend' Meloni on becoming longest-serving postwar Italian PM",
-            "link": "https://timesofindia.indiatimes.com/india/pm-modi-congratulates-friend-meloni-on-becoming-longest-serving-postwar-italian-pm/articleshow/133755337.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T12:49:19+05:30"
-          },
-          {
-            "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-            "published": "2026-09-04T07:19:06+00:00"
-          },
-          {
-            "title": "HarperCollins to publish Sonia Gandhi’s memoir ‘Belonging’",
-            "link": "https://www.thehindu.com/books/harpercollins-to-publish-sonia-gandhis-memoir-belonging/article71427379.ece",
-            "source": "The Hindu",
-            "summary": "HarperCollins India announced that the “surprising, richly told memoir seamlessly weaves the personal with the political to tell a riveting story”",
-            "published": "2026-09-04T12:44:54+05:30"
-          },
-          {
-            "title": "Report warns against bid to privatise Employees’ State Insurance Corporation",
-            "link": "https://www.thehindu.com/news/national/report-warns-against-bid-to-privatise-employees-state-insurance-corporation/article71425421.ece",
-            "source": "The Hindu",
-            "summary": "ESIC Director General Ashok Kumar Singh says implementation of Code on Social Security will help in more number of workers availing ESIC benefits",
-            "published": "2026-09-04T12:36:46+05:30"
-          },
-          {
-            "title": "Wobble's right for Wong despite wobble",
-            "link": "https://www.cricinfo.com/ci/content/story/1552739.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "England quick credits chat with media manager for decision to focus on wobble seam above swing",
-            "published": "2026-09-04T07:06:16+00:00"
-          },
-          {
-            "title": "HarperCollins to publish Sonia Gandhi's memoir 'Belonging' after Penguin backs out",
-            "link": "https://timesofindia.indiatimes.com/india/harpercollins-to-publish-sonia-gandhis-memoir-belonging-after-penguin-backs-out/articleshow/133754856.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T12:35:32+05:30"
-          },
-          {
-            "title": "Andhra Pradesh Cabinet clears reclassification of 22.31 acres in Nellore for house sites",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-cabinet-clears-reclassification-of-2231-acres-in-nellore-for-house-sites/article71426538.ece",
-            "source": "The Hindu",
-            "summary": "The decision was taken on the recommendations of a joint committee, with specific safeguards to protect the functioning and maintenance of the Sarvepalli canal",
-            "published": "2026-09-04T12:35:28+05:30"
-          },
-          {
-            "title": "Fire breaks out in Chhatrapati Sambhajinagar hospital NICU",
-            "link": "https://www.thehindu.com/news/national/maharashtra/fire-breaks-out-in-chhatrapati-sambhajinagar-hospital-nicu/article71427353.ece",
-            "source": "The Hindu",
-            "summary": "58 patients, including 9 newborns, safely evacuated.",
-            "published": "2026-09-04T12:33:28+05:30"
+            "summary": "Food Safety and Drug Administration officials claim that highly unhygienic conditions were observed in the food preparation and storage areas, and the use of unauthorised and prohibited artificial colours in food products",
+            "published": "2026-09-04T12:57:24+05:30"
           }
         ],
         "India": [
           {
+            "title": "Telugus in uniform: A legacy of valour, service",
+            "link": "https://www.thehindu.com/news/national/telangana/telugus-in-uniform-a-legacy-of-valour-service/article71424289.ece",
+            "source": "The Hindu",
+            "summary": "From the battlefields of 1971 and Kargil to Galwan and UN missions, generations of servicemen and women from A.P. and Telangana have upheld proud tradition of courage and sacrifice",
+            "published": "2026-09-04T13:14:38+05:30"
+          },
+          {
+            "title": "T.N. man instigates schoolgirl to mix cow dung powder in free breakfast scheme sambar at Erode school, arrested",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-man-instigates-schoolgirl-to-mix-cow-dung-powder-in-free-breakfast-scheme-sambar-at-erode-school-arrested/article71427218.ece",
+            "source": "The Hindu",
+            "summary": "Officials found that cow dung powder had been mixed only with a small quantity of sambar kept separately for a teacher to taste and that it had not been mixed with the sambar served to the students",
+            "published": "2026-09-04T13:07:44+05:30"
+          },
+          {
+            "title": "From Nawabi shahar to a vibrant urban sprawl",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/fromnawabi-shaharto-a-vibrant-urban-sprawl/article71424468.ece",
+            "source": "The Hindu",
+            "summary": "In five decades, Hyderabad has travelled a remarkable distance — from a laid-back capital with modest ambitions to a sprawling city of IT towers, Global Capability Centres and ambitious real estate projects. Various factors such as public investments, industrial and scientific institutions, migration, entrepreneurship and abundant land helped propel the city towards its present global profile",
+            "published": "2026-09-04T13:06:04+05:30"
+          },
+          {
+            "title": "Indigo flight hits pole while parking at Srinagar airport, no injuries",
+            "link": "https://www.thehindu.com/news/national/indigo-flight-hits-pole-while-parking-at-srinagar-airport-no-injuries/article71427444.ece",
+            "source": "The Hindu",
+            "summary": "The Airport Authority of India said the details and circumstances leading to the incident will be examined by the appropriate authorities according to the prescribed procedures",
+            "published": "2026-09-04T13:05:55+05:30"
+          },
+          {
+            "title": "Keralam govt raises expenditure ceiling for IT hardware for Ministers, private secretaries, dept heads",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-raises-expenditure-ceiling-for-it-hardware-for-ministers-private-secretaries-dept-heads/article71427405.ece",
+            "source": "The Hindu",
+            "summary": "Expenditure ceiling on IT hardware increased from ₹1.5 lakh to ₹2 lakh. The order by Electronics and IT department Special Secretary says hike was necessitated by the considerable increase in the market rates of common IT hardware",
+            "published": "2026-09-04T13:05:51+05:30"
+          },
+          {
+            "title": "Jal Jeevan taps reach 38 kidney disease-hit villages in Andhra’s NTR district after Pawan Kalyan’s push",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/jal-jeevan-taps-reach-38-kidney-disease-hit-villages-in-andhras-ntr-district-after-pawan-kalyans-push/article71424221.ece",
+            "source": "The Hindu",
+            "summary": "With the intervention of Deputy CM Pawan Kalyan, purified Krishna water is supplied to the villages affected by renal ailments through a 130-km pipeline",
+            "published": "2026-09-04T13:04:16+05:30"
+          },
+          {
+            "title": "31.35% of Mumbai electors to get notices for being unmapped or having anomalies",
+            "link": "https://www.hindustantimes.com/india-news/3135-of-mumbai-electors-to-get-notices-for-being-unmapped-or-having-anomalies-101788507083588.html",
+            "source": "Hindustan Times",
+            "summary": "The draft electoral roll was released on August 31 after SIR in Maharashtra, and 20.68 million electors were dropped across the state",
+            "published": "2026-09-04T13:01:23+05:30"
+          },
+          {
+            "title": "Retired repairman's wind sculptures helped generate $5.3m in regional sales",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-retired-north-carolina-repairman-built-giant-wind-powered-sculptures-from-scrap-after-30-were-moved-downtown-the-park-drew-194300-visitors-and-generated-5-3-million-in-regional-sales/articleshow/133751896.cms",
+            "source": "Times of India",
+            "summary": "A retired North Carolina farm machinery repairman turned scrap metal into towering wind-powered sculptures, creating a collection that became a local attraction. After his 30 restored whirligigs were moved to downtown Wilson, the Vollis Simpson Whirligig Park opened in 2017. The park has since become a cultural and economic draw, recording about 194,300 visitors in 2024 and generating an estimated $5.3 million in…",
+            "published": "2026-09-04T13:00:00+05:30"
+          },
+          {
             "title": "When political continuity became the turning point",
             "link": "https://www.thehindu.com/news/cities/Hyderabad/when-political-continuity-became-the-turning-point/article71424495.ece",
             "source": "The Hindu",
             "summary": "From the emergence of HITEC City — a third city in addition to the twin cities of Hyderabad and Secunderabad — in the late 1990s as a favourite destination for IT companies, to the expansion of Cyberabad and the infrastructure push under successive governments, Hyderabad was fortunate to experience political continuity during its rapid progress over the last two-and-a-half decades",
-            "published": "2026-09-04T12:54:35+05:30"
+            "published": "2026-09-04T12:59:54+05:30"
+          },
+          {
+            "title": "Tamil Nadu government identifies three sites for new Assembly-Secretariat complex in Chennai",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-led-tamil-nadu-government-identifies-3-sites-for-new-secretariat-complex-to-finalise-location-in-mid-september-2026/article71423051.ece",
+            "source": "The Hindu",
+            "summary": "The sites identified by the government are: the Highways Research Station (HRS) in Guindy; a residential colony established by the Tamil Nadu Housing Board in Pattinapakkam (Foreshore Estate); and the plot once occupied by the now-defunct Indian Drugs and Pharmaceuticals Ltd. (IDPL) in Nandambakkam",
+            "published": "2026-09-04T12:58:04+05:30"
+          },
+          {
+            "title": "Expired food products seized from Chairman’s Club at Sahakaranagar in Bengaluru, kitchen shut down",
+            "link": "https://www.thehindu.com/news/national/karnataka/expired-food-products-seized-from-chairmans-club-at-sahakaranagar-in-bengaluru-kitchen-shut-down/article71426986.ece",
+            "source": "The Hindu",
+            "summary": "Food Safety and Drug Administration officials claim that highly unhygienic conditions were observed in the food preparation and storage areas, and the use of unauthorised and prohibited artificial colours in food products",
+            "published": "2026-09-04T12:57:24+05:30"
           },
           {
             "title": "Janmashtami 2026: How Karnataka’s Dasa poets imagined Krishna in his many forms",
@@ -118,79 +188,16 @@
             "source": "The Hindu",
             "summary": "From Vyasaraya and Purandaradasa to Kanakadasa, the saint-poets’ evocative verses became an enduring part of the Carnatic repertoire.",
             "published": "2026-09-04T12:54:24+05:30"
-          },
-          {
-            "title": "Man instigates schoolgirl to mix cow dung powder in sambar at school in Erode, arrested",
-            "link": "https://www.thehindu.com/news/cities/Coimbatore/man-instigates-schoolgirl-to-mix-cow-dung-powder-in-sambar-at-schoolin-erode-arrested/article71427218.ece",
-            "source": "The Hindu",
-            "summary": "Officials found that cow dung powder had been mixed only with a small quantity of sambar kept separately for a teacher to taste and that it had not been mixed with the sambar served to the students",
-            "published": "2026-09-04T12:54:03+05:30"
-          },
-          {
-            "title": "Real looters of Ram Temple protected by BJP-RSS, alleges Uttar Pradesh Congress chief",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/real-looters-of-ram-temple-protected-by-bjp-rss-alleges-uttar-pradesh-congress-chief/article71424255.ece",
-            "source": "The Hindu",
-            "summary": "In a pointed critique of the ruling political establishment, Uttar Pradesh Congress Committee president Ajay Rai has leveled serious allegations against the BJP and the RSS regarding the management of the Ram Temple Trust. According to Rai, the recent appointment of a new CEO for the Trust is merely a superficial distraction meant to mask deeper issues of financial impropriety and corruption. By labeling the move an 'eyewash,' the Congress leader suggests that the individuals truly responsible for looting resources or mismanaging the temple's affairs are being actively shielded by those in power. This controversy highlights the intense political scrutiny surrounding the temple’s administration and the broader battle for influence over religious institutions in Uttar Pradesh. For the Congress party, these accusations serve as a strategic effort to challenge the narrative of transparency and integrity that the BJP projects regarding the project. As the debate continues, it brings into question the internal governance of one of the most high-profile religious sites in the country and underscores the deepening political polarization between the Congress and the ruling party regarding the management of national heritage sites and religious endowments.",
-            "published": "2026-09-04T12:52:09+05:30"
-          },
-          {
-            "title": "PM Modi congratulates 'friend' Meloni on becoming longest-serving postwar Italian PM",
-            "link": "https://timesofindia.indiatimes.com/india/pm-modi-congratulates-friend-meloni-on-becoming-longest-serving-postwar-italian-pm/articleshow/133755337.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T12:49:19+05:30"
-          },
-          {
-            "title": "HarperCollins to publish Sonia Gandhi’s memoir ‘Belonging’",
-            "link": "https://www.thehindu.com/books/harpercollins-to-publish-sonia-gandhis-memoir-belonging/article71427379.ece",
-            "source": "The Hindu",
-            "summary": "HarperCollins India announced that the “surprising, richly told memoir seamlessly weaves the personal with the political to tell a riveting story”",
-            "published": "2026-09-04T12:44:54+05:30"
-          },
-          {
-            "title": "Report warns against bid to privatise Employees’ State Insurance Corporation",
-            "link": "https://www.thehindu.com/news/national/report-warns-against-bid-to-privatise-employees-state-insurance-corporation/article71425421.ece",
-            "source": "The Hindu",
-            "summary": "ESIC Director General Ashok Kumar Singh says implementation of Code on Social Security will help in more number of workers availing ESIC benefits",
-            "published": "2026-09-04T12:36:46+05:30"
-          },
-          {
-            "title": "HarperCollins to publish Sonia Gandhi's memoir 'Belonging' after Penguin backs out",
-            "link": "https://timesofindia.indiatimes.com/india/harpercollins-to-publish-sonia-gandhis-memoir-belonging-after-penguin-backs-out/articleshow/133754856.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T12:35:32+05:30"
-          },
-          {
-            "title": "Andhra Pradesh Cabinet clears reclassification of 22.31 acres in Nellore for house sites",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-cabinet-clears-reclassification-of-2231-acres-in-nellore-for-house-sites/article71426538.ece",
-            "source": "The Hindu",
-            "summary": "The decision was taken on the recommendations of a joint committee, with specific safeguards to protect the functioning and maintenance of the Sarvepalli canal",
-            "published": "2026-09-04T12:35:28+05:30"
-          },
-          {
-            "title": "Fire breaks out in Chhatrapati Sambhajinagar hospital NICU",
-            "link": "https://www.thehindu.com/news/national/maharashtra/fire-breaks-out-in-chhatrapati-sambhajinagar-hospital-nicu/article71427353.ece",
-            "source": "The Hindu",
-            "summary": "58 patients, including 9 newborns, safely evacuated.",
-            "published": "2026-09-04T12:33:28+05:30"
-          },
-          {
-            "title": "Congress hails successful launch of India’s imaging satellite; slams Modi government for ‘attack’ on ISRO",
-            "link": "https://www.thehindu.com/news/national/congress-hails-successful-launch-of-indias-imaging-satellite-slams-modi-government-for-attack-on-isro/article71427307.ece",
-            "source": "The Hindu",
-            "summary": "Congress leader Jairam Ramesh had claimed that the Modi government has an “aggressive privatisation agenda” for the space programme just as it had for nuclear energy",
-            "published": "2026-09-04T12:32:33+05:30"
-          },
-          {
-            "title": "Quality elementary teachers crucial to children, nation-building: Supreme Court",
-            "link": "https://www.thehindu.com/news/national/quality-elementary-teachers-crucial-to-children-nation-building-supreme-court/article71425384.ece",
-            "source": "The Hindu",
-            "summary": "‘Though free and compulsory elementary education to all children aged 6 to 14 years has now attained the status of an enforceable fundamental right, we have not bestowed on teacher education the attention that it deserves,’ the court says",
-            "published": "2026-09-04T12:31:49+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Why Pakistan overhauled its military command structure after five decades",
+            "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "New legislation gives Pakistan&#039;s military chief sweeping command powers, raising questions about oversight.",
+            "published": "2026-09-04T07:30:56+00:00"
+          },
           {
             "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
             "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.",
             "published": "2026-09-04T04:42:27+00:00"
-          },
-          {
-            "title": "Mladic’s body arrives to full military honours in Serbia",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.",
-            "published": "2026-09-04T04:32:13+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,20 @@
         ],
         "Sports": [
           {
+            "title": "'It's just the start' - Mandhana after record-breaking night",
+            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The India vice-captain 'never imagined' she would one day go past Mithali Raj's record of most runs in women's internationals",
+            "published": "2026-09-04T07:58:54+00:00"
+          },
+          {
+            "title": "चहल और सेल्स की बदौलत नॉर्थैम्पटनशायर को मिली महत्वपूर्ण बढ़त",
+            "link": "https://www.cricinfo.com/ci/content/story/1552790.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "डरहम को 205 रनों पर ऑलआउट करने में चहल ने निभाई बड़ी भूमिका",
+            "published": "2026-09-04T07:46:04+00:00"
+          },
+          {
             "title": "India Under-19 player Rohit Yadav banned for two years for age discrepancy",
             "link": "https://www.cricinfo.com/ci/content/story/1552785.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -390,13 +404,6 @@
             "source": "ESPN Cricinfo",
             "summary": "Pavan Rathnayake, the top-order batter, and Dilshan Madushanka, the fast bowler, have been drafted into the touring squad",
             "published": "2026-09-04T06:41:07+00:00"
-          },
-          {
-            "title": "'It's just the start' - Mandhana after record-breaking night",
-            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The India vice-captain 'never imagined' she would one day go past Mithali Raj's record of most runs in women's internationals",
-            "published": "2026-09-04T06:24:02+00:00"
           },
           {
             "title": "Influencer Boom At US Open Stirs Controversy, Tennis Players Slam Organisers",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Rohit Sharma's future in India's ODI team was reportedly a subject of discussion during the BCCI meeting on Thursday. However, the cricketing gods seem to be favouring the Hitman at the moment.",
             "published": "2026-09-04T09:51:05+05:30"
-          },
-          {
-            "title": "Efficient Elena Rybakina Reaches US Open Third Round",
-            "link": "https://sports.ndtv.com/tennis/efficient-elena-rybakina-reaches-us-open-third-round-12000304#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Second-seeded Elena Rybakina advanced to the third round of the US OpenThursday, seeing off Spaniard Jessica Bouzas Maneiro 6-2, 6-4.",
-            "published": "2026-09-04T09:45:35+05:30"
           }
         ],
         "Technology": [
@@ -550,6 +550,13 @@
             "published": "2026-09-04T05:18:01+00:00"
           },
           {
+            "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+            "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+            "published": "2026-09-04T04:06:41+00:00"
+          },
+          {
             "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
             "link": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -578,7 +585,7 @@
             "published": "2026-09-03T19:08:27+00:00"
           },
           {
-            "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
+            "title": "Catherine Zeta-Jones praised by fans for using Welsh accent in TV series",
             "link": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
@@ -606,13 +613,6 @@
             "published": "2026-09-03T11:47:51+00:00"
           },
           {
-            "title": "Alan Carr lodges plans to turn castle potting shed into café",
-            "link": "https://www.bbc.co.uk/news/articles/crl6d8jjx7jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The Celebrity Traitors winner bought 19th Century Ayton Castle earlier this year and will turn it into a home for his TV programme.",
-            "published": "2026-09-03T10:40:04+00:00"
-          },
-          {
             "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
             "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -627,8 +627,15 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "हैदराबाद-जवाहरलाल नेहरू टेक्नोलॉजिकल यूनिवर्सिटी में दो छात्र गुटों में झड़प:एक-दूसरे पर लाठियां चलाईं; महिला मित्र पर टिप्पणी से विवाद",
-            "link": "https://www.bhaskar.com/national/news/hyderabad-jntu-university-student-clash-campus-controversy-video-138927496.html",
+            "title": "भारतीय कंपनी से की डील तो रक्षा मंत्री को देना पड़ा इस्तीफा, इस यूरोपीय देश में क्यों मचा हंगामा?",
+            "link": "https://hindi.oneindia.com/news/international/estonia-defence-minister-hanno-pevkur-resigns-ukraine-artillery-shells-deal-indian-company-1642129.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-04T13:22:29+05:30"
+          },
+          {
+            "title": "हैदराबाद यूनिवर्सिटी में दो छात्र गुटों में झड़प:एक-दूसरे पर लाठियां चलाईं; महिला मित्र पर टिप्पणी से विवाद",
+            "link": "https://www.bhaskar.com/g/national/news/hyderabad-jntu-university-student-clash-campus-controversy-video-138927496.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-04T07:19:04+00:00"
@@ -648,7 +655,7 @@
             "published": "2026-09-04T07:10:02+00:00"
           },
           {
-            "title": "दिल्ली पुलिस भर्ती: खराब मौसम के कारण पीई, एमटी परीक्षा फिर स्थगित; अब कब होंगे एग्जाम? देखें पूरा शेड्यूल",
+            "title": "दिल्ली पुलिस भर्ती: चार पदों के फिजिकल टेस्ट की तारीख घोषित, सितंबर-अक्तूबर में होगा टेस्ट; देखें शेड्यूल",
             "link": "https://www.amarujala.com/jobs/government-jobs/delhi-police-recruitment-2025-pe-and-mt-postponed-again-due-to-bad-weather-check-new-dates-2026-09-04",
             "source": "Amar Ujala",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Amar Ujala",
             "summary": "जंतर-मंतर पर हाल ही में हुई मारपीट की घटना एक बार फिर से राजनीतिक गलियारों में चर्चा का केंद्र बन गई है। यह विवाद 'कॉकरोच जनता पार्टी' के एक प्रदर्शन के दौरान हुआ था, जहां पार्टी के कार्यकर्ता निशु आजाद के पिता संजय कुमार के साथ हाथापाई की घटना सामने आई थी। इस पूरे प्रकरण में अब नया मोड़ तब आया जब भारद्वाज ने इस घटना को लेकर अपना नया पक्ष रखा है। उनके इस हालिया बयान ने मामले को और तूल दे दिया है, जिसके जवाब में कांग्रेस ने भी तीखा पलटवार किया है। यह मुद्दा न केवल व्यक्तिगत विवाद का है, बल्कि प्रदर्शनों के दौरान सुरक्षा और राजनीतिक गरिमा पर भी सवाल खड़े करता है। मामला काफी संवेदनशील बना हुआ है क्योंकि इसमें राजनीतिक दलों के कार्यकर्ताओं की सीधी संलिप्तता देखी जा रही है। जनता के बीच इस घटना की सच्चाई को लेकर काफी भ्रम की स्थिति है, जिसे शांत करने के लिए दोनों ही पक्ष अपने-अपने तर्क दे रहे हैं। आने वाले समय में यह देखना महत्वपूर्ण होगा कि क्या इस मामले की कोई निष्पक्ष जांच होती है या यह राजनीतिक बयानबाजी तक ही सीमित रह जाता है। इस पूरे विवाद का मुख्य कारण प्रदर्शन के दौरान हुई वह दुर्भाग्यपूर्ण घटना है जिसने सुरक्षा व्यवस्था पर भी गंभीर प्रश्नचिन्ह लगा दिए हैं।",
             "published": "2026-09-04T11:37:10+05:30"
-          },
-          {
-            "title": "जम्मू-कश्मीर: श्रीनगर एयरपोर्ट पर पार्किंग के दौरान इंडिगो विमान पोल से टकराया, जांच के बाद सामने आएगी वजह",
-            "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/indigo-aircraft-collided-with-a-vdgs-pole-while-parking-at-srinagar-airport-2026-09-04",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-04T11:26:10+05:30"
           }
         ],
         "Entertainment": [
@@ -846,7 +846,7 @@
             "published": "2026-09-04T06:17:33+00:00"
           },
           {
-            "title": "CJPની પાર્લામેન્ટ સ્ટ્રીટ પોલીસ સ્ટેશન સુધી કૂચ:સૌરવે કહ્યું- ગુનો કબૂલ કર્યો છતાં પોલીસ કાર્યવાહી કેમ નહીં, કાર્યકર્તાના પિતા પર હુમલાનો આરોપ",
+            "title": "કોકરોચ પાર્ટી 46 દિવસ બાદ ફરી રસ્તા પર ઉતરી:પાર્લામેન્ટ સ્ટ્રીટ પોલીસ સ્ટેશનની બહાર CJPના ધરણા, કાર્યકર્તાના પિતા સાથે મારપીટનો મામલો",
             "link": "https://www.divyabhaskar.co.in/national/news/cjp-sourav-das-protest-parliament-street-police-delhi-justice-138926929.html",
             "source": "Divya Bhaskar",
             "summary": "કોકરોચ જનતા પાર્ટી (CJP) દ્વારા શુક્રવારે પાર્લામેન્ટ સ્ટ્રીટ પોલીસ સ્ટેશન ખાતે એક મોટું પ્રદર્શન કરવામાં આવ્યું હતું. આ વિરોધ પ્રદર્શનનું મુખ્ય કારણ કાર્યકર્તા નીશુ ભારદ્વાજના પિતા સંજય સાથે થયેલી મારપીટ છે. નીશુનો આરોપ છે કે 23 જૂનના રોજ જંતર-મંતર પર પ્રદર્શન ચાલી રહ્યું હતું ત્યારે તેમના પિતા પર હુમલો કરવામાં આવ્યો હતો, જેમાં તેમનું માથું પણ ફોડી નાખવામાં આવ્યું હતું. આ ઘટનાને દોઢ મહિનો વીતી ગયો હોવા છતાં, હજુ સુધી મુખ્ય આરોપી સ્વતંત્ર ભારદ્વાજ સામે કોઈ જ કડક પોલીસ કાર્યવાહી કરવામાં આવી નથી, જેનાથી CJP ના નેતાઓ સૌરવ દાસ અને આશુતોષ રાંકા રોષે ભરાયા છે. સૌરવ દાસે પોલીસની કાર્યશૈલી પર સવાલો ઉઠાવતા કહ્યું હતું કે ગુનો કબૂલ હોવા છતાં પોલીસ કેમ આરોપીને બચાવી રહી છે. તેમણે માંગ કરી છે કે આરોપીની તાત્કાલિક ધરપકડ કરવામાં આવે અને ન્યાય આપવામાં આવે. આ પ્રદર્શન દ્વારા તેઓ પોતાની માંગણીઓ સરકાર અને વહીવટીતંત્ર સુધી પહોંચાડવા માંગે છે. પોલીસ સ્ટેશન સુધી પહોંચેલી આ કૂચ લોકશાહીમાં નાગરિકોના અવાજને બુલંદ કરવાના પ્રયાસ રૂપે જોવામાં આવી રહી છે, અને આ મામલે પોલીસનું આગળનું પગલું મહત્વનું રહેશે.",
@@ -895,6 +895,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "'4 நிமிட அவகாசம் போதாத போது': ரஷ்யாவின் புதிய தாக்குதல் உத்தியால் நிலைகுலைந்த 'கீவ்'",
+            "link": "https://www.bbc.com/tamil/articles/cvgyq910mvdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-04T07:51:37+00:00"
+          },
+          {
+            "title": "ரோகித் சர்மாவுக்கு சிக்கல் இல்லை.. நேரடியாக சொல்லிவிட்ட பிசிசிஐ! கம்பீர், சுப்மன் கில் பேசியது என்ன?",
+            "link": "https://tamil.oneindia.com/news/sports/cricket/rohit-sharma-no-plan-to-drop-rohit-sharma-from-odi-squad-clarifies-bcci-secretary-devajit-saikia-828423.html",
+            "source": "Oneindia Tamil",
+            "summary": "இந்திய கிரிக்கெட் அணியின் கேப்டன் ரோகித் சர்மா ஒருநாள் போட்டிகளுக்கான அணியிலிருந்து நீக்கப்பட உள்ளதாக வெளியான வதந்திகளுக்கு பிசிசிஐ முற்றுப்புள்ளி வைத்துள்ளது. பிசிசிஐ செயலாளர் தேவஜித் சய்கியா, ரோகித் சர்மாவை அணியிலிருந்து நீக்கும் திட்டம் எதுவும் தற்போது இல்லை என்று திட்டவட்டமாகத் தெளிவுபடுத்தியுள்ளார். சமீபகாலமாக பல்வேறு ஊடகங்களிலும், சமூக வலைதளங்களிலும் ரோகித் சர்மாவின் எதிர்காலம் குறித்துப் பல விவாதங்கள் எழுந்து வந்த நிலையில், பிசிசிஐ-யின் இந்த அதிகாரப்பூர்வ விளக்கம் குழப்பங்களைத் தீர்த்துள்ளது. கேப்டன் என்ற முறையில் ரோகித் சர்மாவின் பங்களிப்பு அணியின் வெற்றிக்கு இன்றியமையாதது என்பதை பிசிசிஐ மீண்டும் ஒருமுறை உறுதி செய்துள்ளது. பயிற்சியாளர் கௌதம் கம்பீர் மற்றும் அணியின் இளம் வீரர் சுப்மன் கில் ஆகியோருடனான ஆலோசனை மற்றும் உரையாடல்கள் குறித்த தகவல்கள் ஏற்கனவே கசிந்த நிலையில், அணித் தேர்வில் எந்த ஒரு பெரிய மாற்றமும் இல்லை என்பது ரசிகர்களுக்கு நிம்மதியை அளித்துள்ளது. கிரிக்கெட் உலகின் முக்கியமான தொடர்களைக் கருத்தில் கொண்டு, அனுபவம் வாய்ந்த வீரரான ரோகித் சர்மா தலைமையிலேயே அணி தனது பயணத்தைத் தொடரும் என்பது இதன் மூலம் உறுதியாகியுள்ளது. தேவையற்ற ஊகங்களைத் தவிர்க்கவும், அணியின் ஒற்றுமையைப் பேணவும் இதுபோன்ற தெளிவான விளக்கங்கள் மிகவும் அவசியமானதாகக் கருதப்படுகிறது.",
+            "published": "2026-09-04T13:14:07+05:30"
+          },
+          {
+            "title": "தாய்லாந்து தொழிலதிபர் பாருங்க.. ரூ.47 கோடி பிசினஸை விட்டுட்டு, காட்டுக்குள் துறவியா போறாராம்.. ஏன்?",
+            "link": "https://tamil.oneindia.com/news/international/thai-businessman-gives-up-47-crore-business-why-is-he-heading-into-the-forest-to-become-a-monk-828465.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-09-04T13:03:00+05:30"
+          },
+          {
             "title": "Nepal Flood: 9 நாட்களுக்குப் பிறகு உயிருடன் மீட்கப்பட்ட இருவர்.. நேபாளத்தில் நம்பிக்கை ஒளி!",
             "link": "https://tamil.oneindia.com/news/international/two-rescued-from-nepal-tunnel-after-more-than-a-week-following-flash-floods-828463.html",
             "source": "Oneindia Tamil",
@@ -914,13 +935,6 @@
             "source": "BBC Tamil",
             "summary": "தமிழ்நாட்டின் கரூரைச் சேர்ந்த பெண்கள், உலகையே மாற்றிவரும் செயற்கை நுண்ணறிவு (AI) தொழில்நுட்பத்திற்குத் தேவையான தரவுகளை வழங்கும் பணியில் முக்கியப் பங்காற்றி வருவது பெருமைக்குரிய விஷயமாகும். கரூரில் இயங்கி வரும் ஒரு முன்னணி ஏஐ டேட்டா நிறுவனம், மனித உருவ ரோபோக்கள் சிந்திப்பதற்கும், செயல்படுவதற்கும் தேவையான பயிற்சியை அளிக்கும் தரவு தொகுப்புகளை உருவாக்கும் பணியை மேற்கொண்டு வருகிறது. இந்த நிறுவனத்தில் பணியாற்றும் பெண்கள், ரோபோக்களின் கண்கள் மற்றும் மூளைச் செயல்பாட்டிற்குத் தேவையான நுண்ணிய தரவுகளைக் கவனமாகத் தயாரித்து வழங்குகின்றனர். மனிதர்களின் அசைவுகள், உணர்ச்சிகள் மற்றும் அன்றாடச் செயல்பாடுகளைப் புரிந்துகொள்ள ரோபோக்களுக்கு இது மிகவும் அவசியம். கிராமப்புறப் பின்னணியில் இருந்து வரும் பெண்கள், அதிநவீன தொழில்நுட்பத் துறையில் ஈடுபட்டு வருவது, தொழில்நுட்ப வளர்ச்சியைப் பின்தங்கிய பகுதிகளுக்கும் கொண்டு சேர்க்கும் முயற்சியின் ஒரு அங்கமாகும். இத்தகைய தரவுகளைத் துல்லியமாகப் பதிவு செய்வதன் மூலம், எதிர்காலத்தில் மனிதர்களுக்கு உதவியாக இருக்கும் பல மேம்பட்ட ரோபோக்களை உருவாக்க முடியும். தரவு அறிவியலின் (Data Science) முக்கியத்துவத்தை உணர்ந்து, ஒரு சிறு நகரத்தில் அமர்ந்து உலகளாவிய ஏஐ புரட்சிக்குத் தமிழகப் பெண்கள் பங்களிப்பது, அந்தப் பகுதியின் தொழில் நுட்பக் கட்டமைப்பை அடுத்த கட்டத்திற்கு எடுத்துச் செல்ல உதவும் என்பதில் ஐயமில்லை.",
             "published": "2026-09-04T06:04:58+00:00"
-          },
-          {
-            "title": "ரோகித் சர்மாவுக்கு சிக்கல் இல்லை.. நேரடியாக சொல்லிவிட்ட பிசிசிஐ! கம்பீர், சுப்மன் கில் பேசியது என்ன?",
-            "link": "https://tamil.oneindia.com/news/sports/cricket/rohit-sharma-no-plan-to-drop-rohit-sharma-from-odi-squad-clarifies-bcci-secretary-devajit-saikia-828423.html",
-            "source": "Oneindia Tamil",
-            "summary": "இந்திய கிரிக்கெட் அணியின் கேப்டன் ரோகித் சர்மா ஒருநாள் போட்டிகளுக்கான அணியிலிருந்து நீக்கப்பட உள்ளதாக வெளியான வதந்திகளுக்கு பிசிசிஐ முற்றுப்புள்ளி வைத்துள்ளது. பிசிசிஐ செயலாளர் தேவஜித் சய்கியா, ரோகித் சர்மாவை அணியிலிருந்து நீக்கும் திட்டம் எதுவும் தற்போது இல்லை என்று திட்டவட்டமாகத் தெளிவுபடுத்தியுள்ளார். சமீபகாலமாக பல்வேறு ஊடகங்களிலும், சமூக வலைதளங்களிலும் ரோகித் சர்மாவின் எதிர்காலம் குறித்துப் பல விவாதங்கள் எழுந்து வந்த நிலையில், பிசிசிஐ-யின் இந்த அதிகாரப்பூர்வ விளக்கம் குழப்பங்களைத் தீர்த்துள்ளது. கேப்டன் என்ற முறையில் ரோகித் சர்மாவின் பங்களிப்பு அணியின் வெற்றிக்கு இன்றியமையாதது என்பதை பிசிசிஐ மீண்டும் ஒருமுறை உறுதி செய்துள்ளது. பயிற்சியாளர் கௌதம் கம்பீர் மற்றும் அணியின் இளம் வீரர் சுப்மன் கில் ஆகியோருடனான ஆலோசனை மற்றும் உரையாடல்கள் குறித்த தகவல்கள் ஏற்கனவே கசிந்த நிலையில், அணித் தேர்வில் எந்த ஒரு பெரிய மாற்றமும் இல்லை என்பது ரசிகர்களுக்கு நிம்மதியை அளித்துள்ளது. கிரிக்கெட் உலகின் முக்கியமான தொடர்களைக் கருத்தில் கொண்டு, அனுபவம் வாய்ந்த வீரரான ரோகித் சர்மா தலைமையிலேயே அணி தனது பயணத்தைத் தொடரும் என்பது இதன் மூலம் உறுதியாகியுள்ளது. தேவையற்ற ஊகங்களைத் தவிர்க்கவும், அணியின் ஒற்றுமையைப் பேணவும் இதுபோன்ற தெளிவான விளக்கங்கள் மிகவும் அவசியமானதாகக் கருதப்படுகிறது.",
-            "published": "2026-09-04T10:48:11+05:30"
           },
           {
             "title": "தண்டலம் பொறியியல் கல்லூரியில் மாணவியை தொடர்ந்து மாணவர் தற்கொலை முயற்சி! காலேஜுக்கு தொடர் விடுமுறை",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "அமெரிக்காவின் சக்திவாய்ந்த அணுசக்தியில் இயங்கும் விமானம் தாங்கிக் கப்பலான யுஎஸ்எஸ் அப்ரகாம் லிங்கன், சுமார் 250 நாட்கள் கடலிலேயே தங்கியிருந்த பிறகு தாய்லாந்தின் பட்டாயா துறைமுகத்தை வந்தடைந்துள்ளது. எந்தவிதமான இடைநிறுத்தமும் இன்றி நீண்ட காலம் கடலில் பயணம் செய்தது ஒரு வரலாற்றுச் சாதனையாகப் பார்க்கப்படுகிறது. இவ்வளவு நீண்ட காலம் கடற்பயணத்தில் ஈடுபட்டிருந்த கடற்படை வீரர்களுக்கு இது ஒரு தேவையான ஓய்வாக இருக்கும். கப்பலில் பணியாற்றும் ஆயிரக்கணக்கான வீரர்கள் நீண்ட இடைவெளிக்குப் பிறகு நிலத்திற்குத் திரும்புவது அவர்களுக்கு மன ரீதியாகவும் உடல் ரீதியாகவும் புத்துணர்ச்சியை அளிக்கும். இந்தத் தங்கலானாது கப்பலின் பராமரிப்புப் பணிகளுக்காகவும், வீரர்களின் ஓய்வுக்காகவும் மேற்கொள்ளப்பட்டுள்ளது. இத்தகைய நீண்ட கடல் பயணங்கள், அணுசக்தி மூலம் இயங்கும் கப்பல்களின் வலிமையையும், அமெரிக்க கடற்படையின் செயல்திறனையும் உலகிற்கு பறைசாற்றுகிறது. போர் பதற்றங்கள் அல்லது பாதுகாப்புப் பணிகளுக்காக இத்தகைய நீண்ட காலக் கண்காணிப்புகள் அவசியம் என்றாலும், வீரர்களின் நலன் கருதி இத்தகைய துறைமுக வருகைகள் திட்டமிடப்படுகின்றன. இந்த வருகை மூலம் தாய்லாந்து மற்றும் அமெரிக்காவிற்கு இடையிலான ராணுவ உறவுகள் மற்றும் நட்புறவு மேலும் வலுவடையும் என்று எதிர்பார்க்கப்படுகிறது. பட்டாயா மக்கள் இந்த வீரர்களை வரவேற்பதும், வீரர்களுக்குக் கிடைக்கும் ஓய்வும் ஒரு முக்கிய நிகழ்வாகப் பார்க்கப்படுகிறது.",
             "published": "2026-09-03T16:13:45+00:00"
-          },
-          {
-            "title": "நேபாள பேரழிவுக்கு சில நிபுணர்கள் ஏன் சீனாவை சுட்டிக்காட்டுகின்றனர்?",
-            "link": "https://www.bbc.com/tamil/articles/c2dw46p67y1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "நேபாளத்தில் சமீபத்தில் ஏற்பட்ட கடுமையான திடீர் வெள்ளப்பெருக்கு, இயற்கை சீற்றத்தினால் மட்டும் ஏற்படவில்லை என்று நிபுணர்கள் கருத்து தெரிவித்துள்ளனர். சுற்றுச்சூழல் ஆர்வலர்கள் மற்றும் பொருளாதார வல்லுநர்களின் கூற்றுப்படி, திபெத் எல்லைப்புறப் பகுதிகளில் சீனா முன்னெடுத்து வரும் பிரம்மாண்டமான உள்கட்டமைப்புத் திட்டங்களே இதற்கு முக்கியக் காரணமாகும். குறிப்பாக, இமயமலைப் பகுதிகளில் மேற்கொள்ளப்படும் ஆற்றுப் பாதை மாற்றங்கள் மற்றும் அணைக் கட்டுமானங்கள், நீரோட்டத்தின் தன்மையை முழுமையாக மாற்றி அமைத்துள்ளதாகக் குற்றம் சாட்டப்படுகிறது. காலநிலை மாற்றத்தினால் ஏற்படும் பாதிப்புகளை விட, இத்தகைய செயற்கையான உள்கட்டமைப்பு மாற்றங்களே இமயமலைப் பள்ளத்தாக்குகளில் வசிக்கும் மக்களின் வாழ்வாதாரத்தைப் பாதித்துள்ளது. சீனா தனது வளர்ச்சித் திட்டங்களுக்காக ஆற்று நீரின் போக்கைக் கட்டுப்படுத்துவது அல்லது திசை திருப்புவது, நேபாளத்தின் இயற்கைச் சூழலைச் சமநிலையற்றதாக மாற்றியுள்ளது. இந்தத் திட்டங்கள் குறித்த வெளிப்படைத்தன்மை இல்லாதது, அண்டை நாடுகளுக்கு பெரும் அச்சுறுத்தலாக மாறியுள்ளதாக நிபுணர்கள் எச்சரிக்கின்றனர். வெள்ளப்பெருக்கு மற்றும் நிலச்சரிவுகளால் நேபாளம் பெரும் உயிர் மற்றும் பொருட்சேதத்தைச் சந்தித்து வருகிறது. இந்தச் சிக்கலுக்குத் தீர்வு காண சர்வதேச அளவில் சுற்றுச்சூழல் தாக்கங்கள் குறித்து விரிவான ஆய்வுகள் மேற்கொள்ளப்பட வேண்டும் என வலியுறுத்தப்படுகிறது. நேபாளம் போன்ற நிலப்பரப்பில் இத்தகைய பெரும் கட்டுமானங்கள் விளைவிக்கும் பாதிப்புகள், சுற்றுச்சூழலின் முக்கியத்துவத்தை மீண்டும் ஒருமுறை உலகுக்கு உணர்த்தியுள்ளது.",
-            "published": "2026-09-03T15:08:46+00:00"
-          },
-          {
-            "title": "தவெகவில் இணைந்த இசக்கி சுப்பையா அதிமுக சார்பில் வென்ற எம்எல்ஏ பதவியை மீண்டும் கோருவது ஏன்?",
-            "link": "https://www.bbc.com/tamil/articles/crl6xypexj1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "தமிழக வெற்றிக் கழகத்தில் (தவெக) இணைந்த அதிமுகவின் ஆறு எம்எல்ஏக்களில், இசக்கி சுப்பையா மட்டும் தனது ராஜினாமா கடிதத்தை திரும்பப் பெறக் கோரிய விவகாரம் தற்போது அரசியல் வட்டாரங்களில் பெரும் விவாதத்தை ஏற்படுத்தியுள்ளது. அதிமுகவிலிருந்து விலகித் தவெகவில் சேர்ந்த பிறகு, தன் எம்எல்ஏ பதவியைத் தக்கவைத்துக் கொள்ள அவர் மேற்கொண்ட இந்த முயற்சிக்கு, சட்டப்பேரவை மற்றும் நீதிமன்றம் என இரு தரப்பிலும் பின்னடைவு ஏற்பட்டுள்ளது. பொதுவாக ஒரு அரசியல் கட்சியிலிருந்து விலகி மற்றொன்றில் இணையும்போது, கட்சித் தாவல் தடைச் சட்டத்தின் கீழ் பதவியை இழக்க நேரிடும் என்ற சூழலில், இசக்கி சுப்பையா தனது ராஜினாமா கடிதத்தை வாபஸ் பெற முயன்றது சட்ட ரீதியான சிக்கல்களை உருவாக்கியது. ஆனால், சட்டப்பேரவை மற்றும் நீதிமன்றம் அவரது மனுவை நிராகரித்ததன் மூலம், அரசியல் சட்ட நெறிமுறைகளின்படி அவரது பதவி தொடர்பான முடிவுகள் உறுதி செய்யப்பட்டுள்ளன. இந்த நிகழ்வு தவெக கட்சியின் வளர்ச்சி மற்றும் அதன் உறுப்பினர்களின் அரசியல் நிலைப்பாடு குறித்து பல்வேறு கேள்விகளை எழுப்பியுள்ளது. ஒரு எம்எல்ஏ தனது பதவியை விட்டு விலகி புதிய கட்சியில் சேரும்போது, அது தொகுதி மக்களின் உரிமையையும், ஜனநாயக விழுமியங்களையும் எவ்வாறு பாதிக்கிறது என்பதையும் இந்த விவகாரம் சுட்டிக்காட்டுகிறது. இசக்கி சுப்பையாவின் இந்த நகர்வு, தேர்தல் அரசியலில் திடீர் மாற்றங்களைச் சந்திக்கும் அரசியல்வாதிகளுக்கு ஒரு பாடமாக அமைந்துள்ளது. சட்ட ரீதியாக தகுதியற்றதாகக் கருதப்பட்ட இந்த மனு நிராகரிக்கப்பட்டது, ஜனநாயக நடைமுறைகளின் மேலாதிக்கத்தை நிலைநாட்டியுள்ளது. தவெகவின் எதிர்கால பயணத்தில் இதுபோன்ற சட்டச் சிக்கல்கள் எந்த மாதிரியான தாக்கத்தை ஏற்படுத்தும் என்பதுதான் தற்போது அனைவரின் கவனத்தையும் ஈர்த்துள்ளது.",
-            "published": "2026-09-03T13:20:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఆధునిక ఇంజనీర్లకు సవాల్.. శేషాచలం అడవుల్లో ‘స్టోన్ అక్విడక్ట్స్’",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/seshachalam-forests-hide-ancient-stone-aqueducts-that-challenge-modern-engineering-504741.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-04T13:22:26+05:30"
+          },
+          {
+            "title": "చైనాను చూసి నేర్చుకోవాల్సిందే.. మన సంస్కృతి మారాల్సిందే!",
+            "link": "https://telugu.oneindia.com/news/international/who-are-our-true-heroes-why-india-needs-china-style-public-displays-celebrating-scientists-today-504739.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-04T13:05:12+05:30"
+          },
+          {
             "title": "ఏపీలో నిరుద్యోగ యువతకు 4 లక్షల సబ్సిడీతో కొత్త పథకం.. త్వరపడండి!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/generic-medical-shops-with-subsidy-ap-launches-new-self-employment-scheme-for-bc-unemployed-youth-504737.html",
             "source": "Oneindia Telugu",
@@ -1084,6 +1098,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-04T12:54:39+05:30"
+          },
+          {
+            "title": "Konda Surekha: త్వరలో బిగ్‌ అప్‌డేట్‌: కొండా సురేఖ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE13UERhY0NNVVRjd0dEanB6NFluVE51X1VIVEIwTEFUM0I4dTZQRnlpdDRjeU84RWEzdGtIbmxTdEdUSEVjZEZiWV9TdXpiZ2lsdHFlc0ZldnhhcUhvU2hOU0FRRnB6ZVhuM3ZYMFFBUlYzNU1FQW1FcElnbjZ4ZUwzXzRsNXFsSXg3eWppTXZ0cm1sNXNHatIBmAFBVV95cUxNNE13UERhY0NNVVRjd0dEanB6NFluVE51X1VIVEIwTEFUM0I4dTZQRnlpdDRjeU84RWEzdGtIbmxTdEdUSEVjZEZiWV9TdXpiZ2lsdHFlc0ZldnhhcUhvU2hOU0FRRnB6ZVhuM3ZYMFFBUlYzNU1FQW1FcElnbjZ4ZUwzXzRsNXFsSXg3eWppTXZ0cm1sNXNHag?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-04T07:15:43+00:00"
           },
           {
             "title": "కొండా సురేఖ సంచలన ప్రకటన - కాంగ్రెస్ లో కొనసాగుతానని చెప్పిన గంటల్లోనే...!!",
@@ -1121,13 +1142,6 @@
             "published": "2026-09-04T12:11:24+05:30"
           },
           {
-            "title": "Indigo: పార్క్‌ చేస్తుండగా.. స్తంభాన్ని ఢీకొన్న ఇండిగో విమానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUZJMWstSHhscTg0M2xtM1V5bTA2bVUyZUxmMG1rMVdNNERob2RETmhTZ1FFMmtIME04d2VBVF9FMFNXRGVjeTh4bkhwdmF5MDU5WVJKRlEyWV9YdWhEWXZwS0lhN2doNXk5bVIwYjNNWm1mdmtWd2pxYWoyZlNORVJNME1BOEVvNjhfVTBlRHBiTG5hNUNORlBMQTU2YnZMS3RUc2xVVDY4bEozSC1raUNxONIBswFBVV95cUxQdUZJMWstSHhscTg0M2xtM1V5bTA2bVUyZUxmMG1rMVdNNERob2RETmhTZ1FFMmtIME04d2VBVF9FMFNXRGVjeTh4bkhwdmF5MDU5WVJKRlEyWV9YdWhEWXZwS0lhN2doNXk5bVIwYjNNWm1mdmtWd2pxYWoyZlNORVJNME1BOEVvNjhfVTBlRHBiTG5hNUNORlBMQTU2YnZMS3RUc2xVVDY4bEozSC1raUNxOA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T06:40:00+00:00"
-          },
-          {
             "title": "ఏంటి మాకు ఈ షాకులు ?- ఏపీ సర్కార్ లెక్కలపై జగన్ ట్వీట్..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-slams-ap-government-over-82-1-literacy-claim-alleges-misinformation-propaganda-504715.html",
             "source": "Oneindia Telugu",
@@ -1140,20 +1154,6 @@
             "source": "BBC Telugu",
             "summary": "నేపాల్‌లో సంభవించిన భారీ వరదలు, ప్రకృతి వైపరీత్యాల సమయంలో మన ఆర్మీ చేసిన సాహసోపేతమైన కృషిని ప్రపంచం మెచ్చుకుంటోంది. దాదాపు 9 రోజుల పాటు సొరంగంలో చిక్కుకుపోయిన ఇద్దరు వ్యక్తులను నేపాల్ ఆర్మీ, సహాయక సిబ్బంది సజీవంగా కాపాడారు. సంజయ్ షా మరియు కబీర్ మహర్జన్ అనే వ్యక్తులు సొరంగంలో ప్రాణాలతో బయటపడటంతో సహాయక సిబ్బంది ఆనందంతో హర్షధ్వానాలు చేశారు. ప్రాజెక్ట్ వద్ద మెకానికల్ ఫోర్‌మన్‌గా పనిచేస్తున్న సంజయ్ షాను మొదటగా రక్షించగా, ఆ తర్వాత మెకానికల్ సూపర్‌వైజర్ కబీర్ మహార్జన్‌ను క్షేమంగా బయటకు తీసుకువచ్చారు. 9 రోజుల పాటు చీకటి సొరంగంలో, ఆహారం మరియు నీరు లేక ఇబ్బందులు పడిన వీరిని రక్షించడం ఒక అద్భుతమని అందరూ కొనియాడుతున్నారు. ఈ ఘటనపై నేపాల్‌తో పాటు అంతర్జాతీయంగా ప్రశంసలు వెల్లువెత్తుతున్నాయి. ప్రకృతి విపత్తుల సమయంలో ప్రాణాలకు తెగించి సహాయక చర్యల్లో పాల్గొనే సిబ్బంది సేవలు వెలకట్టలేనివి. ఈ ఇద్దరు వ్యక్తుల ప్రాణాలను కాపాడిన ఆర్మీ మరియు సహాయక బృందాల సమయస్ఫూర్తిని, వారి కష్టాన్ని స్థానికులు ప్రశంసిస్తున్నారు. అసాధ్యమనుకున్న పనిని వారు సుసాధ్యం చేసి, ఆ కుటుంబాలకు ఆనందాన్ని పంచారు. ఈ ఘటన ప్రకృతి విపత్తుల్లో మనిషి పట్టుదలకు నిదర్శనంగా నిలిచింది.",
             "published": "2026-09-04T06:11:46+00:00"
-          },
-          {
-            "title": "అద్భుతం: మృత్యుంజయులు అంటే వీళ్లే.. 9 రోజుల తర్వాత టన్నెల్ నుంచి బయటికి!",
-            "link": "https://telugu.oneindia.com/news/international/miracle-in-nepal-floods-two-workers-rescued-alive-from-hydropower-tunnel-after-9-days-underground-504711.html",
-            "source": "Oneindia Telugu",
-            "summary": "నేపాల్‌లోని ఒక జలవిద్యుత్ ప్రాజెక్టు టన్నెల్‌లో జరిగిన ప్రమాదం ప్రపంచవ్యాప్తంగా అందరినీ దిగ్భ్రాంతికి గురిచేసింది. భారీ వరదల కారణంగా ఒక్కసారిగా నీరు, మట్టి టన్నెల్‌లోకి ప్రవేశించడంతో అక్కడ పనిచేస్తున్న ఇద్దరు కార్మికులు లోపలే చిక్కుకుపోయారు. దాదాపు తొమ్మిది రోజుల పాటు వారు మృత్యువుతో పోరాడుతూ బయటపడిన తీరు నిజంగా ఒక అద్భుతమని చెప్పవచ్చు. సాధారణంగా ఇలాంటి విపత్తుల్లో మనుషులు ప్రాణాలతో బయటపడటం చాలా కష్టమని భావిస్తారు, కానీ పట్టుదలతో సాగిన రెస్క్యూ ఆపరేషన్ వారిని సురక్షితంగా బయటకు తీసుకురాగలిగింది. ఈ ఘటన ఆ కార్మికుల మనోధైర్యానికి, రెస్క్యూ టీమ్ సమర్థతకు నిదర్శనంగా నిలిచింది. ఇన్ని రోజుల పాటు ఆహారం, నీరు లేకుండా చీకటి టన్నెల్‌లో వారు ఎలా మనుగడ సాగించారనేది ఇప్పుడు చర్చనీయాంశమైంది. ఈ సంఘటన జలవిద్యుత్ ప్రాజెక్టులలో భద్రతా ప్రమాణాల గురించి మరోసారి తీవ్రమైన ప్రశ్నలను లేవనెత్తుతోంది. ఎటువంటి ప్రమాదాలు జరగకుండా ముందస్తు చర్యలు తీసుకోవాల్సిన ఆవశ్యకతను ఈ ఘటన గుర్తుచేస్తోంది. ప్రాణాలతో బయటపడిన ఆ ఇద్దరు కార్మికులు ఇప్పుడు క్షేమంగా ఉన్నారనే వార్త వారి కుటుంబ సభ్యులకు ఎంతో ఊరటనిచ్చింది. ప్రకృతి ప్రకోపానికి మనుషులు చిక్కుకున్నా, ప్రాణం దక్కించుకోగలిగారంటే అది అసాధారణమైన విషయమే అని స్థానికులు భావిస్తున్నారు.",
-            "published": "2026-09-04T11:21:08+05:30"
-          },
-          {
-            "title": "పిఠాపురం ఆడపడుచులకు పవన్ కళ్యాణ్ శ్రావణ మాస కానుక..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/pawan-kalyan-distributes-sravana-month-gifts-to-10-000-women-in-his-constituency-details-here-504709.html",
-            "source": "Oneindia Telugu",
-            "summary": "పిఠాపురం నియోజకవర్గంలో పవన్ కళ్యాణ్ తన ఉదారతను మరోసారి చాటుకున్నారు. శ్రావణ మాసం సందర్భంగా సుమారు 10 వేల మంది మహిళలకు ఆయన ప్రత్యేక కానుకలను అందజేయడం స్థానికంగా చర్చనీయాంశమైంది. భారతీయ సంస్కృతిలో శ్రావణ మాసానికి విశేష ప్రాముఖ్యత ఉంది, ఈ సమయంలో మహిళలకు చీరలు, పసుపు, కుంకుమలను బహుకరించడం చాలా శుభప్రదంగా భావిస్తారు. పవన్ కళ్యాణ్ తీసుకున్న ఈ నిర్ణయం నియోజకవర్గంలోని మహిళల పట్ల ఆయనకు ఉన్న గౌరవాన్ని సూచిస్తోంది. ఈ కార్యక్రమం ద్వారా ఆయన స్థానిక ఆడపడుచులతో నేరుగా మమేకమయ్యే ప్రయత్నం చేశారు. రాజకీయాలకు అతీతంగా ఇలాంటి సామాజిక కార్యక్రమాలు చేయడం వల్ల ప్రజల హృదయాల్లో నిలిచిపోవచ్చని ఆయన భావిస్తున్నట్లు కనిపిస్తోంది. భారీ సంఖ్యలో మహిళలు ఈ కార్యక్రమంలో పాల్గొనడంతో అక్కడ పండుగ వాతావరణం నెలకొంది. ఈ రకమైన సేవా కార్యక్రమాలు నియోజకవర్గ అభివృద్ధికి, ప్రజల మద్దతును కూడగట్టడానికి ఎంతగానో దోహదపడతాయి. ముఖ్యంగా గ్రామీణ ప్రాంతాల మహిళలకు ఇలాంటి కానుకలు అందించడం ద్వారా వారి జీవన విధానంలో చిన్నపాటి సంతోషాన్ని నింపే ప్రయత్నం చేశారు. పవన్ కళ్యాణ్ అనుచరులు, పార్టీ శ్రేణులు ఈ కార్యక్రమాన్ని ప్రతిష్టాత్మకంగా నిర్వహించడంతో, ఇది రాజకీయంగా కూడా కీలకమైన చర్చకు దారితీసింది.",
-            "published": "2026-09-04T11:16:43+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಒಂದೇ ದಿನ ಇಷ್ಟೆಲ್ಲಾ ಹೊಸ ವಿಶ್ವದಾಖಲೆಗಳು ಆದ್ವಾ? ಅಬ್ಬಾ ಎಂದ ಟೀಮ್ ಇಂಡಿಯಾ ಉಪನಾಯಕಿ ಸ್ಮೃತಿ ಮಂಧನಾ",
+            "link": "https://kannada.oneindia.com/news/sports/smriti-mandhana-historic-achievement-her-big-statement-after-breaking-three-records-in-asia-cup-466793.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-04T13:25:37+05:30"
+          },
+          {
             "title": "Scientists cutouts: ಚೀನಾದಲ್ಲಿ ಶುರುವಾಯ್ತು ವಿಜ್ಞಾನಿಗಳ ಕಟೌಟ್‌ ಟ್ರೆಂಡ್‌! ನಮ್ಮಲ್ಲೂ ಈ ಥರ ಕಟೌಟ್‌ ಹಾಕಬಾರದೇಕೆ?",
             "link": "https://kannada.oneindia.com/news/international/scientists-cutouts-beyond-film-stars-and-politicians-why-india-should-celebrate-scientists-in-publ-466789.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ರಾಜ್ಯ ರಾಜಕೀಯದಲ್ಲಿ ಆಡಳಿತ ಪಕ್ಷ ಮತ್ತು ವಿರೋಧ ಪಕ್ಷದ ನಡುವಿನ ಆರೋಪ-ಪ್ರತ್ಯಾರೋಪಗಳು ಜೋರಾಗಿವೆ. ಇತ್ತೀಚೆಗೆ ವಿರೋಧ ಪಕ್ಷದ ನಾಯಕ ಆರ್. ಅಶೋಕ್ ಅವರು ಡಿಸಿಎಂ ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್ ಅವರನ್ನು 'ಯು-ಟರ್ನ್ ಸಿಎಂ' ಎಂದು ಸಂಬೋಧಿಸಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಸರ್ಕಾರದ ನಿರ್ಧಾರಗಳು ಅಥವಾ ಹೇಳಿಕೆಗಳು ಆಗಾಗ ಬದಲಾಗುತ್ತಿರುವುದನ್ನು ಅಥವಾ ತಾವು ತೆಗೆದುಕೊಂಡ ನಿರ್ಧಾರದಿಂದ ಹಿಂದೆ ಸರಿಯುತ್ತಿರುವುದನ್ನು ಗುರಿಯಾಗಿಟ್ಟುಕೊಂಡು ಈ ರೀತಿ ಟೀಕಿಸಲಾಗಿದೆ. ರಾಜಕೀಯದಲ್ಲಿ ಇಂತಹ ಟೀಕೆಗಳು ಸಹಜವಾಗಿದ್ದರೂ, ವಿರೋಧ ಪಕ್ಷವು ಪ್ರಸ್ತುತ ಸರ್ಕಾರದ ಕಾರ್ಯವೈಖರಿ ಮತ್ತು ನಿರ್ಧಾರಗಳ ಬಗ್ಗೆ ಸಾರ್ವಜನಿಕವಾಗಿ ಪ್ರಶ್ನಿಸುತ್ತಿದೆ. ಡಿ.ಕೆ. ಶಿವಕುಮಾರ್ ಅವರ ಕೆಲವು ನೀತಿಗಳು ಅಥವಾ ಹೇಳಿಕೆಗಳು ವಿರೋಧ ಪಕ್ಷದ ಅಸಮಾಧಾನಕ್ಕೆ ಕಾರಣವಾಗಿರಬಹುದು ಎಂದು ರಾಜಕೀಯ ವಿಶ್ಲೇಷಕರು ಅಭಿಪ್ರಾಯಪಡುತ್ತಾರೆ. ಸರ್ಕಾರಿ ಮಟ್ಟದ ಜವಾಬ್ದಾರಿಯುತ ಸ್ಥಾನದಲ್ಲಿ ಇರುವಾಗ ಇಂತಹ ಟೀಕೆಗಳಿಗೆ ಉತ್ತರಿಸುವುದು ಅನಿವಾರ್ಯವಾಗುತ್ತದೆ. ಆರ್. ಅಶೋಕ್ ಅವರ ಈ ಹೇಳಿಕೆಯು ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಮತ್ತು ರಾಜಕೀಯ ವಲಯದಲ್ಲಿ ಭಾರಿ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಇದು ರಾಜ್ಯದ ಆಡಳಿತಾರೂಢ ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷದ ವಿರುದ್ಧ ಬಿಜೆಪಿಯು ನಡೆಸುತ್ತಿರುವ ತೀವ್ರ ಹೋರಾಟದ ಒಂದು ಭಾಗವಾಗಿದೆ. ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಈ ಆರೋಪಗಳು ರಾಜ್ಯದ ರಾಜಕೀಯ ಸಮೀಕರಣಗಳ ಮೇಲೆ ಯಾವ ರೀತಿ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ ಎಂಬುದನ್ನು ಕಾದು ನೋಡಬೇಕಿದೆ.",
             "published": "2026-09-03T23:22:08+05:30"
-          },
-          {
-            "title": "Karnataka Dam Water Level Sep 3: ರಾಜ್ಯದ ಪ್ರಮುಖ ಜಲಾಶಯಗಳಲ್ಲಿ ನೀರಿನ ಮಟ್ಟ ಎಷ್ಟು? ಇಲ್ಲಿದೆ ಸಂಪೂರ್ಣ ವಿವರ",
-            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-dam-water-level-sep-3-check-water-levels-of-major-reservoirs-across-karnataka-including-k-466759.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಇರುವ ಪ್ರಮುಖ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟವು ಸೆಪ್ಟೆಂಬರ್ 3ರಂದು ಯಾವ ಸ್ಥಿತಿಯಲ್ಲಿದೆ ಎಂಬ ವಿವರಗಳನ್ನು ಇಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ರಾಜ್ಯದಲ್ಲಿ ಉತ್ತಮ ಮಳೆಯಾದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಜಲಾಶಯಗಳು ತುಂಬಿದ್ದು, ಇದು ಕೃಷಿ ಮತ್ತು ಕುಡಿಯುವ ನೀರಿನ ಸಮಸ್ಯೆಗಳಿಗೆ ದೊಡ್ಡ ಮಟ್ಟದ ಪರಿಹಾರವನ್ನು ಒದಗಿಸಿದೆ. ಕಾವೇರಿ, ಕೃಷ್ಣಾ ಮತ್ತು ತುಂಗಭದ್ರಾ ನದಿ ಪಾತ್ರಗಳಲ್ಲಿರುವ ಪ್ರಮುಖ ಅಣೆಕಟ್ಟುಗಳಲ್ಲಿನ ನೀರಿನ ಸಂಗ್ರಹದ ಕುರಿತು ರೈತರು ಮತ್ತು ಸಾರ್ವಜನಿಕರಲ್ಲಿ ಕುತೂಹಲವಿರುವುದು ಸಹಜ. ಪ್ರತಿದಿನ ಬದಲಾಗುವ ನೀರಿನ ಮಟ್ಟವು ರಾಜ್ಯದ ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆ ಮತ್ತು ನೀರಾವರಿ ಯೋಜನೆಗಳ ಮೇಲೆ ನೇರ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ. ಪ್ರಸ್ತುತ ಮಾಹಿತಿಯ ಪ್ರಕಾರ, ಹೆಚ್ಚಿನ ಜಲಾಶಯಗಳು ಗರಿಷ್ಠ ಮಟ್ಟದತ್ತ ಸಾಗುತ್ತಿರುವುದು ರಾಜ್ಯಕ್ಕೆ ಶುಭ ಸುದ್ದಿಯಾಗಿದೆ. ಜಲಾಶಯಗಳ ಸುರಕ್ಷತೆ ಮತ್ತು ನೀರಿನ ಬಳಕೆಯ ಬಗ್ಗೆ ಸರ್ಕಾರವು ನಿಯಮಿತವಾಗಿ ಗಮನ ಹರಿಸುತ್ತಿದ್ದು, ಅಧಿಕಾರಿಗಳು ನಿರಂತರವಾಗಿ ನೀರಿನ ಪ್ರಮಾಣವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟದ ಸರಿಯಾದ ಅರಿವು ರೈತರಿಗೆ ತಮ್ಮ ಬೆಳೆಗಳ ನಿರ್ವಹಣೆಗೆ ಮತ್ತು ರಾಜ್ಯದ ಜನತೆಗೆ ನೀರಿನ ವಿತರಣೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನೆರವಾಗುತ್ತದೆ. ಈ ಮಾಹಿತಿಯು ರಾಜ್ಯದ ಜಲ ಸಂಪನ್ಮೂಲಗಳ ಸ್ಥಿತಿಗತಿಯ ಬಗ್ಗೆ ಸ್ಪಷ್ಟ ಚಿತ್ರಣವನ್ನು ಒದಗಿಸುವುದರಿಂದ, ಜನರು ಮತ್ತು ಸಂಬಂಧಪಟ್ಟ ಇಲಾಖೆಗಳು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗುತ್ತದೆ.",
-            "published": "2026-09-03T22:38:42+05:30"
           }
         ],
         "Entertainment": [
