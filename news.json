@@ -1,196 +1,203 @@
 {
-  "updated_at": "2026-09-04T05:31:16.025751+00:00",
+  "updated_at": "2026-09-04T06:01:34.652094+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "published": "2026-09-04T05:59:10+00:00"
+          },
+          {
+            "title": "Nepal floods: Centre to offer DNA profiling services for first-degree relatives of missing persons",
+            "link": "https://www.thehindu.com/news/national/nepal-floods-centre-to-offer-dna-profiling-services-for-first-degree-relatives-of-missing-persons/article71427144.ece",
+            "source": "The Hindu",
+            "summary": "The death toll from last week's flash floods in Nepal has risen to at least 1,259 after rescue workers recovered more bodies from affected areas, according to Nepalese authorities",
+            "published": "2026-09-04T11:23:47+05:30"
+          },
+          {
+            "title": "'It's just the start' - Mandhana after record-breaking night",
+            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The India vice-captain 'never imagined' she would one day go past Mithali Raj's record of most runs in women's internationals",
+            "published": "2026-09-04T05:53:02+00:00"
+          },
+          {
+            "title": "Would you lie to get a birthday freebie?",
+            "link": "https://www.bbc.co.uk/news/videos/cq637lp0q3zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "We ask people in London if they would fib about their birthday to get a free treat from a shop or restaurant.",
+            "published": "2026-09-04T05:52:58+00:00"
+          },
+          {
+            "title": "The Bhotekoshi flood | A Himalayan tragedy",
+            "link": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+            "source": "The Hindu",
+            "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+            "published": "2026-09-04T11:19:22+05:30"
+          },
+          {
+            "title": "State leaderships to resolve deputy LoP issue, no need for our intervention: CPI(M) gen secy",
+            "link": "https://www.hindustantimes.com/india-news/state-leaderships-to-resolve-deputy-lop-issue-no-need-for-our-intervention-cpi-m-gen-secy-101788500667702.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-04T11:14:27+05:30"
+          },
+          {
+            "title": "Phuket-Delhi turbulence: Air India pilot found ‘non-negative’ for psychoactive substance",
+            "link": "https://www.hindustantimes.com/india-news/phuketdelhi-turbulence-air-india-pilot-found-non-negative-for-psychoactive-substance-101788500599048.html",
+            "source": "Hindustan Times",
+            "summary": "Phuket-Delhi turbulence: Pilot found ‘non-negative’ for psychoactive substance",
+            "published": "2026-09-04T11:14:00+05:30"
+          },
+          {
+            "title": "Fading fear of HIV puts focus on rising STI risks among youth in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-youth-in-keralam/article71424304.ece",
+            "source": "The Hindu",
+            "summary": "The virus no longer carries the deterrent power it once did, but changing sexual behaviour is putting young people at risk of other sexually transmitted infections. The numbers seeking care at the 23 District STI/RTI Centres under the Kerala State AIDS Control Society have been rising steadily",
+            "published": "2026-09-04T11:13:43+05:30"
+          },
+          {
+            "title": "Nepal floods: DNA samples of kin of Vidisha engineer, two workers to be collected",
+            "link": "https://www.hindustantimes.com/india-news/nepal-floods-dna-samples-of-kin-of-vidisha-engineer-two-workers-to-be-collected-101788500610680.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-04T11:13:30+05:30"
+          },
+          {
+            "title": "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal",
+            "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/encroacher-remark-hangs-over-yusuf-pathan-as-former-india-cricketer-turned-politician-withdraws-gujarat-high-court-appeal-over-vadodara-land-dispute-case-explained/articleshow/133752727.cms",
+            "source": "Times of India",
+            "summary": "In a recent legal development, former cricketer Yusuf Pathan decided to withdraw his appeal challenging a court's designation of him as an encroacher on government property in Vadodara. His lawyer indicated that they are relying on state government policy for their claim. The Gujarat High Court dismissed the appeal as withdrawn on Monday, but Pathan is determined to seek resolution outside of legal proceedings.",
+            "published": "2026-09-04T11:13:27+05:30"
+          },
+          {
+            "title": "Discontinue personality test in KPSC recruitment: Congress leader",
+            "link": "https://www.thehindu.com/news/national/karnataka/discontinue-personality-test-in-kpsc-recruitment-congress-leader/article71425309.ece",
+            "source": "The Hindu",
+            "summary": "Union Government has abolished interview for Group B, C and D posts, says Congress vice-president S.A. Hussain",
+            "published": "2026-09-04T11:13:13+05:30"
+          },
+          {
             "title": "Shanaka slams fastest CPL ton for massive Patriots win",
             "link": "https://www.cricinfo.com/ci/content/story/1552753.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "St Lucia Kings were wrapped up for just 98 in reply to St Kitts and Nevis Patriots' 235 after Jeremiah Louis' maiden T20 five-for",
-            "published": "2026-09-04T05:24:25+00:00"
+            "published": "2026-09-04T05:43:07+00:00"
           },
           {
-            "title": "2 Rescued Alive From Hydropower Tunnel 9 Days After Nepal Floods",
-            "link": "https://www.ndtv.com/world-news/2-rescued-alive-from-hydropower-tunnel-9-days-after-nepal-floods-report-12000427#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Nepal Flood Rescue: About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.",
-            "published": "2026-09-04T10:54:18+05:30"
-          },
-          {
-            "title": "Anti-national forces harming India's unity will face consequences: Adityanath",
-            "link": "https://www.hindustantimes.com/india-news/antinational-forces-harming-india-s-unity-will-face-consequences-adityanath-101788499324400.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-04T10:52:03+05:30"
-          },
-          {
-            "title": "IndiGo flight from Navi Mumbai hits pole at Srinagar airport during landing",
-            "link": "https://timesofindia.indiatimes.com/india/indigo-flight-from-navi-mumbai-hits-pole-at-srinagar-airport-during-landing/articleshow/133752700.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T10:51:04+05:30"
-          },
-          {
-            "title": "IndiGo Plane Hits Pole During Parking Process At Srinagar Airport",
-            "link": "https://www.ndtv.com/india-news/indigo-plane-hit-a-pole-during-parking-process-at-srinagar-airport-12000622#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Passengers and crew were safely deboarded using manual aircraft stairs.",
-            "published": "2026-09-04T10:50:09+05:30"
-          },
-          {
-            "title": "Hyderabad on new growth orbit",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-on-new-growth-orbit/article71424590.ece",
+            "title": "ISRO successfully launches Earth observation satellite EOS-05",
+            "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
             "source": "The Hindu",
-            "summary": "In the recent years, the city has emerged as preferred destination for Global Capability Centres, creating value across IT, R&D, customer support operations and intellectual property-related functions",
-            "published": "2026-09-04T10:49:35+05:30"
-          },
-          {
-            "title": "North Dakota ranch restores 270 acres to native grass as beavers return",
-            "link": "https://timesofindia.indiatimes.com/world/us/in-1973-a-north-dakota-couple-bought-a-4800-acre-ranch-getting-just-10-inches-of-rain-a-year-53-years-later-beavers-are-back-and-270-acres-are-being-restored-to-native-grass/articleshow/133751638.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T10:47:59+05:30"
-          },
-          {
-            "title": "Hyderabad’s art scene is finding new ways to make itself seen",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-art-scene-is-finding-new-ways-to-make-itself-seen/article71403866.ece",
-            "source": "The Hindu",
-            "summary": "How a city with no art ecosystem is slowly and steadily nurturing a vibrant world balancing the regional identity while engaging with a globalised art world",
-            "published": "2026-09-04T10:46:12+05:30"
+            "summary": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+            "published": "2026-09-04T11:08:57+05:30"
           },
           {
             "title": "‘Reimagining Keralam’: Council of Ministers attend two-day strategic leadership retreat at IIM-K",
             "link": "https://www.thehindu.com/news/national/kerala/reimagining-keralam-council-of-ministers-attend-two-day-strategic-leadership-retreat-at-iim-k/article71427033.ece",
             "source": "The Hindu",
             "summary": "Chief Minister V.D. Satheesan light the traditional lamp marking the beginning of two-day workshop led by IIM-K faculty members and experts from international institutions for discussions on issues ranging from AI and climate resilience to public health, ageing, employment, higher education and fiscal sustainability",
-            "published": "2026-09-04T10:45:34+05:30"
-          },
-          {
-            "title": "The Hyderabad that was, and the city it is now",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/the-hyderabad-that-was-and-the-city-it-is-now/article71424311.ece",
-            "source": "The Hindu",
-            "summary": "Once a city of leisurely chai, neighbourhood cinema halls, street-corner conversations and the twin cities, Hyderabad has changed almost beyond recognition. Over five decades, tech, infrastructure, migration and enterprise have transformed its physical and economic landscape. From the first stirrings of computing to AI, GCCs and towering business districts, the city has reinvented itself",
-            "published": "2026-09-04T10:45:23+05:30"
-          },
-          {
-            "title": "Farmers’ union to mobilise one million ‘swayamsevaks’ to fight trade deals",
-            "link": "https://www.thehindu.com/news/national/farmers-union-to-mobilise-one-million-swayamsevaks-to-fight-trade-deals/article71425157.ece",
-            "source": "The Hindu",
-            "summary": "SKM leaders said delegations have met more than 100 Ministers, MPs, and MLAs across the country with a charter of demands that includes cancellation of all FTAs",
-            "published": "2026-09-04T10:41:45+05:30"
-          },
-          {
-            "title": "No shelter or water, yet Lebanese return home, defying Israel.",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Residents are returning to villages in southern Lebanon devastated by Israel’s invasion.",
-            "published": "2026-09-04T05:11:11+00:00"
-          },
-          {
-            "title": "From 'dog fruit' to darling: India's avocado boom",
-            "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-            "published": "2026-09-04T05:09:02+00:00"
-          },
-          {
-            "title": "Jio launches JioPC with up to 16GB RAM, 1TB storage; starts at Rs 1,000",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/reliance-jio-launches-jiopc-offering-up-to-16gb-ram-and-1tb-storage-price-starts-at-rs-1000/articleshow/133752522.cms",
-            "source": "Times of India",
-            "summary": "Reliance Jio launched JioPC, a cloud-based computing service. This service allows users to enhance their current computers without new hardware. JioPC offers up to 16GB RAM and 1TB storage through the cloud. The service is now available to anyone with an internet connection. It aims to extend the life of older computers for modern applications.",
-            "published": "2026-09-04T10:37:48+05:30"
+            "published": "2026-09-04T11:08:05+05:30"
           }
         ],
         "India": [
           {
-            "title": "2 Rescued Alive From Hydropower Tunnel 9 Days After Nepal Floods",
-            "link": "https://www.ndtv.com/world-news/2-rescued-alive-from-hydropower-tunnel-9-days-after-nepal-floods-report-12000427#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Nepal Flood Rescue: About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.",
-            "published": "2026-09-04T10:54:18+05:30"
+            "title": "Nepal floods: Centre to offer DNA profiling services for first-degree relatives of missing persons",
+            "link": "https://www.thehindu.com/news/national/nepal-floods-centre-to-offer-dna-profiling-services-for-first-degree-relatives-of-missing-persons/article71427144.ece",
+            "source": "The Hindu",
+            "summary": "The death toll from last week's flash floods in Nepal has risen to at least 1,259 after rescue workers recovered more bodies from affected areas, according to Nepalese authorities",
+            "published": "2026-09-04T11:23:47+05:30"
           },
           {
-            "title": "Anti-national forces harming India's unity will face consequences: Adityanath",
-            "link": "https://www.hindustantimes.com/india-news/antinational-forces-harming-india-s-unity-will-face-consequences-adityanath-101788499324400.html",
+            "title": "The Bhotekoshi flood | A Himalayan tragedy",
+            "link": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+            "source": "The Hindu",
+            "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+            "published": "2026-09-04T11:19:22+05:30"
+          },
+          {
+            "title": "State leaderships to resolve deputy LoP issue, no need for our intervention: CPI(M) gen secy",
+            "link": "https://www.hindustantimes.com/india-news/state-leaderships-to-resolve-deputy-lop-issue-no-need-for-our-intervention-cpi-m-gen-secy-101788500667702.html",
             "source": "Hindustan Times",
             "summary": "",
-            "published": "2026-09-04T10:52:03+05:30"
+            "published": "2026-09-04T11:14:27+05:30"
           },
           {
-            "title": "IndiGo flight from Navi Mumbai hits pole at Srinagar airport during landing",
-            "link": "https://timesofindia.indiatimes.com/india/indigo-flight-from-navi-mumbai-hits-pole-at-srinagar-airport-during-landing/articleshow/133752700.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-04T10:51:04+05:30"
+            "title": "Phuket-Delhi turbulence: Air India pilot found ‘non-negative’ for psychoactive substance",
+            "link": "https://www.hindustantimes.com/india-news/phuketdelhi-turbulence-air-india-pilot-found-non-negative-for-psychoactive-substance-101788500599048.html",
+            "source": "Hindustan Times",
+            "summary": "Phuket-Delhi turbulence: Pilot found ‘non-negative’ for psychoactive substance",
+            "published": "2026-09-04T11:14:00+05:30"
           },
           {
-            "title": "IndiGo Plane Hits Pole During Parking Process At Srinagar Airport",
-            "link": "https://www.ndtv.com/india-news/indigo-plane-hit-a-pole-during-parking-process-at-srinagar-airport-12000622#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Passengers and crew were safely deboarded using manual aircraft stairs.",
-            "published": "2026-09-04T10:50:09+05:30"
-          },
-          {
-            "title": "Hyderabad on new growth orbit",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-on-new-growth-orbit/article71424590.ece",
+            "title": "Fading fear of HIV puts focus on rising STI risks among youth in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-youth-in-keralam/article71424304.ece",
             "source": "The Hindu",
-            "summary": "In the recent years, the city has emerged as preferred destination for Global Capability Centres, creating value across IT, R&D, customer support operations and intellectual property-related functions",
-            "published": "2026-09-04T10:49:35+05:30"
+            "summary": "The virus no longer carries the deterrent power it once did, but changing sexual behaviour is putting young people at risk of other sexually transmitted infections. The numbers seeking care at the 23 District STI/RTI Centres under the Kerala State AIDS Control Society have been rising steadily",
+            "published": "2026-09-04T11:13:43+05:30"
           },
           {
-            "title": "North Dakota ranch restores 270 acres to native grass as beavers return",
-            "link": "https://timesofindia.indiatimes.com/world/us/in-1973-a-north-dakota-couple-bought-a-4800-acre-ranch-getting-just-10-inches-of-rain-a-year-53-years-later-beavers-are-back-and-270-acres-are-being-restored-to-native-grass/articleshow/133751638.cms",
-            "source": "Times of India",
+            "title": "Nepal floods: DNA samples of kin of Vidisha engineer, two workers to be collected",
+            "link": "https://www.hindustantimes.com/india-news/nepal-floods-dna-samples-of-kin-of-vidisha-engineer-two-workers-to-be-collected-101788500610680.html",
+            "source": "Hindustan Times",
             "summary": "",
-            "published": "2026-09-04T10:47:59+05:30"
+            "published": "2026-09-04T11:13:30+05:30"
           },
           {
-            "title": "Hyderabad’s art scene is finding new ways to make itself seen",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-art-scene-is-finding-new-ways-to-make-itself-seen/article71403866.ece",
+            "title": "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal",
+            "link": "https://timesofindia.indiatimes.com/sports/more-sports/others/encroacher-remark-hangs-over-yusuf-pathan-as-former-india-cricketer-turned-politician-withdraws-gujarat-high-court-appeal-over-vadodara-land-dispute-case-explained/articleshow/133752727.cms",
+            "source": "Times of India",
+            "summary": "In a recent legal development, former cricketer Yusuf Pathan decided to withdraw his appeal challenging a court's designation of him as an encroacher on government property in Vadodara. His lawyer indicated that they are relying on state government policy for their claim. The Gujarat High Court dismissed the appeal as withdrawn on Monday, but Pathan is determined to seek resolution outside of legal proceedings.",
+            "published": "2026-09-04T11:13:27+05:30"
+          },
+          {
+            "title": "Discontinue personality test in KPSC recruitment: Congress leader",
+            "link": "https://www.thehindu.com/news/national/karnataka/discontinue-personality-test-in-kpsc-recruitment-congress-leader/article71425309.ece",
             "source": "The Hindu",
-            "summary": "How a city with no art ecosystem is slowly and steadily nurturing a vibrant world balancing the regional identity while engaging with a globalised art world",
-            "published": "2026-09-04T10:46:12+05:30"
+            "summary": "Union Government has abolished interview for Group B, C and D posts, says Congress vice-president S.A. Hussain",
+            "published": "2026-09-04T11:13:13+05:30"
+          },
+          {
+            "title": "ISRO successfully launches Earth observation satellite EOS-05",
+            "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
+            "source": "The Hindu",
+            "summary": "The EOS-05 is India’s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
+            "published": "2026-09-04T11:08:57+05:30"
           },
           {
             "title": "‘Reimagining Keralam’: Council of Ministers attend two-day strategic leadership retreat at IIM-K",
             "link": "https://www.thehindu.com/news/national/kerala/reimagining-keralam-council-of-ministers-attend-two-day-strategic-leadership-retreat-at-iim-k/article71427033.ece",
             "source": "The Hindu",
             "summary": "Chief Minister V.D. Satheesan light the traditional lamp marking the beginning of two-day workshop led by IIM-K faculty members and experts from international institutions for discussions on issues ranging from AI and climate resilience to public health, ageing, employment, higher education and fiscal sustainability",
-            "published": "2026-09-04T10:45:34+05:30"
+            "published": "2026-09-04T11:08:05+05:30"
           },
           {
-            "title": "The Hyderabad that was, and the city it is now",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/the-hyderabad-that-was-and-the-city-it-is-now/article71424311.ece",
+            "title": "Hyderabad’s art scene is finding new ways to make itself seen",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-art-scene-is-finding-new-ways-to-make-itself-seen/article71403866.ece",
             "source": "The Hindu",
-            "summary": "Once a city of leisurely chai, neighbourhood cinema halls, street-corner conversations and the twin cities, Hyderabad has changed almost beyond recognition. Over five decades, tech, infrastructure, migration and enterprise have transformed its physical and economic landscape. From the first stirrings of computing to AI, GCCs and towering business districts, the city has reinvented itself",
-            "published": "2026-09-04T10:45:23+05:30"
+            "summary": "How a city with no art ecosystem is slowly and steadily nurturing a vibrant world balancing the regional identity while engaging with a globalised art world",
+            "published": "2026-09-04T11:00:59+05:30"
           },
           {
-            "title": "Farmers’ union to mobilise one million ‘swayamsevaks’ to fight trade deals",
-            "link": "https://www.thehindu.com/news/national/farmers-union-to-mobilise-one-million-swayamsevaks-to-fight-trade-deals/article71425157.ece",
+            "title": "Five decades, two landmarks, one evolving city",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/five-decades-two-landmarks-one-evolving-city/article71424329.ece",
             "source": "The Hindu",
-            "summary": "SKM leaders said delegations have met more than 100 Ministers, MPs, and MLAs across the country with a charter of demands that includes cancellation of all FTAs",
-            "published": "2026-09-04T10:41:45+05:30"
-          },
-          {
-            "title": "Jio launches JioPC with up to 16GB RAM, 1TB storage; starts at Rs 1,000",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/reliance-jio-launches-jiopc-offering-up-to-16gb-ram-and-1tb-storage-price-starts-at-rs-1000/articleshow/133752522.cms",
-            "source": "Times of India",
-            "summary": "Reliance Jio launched JioPC, a cloud-based computing service. This service allows users to enhance their current computers without new hardware. JioPC offers up to 16GB RAM and 1TB storage through the cloud. The service is now available to anyone with an internet connection. It aims to extend the life of older computers for modern applications.",
-            "published": "2026-09-04T10:37:48+05:30"
-          },
-          {
-            "title": "BLAs not responsible for verifying every detail in enumeration forms: Delhi HC",
-            "link": "https://www.thehindu.com/news/cities/Delhi/booth-level-agents-liable-only-for-verifiable-information-in-sir-delhi-high-court/article71422791.ece",
-            "source": "The Hindu",
-            "summary": "The judge passed the judgement on a petition by the Delhi Pradesh Congress Committee (DPCC) president Devender Yadav and the chairman of the DPCC’s booth management committee",
-            "published": "2026-09-04T10:36:41+05:30"
+            "summary": "Birla Mandir and The Hindu have witnessed Hyderabad’s remarkable transformation from neighbourhoods into a sprawling metropolis. From the temple, the skyline has risen and spread; through the newspaper’s pages, political upheavals, social change and the city’s economic reinvention have been recorded. Both remain enduring markers of the city’s journey",
+            "published": "2026-09-04T11:00:53+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+            "published": "2026-09-04T05:33:14+00:00"
+          },
           {
             "title": "No shelter or water, yet Lebanese return home, defying Israel.",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss",
@@ -199,7 +206,7 @@
             "published": "2026-09-04T05:11:11+00:00"
           },
           {
-            "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+            "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
             "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
@@ -267,16 +274,30 @@
             "source": "BBC World",
             "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
             "published": "2026-09-04T02:20:37+00:00"
-          },
-          {
-            "title": "Could robots be the future of theme parks?",
-            "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
-            "published": "2026-09-04T02:02:02+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "published": "2026-09-04T05:59:10+00:00"
+          },
+          {
+            "title": "Would you lie to get a birthday freebie?",
+            "link": "https://www.bbc.co.uk/news/videos/cq637lp0q3zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "We ask people in London if they would fib about their birthday to get a free treat from a shop or restaurant.",
+            "published": "2026-09-04T05:52:58+00:00"
+          },
+          {
+            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
+            "published": "2026-09-04T05:33:14+00:00"
+          },
           {
             "title": "From 'dog fruit' to darling: India's avocado boom",
             "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
@@ -285,7 +306,7 @@
             "published": "2026-09-04T05:09:02+00:00"
           },
           {
-            "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+            "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
             "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
@@ -304,13 +325,6 @@
             "source": "Economic Times",
             "summary": "Large-cap firms saw operating margins contract significantly year-on-year. Mid- and small-cap companies experienced lesser margin contractions amid rising costs. These smaller firms also achieved higher revenue and net profit growth rates. Large-cap companies reported modest net profit growth, the slowest in seven quarters. Overall, aggregate operating margins for India Inc. declined.",
             "published": "2026-09-04T07:32:26+05:30"
-          },
-          {
-            "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
-            "published": "2026-09-04T01:20:32+00:00"
           },
           {
             "title": "FPIs pump Rs 13,010 crore into Indian equities in second half of August",
@@ -346,29 +360,22 @@
             "source": "BBC Business",
             "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
             "published": "2026-09-03T23:41:49+00:00"
-          },
-          {
-            "title": "Is India's internet boom running into an undersea problem?",
-            "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-            "published": "2026-09-03T23:40:08+00:00"
-          },
-          {
-            "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
-            "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-            "published": "2026-09-03T23:25:45+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "'It's just the start' - Mandhana after record-breaking night",
+            "link": "https://www.cricinfo.com/ci/content/story/1552762.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The India vice-captain 'never imagined' she would one day go past Mithali Raj's record of most runs in women's internationals",
+            "published": "2026-09-04T05:53:02+00:00"
+          },
           {
             "title": "Shanaka slams fastest CPL ton for massive Patriots win",
             "link": "https://www.cricinfo.com/ci/content/story/1552753.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "St Lucia Kings were wrapped up for just 98 in reply to St Kitts and Nevis Patriots' 235 after Jeremiah Louis' maiden T20 five-for",
-            "published": "2026-09-04T05:24:25+00:00"
+            "published": "2026-09-04T05:43:07+00:00"
           },
           {
             "title": "Shubman Gill Turns Uncle For Virat Kohli's Son Akaay In Viral Reel, His Comment Stumps Everyone",
@@ -439,13 +446,6 @@
             "source": "NDTV Sports",
             "summary": "The transfers of Morocco midfielder Ayyoub Bouaddi from Lille to Manchester City for 100 million euros (85.6m pounds, $117m) and France winger Bradley Barcola from Paris Saint-Germain to Liverpool for a total of 145 million euros (124m pounds, $167m) captured many headlines.",
             "published": "2026-09-04T08:05:04+05:30"
-          },
-          {
-            "title": "World Cup Winner Marcos Llorente Retires From Spain Team",
-            "link": "https://sports.ndtv.com/football/world-cup-winner-marcos-llorente-retires-from-spain-team-11999876#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The 31-year-old right back, who has won 27 caps, said on Instagram that it was a \"very carefully considered\" personal decision.",
-            "published": "2026-09-04T07:55:22+05:30"
           }
         ],
         "Technology": [
@@ -543,6 +543,13 @@
             "published": "2026-09-04T00:19:53+00:00"
           },
           {
+            "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+            "link": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+            "published": "2026-09-03T23:00:34+00:00"
+          },
+          {
             "title": "Jive Bunny And The Mastermixers creator dies at 84",
             "link": "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Sheen was speaking ahead of his portrayal of Owain Glyndwr, the last Welsh-born Prince of Wales.",
             "published": "2026-09-03T05:04:19+00:00"
-          },
-          {
-            "title": "Watch: From Star Wars to Banksy, the art is with you at new Lucas Museum",
-            "link": "https://www.bbc.co.uk/news/videos/cg59d9dyn46o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The museum, founded Star Wars creator George Lucas and his wife, will feature more than 1,200 works of art.",
-            "published": "2026-09-03T01:04:16+00:00"
           }
         ]
       }
@@ -627,8 +627,36 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "CJP का आज पार्लियामेंट स्ट्रीट थाने तक मार्च:कार्यकर्ता के पिता पर अटैक के लिए न्याय की मांग, आरोपी खुद बोला- मैंने जानलेवा हमला किया",
-            "link": "https://www.bhaskar.com/national/news/cockroach-party-march-parliament-street-justice-nishu-azad-138926728.html",
+            "title": "गैर-भाजपा शासित राज्यों में Adani Group का बड़ा दांव: ₹5 लाख करोड़ का निवेश पाइपलाइन, किस राज्य को क्या मिलेगा",
+            "link": "https://hindi.oneindia.com/news/business/adani-group-investment-non-bjp-states-5-lakh-crore-infrastructure-projects-1642081.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-04T11:14:26+05:30"
+          },
+          {
+            "title": "कोहली के बेटे अकाय के अंकल बने गिल!: वायरल रील्स पर आई शुभमन की प्रतिक्रिया, विराट को टैग कर क्या बोले कप्तान?",
+            "link": "https://www.amarujala.com/cricket/cricket-news/shubman-gill-reacts-to-a-viral-social-media-reel-calling-him-the-uncle-of-virat-kohli-s-son-akaay-kohli-2026-09-04",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-04T11:10:33+05:30"
+          },
+          {
+            "title": "Bigg Boss 20: कब शुरू हो रहा है 'बिग बॉस 20'? कहां देख सकेंगे Salman Khan का ये रिएलिटी शो? जानें पूरी डिटेल्स",
+            "link": "https://hindi.oneindia.com/news/entertainment/bigg-boss-20-when-it-start-where-you-watch-salman-khan-reality-show-know-all-the-details-1642079.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-04T11:04:22+05:30"
+          },
+          {
+            "title": "रूस-यूक्रेन जंग खत्म कराने में भारत की एंट्री! जयशंकर ने जेलेंस्की को भरोसा देते हुए क्या कहा?",
+            "link": "https://hindi.oneindia.com/news/international/india-role-end-russia-ukraine-war-jaishankar-meets-zelensky-peace-talks-diplomacy-plan-1642077.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-04T11:00:41+05:30"
+          },
+          {
+            "title": "CJP का पार्लियामेंट स्ट्रीट थाने तक मार्च:सौरव बोले- अपराध कबूलने के बावजूद पुलिस कार्रवाई क्यों नहीं, कार्यकर्ता के पिता पर मारपीट का आरोप",
+            "link": "https://www.bhaskar.com/g/national/news/cockroach-party-march-parliament-street-justice-nishu-azad-138926728.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-04T05:21:26+00:00"
@@ -655,8 +683,8 @@
             "published": "2026-09-04T10:29:59+05:30"
           },
           {
-            "title": "श्रीनगर एयरपोर्ट पर विमान पोल से टकराया:आगे का हिस्सा टूटा, पार्क करते समय हादसा; सभी यात्री सुरक्षित",
-            "link": "https://www.bhaskar.com/national/news/indigo-flight-accident-srinagar-airport-pole-collision-138926587.html",
+            "title": "श्रीनगर एयरपोर्ट पर इंडिगो प्लेन पोल से टकराया:पार्किंग में ले जाते वक्त खंभे में घुसा, आगे का हिस्सा टूटा; सभी यात्री सुरक्षित",
+            "link": "https://www.bhaskar.com/g/national/news/indigo-flight-accident-srinagar-airport-pole-collision-138926587.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-04T04:54:23+00:00"
@@ -681,37 +709,16 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-04T04:39:32+00:00"
-          },
-          {
-            "title": "ट्रेटर्स 2 फाइनल: क्रिस्टल-रिदा के धोखे से टूटा शालिनी पासी का भरोसा, बोलीं- दोनों अच्छी वैम्प बन सकती हैं",
-            "link": "https://www.amarujala.com/entertainment/celebs-interviews/shalini-passi-the-traitors-season-2-finale-heartbroken-by-krystle-dsouza-and-rida-tharana-2026-09-04",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-04T09:55:18+05:30"
-          },
-          {
-            "title": "Baljeet Singh Death: अंकित बालियान के बाद अब सिंगर बलजीत सिंह की मौत, कमरे में सड़ रही थी बॉडी, कैसे गई जान?",
-            "link": "https://hindi.oneindia.com/news/entertainment/baljeet-singh-death-after-ankit-aliyan-punjabi-singer-body-rotting-in-room-how-did-he-die-1642061.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-04T09:53:44+05:30"
-          },
-          {
-            "title": "जन्माष्टमी पर नेताओं की शुभकामनाएं: पीएम मोदी-अमित शाह ने दी बधाई, देशभर के मंदिरों में उमड़ा भक्ति का सैलाब",
-            "link": "https://www.amarujala.com/world/janmashtami-2026-pm-modi-amit-shah-and-other-politician-extend-greetings-as-devotees-celebrate-across-india-2026-09-04",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-04T09:49:42+05:30"
-          },
-          {
-            "title": "BCC की अहम मीटिंग से क्यों गायब हुए अजीत अगरकर? क्या चीफ सलेक्टर के पद से छुट्टी होने का था डर?",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/why-was-ajit-agarkar-absent-from-the-bcci-meeting-devajit-saikia-explains-1642053.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-04T09:33:01+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Bigg Boss 20: कब शुरू हो रहा है 'बिग बॉस 20'? कहां देख सकेंगे Salman Khan का ये रिएलिटी शो? जानें पूरी डिटेल्स",
+            "link": "https://hindi.oneindia.com/news/entertainment/bigg-boss-20-when-it-start-where-you-watch-salman-khan-reality-show-know-all-the-details-1642079.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-04T11:04:22+05:30"
+          },
           {
             "title": "Baljeet Singh Death: अंकित बालियान के बाद अब सिंगर बलजीत सिंह की मौत, कमरे में सड़ रही थी बॉडी, कैसे गई जान?",
             "link": "https://hindi.oneindia.com/news/entertainment/baljeet-singh-death-after-ankit-aliyan-punjabi-singer-body-rotting-in-room-how-did-he-die-1642061.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "लोकप्रिय रियलिटी शो 'बिग बॉस' का 20वां सीजन शुरू होने वाला है और इसको लेकर प्रशंसकों में जबरदस्त उत्साह देखा जा रहा है। इस बार चर्चा का केंद्र भोजपुरी सुपरस्टार और भारतीय जनता पार्टी के सांसद मनोज तिवारी की बेटी रीति तिवारी का नाम बना हुआ है। सोशल मीडिया और मनोरंजन गलियारों में यह कयास लगाए जा रहे हैं कि रीति इस सीजन में बतौर कंटेस्टेंट एंट्री ले सकती हैं। मनोज तिवारी खुद भी इस शो का हिस्सा रह चुके हैं, इसलिए उनकी बेटी के आने की खबर ने फैंस की उत्सुकता और अधिक बढ़ा दी है। लोग यह जानने के लिए बहुत उत्सुक हैं कि क्या रीति अपने पिता की तरह इस शो में अपनी जगह बना पाएंगी और अपने व्यक्तित्व की छाप छोड़ेंगी। अभी तक आधिकारिक रूप से पुष्टि नहीं हुई है, लेकिन रीति तिवारी के नाम की चर्चा ने दर्शकों के बीच काफी हलचल मचा दी है। लोग जानना चाहते हैं कि क्या वे ग्लैमर की दुनिया में अपने पिता का नाम आगे बढ़ाएंगी या फिर अपनी खुद की एक अलग पहचान बनाने में सफल होंगी। यदि वे इस शो में आती हैं, तो निश्चित रूप से दर्शकों के लिए यह एक बड़ा आकर्षण का केंद्र साबित होने वाला है।",
             "published": "2026-09-02T11:17:18+05:30"
-          },
-          {
-            "title": "'इज्जत बचाने के लिए मौत?' Padmaavat के 'जौहर' पर Swara Bhasker का बड़ा बयान, प्रियंका चतुर्वेदी पर की टिप्पणी",
-            "link": "https://hindi.oneindia.com/news/entertainment/swara-bhasker-on-jauhar-scene-in-padmaavat-said-death-to-save-honour-comment-on-priyanka-chaturvedi-1640703.html",
-            "source": "Oneindia Hindi",
-            "summary": "फिल्म 'पद्मावत' के 'जौहर' दृश्य को लेकर स्वरा भास्कर के बयान ने एक बार फिर से इतिहास और आधुनिक सोच के बीच टकराव पैदा कर दिया है। स्वरा ने फिल्म के उस सीन पर सवाल उठाए थे, जिसे लेकर काफी विवाद भी हुआ था। इस पूरे मामले में शिवसेना (यूबीटी) की नेता प्रियंका चतुर्वेदी ने भी अपनी राय रखी है, जिससे यह मुद्दा और भी गरमा गया है। प्रियंका का तर्क है कि इतिहास में ऐसी स्थितियां रही हैं जहाँ महिलाओं के पास मौत और दरिंदों के हाथों में पड़ने के अलावा कोई विकल्प नहीं बचता था, ऐसी स्थिति में कई महिलाओं ने सम्मान के साथ मौत को चुनना ही बेहतर समझा। प्रियंका चतुर्वेदी ने अपने 'एक्स' (पूर्व में ट्विटर) हैंडल पर खुलकर अपनी बात रखी, जिसके बाद से सोशल मीडिया पर लोग इस मुद्दे पर विभाजित नजर आ रहे हैं। यह बहस इस बात पर केंद्रित है कि प्राचीन परंपराओं को आज के समय में किस चश्मे से देखना चाहिए। क्या 'जौहर' को केवल कुप्रथा कहना सही है या फिर उस दौर की परिस्थितियों को समझना भी जरूरी है, इसी पर लगातार चर्चा जारी है। यह विवाद समाज के अलग-अलग वर्गों की सोच को प्रदर्शित करता है।",
-            "published": "2026-09-02T10:17:38+05:30"
           }
         ]
       }
@@ -1072,11 +1072,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Anil Chakravarthy: అడోబ్‌ సీఈవోగా మళ్లీ భారతీయుడే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFlYmxObHlqVU02ODFBT2tXSnJieFNzYWptYzhVeS1SMUJSeHZ5NE1BMjdkMzJIQkFaa2RpNi1pd0NWLUstTnhOZEtSNFRSVlJzODJoLV95RkJ2NFlReHhubXl2cVdNYzIzdjExYlhyMi1oa3lGQVRqZEZaRFJsMlVOYXNCVkNUX0dmNDZIeFZad3Z40gGUAUFVX3lxTE9rMWVibE5seWpVTTY4MUFPa1dKcmJ4U3Nham1jOFV5LVIxQlJ4dnk0TUEyN2QzMkhCQVprZGk2LWl3Q1YtSy1OeE5kS1I0VFJWUnM4MmgtX3lGQnY0WVF4eG5teXZxV01jMjN2MTFiWHIyLWhreUZBVGpkRlpEUmwyVU5hc0JWQ1RfR2Y0Nkh4Vlp3dng?oc=5",
-            "source": "Eenadu",
+            "title": "అద్భుతం: మృత్యుంజయులు అంటే వీళ్లే.. 9 రోజుల తర్వాత టన్నెల్ నుంచి బయటికి!",
+            "link": "https://telugu.oneindia.com/news/international/miracle-in-nepal-floods-two-workers-rescued-alive-from-hydropower-tunnel-after-9-days-underground-504711.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-09-04T05:08:48+00:00"
+            "published": "2026-09-04T11:21:08+05:30"
+          },
+          {
+            "title": "పిఠాపురం ఆడపడుచులకు పవన్ కళ్యాణ్ శ్రావణ మాస కానుక..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/pawan-kalyan-distributes-sravana-month-gifts-to-10-000-women-in-his-constituency-details-here-504709.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-04T11:16:43+05:30"
+          },
+          {
+            "title": "కండోమ్స్ గుట్ట.. 150 మంది ప్రియుళ్లు: ఓ నర్స్ దారుణ హత్య వెనుక విస్తుపోయే నిజాలు!",
+            "link": "https://telugu.oneindia.com/news/india/shocking-details-unveiled-in-nurse-selvi-murder-case-in-tamil-nadu-uncovering-500-condoms-and-150-a-504707.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-04T11:12:02+05:30"
+          },
+          {
+            "title": "ఆకృతి చౌధురి: ఎన్‌ఎస్ఏ కింద నిర్బంధంలో ఉన్న ఈ యువతిని విడుదల చేయమంటూ కోర్టు ఏం చెప్పింది, అసలెవరీ ఆకృతి చౌధురి?",
+            "link": "https://www.bbc.com/telugu/articles/cgrvgqwjk5jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-04T05:29:51+00:00"
           },
           {
             "title": "కొండా సురేఖ బర్తరఫ్ ..సంబరాల్లో ఓరుగల్లు కాంగ్రెస్ నేతలు!",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-04T09:54:22+05:30"
-          },
-          {
-            "title": "బాగా దెబ్బతిన్న బ్యాలెన్స్ షీట్‌: 50,000 మందిపై వేటు: టాప్ కార్ మేకర్ బోర్డు ఏకగ్రీవ ఆమోదం",
-            "link": "https://telugu.oneindia.com/news/business/german-volkswagen-approves-50000-more-job-cuts-total-could-reach-100000-by-as-its-future-plan-2030-504687.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-04T09:50:53+05:30"
-          },
-          {
-            "title": "Ind W vs Hkg W: స్మృతి మంధాన సెంచరీ.. సెమీస్‌కు భారత్‌.. మ్యాచ్‌ హైలైట్స్ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDBqSWl5b1R0LXJFd3ptTk5BV3NoV3R5X3RWNjdndU5mM19qZmZ4T2dhWHZBc0FQZEQ3SnBYbUNlMGx5Q1hxNUV6QWg5aGxzZDNvN0VRN1NJclBoY05ic0hUREhOaWJNakx6V1NBMUNWeUFLRGc5LWhtN3NDNHUxSjM0VFk4ODhNM0FPZnlHaDnSAZABQVVfeXFMTlgwaklpeW9UdC1yRXd6bU5OQVdzaFd0eV90VjY3Z3VOZjNfamZmeE9nYVh2QXNBUGREN0pwWG1DZTBseUNYcTVFekFoOWhsc2QzbzdFUTdTSXJQaGNOYnNIVERITmliTWpMeldTQTFDVnlBS0RnOS1obTdzQzR1MUozNFRZODg4TTNBT2Z5R2g5?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T04:19:18+00:00"
-          },
-          {
-            "title": "ISRO: జీఎస్‌ఎల్‌వీ-ఎఫ్‌17 ప్రయోగం విజయవంతం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNengxM0EzVldaQ3pVOHBMSndYc2g3dlZ5WlRWNGdlbXFYejRHMnJ6QW4xRF9OY29rWnhpc0owS1JHak5fdUZhNUhoUU1FMnhST3hzeEhneEhaQjVfWHVybFQ1dmxOS0hScTZLQlI3eWFtUkk1STNBbGdPbElvSWxvRjNaZHdVQVEyMzNiYjdmUk4yWWphNXVaeXhUVFFnSEFUYi1UcUxlcnVaMzRRVTZlajRweWJHeGRGbHhvSHNfQlBEM0E2YnFNc3REVjBmQzZa0gHQAUFVX3lxTE16eDEzQTNWV1pDelU4cExKd1hzaDd2VnlaVFY0Z2VtcVh6NEcycnpBbjFEX05jb2taeGlzSjBLUkdqTl91RmE1SGhRTUUyeFJPeHN4SGd4SFpCNV9YdXJsVDV2bE5LSFJxNktCUjd5YW1SSTVJM0FsZ09sSW9JbG9GM1pkd1VBUTIzM2JiN2ZSTjJZamE1dVp5eFRUUWdIQVRiLVRxTGVydVozNFFVNmVqNHB5Ykd4ZEZseG9Ic19CUEQzQTZicU1zdERWMGZDNlo?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T04:12:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Karnataka Weather: ಬಿಸಿಲ ಬೇಗೆಯ ನಡುವೆ ರಾಜ್ಯದಲ್ಲಿ ಎಲ್ಲೆಲ್ಲಿ ಮಳೆಯಾಗಲಿದೆ? ಇಲ್ಲಿದೆ ಕಂಪ್ಲೀಟ್ ಡಿಟೇಲ್ಸ್",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-weather-report-september-4-2026-heavy-rain-forecast-coastal-areas-on-high-alert-today-466781.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-04T11:10:46+05:30"
+          },
+          {
+            "title": "4,4,4,4,4,4,4,4,4,4,4,4,4,4..6,6,6,6,6,6,6.. 124: ಐತಿಹಾಸಿಕ ಸಾಧನೆ ಮಾಡಿದ ಆರ್‌ಸಿಬಿ ಸ್ಟಾರ್ ಆಟಗಾರ್ತಿ ಸ್ಮೃತಿ ಮಂಧಾನ",
+            "link": "https://kannada.oneindia.com/news/sports/smriti-mandhana-hits-record-124-as-india-beat-hong-kong-to-reach-women-s-asia-cup-semis-in-dubai-466779.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-04T11:08:04+05:30"
+          },
+          {
             "title": "ಕರಾಚಿಯಲ್ಲಿ ಗಣಪತಿ ಮೂರ್ತಿಗೆ ಪೇಂಟ್ ಮಾಡಿದ ಪಾಕಿಸ್ತಾನದ ಮುಸ್ಲಿಂ ಯುವಕ: Video Viral",
             "link": "https://kannada.oneindia.com/news/india/muslim-artist-paints-ganapati-idol-for-a-marathi-family-in-karachi-pakistan-watch-viral-video-now-466777.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-03T20:50:47+05:30"
-          },
-          {
-            "title": "ಎಂ.ಎಸ್. ಧೋನಿ ಮತ್ತು ರಿಷಭ್ ಪಂತ್ ಪಾರ್ಟಿ ವಿಡಿಯೊ ಭಾರಿ ವೈರಲ್",
-            "link": "https://kannada.oneindia.com/news/sports/ms-dhoni-and-rishabh-pant-party-video-goes-huge-viral-sparks-buzz-on-social-media-know-details-466735.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-03T19:03:35+05:30"
-          },
-          {
-            "title": "IMD Weather Alert: ಕರ್ನಾಟಕ ಸೇರಿದಂತೆ ಹಲವು ರಾಜ್ಯಗಳಲ್ಲಿ ಭಾರೀ ಮಳೆ: ಭಾರತೀಯ ಹವಾಮಾನ ಇಲಾಖೆ ಮುನ್ಸೂಚನೆ",
-            "link": "https://kannada.oneindia.com/news/india/imd-weather-alert-heavy-rain-in-karnataka-and-several-states-september-3-weather-forecast-466731.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-03T18:53:48+05:30"
           }
         ],
         "Entertainment": [
