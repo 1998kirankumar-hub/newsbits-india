@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-09-04T23:15:55.088422+00:00",
+  "updated_at": "2026-09-04T23:31:19.252959+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "'Threaten Disenfranchisement': US Court Blocks Trump's Mail Voting Restrictions",
+            "link": "https://www.ndtv.com/world-news/us-court-blocks-trumps-mail-voting-restrictions-12004293#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "District Judge Indira Talwani issued a preliminary injunction barring the US Postal Service (USPS) from carrying out a plan that critics say would restrict distribution of mail-in ballots.",
+            "published": "2026-09-05T04:50:22+05:30"
+          },
+          {
+            "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+            "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+            "published": "2026-09-04T23:07:23+00:00"
+          },
+          {
+            "title": "Mock Republican convention website redirects users to Epstein Files",
+            "link": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Democratic lawmakers poke fun at prank website, while Republicans slam &#039;fake news&#039; and redirect users to real one.",
+            "published": "2026-09-04T22:51:06+00:00"
+          },
+          {
             "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
             "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
             "published": "2026-09-04T22:48:38+00:00"
+          },
+          {
+            "title": "Air India Initiates 100% Voluntary Pilot Testing After Phuket Flight Fiasco",
+            "link": "https://www.ndtv.com/india-news/air-india-initiates-100-voluntary-pilot-testing-after-phuket-flight-fiasco-12004253#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Reaffirming its commitment to transparency and regulatory compliance, the airline pledged full support to ongoing technical and medical inquiries into the mid-air hydraulic failure and subsequent crew drug test findings.",
+            "published": "2026-09-05T04:09:39+05:30"
           },
           {
             "title": "Sebi clears NSE's IPO papers, to be India's biggest so far",
@@ -74,37 +102,23 @@
             "source": "Al Jazeera",
             "summary": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
             "published": "2026-09-04T21:27:26+00:00"
-          },
-          {
-            "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-            "link": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
-            "published": "2026-09-04T21:19:05+00:00"
-          },
-          {
-            "title": "Europe waking up to Modi's warning 'a bit late': Belgian PM",
-            "link": "https://timesofindia.indiatimes.com/india/europe-waking-up-to-modis-warning-a-bit-late-belgian-pm/articleshow/133778574.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-05T02:47:55+05:30"
-          },
-          {
-            "title": "Coal stock at thermal plants plummets, 'critical' at 50 units",
-            "link": "https://timesofindia.indiatimes.com/india/coal-stock-at-thermal-plants-plummets-critical-at-50-units/articleshow/133778434.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-05T02:39:25+05:30"
-          },
-          {
-            "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
-            "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "World number one Aryna Sabalenka&#039;s straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.",
-            "published": "2026-09-04T21:05:03+00:00"
           }
         ],
         "India": [
+          {
+            "title": "'Threaten Disenfranchisement': US Court Blocks Trump's Mail Voting Restrictions",
+            "link": "https://www.ndtv.com/world-news/us-court-blocks-trumps-mail-voting-restrictions-12004293#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "District Judge Indira Talwani issued a preliminary injunction barring the US Postal Service (USPS) from carrying out a plan that critics say would restrict distribution of mail-in ballots.",
+            "published": "2026-09-05T04:50:22+05:30"
+          },
+          {
+            "title": "Air India Initiates 100% Voluntary Pilot Testing After Phuket Flight Fiasco",
+            "link": "https://www.ndtv.com/india-news/air-india-initiates-100-voluntary-pilot-testing-after-phuket-flight-fiasco-12004253#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Reaffirming its commitment to transparency and regulatory compliance, the airline pledged full support to ongoing technical and medical inquiries into the mid-air hydraulic failure and subsequent crew drug test findings.",
+            "published": "2026-09-05T04:09:39+05:30"
+          },
           {
             "title": "Sebi clears NSE's IPO papers, to be India's biggest so far",
             "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-clears-nses-ipo-papers-to-be-indias-biggest-so-far/articleshow/133780072.cms",
@@ -174,23 +188,23 @@
             "source": "The Hindu",
             "summary": "Money was allegedly sought for settling a complaint against a person’s property and facilitating its conversion from ‘nilam’ (paddy land) in revenue records",
             "published": "2026-09-05T02:27:42+05:30"
-          },
-          {
-            "title": "24 injured as bus rams toll plaza pillar at Kumbalam",
-            "link": "https://www.thehindu.com/news/national/kerala/24-injured-as-bus-rams-toll-plaza-pillar-at-kumbalam/article71429426.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-05T02:25:11+05:30"
-          },
-          {
-            "title": "Tenure of TDB Chief Vigilance and Security Officer extended until January 2027, State informs Kerala High Court",
-            "link": "https://www.thehindu.com/news/national/kerala/tenure-of-tdb-chief-vigilance-and-security-officer-extended-until-january-2027-state-informs-kerala-high-court/article71420535.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-05T02:24:27+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+            "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+            "published": "2026-09-04T23:07:23+00:00"
+          },
+          {
+            "title": "Mock Republican convention website redirects users to Epstein Files",
+            "link": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Democratic lawmakers poke fun at prank website, while Republicans slam &#039;fake news&#039; and redirect users to real one.",
+            "published": "2026-09-04T22:51:06+00:00"
+          },
           {
             "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
             "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Reform UK leader Nigel Farage was heckled by protesters on Friday, as he addressed the party’s conference in Birmingham.",
             "published": "2026-09-04T20:53:12+00:00"
-          },
-          {
-            "title": "Will Europe pay the US to provide military aid to Ukraine?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US President Donald Trump laments past financial support for Ukraine&#039;s war effort and has vowed to claw the money back.",
-            "published": "2026-09-04T20:52:55+00:00"
-          },
-          {
-            "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa",
-            "published": "2026-09-04T20:28:40+00:00"
           }
         ],
         "Business": [
@@ -634,6 +634,20 @@
             "published": "2026-09-05T12:58:09+05:30"
           },
           {
+            "title": "गोरखपुर: गोरक्षपीठ में सीएम योगी ने मनाया प्राकट्योत्सव, पूजा-अर्चना के बाद लड्डू गोपाल को पालने में झुलाया",
+            "link": "https://www.amarujala.com/jammu/cm-yogi-celebrated-the-birth-anniversary-of-gopal-at-gorakshpeeth-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T12:55:13+05:30"
+          },
+          {
+            "title": "जन्माष्टमी 2026: मथुरा में आधी रात को जन्मे कृष्ण कन्हाई, देशभर में छा गया उल्लास, घर-घर गूंज उठे बधाई गीत",
+            "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/mathura/janmashtami-2026-kanha-was-born-at-shri-krishna-janmabhoomi-in-mathura-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T12:39:42+05:30"
+          },
+          {
             "title": "अमेरिकी शेयर बाजार में गिरावट: मजबूत रोजगार आंकड़ों से ब्याज दर बढ़ने की आशंका; महंगाई पर क्या होगा असर?",
             "link": "https://www.amarujala.com/business/business-diary/stocks-fall-after-surprisingly-strong-jobs-report-raises-prospects-of-interest-rate-hike-2026-09-05",
             "source": "Amar Ujala",
@@ -641,11 +655,39 @@
             "published": "2026-09-05T12:37:45+05:30"
           },
           {
-            "title": "आज का राशिफल: सिंह और मकर राशि वालों के लिए दिन रहेगा शानदार, मिलेगी बड़ी खुशखबरी",
-            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-5-september-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-09-04",
+            "title": "Janmashtami 2026 : भादो आधी रात जन्म लियो कृष्णा कन्हाई...हाथी घोड़ा पाल की जय कन्हैया लाल की..",
+            "link": "https://www.amarujala.com/live/spirituality/festivals/janmashtami-2026-date-live-puja-vidhi-shubh-muhurat-samagri-list-mantra-aarti-and-wishes-in-hindi-2026-09-04",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-05T12:33:34+05:30"
+            "published": "2026-09-05T12:23:56+05:30"
+          },
+          {
+            "title": "त्रिशूर में खड़े ट्रक से टकराई कार: तमिलनाडु के आठ छात्रों की मौत; कैसे हुआ दर्दनाक हादसा?",
+            "link": "https://www.amarujala.com/india-news/several-killed-as-car-rams-into-parked-lorry-in-keralam-s-thrissur-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T04:54:40+05:30"
+          },
+          {
+            "title": "सुर्खियां: देश में श्रीकृष्ण प्रकटोत्सव; स्वतंत्र भारद्वाज पर लगा पॉक्सो एक्ट; नेपाल बाढ़ में 32,000+ प्रभावित",
+            "link": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-5-september-2026-updates-on-amar-ujala-news-in-hindi-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T04:44:17+05:30"
+          },
+          {
+            "title": "दिल्ली: महज 67 रुपये के लिए डीटीसी ने 32 साल लड़ा मुकदमा, मामले को खींचने पर हाईकोर्ट नाराज; एक लाख जुर्माना",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-dtc-fought-a-legal-battle-for-a-mere-67-over-32-years-fined-1-lakh-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T03:58:08+05:30"
+          },
+          {
+            "title": "तैयारी: ब्रिक्स के लिए अब 10 दिन हाई अलर्ट पर रहेगी नई दिल्ली, 14 सितंबर तक 24 घंटे निगरानी, समन्वय की चुनौती",
+            "link": "https://www.amarujala.com/delhi-ncr/new-delhi-to-remain-on-high-alert-for-10-days-for-brics-2026-09-05",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-05T03:57:08+05:30"
           },
           {
             "title": "भास्कर अपडेट्स:दिल्ली में लड़की से दोस्ती के विवाद में 9वीं के छात्र की चाकू मारकर हत्या, 3 नाबालिग पकड़ाए",
@@ -655,60 +697,18 @@
             "published": "2026-09-04T22:12:55+00:00"
           },
           {
-            "title": "जस्टिस भुइयां बोले- प्रदर्शनकारियों पर अफसरों का हमला बेहद दुखद:पुलिस का रवैया बदलना जरूरी; कस्टडी में मौत और फर्जी एनकाउंटर गंभीर अपराध",
-            "link": "https://www.bhaskar.com/national/news/justice-ujjhal-bhuyan-police-custody-death-encounter-statement-138933120.html",
-            "source": "Dainik Bhaskar",
+            "title": "नोएडा: 210 अध्यापकों को मिलेगा अमर उजाला शिक्षक सम्मान, 12 सितंबर को उप मुख्यमंत्री पाठक करेंगे सम्मानित",
+            "link": "https://www.amarujala.com/delhi-ncr/noida-210-teachers-to-receive-amar-ujala-teacher-award-2026-09-05",
+            "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-04T18:31:00+00:00"
+            "published": "2026-09-05T03:33:42+05:30"
           },
           {
-            "title": "Uttarakhand News: CM धामी ने देखी आध्यात्मिक फिल्म ‘हनुमान अंश’, बाबा नीब करौरी महाराज की भक्ति और सेवा भावना से हुए अभिभूत",
-            "link": "https://hindi.oneindia.com/news/india/hanuman-ansh-film-baba-nib-karori-maharaj-uttarakhand-cm-praises-012-1642595.html",
-            "source": "Oneindia Hindi",
+            "title": "नेपाल में बाढ़ से 32 हजार से ज्यादा लोग प्रभावित: 1295 मौतें; सरकार के राहत अभियान पर क्या आरोप लगे?",
+            "link": "https://www.amarujala.com/world/over-30-000-people-affected-by-flash-floods-in-nepal-report-2026-09-05",
+            "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-04T23:31:04+05:30"
-          },
-          {
-            "title": "MP News: सीएम डॉ. मोहन ने पावर सेक्टर में की नई शुरुआत, कहा- औद्योगिक विकास के लिए सरकार प्रतिबद्ध",
-            "link": "https://hindi.oneindia.com/news/india/sehore-power-transformer-manufacturing-unit-launch-mp-012-1642563.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-04T22:31:17+05:30"
-          },
-          {
-            "title": "कोलकाता में छात्र का चंदन तिलक हटवाने वाला टीचर सस्पेंड:FIR दर्ज; वीडियो वायरल होने के बाद CM अधिकारी ने एक्शन लिया",
-            "link": "https://www.bhaskar.com/national/news/kolkata-missionary-school-teacher-suspended-student-tilak-controversy-138932316.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-04T16:14:33+00:00"
-          },
-          {
-            "title": "भारत की वो 'पेपर पार्टियां' जो बमुश्किल चुनाव लड़ती हैं पर करोड़ों चंदा पाती हैं-बीबीसी पड़ताल",
-            "link": "https://www.bbc.com/hindi/articles/cwyznkkewepo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-04T16:12:04+00:00"
-          },
-          {
-            "title": "हल्द्वानी शुद्धिकरण विवाद, BJP नेताओं के खिलाफ बेंगलुरु में FIR:उत्तराखंड में मल्लिकार्जुन खड़गे की रैली के बाद मैदान में हवन-पूजन किया था",
-            "link": "https://www.bhaskar.com/national/news/bengaluru-police-fir-mallikarjun-kharge-purification-controversy-138932276.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-04T16:04:44+00:00"
-          },
-          {
-            "title": "नेपाल से बाढ़ के बाद बिहार पहुंची ये विचित्र मछलियां",
-            "link": "https://www.bbc.com/hindi/articles/cgqdvjp8k25o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-04T15:41:53+00:00"
-          },
-          {
-            "title": "HORMUZ से BAB-AL-MANDEB तक: समुद्री संकट में फंसा पाकिस्तान",
-            "link": "https://hindi.oneindia.com/news/international/from-hormuz-to-bab-el-mandeb-pakistan-caught-in-a-maritime-crisis-explainer-news-hindi-1642501.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-04T20:56:34+05:30"
+            "published": "2026-09-05T02:35:08+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "‘భారాస నానాజాతి సమితిగా మారింది’ - eenadu.net",
+            "title": "‘భారాస నానాజాతి సమితిగా మారింది’ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KR2tKRTEyMEw4V2l6RmRmSEtzdG5taEJ0a3h2WUROUGh6di1BQmtyeHRnemhBSzJOdFpST3RRN0NYQUstd2RrMmpibkVyYXk3QUxvMTBwOFNWTVFkRU5FNm1sZWcwSUtsSGlNWjI2OF9zQzZvQ3JTMS1RRDk?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T22:50:18+00:00"
           },
           {
-            "title": "Chittoor: హంతకుడిని చేసింది.. ‘వీడియో గేమ్‌’ - eenadu.net",
+            "title": "Chittoor: హంతకుడిని చేసింది.. ‘వీడియో గేమ్‌’ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWpDWUtxVHJqanlzYnpiMDFld3hmUmpxai1mbEhNbDR3Y1doVkFsanQ5a29BY0JhSHk3Vkx4bHRwa0N6eGdCZUtoM3MwZml0ZW9FWnNrSVFmZ193WXN3ZUVLY0xJZzhFU21ubHdvbWtuaWhGb3hoQk1LUURqU0c3NE9WanAtYTJWaFNZLVkzTFVGeHNFV29DRmc1QmNTZXo5b0ZTNDNmbkRWU3U4S2szR0V2MnQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T22:34:39+00:00"
           },
           {
-            "title": "బాలుడి పొట్టలోని 3 బ్లేడు ముక్కల తొలగింపు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TVzZLNlp0SkNraXBubHFTTFUtcDhnZXVkbVBiQlJHcDRjTnpZTWdNLUlZeUF2bEdFQXJrVjFqT1I1eFV3Q1BYRlNEY2swdkdiS2hmVTdfN1d4NVlEbzZmbkRyN0lzOWVfQUNReXJfYUFmazVmVzhZMl9QU0w1dw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T21:59:13+00:00"
-          },
-          {
-            "title": "19నుంచి డబ్ల్యూఏపీఎల్‌ - eenadu.net",
+            "title": "19నుంచి డబ్ల్యూఏపీఎల్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CREtucjA1a2hGX0JwTlJ0WDBpQzQwbE9yN1M5ZTlIcUlyZ0FJczhMaG9BMUlkXzBkVVJ6R3U4eWpwdGNTWEEzYXhyM2tzWXF3dndiN1c5WjhJTUpuRmVPVEl5Qzh2b1AzbGhLYzVpZUtqZ9IBckFVX3lxTE1CREtucjA1a2hGX0JwTlJ0WDBpQzQwbE9yN1M5ZTlIcUlyZ0FJczhMaG9BMUlkXzBkVVJ6R3U4eWpwdGNTWEEzYXhyM2tzWXF3dndiN1c5WjhJTUpuRmVPVEl5Qzh2b1AzbGhLYzVpZUtqZw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:29:16+00:00"
           },
           {
-            "title": "కలలోనూ అనుకోలేదు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56M2xuZ25jX2xJVGVPMkZEZnBZajFuTjc2TmR4SDY3US1hU2F2cUJHMkt1dmRWbDZlZFo5QkFqTTFsRXlvbFhjWkM5Ql9nN2pLa3Nkd2w4U0lma19KVXpuNmVHQ3pvbTJZTDdydk56Q1o4QdIBckFVX3lxTE56M2xuZ25jX2xJVGVPMkZEZnBZajFuTjc2TmR4SDY3US1hU2F2cUJHMkt1dmRWbDZlZFo5QkFqTTFsRXlvbFhjWkM5Ql9nN2pLa3Nkd2w4U0lma19KVXpuNmVHQ3pvbTJZTDdydk56Q1o4QQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T21:28:55+00:00"
-          },
-          {
-            "title": "తెలంగాణ మాస్టర్స్‌ గోల్ఫ్‌లో విశేష్‌కు టైటిల్‌ - eenadu.net",
+            "title": "తెలంగాణ మాస్టర్స్‌ గోల్ఫ్‌లో విశేష్‌కు టైటిల్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hUEUwRnFtNWZ6WF9YcVpFT1pQaTU3T2VVSDE2c0lUVWpOWkcyN0tLb2FIOHRmbVJBcGVwTDZfVnoyYnpQQ3ctMl85RUtiRzRXT2VxVmNfQ0hVMU9CWUszbk1MOUF6TWhJdEFfNnY4ODJoUdIBckFVX3lxTE5hUEUwRnFtNWZ6WF9YcVpFT1pQaTU3T2VVSDE2c0lUVWpOWkcyN0tLb2FIOHRmbVJBcGVwTDZfVnoyYnpQQ3ctMl85RUtiRzRXT2VxVmNfQ0hVMU9CWUszbk1MOUF6TWhJdEFfNnY4ODJoUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:28:33+00:00"
           },
           {
-            "title": "నేనాడేది ఇంకొంత కాలమే.. - eenadu.net",
+            "title": "నేనాడేది ఇంకొంత కాలమే.. - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUVN0eUF1X1Z4bGhma3dWVHpURS1adm1nT2s0QzlDMnJBZkZubndvWXdkcm0xbnJrSVkyMk9aUzRzQjh1YUdseVJxVGZMenQweHhOczhjVnVDbTNqcElhYktXMFRDMkNsVXhvQjlPUlE5d9IBckFVX3lxTE9IUVN0eUF1X1Z4bGhma3dWVHpURS1adm1nT2s0QzlDMnJBZkZubndvWXdkcm0xbnJrSVkyMk9aUzRzQjh1YUdseVJxVGZMenQweHhOczhjVnVDbTNqcElhYktXMFRDMkNsVXhvQjlPUlE5dw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:26:58+00:00"
           },
           {
-            "title": "పదాలేవి? - eenadu.net",
+            "title": "పదాలేవి? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJOU9iVHkwbENoVEpQU3hFd3QydGFXREJ6TmdEVlFvQWYzSTcwbUhvcVRmU01qcXhTX1lQZWU1MW9tcll0a0pEYkNzWEZqbGJ6UVg4OVllN0xoOEJmVmtnRnJuMnE5bWFjd2ZiR3g4d3VqWGZremdRTXhfNWtwd9IBfkFVX3lxTFBJOU9iVHkwbENoVEpQU3hFd3QydGFXREJ6TmdEVlFvQWYzSTcwbUhvcVRmU01qcXhTX1lQZWU1MW9tcll0a0pEYkNzWEZqbGJ6UVg4OVllN0xoOEJmVmtnRnJuMnE5bWFjd2ZiR3g4d3VqWGZremdRTXhfNWtwdw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:24:58+00:00"
           },
           {
-            "title": "వినూత్నమైన థ్రిల్లర్‌ ‘టార్టాయిస్‌’ - eenadu.net",
+            "title": "వినూత్నమైన థ్రిల్లర్‌ ‘టార్టాయిస్‌’ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WnFmR0xqM3BOVThTR0xkbThPN08wS195aFJJc25CamNUSTJxY2RfTlI0MUw2MFZFbDVhSjlwMHJYOFZUUU5fYURndnpzRkNpM3JiX1BQU0RvRlRBS0Fha0k5U3lxb015Yy1xc0dsMFdGd9IBckFVX3lxTE80WnFmR0xqM3BOVThTR0xkbThPN08wS195aFJJc25CamNUSTJxY2RfTlI0MUw2MFZFbDVhSjlwMHJYOFZUUU5fYURndnpzRkNpM3JiX1BQU0RvRlRBS0Fha0k5U3lxb015Yy1xc0dsMFdGdw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:22:33+00:00"
           },
           {
-            "title": "కొత్త నిర్మాతల్ని ప్రోత్సహిస్తాం - eenadu.net",
+            "title": "కొత్త నిర్మాతల్ని ప్రోత్సహిస్తాం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41bU9mOWZfdEhpRmlSMlZXS0NlcUd1cHYyNUQ2M3NkRHoxTk5KU0dMMGNsU05oX2wyTzAzY01RU2ZUQTY5cGhSWXU4QnhlUzNHTkROR2htbndxb2JmbUJPRkVITG5UTEo0OWlzNDB4NjQ5QdIBckFVX3lxTE41bU9mOWZfdEhpRmlSMlZXS0NlcUd1cHYyNUQ2M3NkRHoxTk5KU0dMMGNsU05oX2wyTzAzY01RU2ZUQTY5cGhSWXU4QnhlUzNHTkROR2htbndxb2JmbUJPRkVITG5UTEo0OWlzNDB4NjQ5QQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:08:50+00:00"
           },
           {
-            "title": "సంక్షిప్త వార్తలు (5) - eenadu.net",
+            "title": "సంక్షిప్త వార్తలు (5) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Nk1FQU82NENvY1IwWkxWbkh6Tzd2VWFHTG5TMmdlRkFoWUNQUWJnMExoa3ltcTl4cmNmaGw4bi1FeVVzM2ZQYUViaUNObVVYaC01WlNsczBGek5BaFFRTHk1YmpjLUxEeEx5Yk9HNkFVd9IBckFVX3lxTFB1Nk1FQU82NENvY1IwWkxWbkh6Tzd2VWFHTG5TMmdlRkFoWUNQUWJnMExoa3ltcTl4cmNmaGw4bi1FeVVzM2ZQYUViaUNObVVYaC01WlNsczBGek5BaFFRTHk1YmpjLUxEeEx5Yk9HNkFVdw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T20:44:24+00:00"
           },
           {
-            "title": "# 2 AM మోటివేషన్‌ - eenadu.net",
+            "title": "# 2 AM మోటివేషన్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIYzZRSDZyeTVxYXhoakdad0daeHVCUFpqODFURDdYOS0wWm5FUmQ5bGJlSjFIeHQwY19jcVNlSmQ4Vkw1WDFaRnhCd3VKUDVRQk9lSDlVeHN4akpUa0NDLTQ0czkwdUo5eThyWUtvY2ltbDho0gF0QVVfeXFMUEhjNlFINnJ5NXFheGhqR1p3R1p4dUJQWmo4MVREN1g5LTBabkVSZDlsYmVKMUh4dDBjX2NxU2VKZDhWTDVYMVpGeEJ3dUpQNVFCT2VIOVV4c3hqSlRrQ0MtNDRzOTB1Sjl5OHJZS29jaW1sOGg?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T20:40:47+00:00"
+          },
+          {
+            "title": "సినిమాల్లో అవకాశం ఇప్పిస్తామంటూ వంచన - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XUkhEZTd6VE45d0RDc2xFRkFEZWxOZnBNdEFuWWRVX0Q1RllWdjZ5bElTOXBrY29lejVNMnFOUkN4RXBFeF95WG9MRjdjRUFleEI1WjRJd0gzMXVmWVhITGUzbFB6bWtuWG5OWVlSVTl3Q1k3cEs2bDRROXJEQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-04T20:21:24+00:00"
+          },
+          {
+            "title": "మీకు తెలుసా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJOHkwOW1SdGFoVkhnM1NyVmVxd1JuNlRyR0Y3NTB6dXotaWg5SkdncDBjOUM4WjRVczJGSnYtQ3pEbFB5M2RVOVNFcFZuY2p1bWhqUUJLWFlzWUF5UU9rUTFLazBwVFlXU0FSUGUtb0nSAXBBVV95cUxQSTh5MDltUnRhaFZIZzNTclZlcXdSbjZUckdGNzUwenV6LWloOUpHZ3AwYzlDOFo0VXMyRkp2LUN6RGxQeTNkVTlTRXBWbmNqdW1oalFCS1hZc1lBeVFPa1ExS2swcFRZV1NBUlBlLW9J?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-04T20:06:40+00:00"
           }
         ],
         "Entertainment": [
