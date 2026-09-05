@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-05T00:01:40.099242+00:00",
+  "updated_at": "2026-09-05T00:31:18.472329+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Senior EU official cancels Serbia trip over planned tribute to Mladic",
+            "link": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "EU&#039;s Marta Kos cancels Serbia visit, condemning Ratko Mladic &#039;glorification&#039; as incompatible with European values.",
+            "published": "2026-09-05T00:19:17+00:00"
+          },
+          {
+            "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
+            "published": "2026-09-05T00:00:00+00:00"
+          },
+          {
+            "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+            "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.",
+            "published": "2026-09-04T23:55:50+00:00"
+          },
           {
             "title": "‘Hunchha’: 9 days on, a miracle rescue in Nepal",
             "link": "https://timesofindia.indiatimes.com/world/south-asia/9-days-on-a-miracle-rescue-in-nepal/articleshow/133781004.cms",
@@ -20,7 +41,7 @@
             "published": "2026-09-05T04:50:22+05:30"
           },
           {
-            "title": "Tunisia arrests journalist amid crackdown on government critics",
+            "title": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
             "link": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied&#039;s rule.",
@@ -81,27 +102,6 @@
             "source": "Al Jazeera",
             "summary": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
             "published": "2026-09-04T21:45:56+00:00"
-          },
-          {
-            "title": "AI Phuket-Delhi flight incident: All 3 hydraulics failed in ‘exceptionally rare’ event",
-            "link": "https://timesofindia.indiatimes.com/india/exceptionally-rare-all-3-hydraulic-systems-of-plane-failed-together/articleshow/133778893.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-05T03:14:23+05:30"
-          },
-          {
-            "title": "Amid Iran War, US Approves $5 Billion Sale Of Bombs To Saudi",
-            "link": "https://www.ndtv.com/world-news/amid-iran-war-us-approves-5-billion-sale-of-bombs-to-saudi-12004186#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Saudi Arabia has been targeted with drone and missile strikes by Iranian forces and Yemen's Tehran-backed Houthi rebels since the United States and Israel launched their war against Iran earlier this year.",
-            "published": "2026-09-05T03:08:14+05:30"
-          },
-          {
-            "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
-            "link": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Jose Mourinho&#039;s winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.",
-            "published": "2026-09-04T21:37:56+00:00"
           }
         ],
         "India": [
@@ -192,7 +192,28 @@
         ],
         "World": [
           {
-            "title": "Tunisia arrests journalist amid crackdown on government critics",
+            "title": "Senior EU official cancels Serbia trip over planned tribute to Mladic",
+            "link": "https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "EU&#039;s Marta Kos cancels Serbia visit, condemning Ratko Mladic &#039;glorification&#039; as incompatible with European values.",
+            "published": "2026-09-05T00:19:17+00:00"
+          },
+          {
+            "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
+            "published": "2026-09-05T00:00:00+00:00"
+          },
+          {
+            "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+            "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.",
+            "published": "2026-09-04T23:55:50+00:00"
+          },
+          {
+            "title": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
             "link": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied&#039;s rule.",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The US National Highway Traffic Safety Administration has opened up an investigation into Tesla’s new self-driving car.",
             "published": "2026-09-04T21:27:26+00:00"
-          },
-          {
-            "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-            "link": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
-            "published": "2026-09-04T21:19:05+00:00"
-          },
-          {
-            "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
-            "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "World number one Aryna Sabalenka&#039;s straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.",
-            "published": "2026-09-04T21:05:03+00:00"
-          },
-          {
-            "title": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win",
-            "link": "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.",
-            "published": "2026-09-04T20:55:16+00:00"
           }
         ],
         "Business": [
@@ -662,8 +662,22 @@
             "published": "2026-09-05T12:23:56+05:30"
           },
           {
+            "title": "महाराष्ट्र में नवरात्रि पर गरबा में मुस्लिम बैन:आधार कार्ड जांच और तिलक से पहचान के बाद एंट्री; विहिप नियम जारी किए",
+            "link": "https://www.bhaskar.com/g/national/news/maharashtra-navratri-garba-vhp-aadhaar-tilak-rule-muslim-ban-138935581.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-05T00:04:07+00:00"
+          },
+          {
+            "title": "आज नेशनल अवॉर्ड से सम्मानित होंगे 48 शिक्षक:यूपी से 3, MP-राजस्थान, बिहार से दो-दो; 700 वीडियो से मैथ्स सिखाने वाले महाराष्ट्र के टीचर भी शामिल",
+            "link": "https://www.bhaskar.com/national/news/national-teachers-award-2026-delhi-president-murmu-list-winners-138932787.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-05T00:00:00+00:00"
+          },
+          {
             "title": "केदारनाथ में भारी बारिश से चारधाम यात्रा रुकी:कानपुर में 150 घरों में घुसा बाढ़ का पानी, बिहार के 16 जिलों में बाढ़",
-            "link": "https://www.bhaskar.com/national/news/kanpur-bihar-flood-update-kedarnath-rain-char-dham-yatra-status-138932446.html",
+            "link": "https://www.bhaskar.com/g/national/news/kanpur-bihar-flood-update-kedarnath-rain-char-dham-yatra-status-138932446.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-04T23:35:00+00:00"
@@ -695,20 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-05T03:58:08+05:30"
-          },
-          {
-            "title": "तैयारी: ब्रिक्स के लिए अब 10 दिन हाई अलर्ट पर रहेगी नई दिल्ली, 14 सितंबर तक 24 घंटे निगरानी, समन्वय की चुनौती",
-            "link": "https://www.amarujala.com/delhi-ncr/new-delhi-to-remain-on-high-alert-for-10-days-for-brics-2026-09-05",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-05T03:57:08+05:30"
-          },
-          {
-            "title": "भास्कर अपडेट्स:दिल्ली में लड़की से दोस्ती के विवाद में 9वीं के छात्र की चाकू मारकर हत्या, 3 नाबालिग पकड़ाए",
-            "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-5-september-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138935217.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-04T22:12:55+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ఇంటర్‌ విద్య జోలికొస్తే కొరివితో తలగోక్కున్నట్లే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxR1lqZVZ5ekxrNW1XcUNaM3JhQkFPd1hMeW9LcmVKUjFGdkJZUEh0dVJkMVNnc1hiZ3cxekJ1djNaZFJ3UU5vaUZMcmNhWTJQXzNHT0xDQWZSUUt1ODVPc3czQVE4ZXpLdkNWdDlaZWpGUTFRUGfSAXZBVV95cUxQcUdZamVWeXpMazVtV3FDWjNyYUJBT3dYTHlvS3JlSlIxRnZCWVBIdHVSZDFTZ3NYYmd3MXpCdXYzWmRSd1FOb2lGTHJjYVkyUF8zR09MQ0FmUlFLdTg1T3N3M0FROGV6S3ZDVnQ5WmVqRlExUVBn?oc=5",
+            "title": "కొండా సురేఖను తప్పించడం మీ వ్యక్తిగత పంచాయితీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yR2N2QUVCX1ZqUTRFNUppWDh1TDU0eGhEMjR4M0NUMnROaG1ENTZsOVRsLXVkbnpFVkJtVm1sN1otWEIwYWhrM05wOXRNSUc5MTZyZzRFUUdrVklDWmxCa1BmeWMyVHcwLVBmcXIwandBbzRPNmfSAXZBVV95cUxNMkdjdkFFQl9WalE0RTVKaVg4dUw1NHhoRDI0eDNDVDJ0TmhtRDU2bDlUbC11ZG56RVZCbVZtbDdaLVhCMGFoazNOcDl0TUlHOTE2cmc0RVFHa1ZJQ1psQmtQZnljMlR3MC1QZnFyMGp3QW80TzZn?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-04T23:37:51+00:00"
+            "published": "2026-09-04T23:39:01+00:00"
           },
           {
             "title": "Congress: ప్రజల్లోకి రాకుంటే రాజీనామా చేయాల్సిందే - Eenadu",
@@ -1084,6 +1084,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T23:28:27+00:00"
+          },
+          {
+            "title": "Revanth Reddy: కొడంగల్‌ ఎత్తిపోతల పనుల్లో వేగం పెంచండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFzWFMtcGwweFBuS29kREZfaUtiT1lEWDQtWmQxZ3R2QlVqenE5OWdWWmkxSGdUdXhfNnBBTm11d1pOdk9tWktQWldFaHk4WUU2SUhoaWlTVmN2VWJRNHV3VlFGbEpnby1JMGNjVUZhVVNTTmlkN29uOTY3RHRyUnd4UHdmR1N5NnZBbWZxZ0NGR2t0dHhMZTZwTGVmX01TdVhzY2ZqdHJHSmNYSkQ2elVFQ0dUcS0ydTJwWGcxRkkwZ9IBwgFBVV95cUxNUEFzWFMtcGwweFBuS29kREZfaUtiT1lEWDQtWmQxZ3R2QlVqenE5OWdWWmkxSGdUdXhfNnBBTm11d1pOdk9tWktQWldFaHk4WUU2SUhoaWlTVmN2VWJRNHV3VlFGbEpnby1JMGNjVUZhVVNTTmlkN29uOTY3RHRyUnd4UHdmR1N5NnZBbWZxZ0NGR2t0dHhMZTZwTGVmX01TdVhzY2ZqdHJHSmNYSkQ2elVFQ0dUcS0ydTJwWGcxRkkwZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-04T23:02:30+00:00"
           },
           {
             "title": "‘భారాస నానాజాతి సమితిగా మారింది’ - Eenadu",
@@ -1114,11 +1121,18 @@
             "published": "2026-09-04T21:28:33+00:00"
           },
           {
-            "title": "శీతల్‌ మీదే కళ్లన్నీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wUW5XVk5oSDl4TTBXdUVOMUpyNGJsNDFWR21lLVliQmh1TmE3RTc1R1c0SWI1OXptNW9jaF8xVDU3RWxFM1RYTFJacHBRN0ROUEFXUGxmeFY2d1prbGRIMHdqbGlwWDVSUy1qREx4S1J1d9IBckFVX3lxTE4wUW5XVk5oSDl4TTBXdUVOMUpyNGJsNDFWR21lLVliQmh1TmE3RTc1R1c0SWI1OXptNW9jaF8xVDU3RWxFM1RYTFJacHBRN0ROUEFXUGxmeFY2d1prbGRIMHdqbGlwWDVSUy1qREx4S1J1dw?oc=5",
+            "title": "జపాన్‌తో భారత్‌ టీ20 మ్యాచ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PaWpLMVFIdU5uLVgzbXBZdTFSQTdUQjViN3dtRnMyeWQ3VEUtTkZCZF9HUm9uNWRUZmZULU9qeXJTU2lpWG9RcWhxd0V3M054RlpnZG9fZENZZzJwMzBNRF9QZUhIb0JhT01SdGJkWVdRUdIBckFVX3lxTE5PaWpLMVFIdU5uLVgzbXBZdTFSQTdUQjViN3dtRnMyeWQ3VEUtTkZCZF9HUm9uNWRUZmZULU9qeXJTU2lpWG9RcWhxd0V3M054RlpnZG9fZENZZzJwMzBNRF9QZUhIb0JhT01SdGJkWVdRUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-04T21:27:48+00:00"
+            "published": "2026-09-04T21:28:11+00:00"
+          },
+          {
+            "title": "బాక్స్‌లో ఓ రాత్రి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPa19Sb1FTNFptbUpSYW1uUUxPRzRjcldmcWxmNjdUajh6MXozbVJkR1pZODRpdzJQTWNYUkdNV0JqRmtibWpfbDhpQ0ZxSjhpZHpMd3FidERmazE3ZkhTOFhpQzlHYXcxeHZLNmxld0VBQdIBckFVX3lxTFBPa19Sb1FTNFptbUpSYW1uUUxPRzRjcldmcWxmNjdUajh6MXozbVJkR1pZODRpdzJQTWNYUkdNV0JqRmtibWpfbDhpQ0ZxSjhpZHpMd3FidERmazE3ZkhTOFhpQzlHYXcxeHZLNmxld0VBQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-04T21:27:23+00:00"
           },
           {
             "title": "నేనాడేది ఇంకొంత కాలమే.. - Eenadu",
@@ -1126,13 +1140,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T21:26:58+00:00"
-          },
-          {
-            "title": "వినూత్నమైన థ్రిల్లర్‌ ‘టార్టాయిస్‌’ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WnFmR0xqM3BOVThTR0xkbThPN08wS195aFJJc25CamNUSTJxY2RfTlI0MUw2MFZFbDVhSjlwMHJYOFZUUU5fYURndnpzRkNpM3JiX1BQU0RvRlRBS0Fha0k5U3lxb015Yy1xc0dsMFdGd9IBckFVX3lxTE80WnFmR0xqM3BOVThTR0xkbThPN08wS195aFJJc25CamNUSTJxY2RfTlI0MUw2MFZFbDVhSjlwMHJYOFZUUU5fYURndnpzRkNpM3JiX1BQU0RvRlRBS0Fha0k5U3lxb015Yy1xc0dsMFdGdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T21:22:33+00:00"
           },
           {
             "title": "కొత్త నిర్మాతల్ని ప్రోత్సహిస్తాం - Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-04T20:53:23+00:00"
-          },
-          {
-            "title": "# 2 AM మోటివేషన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIYzZRSDZyeTVxYXhoakdad0daeHVCUFpqODFURDdYOS0wWm5FUmQ5bGJlSjFIeHQwY19jcVNlSmQ4Vkw1WDFaRnhCd3VKUDVRQk9lSDlVeHN4akpUa0NDLTQ0czkwdUo5eThyWUtvY2ltbDho0gF0QVVfeXFMUEhjNlFINnJ5NXFheGhqR1p3R1p4dUJQWmo4MVREN1g5LTBabkVSZDlsYmVKMUh4dDBjX2NxU2VKZDhWTDVYMVpGeEJ3dUpQNVFCT2VIOVV4c3hqSlRrQ0MtNDRzOTB1Sjl5OHJZS29jaW1sOGg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-04T20:40:47+00:00"
           }
         ],
         "Entertainment": [
