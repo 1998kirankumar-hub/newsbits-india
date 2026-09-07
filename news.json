@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-09-07T01:31:13.851739+00:00",
+  "updated_at": "2026-09-07T02:01:29.970319+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "India’s bid to extradite Mahadev kingpin Sourabh Chandrakar hits UAE hurdle",
+            "link": "https://www.hindustantimes.com/india-news/indias-bid-to-extradite-mahadev-kingpin-sourabh-chandrakar-hits-uae-hurdle-101788744143839.html",
+            "source": "Hindustan Times",
+            "summary": "Chandrakar was detained in Muscat in June on an Interpol red notice after allegedly fleeing the UAE with a fake passport in April.",
+            "published": "2026-09-07T07:22:57+05:30"
+          },
+          {
+            "title": "India-France Relations Have Reached \"New Heights\": PM Modi",
+            "link": "https://www.ndtv.com/world-news/india-france-relations-have-reached-new-heights-pm-modi-12010727#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "PM Modi says India-France ties have reached new heights with the inauguration of Swaminarayan temple in Paris",
+            "published": "2026-09-07T07:11:45+05:30"
+          },
+          {
+            "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
+            "link": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
+            "published": "2026-09-07T07:08:12+05:30"
+          },
+          {
+            "title": "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
+            "link": "https://www.ndtv.com/india-news/delhi-building-that-collapsed-was-50-years-old-and-dying-greed-revived-it-12010232#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "When the building collapsed, construction workers were working in the basement.",
+            "published": "2026-09-07T07:06:42+05:30"
+          },
+          {
+            "title": "Jamaica to file slavery reparations petition during UK visit",
+            "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
+            "published": "2026-09-07T01:34:57+00:00"
+          },
+          {
+            "title": "The burning question of child safety in Amravati’s government maternity hospital",
+            "link": "https://www.thehindu.com/news/national/maharashtra/theburningquestionof-childsafetyin-amravatis-government-maternity-hospital/article71421175.ece",
+            "source": "The Hindu",
+            "summary": "Three newborn babies died and 36 were rescued after an explosion at Amravati’s government maternity hospital, a key healthcare facility serving the district and surrounding areas, including women with critical pregnancies. Snehal Mutha speaks to survivors, rescuers and hospital staff, who flag lapses in fire safety audits",
+            "published": "2026-09-07T06:59:02+05:30"
+          },
           {
             "title": "Delhi building collapse LIVE: 6 dead, rescue underway as MCD says latest construction was illegal",
             "link": "https://www.hindustantimes.com/india-news/satya-niketan-delhi-building-collapse-live-updates-pg-death-toll-mcd-abvp-rekha-gupta-owner-hariram-bansal-delhi-du-101788741872640.html",
@@ -25,6 +67,13 @@
             "source": "Al Jazeera",
             "summary": "President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.",
             "published": "2026-09-07T01:08:55+00:00"
+          },
+          {
+            "title": "5 Dead After Amazon Cargo Plane Skids Off Runway, Bursts Into Flames In Miami",
+            "link": "https://www.ndtv.com/world-news/miami-plane-crash-news-5-dead-after-amazon-cargo-plane-skids-off-runway-bursts-into-flames-in-miami-12011121#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The aircraft overran the runway around 2 p.m. after arriving from San Juan, Puerto Rico, and plowed across a road used by warehouse workers and other businesses that surround the airport.",
+            "published": "2026-09-07T06:37:30+05:30"
           },
           {
             "title": "Global Market Today: Asian stocks open higher, oil rises after attacks",
@@ -53,58 +102,44 @@
             "source": "Al Jazeera",
             "summary": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
             "published": "2026-09-07T00:49:33+00:00"
+          }
+        ],
+        "India": [
+          {
+            "title": "India’s bid to extradite Mahadev kingpin Sourabh Chandrakar hits UAE hurdle",
+            "link": "https://www.hindustantimes.com/india-news/indias-bid-to-extradite-mahadev-kingpin-sourabh-chandrakar-hits-uae-hurdle-101788744143839.html",
+            "source": "Hindustan Times",
+            "summary": "Chandrakar was detained in Muscat in June on an Interpol red notice after allegedly fleeing the UAE with a fake passport in April.",
+            "published": "2026-09-07T07:22:57+05:30"
+          },
+          {
+            "title": "India-France Relations Have Reached \"New Heights\": PM Modi",
+            "link": "https://www.ndtv.com/world-news/india-france-relations-have-reached-new-heights-pm-modi-12010727#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "PM Modi says India-France ties have reached new heights with the inauguration of Swaminarayan temple in Paris",
+            "published": "2026-09-07T07:11:45+05:30"
           },
           {
             "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
             "link": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
             "source": "NDTV",
             "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
-            "published": "2026-09-07T06:19:30+05:30"
+            "published": "2026-09-07T07:08:12+05:30"
           },
           {
-            "title": "NSE grey market premium soars on Sebi's IPO approval",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-grey-market-premium-soars-on-sebis-ipo-approval/articleshow/133857380.cms",
-            "source": "Economic Times",
-            "summary": "The National Stock Exchange's IPO has gained the necessary regulatory approval, leading to an increase in grey market premiums. Investors are now looking at a potential price hike for shares before they officially list. Brokers foresee the IPO launch by late September, with unlisted NSE shares trading at about ₹1,975, while the IPO size is estimated at around ₹30,000 crore.",
-            "published": "2026-09-07T06:13:07+05:30"
+            "title": "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
+            "link": "https://www.ndtv.com/india-news/delhi-building-that-collapsed-was-50-years-old-and-dying-greed-revived-it-12010232#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "When the building collapsed, construction workers were working in the basement.",
+            "published": "2026-09-07T07:06:42+05:30"
           },
           {
-            "title": "Demat account additions hit 7-month high in August as IPO boom draws investors",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/demat-account-additions-hit-7-month-high-in-august-as-ipo-boom-draws-investors/articleshow/133856460.cms",
-            "source": "Economic Times",
-            "summary": "August witnessed a surge in new demat accounts, reaching a seven-month peak due to strong initial public offering activity that spurred many newcomers to the markets. Collectively, NSDL and CDSL welcomed around 3.27 million new accounts, even as benchmark stock indices faced a minor dip. Analysts are optimistic about continued growth, especially with major upcoming IPOs from Jio and NSE on the horizon.",
-            "published": "2026-09-07T06:09:29+05:30"
+            "title": "The burning question of child safety in Amravati’s government maternity hospital",
+            "link": "https://www.thehindu.com/news/national/maharashtra/theburningquestionof-childsafetyin-amravatis-government-maternity-hospital/article71421175.ece",
+            "source": "The Hindu",
+            "summary": "Three newborn babies died and 36 were rescued after an explosion at Amravati’s government maternity hospital, a key healthcare facility serving the district and surrounding areas, including women with critical pregnancies. Snehal Mutha speaks to survivors, rescuers and hospital staff, who flag lapses in fire safety audits",
+            "published": "2026-09-07T06:59:02+05:30"
           },
-          {
-            "title": "IPO rush continues: 16 companies to raise over Rs 7,190 crore this week",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-issues-to-raise-over-rs-7000-crore-this-week/articleshow/133856257.cms",
-            "source": "Economic Times",
-            "summary": "India's primary market is gearing up for an exciting week, with 16 companies ready to launch their IPOs. Aiming to gather over 7,000 crore rupees, this includes 12 mainboard and 4 SME offerings. Following a strong August performance, confidence remains high within the IPO sector, with businesses eager to harness the prevailing positive momentum.",
-            "published": "2026-09-07T05:56:40+05:30"
-          },
-          {
-            "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-            "link": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
-            "published": "2026-09-07T00:20:04+00:00"
-          },
-          {
-            "title": "'They're clearly hoping to kill him in there': Imran Khan's sons raise serious concerns",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/theyre-clearly-hoping-to-kill-him-in-there-imran-khans-sons-raise-serious-concerns-over-his-health-in-prison/articleshow/133842109.cms",
-            "source": "Times of India",
-            "summary": "The sons of former Pakistan captain and Prime Minister Imran Khan have strongly criticised Pakistan Cricket Board (PCB) chairman Mohsin Naqvi after the board was accused of threatening to abandon the Lord’s Test against England. Sulaiman and Kasim Khan also raised serious concerns about their father's health and conditions in prison, claiming that Pakistan authorities are trying to silence him.",
-            "published": "2026-09-07T05:50:00+05:30"
-          },
-          {
-            "title": "Pre-market action: Here's the trade setup for today's session",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133857070.cms",
-            "source": "Economic Times",
-            "summary": "The Indian equity market ended the week on a positive note, with the Nifty increasing by 0.1 percent on Friday. Factors such as global market trends and easing fears of US interest rate hikes lent support to this rise. The India VIX, often seen as a fear gauge, declined by 5.8 percent, signaling lower market worries.",
-            "published": "2026-09-07T05:48:54+05:30"
-          }
-        ],
-        "India": [
           {
             "title": "Delhi building collapse LIVE: 6 dead, rescue underway as MCD says latest construction was illegal",
             "link": "https://www.hindustantimes.com/india-news/satya-niketan-delhi-building-collapse-live-updates-pg-death-toll-mcd-abvp-rekha-gupta-owner-hariram-bansal-delhi-du-101788741872640.html",
@@ -113,18 +148,18 @@
             "published": "2026-09-07T06:51:36+05:30"
           },
           {
+            "title": "5 Dead After Amazon Cargo Plane Skids Off Runway, Bursts Into Flames In Miami",
+            "link": "https://www.ndtv.com/world-news/miami-plane-crash-news-5-dead-after-amazon-cargo-plane-skids-off-runway-bursts-into-flames-in-miami-12011121#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The aircraft overran the runway around 2 p.m. after arriving from San Juan, Puerto Rico, and plowed across a road used by warehouse workers and other businesses that surround the airport.",
+            "published": "2026-09-07T06:37:30+05:30"
+          },
+          {
             "title": "'Pakistan on ventilator': Shoaib Akhtar reveals PCB’s 'nothing' expectation",
             "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-on-a-ventilator-shoaib-akhtars-brutal-verdict-as-nothing-is-expected-from-squad/articleshow/133857846.cms",
             "source": "Times of India",
             "summary": "Pakistan Cricket Board is undertaking a significant rebuilding phase following poor tour performances. Senior players have been removed from the squad for the final Test match. Former bowler Shoaib Akhtar believes the board has lost confidence in the current team. He stressed the need to protect the careers of younger fast bowlers. The board is now focusing on developing a new generation of players for the future.",
             "published": "2026-09-07T06:23:16+05:30"
-          },
-          {
-            "title": "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
-            "link": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
-            "published": "2026-09-07T06:19:30+05:30"
           },
           {
             "title": "'They're clearly hoping to kill him in there': Imran Khan's sons raise serious concerns",
@@ -153,44 +188,16 @@
             "source": "Times of India",
             "summary": "'Not specific map', P 9",
             "published": "2026-09-07T04:04:02+05:30"
-          },
-          {
-            "title": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
-            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-south-west-delhi-rescue-work-death-toll-september-3-2026/article71435076.ece",
-            "source": "The Hindu",
-            "summary": "Locals said the building, which comprises a basement plus five more floors, is at least 50 years old; 11 people were rescued, police said",
-            "published": "2026-09-07T03:54:18+05:30"
-          },
-          {
-            "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
-            "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
-            "source": "The Hindu",
-            "summary": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
-            "published": "2026-09-07T03:52:51+05:30"
-          },
-          {
-            "title": "As vultures disappear, minister calls for 'safe zones'",
-            "link": "https://timesofindia.indiatimes.com/india/as-vultures-disappear-minister-calls-for-safe-zones/articleshow/133853700.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-07T03:36:48+05:30"
-          },
-          {
-            "title": "5-state polls set for Feb-March, with UP voting 2 months before term ends",
-            "link": "https://timesofindia.indiatimes.com/india/5-poll-bound-states-set-to-vote-in-february-march/articleshow/133852764.cms",
-            "source": "Times of India",
-            "summary": "UP 2 months early, P 14",
-            "published": "2026-09-07T03:10:14+05:30"
-          },
-          {
-            "title": "Relief in Congress as all factions accept Pilot as Punjab handler",
-            "link": "https://timesofindia.indiatimes.com/india/relief-in-congress-as-all-factions-accept-pilot-as-punjab-handler/articleshow/133852392.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-07T02:55:22+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Jamaica to file slavery reparations petition during UK visit",
+            "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
+            "published": "2026-09-07T01:34:57+00:00"
+          },
           {
             "title": "Why is Kenya cracking down on foreign traders and small retailers?",
             "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Five people are injured, and the cause of the crash is being investigated, authorities say.",
             "published": "2026-09-06T21:11:01+00:00"
-          },
-          {
-            "title": "At least 10 killed in central Mexico fireworks blast during festival",
-            "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
-            "published": "2026-09-06T21:08:30+00:00"
           }
         ],
         "Business": [
@@ -327,7 +327,7 @@
             "published": "2026-09-07T05:48:54+05:30"
           },
           {
-            "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+            "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
             "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
@@ -634,18 +634,46 @@
             "published": "2026-09-07T12:15:40+05:30"
           },
           {
-            "title": "दिल्ली में पांच मंज़िला हॉस्टल ढहने की घटना में अब तक 5 लोगों की मौत",
+            "title": "बागपत: एक्सप्रेसवे पर पिकअप पलटी, पांच श्रद्धालुओं की मौत और 27 घायल",
+            "link": "https://www.amarujala.com/delhi-ncr/baghpat-pickup-truck-overturns-on-expressway-five-pilgrims-killed-and-27-injured-2026-09-07",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-07T07:21:48+05:30"
+          },
+          {
+            "title": "50 साल पुरानी बिल्डिंग, नीचे बेसमेंट में काम और ऊपर रह रहे थे छात्र, सत्य निकेतन हादसे का गुनहगार कौन?",
+            "link": "https://hindi.oneindia.com/news/delhi/who-is-responsible-for-delhi-satya-niketan-building-collapse-50-year-old-building-basement-work-fir-1643567.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-07T07:13:15+05:30"
+          },
+          {
+            "title": "फ्रांस में पहला हिंदू मंदिर: प्राण प्रतिष्ठा में 40 देशों से पहुंचे मेहमान; PM मोदी बोले- संबंध नई ऊंचाइयों पर",
+            "link": "https://www.amarujala.com/world/france-first-hindu-temple-inauguration-40-countries-pm-modi-relations-new-heights-2026-09-07",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-07T07:10:23+05:30"
+          },
+          {
+            "title": "नेपाल जलप्रलय के 12 दिन: पानी हुआ जहरीला, संपर्क में आते ही त्वचा पर इंफेक्शन; आंसुओं के बीच नुकसान के आंकड़े",
+            "link": "https://www.amarujala.com/world/nepal-flood-12-days-toxic-water-skin-infections-damage-death-toll-2026-09-07",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-07T07:00:25+05:30"
+          },
+          {
+            "title": "ओटीटी रिलीज: इस सप्ताह ओटीटी पर होगा 'घमासान', क्रांति की मशाल लेकर निकलेंगे 'सिरफिरे', क्या-क्या होगा खास?",
+            "link": "https://www.amarujala.com/entertainment/ott-releases-this-week-the-revolutionaries-to-ghamasaan-jungle-tales-with-mowgli-movies-and-series-on-ott-2026-09-06",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-07T07:00:03+05:30"
+          },
+          {
+            "title": "दिल्ली हॉस्टल हादसा: 6 लोगों की मौत, रात भर रेस्क्यू ऑपरेशन में क्या-क्या हुआ?",
             "link": "https://www.bbc.com/hindi/articles/cvgyqdyzrz2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-09-07T01:06:41+00:00"
-          },
-          {
-            "title": "शिमला: कांगड़ा घाटी में मिलीं मकड़ियों की 26 रिकॉर्ड प्रजातियां, पर्यावरण नियंत्रण में अहम भूमिका का रेखांकन",
-            "link": "https://www.amarujala.com/shimla/26-recorded-spider-species-found-in-kangra-valley-2026-09-07",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-07T06:32:04+05:30"
           },
           {
             "title": "राजस्थान में थमेगी बारिश की रफ्तार, 8-10 सितंबर तक राहत; 12-13 से फिर बदलेगा मौसम",
@@ -660,20 +688,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-07T06:11:59+05:30"
-          },
-          {
-            "title": "सीट का समीकरण: कभी कांग्रेस का दबदबा फिर सपा का गढ़ रही इटावा, बीते दो चुनाव से भाजपा का कब्जा; जानें इतिहास",
-            "link": "https://www.amarujala.com/election/uttar-pradesh-election-2027-etawah-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-09-04",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-07T06:10:15+05:30"
-          },
-          {
-            "title": "ज्वाला गुट्टा का जन्मदिन आज: चार साल की उम्र में थामा बैडमिंटन, अश्विनी पोनप्पा के साथ हिट रही जोड़ी",
-            "link": "https://www.amarujala.com/photo-gallery/sports/former-indian-badminton-star-jwala-gutta-birthday-know-career-stats-and-records-in-hindi-photos-2026-09-06",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-07T06:09:22+05:30"
           },
           {
             "title": "सुर्खियां: दिल्ली हॉस्टल हादसे में छह मौतें; अमेरिका में विमान हादसा; गुणवत्ता जांच में 199 दवा के नमूने फेल",
@@ -695,20 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-06T23:56:59+00:00"
-          },
-          {
-            "title": "खबर हटके- एक्टिंग के लिए अजगरों का ऑडिशन:दोस्त के बर्थडे गिफ्ट ने शख्स को करोड़पति बनाया; कब्र खोदने का कॉम्पिटीशन",
-            "link": "https://www.bhaskar.com/national/news/bizarre-news-lottery-gift-python-audition-grave-digging-competition-138953455.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-06T23:35:00+00:00"
-          },
-          {
-            "title": "MP में नर्मदा समेत कई नदियां उफान पर:बिहार के 18 जिले बाढ़ की चपेट में, यूपी के बरेली में घर डूबे",
-            "link": "https://www.bhaskar.com/g/national/news/bihar-up-madhya-pradesh-flood-update-rivers-overflowing-rain-news-138952776.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-06T23:35:00+00:00"
           }
         ],
         "Entertainment": [
@@ -804,7 +804,7 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "દિલ્હી PG દુર્ઘટના- મલબામાંથી 6 મૃતદેહો નીકળ્યા:બેઝમેન્ટમાં તોડફોડને કારણે 5 માળની ઇમારત ધરાશાયી થઈ: પડોશની બિલ્ડિંગમાં પણ તિરાડો, ખાલી કરાવવામાં આવી",
+            "title": "દિલ્હી PG દુર્ઘટના- કાટમાળમાંથી 6 મૃતદેહો નીકળ્યા:બેઝમેન્ટમાં તોડફોડને કારણે 5 માળની ઇમારત ધરાશાયી થઈ: પડોશની બિલ્ડિંગમાં પણ તિરાડો, ખાલી કરાવવામાં આવી",
             "link": "https://www.divyabhaskar.co.in/national/news/delhi-building-collapse-basement-excavation-tragedy-138955798.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "டெல்லியில் மாணவர்கள் தங்கியிருந்த 5 மாடிக் கட்டடம் இடிந்து ஐந்து பேர் உயிரிழப்பு - என்ன நடந்தது?",
+            "link": "https://www.bbc.com/tamil/articles/ce872r850r8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-07T01:36:45+00:00"
+          },
+          {
             "title": "மாரடைப்பின்போது நெஞ்சில் மட்டுமல்ல வேறு எங்கெல்லாம் வலி ஏற்படும்? 8 கேள்வி - பதில்கள்",
             "link": "https://www.bbc.com/tamil/articles/cdx5v3kzrydo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -942,13 +949,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-06T21:38:17+05:30"
-          },
-          {
-            "title": "டெல்லியில் மாணவர்கள் தங்கியிருந்த 5 மாடிக் கட்டடம் இடிந்து 3 பேர் உயிரிழப்பு - என்ன நடந்தது?",
-            "link": "https://www.bbc.com/tamil/articles/ce872r850r8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-06T15:56:53+00:00"
           },
           {
             "title": "ஐ.நா.வில் உலக வரைபட தீர்மானத்தை ஆதரித்த இந்தியா இப்போது ஆட்சேபனை ஏன்?",
@@ -1072,11 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "‘స్థానిక భాష నేర్చుకోవాల్సిందే’: ఆటో, టాక్సీ డ్రైవర్లకు నేర్చుకునే గడువును ఏడాదిపాటు పెంచిన మహారాష్ట్ర ప్రభుత్వం",
+            "link": "https://www.bbc.com/telugu/articles/cjw5q5l6peyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-07T01:53:19+00:00"
+          },
+          {
+            "title": "‘మండాడి’కి చాలా అవార్డులొస్తాయి: శివ నిర్వాణ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uakRyWGtFaGdTeFc2dmFramE3bjNwODdpdmVJNzdGbGJ4SXp5RVU0T2xybkYtcS04VTVmVjBrcGhWNkdLMzJnS2NkS1A3WF95Y1o3S0lneTg3VFBjUnZVSjlmYjRwNi1MYlMyUTVIT0FXZ9IBckFVX3lxTE5uakRyWGtFaGdTeFc2dmFramE3bjNwODdpdmVJNzdGbGJ4SXp5RVU0T2xybkYtcS04VTVmVjBrcGhWNkdLMzJnS2NkS1A3WF95Y1o3S0lneTg3VFBjUnZVSjlmYjRwNi1MYlMyUTVIT0FXZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T01:36:00+00:00"
+          },
+          {
             "title": "తిరుమలలో ట్రాఫిక్ మేనేజ్మెంట్ ప్లాన్",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-unveils-elaborate-security-for-safe-hassle-free-srivari-darshan-setup-during-brahmotsavams-505093.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-07T06:55:27+05:30"
+          },
+          {
+            "title": "స్థానిక ఎన్నికలకు సన్నద్ధం కావాలి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pZzMwbC1zZEtJbHMwSDBQdTBSZjY1U3BEakp1aHUzV3RHYkxJUVZhdDhzT1Z6OFhxRkZRWFZqejl1MVZYRVYwSlpoX2hxU280VmFxd3NmV2xQT0RhS2pWR0F0QklpSWhXYm40MzZDa3lNdXJpZFRsM2M4MVfSAXxBVV95cUxNaWczMGwtc2RLSWxzMEgwUHUwUmY2NVNwRGpKdWh1M1d0R2JMSVFWYXQ4c09WejhYcUZGUVhWano5dTFWWEVWMEpaaF9ocVNvNFZhcXdzZldsUE9EYUtqVkdBdEJJaUloV2JuNDM2Q2t5TXVyaWRUbDNjODFX?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T00:50:08+00:00"
+          },
+          {
+            "title": "ఉప్పాడ రక్షణ గోడ నిర్మాణానికి డీపీఆర్, డిజైన్‌ పనులు ప్రారంభం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rT0dsMVRUMVppX0xyQkpYSWlWVXlWdnBqQmxFcnFkYlhoWFh5UG1YVHBSMzYzUXdXSkppWHljUFM2THpMa3pqVDYwUUI1X2JyaW93elpSX2hTMTkyX0NSS2M4ZWx3VjQzaUdLREtYb253cmhlMXV4dVJaNXfSAXxBVV95cUxOa09HbDFUVDFaaV9MckJKWElpVlV5VnZwakJsRXJxZGJYaFhYeVBtWFRwUjM2M1F3V0pKaVh5Y1BTNkx6TGt6alQ2MFFCNV9icmlvd3paUl9oUzE5Ml9DUktjOGVsd1Y0M2lHS0RLWG9ud3JoZTF1eHVSWjV3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T00:48:02+00:00"
+          },
+          {
+            "title": "స్థానిక సంస్థల ఎన్నికలకు తెదేపా ఇన్‌ఛార్జుల నియామకం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wVkxCeDVqYlFxZzIwNGVFVHdXdHVSMHhuNkxEUXZldE43VWx4RTMxSVNzTzVPNS0wcE9IRmpTVkZhRDJ3NjNmanphN3ZWbHV0N1NBdGdiR2hkUjgzcElFdzNoSi0tZUZyVWV5RlNkN3FlYVRaSWZ0dzNKMkLSAXxBVV95cUxNcFZMQng1amJRcWcyMDRlRVR3V3R1UjB4bjZMRFF2ZXRON1VseEUzMUlTc081TzUtMHBPSEZqU1ZGYUQydzYzZmp6YTd2Vmx1dDdTQXRnYkdoZFI4M3BJRXczaEotLWVGclVleUZTZDdxZWFUWklmdHczSjJC?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T00:45:20+00:00"
           },
           {
             "title": "భూమి పుట్టినప్పటి నుంచే బస్తర్‌ - Eenadu",
@@ -1086,25 +1121,25 @@
             "published": "2026-09-07T00:21:02+00:00"
           },
           {
+            "title": "శాసనాల్లో శ్రీవారి బ్రహ్మోత్సవ చరిత్ర - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnbl9zOXEyS2RKcnVMdTNKLW1pVVJmMUtZS1ZKSWhtNDhOUGVZbVlWX3hyN3NsOS00bDZRVnZFYllUZTFrN0dDMzVXSXF2cmJDYlFLdXR4ME0wZXltM2k2WlRLQWFwUjQydjBGbUxkUEVQaG5hX2FSZ2hB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T00:20:11+00:00"
+          },
+          {
+            "title": "Andhra News: 14 వారాల ఖరీఫ్‌.. 12 వారాలు వర్షాభావమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFdNdndwb2puQWZYV3pxcVZWS2pCb2VxU0dDTDhaeUJuX2JvdkNacmJnN05tQkdORUZqOFhvWEJoTGVNSW5WNlNaUllVUGdEN0tfNEpnWlc4Q3pEZUJQcGVrSGNyMUwxcHRVRHZMM19pUWV3OXJpMmladThWVDFMWmpHVU5HTGx4QzItbGl2WTFmdUhqN0p4UTRRNW94SHVCZG9CZ1Rab1RmaEdWMGVVTVAtVdIBswFBVV95cUxOaFdNdndwb2puQWZYV3pxcVZWS2pCb2VxU0dDTDhaeUJuX2JvdkNacmJnN05tQkdORUZqOFhvWEJoTGVNSW5WNlNaUllVUGdEN0tfNEpnWlc4Q3pEZUJQcGVrSGNyMUwxcHRVRHZMM19pUWV3OXJpMmladThWVDFMWmpHVU5HTGx4QzItbGl2WTFmdUhqN0p4UTRRNW94SHVCZG9CZ1Rab1RmaEdWMGVVTVAtVQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T00:19:04+00:00"
+          },
+          {
             "title": "Palnadu: మహిళ కడుపులో పెన్నులు, చెక్క చెంచాలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0Nya1hSVTJxMWFOLXFiQ2w1RDJxV01kNkNVZ0psRjRPaXA0TXgwZ0NmR0J1OV9wUlRlYUNTTDJsS1B2MzRtLW51WEVtZ1pYMFl0N0hIbmdJcVE0eDRLbFFVeEY4aXo4d0E5M0FwRjI5V3oyc2ZkRTdpVDB2Wk5aOGVva2Q4eFBmeDJWNXpUckZfRTZNejRRdmhDbHVpNkdOSmNYYjNqME7SAagBQVVfeXFMUDNDcmtYUlUycTFhTi1xYkNsNUQycVdNZDZDVWdKbEY0T2lwNE14MGdDZkdCdTlfcFJUZWFDU0wybEtQdjM0bS1udVhFbWdaWDBZdDdISG5nSXFRNHg0S2xRVXhGOGl6OHdBOTNBcEYyOVd6MnNmZEU3aVQwdlpOWjhlb2tkOHhQZngyVjV6VHJGX0U2TXo0UXZoQ2x1aTZHTkpjWGIzajBO?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-07T00:17:06+00:00"
-          },
-          {
-            "title": "టోల్‌గేట్లెత్తిన మంత్రి సురేశ్‌ గోపి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QRV96RDIyWkp6Y0ZNRDJJb2VUbHdkR3VyTG5QcGs2NjRGV1FTb1BJbk91TnZuNldBcnpYc1h1NGQ1RkZrWEhaYUc5T3dvOWVCTV8zWkpFcnVtV3BFeUNfUWh5dWdodHFxOHdocC0wYnfSAXBBVV95cUxPUEVfekQyMlpKemNGTUQySW9lVGx3ZEd1ckxuUHBrNjY0RldRU29QSW5PdU52bjZXQXJ6WHNYdTRkNUZGa1hIWmFHOU93bzllQk1fM1pKRXJ1bVdwRXlDX1FoeXVnaHRxcTh3aHAtMGJ3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T00:12:11+00:00"
-          },
-          {
-            "title": "హైకోర్టు సీజే నియామకంపై పంజాబ్‌ అభ్యంతరం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RM294dHJOWXpXVHlUNWxmUE9WU1Z1emhQb0lLYlNIOUxFczdjZlJEaUZOY09UVUhjUmFEMVVMaHoyaDBWdEE0dWtSS3ZhekJCbFU4V0pzQnZvZHVrQVRyei1uYlk0V2Y0bGpKbHRvV0HSAXBBVV95cUxNUTNveHRyTll6V1R5VDVsZlBPVlNWdXpoUG9JS2JTSDlMRXM3Y2ZSRGlGTmNPVFVIY1JhRDFVTGh6MmgwVnRBNHVrUkt2YXpCQmxVOFdKc0J2b2R1a0FUcnotbmJZNFdmNGxqSmx0b1dB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T00:10:47+00:00"
           },
           {
             "title": "అమెరికా నౌకపై ఇరాన్‌ దాడి - Eenadu",
@@ -1119,41 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-06T23:46:11+00:00"
-          },
-          {
-            "title": "Bhatti Vikramarka: ఉద్యోగుల ఆరోగ్య భద్రతే ప్రభుత్వ లక్ష్యం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYm9PNnZHRWVPVkx4di1uczRHZmNhNFZJaUFVS1lVdjVXc2ZiZF9TTG5YUUdxTkphcmFKS21lb0o5WHFWZ2JyYjY5c3F1UmYycDZiUlhJTldsbTBPT05YOVlHTTFlUXNhMHlETFhnUWNJSkpjSUxuNXlaSkdfV190X3pFWi1TaFJmSE1qbU5rakhaZVJSbjFDU1NVazFMWEMwNU5jcXZXMnpLWUxaSXJxYjlGc3RYZkMzcnVqS0huMURPamNVWFd6QnppbjU1Ql91SkVxUFVpWdIB1wFBVV95cUxOYm9PNnZHRWVPVkx4di1uczRHZmNhNFZJaUFVS1lVdjVXc2ZiZF9TTG5YUUdxTkphcmFKS21lb0o5WHFWZ2JyYjY5c3F1UmYycDZiUlhJTldsbTBPT05YOVlHTTFlUXNhMHlETFhnUWNJSkpjSUxuNXlaSkdfV190X3pFWi1TaFJmSE1qbU5rakhaZVJSbjFDU1NVazFMWEMwNU5jcXZXMnpLWUxaSXJxYjlGc3RYZkMzcnVqS0huMURPamNVWFd6QnppbjU1Ql91SkVxUFVpWQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-06T23:21:39+00:00"
-          },
-          {
-            "title": "కొత్త హెల్త్‌స్కీంపై పెదవి విరుపు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nY085UEtqeTQxOGVXN0YtSnA4aUlBYVFwWm5hWGxON0tVNGxGNjdoRHRCZWdFS3Q4S3B5b0dkbGhFUXRGbjBmMmRkWHpmeDVOcmtkYW9McGRqcktQa2w4NGtlVnJsQkhXV3hxOHRHaHlmNFYyN2fSAXZBVV95cUxPZ2NPOVBLank0MThlVzdGLUpwOGlJQWFRcFpuYVhsTjdLVTRsRjY3aER0QmVnRUt0OEtweW9HZGxoRVF0Rm4wZjJkZFh6Zng1TnJrZGFvTHBkanJLUGtsODRrZVZybEJIV1d4cTh0R2h5ZjRWMjdn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-06T23:20:24+00:00"
-          },
-          {
-            "title": "Anakapalli: అనకాపల్లి జిల్లాలో బంగ్లాదేశ్‌ విద్యార్థినిపై అత్యాచారయత్నం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkUyYTZYSHE3Ul9TeWNXVWRldVNNMGVrSjJmQmR3ZlNwQWZMSFhjVXNNR0NNRWtUc05lR1VqSUQ5enRnLWtLZ2RwdzZiZ3huaUtWaU01d3Q0WVRDTmpmV0UzTHd4TjRaSVF6dFUyYUhRSUVEcTVaV0k3Y1ZVWlgySmlfT2txQUV2b3lhbURpc0tFQnc0cnfSAZYBQVVfeXFMUDJFMmE2WEhxN1JfU3ljV1VkZXVTTTBla0oyZkJkd2ZTcEFmTEhYY1VzTUdDTUVrVHNOZUdVaklEOXp0Zy1rS2dkcHc2Ymd4bmlLVmlNNXd0NFlUQ05qZldFM0x3eE40WklRenRVMmFIUUlFRHE1WldJN2NWVVpYMkppX09rcUFFdm95YW1EaXNLRUJ3NHJ3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-06T23:11:38+00:00"
-          },
-          {
-            "title": "ప్రైవేటు వసతిగృహంలో షార్ట్‌ సర్క్యూట్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zV0I2Z2hYQ0FoV25UZzdDUWdlTDdtZ3dSN25ZTGU5SmpmamZWQlllbHNOYUtESVI2Y0plZmhXVW9XY0EzcEI2eWR4Q2JOeXZ1azk1S1hEb3otY0pCOERmVXlMelZHZjNaTHZZWUJvQlBPSXdQWmfSAXZBVV95cUxOM1dCNmdoWENBaFduVGc3Q1FnZUw3bWd3UjduWUxlOUpqZmpmVkJZZWxzTmFLRElSNmNKZWZoV1VvV2NBM3BCNnlkeENiTnl2dWs5NUtYRG96LWNKQjhEZlV5THpWR2YzWkx2WVlCb0JQT0l3UFpn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-06T22:51:35+00:00"
-          },
-          {
-            "title": "దుబాయ్‌లో బతుకమ్మ వేడుకలు.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54OFlzcVdJZDk1N3E1N3N1Y2otd05wSXROUUkyM0xydUpxNk9MMXppMnA1TS1oWjhRbjIyNlZGZGQ5UXlIZ1VvZjB3NTdaakpiQkFkYUNmS0VDazlFc0poMUtKeWtQeW5BR25scnYyRVlnaUJkN2fSAXZBVV95cUxOeDhZc3FXSWQ5NTdxNTdzdWNqLXdOcEl0TlFJMjNMcnVKcTZPTDF6aTJwNU0taFo4UW4yMjZWRmRkOVF5SGdVb2YwdzU3WmpKYkJBZGFDZktFQ2s5RXNKaDFLSnlrUHluQUdubHJ2MkVZZ2lCZDdn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-06T22:49:57+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "CA ಓದು ಅರ್ಧಕ್ಕೆ ಬಿಟ್ಟು ತಾಯಿಯ ರೆಸಿಪಿಯಿಂದ ಬೆಣ್ಣೆ ದೋಸೆ ಮಾರಾಟಕ್ಕಿಳಿದ ಯುವಕ: ಈಗ ತಿಂಗಳಿಗೆ 12 ಲಕ್ಷ ರೂ. ಆದಾಯ",
+            "link": "https://kannada.oneindia.com/news/india/ca-dropout-turns-mothers-benne-dosa-recipe-into-a-rs-12-lakh-per-month-business-success-story-467067.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-07T07:08:17+05:30"
+          },
+          {
             "title": "UGNEET 2026: ಮೆಡಿಕಲ್, ಡೆಂಟಲ್ 2ನೇ ಸುತ್ತಿನ ಸೀಟ್ ಅಲಾಟ್‌ಮೆಂಟ್ ಸೆ.7ರಿಂದ ಶುರು",
             "link": "https://kannada.oneindia.com/news/karnataka/ugneet-2026-kea-second-round-medical-dental-seat-allotment-starts-september-7-candidates-follow-th-467059.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-06T17:06:38+05:30"
-          },
-          {
-            "title": "Cauvery Water Row: 9 ಸಾವಿರ ಕ್ಯೂಸೆಕ್ ಬೇಡ, 2 ಸಾವಿರ ಕ್ಯೂಸೆಕ್ ಸಾಕು; ತಮಿಳುನಾಡಿಗೆ ನೀರು ಕಡಿತಕ್ಕೆ ಕರ್ನಾಟಕ ಆಗ್ರಹ",
-            "link": "https://kannada.oneindia.com/news/karnataka/cauvery-water-row-intensifies-as-karnataka-seeks-sharp-reduction-in-daily-water-release-to-tamil-na-467023.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-06T16:50:02+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "শাস্তি পাওয়া কর্মকর্তাদের ফিরিয়ে আনার সংস্কৃতি কী বার্তা দিচ্ছে?",
+            "link": "https://www.bbc.com/bengali/articles/clykg02v2j6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-09-07T01:50:52+00:00"
+          },
+          {
             "title": "আশাতীত বৃদ্ধিতে উচ্ছ্বসিত কেন্দ্র, তবে ধন্দ বজায় রেখে মাথা তুলল না শেয়ারবাজার - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3ZPWXNhZEtWRmpJR1Z5cWU3ZXNuZEEtczFfVmcwYnJHYlVwR1JGRmd6anhKX1htY3NsZWdzcnVDekhlenY4dnpUeHJiVTYzckRXZWJfYTIxWGhWUlJTUnpzZ2ZpZnhFWVdyZmJyQWstYmgyZEdaczZOeF84N0VCbUttYmVjR2dJdmk5TWZ2a18?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-06T12:35:23+00:00"
-          },
-          {
-            "title": "সাক্ষাৎকার-বিতর্কে মুখ খুললেন ইমরানের ছেলে, নকভিকে তোপ দেগে বললেন, ‘ওরা বোকার মতো কাজ করেছে’ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHdpZ21Dak80WDExd3VjOHBMUEpYXzRQajJLcElDMkZ2RjJLc203a0kzSjNzblpEVFVYbnBMTzFwTTI3d3BOVVNTd0RVNWs5YnoyM0Rnelg5UE00VEJLb0VvVW9tYVlZNXJMWnZtWld0bmVxVHpUWUVPUkozS0V0UlVaeWRxMVRNUGs2NmJCUGNpNUNxcEJpMnE4ZHgteVdvRHVlV2lVbURCN1hjZklxVEd2TdIBuAFBVV95cUxOTVJDbUlucS1nbFY4V2I4OUJFa1c0MlB5bmtzS0NnY24zR1dYdnJ6OUtkWVJFT3R5UFppZ1UzZUlOVGx4VVI1SXpZYS1RY29URU5DMXV3VjYybG5NRjRTVS10N3N2Z2szVldfeng5TF9jLU5uZU15REV2SHZzT0FJanR5VmJFcE5ZVTlfel9VblhSTlFpS3pOWnlqSXk3bFkzWVloWFJHSGpmZE9SZk1VUW9rd29HSDc4?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-06T12:11:04+00:00"
           }
         ]
       }
