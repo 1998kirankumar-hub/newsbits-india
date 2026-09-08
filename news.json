@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-09-08T22:00:47.605961+00:00",
+  "updated_at": "2026-09-08T22:01:35.763875+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Haaland to the double as Manchester City beat Porto in Champions League",
+            "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
+            "published": "2026-09-08T21:46:58+00:00"
+          },
           {
             "title": "Odisha’s rural work does not have adequate photographic evidence, says a draft audit report",
             "link": "https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece",
@@ -95,13 +102,6 @@
             "source": "The Hindu",
             "summary": "On Monday, September 7, hundreds of interns of the GMC, Bhopal, protested at their campus over their longstanding demand that their stipend be increased from the current ₹14,437 to ₹30,000.",
             "published": "2026-09-09T02:38:09+05:30"
-          },
-          {
-            "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
-            "link": "https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Air traffic control provider NATS under scrutiny after technical fault disrupts UK air traffic.",
-            "published": "2026-09-08T21:07:33+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,13 @@
         ],
         "World": [
           {
+            "title": "Haaland to the double as Manchester City beat Porto in Champions League",
+            "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
+            "published": "2026-09-08T21:46:58+00:00"
+          },
+          {
             "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
             "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Allegations of misconduct between two justices threaten to pull court into political battles ahead of upcoming election.",
             "published": "2026-09-08T20:43:16+00:00"
-          },
-          {
-            "title": "Head of Smithsonian museums announces he will be stepping down",
-            "link": "https://www.aljazeera.com/news/2026/9/8/head-of-smithsonian-museums-announces-he-will-be-stepping-down?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US institution is under pressure from the Trump administration to change how it portrays the country&#039;s history.",
-            "published": "2026-09-08T20:32:52+00:00"
           }
         ],
         "Business": [
@@ -1072,13 +1072,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Postponement: వాయిదా... వద్దే వద్దు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREtBY25mVXZ0NmJ5T2VnYS1IUm9fQWgwN3ozazV5akVyTGdMT29mTW84X0xvQUlIRmJjMEswUllpV29fSWN1RnRPTzI1b3lNWjlmZGltZGpJRGJ0QV9sZC1wRkhPTi11TnFTckVnSFhsSXhQdVVCNk5WX1hYY1BaVC1NeTdUQ3VTOGJLTHR0WTDSAZABQVVfeXFMTkRLQWNuZlV2dDZieU9lZ2EtSFJvX0FoMDd6M2s1eWpFckxnTE9vZk1vOF9Mb0FJSEZiYzBLMFJZaVdvX0ljdUZ0T08yNW95TVo5ZmRpbWRqSURidEFfbGQtcEZIT04tdU5xU3JFZ0hYbEl4UHVVQjZOVl9YWGNQWlQtTXk3VEN1UzhiS0x0dFkw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-08T21:20:57+00:00"
-          },
-          {
             "title": "Ranveer Singh: రణ్‌వీర్‌ ఇన్‌స్టా పోస్టు.. బేబీ బంప్‌తో దీపికా పదుకొణె - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORndadEJOM3ZMV1dYV1d4bzFsaEVVb3ozaU5ockRzekNOVHZndmtLVS0zRkZ6RmJkd19YNmxTdHBwV042emR0WWp2SjJtZkhxR2swaDdnZXN0N0Ywc0JzMU8zQlNwRzVCVTZxeUxKX1h6T2dTQ3ZfRHpEZm5SeE9UUkdqQzJMRXpLaDVHUEdVaHRhNFNCVDQwMjQ2NnItS3RGTEdXZEFYbVdVVTd4Y2ZhZUtkV3hMdzhfRHfSAboBQVVfeXFMTkZ3WnRCTjN2TFdXWFdXeG8xbGhFVW96M2lOaHJEc3pDTlR2Z3ZrS1UtM0ZGekZiZHdfWDZsU3RwcFdONnpkdFlqdkoybWZIcUdrMGg3Z2VzdDdGMHNCczFPM0JTcEc1QlU2cXlMSl9Yek9nU0N2X0R6RGZuUnhPVFJHakMyTEV6S2g1R1BHVWh0YTRTQlQ0MDI0NjZyLUt0RkxHV2RBWG1XVVU3eGNmYWVLZFd4THc4X0R3?oc=5",
             "source": "Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-08T14:50:38+00:00"
+          },
+          {
+            "title": "LOC వెంబడి దట్టమైన అడవిలో పాకిస్థాన్ బిగ్ స్కెచ్.. భారత్ కు హై అలర్ట్..!!",
+            "link": "https://telugu.oneindia.com/news/india/pakistan-building-terror-infrastructure-along-the-line-of-control-india-on-alert-operation-sindoor-505363.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-08T19:59:55+05:30"
           }
         ],
         "Entertainment": [
