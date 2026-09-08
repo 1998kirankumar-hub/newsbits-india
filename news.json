@@ -1,26 +1,40 @@
 {
-  "updated_at": "2026-09-08T00:01:38.756245+00:00",
+  "updated_at": "2026-09-08T00:31:16.131659+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump threatens Bombardier ban unless Canadian firm shifts production to US",
+            "link": "https://timesofindia.indiatimes.com/world/us/stop-treating-america-like-a-piggybank-trump-threatens-to-block-canadas-bombardier-jets-in-us/articleshow/133901680.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-08T05:43:20+05:30"
+          },
+          {
+            "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.",
+            "published": "2026-09-08T00:00:00+00:00"
+          },
+          {
             "title": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official",
             "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
             "source": "The Hindu",
             "summary": "With this recognition, U.K. importers of eligible Indian goods covered under CBAM will be able to seek carbon price relief",
-            "published": "2026-09-08T05:23:39+05:30"
+            "published": "2026-09-08T05:25:42+05:30"
           },
           {
-            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison attack",
+            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
             "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
             "published": "2026-09-07T23:50:53+00:00"
           },
           {
-            "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+            "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
             "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
@@ -36,7 +50,7 @@
           {
             "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
             "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
+            "source": "BBC World",
             "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
             "published": "2026-09-07T23:29:12+00:00"
           },
@@ -88,29 +102,22 @@
             "source": "Al Jazeera",
             "summary": "Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.",
             "published": "2026-09-07T22:37:25+00:00"
-          },
-          {
-            "title": "Resolution doesn't endorse any specific map: MEA",
-            "link": "https://timesofindia.indiatimes.com/india/resolution-doesnt-endorse-any-specific-map-mea/articleshow/133899858.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-08T03:53:42+05:30"
-          },
-          {
-            "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-            "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-            "published": "2026-09-07T22:23:03+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Trump threatens Bombardier ban unless Canadian firm shifts production to US",
+            "link": "https://timesofindia.indiatimes.com/world/us/stop-treating-america-like-a-piggybank-trump-threatens-to-block-canadas-bombardier-jets-in-us/articleshow/133901680.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-08T05:43:20+05:30"
+          },
           {
             "title": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official",
             "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
             "source": "The Hindu",
             "summary": "With this recognition, U.K. importers of eligible Indian goods covered under CBAM will be able to seek carbon price relief",
-            "published": "2026-09-08T05:23:39+05:30"
+            "published": "2026-09-08T05:25:42+05:30"
           },
           {
             "title": "\"Ties With India Long-standing, Historic\": Iran Ahead Of Pezeshkian Visit",
@@ -169,7 +176,7 @@
             "published": "2026-09-08T03:28:58+05:30"
           },
           {
-            "title": "Eiffel Tower closes after female staff allegedly sidelined during Hindu group's visit",
+            "title": "Eiffel Tower closes after female staff 'sidelined' during Hindu group's visit",
             "link": "https://timesofindia.indiatimes.com/world/europe/eiffel-tower-shuts-after-female-staff-allegedly-sidelined-during-hindu-groups-visit/articleshow/133897226.cms",
             "source": "Times of India",
             "summary": "",
@@ -181,25 +188,25 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-08T02:53:00+05:30"
-          },
-          {
-            "title": "Uttar Pradesh Congress president Ajay Rai, others detained as row over Saharanpur mosque demolition escalates",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-president-ajay-rai-others-detained-as-row-over-saharanpur-mosque-demolition-escalates/article71439412.ece",
-            "source": "The Hindu",
-            "summary": "The Congress described the police action as dictatorship, adding the administration is working on the directions of the Bharatiya Janata Party (BJP) government to silence the voices of opposition.",
-            "published": "2026-09-08T02:38:56+05:30"
           }
         ],
         "World": [
           {
-            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison attack",
+            "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.",
+            "published": "2026-09-08T00:00:00+00:00"
+          },
+          {
+            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
             "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
             "published": "2026-09-07T23:50:53+00:00"
           },
           {
-            "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+            "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
             "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
@@ -211,6 +218,13 @@
             "source": "BBC World",
             "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
             "published": "2026-09-07T23:40:39+00:00"
+          },
+          {
+            "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+            "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+            "published": "2026-09-07T23:29:12+00:00"
           },
           {
             "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers",
             "published": "2026-09-07T21:09:44+00:00"
-          },
-          {
-            "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-            "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
-            "published": "2026-09-07T21:00:58+00:00"
-          },
-          {
-            "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
-            "published": "2026-09-07T20:59:56+00:00"
           }
         ],
         "Business": [
@@ -641,6 +641,27 @@
             "published": "2026-09-08T12:40:10+05:30"
           },
           {
+            "title": "क्या राहुल गांधी ने छोटी लड़ाई को बड़ा बनाया:निशु और स्वतंत्र भारद्वाज में 3 समानताएं, फिर दोनों की लड़ाई में क्यों कूदे राहुल",
+            "link": "https://www.bhaskar.com/local/bihar/news/nishu-azad-swatantra-bhardwaj-controversy-rahul-gandhi-statement-138965540.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-08T00:19:34+00:00"
+          },
+          {
+            "title": "डॉक्टर को मारने वाले शिवसेना पार्षद की जमानत पर सुनवाई:सुप्रीम कोर्ट बोला- हालात बद्तर हुए, ऐसे लोग सड़कों पर नहीं घूमना चाहिए",
+            "link": "https://www.bhaskar.com/national/news/maharashtra-doctor-attack-supreme-court-sc-ruling-hospital-security-138965538.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-08T00:19:11+00:00"
+          },
+          {
+            "title": "क्या रिटायरमेंट का इंतजार है?:सीजेआई ने कहा- अरावली की रिपोर्ट 3 माह में नहीं मिली तो कमेटी बदल देंगे",
+            "link": "https://www.bhaskar.com/g/national/news/are-you-waiting-for-retirement-dbp-138963637.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-08T00:00:00+00:00"
+          },
+          {
             "title": "खबर हटके-12 हजार फीट से गिरी महिला, पेड़ पर अटकीं:कुत्ते को इलाज के लिए मधुमक्खियों से कटवाया; भोजपुरी गाने पर रोबोट का डांस",
             "link": "https://www.bhaskar.com/national/news/khabar-hatke-skydiver-survives-12000ft-fall-dog-bee-treatment-robot-dance-in-bhojpuri-song-viral-news-138962379.html",
             "source": "Dainik Bhaskar",
@@ -649,28 +670,28 @@
           },
           {
             "title": "बिहार के 12 जिलों में बाढ़, 4 हजार घर डूबे:यूपी के 49 जिलों में अलर्ट, MP में चार दिनों तक रहेगा बारिश का दौर",
-            "link": "https://www.bhaskar.com/national/news/up-mp-weather-alert-bihar-flood-update-heavy-rain-138962524.html",
+            "link": "https://www.bhaskar.com/g/national/news/up-mp-weather-alert-bihar-flood-update-heavy-rain-138962524.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-07T23:35:00+00:00"
           },
           {
             "title": "ब्रिक्स देश डिजिटल करेंसी से कारोबार की तैयारी में:छोटे कारोबारियों को बड़ी राहत; बिना कुछ भी गिरवी रखे ब्रिक्स देशों में कारोबार कर पाएंगे",
-            "link": "https://www.bhaskar.com/national/news/brics-summit-digital-currency-trade-small-business-relief-138965504.html",
+            "link": "https://www.bhaskar.com/g/national/news/brics-summit-digital-currency-trade-small-business-relief-138965504.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-07T23:33:11+00:00"
           },
           {
             "title": "4 राज्यों में उपचुनाव का ऐलान, 6 अक्टूबर को वोटिंग:रिजल्ट 9 अक्टूबर को; बंगाल की 2 विधानसभा और असम की एक लोकसभा सीट शामिल",
-            "link": "https://www.bhaskar.com/national/news/election-commission-announces-by-election-dates-tamil-nadu-bengal-assam-138963747.html",
+            "link": "https://www.bhaskar.com/g/national/news/election-commission-announces-by-election-dates-tamil-nadu-bengal-assam-138963747.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-07T20:39:06+00:00"
           },
           {
             "title": "भास्कर अपडेट्स:ठाणे में 17 साल का लड़का बिल्डिंग से कूदा, पसंदीदा इंस्टीट्यूट में एडमिशन न मिलने पर दुखी था, 12वीं में 95.7% मार्क्स थे",
-            "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-8-september-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138963616.html",
+            "link": "https://www.bhaskar.com/g/national/news/breaking-news-live-updates-headlines-8-september-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-138963616.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-07T20:12:24+00:00"
@@ -684,31 +705,10 @@
           },
           {
             "title": "सत्य निकेतन हादसा- पूरी दिल्ली में बिल्डिंग जांच के आदेश:MCD ने 3 दिन में रिपोर्ट मांगी; 28 लाख में सिर्फ 19 इमारतें खतरनाक मिलीं थी",
-            "link": "https://www.bhaskar.com/national/news/delhi-mcd-building-survey-safety-audit-satya-niketan-collapse-report-138963168.html",
+            "link": "https://www.bhaskar.com/g/national/news/delhi-mcd-building-survey-safety-audit-satya-niketan-collapse-report-138963168.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-07T18:38:45+00:00"
-          },
-          {
-            "title": "Air India Express की फ्लाइट की चेन्नई में क्यों इमरजेंसी लैंडिंग? बाल-बाल बचे 180 यात्री, सिंगापुर जा रहे थे",
-            "link": "https://hindi.oneindia.com/news/india/air-india-express-flight-emergency-landing-chennai-180-passengers-singapore-bound-reason-news-hindi-1644245.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-07T23:15:56+05:30"
-          },
-          {
-            "title": "Maha Ashtami पर बंगाल में शराब की बिक्री पर बैन! दुर्गा पूजा कार्निवल पर रोक, CM शुभेंदु के क्या-क्या निर्देश?",
-            "link": "https://hindi.oneindia.com/news/india/bengal-liquor-ban-maha-ashtami-durga-puja-carnival-halted-cm-suvendu-directives-news-hindi-1644239.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-07T22:58:38+05:30"
-          },
-          {
-            "title": "स्वच्छ वायु सर्वेक्षण 2026- लखनऊ पहले नंबर पर:दिल्ली प्रदूषित हवा के बावजूद श्रीनगर और बेंगलुरु से आगे; इंदौर पूरे देश में दूसरे नंबर पर",
-            "link": "https://www.bhaskar.com/national/news/delhi-air-quality-rank-swachh-vayu-survey-lucknow-indore-138962446.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-07T16:42:53+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "గోదావరి పుష్కరాలను అద్భుతంగా నిర్వహిస్తాం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZEpBYlU3LTd1MlJ0VWVvR2pJbmZFOHNnUldXczNTd3hfUi1MNi1FZ2hreXlsV1d6VWV2MUZHWWZvVUtzQU9iWG9LVEgtNENONjAxbFMyOEdGZEI1Y2ZWZ05fMnowaGhzTGYxX0lhdllaUmVnRUHSAXZBVV95cUxOUmRKQWJVNy03dTJSdFVlb0dqSW5mRThzZ1JXV3MzU3d4X1ItTDYtRWdoa3l5bFdXelVldjFGR1lmb1VLc0FPYlhvS1RILTRDTjYwMWxTMjhHRmRCNWNmVmdOXzJ6MGhoc0xmMV9JYXZZWlJlZ0VB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T23:46:51+00:00"
+          },
+          {
             "title": "బీఎఫ్‌ఎస్‌ఐ రంగం కోసం బ్లూ మెషీన్స్‌ ఏఐ మోడల్‌ ‘అరోరా’ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4teEItcElGQ29TZHF3RldnWHhwa2VnX0xsMnJNclh3R2lDZzVEYU9GU1R6RElsaHFVcld2anBFQ3hYRWJGcy1xa2tVUHRNbHZOX3J4R05icGNjTUZESnE1RkNhc1ZkQkx4N1hoMERfcHkwNW140gF0QVVfeXFMTi14Qi1wSUZDb1NkcXdGV2dYeHBrZWdfTGwyck1yWHdHaUNnNURhT0ZTVHpESWxocVVyV3ZqcEVDeFhFYkZzLXFra1VQdE1sdk5fcnhHTmJwY2NNRkRKcTVGQ2FzVmRCTHg3WGgwRF9weTA1bXg?oc=5",
             "source": "Eenadu",
@@ -1086,11 +1093,32 @@
             "published": "2026-09-07T22:58:31+00:00"
           },
           {
-            "title": "సంక్షిప్త వార్తలు (5) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2VGNQTGtLWVVmOE1jZjB1ZXMtYnVCeGJOeDNKbVdET2owVXhUSzdaY2hiajczeVNjdzRFNzZOYlZmQUpmZXM1UHkxaURVTDBGYUl6SEJ3TkZiZG1vVHhQSmh1X043OTBaakg2OWc0bi1JZm8tTlYxTERnZlrSAXxBVV95cUxQNlRjUExrS1lVZjhNY2YwdWVzLWJ1QnhiTngzSm1XRE9qMFV4VEs3WmNoYmo3M3lTY3c0RTc2TmJWZkFKZmVzNVB5MWlEVUwwRmFJekhCd05GYmRtb1R4UEpodV9ONzkwWmpINjlnNG4tSWZvLU5WMUxEZ2Za?oc=5",
+            "title": "‘స్కూల్‌ కనెక్ట్‌’ అక్టోబర్‌ బ్యాచ్‌కు దరఖాస్తుల ఆహ్వానం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81RnBjMGhQOXhPUWxnT0p1ZXg2TVJtNjJKcGdycUtFRnRGTThzdFRPU3lzMkREU3NocXN1WjR4aG41bUt6Q1BPOFhieTcxRFkxSnl6LVBCLUJRYmdWWmdscWNOZExFREFPdTJlNjhvSVTSAXBBVV95cUxPNUZwYzBoUDl4T1FsZ09KdWV4Nk1SbTYySnBncnFLRUZ0Rk04c3RUT1N5czJERFNzaHFzdVo0eGhuNW1LekNQTzhYYnk3MURZMUp5ei1QQi1CUWJnVlpnbHFjTmRMRURBT3UyZTY4b0lU?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-07T21:57:10+00:00"
+            "published": "2026-09-07T22:34:49+00:00"
+          },
+          {
+            "title": "భర్త కళ్లెదుటే భార్య మృతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOanZkRVVSLWFycU1OOXlITWk5N3VRUzNMLWgwdHhZZkUwdFh5ckpuZlgwMDJiLU1kc3dMV19wTDJlN2lKMlJCUVJhQTdXYW1Na00wRVAzbVFueGpVd0t6dVBhQmxtRVEtY3ZSOGN3M1dOenJUYzZtaTktWVdHU2tUcA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T22:14:13+00:00"
+          },
+          {
+            "title": "AP Liquor Scam: ఈవీ తయారీ సంస్థ పెడదామంటూ.. మద్యం కుంభకోణంలో దించాడు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3kzLUIyQUdVTVJrd2lnNm16djktUjRwV3Z2WUpFWWp6aFhGZVJ4V3JqM0daVGlMM0d1QXoxaC03ZHpYQmpTZXpmMTFwc3FzSUJ6UnpxRXBrY2luR25tR18td09scHdvSnM1M0xNQ3ROSnRRTUFPa09Hb185Tl9PNU5DZ1ZjN1ZqOThNWFlzY3lsRjQ4aXotNVVB0gGaAUFVX3lxTE5jeTMtQjJBR1VNUmt3aWc2bXp2OS1SNHBXdnZZSkVZanpoWEZlUnhXcmozR1pUaUwzR3VBejFoLTdkelhCalNlemYxMXBzcXNJQnpSenFFcGtjaW5Hbm1HXy13T2xwd29KczUzTE1DdE5KdFFNQU9rT0dvXzlOX081TkNnVmM3Vmo5OE1YWXNjeWxGNDhpei01VUE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T22:10:10+00:00"
+          },
+          {
+            "title": "వసూళ్లు ఎక్కువ చేసి చెప్పడం బాక్సాఫీస్‌కి సమస్యే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kNEpvMF92cmZUdVJlSjJmWkJwNklUYzJnc3pmZ2RfVXRHZmhGVUJGMFd6cThXUlFkdlZpcmRLVEstY25WQUswYVFtclE1UEhMV3NOLUc4ZkhpSGRkNDR3MVlCVFlxTEpYYXNsS0xYVlJ2d9IBckFVX3lxTE9kNEpvMF92cmZUdVJlSjJmWkJwNklUYzJnc3pmZ2RfVXRHZmhGVUJGMFd6cThXUlFkdlZpcmRLVEstY25WQUswYVFtclE1UEhMV3NOLUc4ZkhpSGRkNDR3MVlCVFlxTEpYYXNsS0xYVlJ2dw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-07T22:01:10+00:00"
           },
           {
             "title": "LIC: చరిత్ర ఘనం... సవాళ్లలో వర్తమానం - Eenadu",
@@ -1114,13 +1142,6 @@
             "published": "2026-09-07T21:17:59+00:00"
           },
           {
-            "title": "పాక్‌ కెప్టెన్‌ ఫాతిమాకు జరిమానా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZ19uU0pnN0RPdEo4MHJYMDZ6Rkt5eTdFS2VkN21GX0FxZjZoMzdlX3dYQy1iakxFN1JmY3diNHdEcVJrTGp3aWlwMHZXVW1qUmtQR1pKVkg3cU53WDNRbHdId2RPenRkQjlrT01KeWpaZ9IBckFVX3lxTE5pZ19uU0pnN0RPdEo4MHJYMDZ6Rkt5eTdFS2VkN21GX0FxZjZoMzdlX3dYQy1iakxFN1JmY3diNHdEcVJrTGp3aWlwMHZXVW1qUmtQR1pKVkg3cU53WDNRbHdId2RPenRkQjlrT01KeWpaZw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T21:17:17+00:00"
-          },
-          {
             "title": "ఆసియా కప్‌ సెమీస్‌లో పాక్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14akMyS1BQYjhSR2tsNXBuOXhJQ1h5S0VVenJVNmxNb25PTlYxekZqRVNKQkVaNDdkalhQNEFqSjlPd2xSUTdGWTJGVnBIQ1F4ZnlrRzlfZ2J6X1JnQ1RIQTFOS3J4aUlyOGM2TUUwTDNSQdIBckFVX3lxTE14akMyS1BQYjhSR2tsNXBuOXhJQ1h5S0VVenJVNmxNb25PTlYxekZqRVNKQkVaNDdkalhQNEFqSjlPd2xSUTdGWTJGVnBIQ1F4ZnlrRzlfZ2J6X1JnQ1RIQTFOS3J4aUlyOGM2TUUwTDNSQQ?oc=5",
             "source": "Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-07T21:15:59+00:00"
-          },
-          {
-            "title": "అమృత్‌సర్‌ ఎయిర్‌పోర్ట్‌ వద్ద డ్రోన్ల కలకలం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KRVJNS0xfRXZSRUd4bjZsOENnNjBLdG9MY0IwcEtzck9qckdEWVJpdC0wMDBGcnZ3OTdVU2VDVTluN0t4dl9IcHlOU0NTaW80RW9lX2xoTDl6bmxuYmF3aVpaYjk1MDA1b0xKRTVTUEJhekh4czk0dQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T20:30:06+00:00"
-          },
-          {
-            "title": "Siddipet: పైలెట్‌గా ఎంపికైన బల్లునాయక్‌తండా యువకుడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmJ3NzJmRlFFQmlqeW5ibGNrQldITllsa2tkRFJQb1ZlQm0yNUJneHdvc052ZW5ZZ2hzRWlvS2YxbHZVLUtlLTJKelk5OFdPZFByYzFIOTdwUUFXUlJ1N2p2UUVHeURBR1R3R25GSzlXaDQ1cm45TDB3QjVTRWlKbldzS2ZZTXF0STlKWWlpVWluWUhIOXRxN3o5cEEyRVQt?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T19:47:45+00:00"
-          },
-          {
-            "title": "Apple Foldable iPhone: తొలి ఫోల్డబుల్ ఐఫోన్‌లో.. ఈ ఫీచర్లు ఉండవా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3cwSFhBa1dVbkhUemNYVW5EcTJDRHdWRmJ5MDVrVi16T2piWWFpM2FqRWhubGQxX2VTZHdMYVlvLTlTNUxoRU8wNDNUNEZKUC02bFdRLVlzTV9pa1hVdHg4c1c2eC13dVNibWZhNTRaT1c1TWlZVDh2UzJobkZJWGx2OEl1VGIteFJGSktmX3YwbHZBakJoZ2kxVXg4ekJMaEhHTHZjOU9GeFhPU28tT3lkc05fVWxCU3p4dmEyWUJFSENXY2Z2T2ctONIBywFBVV95cUxQT3cwSFhBa1dVbkhUemNYVW5EcTJDRHdWRmJ5MDVrVi16T2piWWFpM2FqRWhubGQxX2VTZHdMYVlvLTlTNUxoRU8wNDNUNEZKUC02bFdRLVlzTV9pa1hVdHg4c1c2eC13dVNibWZhNTRaT1c1TWlZVDh2UzJobkZJWGx2OEl1VGIteFJGSktmX3YwbHZBakJoZ2kxVXg4ekJMaEhHTHZjOU9GeFhPU28tT3lkc05fVWxCU3p4dmEyWUJFSENXY2Z2T2ctOA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-07T19:36:00+00:00"
           }
         ],
         "Entertainment": [
@@ -1489,8 +1489,8 @@
             "published": "2026-09-07T17:00:01+00:00"
           },
           {
-            "title": "শেখ হাসিনার সম্পত্তি বাজেয়াপ্ত করার প্রক্রিয়া চলছে বাংলাদেশে! কী কী রয়েছে প্রাক্তন প্রধানমন্ত্রীর নামে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWZfejV3eUF0TlBnSGs2R2t1cU5XS1F1RWh3akRfWk1WSnR2LW9NeGpPSVIzcUdCdlRtcWhTOTRqOTQ3N1BPNU11MXRFUkN4NE5GV1dYT1A0eC1yWjRaRXROYkZidGFMRkJXUGY1cnFZUUg3TDhaTDlUZkU0eWtUMmJfUWVaa0NDeFowOWY5SEZDcVlkT1JyVDZLdWFTS0MwN1NlaTRUMHJxVWFn?oc=5",
+            "title": "শেখ হাসিনার সম্পত্তি বাজেয়াপ্ত করার প্রক্রিয়া চলছে বাংলাদেশে! কী কী রয়েছে প্রাক্তন প্রধানমন্ত্রীর নামে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWZfejV3eUF0TlBnSGs2R2t1cU5XS1F1RWh3akRfWk1WSnR2LW9NeGpPSVIzcUdCdlRtcWhTOTRqOTQ3N1BPNU11MXRFUkN4NE5GV1dYT1A0eC1yWjRaRXROYkZidGFMRkJXUGY1cnFZUUg3TDhaTDlUZkU0eWtUMmJfUWVaa0NDeFowOWY5SEZDcVlkT1JyVDZLdWFTS0MwN1NlaTRUMHJxVWFn0gGyAUFVX3lxTE5sTzE5NjlnVVUyWXVqNGtEU3paX3BNUk55LWxWMk5MTENTR1JhQ0d2Q3pSOFU3OGRZMGxJMGxxR1hHczdybzlEWWdvMDYwd3FGNmNnZXBjQ3ZQenViWnFobnhxNGNFM2hsQlBzV2dWLXhKdjJBelpSNWlOdXhnS3B1emlyRi1qdk1iUXNHV0F2Qm1ybmhScVJlbldqZ0hYdGlfZ1FqNzBhRzc1SlA0S2NGZHc?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-07T16:09:47+00:00"
