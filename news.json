@@ -1,202 +1,223 @@
 {
-  "updated_at": "2026-09-09T09:01:37.923740+00:00",
+  "updated_at": "2026-09-09T09:31:32.895932+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-            "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "It is the latest in a series of increasingly stark warnings about the safety threat posed by AI that leading industry figures have made.",
-            "published": "2026-09-09T08:59:52+00:00"
-          },
-          {
-            "title": "Bangladesh bank on bowlers in bid to bring India down",
-            "link": "https://www.cricinfo.com/ci/content/story/1553394.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Bangladesh will hope to test a shaky Indian middle order in sweltering conditions in Dubai",
-            "published": "2026-09-09T08:55:58+00:00"
-          },
-          {
-            "title": "Learner drivers still waiting 20 weeks to book tests",
-            "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-            "published": "2026-09-09T08:50:02+00:00"
-          },
-          {
-            "title": "England Women appoint Leah Poulton as managing director",
-            "link": "https://www.cricinfo.com/ci/content/story/1553414.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Former international batter has developed Australia's pathways and spent six years as NSW head of elite female cricket",
-            "published": "2026-09-09T08:48:54+00:00"
-          },
-          {
-            "title": "Adopt scientific approach for sustainable housing projects: MoHUA official",
-            "link": "https://timesofindia.indiatimes.com/real-estate/news/realty-firms-must-adopt-scientific-approach-for-sustainable-housing-projects-mohua-official/articleshow/133959208.cms",
-            "source": "Times of India",
-            "summary": "D Thara, a senior ministry official, encouraged housing developers to implement scientific strategies in their projects. She highlighted the importance of green spaces, rainwater harvesting, and water recycling for sustainable urban living. Developers are advised to factor in necessary infrastructure and environmental accountability. The Delhi Master Plan 2047 focuses on creating affordable housing for residents…",
-            "published": "2026-09-09T14:16:52+05:30"
-          },
-          {
-            "title": "Seems PM Modi wants entire caste census process to fail: Congress",
-            "link": "https://www.thehindu.com/news/national/seems-pm-modi-wants-entire-caste-census-process-to-fail-congress/article71446460.ece",
-            "source": "The Hindu",
-            "summary": "Congress general secretary in-charge communications Jairam Ramesh said his party has held 17 press conferences across the country in the last four days and reiterated the demand for conducting the caste census in the right manner",
-            "published": "2026-09-09T14:14:09+05:30"
-          },
-          {
-            "title": "Andhra Pradesh unveils roadmap to ensure 24X7 quality power supply amid El Niño challenges",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-unveils-roadmap-to-ensure-24x7-quality-power-supply-amid-el-nino-challenges/article71442392.ece",
-            "source": "The Hindu",
-            "summary": "State to procure 1,600 MW of thermal power through tariff-based competitive bidding; developers to maintain a mandatory 15-day coal stock; DISCOMs told to prepare a 12-month supply plan",
-            "published": "2026-09-09T14:14:02+05:30"
-          },
-          {
-            "title": "Amid criticism over power cuts, CM says Keralam govt expects to ease electricity crisis by mid-September",
-            "link": "https://www.thehindu.com/news/national/kerala/amid-criticism-over-power-cuts-cm-says-keralam-govt-expects-to-ease-electricity-crisis-by-mid-september/article71446470.ece",
-            "source": "The Hindu",
-            "summary": "Satheesan says instructions will be issued to Kerala State Electricity Board to streamline power cut announcements",
-            "published": "2026-09-09T14:13:49+05:30"
-          },
-          {
-            "title": "Oil hits $100 a barrel for first time since July after US strikes",
+            "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
             "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-            "published": "2026-09-09T08:42:36+00:00"
+            "published": "2026-09-09T09:28:15+00:00"
+          },
+          {
+            "title": "Decision on ED request for FIR against Pinarayi, daughter in CMRL case after legal scrutiny: Keralam CM",
+            "link": "https://www.thehindu.com/news/national/kerala/decision-on-ed-request-for-fir-against-pinarayi-daughter-in-cmrl-case-after-legal-scrutiny-keralam-cm/article71446255.ece",
+            "source": "The Hindu",
+            "summary": "V.D. Satheesan says ‘major’ allegations have been raised in ED’s letter seeking registration of case against Pinarayi Vijayan, T. Veena and Mohamed Riyas under Prevention of Corruption Act",
+            "published": "2026-09-09T14:53:23+05:30"
+          },
+          {
+            "title": "Lynching of Manipur musician Chongtham Vikram Singh sparks outcry over northeast discrimination in Delhi",
+            "link": "https://www.thehindu.com/news/cities/Delhi/chongtham-vikram-singhs-assault-and-killing-explained/article71445692.ece",
+            "source": "The Hindu",
+            "summary": "Soon after the killing of the musician from Imphal, several civil society organisations representing communities from northeast India called for introspection on how they are treated in certain parts of India",
+            "published": "2026-09-09T14:53:05+05:30"
+          },
+          {
+            "title": "Chongtham Vikram Singh was a peace-loving musician who lived a peaceful life, says wife",
+            "link": "https://www.thehindu.com/news/national/manipur/chongtham-vikram-singh-was-a-peace-loving-musician-who-lived-a-peaceful-life-says-wife/article71443570.ece",
+            "source": "The Hindu",
+            "summary": "Activist Binalakshmi Nepram seeks life imprisonment for accused, says government’s responsibility to educate people so they \"love and respect us, not kill us\"",
+            "published": "2026-09-09T14:52:23+05:30"
+          },
+          {
+            "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+            "published": "2026-09-09T09:21:50+00:00"
+          },
+          {
+            "title": "DMK to stage demonstrations against Tamil Nadu CM Vijay’s remarks on Stalin in Assembly",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-to-stage-demonstrations-against-tamil-nadu-cm-vijays-remarks-on-stalin-in-assembly/article71446543.ece",
+            "source": "The Hindu",
+            "summary": "Demonstrations will be staged at the party’s headquarters in all districts on September 12",
+            "published": "2026-09-09T14:50:44+05:30"
+          },
+          {
+            "title": "177 Velampeta families to get flats where their huts stand; ₹40 crore slum redevelopment begins in Visakhapatnam",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/177-velampeta-families-to-get-flats-where-their-huts-stand-40-crore-slum-redevelopment-begins-in-visakhapatnam/article71446024.ece",
+            "source": "The Hindu",
+            "summary": "Minister P. Narayana lays the foundation stone for the State’s first in-situ slum redevelopment, to be built in nine months with shear-wall technology; each family gets ₹3,000 a month in rent meanwhile, and residents who have waited decades say it feels like a dream",
+            "published": "2026-09-09T14:49:50+05:30"
+          },
+          {
+            "title": "Delhi High Court notice on plea for DU hostels, safety audits of PGs",
+            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-notice-on-plea-for-du-hostels-safety-audits-of-pgs/article71446350.ece",
+            "source": "The Hindu",
+            "summary": "The plea has been filed in the wake of the September 6 collapse of multi-storey buildings being used as student PG accommodation at Satya Niketan",
+            "published": "2026-09-09T14:49:50+05:30"
+          },
+          {
+            "title": "ED raids premises linked to Karnataka PWD Minister Satish Jarkiholi, his daughter",
+            "link": "https://www.thehindu.com/news/national/karnataka/ed-raids-premises-linked-to-karnataka-pwd-minister-satish-jarkiholi/article71445491.ece",
+            "source": "The Hindu",
+            "summary": "No clarity on whether the Minister is at any of the locations being raided; the ED clarified that the latest raids against the Jarkiholis are not related to the excise case and is an independent new case",
+            "published": "2026-09-09T14:49:25+05:30"
           },
           {
             "title": "Telangana Legislature monsoon session LIVE Sept 9: Over 20 BRS MLAs suspended",
             "link": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece",
             "source": "The Hindu",
             "summary": "The monsoon session of the Telangana Legislative Assembly descended into chaos on September 9, resulting in the mass suspension of more than 20 BRS MLAs. The legislative proceedings were significantly disrupted when members of the opposition BRS party flocked to the Speaker’s podium, chanting slogans and demanding justice for their grievances. The atmosphere in the house became increasingly volatile as the protest continued, prompting a government minister to move a motion for the suspension of the disruptive members. Following the motion, the Speaker took action to restore order, leading to the removal of the BRS legislators from the session. This dramatic development reflects the high-stakes political tension currently defining the state's legislative environment. By suspending a significant portion of the opposition, the government effectively sidelined their voices for the duration of the session, a move that is likely to draw further ire from the BRS leadership. The situation highlights the deepening rift between the ruling party and the opposition, as both sides struggle to navigate the legislative agenda amidst intense confrontational politics and vocal disagreements over state governance and policy matters.",
-            "published": "2026-09-09T14:12:23+05:30"
+            "published": "2026-09-09T14:48:55+05:30"
           },
           {
-            "title": "Delhi Court dismisses YouTuber Ajeet Bharti’s anticipatory bail plea in caste remarks case",
-            "link": "https://www.hindustantimes.com/india-news/delhi-court-dismisses-youtuber-ajeet-bharti-s-anticipatory-bail-plea-in-caste-remarks-case-101788942897684.html",
-            "source": "Hindustan Times",
-            "summary": "Bharti has been accused of publicly issuing statements which were casteist, derogatory and humiliating towards a member of the Scheduled Caste community.",
-            "published": "2026-09-09T14:12:11+05:30"
-          },
-          {
-            "title": "1980s AI photo trend: 10 ChatGPT prompts to turn your photos retro",
-            "link": "https://www.hindustantimes.com/india-news/1980s-ai-photo-trend-10-chatgpt-prompts-to-turn-your-photos-retro-gemini-instagram-101788941832399.html",
-            "source": "Hindustan Times",
-            "summary": "From retro street looks to family albums and studio portraits, these prompts can turn your photos into nostalgic 1980s-style AI images.",
-            "published": "2026-09-09T14:10:57+05:30"
-          },
-          {
-            "title": "Narasaraopet bypass by March 2028, land acquisition done, says Palnadu Collector Kritika Shukla",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/narasaraopet-bypass-by-march-2027-land-acquisition-done-says-palnadu-collector-kritika-shukla/article71441907.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-09T14:10:13+05:30"
-          },
-          {
-            "title": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.",
-            "published": "2026-09-09T08:39:20+00:00"
-          }
-        ],
-        "India": [
-          {
-            "title": "Adopt scientific approach for sustainable housing projects: MoHUA official",
-            "link": "https://timesofindia.indiatimes.com/real-estate/news/realty-firms-must-adopt-scientific-approach-for-sustainable-housing-projects-mohua-official/articleshow/133959208.cms",
-            "source": "Times of India",
-            "summary": "D Thara, a senior ministry official, encouraged housing developers to implement scientific strategies in their projects. She highlighted the importance of green spaces, rainwater harvesting, and water recycling for sustainable urban living. Developers are advised to factor in necessary infrastructure and environmental accountability. The Delhi Master Plan 2047 focuses on creating affordable housing for residents…",
-            "published": "2026-09-09T14:16:52+05:30"
-          },
-          {
-            "title": "Seems PM Modi wants entire caste census process to fail: Congress",
-            "link": "https://www.thehindu.com/news/national/seems-pm-modi-wants-entire-caste-census-process-to-fail-congress/article71446460.ece",
-            "source": "The Hindu",
-            "summary": "Congress general secretary in-charge communications Jairam Ramesh said his party has held 17 press conferences across the country in the last four days and reiterated the demand for conducting the caste census in the right manner",
-            "published": "2026-09-09T14:14:09+05:30"
-          },
-          {
-            "title": "Andhra Pradesh unveils roadmap to ensure 24X7 quality power supply amid El Niño challenges",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/andhra-pradesh-unveils-roadmap-to-ensure-24x7-quality-power-supply-amid-el-nino-challenges/article71442392.ece",
-            "source": "The Hindu",
-            "summary": "State to procure 1,600 MW of thermal power through tariff-based competitive bidding; developers to maintain a mandatory 15-day coal stock; DISCOMs told to prepare a 12-month supply plan",
-            "published": "2026-09-09T14:14:02+05:30"
-          },
-          {
-            "title": "Amid criticism over power cuts, CM says Keralam govt expects to ease electricity crisis by mid-September",
-            "link": "https://www.thehindu.com/news/national/kerala/amid-criticism-over-power-cuts-cm-says-keralam-govt-expects-to-ease-electricity-crisis-by-mid-september/article71446470.ece",
-            "source": "The Hindu",
-            "summary": "Satheesan says instructions will be issued to Kerala State Electricity Board to streamline power cut announcements",
-            "published": "2026-09-09T14:13:49+05:30"
-          },
-          {
-            "title": "Telangana Legislature monsoon session LIVE Sept 9: Over 20 BRS MLAs suspended",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece",
-            "source": "The Hindu",
-            "summary": "The monsoon session of the Telangana Legislative Assembly descended into chaos on September 9, resulting in the mass suspension of more than 20 BRS MLAs. The legislative proceedings were significantly disrupted when members of the opposition BRS party flocked to the Speaker’s podium, chanting slogans and demanding justice for their grievances. The atmosphere in the house became increasingly volatile as the protest continued, prompting a government minister to move a motion for the suspension of the disruptive members. Following the motion, the Speaker took action to restore order, leading to the removal of the BRS legislators from the session. This dramatic development reflects the high-stakes political tension currently defining the state's legislative environment. By suspending a significant portion of the opposition, the government effectively sidelined their voices for the duration of the session, a move that is likely to draw further ire from the BRS leadership. The situation highlights the deepening rift between the ruling party and the opposition, as both sides struggle to navigate the legislative agenda amidst intense confrontational politics and vocal disagreements over state governance and policy matters.",
-            "published": "2026-09-09T14:12:23+05:30"
-          },
-          {
-            "title": "Delhi Court dismisses YouTuber Ajeet Bharti’s anticipatory bail plea in caste remarks case",
-            "link": "https://www.hindustantimes.com/india-news/delhi-court-dismisses-youtuber-ajeet-bharti-s-anticipatory-bail-plea-in-caste-remarks-case-101788942897684.html",
-            "source": "Hindustan Times",
-            "summary": "Bharti has been accused of publicly issuing statements which were casteist, derogatory and humiliating towards a member of the Scheduled Caste community.",
-            "published": "2026-09-09T14:12:11+05:30"
-          },
-          {
-            "title": "1980s AI photo trend: 10 ChatGPT prompts to turn your photos retro",
-            "link": "https://www.hindustantimes.com/india-news/1980s-ai-photo-trend-10-chatgpt-prompts-to-turn-your-photos-retro-gemini-instagram-101788941832399.html",
-            "source": "Hindustan Times",
-            "summary": "From retro street looks to family albums and studio portraits, these prompts can turn your photos into nostalgic 1980s-style AI images.",
-            "published": "2026-09-09T14:10:57+05:30"
-          },
-          {
-            "title": "Narasaraopet bypass by March 2028, land acquisition done, says Palnadu Collector Kritika Shukla",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/narasaraopet-bypass-by-march-2027-land-acquisition-done-says-palnadu-collector-kritika-shukla/article71441907.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-09T14:10:13+05:30"
-          },
-          {
-            "title": "NIA has not dropped UAPA probe against US citizen VanDyke and other accused: Report",
-            "link": "https://timesofindia.indiatimes.com/india/nia-has-not-dropped-uapa-probe-against-us-citizen-vandyke-and-other-accused-report/articleshow/133960715.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-09T14:08:46+05:30"
+            "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone Day 4: Ishan Nears Fifty, East Zone In Command At Tea",
+            "link": "https://sports.ndtv.com/cricket/duleep-trophy-final-live-score-east-zone-vs-south-zone-day-4-live-updates-cricket-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-mohammed-shami-12019878#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "East Zone vs South Zone, Duleep Trophy Final Live: East Zone have taken the decisive first innings lead after bowling out South Zone on Day 4 of the Duleep Trophy final.",
+            "published": "2026-09-09T14:48:16+05:30"
           },
           {
             "title": "FCNR(B) deposits: Who bears the currency risk? | Explained",
             "link": "https://www.thehindu.com/business/Economy/fcnrb-deposits-who-bears-the-currency-risk-explained/article71446140.ece",
             "source": "The Hindu",
             "summary": "The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens",
-            "published": "2026-09-09T14:08:35+05:30"
+            "published": "2026-09-09T14:46:49+05:30"
           },
           {
-            "title": "UP to challenge Allahabad HC order making DM pay ₹5 lakh for student’s detention",
-            "link": "https://www.hindustantimes.com/india-news/up-to-challenge-allahabad-hc-order-making-dm-pay-5-lakh-for-student-s-detention-101788943025234.html",
-            "source": "Hindustan Times",
-            "summary": "Chief Justice of India Surya Kant said the court would seek an explanation from the concerned magistrate -- “executive or district or both”, over the action against the student",
-            "published": "2026-09-09T14:07:04+05:30"
-          },
-          {
-            "title": "Newborn girl found abandoned on district hospital compound; police check CCTV",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/newborn-girl-found-abandoned-on-district-hospital-compound-police-check-cctv/article71445751.ece",
+            "title": "Why should BCCI, State bodies be not governed by National Sports Governance Act, asks Supreme Court",
+            "link": "https://www.thehindu.com/sport/why-should-bcci-state-bodies-be-not-governed-by-national-sports-governance-act-asks-supreme-court/article71446539.ece",
             "source": "The Hindu",
-            "summary": "Attendants of patients hear the infant’s cries in the early hours and alert the authorities; the child protection wing moves her to a care centre and the police examine footage to trace who left her",
-            "published": "2026-09-09T14:02:57+05:30"
+            "summary": "The Supreme Court’s inquiry follows years of legal scrutiny and reform initiatives aimed at enhancing transparency and accountability within Indian cricket governance",
+            "published": "2026-09-09T14:45:18+05:30"
+          },
+          {
+            "title": "MP medical interns’ protest enters Day 3 as they demand stipend hike, slam police ‘action’",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece",
+            "source": "The Hindu",
+            "summary": "Doctors at the government-run Gandhi Medical College (GMC) in Bhopal have announced a boycott of the OPD",
+            "published": "2026-09-09T14:42:48+05:30"
+          }
+        ],
+        "India": [
+          {
+            "title": "Decision on ED request for FIR against Pinarayi, daughter in CMRL case after legal scrutiny: Keralam CM",
+            "link": "https://www.thehindu.com/news/national/kerala/decision-on-ed-request-for-fir-against-pinarayi-daughter-in-cmrl-case-after-legal-scrutiny-keralam-cm/article71446255.ece",
+            "source": "The Hindu",
+            "summary": "V.D. Satheesan says ‘major’ allegations have been raised in ED’s letter seeking registration of case against Pinarayi Vijayan, T. Veena and Mohamed Riyas under Prevention of Corruption Act",
+            "published": "2026-09-09T14:53:23+05:30"
+          },
+          {
+            "title": "Lynching of Manipur musician Chongtham Vikram Singh sparks outcry over northeast discrimination in Delhi",
+            "link": "https://www.thehindu.com/news/cities/Delhi/chongtham-vikram-singhs-assault-and-killing-explained/article71445692.ece",
+            "source": "The Hindu",
+            "summary": "Soon after the killing of the musician from Imphal, several civil society organisations representing communities from northeast India called for introspection on how they are treated in certain parts of India",
+            "published": "2026-09-09T14:53:05+05:30"
+          },
+          {
+            "title": "Chongtham Vikram Singh was a peace-loving musician who lived a peaceful life, says wife",
+            "link": "https://www.thehindu.com/news/national/manipur/chongtham-vikram-singh-was-a-peace-loving-musician-who-lived-a-peaceful-life-says-wife/article71443570.ece",
+            "source": "The Hindu",
+            "summary": "Activist Binalakshmi Nepram seeks life imprisonment for accused, says government’s responsibility to educate people so they \"love and respect us, not kill us\"",
+            "published": "2026-09-09T14:52:23+05:30"
+          },
+          {
+            "title": "DMK to stage demonstrations against Tamil Nadu CM Vijay’s remarks on Stalin in Assembly",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-to-stage-demonstrations-against-tamil-nadu-cm-vijays-remarks-on-stalin-in-assembly/article71446543.ece",
+            "source": "The Hindu",
+            "summary": "Demonstrations will be staged at the party’s headquarters in all districts on September 12",
+            "published": "2026-09-09T14:50:44+05:30"
+          },
+          {
+            "title": "177 Velampeta families to get flats where their huts stand; ₹40 crore slum redevelopment begins in Visakhapatnam",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/177-velampeta-families-to-get-flats-where-their-huts-stand-40-crore-slum-redevelopment-begins-in-visakhapatnam/article71446024.ece",
+            "source": "The Hindu",
+            "summary": "Minister P. Narayana lays the foundation stone for the State’s first in-situ slum redevelopment, to be built in nine months with shear-wall technology; each family gets ₹3,000 a month in rent meanwhile, and residents who have waited decades say it feels like a dream",
+            "published": "2026-09-09T14:49:50+05:30"
+          },
+          {
+            "title": "Delhi High Court notice on plea for DU hostels, safety audits of PGs",
+            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-notice-on-plea-for-du-hostels-safety-audits-of-pgs/article71446350.ece",
+            "source": "The Hindu",
+            "summary": "The plea has been filed in the wake of the September 6 collapse of multi-storey buildings being used as student PG accommodation at Satya Niketan",
+            "published": "2026-09-09T14:49:50+05:30"
+          },
+          {
+            "title": "ED raids premises linked to Karnataka PWD Minister Satish Jarkiholi, his daughter",
+            "link": "https://www.thehindu.com/news/national/karnataka/ed-raids-premises-linked-to-karnataka-pwd-minister-satish-jarkiholi/article71445491.ece",
+            "source": "The Hindu",
+            "summary": "No clarity on whether the Minister is at any of the locations being raided; the ED clarified that the latest raids against the Jarkiholis are not related to the excise case and is an independent new case",
+            "published": "2026-09-09T14:49:25+05:30"
+          },
+          {
+            "title": "Telangana Legislature monsoon session LIVE Sept 9: Over 20 BRS MLAs suspended",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-assembly-monsoon-session-live-updates-cm-revanth-reddy-brs-mlas-9-september-2026/article71445902.ece",
+            "source": "The Hindu",
+            "summary": "The monsoon session of the Telangana Legislative Assembly descended into chaos on September 9, resulting in the mass suspension of more than 20 BRS MLAs. The legislative proceedings were significantly disrupted when members of the opposition BRS party flocked to the Speaker’s podium, chanting slogans and demanding justice for their grievances. The atmosphere in the house became increasingly volatile as the protest continued, prompting a government minister to move a motion for the suspension of the disruptive members. Following the motion, the Speaker took action to restore order, leading to the removal of the BRS legislators from the session. This dramatic development reflects the high-stakes political tension currently defining the state's legislative environment. By suspending a significant portion of the opposition, the government effectively sidelined their voices for the duration of the session, a move that is likely to draw further ire from the BRS leadership. The situation highlights the deepening rift between the ruling party and the opposition, as both sides struggle to navigate the legislative agenda amidst intense confrontational politics and vocal disagreements over state governance and policy matters.",
+            "published": "2026-09-09T14:48:55+05:30"
+          },
+          {
+            "title": "FCNR(B) deposits: Who bears the currency risk? | Explained",
+            "link": "https://www.thehindu.com/business/Economy/fcnrb-deposits-who-bears-the-currency-risk-explained/article71446140.ece",
+            "source": "The Hindu",
+            "summary": "The RBI swap shields banks from currency risk on the principal, while banks have to manage dollar interest payments themselves, leaving some exposed if the rupee weakens",
+            "published": "2026-09-09T14:46:49+05:30"
+          },
+          {
+            "title": "Why should BCCI, State bodies be not governed by National Sports Governance Act, asks Supreme Court",
+            "link": "https://www.thehindu.com/sport/why-should-bcci-state-bodies-be-not-governed-by-national-sports-governance-act-asks-supreme-court/article71446539.ece",
+            "source": "The Hindu",
+            "summary": "The Supreme Court’s inquiry follows years of legal scrutiny and reform initiatives aimed at enhancing transparency and accountability within Indian cricket governance",
+            "published": "2026-09-09T14:45:18+05:30"
+          },
+          {
+            "title": "MP medical interns’ protest enters Day 3 as they demand stipend hike, slam police ‘action’",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-medical-interns-protest-demand-stipend-hike-slam-police-action/article71446487.ece",
+            "source": "The Hindu",
+            "summary": "Doctors at the government-run Gandhi Medical College (GMC) in Bhopal have announced a boycott of the OPD",
+            "published": "2026-09-09T14:42:48+05:30"
+          },
+          {
+            "title": "1 Killed, 4 Injured In Oxygen Cylinder Blast In Delhi's Okhla",
+            "link": "https://www.ndtv.com/india-news/1-killed-4-injured-in-oxygen-cylinder-blast-in-delhis-okhla-12022032#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "A 35-year-old man, identified as Mohit Singh, died on the spot. He worked as a helper for a company operating from Okhla Phase 1, police said.",
+            "published": "2026-09-09T14:42:32+05:30"
           }
         ],
         "World": [
           {
-            "title": "Oil hits $100 a barrel for first time since July after US strikes",
+            "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
             "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-            "published": "2026-09-09T08:42:36+00:00"
+            "published": "2026-09-09T09:28:15+00:00"
+          },
+          {
+            "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+            "published": "2026-09-09T09:21:50+00:00"
+          },
+          {
+            "title": "Flash floods surge through Morocco’s Atlas Mountains",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.",
+            "published": "2026-09-09T08:42:49+00:00"
+          },
+          {
+            "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+            "link": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
+            "published": "2026-09-09T08:42:33+00:00"
           },
           {
             "title": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
@@ -204,6 +225,13 @@
             "source": "Al Jazeera",
             "summary": "The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.",
             "published": "2026-09-09T08:39:20+00:00"
+          },
+          {
+            "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+            "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+            "published": "2026-09-09T08:21:39+00:00"
           },
           {
             "title": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
@@ -227,6 +255,13 @@
             "published": "2026-09-09T07:55:20+00:00"
           },
           {
+            "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+            "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+            "published": "2026-09-09T07:44:20+00:00"
+          },
+          {
             "title": "What ‘right’ and ‘left’ mean in Israel today",
             "link": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
             "source": "Al Jazeera",
@@ -239,50 +274,29 @@
             "source": "Al Jazeera",
             "summary": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
             "published": "2026-09-09T07:14:12+00:00"
-          },
-          {
-            "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-            "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
-            "published": "2026-09-09T06:42:01+00:00"
-          },
-          {
-            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-            "published": "2026-09-09T06:28:57+00:00"
-          },
-          {
-            "title": "Why Nepal is demanding climate justice and compensation after deadly floods",
-            "link": "https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Nepal&#039;s politicians have said the country is bearing the brunt for climate change caused by other nations.",
-            "published": "2026-09-09T06:17:02+00:00"
-          },
-          {
-            "title": "Asian Games athletes forced to evacuate amid record rainfall in Japan",
-            "link": "https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rainwater leaked into competition venues a day before some preopening ceremony competitions beginning on Thursday.",
-            "published": "2026-09-09T06:14:33+00:00"
-          },
-          {
-            "title": "As SDF disband in Syria, Kurds ponder how to secure their rights",
-            "link": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.",
-            "published": "2026-09-09T05:57:02+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+            "published": "2026-09-09T09:21:50+00:00"
+          },
           {
             "title": "Learner drivers still waiting 20 weeks to book tests",
             "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-            "published": "2026-09-09T08:50:02+00:00"
+            "published": "2026-09-09T09:05:54+00:00"
+          },
+          {
+            "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+            "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+            "published": "2026-09-09T08:59:52+00:00"
           },
           {
             "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
@@ -297,13 +311,6 @@
             "source": "BBC Business",
             "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
             "published": "2026-09-09T08:04:14+00:00"
-          },
-          {
-            "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-            "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-            "published": "2026-09-09T06:28:57+00:00"
           },
           {
             "title": "Sterlite Tech shares jump 5% to fresh 52-week high, multibagger skyrockets 745% in 2026. What lies ahead?",
@@ -353,22 +360,29 @@
             "source": "BBC Business",
             "summary": "A charity is warning about the risk of home heating oil thefts after falling victim to the crime.",
             "published": "2026-09-09T05:10:43+00:00"
-          },
-          {
-            "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-            "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-            "published": "2026-09-09T05:00:30+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone Day 4: Ishan Nears Fifty, East Zone In Command At Tea",
+            "link": "https://sports.ndtv.com/cricket/duleep-trophy-final-live-score-east-zone-vs-south-zone-day-4-live-updates-cricket-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-mohammed-shami-12019878#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "East Zone vs South Zone, Duleep Trophy Final Live: East Zone have taken the decisive first innings lead after bowling out South Zone on Day 4 of the Duleep Trophy final.",
+            "published": "2026-09-09T14:48:16+05:30"
+          },
           {
             "title": "Bangladesh bank on bowlers in bid to bring India down",
             "link": "https://www.cricinfo.com/ci/content/story/1553394.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Bangladesh will hope to test a shaky Indian middle order in sweltering conditions in Dubai",
-            "published": "2026-09-09T08:55:58+00:00"
+            "published": "2026-09-09T09:05:47+00:00"
+          },
+          {
+            "title": "England vs Pakistan LIVE Score, 3rd Test Day 1: Pakistan Under Scanner After Multiple Sackings By PCB",
+            "link": "https://sports.ndtv.com/cricket/england-vs-pakistan-3rd-test-live-score-day-1-live-updates-eng-v-pak-cricket-scorecard-babar-azam-joe-root-12022515#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "England vs Pakistan 3rd Test LIVE Score Updates: Pakistan enter the third Test under immense scrutiny after sacking seven players and two coaches ahead of the game.",
+            "published": "2026-09-09T14:29:17+05:30"
           },
           {
             "title": "England Women appoint Leah Poulton as managing director",
@@ -378,74 +392,60 @@
             "published": "2026-09-09T08:48:54+00:00"
           },
           {
+            "title": "England vs Pakistan, 3rd Test Live Streaming: When And Where To Watch Live Telecast",
+            "link": "https://sports.ndtv.com/cricket/england-vs-pakistan-3rd-test-live-streaming-when-and-where-to-watch-live-telecast-12022447#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "England vs Pakistan Live Streaming, 3rd Test, Day 1: After losing the first couple of matches, Pakistan are keen to avoid a 0-3 sweep against England at Edgbaston.",
+            "published": "2026-09-09T14:13:44+05:30"
+          },
+          {
+            "title": "WWE Hall Of Famer Kane’s Political Future Takes a New Turn After 8-Year Mayoral Run",
+            "link": "https://sports.ndtv.com/us-wwe/wwe-hall-of-famer-kane-s-political-future-takes-a-new-turn-after-8-year-mayoral-run-12022378#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "WWE Hall of Famer Kane has ended his eight-year run as Knox County mayor, but his political career may not be finished. After discussing family and future campaigns, his name has also surfaced as a possible Tennessee Senate candidate.",
+            "published": "2026-09-09T14:04:09+05:30"
+          },
+          {
+            "title": "Former World Champion And Wrestling Legend Dies At 68 After Cancer Diagnosis Earlier This Year",
+            "link": "https://sports.ndtv.com/us-wwe/former-world-champion-and-wrestling-legend-dies-at-68-after-cancer-diagnosis-earlier-this-year-12022106#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "A wrestling legend has died at 68 after being diagnosed with esophageal cancer earlier this year. His son announced the loss on September 7. From European championship matches to acting and stunt work and, the wrestler had an impressive career.",
+            "published": "2026-09-09T13:53:01+05:30"
+          },
+          {
+            "title": "Asian Games Venues And Athletes Unharmed By Extensive Flooding In Nagoya, Japan",
+            "link": "https://sports.ndtv.com/cricket/asian-games-venues-and-athletes-unharmed-by-extensive-flooding-in-nagoya-japan-12021607#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Athletes who've arrived early for the Asian Games were unharmed by extensive flooding that hit the central Japanese city of Nagoya, Mayor Ichiro Hirosawa said Wednesday.",
+            "published": "2026-09-09T13:47:03+05:30"
+          },
+          {
+            "title": "Indian Olympic Association Forms Committee To Probe Asunta Lakra's Sexual Harassment Allegations Against Top Official",
+            "link": "https://sports.ndtv.com/hockey/indian-olympic-association-forms-committee-to-probe-asunta-lakras-sexual-harassment-allegations-against-top-official-12021430#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Indian Olympic Association (IOA) has constituted a four-member independent inquiry committee headed by retired High Court judge Deepa Sharma to probe the sexual harassment allegations levelled against Hockey India secretary Bhola Nath Singh by former women's team captain Asunta Lakra.",
+            "published": "2026-09-09T13:42:19+05:30"
+          },
+          {
+            "title": "Defending Champion Carlos Alcaraz Knocked Out Of US Open 2026, Loses To Ben Shelton",
+            "link": "https://sports.ndtv.com/tennis/defending-champion-carlos-alcaraz-knocked-out-of-us-open-2026-loses-to-ben-shelton-12022156#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Defending US Open champion Carlos Alcaraz was knocked out of the tournament after a thrilling 5-set defeat against USA's Ben Shelton",
+            "published": "2026-09-09T13:24:48+05:30"
+          },
+          {
+            "title": "Jessica Pegula Outlasts Emma Navarro To Set Up US Open Semi-Final With Aryna Sabalenka",
+            "link": "https://sports.ndtv.com/tennis/jessica-pegula-outlasts-emma-navarro-to-set-up-us-open-semi-final-with-aryna-sabalenka-12021077#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Jessica Pegula booked a third straight US Open showdown with Aryna Sabalenka, grinding out a 3-6, 6-4, 6-3win over Emma Navarro on Tuesday to set a semi-final clash with the two-time defending champion.",
+            "published": "2026-09-09T13:16:07+05:30"
+          },
+          {
             "title": "Namibia bowl; Duan Jansen one of three South Africa debutants",
             "link": "https://www.cricinfo.com/ci/content/story/1553413.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Hermann and Esterhuizen are the other South Africa debutants",
             "published": "2026-09-09T07:41:41+00:00"
-          },
-          {
-            "title": "Duleep Trophy Final LIVE Score, East Zone vs South Zone Day 4: Tilak Varma Nears 100 But Huge Blunder Sends South Zone 8 Down",
-            "link": "https://sports.ndtv.com/cricket/duleep-trophy-final-live-score-east-zone-vs-south-zone-day-4-live-updates-cricket-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-mohammed-shami-12019878#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "East Zone vs South Zone, Duleep Trophy Final Live: South Zone captain Tilak Varma is closing in on a hundred on Day 4 of the Duleep Trophy final against East Zone.",
-            "published": "2026-09-09T11:33:29+05:30"
-          },
-          {
-            "title": "\"Are You Going Home?\": King Charles' Meeting With Pakistan Players Mocked By England Greats",
-            "link": "https://sports.ndtv.com/cricket/are-you-going-home-king-charles-meeting-with-pakistan-players-turn-into-royal-mockery-12021594#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former England cricketers and pundits have called PCB's decision to send players home mid-tour unprecedented and disgraceful.",
-            "published": "2026-09-09T11:10:32+05:30"
-          },
-          {
-            "title": "NFL Breaks New Ground As 100,000 Set To Pack MCG In Australia",
-            "link": "https://sports.ndtv.com/othersports/nfl-breaks-new-ground-as-100-000-set-to-pack-mcg-in-australia-12020909#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The growing popularity of American football in Australia will see the NFL play a regular-season game there for the first time when a sellout crowd packs into the 100,000-capacity Melbourne Cricket Ground.",
-            "published": "2026-09-09T10:08:30+05:30"
-          },
-          {
-            "title": "Gull Feroza penalised for showing dissent during women's T20 Asia Cup game",
-            "link": "https://www.cricinfo.com/ci/content/story/1553389.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Gull Feroza was found to have shown dissent after being given out lbw in Pakistan's game against Hong Kong",
-            "published": "2026-09-09T04:22:01+00:00"
-          },
-          {
-            "title": "Shadab and Alzarri end Amazon Warriors' unbeaten run and take Falcons to top of table",
-            "link": "https://www.cricinfo.com/ci/content/story/1553385.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Falcons now have 13 points to Amazon Warriors' 12, but the latter have three games in hand",
-            "published": "2026-09-09T04:12:57+00:00"
-          },
-          {
-            "title": "Wasim Akram Says He Cannot Help Pakistan Cricket, Reveals Exact Reason Why",
-            "link": "https://sports.ndtv.com/cricket/wasim-akram-says-he-cannot-help-pakistan-cricket-reveals-exact-reason-why-12021229#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Despite being requested multiple times, Wasim Akram doesn't think he can help Pakistan cricket.",
-            "published": "2026-09-09T09:27:14+05:30"
-          },
-          {
-            "title": "Jose Mourinho's Real Madrid Edge Past Inter Milan In UEFA Champions League Opener",
-            "link": "https://sports.ndtv.com/football/jose-mourinhos-real-madrid-edge-past-inter-milan-in-uefa-champions-league-opener-12020546#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Jose Mourinho's Real Madrid secured a narrow 2-1 victory over his former side Inter Milan in a high-octane Champions League opener on Tuesday.",
-            "published": "2026-09-09T09:23:58+05:30"
-          },
-          {
-            "title": "Ireland's Troy Parrott Strikes Again As Real Betis Seal Comeback Win On Champions League Return",
-            "link": "https://sports.ndtv.com/football/irelands-troy-parrott-strikes-again-as-real-betis-seal-comeback-win-on-champions-league-return-12020579#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Real Betis fought back from a goal down twice to beat Lille in their first Champions League match after 21 years.",
-            "published": "2026-09-09T09:19:18+05:30"
-          },
-          {
-            "title": "New South Wales says BBL privatisation push 'threatens' the game",
-            "link": "https://www.cricinfo.com/ci/content/story/1553382.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Cricket NSW release a statement on Wednesday criticising CA's decision to push ahead with privatisation and the process, as well as highlighting the risks",
-            "published": "2026-09-09T03:47:33+00:00"
           }
         ],
         "Technology": [
@@ -453,8 +453,57 @@
             "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
             "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
-            "summary": "It is the latest in a series of increasingly stark warnings about the safety threat posed by AI that leading industry figures have made.",
+            "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
             "published": "2026-09-09T08:59:52+00:00"
+          },
+          {
+            "title": "Motorola Signature 27 Reportedly Teased Ahead of Possible Launch, Swarovski Edition Also Tipped",
+            "link": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-teaser-swarovski-edition-launch-report-12022416",
+            "source": "Gadgets 360",
+            "summary": "Motorola's Signature series made its debut earlier this year with a focus on a slim design, high-end hardware, and a distinctive aesthetic. Now, the company appears to be preparing its successor. According to a report, a teaser for a handset called the “Signature 27” briefly appeared on Motorola's website, showing a close-up of the rear camera module. The teaser has since disappeared, but its appearance across…",
+            "published": "2026-09-09T14:06:52+05:30"
+          },
+          {
+            "title": "Google’s Chrome 153 Starts Two-Week Release Cycle Promising Faster Updates and Secure Browsing",
+            "link": "https://www.gadgets360.com/apps/news/google-chrome-153-update-two-week-release-cycle-12022058",
+            "source": "Gadgets 360",
+            "summary": "After announcing plans for a two-week release cycle for Google Chrome, the company has finally kickstarted it with the release of Chrome 153. Chrome 153 brings the usual security updates and patches, but Google claims the two-week release cycle will enable it to deliver security fixes faster, leading to a safer web-browsing experience.",
+            "published": "2026-09-09T13:05:21+05:30"
+          },
+          {
+            "title": "Apple, Google Could Be Forced to Block Explicit Images on Children’s Smartphones Under New UK Law",
+            "link": "https://www.gadgets360.com/mobiles/news/apple-google-uk-law-to-block-explicit-images-on-childrens-smartphones-tablets-12022018",
+            "source": "Gadgets 360",
+            "summary": "The UK government is moving towards legislation that could require Apple and Google to introduce stronger controls for children using smartphones and tablets. The proposed rules would address the creation, viewing and sharing of nude images, with the government considering protections that work across operating systems and individual apps. The move follows a voluntary three-month period for the companies to…",
+            "published": "2026-09-09T12:59:53+05:30"
+          },
+          {
+            "title": "OpenAI Says Its AI Has Solved the 90-Year-Old Navier–Stokes Problem",
+            "link": "https://www.gadgets360.com/ai/news/openai-ai-navier-stokes-problem-mathematicians-12021992",
+            "source": "Gadgets 360",
+            "summary": "OpenAI announced a solution to the three-dimensional Navier–Stokes problem on Tuesday. The ChatGPT maker used an internal OpenAI system to show that the dynamics of the Navier-Stokes equations for fluid motion can develop a singularity in finite time. The result, however, raised questions about unpublished work of mathematicians. OpenAI asserts that its researchers and AI agents did not access Alpöge and…",
+            "published": "2026-09-09T12:56:00+05:30"
+          },
+          {
+            "title": "Garmin Cirqa Smart Ring Reportedly Gets Regulatory Approval With 10 Size Options; Price, Launch Date Leaked",
+            "link": "https://www.gadgets360.com/wearables/news/garmin-cirqa-smart-ring-regulatory-approval-price-launch-timeline-leaks-report-12021873",
+            "source": "Gadgets 360",
+            "summary": "Despite the growing popularity of smart rings in recent years, Garmin has so far stayed away from the category. A recent report suggests that this could change soon, as a series of new regulatory filings suggest that the wearables company may be planning a foray into the smart ring category. The smart ring is reported to come with the Cirqa moniker and may be offered in multiple sizes, with 10 related Garmin model…",
+            "published": "2026-09-09T12:54:13+05:30"
+          },
+          {
+            "title": "The Legend of Zelda: Ocarina of Time Remake Fully Revealed, Release Date Set for November",
+            "link": "https://www.gadgets360.com/games/news/the-legend-of-zelda-ocarina-of-time-remake-release-date-announced-gameplay-direct-broadcast-nintendo-12022069",
+            "source": "Gadgets 360",
+            "summary": "Nintendo has fully revealed The Legend of Zelda: Ocarina of Time remake. The game will launch exclusively on Nintendo Switch 2 on November 5, weeks before the release of GTA 6. The remake features a new art style and enhanced visuals, fully voiced cutscenes, expanded character dialogue, symphonic orchestral music, reworked camera and movement controls, and more.",
+            "published": "2026-09-09T12:51:33+05:30"
+          },
+          {
+            "title": "Apple Product Roadmap Through 2029: iPhones, Macs, Smart Glasses and More Tipped",
+            "link": "https://www.gadgets360.com/mobiles/news/apple-product-roadmap-2026-2027-launch-imac-m6-macbook-pro-macbook-neo-12021627",
+            "source": "Gadgets 360",
+            "summary": "Apple will reportedly launch the Apple TV 4K set-top box and HomePod Mini 2 alongside the iPhone 18 Pro series during the Surprise and Shine event or shortly after. By the end of 2026, the company is expected to unveil its first iPad Mini model with an OLED display, which is said to be “one of the biggest updates” in the product’s history. Apart from this, Apple will reportedly refresh the iMac and the 14-inch…",
+            "published": "2026-09-09T11:57:08+05:30"
           },
           {
             "title": "Apple Arcade to Add Pusheen’s First Game, River City Survivors and More on October 1",
@@ -483,55 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Oppo has launched the A7 Pro in China in three colour options. It has a 6.57-inch display with a refresh rate of up to 120Hz. It is powered by a MediaTek Dimensity 6360 Max chipset, paired with up to 8GB of RAM. Oppo A7 Pro has an 8,000mAh battery that supports 45W SuperVOOC Flash Charge. It has a 50-megapixel rear camera.",
             "published": "2026-09-09T11:10:13+05:30"
-          },
-          {
-            "title": "Apple’s Foldable iPhone to Launch With a Price Tag of Over $2,000 After Being in Development for a Decade: Report",
-            "link": "https://www.gadgets360.com/mobiles/news/apple-foldable-iphone-price-development-history-specifications-features-12021212",
-            "source": "Gadgets 360",
-            "summary": "Apple is expected to launch its first foldable iPhone model tonight during the Surprise and Shine event. According to a report, Apple’s first foldable iPhone could cost well over $2,000 (roughly Rs. 1,90,000). The tech giant was reportedly targeting $1,999 (about Rs. 1,90,000), aiming not to breach the “controversial barrier” of $2,000. The company was planning to follow a similar strategy to what it did in 2017 by…",
-            "published": "2026-09-09T09:19:09+05:30"
-          },
-          {
-            "title": "LIVE Apple 'Surprise and Shine' Event: First Foldable iPhone, iPhone 18 Pro Series and More Expected to Debut",
-            "link": "https://www.gadgets360.com/mobiles/features/apple-surprise-and-shine-event-live-event-today-india-launch-iphone-18-pro-max-foldable-watch-series-12-airpods-12020023",
-            "source": "Gadgets 360",
-            "summary": "Apple Surprise and Shine event will begin tonight at 10:30 pm IST. The event will be livestreamed via Apple's official YouTube channel. Today's launch event could mark Apple's entry into a completely new product category. The tech giant is expected to launch its very first book-style foldable smartphone, which could either be called the iPhone Ultra or iPhone Duo. Rumours suggest that the foldable will be equipped…",
-            "published": "2026-09-09T08:00:12+05:30"
-          },
-          {
-            "title": "Apple ‘Surprise and Shine’ Event Today: How to Watch Foldable iPhone, iPhone 18 Pro Series Launch Live",
-            "link": "https://www.gadgets360.com/mobiles/news/apple-surprise-and-shine-event-livestream-how-to-watch-expected-announced-foldable-iphone-18-pro-max-watch-series-12-12018552",
-            "source": "Gadgets 360",
-            "summary": "Apple will host its ‘Surprise and Shine’ event today at Apple Park in Cupertino, California. The showcase will begin at 10 am PT. However, if you are in India, you will be able to catch the livestream at 10:30 pm IST. Apple has scheduled the livestream via multiple social media platforms and video streaming services. Apart from this, you will also be able to watch the livestream of the iPhone launch event via…",
-            "published": "2026-09-09T07:00:01+05:30"
-          },
-          {
-            "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-            "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-            "published": "2026-09-08T23:27:23+00:00"
-          },
-          {
-            "title": "Should promotion depend on how workers use AI?",
-            "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "More companies are tying career progression to AI use: is that fair?",
-            "published": "2026-09-08T23:05:23+00:00"
-          },
-          {
-            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-            "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-            "published": "2026-09-08T20:57:09+00:00"
-          },
-          {
-            "title": "Tech Life",
-            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Scammers demand money from Instagram users over fake copyright claims.",
-            "published": "2026-09-08T20:00:00+00:00"
           }
         ],
         "Entertainment": [
@@ -627,8 +627,29 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "गौरव भाटिया ने CJP मेंबर्स पर ठोका 2 करोड़ का मानहानि दावा, कब होगी मामले की सुनवाई?",
+            "link": "https://hindi.oneindia.com/news/india/gaurav-bhatia-files-2-crore-defamation-case-against-cjp-leaders-delhi-high-court-1645231.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-09T14:57:02+05:30"
+          },
+          {
+            "title": "कर्नाटक SIR में वैज्ञानिक सीएनआर राव को नोटिस:नाम में एक्स्ट्रा F होने से विवाद, Prof की जगह Proff लिखा; मामले पर सुनवाई होगी",
+            "link": "https://www.bhaskar.com/g/national/news/karnataka-scientist-cnr-rao-notice-name-spelling-controversy-138978680.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-09T09:16:40+00:00"
+          },
+          {
+            "title": "राहुल गांधी कोई वीआईपी नहीं, सुप्रीम कोर्ट में दलील:CJI बोले- जल्द सुनवाई चाहिए तो अर्जी दाखिल करें, इससे फर्क नहीं पड़ता कि मामला किसका",
+            "link": "https://www.bhaskar.com/g/national/news/cji-supreme-court-rahul-gandhi-hearing-statement-legal-process-138978670.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-09T09:15:54+00:00"
+          },
+          {
             "title": "असम में अफसर ने CM-मंत्रियों की आवाज से करोड़ों ठगे:जिला विकास अधिकारी के पद पर है; सरकार ठेका और नौकरी दिलाने के नाम पर वसूली करता",
-            "link": "https://www.bhaskar.com/national/news/assam-officer-deveshwar-bora-fraud-mastermind-cm-minister-mimicry-138978511.html",
+            "link": "https://www.bhaskar.com/g/national/news/assam-officer-deveshwar-bora-fraud-mastermind-cm-minister-mimicry-138978511.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-09T08:56:49+00:00"
@@ -688,27 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-09-09T07:29:47+00:00"
-          },
-          {
-            "title": "सिंगापुर के PM को मिलेगी 29 करोड़ सैलरी, ट्रंप, पुतिन, शी जिंगपिंग और पीएम मोदी को कितनी मिलती है सैलरी",
-            "link": "https://hindi.oneindia.com/news/international/singapore-pm-lawrence-wong-salary-hike-29-crore-comparison-modi-trump-putin-jinping-1645145.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-09T12:58:50+05:30"
-          },
-          {
-            "title": "अहमदाबाद में भाई ने बहन की हथौड़े से हत्या की:फिर एक्सीडेंट दिखाने की कोशिश की; लड़के साथ वीडियो वायरल होने से नाराज था परिवार",
-            "link": "https://www.bhaskar.com/g/national/news/ahmedabad-father-son-murder-daughter-honor-killing-case-138977899.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-09T07:28:05+00:00"
-          },
-          {
-            "title": "'जेल से छूटा तो शुगर डैडी को भी मार दूंगा': असम में पत्नी का सिर काटने वाले पति ने कहा- मुझे कोई पछतावा नहीं",
-            "link": "https://www.amarujala.com/india-news/if-i-get-out-of-jail-i-ll-kill-the-sugar-daddy-too-husband-who-beheaded-wife-in-assam-says-he-has-no-regret-2026-09-09",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-09T12:57:34+05:30"
           }
         ],
         "Entertainment": [
@@ -804,18 +804,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "'વિદેશમાં મુસ્લિમ નેતાઓને ગળે મળો છો, અહીં ગરબામાં મુસ્લિમોને રોકો છો', સંજય રાઉતે શું કહ્યું? – ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/cj3dlrz3gxeo?at_medium=RSS&at_campaign=rss",
+            "title": "ગુજરાત : વરસાદને લઈને રાહતના સમાચાર, હવામાન વિભાગે શું કરી આગાહી?",
+            "link": "https://www.bbc.com/gujarati/articles/c1j4nw7xzx0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-09T08:57:24+00:00"
+            "summary": "ગુજરાતના વાતાવરણને લઈને એક મહત્વના સમાચાર સામે આવ્યા છે, જે રાજ્યના ઘણા ભાગો માટે રાહતરૂપ સાબિત થઈ શકે છે. ભારતીય હવામાન વિભાગ દ્વારા આગામી દિવસોમાં વરસાદની સંભાવના વ્યક્ત કરવામાં આવી છે. હવામાન વિભાગના લેટેસ્ટ અપડેટ મુજબ, દક્ષિણ ગુજરાતના વિવિધ જિલ્લાઓમાં વરસાદી ગતિવિધિઓ જોવા મળી શકે છે. આ સાથે સૌરાષ્ટ્રના પણ બે જિલ્લાઓમાં ભારે વરસાદની આગાહી કરવામાં આવી છે, જેને કારણે ખેડૂતો અને સામાન્ય નાગરિકોમાં ચોક્કસપણે રાહત જોવા મળી રહી છે. હવામાન ખાતાની આ આગાહી મુજબ, કયા ચોક્કસ વિસ્તારોમાં વરસાદ પડશે અને તેની તીવ્રતા કેટલી રહેશે તે અંગેની વિગતો પણ આપવામાં આવી છે. આ પ્રકારના વરસાદથી જળાશયોમાં પાણીની આવક થવાની આશા છે અને કૃષિ ક્ષેત્રને પણ મોટો ફાયદો મળી શકે છે. જોકે, ભારે વરસાદની ચેતવણીને પગલે સ્થાનિક વહીવટીતંત્ર પણ સતર્ક બન્યું છે. હવામાન વિભાગની આગાહી અનુસાર સ્થાનિક લોકોને સાવચેત રહેવા અને વાતાવરણમાં થતા ફેરફારો પર નજર રાખવા સૂચના આપવામાં આવી છે. આગામી સમયમાં આ વરસાદ રાજ્યના પાણીના સંકટને દૂર કરવામાં અને વાતાવરણમાં ઠંડક લાવવામાં મદદરૂપ થશે તેવી આશા સેવવામાં આવી રહી છે.",
+            "published": "2026-09-09T09:08:40+00:00"
           },
           {
             "title": "ગુજરાત : 12 થી 17 સપ્ટેમ્બર વચ્ચે ગુજરાતમાં ક્યાં પડશે ભારે વરસાદ?",
             "link": "https://www.bbc.com/gujarati/watch/crk3z7mn5lmo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
             "summary": "",
-            "published": "2026-09-09T08:40:05+00:00"
+            "published": "2026-09-09T09:08:20+00:00"
+          },
+          {
+            "title": "'વિદેશમાં મુસ્લિમ નેતાઓને ગળે મળો છો, અહીં ગરબામાં મુસ્લિમોને રોકો છો', સંજય રાઉતે શું કહ્યું? – ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/cj3dlrz3gxeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-09T08:57:24+00:00"
           },
           {
             "title": "CJP પ્રદર્શનમાં સામેલ વિદ્યાર્થીને નોટિસ આપવાની હિંમત કેવી રીતે કરી:સુપ્રીમ કોર્ટની નોઇડા મેજિસ્ટ્રેટને ફટકાર, CJI બોલ્યા- કોઈપણ આદેશનું ઉલ્લંઘન કરી શકે નહીં",
@@ -865,13 +872,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-09T05:44:04+00:00"
-          },
-          {
-            "title": "ગુજરાત : વરસાદને લઈને રાહતના સમાચાર, હવામાન વિભાગે શું કરી આગાહી?",
-            "link": "https://www.bbc.com/gujarati/articles/c1j4nw7xzx0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "ગુજરાતના વાતાવરણને લઈને એક મહત્વના સમાચાર સામે આવ્યા છે, જે રાજ્યના ઘણા ભાગો માટે રાહતરૂપ સાબિત થઈ શકે છે. ભારતીય હવામાન વિભાગ દ્વારા આગામી દિવસોમાં વરસાદની સંભાવના વ્યક્ત કરવામાં આવી છે. હવામાન વિભાગના લેટેસ્ટ અપડેટ મુજબ, દક્ષિણ ગુજરાતના વિવિધ જિલ્લાઓમાં વરસાદી ગતિવિધિઓ જોવા મળી શકે છે. આ સાથે સૌરાષ્ટ્રના પણ બે જિલ્લાઓમાં ભારે વરસાદની આગાહી કરવામાં આવી છે, જેને કારણે ખેડૂતો અને સામાન્ય નાગરિકોમાં ચોક્કસપણે રાહત જોવા મળી રહી છે. હવામાન ખાતાની આ આગાહી મુજબ, કયા ચોક્કસ વિસ્તારોમાં વરસાદ પડશે અને તેની તીવ્રતા કેટલી રહેશે તે અંગેની વિગતો પણ આપવામાં આવી છે. આ પ્રકારના વરસાદથી જળાશયોમાં પાણીની આવક થવાની આશા છે અને કૃષિ ક્ષેત્રને પણ મોટો ફાયદો મળી શકે છે. જોકે, ભારે વરસાદની ચેતવણીને પગલે સ્થાનિક વહીવટીતંત્ર પણ સતર્ક બન્યું છે. હવામાન વિભાગની આગાહી અનુસાર સ્થાનિક લોકોને સાવચેત રહેવા અને વાતાવરણમાં થતા ફેરફારો પર નજર રાખવા સૂચના આપવામાં આવી છે. આગામી સમયમાં આ વરસાદ રાજ્યના પાણીના સંકટને દૂર કરવામાં અને વાતાવરણમાં ઠંડક લાવવામાં મદદરૂપ થશે તેવી આશા સેવવામાં આવી રહી છે.",
-            "published": "2026-09-09T04:27:10+00:00"
           },
           {
             "title": "મણિપુરી સંગીતકારને માર મારીને હત્યા કરનારા 7 આરોપી પકડાયા:આમાં એક સગીર, પરિવારે કહ્યું- બદલો નહીં, ન્યાય જોઈએ; ઇમ્ફાલમાં કેન્ડલ માર્ચ કાઢવામાં આવી",
@@ -1072,11 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Supreme Court: ఎంత ధైర్యం.. మేం చెప్పాక కూడా నోటీసులా: సుప్రీంకోర్టు ఆగ్రహం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEdSZXZUZmxhYU10dzhQd0Y2ekttZllxYnR1eGVhay1YeDg2XzdZbm5DdHVsWkkyMWx1LTB2elZuYWxBc1lGNEhVRk1YT1g5UDBLVHVmcVBaSDIzYkp2b2NPajRWb2pLRHp4dlZnWkc1bk1oaVVkZHh1Vm5VQ09VNGF4bmtkRGVKVTRTSjJ4dFVqNVlsQ1NQaHFTblHSAZwBQVVfeXFMUDBHUmV2VGZsYWFNdHc4UHdGNnpLbWZZcWJ0dXhlYWstWHg4Nl83WW5uQ3R1bFpJMjFsdS0wdnpWbmFsQXNZRjRIVUZNWE9YOVAwS1R1ZnFQWkgyM2JKdm9jT2o0Vm9qS0R6eHZWZ1pHNW5NaGlVZGR4dVZuVUNPVTRheG5rZERlSlU0U0oyeHRVajVZbENTUGhxU25R?oc=5",
-            "source": "Eenadu",
+            "title": "తెలంగాణ గవర్నర్ దృష్టికి అన్ని విషయాలు.. !!",
+            "link": "https://telugu.oneindia.com/news/telangana/telangana-developments-kt-rama-rao-meets-governor-shiv-pratap-shukla-with-brs-delegation-meeting-505455.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-09-09T08:50:30+00:00"
+            "published": "2026-09-09T14:54:18+05:30"
+          },
+          {
+            "title": "మేజిస్ట్రేట్‌కు అంత ధైర్యం ఎక్కడిది? సీజేఐ సీరియస్ వార్నింగ్",
+            "link": "https://telugu.oneindia.com/news/india/supreme-court-questions-greater-noida-magistrate-over-notice-to-student-protester-facing-cjp-agitati-505453.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-09T14:34:30+05:30"
           },
           {
             "title": "బీజేపీ ఎమ్మెల్యేను చెప్పులతో కొట్టండి.. మంత్రి నోట బూతులు.. వీడియో వైరల్!",
@@ -1086,18 +1093,18 @@
             "published": "2026-09-09T14:03:04+05:30"
           },
           {
-            "title": "KTR: మాపై పోలీసుల దాడి, అవమానంపై గవర్నర్‌కు ఆధారాలు సమర్పించాం: కేటీఆర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVJMSE1xcGExdkVHVjh0WHJNY2hiU3l2bFZIVFV4ZnJZblktcTlSVmJzSXU2X1lZVTJLQTZDcjVzMkI4NEdKSmlxR3NuXzQ0cFMtaDZSOWpibUNNTDJ6Vjl1NkJUWTRkYnFJM3k3Tml3c2FJYTZRWjJpU2VtOHZoOHlUQzBiVUk2ZG9OTDVpeGNjZlnSAZMBQVVfeXFMTzlSTEhNcXBhMXZFR1Y4dFhyTWNoYlN5dmxWSFRVeGZyWW5ZLXE5UlZic0l1Nl9ZWVUyS0E2Q3I1czJCODRHSkppcUdzbl80NHBTLWg2UjlqYm1DTUwyelY5dTZCVFk0ZGJxSTN5N05pd3NhSWE2UVoyaVNlbTh2aDh5VEMwYlVJNmRvTkw1aXhjY2ZZ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-09T08:30:31+00:00"
-          },
-          {
             "title": "Dastagiri: జగన్‌కు దస్తగిరి ఓపెన్ ఛాలెంజ్. సెక్యూరిటీ కోసం సీఎం రిక్వెస్ట్.!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/viveka-case-approver-dastagiri-alleges-rs-20-crore-offer-to-turn-against-cbi-and-demands-for-securit-505447.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-09T13:57:41+05:30"
+          },
+          {
+            "title": "Supreme Court - BCCI: ఎన్‌ఎస్‌ఏ పరిధిలోకి బీసీసీఐ ఎందుకు రాకూడదు?: ప్రశ్నించిన సుప్రీం కోర్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFA2VWx5VDUyd1JDZURpdVhLRmRzWTJYWm9SMEtXV2RocnVFMHdZdkVVQlc3OFRtUmdQbjdSaEltYzZEamJ0dTdSYWNIN211UE1iZ2VycldrUFBBRHgwdDQ4a0NnVGgzcnFFWFJhQk54alg3RlM0UmNlSVZqN2l6QmVORTZxT2J1R3UyYnhjanR0WHNqTjZrVDNTcGJ1dmo2ZVHSAaIBQVVfeXFMTXhQNlVseVQ1MndSQ2VEaXVYS0Zkc1kyWFpvUjBLV1dkaHJ1RTB3WXZFVUJXNzhUbVJnUG43UmhJbWM2RGpidHU3UmFjSDdtdVBNYmdlcnJXa1BQQUR4MHQ0OGtDZ1RoM3JxRVhSYUJOeGpYN0ZTNFJjZUlWajdpekJlTkU2cU9idUd1MmJ4Y2p0dFhzak42a1QzU3BidXZqNmVR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-09T08:21:57+00:00"
           },
           {
             "title": "Masood Azhar: జైషే చీఫ్‌ మసూద్‌ అజర్‌ మా వద్ద లేడు: ప్రకటించిన తాలిబన్‌ ప్రభుత్వం - Eenadu",
@@ -1126,13 +1133,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-09T13:21:40+05:30"
-          },
-          {
-            "title": "Jason Sanjay: టీవీకే అంటూ నినాదాలు.. విజయ్‌ కుమారుడి స్పందనిదే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTJEdDQ3Y1M2WDJ2OVRtbVRSQnJHNDVFTDZCX1F1N2hraUNrUHJTYmdLTXVrbDROVkM5b2xGbG5TWmEwTWRVODh1WU9IUlpkVmNHRktoQlBpTU9QYkhMYTVidmEyelAwaHd1Z3V6bUFQTDFKYWRxbzR0SjdXTFV4dDFyNWx6NGpMTm9DcWp4MW90eWtjM3dVTFBYOGJKYkp3MERvRkNHTmJJQnhkOFBCM0ptYzVNSGJuMnVRaFllOFd2d9IBwgFBVV95cUxNTTJEdDQ3Y1M2WDJ2OVRtbVRSQnJHNDVFTDZCX1F1N2hraUNrUHJTYmdLTXVrbDROVkM5b2xGbG5TWmEwTWRVODh1WU9IUlpkVmNHRktoQlBpTU9QYkhMYTVidmEyelAwaHd1Z3V6bUFQTDFKYWRxbzR0SjdXTFV4dDFyNWx6NGpMTm9DcWp4MW90eWtjM3dVTFBYOGJKYkp3MERvRkNHTmJJQnhkOFBCM0ptYzVNSGJuMnVRaFllOFd2dw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-09T07:43:38+00:00"
           },
           {
             "title": "రూ.31 లకే 132 కి.మీ. ప్రయాణం! మైలేజ్ ప్రియుల కోసం సరికొత్త స్కూటర్!",
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "গ্রন্থাগার সহকারী থেকে মাও জেদং যেভাবে চীনের বিপ্লবী নেতায় পরিণত হলেন",
+            "link": "https://www.bbc.com/bengali/articles/cddvy709v28o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-09-09T09:30:15+00:00"
+          },
+          {
+            "title": "কানাডায় গুলিকাণ্ড, নিশানায় কি পঞ্জাবি গায়ক এম্মী বির্ক? বাবার দাবিতে বাড়ল ধোঁয়াশা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3dPWnNOTWpCeks4Sk1jZThIeUw4MDdBMnlucGFmRmJaeG9MUEpZTGJRMWkwVVNBMFU0ZGJkQ3Ywc0RFX3RIQ3h1Z0ZnRzhpazdDYWR6RHY4MnFzVWlRRjQteldVekhqRFZMTDRwTkVxd001S2hJRzJpMTdmOTRZaHdCN2F1ckJlVWpCdnROUThIbUEwRXdORTgwY3pTRXc1cHpkbG5XZ2lXaU4yM3hJ0gG0AUFVX3lxTE81czVZWWhLOVJKWk9KazUxMGw0Q0VBSFNRZk04MTFIcjVmOUFZSmMzdGw1bmw1YVE5YVpPUWRBYUU5dUhpS3pfdmVLWXJlNU9NWDJwMWs4dllJdGFDSHIxX01CS3Q1ZEV1cEVrYlU3SEtsUm5ZdDlEYTREa3J1SG1KSzBndVFfUTc0U0ExZVd6V1UyYU5QbVJsUDFnb1lIWGtUenVLazduVjNzZUVvZ3BXS0Fydg?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-09T09:17:33+00:00"
+          },
+          {
             "title": "পরিচারকের সঙ্গে ৩০৯ বার ফোনে কথা পুত্রবধূর, মোছা হয় ৪৯টি মেসেজও! কানপুরের কোটিপতি ব্যবসায়ী খুনে নয়া তথ্য - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2VpTkxOWENhclQxYlVaaDFaejRfZng5OTNTM08ybGM3QkxGbVhUNVlKTzIzQllhTktjVHIwRU5IMk1ZUGRuTG1NX0hqTklDS1hidVpKOTBMTWl6ZGowWGpUejZoT1FkR1JVaWFEX1BpcUc3N2dSaVdoS29IQlgxdkJkTDVjYXhXLTM0UlY1X0JvRUt3a1FEMjJ4MFBrNDjSAaQBQVVfeXFMTmx0dlNDdk5Hb1otWWlZNktzOXRLZkk1dENId1dnNTlHdDdpaENLOXBiSnNMMWFyR21QSXZGTVRnWno5TGlJcFdMR29GMC1HVnRzUDdoeDJwVUxxenBiczhkNDBSSWJvXzdZZ2liRTRrbGtGaTdnTHZERFJSd2E5M1ZGT25iV3BjaWk3anN1R1lUNnJNbnQ4MDdDUnktNFhmX0VuSHI?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-09T03:14:48+00:00"
-          },
-          {
-            "title": "ব্রিটেন জুড়ে বিমান বিভ্রাট! ত্রুটি এটিসি-তে, প্রায় ১৩০০ উড়ান বাতিলের ঘোষণা, ভোগান্তির শিকার লক্ষ লক্ষ যাত্রী - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdXhIWnZwUmVzT3pTZXVJOEgxSzFndWtBRXdkRVlqQ21HdEFVdDdIRVM0TV9rZV9rMjJUVHc2ZWFqcFZtdjhlR0JyeGp2a2tyUVVxX1kwdDFwMThwamlQQXhucG5BR05JZ3ZwZS05ZnJYbU03NkdGcVZiR1ZzaS1jaU5oRGxIYlFXYzJDQURkR0hRXzU2RTdmclVzWkdfM3VORGcyckNyVkt0aVBNZzN5Si11eXZITVg2eldkLTF0TXg0d1FQRWdxbThCZ0thcEhobHB2VmI0bTdTaUtKUnROeF9UUXnSAeoBQVVfeXFMTWFMN1EtcTMwelVfd2ZFelJ0Z2YtNS1admlWaktDUnFXUlBjeTlQRmlfMEFwSGg5a29sTWg3anpINUxrb3JKR2JZMTdCUlZlczR3Vm1XWlNqWnJtYWtsVGVKYU16OWo3NUhpS1U0b0llRGRHbEpIUlR1aUVzblpNemlKeU9yTUN4NE5VOVlnVFB3NkZCNDB2OHhSQUxielVweEt6ZzVpQ3Jzd01GQVdvUjlzeUs2N18ycmthbWVzU3RUbjR1blVfYmhwZHBxV3ZGWVVQcjRBQ0hCWlllcVM3ZFhIQ2hCUHdXRF9B?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-09T03:12:41+00:00"
-          },
-          {
-            "title": "পত্রিকা: 'মৌখিকে নম্বর বাড়ছে, লিখিত পরীক্ষায় পাস নম্বর কমছে'",
-            "link": "https://www.bbc.com/bengali/articles/cvgynw997x6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-09-09T02:32:48+00:00"
           }
         ]
       }
