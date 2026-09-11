@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:30:53.314426+00:00",
+  "updated_at": "2026-09-11T04:31:19.440655+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -46,13 +46,6 @@
             "source": "Times of India",
             "summary": "The Enforcement Directorate searched nine locations across three states in an alleged bank fraud case. Ramnandi Hotels and Resorts Ltd is accused of diverting Rs 58 crore from bank loans. The company allegedly used fake reports and personal guarantees to secure these funds. Five pledged properties were reportedly sold at undervalued prices recently. The agency suspects these actions aimed to prevent asset attachment…",
             "published": "2026-09-11T09:42:51+05:30"
-          },
-          {
-            "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.",
-            "published": "2026-09-11T04:07:44+00:00"
           },
           {
             "title": "BRICS Summit: Delhi schools, offices closed today? Check what’s open, what’s shut",
@@ -102,6 +95,13 @@
             "source": "Hindustan Times",
             "summary": "Here are 5 things you need to know from across the country, the globe, as well as, from the world of sports and entertainment.",
             "published": "2026-09-11T09:18:11+05:30"
+          },
+          {
+            "title": "Jaishankar meets Prince Rahim Aga Khan V",
+            "link": "https://www.thehindu.com/news/national/jaishankar-meets-prince-rahim-aga-khan-v/article71454646.ece",
+            "source": "The Hindu",
+            "summary": "Prince Rahim Aga Khan V, 50th Imam of the Ismaili Muslims, began his India visit on September 9 following an invitation from Vice-President C.P. Radhakrishnan",
+            "published": "2026-09-11T09:16:14+05:30"
           }
         ],
         "India": [
@@ -192,13 +192,6 @@
         ],
         "World": [
           {
-            "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.",
-            "published": "2026-09-11T04:07:44+00:00"
-          },
-          {
             "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
             "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
             "source": "Al Jazeera",
@@ -274,6 +267,13 @@
             "source": "Al Jazeera",
             "summary": "Observers on both sides of the political divide express concern about Trump&#039;s pledge to pay &#039;dividend&#039; for midterm wins.",
             "published": "2026-09-11T00:23:58+00:00"
+          },
+          {
+            "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+            "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Venice Film Festival honours NAZA, an expose on Israel&#039;s use of AI systems in Gaza.",
+            "published": "2026-09-11T00:14:59+00:00"
           }
         ],
         "Business": [
@@ -627,7 +627,7 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "सागर शराबकांड- मुख्य आरोपी का शॉर्ट एनकाउंटर:बरायठा के जंगल में पुलिस से मुठभेड़; पैर में लगी गोली",
+            "title": "सागर शराबकांड- मुख्य आरोपी रवि लखेरा का शॉर्ट एनकाउंटर:बरायठा के जंगल में पुलिस से मुठभेड़; पैर में लगी गोली",
             "link": "https://www.bhaskar.com/local/mp/sagar/news/sagar-liquor-scandal-accused-ravi-lakhera-encounter-baraytha-jungle-138996286.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -648,7 +648,7 @@
             "published": "2026-09-11T09:43:11+05:30"
           },
           {
-            "title": "महाराष्ट्र के भंडारा में ट्रक-पिकअप वैन की टक्कर:3 बच्चों समेत 8 की मौत; 3 घायल, रायपुर से नागपुर जा रहे थे",
+            "title": "महाराष्ट्र- ट्रक-पिकअप भिड़े, 3 बच्चों समेत 8 की मौत:3 घायल; रायपुर से नागपुर जा रहे थे",
             "link": "https://www.bhaskar.com/g/national/news/bhandara-maharashtra-truck-pickup-accident-raipur-nagpur-road-crash-138996145.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -1504,7 +1504,7 @@
           },
           {
             "title": "সুভাষ-অবমাননা, শহরে মিছিল ফ ব-র - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnBpSU9pNU9qOEpGUGNCM3FMcVdpVWRUQUJld0J2eXhfSFRjWUlXU19qenpseV9PVmVoRVg2ZTcwNGd0ODRwU09MeDNScEN6TDNGSDRQWXlGdGczRmE3X3ZfSjZrOE5SOTZ1ckY1cUxKczRRU2RJYW05V0NYQTRxZUJCQWVzQzVWNkhUejFZVkNFM2xjaS02Z3FqUkxfNC1FWnhv?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzdHRW9JQTZCVFpUWkQtZE0ybUZKTndaU1V0Tk5NX1RNb1MzM2xDd0ZGR29kdjBja2xNT3NZQWlYN2RNM2otUDBoQUhKRzNBRnJVM3U1Z0VpaU16czk0Nmp2LVEteVRCWXl0S21PUURCLXBtUkEtbDlNeWZfWF9KTzRIZno1RkM3WXhJQUo4UDFLRGpWTVVhUVB0UHdweTM4ckVVR1J6QXHSAagBQVVfeXFMTUs3R0VvSUE2QlRaVFpELWRNMm1GSk53WlNVdE5OTV9UTW9TMzNsQ3dGRkdvZHYwY2tsTU9zWUFpWDdkTTNqLVAwaEFISkczQUZyVTN1NWdFaWlNenM5NDZqdi1RLXlUQll5dEttT1FEQi1wbVJBLWw5TXlmX1hfSk80SGZ6NUZDN1l4SUFKOFAxS0RqVk1VYVFQdFB3cHkzOHJFVUdSekFx?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-11T01:54:09+00:00"
