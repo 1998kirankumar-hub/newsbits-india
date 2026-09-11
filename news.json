@@ -1,16 +1,79 @@
 {
-  "updated_at": "2026-09-11T01:01:39.434409+00:00",
+  "updated_at": "2026-09-11T01:31:53.188280+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "CAS here to stay, liquidity will pick up, says Sebi Chief",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-here-to-stay-liquidity-will-pick-up-says-sebi-chief/articleshow/134037952.cms",
+            "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The unveiling of a statue honouring Charlie Kirk in Times Square has sparked clashes between supporters and protesters.",
+            "published": "2026-09-11T01:24:27+00:00"
+          },
+          {
+            "title": "Who is the Gloria Steinem of India?",
+            "link": "https://www.thehindu.com/society/gloria-steinem-indian-feminism-70s-to-now-women-protest-movements/article71442119.ece",
+            "source": "The Hindu",
+            "summary": "For more than five decades, Indian women have built a feminist movement without a single figurehead — a sprawling collective that continues to reinvent itself, and whose very decentralisation may be its greatest strength",
+            "published": "2026-09-11T06:52:31+05:30"
+          },
+          {
+            "title": "The boom and bust of sporting culture in A.P.",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/the-boom-and-bust-of-sporting-culture-in-ap/article71453283.ece",
+            "source": "The Hindu",
+            "summary": "A weightlifter’s bronze in Sydney remains the only Olympic medal present-day Andhra Pradesh can call its own. In Visakhapatnam, Paul Nicodemus reports how a State that had repeatedly built a system that produced medals, has over the years let it fall apart",
+            "published": "2026-09-11T06:37:59+05:30"
+          },
+          {
+            "title": "When foreign universities come home",
+            "link": "https://www.thehindu.com/news/national/karnataka/when-foreign-universities-come-home/article71418729.ece",
+            "source": "The Hindu",
+            "summary": "Foreign universities have taken steps to establish their off-shore campuses with the permission of the University Grants Commission. While one section feels that this is a good development, there are others who argue that Indian students will be better off studying at the parent campus of foreign universities, interacting with foreign students and having multicultural exchange",
+            "published": "2026-09-11T06:37:29+05:30"
+          },
+          {
+            "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+            "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+            "published": "2026-09-11T01:07:23+00:00"
+          },
+          {
+            "title": "Global Market Today: Asian stocks, bonds fall on oil, inflation concern",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-fall-on-oil-inflation-concern/articleshow/134038662.cms",
             "source": "Economic Times",
-            "summary": "Sebi chief Tuhin Kanta Pandey stated the closing auction session is here to stay. He acknowledged initial liquidity concerns, which have improved in other markets. Pandey mentioned Sebi will soon issue a consultation paper on the CAS framework. Some market participants praised the implementation, especially during MSCI rebalancing events. However, a segment of the market faces impacts due to settlement price…",
-            "published": "2026-09-11T06:22:17+05:30"
+            "summary": "Following a notable rise in oil prices, Asian stocks and bonds faced a downturn, signaling a shift in market sentiment. The latest inflation data has fueled speculation about a soon-to-come interest rate hike from the Federal Reserve. Treasury yields hit multiyear highs, placing additional strain on bonds. Furthermore, quicker-than-expected increases in producer prices are adding weight to anticipations for the Fed.",
+            "published": "2026-09-11T06:36:20+05:30"
+          },
+          {
+            "title": "Piyush Goyal says India, Russia working towards $100 billion trade by 2030: ‘Not a modest task’",
+            "link": "https://www.hindustantimes.com/india-news/piyush-goyal-says-india-russia-working-towards-100-billion-trade-by-2030-not-a-modest-task-101789088211091.html",
+            "source": "Hindustan Times",
+            "summary": "Quoting Prime Minister Narendra Modi, union minister Piyush Goyal said, “The greatest strength of India-Russia relation lies in trust”.",
+            "published": "2026-09-11T06:33:16+05:30"
+          },
+          {
+            "title": "Coach crash kills several people in Swiss Alps",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+            "published": "2026-09-11T01:01:18+00:00"
+          },
+          {
+            "title": "Aryna Sabalenka Powers Past Jessica Pegula To Enter Final, Eyes Third Straight US Open Title",
+            "link": "https://sports.ndtv.com/tennis/aryna-sabalenka-powers-past-jessica-pegula-to-enter-final-eyes-third-straight-us-open-title-12030980#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The 28-year-old Belarusian, bidding to join Chris Evert and Serena Williams as the only women to win three straight US Open titles, swatted aside Pegula with a dominant service game and a fearsome array of powerful groundstrokes.",
+            "published": "2026-09-11T06:29:18+05:30"
+          },
+          {
+            "title": "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov",
+            "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-not-in-a-position-to-defend-anything-magnus-carlsen-on-world-chess-championship-clash-vs-javokhir-sindarov/articleshow/134038283.cms",
+            "source": "Times of India",
+            "summary": "Magnus Carlsen says Gukesh should not view his upcoming World Championship match against Javokhir Sindarov as a title defence, but as an opportunity to gain. Carlsen believes Gukesh’s peak level matches or exceeds Sindarov’s, though early momentum will be crucial. He also highlights chess’s psychological nature, suggesting confidence and pressure could significantly influence the short match",
+            "published": "2026-09-11T06:22:13+05:30"
           },
           {
             "title": "Why is Uber pulling out of some African markets?",
@@ -20,91 +83,63 @@
             "published": "2026-09-11T00:51:50+00:00"
           },
           {
-            "title": "Canara Bank eyes $2 billion via overseas bonds",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-eyes-2-billion-via-overseas-bonds/articleshow/134037708.cms",
-            "source": "Economic Times",
-            "summary": "Canara Bank intends to raise two billion dollars from international markets. This significant funding will be secured through its medium term note program. The bank plans to mobilize these funds via its Gift City branch. Senior unsecured foreign currency bonds will be issued for this purpose. This initiative aims to bolster the bank's overseas financial capabilities.",
-            "published": "2026-09-11T06:19:49+05:30"
+            "title": "Is Rohit Sharma's 'Non-Committal' T-Shirt A Dig At Ajit Agarkar? Internet Thinks So",
+            "link": "https://sports.ndtv.com/cricket/is-rohit-sharmas-non-committal-t-shirt-a-dig-at-ajit-agarkar-internet-thinks-so-12029706#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Fans suggested that Rohit Sharma's apparent dig was aimed at India chief selector Ajit Agarkar over the latter's remarks last year.",
+            "published": "2026-09-11T06:21:47+05:30"
           },
           {
-            "title": "NPA provisions fall for second straight quarter as bank asset quality improves",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/npa-provisions-fall-for-a-second-quarter-as-banks-sustain-asset-quality/articleshow/134037281.cms",
-            "source": "Economic Times",
-            "summary": "Aggregate loan loss provisioning by banks dropped significantly year-on-year. This decline was driven by improving asset quality and fewer fresh slippages. Provision coverage ratios also reduced the need for fresh funds. Public sector banks saw a 19.8 percent fall in provisioning. Private sector banks registered a sharper 33.6 percent reduction in provisioning.",
-            "published": "2026-09-11T06:03:13+05:30"
+            "title": "\"You’ve Got To Love Competing\": Patrick Mahomes’ Strong Message Sets The Tone For Chiefs Return",
+            "link": "https://sports.ndtv.com/us-nfl/you-ve-got-to-love-competing-patrick-mahomes-strong-message-sets-the-tone-for-chiefs-return-12030977#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Patrick Mahomes is ready to return for the Kansas City Chiefs after a nine-month knee rehab. His strong words reveal why he refuses to approach his comeback cautiously.",
+            "published": "2026-09-11T06:19:50+05:30"
           },
           {
-            "title": "‘Literally as old as my career’: Why Shami is impressed by Vaibhav Sooryavanshi",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/literally-as-old-as-my-career-why-mohammed-shami-is-impressed-by-vaibhav-sooryavanshi/articleshow/134022802.cms",
-            "source": "Times of India",
-            "summary": "Veteran fast bowler Mohammed Shami recently emphasised the importance of nurturing young Indian cricketers. He highlighted how the pressures of high-stakes tournaments have accelerated their development. Shami is dedicated to offering strategic insights during tough matches. He also reflected on his own drive to stay motivated, even while away from the national team and celebrated his career milestone by capturing…",
-            "published": "2026-09-11T06:01:00+05:30"
-          },
-          {
-            "title": "Equity MF inflows rise 19% to Rs 29,329 crore in August; SIPs hit record high",
-            "link": "https://economictimes.indiatimes.com/mf/mf-news/equity-mf-inflows-rise-19-in-august-as-sips-touch-record-rs-32297-crore/articleshow/134036399.cms",
-            "source": "Economic Times",
-            "summary": "Equity mutual fund purchases rose nineteen percent in August, reaching twenty-nine thousand three hundred twenty-nine crore. Systematic investment plan collections hit an all-time high of thirty-two thousand two hundred ninety-seven crore. Fixed income categories experienced net outflows of eight thousand seven hundred eleven crore during August. Mid and small-cap funds led equity investments, attracting over fifty…",
-            "published": "2026-09-11T05:57:27+05:30"
-          },
-          {
-            "title": "Elephants facing anthropogenic hazards in Assam",
-            "link": "https://www.thehindu.com/sci-tech/energy-and-environment/elephants-facing-anthropogenic-hazards-in-assam/article71452950.ece",
-            "source": "The Hindu",
-            "summary": "Wildlife specialists free an elephant from a tyre stuck around its neck, days after the trunk of another trapped in a wire-mesh trap was treated",
-            "published": "2026-09-11T05:54:34+05:30"
-          },
-          {
-            "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-            "published": "2026-09-11T00:24:24+00:00"
-          },
-          {
-            "title": "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
-            "link": "https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Observers on both sides of the political divide express concern about Trump&#039;s pledge to pay &#039;dividend&#039; for midterm wins.",
-            "published": "2026-09-11T00:23:58+00:00"
-          },
-          {
-            "title": "India’s IPO fundraising set to cross Rs 1 lakh crore in 2026",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-ipo-fundraising-poised-to-breach-rs-1-lakh-crore-in-2026/articleshow/134036093.cms",
-            "source": "Economic Times",
-            "summary": "Indian IPO fundraising is projected to exceed one lakh crore rupees in 2026. This milestone has been achieved previously in 2021, 2024, and 2025. Upcoming IPOs from NSE and Jio Platforms are expected to significantly boost total collections. Elevated share valuations and strong domestic investor appetite encourage companies to list. Robust market liquidity and consistent mutual fund inflows are driving this trend.",
-            "published": "2026-09-11T05:50:47+05:30"
-          },
-          {
-            "title": "Mumbai-Bound IndiGo Flight Delayed By 3 Hours After Pilot Falls 'Sick'",
-            "link": "https://www.ndtv.com/india-news/mumbai-bound-indigo-flight-delayed-by-3-hours-after-pilot-falls-sick-12030947#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The airline said the delay occurred after the pilot assigned to the flight suddenly called in sick.",
-            "published": "2026-09-11T05:45:37+05:30"
-          },
-          {
-            "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-            "link": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Venice Film Festival honours NAZA, an expose on Israel&#039;s use of AI systems in Gaza.",
-            "published": "2026-09-11T00:14:59+00:00"
-          },
-          {
-            "title": "'Toxic' day 16: Yash film earns Rs 39 lakh, sees 35% drop",
-            "link": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-16-yash-nayanthara-tara-sutaria-kiara-advani-film-earns-rs-39-lakhs-sees-35-drop-india-net-reaches-rs-248-24-cr/articleshow/134037134.cms",
-            "source": "Times of India",
-            "summary": "Yash's film 'Toxic' continues its theatrical run, earning Rs 39 lakhs on its sixteenth day. The movie's India net collection has now reached Rs 248.24 crore after its recent performance. Its worldwide gross collection has impressively climbed to Rs 339.79 crore. The Kannada version contributed more earnings than the Hindi version on day sixteen. This fairy tale for grown-ups is performing well at the box office.",
-            "published": "2026-09-11T05:42:02+05:30"
-          },
-          {
-            "title": "Delhi HC refuses to allow Vinesh Phogat’s participation in selection trials for 2026 Senior World Championships",
-            "link": "https://www.thehindu.com/sport/delhi-hcrefuses-to-allowvinesh-phogats-participation-in-selection-trials-for-2026-senior-world-championships/article71453299.ece",
-            "source": "The Hindu",
-            "summary": "The court says allowing the wrester, who has returned to competitive sports after pregnancy, to participate in the trials without first adjudicating upon the selection policy, may result in unequal treatment of similarly situated athletes who are not before the court",
-            "published": "2026-09-11T05:35:52+05:30"
+            "title": "Aaron Rodgers Hits Back At Claims He \"Ruined\" Shailene Woodley’s Life After Painful Split",
+            "link": "https://sports.ndtv.com/us-nfl/aaron-rodgers-hits-back-at-claims-he-ruined-shailene-woodley-s-life-after-painful-split-12030961#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Aaron Rodgers has revisited his broken engagement to Shailene Woodley, making startling claims about their relationship while pushing back against narratives surrounding their painful split and its aftermath.",
+            "published": "2026-09-11T06:18:57+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Who is the Gloria Steinem of India?",
+            "link": "https://www.thehindu.com/society/gloria-steinem-indian-feminism-70s-to-now-women-protest-movements/article71442119.ece",
+            "source": "The Hindu",
+            "summary": "For more than five decades, Indian women have built a feminist movement without a single figurehead — a sprawling collective that continues to reinvent itself, and whose very decentralisation may be its greatest strength",
+            "published": "2026-09-11T06:52:31+05:30"
+          },
+          {
+            "title": "The boom and bust of sporting culture in A.P.",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/the-boom-and-bust-of-sporting-culture-in-ap/article71453283.ece",
+            "source": "The Hindu",
+            "summary": "A weightlifter’s bronze in Sydney remains the only Olympic medal present-day Andhra Pradesh can call its own. In Visakhapatnam, Paul Nicodemus reports how a State that had repeatedly built a system that produced medals, has over the years let it fall apart",
+            "published": "2026-09-11T06:37:59+05:30"
+          },
+          {
+            "title": "When foreign universities come home",
+            "link": "https://www.thehindu.com/news/national/karnataka/when-foreign-universities-come-home/article71418729.ece",
+            "source": "The Hindu",
+            "summary": "Foreign universities have taken steps to establish their off-shore campuses with the permission of the University Grants Commission. While one section feels that this is a good development, there are others who argue that Indian students will be better off studying at the parent campus of foreign universities, interacting with foreign students and having multicultural exchange",
+            "published": "2026-09-11T06:37:29+05:30"
+          },
+          {
+            "title": "Piyush Goyal says India, Russia working towards $100 billion trade by 2030: ‘Not a modest task’",
+            "link": "https://www.hindustantimes.com/india-news/piyush-goyal-says-india-russia-working-towards-100-billion-trade-by-2030-not-a-modest-task-101789088211091.html",
+            "source": "Hindustan Times",
+            "summary": "Quoting Prime Minister Narendra Modi, union minister Piyush Goyal said, “The greatest strength of India-Russia relation lies in trust”.",
+            "published": "2026-09-11T06:33:16+05:30"
+          },
+          {
+            "title": "'Gukesh not in a position to defend': Carlsen on Championship clash vs Sindarov",
+            "link": "https://timesofindia.indiatimes.com/sports/chess/gukesh-not-in-a-position-to-defend-anything-magnus-carlsen-on-world-chess-championship-clash-vs-javokhir-sindarov/articleshow/134038283.cms",
+            "source": "Times of India",
+            "summary": "Magnus Carlsen says Gukesh should not view his upcoming World Championship match against Javokhir Sindarov as a title defence, but as an opportunity to gain. Carlsen believes Gukesh’s peak level matches or exceeds Sindarov’s, though early momentum will be crucial. He also highlights chess’s psychological nature, suggesting confidence and pressure could significantly influence the short match",
+            "published": "2026-09-11T06:22:13+05:30"
+          },
           {
             "title": "‘Literally as old as my career’: Why Shami is impressed by Vaibhav Sooryavanshi",
             "link": "https://timesofindia.indiatimes.com/sports/cricket/news/literally-as-old-as-my-career-why-mohammed-shami-is-impressed-by-vaibhav-sooryavanshi/articleshow/134022802.cms",
@@ -153,44 +188,30 @@
             "source": "Times of India",
             "summary": "Pandey Reiterates There Is No Going Back On CAS System",
             "published": "2026-09-11T04:53:38+05:30"
-          },
-          {
-            "title": "'Spider-Man: Brand New Day' to become first $1bn US box office film",
-            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
-            "source": "Times of India",
-            "summary": "Spider-Man: Brand New Day is nearing a domestic box-office record. The film is just ten million dollars away from Star Wars: The Force Awakens. It has already earned over nine hundred twenty-three million dollars domestically. Worldwide, the movie has crossed two point four billion dollars. This performance positions it as a major box-office success.",
-            "published": "2026-09-11T04:47:24+05:30"
-          },
-          {
-            "title": "\"Free Speech Absolutist\": Elon Musk Threatens Legal Action Over Documentary",
-            "link": "https://www.ndtv.com/world-news/elon-musk-threatens-legal-action-over-documentary-12030899#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The September 3 letter from attorney Alex Spiro, addressed to a producer at Alex Gibney's Jigsaw Productions, accuses the Oscar-winning documentarian of building \"Musk\" around a predetermined conclusion.",
-            "published": "2026-09-11T04:43:26+05:30"
-          },
-          {
-            "title": "2.5 lakh crore spent on disaster management in 11 years: Amit Shah",
-            "link": "https://timesofindia.indiatimes.com/india/2-5-lakh-crore-spent-on-disaster-management-in-11-years-amit-shah/articleshow/134035531.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-11T04:39:55+05:30"
-          },
-          {
-            "title": "IRCTC case: Laundering charges framed against Lalu Prasad Yadav, kin",
-            "link": "https://timesofindia.indiatimes.com/india/irctc-case-laundering-charges-framed-against-lalu-prasad-yadav-kin/articleshow/134035372.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-11T04:33:52+05:30"
-          },
-          {
-            "title": "Retro looks, current jibes: Netas give '80s a new spin",
-            "link": "https://timesofindia.indiatimes.com/india/retro-looks-current-jibes-netas-give-80s-a-new-spin/articleshow/134035296.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-11T04:29:24+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The unveiling of a statue honouring Charlie Kirk in Times Square has sparked clashes between supporters and protesters.",
+            "published": "2026-09-11T01:24:27+00:00"
+          },
+          {
+            "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+            "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+            "published": "2026-09-11T01:07:23+00:00"
+          },
+          {
+            "title": "Coach crash kills several people in Swiss Alps",
+            "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+            "published": "2026-09-11T01:01:18+00:00"
+          },
           {
             "title": "Why is Uber pulling out of some African markets?",
             "link": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss",
@@ -253,43 +274,22 @@
             "source": "Al Jazeera",
             "summary": "After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.",
             "published": "2026-09-10T21:47:14+00:00"
-          },
-          {
-            "title": "LG defends smart-TV features amid audio surveillance allegations",
-            "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
-            "published": "2026-09-10T21:33:28+00:00"
-          },
-          {
-            "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
-            "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.",
-            "published": "2026-09-10T21:31:06+00:00"
-          },
-          {
-            "title": "Republican midterm convention live: Vance, Trump to speak in Dallas",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Republicans return to the stage to close their midterm convention, still betting on Trump&#039;s political magnetism.",
-            "published": "2026-09-10T21:31:03+00:00"
           }
         ],
         "Business": [
           {
-            "title": "CAS here to stay, liquidity will pick up, says Sebi Chief",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-here-to-stay-liquidity-will-pick-up-says-sebi-chief/articleshow/134037952.cms",
+            "title": "Global Market Today: Asian stocks, bonds fall on oil, inflation concern",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-bonds-fall-on-oil-inflation-concern/articleshow/134038662.cms",
             "source": "Economic Times",
-            "summary": "Sebi chief Tuhin Kanta Pandey stated the closing auction session is here to stay. He acknowledged initial liquidity concerns, which have improved in other markets. Pandey mentioned Sebi will soon issue a consultation paper on the CAS framework. Some market participants praised the implementation, especially during MSCI rebalancing events. However, a segment of the market faces impacts due to settlement price…",
-            "published": "2026-09-11T06:22:17+05:30"
+            "summary": "Following a notable rise in oil prices, Asian stocks and bonds faced a downturn, signaling a shift in market sentiment. The latest inflation data has fueled speculation about a soon-to-come interest rate hike from the Federal Reserve. Treasury yields hit multiyear highs, placing additional strain on bonds. Furthermore, quicker-than-expected increases in producer prices are adding weight to anticipations for the Fed.",
+            "published": "2026-09-11T06:36:20+05:30"
           },
           {
-            "title": "Canara Bank eyes $2 billion via overseas bonds",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-eyes-2-billion-via-overseas-bonds/articleshow/134037708.cms",
+            "title": "BSE tech glitch disrupts F&amp;O trading on Sensex expiry day",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-tech-glitch-disrupts-fo-trading-on-sensex-expiry-day/articleshow/134037535.cms",
             "source": "Economic Times",
-            "summary": "Canara Bank intends to raise two billion dollars from international markets. This significant funding will be secured through its medium term note program. The bank plans to mobilize these funds via its Gift City branch. Senior unsecured foreign currency bonds will be issued for this purpose. This initiative aims to bolster the bank's overseas financial capabilities.",
-            "published": "2026-09-11T06:19:49+05:30"
+            "summary": "On Thursday, the BSE faced technical difficulties, leading to obstacles in executing trades related to futures and options during the crucial weekly Sensex expiry. According to the exchange, there was a short outage that affected specific segments of the cash market. Fortunately, normal operations resumed once the issue was addressed, although brokers reported similar disruptions on their trading platforms that were…",
+            "published": "2026-09-11T06:13:16+05:30"
           },
           {
             "title": "NPA provisions fall for second straight quarter as bank asset quality improves",
@@ -297,6 +297,13 @@
             "source": "Economic Times",
             "summary": "Aggregate loan loss provisioning by banks dropped significantly year-on-year. This decline was driven by improving asset quality and fewer fresh slippages. Provision coverage ratios also reduced the need for fresh funds. Public sector banks saw a 19.8 percent fall in provisioning. Private sector banks registered a sharper 33.6 percent reduction in provisioning.",
             "published": "2026-09-11T06:03:13+05:30"
+          },
+          {
+            "title": "Gujarat Fluorochemicals shares up 34% in 3 months: What’s driving the rally?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/gujarat-fluorochemicals-shares-up-34-in-3-months-whats-driving-the-rally/articleshow/134037555.cms",
+            "source": "Economic Times",
+            "summary": "The shares of Gujarat Fluorochemicals have experienced notable growth, driven by strong results from the June quarter. The company is gearing up for significant capital investments to broaden its reach in advanced fluoropolymers, strategically targeting booming markets like semiconductors and green hydrogen. Additionally, the shift towards battery materials is poised to act as a crucial source of growth, leading to…",
+            "published": "2026-09-11T05:59:26+05:30"
           },
           {
             "title": "Equity MF inflows rise 19% to Rs 29,329 crore in August; SIPs hit record high",
@@ -353,16 +360,65 @@
             "source": "BBC Business",
             "summary": "The government says the work will support thousands of jobs across the UK.",
             "published": "2026-09-10T21:00:33+00:00"
-          },
-          {
-            "title": "Canara HSBC Life fined Rs 1 crore for mis-selling policy to 88-yr-old via Canara Bank",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-hsbc-life-fined-rs-1-crore-for-mis-selling-policy-to-88-yr-old-via-canara-bank/articleshow/134037898.cms",
-            "source": "Economic Times",
-            "summary": "Canara HSBC Life Insurance Company received a ₹1 crore penalty from IRDAI. The fine was imposed for mis-selling a deferred annuity policy to an 88-year-old individual. IRDAI identified several procedural and disclosure deficiencies in the sales process. The insurer subsequently refunded ₹4.09 lakh to the affected customer. This action highlights regulatory scrutiny over insurance sales practices.",
-            "published": "2026-09-11T00:22:34+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "Aryna Sabalenka Powers Past Jessica Pegula To Enter Final, Eyes Third Straight US Open Title",
+            "link": "https://sports.ndtv.com/tennis/aryna-sabalenka-powers-past-jessica-pegula-to-enter-final-eyes-third-straight-us-open-title-12030980#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The 28-year-old Belarusian, bidding to join Chris Evert and Serena Williams as the only women to win three straight US Open titles, swatted aside Pegula with a dominant service game and a fearsome array of powerful groundstrokes.",
+            "published": "2026-09-11T06:29:18+05:30"
+          },
+          {
+            "title": "Is Rohit Sharma's 'Non-Committal' T-Shirt A Dig At Ajit Agarkar? Internet Thinks So",
+            "link": "https://sports.ndtv.com/cricket/is-rohit-sharmas-non-committal-t-shirt-a-dig-at-ajit-agarkar-internet-thinks-so-12029706#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Fans suggested that Rohit Sharma's apparent dig was aimed at India chief selector Ajit Agarkar over the latter's remarks last year.",
+            "published": "2026-09-11T06:21:47+05:30"
+          },
+          {
+            "title": "\"You’ve Got To Love Competing\": Patrick Mahomes’ Strong Message Sets The Tone For Chiefs Return",
+            "link": "https://sports.ndtv.com/us-nfl/you-ve-got-to-love-competing-patrick-mahomes-strong-message-sets-the-tone-for-chiefs-return-12030977#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Patrick Mahomes is ready to return for the Kansas City Chiefs after a nine-month knee rehab. His strong words reveal why he refuses to approach his comeback cautiously.",
+            "published": "2026-09-11T06:19:50+05:30"
+          },
+          {
+            "title": "Aaron Rodgers Hits Back At Claims He \"Ruined\" Shailene Woodley’s Life After Painful Split",
+            "link": "https://sports.ndtv.com/us-nfl/aaron-rodgers-hits-back-at-claims-he-ruined-shailene-woodley-s-life-after-painful-split-12030961#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Aaron Rodgers has revisited his broken engagement to Shailene Woodley, making startling claims about their relationship while pushing back against narratives surrounding their painful split and its aftermath.",
+            "published": "2026-09-11T06:18:57+05:30"
+          },
+          {
+            "title": "\"My Biggest Regret\": Aaron Rodgers Reveals What Went Wrong Before He Married Brittani",
+            "link": "https://sports.ndtv.com/us-nfl/my-biggest-regret-aaron-rodgers-reveals-what-went-wrong-before-he-married-brittani-12030957#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Aaron Rodgers opens up about wife Brittani for the first time, revealing his biggest regret from the early days of their relationship and how their eventual reunion changed his life.",
+            "published": "2026-09-11T06:03:05+05:30"
+          },
+          {
+            "title": "Travis Kelce's $5.35 Million Home Sparks Backlash As Neighbors Raise Concerns Over Fence Plans",
+            "link": "https://sports.ndtv.com/us-nfl/travis-kelce-s-5-35-million-home-sparks-backlash-as-neighbors-raise-concerns-over-fence-plans-12030929#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Travis Kelce and Taylor Swift’s $5.35 million Cleveland estate has reportedly sparked concerns among neighbors over proposed fencing that could affect their Lake Erie views, adding tension around his new home.",
+            "published": "2026-09-11T05:51:55+05:30"
+          },
+          {
+            "title": "Former Patriots Stars Rob Gronkowski And Julian Edelman Reunite For New FOX Sports Series",
+            "link": "https://sports.ndtv.com/us-nfl/former-patriots-stars-rob-gronkowski-and-julian-edelman-reunite-for-new-fox-sports-series-12030944#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Former Patriots stars Rob Gronkowski and Julian Edelman are teaming up for a new twice-weekly FOX Sports show, bringing their NFL experience, humor and longtime chemistry to fans.",
+            "published": "2026-09-11T05:49:29+05:30"
+          },
+          {
+            "title": "Mike Vrabel’s Blunt Take On Drake Maye Raises Eyebrows After New England Patriots Loss",
+            "link": "https://sports.ndtv.com/us-nfl/mike-vrabel-s-blunt-take-on-drake-maye-raises-eyebrows-after-new-england-patriots-loss-12030942#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Mike Vrabel’s blunt response to Drake Maye’s costly fourth-quarter mistakes has drawn attention after the New England Patriots’ painful loss to the Seattle Seahawks.",
+            "published": "2026-09-11T05:48:11+05:30"
+          },
           {
             "title": "\"Happy The Way Things Are Going\": Harmanpreet Kaur Reacts As India Storm Into Asia Cup Final",
             "link": "https://sports.ndtv.com/cricket/happy-the-way-things-are-going-harmanpreet-kaur-reacts-as-india-storm-into-asia-cup-final-12030439#publisher=newsstand",
@@ -390,62 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Luka Doncic enters a bigger Lakers role after LeBron James’ exit, with his major body transformation drawing attention. His conditioning and leadership will now face their biggest test this season.",
             "published": "2026-09-11T00:14:49+05:30"
-          },
-          {
-            "title": "Charles Leclerc Concedes He 'Went Too Far' In Lewis Hamilton Monza Incident",
-            "link": "https://sports.ndtv.com/formula-1/charles-leclerc-concedes-he-went-too-far-in-lewis-hamilton-monza-incident-12030203#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Charles Leclerc on Thursday conceded he was at fault when he clashed with Ferrari team-mate Lewis Hamilton during the opening lap at the Italian Grand Prix.",
-            "published": "2026-09-11T00:12:01+05:30"
-          },
-          {
-            "title": "Shafali Verma Steers India To Women's Asia Cup Final With Comfortable Win Over Bangladesh",
-            "link": "https://sports.ndtv.com/cricket/shafali-verma-steers-india-to-womens-asia-cup-final-with-comfortable-win-over-bangladesh-12030319#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Shafali Verma lived a charmed life for her stroke filled 64 off 40 balls as India marched into yet another Women's Asia Cup final with a comfortable 40-run win over Bangladesh in Dubai on Thursday.",
-            "published": "2026-09-11T00:07:17+05:30"
-          },
-          {
-            "title": "Quinn Hughes Isn’t Rushing His Next Deal, So How Long Will The Minnesota Wild Have To Wait?",
-            "link": "https://sports.ndtv.com/us-nhl/quinn-hughes-isn-t-rushing-his-next-deal-so-how-long-will-the-minnesota-wild-have-to-wait-12030379#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Quinn Hughes is taking his time on a new deal with the Minnesota Wild as questions remain over his contract length and future in Minnesota.",
-            "published": "2026-09-10T23:43:43+05:30"
-          },
-          {
-            "title": "England vs Pakistan Highlights, 3rd Test Day 2: Azan Awais, Shan Masood Steady Pakistan Before Rain Forces Early Stumps",
-            "link": "https://sports.ndtv.com/cricket/england-vs-pakistan-live-updates-3rd-test-day-2-12027720#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "England vs Pakistan Highlights, 3rd Test Day 2: Rain forced early stumps on Day 2 of the third Test between England and Pakistan at the Edgbaston.",
-            "published": "2026-09-10T23:25:36+05:30"
-          },
-          {
-            "title": "India vs Bangladesh Highlights, Women's Asia Cup Semi-Final: Shafali Verma Stars As India Beat Bangladesh To Enter Final",
-            "link": "https://sports.ndtv.com/cricket/india-vs-bangladesh-live-score-womens-asia-cup-2026-semi-final-live-updates-smriti-mandhana-harmanpreet-kaur-shafali-verma-12028777#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India Women vs Bangladesh Women Highlights, Women's Asia Cup 2026 Semi-Final: After posting 149/6 on a spin-friendly wicket at the Dubai International Cricket Stadium, Harmanpreet Kaur and Co. restricted Bangladesh to 109 for 7.",
-            "published": "2026-09-10T23:20:10+05:30"
-          },
-          {
-            "title": "Rory McIlroy Sounds The Alarm After Revealing 'A Bad Habit' Has Returned to His Swing",
-            "link": "https://sports.ndtv.com/us-golf/rory-mcilroy-reveals-bad-habit-returning-to-his-golf-swing-12030068#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Rory McIlroy has opened up about a “bad habit” in his golf swing after a poor FedExCup start, while Gary Player has questioned his changing approach.",
-            "published": "2026-09-10T23:14:34+05:30"
-          },
-          {
-            "title": "Becky Lynch or Rhea Ripley: WWE's Richest Queen?",
-            "link": "https://sports.ndtv.com/us-wwe/becky-lynch-vs-rhea-ripley-net-worth-comparison-2026-wwe-earnings-businesses-and-luxury-lifestyle-compared-12029361#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Becky Lynch and Rhea Ripley have built WWE fortunes in very different ways. From Lynch’s “The Man” era and media work to Ripley’s rapid rise, merchandise and brand deals, here’s a closer look at their 2026 wealth, career earnings, and lifestyles.",
-            "published": "2026-09-10T23:12:42+05:30"
-          },
-          {
-            "title": "Bhatia half-century, Ramharack three-for hand Trinbago Knight Riders comfortable win",
-            "link": "https://www.cricinfo.com/ci/content/story/1553682.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "A frugal bowling effort helped Knight Riders restrict Empress to 100 before Bhatia and Dottin helped them chase down the target with 53 balls to spare",
-            "published": "2026-09-10T17:42:39+00:00"
           }
         ],
         "Technology": [
@@ -627,11 +627,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "अमेरिका: ट्रंप के डाक मतदान के आदेश पर अदालत की रोक बरकरार, राज्यों में भेजे जा रहे मतपत्र; आगे क्या होगा?",
-            "link": "https://www.amarujala.com/world/appeals-court-hands-trump-a-loss-on-mail-voting-as-supreme-court-considers-his-executive-order-2026-09-11",
+            "title": "बांग्लादेश ने कहा- ब्रिक्स में भारत ने तारिक़ रहमान को पीएम की हैसियत से नहीं बुलाया",
+            "link": "https://www.bbc.com/hindi/articles/crm9ex2397zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-11T01:24:43+00:00"
+          },
+          {
+            "title": "देहरादून: नए रिकॉर्ड की ओर चारधाम यात्रा, 15 सितंबर से शुरू होने जा रहा है दूसरा चरण; चुनौतियां लेंगी परीक्षा",
+            "link": "https://www.amarujala.com/dehradun/heading-towards-a-new-record-second-phase-set-to-begin-on-september-15-2026-09-11",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-11T12:32:07+05:30"
+            "published": "2026-09-11T06:45:42+05:30"
+          },
+          {
+            "title": "ब्रिक्स समिट LIVE: रूसी राष्ट्रपति पुतिन शिष्टमंडल के साथ दिल्ली पहुंचे; ब्राजील समेत कई देशों के मेहमान भी आए",
+            "link": "https://www.amarujala.com/live/india-news/brics-summit-2026-live-updates-russian-prez-putin-sergey-lavrov-arrives-india-other-nation-delegation-in-delhi-2026-09-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-11T06:41:42+05:30"
+          },
+          {
+            "title": "श्रीनगर: कश्मीरी पंडितों को व्हाइट कॉलर आतंकी बताकर हत्या की धमकी, यूएलसी का 40 दिन में छठा पत्र",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-kashmiri-pandits-threatened-with-death-after-being-labeled-white-collar-terrorists-2026-09-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-11T06:34:58+05:30"
           },
           {
             "title": "9/11 हमले की बरसी: वर्ल्ड ट्रेड सेंटर पर चार हमले और हजारों मौत, वारदात के 25 साल बाद भी जिंदा हैं पांच सवाल",
@@ -688,27 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-10T23:35:00+00:00"
-          },
-          {
-            "title": "एक्सक्लूसिव इंटरव्यू: विशाल चतुर्वेदी ने खोले ‘हनुमान अंश’ के कई राज, नई पीढ़ी और अध्यात्म पर जानिए क्या बोले",
-            "link": "https://www.amarujala.com/dehradun/film-director-vishal-chaturvedi-reveals-several-secrets-of-hanuman-ansh-in-dehradun-read-exclusive-interview-2026-09-11",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-11T05:00:02+05:30"
-          },
-          {
-            "title": "ब्रिक्स समिट LIVE: रूसी राष्ट्रपति पुतिन शिष्टमंडल के साथ दिल्ली पहुंचे; ब्राजील समेत कई देशों के मेहमान भी आए",
-            "link": "https://www.amarujala.com/live/india-news/brics-summit-2026-live-updates-russian-prez-putin-sergey-lavrov-arrives-india-other-nation-delegation-in-delhi-2026-09-11",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-11T03:18:27+05:30"
-          },
-          {
-            "title": "मणिपुरी संगीतकार की पोस्टमार्टम रिपोर्ट- 15 पसलियां टूटी मिलीं:सीने-पेट पर भारी हथियार से लगी गहरी चोटें, इंटरनल ब्लीडिंग से हुई मौत; 8 आरोपी गिरफ्तार",
-            "link": "https://www.bhaskar.com/g/national/news/manipuri-musician-vikram-singh-murder-delhi-aiims-autopsy-report-138993731.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-10T21:04:40+00:00"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "பிரிக்ஸ் உச்சி மாநாடு: சீனாவின் செல்வாக்கு, மத்திய கிழக்கு, யுக்ரேன் போர்கள் - இந்தியா முன்னுள்ள சவால்கள்",
+            "link": "https://www.bbc.com/tamil/articles/crer57zqr7po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-11T01:21:38+00:00"
+          },
+          {
             "title": "விமானத்தில் ‘BOMB’? நடுவானில் சிக்கிய மேட்டர்.. அலர்ட்டான அதிகாரிகள்.. அவசரமாக தரையிறங்கிய விமானம்",
             "link": "https://tamil.oneindia.com/news/india/indigo-flight-makes-emergency-landing-in-ahmedabad-after-bomb-written-on-tissue-paper-found-onboard-830029.html",
             "source": "Oneindia Tamil",
@@ -970,13 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-10T15:37:34+05:30"
-          },
-          {
-            "title": "ஹனிமூனுக்கு கிளம்பிட்டாரா? 72 வயது மலேசிய லெஜெண்ட் அப்தா அலிஃப்.. அப்ப அந்த 20 வயது பெண் யார்?",
-            "link": "https://tamil.oneindia.com/news/international/honeymoon-rumours-72-year-old-malaysian-football-legend-abdah-alif-marries-20-year-old-woman-who-829845.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-10T15:08:42+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "సల్మాన్‌ రష్దీకి అమెరికా నేషనల్‌ బుక్‌ అవార్డు - eenadu.net",
+            "title": "తిరుమలలో ఇకపై జియో ఫెన్సింగ్ ఏర్పాటు",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-building-a-dedicated-tirumala-mobile-app-to-map-shops-hotels-and-establishments-streamline-it-505667.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-11T06:53:44+05:30"
+          },
+          {
+            "title": "ఆదాయానికి కొత్త ద్వారాలు తెరుస్తున్నాం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jR2g2RUtQcG5SQTY1Wl9mWWRWQ0dRZDhaakVaTDBxeWRPOVgwZkpVTEZfTElLMkRkLWdXcFBJVHdkWl9FeVI0bmZCc2l3TEtZYXlTOEI2MHVfMTZ6dS1CVGlFSkFiZlZ0UXJsc3AxSkJNeDRGbmFqUGp1SlrSAXxBVV95cUxNY0doNkVLUHBuUkE2NVpfZllkVkNHUWQ4WmpFWkwwcXlkTzlYMGZKVUxGX0xJSzJEZC1nV3BQSVR3ZFpfRXlSNG5mQnNpd0xLWWF5UzhCNjB1XzE2enUtQlRpRUpBYmZWdFFybHNwMUpCTXg0Rm5halBqdUpa?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:59:40+00:00"
+          },
+          {
+            "title": "అమరరాజ పరిశ్రమ తరలిపోయేలా చేయడం ఘోరతప్పిదం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZnFVeVNZUzFMaTRBTkdWQ0EtQk9XaWtnRGgtZlJKYnRyRlRzMjdTcFJvd0ZmVjcwX0hCSEdqXzVsWUVJMGFWcms2cmE2NWozbGF6RFZLQlZoRXZxeWdtQjhQQ1pjWDhBVWNCSXNFYkVJd3hMV2FhT3FTVHTSAXxBVV95cUxQZGZxVXlTWVMxTGk0QU5HVkNBLUJPV2lrZ0RoLWZSSmJ0ckZUczI3U3BSb3dGZlY3MF9IQkhHal81bFlFSTBhVnJrNnJhNjVqM2xhekRWS0JWaEV2cXlnbUI4UENaY1g4QVVjQklzRWJFSXd4TFdhYU9xU1R0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:58:15+00:00"
+          },
+          {
+            "title": "వావ్‌.. ఆంధ్రా పారిస్‌.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83aUVobTAzSVVIbWk2bXRscjVOWkFkamVaVWozRWdvVDRkYXYtYldGdFhwRFdXbjFwamNqODFzbm1FazJqQ3pNazZjSmZQT0hTM1FEam5FTlp3MUltY0dwS1RTTXNtWkN2VmpOb0dZUnJzM0NkTmpxLUQyRlHSAXxBVV95cUxPN2lFaG0wM0lVSG1pNm10bHI1TlpBZGplWlVqM0Vnb1Q0ZGF2LWJXRnRYcERXV24xcGpjajgxc25tRWsyakN6TWs2Y0pmUE9IUzNRRGpuRU5adzFJbWNHcEtUU01zbVpDdlZqTm9HWVJyczNDZE5qcS1EMkZR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:49:28+00:00"
+          },
+          {
+            "title": "40 నిమిషాలు దంచికొట్టిన వాన - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZZHEtSnRIQUdIT2FPck9Gd252MENTTHhEbnp4WW8ybDFHY1ZqRW1tMWF4aTl2dXUyUkV3d0xvYXRhbGQ1Z3NiTG10RXpyc1I3ZUNQWWJFYXF2WmIxT29zckJlSU5Iai1weHQ4SjJDQ1JIZXA5S3M5X3k1TnfSAXxBVV95cUxPWWRxLUp0SEFHSE9hT3JPRndudjBDU0x4RG56eFlvMmwxR2NWakVtbTFheGk5dnV1MlJFd3dMb2F0YWxkNWdzYkxtdEV6cnNSN2VDUFliRWFxdlpiMU9vc3JCZUlOSGotcHh0OEoyQ0NSSGVwOUtzOV95NU53?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:45:19+00:00"
+          },
+          {
+            "title": "నేపాల్‌ వరదల్లో పదిలంగా.. ఓ భవనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMG05OUVrb0tNTDhfZVIxWUxNRlZjQkNzaUJBS3hQWVRBMzFvLW9ndFRqN1M4VjUtNEMwcm1HbUwtUFdLdW04bGdqUEEyQUkxTVo1R1lUTVRPeXNub1VKT3FKbnU4M0VDU2FBSlFLMlnSAXBBVV95cUxNQjBtOTlFa29LTUw4X2VSMVlMTUZWY0JDc2lCQUt4UFlUQTMxby1vZ3RUajdTOFY1LTRDMHJtR21MLVBXS3VtOGxnalBBMkFJMU1aNUdZVE1UT3lzbm9VSk9xSm51ODNFQ1NhQUpRSzJZ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:41:52+00:00"
+          },
+          {
+            "title": "H1B visa: హెచ్‌1బీ వీసాదారులకు 60 రోజుల గ్రేస్‌ పీరియడ్‌ ఎత్తివేత - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelFpZnVWMnJxUmRzYlpRb29TRnpkWmZRdUNhaFVEQnF5QkJSeEFTbHdPOFhUeWpSUFNxYVpvYnZ1d0pxV0FhdTVENkJROUFFOFBnYldySFZqT3UzZk0zNk52Q2ZhWndDUUp3enhUd0JCRGJlVE1LMzFwdldYNlJVbTF2cm5TSEJ3a1ZJYmlZR2JBZzBQV1Z4TGpBMElfdksxaVRfUl9HZVpCQdIBqgFBVV95cUxOelFpZnVWMnJxUmRzYlpRb29TRnpkWmZRdUNhaFVEQnF5QkJSeEFTbHdPOFhUeWpSUFNxYVpvYnZ1d0pxV0FhdTVENkJROUFFOFBnYldySFZqT3UzZk0zNk52Q2ZhWndDUUp3enhUd0JCRGJlVE1LMzFwdldYNlJVbTF2cm5TSEJ3a1ZJYmlZR2JBZzBQV1Z4TGpBMElfdksxaVRfUl9HZVpCQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:40:23+00:00"
+          },
+          {
+            "title": "సల్మాన్‌ రష్దీకి అమెరికా నేషనల్‌ బుక్‌ అవార్డు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BbzVxQjRFZF9LQjNoUkJNOTBFTTdXVm8tRUxaTzlLWUN5Z0JNLUh4Tmt5SGdGb3dNdzVMdXd0THdFRndrSmk0ZDI4NkJlV2xxOFRLSU1qX3BvVVI1NDlxUHJlSmZiWTdPbHhZdTEyc23SAXBBVV95cUxPQW81cUI0RWRfS0IzaFJCTTkwRU03V1ZvLUVMWk85S1lDeWdCTS1IeE5reUhnRm93TXc1THV3dEx3RUZ3a0ppNGQyODZCZVdscThUS0lNal9wb1VSNTQ5cVByZUpmYlk3T2x4WXUxMnNt?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-11T00:36:40+00:00"
           },
           {
-            "title": "అంతరిక్ష పరిశోధన ఫలాలు అందరికీ అందాలి - eenadu.net",
+            "title": "తిరుమలలో భక్తుల అనూహ్య రద్దీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpampseVVONmtXRmJ5RUlNTEk1ZjJwZ2Y0WDV5SEdvOGhnRW1YUGRkMEV0R3A0eXd6TDRGQVdvMGhhT0xDYzhyVnV2U000YlF2ZVpraHRJX0JqYnRRN291dUNZMWtGWHI1Rl9uazF3S0ZfNXYydlFXT0ctLU_SAXxBVV95cUxQaWpqbHlVTjZrV0ZieUVJTUxJNWYycGdmNFg1eUhHbzhoZ0VtWFBkZDBFdEdwNHl3ekw0RkFXbzBoYU9MQ2M4clZ1dlNNNGJRdmVaa2h0SV9CamJ0UTdvdXVDWTFrRlhyNUZfbmsxd0tGXzV2MnZRV09HLS1P?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-11T00:30:32+00:00"
+          },
+          {
+            "title": "అంతరిక్ష పరిశోధన ఫలాలు అందరికీ అందాలి - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BeVlOVUJvTmhEb0czY0N2Y0IteHJiRk1ia0p1aW5xay00MnJBUjY4V1pYbkMxOUxYWU54SEs3dEdqMWVJWDlRd3ZxajR6M2V5Mk5NVTRsWDNiQkFBc1ZCZVRMY1VsN1lZVEZJTUcySTLSAXBBVV95cUxOQXlZTlVCb05oRG9HM2NDdmNCLXhyYkZNYmtKdWlucWstNDJyQVI2OFdaWG5DMTlMWFlOeEhLN3RHajFlSVg5UXd2cWo0ejNleTJOTVU0bFgzYkJBQXNWQmVUTGNVbDdZWVRGSU1HMkky?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-11T00:29:52+00:00"
           },
           {
-            "title": "ఆరావళి పర్వత శ్రేణిపైకి విత్తన బంతులు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MHU5c29FU25fNlNxbmI3bE5NV0tOWVRveThBbGhSOHBQSEJrbGlwREhKa2swVFAzb2pUaFJtQW9DR1JJVzZYeE11blI2OUZ3SUJoOE5aX2ZHenRCVjRGTDZIa19Pd3ZaRjBvSEZRemrSAXBBVV95cUxOdzB1OXNvRVNuXzZTcW5iN2xOTVdLTllUb3k4QWxoUjhwUEhCa2xpcERISmtrMFRQM29qVGhSbUFvQ0dSSVc2WHhNdW5SNjlGd0lCaDhOWl9mR3p0QlY0Rkw2SGtfT3d2WkYwb0hGUXpq?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-11T00:29:11+00:00"
-          },
-          {
-            "title": "వృద్ధాశ్రమాలు కావు.. స్నేహాలయాలు - eenadu.net",
+            "title": "వృద్ధాశ్రమాలు కావు.. స్నేహాలయాలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JS2NtaEY2bWVMcVR6NE9vamh4Z0k0b1h5SmpLdnNRMTQzR1RKSTNia2E3MTYyYUpYOTE5MEViX0hPb202bkg5YVdVOGd2OVljYWREOHRhNVNLbE9lOXh3ZlpnSlNoSFMyZXMtdUZYcmjSAXBBVV95cUxPSUtjbWhGNm1lTHFUejRPb2poeGdJNG9YeUpqS3ZzUTE0M0dUSkkzYmthNzE2MmFKWDkxOTBFYl9IT29tNm5IOWFXVThndjlZY2FkRDh0YTVTS2xPZTl4d2ZaZ0pTaEhTMmVzLXVGWHJo?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-11T00:24:28+00:00"
           },
           {
-            "title": "నేడు బ్యాంకు ఉద్యోగుల సమ్మె - eenadu.net",
+            "title": "నేడు బ్యాంకు ఉద్యోగుల సమ్మె - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUc1lrQnBNdkNLbkszdFRrbzJHUVk3MV9jX0lOMjI2Z0dLd3lfTnZ5VzA5UzBnZV9NNnhBdFF0UlhZaVFFRWNHanlWQUdmN1VOZ0Z2UDlYQjJQRGxjb0h3RlNaR3F5allYNVQyb2lWOEpRR0p5Uy11U09vY0pWZw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-11T00:14:51+00:00"
-          },
-          {
-            "title": "ఆప్యాయత ఒలకబోశాడు.. ఆస్తులు నీవన్నాడు.. అవస్థలు మిగిల్చాడు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkNKMWhZdTRGOHo3UjBhdWhnNVdqa09hVHItZVQyN09HYU9yc2N5aFAwLXB6VEdQODJHc2h6SVJ6R1FOU2prbTFLbVdpdEthVzB5cW1TU0tPSFdKdjlVUzU2TWRqeWZadDZkNkhMM3Z4Ul93ZkhYcElENThlb2xHVGNtb1VWZExvVkJwWmVSUF9kZ1o5ZVVmQjVFa2NMWDlidkVtN1Z3QjFndFJNZkhrbWJVbVU0dFdhU0l1bUNsZlY5T2s3cldZaS1uREg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-11T00:10:11+00:00"
-          },
-          {
-            "title": "Geyser: అక్కర్లేదు గీజరు.. ఆ ఊరంతా వేడినీరు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3gwWXh3U3VUZUdmR1BlXzVYck52MmgxRjZfMXN2NDFyTlZYVXlkcnBsMEdOeGRjbmJSSmtGYmhpQ0VaRjM3eDN6b3Jpd1BvMFZtOWFULVVyekg4VXV6TUJidkhXbW1xaE5xeWVsN3BlYXduenFCa2pzWktETzdkWHFpeEV3UUpYZ3hTWEJEaW5aVlFnZFpaaW1Sck5NVVc3eTE2WDBpSEJMbi1DYnRKZDZn0gGyAUFVX3lxTE9veDBZeHdTdVRlR2ZHUGVfNVhyTnYyaDFGNl8xc3Y0MXJOVlhVeWRycGwwR054ZGNuYlJKa0ZiaGlDRVpGMzd4M3pvcml3UG8wVm05YVQtVXJ6SDhVdXpNQmJ2SFdtbXFoTnF5ZWw3cGVhd256cUJranNaS0RPN2RYcWl4RXdRSlhneFNYQkRpblpWUWdkWlppbVJyTk1VVzd5MTZYMGlIQkxuLUNidEpkNmc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-11T00:04:05+00:00"
-          },
-          {
-            "title": "Ram Reddy: ఆర్థిక ఇబ్బందులతో నివీ డెవలపర్స్‌ అధినేత రాంరెడ్డి ఆత్మహత్య - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdlJ5dW5pQXlmWHFzLXhNZmtnSW13WVhaZGhVUGV2ZS1OdUIwTzFCNk9xc2FxNHZ6Q2d2UFVCVXpXb211aGNNN1RIYWpPVUJGUHZocVRrYzdkWlhDaWo5OWUtNE9fQm5nWHluY1Y2RFJZdHk0UjBDZG9EVlRMX2hlalJGYWpHRzRaRjdua1djeFdEM0JXdmQ0ZlBjLWJwYnZhczMxWEtsa1Ffdjg3NmNsS1A3R1h1RzI1NzNLWjdPTkJpSlFYbHNmLXR2NE5fNnlodnRB0gHTAUFVX3lxTFB2Unl1bmlBeWZYcXMteE1ma2dJbXdZWFpkaFVQZXZlLU51QjBPMUI2T3FzYXE0dnpDZ3ZQVUJVeldvbXVoY003VEhhak9VQkZQdmhxVGtjN2RaWENpajk5ZS00T19CbmdYeW5jVjZEUll0eTRSMENkb0RWVExfaGVqUkZhakdHNFpGN25rV2N4V0QzQld2ZDRmUGMtYnBidmFzMzFYS2xrUV92ODc2Y2xLUDdHWHVHMjU3M0taN09OQmlKUVhsc2YtdHY0Tl82eWh2dEE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-10T23:56:15+00:00"
-          },
-          {
-            "title": "దోపిడీ ప్రాంగణం..! - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFsR2d1ZGo2UnpmN3Ntc0FfdnFzNjZXUjVtVHBEamp4OGw4c2VnUjZjRi1WMW1XWmRxOVpjcXQwMEZjcUhMaVFkM1AwY0JLZUVEUXgyT2hEb2RZZ1ZfalRRMHhVbkpHSFNZamRmWWhtbkhaZHowdkZoR0ZkeklhNQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-10T23:42:39+00:00"
-          },
-          {
-            "title": "జనగణనపై కేంద్రాన్ని లక్ష్యం చేస్తే వాకౌట్‌ చేద్దాం - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94V2RtbVNJQTQyNDR4Q3R3blF3bFVvREtWMDR6bTVVaVdQZ1Q4TTlnb2dJSG1mdzEtNkpEd09zRWhkME9mZDJOUkFCX3YwWU9nZFZRZ1dfcUlIWF9GWVFVY3FOVnFDcU9YWTNSQl9NalY3N0w4RGfSAXZBVV95cUxPeFdkbW1TSUE0MjQ0eEN0d25Rd2xVb0RLVjA0em01VWlXUGdUOE05Z29nSUhtZncxLTZKRHdPc0VoZDBPZmQyTlJBQl92MFlPZ2RWUWdXX3FJSFhfRllRVWNxTlZxQ3FPWFkzUkJfTWpWNzdMOERn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-10T23:40:18+00:00"
-          },
-          {
-            "title": "సార్‌.. పురుగుల అన్నం పెడుతున్నారు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1c0eDBxS2RqVklhSy1TbmVYUVRtdWxJVUZxNGVhSTdGV24zVlRHdGd2ZnN5QlhTb2pTbzA1Slhhd21ob3E4UUEtWUdtbEFqWkdLX3lwU2tfbVBTMEU3dnBHQzYwWEplemMzdXZ4YnRSWXdYUEFsMjd1aDBzenJxWTc5V0hhSndZSFhocmtyNjVfNTRNd0V6MmZCTXJPVGdTYUVCTm1yYVppOVdxd1hYX0hXeUhyUGJ3MTlrdWRtMkg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-10T23:29:02+00:00"
-          },
-          {
-            "title": "మైనింగ్‌ అక్రమాలపై సీఐడీ దూకుడు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBab1VYeUVnODFyN0ZzbFJ0aV9hTGEzajFJakF6THhwdTZiZzhFamRLV2xfVnpOUU1GS0JqdE5pdE1WTjV2eWhSeDRTOFlZX2dZaUlFVTlmMmt0WXo2QXY3WGl4T1hXZ0VBTHZsMHJ0UjdNTUNzNHfSAXZBVV95cUxQWm9VWHlFZzgxcjdGc2xSdGlfYUxhM2oxSWpBekx4cHU2Ymc4RWpkS1dsX1Z6TlFNRktCanROaXRNVk41dnloUng0UzhZWV9nWWlJRVU5ZjJrdFl6NkF2N1hpeE9YV2dFQUx2bDBydFI3TU1DczR3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-10T23:25:58+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ದುಬೈನಲ್ಲಿ ಕೆಲಸ, ತಿಂಗಳಿಗೆ ₹2.5 ಲಕ್ಷ ಸಂಬಳ! ಭಾರತೀಯ ಯುವತಿ ಹೇಳಿದ ಸ್ಯಾಲರಿ ಕೇಳಿ ನೆಟ್ಟಿಗರು ಶಾಕ್!",
+            "link": "https://kannada.oneindia.com/news/india/indian-woman-reveals-2-5-lakh-monthly-salary-in-dubai-as-tech-support-she-also-shared-her-experie-467527.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-11T06:44:04+05:30"
+          },
+          {
             "title": "Mahasankalpa 2037: ಕರ್ನಾಟಕವನ್ನು ₹1 ಟ್ರಿಲಿಯನ್ ಆರ್ಥಿಕತೆಯನ್ನಾಗಿಸಲು ಡಿಕೆಶಿ ಬೃಹತ್ ಗುರಿ",
             "link": "https://kannada.oneindia.com/news/karnataka/mahasankalpa-2037-dk-shivakumar-sets-massive-1-trillion-economy-goal-for-karnataka-467515.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-10T16:51:50+05:30"
-          },
-          {
-            "title": "DK Shivakumar: ಎಷ್ಟೇ ಟೀಕೆಗಳು ಬಂದರೂ, ಕೆಲಸಗಳನ್ನು ಮುಂದುವರಿಸಿ: ಡಿಕೆಶಿಗೆ ಸಿದ್ದರಾಮಯ್ಯ ಸಲಹೆ!, \"ಕಟಾಚಾರ ಬೇಡ'",
-            "link": "https://kannada.oneindia.com/news/karnataka/dk-shivakumar-keep-working-despite-criticism-what-siddaramaiah-advises-don-t-be-sarcastic-congress-467471.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-10T16:37:38+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ভাঁড়ার ভরতে স্টেশনের জমি ভাড়া, উদ্যোগ উত্তর শাখাতেও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NQZDZTMlBtamxZdHF4b3dlY0hGdnpoTHl3Yl8zbWJvMHdZeDNudXpFNUYtSDZYQzJ0LUF0RzJmTE5UQURuU1BMWWlFNjd1bXg0UENrcTllSzFpcUloNUQwWHdOeWl6UV9hbXJFUHl4VkE3TTZqT0NLTkJKeHpZN0RfVk9IdEpPOURLejVQbHMyZw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-11T01:20:55+00:00"
+          },
+          {
             "title": "ঘুমের মধ্যেই ঘরে আগুন, নিমতায় পুড়ে মৃত প্রবীণ দম্পতি - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUdFREREQ04zSTBmUXVxZzRSVjk2VlVmVTNxN0NJdVBuUEZpSUxmSDdCeUNXZ0M2REZ5dHJKZzNDS2FIV19iX1YwU3YxcG1OQzAzZWVna0JyYmR1MFRmMWhVSHhtZDNFdEd6NjVDaUlla2ZCVXRoYktmRDh1VEhZUU0tTjVjc0tFTEJxeGotX3A?oc=5",
             "source": "Anandabazar Patrika",
@@ -1440,6 +1447,13 @@
             "published": "2026-09-11T00:24:32+00:00"
           },
           {
+            "title": "পাঁচ বছরের চুক্তি-নিয়োগ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmEwZGkyTE9mS0hDTk5BS2hGMDNwZEd6YWFLRm1aUlpfYWNlS2RpcndGbHpmQjUxUVNvbTNwel84VExwUkpnTk1TWjczaXRiak9UZUVOc1Y4SFZuV1Rjbm9aMmNjcWpEU0lIeXZyVDR4M0lzZkF6RWFYU05LQk1sbGJlLXlhTVQ1S0tXaUYzREZ0eGhYeGN0WGRQVGV6TTdHZnBSRG5nTlc4UE92bUdlNVRPMUZHTHROX05sSFJB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-11T00:19:17+00:00"
+          },
+          {
             "title": "আধিপত্যের তাড়না - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN196aGN3VXJvWXlKLXBnbDREWFVtcGJUakgxNG94UXJIZFVtbEVsUWNfU0JvT2lCQWRyZG9iVktMQTdHUHhSd284ZXVNcVI2WTJ5UHVrNVR0Y0pMaU9uZFY0M2ZHcXE3d1Z0OXpZS1h5Q0E0THpObGozenZuM1NjSm42b1RIUW5OYU9OWUlRUXFoOFNhWWhYa2RmMTZ0bTdTZDZoejVTZjZEem1oelpqZ3A5WnhZbWFPXy16bTNfRQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1448,7 +1462,7 @@
           },
           {
             "title": "মদ খেয়ে মৃত দুই, পরিবারের দাবি ‘জল ভেবে মুখ দিয়েছিল ওরা’ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHVBay0zNUk3cHVVM2V2Z2E2UHBEQTVSNy1MeWlXNmEtaEpET3NfdnZlcmdfb1Fqb3IzUmV4a1lxVWVxR1JHbzI1ODBRUjM5U3JqM0RJcGlQT2h0aUc2bl9qcHU2Q0JSZjNBNHdSWDI5UU9UUjJSVWx4LUpsV1dSUnA4aW5WWVBwSEwtR283eFBWSXpSZllHM0E2dkRLUmM2ZTdpSFpJM2VJVDVld3ZUYVNfODNtcDDSAbcBQVVfeXFMTnh1QWstMzVJN3B1VTNldmdhNlBwREE1UjctTHlpVzZhLWhKRE9zX3Z2ZXJnX29Ram9yM1JleGtZcVVlcUdSR28yNTgwUVIzOVNyajNESXBpUE9odGlHNm5fanB1NkNCUmYzQTR3UlgyOVFPVFIyUlVseC1KbFdXUlJwOGluVllQcEhMLUdvN3hQVkl6UmZZRzNBNnZES1JjNmU3aUhaSTNlSVQ1ZXd2VGFTXzgzbXAw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVZTE1DZUctZmhBN0dxRWswOE9CSW82SF9mTm1xRWptZzNJTTE3M2N0V1RKOWZac3hLMEpHa2VERW51MXo2dGxFY0M0ektPRVlCYVFxUllzbTNvLXVLakFIbjFHY2hFWW5sMFhRaDlzZTRHOFZxSzl3WlhTRFZDRWZrTVVGMHdlWlp5S3VWN3IwRUw2cUNyM2ZOcFUxekdSMmV6WGJNY3FtYlZaOWRJcHZ30gG3AUFVX3lxTE54dUFrLTM1STdwdVUzZXZnYTZQcERBNVI3LUx5aVc2YS1oSkRPc192dmVyZ19vUWpvcjNSZXhrWXFVZXFHUkdvMjU4MFFSMzlTcmozRElwaVBPaHRpRzZuX2pwdTZDQlJmM0E0d1JYMjlRT1RSMlJVbHgtSmxXV1JScDhpblZZUHBITC1Hbzd4UFZJelJmWUczQTZ2REtSYzZlN2lIWkkzZUlUNWV3dlRhU184M21wMA?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-10T20:40:32+00:00"
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-10T15:21:58+00:00"
-          },
-          {
-            "title": "অধ্যাপক ইউনূসের গ্রামীণ কল্যাণের ৬৬৬ কোটির আয়কর মামলা ঘিরে এপর্যন্ত যা যা ঘটেছে",
-            "link": "https://www.bbc.com/bengali/articles/c8e3xdrj96eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-09-10T14:51:06+00:00"
-          },
-          {
-            "title": "অধ্যাপকদের বদলি করতে বিল পাস করাল সরকার, পক্ষে-বিপক্ষে কী বলছে শিক্ষক ও শিক্ষাকর্মী সংগঠনগুলি? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeGFzT2JNYUR4UTVVV0dsaExJMnEtbDNYMGxCRUFjNFlrcEYzRXZNNEtkdmJwQzdKTm15WE1qcjdtU0xrTnkwd1c4dk9VbnZjcjQ4dnI3WlY4TklKNDFyRGpPRmRxRlBKYXdxUDFRT0Y1TjZ3ZENEZDZjYkI4TnpQWmt3eVV3UnU4MEUyRldmWElGbFZZRmRlWGlWMm9PdTBHMlFQUXh3dV8xVThXcFo0ZDVYbW5ET0NtRzlsOHFhVGh5bFdYQ3FSVnRFQ0xNMk9pbkN6V0Z1TTZOZW5pS01ibE9DRUhJLW03eWpSQmdENDdzOWY3cENENGJoTkREV05FTU5GU0VoeFRmd9IBjwJBVV95cUxPbE1aQjM3QVJHVXFrdjFtR3FCeS1oYjZRX2gxbFVMUktNVFpSTVVwM3RWQlJJRDJHSUdBdzVlSjdvOThvbS0xRmt4Qm1vQVZCOGNyX1VHcmM0Z0ZZWEo3NVEzT1FrRHl0R3hRcG5mR0pBOVBZRHZETWl4a2VBNzhadlBTWUx3ZnBOcHV6ZHJnWk9qUzlCM2lta0M4QUt6Q3YzV2Q2Y3hTc19wb3NBUkVXTEtDVUp4ZlFXOUdUdUtzb24xWng5TDM5T2NlVkpVWVNucHBzWHlRT0tOYnhUbGxqR2t5SFEwVU1zUThxTlpwU2l0MGttWElodExVNGxycFE0X2U5bHgyZ1V0ZVVKU1M4?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-10T13:45:49+00:00"
           }
         ]
       }
