@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:01:37.032432+00:00",
+  "updated_at": "2026-09-12T23:16:41.638793+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -11,6 +11,13 @@
             "source": "Gadgets 360",
             "summary": "Despite the soaring prices of memory components that have ultimately increased smartphone rates, gaming smartphones are still pretty accessible to the masses. There are several options in the sub-Rs. 40,000 segment that offer powerful chipsets, high-refresh-rate displays, and dedicated cooling systems. This means you do not necessarily need to spend flagship-level money for a phone capable of handling demanding…",
             "published": "2026-09-13T16:00:23+05:30"
+          },
+          {
+            "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+            "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
+            "published": "2026-09-12T23:06:08+00:00"
           },
           {
             "title": "HDFC Bank sends names of 2 CEO candidates to RBI",
@@ -95,13 +102,6 @@
             "source": "The Hindu",
             "summary": "The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; “civilian blood has no nationality, and international justice cannot have double standards,” she added",
             "published": "2026-09-13T03:35:17+05:30"
-          },
-          {
-            "title": "Sebi for changes to CAS timing, derivatives settlement prices",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134159679.cms",
-            "source": "Times of India",
-            "summary": "Sebi has put forth new proposals aimed at modifying the Closing Auction Session timings and derivatives pricing. Following the recent launch of the session, traders have noted an uptick in market volatility. The regulator is evaluating two potential options for determining derivative settlement prices, suggesting a shift in market timings to include a transition break and longer trading intervals. Feedback on these…",
-            "published": "2026-09-13T03:27:55+05:30"
           }
         ],
         "India": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+            "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
+            "published": "2026-09-12T23:06:08+00:00"
+          },
+          {
             "title": "Noel Gallagher says Johnny Marr has 'always been gung-ho' with his guitars",
             "link": "https://www.bbc.co.uk/news/articles/c3v4nnw9pvyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
             "published": "2026-09-11T15:32:44+00:00"
-          },
-          {
-            "title": "Céline Dion duets with fan ahead of Paris comeback concert",
-            "link": "https://www.bbc.co.uk/news/videos/cm2q8gg09d1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The Canadian singer - who was diagnosed with an incurable condition four years ago - has been interacting with fans outside her hotel, ahead of a much-anticipated show on Saturday.",
-            "published": "2026-09-11T14:54:07+00:00"
           }
         ]
       }
@@ -627,18 +627,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "यूपी: कहीं धूप तो कहीं बारिश, प्रदेश में मौसम के अलग-अलग रंग; आपको बताते हैं आगे कैसा रहेगा मानसून का ढंग",
-            "link": "https://www.amarujala.com/lucknow/up-sunshine-in-some-areas-rain-in-others-varied-weather-across-the-state-2026-09-12",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-13T12:20:05+05:30"
-          },
-          {
             "title": "दिल्ली: एअर इंडिया के पूर्व पायलट वसंत कुंज के एक होटल में मृत पाए गए, केस दर्ज कर मामले की छानबीन शुरू",
             "link": "https://www.amarujala.com/delhi-ncr/former-air-india-captain-found-dead-at-hotel-in-vasant-kunj-2026-09-13",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-13T12:08:21+05:30"
+          },
+          {
+            "title": "गोपेश्वर: बदरीनाथ के तप्तकुंड में ज्यादा डुबकी सेहत के लिए खतरनाक, जानलेवा हादसे के बाद चिकित्सकों ने चेताया",
+            "link": "https://www.amarujala.com/dehradun/taking-too-many-dips-in-the-tapt-kund-at-badrinath-is-hazardous-to-health-2026-09-13",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-13T04:29:56+05:30"
           },
           {
             "title": "श्रीनगर: ऑस्कर विजेता संगीतकार एआर रहमान ने कहा- फिल्मों में हिंसा नहीं, कश्मीर की शांति का जश्न मनाएं",
@@ -1093,25 +1093,11 @@
             "published": "2026-09-12T20:53:22+00:00"
           },
           {
-            "title": "పాక్‌ వైట్‌వాష్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5YXQ1bFJBMklyN3NnWkd3ZXc5SXNXZU94cWxIZGNCUDFKY0ZIWEtBVi05WnUyMzUxM3pXZUk3WTdQWmZJRmRWYW41YnQ0Tno5UlNCYy13YW5VendHOWl5bXd1U0cyejdOVEh2VVgxYmxBUdIBckFVX3lxTFB5YXQ1bFJBMklyN3NnWkd3ZXc5SXNXZU94cWxIZGNCUDFKY0ZIWEtBVi05WnUyMzUxM3pXZUk3WTdQWmZJRmRWYW41YnQ0Tno5UlNCYy13YW5VendHOWl5bXd1U0cyejdOVEh2VVgxYmxBUQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-12T20:34:57+00:00"
-          },
-          {
             "title": "విపత్తు వేళ ప్రజలకు అర్జున్‌ వాహిని అండ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lbTBOSFk4Uk1TekpLZldxejhBZlFXaEotOFRTajRjY04wbEV0UVNhNVNTc2tHeTJIMWh4RXRVbEhhNDdHaWxrLTR4aHdlQ2hDTEQ0akFSekZBaGZVOFJiZVlyUVR3X0lxUTRFRVZyZTFkUTZWdTJJbFZR0gF6QVVfeXFMT2VtME5IWThSTVN6SktmV3F6OEFmUVdoSi04VFNqNGNjTjBsRXRRU2E1U1Nza0d5MkgxaHhFdFVsSGE0N0dpbGstNHhod2VDaENMRDRqQVJ6RkFoZlU4UmJlWXJRVHdfSXFRNEVFVnJlMWRRNlZ1MklsVlE?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-12T20:06:19+00:00"
-          },
-          {
-            "title": "మీకు తెలుసా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JSXhIbmVSbDdNbGw5endQQ3pvWEIwTGNYMVBlSXI3VGhKSmVTa3dFNExyaGppRHVLMHY0cEZubEE4SjkzSmg3RFdOaHdSeWVqdW1UTUJSUGZwdzFZZC11MzJwZmpwaldwb1hVZThuU3PSAXBBVV95cUxOSUl4SG5lUmw3TWxsOXp3UEN6b1hCMExjWDFQZUlyN1RoSkplU2t3RTRMcmhqaUR1SzB2NHBGbmxBOEo5M0poN0RXTmh3UnllanVtVE1CUlBmcHcxWWQtdTMycGZqcGpXcG9YVWU4blNz?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-12T19:58:31+00:00"
           },
           {
             "title": "Sachin - ODI World Cup 2011: సచిన్‌ కోసం డీఆర్‌ఎస్‌లో డైరెక్షన్ మార్చారట.. నవ్వులపాలైన పాక్‌ క్రికెటర్ - Eenadu",
@@ -1154,6 +1140,20 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-12T18:29:40+00:00"
+          },
+          {
+            "title": "బ్రిక్స్ దేశాధి నేతలకు పూర్తిగా శాకాహార విందు.. ఫుల్ మెనూ ఇదే..!",
+            "link": "https://telugu.oneindia.com/news/india/brics-leaders-full-indian-menu-served-pm-modi-hosts-an-all-vegetarian-banquet-here-is-the-menu-505975.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-12T23:45:17+05:30"
+          },
+          {
+            "title": "weekly Horoscope: ఈ వారం రాశిఫలం (సెప్టెంబరు 13 - సెప్టెంబరు 19) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHVhOFRuSkN5dUV6Q3hBcHlqbzhkYzdvWUlqSUo2SVZ0dnhDRkVHLXV1MklOSkdRSzFQZnFSLTZVMmlOYlJLaDZ0Y0pQRjdEXzlwcGtkcEtwOTFaUnJvY0pTdkV3czBoZWVRY01kTWxLRmJza3VTVjlLV0VLOWJiVzJwV3hxRlBaWHFhTDE2X1NKQ3pCNUdiZDhKcE1sMmNfWUo2YVM4V3Vzc0NMOGplSVREWXdkeE12NGozNXN30gG-AUFVX3lxTE8wdWE4VG5KQ3l1RXpDeEFweWpvOGRjN29ZSWpJSjZJVnR2eENGRUctdXUySU5KR1FLMVBmcVItNlUyaU5iUktoNnRjSlBGN0RfOXBwa2RwS3A5MVpScm9jSlN2RXdzMGhlZVFjTWRNbEtGYnNrdVNWOUtXRUs5YmJXMnBXeHFGUFpYcWFMMTZfU0pDekI1R2JkOEpwTWwyY19ZSjZhUzhXdXNzQ0w4amVJVERZd2R4TXY0ajM1c3c?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-12T17:46:47+00:00"
           }
         ],
         "Entertainment": [
