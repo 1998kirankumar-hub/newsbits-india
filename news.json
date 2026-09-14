@@ -1,111 +1,160 @@
 {
-  "updated_at": "2026-09-14T15:01:40.238883+00:00",
+  "updated_at": "2026-09-14T15:31:58.847392+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece",
-            "source": "The Hindu",
-            "summary": "According to an official release, this investment will create employment opportunities for around 7,000 people across sectors including design, engineering, manufacturing, assembly and logistics facilities",
-            "published": "2026-09-14T20:23:51+05:30"
-          },
-          {
-            "title": "3 Italians Leave Delhi Without Immigration Check, Air India Issued Notice",
-            "link": "https://www.ndtv.com/india-news/3-italians-leave-delhi-without-immigration-check-air-india-issued-notice-12045576#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The three passengers were travelling under Air India's hub-and-spoke arrangement, under which passengers from smaller airports are flown to a major hub before connecting to an international flight.",
-            "published": "2026-09-14T20:23:10+05:30"
-          },
-          {
-            "title": "Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education",
-            "link": "https://www.thehindu.com/news/national/former-duta-chief-aditya-narayan-mishra-joins-congress-flags-crisis-in-education/article71466174.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Mishra joined the party in the presence of Delhi Congress in-charge Qazi Nizamuddin, Delhi Pradesh Congress Committee president Devender Yadav, AICC Uttar Pradesh in-charge Rajendra Pal Gautam and other party leaders",
-            "published": "2026-09-14T20:17:36+05:30"
-          },
-          {
-            "title": "Monsoon withdrawal to commence from Sept 19; rain deficit stays at 15%: IMD",
-            "link": "https://www.hindustantimes.com/india-news/monsoon-withdrawal-to-commence-from-sept-19-rain-deficit-stays-at-15-imd-101789397048951.html",
-            "source": "Hindustan Times",
-            "summary": "Fairly widespread rains over Jammu, Kashmir, Ladakh, are expected from September 15-17 and across Punjab, Haryana and Delhi on Sept 16 and 17",
-            "published": "2026-09-14T20:14:08+05:30"
-          },
-          {
-            "title": "Meta restricts access in India to viral AI video of Keralam CM dancing with KSEB officials",
-            "link": "https://www.hindustantimes.com/india-news/meta-restricts-access-in-india-to-viral-ai-video-of-keralam-cm-v-d-satheesan-dancing-with-kseb-officials-101789396580926.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-14T20:11:41+05:30"
-          },
-          {
-            "title": "Australian coal mine became a lake holding about 30 billion litres of water",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1997-a-western-australian-coal-mine-closed-its-103-hectare-void-filled-with-about-30-billion-litres-of-water-and-opened-in-2020-as-lake-kepwari/articleshow/134238559.cms",
-            "source": "Times of India",
-            "summary": "Lake Kepwari, a former coal mine void near Collie, Western Australia, has been transformed into a recreational hub. This artificial lake now offers swimming, boating, camping, and water sports for visitors. The transformation involved significant planning, water management, and infrastructure development over many years. Water was diverted from the Collie River South Branch to fill the large void. This project…",
-            "published": "2026-09-14T20:08:00+05:30"
-          },
-          {
-            "title": "IMF team to visit Pakistan for crucial $7-bn bailout review, next tranche in focus",
-            "link": "https://timesofindia.indiatimes.com/world/pakistan/imf-team-to-visit-pakistan-for-crucial-7-bn-bailout-review-next-tranche-in-focus/articleshow/134243071.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:07:53+05:30"
-          },
-          {
-            "title": "Tennessee farmer leased 100 acres for solar and kept century-old farm in family",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-tennessee-farmer-leased-100-acres-of-his-century-old-family-land-for-solar-rather-than-sell-it-in-2026-the-147-mw-project-went-live-and-the-lease-helped-keep-the-farm-in-the-family/articleshow/134239600.cms",
-            "source": "Times of India",
-            "summary": "A Tennessee farmer chose to lease family land for a solar project. This decision allows continued ownership while generating income for future generations. The Yum Yum Solar facility, a 147-megawatt project, became operational in May 2026. This lease provides a steady income stream, addressing farming challenges and land fragmentation. The project highlights a growing trend of farmers balancing energy production…",
-            "published": "2026-09-14T20:07:00+05:30"
-          },
-          {
-            "title": "Meet Jeremy Lin, 6, youngest performer on a Carnegie Hall program",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-jeremy-lin-the-6-year-old-perth-musician-who-won-sole-first-prize-in-his-age-group-and-became-the-youngest-performer-on-a-carnegie-hall-program/articleshow/134241947.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:05:00+05:30"
-          },
-          {
-            "title": "We Are Summoning An Alien Species: Ex-OpenAI & Anthropic Researcher",
-            "link": "https://www.ndtv.com/artificial-intelligence/we-are-summoning-an-alien-species-ex-openai-anthropic-researcherjacob-coxon-12044160#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Ex-OpenAI & Anthropic Researcher Jacob Coxon says the concept of super-intelligent AI is like summoning an alien species.",
-            "published": "2026-09-14T20:04:25+05:30"
-          },
-          {
-            "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
-            "link": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Gulf nations may prioritise domestic investments over US commitments amid economic pressures, says new report.",
-            "published": "2026-09-14T14:34:25+00:00"
-          },
-          {
-            "title": "'4 Drunk People' Claim By Biker's Brother After Gurugram Hit-And-Run Shocker",
-            "link": "https://www.ndtv.com/india-news/rebel-wheels-sia-kalyan-bainsla-4-drunk-people-were-in-car-bikers-brother-on-gurugram-hit-and-run-12045586#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The woman, known as \"Rebel Wheels Sia\" on Instagram, was riding her Aprilia RS 457 sports bike with a group of bikers when a white sedan began following her, according to her family and her own account shared on social media.",
-            "published": "2026-09-14T20:00:34+05:30"
-          },
-          {
-            "title": "'High IQ president' is all AI needs: Trump backs US lead, targets China &amp; Anthropic",
-            "link": "https://timesofindia.indiatimes.com/world/us/high-iq-president-is-all-ai-needs-trump-backs-us-lead-blames-china-for-sick-conspiracy/articleshow/134242910.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:00:11+05:30"
-          },
-          {
-            "title": "Fortuin, Hermann, Esterhuizen headline South Africa's 3-0 sweep of Namibia",
-            "link": "https://www.cricinfo.com/ci/content/story/1554019.html?ex_cid=OTC-RSS",
+            "title": "Varun to miss rest of Afghanistan T20Is with injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1554235.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "Fortuin bagged a career-best 4 for 33 while Hermann and Esterhuizen added 150 runs as South Africa razed down Namibia's 157 target inside 22 overs",
-            "published": "2026-09-14T14:24:27+00:00"
+            "summary": "India spinner's comeback from a previous injury has been stopped short",
+            "published": "2026-09-14T15:22:22+00:00"
+          },
+          {
+            "title": "England look to continue domineering T20 form",
+            "link": "https://www.cricinfo.com/ci/content/story/1554229.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Sri Lanka's form in the warm-ups suggests life could be tough against a side they haven't beaten in T20Is since 2014",
+            "published": "2026-09-14T15:20:03+00:00"
+          },
+          {
+            "title": "Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms",
+            "source": "Times of India",
+            "summary": "Oracle layoffs began again on September 14, with employees across the US reporting the same 6am email from \"Oracle Leadership\" that landed in March. Logins were disabled around 4am, Slack access dropped by 5.30am, and Slack counts fell by 3,000 to 4,000. OCI, Fusion, NetSuite, Oracle Health and the Abilene Stargate site were hit. India's Development Centre is expected next, as Oracle's restructuring bill climbs to…",
+            "published": "2026-09-14T20:45:40+05:30"
+          },
+          {
+            "title": "‘Partners, not rivals’: China FM Wang Yi reveals key PM Modi-Xi consensus",
+            "link": "https://timesofindia.indiatimes.com/india/partners-not-rivals-china-fm-wang-yi-reveals-key-pm-modi-xi-consensus/articleshow/134243435.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-14T20:42:45+05:30"
+          },
+          {
+            "title": "Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece",
+            "source": "The Hindu",
+            "summary": "The meeting focused on expanding cooperation between Keralam and Malaysia in healthcare, tourism, trade, investment and education, and on identifying opportunities for Malaysian investment in the State.",
+            "published": "2026-09-14T20:41:39+05:30"
+          },
+          {
+            "title": "Sunil Gavaskar's Suggestion To BCCI Involving Sachin Tendulkar, Rahul Dravid, Sourav Ganguly And Co.",
+            "link": "https://sports.ndtv.com/cricket/sunil-gavaskars-suggestion-to-bcci-involving-sachin-tendulkar-rahul-dravid-sourav-ganguly-and-co-12045508#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Sunil Gavaskar has some radical suggestion for the BCCI. One that involved Sachin Tendulkar, Sourav Ganguly, Rahul Dravid and Indian greats",
+            "published": "2026-09-14T20:37:10+05:30"
+          },
+          {
+            "title": "Oasis 2027: Knebworth return confirmed as well as Manchester and Glasgow gigs",
+            "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The band have officially announced the anticipated second wave of their hit reunion tour shows.",
+            "published": "2026-09-14T15:04:22+00:00"
+          },
+          {
+            "title": "Rift within NDA over implementation of UCC in Bihar",
+            "link": "https://www.thehindu.com/news/national/bihar/rift-within-nda-over-implementation-of-ucc-in-bihar/article71466095.ece",
+            "source": "The Hindu",
+            "summary": "Ruling JD (U) MLA and former Minister Shyam Rajak said that UCC will not be implemented in Bihar at any cost",
+            "published": "2026-09-14T20:33:09+05:30"
+          },
+          {
+            "title": "Equestrian Anush Agarwalla gives up Asian Games fight",
+            "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/equestrian-anush-agarwalla-gives-up-asian-games-fight-feels-betrayed-by-federation-ioa-sports-ministry/articleshow/134243251.cms",
+            "source": "Times of India",
+            "summary": "Equestrian Anush Agarwalla conceded his dream of competing in the 2026 Asian Games, which begin on September 19, is over. The rider said he felt 'betrayed' after his pleas to the Equestrian Federation of India (EFI), Sports Ministry and the Indian Olympic Association (IOA) went unheard.",
+            "published": "2026-09-14T20:32:51+05:30"
+          },
+          {
+            "title": "Flash flooding interrupts half-marathon, submerges cars",
+            "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+            "published": "2026-09-14T15:01:28+00:00"
+          },
+          {
+            "title": "Body of missing runner found in South Africa: 'It is very scary'",
+            "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+            "published": "2026-09-14T14:58:48+00:00"
+          },
+          {
+            "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+            "link": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
+            "published": "2026-09-14T14:58:38+00:00"
+          },
+          {
+            "title": "Steve Smith To Retire Soon? Australia Great Throws Massive Doubt Over Test Future: \"It's Been A Great Ride\"",
+            "link": "https://sports.ndtv.com/cricket/smith-casts-doubt-over-playing-in-2027-ashes-sets-sight-on-playing-in-2028-la-olympics-12045285#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Senior Australia batter Steve Smith has raised doubts over his participation in next year's Ashes tour of England, revealing he is managing his Test career on a series-by-series basis while targeting to play in the 2028 Los Angeles Olympics.",
+            "published": "2026-09-14T20:27:09+05:30"
+          },
+          {
+            "title": "Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff",
+            "link": "https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html",
+            "source": "Hindustan Times",
+            "summary": "The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.",
+            "published": "2026-09-14T20:25:10+05:30"
           }
         ],
         "India": [
           {
+            "title": "Oracle layoffs: Employees receive ‘6am job cuts’ email from Oracle leadership again",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms",
+            "source": "Times of India",
+            "summary": "Oracle layoffs began again on September 14, with employees across the US reporting the same 6am email from \"Oracle Leadership\" that landed in March. Logins were disabled around 4am, Slack access dropped by 5.30am, and Slack counts fell by 3,000 to 4,000. OCI, Fusion, NetSuite, Oracle Health and the Abilene Stargate site were hit. India's Development Centre is expected next, as Oracle's restructuring bill climbs to…",
+            "published": "2026-09-14T20:45:40+05:30"
+          },
+          {
+            "title": "‘Partners, not rivals’: China FM Wang Yi reveals key PM Modi-Xi consensus",
+            "link": "https://timesofindia.indiatimes.com/india/partners-not-rivals-china-fm-wang-yi-reveals-key-pm-modi-xi-consensus/articleshow/134243435.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-14T20:42:45+05:30"
+          },
+          {
+            "title": "Satheesan, Anwar Ibrahim discuss investment opportunities in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/satheesan-anwar-ibrahim-discuss-investment-opportunities-in-keralam/article71466012.ece",
+            "source": "The Hindu",
+            "summary": "The meeting focused on expanding cooperation between Keralam and Malaysia in healthcare, tourism, trade, investment and education, and on identifying opportunities for Malaysian investment in the State.",
+            "published": "2026-09-14T20:41:39+05:30"
+          },
+          {
+            "title": "Rift within NDA over implementation of UCC in Bihar",
+            "link": "https://www.thehindu.com/news/national/bihar/rift-within-nda-over-implementation-of-ucc-in-bihar/article71466095.ece",
+            "source": "The Hindu",
+            "summary": "Ruling JD (U) MLA and former Minister Shyam Rajak said that UCC will not be implemented in Bihar at any cost",
+            "published": "2026-09-14T20:33:09+05:30"
+          },
+          {
+            "title": "Equestrian Anush Agarwalla gives up Asian Games fight",
+            "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/equestrian-anush-agarwalla-gives-up-asian-games-fight-feels-betrayed-by-federation-ioa-sports-ministry/articleshow/134243251.cms",
+            "source": "Times of India",
+            "summary": "Equestrian Anush Agarwalla conceded his dream of competing in the 2026 Asian Games, which begin on September 19, is over. The rider said he felt 'betrayed' after his pleas to the Equestrian Federation of India (EFI), Sports Ministry and the Indian Olympic Association (IOA) went unheard.",
+            "published": "2026-09-14T20:32:51+05:30"
+          },
+          {
+            "title": "Delhi HC rejects Vimal Elaichi makers' plea over Maharashtra FDA notice to SRK, Ajay Devgn, Tiger Shroff",
+            "link": "https://www.hindustantimes.com/india-news/delhi-hc-rejects-vimal-elaichi-makers-plea-over-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-101789396450435.html",
+            "source": "Hindustan Times",
+            "summary": "The court said the petitioner should approach courts in Maharashtra, which would be the more suitable forum to address its concerns about the notices.",
+            "published": "2026-09-14T20:25:10+05:30"
+          },
+          {
+            "title": "Why housing is becoming a major political headache for South Korea’s Lee",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/why-housing-is-becoming-a-major-political-headache-for-south-koreas-lee/articleshow/134243076.cms",
+            "source": "Times of India",
+            "summary": "South Korean President Lee Jae-myung's approval rating has fallen to a new low. Housing policy and cabinet appointments are key drivers of public dissatisfaction. Critics argue measures have locked buyers out of urban housing markets. The Blue House acknowledges multiple policy and political issues are contributing. The president plans direct public outreach to address concerns.",
+            "published": "2026-09-14T20:24:30+05:30"
+          },
+          {
             "title": "Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-signs-slew-of-mous-during-cm-vijays-london-visit-to-attract-investment-create-high-value-jobs/article71466094.ece",
             "source": "The Hindu",
@@ -139,58 +188,37 @@
             "source": "Hindustan Times",
             "summary": "",
             "published": "2026-09-14T20:11:41+05:30"
-          },
-          {
-            "title": "Australian coal mine became a lake holding about 30 billion litres of water",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1997-a-western-australian-coal-mine-closed-its-103-hectare-void-filled-with-about-30-billion-litres-of-water-and-opened-in-2020-as-lake-kepwari/articleshow/134238559.cms",
-            "source": "Times of India",
-            "summary": "Lake Kepwari, a former coal mine void near Collie, Western Australia, has been transformed into a recreational hub. This artificial lake now offers swimming, boating, camping, and water sports for visitors. The transformation involved significant planning, water management, and infrastructure development over many years. Water was diverted from the Collie River South Branch to fill the large void. This project…",
-            "published": "2026-09-14T20:08:00+05:30"
-          },
-          {
-            "title": "IMF team to visit Pakistan for crucial $7-bn bailout review, next tranche in focus",
-            "link": "https://timesofindia.indiatimes.com/world/pakistan/imf-team-to-visit-pakistan-for-crucial-7-bn-bailout-review-next-tranche-in-focus/articleshow/134243071.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:07:53+05:30"
-          },
-          {
-            "title": "Tennessee farmer leased 100 acres for solar and kept century-old farm in family",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-tennessee-farmer-leased-100-acres-of-his-century-old-family-land-for-solar-rather-than-sell-it-in-2026-the-147-mw-project-went-live-and-the-lease-helped-keep-the-farm-in-the-family/articleshow/134239600.cms",
-            "source": "Times of India",
-            "summary": "A Tennessee farmer chose to lease family land for a solar project. This decision allows continued ownership while generating income for future generations. The Yum Yum Solar facility, a 147-megawatt project, became operational in May 2026. This lease provides a steady income stream, addressing farming challenges and land fragmentation. The project highlights a growing trend of farmers balancing energy production…",
-            "published": "2026-09-14T20:07:00+05:30"
-          },
-          {
-            "title": "Meet Jeremy Lin, 6, youngest performer on a Carnegie Hall program",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-jeremy-lin-the-6-year-old-perth-musician-who-won-sole-first-prize-in-his-age-group-and-became-the-youngest-performer-on-a-carnegie-hall-program/articleshow/134241947.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:05:00+05:30"
-          },
-          {
-            "title": "We Are Summoning An Alien Species: Ex-OpenAI & Anthropic Researcher",
-            "link": "https://www.ndtv.com/artificial-intelligence/we-are-summoning-an-alien-species-ex-openai-anthropic-researcherjacob-coxon-12044160#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Ex-OpenAI & Anthropic Researcher Jacob Coxon says the concept of super-intelligent AI is like summoning an alien species.",
-            "published": "2026-09-14T20:04:25+05:30"
-          },
-          {
-            "title": "'4 Drunk People' Claim By Biker's Brother After Gurugram Hit-And-Run Shocker",
-            "link": "https://www.ndtv.com/india-news/rebel-wheels-sia-kalyan-bainsla-4-drunk-people-were-in-car-bikers-brother-on-gurugram-hit-and-run-12045586#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The woman, known as \"Rebel Wheels Sia\" on Instagram, was riding her Aprilia RS 457 sports bike with a group of bikers when a white sedan began following her, according to her family and her own account shared on social media.",
-            "published": "2026-09-14T20:00:34+05:30"
-          },
-          {
-            "title": "'High IQ president' is all AI needs: Trump backs US lead, targets China &amp; Anthropic",
-            "link": "https://timesofindia.indiatimes.com/world/us/high-iq-president-is-all-ai-needs-trump-backs-us-lead-blames-china-for-sick-conspiracy/articleshow/134242910.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-14T20:00:11+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Flash flooding interrupts half-marathon, submerges cars",
+            "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+            "published": "2026-09-14T15:01:28+00:00"
+          },
+          {
+            "title": "Body of missing runner found in South Africa: 'It is very scary'",
+            "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+            "published": "2026-09-14T14:58:48+00:00"
+          },
+          {
+            "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+            "link": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
+            "published": "2026-09-14T14:58:38+00:00"
+          },
+          {
+            "title": "China rejects AI ‘threat narratives’, urges global cooperation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "China called for international cooperation on artificial intelligence.",
+            "published": "2026-09-14T14:50:55+00:00"
+          },
           {
             "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
             "link": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
@@ -246,34 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.",
             "published": "2026-09-14T12:58:12+00:00"
-          },
-          {
-            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-            "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-            "published": "2026-09-14T12:18:13+00:00"
-          },
-          {
-            "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
-            "link": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.",
-            "published": "2026-09-14T12:09:02+00:00"
-          },
-          {
-            "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-            "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.",
-            "published": "2026-09-14T11:50:44+00:00"
-          },
-          {
-            "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-            "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
-            "published": "2026-09-14T11:35:08+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,62 @@
         ],
         "Sports": [
           {
+            "title": "Varun to miss rest of Afghanistan T20Is with injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1554235.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "India spinner's comeback from a previous injury has been stopped short",
+            "published": "2026-09-14T15:22:22+00:00"
+          },
+          {
+            "title": "England look to continue domineering T20 form",
+            "link": "https://www.cricinfo.com/ci/content/story/1554229.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Sri Lanka's form in the warm-ups suggests life could be tough against a side they haven't beaten in T20Is since 2014",
+            "published": "2026-09-14T15:20:03+00:00"
+          },
+          {
+            "title": "Sunil Gavaskar's Suggestion To BCCI Involving Sachin Tendulkar, Rahul Dravid, Sourav Ganguly And Co.",
+            "link": "https://sports.ndtv.com/cricket/sunil-gavaskars-suggestion-to-bcci-involving-sachin-tendulkar-rahul-dravid-sourav-ganguly-and-co-12045508#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Sunil Gavaskar has some radical suggestion for the BCCI. One that involved Sachin Tendulkar, Sourav Ganguly, Rahul Dravid and Indian greats",
+            "published": "2026-09-14T20:37:10+05:30"
+          },
+          {
+            "title": "Steve Smith To Retire Soon? Australia Great Throws Massive Doubt Over Test Future: \"It's Been A Great Ride\"",
+            "link": "https://sports.ndtv.com/cricket/smith-casts-doubt-over-playing-in-2027-ashes-sets-sight-on-playing-in-2028-la-olympics-12045285#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Senior Australia batter Steve Smith has raised doubts over his participation in next year's Ashes tour of England, revealing he is managing his Test career on a series-by-series basis while targeting to play in the 2028 Los Angeles Olympics.",
+            "published": "2026-09-14T20:27:09+05:30"
+          },
+          {
+            "title": "India's Star Bowler Injured Once Again After Afghanistan T20I, May Not Play Asian Games",
+            "link": "https://sports.ndtv.com/cricket/injury-blow-for-india-after-1st-t20i-vs-afghanistan-varun-chakaravarthy-ruled-out-12045414#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India spinner Varun Chakaravarthy ruled out of ongoing T20 series against Afghanistan due to injury",
+            "published": "2026-09-14T20:13:11+05:30"
+          },
+          {
+            "title": "Team India's 'Bottle Lift' After Asia Cup Trophy Snub Leaves Internet In Splits. Video",
+            "link": "https://sports.ndtv.com/cricket/team-indias-bottle-lift-after-asia-cup-trophy-snub-leaves-internet-in-splits-video-12043931#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Just like the men's team, the Indian women's side also refused to accept the trophy from Pakistan Cricket Board chief Mohsin Naqvi after winning the Women's Asia Cup 2026 on Sunday.",
+            "published": "2026-09-14T20:03:52+05:30"
+          },
+          {
+            "title": "NHL Trade Rumors: Is Montreal Canadiens Expected To Sign Arber Xhekaj Before Training Camp?",
+            "link": "https://sports.ndtv.com/us-nhl/nhl-trade-rumors-is-montreal-canadiens-expected-to-sign-arber-xhekaj-before-training-camp-12045720#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Montreal Canadiens are getting closer to a new contract with RFA defenseman Arber Xhekaj, with Pierre LeBrun and Jeff Gorton both providing positive updates ahead of training camp.",
+            "published": "2026-09-14T20:00:52+05:30"
+          },
+          {
+            "title": "Mohammad Rizwan Breaks Silence On PCB's Investigation Over Dressing Room Leaks: \"I Am Waiting\"",
+            "link": "https://sports.ndtv.com/cricket/mohammad-rizwan-breaks-silence-on-pcbs-investigation-over-dressing-room-leaks-i-am-waiting-12044873#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Mohammad Rizwan and Imam-ul-Haq were questioned for two hours and had their mobile phones examined as part of an investigation for possible corruption during Pakistan's tour of England.",
+            "published": "2026-09-14T19:58:48+05:30"
+          },
+          {
             "title": "Fortuin, Hermann, Esterhuizen headline South Africa's 3-0 sweep of Namibia",
             "link": "https://www.cricinfo.com/ci/content/story/1554019.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -371,170 +427,121 @@
             "published": "2026-09-14T14:24:27+00:00"
           },
           {
-            "title": "Jamie Smith ruled out of Surrey's fight for Championship survival",
-            "link": "https://www.cricinfo.com/ci/content/story/1554227.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "England keeper sustained finger injuries during Pakistan Test series",
-            "published": "2026-09-14T14:06:22+00:00"
-          },
-          {
-            "title": "Gaud penalised for giving send-off to Dulani in Asia Cup final",
-            "link": "https://www.cricinfo.com/ci/content/story/1554220.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Pakistan players were fined 5% of their match fee for maintaining a slow over rate in the semi-final against Sri Lanka",
-            "published": "2026-09-14T13:31:05+00:00"
-          },
-          {
-            "title": "Hasan Mahmud withdrawn from Kent duty by BCB",
-            "link": "https://www.cricinfo.com/ci/content/story/1554206.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Fast bowler rested ahead of busy international winter with county vying for promotion",
-            "published": "2026-09-14T13:05:20+00:00"
-          },
-          {
-            "title": "Vaas and Mishra set to join Delhi Capitals as bowling coaches",
-            "link": "https://www.cricinfo.com/ci/content/story/1554192.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The duo join a new-look coaching staff that also includes Sourav Ganguly (head coach) and Yuvraj Singh (assistant coach)",
-            "published": "2026-09-14T13:04:54+00:00"
-          },
-          {
-            "title": "Ex-Lakers Forward Drops Brutal Luka Doncic Assessment Ahead of Championship Chase With Fresh Roster",
-            "link": "https://sports.ndtv.com/us-nba/ex-lakers-forward-drops-brutal-luka-doncic-assessment-ahead-of-championship-chase-with-fresh-roster-12044743#publisher=newsstand",
+            "title": "Gracie Hunt’s Journey Beyond Football: The Family Lesson Behind Her Kansas City Chiefs Legacy",
+            "link": "https://sports.ndtv.com/us-nfl/gracie-hunt-s-journey-beyond-football-the-family-lesson-behind-her-kansas-city-chiefs-legacy-12045243#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Former Lakers forward Trevor Ariza questioned Los Angeles' championship readiness heading into the 2026-27 season, praising Luka Doncic's offense while warning that weak defense could sink the team's title hopes.",
-            "published": "2026-09-14T17:42:58+05:30"
+            "summary": "From H.L. Hunt’s Texas oil fortune to the Kansas City Chiefs, the Hunt family built a $25.6 billion legacy across generations. Inside the wealth, football empire and family story connecting of Gracie Hunt.",
+            "published": "2026-09-14T19:41:18+05:30"
           },
           {
-            "title": "Brittany Mahomes’ Beauty Move Grabs Attention Ahead Of Patrick Mahomes’ Kansas City Chiefs Week 1 Return",
-            "link": "https://sports.ndtv.com/us-nfl/brittany-mahomes-beauty-move-grabs-attention-ahead-of-patrick-mahomes-kansas-city-chiefs-week-1-return-12044895#publisher=newsstand",
+            "title": "\"He Must Like Her\": Antonio Brown Takes Brutal Swipe At Tom Brady And Jordon Hudson",
+            "link": "https://sports.ndtv.com/us-nfl/he-must-like-her-antonio-brown-takes-brutal-swipe-at-tom-brady-and-jordon-hudson-12045156#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Brittany Mahomes has a new project lined up ahead of Patrick Mahomes’ Kansas City Chiefs season opener. Her latest move with Divi comes just before the September 14 clash against the Denver Broncos and adds another twist to a busy week.",
-            "published": "2026-09-14T17:41:47+05:30"
+            "summary": "Antonio Brown sparked fresh NFL buzz after taking a personal swipe at Jordon Hudson and dragging Tom Brady into the conversation with a blunt remark shared on social media.",
+            "published": "2026-09-14T19:40:13+05:30"
           },
           {
-            "title": "Imran Khan's Ex-wife Jemima Goldsmith Marries Multi-millionaire Financier: Report",
-            "link": "https://sports.ndtv.com/cricket/imran-khans-ex-wife-jemima-goldsmith-marries-multi-millionaire-financier-report-12045022#publisher=newsstand",
+            "title": "Patrick Mahomes Returns To The Chiefs With A Powerful Message After His Long Recovery",
+            "link": "https://sports.ndtv.com/us-nfl/patrick-mahomes-returns-to-the-chiefs-with-a-powerful-message-after-his-long-recovery-12045272#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Jemima Goldsmith, the former wife of Pakistan's ex-prime minister Imran Khan, has married for a second time to multi-millionaire financier Cameron O'Reilly",
-            "published": "2026-09-14T17:31:02+05:30"
-          },
-          {
-            "title": "India Women's Star Kranti Gaud Handed Big Punishment By ICC After Asia Cup Final. This Is The Reason",
-            "link": "https://sports.ndtv.com/cricket/india-star-kranti-gaud-handed-big-punishment-by-icc-after-womens-asia-cup-final-this-is-the-reason-12044902#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The ICC on Monday handed India women's team seamer Kranti Gaud a fine of 10 per cent of her match fee and one demerit point for breaching Level 1 of the Code of Conduct during the T20 Asia Cup final against Sri Lanka.",
-            "published": "2026-09-14T17:14:43+05:30"
-          },
-          {
-            "title": "WWE RAW Tonight (09/14/2026): Full Match Card, Start Time And How To Watch Roman Reigns vs. Penta",
-            "link": "https://sports.ndtv.com/us-wwe/wwe-raw-tonight-09-14-2026-full-match-card-start-time-and-how-to-watch-roman-reigns-vs-penta-12044701#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "WWE Monday Night RAW heads to Mexico City on September 14 with Roman Reigns defending the World Heavyweight Championship against Penta. Here’s the full match card, international start times, Money in the Bank qualifiers and details on watching RAW.",
-            "published": "2026-09-14T16:29:25+05:30"
-          },
-          {
-            "title": "Sami Zayn Sends Six-Word Message After Shocking CM Punk Victory To Become WWE Champion Again",
-            "link": "https://sports.ndtv.com/us-wwe/sami-zayn-sends-six-word-message-after-shocking-cm-punk-victory-to-become-wwe-champion-again-12044644#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Sami Zayn defeated CM Punk to become WWE Champion again after months of chasing a rematch. He later posted a blunt message on X, while Punk’s Worlds Collide appearance could open the door for a possible El Generico return in Chicago.",
-            "published": "2026-09-14T16:23:58+05:30"
-          },
-          {
-            "title": "Is The Rock Returning To WWE? Wrestler Gives Personal Update As Fans Connect His New Look To A WWE Return",
-            "link": "https://sports.ndtv.com/us-wwe/is-the-rock-returning-to-wwe-wrestler-gives-personal-update-as-fans-connect-his-new-look-to-a-wwe-return-12044540#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "The Rock has explained his 50-pound weight loss after fans linked his slimmer look to a possible WWE return. He says the transformation was for his current movie role, while a WrestleMania promise has kept questions about his wrestling future alive.",
-            "published": "2026-09-14T16:20:52+05:30"
+            "summary": "Patrick Mahomes is set for his long-awaited Chiefs return after nine months of knee rehabilitation. The quarterback never doubted he would make it back and now faces his biggest test against Denver.",
+            "published": "2026-09-14T19:39:20+05:30"
           }
         ],
         "Technology": [
           {
-            "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-            "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
-            "published": "2026-09-14T12:00:08+00:00"
+            "title": "Symbiosis Recovers 15 BTC Following Attack on syBTC Minting",
+            "link": "https://www.gadgets360.com/cryptocurrency/news/symbiosis-recovers-15-btc-following-attack-on-sybtc-minting-crypto-hacks-scams-crypto-bounty-12045391",
+            "source": "Gadgets 360",
+            "summary": "Symbiosis recovered around 15 BTC after an attacker exploited a flaw in its Bitcoin Bridge on September 11. The protocol suspended native Bitcoin routes and isolated the affected bridge while keeping other cross-chain routes operational. Symbiosis has not disclosed the total loss and is still assessing the impact on liquidity providers.",
+            "published": "2026-09-14T19:41:21+05:30"
           },
           {
-            "title": "iQOO 16 to Launch as the World’s First Android Phone With Samsung’s M16 2K AMOLED Display",
-            "link": "https://www.gadgets360.com/mobiles/news/iqoo-16-display-details-revealed-samsung-specifications-features-12044954",
+            "title": "Xiaomi 18 Worldwide Debut Inches Closer Following First Major Regulatory Move",
+            "link": "https://www.gadgets360.com/mobiles/news/xiaomi-18-global-variant-imda-listing-connectivity-details-report-12045639",
             "source": "Gadgets 360",
-            "summary": "iQOO 16 will be launched as the world’s first phone to feature a 2K resolution that refreshes at up to 165Hz, the Vivo sub-brand has announced. Moreover, it will debut as the world’s first Android phone to get Samsung’s new AMOLED panel, with the latest M16 luminescent material. While the size of iQOO 16’s display remains under wraps, it is confirmed to ship with Samsung’s second-generation LEAD [Low Power…",
-            "published": "2026-09-14T17:14:15+05:30"
+            "summary": "Xiaomi 18's global variant has reportedly appeared on Singapore's IMDA certification database under model number 2611FPNFAG. The listing identifies the handset as a 5G smartphone and mentions Bluetooth, Wi-Fi and NFC connectivity. The same model has previously appeared on Taiwan's NCC and Europe's EEC certification platforms. The NCC listing reportedly revealed 256GB and 512GB storage options, IP68 protection and a…",
+            "published": "2026-09-14T19:39:37+05:30"
+          },
+          {
+            "title": "Vivo Y600i, Y600i AI Edition Charging Specs Leak Ahead of Expected Debut",
+            "link": "https://www.gadgets360.com/mobiles/news/vivo-y600i-ai-edition-3c-listing-reveals-charging-details-12045480",
+            "source": "Gadgets 360",
+            "summary": "Vivo Y600i and Y600i AI Edition have received another certification ahead of their expected launch, with the listing revealing support for 44W wired charging. The two smartphones were previously linked to the same model number and device code on the Google Play Console. Meanwhile, another Vivo handset identified as V2620A has appeared with around 90W charging support. The model could be related to the Vivo X500…",
+            "published": "2026-09-14T19:05:36+05:30"
+          },
+          {
+            "title": "Google May Soon Give Android Users More Control Over Advanced Protection Features; Suggests APK Teardown",
+            "link": "https://www.gadgets360.com/mobiles/news/google-advanced-protection-security-features-optional-apk-teardown-report-12045412",
+            "source": "Gadgets 360",
+            "summary": "An APK teardown of the Google Play Services version 26.36.30 reportedly indicate that Google may be developing a new “Expert features” section within the Advanced Protection settings. Intrusion Detection, USB Protection, and Unsecured Wi-Fi Networks options will likely fall under this optional “Expert features” section. Google is expected to make the unsecured Wi-Fi protection optional.",
+            "published": "2026-09-14T18:57:03+05:30"
+          },
+          {
+            "title": "Oppo Watch S2 to Launch Alongside Find X10 Series With Upgraded Health Tracking Sensor",
+            "link": "https://www.gadgets360.com/wearables/news/oppo-watch-s2-design-colour-options-health-tracking-features-revealed-specifications-12045329",
+            "source": "Gadgets 360",
+            "summary": "Oppo Watch S2 is now available for pre-order in the country via the Oppo China online store. The new smartwatch will go on sale in China in three colour options, namely “Vibrant Orange”, “Misty Powder”, and “Mountain Shadow Grey” (translated from Chinese). The company has also revealed the design and other details of the soon-to-be-launched smartwatch. The Oppo Watch S2 will offer the effective “fat-burning gram…",
+            "published": "2026-09-14T18:35:32+05:30"
+          },
+          {
+            "title": "Samsung Galaxy A08 4G Appears on UAE Retailer With 6,000mAh Battery Ahead of Anticipated Launch",
+            "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-a08-4g-uae-retail-listing-price-expected-colour-options-features-12045218",
+            "source": "Gadgets 360",
+            "summary": "Samsung Galaxy A08 4G has appeared on Virgin Megastore UAE, giving a look at its expected hardware and pricing ahead of launch. The retailer lists the phone with a 6.7-inch PLS LCD, 90Hz refresh rate, up to 6GB of RAM and 128GB of storage. Other listed features include a 50-megapixel main camera, 6,000mAh battery, 25W charging and IP64 protection. The Galaxy A08 4G is priced at AED 625 (roughly Rs. 16,300) in the…",
+            "published": "2026-09-14T18:27:44+05:30"
           },
           {
             "title": "Realme P4s Lite Launch Seems Imminent as Handset Lands on Google Play Supported Devices List",
             "link": "https://www.gadgets360.com/mobiles/news/realme-p4s-lite-google-play-supported-devices-list-model-number-launch-imminent-12044751",
             "source": "Gadgets 360",
-            "summary": "Realme P4s Lite may launch soon. The company has yet to reveal the phone's launch timeline or moniker, but the phone has surfaced on the Google Play Supported Devices list with model number RMX5398. It is rumoured to arrive as a budget offering and could pack 4GB of RAM and up to 128GB of onboard storage.",
-            "published": "2026-09-14T16:43:02+05:30"
+            "summary": "Realme P4s Lite may launch soon. The company has yet to reveal the phone's launch timeline or name, but it has appeared on the Google Play Supported Devices list with model number RMX5398. It is rumoured to arrive as a budget offering and could pack 4GB of RAM and up to 128GB of onboard storage.",
+            "published": "2026-09-14T18:09:55+05:30"
           },
           {
             "title": "Oppo Find X10, X10 Pro Max and X10E Launch Date Announced; Colourways, RAM and Storage Options Confirmed",
             "link": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-e-pro-max-launch-date-colour-ram-storage-options-features-expected-12044705",
             "source": "Gadgets 360",
-            "summary": "Oppo will introduce the Find X10 series in China on September 22, bringing three smartphones alongside the Watch S2 and Enco X4. The Find X10 and Find X10 Pro Max will come with up to 16GB of RAM and 1TB of storage, while the Find X10E will have fewer configurations. The phones will feature distinct camera designs, with up to three 200-megapixel rear cameras on the Pro Max. Other reported details include an 8,000mAh…",
-            "published": "2026-09-14T16:29:44+05:30"
+            "summary": "Oppo will introduce the Find X10 series in China on September 22, bringing three smartphones, along with the Watch S2 and Enco X4. The Find X10 and Find X10 Pro Max will come with up to 16GB of RAM and 1TB of storage, while the Find X10E will have fewer configurations. The phones will feature distinct camera designs, with up to three 200-megapixel rear cameras on the Pro Max. Other reported details include an…",
+            "published": "2026-09-14T18:08:19+05:30"
           },
           {
-            "title": "BGMI Redeem Codes for September 14: How to Get Cobalt Storm Backpack and Other Free Rewards",
-            "link": "https://www.gadgets360.com/games/news/bgmi-redeem-codes-for-september-14-how-to-get-cobalt-storm-backpack-free-rewards-12044695",
+            "title": "iQOO 16 Just Secured Samsung’s Most Advanced 2K Android Display",
+            "link": "https://www.gadgets360.com/mobiles/news/iqoo-16-display-details-revealed-samsung-specifications-features-12044954",
             "source": "Gadgets 360",
-            "summary": "Kraton India has released yet another set of redeem codes for Battlegrounds Mobile India (BGMI). The latest drop brings the Cobalt Storm Backpack, alongside other exclusive in-game rewards. There are 50 BGMI redeem codes available, although each code can be used by a maximum of 10 players on a first-come, first-served basis. The codes are part of the game's 5th Anniversary Edition 4.5 Update, while the company has…",
-            "published": "2026-09-14T16:26:36+05:30"
+            "summary": "iQOO 16 will be launched as the world’s first phone to feature a 2K resolution that refreshes at up to 165Hz, the Vivo sub-brand has announced. Moreover, it will debut as the world’s first Android phone to get Samsung’s new AMOLED panel, with the latest M16 luminescent material. While the size of iQOO 16’s display remains under wraps, it is confirmed to ship with Samsung’s second-generation LEAD [Low Power…",
+            "published": "2026-09-14T18:05:18+05:30"
           },
           {
-            "title": "Apple Likely to Equip Third-Generation iPhone Duo With a Face ID Sensor, Telephoto Camera: Mark Gurman Predicts",
+            "title": "Lava Virat Curve India Launch Date Revealed Along With Key Specifications, Colour Options and More",
+            "link": "https://www.gadgets360.com/mobiles/news/lava-virat-curve-india-launch-date-announced-design-colour-options-specifications-features-12045142",
+            "source": "Gadgets 360",
+            "summary": "Lava Virat Curve will be launched in India on September 21 at 12 pm IST. The new smartphone will be available for purchase in the country via Flipkart. Moreover, it is confirmed to go on sale in India in two colour options, namely Heritage Indigo and Makrana Ivory. The Lava Virat Curve will be equipped with a 50-megapixel primary shooter on the back with a Sony IMX752 sensor, an f/1.8 aperture, 10x digital zoom, and…",
+            "published": "2026-09-14T17:56:05+05:30"
+          },
+          {
+            "title": "Samsung Galaxy S27 Ultra Said to Retain 5x Telephoto Camera; May Ditch Dedicated 3x Camera",
+            "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-5x-telephoto-camera-rear-features-specifications-leak-12045072",
+            "source": "Gadgets 360",
+            "summary": "Recent reports indicated that Samsung was testing a 50-megapixel 4x telephoto sensor measuring 1/1.9-inch for the Galaxy S27 Ultra. The brand was rumoured to replace the existing 3x and 5x telephoto cameras with a single 4x sensor. Now, tipster Ice Universe has challenged these rumours, claiming that the Galaxy S27 Ultra will continue to feature a 5x telephoto camera with a 1/2.52-inch sensor.",
+            "published": "2026-09-14T17:50:45+05:30"
+          },
+          {
+            "title": "Apple Knows What the iPhone Duo Is Missing, but Fixing It Will Take Years",
             "link": "https://www.gadgets360.com/mobiles/news/iphone-duo-third-generation-camera-face-id-upgrade-expected-specifications-features-12044685",
             "source": "Gadgets 360",
             "summary": "Apple will likely equip the third generation of the iPhone Duo with a telephoto camera and Face ID sensor, Bloomberg’s Mark Gurman writes in the latest edition of his weekly newsletter ‘Power On’. Gurman explains that these two upgrades for the iPhone Duo are the “top two priorities” for Apple. However, it is difficult for the tech giant to equip a telephoto camera and a Face ID sensor in the handset because of the…",
-            "published": "2026-09-14T16:24:28+05:30"
-          },
-          {
-            "title": "Revolut Customers Hit by Data Exposure From Fake Government Email",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/revolut-customers-hit-by-data-exposure-from-fake-government-email-crypto-data-hacks-scams-exploits-12044403",
-            "source": "Gadgets 360",
-            "summary": "Revolut said a limited number of customers were affected after an unauthorised party used a legitimate government agency email domain to submit fraudulent information requests. The exposed data may include identity documents, contact details, selfie authentication images, account statements, and transaction history. Revolut said its systems and customer funds remain unaffected.",
-            "published": "2026-09-14T15:17:50+05:30"
-          },
-          {
-            "title": "Moto G67s Power Specifications Revealed by Geekbench Listing, May Come With MediaTek Dimensity 6400 SoC",
-            "link": "https://www.gadgets360.com/mobiles/news/moto-g67s-power-geekbench-listing-chipset-ram-specifications-12044305",
-            "source": "Gadgets 360",
-            "summary": "The unannounced Moto G67s Power surfaced on the Geekbench website, suggesting it may soon make its way to markets. It got 687 points in the single-core test and 1,088 points in the multi-core test. As per the listing, the Moto G67s Power runs on a MediaTek Dimensity 6400. It also shows 4GB of RAM and runs Android 16.",
-            "published": "2026-09-14T15:06:46+05:30"
-          },
-          {
-            "title": "AI Leaders Reach Consensus: Amodei, Altman, Musk, and Hassabis on Extinction Risks",
-            "link": "https://www.gadgets360.com/ai/features/ai-extinction-risks-leaders-consensus-dario-amodei-sam-altman-elon-musk-demis-hassabis-5-things-to-know-12044308",
-            "source": "Gadgets 360",
-            "summary": "Anthropic's CEO, Dario Amodei, has reignited an important conversation about the risks posed by the fast-paced development of frontier AI models. He said, “Like many technologies before it, AI brings risks, and because it is such a powerful technology, these risks are serious.” Amodei further says, “We must slow the pace at which we improve the capabilities of AI models. Progress will still seem fast, and we must…",
-            "published": "2026-09-14T15:02:37+05:30"
-          },
-          {
-            "title": "Apple Could Launch Two iPhone Game Controllers Under Beats Branding",
-            "link": "https://www.gadgets360.com/games/news/apple-first-game-controllers-expected-beats-branding-report-12044270",
-            "source": "Gadgets 360",
-            "summary": "Apple is reportedly working on two game controllers designed for the iPhone, with Bloomberg’s Mark Gurman saying they could launch under the Beats brand. The controllers, identified by the codenames T6502 and T1057, were previously spotted in macOS 26.7 code with different haptic and motion capabilities. Both are said to include standard gamepad controls, while one reportedly adds an accelerometer and gyroscope…",
-            "published": "2026-09-14T14:49:59+05:30"
-          },
-          {
-            "title": "Vivo X500 Global Launch Inch Closer as New Flagship Bags SIRIM Approval",
-            "link": "https://www.gadgets360.com/mobiles/news/vivo-x500-global-launch-inch-closer-as-new-flagship-bags-sirim-approval-12043999",
-            "source": "Gadgets 360",
-            "summary": "Vivo X500 series will launch in China soon. While Vivo remains tight-lipped about its global launch, international variants of the Vivo X500, Vivo X500 Pro, and Vivo X500 Pro Max have surfaced on the certification platform. The listing suggests a global launch may be on the cards. The Vivo X500 reportedly appeared on Malaysia's SIRIM database with model number V2619. The Vivo X500 Pro Max and Vivo X500 Pro are…",
-            "published": "2026-09-14T13:54:49+05:30"
-          },
-          {
-            "title": "Samsung Galaxy S26 FE Launched in India With Exynos 2500 Chip, 4,900mAh Battery: Price, Specifications",
-            "link": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s26-fe-price-in-india-launch-sale-date-features-specifications-12044001",
-            "source": "Gadgets 360",
-            "summary": "Samsung Galaxy S26 FE was launched in India on Monday as the company’s latest ‘Fan Edition’ model. It arrives as the successor to last year’s Galaxy S26 FE and sports a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate. The handset is powered by the Exynos 2500 processor and features a triple rear camera setup with a 50-megapixel primary sensor and 3x optical zoom. The Galaxy S26 FE runs on One UI 9 based…",
-            "published": "2026-09-14T13:38:44+05:30"
+            "published": "2026-09-14T17:49:13+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Oasis 2027: Knebworth return confirmed as well as Manchester and Glasgow gigs",
+            "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The band have officially announced the anticipated second wave of their hit reunion tour shows.",
+            "published": "2026-09-14T15:04:22+00:00"
+          },
           {
             "title": "This is what women in sport look like - Hunt",
             "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
             "published": "2026-09-12T23:06:08+00:00"
-          },
-          {
-            "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-            "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-            "published": "2026-09-12T16:32:27+00:00"
           }
         ]
       }
@@ -626,6 +626,27 @@
       "label": "हिन्दी",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Ganesh Chaturthi 2026: चिंचपोकली चा चिंतामणि पहुंचे प्रणव-करण अदाणी, दक्षिण भारतीय मंदिर शैली में सजा पंडाल",
+            "link": "https://hindi.oneindia.com/news/india/ganesh-chaturthi-2026-pranav-karan-adani-chinchpokli-cha-chintamani-temple-style-pandal-news-hindi-1648549.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-14T20:57:08+05:30"
+          },
+          {
+            "title": "Masood Azhar को पाकिस्तान ने 26 साल पनाह दी, अब क्यों ₹70 लाख का इनाम बढ़ाने पर मजबूर हुआ? आतंक की पूरी कहानी",
+            "link": "https://hindi.oneindia.com/news/international/masood-azhar-26-years-terror-pathankot-pulwama-attacks-pakistan-raise-reward-to-rs-70-lakh-news-1648531.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-14T20:48:40+05:30"
+          },
+          {
+            "title": "नींद में क्या आप दांत पीसते हैं, इसकी वजह क्या है और कैसे पाएं छुटकारा",
+            "link": "https://www.bbc.com/hindi/articles/c5wyzvv8pm0eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-14T15:11:10+00:00"
+          },
           {
             "title": "दैनिक भास्कर का 'मिट्टी के गणेश' अभियान:देश की मिट्टी से ही बने हों मंगलमूर्ति, घर में ही विसर्जन करें",
             "link": "https://www.bhaskar.com/national/news/mitti-ke-ganesh-campaign-pm-modi-ecofriendly-ganpati-visarjan-2026-139030163.html",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-14T18:26:47+05:30"
-          },
-          {
-            "title": "भाजपा बोली- कांग्रेस का BRICS खाने पर सवाल उठाना शर्मनाक:साबित हो गया कि वे नाराज फूफा ही हैं; राहुल बोले थे- भारत में 80% लोग नॉनवेजेटेरियन",
-            "link": "https://www.bhaskar.com/g/national/news/brics-dinner-controversy-sudhanshu-trivedi-slams-congress-statement-139028686.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-14T12:31:38+00:00"
-          },
-          {
-            "title": "MP में 17 सितंबर से शुरू होगा 'सेवा-संकल्प अभियान', PM मोदी के जन्मदिन पर होगा दीप प्रज्ज्वलन",
-            "link": "https://hindi.oneindia.com/news/india/service-sankalp-abhiyan-madhya-pradesh-2024-campaign-012-1648411.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-14T18:01:17+05:30"
-          },
-          {
-            "title": "संबलपुर वॉरियर्स की नजरें ओडिशा टी20 खिताब पर, पिछले सीजन भी जीता था टाइटल",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/sambalpur-warriors-eye-odisha-t20-title-aim-to-repeat-last-season-s-triumph-1648403.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-14T17:53:29+05:30"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "பெண் இருசக்கர வாகன ஓட்டி மீது மோதிவிட்டு நிற்காமல் சென்ற கார் - என்ன நடந்தது?",
+            "link": "https://www.bbc.com/tamil/articles/cq1kxppzwnwjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-14T15:20:27+00:00"
+          },
+          {
             "title": "இடைத்தேர்தலுக்கு பிறகு தவெக அரசு மீதான இடதுசாரிகளின் அணுகுமுறை எப்படி இருக்கும்? மு.வீரபாண்டியன் தகவல்",
             "link": "https://www.bbc.com/tamil/articles/cx1l6rq7zq3po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-14T10:26:11+00:00"
-          },
-          {
-            "title": "மீன்களை பலாத்காரம் செய்து.. வளைந்து கிடந்த கோய் மீன்.. பாங்காக்கை பதறவைத்த தாய்லாந்து நபர் யாருங்க",
-            "link": "https://tamil.oneindia.com/news/international/bangkok-koi-fish-abuse-51-year-old-thai-man-arrested-after-shocking-incident-near-a-fish-pond-830869.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-14T15:05:10+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,74 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "హిమాలయాలు వేగంగా కరిగిపోవడానికి కారణమేంటి, దీనిని కట్టడి చేయలేమా?",
+            "link": "https://www.bbc.com/telugu/articles/c6r7dljrmv47o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-14T15:03:48+00:00"
+          },
+          {
             "title": "జ్ఞాన దంతం వచ్చేటప్పుడు నొప్పి ఎందుకు కలుగుతుంది, ఈ దంతాన్ని ఎప్పుడు తొలగించాలి?",
             "link": "https://www.bbc.com/telugu/articles/cqx2zee09ryro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-09-14T13:37:20+00:00"
-          },
-          {
-            "title": "జగన్ -కేసీఆర్ కుమ్మక్కు వల్లే అలా..! మంత్రి కోమటిరెడ్డి షాకింగ్ ..!",
-            "link": "https://telugu.oneindia.com/news/telangana/komatireddy-venkat-reddy-targets-kcr-over-ys-jagan-s-rayalaseema-lift-irrigation-project-506205.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T19:00:56+05:30"
-          },
-          {
-            "title": "Samantha: సమంతకు సీమంతం.. సంప్రదాయాలంటే నాకెల్లప్పుడూ గౌరవమే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeEtKUEJxN1h1bWkyTUcxemNtNnpvZnAwMVVmLWpETEY0VTRVR0lnRWlSY1lhVWNJY2ZEVzlDUWktSVc3bVhBeENIb29kblpBV1VLZXlLcmpVZnBpSFctUjdnQ0ZtLTc3dkszUVpVT0Vzd04weFVQeW5SRS1rTzZWU0g4eGVDcFFYQ2lCNG9RVDlwMjVtWWJYdlBJbWdPTHJIc0lLN1hXMWhuS2NvV0piN3NIbkUwbmNYN2FoZGM4RUx3TkU1QVRZWGN1MDR3Z3Z1MlRaVNIB1AFBVV95cUxNeEtKUEJxN1h1bWkyTUcxemNtNnpvZnAwMVVmLWpETEY0VTRVR0lnRWlSY1lhVWNJY2ZEVzlDUWktSVc3bVhBeENIb29kblpBV1VLZXlLcmpVZnBpSFctUjdnQ0ZtLTc3dkszUVpVT0Vzd04weFVQeW5SRS1rTzZWU0g4eGVDcFFYQ2lCNG9RVDlwMjVtWWJYdlBJbWdPTHJIc0lLN1hXMWhuS2NvV0piN3NIbkUwbmNYN2FoZGM4RUx3TkU1QVRZWGN1MDR3Z3Z1MlRaVA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-14T13:28:41+00:00"
-          },
-          {
-            "title": "భారత్‌లోకి కొత్త లగ్జరీ కార్ బ్రాండ్.. ఈ కార్లు వస్తే రచ్చే!",
-            "link": "https://telugu.oneindia.com/news/business/byd-denza-to-enter-india-with-z9-gt-and-d9-luxury-electric-cars-targeting-the-premium-segment-506201.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:49:51+05:30"
-          },
-          {
-            "title": "తారాజువ్వల్లా నిత్యావసర సరుకుల రేట్లు: కేంద్రం తాజా నివేదికలో సైతం",
-            "link": "https://telugu.oneindia.com/news/india/centre-releases-cpi-with-retail-inflation-jumps-to-4-82-in-august-as-food-prices-climb-drive-surge-506177.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:42:33+05:30"
-          },
-          {
-            "title": "హైదరాబాద్ లో 24 క్యారెట్ల ప్యూర్ గోల్డ్ గణేషుడు: విగ్రహంపై 3.83 లక్షల వజ్రాలు పొదిగారు..!!",
-            "link": "https://telugu.oneindia.com/news/telangana/24k-gold-plated-spectacular-gold-ganesha-idol-with-383800-diamonds-installed-begum-bazar-hyderabad-506197.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:38:39+05:30"
-          },
-          {
-            "title": "AP Rain Alert: రేపూ, ఎల్లుండీ వర్షాలే..! ఈ జిల్లాలకు ఐఎండీ అలర్ట్..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-rain-alert-thunderstorms-likely-in-coastal-districts-nandyal-anantapur-and-more-for-next-2-day-506195.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:38:38+05:30"
-          },
-          {
-            "title": "పండుగ వేళ పేదలకు శుభవార్త చెప్పిన ఏపీ ప్రభుత్వం.. త్వరలో వారికి ఇళ్లస్థలాలు!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/house-sites-for-poor-ap-government-said-good-news-to-distribute-house-pattas-to-1-25-lakh-poor-fami-506193.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:38:18+05:30"
-          },
-          {
-            "title": "పండగపూట విషాదం.. రెండు బస్సులు ఢీ కొని 21 మంది మృతి",
-            "link": "https://telugu.oneindia.com/news/international/southafrica-in-horrific-incident-western-cape-province-21-people-died-after-2-mini-buses-collided-506191.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:21:48+05:30"
-          },
-          {
-            "title": "ఒక్క దెబ్బకు విమర్శకుల నోళ్లు మూయించేసిన విజయ్..! వేల కోట్ల డీల్స్.!",
-            "link": "https://telugu.oneindia.com/news/india/cm-vijay-silences-critics-with-major-investment-deals-for-tamil-nadu-during-london-visit-506189.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T18:19:22+05:30"
           },
           {
             "title": "కొత్త ఫోన్ కోసం పాత ఫోన్ ఎక్స్ఛేంజ్ చేసేటప్పుడు ఎలాంటి జాగ్రత్తలు పాటించాలి?",
@@ -1149,105 +1093,83 @@
             "published": "2026-09-14T12:38:11+00:00"
           },
           {
-            "title": "Asia cup trophy: అమ్మాయిల ఆసియా కప్‌లో నఖ్వీ డ్రామా.. భారత్‌ ఫస్ట్‌ రియాక్షన్ ఇదే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXB2SUR3cHplTGtRYk1Cemh3azlyZ2JvdF84V3JaRFFCLU82ZzVUdHNjUG5teHpfZUQ2RTVEbWJob1hWaEIzUnBJN2dGdVNHa3IzaTBoTnc4aHo5YTVpdGE4NGFLdktmcGJYbzlSY1YtZ2RKcjlrRXNKOWpGZG4zUWVOWnJOdHFKZDg2VHROdkxpY2Fkc1RSZV9OQU51cnNVblRwWlozd2tybUdQVFFTdE5vQnl6SXRNb3ZMQVo3NNIBvwFBVV95cUxNaXB2SUR3cHplTGtRYk1Cemh3azlyZ2JvdF84V3JaRFFCLU82ZzVUdHNjUG5teHpfZUQ2RTVEbWJob1hWaEIzUnBJN2dGdVNHa3IzaTBoTnc4aHo5YTVpdGE4NGFLdktmcGJYbzlSY1YtZ2RKcjlrRXNKOWpGZG4zUWVOWnJOdHFKZDg2VHROdkxpY2Fkc1RSZV9OQU51cnNVblRwWlozd2tybUdQVFFTdE5vQnl6SXRNb3ZMQVo3NA?oc=5",
+            "title": "TRS: మరో 18 అసెంబ్లీ నియోజకవర్గాలకు ‘టీఆర్‌ఎస్‌’ ఇన్‌ఛార్జిల నియామకం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSTF6cUhPRkJIRTRPZV9YX29HQlkxa2JHMzNIaGNnaVZxdmVUU0JmbW1yV0ZZbk5RQlowd1dBN1dTMnMyaXlqOVVkT2RiRnVhLTMtai1NYnUxSW9tVkZEWkxycFRCQmZuY3NPN2t0TlFVbzNSVVQwSlcxRDBraTNldG93VUx5X3BjSkJRa0llV0h1cTJlcVdIZGE0OTVOMHItb0h0M3Z0R0ZEckFKa1BsVXcyRmNnc1RGa3pN0gG7AUFVX3lxTFBJMXpxSE9GQkhFNE9lX1hfb0dCWTFrYkczM0hoY2dpVnF2ZVRTQmZtbXJXRlluTlFCWjB3V0E3V1MyczJpeWo5VWRPZGJGdWEtMy1qLU1idTFJb21WRkRaTHJwVEJCZm5jc083a3ROUVVvM1JVVDBKVzFEMGtpM2V0b3dVTHlfcGNKQlFrSWVXSHVxMmVxV0hkYTQ5NU4wci1vSHQzdnRHRkRyQUprUGxVdzJGY2dzVEZrek0?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-14T12:24:56+00:00"
+            "published": "2026-09-14T12:19:37+00:00"
+          },
+          {
+            "title": "కృత్రిమ మేధ నిజంగానే మానవాళిని అంతం చేయగలదా, నిపుణులు అంతగా భయపడటానికి కారణాలేంటి?",
+            "link": "https://www.bbc.com/telugu/articles/c980nd7l1rmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-14T11:12:15+00:00"
+          },
+          {
+            "title": "Nalgonda News: ఆకతాయిల వీరంగం.. కారు బోల్తా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnc0VHV2MU44ZF85ajNKcGNiVkphaGRtc3F1NVRYdE95SDUzNUdvMjVfakpBOFVaRVo4LWxqSVlqRkhtS1F5bWltbFh4YkxIakR2N0hEYXR6dmxlckxmR3VQaVdjUjh0a0p2NENEX25CX1F5WGZmVXRWbWF0bTJvM0NxUUQ0VlYyS1VyXzg0NDbSAZABQVVfeXFMTVZ3NFR1djFOOGRfOWozSnBjYlZKYWhkbXNxdTVUWHRPeUg1MzVHbzI1X2pKQThVWkVaOC1saklZakZIbUtReW1pbWxYeGJMSGpEdjdIRGF0enZsZXJMZkd1UGlXY1I4dGtKdjRDRF9uQl9ReVhmZlV0Vm1hdG0ybzNDcVFENFZWMktVcl84NDQ2?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T10:33:45+00:00"
+          },
+          {
+            "title": "Disha Salian: దిశా శాలియన్‌ మృతి కేసు.. సీబీఐ ఎఫ్‌ఐఆర్‌లో ఆదిత్య ఠాక్రే, రియా పేర్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzFBVGUxNW81ZFkxamVmOFlfNUlrSW1XXzgtX2lSN3pCMFhzemI4Nk1MRVZiY0hRalg0NlJ5OWxncFd1eGxEVTZONV8wc2s5WVNIazZPOFctMFRzVjVBaUhRYi0zQzZiYjZ3OGp0Qzg0djZOV1hNNktyVVhidVYzMHhSaGJwdDRRQW9sMWJVWmdRRWRCamgtMTdfNHVmZXRKLTZwSU5sMTNiXzFUazdhUjBYVG1GQVpLeFNhNC1EZmJCTEp3eUcw0gHHAUFVX3lxTE5vMUFUZTE1bzVkWTFqZWY4WV81SWtJbVdfOC1faVI3ekIwWHN6Yjg2TUxFVmJjSFFqWDQ2Unk5bGdwV3V4bERVNk41XzBzazlZU0hrNk84Vy0wVHNWNUFpSFFiLTNDNmJiNnc4anRDODR2Nk5XWE02S3JVWGJ1VjMweFJoYnB0NFFBb2wxYlVaZ1FFZEJqaC0xN180dWZldEotNnBJTmwxM2JfMVRrN2FSMFhUbUZBWkt4U2E0LURmYkJMSnd5RzA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T10:32:08+00:00"
+          },
+          {
+            "title": "Dry Dates: దొంగదారిలో భారత్‌కు.. 362 మెట్రిక్ టన్నుల పాక్‌ ఎండు ఖర్జూరా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVzg2cjFmVm93ZFV4VFVDUFRFOW5fTXFCRzM1RzUwOThHWHZEYllhaW5pYnVOWXB2RHZXZ3BObEhxYUs4V0s1bTdpcnB6RkFjeWRyTHlHemdmYm9DakNwYXpkNVNaZXp3a09QeFgzWUxiTkY2UnN3RHBWMlVocmZqbTQ0TmZ6TGhTc210ZkZmRlA2UHdKRjA4aDJoOF9GWXA3SXhNeWotOXdNa0U0UEhNQS1OUUlESklrclZLS29NMGVxOXJUVlU0YXRvUdIBywFBVV95cUxQVzg2cjFmVm93ZFV4VFVDUFRFOW5fTXFCRzM1RzUwOThHWHZEYllhaW5pYnVOWXB2RHZXZ3BObEhxYUs4V0s1bTdpcnB6RkFjeWRyTHlHemdmYm9DakNwYXpkNVNaZXp3a09QeFgzWUxiTkY2UnN3RHBWMlVocmZqbTQ0TmZ6TGhTc210ZkZmRlA2UHdKRjA4aDJoOF9GWXA3SXhNeWotOXdNa0U0UEhNQS1OUUlESklrclZLS29NMGVxOXJUVlU0YXRvUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T09:59:40+00:00"
+          },
+          {
+            "title": "BRICS Summit: బ్రిక్స్.. జిన్‌పింగ్‌, పుతిన్‌తో మోదీ చాయ్‌ పే చర్చ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1V1Yno2YWVkaWI3anY1alRiNXd1WmFHTG55ZktiNk9JamdvSjFpT2RDZUtZZ004SWQyWEhIV2hCcWlXRUVHZzhhZFBhc0I5QWVURHdqcHlHYXdOX3l4clU2T0NkRHpROVpGa0pEcTI3THhGUGUwa1haTGE4OHR2Qi1qVlBtb2JidmUxVFRTb0o0YkZqd1V4QlJUZm5JaUNpa05Wci1NTi0xazY5WWxIcHpaY3FsWjhxdGU5UVdhZ0lmS3UtUV9RdUZxZC16dW_SAc8BQVVfeXFMTmtVdWJ6NmFlZGliN2p2NWpUYjV3dVphR0xueWZLYjZPSWpnb0oxaU9kQ2VLWWdNOElkMlhISFdoQnFpV0VFR2c4YWRQYXNCOUFlVER3anB5R2F3Tl95eHJVNk9DZER6UTlaRmtKRHEyN0x4RlBlMGtYWkxhODh0dkItalZQbW9iYnZlMVRUU29KNGJGandVeEJSVGZuSWlDaWtOVnItTU4tMWs2OVlsSHB6WmNxbFo4cXRlOVFXYWdJZkt1LVFfUXVGcWQtenVv?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T08:58:25+00:00"
+          },
+          {
+            "title": "Womens Asia Cup: శ్రీలంక చిత్తు.. భారత్‌ ఖాతాలో ఎనిమిదో టైటిల్‌.. హైలైట్స్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXlieWQzX013RVpITkZUZE1WbjZWc3BOTEVyZ2FWV19fN0xNdF9yaC1NVjlhOXBDOGk1S2pDSy1UUVgxRTJnMVdQV0VMT0ZEcEFtSDhVdXc5bGIxZXFNb3ZFYURXeDZva2ZGeDBMeFhuSzNpejNzOFJoT1lKSnNCMFdjaGJDZ2w1WFI3Nldfd9IBjwFBVV95cUxPZXlieWQzX013RVpITkZUZE1WbjZWc3BOTEVyZ2FWV19fN0xNdF9yaC1NVjlhOXBDOGk1S2pDSy1UUVgxRTJnMVdQV0VMT0ZEcEFtSDhVdXc5bGIxZXFNb3ZFYURXeDZva2ZGeDBMeFhuSzNpejNzOFJoT1lKSnNCMFdjaGJDZ2w1WFI3Nldfdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T08:49:48+00:00"
+          },
+          {
+            "title": "Nargis Fakhris workout video: ఫిట్‌నెస్‌కు షార్ట్‌కట్స్ లేవు.. నర్గీస్ ఫక్రీ వర్కౌట్ వీడియో వైరల్ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHBValBPU0JjcEhnQTBSSDRCWlN3WjBjeWlSSlh4MTlSaWVCOWpnQ3pQbnBiWXp1czdYNVRWdGduOHhmSUpUYzdaanVPa2ZBbWhSVDlzdUxWOXJ5RjZmVHZCdXBhMTY3X1F4VFh4VEtJTHpKWE5Cb3lJZEFzZml0Y1FQQmxoSm10OVNTNnA3cHA1cjA1OXRhV1Jsdko1Qm5pVHVxVHY4c2pjWGczSVBWQXZXSnQ2YWdtT2xRSdIBvAFBVV95cUxQNHBValBPU0JjcEhnQTBSSDRCWlN3WjBjeWlSSlh4MTlSaWVCOWpnQ3pQbnBiWXp1czdYNVRWdGduOHhmSUpUYzdaanVPa2ZBbWhSVDlzdUxWOXJ5RjZmVHZCdXBhMTY3X1F4VFh4VEtJTHpKWE5Cb3lJZEFzZml0Y1FQQmxoSm10OVNTNnA3cHA1cjA1OXRhV1Jsdko1Qm5pVHVxVHY4c2pjWGczSVBWQXZXSnQ2YWdtT2xRSQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T08:34:16+00:00"
+          },
+          {
+            "title": "Maharashtra: ఒకే ఒక్క విద్యార్థి కోసం.. 5 కిలో మీటర్లు ట్రెక్కింగ్‌ చేసి పాఠశాలకు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUR5VkQxamZHSjVpNWo0WHRFYm50UWdibTlvcnFoY0RzLUJJMExraVRKYURvRThaV29Ibm1odjJHakJ6OE1jUmZsZmhHQXpfOHBQMkQxZTVvZURET0t5cXdyN2dTX3ZDODJCUkMyZlNyeG1ibzRQd1o3YXVncTJRY2l4US1qNzVNVE9xNTB1d3Y1Y0VKenhVVFJ5ZjZRUFR5YTVUVXFMMHBKbl9KT3RWVTR4Rlc1d9IBtgFBVV95cUxQcUR5VkQxamZHSjVpNWo0WHRFYm50UWdibTlvcnFoY0RzLUJJMExraVRKYURvRThaV29Ibm1odjJHakJ6OE1jUmZsZmhHQXpfOHBQMkQxZTVvZURET0t5cXdyN2dTX3ZDODJCUkMyZlNyeG1ibzRQd1o3YXVncTJRY2l4US1qNzVNVE9xNTB1d3Y1Y0VKenhVVFJ5ZjZRUFR5YTVUVXFMMHBKbl9KT3RWVTR4Rlc1dw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-14T08:03:25+00:00"
           }
         ],
-        "Entertainment": [
-          {
-            "title": "సమంత సీమంతం ఫంక్షన్ చూశారా..? సంప్రదాయ పద్దతిలో.. ఫొటోలు వైరల్..",
-            "link": "https://telugu.oneindia.com/entertainment/samantha-star-heroine-seemantham-baby-shower-held-according-to-srividya-tradition-photos-go-viral-506209.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T19:46:46+05:30"
-          },
-          {
-            "title": "మేం లేకపోతే నువ్ నథింగ్: స్టార్ హీరోపై అభిమానులు ఫైర్.. ఏం జరిగిందంటే..?",
-            "link": "https://telugu.oneindia.com/entertainment/ajith-actor-shocking-reaction-to-a-fan-who-approached-him-for-a-selfie-fans-lash-out-at-the-actor-506207.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T19:13:00+05:30"
-          },
-          {
-            "title": "\"నాకు మమితా బైజును పెళ్లి చేసుకోవాలని ఉంది.. లైఫ్ లో ఆమెను తప్ప ఎవ్వరినీ ఊహించుకోలేను\"",
-            "link": "https://telugu.oneindia.com/entertainment/mamithabaiju-film-critic-santhosh-varkey-makes-viral-comments-stating-that-he-wishes-to-marry-her-506171.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T16:54:49+05:30"
-          },
-          {
-            "title": "హీరోయిన్‌తో గణపయ్య పూజలో టాలీవుడ్ డైరెక్టర్.. పెళ్లి ఫిక్స్ అయినట్టేనా?",
-            "link": "https://telugu.oneindia.com/entertainment/tarun-bhaskar-eesha-rebba-wedding-buzz-grows-after-ganesh-chaturthi-pooja-photo-fans-expecting-an-a-506167.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T16:23:41+05:30"
-          },
-          {
-            "title": "మెగాస్టార్ భారీ సోషియో ఫాంటసీ చిత్రం.. రిలీజ్ డేట్ పై బిగ్ అప్డేట్..!",
-            "link": "https://telugu.oneindia.com/entertainment/vishwambhara-megastar-chiranjeevis-movie-heads-towards-release-clarity-on-the-release-date-soon-506163.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T16:14:38+05:30"
-          },
-          {
-            "title": "ఇది మరో లెవెల్.. మహాశక్తి అవతారంలో లేడీ సూపర్ స్టార్!",
-            "link": "https://telugu.oneindia.com/entertainment/nayanthara-as-mahashakti-mookuthi-amman-2-teaser-promises-a-grand-fantasy-action-spectacle-506149.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T14:21:42+05:30"
-          },
-          {
-            "title": "'ధురంధర్' కంటే బిగ్ ప్రాజెక్ట్.. RGV కొత్త సినిమా ప్రకటన!",
-            "link": "https://telugu.oneindia.com/entertainment/bigger-than-dhurandhar-ram-gopal-varma-announces-new-film-with-mohit-suri-based-on-mumbai-underworl-506145.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-14T13:34:14+05:30"
-          },
-          {
-            "title": "గణేష్ చతుర్థి స్పెషల్.. ‘రామాయణ’ నుంచి అదిరిపోయే సర్‌ప్రైజ్!",
-            "link": "https://telugu.oneindia.com/entertainment/ramayana-part-1-makers-reveal-stunning-siya-ram-poster-featuring-ranbir-and-sai-pallavi-details-506121.html",
-            "source": "Oneindia Telugu",
-            "summary": "గణేష్ చతుర్థి పర్వదినాన్ని పురస్కరించుకుని సినీ అభిమానులకు 'రామాయణ: పార్ట్ 1' చిత్ర బృందం అద్భుతమైన బహుమతిని అందించింది. ఈ భారీ బడ్జెట్ ప్రాజెక్ట్ నుంచి అత్యంత ఆసక్తిగా ఎదురుచూస్తున్న 'సియా రామ్' పోస్టర్‌ను మేకర్స్ అధికారికంగా విడుదల చేశారు. ఈ పోస్టర్‌లో రాముడిగా రణబీర్ కపూర్, సీతమ్మ పాత్రలో సాయి పల్లవి ఎంతో హుందాగా, దివ్యమైన రూపంతో కనిపిస్తున్నారు. వీరిద్దరి కెమిస్ట్రీ మరియు పాత్రల ఆహార్యం ప్రేక్షకులను విశేషంగా ఆకట్టుకుంటోంది. భారతీయ ఇతిహాస గాథ రామాయణం నేపథ్యంలో తెరకెక్కుతున్న ఈ సినిమా కోసం దేశవ్యాప్తంగా సినీ ప్రేమికులు ఎంతో ఆసక్తిగా వేచి చూస్తున్నారు. దర్శకుడు ఈ చిత్రాన్ని ఏ స్థాయిలో దృశ్య కావ్యంలా మలచబోతున్నారోనని అందరిలోనూ ఆసక్తి మొదలైంది. పండుగ రోజున విడుదలైన ఈ పోస్టర్ సోషల్ మీడియాలో వైరల్‌గా మారింది. రణబీర్ కపూర్ తన కెరీర్‌లో అత్యంత ప్రతిష్టాత్మకమైన పాత్రను పోషిస్తుండగా, సాయి పల్లవి పాత్ర కూడా ఈ సినిమాకు పెద్ద ప్లస్ పాయింట్ కానుంది. రాబోయే రోజుల్లో ఈ సినిమాకు సంబంధించిన మరిన్ని అప్‌డేట్స్ విడుదలయ్యే అవకాశం ఉండటంతో, ఈ చిత్రంపై ఉన్న అంచనాలు మరింత పెరుగుతున్నాయి. భారతీయ చలనచిత్ర చరిత్రలో నిలిచిపోయేలా ఈ చిత్రాన్ని రూపొందించడానికి చిత్రబృందం కృషి చేస్తోంది.",
-            "published": "2026-09-14T10:33:12+05:30"
-          },
-          {
-            "title": "లావుగా ఉంది.. చరణ్ కు తగిన జోడీ కాదన్నారు: ట్రోల్స్ పై ఉపాసన షాకింగ్ రియాక్షన్..!",
-            "link": "https://telugu.oneindia.com/entertainment/upasana-they-said-she-wasnt-the-right-match-for-charan-upasana-reaction-to-body-shaming-and-trolls-506087.html",
-            "source": "Oneindia Telugu",
-            "summary": "సోషల్ మీడియా వేదికగా నిత్యం ట్రోల్స్‌ను ఎదుర్కొనే సెలబ్రిటీలలో ఉపాసన కొణిదెల ఒకరు. ముఖ్యంగా రామ్ చరణ్‌కు జోడీగా సరిపోరని, బాడీ షేమింగ్ చేస్తూ కొందరు నెటిజన్లు చేసే విమర్శలపై ఆమె తాజాగా షాకింగ్ రియాక్షన్ ఇచ్చారు. తన శరీరాకృతిపై వస్తున్న నెగెటివ్ కామెంట్లను ఉపాసన ఏమాత్రం పట్టించుకోకుండా, ఎంతో పరిణతితో సమాధానమిచ్చారు. 'లావుగా ఉంది, చరణ్‌కు తగిన జోడీ కాదు' అంటూ సోషల్ మీడియాలో సాగుతున్న ప్రచారానికి ఆమె గట్టి కౌంటర్ ఇచ్చారు. అందం అనేది కేవలం బాహ్య రూపంలోనే కాకుండా, వ్యక్తిత్వం మరియు ఆత్మవిశ్వాసంలో ఉంటుందని ఆమె పరోక్షంగా తెలియజేశారు. ఇటువంటి ట్రోల్స్ పట్ల ఆమె స్పందిస్తూ, తనను తాను ప్రేమించుకోవడం మరియు ఆరోగ్యకరమైన జీవనశైలిని పాటించడంపైనే తాను దృష్టి పెడతానని పేర్కొన్నారు. నెటిజన్ల విమర్శలు తనపై ఏమాత్రం ప్రభావాన్ని చూపవని ఆమె తన రియాక్షన్‌తో స్పష్టం చేశారు. బాడీ షేమింగ్ అనేది ఒక సామాజిక సమస్య అని, దీనిపై సెలబ్రిటీలు ఎంతగా వివరణ ఇచ్చినా కొందరు మారరని ఆమె అభిప్రాయపడ్డారు. తనపై జరుగుతున్న చర్చలను పక్కనపెట్టి, తన బాధ్యతలు మరియు వ్యాపార రంగంలో ఎదుగుదలపైనే దృష్టి పెడుతున్నానని ఆమె నిరూపించుకుంటున్నారు. ఉపాసన వ్యాఖ్యలు సోషల్ మీడియాలో ఇప్పుడు చర్చనీయాంశంగా మారాయి.",
-            "published": "2026-09-13T19:02:05+05:30"
-          },
-          {
-            "title": "'వారణాసి' మూవీ నుంచి లీకైన పిక్.. సోషల్ మీడియా షేక్..",
-            "link": "https://telugu.oneindia.com/entertainment/varanasi-a-leaked-photo-from-the-upcoming-mahesh-rajamouli-movie-has-taken-social-media-by-storm-506073.html",
-            "source": "Oneindia Telugu",
-            "summary": "సూపర్ స్టార్ మహేష్ బాబు మరియు దర్శక ధీరుడు ఎస్.ఎస్. రాజమౌళి కాంబినేషన్‌లో వస్తున్న క్రేజీ ప్రాజెక్ట్ 'వారణాసి' గురించి ప్రతి చిన్న విషయం సినిమా ప్రపంచంలో ప్రకంపనలు సృష్టిస్తోంది. ఈ నేపథ్యంలో, షూటింగ్ సెట్ నుంచి ఈ సినిమాకు సంబంధించిన ఒక ఫోటో లీక్ కావడంతో సోషల్ మీడియా మొత్తం షేక్ అవుతోంది. లీకైన ఈ పిక్ ప్రస్తుతం ఇంటర్నెట్‌లో విపరీతంగా వైరల్ అవుతోంది. సాధారణంగా రాజమౌళి తన సినిమాల విషయంలో చాలా గోప్యత పాటిస్తారు, కానీ ఇలాంటి లీక్ జరిగిన ఘటన ఇప్పుడు అభిమానుల్లో ఆందోళనతో పాటు ఆసక్తిని కూడా పెంచుతోంది. ఈ సినిమాలో మహేష్ బాబు కొత్త లుక్‌లో కనిపిస్తారనే వార్తలు ఇప్పటికే వినిపిస్తుండగా, ఈ ఫోటో వాటికి బలం చేకూర్చేలా ఉంది. మహేష్ బాబు మరియు రాజమౌళి మొదటిసారి కలిసి పనిచేస్తుండటం, అది కూడా గ్లోబల్ లెవల్‌లో ప్లాన్ చేస్తుండటంతో ఈ సినిమాపై అంచనాలు ఆకాశాన్ని తాకుతున్నాయి. లీక్ అయిన పిక్‌లో ఉన్న వివరాలను చూసి నెటిజన్లు రకరకాలుగా విశ్లేషణలు చేస్తున్నారు. అయితే, చిత్రబృందం ఈ లీక్ వ్యవహారంపై ఎలా స్పందిస్తుందోనని అందరూ వేచి చూస్తున్నారు. ఈ లీక్ ఫోటోతో సినిమా మీద ఉన్న హైప్ మరింత రెట్టింపు అయ్యిందని చెప్పడంలో సందేహం లేదు.",
-            "published": "2026-09-13T17:27:49+05:30"
-          },
-          {
-            "title": "రూ.2 కోట్ల బడ్జెట్‌తో 36 రోజులకు రూ.200 కోట్లు.. ఇంకా ఆగలేదు!",
-            "link": "https://telugu.oneindia.com/entertainment/hanuman-ansh-box-office-record-rs-200-crore-in-36-days-on-a-budget-of-rs-2-crore-and-it-hasnt-stop-506069.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-13T16:50:37+05:30"
-          },
-          {
-            "title": "SIIMA Awards 2026: ఉత్తమ నటుడిగా తేజ సజ్జా.. ఉత్తమ నటి ఎవరంటే..?",
-            "link": "https://telugu.oneindia.com/entertainment/tejasajja-siima-2026-awards-teja-sajja-named-best-actor-awarded-for-the-second-consecutive-time-506057.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-13T15:56:48+05:30"
-          }
-        ]
+        "Entertainment": []
       }
     },
     "kn": {
       "label": "ಕನ್ನಡ",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Karnataka Politics: ಬಿಜೆಪಿ-ಜೆಡಿಎಸ್‌ ಹಲವು ನಾಯಕರು ಕಾಂಗ್ರೆಸ್ ಸಂಪರ್ಕದಲ್ಲಿ; ಡಿಕೆಶಿ ಸ್ಫೋಟಕ ಹೇಳಿಕೆ, ಎಚ್‌ಡಿಕೆಗೆ ಟಾಂಗ್‌",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-politics-several-bjp-jds-leaders-in-touch-with-congress-says-dk-shivakumar-vs-hdk-467887.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-14T20:51:13+05:30"
+          },
           {
             "title": "BSNL Data Offer: ಬಿಎಸ್‌ಎನ್ಎಲ್‌ ಗ್ರಾಹಕರಿಗೆ ಭರ್ಜರಿ ಗುಡ್ ನ್ಯೂಸ್: ಕೇವಲ 39 ರೂ.ಗೆ 20GB ಹೈ-ಸ್ಪೀಡ್ ಡೇಟಾ ಪ್ಯಾಕೇಜ್",
             "link": "https://kannada.oneindia.com/news/india/bsnl-rs-39-data-offer-get-20gb-high-speed-data-for-24-hours-in-india-know-complete-details-467881.html",
@@ -1324,13 +1246,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-14T15:11:23+05:30"
-          },
-          {
-            "title": "MBBS ಸೀಟ್ ಪಡೆದು ಮಾತು ಉಳಿಸಿಕೊಂಡ ವಿದ್ಯಾರ್ಥಿನಿ; ಸೃಷ್ಟಿ ಸಾಧನೆಗೆ ಲಕ್ಷ್ಮೀ ಹೆಬ್ಬಾಳ್ಕರ್ ಮೆಚ್ಚುಗೆ, ಡಿಕೆಶಿ ಮಹತ್ವದ ಮಾತು!",
-            "link": "https://kannada.oneindia.com/news/karnataka/mbbs-dream-comes-true-student-keeps-promise-lakshmi-hebbalkar-praises-achievement-dks-key-messag-467847.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-14T14:56:48+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1341,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "‘এ সব লোকের থেকে আমি দূরেই থাকি’, কার উপর চটে গেলেন শাহনাজ় গিল? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGZvc3NDb3ZLNWZsNG1GN1Rvc3BxTE1nV1haaTRmSkZqZzBkMjV4dUJTMlhOSWxvNG9TdVltLVcwR0xoMy1VeXVzcmpqcmlsMkg1bUVJMG9PVG01bFNKTDV2SFVmVG9wNExYZmQyTXhqN2toUzVQUm1pMG10UFN2QUJubkNzOGRZNi0taVVhdnRnS0JyUk84dW5GV3MzYzlnUlBYbFRRc3VxYUYtTFlMNDFNa1JvQdIBuwFBVV95cUxOa0hJVDRqSTBXcmNOb2l2NkF0YXhSVEpUWndYdFJ6TXdBSzdWMWZQdVQ3NE02WXRlOGlhdHVJU1ZOd2hLWm9nZTgwdTVnNzgwNFEtaVc5UjdkSW1JdGVkbkVqREpveUdVQmVJWjFHUzUtSW9RelpGZjZHYWs3dk04MU94ZjZKanVzeHFSQ2tMVE1MVUtrQ2xnZ0psd3p0SU9TWWc2WlJaZVBabmFudEZUTmx6X1lXYW8xX1lR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-14T15:07:06+00:00"
+          },
+          {
             "title": "এশিয়া কাপে আরো একবার ভূলুণ্ঠিত ক্রিকেটের সৌজন্য",
             "link": "https://www.bbc.com/bengali/articles/cr86x57l7vz4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1461,6 +1383,13 @@
             "published": "2026-09-14T12:22:51+00:00"
           },
           {
+            "title": "লিপস্টিক কিনছেন? প্যাকেটের গায়ে ৩টি উপকরণ থাকলে সাবধান, হতে পারে ক্যানসার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdnQwdkZuX2g1cHpKTnFEUnZTM2xFaHk3Zmo2aHczTHd0cnU4VHhPdXIxXzZjVFBVaGVYc090THdZa2M3REdrOEdRLTNWSTVWeVhWVEFHb3Vwd0JVY1RjbU9IMEFYUnpRektkMUIzVWM0N1ljM3dKbHFZTzU4eGhJVDBhU09VbXVwMXRJMVBCcnRpU3RUR3VETXRhUzhkbWk3X091elNCS0hieHVVbmM0cnBLb2MyZmpYT185SFlUcXp5bE3SAcgBQVVfeXFMTjhhRUhhV0FQOHNTeWNieFh5c2h2VVp2MUhYdUdoWWxFVjdfQWNxcnExYzVZYlZMejVtR2ZidFlXTmFUdUhyUTI0aHhXSnJaTU5SZWd1U3pUMkRsNWp1cnZkOWdHcTB0aWtDUnlrM2dvS1BELTR3V1dCRi1QTHprVHVLSVhqSFg5T3dERk5FdmhHb0wtY0VlTW1CV0pLVmE3bElteFhyOEduLW8zY1BLdEN2Vm9BMVFmdFFNdnBoMDBONjRHVDdvdjI?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-14T11:44:27+00:00"
+          },
+          {
             "title": "দিশা সালিয়ানের মৃত্যু মামলায় নতুন মোড়! সিবিআই তদন্তে উঠে এল আদিত্য ঠাকরে, ডিনো মোরিয়া-সহ একাধিক নাম - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdzNOM2g5VVQ0N0hsLWY5NWVRZEROMXhrRTN2UnJjRjlwWlp4R1kxdW5XaHlnS0Z2MXJheEhuYkRHMndqMzdpRk1LSlBqWk5ZNU5TSy1aaHF4dkNOYWtCWWZmVk5RbGpfS3VDeThYZHRrQUgwNnRTWk9BM1FuYmhrOUItb3ZUQUNKbU5SX3B2Z0ZuQzNtZG5SRVhWd2ZZTmFOX1JwcmRTRmdUeVk1VkNMenU0WXV1VzhUNlBxV0JmRzdQM0c0NnNXUzRwbVZCUVpSakQ2UjZIem56eGJtcnNONmRjaXVqUjTSAewBQVVfeXFMT3E3RWwwaEdkd0YxREdHSzBIcXVVdFFSVzVuMmFZYng4MDNDYlNtNGtsdVZCRHd6aGFLYkQtVDRWYjNFN2ZtcGpYY3M0bXo0a0M3eE1Cbm1CZUJFdDg2VHV6NDEwcFRURFI0UXFuemFKdTZQaHJxOWg3QUFSRmZGbzY5WURnTGJ1ZllyTDNld3NpVjNMUjIyMFB6U2dsMXliVGRaY2pDWW1Ga1pRMGlPaElmSVpaZkFZcktrTkZ4ZE5CbmoyX1hnT0E2YUlER2I4Z1FtZjZ3YVV1QWFYRURLWjFkc0hVbERPNWxpMkk?oc=5",
             "source": "Anandabazar Patrika",
@@ -1475,6 +1404,13 @@
             "published": "2026-09-14T10:53:00+00:00"
           },
           {
+            "title": "সিঁড়ি ভাঙতে গেলেই হাঁটুতে মটমট আওয়াজ হচ্ছে! কন্ড্রোম্যালাসিয়ায় আক্রান্ত হলেন না তো? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUFNV19jYW5qNXJ3WUEyV2ZERm9hbUE2UlRjTEpFcEsxMXBCdmRMbnltYk1MUEFVVldaY0I2dEh4Y05nTzhGQXV0Sk5BZVZJeEMyLWFDcXN6Wklrc0Q0em5aTkpFUnRSbXlrRXhBOVIzazRSRllqOHprWlRNTW9lY2ZybmNacVVoV2N6MVlWcThxd2RsY0RjY2NKc0oyY3RmeDRwLUZlR0JFbFFGUEdCNVd5T0Y3b1RkVkHSAb8BQVVfeXFMTk1JYTlTOXUxRjkwcThlb05pS0E2TWNMTTQ5aEVvbDdSV29pY2lVSG1raXR3QkdOQkdTLTQ3QVRQMTVDRGY2LWxSUENQZGVpOTA5VHg2SlBIaGJhd1A3WjhkdlYzQlItLXowdkNSQmNvaGQ4Ni0xa3RFUHd0bE96QVI1ak9yUm1mcWJldDlFa0c3bHpBc2xkaFV4RXFUbVFNR3h5QlNLZ2I2WTJTZjBQaFRiWElJWmU3RHB1eGd5dlk?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-14T09:17:46+00:00"
+          },
+          {
             "title": "ইরান-আমিরশাহির ‘মানভঞ্জন’ থেকে পাকিস্তানকে ‘রামধাক্কা’! ব্রিক্‌স থেকে কোন পাঁচ ‘রত্ন’ ঝুলিতে পুড়ল ভারত? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenNlTmt4MkZ2aGJMcGdXZ0htSmNpU1RyT0xMTk01eFFvZVozcE9yODhabXRLUDA3d1BVNUhzU1M4czJhNFdRdER0RDBJb1BjUzFVdFVHbi1Rek1pUXlaZlAtdVhveDBRdzRKVEQwbm5GWk5rcFVsbDhhY2F4dzdtUDFDc1hUMkxHaGJJeklndk9tbFJBOVVMZXRDNFNic2t2RGtrNDFidUstQ0luSkVyWE5RVFVOeWY5ZW1XT2libVZiMmxQRGEyTUFLV0loWWxRdDZzdXhaRW96VzhnZGhYbHZMRTNLM1nSAewBQVVfeXFMUE9XQmlsQkF0bUdLS0dPckN6NGVjWDFETmNZczFFOGQ1TE43aUtQSHRIUGFrZy1WV1hkZnQtNjBFSE5TQlZnV1JjSFkydlNkaElFeDdhVHR0a0VkMmtDa29OdWJYYXlDRk9oWi1ud0V5NEVOdjN4TEUwUUlKS1I2NEUyRGRqNFdISzdoYlpSR1ExYVZkWWFuRGs5N1dxUUpJSTVyM0dfNU1QVFphS0cybXl4U21XRlRwbV82N2E2QVBMakpxZzhFdWltS0I3emNqY2Vaa213TTBvTXdkcUJWZnUwVUJ1R3VhdEx0NmE?oc=5",
             "source": "Anandabazar Patrika",
@@ -1487,27 +1423,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-14T08:49:24+00:00"
-          },
-          {
-            "title": "টেস্ট চ্যাম্পিয়নশিপে একসঙ্গে ১১ পয়েন্ট কাটা গেল পাকিস্তানের! চুনকামের পর শাস্তি বাবরদেরও, অর্ধেক টাকা পাবেন পাক ক্রিকেটারেরা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFp3Sk1hU3FYeWljNUN1a1FMQlRWTU1oUTYxRWpFNXZuV3FoMWh5ODZ5NEliM01HUzdWMklmeUhDQW5obU5SQWlreXNUbVYwR3ZNQjBWM1VGMEgzS3lzWDIzaFhlN1hrYkliZS1mX0JGdkJTUndVYU9pcElBSE45dzVHclRLa3NWMXN0QXFqY2lLS3JhZFZzU3RQblQ5WWw5UmIyUVZsYWdYeHVYUTdVV2FIRkdGbHM0WmJibTBfcXFNbEdkMHZMX1dDUG5uTXdKS2Z5N2hPcXNqaE5SdXEwRDlpc1FnQdIB6wFBVV95cUxNZmZyTVE1ZWRib1JGQ0hTRElVUnMwN09kanllZzlIOFExOFJ4NEJ2WDVRdkNqT3ZhMVZhVUVIZ2ZnQWdtYTIxd1h0eFo2Rm94d0pXOEpGbVVSYVE5ZTBPb2VBRldlTkp1RkliMGhxY2pxRTAyNHNTc3FfRzZPckNfNDVaTmRaazlHd0MzMkxLdTRRbkkyTC1WcDNLRnFvdWhBMEQzVnlZUFhPbGlZazNhQTVIZ1Z2SFFSYVAtSWVtTldCR2ZGQld3dTd2VFNYTDR5eTAzZ014VWtBSU1wN0t5dU5OVUhtOXpwRjM4?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-14T08:49:14+00:00"
-          },
-          {
-            "title": "২০২৬ সালে মহাসাগরের সেরা ১০টি ছবি",
-            "link": "https://www.bbc.com/bengali/articles/c05r8ezy1v5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-09-14T08:05:31+00:00"
-          },
-          {
-            "title": "সুপ্রিম কোর্টের নির্দেশের পর অবশেষে তরুণ তেজপালের আত্মসমর্পণ! ধর্ষণ মামলায় বম্বে হাই কোর্ট দিয়েছে ১০ বছরের সশ্রম কারাদণ্ড - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEFGOUwtVlNvR1RXOC1Pa0dkMTlNLUFtYkZnZEJseDZ0QWZSektEalRBZ3hqUGdrWjRFaUpuLVRQMW9DOXF0bXdUUVprTXFiY2hhbzc3X2ZpLW1WRjc2eDlTQjVKaGNmT0hlM0YzNWgxN2RlbnBFemt1RTdRVlg0TmNTQnhlZ0JVcFhENU5WNzVDbzN2ZTcwa9IBngFBVV95cUxOaXFyem1kbGVhMDQ2MEl4eHJDTF9fNjFENlVNN1Vxb00wZXQxZDdMb2N2dnRpNUxvTWtDWFRCYWlfcVFOTFQ2RDZSR3NOTUhJVUdXeWx3LUV3MUtZbWhTcTRWVGlMbTdRZE1vSktTdkJOVHZobWJYMXpsWEhDaHp4ZnRnRFA2WUh1SUFjVlZMUDcta0VZSUxfSzdUU1lqQQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-14T08:03:56+00:00"
           }
         ]
       }
