@@ -1,16 +1,93 @@
 {
-  "updated_at": "2026-09-15T20:01:31.242487+00:00",
+  "updated_at": "2026-09-15T20:31:19.014213+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "What makes these midterms so pivotal?",
+            "link": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.",
+            "published": "2026-09-15T20:19:26+00:00"
+          },
+          {
+            "title": "Why do some African leaders gamble with term limits?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Protesters in the DRC denounce law that could extend president&#039;s term.",
+            "published": "2026-09-15T20:17:52+00:00"
+          },
+          {
+            "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+            "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Western intelligence agencies highlight &#039;CHOSEN BRICK&#039; spyware targeting critics of Iran government abroad.",
+            "published": "2026-09-15T20:16:35+00:00"
+          },
+          {
+            "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+            "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump claims closure of US&#039;s Kennedy Center stems from safety concerns, urging name change as crucial for its survival.",
+            "published": "2026-09-15T20:14:22+00:00"
+          },
+          {
+            "title": "Meta to share child safety information directly with Indian agencies",
+            "link": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
+            "source": "The Hindu",
+            "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
+            "published": "2026-09-16T01:44:21+05:30"
+          },
+          {
+            "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+            "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump claims Supreme Court decisions set the US &#039;back 100 years&#039; after controversial ballot rule change blocked.",
+            "published": "2026-09-15T20:13:40+00:00"
+          },
+          {
+            "title": "US speaker rejects AI pause, warns of losing edge to China",
+            "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump has dismissed AI fears as &#039;hoax&#039;, insisting US safeguards suffice and warning slowdown benefits China.",
+            "published": "2026-09-15T20:13:09+00:00"
+          },
+          {
+            "title": "Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece",
+            "source": "The Hindu",
+            "summary": "The flight 6E6504 landed safely at Lucknow Airport at 6.29 p.m. with 103 passengers and 6 crew members, airport authorities said, adding that no untoward incident was reported",
+            "published": "2026-09-16T01:31:30+05:30"
+          },
+          {
+            "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+            "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+            "published": "2026-09-15T19:59:00+00:00"
+          },
+          {
             "title": "Yuvraj: India must avoid 'massive changes' ahead of 2027 ODI World Cup",
             "link": "https://www.cricinfo.com/ci/content/story/1554300.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "The former allrounder asked India to take a leaf out of their T20 World Cup wins and build a consistent squad in the lead up to the 50-over World Cup",
             "published": "2026-09-15T19:55:13+00:00"
+          },
+          {
+            "title": "AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation",
+            "link": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-16T01:14:17+05:30"
+          },
+          {
+            "title": "Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece",
+            "source": "The Hindu",
+            "summary": "The Supreme Court on September 10 issued an order in favour of the sportsperson and quashed an official order denying her permission, citing pending departmental inquiries and service conditions.",
+            "published": "2026-09-16T01:05:41+05:30"
           },
           {
             "title": "US borrowing costs hit highest level since 2007",
@@ -25,87 +102,38 @@
             "source": "BBC Technology",
             "summary": "What should children learn in a world transformed by artificial intelligence?",
             "published": "2026-09-15T19:30:00+00:00"
-          },
-          {
-            "title": "Power discom is still heavily reliant on Tamil Nadu government’s financial support",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece",
-            "source": "The Hindu",
-            "summary": "In the 14 years since 2013-14, the government aid, both in the form of tariff subsidy and grants, has accounted for ₹2.55 lakh crore",
-            "published": "2026-09-16T00:58:28+05:30"
-          },
-          {
-            "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-            "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.",
-            "published": "2026-09-15T19:26:55+00:00"
-          },
-          {
-            "title": "Bel-Air founder’s 1928 estate bought for $5.5m now asks $32.5 million",
-            "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2010-an-investor-bought-bel-air-founder-alphonzo-bells-1928-estate-for-5-5-million-after-a-five-year-restoration-the-10600-sq-ft-mansion-is-asking-32-5-million/articleshow/134267407.cms",
-            "source": "Times of India",
-            "summary": "Alphonzo Bell's stunning 1928 Bel-Air estate has hit the market with a hefty price tag of $32.5 million. After purchasing the mansion for $5.5 million over a decade ago, the owner has meticulously completed a five-year restoration project. This exquisite Spanish-style residence harmonizes original architectural details with modern luxuries, creating a perfect sanctuary that embodies both historical charm and…",
-            "published": "2026-09-16T00:55:00+05:30"
-          },
-          {
-            "title": "MMC, Rotary Club provide five pink autos to women",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/mmc-rotary-club-provide-five-pink-autos-to-women/article71469714.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-16T00:48:05+05:30"
-          },
-          {
-            "title": "IIT Palakkad researchers develop sensors for faster heparin monitoring",
-            "link": "https://www.thehindu.com/news/national/kerala/iit-palakkad-researchers-develop-sensors-for-faster-heparin-monitoring/article71468718.ece",
-            "source": "The Hindu",
-            "summary": "Accurate dosing of heparin, an anticoagulant used in cardiac surgery, dialysis etc., is important because too little of it can lead to clotting, while too much can cause excessive bleeding",
-            "published": "2026-09-16T00:47:33+05:30"
-          },
-          {
-            "title": "Zak Crawley resists as wickets tumble",
-            "link": "https://www.cricinfo.com/ci/content/story/1554330.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Promotion hopefuls Kent skittle Lancashire for 161 then lurch to 151 for 7",
-            "published": "2026-09-15T19:15:55+00:00"
-          },
-          {
-            "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-            "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-            "published": "2026-09-15T19:13:44+00:00"
-          },
-          {
-            "title": "\"With A Heavy Heart\": Emotional Post By Techie's Wife After Oracle Layoff",
-            "link": "https://www.ndtv.com/world-news/with-a-heavy-heart-emotional-post-by-techies-wife-after-oracle-layoff-12051636#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "After 12 years at Oracle, Pooja Sahu said her husband, Sourabh, found himself among those impacted by the technology giant's latest layoffs.",
-            "published": "2026-09-16T00:39:28+05:30"
-          },
-          {
-            "title": "US Redirects Military Aid From Europe, Middle East To Allies In Latin America",
-            "link": "https://www.ndtv.com/world-news/us-redirects-military-aid-from-europe-middle-east-to-allies-in-latin-america-12051625#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The State Department on Tuesday notified Congress that it will reprogram $52 million in foreign military financing from Slovakia, North Macedonia, Tunisia and Iraq to Panama, Peru, Ecuador and Colombia.",
-            "published": "2026-09-16T00:35:20+05:30"
-          },
-          {
-            "title": "\"Extinction Not A Credible Risk\": AI Researcher Sara Hooker To NDTV",
-            "link": "https://www.ndtv.com/world-news/extinction-not-a-credible-risk-ai-researcher-sara-hooker-to-ndtv-12051604#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Human extinction is one of the biggest concerns raised by AI leaders over the past week. Sara Hooker shares why she is not concerned.",
-            "published": "2026-09-16T00:35:13+05:30"
-          },
-          {
-            "title": "Tanker hit by projectile near Strait of Hormuz was operating in ‘dark mode’",
-            "link": "https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece",
-            "source": "The Hindu",
-            "summary": "Photos of the ship from September 13 indicate that the engine room was attacked and damaged by the projectile; the tanker had 25 crew members on board: 14 Indian and 11 Pakistani nationals.",
-            "published": "2026-09-16T00:33:57+05:30"
           }
         ],
         "India": [
           {
+            "title": "Meta to share child safety information directly with Indian agencies",
+            "link": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
+            "source": "The Hindu",
+            "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
+            "published": "2026-09-16T01:44:21+05:30"
+          },
+          {
+            "title": "Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/agartala-delhi-flight-diverted-to-lucknow-after-smoke-warning-no-injuries-reported/article71469954.ece",
+            "source": "The Hindu",
+            "summary": "The flight 6E6504 landed safely at Lucknow Airport at 6.29 p.m. with 103 passengers and 6 crew members, airport authorities said, adding that no untoward incident was reported",
+            "published": "2026-09-16T01:31:30+05:30"
+          },
+          {
+            "title": "AAP alleges cover-up in girl’s death at a Satya Niketan PG; police denies allegation",
+            "link": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-cover-up-in-girls-death-at-a-satya-niketan-pg-police-denies-allegation/article71469675.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-16T01:14:17+05:30"
+          },
+          {
+            "title": "Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/asian-games-2026-jk-govt-allowsmir-bilquis-to-travel-after-sc-intervention-to-coach-indian-kayaking-canoeing-team/article71469442.ece",
+            "source": "The Hindu",
+            "summary": "The Supreme Court on September 10 issued an order in favour of the sportsperson and quashed an official order denying her permission, citing pending departmental inquiries and service conditions.",
+            "published": "2026-09-16T01:05:41+05:30"
+          },
+          {
             "title": "Power discom is still heavily reliant on Tamil Nadu government’s financial support",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/power-discom-is-still-heavily-reliant-on-tamil-nadu-governments-financial-support/article71469229.ece",
             "source": "The Hindu",
@@ -160,37 +188,58 @@
             "source": "The Hindu",
             "summary": "Photos of the ship from September 13 indicate that the engine room was attacked and damaged by the projectile; the tanker had 25 crew members on board: 14 Indian and 11 Pakistani nationals.",
             "published": "2026-09-16T00:33:57+05:30"
-          },
-          {
-            "title": "Man held for damaging temple idols in Tirupattur",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-damaging-temple-idols-in-tirupattur/article71468255.ece",
-            "source": "The Hindu",
-            "summary": "The CCTV camera footage showed him entering the temple and hastily leaving the premises",
-            "published": "2026-09-16T00:32:51+05:30"
-          },
-          {
-            "title": "Man electrocuted, nine others injured in Ranipet",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-electrocuted-nine-others-injured-in-ranipet/article71468263.ece",
-            "source": "The Hindu",
-            "summary": "The deceased was a resident of Arumbakkam village",
-            "published": "2026-09-16T00:31:59+05:30"
-          },
-          {
-            "title": "Udhayanidhi condemns TVK-led govt. over attempt to ‘paralyse’ High Level Committee on Union-State Relations",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-condemns-tvk-led-govt-over-attempt-to-paralyse-high-level-committee-on-union-state-relations/article71469408.ece",
-            "source": "The Hindu",
-            "summary": "The Committee was constituted during the previous M.K. Stalin-led DMK govt.; the LoP in T.N. Assembly claimed that the present govt. has created a situation in which the research scholars working on the Committee’s second report were unable to continue their work",
-            "published": "2026-09-16T00:31:00+05:30"
-          },
-          {
-            "title": "\"Reckless\": EU After Russian Ship Fires Flares At Danish Military Helicopter",
-            "link": "https://www.ndtv.com/world-news/reckless-eu-after-russian-ship-fires-flares-at-danish-military-helicopter-12051597#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Denmark and Russia blamed each other for the flares fired at a Danish military helicopter monitoring a Russian frigate on Monday.",
-            "published": "2026-09-16T00:28:16+05:30"
           }
         ],
         "World": [
+          {
+            "title": "What makes these midterms so pivotal?",
+            "link": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.",
+            "published": "2026-09-15T20:19:26+00:00"
+          },
+          {
+            "title": "Why do some African leaders gamble with term limits?",
+            "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Protesters in the DRC denounce law that could extend president&#039;s term.",
+            "published": "2026-09-15T20:17:52+00:00"
+          },
+          {
+            "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+            "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Western intelligence agencies highlight &#039;CHOSEN BRICK&#039; spyware targeting critics of Iran government abroad.",
+            "published": "2026-09-15T20:16:35+00:00"
+          },
+          {
+            "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+            "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump claims closure of US&#039;s Kennedy Center stems from safety concerns, urging name change as crucial for its survival.",
+            "published": "2026-09-15T20:14:22+00:00"
+          },
+          {
+            "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+            "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump claims Supreme Court decisions set the US &#039;back 100 years&#039; after controversial ballot rule change blocked.",
+            "published": "2026-09-15T20:13:40+00:00"
+          },
+          {
+            "title": "US speaker rejects AI pause, warns of losing edge to China",
+            "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump has dismissed AI fears as &#039;hoax&#039;, insisting US safeguards suffice and warning slowdown benefits China.",
+            "published": "2026-09-15T20:13:09+00:00"
+          },
+          {
+            "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+            "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+            "published": "2026-09-15T19:59:00+00:00"
+          },
           {
             "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
             "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
@@ -225,55 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Ex-Chelsea and Barcelona striker Samuel Eto&#039;o faces a probe over allegations of embezzlement in his Cameroon FA role.",
             "published": "2026-09-15T18:35:40+00:00"
-          },
-          {
-            "title": "India beat Afghanistan by seven wickets to seal T20 series",
-            "link": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Sanju Samson&#039;s half century helps India seal three-match series with wins in first two games.",
-            "published": "2026-09-15T18:15:43+00:00"
-          },
-          {
-            "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
-            "link": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
-            "published": "2026-09-15T18:05:24+00:00"
-          },
-          {
-            "title": "South African president vows justice as more women's bodies found near Johannesburg",
-            "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-            "published": "2026-09-15T18:01:51+00:00"
-          },
-          {
-            "title": "Police crack down on protests against constitutional change in DR Congo",
-            "link": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.",
-            "published": "2026-09-15T17:58:53+00:00"
-          },
-          {
-            "title": "Canada is a 'safe harbour' for global finance, Carney says",
-            "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
-            "published": "2026-09-15T17:54:46+00:00"
-          },
-          {
-            "title": "British woman abducted in Malawi, police say",
-            "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
-            "published": "2026-09-15T17:44:45+00:00"
-          },
-          {
-            "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-            "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov&#039;t and Houthis intensifies.",
-            "published": "2026-09-15T17:39:58+00:00"
           }
         ],
         "Business": [
@@ -288,7 +288,7 @@
             "title": "US 10-year Treasury bonds hit 19-year high ahead of Fed rate decision",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-bonds-hit-19-year-high-ahead-of-fed-rate-decision/articleshow/134268867.cms",
             "source": "Economic Times",
-            "summary": "Treasury yields climbed significantly on Tuesday, reaching their highest levels since 2007. Rising oil prices and global inflation pressures are fueling these market movements. Investors anticipate the Federal Reserve will soon implement its first interest rate increase. This potential hike aims to address persistent inflation concerns across the economy. Bond markets worldwide are experiencing similar upward trends…",
+            "summary": "US 10-year Treasury yields climbed significantly on Tuesday, reaching their highest levels since 2007. Rising oil prices and global inflation pressures are fueling these market movements. Investors anticipate the Federal Reserve will soon implement its first interest rate increase. This potential hike aims to address persistent inflation concerns across the economy. Bond markets worldwide are experiencing similar…",
             "published": "2026-09-15T22:06:04+05:30"
           },
           {
@@ -648,7 +648,7 @@
             "published": "2026-09-16T12:00:09+05:30"
           },
           {
-            "title": "बंगाल में TMC के 10 बागी विधायकों को नोटिस:विधानसभा सचिवालय ने अयोग्यता याचिका पर 7 दिन में जवाब मांगा",
+            "title": "पश्चिम बंगाल में TMC के 10 बागी विधायकों को नोटिस:विधानसभा सचिवालय ने अयोग्यता याचिका पर 7 दिन में जवाब मांगा",
             "link": "https://www.bhaskar.com/national/news/west-bengal-assembly-tmc-rebel-mla-disqualification-notice-139042158.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -1093,6 +1093,13 @@
             "published": "2026-09-15T22:56:28+05:30"
           },
           {
+            "title": "PM Modi: మోదీకి తల్లి ఆశీర్వాదం.. పట్టు వస్త్రంపై పదిలం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2czaDNnN0ZPZjFXYkhXSnR2dGo3b0hFZ0ZIQ1NpWUhsNkdYXzZKcG81SjlqblFKdHVuZGNTVUpNSktFNUk1R3hQSlgtMU15LTBoV1BlaEZTQ0NCbFZaYkdNYnloTmtMYnFvamtjaWY1MFQwaERtbkFhZ3FDcWxlOFB2Z0hyNVBRQm9kQXhoTmx2VF9OLXlDSHJtVjNiMDYxUEZaU1Z6aDgxOFZwQmZQajBwajZwd2xy0gG4AUFVX3lxTFA3ZzNoM2c3Rk9mMVdiSFdKdHZ0ajdvSEVnRkhDU2lZSGw2R1hfNkpwbzVKOWpuUUp0dW5kY1NVSk1KS0U1STVHeFBKWC0xTXktMGhXUGVoRlNDQ0JsVlpiR01ieWhOa0xicW9qa2NpZjUwVDBoRG1uQWFncUNxbGU4UHZnSHI1UFFCb2RBeGhObHZUX04teUNIcm1WM2IwNjFQRlpTVnpoODE4VnBCZlBqMHBqNnB3bHI?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T17:07:35+00:00"
+          },
+          {
             "title": "విమానంలో బట్టలన్నీ విప్పేసి నగ్నంగా తిరిగిన మహిళ.. ఎందుకంటే..?",
             "link": "https://telugu.oneindia.com/news/international/americanairlines-woman-causes-a-scene-on-flight-wanders-around-naked-and-behaves-indecently-viral-506377.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-15T20:18:18+05:30"
-          },
-          {
-            "title": "AP Govt: ఏపీలో అసైన్డ్ భూముల రిజిస్ట్రేషన్లు ఇలా-సర్కార్ తాజా ఉత్తర్వులు..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-revises-assigned-land-rules-rdos-get-freehold-powers-outside-municipal-corporations-506363.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-15T19:55:14+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন সিংহ রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGYyTDhLZGFuQW5kXy1sN2JtTkYzeGp4WGp2WlcxZEVoUmtMcFJSWDZtUF9nYkZBSzlES2ZXSndadnJHMnE0NjhOSXhVUTNETkJGVkpmN2hsX1dBU3lxSUZRWi1wMVVteWhfeEpRRGR3VjE4dnlrMWUtaDg4V05sQTd4Z19WOW5XYm1RNFhZc0gxVEQzdXk5MnhEbTlKb2R5S0luSEhOcGJwdFBQTnfSAbMBQVVfeXFMT1BlTE1LNjRPZVc4ME45TXpNd0NTc2ZIdW5ScWM2V3BlMFBjbnhYLWJzZWFFcXRXcWVmWjJqVExCd1gzSFFsMXltZHRlOFRoX3ljN2JYcEIwbnVjUlozRXFrdjJCTE80TWdVS2tubDVxYmZoV0gzRU9yOVBybW1UbDNPcnZuOC1HM08tZkJfSmZSejUtQ0RxYmhtVmFxYkRzVENNSGlnS2sxd25rSVRjR1N3a00?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T20:11:26+00:00"
+          },
+          {
             "title": "আজকের দিন মীন রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVaVk5tZGVXV0tZd3ltRWNyYzZOWWNNWThWbTdiLTBYVGpjemVqajViRlBySHpBaHFCNlQ5eFFWSk81ZlR1U24wSkNkbmhsdks5U0YwVHlZMnYyaVZ3Nlpkcl9HeGloYjY5TmJvaXdmcUFLbGdURWpvenlCWWRWVjBZdEJoQjhlQUFwSFFZNVZReEpQMjhyMmZiZmhfZFVrZHNTbkV4QkJBelVZb1M40gG0AUFVX3lxTE1zTTBPQUtXVkUyZmJaVVBNWnFHalRKUXhrUUFfRkVwLWNOZFN3UlBFMmpIRHdNd0FaWm9YMmhqaW92djFqMVZpSzV2X09PSmxBcEROYVozV09KYWp1Ml83RGo5M0hrN0ZHMXRZRFdRQ3BFMlFQX0FxcXh3NE9HQ2RCbmVrWFZ3ejQ5dzVnWHpQSHl3SHZLTDlpU2wtMzNnVVNsemVibFdKdGF3dXA2Q2xueEhEcg?oc=5",
             "source": "Anandabazar Patrika",
@@ -1489,25 +1496,18 @@
             "published": "2026-09-15T16:37:30+00:00"
           },
           {
+            "title": "বেসরকারি বাসের ভাড়া বাড়তে পারে পুজোর পরেই, পরিষেবার মান বাড়বে কি, প্রশ্ন যাত্রীদের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUGtKUDdSbzY5Z1FVZHdBV1R0aVBNM0hHNExrSzM1VkdraGZwbW94dlVMSkJlNk9YNzNBR1UxRFpObm1XdE9qNW9TUy1XVDdqNmEwaFBRWmdnc2dWWkNOTXFhTTEwNS1VZk92eUR2WTJ3alIxaldzQzVuQXhSbS1YaEp5b0pwNEEwVmIwTWREMFBPOXhWcGFlc3ljNngwU0lUUTdYNlJISXBUR0hDVzRZNGg0alZMT0JUTHpEY29lWEprZVdMTzdRZF9IN3h0Ymg1SnRYX1JDZ2pXdnpRR3lxUE1ETzR1elRnYUhMWGNOYWhkb1NoT3fSAfsBQVVfeXFMTW1wc0NLQzVIX0s0QW5aNWI3MlJldTRIQ2dXLXJkSldSeXpLWFBkZnlaNWFMYkRKTkc4cl9jTnhsTXp6OXltbDMzSFY4eTBrRGlWZzlJUnJjNkN6SlBPMWtheWRGNkctTlN1bGtOSS1CcnRwamJvd0RCS0hQUVc1WEJWcVcybUdmd1dXV3NVeEdVVlctcGFTRFo4OEFDNzNfWks1ajFHZk4yanhBV0tkYWxRUDFxWmROUUVid01raGd2NUxsbnV5d01GeVNyTXo3TXNOMTNoa255YzVjZXNNTTdZXzVhUVRnTUp6SmhRVWhGcWwtZ1gxNy1Kd1k?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T16:09:47+00:00"
+          },
+          {
             "title": "প্রধানমন্ত্রীর জন্মদিনের সন্ধ্যায় অঙ্গনওয়াড়ি কেন্দ্রে জ্বালাতে হবে আশীর্বাদি প্রদীপ, সশরীরে হাজিরাও বাধ্যতামূলক করা হল - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa0NvWG5xR0FzUkNnalUtRDVJNnZfSEh5eXRfMFpzdFdiQjlVRU5NLUw5NUt2azZ5NU9vUWt6aEU2ZFBuYTg1TUJxa3VtMG5BNGFFR3RuZzUyWG1kaFRSMU5TMFZNc1JRbzR0STJieC1OYkZHSm50bkRaUzUwMGVZWjBuRTBJeV92c0pDSkV1OV9hT1NfaU9Wai00QzFlTXF4T0tvSEdWUTJFSEFwczliRUZBamhMTzN5eE5ZcWMtZjZ6bS1Qa3NzQ2dwQ1Y1X2MwdzlUTWVIU2F5OG1rMHYyLWNJeW9VTl92NjZJRHRBY2pKS0xNSUHSAfsBQVVfeXFMTmE2dW9YN29IMGplRzhXR0NGQWF4MGtPWW5iTmR2TTdtOGZ0UXRaY0tPZ3dmenVDXy0zN0hWVzZaQXh0YnIwdk1zVExBV09ETVFCLUFaZHZOMjNJMWtMZVZTUERHUGIwdE1VUUhvYkl4YWNsQmJmMmJXMlFzVTlDRGxaS09kVlAxUDVXLWQ4VFo4cjVscGNkZlZZdWF5ZTh3YXFkNkFUdjFwMGFRQnZNY2swLWtnekNBR3NOQU5DcHJDSjFhdENnTDNmdWpBOWpyUkNqWUhpXzd6MzJOdDBnS2UzeWRXazQ0Q2gwLVcxZnQwbV9nWURkZVNMSkE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-15T15:58:51+00:00"
-          },
-          {
-            "title": "পুজোয় বিশেষ ট্রেন! ভিন্ন গন্তব্যে বেশ কয়েকটি এক্সপ্রেস চালাবে পূর্ব রেল, কোন কোন রুটে, জেনে নিন এক নজরে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGRxZVVkN3BHRHNGamI5ZWNhYUVJc1dwY0NYbE5XWU04TGktNjNScXZ6aGhFcy02aGhHN04xb1NjU1BRR1J4cWI1dlZFRWtVczBrSTBvY1B2cEFGWkQ0OFZoVFVNTFBaZWtGTEJtRTVRd1J5U1NGclJyZTliS2s4VHVyQUlGMzFuUU0xMHVscUtJNFhXMTJxRGVJb0liTzFhd0hUS2VBVnZ3b0hwV3ZBdE9hMXZ2cWty0gG-AUFVX3lxTFBNbVJRUFhDNi1GVTRBVVY4MlB4bTlQSnhIR1NveGlMSUlNaE1DVGlSV3dNekhnYXpVT052S3pGMU1MZDFKanpwVGhSaVhyTHZWazVzT0d2WF9sMUh0R05OMnFZelV6SFhRRDRSUkhqOEQzSXhQdXZZUlpyanN5eFljZjZteE1ncHJFaWZ3WUNCSmJIaTNXV2lRVXJ2eDdVMjY2VGY4amtHaW9JQkh2NzRkeFRWakdGTGZENTlPcWc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T15:54:12+00:00"
-          },
-          {
-            "title": "বাগবাজার সর্বজনীনের জট কাটল! নিম্ন আদালতের রায় বহাল হাই কোর্টে, আগেই শুরু হয়ে গিয়েছিল পুজোর প্রস্তুতি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa1BEUE15TjVDd3dYNkFaYW9BR3Jual9PRDZBczROQVdyT2xVb0J6N0lSRWZrZ2VtbE5xdFBqR2J3c3Z4MWpVX2hlY0FBcWxoZUpYbDlfLWFqUEc4cXpEeXQ3d01ScHZ2VUNRb2Zxc0VZY0c3UTVWZFlOTkw1M0x2SWpLaWZXLUJxbjVaTXJ5QWNfazZGSVNYNzBlUHlKTzltZjB1dm16X3QzUmllQjBadlRqM3ZVLWVaRVpIS3d2aktTUk5pTjItbEhjeHlmeTFESFFzTDZLWEF4NlVBSC1TVHNRV3YtU2FWSGlfMzJ5VzJNRFZvVVdZYWVxVHRiR2Z3NjBnN3o1OWFXU03SAZACQVVfeXFMT29NS25JMVUxYnZocDFydWlGeldCYVplS0pFYkI1SVlpa2piWnh6MFRWdk9NQlVfbDlwZmxGMmt2TG5USjNQaE93YUVyalVQREFzaWEwZDdWNzhrX21PVVNNX01SUEF6ZnRlU0lJLVFfWFkyZUpkTTNlZ0s5bmVBN09CTTFPNXNrZHd3T0JYelRibXJaaW1TUmtUbXotVXBtRGNKT2FTTThNM1MydFU4S0V6Q0FVODg1VllqTmlhOVhXajdUS2hPaUotVHhEaVdoaVJ2ZXh3VFZudVk5OVQ4dl9zZTZ2OWlHbVYtSW5leU0xanZwZXUzVFVJMUJERGQ3LXVBMTdoYmJtZENIa1dCWmw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T15:23:19+00:00"
           }
         ]
       }
