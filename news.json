@@ -1,16 +1,79 @@
 {
-  "updated_at": "2026-09-15T04:31:22.714231+00:00",
+  "updated_at": "2026-09-15T05:01:47.886031+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Landslides hit West Sikkim, SSB rescues residents as precaution",
+            "link": "https://www.thehindu.com/news/national/sikkim/landslides-hit-west-sikkim-ssb-rescues-residents-as-precaution/article71466749.ece",
+            "source": "The Hindu",
+            "summary": "The slide was spotted from the SSB's 'G' Company post at Intake, following which a disaster rescue team was mobilised to the affected area, officials said",
+            "published": "2026-09-15T10:25:47+05:30"
+          },
+          {
+            "title": "CJI says judiciary cannot earn public trust by shielding itself from scrutiny",
+            "link": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece",
+            "source": "The Hindu",
+            "summary": "“A court cannot seek the confidence of the public by placing itself beyond scrutiny; it must remain willing to be examined, questioned and, where necessary, criticised,” the Chief Justice said.",
+            "published": "2026-09-15T10:25:26+05:30"
+          },
+          {
+            "title": "Babar returns to domestic first-class cricket after seven years in bid to rediscover form",
+            "link": "https://www.cricinfo.com/ci/content/story/1554249.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Babar Azam has not played domestic first-class cricket since 2019, but recently requested the PCB to find him a team in the ongoing President's Trophy Grade 1 tournament",
+            "published": "2026-09-15T04:48:42+00:00"
+          },
+          {
+            "title": "Amalgamate Karnataka mining blocks for auction: SC",
+            "link": "https://www.hindustantimes.com/india-news/karnataka-mining-supreme-court-chief-justice-cji-surya-kant-auction-virgin-forest-101789445379486.html",
+            "source": "Hindustan Times",
+            "summary": "A bench of Chief Justice of India Surya Kant said the inclusion of virgin forest land in an amalgamated block would not amount to permission to mine it.",
+            "published": "2026-09-15T10:04:50+05:30"
+          },
+          {
+            "title": "C-DOT developing interactive disaster alerts for mobile users",
+            "link": "https://www.hindustantimes.com/india-news/disaster-alert-c-dot-ai-artificial-intelligence-ndma-national-disaster-management-authority-101789441376114.html",
+            "source": "Hindustan Times",
+            "summary": "The system currently being used by the National Disaster Management Authority is used to send location-based alerts to mobile phones in less than 10 seconds.",
+            "published": "2026-09-15T09:53:20+05:30"
+          },
+          {
+            "title": "Himalayan glaciers melting 65% faster, black carbon to blame: Study",
+            "link": "https://www.hindustantimes.com/india-news/himalayas-glaciers-permafrost-climate-change-global-warming-nepal-floods-latest-study-101789442665800.html",
+            "source": "Hindustan Times",
+            "summary": "The report, came weeks after a glacial collapse led to deadly flash floods in Nepal, claiming at least 1,350 lives and leaving several hundreds still missing.",
+            "published": "2026-09-15T09:50:52+05:30"
+          },
+          {
+            "title": "'Felt sorry? Why didn't you stop': Gurugram biker slams hit-and-run accused",
+            "link": "https://www.hindustantimes.com/india-news/gurugram-road-rage-injured-woman-biker-rejects-suspect-kalyan-bainsla-s-claims-101789446016780.html",
+            "source": "Hindustan Times",
+            "summary": "Sia said the consequences could have been far more serious had the timing of the incident been slightly different.",
+            "published": "2026-09-15T09:50:16+05:30"
+          },
+          {
+            "title": "Meta Agrees To Report Child Sexual Abuse Cases Amid India Crackdown",
+            "link": "https://www.ndtv.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-amid-india-crackdown-12047353#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Online safety of children is a fundamental principle for any social media firm to operate in India and it's non-negotiable",
+            "published": "2026-09-15T09:49:02+05:30"
+          },
+          {
             "title": "Digital libraries established in 57,600 gram panchayats: UP CM Yogi",
             "link": "https://www.thehindu.com/news/national/uttar-pradesh/digital-libraries-established-in-57600-gram-panchayats-up-cm-yogi/article71466700.ece",
             "source": "The Hindu",
             "summary": "Chief Minister Yogi Adityanath inaugurated the 5th Gomti Book Festival-2026, tells youth to build their own book bank",
             "published": "2026-09-15T09:47:26+05:30"
+          },
+          {
+            "title": "Speeding Thar Rams Into People Near Navi Mumbai Hospital, Driver Flees",
+            "link": "https://www.ndtv.com/india-news/speeding-thar-rams-into-people-near-navi-mumbai-hospital-driver-flees-12047451#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Three people were critically injured after a speeding Mahindra Thar allegedly hit them near PKC Hospital in Vashi, Navi Mumbai, before the driver fled the spot. The accused has now been arrested, police said.",
+            "published": "2026-09-15T09:46:14+05:30"
           },
           {
             "title": "Jharkhand CID arrests two more in recruitment exam irregularities cases",
@@ -20,25 +83,18 @@
             "published": "2026-09-15T09:45:37+05:30"
           },
           {
-            "title": "Oil price today: Brent crude rises as Saudi pipeline outage raise supply concerns",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-rises-as-saudi-pipeline-outage-gulf-tensions-stoke-supply-fears/articleshow/134251278.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-15T09:43:16+05:30"
+            "title": "Supreme Court lens on stem cell therapy for autism",
+            "link": "https://www.hindustantimes.com/india-news/autism-spectrum-disorder-supreme-court-sc-stem-cell-therapy-101789444575541.html",
+            "source": "Hindustan Times",
+            "summary": "The Court asked for details of all approved or proposed clinical trials for stem cell therapy for ASD, the institutions involved and their patient capacity.",
+            "published": "2026-09-15T09:43:43+05:30"
           },
           {
-            "title": "Babar returns to domestic first-class cricket after seven years in bid to rediscover form",
-            "link": "https://www.cricinfo.com/ci/content/story/1554249.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Babar Azam has not played domestic first-class cricket since 2019, but recently requested the PCB to find him a team in the ongoing President's Trophy Grade 1 tournament",
-            "published": "2026-09-15T04:11:28+00:00"
-          },
-          {
-            "title": "Mystery missile in Yemen: Did Saudi Arabia use China-made DF-15A?",
-            "link": "https://timesofindia.indiatimes.com/defence/international/mystery-missile-in-yemen-did-saudi-arabia-use-china-made-df-15a/articleshow/134251337.cms",
-            "source": "Times of India",
-            "summary": "Debris believed to be a Chinese-made DF-15A ballistic missile booster was found in Yemen. Open-source analysts identified the component and attributed it to Saudi Arabia's military. This discovery occurs amid intensified fighting and increased missile attacks in the region. The DF-15A is a solid-fuelled short-range ballistic missile with a significant range. Saudi Arabia has not officially confirmed operating this…",
-            "published": "2026-09-15T09:28:58+05:30"
+            "title": "\"Kabaddi Player\": What We Know About Gurugram Hit-And-Run Accused Kalyan Bainsla",
+            "link": "https://www.ndtv.com/india-news/kalyan-bainsla-sia-gurugram-biker-hit-and-run-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-12044425#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Kalyan Bainsla's profile photo shows him flexing his arms. He has deactivated his account.",
+            "published": "2026-09-15T09:43:12+05:30"
           },
           {
             "title": "Leeds Thrash Newcastle To Go Third In The Premier League",
@@ -46,71 +102,71 @@
             "source": "NDTV Sports",
             "summary": "Leeds demolished Newcastle 4-1 to climb up to third in the Premier League table on Monday and inflict a punishing first defeat for Magpies boss Matthias Jaissle.",
             "published": "2026-09-15T09:28:50+05:30"
-          },
-          {
-            "title": "Meta commits to reporting child abuse content amid Centre's crackdown",
-            "link": "https://www.hindustantimes.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-to-agencies-meity-receives-letter-govt-101789444535336.html",
-            "source": "Hindustan Times",
-            "summary": "The government said it has been engaging with social media platforms to curb harmful information and strengthen the safety of children online.",
-            "published": "2026-09-15T09:27:07+05:30"
-          },
-          {
-            "title": "Trump faces fresh setback as judge blocks stricter foreign student visa rule",
-            "link": "https://timesofindia.indiatimes.com/world/us/trump-faces-fresh-setback-as-judge-blocks-stricter-foreign-student-visa-rule/articleshow/134251237.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-15T09:24:44+05:30"
-          },
-          {
-            "title": "Four members of family die in fire at home in Belagavi",
-            "link": "https://www.thehindu.com/news/national/karnataka/four-members-of-family-die-in-fire-at-home-in-belagavi/article71466641.ece",
-            "source": "The Hindu",
-            "summary": "Two members of the family are undergoing treatment for injuries",
-            "published": "2026-09-15T09:21:27+05:30"
-          },
-          {
-            "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-            "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-            "published": "2026-09-15T03:50:06+00:00"
-          },
-          {
-            "title": "La Liga: Betis Beat Winless Villarreal To Go Third",
-            "link": "https://sports.ndtv.com/football/la-liga-betis-beat-winless-villarreal-to-go-third-12046904#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Real Betis secured a 2-1 win at Villarreal on Monday to move third in La Liga and leave the Yellow Submarine in the relegation zone.",
-            "published": "2026-09-15T09:19:23+05:30"
-          },
-          {
-            "title": "Young man drives car wearing helmet in Athani",
-            "link": "https://www.thehindu.com/news/national/karnataka/young-man-drives-car-with-helmet-in-athani/article71463661.ece",
-            "source": "The Hindu",
-            "summary": "An AI camera recorded the car passing through Ambedkar Circle in Athani a few days ago",
-            "published": "2026-09-15T09:17:28+05:30"
-          },
-          {
-            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-            "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-            "published": "2026-09-15T03:47:27+00:00"
-          },
-          {
-            "title": "Female Athletes Slam Sydney Sweeney's Ad For Sexualizing Women In Sports",
-            "link": "https://sports.ndtv.com/othersports/female-athletes-slam-sydney-sweeneys-ad-for-sexualizing-women-in-sports-12046808#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "An advertising campaign featuring American actor Sydney Sweeney has sparked widespread backlash from female athletes who say it is sexualizing women in sports.",
-            "published": "2026-09-15T09:15:36+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Landslides hit West Sikkim, SSB rescues residents as precaution",
+            "link": "https://www.thehindu.com/news/national/sikkim/landslides-hit-west-sikkim-ssb-rescues-residents-as-precaution/article71466749.ece",
+            "source": "The Hindu",
+            "summary": "The slide was spotted from the SSB's 'G' Company post at Intake, following which a disaster rescue team was mobilised to the affected area, officials said",
+            "published": "2026-09-15T10:25:47+05:30"
+          },
+          {
+            "title": "CJI says judiciary cannot earn public trust by shielding itself from scrutiny",
+            "link": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece",
+            "source": "The Hindu",
+            "summary": "“A court cannot seek the confidence of the public by placing itself beyond scrutiny; it must remain willing to be examined, questioned and, where necessary, criticised,” the Chief Justice said.",
+            "published": "2026-09-15T10:25:26+05:30"
+          },
+          {
+            "title": "Amalgamate Karnataka mining blocks for auction: SC",
+            "link": "https://www.hindustantimes.com/india-news/karnataka-mining-supreme-court-chief-justice-cji-surya-kant-auction-virgin-forest-101789445379486.html",
+            "source": "Hindustan Times",
+            "summary": "A bench of Chief Justice of India Surya Kant said the inclusion of virgin forest land in an amalgamated block would not amount to permission to mine it.",
+            "published": "2026-09-15T10:04:50+05:30"
+          },
+          {
+            "title": "C-DOT developing interactive disaster alerts for mobile users",
+            "link": "https://www.hindustantimes.com/india-news/disaster-alert-c-dot-ai-artificial-intelligence-ndma-national-disaster-management-authority-101789441376114.html",
+            "source": "Hindustan Times",
+            "summary": "The system currently being used by the National Disaster Management Authority is used to send location-based alerts to mobile phones in less than 10 seconds.",
+            "published": "2026-09-15T09:53:20+05:30"
+          },
+          {
+            "title": "Himalayan glaciers melting 65% faster, black carbon to blame: Study",
+            "link": "https://www.hindustantimes.com/india-news/himalayas-glaciers-permafrost-climate-change-global-warming-nepal-floods-latest-study-101789442665800.html",
+            "source": "Hindustan Times",
+            "summary": "The report, came weeks after a glacial collapse led to deadly flash floods in Nepal, claiming at least 1,350 lives and leaving several hundreds still missing.",
+            "published": "2026-09-15T09:50:52+05:30"
+          },
+          {
+            "title": "'Felt sorry? Why didn't you stop': Gurugram biker slams hit-and-run accused",
+            "link": "https://www.hindustantimes.com/india-news/gurugram-road-rage-injured-woman-biker-rejects-suspect-kalyan-bainsla-s-claims-101789446016780.html",
+            "source": "Hindustan Times",
+            "summary": "Sia said the consequences could have been far more serious had the timing of the incident been slightly different.",
+            "published": "2026-09-15T09:50:16+05:30"
+          },
+          {
+            "title": "Meta Agrees To Report Child Sexual Abuse Cases Amid India Crackdown",
+            "link": "https://www.ndtv.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-amid-india-crackdown-12047353#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Online safety of children is a fundamental principle for any social media firm to operate in India and it's non-negotiable",
+            "published": "2026-09-15T09:49:02+05:30"
+          },
           {
             "title": "Digital libraries established in 57,600 gram panchayats: UP CM Yogi",
             "link": "https://www.thehindu.com/news/national/uttar-pradesh/digital-libraries-established-in-57600-gram-panchayats-up-cm-yogi/article71466700.ece",
             "source": "The Hindu",
             "summary": "Chief Minister Yogi Adityanath inaugurated the 5th Gomti Book Festival-2026, tells youth to build their own book bank",
             "published": "2026-09-15T09:47:26+05:30"
+          },
+          {
+            "title": "Speeding Thar Rams Into People Near Navi Mumbai Hospital, Driver Flees",
+            "link": "https://www.ndtv.com/india-news/speeding-thar-rams-into-people-near-navi-mumbai-hospital-driver-flees-12047451#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Three people were critically injured after a speeding Mahindra Thar allegedly hit them near PKC Hospital in Vashi, Navi Mumbai, before the driver fled the spot. The accused has now been arrested, police said.",
+            "published": "2026-09-15T09:46:14+05:30"
           },
           {
             "title": "Jharkhand CID arrests two more in recruitment exam irregularities cases",
@@ -120,74 +176,18 @@
             "published": "2026-09-15T09:45:37+05:30"
           },
           {
-            "title": "Oil price today: Brent crude rises as Saudi pipeline outage raise supply concerns",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-crude-rises-as-saudi-pipeline-outage-gulf-tensions-stoke-supply-fears/articleshow/134251278.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-15T09:43:16+05:30"
-          },
-          {
-            "title": "Mystery missile in Yemen: Did Saudi Arabia use China-made DF-15A?",
-            "link": "https://timesofindia.indiatimes.com/defence/international/mystery-missile-in-yemen-did-saudi-arabia-use-china-made-df-15a/articleshow/134251337.cms",
-            "source": "Times of India",
-            "summary": "Debris believed to be a Chinese-made DF-15A ballistic missile booster was found in Yemen. Open-source analysts identified the component and attributed it to Saudi Arabia's military. This discovery occurs amid intensified fighting and increased missile attacks in the region. The DF-15A is a solid-fuelled short-range ballistic missile with a significant range. Saudi Arabia has not officially confirmed operating this…",
-            "published": "2026-09-15T09:28:58+05:30"
-          },
-          {
-            "title": "Meta commits to reporting child abuse content amid Centre's crackdown",
-            "link": "https://www.hindustantimes.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-to-agencies-meity-receives-letter-govt-101789444535336.html",
+            "title": "Supreme Court lens on stem cell therapy for autism",
+            "link": "https://www.hindustantimes.com/india-news/autism-spectrum-disorder-supreme-court-sc-stem-cell-therapy-101789444575541.html",
             "source": "Hindustan Times",
-            "summary": "The government said it has been engaging with social media platforms to curb harmful information and strengthen the safety of children online.",
-            "published": "2026-09-15T09:27:07+05:30"
+            "summary": "The Court asked for details of all approved or proposed clinical trials for stem cell therapy for ASD, the institutions involved and their patient capacity.",
+            "published": "2026-09-15T09:43:43+05:30"
           },
           {
-            "title": "Trump faces fresh setback as judge blocks stricter foreign student visa rule",
-            "link": "https://timesofindia.indiatimes.com/world/us/trump-faces-fresh-setback-as-judge-blocks-stricter-foreign-student-visa-rule/articleshow/134251237.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-15T09:24:44+05:30"
-          },
-          {
-            "title": "Four members of family die in fire at home in Belagavi",
-            "link": "https://www.thehindu.com/news/national/karnataka/four-members-of-family-die-in-fire-at-home-in-belagavi/article71466641.ece",
-            "source": "The Hindu",
-            "summary": "Two members of the family are undergoing treatment for injuries",
-            "published": "2026-09-15T09:21:27+05:30"
-          },
-          {
-            "title": "Young man drives car wearing helmet in Athani",
-            "link": "https://www.thehindu.com/news/national/karnataka/young-man-drives-car-with-helmet-in-athani/article71463661.ece",
-            "source": "The Hindu",
-            "summary": "An AI camera recorded the car passing through Ambedkar Circle in Athani a few days ago",
-            "published": "2026-09-15T09:17:28+05:30"
-          },
-          {
-            "title": "'Trump is copying us': Shivakumar says US $5,000 plan 'inspired' by Congress",
-            "link": "https://timesofindia.indiatimes.com/city/bengaluru/even-donald-trump-is-copying-us-dk-shivakumar-says-5000-promise-inspired-by-congress-guarantees/articleshow/134251141.cms",
-            "source": "Times of India",
-            "summary": "Karnataka Chief Minister DK Shivakumar stated Donald Trump is copying Congress's guarantee schemes. He described these welfare programs as a blockbuster success among the people. Trump recently proposed giving every adult American $5,000 if Republicans win. This proposal could cost approximately $1.2 trillion based on current estimates. Details on financing and congressional approval for Trump's plan remain unclear.",
-            "published": "2026-09-15T09:13:03+05:30"
-          },
-          {
-            "title": "HT Morning Brief September 15: Gurugram biker crash; Italians skip immigration in Delhi, the Emmys and more",
-            "link": "https://www.hindustantimes.com/india-news/ht-morning-brief-september-15-gurugram-biker-crash-italians-skip-immigration-air-india-emmys-award-winner-list-top-news-101789442763034.html",
-            "source": "Hindustan Times",
-            "summary": "Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.",
-            "published": "2026-09-15T09:06:27+05:30"
-          },
-          {
-            "title": "‘In trouble in Afghanistan’: Kerala vlogger claims arrest by ‘Mujahideen’, later issues clarification",
-            "link": "https://www.hindustantimes.com/india-news/in-trouble-in-afghanistan-kerala-vlogger-claims-arrest-by-mujahideen-later-issues-clarification-101789436212524.html",
-            "source": "Hindustan Times",
-            "summary": "The vlogger, who runs the Facebook page Backpacker Arunima, said she was told that she had violated the law by travelling without a ‘man’ or ‘guide’.",
-            "published": "2026-09-15T09:01:24+05:30"
-          },
-          {
-            "title": "US lawmakers move amendments to Russia sanctions bill which targets India, others with 100% tariff threat",
-            "link": "https://www.hindustantimes.com/india-news/us-lawmakers-move-amendments-to-russia-sanctions-bill-which-targets-india-others-with-100-percent-tariff-threat-101789441116637.html",
-            "source": "Hindustan Times",
-            "summary": "Two of the biggest amendment proposals, both from Democratic Party lawmakers, are on opposite ends of the spectrum",
-            "published": "2026-09-15T08:56:41+05:30"
+            "title": "\"Kabaddi Player\": What We Know About Gurugram Hit-And-Run Accused Kalyan Bainsla",
+            "link": "https://www.ndtv.com/india-news/kalyan-bainsla-sia-gurugram-biker-hit-and-run-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-12044425#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Kalyan Bainsla's profile photo shows him flexing his arms. He has deactivated his account.",
+            "published": "2026-09-15T09:43:12+05:30"
           }
         ],
         "World": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1554249.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Babar Azam has not played domestic first-class cricket since 2019, but recently requested the PCB to find him a team in the ongoing President's Trophy Grade 1 tournament",
-            "published": "2026-09-15T04:11:28+00:00"
+            "published": "2026-09-15T04:48:42+00:00"
           },
           {
             "title": "Leeds Thrash Newcastle To Go Third In The Premier League",
@@ -634,6 +634,13 @@
             "published": "2026-09-15T12:30:26+05:30"
           },
           {
+            "title": "'लड़की को बस फॉलोअर्स और फेमस होना है',गुरुग्राम हिट एंड रन वाली सिया पर अब आरोपी के वकील ने लगाए इल्जाम",
+            "link": "https://hindi.oneindia.com/news/india/gurugram-hit-and-run-case-kalyan-bainsla-lawyer-blame-on-biker-rebel-wheels-sia-woman-wants-follower-1648711.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-15T10:20:53+05:30"
+          },
+          {
             "title": "द बोनस मार्केट अपडेट: वैश्विक दबाव के बावजूद भारतीय शेयर बाजार में उछाल; सेंसेक्स 75000 के पार पहुंचा",
             "link": "https://www.amarujala.com/business/bazaar/indian-markets-defy-global-jitters-sensex-rallies-over-200-points-2026-09-15",
             "source": "Amar Ujala",
@@ -655,7 +662,7 @@
             "published": "2026-09-15T03:15:35+00:00"
           },
           {
-            "title": "Meta बच्चों से जुड़े यौन शोषण मामलों की जानकारी देगा:भारतीय सुरक्षा एजेंसियों को रिपोर्ट करेगा, सरकार से बातचीत के बाद रजामंदी",
+            "title": "Meta बच्चों से जुड़े यौन शोषण मामलों की जानकारी देगा:भारतीय एजेंसियों को रिपोर्ट करेगा, सरकार से बातचीत के बाद रजामंदी",
             "link": "https://www.bhaskar.com/g/national/news/meta-agrees-report-child-sexual-abuse-india-law-enforcement-139034610.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-15T08:02:55+05:30"
-          },
-          {
-            "title": "एमी अवॉर्ड्स: मैथ्यू बने बेस्ट लीड एक्टर, जीन स्मार्ट ने रचा इतिहास; जानिए किस-किसकी झोली में आई एमी की ट्रॉफी",
-            "link": "https://www.amarujala.com/entertainment/emmy-awards-2026-matthew-rhys-won-best-actor-jean-smart-won-lead-actress-know-full-list-of-winners-here-2026-09-15",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-15T08:02:33+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "એશિયા કપ : ભારતીય મહિલા બૉલર ક્રાંતિ ગૌડને મૅચ ફીના 10 ટકાનો દંડ થયો - ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/cj62evpwny1qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-15T05:00:42+00:00"
+          },
+          {
+            "title": "દિલ્હી એરપોર્ટ પર ઇમિગ્રેશન ચૂક:સરકારે એર ઇન્ડિયાના CEOને સમન્સ મોકલ્યું; 3 વિદેશીઓ તપાસ વિના દેશમાંથી નીકળી ગયા હતા",
+            "link": "https://www.divyabhaskar.co.in/national/news/air-india-ceo-summoned-delhi-airport-immigration-lapse-controversy-139035182.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-15T04:48:17+00:00"
+          },
+          {
+            "title": "સૌરાષ્ટ્ર-કચ્છમાં આજે ભારે વરસાદની આગાહી, હવે કયા જિલ્લાઓનો વારો આવશે",
+            "link": "https://www.bbc.com/gujarati/articles/c50m3pe9gkkko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-15T04:46:08+00:00"
+          },
+          {
             "title": "લખનઉમાં EMI ન ચૂકવવા પર લોહી કઢાવીને વસુલી:મોબાઇલનો હપ્તો ભરી ન શકતા બે લોકો ઉઠાવી ગયા, બ્લડ બેંકમાં લઈ ગયા; યુવકને બંધક બનાવીને 5 દિવસ મજૂરી પણ કરાવી; ધરપકડના આદેશ",
             "link": "https://www.divyabhaskar.co.in/national/news/lucknow-youth-hostage-blood-bank-emi-recovery-case-139034924.html",
             "source": "Divya Bhaskar",
@@ -865,27 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-15T01:03:53+00:00"
-          },
-          {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:વલ્લભીપુરમાં આભ ફાટ્યું, એકસાથે ચાર સિસ્ટમથી 259 તાલુકામાં વરસાદ, આજે સૌરાષ્ટ્ર-કચ્છ રડારમાં, ઓપરેશન સિંદૂરમાં ભારતે 314 કિમી દૂરથી પાકિસ્તાની જેટ ફૂંકી માર્યું",
-            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-gujarat-heavy-rain-ahmedabad-operation-sindoor-shoots-down-pakistani-jet-139031007.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-14T23:30:00+00:00"
-          },
-          {
-            "title": "'એક નાની શરૂઆતે મને કરોડપતિ બનાવી, અંતે સામ્રાજ્ય એટલું વધી ગયું કે કંપની વેચવી પડી'",
-            "link": "https://www.bbc.com/gujarati/articles/cdx5rvdvvxzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-14T15:53:50+00:00"
-          },
-          {
-            "title": "₹3,300 કરોડના માલિકે રસ્તા પર ભીખ માગી:ભાજપના ધનિક ધારાસભ્યને ભીખારી બની હાથ કેમ ફેલાવવો પડ્યો? પરાગ શાહે જૈન મુનિના આદેશ પર રૂપ બદલ્યું",
-            "link": "https://www.divyabhaskar.co.in/national/news/parag-shah-mumbai-ghatkopar-mla-beggar-video-jain-muni-inspiration-139029913.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-14T14:33:34+00:00"
           }
         ]
       }
@@ -895,11 +895,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "உலகையே திரும்பி பார்க்க வைத்த சவுதி.. வெல்யூ மட்டும் பல ஆயிரம் கோடி! பிரம்மாண்டத்தின் உச்சம்",
+            "title": "உலகையே திரும்பி பார்க்க வைத்த சவுதி.. வேல்யூ மட்டும் பல ஆயிரம் கோடி! பிரம்மாண்டத்தின் உச்சம்",
             "link": "https://tamil.oneindia.com/news/international/saudi-arabia-uranium-discovery-near-medina-110-million-tonnes-of-ore-found-why-its-very-important-830961.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-09-15T10:00:20+05:30"
+            "published": "2026-09-15T10:22:59+05:30"
           },
           {
             "title": "'இதய குறைபாடு' - பெற்றோரின் கருக்கலைப்பு கோரிக்கையை மறுத்து குழந்தை பெற்றெடுத்த வாடகை தாய் நீதிமன்றத்தை நாடியது ஏன்?",
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "రైలు పట్టాలు దాటుతున్నారా? అయితే మీకే ఈ హెచ్చరిక!",
+            "link": "https://telugu.oneindia.com/news/telangana/railway-tracks-deaths-essential-safety-tips-and-key-alert-for-safe-train-travel-across-india-506253.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-15T10:29:52+05:30"
+          },
+          {
+            "title": "సురేఖ కొత్త పదవికి బ్రేక్ - తెర వెనుక, ఢిల్లీ కేంద్రంగా..!?",
+            "link": "https://telugu.oneindia.com/news/telangana/tpcc-chief-mahesh-goud-reacts-over-aicc-call-for-konda-surekha-and-speculations-on-nominated-post-506251.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-15T10:25:43+05:30"
+          },
+          {
+            "title": "భారత్ పై 100% టారిఫ్.. !!",
+            "link": "https://telugu.oneindia.com/news/international/us-lawmakers-submitted-amendments-to-the-russia-sanctions-bill-naming-india-and-other-10-countries-506249.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-15T10:09:37+05:30"
+          },
+          {
             "title": "అంతరిక్షంలో ఆయుధాలతో అమెరికా.. తొలిసారి బయటపెట్టిన యూఎస్",
             "link": "https://telugu.oneindia.com/news/international/us-military-officially-reveals-deployment-of-space-control-weapons-in-orbit-amid-russia-china-threat-506247.html",
             "source": "Oneindia Telugu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-15T02:28:00+00:00"
-          },
-          {
-            "title": "‘దూరంగా వెళ్లమని చెబుతున్నా వచ్చి నన్ను ఢీకొట్టి వెళ్లాడు’-గురుగ్రామ్‌ మహిళా బైకర్ యాక్సిడెంట్ వైరల్ వీడియోలో ఏముంది? పోలీసులు ఏం చెప్పారు?",
-            "link": "https://www.bbc.com/telugu/articles/cw33kmkjmkdeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-09-15T02:27:16+00:00"
-          },
-          {
-            "title": "రూ. 2,000 యూపీఐ, రూపే పేమెంట్లపై అర్ధరాత్రి గెజిట్ విడుదల చేసిన కేంద్రం",
-            "link": "https://telugu.oneindia.com/news/business/pay-up-to-rs-2000-with-rupay-and-upi-debit-cards-no-charges-allowed-says-ministry-of-finance-506231.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-15T07:56:39+05:30"
-          },
-          {
-            "title": "Vijay - Ajith: అజిత్‌కు రేస్ కారు బొమ్మ గిఫ్ట్‌ ఇచ్చిన విజయ్‌.. ఆయనేం ఇచ్చారంటే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVZDaEZHaGtCNVpjWm1QVHNJRkVicUVpRmoxNU1mZEtJUGtVZmpxelpxaFliaEdJTXh5NTczRXJRbldiRnlqV2R6VEZpcjd1MXVHRG8tdm9FVHUwZTV2VEF3SGdoNzFCSkpkWDZjREpWbDRlcGc4YkZBNWVxbXVYdDNQSmdTSDFORVM2MWs5aWtjbXE3bWxEa2VDckE1bmpu0gGgAUFVX3lxTFBBVkNoRkdoa0I1WmNabVBUc0lGRWJxRWlGajE1TWZkS0lQa1VmanF6WnFoWWJoR0lNeHk1NzNFclFuV2JGeWpXZHpURmlyN3UxdUdEby12b0VUdTBlNXZUQXdIZ2g3MUJKSmRYNmNESlZsNGVwZzhiRkE1ZXFtdVh0M1BKZ1NIMU5FUzYxazlpa2NtcTdtbERrZUNyQTVuam4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-15T02:11:00+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন সিংহ রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGYyTDhLZGFuQW5kXy1sN2JtTkYzeGp4WGp2WlcxZEVoUmtMcFJSWDZtUF9nYkZBSzlES2ZXSndadnJHMnE0NjhOSXhVUTNETkJGVkpmN2hsX1dBU3lxSUZRWi1wMVVteWhfeEpRRGR3VjE4dnlrMWUtaDg4V05sQTd4Z19WOW5XYm1RNFhZc0gxVEQzdXk5MnhEbTlKb2R5S0luSEhOcGJwdFBQTnfSAbMBQVVfeXFMT1BlTE1LNjRPZVc4ME45TXpNd0NTc2ZIdW5ScWM2V3BlMFBjbnhYLWJzZWFFcXRXcWVmWjJqVExCd1gzSFFsMXltZHRlOFRoX3ljN2JYcEIwbnVjUlozRXFrdjJCTE80TWdVS2tubDVxYmZoV0gzRU9yOVBybW1UbDNPcnZuOC1HM08tZkJfSmZSejUtQ0RxYmhtVmFxYkRzVENNSGlnS2sxd25rSVRjR1N3a00?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T05:01:02+00:00"
+          },
+          {
+            "title": "আজকের দিন তুলা রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM19WTXN5cmYxbkVaNkExWUlqLVozS1JpTUluSFNGeEg0VXBPcFVHam5jLThva05ia2h0R04ta2Fra1k5UXhHelBjUmxTc1FLdkl1cDViZmhQS2tEMjFXTjR1ZGQ4T05VQ1FFTXVxbnBSSWxpMVk2UWUyZldNVzFQeWE2M2dtM1pyc3ZGUldMclY3eDczalhTNE1oclFwLXQxZV9QdmtGOUFJLVB1U2fSAbMBQVVfeXFMTTVjTWplSmNKdXc2aXlqczgxTmJZQmVwU3VCSnc5OG84TTFRYmJTRE55dlgxRTBrd0F6ZjRSVTFLMGtfVnRFRVRPZjRab1hYNk42NTAzSnNzM25jT2wwbXplYTZEaHYyQXp1SkVidHY5LW16ZDROZEtnSGhlTzRxX2huS0VkUU5GR0VGTWpHOUwwQnJCdU50bGN1cWtGT3RkTF96U0twVnRKSU1WV2ZZUDZIVVU?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T04:31:00+00:00"
+          },
+          {
             "title": "আজকের দিন মীন রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalVaVk5tZGVXV0tZd3ltRWNyYzZOWWNNWThWbTdiLTBYVGpjemVqajViRlBySHpBaHFCNlQ5eFFWSk81ZlR1U24wSkNkbmhsdks5U0YwVHlZMnYyaVZ3Nlpkcl9HeGloYjY5TmJvaXdmcUFLbGdURWpvenlCWWRWVjBZdEJoQjhlQUFwSFFZNVZReEpQMjhyMmZiZmhfZFVrZHNTbkV4QkJBelVZb1M40gG0AUFVX3lxTE1zTTBPQUtXVkUyZmJaVVBNWnFHalRKUXhrUUFfRkVwLWNOZFN3UlBFMmpIRHdNd0FaWm9YMmhqaW92djFqMVZpSzV2X09PSmxBcEROYVozV09KYWp1Ml83RGo5M0hrN0ZHMXRZRFdRQ3BFMlFQX0FxcXh3NE9HQ2RCbmVrWFZ3ejQ5dzVnWHpQSHl3SHZLTDlpU2wtMzNnVVNsemVibFdKdGF3dXA2Q2xueEhEcg?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-15T02:47:53+00:00"
-          },
-          {
-            "title": "Arrest | One arrested in a snatching case in Baruipur - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDk0UVRNUmN4emZNY3hxb2FPZkd6LWZFbHNWTzhrd05LTU14anpURXNramZmVWk4eHVuQWIweXF3eFdKYjNhNDZNT2xfS0EzWWVBWDJHcDJuVzVKOXgyemZob0NzUDlrVUFFWlhNMVFpMjlDdHVzcFpzdm94WkZ0bVBWUmh4TzJUMWtUTDkzcTZWZ2o2bVc5X1F0TDBRWS1nZXFsMi1HTkpwS0pMSFE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T02:46:53+00:00"
-          },
-          {
-            "title": "আজকের দিন বৃষ রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRl9IbUVqUHlPWEZLTk5NUjNfaHRwbEVTa2dRTnJIdWY1bHhkZW11MHpDSjNlRV95aTFpbldiTUN6Znlxd1BoWHhEQUo5QXJYSk9FbHFZZmJTekNLU3FNMGVOWHQtRU9sNm9rcWVpZTI5ZXBtcWNncHI5bkk1dElJdGk1cl9jWEVqVTV0dDM3T29qN2pJdTg1MXkwWFVvaFN3OUJvZENDRDVHeGtxSGlvbHpoWXQwZ9IBuwFBVV95cUxOMHcxWDZtUE80TkZxcEpyR3Q1bHp5QWJGX1cwUkdzRVhwMlF2QWlDNFEyU19XazlWaFFiUDJRdE8zelZ4RDdEYXh4NnpXUmxCSEx3a1FYdHNLQzBZTGkyUjRxWF9DVXBUYkRCR3dDdS1LMWtIdU5oTXFaZEc2ZEd5TGNEVW5sWkNzTWo0M2JJZENpeXl2LUlRaDN4MmJVRGJwSHA1b1Z2dGxJVndNSVZuV1Rwc1VsRGN0aFJB?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T02:41:50+00:00"
           }
         ]
       }
