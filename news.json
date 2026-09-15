@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-09-15T22:01:40.587178+00:00",
+  "updated_at": "2026-09-15T22:31:23.997541+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+            "published": "2026-09-15T22:13:10+00:00"
+          },
+          {
+            "title": "Why is the far-right embracing crypto?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "From billionaire donors backing parties to far-right activists raising funds in Bitcoin.",
+            "published": "2026-09-15T22:09:02+00:00"
+          },
+          {
+            "title": "Why no safety warnings for B787 fleet despite AI 171 crash, US aviation group asks AAIB",
+            "link": "https://timesofindia.indiatimes.com/india/why-no-safety-warnings-for-b787-fleet-us-aviation-group-asks-aaib/articleshow/134273393.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-16T03:34:50+05:30"
+          },
+          {
+            "title": "Algeria faces calls to drop death penalty plans after wildfires",
+            "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.",
+            "published": "2026-09-15T22:01:27+00:00"
+          },
           {
             "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
             "link": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
@@ -74,37 +102,16 @@
             "source": "The Hindu",
             "summary": "Sachin Pilot and LoP Partap Bajwa were among those detained as police resorted to water cannons during the protest demanding an independent probe into the incident",
             "published": "2026-09-16T02:37:38+05:30"
-          },
-          {
-            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-            "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-            "published": "2026-09-15T21:07:13+00:00"
-          },
-          {
-            "title": "Candidate dies during physical test for U.P. Home Guard recruitment",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/candidate-dies-during-physical-test-for-up-home-guard-recruitment/article71469982.ece",
-            "source": "The Hindu",
-            "summary": "A total of 1,017 candidates appeared for the Physical Efficiency Test (PET); 11 candidates complained of ill health",
-            "published": "2026-09-16T02:19:47+05:30"
-          },
-          {
-            "title": "Noida workers' protest case: Allahabad HC adjourns bail plea plearing of scribe Satyam Verma",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-case-allahabad-hc-adjourns-bail-plea-plearing-of-scribe-satyam-verma/article71469983.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Verma, who was arrested in Lucknow on April 17, was subsequently booked separately under the NSA on May 13 along with student activist Akriti Chaudhary",
-            "published": "2026-09-16T02:16:50+05:30"
-          },
-          {
-            "title": "ED puts lens on IBC frauds, including excessive haircuts",
-            "link": "https://timesofindia.indiatimes.com/india/ed-puts-lens-on-ibc-frauds-including-excessive-haircuts/articleshow/134273007.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-16T02:13:53+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Why no safety warnings for B787 fleet despite AI 171 crash, US aviation group asks AAIB",
+            "link": "https://timesofindia.indiatimes.com/india/why-no-safety-warnings-for-b787-fleet-us-aviation-group-asks-aaib/articleshow/134273393.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-16T03:34:50+05:30"
+          },
           {
             "title": "SC bins ex-NSE chief Chitra Ramakrishna's plea to stop graft proceedings",
             "link": "https://timesofindia.indiatimes.com/india/sc-bins-ex-nse-chief-chitra-ramakrishnas-plea-to-stop-graft-proceedings/articleshow/134273360.cms",
@@ -181,16 +188,23 @@
             "source": "NDTV",
             "summary": "A member of the chief minister's team announced that event was called off due to public safety concerns.",
             "published": "2026-09-16T01:44:25+05:30"
-          },
-          {
-            "title": "Meta to share child safety information directly with Indian agencies",
-            "link": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
-            "source": "The Hindu",
-            "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the National Crime Records Bureau (NCRB)",
-            "published": "2026-09-16T01:44:21+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Why is the far-right embracing crypto?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "From billionaire donors backing parties to far-right activists raising funds in Bitcoin.",
+            "published": "2026-09-15T22:09:02+00:00"
+          },
+          {
+            "title": "Algeria faces calls to drop death penalty plans after wildfires",
+            "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.",
+            "published": "2026-09-15T22:01:27+00:00"
+          },
           {
             "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
             "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
@@ -255,28 +269,21 @@
             "published": "2026-09-15T20:16:35+00:00"
           },
           {
-            "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+            "title": "The board of Kennedy Center in Washington, DC has voted to shutter the hist",
             "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "The president said renovations would not move forward unless his name was added to the building.",
             "published": "2026-09-15T20:14:22+00:00"
-          },
-          {
-            "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
-            "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Trump claims Supreme Court decisions set the US &#039;back 100 years&#039; after controversial ballot rule change blocked.",
-            "published": "2026-09-15T20:13:40+00:00"
-          },
-          {
-            "title": "US speaker rejects AI pause, warns of losing edge to China",
-            "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Trump has dismissed AI fears as &#039;hoax&#039;, insisting US safeguards suffice and warning slowdown benefits China.",
-            "published": "2026-09-15T20:13:09+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+            "published": "2026-09-15T22:13:10+00:00"
+          },
           {
             "title": "US borrowing costs hit highest level since 2007",
             "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
             "published": "2026-09-15T05:13:08+00:00"
-          },
-          {
-            "title": "Charities praise will gifts despite cost of living",
-            "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
-            "published": "2026-09-15T05:03:47+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+            "published": "2026-09-15T22:13:10+00:00"
+          },
+          {
             "title": "Tech Life",
             "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Vivo V80, S2 FE and X500 Pro Max have surfaced in recent regulatory listings in India and Thailand. The V80 appeared on both BIS and Thailand's NBTC database, while the S2 FE was linked to BIS through model number V2640. The X500 Pro Max appeared on NBTC with model number V2610. Earlier reports have tipped specifications and launch details for the three phones, including 90W charging for the V80 and a Dimensity 9600…",
             "published": "2026-09-15T15:54:04+05:30"
-          },
-          {
-            "title": "Vivo V80 India Launch Officially Teased, Key Details Revealed: What You Need to Know",
-            "link": "https://www.gadgets360.com/mobiles/news/vivo-v80-india-launch-teaser-design-specifications-features-12049009",
-            "source": "Gadgets 360",
-            "summary": "Vivo V80 India launch teased. It is confirmed to come with a Zeiss-branded rear camera unit. Previous leaks claimed that the Vivo V80 will go official in India in the first week of October. It is rumoured to feature a 50-megapixel telephoto camera with support for 3X zoom. It could feature a 7,200mAh battery. It is said to ship wth Android 17-based OriginOS 7 on top.",
-            "published": "2026-09-15T15:50:57+05:30"
           }
         ],
         "Entertainment": [
@@ -627,18 +627,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "माइलेज के झूठे वादे पर कोर्ट का बड़ा फैसला: 18.5 का दावा लेकिन मिली 8-10 Kmph की माइलेज, कंपनी भरेगी जुर्माना",
-            "link": "https://www.amarujala.com/automobiles/low-mileage-lawsuit-consumer-forum-orders-rs-75000-compensation-over-promised-vs-real-mileage-gap-2026-09-16",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-16T12:19:35+05:30"
-          },
-          {
             "title": "दिशा सालियान केस: सूरज पंचोली का नाम आने पर फिर छलका जिया खान की मां का दर्द, कहा- सच छिपाने का खेल चल रहा है",
             "link": "https://www.amarujala.com/india-news/disha-salian-case-sooraj-pancholi-name-actress-jiah-khan-mother-says-evidence-tempering-game-of-hiding-truth-2026-09-16",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-16T12:00:09+05:30"
+          },
+          {
+            "title": "जम्मू: अमर उजाला के 'ऑपरेशन पहचान' के बाद घाटी में पहली बड़ी कार्रवाई, नरवाल की रोहिंग्या बस्ती कराई खाली",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/major-action-following-amar-ujala-s-operation-pehchan-narwal-s-rohingya-settlement-cleared-2026-09-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-16T03:50:13+05:30"
+          },
+          {
+            "title": "समाधान: किशाऊ परियोजना से मिलेगा हर दिन 30 करोड़ लीटर पानी, बुझेगी दिल्लीवालों की प्यास; किल्लत होगी कम",
+            "link": "https://www.amarujala.com/delhi-ncr/kishau-project-to-provide-300-million-liters-of-water-daily-delhi-s-thirst-to-be-quenched-2026-09-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-16T03:34:04+05:30"
+          },
+          {
+            "title": "पश्चिम एशिया तनाव: यूएस के हमले में ईरानी नावें तबाह; हूती लड़ाकों के हमलों के बीच सऊदी-मिस्र की नजदीकी बढ़ी",
+            "link": "https://www.amarujala.com/world/west-asia-tensions-us-strike-on-iranian-boats-saudi-prince-salman-in-egypt-houthi-attacks-in-yemen-middle-east-2026-09-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-16T02:48:52+05:30"
           },
           {
             "title": "एफबीआई की नौकरी के नियम क्यों बदले?: सीनेट में उठे सवाल, काश पटेल ने पीड़ितों का दिया हवाला; क्या कहा?",
@@ -653,6 +667,13 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-16T02:13:24+05:30"
+          },
+          {
+            "title": "यूपीआई को लेकर आरबीआई का बड़ा प्लान: शुल्क से मिलने वाले पैसे से तकनीक और नेटवर्क होगा मजबूत; क्या बदलेगा?",
+            "link": "https://www.amarujala.com/business/business-diary/introduction-of-mdr-on-large-value-transactions-to-strengthen-upi-s-long-term-sustainability-rbi-2026-09-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-16T01:39:12+05:30"
           },
           {
             "title": "पश्चिम बंगाल में TMC के 10 बागी विधायकों को नोटिस:विधानसभा सचिवालय ने अयोग्यता याचिका पर 7 दिन में जवाब मांगा",
@@ -688,27 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-15T17:04:13+00:00"
-          },
-          {
-            "title": "Bihar News: मधुबनी में नाबालिग बालिकाओं के शोषण के खिलाफ बड़ी कार्रवाई, 40 बालिकाओं का रेस्क्यू; 15 आरोपी गिरफ्तार",
-            "link": "https://hindi.oneindia.com/news/india/madhubani-police-raid-orchestra-child-labour-trafficking-40-girls-rescued-2026-012-1649235.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-15T22:32:07+05:30"
-          },
-          {
-            "title": "AFG vs IND: संजू सैमसन ने खेली तूफानी पारी, दूसरे टी20 में जीत के साथ भारत ने किया सीरीज पर कब्जा",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/afghanistan-vs-india-2nd-t20-match-result-scorecard-delhi-15-september-1649217.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-15T22:30:36+05:30"
-          },
-          {
-            "title": "पश्चिम बंगाल- मुर्शिदाबाद में ब्लास्ट, कंटेनर से बम बरामद:यह रेजीनगर विधानसभा का इलाका, जहां 6 अक्टूबर को उपचुनाव; भाजपा बोली- विपक्ष को वोटिंग नहीं गोलियां पसंद",
-            "link": "https://www.bhaskar.com/national/news/west-bengal-murshidabad-rejinagar-by-election-bomb-blast-news-139040575.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-15T16:47:23+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Surya Jyothika: సూర్య-జ్యోతిక 20 ఏళ్ల పెళ్లి వేడుక.. వీడియో షేర్‌ చేసిన నటి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjdUMUgyR21TVVpaaklMSlJzME13OHBac3FxY0pZSTNZVmdQUi1wbDNsZ2ZBc3hJX0F4bWxLdTFDOTA2TnJSdnRTVnBsLVFJODItLVVwU3hHbFhZbXdKYjJwRTczd044RnBEREJIQUx2TDJEVFRTOGpMQ1NlWXVSek1qXzFYNzFELW5fQ1FJZUVZZXlyUGhWTWRtWkPSAZwBQVVfeXFMTUI3VDFIMkdtU1VaWmpJTEpSczBNdzhwWnNxcWNKWUkzWVZnUFItcGwzbGdmQXN4SV9BeG1sS3UxQzkwNk5yUnZ0U1ZwbC1RSTgyLS1VcFN4R2xYWW13SmIycEU3M3dOOEZwRERCSEFMdkwyRFRUUzhqTENTZVl1UnpNal8xWDcxRC1uX0NRSWVFWWV5clBoVk1kbVpD?oc=5",
+            "title": "బస్సు కిందపడి యువకుడి దుర్మరణం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vc241V2o2YlpmdzBCQk5zeUVUM05nN2VYcDgyMFhReFlNT3pXTmpCbjgyR0o3elBjbFFVLUtqQmhVRG9CY1pxQmNhWnFIaTUxZmRwVXA4a0NPQ1NzQkxTeDFDV2plbXFuek91RU5IZjJsdjFqdDNQSzdiSQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-15T19:00:16+00:00"
+            "published": "2026-09-15T21:27:17+00:00"
+          },
+          {
+            "title": "The Rise of Mahashakti: నీ విలువ తెలిసింది.. కాపాడమ్మా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG1JcC1YdW5nVHJHNmtGNXJqekc4UGRUOTFIYndMWWJncjRXbFRzSFYyS2xVNU9DeXlwXzhrdkhFV0JSemI3Unl3Z1hrSFJqTkQ0NExaVFAtVDdJbkhNZ0hwVG56MmRtVzJSUnRkbTNGVG1nVFV5SkROVzEtRnVwZFBVUTJNd3lWZ0hUNmpUTjdxMDZURFVn0gGXAUFVX3lxTE1EbUlwLVh1bmdUckc2a0Y1cmp6RzhQZFQ5MUhid0xZYmdyNFdsVHNIVjJLbFU1T0N5eXBfOGt2SEVXQlJ6YjdSeXdnWGtIUmpORDQ0TFpUUC1UN0luSE1nSHBUbnoyZG1XMlJSdGRtM0ZUbWdUVXlKRE5XMS1GdXBkUFVRMk13eVZnSFQ2alRON3EwNlREVWc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T21:05:53+00:00"
+          },
+          {
+            "title": "నిమజ్జనాల సందడి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYTm1ZZWxPN2FLeFZoOEluY0VjcmdHQzYzMWdLSG53ZEVNOGdPc1p0ckMzMkhJUE9UUk9oNzhPdi1VUGxJMU9jUktLcVZ1Q0ttWFNJVDhtMVVnWjAtTHl5LTB2MEc4UEtjMlFOVXY5NFRUQktzYndmb2xn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T21:03:56+00:00"
+          },
+          {
+            "title": "హిందీ పోటీ కాదు, అనుసంధాన భాష: అమిత్‌ షా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBbXZNRXl3b204TDJvNGl1eU5NbG91V0oyS0ZiVTBVNG5OQm8wOUl5cmIxTDFiU1d0NjFzTTVTWk9SdWh3M2ZaLVZuVDVtRkQwQkUwQS1jZFMya19nTnN2ejJ6c1Uwb3lJTVJja2dHeUxzRkRCeEVkWU9n?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T21:01:13+00:00"
+          },
+          {
+            "title": "మెట్రో పిల్లర్‌ను ఢీ కొట్టిన బస్సు.. ఇద్దరికి గాయాలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96RG85aTRlVGpSQl9TRElSeVNVMW5PVkVzSUZudUxTUl9jeUlRWmRnTnJULUhxRGtUSXBuaUJlenhuUzUwWUYwTS1qWU0weDQ4UjJXeHNVaTNNQ0xOWlRTS1hSck0wOXZOUnlpa0xGMWVjbW5mTXhWWmFR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T21:00:43+00:00"
+          },
+          {
+            "title": "పదాలేవి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LWXhjYWxKaUcwN2IxVTRwMkJyZHU1SjhHVVRObU0zSkxMUWVyTzhlaXg1M1lqOC15SHFwNVk3bUlCZ2E3cUNpMGk1ZlFzWXpRWDFiWjFDN2Zrei1JS2NvcUNWUkcyY0ZtS3U4YzYtMmoweFFhc25VMi1SRnVwQdIBfkFVX3lxTE5LWXhjYWxKaUcwN2IxVTRwMkJyZHU1SjhHVVRObU0zSkxMUWVyTzhlaXg1M1lqOC15SHFwNVk3bUlCZ2E3cUNpMGk1ZlFzWXpRWDFiWjFDN2Zrei1JS2NvcUNWUkcyY0ZtS3U4YzYtMmoweFFhc25VMi1SRnVwQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-15T19:46:30+00:00"
           },
           {
             "title": "Yadadri News: అయ్యప్ప స్వామిగా గణనాథుడి దర్శనం - Eenadu",
@@ -1100,11 +1135,11 @@
             "published": "2026-09-15T23:45:18+05:30"
           },
           {
-            "title": "USA: ఐరోపాకు కోత పెట్టి.. ట్రంప్‌ అనుకూల దేశాలకు మళ్లించి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDVkMnhzRkZabnpKLUJkS1dLOUhONGF1cEI5NmUyUXdlZURxTFR3bmNVcHlHQWc2XzY5Z2tKRFRpcVZSRklKYnZDelRMRDdSOUNhR0hMOUp5Y3VaNTBkemVjWjZaLW55ZHVGTHZlU3FoWWxoQWNqSXcwMm12b3ZtS3p0cXVGNWQ1WFhzeFJ0a2pfQ3JmRmJ1SlI2R2Y2ZGNQbDBwcE4xcDd0UVJWQ1lZcGlpTmpydkhqOUN5LWRVRHpCQWp0TkZDUk83QWhmMHpZQ1B1WVJLa9IB1wFBVV95cUxNTDVkMnhzRkZabnpKLUJkS1dLOUhONGF1cEI5NmUyUXdlZURxTFR3bmNVcHlHQWc2XzY5Z2tKRFRpcVZSRklKYnZDelRMRDdSOUNhR0hMOUp5Y3VaNTBkemVjWjZaLW55ZHVGTHZlU3FoWWxoQWNqSXcwMm12b3ZtS3p0cXVGNWQ1WFhzeFJ0a2pfQ3JmRmJ1SlI2R2Y2ZGNQbDBwcE4xcDd0UVJWQ1lZcGlpTmpydkhqOUN5LWRVRHpCQWp0TkZDUk83QWhmMHpZQ1B1WVJLaw?oc=5",
+            "title": "Kakinada: అసభ్య వీడియోల కోసం.. స్నేహితుడి హత్య - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3N4QzViaHQ5clZmeUZhZl9XbGREMlZBcWpMaEZIXzJrdE05ZFNUTGFFOXR6RnJObWtZd3lCS2NVeklMWS1FY2Jaa2pTajhaQjJtdTlKYTE3cmZvd0VVV1ZqaU0tdDNOWHQ2d1YtUEZjbXdjUV8zZUwtd2RpVm9fMHBZazAtTGYxS01HbmRPWXI5eERlbGfSAZYBQVVfeXFMT0tzeEM1Ymh0OXJWZnlGYWZfV2xkRDJWQXFqTGhGSF8ya3RNOWRTVExhRTl0ekZyTm1rWXd5QktjVXpJTFktRWNiWmtqU2o4WkIybXU5SmExN3Jmb3dFVVdWamlNLXQzTlh0NndWLVBGY213Y1FfM2VMLXdkaVZvXzBwWWswLUxmMUtNR25kT1lyOXhEZWxn?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-15T17:45:45+00:00"
+            "published": "2026-09-15T17:56:54+00:00"
           },
           {
             "title": "Thief Gets Stuck In Grill: ఎన్‌ఆర్‌ఐ ఇంట్లో చోరీకి వచ్చి.. గ్రిల్స్‌లో చిక్కుకొని - Eenadu",
@@ -1119,41 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-15T22:56:28+05:30"
-          },
-          {
-            "title": "IND vs AFG: అఫ్గాన్‌పై విజయం.. సిరీస్‌ భారత్‌ కైవసం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzBHSWh1dFNmRFkza1k4UzBHeS1nRzRBR0YtRGlJSjdFNlV1MUdHSUJ2QWFwOVk0ZW9WTHJfT1U2NzZfTGlCbVlSN1pLalRFQlMzdzFMbXhKSnRGSHBvbjJiSXRWZGxzbW1YUVMzcWZ0bDM2OGFoWkFTYnZ1VUxPNTRhV0VTYkUzYmpJUlNzdExXZ3BKTHV3QkpzZTbSAZwBQVVfeXFMTTMwR0lodXRTZkRZM2tZOFMwR3ktZ0c0QUdGLURpSUo3RTZVdTFHR0lCdkFhcDlZNGVvVkxyX09VNjc2X0xpQm1ZUjdaS2pURUJTM3cxTG14Skp0Rkhwb24yYkl0VmRsc21tWFFTM3FmdGwzNjhhaFpBU2J2dVVMTzU0YVdFU2JFM2JqSVJTc3RMV2dwSkx1d0JKc2U2?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-15T17:06:22+00:00"
-          },
-          {
-            "title": "విమానంలో బట్టలన్నీ విప్పేసి నగ్నంగా తిరిగిన మహిళ.. ఎందుకంటే..?",
-            "link": "https://telugu.oneindia.com/news/international/americanairlines-woman-causes-a-scene-on-flight-wanders-around-naked-and-behaves-indecently-viral-506377.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-15T22:32:58+05:30"
-          },
-          {
-            "title": "HYD లోని బ్యాచిలర్స్ కు గుడ్ న్యూస్.. మీ ఏరియాలో ఎక్కడ అన్నదానం జరుగుతుందో ఇలా ఈజీగా తెలుసుకోండి..!",
-            "link": "https://telugu.oneindia.com/news/telangana/annadanam-website-launched-to-find-details-about-vinayaka-annadanam-hyderabad-treat-for-bachelors-506375.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-15T21:54:53+05:30"
-          },
-          {
-            "title": "ఎద్దులు బెదిరి కాలువలోకి దూసుకెళ్లిన ఎద్దుల బండి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WV2MwNXVROVNJZUNZa0hRNUV6azZEeXQ5V24xdFJVOGNTbnZ2VW5USC1MeThNZVpCRkJTR044aWRvaW4yTDRjOXVTbC1IRnJjY2JWeUZxbl9Vb2lSSkNoQjRRWVd0SEpIWHpMQWtyQ29XWUdWdUQ1Yl9pSQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-15T15:58:52+00:00"
-          },
-          {
-            "title": "అనంతపురంలో రూ.107 కోట్లతో అభివృద్ధి పనులు ప్రారంభం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRmc1N3lubGpNX0dKVG5LM0FjdGozSHhRajhQQmlGdU1wb3hSdXR2c2R0U193Q09GRm5pZi1KbVlaN215Nkg5QnVQMzJnNlpJMmEtMTJ0X0JvMENxazEwSjVxajZucW5nX25KdVA1NTFZMzU5WkZoQl82Zw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-15T15:49:48+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন কুম্ভ রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1NvMWloeGlpUmlpeHVSODVDbWsyT0FXeGg3MUJ4TU1waFI3eWpUaVR5X3VmaUk2cVVyQVIyeHowZzI2UTdVcjRTV0NfVlRRZk9rT3pTd29yTVFZMnRjb2pjdnE2LTZSeXBZWVZra0ZKMU9ud2Zsb0hzOC1UV1BDaWZrMThQSHJVcGtMeTlpejBoYXZRZV9vWUpGN2dTZUlzSmdrY2p0ZjVkdjlrVVhQOTRfc9IBuAFBVV95cUxQQVNCNzhRTFFvTGtCRXp5LWFhM21EWGtvUE1MdnFfVkdJYkpyakY5Q2I1QUF0YWFVbnpLc1lVdVRTVUxfVnVPWHBKekc4S2hPSW1vM3VONWwzcDNuek1HQkZYWVZXMG5GanhzM1ZHRHA5X0RvalJObkdzX013TEs3YnZ4MEh0T2JwMDZsNHVHMkVjZTVfNGNwMUh4aDZrYm1YcXFONDh1aDJPWlVwZkVMMkNWZktGaGV1?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T22:08:31+00:00"
+          },
+          {
+            "title": "আজকের দিন মিথুন রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDhWeE83cDlFVThfMlZfS2djT1Q4M3V6TTFlTEVadDlPTGdWRV8yODlJU1kySFJ0N19YVWdjYWh4UjdSLTdQMnFrZzUtMmFfazlrY3VFbmg2WmV2V09WQ3Y1N1dJbG5JNExrWDVKRy1LYUFqQVQwb1cwMWo1OUo3RGN5VGR6aTVtT1dacU5oeVdLeHNrUElqR043ZWJYc3RCd045bUl5eFFGeWY5a3BPaEF30gG3AUFVX3lxTE4ycmtSc18zYUhsMTlHc1JJV3YzX2s1akJ5V0dGUFJaYVVzYURvVGxYN1N0X0RxczZCdFRqdUR5MERGdjAxYjl3RGlsTjFEbFJJM1U3TU02TDVEb09ENV9vdktaN0dEdVNka0NwM1g3cmJLcGx0bm1FY2R5Q1FvVjV0WC1oOFg1T3JFWnVGdnNTX1lwRWZQNGpsR2lYTXAwX0IwRXpDeXJGeTdYZXpaQ1pRdVlRZDV0WQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-15T22:02:27+00:00"
+          },
+          {
             "title": "আজকের দিন কর্কট রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0txMlhRRUhHM29ObjFFZElDWlRqZFpZZ2h6R1pBUklQc1RkOGp3N2F5VldSR3J0SXZEOXo1am10OVJxTXVDYm1ZRVhpalNUUjZtRGRWSmo2Rlh0NXQxZEJ4cXozcjRUck5oaHJWcG80YkExMVZQOUJiT09MaDhRWFU1SGh1UXJ0bE0ySU9LYjZlNnVDYjRYbEJWRGxSSTdETDREcThTYWdDTkRydXc1MDRR0gG3AUFVX3lxTE8taW1oZ0NXOE5abHdMWU1ZS2NwUHFHOTdnWUI1Qzk3ZXJLOVRxNmZacWJJcTktUlVLNUxfWHJxeVktYXR4dWszRVV2T3Y1SWI1c0wxUWdhWTFlcXRod05MNGJabGotZk1QNnc1azFtZ1QyVmtuNXNHaExacU5haTh3Q2xsX3RIUUtDdXFPVEZKRmNxXzJJRVNCTHlvYkFPNlJldXkwUU9JOWl3YUF5bkFIaVVXVkFHYw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1466,20 +1480,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-15T19:35:11+00:00"
-          },
-          {
-            "title": "আজকের দিন কুম্ভ রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1NvMWloeGlpUmlpeHVSODVDbWsyT0FXeGg3MUJ4TU1waFI3eWpUaVR5X3VmaUk2cVVyQVIyeHowZzI2UTdVcjRTV0NfVlRRZk9rT3pTd29yTVFZMnRjb2pjdnE2LTZSeXBZWVZra0ZKMU9ud2Zsb0hzOC1UV1BDaWZrMThQSHJVcGtMeTlpejBoYXZRZV9vWUpGN2dTZUlzSmdrY2p0ZjVkdjlrVVhQOTRfc9IBuAFBVV95cUxQQVNCNzhRTFFvTGtCRXp5LWFhM21EWGtvUE1MdnFfVkdJYkpyakY5Q2I1QUF0YWFVbnpLc1lVdVRTVUxfVnVPWHBKekc4S2hPSW1vM3VONWwzcDNuek1HQkZYWVZXMG5GanhzM1ZHRHA5X0RvalJObkdzX013TEs3YnZ4MEh0T2JwMDZsNHVHMkVjZTVfNGNwMUh4aDZrYm1YcXFONDh1aDJPWlVwZkVMMkNWZktGaGV1?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T19:06:34+00:00"
-          },
-          {
-            "title": "আজকের দিন মিথুন রাশি- ১৫ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDhWeE83cDlFVThfMlZfS2djT1Q4M3V6TTFlTEVadDlPTGdWRV8yODlJU1kySFJ0N19YVWdjYWh4UjdSLTdQMnFrZzUtMmFfazlrY3VFbmg2WmV2V09WQ3Y1N1dJbG5JNExrWDVKRy1LYUFqQVQwb1cwMWo1OUo3RGN5VGR6aTVtT1dacU5oeVdLeHNrUElqR043ZWJYc3RCd045bUl5eFFGeWY5a3BPaEF30gG3AUFVX3lxTE4ycmtSc18zYUhsMTlHc1JJV3YzX2s1akJ5V0dGUFJaYVVzYURvVGxYN1N0X0RxczZCdFRqdUR5MERGdjAxYjl3RGlsTjFEbFJJM1U3TU02TDVEb09ENV9vdktaN0dEdVNka0NwM1g3cmJLcGx0bm1FY2R5Q1FvVjV0WC1oOFg1T3JFWnVGdnNTX1lwRWZQNGpsR2lYTXAwX0IwRXpDeXJGeTdYZXpaQ1pRdVlRZDV0WQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-15T18:58:29+00:00"
           },
           {
             "title": "শুভেন্দুর নিহত আপ্তসহায়কের মা নন্দীগ্রামের বিজেপি প্রার্থী! ‘ভাইপো গ্যাং খুন করিয়েছিল’, এ বার এমনই দাবি মুখ্যমন্ত্রীর - Anandabazar Patrika",
