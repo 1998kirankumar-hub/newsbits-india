@@ -1,37 +1,93 @@
 {
-  "updated_at": "2026-09-16T22:05:06.164965+00:00",
+  "updated_at": "2026-09-16T22:31:21.846231+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-            "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+            "title": "Watch: Why has the Federal Reserve raised interest rates?",
+            "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The BBC's Samira Hussain looks at the factors considered in the increase and what it could mean for the US economy.",
+            "published": "2026-09-16T22:26:10+00:00"
+          },
+          {
+            "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+            "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
-            "published": "2026-09-16T21:41:36+00:00"
+            "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+            "published": "2026-09-16T22:18:49+00:00"
           },
           {
-            "title": "Indian couple win payout after suing UK home office for 'unlawful' immigration detention",
-            "link": "https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-17T03:08:35+05:30"
-          },
-          {
-            "title": "Rajasthan achieves plantation target ahead of schedule",
-            "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece",
-            "source": "The Hindu",
-            "summary": "Under the Aravali Green Development Project, ₹250 crore has been invested in 19 districts for soil development and plantation efforts",
-            "published": "2026-09-17T03:07:36+05:30"
+            "title": "US interest rates raised for first time in three years",
+            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "published": "2026-09-16T22:16:51+00:00"
           },
           {
             "title": "Leicestershire facing relegation after 27-point pitch penalty",
             "link": "https://www.cricinfo.com/ci/content/story/1554603.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Club sanctioned for breaching the ECB's pitch regulations for home fixture against Glamorgan",
-            "published": "2026-09-16T21:34:26+00:00"
+            "published": "2026-09-16T22:15:35+00:00"
+          },
+          {
+            "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+            "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by Singapore police in a $2.2 billion money laundering case that are now up for auction.",
+            "published": "2026-09-16T22:13:36+00:00"
+          },
+          {
+            "title": "'Spider-Man' beats 'Star Wars' to become highest-grossing film in North America",
+            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+            "source": "Times of India",
+            "summary": "Spider-Man: Brand New Day has now become the highest-grossing film domestically. It surpassed Star Wars: The Force Awakens' long-standing box office record. The film has grossed approximately USD 936.773 million in North America. Globally, Spider-Man: Brand New Day has earned around USD 2.45 billion. Marvel Studios and Sony plan future releases for the franchise.",
+            "published": "2026-09-17T03:38:08+05:30"
+          },
+          {
+            "title": "Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations",
+            "link": "https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece",
+            "source": "The Hindu",
+            "summary": "He urged China to take stronger action to stem the flow of precursor chemicals used to produce fentanyl, methamphetamine and other synthetic drugs",
+            "published": "2026-09-17T03:36:38+05:30"
+          },
+          {
+            "title": "EPFO raises wage ceiling to Rs 25k, coverage up by Rs 1 crore",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-to-rs-25k-coverage-up-by-rs-1-crore/articleshow/134296603.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-17T03:31:16+05:30"
+          },
+          {
+            "title": "At board meet, Noel Tata to push to keep Tata Sons private",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms",
+            "source": "Times of India",
+            "summary": "Wants To Comply With RBI Order, But Sans Listing",
+            "published": "2026-09-17T03:24:39+05:30"
+          },
+          {
+            "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+            "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+            "published": "2026-09-16T21:41:36+00:00"
+          },
+          {
+            "title": "Indian couple win payout after suing UK home office for 'unlawful' immigration detention",
+            "link": "https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-17T03:08:35+05:30"
+          },
+          {
+            "title": "Rajasthan achieves plantation target ahead of schedule",
+            "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece",
+            "source": "The Hindu",
+            "summary": "Under the Aravali Green Development Project, ₹250 crore has been invested in 19 districts for soil development and plantation efforts",
+            "published": "2026-09-17T03:07:36+05:30"
           },
           {
             "title": "Govt. cuts windfall tax on export of petrol, diesel and ATF",
@@ -46,65 +102,37 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-17T02:59:49+05:30"
-          },
-          {
-            "title": "Don’t trust Centre unless it’s a written deal, J&amp;K CM tells Ladakhi delegation",
-            "link": "https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-17T02:56:00+05:30"
-          },
-          {
-            "title": "Matt Holliday’s 62-acre Oklahoma estate asks $9.8 million",
-            "link": "https://timesofindia.indiatimes.com/world/us/in-2018-matt-holliday-paid-3-million-for-oklahoma-land-years-later-his-62-acre-estate-with-a-baseball-field-and-2-million-pool-is-asking-9-8-million/articleshow/134286974.cms",
-            "source": "Times of India",
-            "summary": "Former MLB star Matt Holliday's luxurious estate in Oklahoma has hit the market, boasting 62 acres of prime land including a private baseball field with professional-grade lighting. The stunning home, constructed in 2022, offers five spacious bedrooms and seven bathrooms. Among the standout features are a magnificent swimming pool and an indoor sports court. Originally listed for $12 million, it is now available for…",
-            "published": "2026-09-17T02:55:00+05:30"
-          },
-          {
-            "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-            "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
-            "published": "2026-09-16T21:24:24+00:00"
-          },
-          {
-            "title": "Rescue workers search for survivors after Gaza building collapse",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-09-16T21:15:42+00:00"
-          },
-          {
-            "title": "US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report",
-            "link": "https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "According to the report, two individuals familiar with the matter, reporting that the strike involved four Iranian drones alongside at least one missile, with a projectile making direct impact while the ship navigated the strategic waterway.",
-            "published": "2026-09-17T02:43:43+05:30"
-          },
-          {
-            "title": "‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms",
-            "source": "Times of India",
-            "summary": "The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, officials have stated that ongoing inflation remains a significant factor driving this adjustment.",
-            "published": "2026-09-17T02:43:41+05:30"
-          },
-          {
-            "title": "US interest rates raised for first time in three years",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-            "published": "2026-09-16T21:02:11+00:00"
-          },
-          {
-            "title": "Three rescued orangutans in Odisha suffering from anaemia: Officials",
-            "link": "https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece",
-            "source": "The Hindu",
-            "summary": "A comprehensive health check-up of the five primates, including X-rays and blood tests, was carried out after one of the juvenile orangutans developed fever; No major breakthrough in the probe so far",
-            "published": "2026-09-17T02:24:35+05:30"
           }
         ],
         "India": [
+          {
+            "title": "'Spider-Man' beats 'Star Wars' to become highest-grossing film in North America",
+            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+            "source": "Times of India",
+            "summary": "Spider-Man: Brand New Day has now become the highest-grossing film domestically. It surpassed Star Wars: The Force Awakens' long-standing box office record. The film has grossed approximately USD 936.773 million in North America. Globally, Spider-Man: Brand New Day has earned around USD 2.45 billion. Marvel Studios and Sony plan future releases for the franchise.",
+            "published": "2026-09-17T03:38:08+05:30"
+          },
+          {
+            "title": "Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations",
+            "link": "https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece",
+            "source": "The Hindu",
+            "summary": "He urged China to take stronger action to stem the flow of precursor chemicals used to produce fentanyl, methamphetamine and other synthetic drugs",
+            "published": "2026-09-17T03:36:38+05:30"
+          },
+          {
+            "title": "EPFO raises wage ceiling to Rs 25k, coverage up by Rs 1 crore",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-to-rs-25k-coverage-up-by-rs-1-crore/articleshow/134296603.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-17T03:31:16+05:30"
+          },
+          {
+            "title": "At board meet, Noel Tata to push to keep Tata Sons private",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms",
+            "source": "Times of India",
+            "summary": "Wants To Comply With RBI Order, But Sans Listing",
+            "published": "2026-09-17T03:24:39+05:30"
+          },
           {
             "title": "Indian couple win payout after suing UK home office for 'unlawful' immigration detention",
             "link": "https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms",
@@ -160,37 +188,30 @@
             "source": "Times of India",
             "summary": "The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, officials have stated that ongoing inflation remains a significant factor driving this adjustment.",
             "published": "2026-09-17T02:43:41+05:30"
-          },
-          {
-            "title": "Three rescued orangutans in Odisha suffering from anaemia: Officials",
-            "link": "https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece",
-            "source": "The Hindu",
-            "summary": "A comprehensive health check-up of the five primates, including X-rays and blood tests, was carried out after one of the juvenile orangutans developed fever; No major breakthrough in the probe so far",
-            "published": "2026-09-17T02:24:35+05:30"
-          },
-          {
-            "title": "Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations",
-            "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece",
-            "source": "The Hindu",
-            "summary": "According to a list containing 989 nominations, multiple nominations have been filed in several urban bodies, including cases where the same candidate figures more than once",
-            "published": "2026-09-17T02:18:25+05:30"
-          },
-          {
-            "title": "Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers",
-            "link": "https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "According to the information available, an argument broke out between the two sides after alleged remarks against Sampla, which subsequently led to a minor clash between BJP and BSP workers.",
-            "published": "2026-09-17T02:16:52+05:30"
-          },
-          {
-            "title": "Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-17T02:16:26+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+            "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+            "published": "2026-09-16T22:18:49+00:00"
+          },
+          {
+            "title": "US interest rates raised for first time in three years",
+            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "published": "2026-09-16T22:16:51+00:00"
+          },
+          {
+            "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+            "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by Singapore police in a $2.2 billion money laundering case that are now up for auction.",
+            "published": "2026-09-16T22:13:36+00:00"
+          },
           {
             "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
             "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
@@ -213,14 +234,7 @@
             "published": "2026-09-16T21:15:42+00:00"
           },
           {
-            "title": "US interest rates raised for first time in three years",
-            "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-            "published": "2026-09-16T21:02:11+00:00"
-          },
-          {
-            "title": "US removes Venezuela from list of drug transit, production countries",
+            "title": "US removes Venezuela from drug list, Trump says",
             "link": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bolivia.",
@@ -260,29 +274,29 @@
             "source": "BBC World",
             "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
             "published": "2026-09-16T19:59:57+00:00"
-          },
-          {
-            "title": "Al-Mughayyir: A village under siege",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
-            "published": "2026-09-16T19:48:05+00:00"
-          },
-          {
-            "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
-            "link": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.",
-            "published": "2026-09-16T19:45:30+00:00"
           }
         ],
         "Business": [
           {
+            "title": "Watch: Why has the Federal Reserve raised interest rates?",
+            "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The BBC's Samira Hussain looks at the factors considered in the increase and what it could mean for the US economy.",
+            "published": "2026-09-16T22:26:10+00:00"
+          },
+          {
             "title": "US interest rates raised for first time in three years",
             "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-            "published": "2026-09-16T21:02:11+00:00"
+            "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "published": "2026-09-16T22:16:51+00:00"
+          },
+          {
+            "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+            "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by Singapore police in a $2.2 billion money laundering case that are now up for auction.",
+            "published": "2026-09-16T22:13:36+00:00"
           },
           {
             "title": "Shorter-dated US Treasury yields surge in anticipation of another Fed rate hike",
@@ -346,20 +360,6 @@
             "source": "BBC Business",
             "summary": "UK inflation rose in August, pushed up by higher petrol and diesel prices.",
             "published": "2026-09-16T09:12:42+00:00"
-          },
-          {
-            "title": "We managed to get jobs after uni - here's how we're keeping them",
-            "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
-            "published": "2026-09-16T08:36:37+00:00"
-          },
-          {
-            "title": "MFs deployed over Rs 8,800 crore in 18 IPOs in August: ESDS Software Solution, Molbio Diagnostics and more",
-            "link": "https://economictimes.indiatimes.com/mf/analysis/mfs-deployed-over-rs-8800-crore-in-18-ipos-in-august-esds-software-solution-molbio-diagnostics-and-more/slideshow/134281947.cms",
-            "source": "Economic Times",
-            "summary": "",
-            "published": "2026-09-16T13:17:31+05:30"
           }
         ],
         "Sports": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1554603.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Club sanctioned for breaching the ECB's pitch regulations for home fixture against Glamorgan",
-            "published": "2026-09-16T21:34:26+00:00"
+            "published": "2026-09-16T22:15:35+00:00"
           },
           {
             "title": "After Missing Out On Leo Carlsson, Flyers Bet On Internal Growth",
@@ -641,6 +641,20 @@
             "published": "2026-09-17T12:24:39+05:30"
           },
           {
+            "title": "मणिपुर में 7 दिनों से स्कूल-बाजार बंद:लोग घरों में कैद, चार दिनों में हो चुकी कुकी समुदाय के 6 लोगों की हत्या",
+            "link": "https://www.bhaskar.com/national/news/manipur-violence-kuki-naga-conflict-school-market-shut-139052425.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-16T22:10:00+00:00"
+          },
+          {
+            "title": "यूपीआई शुल्क: 0.4% एमडीआर पर लगेगा 18 फीसदी जीएसटी भी; केंद्र ने कहा- वापस नहीं लेंगे फैसला",
+            "link": "https://www.amarujala.com/business/business-diary/upi-mdr-0-4-percent-payment-above-2000-gst-supreme-court-challenge-2026-09-17",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-17T03:32:48+05:30"
+          },
+          {
             "title": "कश्मीर में आतंकियों और सुरक्षा बलों के बीच मुठभेड़:ऊधमपुर जिले के पहाड़ी क्षेत्र में नजर आए थे संदिग्ध, सर्च अभियान जारी",
             "link": "https://www.bhaskar.com/national/news/udhampur-majalta-encounter-terrorists-search-operation-jammu-kashmir-139052889.html",
             "source": "Dainik Bhaskar",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-17T00:01:13+05:30"
-          },
-          {
-            "title": "भारत ने पाक-चीन सीमा आयोग को खारिज किया:कहा- जम्मू-कश्मीर और लद्दाख भारत का अभिन्न हिस्सा; पाकिस्तान अवैध कब्जा छोड़े",
-            "link": "https://www.bhaskar.com/national/news/india-rejects-pakistan-china-border-commission-jammu-kashmir-ladakh-139051067.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-16T16:56:55+00:00"
-          },
-          {
-            "title": "आयुष मलिक बोले- मर्ज़ी से अपनाया इस्लाम धर्म, इलाहाबाद हाई कोर्ट ने दिया अहम फ़ैसला",
-            "link": "https://www.bbc.com/hindi/articles/cx24jgy9j6zlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-16T15:50:06+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "వందేళ్ల కేఫ్‌ లైసెన్స్‌ సస్పెన్షన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WcU5hNFQ2NjFKSXpHYTl2bWx2MGw5a1c1QjRUdXBZUlB0UEpVTXVmdVE1SG5fOVZESE1OcFQ0Y0ZWVTFfd29oS1JxX1NZV09UODRyam1YTU56Z21iVmhGSnJoaVRaTVZ5VVhyVmx3TDBTYUlNY1FBdE13?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T20:13:24+00:00"
+          },
+          {
+            "title": "భివండీలో 3,719 విగ్రహాల నిమజ్జనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ONWd1ekxMRWVTYU9ITkREbmREOW1CdFNER01tZHBONG5uaE5jRzBJb3JqZEVQdGJKdTJ5bFA3TzR2V1lXd3lxNWpkeTg1dzJsVUEzMFQzM2NJQjE5QkNTTGlycTRaTDRDd1F3b2pseXhfZHIyU0YycFNR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T20:12:35+00:00"
+          },
+          {
             "title": "చిన్నారి తలకు చిక్కుకున్న పాత్ర - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VWTZFa3hIN1pkX2FyaEY5TFVadlY4SUZsenR3amtJYUhoT3cweDJ1SlNNa08wek9yeklNR1N3X0JDN3RRaVY1VTlWZllfazRYTS1ackRxVEM0bll0QVp1ZjNvUUtGeDN1bEFzcmFCb3FYYnR3UUV2dkhDUnFhUQ?oc=5",
             "source": "Eenadu",
@@ -1079,11 +1093,25 @@
             "published": "2026-09-16T19:01:18+00:00"
           },
           {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (17/09/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmdMUnYxd09KQ0JrSnNBaVFTRGNyOW9neVB6VWxFOUZETGdjVEp4RXZMb0pxS2lYbTVvcUJZdUE0Q0o4YzA0NjE0SkZCMXZHYW56N0Rqal81c05jX2g1cjlVTl9KUWxFQmRHZkVBbGpEV3lQQVJ0Y3RiV3lJaW9RTms1RGg1SU81NGFKQVlTSzNkZlRtX2xKaW4xdkUzX3JkTTF4S3Bqb3Q4QVk5dGZwRGtCZ3nSAbQBQVVfeXFMTmJnTFJ2MXdPSkNCa0pzQWlRU0RjcjlvZ3lQelVsRTlGRExnY1RKeEV2TG9KcUtpWG01b3FCWXVBNENKOGMwNDYxNEpGQjF2R2FuejdEampfNXNOY19oNXI5VU5fSlFsRUJkR2ZFQWxqRFd5UEFSdGN0Yld5SWlvUU5rNURoNUlPNTRhSkFZU0szZGZUbV9sSmluMXZFM19yZE0xeEtwam90OEFZOXRmcERrQmd5?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T18:40:47+00:00"
+          },
+          {
             "title": "గణేష్ నిమజ్జనంలో విషాదం.. ఆరుగురు విద్యార్థులు మృతి",
             "link": "https://telugu.oneindia.com/news/telangana/peddakanjarla-village-6-orphan-students-died-after-falling-into-the-pond-part-of-ganesh-immersion-506517.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-16T23:45:07+05:30"
+          },
+          {
+            "title": "Crime News: బీటెక్‌ చదివినా బుద్ధి మారలేదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZThJbVprNjNZU1JzRmJIXzAxd05FR25sam9GTnFyWnM4Y2UtTDdmVDhJeFRSWjNvRmxLZ1cwSnQ4MUhLMUZjY3hnMlpFZkVyWUM3Zkp5bTlRQXlGSjlLY1A5OFM3MFF0ZzV2cC1DQmZyRTFEMk5NeFNscXNlSExheGh1UnZ2cF85RjA2OXZCdExUTThlNERGdEFDRUdjYTMtbUI5bUhIb9IBpwFBVV95cUxOZThJbVprNjNZU1JzRmJIXzAxd05FR25sam9GTnFyWnM4Y2UtTDdmVDhJeFRSWjNvRmxLZ1cwSnQ4MUhLMUZjY3hnMlpFZkVyWUM3Zkp5bTlRQXlGSjlLY1A5OFM3MFF0ZzV2cC1DQmZyRTFEMk5NeFNscXNlSExheGh1UnZ2cF85RjA2OXZCdExUTThlNERGdEFDRUdjYTMtbUI5bUhIbw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T18:07:14+00:00"
           },
           {
             "title": "భారత్ కు సడెన్ షాక్ ఇచ్చిన పాకిస్థాన్.. రూ. 4,100 కోట్లకు పైగా నష్టం",
@@ -1107,53 +1135,25 @@
             "published": "2026-09-16T21:40:58+05:30"
           },
           {
+            "title": "Adidas Layoffs: అడిడాస్‌ ఇండియాలో లేఆఫ్‌లు.. సగం మందిపై ప్రభావం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2tTUFNUaUs1cWRwVEdOWi1jMUlMeEgzYmNwajA2ZlZuWlBPZkJRQ3k2UXR1cGtnUXdXcFJTMXRXTFdWcU16Rm44bS1ydkxCVTdHaXZYQVlKWDVDMkJyVk1vYkhTNm01MXZ0RVVyQmZZVnBrVGtvdm1UNWRFNjhFMFItVEIxdWg0d01rWkg3dHZMSE1XOHBaWFNVdTA5M1lld2fSAaIBQVVfeXFMT3drU1BTVGlLNXFkcFRHTlotYzFJTHhIM2JjcGowNmZWblpQT2ZCUUN5NlF0dXBrZ1F3V3BSUzF0V0xXVnFNekZuOG0tcnZMQlU3R2l2WEFZSlg1QzJCclZNb2JIUzZtNTF2dEVVckJmWVZwa1Rrb3ZtVDVkRTY4RTBSLVRCMXVoNHdNa1pIN3R2TEhNVzhwWlhTVXUwOTNZZXdn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T16:09:57+00:00"
+          },
+          {
+            "title": "Ganesh Chaturthi - Ambani: గణేశ్‌ నిమజ్జనోత్సవంలో అంబానీ కుటుంబం సందడి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3R4Mk1HcGFPX3lMNE1CamZnSVlnanF4RHJiVUs4ejdFV1RJV3VSSlpLenJFSzVXd2NncWM0NndBSzg0blNZenY1N0lDdktDM3d3d2wwUVMzQldoRGlzS2lET3Zzd09NX2d1d1B3MWFpTlI0c3FrMnNFNmx0WjhJNmpxZFN4d0VJTjVhaWdyV1NtZVHSAZMBQVVfeXFMUGt0eDJNR3BhT195TDRNQmpmZ0lZZ2pxeERyYlVLOHo3RVdUSVd1UkpaS3pyRUs1V3djZ3FjNDZ3QUs4NG5TWXp2NTdJQ3ZLQzN3d3dsMFFTM0JXaERpc0tpRE92c3dPTV9ndXdQdzFhaU5SNHNxazJzRTZsdFo4STZqcWRTeHdFSU41YWlncldTbWVR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-16T15:43:23+00:00"
+          },
+          {
             "title": "కుప్పకూలిన బంగారు గని.. 67 మంది మృతి.. ఎక్కడంటే..?",
             "link": "https://telugu.oneindia.com/news/international/sudan-major-tragedy-gold-mine-collapses-67-dead-major-tragedy-in-sudan-gold-mine-collapses-67-dead-506505.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-16T20:52:29+05:30"
-          },
-          {
-            "title": "Latest Current Affairs Places in News – Eenadu Pratibha|2026|telugu-medium - eenadu pratibha",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3dWbjNSMXV3ZzdtRmpXb0lDUDAtUGp3N3Q0cmlobmZiOXdEd29BUldpMl90VG9YUTVQT09fdFlrT3FSY2xpRVhqQldQQ2NrMW9oSWlfSFI1cldfaDJQV0RSa0d2NkFOMzY2emZ4LVZXaE1YandXdGZuVHZ1OVdnbHlBSlJiLWttZExScVNmTzhMRkhPRDZ2WDU3TFJoLWxxdDhaNzJBb0JLMU5SenAwYg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-16T14:57:57+00:00"
-          },
-          {
-            "title": "వినాయక మండపంలో.. కొత్త తరహా అలంకరణ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBudFFGV1h5QkFLSjZjaEYyamNlNjBzXzl2STUxelE1UzdnM1p1Wkg3LU1zekhkMi0tblZkcVJwRXI2cW5yNXRCV2FFV25NMG9lZ1BwY0VHY1pJaThjdmdGa0ZjaV9yTlV5MXpqdXRWdUJuSnJSRzZVWVdDazd4QQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-16T14:45:36+00:00"
-          },
-          {
-            "title": "సెక్షన్ 22ఏ: నిషేధిత జాబితాలో ఉన్న భూములను ప్రభుత్వం ఏం చేయబోతోంది?",
-            "link": "https://www.bbc.com/telugu/articles/cq4gr58nzym2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-09-16T14:20:51+00:00"
-          },
-          {
-            "title": "Aaditya Thackeray: ఆమె ఎవరో కూడా తెలియదు: ఆదిత్య ఠాక్రే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjJLLUJyY3I0U3VMc1B6SWU5NThSX1ktLXVJR3pPVmJLOVJtaWZ5dDNxWWJOZVlGX0diX1o4ckZWeEg5MFRaQVA0ZVlKMTcyZmFwR2FibGdhUlNQUFpRdlVOeHpvUUJ1OExkTDNjZWwtU01aQU4tVVIyYjl1aTctNmlNMTEzdzZhOWotYldMa01hcjA2cmxNVk5SaDF3ZjFsbm4xbFdmSE9mdlh2cU9mZEdjOVQycE5OdS1ucXVJN1NhejI5LXFkeURmcGlPUlFzTTA1dmNWRkFWMXPSAdsBQVVfeXFMTkYySy1CcmNyNFN1THNQekllOTU4Ul9ZLS11SUd6T1ZiSzlSbWlmeXQzcVliTmVZRl9HYl9aOHJGVnhIOTBUWkFQNGVZSjE3MmZhcEdhYmxnYVJTUFBaUXZVTnh6b1FCdThMZEwzY2VsLVNNWkFOLVVSMmI5dWk3LTZpTTExM3c2YTlqLWJXTGtNYXIwNnJsTVZOUmgxd2YxbG5uMWxXZkhPZnZYdnFPZmRHYzlUMnBOTnUtbnF1STdTYXoyOS1xZHlEZnBpT1JRc00wNXZjVkZBVjFz?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-16T14:13:06+00:00"
-          },
-          {
-            "title": "Viral Video: యువతిని కారుతో ఢీ కొట్టి ఈడ్చుకెళ్లిన యువకుడు.. ఎక్కడంటే..?",
-            "link": "https://telugu.oneindia.com/news/india/lucknow-atrocity-in-the-middle-of-the-road-in-young-woman-dragged-by-car-and-thrown-to-the-ground-506499.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-16T19:40:56+05:30"
-          },
-          {
-            "title": "ఏపీకి మరో చల్లని కబురు- రేపటి నుంచి మళ్లీ వర్షాలు-ఈ జిల్లాల్లో..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-weather-alert-rains-likely-from-tomorrow-as-another-low-pressure-system-may-form-by-sept-19-506497.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-16T19:21:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1454,8 +1454,8 @@
             "published": "2026-09-16T16:27:03+00:00"
           },
           {
-            "title": "ফ্রিজ় হবে জোড়াফুল? নন্দীগ্রাম, রেজিনগরের মনোনয়ন সেরে দুই তৃণমূল তাকিয়ে কমিশনের দিকে, রায় কি বৃহস্পতিতেই - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUXF2QkItdjd2WGVIQTlGUnFFekpDLWp0SFpNX09tZkxwRk0yYi1WYUZ0LWduRnZDWHZqN296WjZBZ2FCWkdjWnQ4Wnp1cHZvdml0REtoODRIal9sd0NGSTQzVWpNOWlISVlnTWo3eUlqaWNkZ25zZDEzTU9QOC1pMElOQ1U2SFd1YjQ5Sk44bVl2QlQwbXptTlJUc0RRb1RVdEp3ZWhZY0ZIdmJocVZBbHA2aGI5OWRvb3VueDRQRldKWC1ZTjdDb3NEbkEtUnhmWjlscV8ydDJoVXhPSXc?oc=5",
+            "title": "ফ্রিজ় হবে জোড়াফুল? নন্দীগ্রাম, রেজিনগরের মনোনয়ন সেরে দুই তৃণমূল তাকিয়ে কমিশনের দিকে, রায় কি বৃহস্পতিতেই - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUXF2QkItdjd2WGVIQTlGUnFFekpDLWp0SFpNX09tZkxwRk0yYi1WYUZ0LWduRnZDWHZqN296WjZBZ2FCWkdjWnQ4Wnp1cHZvdml0REtoODRIal9sd0NGSTQzVWpNOWlISVlnTWo3eUlqaWNkZ25zZDEzTU9QOC1pMElOQ1U2SFd1YjQ5Sk44bVl2QlQwbXptTlJUc0RRb1RVdEp3ZWhZY0ZIdmJocVZBbHA2aGI5OWRvb3VueDRQRldKWC1ZTjdDb3NEbkEtUnhmWjlscV8ydDJoVXhPSXfSAeMBQVVfeXFMUHJLdnB4cW0xUjRyMmZ2SVE1d0VIQnl2S1c3b21kVHBlQ1BNTDBoQ2lzRk5aN2UtME45OERTNVFuVUQxUk9BcEx6LVNHQjc0ZmI2cEE2YkREUGkyWDlaMnh5algzQTRsSlVkZl90YjdSZjRFbU5XeTgwNi1HQjFtYzNUNjZMQmJyTF9RT1NPajIzcVMyMXE4U3ozNU9XeWR4c1RGd1Vja0t0dXFqdjliUXctc2UwaFVaYkMwOFBiTzVTMzlHNmZWa2RsbGU5eWdydkJrTHlTTHRjcFZ2QVlMOV94c0k?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-16T16:00:42+00:00"
