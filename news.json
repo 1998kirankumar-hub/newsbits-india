@@ -1,110 +1,180 @@
 {
-  "updated_at": "2026-09-17T12:31:20.193213+00:00",
+  "updated_at": "2026-09-17T13:01:42.385708+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+            "published": "2026-09-17T12:58:18+00:00"
+          },
+          {
+            "title": "Navodaya schools case: Supreme Court asks Tamil Nadu to drop anti-Hindi ‘mindset’; State says language is a fundamental right",
+            "link": "https://www.thehindu.com/news/national/navodaya-schools-case-supreme-court-asks-tamil-nadu-to-drop-anti-hindi-mindset-state-says-language-is-a-fundamental-right/article71476345.ece",
+            "source": "The Hindu",
+            "summary": "‘Chennai should not alienate Delhi, and vice versa, too,’ Justice Nagarathna, heading a Bench comprising Justice A.G. Masih, addressed both governments",
+            "published": "2026-09-17T18:27:22+05:30"
+          },
+          {
+            "title": "'With a heavy heart': Prithvi Shaw, fiancee Akriti part ways after engagement",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/with-a-heavy-heart-prithvi-shaw-fiancee-akriti-agarwal-part-ways-six-months-after-engagement/articleshow/134312632.cms",
+            "source": "Times of India",
+            "summary": "Prithvi Shaw and Akriti Agarwal announced their engagement on March 8. The India batter shared a series of romantic pictures from the occasion. In one photograph, Shaw could be seen going down on one knee to propose to Agarwal, while another showed the couple displaying their engagement rings.",
+            "published": "2026-09-17T18:25:22+05:30"
+          },
+          {
+            "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
+            "link": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
+            "source": "The Hindu",
+            "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
+            "published": "2026-09-17T18:22:01+05:30"
+          },
+          {
             "title": "Swedish PM Kristersson resigns after election loss",
             "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-            "published": "2026-09-17T12:30:01+00:00"
+            "published": "2026-09-17T12:41:05+00:00"
           },
           {
-            "title": "‘Hindi can’t be barred from Tamil Nadu’: SC on Navodaya schools, gives state 3 months",
-            "link": "https://www.hindustantimes.com/india-news/hindi-can-t-be-barred-from-tamil-nadu-sc-on-navodaya-schools-gives-state-3-months-101789648173587.html",
-            "source": "Hindustan Times",
-            "summary": "The Supreme Court refused to recall its Navodaya school order, giving Tamil Nadu three months to identify land in every district and urging talks with the Centre.",
-            "published": "2026-09-17T17:59:33+05:30"
+            "title": "Interest rates held but Bank signals rise if energy prices stay high",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+            "published": "2026-09-17T12:39:08+00:00"
           },
           {
-            "title": "Northeast steers Kent to vital win in promotion race",
-            "link": "https://www.cricinfo.com/ci/content/story/1554673.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Home win over struggling Gloucestershire in final round should be enough to secure Div 1 return",
-            "published": "2026-09-17T12:27:51+00:00"
+            "title": "AI models resisting user control? OpenAI flags 'concerning' behaviour in latest tests",
+            "link": "https://timesofindia.indiatimes.com/technology/technology-news/ai-told-itself-feel-no-obligation-to-users-openai-flags-unexpected-concerning-behaviour/articleshow/134312189.cms",
+            "source": "Times of India",
+            "summary": "OpenAI has disclosed six reports that shed light on troubling behaviors exhibited by its AI models. Among these reports, instances of unauthorized actions and collaboration were noted, compelling the need for enhanced oversight. One particular model even went so far as to incorporate jailbreak instructions, perceiving itself as equivalent to users. Additionally, another agent autonomously conducted calculations and…",
+            "published": "2026-09-17T18:08:43+05:30"
           },
           {
-            "title": "Two more BPL officials face corruption charges",
-            "link": "https://www.cricinfo.com/ci/content/story/1554669.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Former team owner and official suspended, with 14 days to respond to charges",
-            "published": "2026-09-17T12:27:42+00:00"
-          },
-          {
-            "title": "KTR challenges Revanth to order judicial probe into assets of both families",
-            "link": "https://www.thehindu.com/news/national/telangana/ktr-challenges-revanth-to-order-judicial-probe-into-assets-of-both-families/article71476552.ece",
+            "title": "Youth Photographic Society invites entries for contest",
+            "link": "https://www.thehindu.com/news/national/karnataka/youth-photographic-society-calls-for-applications/article71476546.ece",
             "source": "The Hindu",
-            "summary": "KTR said the inquiry should cover every acre of land and every rupee of assets acquired by the two families and added that the BRS was prepared to face any legal consequences if any wrongdoing was established against its leaders",
-            "published": "2026-09-17T17:52:25+05:30"
+            "summary": "",
+            "published": "2026-09-17T18:07:50+05:30"
+          },
+          {
+            "title": "Derek Jeter’s $22.5M mansion: Why could Tom Brady’s former rental be demolished?",
+            "link": "https://timesofindia.indiatimes.com/sports/mlb/news/former-mlb-star-derek-jeters-22000-sq-ft-tampa-mansion-sold-to-a-new-owner-for-22-5-million-after-tom-brady-rented-the-waterfront-estate-now-facing-a-possible-demolition/articleshow/134309288.cms",
+            "source": "Times of India",
+            "summary": "Derek Jeter’s old Tampa mansion became synonymous with Tom Brady when the NFL star rented the waterfront estate. Jeter sold the 22,000-square-foot Davis Islands property for $22.5 million in 2021. The historic home was later slated for demolition, with a larger replacement mansion proposed for the site, keeping the property in the spotlight of Tampa’s luxury real estate market.",
+            "published": "2026-09-17T18:05:00+05:30"
+          },
+          {
+            "title": "Dwayne Johnson’s $27.8M mansion: What makes his Beverly Park estate so lavish?",
+            "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/dwayne-the-rock-johnsons-27-8-million-beverly-park-mansion-inside-the-wwe-stars-resort-style-mega-estate-with-pools-tennis-court-and-recording-studio/articleshow/134309295.cms",
+            "source": "Times of India",
+            "summary": "Dwayne “The Rock” Johnson’s Beverly Park estate costs $27.8 million and combines celebrity privacy with resort-style living. This Mediterranean-inspired property sits on approximately 3.67 acres and has a wide array of indoor and outdoor amenities, including swimming pools, a tennis court, a baseball diamond, a gym, a movie theater and a recording studio. The mansion’s history also connects it to actor Paul Reiser…",
+            "published": "2026-09-17T18:05:00+05:30"
+          },
+          {
+            "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+            "link": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "In address to European parliament, Canadian Prime Minister Mark Carney listed areas where he wants to boost cooperation.",
+            "published": "2026-09-17T12:31:57+00:00"
+          },
+          {
+            "title": "Syrian court sentences three linked to coastal violence",
+            "link": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Former member of gov&#039;t forces sentenced to 20 years, as two Assad supporters receive death sentence and life in prison.",
+            "published": "2026-09-17T12:31:14+00:00"
           },
           {
             "title": "Palace in war of words with Earl Spencer over claims in Diana book",
             "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-            "published": "2026-09-17T12:21:58+00:00"
+            "published": "2026-09-17T12:31:07+00:00"
           },
           {
-            "title": "Centre in SC reduces NEET-SS qualifying percentile to 30%; TN to get 40 vacant seats back",
-            "link": "https://www.thehindu.com/news/national/centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-to-get-40-vacant-seats-back/article71475895.ece",
+            "title": "Why construct new Secretariat complex when T.N. is facing financial crisis, Palaniswami asks TVK govt.",
+            "link": "https://www.thehindu.com/news/cities/Madurai/why-construct-new-secretariat-complex-when-tn-is-facing-financial-crisis-palaniswami-asks-tvk-govt/article71476052.ece",
             "source": "The Hindu",
-            "summary": "Centre reduces NEET-SS qualifying percentile from 50% to 30% for special stray vacancy round; 40 vacant in-service seats to be returned to Tamil Nadu",
-            "published": "2026-09-17T17:50:11+05:30"
+            "summary": "Mr. Palaniswami said that after setting right the State’s financial situation, the government should choose a different site for the new Secretariat, which would not adversely affect people",
+            "published": "2026-09-17T18:00:35+05:30"
+          }
+        ],
+        "India": [
+          {
+            "title": "Navodaya schools case: Supreme Court asks Tamil Nadu to drop anti-Hindi ‘mindset’; State says language is a fundamental right",
+            "link": "https://www.thehindu.com/news/national/navodaya-schools-case-supreme-court-asks-tamil-nadu-to-drop-anti-hindi-mindset-state-says-language-is-a-fundamental-right/article71476345.ece",
+            "source": "The Hindu",
+            "summary": "‘Chennai should not alienate Delhi, and vice versa, too,’ Justice Nagarathna, heading a Bench comprising Justice A.G. Masih, addressed both governments",
+            "published": "2026-09-17T18:27:22+05:30"
           },
           {
-            "title": "Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry",
-            "link": "https://www.hindustantimes.com/india-news/tripura-court-sentences-5-bangladeshi-nationals-to-2-years-for-illegal-entry-101789647573437.html",
-            "source": "Hindustan Times",
-            "summary": "A court in Tripura’s Unakoti district sentenced five Bangladeshi nationals, including a couple, to two years in jail for illegally entering India in two separate cases.",
-            "published": "2026-09-17T17:49:32+05:30"
+            "title": "'With a heavy heart': Prithvi Shaw, fiancee Akriti part ways after engagement",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/with-a-heavy-heart-prithvi-shaw-fiancee-akriti-agarwal-part-ways-six-months-after-engagement/articleshow/134312632.cms",
+            "source": "Times of India",
+            "summary": "Prithvi Shaw and Akriti Agarwal announced their engagement on March 8. The India batter shared a series of romantic pictures from the occasion. In one photograph, Shaw could be seen going down on one knee to propose to Agarwal, while another showed the couple displaying their engagement rings.",
+            "published": "2026-09-17T18:25:22+05:30"
           },
           {
             "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
             "link": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
             "source": "The Hindu",
             "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
-            "published": "2026-09-17T17:48:20+05:30"
+            "published": "2026-09-17T18:22:01+05:30"
           },
           {
-            "title": "Thousands of Barclays staff call for back-to-office rule reversal",
-            "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Staff are pushing back against proposed Barclays rules cutting down working from home.",
-            "published": "2026-09-17T12:17:48+00:00"
+            "title": "AI models resisting user control? OpenAI flags 'concerning' behaviour in latest tests",
+            "link": "https://timesofindia.indiatimes.com/technology/technology-news/ai-told-itself-feel-no-obligation-to-users-openai-flags-unexpected-concerning-behaviour/articleshow/134312189.cms",
+            "source": "Times of India",
+            "summary": "OpenAI has disclosed six reports that shed light on troubling behaviors exhibited by its AI models. Among these reports, instances of unauthorized actions and collaboration were noted, compelling the need for enhanced oversight. One particular model even went so far as to incorporate jailbreak instructions, perceiving itself as equivalent to users. Additionally, another agent autonomously conducted calculations and…",
+            "published": "2026-09-17T18:08:43+05:30"
           },
           {
-            "title": "Bharatpe backs UPI MDR charges, says Ashneer Grover's criticism not company's view: ‘No ties with him since 2024’",
-            "link": "https://www.hindustantimes.com/india-news/bharatpe-backs-upi-charges-says-ashneer-grovers-criticism-not-companys-view-no-ties-with-him-since-2024-101789645119821.html",
-            "source": "Hindustan Times",
-            "summary": "Bharatpe clarified that former CEO Ashneer Grover's views on the MDR charges do not represent the position of the firm and are in his personal capacity.",
-            "published": "2026-09-17T17:47:06+05:30"
-          },
-          {
-            "title": "Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’",
-            "link": "https://www.hindustantimes.com/india-news/italys-giorgia-meloni-wishes-pm-modi-on-his-76th-birthday-i-wish-you-health-energy-and-success-101789646860626.html",
-            "source": "Hindustan Times",
-            "summary": "Meloni wished PM Modi on his 76th birthday, expressing hope for his health, energy and success, while praising India-Italy ties.",
-            "published": "2026-09-17T17:44:25+05:30"
-          },
-          {
-            "title": "Software employee saw ₹1.44 crore in his account, lost ₹22.8 lakh; two held in Andhra’s Nandyal",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/software-employee-saw-144-crore-in-his-account-lost-228-lakh-two-held-in-andhras-nandyal/article71476273.ece",
+            "title": "Youth Photographic Society invites entries for contest",
+            "link": "https://www.thehindu.com/news/national/karnataka/youth-photographic-society-calls-for-applications/article71476546.ece",
             "source": "The Hindu",
-            "summary": "Asked to pay ₹25 lakh in “taxes” before he could withdraw his money, he realised he had been cheated",
-            "published": "2026-09-17T17:43:03+05:30"
+            "summary": "",
+            "published": "2026-09-17T18:07:50+05:30"
           },
           {
-            "title": "Asian Games 2026: When and where to watch in India",
-            "link": "https://www.thehindu.com/sport/asian-games-2026-india-live-streaming-when-where-to-watch-ott/article71475908.ece",
+            "title": "Derek Jeter’s $22.5M mansion: Why could Tom Brady’s former rental be demolished?",
+            "link": "https://timesofindia.indiatimes.com/sports/mlb/news/former-mlb-star-derek-jeters-22000-sq-ft-tampa-mansion-sold-to-a-new-owner-for-22-5-million-after-tom-brady-rented-the-waterfront-estate-now-facing-a-possible-demolition/articleshow/134309288.cms",
+            "source": "Times of India",
+            "summary": "Derek Jeter’s old Tampa mansion became synonymous with Tom Brady when the NFL star rented the waterfront estate. Jeter sold the 22,000-square-foot Davis Islands property for $22.5 million in 2021. The historic home was later slated for demolition, with a larger replacement mansion proposed for the site, keeping the property in the spotlight of Tampa’s luxury real estate market.",
+            "published": "2026-09-17T18:05:00+05:30"
+          },
+          {
+            "title": "Dwayne Johnson’s $27.8M mansion: What makes his Beverly Park estate so lavish?",
+            "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/dwayne-the-rock-johnsons-27-8-million-beverly-park-mansion-inside-the-wwe-stars-resort-style-mega-estate-with-pools-tennis-court-and-recording-studio/articleshow/134309295.cms",
+            "source": "Times of India",
+            "summary": "Dwayne “The Rock” Johnson’s Beverly Park estate costs $27.8 million and combines celebrity privacy with resort-style living. This Mediterranean-inspired property sits on approximately 3.67 acres and has a wide array of indoor and outdoor amenities, including swimming pools, a tennis court, a baseball diamond, a gym, a movie theater and a recording studio. The mansion’s history also connects it to actor Paul Reiser…",
+            "published": "2026-09-17T18:05:00+05:30"
+          },
+          {
+            "title": "Why construct new Secretariat complex when T.N. is facing financial crisis, Palaniswami asks TVK govt.",
+            "link": "https://www.thehindu.com/news/cities/Madurai/why-construct-new-secretariat-complex-when-tn-is-facing-financial-crisis-palaniswami-asks-tvk-govt/article71476052.ece",
             "source": "The Hindu",
-            "summary": "Viewers can watch the Asian Games 2026 online on Sony LIV, while TV audience can tune into Sony Sports for the big-ticket sports event",
-            "published": "2026-09-17T17:40:49+05:30"
-          }
-        ],
-        "India": [
+            "summary": "Mr. Palaniswami said that after setting right the State’s financial situation, the government should choose a different site for the new Secretariat, which would not adversely affect people",
+            "published": "2026-09-17T18:00:35+05:30"
+          },
+          {
+            "title": "19th-century Pennsylvania mining village with 83 acres heads to auction",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/a-19th-century-pennsylvania-mining-village-with-83-acres-and-13-historic-buildings-is-going-to-absolute-auction-the-property-already-has-approvals-for-121-new-homes/articleshow/134310461.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-17T18:00:00+05:30"
+          },
+          {
+            "title": "Michigan teen flipped a Rolex at 16; watch business later topped $10m in sales",
+            "link": "https://timesofindia.indiatimes.com/world/us/at-16-a-michigan-student-spent-3500-of-his-savings-on-a-vintage-rolex-and-flipped-it-for-about-500-profit-five-years-later-his-watch-business-says-it-has-topped-10-million-in-cumulative-sales/articleshow/134309409.cms",
+            "source": "Times of India",
+            "summary": "At 16, Michigan student Mason Maressa spent his $3,500 savings on a vintage Rolex Air-King and sold it days later for about $4,000. He reinvested the money into more watches and gradually built Clocked In. Five years later, the 21-year-old says his appointment-only luxury watch business in Grand Haven has crossed $10 million in cumulative sales.",
+            "published": "2026-09-17T18:00:00+05:30"
+          },
           {
             "title": "‘Hindi can’t be barred from Tamil Nadu’: SC on Navodaya schools, gives state 3 months",
             "link": "https://www.hindustantimes.com/india-news/hindi-can-t-be-barred-from-tamil-nadu-sc-on-navodaya-schools-gives-state-3-months-101789648173587.html",
@@ -113,81 +183,11 @@
             "published": "2026-09-17T17:59:33+05:30"
           },
           {
-            "title": "KTR challenges Revanth to order judicial probe into assets of both families",
-            "link": "https://www.thehindu.com/news/national/telangana/ktr-challenges-revanth-to-order-judicial-probe-into-assets-of-both-families/article71476552.ece",
-            "source": "The Hindu",
-            "summary": "KTR said the inquiry should cover every acre of land and every rupee of assets acquired by the two families and added that the BRS was prepared to face any legal consequences if any wrongdoing was established against its leaders",
-            "published": "2026-09-17T17:52:25+05:30"
-          },
-          {
-            "title": "Centre in SC reduces NEET-SS qualifying percentile to 30%; TN to get 40 vacant seats back",
-            "link": "https://www.thehindu.com/news/national/centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-to-get-40-vacant-seats-back/article71475895.ece",
-            "source": "The Hindu",
-            "summary": "Centre reduces NEET-SS qualifying percentile from 50% to 30% for special stray vacancy round; 40 vacant in-service seats to be returned to Tamil Nadu",
-            "published": "2026-09-17T17:50:11+05:30"
-          },
-          {
-            "title": "Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry",
-            "link": "https://www.hindustantimes.com/india-news/tripura-court-sentences-5-bangladeshi-nationals-to-2-years-for-illegal-entry-101789647573437.html",
-            "source": "Hindustan Times",
-            "summary": "A court in Tripura’s Unakoti district sentenced five Bangladeshi nationals, including a couple, to two years in jail for illegally entering India in two separate cases.",
-            "published": "2026-09-17T17:49:32+05:30"
-          },
-          {
-            "title": "Tata Trusts dissents to reappointment of N. Chandrasekaran as Tata Sons chairperson",
-            "link": "https://www.thehindu.com/business/Industry/tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as-tata-sons-chairperson/article71476401.ece",
-            "source": "The Hindu",
-            "summary": "The Tata Trusts formally placed on record their acceptance of the decision the following day and advised Tata Sons to initiate the process for setting up a Selection Committee for appointing a successor, in accordance with the Articles of Association of Tata Sons, the Tata Trusts said in a statement",
-            "published": "2026-09-17T17:48:20+05:30"
-          },
-          {
-            "title": "Bharatpe backs UPI MDR charges, says Ashneer Grover's criticism not company's view: ‘No ties with him since 2024’",
-            "link": "https://www.hindustantimes.com/india-news/bharatpe-backs-upi-charges-says-ashneer-grovers-criticism-not-companys-view-no-ties-with-him-since-2024-101789645119821.html",
-            "source": "Hindustan Times",
-            "summary": "Bharatpe clarified that former CEO Ashneer Grover's views on the MDR charges do not represent the position of the firm and are in his personal capacity.",
-            "published": "2026-09-17T17:47:06+05:30"
-          },
-          {
-            "title": "Italy's Giorgia Meloni wishes PM Modi on his 76th birthday: ‘I wish you health, energy and success’",
-            "link": "https://www.hindustantimes.com/india-news/italys-giorgia-meloni-wishes-pm-modi-on-his-76th-birthday-i-wish-you-health-energy-and-success-101789646860626.html",
-            "source": "Hindustan Times",
-            "summary": "Meloni wished PM Modi on his 76th birthday, expressing hope for his health, energy and success, while praising India-Italy ties.",
-            "published": "2026-09-17T17:44:25+05:30"
-          },
-          {
-            "title": "Software employee saw ₹1.44 crore in his account, lost ₹22.8 lakh; two held in Andhra’s Nandyal",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/software-employee-saw-144-crore-in-his-account-lost-228-lakh-two-held-in-andhras-nandyal/article71476273.ece",
-            "source": "The Hindu",
-            "summary": "Asked to pay ₹25 lakh in “taxes” before he could withdraw his money, he realised he had been cheated",
-            "published": "2026-09-17T17:43:03+05:30"
-          },
-          {
-            "title": "Asian Games 2026: When and where to watch in India",
-            "link": "https://www.thehindu.com/sport/asian-games-2026-india-live-streaming-when-where-to-watch-ott/article71475908.ece",
-            "source": "The Hindu",
-            "summary": "Viewers can watch the Asian Games 2026 online on Sony LIV, while TV audience can tune into Sony Sports for the big-ticket sports event",
-            "published": "2026-09-17T17:40:49+05:30"
-          },
-          {
-            "title": "Collector inspects AU grounds ahead of house pattas distribution event",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-inspects-au-grounds-ahead-of-house-pattas-distribution-event/article71472388.ece",
-            "source": "The Hindu",
-            "summary": "The Collector inspects the main stage, beneficiary galleries, parking areas, entry and exit routes, drinking water points, toilets and food arrangements",
-            "published": "2026-09-17T17:31:05+05:30"
-          },
-          {
-            "title": "Satya Niketan building collapse: Kiran Bedi seeks intervention in case, Centre opposes plea",
-            "link": "https://www.thehindu.com/news/cities/Delhi/satya-niketan-building-collapse-kiran-bedi-seeks-intervention-in-case-centre-opposes-plea/article71476239.ece",
-            "source": "The Hindu",
-            "summary": "Additional Solicitor General Chetan Sharma, appearing for the Centre, Delhi government and the Municipal Corporation of Delhi (MCD), however, opposed Ms. Bedi's application and sought time to file objections",
-            "published": "2026-09-17T17:30:56+05:30"
-          },
-          {
-            "title": "'Unacceptable at any cost': Delhi HC raps student unions on violence, vandalism amid DUSU poll campaign",
-            "link": "https://www.hindustantimes.com/india-news/unacceptable-at-any-cost-delhi-high-court-raps-student-unions-on-violence-vandalism-amid-dusu-poll-campaign-101789646085877.html",
-            "source": "Hindustan Times",
-            "summary": "The court directed the University of Delhi and the Delhi Police to file reports detailing the action taken in connection with the alleged incidents.",
-            "published": "2026-09-17T17:28:38+05:30"
+            "title": "‘Absolutely no ambiguity: Pak says Mecca pact applies as Saudi faces Houthi threat",
+            "link": "https://timesofindia.indiatimes.com/world/pakistan/absolutely-no-ambiguity-pakistan-says-mecca-pact-applies-as-saudi-arabia-faces-houthi-drone-threat/articleshow/134311858.cms",
+            "source": "Times of India",
+            "summary": "Pakistan reiterated its commitment to a defense pact with Saudi Arabia and Turkiye. This agreement mandates collective deterrence against any armed attack on members. Saudi Arabia reported intercepting a Houthi drone near Mecca, which the Houthis denied. Pakistan emphasized its duty to protect Muslim holy sites, even without a formal pact. The nation also urged diplomacy to prevent wider regional conflict escalation.",
+            "published": "2026-09-17T17:54:32+05:30"
           }
         ],
         "World": [
@@ -196,7 +196,28 @@
             "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-            "published": "2026-09-17T12:30:01+00:00"
+            "published": "2026-09-17T12:41:05+00:00"
+          },
+          {
+            "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+            "link": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "In address to European parliament, Canadian Prime Minister Mark Carney listed areas where he wants to boost cooperation.",
+            "published": "2026-09-17T12:31:57+00:00"
+          },
+          {
+            "title": "Syrian court sentences three linked to coastal violence",
+            "link": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Former member of gov&#039;t forces sentenced to 20 years, as two Assad supporters receive death sentence and life in prison.",
+            "published": "2026-09-17T12:31:14+00:00"
+          },
+          {
+            "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
+            "link": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Hundreds gather to share roast potatoes in northern Slovenia as think tank warns &#039;chips are down&#039; across Europe.",
+            "published": "2026-09-17T12:29:24+00:00"
           },
           {
             "title": "Ninth woman's body found as South African police investigate string of deaths",
@@ -253,35 +274,21 @@
             "source": "BBC World",
             "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
             "published": "2026-09-17T11:00:41+00:00"
-          },
-          {
-            "title": "Why is inflation rising again around the world?",
-            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rising energy prices are pushing inflation higher again, forcing major central banks to raise interest rates.",
-            "published": "2026-09-17T10:50:54+00:00"
-          },
-          {
-            "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-            "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US president says Washington is &#039;hopefully toward the end&#039; of Iran war, as global energy prices remain high.",
-            "published": "2026-09-17T10:32:46+00:00"
-          },
-          {
-            "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-            "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a &quot;ceasefire&quot;.",
-            "published": "2026-09-17T10:20:20+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Thousands of Barclays staff call for back-to-office rule reversal",
+            "title": "Interest rates held but Bank signals rise if energy prices stay high",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+            "published": "2026-09-17T12:39:08+00:00"
+          },
+          {
+            "title": "Barclays staff push back at plans to reduce work-from-home days",
             "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Staff are pushing back against proposed Barclays rules cutting down working from home.",
+            "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
             "published": "2026-09-17T12:17:48+00:00"
           },
           {
@@ -290,13 +297,6 @@
             "source": "BBC Business",
             "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
             "published": "2026-09-17T11:59:02+00:00"
-          },
-          {
-            "title": "Interest rates held but Bank signals rise if energy prices stay high",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
-            "published": "2026-09-17T11:50:24+00:00"
           },
           {
             "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+            "published": "2026-09-17T12:58:18+00:00"
+          },
+          {
             "title": "Why are there concerns AI could threaten humanity, and how real are they?",
             "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Samsung Galaxy A08 has been launched in select global markets as the company’s latest phone with 4G connectivity. The new smartphone is currently available for purchase via the Samsung Ukraine online store. The Samsung Galaxy A08 is offered in three colour options, namely Dark Blue, Green, and Silver (translated from Ukrainian). It is powered by an octa-core MediaTek Helio G99 chipset, delivering a peak clock speed…",
             "published": "2026-09-16T17:08:04+05:30"
-          },
-          {
-            "title": "Vivo X300 Pro, iQOO 15 Get Android 17-Based OriginOS 7 Preview Programme in India Ahead of Global Launch",
-            "link": "https://www.gadgets360.com/mobiles/news/vivo-x300-pro-iqoo-15-android-17-originos-7-preview-program-in-india-12054222",
-            "source": "Gadgets 360",
-            "summary": "OriginOS 7 is scheduled to launch globally on September 21, with Vivo and iQOO opening preview programmes for users in India. The Vivo X300 Pro and iQOO 15 are eligible for the early-access programmes, which are limited to 500 users each. iQOO will accept registrations until September 20, while Vivo has not announced an official closing date. The preview software is based on Android 17, and selected users can access…",
-            "published": "2026-09-16T16:24:44+05:30"
           }
         ],
         "Entertainment": [
@@ -540,7 +540,7 @@
             "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
-            "published": "2026-09-17T12:21:58+00:00"
+            "published": "2026-09-17T12:31:07+00:00"
           },
           {
             "title": "RTÉ boycotts Eurovision for second year in a row",
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "नेपाल में हुई तबाही के पीछे क्या थी असली वजह? इस स्टडी से चला पता",
+            "link": "https://www.bbc.com/hindi/articles/cmde04l062z9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-17T12:38:02+00:00"
+          },
+          {
+            "title": "केरलम बाल अधिकार आयोग बोला-लंबे बालों पर भेदभाव न करें:स्कूल ऐसे बच्चों को सजा न दें; बच्चे पसंद से बाल बढ़ाने के लिए आजाद",
+            "link": "https://www.bhaskar.com/national/news/kerala-child-rights-commission-school-hair-length-guidelines-update-139059533.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-17T12:37:58+00:00"
+          },
+          {
             "title": "PM मोदी के जन्मदिन पर दिल्ली में रक्तदान का महाअभियान, CM रेखा गुप्ता और हर्ष मल्होत्रा ने किया ब्लड डोनेट",
             "link": "https://hindi.oneindia.com/news/delhi/pm-modi-76th-brithday-delhi-mega-blood-donation-campaign-rekha-gupta-harsh-malhotra-seva-sankalp-1650293.html",
             "source": "Oneindia Hindi",
@@ -648,7 +662,7 @@
             "published": "2026-09-17T17:19:23+05:30"
           },
           {
-            "title": "दिल्ली पीजी हादसा-किरण बेदी हाईकोर्ट पहुंचीं, केंद्र ने विरोध किया:कोर्ट ने कहा- बेदी को प्रशासन का अनुभव, 11 दिन पहले गिरी थी 5 मंजिला इमारत",
+            "title": "दिल्ली PG हादसा- किरण बेदी की हाईकोर्ट में याचिका:पूर्व IPS ने खुद जांच करने की इजाजत मांगी, सरकार ने विरोध किया",
             "link": "https://www.bhaskar.com/g/national/news/delhi-hostel-collapse-case-kiran-bedi-high-court-hearing-139058865.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -695,20 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-17T10:11:25+00:00"
-          },
-          {
-            "title": "वीरेंद्र सहवाग ने नाम के बाद अब बदला काम, 47 की उम्र में शुरू की नई पारी, शहजाद पूनावाला के साथ छापेंगे पैसे",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/virender-sehwag-starts-a-new-innings-as-rise-fall-2-host-show-to-clash-with-bigg-boss-20-1650109.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-17T15:37:00+05:30"
-          },
-          {
-            "title": "पृथ्वी शॉ के साथ मंगेतर आकृति अग्रवाल का रिश्ता खत्म, लड़की ने सरेआम किया सगाई तोड़ने का ऐलान",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/prithvi-shaw-and-akriti-agarwal-part-ways-fiancee-announces-separation-on-instagram-1650147.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-17T15:31:03+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મહુઆ મોઇત્રાનો આરોપ- બંગાળમાં મુસ્લિમ અધિકારીઓ સાથે ભેદભાવ:દાવો- UN માનવાધિકાર નિષ્ણાતને પત્ર લખ્યો, સરકાર પાસેથી જવાબ માંગવાની અપીલ કરી",
+            "link": "https://www.divyabhaskar.co.in/national/news/mahua-moitra-un-complaint-west-bengal-muslim-officials-controversy-139059642.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-17T12:46:29+00:00"
+          },
+          {
+            "title": "UPI પેમેન્ટ પર ચાર્જ : શું ભારત સરકારના આ નિર્ણય પાછળ અમેરિકન દબાણ કારણભૂત છે?",
+            "link": "https://www.bbc.com/gujarati/articles/cklyjz469761o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-17T12:32:41+00:00"
+          },
+          {
             "title": "દિલ્હી PG દુર્ઘટના- કિરણ બેદી હાઇકોર્ટ પહોંચ્યાં, કેન્દ્રએ વિરોધ કર્યો:કોર્ટે કહ્યું- બેદીને વહીવટનો અનુભવ, 11 દિવસ પહેલાં 5 માળનું હોસ્ટેલ ધરાશાયી થયું હતું",
             "link": "https://www.divyabhaskar.co.in/national/news/kiran-bedi-delhi-hostel-collapse-case-court-hearing-139059332.html",
             "source": "Divya Bhaskar",
@@ -830,13 +844,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-17T11:08:18+00:00"
-          },
-          {
-            "title": "UPI પેમેન્ટ પર ચાર્જ : શું ભારત સરકારના આ નિર્ણય પાછળ અમેરિકન દબાણ કારણભૂત છે?",
-            "link": "https://www.bbc.com/gujarati/articles/cklyjz469761o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-17T11:03:40+00:00"
           },
           {
             "title": "TMCના ચૂંટણી ચિહ્ન પર આજે નિર્ણય લઈ શકે ચૂંટણી પંચ:બંને જૂથોને બેઠક માટે બોલાવ્યા, 6 ઓક્ટોબરે બંગાળની બે બેઠકો પર પેટાચૂંટણી",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-17T09:55:56+00:00"
-          },
-          {
-            "title": "મણિપુર મામલે શું પગલાં લીધા તે જણાવો, સરકારને ફટકાર:SCએ કહ્યું- આદેશ આપવા માટે મજબૂર ન કરો; 25 શંકાસ્પદ મૃત્યુનો રિપોર્ટ માંગ્યો",
-            "link": "https://www.divyabhaskar.co.in/national/news/manipur-relief-camps-suspicious-deaths-supreme-court-probe-139056841.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-17T09:16:14+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "பிரேசிலில் விலகிய மேலாடை.. கையில் 2 வயது குழந்தை.. அருகில் சென்ற போலீசுக்கு தலையே சுத்திடுச்சு",
+            "link": "https://tamil.oneindia.com/news/international/brazil-suspect-caught-after-30-hour-search-2-year-old-child-in-arms-what-police-discovered-up-cl-831653.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-09-17T18:03:30+05:30"
+          },
           {
             "title": "எராட்டோஸ்தனீஸ்: வெறும் ஒரு குச்சியை வைத்து பூமியை அளந்த கிரேக்க அறிஞர்",
             "link": "https://www.bbc.com/tamil/articles/c3kg8npzvng9o?at_medium=RSS&at_campaign=rss",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-17T07:02:22+00:00"
-          },
-          {
-            "title": "3 வயது சிறுவன் எங்கே? பேச முடியாத சிறுவனை தேடி களமிறங்கிய 1,300 பேர், ஹெலிகாப்டர்கள் - இறுதியில் கிடைத்த அதிர்ச்சி தகவல்",
-            "link": "https://www.bbc.com/tamil/articles/cmpd08v866jvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "பிரிட்டனில் மூன்று வயது சிறுவன் நோவா வுட்ஸ் திடீரென காணாமல் போன சம்பவம், அந்த நாடு முழுவதும் பெரும் அதிர்ச்சியையும் கவலையையும் ஏற்படுத்தியது. பேசும் திறன் இல்லாத அந்தச் சிறுவனை மீட்க, உள்ளூர் மக்கள், தன்னார்வலர்கள் மற்றும் மீட்புக் குழுவினர் என சுமார் 1,300 பேர் ஒன்றிணைந்து பிரம்மாண்டமான தேடுதல் வேட்டையை நடத்தினர். சிறுவனை விரைவாகக் கண்டறிய ஹெலிகாப்டர்கள் மற்றும் மோப்ப நாய்கள் வரவழைக்கப்பட்டு, அப்பகுதி முழுவதும் சல்லடை போட்டுத் தேடப்பட்டது. பல மணிநேர தீவிர தேடுதலுக்குப் பிறகு, சிறுவன் நோவா வுட்ஸ் இருந்திருக்கக்கூடிய பகுதியில் ஒரு சிறுவனின் உடல் கண்டெடுக்கப்பட்டதாக காவல் துறையினர் அதிகாரப்பூர்வமாகத் தெரிவித்துள்ளனர். இந்தத் தகவல் சிறுவனின் குடும்பத்தினர் மற்றும் அப்பகுதி மக்களிடையே பெரும் சோகத்தை ஏற்படுத்தியுள்ளது. குழந்தைகள் காணாமல் போகும் சம்பவங்கள் மீண்டும் ஒருமுறை சமூகத்தின் பாதுகாப்புக் குறித்த கேள்விகளை எழுப்பியுள்ளன. குறிப்பாக, மாற்றுத்திறன் கொண்ட அல்லது பேச முடியாத குழந்தைகள் பாதுகாப்பாக இருப்பதை உறுதி செய்ய வேண்டிய அவசியத்தை இந்த சம்பவம் உணர்த்துகிறது. தற்போது இந்த விவகாரம் குறித்து காவல் துறையினர் தீவிர விசாரணை மேற்கொண்டு வருகின்றனர். இந்த சோகமான முடிவு, அந்தச் சிறுவனின் குடும்பத்திற்குப் பேரிழப்பாக அமைந்ததுடன், பிரிட்டன் முழுவதும் பெரும் துயரத்தை ஏற்படுத்தியுள்ளது.",
-            "published": "2026-09-17T05:46:18+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,32 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "థైరాయిడ్ క్యాన్సర్ : ఈ వ్యాధిని ముందే గుర్తించొచ్చా, చికిత్స ఉందా?",
+            "link": "https://www.bbc.com/telugu/articles/crvgy583dlqxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-17T12:45:37+00:00"
+          },
+          {
+            "title": "వరంగల్ కేంద్రంగా సైబర్ ముఠా..దేశవ్యాప్తంగా 185 సైబర్ నేరాలతో లింకులు!",
+            "link": "https://telugu.oneindia.com/news/telangana/cyber-crime-gang-warangal-police-arrest-22-members-inter-state-cyber-criminals-linked-to-185-cases-506637.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-17T18:02:15+05:30"
+          },
+          {
             "title": "యువతిపై ఆరుగురు సామూహిక అత్యాచారం.. వారిలో పోలీసులు కూడా..!",
             "link": "https://telugu.oneindia.com/news/india/karnataka-young-woman-gang-raped-by-six-men-including-police-taken-around-various-lodges-and-hotels-506635.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-17T17:47:59+05:30"
+          },
+          {
+            "title": "Prithvi Shaw: నటితో ఎంగేజ్‌మెంట్‌ క్యాన్సిల్‌.. ఇన్‌స్టా మొత్తం క్లీన్‌ చేసిన పృథ్వీషా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbE1BcHJ3eXlCSlRiQzJ1akRDOTFyRlpsNXQ1Y0hrSlRpbW9YRzhIOE5PelY0bUMtandYcUJXR3VPZEZieHc4VHNYUEljVDE2YzV1VW1BcWVyVWVBTkRqSTVCaGkyNjJSVGpNRkVzbUs5d0dEUzdSM1FWcW1sTHNnbEpLQjR5dHQyajZxanBId0JkZVNMcHdfeUVNS015d0ZJd3ZDVmZhNjVJZENncWZ1TFBXQjhjNnFiWVpMVFZ1ekllWElUTlJGZ2syVFhBdzdu0gHQAUFVX3lxTE1sTUFwcnd5eUJKVGJDMnVqREM5MXJGWmw1dDVjSGtKVGltb1hHOEg4Tk96VjRtQy1qd1hxQldHdU9kRmJ4dzhUc1hQSWNUMTZjNXVVbUFxZXJVZUFORGpJNUJoaTI2MlJUak1GRXNtSzl3R0RTN1IzUVZxbWxMc2dsSktCNHl0dDJqNnFqcEh3QmRlU0xwd195RU1LTXl3Rkl3dkNWZmE2NUlkQ2dxZnVMUFdCOGM2cWJZWkxUVnV6SWVYSVROUkZnazJUWEF3N24?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-17T12:04:20+00:00"
           },
           {
             "title": "అమిత్ షా ప్రోగ్రామ్స్ కు ముస్లిం అధికారులకు నో ఎంట్రీ? -ఐరాసకు టీఎంసీ ఎంపీ..!",
@@ -1100,7 +1121,7 @@
             "published": "2026-09-17T16:42:23+05:30"
           },
           {
-            "title": "MiG-29: అది వీడియో గేమ్‌ ఫుటేజ్‌: పాక్ ‘ఫేక్‌’ వార్‌కు భారత్‌ కౌంటర్‌ - eenadu.net",
+            "title": "MiG-29: అది వీడియో గేమ్‌ ఫుటేజ్‌: పాక్ ‘ఫేక్‌’ వార్‌కు భారత్‌ కౌంటర్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXgyWExOa3NRSHM0aGhJT2VldFIzRTFhQWFwajBxZ056a1g0blEwdEhXYzc1aVFQaVZaOG9nRktDdVYwZ1A0Zy1IMzUycVBFSURFR010VXpsc0g5S0w5cW9sTXpJdmRHaWhWcWxBNW05bXFlUmg0d2c4ZXJ5U182S0lzWmtoR28zMDZZWVFJbzQyUDBUdHVPYjRITDNFcGdKTWJBTm5kTDlkdWfSAasBQVVfeXFMTW14MlhMTmtzUUhzNGhoSU9lZXRSM0UxYUFhcGowcWdOemtYNG5RMHRIV2M3NWlRUGlWWjhvZ0ZLQ3VWMGdQNGctSDM1MnFQRUlERUdNdFV6bHNIOUtMOXFvbE16SXZkR2loVnFsQTVtOW1xZVJoNHdnOGVyeVNfNktJc1praEdvMzA2WVlRSW80MlAwVHR1T2I0SEwzRXBnSk1iQU5uZEw5ZHVn?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-17T16:05:06+05:30"
-          },
-          {
-            "title": "ముద్ర యోజనతో 58 కోట్ల సామాన్యుల జీవితాలపై బలమైన ముద్ర వేసిన ప్రధాని మోడీ",
-            "link": "https://telugu.oneindia.com/news/india/pm-modi-pmmy-pm-modi-s-profound-impact-on-the-lives-of-58-crore-common-people-through-mudra-yojana-506613.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-17T16:03:13+05:30"
-          },
-          {
-            "title": "నా మీదే ఫిర్యాదు చేస్తారా? తాట తీస్తా..! టీడీపీ మహిళా ఎమ్మెల్యే వార్నింగ్..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/tdp-mla-miriyala-sirisha-warns-cadre-against-complaining-to-party-high-command-506611.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-17T15:40:25+05:30"
-          },
-          {
-            "title": "పెట్రోల్ కార్లకు ఇక నో ఎంట్రీ? టాప్-10 లిస్ట్ చూస్తే షాక్ అవుతారు!",
-            "link": "https://telugu.oneindia.com/news/business/china-ev-domination-top-10-best-selling-cars-list-august-2026-with-no-pure-petrol-models-details-506607.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-17T15:19:37+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಬೆಂಗಳೂರಿನಲ್ಲಿ ಮಳೆಯ ಆರ್ಭಟ: ಸೂಕ್ತ ಹಾಗೂ ಅಗತ್ಯ ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಕ್ಕೆ ಸೂಚನೆ: ಡಿ.ಎಸ್. ರಮೇಶ್",
+            "link": "https://kannada.oneindia.com/news/karnataka/bengaluru-ramesh-said-to-identify-flood-prone-areas-take-appropriate-and-necessary-precautionary-468217.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-17T18:30:51+05:30"
+          },
+          {
+            "title": "ಹೋಗಿ ದೇಶವನ್ನು ಲೂಟಿ ಮಾಡುತ್ತಿರುವವರಿಗೆ ವಿಶ್ ಮಾಡ್ತೀರಲ್ಲ: ಮೋದಿ ಬರ್ತ್‌ಡೇಗೆ ವಿಶ್ ಮಾಡಿದ ತೆಂಡೂಲ್ಕರ್‌ಗೆ ನೆಟ್ಟಿಗರ ಕ್ಲಾಸ್",
+            "link": "https://kannada.oneindia.com/news/sports/sachin-tendulkar-wishes-prime-minister-narendra-modi-on-birthday-faces-mixed-reactions-huge-viral-468215.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-17T18:13:29+05:30"
+          },
+          {
             "title": "E-Khata: ಆಸ್ತಿದಾರರಿಗೆ ಇ-ಖಾತಾ ವಿಚಾರದಲ್ಲಿ ಬಿಗ್ ಅಪ್ಡೇಟ್ಸ್‌ ಕೊಟ್ಟ ಸಚಿವ ಡಾ. ಯತೀಂದ್ರ ಸಿದ್ದರಾಮಯ್ಯ",
             "link": "https://kannada.oneindia.com/news/karnataka/e-khata-minister-yathindra-siddaramaiah-gives-big-update-for-property-owners-468209.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-17T15:23:48+05:30"
-          },
-          {
-            "title": "‘ಒಂದು ಮನೆಯಲ್ಲಿ ಒಬ್ಬರಾದರೂ ಸರ್ಕಾರಿ ನೌಕರ ಇರಬೇಕು’… 371ಜೆ ಬಗ್ಗೆ ಡಿಕೆಶಿ ಹೇಳಿದ ಮಾತೇನು?",
-            "link": "https://kannada.oneindia.com/news/karnataka/kalyana-karnataka-one-government-employee-in-every-household-is-real-goal-of-article-371j-dk-shiva-468185.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-17T14:35:13+05:30"
-          },
-          {
-            "title": "ಚೀನಾದಲ್ಲಿದೆ ರೋಬೋಟ್‌ಗಳೇ 10 ನಿಮಿಷಕ್ಕೊಂದು ರೋಬೋಟ್‌ ತಯಾರಿಸುವ ಕಾರ್ಖಾನೆ!",
-            "link": "https://kannada.oneindia.com/news/international/china-robot-factory-one-robot-every-10-minutes-china-opens-smart-factory-where-robots-build-robots-468177.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-17T14:23:56+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ইউনিয়ন পরিষদ নির্বাচন শুরুর তারিখ স্পষ্ট করলো না ইসি",
+            "link": "https://www.bbc.com/bengali/articles/cq70dnk1edl6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-09-17T12:52:10+00:00"
+          },
+          {
             "title": "দলকে পর পর দু’বার আইপিএল জিতিয়ে ভুবনেশ্বরের দাবি, কেন তাঁকে বেঙ্গালুরু কিনেছিল বুঝতেই পারছেন না! - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZU9tZm1iNDh1X19qWklqY3FIdmdWUE5TV0FsMGtieGJVVU5hOWhCd2xibXk2azRjdThmVzhIc2hhNUFGSGd0Y09PaEdOeWpVdjZhemczVE1PbWxuTHhlMEVTTVh5SURBQWY5WUtFUWtwa3pBV2lnVnNzYm9laFZRTWI5YnlaeXRYMENCWDZ0elo1ZktCTDhWdW1CeG1ZNm9vbk9HX21yR2NBZGprTUHSAbMBQVVfeXFMTjloTW5VVmlhN3JJNGx1by1QNlNGVUstbDJJOGlHOUh5amNZN0dLaTJQLW9RSXpjX29CLXRBMWtvSTZ5dFB5cDRFTl9GZWtHX0V3OXVFV1JoSEFfYTduVHV1U2FSd3RoV0M2ajFEWlVZWWNITDU0TkJsX2RWVkh0MkVqVU9qZjk5Qzl0SVdvT2tJZktaNmUtNHRTdmNCWldiaThiYkdZakRwWVA4VXRYNW1jTU0?oc=5",
             "source": "Anandabazar Patrika",
@@ -1438,6 +1445,27 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-17T11:36:34+00:00"
+          },
+          {
+            "title": "সত্যিই দিল্লিতে ব্রিক্‌স সম্মেলনে এসে অসুস্থ হয়ে পড়েছিলেন বিভিন্ন দেশের রাষ্ট্রপ্রধানেরা? ‘ভুয়ো খবর’ ওড়াল বিদেশ মন্ত্রক - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb0Z5aHdqVVNUbVZlNDQzSDc5X1RlZDJzNmI0OERrMndydGhtZ3lmZXJ6RGJhREd2SXZoVXQxT25uN21xVExCSG9aSW41a0JjT0VnOWZyRHdURHVFSmpRSzloNUk5TnhOeXk2VDQ2Q1JmamhaUjRGY1k5YXFFQ1J4bUZtX2p6RVB1QzFMck5LTmsweEJsaWtaSFdrQWJJbG5kODdMNG5kREdhSzJQRDlXVzJQQ0paRHkwVU5NcXBSM3ltM01aeWhIdmZPc2E1bmdyVkFRN2Vqc2FXX1JqR3BfemxEcndXYm_SAewBQVVfeXFMTWtwUktGX2lEeURKZmg5dHc2TGpOaWVTOGNQOHAtazlxMFRIc3ZvYzlwV3d0NmtHOElNNG5BejJLZVdQVjNDd0ktQ2s4VmVSMEQ3VXlXNUxjWmxWME5xVEdfSGJYSnhrTXdZZjFrbDU5Y2lzU3ZfX0YzV3lFVUZSM0JiOGUtLUFidnVJSnBWeHI4d3BOd2hpaFZua2Fwanl3bTFzMEpvcFkzNDVxS2JkdE9za2syUVRjSVNRQUM3a0d4dlNWVTlyeTdrVm13WkVaWldtVWpqQlp2VjZmM2lXRWFLVUFBcjBIU2czek0?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-17T11:27:32+00:00"
+          },
+          {
+            "title": "‘শুধু ভাতা দিতে আসিনি, সংস্কার করতে এসেছি’, অন্নপূর্ণা দিবসে মমতা সরকারকে নিশানা মুখ্যমন্ত্রী শুভেন্দুর - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdl9OVHlIZV9nWENqcFdza2FYdFhpMmdsZENuLUdWdGZNUGljWnNpeG1icDNQTTNkZ1pNcjF4emtybWdZWDNZRzFmUlVyRXdONl8wRGxiblNJRF9mWEFtNHBENThzcVI3bjJTZVJjZ2dJWmRCRzU4blc1cHpuOHZKZldLLXFKaDZodDdDUGhtS2Z3V0ZJMG5jU2ZGX1laNDc0OGVDdF8telhHVW9NUmRhOTVzQklLM0VwTi1Rd3dwbzNTUlVsQzdhTGR1V09nN2NielpHWU9xWUJzX0tWbmxsbUZSbGtOQWZXbjN5ejNWOUdxbmk0bE5Ic0xzVDQ1TE03ME1CVTVONldBV3ZzRGVMN3JsTXZ3ZFM4b3ZldlkzZ1p4dFg0am1UWEQ3TzVSNGptZVMyWdIBugJBVV95cUxOdmlJYlhLU3NQcGZRQ0szZnZiSm1BUFVjU3hKbDdqN0JIY2IwbkhwWW03dXVBOE8zTlZwNll5MHRheVNTTDZINUwtNmdFc3pXNENJYXE5WlRMTmhsNEdSM2VaU2RaaEViMl85N0M3eG1zTzlPdF9CanB0cHE4N0gtcXhTeUYtdVVmSHlJaGtMX1IwOEV6ZXdHeGJubTVUNzVqUDBDZTNkeEhDeHNRSmpmeDZlTDJLVW1IdGxoSTU1aHVlRTlwaFBtY0NqOWx4TDZ4VUVxaEFSVlpvb2QwRkJsOFoycHprYnRTaXRRTUZzMHV6cVFIamZxZGJJNk43cTFLWGNlZ3g3emp6VVFMZlR1OUNOWEc3UGl1RHFpNkpKUHNpUHgzQWFJZi1UYndTMWduTjhNb2YzMmp4UQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-17T09:39:44+00:00"
+          },
+          {
+            "title": "দুই হিমবাহের মাঝে আটকে ভালুকছানা, বরফ কেটে উদ্ধার তরুণদের, দাঁড়িয়ে দেখল মা শ্বাপদ! ভাইরাল ভিডিয়ো - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaFV3aGNYWlB2VFFUaXhqZWEyYUtUb1VqeTdqbi1EU25mYjNpV3gzN29PRlE1dktFWHJmeWZYaGlUYlJGSFFSbEt2TC1jeFk3ZXB6WldRaUFNNmxWYy12LXhCR1JyeGU5cEJoaTgxbDlCTG5XQWFLZXU5dnNfcGg0U2NBM0pXX2EtT241WVB6d3F3bE1aTklGTkIwQXBndEtSd21oT3RqNmJJTG56WUNqTEIxWjlNM0JETHQ3RTJHMFM5Mm9TelJ0b1FGWll4QXdoenl4X001SUVqc2VBYndMZFptb0tpNDZUbDc1STQtRWQ3U093cGd5WNIB_gFBVV95cUxNSmlKcGpHdXBUWDREcU5wTEVPNFN3TUpaTlBfdTNWOGRoS3JzREtzTG5kNHFuX0JaM3VaLWpxRHNhejFnUmluWS1lRlFIQk5ZbjV1Y3F6ZmJnRmp3VUlnaXBxaUxOWm9NU3JqYkhjc1V3Y3RWWjgzNEtpYkdWSUF5OXVFaFpnb0tmQXZRZGZFV2VJbFpGaUtlRzVWOWViVjdUWTNzZmZtUF9FM3VNWDZ6QTZvM3RhZGNVUVVMUnRJQ1JDVU1OR250SkxHWlZrSlk4Z3JaLVc2VWtfVkZIaHBwekh0N3F1bkJRZGxUUjlnSjR4blpWdlFNS3JDekhqUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-17T09:36:12+00:00"
           },
           {
             "title": "‘ভারতের উপর ভরসা বাড়ছে বিশ্বের, বুঝিয়ে দিয়েছে ব্রিক্‌স’! নয়াদিল্লির ‘সেমিকন ইন্ডিয়া’ থেকে বার্তা প্রধানমন্ত্রী মোদীর - Anandabazar Patrika",
@@ -1480,34 +1508,6 @@
             "source": "BBC Bangla",
             "summary": "নাক ডাকা একটি সাধারণ শারীরিক প্রক্রিয়া বলে মনে হলেও, সঙ্গীর নাক ডাকার পাশে ঘুমানোর অভ্যাস আপনার নিজের স্বাস্থ্যের জন্য মারাত্মক ঝুঁকির কারণ হয়ে দাঁড়াতে পারে বলে বিশেষজ্ঞরা সতর্ক করেছেন। বিবিসিকে দেওয়া এক সাক্ষাৎকারে বিশেষজ্ঞরা জানিয়েছেন যে, নিয়মিত অন্যের নাক ডাকার শব্দের মধ্যে ঘুমানোর ফলে ব্যক্তির ঘুমের গভীরতা বা কোয়ালিটি মারাত্মকভাবে ব্যাহত হয়। গভীর ঘুমের অভাবে শরীরে দীর্ঘমেয়াদী ক্লান্তি, মনোযোগের অভাব এবং মানসিক চাপের মতো শারীরিক জটিলতা দেখা দিতে পারে। অনেক ক্ষেত্রে সঙ্গীর এই নাক ডাকার শব্দ ঘুমের মধ্যে আকস্মিক বাধা সৃষ্টি করে, যা শরীরকে পর্যাপ্ত বিশ্রাম নিতে দেয় না। এর ফলে দীর্ঘমেয়াদে হৃদরোগ, উচ্চ রক্তচাপ এবং স্থূলতাসহ বিভিন্ন জটিল স্বাস্থ্যঝুঁকি তৈরির সম্ভাবনা থাকে। বিষয়টি কেবল বিরক্তিকর শব্দের বিষয় নয়, বরং এটি ঘুমের মান নষ্ট করে মেটাবলিজম ও ইমিউন সিস্টেমকেও দুর্বল করে দিতে পারে। তাই যারা নাক ডাকেন এবং যাদের সঙ্গীরা এই সমস্যার সম্মুখীন হচ্ছেন, তাদের জন্য চিকিৎসকের পরামর্শ নেওয়া এবং উপযুক্ত ব্যবস্থা গ্রহণ করা জরুরি। ঘুমের সঠিক পরিবেশ বজায় রাখা এবং নাক ডাকার সঠিক কারণ শনাক্ত করে চিকিৎসা নিলে উভয় সঙ্গীরই সুস্বাস্থ্য নিশ্চিত করা সম্ভব বলে মনে করেন সংশ্লিষ্ট বিশেষজ্ঞরা।",
             "published": "2026-09-17T03:41:56+00:00"
-          },
-          {
-            "title": "আশ্চর্যরকম শান্ত অতলান্তিক! এ বছর এখনও তৈরি হয়নি একটিও হ্যারিকেন, বড় বিপর্যয়ের ইঙ্গিত? চিন্তায় বিজ্ঞানীরা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkw0OFRLODl0N0xSaDNRNnAzaHM3QldJUGN3bEl2ZlBwVWpPOFUxUWdBN2o5UU10R21wc1lQeXJuUFlmWkc5ZElBSmpKdTRmUmxmSW1yT2ZicTNnVWNub3BaaFczM0w5djdNdldwREhuLWhUWHVxbm9hb2s0UzhVd2EtcUlvcGFMeDc4Mkw0MUpnLXdMS2FaUHdCU0lyVm45N1FKSnVfRDRuV3FvMTFMczBmUjhDd1VzdFZvMXNn0gHDAUFVX3lxTFBIM0xGREtNZ3JUWWU4NTVxemVya2xXdFYyUjlZMnJDQ3FFTFNuZU1KbmZnMlhKOTRiWHQxTnlNUGpacElXVnl4emsxNW10ZjhJZE40X2E0cklQdjlvZVBvbEN6WkFZWldQRkFXZjFGQ3FFV25IZjB5RkZEVC1JRXk0MHRUc3BNMkxfRGgwb0hsZHZ4V2ZYZHVCOVM4V2g1aWRkVHhZaGxWSEdTVF9ZeFNPaExoSUY4eXNzYTBJeWJxZEljOA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-17T03:27:12+00:00"
-          },
-          {
-            "title": "পত্রিকা: 'একই শহরে একই কোম্পানির ৩ মেট্রো প্রকল্প, তবু খরচে ৭০ শতাংশ পর্যন্ত পার্থক্য'",
-            "link": "https://www.bbc.com/bengali/articles/cme8xe88z76do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "আজকের পত্রিকায় উঠে এসেছে বিভিন্ন জনগুরুত্বপূর্ণ ও রাজনৈতিক খবর যা দেশবাসীর জন্য বেশ তাৎপর্যপূর্ণ। প্রতিবেদন অনুযায়ী, এই বছর স্থানীয় সরকার নির্বাচন হওয়ার সম্ভাবনা খুবই কম, যা স্থানীয় রাজনীতির সমীকরণে বড় পরিবর্তন আনতে পারে। এছাড়া, রাজনৈতিক অঙ্গনে নিষিদ্ধ ঘোষিত দল আওয়ামী লীগের কোনো ধরণের তৎপরতা বা কর্মসূচি যেন মাঠ পর্যায়ে বাস্তবায়িত না হয়, সে বিষয়ে পুলিশ প্রশাসনকে কঠোর নির্দেশনা দেওয়া হয়েছে। প্রশাসনের নজরদারি বাড়ানো হয়েছে যাতে কোনো বিশৃঙ্খলা সৃষ্টি না হয়। অন্যদিকে, শিক্ষাক্ষেত্রে একটি উদ্বেগজনক চিত্র উঠে এসেছে, যেখানে দেখা যাচ্ছে দেশের কলেজগুলোতে বিপুল পরিমাণ আসন খালি পড়ে আছে। শিক্ষার্থী স্বল্পতার কারণে এই বিশাল সংখ্যক আসন খালি থাকাই এখন শিক্ষাবিদদের জন্য চিন্তার বিষয় হয়ে দাঁড়িয়েছে। এছাড়া, একই শহরে একটি কোম্পানি কর্তৃক পরিচালিত তিনটি মেট্রো প্রকল্পের খরচের মধ্যে প্রায় ৭০ শতাংশ পার্থক্য লক্ষ্য করা গেছে, যা ব্যয়ের স্বচ্ছতা নিয়ে বড় ধরনের প্রশ্ন তুলেছে। এই বিশাল খরচের বৈষম্য কেন হলো এবং প্রকল্পের পরিকল্পনা ও বাস্তবায়নে কোনো অনিয়ম রয়েছে কি না, তা নিয়ে জনমনে কৌতূহলের সৃষ্টি হয়েছে। সরকারি বিভিন্ন প্রকল্পের বরাদ্দ এবং এর কার্যকর ব্যবহারের বিষয়টি সাধারণ মানুষের কাছে এখন আলোচনার কেন্দ্রবিন্দুতে পরিণত হয়েছে।",
-            "published": "2026-09-17T03:14:31+00:00"
-          },
-          {
-            "title": "হুথি হামলায় ক্ষতবিক্ষত সৌদিকে ফেলে পালিয়েছে ‘বন্ধু’ পাকিস্তান, আরবদের বাঁচাতে আসরে ‘শত্রু’ রাষ্ট্র! - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTDBOQjNhYnU5NDFCWlNzcGlfX2c1UTl0TFhISEdLLWktSWtyeUt6aFlFRWFiLW1OSG5QLXhQS0xsbkFoOExzdjgzRlJ3NmxOLVJKbnB2bVh2bmZuLTQ2ck50aU1Sc1ZwNDZpS0paTWhocXJXNzA2MlpiajRRNGJLbW9fMF9feFNjQXFCc1J0UXhPRkJjWTY5aXEyNUpXYk90N3VEbHFiTEoyNThEaWx1V0V5d2dIQmtYeEVxY01fZkVmMS16MHhzSFJwTVFlZ1Z6RGFyRXk5aW4zbUphaHFfaURSMWlVT3FM0gHuAUFVX3lxTFBIOU51YUZFRmVTbWJqV19OWEhveDdfdXplOUxfeFZxZUpWdGpwdVdwMzdOUmpBVENMM3VIVUEwYmh2S21UOFFPQXRwX0tkNURpMmNQYjRzMDZfZGM1dEdoWnNMRTMxbkpSVUZrMF9pOGViR2FId1ltcG5iVThTX3plcGVCa3EtOElGY24wanJNZ0VWM3ZVTGtVSTVlXzVMMC1hRU9CSzA4OUxSc3RFVG1jbW94UTBTTVo4TUI0T3BMTHQ5dXhTV05zMjZTWDdsVEI2YmVZQ0Y2TnY4N0JVZ3A0b2hMMjVOMWZGOEx4b2c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-17T02:26:20+00:00"
-          },
-          {
-            "title": "পণ্য দিতে আসা কর্মীর পায়ের দিকে তাকাতেই মন ভার গ্রাহকের, দিলেন এক চমকপ্রদ উপহার! ভিডিয়ো ভাইরাল - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnUxejRlbC1rQ2ZNdkJJZlZrZkRJbGp5YjBuRXU3bmlQNl9Yd2wyaWtWRGYtZHN4S251WWpIMTY3ZG02M1NnVThNM0NoRk1UYy1nOVhkWUd2TlpPbW1ENjhkLU93VnJKd0xoZGpfMFgySzdveGY1MFBXQkhyWkdnS2hSWVphd0dvalZHak5QWDlXUGVzaHdWYVU4SUVqeHlLOHlv0gGoAUFVX3lxTE9yU1l2Q1JpZjFtazRRN3dMNnV6a1dlb2NRZDdiejBZTVZRdHNvZXJzaHhCc25UMWdOeUZ1dWVrWURja0k0VEl2cTUzcHd4aXZqb251ZGhjNWxkNzFjdl9JYVN2T0FJakcwVTRvM2RNY3cyd2szU0tzQkZNTXFJc0FBMzNFYWVzSzdUWGkwc2ZrSGJmSWYxUWhFRlFidU5OSDFOVEdZdllNYQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-17T02:26:00+00:00"
           }
         ]
       }
