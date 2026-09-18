@@ -1,223 +1,265 @@
 {
-  "updated_at": "2026-09-18T11:01:38.227225+00:00",
+  "updated_at": "2026-09-18T11:05:49.214625+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender stands disqualified from Legislative Assembly",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-sets-aside-speakers-order-rejecting-khairatabad-mla-danam-nagenders-disqualification-petitions/article71480341.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-18T16:26:24+05:30"
-          },
-          {
-            "title": "Mazagon Dock moves into merchant shipbuilding with ₹15,000-crore yard in Andhra’s Dugarajapatnam",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/mazagon-dock-moves-into-merchant-shipbuilding-with-15000-crore-yard-in-andhras-dugarajapatnam/article71479914.ece",
-            "source": "The Hindu",
-            "summary": "MDL is to invest ₹15,000 crore over five to seven years and the project is expected to create 45,000 direct and indirect jobs",
-            "published": "2026-09-18T16:24:16+05:30"
-          },
-          {
-            "title": "Minor girl’s body, partially eaten by dogs, found in Delhi’s Swaroop Nagar; three juveniles among four held for rape and murder",
-            "link": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
-            "source": "The Hindu",
-            "summary": "Police said the body was found in a decomposed, unidentifiable state on September 13; a distant CCTV camera and a peculiar symbol on a tempo helped investigators trace the accused",
-            "published": "2026-09-18T16:19:46+05:30"
-          },
-          {
-            "title": "Passports for children below 15 years valid for 5 years or till they turn 18: MEA amends rules",
-            "link": "https://www.thehindu.com/news/national/passports-issued-to-children-below-15-valid-for-5-years-or-till-they-turn-18-mea-new-rules/article71480249.ece",
-            "source": "The Hindu",
-            "summary": "The Ministry of External Affairs (MEA) notified the Passports (Amendment) Rules, 2026, amending the Passports Rules, 1980.",
-            "published": "2026-09-18T16:13:49+05:30"
-          },
-          {
-            "title": "We bought our £242,000 home without a deposit - here's how",
-            "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-            "published": "2026-09-18T10:43:03+00:00"
-          },
-          {
-            "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
-            "link": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
+            "title": "British rapper Sway dies aged 44",
+            "link": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
-            "summary": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer.",
-            "published": "2026-09-18T10:40:55+00:00"
-          },
-          {
-            "title": "At least 16 killed in attack on mosque in Pakistan",
-            "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-            "published": "2026-09-18T10:39:31+00:00"
-          },
-          {
-            "title": "MDMA trail reaches classroom: college teacher held in Keralam’s Nilambur",
-            "link": "https://www.thehindu.com/news/national/kerala/mdma-trail-reaches-classroom-college-teacher-held-in-keralams-nilambur/article71479616.ece",
-            "source": "The Hindu",
-            "summary": "The arrest comes amid growing concern over the alleged involvement of teachers in drugs-related activities. Earlier, three teachers were arrested in Kozhikode in a case involving synthetic drugs",
-            "published": "2026-09-18T16:07:44+05:30"
-          },
-          {
-            "title": "Charani, Shafali power India past Japan and into Asian Games semi-finals",
-            "link": "https://www.cricinfo.com/ci/content/story/1554807.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "India set up semi-finals date with Bangladesh on September 20 for a spot in the gold-medal match",
-            "published": "2026-09-18T10:37:38+00:00"
-          },
-          {
-            "title": "Dozens of suspected illegal miners die in Nigerian custody",
-            "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-            "published": "2026-09-18T10:35:59+00:00"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay reviews preparations for expansion of Perunthalaivar Kamarajar Breakfast Scheme",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-preparations-for-expansion-of-perunthalaivar-kamarajar-breakfast-scheme/article71480165.ece",
-            "source": "The Hindu",
-            "summary": "CM Vijay will launch the expansion of the scheme at a school in Tiruvanmiyur in Chennai on September 22",
-            "published": "2026-09-18T16:03:01+05:30"
-          },
-          {
-            "title": "US national VanDyke gets default bail in NIA terror conspiracy case",
-            "link": "https://timesofindia.indiatimes.com/india/us-national-vandyke-gets-default-bail-in-nia-terror-conspiracy-case/articleshow/134332458.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-18T16:02:38+05:30"
-          },
-          {
-            "title": "Supermarket sold expired Chocos; consumer court orders Rs 10,182 payout to customer",
-            "link": "https://timesofindia.indiatimes.com/legal/news/supermarket-sold-expired-chocos-consumer-commission-orders-rs-10182-payout-to-customer/articleshow/134332191.cms",
-            "source": "Times of India",
-            "summary": "A consumer commission ordered Vishal Mega Mart to refund a customer Rs 182 for an expired food product. The retailer also must pay Rs 10,000 for compensation and litigation costs. The customer had purchased the expired item on December 1, 2025, and received no response. Vishal Mega Mart denied deficiency in service and unfair trade practices. The commission found the retailer guilty of selling an expired product to…",
-            "published": "2026-09-18T15:58:20+05:30"
-          },
-          {
-            "title": "First time in India: Open top bus takes ministers in procession to Cabinet meeting in Mangaluru",
-            "link": "https://www.thehindu.com/news/cities/Mangalore/first-time-in-india-open-top-bus-takes-ministers-in-a-procession-to-cabinet-meeting-in-mangaluru/article71480006.ece",
-            "source": "The Hindu",
-            "summary": "While Cabinet meetings are normally held in the State capital Bengaluru, the Chief Minister shifted the venue to Mangaluru on the request of Health Minister U.T. Khader",
-            "published": "2026-09-18T15:57:59+05:30"
-          }
-        ],
-        "India": [
-          {
-            "title": "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender stands disqualified from Legislative Assembly",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-sets-aside-speakers-order-rejecting-khairatabad-mla-danam-nagenders-disqualification-petitions/article71480341.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-18T16:26:24+05:30"
-          },
-          {
-            "title": "Mazagon Dock moves into merchant shipbuilding with ₹15,000-crore yard in Andhra’s Dugarajapatnam",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/mazagon-dock-moves-into-merchant-shipbuilding-with-15000-crore-yard-in-andhras-dugarajapatnam/article71479914.ece",
-            "source": "The Hindu",
-            "summary": "MDL is to invest ₹15,000 crore over five to seven years and the project is expected to create 45,000 direct and indirect jobs",
-            "published": "2026-09-18T16:24:16+05:30"
-          },
-          {
-            "title": "Minor girl’s body, partially eaten by dogs, found in Delhi’s Swaroop Nagar; three juveniles among four held for rape and murder",
-            "link": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
-            "source": "The Hindu",
-            "summary": "Police said the body was found in a decomposed, unidentifiable state on September 13; a distant CCTV camera and a peculiar symbol on a tempo helped investigators trace the accused",
-            "published": "2026-09-18T16:19:46+05:30"
-          },
-          {
-            "title": "Passports for children below 15 years valid for 5 years or till they turn 18: MEA amends rules",
-            "link": "https://www.thehindu.com/news/national/passports-issued-to-children-below-15-valid-for-5-years-or-till-they-turn-18-mea-new-rules/article71480249.ece",
-            "source": "The Hindu",
-            "summary": "The Ministry of External Affairs (MEA) notified the Passports (Amendment) Rules, 2026, amending the Passports Rules, 1980.",
-            "published": "2026-09-18T16:13:49+05:30"
-          },
-          {
-            "title": "MDMA trail reaches classroom: college teacher held in Keralam’s Nilambur",
-            "link": "https://www.thehindu.com/news/national/kerala/mdma-trail-reaches-classroom-college-teacher-held-in-keralams-nilambur/article71479616.ece",
-            "source": "The Hindu",
-            "summary": "The arrest comes amid growing concern over the alleged involvement of teachers in drugs-related activities. Earlier, three teachers were arrested in Kozhikode in a case involving synthetic drugs",
-            "published": "2026-09-18T16:07:44+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay reviews preparations for expansion of Perunthalaivar Kamarajar Breakfast Scheme",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-preparations-for-expansion-of-perunthalaivar-kamarajar-breakfast-scheme/article71480165.ece",
-            "source": "The Hindu",
-            "summary": "CM Vijay will launch the expansion of the scheme at a school in Tiruvanmiyur in Chennai on September 22",
-            "published": "2026-09-18T16:03:01+05:30"
-          },
-          {
-            "title": "US national VanDyke gets default bail in NIA terror conspiracy case",
-            "link": "https://timesofindia.indiatimes.com/india/us-national-vandyke-gets-default-bail-in-nia-terror-conspiracy-case/articleshow/134332458.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-18T16:02:38+05:30"
-          },
-          {
-            "title": "Supermarket sold expired Chocos; consumer court orders Rs 10,182 payout to customer",
-            "link": "https://timesofindia.indiatimes.com/legal/news/supermarket-sold-expired-chocos-consumer-commission-orders-rs-10182-payout-to-customer/articleshow/134332191.cms",
-            "source": "Times of India",
-            "summary": "A consumer commission ordered Vishal Mega Mart to refund a customer Rs 182 for an expired food product. The retailer also must pay Rs 10,000 for compensation and litigation costs. The customer had purchased the expired item on December 1, 2025, and received no response. Vishal Mega Mart denied deficiency in service and unfair trade practices. The commission found the retailer guilty of selling an expired product to…",
-            "published": "2026-09-18T15:58:20+05:30"
-          },
-          {
-            "title": "First time in India: Open top bus takes ministers in procession to Cabinet meeting in Mangaluru",
-            "link": "https://www.thehindu.com/news/cities/Mangalore/first-time-in-india-open-top-bus-takes-ministers-in-a-procession-to-cabinet-meeting-in-mangaluru/article71480006.ece",
-            "source": "The Hindu",
-            "summary": "While Cabinet meetings are normally held in the State capital Bengaluru, the Chief Minister shifted the venue to Mangaluru on the request of Health Minister U.T. Khader",
-            "published": "2026-09-18T15:57:59+05:30"
-          },
-          {
-            "title": "Doctor’s driver ‘examines’ patients, prescribes medicines at Kanpur hospital; probe ordered",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/doctors-driver-examines-patients-prescribes-medicines-at-kanpur-hospital-probe-ordered/article71480086.ece",
-            "source": "The Hindu",
-            "summary": "The incident came to light after a video surfaced on social media on September 16, 2026, purportedly showing a man sitting in an OPD room at the Kanshiram Hospital, speaking to patients and writing prescriptions",
-            "published": "2026-09-18T15:57:52+05:30"
-          },
-          {
-            "title": "Pentagon weighs withdrawing 25,000-40,000 troops from Europe: Report",
-            "link": "https://timesofindia.indiatimes.com/world/europe/pentagon-weighs-withdrawing-25000-40000-troops-from-europe-report/articleshow/134332344.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-18T15:53:29+05:30"
-          },
-          {
-            "title": "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case",
-            "link": "https://www.hindustantimes.com/india-news/hyderabad-court-sentences-9-including-8-bangladeshis-to-life-in-trafficking-case-101789726849682.html",
-            "source": "Hindustan Times",
-            "summary": "The accused were charged with bringing Bangladeshi women into India on the promise of employment and subsequently forcing them into prostitution.",
-            "published": "2026-09-18T15:50:49+05:30"
-          }
-        ],
-        "World": [
-          {
-            "title": "At least 16 killed in attack on mosque in Pakistan",
-            "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-            "published": "2026-09-18T10:39:31+00:00"
-          },
-          {
-            "title": "Dozens of suspected illegal miners die in Nigerian custody",
-            "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-            "published": "2026-09-18T10:35:59+00:00"
-          },
-          {
-            "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
-            "link": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "This is a breaking news story.",
-            "published": "2026-09-18T10:18:43+00:00"
+            "summary": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
+            "published": "2026-09-18T11:03:29+00:00"
           },
           {
             "title": "Three dead and eight injured in Philippines school shooting",
             "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
-            "published": "2026-09-18T10:04:43+00:00"
+            "published": "2026-09-18T11:01:46+00:00"
+          },
+          {
+            "title": "Delhi court grants bail to U.S. national Van Dyke's in terror-conspiracy case",
+            "link": "https://www.thehindu.com/news/national/delhi-court-grants-bail-to-us-national-van-dykes-in-terror-conspiracy-case/article71480347.ece",
+            "source": "The Hindu",
+            "summary": "Earlier this month, the NIA filed a chargesheet against Van Dyke and six Ukrainian citizens for alleged illegal entry, stay and movement in India",
+            "published": "2026-09-18T16:29:26+05:30"
+          },
+          {
+            "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+            "link": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+            "published": "2026-09-18T10:59:04+00:00"
+          },
+          {
+            "title": "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender stands disqualified as member of Legislative Assembly",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-sets-aside-speakers-order-rejecting-khairatabad-mla-danam-nagenders-disqualification-petitions/article71480341.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-18T16:28:54+05:30"
+          },
+          {
+            "title": "‘PNS Hunain violated maritime norms’: India rejects Pak's claims over naval collision",
+            "link": "https://timesofindia.indiatimes.com/india/pns-hunain-violated-maritime-norms-india-rejects-pakistans-usual-prevarication-over-naval-collision/articleshow/134333051.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-18T16:27:31+05:30"
+          },
+          {
+            "title": "'Will go to any extent': Pakistan pledges to defend Saudi arabia amid Houthi threat",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/will-go-to-any-extent-pakistan-pledges-to-defend-saudi-arabia-amid-houthi-threat/articleshow/134333020.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-18T16:24:58+05:30"
+          },
+          {
+            "title": "Mazagon Dock moves into merchant shipbuilding with ₹15,000-crore yard in Andhra’s Dugarajapatnam",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/mazagon-dock-moves-into-merchant-shipbuilding-with-15000-crore-yard-in-andhras-dugarajapatnam/article71479914.ece",
+            "source": "The Hindu",
+            "summary": "MDL is to invest ₹15,000 crore over five to seven years and the project is expected to create 45,000 direct and indirect jobs",
+            "published": "2026-09-18T16:24:16+05:30"
+          },
+          {
+            "title": "Minor girl’s body, partially eaten by dogs, found in Delhi’s Swaroop Nagar; three juveniles among four held for rape and murder",
+            "link": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
+            "source": "The Hindu",
+            "summary": "Police said the body was found in a decomposed, unidentifiable state on September 13; a distant CCTV camera and a peculiar symbol on a tempo helped investigators trace the accused",
+            "published": "2026-09-18T16:19:46+05:30"
+          },
+          {
+            "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+            "link": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+            "published": "2026-09-18T10:49:33+00:00"
+          },
+          {
+            "title": "India’s hydrogen train gets 40-60 riders vs 2,600 capacity; Delhi extension planned",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/in-july-2026-indias-first-hydrogen-train-was-launched-but-only-40-60-ride-it-despite-2600-capacity-two-months-later-railways-plans-to-extend-it-to-delhi/articleshow/134329608.cms",
+            "source": "Times of India",
+            "summary": "India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.",
+            "published": "2026-09-18T16:14:00+05:30"
+          },
+          {
+            "title": "Passports for children below 15 years valid for 5 years or till they turn 18: MEA amends rules",
+            "link": "https://www.thehindu.com/news/national/passports-issued-to-children-below-15-valid-for-5-years-or-till-they-turn-18-mea-new-rules/article71480249.ece",
+            "source": "The Hindu",
+            "summary": "The Ministry of External Affairs (MEA) notified the Passports (Amendment) Rules, 2026, amending the Passports Rules, 1980.",
+            "published": "2026-09-18T16:13:49+05:30"
+          },
+          {
+            "title": "Nandigram bypoll: TMC candidate withdraws after Suvendu meet, Mamata backs Cong",
+            "link": "https://timesofindia.indiatimes.com/india/nandigram-bypoll-tmc-candidate-withdraws-nomination-after-suvendu-meet-mamata-extends-support-to-congress/articleshow/134332742.cms",
+            "source": "Times of India",
+            "summary": "Nandigram bypoll: TMC candidate withdraws nomination, Mamata to support Congress",
+            "published": "2026-09-18T16:13:33+05:30"
+          },
+          {
+            "title": "United Nations says US may have committed war crimes in Iran: What it means",
+            "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+            "published": "2026-09-18T10:43:18+00:00"
+          }
+        ],
+        "India": [
+          {
+            "title": "Delhi court grants bail to U.S. national Van Dyke's in terror-conspiracy case",
+            "link": "https://www.thehindu.com/news/national/delhi-court-grants-bail-to-us-national-van-dykes-in-terror-conspiracy-case/article71480347.ece",
+            "source": "The Hindu",
+            "summary": "Earlier this month, the NIA filed a chargesheet against Van Dyke and six Ukrainian citizens for alleged illegal entry, stay and movement in India",
+            "published": "2026-09-18T16:29:26+05:30"
+          },
+          {
+            "title": "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender stands disqualified as member of Legislative Assembly",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-sets-aside-speakers-order-rejecting-khairatabad-mla-danam-nagenders-disqualification-petitions/article71480341.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-18T16:28:54+05:30"
+          },
+          {
+            "title": "‘PNS Hunain violated maritime norms’: India rejects Pak's claims over naval collision",
+            "link": "https://timesofindia.indiatimes.com/india/pns-hunain-violated-maritime-norms-india-rejects-pakistans-usual-prevarication-over-naval-collision/articleshow/134333051.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-18T16:27:31+05:30"
+          },
+          {
+            "title": "'Will go to any extent': Pakistan pledges to defend Saudi arabia amid Houthi threat",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/will-go-to-any-extent-pakistan-pledges-to-defend-saudi-arabia-amid-houthi-threat/articleshow/134333020.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-18T16:24:58+05:30"
+          },
+          {
+            "title": "Mazagon Dock moves into merchant shipbuilding with ₹15,000-crore yard in Andhra’s Dugarajapatnam",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/mazagon-dock-moves-into-merchant-shipbuilding-with-15000-crore-yard-in-andhras-dugarajapatnam/article71479914.ece",
+            "source": "The Hindu",
+            "summary": "MDL is to invest ₹15,000 crore over five to seven years and the project is expected to create 45,000 direct and indirect jobs",
+            "published": "2026-09-18T16:24:16+05:30"
+          },
+          {
+            "title": "Minor girl’s body, partially eaten by dogs, found in Delhi’s Swaroop Nagar; three juveniles among four held for rape and murder",
+            "link": "https://www.thehindu.com/news/cities/Delhi/four-including-three-juveniles-arrested-for-rape-and-murder-of-minor-girl-in-delhis-swaroop-nagar/article71479244.ece",
+            "source": "The Hindu",
+            "summary": "Police said the body was found in a decomposed, unidentifiable state on September 13; a distant CCTV camera and a peculiar symbol on a tempo helped investigators trace the accused",
+            "published": "2026-09-18T16:19:46+05:30"
+          },
+          {
+            "title": "India’s hydrogen train gets 40-60 riders vs 2,600 capacity; Delhi extension planned",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/in-july-2026-indias-first-hydrogen-train-was-launched-but-only-40-60-ride-it-despite-2600-capacity-two-months-later-railways-plans-to-extend-it-to-delhi/articleshow/134329608.cms",
+            "source": "Times of India",
+            "summary": "India’s first indigenous hydrogen-powered train was launched on July 17, marking a step towards the use of next-generation clean and sustainable transportation technology.",
+            "published": "2026-09-18T16:14:00+05:30"
+          },
+          {
+            "title": "Passports for children below 15 years valid for 5 years or till they turn 18: MEA amends rules",
+            "link": "https://www.thehindu.com/news/national/passports-issued-to-children-below-15-valid-for-5-years-or-till-they-turn-18-mea-new-rules/article71480249.ece",
+            "source": "The Hindu",
+            "summary": "The Ministry of External Affairs (MEA) notified the Passports (Amendment) Rules, 2026, amending the Passports Rules, 1980.",
+            "published": "2026-09-18T16:13:49+05:30"
+          },
+          {
+            "title": "Nandigram bypoll: TMC candidate withdraws after Suvendu meet, Mamata backs Cong",
+            "link": "https://timesofindia.indiatimes.com/india/nandigram-bypoll-tmc-candidate-withdraws-nomination-after-suvendu-meet-mamata-extends-support-to-congress/articleshow/134332742.cms",
+            "source": "Times of India",
+            "summary": "Nandigram bypoll: TMC candidate withdraws nomination, Mamata to support Congress",
+            "published": "2026-09-18T16:13:33+05:30"
+          },
+          {
+            "title": "Central Board of Film Certification issues new guidelines after nearly 35 years",
+            "link": "https://www.hindustantimes.com/india-news/central-board-of-film-certification-issues-new-guidelines-after-nearly-35-years-101789727870387.html",
+            "source": "Hindustan Times",
+            "summary": "Issued by Ministry of Information and Broadcasting, the guidelines retain existing provisions on violence, obscenity, sexual violence, communal content, national security",
+            "published": "2026-09-18T16:07:49+05:30"
+          },
+          {
+            "title": "MDMA trail reaches classroom: college teacher held in Keralam’s Nilambur",
+            "link": "https://www.thehindu.com/news/national/kerala/mdma-trail-reaches-classroom-college-teacher-held-in-keralams-nilambur/article71479616.ece",
+            "source": "The Hindu",
+            "summary": "The arrest comes amid growing concern over the alleged involvement of teachers in drugs-related activities. Earlier, three teachers were arrested in Kozhikode in a case involving synthetic drugs",
+            "published": "2026-09-18T16:07:44+05:30"
+          },
+          {
+            "title": "Tamil Nadu CM Vijay reviews preparations for expansion of Perunthalaivar Kamarajar Breakfast Scheme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-preparations-for-expansion-of-perunthalaivar-kamarajar-breakfast-scheme/article71480165.ece",
+            "source": "The Hindu",
+            "summary": "CM Vijay will launch the expansion of the scheme at a school in Tiruvanmiyur in Chennai on September 22",
+            "published": "2026-09-18T16:03:01+05:30"
+          }
+        ],
+        "World": [
+          {
+            "title": "Three dead and eight injured in Philippines school shooting",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+            "published": "2026-09-18T11:01:46+00:00"
+          },
+          {
+            "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+            "link": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+            "published": "2026-09-18T10:59:04+00:00"
+          },
+          {
+            "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+            "link": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+            "published": "2026-09-18T10:49:33+00:00"
+          },
+          {
+            "title": "United Nations says US may have committed war crimes in Iran: What it means",
+            "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+            "published": "2026-09-18T10:43:18+00:00"
+          },
+          {
+            "title": "At least 16 killed in attack on mosque in Pakistan",
+            "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
+            "published": "2026-09-18T10:39:31+00:00"
+          },
+          {
+            "title": "Dozens of suspected illegal miners die in Nigerian custody",
+            "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+            "published": "2026-09-18T10:35:59+00:00"
+          },
+          {
+            "title": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
+            "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A quarter of the world’s population faces a surging cost of living crisis because of the wars in the Middle East.",
+            "published": "2026-09-18T10:33:22+00:00"
+          },
+          {
+            "title": "Israel is killing the people who could end its wars",
+            "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+            "published": "2026-09-18T10:29:34+00:00"
+          },
+          {
+            "title": "Ukraine fires drone barrage as Russia launches elections",
+            "link": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Russia&#039;s first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+            "published": "2026-09-18T10:28:17+00:00"
+          },
+          {
+            "title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+            "link": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Attack not immediately claimed, but ISIL and Pakistan Taliban (TTP) active in the region and regularly target troops.",
+            "published": "2026-09-18T10:18:43+00:00"
           },
           {
             "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
@@ -232,48 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
             "published": "2026-09-18T09:34:37+00:00"
-          },
-          {
-            "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
-            "link": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Harry Kane could become first Ballon d&#039;Or from England since 2001, but striker focused on Bayern Munich trophies.",
-            "published": "2026-09-18T09:12:09+00:00"
-          },
-          {
-            "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
-            "link": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
-            "published": "2026-09-18T09:10:42+00:00"
-          },
-          {
-            "title": "Video: Influencers accused of exploiting Nepal flood survivors",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "‘Aid influencers’ are being accused of exploiting Nepal flood victims to boost social media followers.",
-            "published": "2026-09-18T08:58:48+00:00"
-          },
-          {
-            "title": "Israel would rather not watch NAZA",
-            "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
-            "published": "2026-09-18T08:49:16+00:00"
-          },
-          {
-            "title": "‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs",
-            "link": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Evidence shared exclusively with Al Jazeera shows ISIL supporters sharing ways to bypass AI safeguards.",
-            "published": "2026-09-18T08:39:59+00:00"
-          },
-          {
-            "title": "Indonesia acquires first aircraft carrier amid military upgrade",
-            "link": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Indonesia says vessel will be used to aid disaster relief across the archipelago.",
-            "published": "2026-09-18T07:54:49+00:00"
           }
         ],
         "Business": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "British rapper Sway dies aged 44",
+            "link": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death.",
+            "published": "2026-09-18T11:03:29+00:00"
+          },
+          {
             "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
             "link": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -590,13 +597,6 @@
             "source": "BBC Entertainment",
             "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
             "published": "2026-09-18T00:38:03+00:00"
-          },
-          {
-            "title": "Marooned Lord Byron statue returns to Hyde Park",
-            "link": "https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The statue was left isolated on a Park Lane traffic island after new roads were built in the 1960s.",
-            "published": "2026-09-17T18:15:45+00:00"
           },
           {
             "title": "GTA 6 soundtrack reveal revives digital release debate",
@@ -899,7 +899,14 @@
             "link": "https://tamil.oneindia.com/news/india/mamata-banerjee-faction-gets-football-player-symbol-and-function-as-a-mamata-all-india-trinamool-co-831861.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-09-18T15:57:21+05:30"
+            "published": "2026-09-18T16:34:04+05:30"
+          },
+          {
+            "title": "இபிஎஃப்ஓ சம்பள வரம்பு உயர்வு: ரூ.25,000 வரை ஊதியம் பெறும் நபர்களுக்கு என்னவெல்லாம் கிடைக்கும்?",
+            "link": "https://www.bbc.com/tamil/articles/c3dx0z851e2po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-18T11:00:37+00:00"
           },
           {
             "title": "சௌதி அரேபியாவுக்கு எஃப்-35 போர் விமானங்களை விற்கும் அமெரிக்காவின் திட்டத்தால் சர்ச்சை ஏன்?",
@@ -935,13 +942,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-18T08:14:14+00:00"
-          },
-          {
-            "title": "தமிழ்நாட்டில் வழக்கத்தைவிட வெப்பம் அதிகமாக உள்ளது மின்சாரத் தேவையை அதிகரித்துள்ளதா?",
-            "link": "https://www.bbc.com/tamil/articles/cqdr7e46dev3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-18T08:12:33+00:00"
           },
           {
             "title": "காணொளி: கட்டட இடிபாடுகளில் இருந்து உயிருடன் மீட்கப்பட்ட சிறுவன்",
