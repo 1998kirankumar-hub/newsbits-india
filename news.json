@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:01:35.574649+00:00",
+  "updated_at": "2026-09-20T01:31:12.549203+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -13,11 +13,11 @@
             "published": "2026-09-20T10:00:14+05:30"
           },
           {
-            "title": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
             "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The mega-star singer held his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
-            "published": "2026-09-20T00:53:55+00:00"
+            "summary": "The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
+            "published": "2026-09-20T01:10:01+00:00"
           },
           {
             "title": "US military says it struck suspected drug-trafficking vessel, 4 killed",
@@ -69,6 +69,13 @@
             "published": "2026-09-20T05:15:30+05:30"
           },
           {
+            "title": "Saudi Arabia claims Houthis tried to attack its capital Riyadh with missiles",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-claims-houthis-tried-to-attack-its-capital-riyadh-with-missiles/articleshow/134362350.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-20T04:53:07+05:30"
+          },
+          {
             "title": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
             "link": "https://www.thehindu.com/news/national/karnataka/union-home-minister-amitshah-falls-ill-inhubballi/article71483956.ece",
             "source": "The Hindu",
@@ -95,13 +102,6 @@
             "source": "BBC World",
             "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
             "published": "2026-09-19T23:18:06+00:00"
-          },
-          {
-            "title": "Morning-after pills may get 4 boxed warnings",
-            "link": "https://timesofindia.indiatimes.com/india/morning-after-pills-may-get-4-boxed-warnings/articleshow/134362327.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-20T04:37:09+05:30"
           }
         ],
         "India": [
@@ -111,6 +111,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-20T06:13:12+05:30"
+          },
+          {
+            "title": "Saudi Arabia claims Houthis tried to attack its capital Riyadh with missiles",
+            "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-claims-houthis-tried-to-attack-its-capital-riyadh-with-missiles/articleshow/134362350.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-20T04:53:07+05:30"
           },
           {
             "title": "Union Home Minister Amit Shah falls ill in Hubballi, skips inauguration of college",
@@ -132,6 +139,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-20T04:25:16+05:30"
+          },
+          {
+            "title": "Replacing Russian barrels may hike costs as Trump signs Russia sanctions bill",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/trump-signs-russia-sanctions-bill-may-hit-indias-crude-tap/articleshow/134362151.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-20T03:54:45+05:30"
           },
           {
             "title": "As monsoon withdrawal begins, season may end with 10% deficit",
@@ -174,29 +188,15 @@
             "source": "The Hindu",
             "summary": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years. Ishita Mishra and Suruchi Kumari spoke to people appealing to retain their right to vote and officials who share the reality of a process marked by confusion. As always, the burden to prove their identity is falling hardest…",
             "published": "2026-09-20T02:30:34+05:30"
-          },
-          {
-            "title": "SC 'banyan tree' of environmental justice: CJI Surya Kant",
-            "link": "https://timesofindia.indiatimes.com/india/sc-banyan-tree-of-environmental-justice-cji-surya-kant/articleshow/134360298.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-20T02:27:55+05:30"
-          },
-          {
-            "title": "PM Modi pushes back on West’s narrative over emissions",
-            "link": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-20T02:22:39+05:30"
           }
         ],
         "World": [
           {
-            "title": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
             "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The mega-star singer held his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
-            "published": "2026-09-20T00:53:55+00:00"
+            "summary": "The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
+            "published": "2026-09-20T01:10:01+00:00"
           },
           {
             "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
@@ -634,11 +634,39 @@
             "published": "2026-09-20T12:03:14+05:30"
           },
           {
+            "title": "Asian Games 2026 Live Updates: क्विंसी का कांस्य पदक मुकाबला शुरू; शूटिंग और वुशू के भी मुकाबले जारी",
+            "link": "https://www.amarujala.com/live/sports/asian-games-2026-live-updates-day-1-india-s-medal-hunt-begins-wushu-shooting-live-updates-cricket-semifinal-2026-09-20",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-20T06:51:37+05:30"
+          },
+          {
+            "title": "लालबाग में गणपति पंडाल के पास हादसा: करंट लगने से आठ साल की बच्ची समेत दो की मौत; कई लोग घायल",
+            "link": "https://www.amarujala.com/india-news/mumbai-lalbaug-ganpati-pandal-electrocution-two-dead-several-injured-2026-09-20",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-20T06:44:41+05:30"
+          },
+          {
+            "title": "किशोर न्याय बोर्ड का अनोखा फैसला: 9 नाबालिगों को दी जमानत, दिल्ली से रहेंगे दूर ताकि अपराध से हो किनारा",
+            "link": "https://www.amarujala.com/delhi-ncr/bail-granted-to-9-minors-they-must-stay-away-from-delhi-to-distance-themselves-from-crime-2026-09-20",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-20T06:15:14+05:30"
+          },
+          {
             "title": "'शर्ट उतारकर इनरवियर में कर लो', 41 साल की फेमस एक्ट्रेस को डायरेक्टर ने दिया 'गंदा' ऑफर, बयां किया दर्द",
             "link": "https://hindi.oneindia.com/news/entertainment/radhika-apte-41-age-actress-dirty-proposal-by-director-said-take-off-shirt-do-it-in-underwear-1651663.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-20T06:05:07+05:30"
+          },
+          {
+            "title": "आज के दिन: भाजपा अध्यक्ष की आईटी सेल के साथ बैठक, एशियाड में क्रिकेट-हॉकी से बैडमिंटन तक में भारत के मुकाबले",
+            "link": "https://www.amarujala.com/india-news/20-september-2026-major-event-2026-09-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-20T06:01:02+05:30"
           },
           {
             "title": "महाराष्ट्र समेत 9 राज्यों में बारिश का यलो अलर्ट:ओडिशा के 10 जिलों में 50kmph की रफ्तार से हवा चलेगी; छत्तीसगढ़ में बिजली गिरी, 4 की मौत",
@@ -662,7 +690,7 @@
             "published": "2026-09-19T23:42:45+00:00"
           },
           {
-            "title": "भास्कर अपडेट्स:दिल्ली से अबू धाबी जाने वाली एतिहाद की फ्लाइट तकनीकी खराबी के चलते रद्द; 200 यात्री एयरपोर्ट पर फंसे",
+            "title": "भास्कर अपडेट्स:मुंबई के लालबाग में गणपति पंडाल के पास करंट से 2 की मौत, 4 घायल",
             "link": "https://www.bhaskar.com/g/national/news/breaking-news-live-updates-headlines-20-september-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-139075767-139086416.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -676,39 +704,11 @@
             "published": "2026-09-19T23:35:00+00:00"
           },
           {
-            "title": "सादगी की मिसाल: 40 साल से रोजाना न्यूजलेटर बांट रहे जापान के पूर्व पीएम नोदा, आम नेता की तरह करते हैं प्रचार",
-            "link": "https://www.amarujala.com/world/japan-former-pm-yoshihiko-noda-has-distributed-newsletters-at-railway-stations-for-40-years-2026-09-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-20T04:13:12+05:30"
-          },
-          {
             "title": "डूसू चुनाव: आपसी कलह और बगावत ने खुलने ही नहीं दिया एनएसयूआई का खाता, निर्दलीय दीपांशु की जीत ने दिखाया आईना",
             "link": "https://www.amarujala.com/delhi-ncr/dusu-elections-infighting-and-rebellion-prevented-nsui-from-opening-its-account-2026-09-20",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-20T04:12:28+05:30"
-          },
-          {
-            "title": "डूसू चुनाव नतीजे: भाजपा को सियासी टॉनिक, 'जंतर-मंतर की तपिश' झेल रही पार्टी को मिली राहत की राह",
-            "link": "https://www.amarujala.com/delhi-ncr/dusu-elections-bjp-gets-a-political-tonic-2026-09-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-20T04:04:44+05:30"
-          },
-          {
-            "title": "दिल्ली: यू-ट्यूबर ने सिलिंडर ब्लास्ट कर खुद की जान ली, पुलिस कह रही थी लगी है आग... बाद में सनसनीखेज खुलासा",
-            "link": "https://www.amarujala.com/delhi-ncr/youtuber-takes-own-life-by-causing-cylinder-blast-2026-09-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-20T03:57:05+05:30"
-          },
-          {
-            "title": "शिमला: हिमाचल में दूसरी जगह काम कर रहे सभी कर्मचारियों की प्रतिनियुक्ति रद्द, कार्मिक विभाग ने चिट्ठी जारी की",
-            "link": "https://www.amarujala.com/shimla/deputation-of-all-employees-working-at-other-locations-in-himachal-cancelled-2026-09-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-20T03:37:34+05:30"
           }
         ],
         "Entertainment": [
@@ -804,18 +804,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:રાહુલે કહ્યું- સિસ્ટમ અંધભક્તો પેદા કરી રહી છે; પાકિસ્તાનના ખજાનામાં અચાનક 3 અબજ ડોલરનો વધારો, ગુજરાતમાં બે વિદ્યાર્થિનીની મોતની છલાંગ",
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:રાહુલે કહ્યું- સિસ્ટમ અંધભક્તો પેદા કરી રહી છે; પાકિસ્તાનના ખજાનામાં અચાનક 3 અબજ ડોલરનો વધારો, AI બેકાબૂ-'જેમિની'એ ત્રણ કંપનીની સિસ્ટમ હેક કરી",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-rahul-gandhi-indore-chhatron-ki-goonj-event-139082658.html",
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-19T23:30:00+00:00"
-          },
-          {
-            "title": "e-KYC નહીં કરો તો LPG સિલિન્ડર પર સબસિડી નહીં મળે:નવો નિયમ 1 ઓક્ટોબરથી; ઘરે બેઠા મોબાઇલ એપથી e-KYC કરો",
-            "link": "https://www.divyabhaskar.co.in/national/news/lpg-ekyc-mandatory-subsidy-update-india-139084009.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-19T19:01:59+00:00"
           },
           {
             "title": "દિલ્હી SIR-કેજરીવાલ સહિત અનેક નેતાઓને ચૂંટણી પંચની નોટિસ:CM રેખાની ઉંમરમાં ગડબડ, કેજરીવાલનું નામ જૂના SIR સાથે લિંક નથી",
@@ -886,6 +879,13 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-09-19T11:48:20+00:00"
+          },
+          {
+            "title": "આંખની નીચે કાળાં કુંડાળાંનાં ચાર મુખ્ય કારણો કયાં? તેનાથી બચવા શું કરવું?",
+            "link": "https://www.bbc.com/gujarati/articles/cqlyk25pe1ldo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-19T11:47:34+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "குறைவாகவோ அல்லது அதிகமாகவோ தூங்கினால் உங்கள் உடல் சீக்கிரம் முதுமையடையுமா?",
+            "link": "https://www.bbc.com/tamil/articles/ck9qrdyq004wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-20T01:22:46+00:00"
+          },
           {
             "title": "சவுதியில் பல இடங்கள் டார்கெட்.. அடுத்தடுத்து தாக்கிய ஹவுதி.. மத்திய கிழக்கில் எகிறும் பதற்றம்",
             "link": "https://tamil.oneindia.com/news/international/yemen-houthis-say-they-attacked-sensitive-sites-in-the-saudi-capital-riyadh-832197.html",
@@ -970,13 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-19T17:22:53+05:30"
-          },
-          {
-            "title": "வெடித்து சிதறிய பெட்ரோல் கேன்.. உடலில் தீப்பரவி 2 பேர் பலி.. விநாயகர் சதுர்த்தி விழாவில் சோகம்",
-            "link": "https://tamil.oneindia.com/news/tamilnadu/two-people-died-in-an-accident-involving-a-petrol-cane-explosion-in-kotagiri-832135.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-19T17:10:07+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ఉద్యోగాలన్నారు.. ఉసూరుమనిపించారు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMWJXOTdWeUJ5YW9YZktSQmNaYmlNZzJiNjF3Zmc3cnhTbDd6ajhkX1RyYlpPd1dldUVKQlNuWW5HZlk4cjYzVWdxMFdoMVY5aTJSR2Zpamx5dnlVb0VMR2g5UTFybDVDZE1qSHV2VVhpd2JKR0FXWHpIcXBuZw?oc=5",
+            "title": "Ajit Doval: 2 దశాబ్దాల్లో 38 ట్రిలియన్‌ డాలర్లకు జీడీపీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTlweHIzNnAzT1dIRzJZanFFdlY5WGNGTGQxWlBObE9OMm9DTDB3MUxHekdja2FYR1RwZVdVLVUzTGVFWXFJLU5tOHd0YmlDMHBMM3lIWktETXB6eTh4dGxFQndGSXlIUHN4QmowZ0pZVmtSaDhNc0taM2Q3ZXpJT3h4aUZWZjVTcE5kbUFseEs1Z0FYSXh0N3ZjUHJGcUxDakc3ZdIBpAFBVV95cUxOUTlweHIzNnAzT1dIRzJZanFFdlY5WGNGTGQxWlBObE9OMm9DTDB3MUxHekdja2FYR1RwZVdVLVUzTGVFWXFJLU5tOHd0YmlDMHBMM3lIWktETXB6eTh4dGxFQndGSXlIUHN4QmowZ0pZVmtSaDhNc0taM2Q3ZXpJT3h4aUZWZjVTcE5kbUFseEs1Z0FYSXh0N3ZjUHJGcUxDakc3ZQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-19T23:52:49+00:00"
+            "published": "2026-09-20T00:58:07+00:00"
           },
           {
-            "title": "సిక్కోలుకు భారీ వర్షసూచన - eenadu.net",
+            "title": "Dubai: రియాద్‌పై హూతీల దాడి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXk4ZkdCOEhzQUtacGxKTGdSRVRUWGlDWmwza1Uxc2ROOUhIeEEzUFdVVUpIVWJ5NkpLQVBZaWxZRHk1Z3hpREptaXR6Sm1hU0ROYVZwZmp0a09TcFdBX2JlN2R0TzFqdnFpM1RSMUxSM3ZCMGtVWnBHV0k2dHdaZ2lNXzkydWVGTUJodXYtSGTSAZABQVVfeXFMTU15OGZHQjhIc0FLWnBsSkxnUkVUVFhpQ1psM2tVMXNkTjlISHhBM1BXVVVKSFVieTZKS0FQWWlsWUR5NWd4aURKbWl0ekptYVNETmFWcGZqdGtPU3BXQV9iZTdkdE8xanZxaTNUUjFMUjN2QjBrVVpwR1dJNnR3WmdpTV85MnVlRk1CaHV2LUhk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-20T00:15:22+00:00"
+          },
+          {
+            "title": "స్వయంసిద్ధ ఏఐ వచ్చేస్తోంది - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03a25DMmozM2RPb2N4MTc4eGtCcmFGb3BubV95aWczV2tEODRldlhnQU9yOHVzVEdxdjQ5MVhWYVdEakpGaVdTQUN3eGFsVnFOaVRhS1pxeGt3WmR6eDRWbk1NV09keDhvTjN4QWlISHbSAXBBVV95cUxNN2tuQzJqMzNkT29jeDE3OHhrQnJhRm9wbm1feWlnM1drRDg0ZXZYZ0FPcjh1c1RHcXY0OTFYVmFXRGpKRmlXU0FDd3hhbFZxTmlUYUtacXhrd1pkeng0Vm5NTVdPZHg4b04zeEFpSEh2?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-20T00:14:29+00:00"
+          },
+          {
+            "title": "టెక్సాస్‌లో సరిహద్దు గోడ నిర్మాణం ప్రారంభం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicHFQc19INDFhVy1DTVhhT1d4VHFYWF9pXzd0aURocHRzTG1GVjdSZTh0OTdrSkp0ZzZmVmxvNXhobkJ1VFJIQ0p0UVp6TDlwVlZMcUFWb2ZYYlJyakNLanR1LWtZY3J0OVlxcnNwd1HSAXBBVV95cUxQYnBxUHNfSDQxYVctQ01YYU9XeFRxWFhfaV83dGlEaHB0c0xtRlY3UmU4dDk3a0pKdGc2ZlZsbzV4aG5CdVRSSENKdFFaekw5cFZWTHFBVm9mWGJScmpDS2p0dS1rWWNydDlZcXJzcHdR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-20T00:12:58+00:00"
+          },
+          {
+            "title": "సిక్కోలుకు భారీ వర్షసూచన - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZlVFd2c0b2xSMG9vMmdON3pjVjg3RnRnNWdtdlBLVTQ1cW5jNWpCb0pOZXZNSmhCbTU5UndBcjdsV1pPalE3dG1pSmV6NzBzZEFUMFZSLVBpN0tEVWRwTjJDOV9lZlRmamNia2dXeUdnSnFtZTJtUmFveF9HQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-19T23:51:16+00:00"
           },
           {
-            "title": "Depuyt cm Pawan Kalyan: విజయవాడ విమానాశ్రయంలో పవన్‌కు స్వాగతం - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTVfLXpzbXluYzBNcTVTYkwtbFFFZzQxSlhhYy1MOHRtenhuaXVuaEpCOExreFIxb0RaUnNmWkVTc1I5NTc4aFNEUzZLLU02T2oyQkNtaWJZbkNrc1JLM1U2Tk85WDlKbXFveEdXVHN4VmRBWmVCS1I2RXVaUk5weDdQN3lBRmNxbVpTRzNMWEgwVjRnU28yMncxaXNldjhtcDhvT01SQ0s4SW5tSnRpR1FRWW85TVlON2fSAboBQVVfeXFMTlU1Xy16c215bmMwTXE1U2JMLWxRRWc0MUpYYWMtTDh0bXp4bml1bmhKQjhMa3hSMW9EWlJzZlpFU3NSOTU3OGhTRFM2Sy1NNk9qMkJDbWliWW5Da3NSSzNVNk5POVg5Sm1xb3hHV1RzeFZkQVplQktSNkV1WlJOcHg3UDd5QUZjcW1aU0czTFhIMFY0Z1NvMjJ3MWlzZXY4bXA4b09NUkNLOElubUp0aUdRUVlvOU1ZTjdn?oc=5",
+            "title": "పెళ్లి చేసుకుంటానని నమ్మించి.. చంపేస్తానని బెదిరించి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnNrTmp2MzJUUnozUW01MFd5WlFUZm41UERub016UE1wZHZFQlF3TGtuVktIeEk5LW1CVl9XTDY1WnI5Wm1CLVBIX3N0MUFveHIxU2RHMHdRSGN0WXNfSlh1dWlGcjJITllkYy1pQXlfQmRQS1pHYnUwZ1FsUGdTZw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-19T23:39:36+00:00"
+            "published": "2026-09-19T23:51:03+00:00"
           },
           {
-            "title": "ప్రైవేటు విద్యాసంస్థల్లో విజిలెన్స్‌ తనిఖీలు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00azhKbWZYaDZNb3RWUm9FMEJOSjRtU1pUMC1VU1BLODU0cmo2TXRXcDNTaG42ZndyT0t4Y0trWUx4MHItNXdOdHZDSHhlUFNjSE42V3VYYzRLaTV1NlQ4akd5TUtCTzZMdWRLQWRJTFhKd2kybFHSAXZBVV95cUxNNGs4Sm1mWGg2TW90VlJvRTBCTko0bVNaVDAtVVNQSzg1NHJqNk10V3AzU2huNmZ3ck9LeGNLa1lMeDByLTV3TnR2Q0h4ZVBTY0hONld1WGM0S2k1dTZUOGpHeU1LQk82THVkS0FkSUxYSndpMmxR?oc=5",
+            "title": "గుజరాత్‌లో ఏపీ విద్యార్థిని ఆత్మహత్య - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lbTR5cmlHLWpzbklwZUNKVUJMTjgxRXlGR3dfelNURmZuaGw3WUpZS2JzLTk4SzlMejY2SEg4dllJX0pKTlZpbWk4d1FLcXV1TUkyWnNvS1hYRXFDUVZOWVRKa2p4aFNSQzFxLVk2VTPSAXBBVV95cUxOZW00eXJpRy1qc25JcGVDSlVCTE44MUV5Rkd3X3pTVEZmbmhsN1lKWUticy05OEs5THo2NkhIOHZZSV9KSk5WaW1pOHdRS3F1dU1JMlpzb0tYWEVxQ1FWTllUSmtqeGhTUkMxcS1ZNlUz?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-19T23:20:42+00:00"
+            "published": "2026-09-19T23:42:58+00:00"
           },
           {
-            "title": "Tirumala: సుపర్ణుడిపై శ్రీనివాసుడు - eenadu.net",
+            "title": "అతడి నిష్క్రమణ వెనుక.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fYzE2MW5na202MjRpc05CMmFkdWtMd19nX0t3ajAyQkJCWWd3ZElva2NsVEJYTXlSRzNaMjQ4TjlBaE50dDVkb1VmSjFCZmlKSS1iQjBMeTRYOVA5UkdZRk9vaTZEaEE1aVkzSWZXX0t6UdIBckFVX3lxTE5fYzE2MW5na202MjRpc05CMmFkdWtMd19nX0t3ajAyQkJCWWd3ZElva2NsVEJYTXlSRzNaMjQ4TjlBaE50dDVkb1VmSjFCZmlKSS1iQjBMeTRYOVA5UkdZRk9vaTZEaEE1aVkzSWZXX0t6UQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-19T23:40:00+00:00"
+          },
+          {
+            "title": "చేపా చేపా.. నిన్ను పెంచిందెవరమ్మా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKajhlREZwZmlwNFllUG9pUzA4T3k5NUg4MnFvQjc0LXVONExUV281YzVUYzJSTU96TWtpby1qOC1jSlEyMlg3TVJRNUdXa1dHRG9DXzFjSnRrYlVyejl0QVJtZkVOX2EtTlhZMVVYTmxoYmk4T3FISXBR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-19T23:35:55+00:00"
+          },
+          {
+            "title": "దేశంలోనే తొలిసారి.. రైలులో కలప గుజ్జు రవాణా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56LW5SaGlocmp4MmFhd2FoMDhZV3FHbkllVlN6WmMzY0N2MHdFRWtoaHdEbnVjRlRRTzJxQnRlSjA3YzJiTEZHUDMyQmxyOFp3OURHMnduaGpMQUdDOVBjaFpDMlhQWEFtblJhVXJTUWxkRlJyeXROclM2TUTSAXxBVV95cUxOei1uUmhpaHJqeDJhYXdhaDA4WVdxR25JZVZTelpjM2NDdjB3RUVraGh3RG51Y0ZUUU8ycUJ0ZUowN2MyYkxGR1AzMkJscjhadzlERzJ3bmhqTEFHQzlQY2haQzJYUFhBbW5SYVVyU1FsZEZScnl0TnJTNk1E?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-19T23:12:59+00:00"
+          },
+          {
+            "title": "Tirumala: సుపర్ణుడిపై శ్రీనివాసుడు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGl5YlhoY3JpRjY5c2xFRTVKVnQ1MEFrbjY5cVFRMnpqZ3ZEblNtVGVhUUxockVWYVhqcmNpZ2pyUGs5X0c4VUR2T2VCeTlESGFfc2FYdm5MSmZiY1dJQWNFOHVfM3U5UUZQSFMxNjNoYi1IajVfeUZBSmgtTkZkWDM5ejE0ZnBHMVp2MFB1U0ZTdG9hU050R1UxYW1OaEZMVWNR0gGjAUFVX3lxTE40aXliWGhjcmlGNjlzbEVFNUpWdDUwQWtuNjlxUVEyempndkRuU21UZWFRTGhyRVZhWGpyY2lnanJQazlfRzhVRHZPZUJ5OURIYV9zYVh2bkxKZmJjV0lBY0U4dV8zdTlRRlBIUzE2M2hiLUhqNV95RkFKaC1ORmRYMzl6MTRmcEcxWnYwUHVTRlN0b2FTTnRHVTFhbU5oRkxVY1E?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-19T23:12:49+00:00"
           },
           {
-            "title": "డబ్ల్యూఏపీఎల్‌ క్రీడాకారిణులు టీమిండియా స్థాయికి ఎదగాలి - eenadu.net",
+            "title": "డబ్ల్యూఏపీఎల్‌ క్రీడాకారిణులు టీమిండియా స్థాయికి ఎదగాలి - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYThyQVlsRlFScG5uM0dzMzZxR1g5ajZ1Y2xKeVE4WmU4OHRxWGJUcGJ3V1lKVkltWno3TEhtazc4UFZnZlBQUEMyOVU1VmNhR2oxekV1blM0V1hQU01IcnRRWUJ1bU44SmFFcnFKWElJR252U29DM0ZqY27SAXxBVV95cUxNaWE4ckFZbEZRUnBubjNHczM2cUdYOWo2dWNsSnlROFplODh0cVhiVHBid1dZSlZJbVp6N0xIbWs3OFBWZ2ZQUFBDMjlVNVZjYUdqMXpFdW5TNFdYUFNNSHJ0UVlCdW1OOEphRXJxSlhJSUdudlNvQzNGamNu?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-19T22:54:03+00:00"
-          },
-          {
-            "title": "లడ్డూ ప్రసాదం.. ముస్లిం దంపతుల సొంతం - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0TWxhVFdIMFo0RHROc2k3SFVIelpSR3R1VXBYY19naU85bHA1OE5neGpjQzVBZkNBWGxmeGNLd2tuT1V6TFZTelE0THhja3Q3N3pweDJaeWY5OTVGQkdwenNoVG5kbmxDWVYxdVJXME1vWGFUbENGaGRmbw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T22:02:02+00:00"
-          },
-          {
-            "title": "భారత జట్లది అదే జోరు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8td2cyU1UwNGlqQWxXWlA3alVjcTUyWHd5a3k2b2RYdVMyQ0RDWUp3R080RHJpNmltZkJFNVVzYlBsMFhTeGp2RTZ5RXZSVmh1YnZyUEJ1clhLQXc4VndlLVpFbWo4UFd3YlQwTnY2N2xpQdIBckFVX3lxTE8td2cyU1UwNGlqQWxXWlA3alVjcTUyWHd5a3k2b2RYdVMyQ0RDWUp3R080RHJpNmltZkJFNVVzYlBsMFhTeGp2RTZ5RXZSVmh1YnZyUEJ1clhLQXc4VndlLVpFbWo4UFd3YlQwTnY2N2xpQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T21:40:34+00:00"
-          },
-          {
-            "title": "సీఎం రేఖాగుప్తాకు సర్‌ నోటీసు! - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4VGtkYzIxanNVbGRmQ0NHU1NYUnhrdml5R0VsV1FKZk9tY01ZZ1VWNFk0eHF1eHFsN2JxM1VXcUwxeDB6RUg4R0FSQlJkQTRCMEJRZnNUQURtY3lqYmN4ZFNCMTFsV3hKeTRTYV9CRlY3UHRmUjl4Vg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T20:52:57+00:00"
-          },
-          {
-            "title": "ఇది ఆనందాన్నిచ్చే సందర్భం - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FLTY4MzRXX0RnWVVuQldrNHRWZFlBZ2ozY3ZBZUVaWkN3dE9sRGd2cHpFLTZVVTNkNnJLeFNubVhwS2d5YnNOUUZNRjIxVzZUYTJDeDVNNm9wYlFnNmV2eWpFNDNDdzJQQV9TT19lTGs5RFRJeDFfdA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T20:52:15+00:00"
-          },
-          {
-            "title": "Weekly Horoscope: ఈ వారం రాశిఫలం (సెప్టెంబరు 20 - సెప్టెంబరు26) - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFI5WFRQMUNnZnEyejYtYmxVT3pISkItYVJ1d2JPdThnRmdGSkdHRk9YdGFsS3BpejZfSFhHQjY2MG0yUUY5Y2o1cHlLNDZQTHNrYVYzUklEMTIzSVdNSk96U0EzaEhYd240OFV5M2w0c0VvX09SUHFlQ1R2bWlOZ2J3RGhvQWlUa1hwSXhJZzhybGV5M1I2SEtmXzdHeWg1OTdHTGQ3bTZXaUlKbzhWNkZ3eVd2ZXZzc3UxU1hCMTN0dHQwTWfSAcYBQVVfeXFMUERSOVhUUDFDZ2ZxMno2LWJsVU96SEpCLWFSdXdiT3U4Z0ZnRkpHR0ZPWHRhbEtwaXo2X0hYR0I2NjBtMlFGOWNqNXB5SzQ2UExza2FWM1JJRDEyM0lXTUpPelNBM2hIWHduNDhVeTNsNHNFb19PUlBxZUNUdm1pTmdid0Rob0FpVGtYcEl4SWc4cmxleTNSNkhLZl83R3loNTk3R0xkN202V2lJSm84VjZGd3lXdmV2c3N1MVNYQjEzdHR0ME1n?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T18:32:00+00:00"
-          },
-          {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (20/09/2026) - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0VFNVBmTG5WbG5rZ0RDaU45TnU5S3lSWFlaM05UamZvVnBuQVc5WDZrMGh5UzNPRnpHWlhkTU5LU2Z5QmJzdDM2N1VmcW80b0VjZFdTZmo3YV9BcGpoVHVDRlVKbGN0MnFycVJLbUR2SWlBMExtRHY3YXNKQW1tUlM4eUdNaGM1MFpQbVFza0MxQzA5OURRVk5WTDJDUG84ZVJLblpqODhSaVlSbUtIeE130gGyAUFVX3lxTE5vRUU1UGZMblZsbmtnRENpTjlOdTlLeVJYWVozTlRqZm9WcG5BVzlYNmswaHlTM09GekdaWGRNTktTZnlCYnN0MzY3VWZxbzRvRWNkV1NmajdhX0FwamhUdUNGVUpsY3QycXJxUkttRHZJaUEwTG1Edjdhc0pBbW1SUzh5R01oYzUwWlBtUXNrQzFDMDk5RFFWTlZMMkNQbzhlUktuWmo4OFJpWVJtS0h4TXc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-19T18:31:37+00:00"
           }
         ],
         "Entertainment": [
