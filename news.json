@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:11:08.000684+00:00",
+  "updated_at": "2026-09-20T23:31:20.602054+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -18,6 +18,13 @@
             "source": "BBC Business",
             "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
             "published": "2026-09-20T23:02:27+00:00"
+          },
+          {
+            "title": "Polls close in Russian wartime election with ruling party set to dominate",
+            "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+            "published": "2026-09-20T22:54:00+00:00"
           },
           {
             "title": "Heavy rains, squally wind likely in West Bengal from September 22",
@@ -95,13 +102,6 @@
             "source": "Al Jazeera",
             "summary": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
             "published": "2026-09-20T21:00:15+00:00"
-          },
-          {
-            "title": "Thirty young seabirds left an island, all heading to the same sea hotspot",
-            "link": "https://timesofindia.indiatimes.com/science/wildlife/thirty-young-seabirds-left-an-island-for-the-first-time-researchers-discovered-they-were-all-heading-to-the-same-hidden-sea-hotspot/articleshow/134374539.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-21T02:30:00+05:30"
           }
         ],
         "India": [
@@ -192,6 +192,13 @@
         ],
         "World": [
           {
+            "title": "Polls close in Russian wartime election with ruling party set to dominate",
+            "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+            "published": "2026-09-20T22:54:00+00:00"
+          },
+          {
             "title": "France to summon Iran envoy after language centre closure in Tehran",
             "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
             "source": "Al Jazeera",
@@ -267,13 +274,6 @@
             "source": "BBC World",
             "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
             "published": "2026-09-20T19:04:11+00:00"
-          },
-          {
-            "title": "How will Saudi Arabia deal with the Houthis?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Yemeni group warns of further attacks on the kingdom.",
-            "published": "2026-09-20T18:34:36+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "नितिन नवीन BJP की सोशल मीडिया वर्कशॉप में शामिल हुए:दावा- राहुल गांधी को जवाब देने और डिजिटल पहुंच बढ़ाने पर चर्चा",
+            "link": "https://www.bhaskar.com/national/news/bjp-social-media-workshop-delhi-nitin-navin-rahul-gandhi-strategy-139096859.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-20T23:22:19+00:00"
+          },
+          {
             "title": "दिल्ली: संगम विहार में बीती रात बड़ी डकैती, पुलिस टीमें मौके पर, छानबीन शुरू",
             "link": "https://www.amarujala.com/delhi-ncr/delhi-a-major-house-robbery-took-place-in-the-sainik-bazar-area-of-sangam-vihar-on-sunday-night-2026-09-21",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-21T02:46:28+05:30"
-          },
-          {
-            "title": "आज का राशिफल 21 सितंबर: वृष और धनु राशि वालों का रुक हुआ धन होगा वापस, पढ़ें दैनिक राशिफल",
-            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-21-september-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-09-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-21T01:11:09+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "భారత అంతరిక్ష పరిశోధన సామర్థ్యం అమోఘం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hcl9JR3V4eExHanVlY3JCOXBvX01jTmY0eGgwOEV6S3dRbkpDb0VpZXBNVjFpbFFzOHdfd0VueU9hc1RWc3lZMDVORlJFdGU3MXJibmNlRFFwT2NpczcyWDRyc3R3c0cxZEJ2akdtMFDSAXBBVV95cUxOYXJfSUd1eHhMR2p1ZWNyQjlwb19NY05mNHhoMDhFekt3UW5KQ29FaWVwTVYxaWxRczh3X3dFbnlPYXNUVnN5WTA1TkZSRXRlNzFyYm5jZURRcE9jaXM3Mlg0cnN0d3NHMWRCdmpHbTBQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-20T23:26:08+00:00"
+          },
+          {
             "title": "రిటైర్డ్‌ క్రికెటర్లకు బీసీసీఐ సాయం పెంపు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUzBoZExvakRZRnFSTWVlUlhoUE9peWpyQ0FBRy1YdnVKQ3dHRDNodlhpckpkRi1fU2F5N0luVU9vc1RTR0tWbzlhOHBmNlg4R3R0dVZuaXpua3RHQXpNOEZaWEtVREZQM0Vlalo3Si1OUdIBckFVX3lxTE0wUzBoZExvakRZRnFSTWVlUlhoUE9peWpyQ0FBRy1YdnVKQ3dHRDNodlhpckpkRi1fU2F5N0luVU9vc1RTR0tWbzlhOHBmNlg4R3R0dVZuaXpua3RHQXpNOEZaWEtVREZQM0Vlalo3Si1OUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-20T22:42:25+00:00"
+          },
+          {
+            "title": "Godavarikhani: ప్రియుడే హంతకుడు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0F1RGo0YmIzQTNEenhOMmZCeFpyYmpodEh2Qm43d1BFajNLd2NrN2docVVQOFdZUkQyWUY4dDRWTGV5WmhhcFBYRXI2VHkta1lkWEpLV054Q01uNnFWcGIxZGJGNHVsM21MVE5DWHFacUZhWWZOc1pENXZQWDBDYzNXV0FiUkgtejdmckluTGU0R2pOWHh2NkI1c2lKQ3lEa1V5NTZfUmJYVDFad3ZzX2EybTh6T2FT0gG4AUFVX3lxTE13QXVEajRiYjNBM0R6eE4yZkJ4WnJiamh0SHZCbjd3UEVqM0t3Y2s3Z2hxVVA4V1lSRDJZRjh0NFZMZXlaaGFwUFhFcjZUeS1rWWRYSktXTnhDTW42cVZwYjFkYkY0dWwzbUxUTkNYcVpxRmFZZk5zWkQ1dlBYMENjM1dXQWJSSC16N2ZySW5MZTRHak5YeHY2QjVzaUpDeURrVXk1Nl9SYlhUMVp3dnNfYTJtOHpPYVM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-20T21:52:34+00:00"
           },
           {
             "title": "ఇంకో మెట్టు పైకి.. - Eenadu",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-20T15:03:51+00:00"
-          },
-          {
-            "title": "నేను బహుజనుల బాణాన్ని.. సీఎం రేవంత్ అడ్డాలో TRS చీఫ్ కవిత సవాల్",
-            "link": "https://telugu.oneindia.com/news/telangana/kavitha-made-these-key-remarks-i-am-the-arrow-of-bahujans-at-panchajanya-sankalpa-sabha-kodangal-507123.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-20T20:09:06+05:30"
-          },
-          {
-            "title": "Vidya Balan As Kantha from JAILER 2: ‘జైలర్‌ 2’లో పవర్‌ఫుల్‌ పాత్రలో విద్యా బాలన్‌.. ఫస్ట్‌లుక్‌ వీడియో రిలీజ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzBFS3RoUVh1V0Vzem5fZkRrRGpiellPUXhwdEladkFhakNUclhvWUNDMkdVQWdINjBzYlRBeGVibE5COGpUNjZvS193eWdxZFRoMEx3V2J2UXBKS3EwMEZSbTRfUkhHcVItOVVadktPSVJnZVFrUHhHdXhPVTAzYVpuR2ppRXdxNTNz0gGLAUFVX3lxTE1fMEVLdGhRWHVXRXN6bl9mRGtEamJ6WU9ReHB0SVp2QWFqQ1RyWG9ZQ0MyR1VBZ0g2MHNiVEF4ZWJsTkI4alQ2Nm9LX3d5Z3FkVGgwTHdXYnZRcEpLcTAwRlJtNF9SSEdxUi05VVp2S09JUmdlUWtQeEd1eE9VMDNhWm5HamlFd3E1M3M?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-20T14:33:39+00:00"
           }
         ],
         "Entertainment": [
