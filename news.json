@@ -1,111 +1,181 @@
 {
-  "updated_at": "2026-09-21T09:01:35.231088+00:00",
+  "updated_at": "2026-09-21T09:31:16.603265+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "SC issues notice on Pranit More’s plea to club FIRs in ‘₹370 biriyani’ controversy",
+            "link": "https://www.thehindu.com/news/national/sc-issues-notice-on-pranit-mores-plea-to-club-firs-in-370-biriyani-controversy/article71490623.ece",
+            "source": "The Hindu",
+            "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant also issued notice, along with Maharashtra and Haryana, to the Union government",
+            "published": "2026-09-21T14:53:08+05:30"
+          },
+          {
+            "title": "Delhi court revives complaint against Sonia Gandhi over alleged voter list forgery",
+            "link": "https://www.hindustantimes.com/india-news/delhi-court-revives-complaint-against-sonia-gandhi-over-alleged-voter-list-forgery-sir-101789982485646.html",
+            "source": "Hindustan Times",
+            "summary": "A Delhi court has set aside a magistrate's order dismissing a complaint against senior Congress leader Sonia Gandhi.&nbsp;",
+            "published": "2026-09-21T14:52:30+05:30"
+          },
+          {
+            "title": "Starbucks to set up Global Capability Centre in Chennai, create 800 jobs",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/starbucks-to-set-up-global-capability-centre-in-chennai-create-800-jobs/article71490639.ece",
+            "source": "The Hindu",
+            "summary": "“A global brand of Starbucks’ stature choosing Chennai to establish its Global Capability Centre is a strong endorsement of our talent, our capabilities, and the business environment we are building in Tamil Nadu,” said Minister S. Keerthana",
+            "published": "2026-09-21T14:52:27+05:30"
+          },
+          {
+            "title": "Narrow escape for 43 passengers as private travel bus catches fire near Telangana’s Khammam",
+            "link": "https://www.thehindu.com/news/national/telangana/narrow-escape-for-43-passengers-as-private-travel-bus-catches-fire-near-telanganas-khammam/article71490735.ece",
+            "source": "The Hindu",
+            "summary": "The bus was travelling from Hyderabad to Palasa in Srikakulam district of Andhra Pradesh",
+            "published": "2026-09-21T14:49:57+05:30"
+          },
+          {
+            "title": "Three arrested in South Africa over one of nine women's bodies found",
+            "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+            "published": "2026-09-21T09:18:19+00:00"
+          },
+          {
+            "title": "Who is Suryanarayana Doolla? IIT Bombay professor in focus in student suicide case",
+            "link": "https://www.hindustantimes.com/india-news/who-is-suryanarayana-doolla-iit-bombay-suspends-dean-of-student-affairs-amid-student-suicide-probe-101789979279738.html",
+            "source": "Hindustan Times",
+            "summary": "IIT Bombay's Suryanarayana Doolla was invigilating the exam in which the student, who died by suicide, was allegedly caught cheating using phone.",
+            "published": "2026-09-21T14:46:47+05:30"
+          },
+          {
+            "title": "Vijay's new secretariate plan faces protest threat from Stalin: 'It's for CM to work, not gaze at sea'",
+            "link": "https://www.hindustantimes.com/india-news/vijays-new-secretariate-plan-faces-protest-threat-from-stalin-its-for-cm-to-work-not-gaze-at-sea-101789980081720.html",
+            "source": "Hindustan Times",
+            "summary": "MK Stalin claimed there were reports that the Pattinapakkam site was chosen because astrologers advised that the chief minister's office should face the sea.",
+            "published": "2026-09-21T14:46:22+05:30"
+          },
+          {
+            "title": "Assam: Sarma lays foundation stone of northeast’s 1st space surveillance facility",
+            "link": "https://www.hindustantimes.com/india-news/assam-sarma-lays-foundation-stone-of-northeast-s-1st-space-surveillance-facility-101789981781134.html",
+            "source": "Hindustan Times",
+            "summary": "Isro chairman V Narayanan said the facility will be world-class and a cloud radar will be commissioned before the end of February",
+            "published": "2026-09-21T14:39:40+05:30"
+          },
+          {
+            "title": "Missing measure in India’s magnet mission",
+            "link": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece",
+            "source": "The Hindu",
+            "summary": "The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between",
+            "published": "2026-09-21T14:39:03+05:30"
+          },
+          {
+            "title": "Michael Carrick demands Manchester United response after ‘pathetic’ jibes",
+            "link": "https://www.aljazeera.com/sports/2026/9/21/michael-carrick-demands-manchester-united-response-after-pathetic-jibes?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "With only one win so far this season, United have equalled their lowest points total in season after five matches.",
+            "published": "2026-09-21T09:08:47+00:00"
+          },
+          {
+            "title": "Alert in Gujarat after Somnath temple, BJP offices receive bomb threats: Cop",
+            "link": "https://www.hindustantimes.com/india-news/alert-in-gujarat-after-somnath-temple-bjp-offices-receive-bomb-threats-cop-101789981541067.html",
+            "source": "Hindustan Times",
+            "summary": "A bomb squad and the fire brigade were sent to the temple, and searches were ordered at the other sites too",
+            "published": "2026-09-21T14:35:40+05:30"
+          },
+          {
+            "title": "15-minute Noida-Delhi commute, cycle tracks: Delayed Barapullah Phase III to open September 29",
+            "link": "https://www.hindustantimes.com/india-news/15minute-noida-delhi-commute-cycle-tracks-delayed-barapullah-phase-iii-to-open-september-29-101789977198430.html",
+            "source": "Hindustan Times",
+            "summary": "The flyover is expected to make travel easier from Mayur Vihar, East Delhi and Noida to Sarai Kale Khan, AIIMS and South Delhi.",
+            "published": "2026-09-21T14:34:00+05:30"
+          },
+          {
+            "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
+            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
+            "published": "2026-09-21T09:02:25+00:00"
+          },
+          {
             "title": "IIT-Bombay apologises for earlier statement on circumstances surrounding student’s death",
             "link": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-apologises-for-earlier-statement-on-circumstances-surrounding-students-death/article71490497.ece",
             "source": "The Hindu",
             "summary": "The institute also took to social media to deny any reports surrounding the Director’s resignation",
             "published": "2026-09-21T14:29:21+05:30"
-          },
-          {
-            "title": "Minor girl, her friend harassed in Bihar’s Jamui; culprits in police custody, political slugfest ensues",
-            "link": "https://www.thehindu.com/news/national/bihar/minor-girl-her-friend-harassed-in-bihars-jamui-culprits-in-police-custody-political-slugfest-ensues/article71490725.ece",
-            "source": "The Hindu",
-            "summary": "The Bihar State Commission for Women too took a suo motu cognizance of the incident and said that “stern action will be taken against all those found involved into the incident”",
-            "published": "2026-09-21T14:28:33+05:30"
-          },
-          {
-            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-            "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-            "published": "2026-09-21T08:56:27+00:00"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay reviews preparations for expansion of Vetri Payanam scheme",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-preparations-for-expansion-of-vetri-payanam-scheme/article71490697.ece",
-            "source": "The Hindu",
-            "summary": "The CM had recently announced that the free bus travel scheme for women, previously called Vidiyal Payanam, would be expanded to Express, LSS, Deluxe, Mofussil Ordinary, and Ghat Ordinary buses",
-            "published": "2026-09-21T14:24:56+05:30"
-          },
-          {
-            "title": "Australia’s deaths to outnumber births by 2060s, report says",
-            "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Number of Australians aged 85 or older projected to triple by 2065–66, according to government forecast.",
-            "published": "2026-09-21T08:53:31+00:00"
-          },
-          {
-            "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-            "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-            "published": "2026-09-21T08:49:45+00:00"
-          },
-          {
-            "title": "IIT Bombay Sorry For Statement On Student Death, Professor Removed From Post",
-            "link": "https://www.ndtv.com/india-news/amid-row-iit-bombay-apologises-for-earlier-statements-over-students-death-12074997#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Sahil Ravindra Wakode was found dead on Friday last in his hostel room on the IIT Bombay campus",
-            "published": "2026-09-21T14:18:50+05:30"
-          },
-          {
-            "title": "Mere recovery of tainted cash cannot lead to conviction in bribery case: Chhattisgarh High Court",
-            "link": "https://www.thehindu.com/news/national/chhattisgarh/mere-recovery-of-tainted-cash-cannot-lead-to-conviction-in-bribery-case-chhattisgarh-high-court/article71490552.ece",
-            "source": "The Hindu",
-            "summary": "The Court acquitted an accountant in the District Education Officer’s office in Surajpur, saying the prosecution had not proved the demand for a bribe",
-            "published": "2026-09-21T14:17:37+05:30"
-          },
-          {
-            "title": "Russia election results show Putin’s party winning: What we know",
-            "link": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "With more than 90 percent votes counted, Putin&#039;s United Russia appears poised for a landslide win.",
-            "published": "2026-09-21T08:47:06+00:00"
-          },
-          {
-            "title": "'Method Of Disenfranchising Indians': Congress slams SIR",
-            "link": "https://www.thehindu.com/news/national/method-of-disenfranchising-indians-congress-slams-sir/article71490471.ece",
-            "source": "The Hindu",
-            "summary": "Jairam Ramesh cites deletion data from three phases of the SIR, as 33.13 lakh notices are issued in Delhi over discrepancies in enumeration forms",
-            "published": "2026-09-21T14:16:40+05:30"
-          },
-          {
-            "title": "Punjab Man Who Took Poison In Anti-Drugs Protest Faces 9 Cases Himself",
-            "link": "https://www.ndtv.com/india-news/punjab-man-who-took-poison-in-anti-drugs-protest-faces-9-cases-himself-12075497#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The case took a new turn today with the police announcing that Jagga himself was not exactly someone who stood against drug abuse",
-            "published": "2026-09-21T14:16:12+05:30"
-          },
-          {
-            "title": "Actor-producer Unni Mukundan joins hands with Panaroma Studios for his 50th film",
-            "link": "https://www.thehindu.com/entertainment/movies/unni-mukundan-joins-hands-with-panaroma-studios-for-his-50th-film/article71490606.ece",
-            "source": "The Hindu",
-            "summary": "Unni Mukundan takes on the role of writer-director for the action thriller film, set to release on a pan-Indian canvas",
-            "published": "2026-09-21T14:14:26+05:30"
-          },
-          {
-            "title": "SC mandates judicial oversight to check re-arrest abuse",
-            "link": "https://www.thehindu.com/news/national/sc-mandates-judicial-oversight-to-check-re-arrest-abuse/article71490485.ece",
-            "source": "The Hindu",
-            "summary": "The judgment said the police must apply before the Magistrate, providing recorded reasons for seeking arrest",
-            "published": "2026-09-21T14:12:50+05:30"
-          },
-          {
-            "title": "Karnataka SIR: Deletions in Bengaluru disproportionately high, 12 seats cross 10-times winning margin mark",
-            "link": "https://www.thehindu.com/news/cities/bangalore/sir-deletions-in-bengaluru-disproportionately-high-12-seats-cross-10-times-winning-margin-mark/article71487970.ece",
-            "source": "The Hindu",
-            "summary": "Bommanahalli Assembly constituency has recorded the highest deletions during the draft stage; constituencies with high deletions are also seeing a large number of notices being issued",
-            "published": "2026-09-21T14:11:53+05:30"
           }
         ],
         "India": [
           {
+            "title": "SC issues notice on Pranit More’s plea to club FIRs in ‘₹370 biriyani’ controversy",
+            "link": "https://www.thehindu.com/news/national/sc-issues-notice-on-pranit-mores-plea-to-club-firs-in-370-biriyani-controversy/article71490623.ece",
+            "source": "The Hindu",
+            "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant also issued notice, along with Maharashtra and Haryana, to the Union government",
+            "published": "2026-09-21T14:53:08+05:30"
+          },
+          {
+            "title": "Delhi court revives complaint against Sonia Gandhi over alleged voter list forgery",
+            "link": "https://www.hindustantimes.com/india-news/delhi-court-revives-complaint-against-sonia-gandhi-over-alleged-voter-list-forgery-sir-101789982485646.html",
+            "source": "Hindustan Times",
+            "summary": "A Delhi court has set aside a magistrate's order dismissing a complaint against senior Congress leader Sonia Gandhi.&nbsp;",
+            "published": "2026-09-21T14:52:30+05:30"
+          },
+          {
+            "title": "Starbucks to set up Global Capability Centre in Chennai, create 800 jobs",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/starbucks-to-set-up-global-capability-centre-in-chennai-create-800-jobs/article71490639.ece",
+            "source": "The Hindu",
+            "summary": "“A global brand of Starbucks’ stature choosing Chennai to establish its Global Capability Centre is a strong endorsement of our talent, our capabilities, and the business environment we are building in Tamil Nadu,” said Minister S. Keerthana",
+            "published": "2026-09-21T14:52:27+05:30"
+          },
+          {
+            "title": "Narrow escape for 43 passengers as private travel bus catches fire near Telangana’s Khammam",
+            "link": "https://www.thehindu.com/news/national/telangana/narrow-escape-for-43-passengers-as-private-travel-bus-catches-fire-near-telanganas-khammam/article71490735.ece",
+            "source": "The Hindu",
+            "summary": "The bus was travelling from Hyderabad to Palasa in Srikakulam district of Andhra Pradesh",
+            "published": "2026-09-21T14:49:57+05:30"
+          },
+          {
+            "title": "Who is Suryanarayana Doolla? IIT Bombay professor in focus in student suicide case",
+            "link": "https://www.hindustantimes.com/india-news/who-is-suryanarayana-doolla-iit-bombay-suspends-dean-of-student-affairs-amid-student-suicide-probe-101789979279738.html",
+            "source": "Hindustan Times",
+            "summary": "IIT Bombay's Suryanarayana Doolla was invigilating the exam in which the student, who died by suicide, was allegedly caught cheating using phone.",
+            "published": "2026-09-21T14:46:47+05:30"
+          },
+          {
+            "title": "Vijay's new secretariate plan faces protest threat from Stalin: 'It's for CM to work, not gaze at sea'",
+            "link": "https://www.hindustantimes.com/india-news/vijays-new-secretariate-plan-faces-protest-threat-from-stalin-its-for-cm-to-work-not-gaze-at-sea-101789980081720.html",
+            "source": "Hindustan Times",
+            "summary": "MK Stalin claimed there were reports that the Pattinapakkam site was chosen because astrologers advised that the chief minister's office should face the sea.",
+            "published": "2026-09-21T14:46:22+05:30"
+          },
+          {
+            "title": "Assam: Sarma lays foundation stone of northeast’s 1st space surveillance facility",
+            "link": "https://www.hindustantimes.com/india-news/assam-sarma-lays-foundation-stone-of-northeast-s-1st-space-surveillance-facility-101789981781134.html",
+            "source": "Hindustan Times",
+            "summary": "Isro chairman V Narayanan said the facility will be world-class and a cloud radar will be commissioned before the end of February",
+            "published": "2026-09-21T14:39:40+05:30"
+          },
+          {
+            "title": "Missing measure in India’s magnet mission",
+            "link": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece",
+            "source": "The Hindu",
+            "summary": "The strategic question is not simply whether India possesses rare-earth resources or whether imports from China can be reduced. The real policy challenge is understanding what happens in between",
+            "published": "2026-09-21T14:39:03+05:30"
+          },
+          {
+            "title": "Alert in Gujarat after Somnath temple, BJP offices receive bomb threats: Cop",
+            "link": "https://www.hindustantimes.com/india-news/alert-in-gujarat-after-somnath-temple-bjp-offices-receive-bomb-threats-cop-101789981541067.html",
+            "source": "Hindustan Times",
+            "summary": "A bomb squad and the fire brigade were sent to the temple, and searches were ordered at the other sites too",
+            "published": "2026-09-21T14:35:40+05:30"
+          },
+          {
+            "title": "15-minute Noida-Delhi commute, cycle tracks: Delayed Barapullah Phase III to open September 29",
+            "link": "https://www.hindustantimes.com/india-news/15minute-noida-delhi-commute-cycle-tracks-delayed-barapullah-phase-iii-to-open-september-29-101789977198430.html",
+            "source": "Hindustan Times",
+            "summary": "The flyover is expected to make travel easier from Mayur Vihar, East Delhi and Noida to Sarai Kale Khan, AIIMS and South Delhi.",
+            "published": "2026-09-21T14:34:00+05:30"
+          },
+          {
             "title": "IIT-Bombay apologises for earlier statement on circumstances surrounding student’s death",
             "link": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-apologises-for-earlier-statement-on-circumstances-surrounding-students-death/article71490497.ece",
             "source": "The Hindu",
@@ -118,79 +188,30 @@
             "source": "The Hindu",
             "summary": "The Bihar State Commission for Women too took a suo motu cognizance of the incident and said that “stern action will be taken against all those found involved into the incident”",
             "published": "2026-09-21T14:28:33+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay reviews preparations for expansion of Vetri Payanam scheme",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-reviews-preparations-for-expansion-of-vetri-payanam-scheme/article71490697.ece",
-            "source": "The Hindu",
-            "summary": "The CM had recently announced that the free bus travel scheme for women, previously called Vidiyal Payanam, would be expanded to Express, LSS, Deluxe, Mofussil Ordinary, and Ghat Ordinary buses",
-            "published": "2026-09-21T14:24:56+05:30"
-          },
-          {
-            "title": "IIT Bombay Sorry For Statement On Student Death, Professor Removed From Post",
-            "link": "https://www.ndtv.com/india-news/amid-row-iit-bombay-apologises-for-earlier-statements-over-students-death-12074997#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Sahil Ravindra Wakode was found dead on Friday last in his hostel room on the IIT Bombay campus",
-            "published": "2026-09-21T14:18:50+05:30"
-          },
-          {
-            "title": "Mere recovery of tainted cash cannot lead to conviction in bribery case: Chhattisgarh High Court",
-            "link": "https://www.thehindu.com/news/national/chhattisgarh/mere-recovery-of-tainted-cash-cannot-lead-to-conviction-in-bribery-case-chhattisgarh-high-court/article71490552.ece",
-            "source": "The Hindu",
-            "summary": "The Court acquitted an accountant in the District Education Officer’s office in Surajpur, saying the prosecution had not proved the demand for a bribe",
-            "published": "2026-09-21T14:17:37+05:30"
-          },
-          {
-            "title": "'Method Of Disenfranchising Indians': Congress slams SIR",
-            "link": "https://www.thehindu.com/news/national/method-of-disenfranchising-indians-congress-slams-sir/article71490471.ece",
-            "source": "The Hindu",
-            "summary": "Jairam Ramesh cites deletion data from three phases of the SIR, as 33.13 lakh notices are issued in Delhi over discrepancies in enumeration forms",
-            "published": "2026-09-21T14:16:40+05:30"
-          },
-          {
-            "title": "Punjab Man Who Took Poison In Anti-Drugs Protest Faces 9 Cases Himself",
-            "link": "https://www.ndtv.com/india-news/punjab-man-who-took-poison-in-anti-drugs-protest-faces-9-cases-himself-12075497#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The case took a new turn today with the police announcing that Jagga himself was not exactly someone who stood against drug abuse",
-            "published": "2026-09-21T14:16:12+05:30"
-          },
-          {
-            "title": "Actor-producer Unni Mukundan joins hands with Panaroma Studios for his 50th film",
-            "link": "https://www.thehindu.com/entertainment/movies/unni-mukundan-joins-hands-with-panaroma-studios-for-his-50th-film/article71490606.ece",
-            "source": "The Hindu",
-            "summary": "Unni Mukundan takes on the role of writer-director for the action thriller film, set to release on a pan-Indian canvas",
-            "published": "2026-09-21T14:14:26+05:30"
-          },
-          {
-            "title": "SC mandates judicial oversight to check re-arrest abuse",
-            "link": "https://www.thehindu.com/news/national/sc-mandates-judicial-oversight-to-check-re-arrest-abuse/article71490485.ece",
-            "source": "The Hindu",
-            "summary": "The judgment said the police must apply before the Magistrate, providing recorded reasons for seeking arrest",
-            "published": "2026-09-21T14:12:50+05:30"
-          },
-          {
-            "title": "Karnataka SIR: Deletions in Bengaluru disproportionately high, 12 seats cross 10-times winning margin mark",
-            "link": "https://www.thehindu.com/news/cities/bangalore/sir-deletions-in-bengaluru-disproportionately-high-12-seats-cross-10-times-winning-margin-mark/article71487970.ece",
-            "source": "The Hindu",
-            "summary": "Bommanahalli Assembly constituency has recorded the highest deletions during the draft stage; constituencies with high deletions are also seeing a large number of notices being issued",
-            "published": "2026-09-21T14:11:53+05:30"
-          },
-          {
-            "title": "Who Is Suryanarayana Doolla? IIT Bombay Professor At Centre Of Student Suicide Row",
-            "link": "https://www.ndtv.com/india-news/sahil-wakode-who-is-professor-suryanarayana-doolla-iit-bombay-professor-at-centre-of-student-suicide-row-12074720#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Professor Suryanarayana Doolla was involved in reporting the alleged examination malpractice to the institute's authorities.",
-            "published": "2026-09-21T14:05:34+05:30"
-          },
-          {
-            "title": "On Camera, Man Flung Into Air, Dragged On Roof After Speeding Car Hits Cycle In Amritsar",
-            "link": "https://www.ndtv.com/india-news/on-camera-man-flung-into-air-dragged-on-roof-after-speeding-car-hits-cycle-in-amritsar-12075410#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The man suffered serious injuries and was rushed to a nearby hospital. His condition is said to be critical, officials said.",
-            "published": "2026-09-21T14:02:28+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Three arrested in South Africa over one of nine women's bodies found",
+            "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+            "published": "2026-09-21T09:18:19+00:00"
+          },
+          {
+            "title": "Michael Carrick demands Manchester United response after ‘pathetic’ jibes",
+            "link": "https://www.aljazeera.com/sports/2026/9/21/michael-carrick-demands-manchester-united-response-after-pathetic-jibes?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "With only one win so far this season, United have equalled their lowest points total in season after five matches.",
+            "published": "2026-09-21T09:08:47+00:00"
+          },
+          {
+            "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
+            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
+            "published": "2026-09-21T09:02:25+00:00"
+          },
           {
             "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
             "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
@@ -253,27 +274,6 @@
             "source": "BBC World",
             "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
             "published": "2026-09-21T06:58:30+00:00"
-          },
-          {
-            "title": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-            "published": "2026-09-21T06:51:48+00:00"
-          },
-          {
-            "title": "Mourinho fumes at referees in news conference after Madrid derby defeat",
-            "link": "https://www.aljazeera.com/sports/2026/9/21/mourinho-fumes-at-referees-in-news-conference-after-madrid-derby-defeat?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Fuming Real Madrid manager waves printouts of what he believes were clear red-card tackles by Atletico Madrid players.",
-            "published": "2026-09-21T06:32:22+00:00"
-          },
-          {
-            "title": "Why can’t the UN stop wars?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The UN was created to help save the world from war. More than 80 years later, conflicts and atrocities continue.",
-            "published": "2026-09-21T06:17:27+00:00"
           }
         ],
         "Business": [
@@ -337,7 +337,7 @@
             "title": "Sensex jumps 500 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
             "source": "Economic Times",
-            "summary": "Indian equities gained in early trade as lower crude prices lifted sentiment, with Sensex rising 0.6% and Nifty 0.2%. Analysts expect volatility to persist amid geopolitical risks, elevated yields and sectoral rotation.",
+            "summary": "On Monday, Indian stock markets soared as both Sensex and Nifty recorded impressive gains, fueled by declining oil prices and an optimistic global outlook that buoyed investor morale. Major players such as UltraTech Cement and HDFC Bank showcased remarkable earnings, driving their stock prices higher. Nevertheless, broader indices like Nifty Midcap and Smallcap struggled, with FMCG, Pharma, Realty, and Consumer…",
             "published": "2026-09-21T10:50:09+05:30"
           },
           {
@@ -627,6 +627,41 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "बॉलीवुड में Nepotism की पूरी कहानी, स्टार किड्स को फायदा कितना, चुनौती कितनी? क्या मिलती है सफलता की गारंटी?",
+            "link": "https://hindi.oneindia.com/news/entertainment/bollywood-nepotism-controversy-how-much-benefit-and-how-much-challenge-do-star-kids-face-1652587.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-21T14:57:26+05:30"
+          },
+          {
+            "title": "Actress Mithu Mukherjee Death: मिठू मुखर्जी की कैसे हो गई मौत? 17 साल की उम्र में शुरू किया था फिल्मी सफर",
+            "link": "https://hindi.oneindia.com/news/entertainment/actress-mithu-mukherjee-death-reason-actress-began-film-journey-at-17-know-full-details-news-hindi-1652585.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-21T14:55:44+05:30"
+          },
+          {
+            "title": "सुप्रीम कोर्ट बोला-दोबारा गिरफ्तारी के लिए मजिस्ट्रेट की मंजूरी जरूरी:पहली गिरफ्तारी में गलती हुई तो पुलिस सीधे दोबारा नहीं पकड़ सकेगी",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-ruling-police-arrest-magistrate-approval-guidelines-139099891.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-21T09:22:20+00:00"
+          },
+          {
+            "title": "'जबरदस्ती गोद में बिठाया, बाथरूम गई तब ', प्रिंसिपल छात्राओं के साथ कर रहा था अश्लील हरकत! कैसे खुली पोल?",
+            "link": "https://hindi.oneindia.com/news/bihar/bihar-nawada-government-school-headmaster-arrested-harassment-minor-students-sit-formed-1652571.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-21T14:41:56+05:30"
+          },
+          {
+            "title": "स्टूडेंट की मौत से जुड़ी जानकारी साझा करने के लिए आईआईटी बॉम्बे ने माफ़ी मांगी",
+            "link": "https://www.bbc.com/hindi/articles/c8x2z1n4q9gzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-21T09:05:42+00:00"
+          },
+          {
             "title": "साहिल की मौत पर हंगामे के बीच IIT बॉम्बे ने मांगी माफी, प्रोफेसर पर भी एक्शन, क्या है स्टूडेंट की 18 मांगें?",
             "link": "https://hindi.oneindia.com/news/maharashtra/iit-bombay-apologies-for-earlier-statements-over-sahil-wakode-student-death-demands-1652563.html",
             "source": "Oneindia Hindi",
@@ -641,7 +676,7 @@
             "published": "2026-09-21T14:20:18+05:30"
           },
           {
-            "title": "कर्नाटक विधानसभा में भाजपा विधायकों ने पूरा वंदे मातरम गाया:2 पैरा बाद रिकॉर्डिंग रोकी गई थी; सरकारी कार्यक्रमों में पूरा राष्ट्रगीत गाने पर रोक",
+            "title": "कर्नाटक विधानसभा में BJP विधायकों ने पूरा वंदे मातरम गाया:2 पैरा के बाद रोक दिया गया था; विधान परिषद में भी भाजपा सदस्यों ने पूरा गीत गाया",
             "link": "https://www.bhaskar.com/g/national/news/karnataka-assembly-vande-mataram-controversy-bjp-mla-protest-139099512.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -674,44 +709,23 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-21T12:50:43+05:30"
-          },
-          {
-            "title": "अगरकर और बीसीसीआई के बीच कब शुरू हुई अनबन: 2023 में बुमराह को लेकर बोर्ड से क्यों भिड़ गए थे? हुआ बड़ा खुलासा",
-            "link": "https://www.amarujala.com/cricket/ajit-agarkar-vs-bcci-how-disagreement-over-jasprit-bumrah-s-captaincy-started-in-2023-2026-09-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-21T12:50:23+05:30"
-          },
-          {
-            "title": "'डरना नहीं, बीवी को जरूर बोलना आई लव यू': सियासी मंच पर दिखा ओवैसी का जुदा अंदाज, शादीशुदा लोगों को दी नसीहत",
-            "link": "https://www.amarujala.com/india-news/asaduddin-owaisi-unique-advice-people-to-say-love-you-to-their-wifes-aimim-up-assembly-election-2027-alliance-2026-09-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-21T12:41:00+05:30"
-          },
-          {
-            "title": "'सड़क पर घेरकर प्राइवेट पार्ट्स में लगाया हाथ', जमुई में 10वीं की स्टूडेंट के साथ सरेआम गंदी हरकत, वीडियो वायरल",
-            "link": "https://hindi.oneindia.com/news/bihar/bihar-jamui-viral-video-police-detain-two-for-harassing-minor-students-on-scooty-1652489.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-21T12:40:27+05:30"
-          },
-          {
-            "title": "ममता बनर्जी: चुनाव चिह्न फ्रीज करने के चुनाव आयोग के फैसले को दी चुनौती, सुप्रीम कोर्ट ने क्या कहा?",
-            "link": "https://www.amarujala.com/india-news/supreme-court-agrees-urgent-listing-of-mamata-banerjee-plea-challenging-ec-decision-to-freeze-party-name-symbo-2026-09-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-21T12:30:21+05:30"
-          },
-          {
-            "title": "दिल्ली में 10 साल की बच्ची से रेप:नोटबुक खरीदने गई थी, 56 साल का आरोपी गिरफ्तार; दिल्ली में रोजाना 3 नाबालिगों का यौन शोषण होता है",
-            "link": "https://www.bhaskar.com/g/national/news/delhi-minor-girl-rape-case-stationery-shop-accused-arrested-139098801.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-21T06:58:29+00:00"
           }
         ],
         "Entertainment": [
+          {
+            "title": "बॉलीवुड में Nepotism की पूरी कहानी, स्टार किड्स को फायदा कितना, चुनौती कितनी? क्या मिलती है सफलता की गारंटी?",
+            "link": "https://hindi.oneindia.com/news/entertainment/bollywood-nepotism-controversy-how-much-benefit-and-how-much-challenge-do-star-kids-face-1652587.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-21T14:57:26+05:30"
+          },
+          {
+            "title": "Actress Mithu Mukherjee Death: मिठू मुखर्जी की कैसे हो गई मौत? 17 साल की उम्र में शुरू किया था फिल्मी सफर",
+            "link": "https://hindi.oneindia.com/news/entertainment/actress-mithu-mukherjee-death-reason-actress-began-film-journey-at-17-know-full-details-news-hindi-1652585.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-21T14:55:44+05:30"
+          },
           {
             "title": "13 Cr. की रोल्स रॉयस में मैथिली ठाकुर को देख BJP MP कंगना रनौत ने ये क्या कहा? बोलीं- जनता के पैसे नहीं चाहिए",
             "link": "https://hindi.oneindia.com/news/entertainment/maithili-thakur-in-13-crore-rolls-royce-bjp-mp-kangana-ranaut-said-not-interested-in-public-money-1652473.html",
@@ -781,20 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-19T12:36:12+05:30"
-          },
-          {
-            "title": "Disha Salian मौत मामले में CCTV फुटेज से सामने आएगा कैसा सच? उद्धव ठाकरे पर लगे गंभीर आरोप, वकील का बड़ा दावा",
-            "link": "https://hindi.oneindia.com/news/entertainment/disha-salian-death-case-what-truth-reveal-from-cctv-footage-serious-allegations-on-uddhav-thackeray-1651373.html",
-            "source": "Oneindia Hindi",
-            "summary": "दिशा सालियान की मौत का मामला एक बार फिर सुर्खियों में है, जिसमें वकील नीलेश ओझा ने सीसीटीवी फुटेज को लेकर सनसनीखेज दावे किए हैं। ओझा का आरोप है कि घटना के समय सीसीटीवी फुटेज और उसके डीवीआर को पुलिस ने अपने कब्जे में लेकर सील कर दिया था, लेकिन इसके बावजूद फुटेज की सामग्री को लेकर विरोधाभासी दावे किए जा रहे हैं। उनका मुख्य सवाल यह है कि यदि फुटेज आधिकारिक तौर पर सील की जा चुकी थी, तो उसके बाद कुछ लोगों की मौजूदगी या अनुपस्थिति के संबंध में किए गए दावों का आधार क्या है? इस मामले ने पूर्व मुख्यमंत्री उद्धव ठाकरे और तत्कालीन प्रशासन पर भी गंभीर आरोप खड़े कर दिए हैं, जिससे राजनीतिक गलियारों में हलचल तेज हो गई है। यह मामला काफी समय से रहस्य बना हुआ है और अब फुटेज की प्रामाणिकता और उसकी हैंडलिंग पर उठे इन सवालों ने जांच को एक नया मोड़ दे दिया है। लोग अब यह जानने को उत्सुक हैं कि क्या सील की गई फुटेज के साथ छेड़छाड़ हुई है या फिर पुलिस के दावों में कोई बड़ी खामी है। यह मामला न केवल कानूनी लड़ाई का हिस्सा है बल्कि राजनीतिक आरोपों-प्रत्यारोपों का भी केंद्र बन गया है, जिसकी निष्पक्ष जांच की मांग लगातार उठ रही है।",
-            "published": "2026-09-19T11:08:13+05:30"
-          },
-          {
-            "title": "कंगना रनौत ने 'रामायण' को लेकर कह दी बड़ी बात, एक तीर से साधे दो निशाने! बिना नाम लिए कसा तंज",
-            "link": "https://hindi.oneindia.com/news/entertainment/kangana-ranaut-on-ramayana-movie-costume-controversy-ranbir-kapoor-sai-pallavi-social-media-post-1651297.html",
-            "source": "Oneindia Hindi",
-            "summary": "बॉलीवुड अभिनेत्री कंगना रनौत एक बार फिर अपने सोशल मीडिया पोस्ट को लेकर सुर्खियों में हैं, जिसमें उन्होंने पौराणिक फिल्मों के निर्माण और प्रस्तुति पर गंभीर सवाल उठाए हैं। कंगना ने अपने हालिया पोस्ट में रामायण जैसे पवित्र ग्रंथों पर आधारित फिल्मों में पात्रों की वेशभूषा, उनके पहनावे और किरदारों को पेश करने के तरीके पर तीखी टिप्पणी की है। हालांकि उन्होंने सीधे तौर पर किसी फिल्म का नाम नहीं लिया, लेकिन उनकी यह टिप्पणी रणबीर कपूर और साई पल्लवी की आगामी फिल्म 'रामायण' से जोड़कर देखी जा रही है। कंगना का मानना है कि इस तरह की महान गाथाओं को पर्दे पर उतारते समय ऐतिहासिक और सांस्कृतिक गरिमा का पूरा ध्यान रखा जाना चाहिए। उन्होंने बिना नाम लिए एक तीर से दो निशाने साधते हुए फिल्म निर्माताओं को यह संदेश दिया है कि पौराणिक पात्रों का चित्रण करते समय आधुनिकता के नाम पर संस्कृति के साथ खिलवाड़ नहीं होना चाहिए। उनकी यह पोस्ट सोशल मीडिया पर चर्चा का विषय बनी हुई है, जहां लोग उनके विचार का समर्थन कर रहे हैं तो कुछ इसे अनावश्यक विवाद बता रहे हैं। यह बहस दिखाती है कि भारतीय सिनेमा में सांस्कृतिक मूल्यों के प्रति दर्शकों की संवेदनशीलता आज भी बहुत अधिक है।",
-            "published": "2026-09-18T23:53:14+05:30"
           }
         ]
       }
@@ -803,6 +803,13 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "કર્ણાટક વિધાનસભામાં ભાજપના ધારાસભ્યોએ આખું વંદે માતરમ ગાયું:2 પેરા પછી રેકોર્ડિંગ બંધ કરી દેવામાં આવ્યું હતું; રાજ્યમાં પુરુ રાષ્ટ્રગીત ગાવા પર પ્રતિબંધ",
+            "link": "https://www.divyabhaskar.co.in/national/news/karnataka-assembly-vande-mataram-controversy-bjp-protest-139099802.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-21T09:13:41+00:00"
+          },
           {
             "title": "ગુજરાત : એશિયન ગેમ્સમાં ભારતને શૂટિંગમાં બે સિલ્વર મેડલ અપાવનાર ઇલાવેનિલ વાલારિવન કોણ છે?",
             "link": "https://www.bbc.com/gujarati/articles/ckge4p5xq3rdo?at_medium=RSS&at_campaign=rss",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "કર્ણાટકના મંત્રી કે.એમ. શિવલિંગેગૌડાના તાજેતરના નિવેદને રાજ્યના રાજકારણમાં નવો વિવાદ છેડ્યો છે. મંત્રીએ એક જાહેર કાર્યક્રમમાં સરકારી અધિકારીઓને ખુશીથી ‘ટિપ’ આપવાનું સમર્થન કરતા કહ્યું હતું કે જો કોઈ અધિકારી ઈમાનદારી અને સમયસર કામ કરે, તો તેને સન્માન રૂપે કંઈક આપવું ખોટું નથી. આ નિવેદન બાદ લોકોમાં ભારે રોષ જોવા મળ્યો હતો અને સોશિયલ મીડિયા પર તીખી પ્રતિક્રિયાઓ સામે આવી હતી. જનતાનો મુખ્ય સવાલ એ છે કે જ્યારે સરકારી કર્મચારીઓને સરકાર તરફથી પગાર ચૂકવવામાં આવે જ છે, તો પછી વધારાના પૈસા કે લાંચની શી જરૂર છે? વિરોધ પક્ષ ભાજપે પણ આ મુદ્દે મંત્રીને ઘેર્યા છે અને કહ્યું છે કે મંત્રી ખુલ્લેઆમ ભ્રષ્ટાચાર અને લાંચને પ્રોત્સાહન આપી રહ્યા છે, જે દુર્ભાગ્યપૂર્ણ છે. આ નિવેદન એવા સમયે આવ્યું છે જ્યારે પ્રશાસનિક પારદર્શિતા માટે લોકો સતત અવાજ ઉઠાવી રહ્યા છે. મંત્રીના આ પ્રકારના નિવેદનો સરકારી તંત્રની છબી ખરડવા માટે પૂરતા છે. કાર્યક્રમમાં હાજર લોકોએ જ મંત્રીના આ તર્ક સામે પ્રશ્નો ઉભા કર્યા હતા, જે દર્શાવે છે કે જનતા લાંચ પ્રથાના કેટલા વિરોધમાં છે અને તેઓ પારદર્શક વહીવટની અપેક્ષા રાખે છે.",
             "published": "2026-09-21T04:10:54+00:00"
-          },
-          {
-            "title": "જોગેશ્વરીના વિસર્જન કુંડમાં કરંટ પ્રસરી ગયો, યુવકનું મોત:લાલબાગ વિસ્તારમાં પણ ગણેશ પંડાલ પાસે કરંટ લાગવાથી બાળકી-મહિલાનું મોત થયું હતું",
-            "link": "https://www.divyabhaskar.co.in/national/news/mumbai-jogeshwari-ganesh-visarjan-electrocution-death-139097207.html",
-            "source": "Divya Bhaskar",
-            "summary": "મુંબઈના જોગેશ્વરી ઈસ્ટ વિસ્તારમાં ગણેશ વિસર્જન દરમિયાન કરંટ લાગવાથી એક યુવકના મોતની દુઃખદ ઘટના બની છે. આ ઘટના લિલી વ્હાઇટ બિલ્ડિંગ પાસે આવેલા શ્યામનગર તળાવમાં બપોરે 12:20 વાગ્યે ઘટી હતી. વિસર્જન માટે બનાવવામાં આવેલા 5 કૃત્રિમ કુંડમાંથી 4 કુંડ મધરાત બાદ બંધ કરી દેવાયા હતા, પરંતુ તેમાંથી પસાર થતા કરંટની જાણકારી યોગ્ય સમયે મળી ન હતી. કોન્ટ્રાક્ટર દ્વારા રોકવામાં આવેલા રોહિત ભીમુ રાઠોડ નામના કર્મચારી જ્યારે કુંડમાં ઉતર્યા, ત્યારે તેમને અચાનક કરંટ લાગ્યો હતો, જેમાં તેમનું ઘટનાસ્થળે જ મોત થયું હતું. બીએમસી દ્વારા આ મામલે પ્રાથમિક તપાસ કરવામાં આવી રહી છે. મુંબઈમાં ગણેશોત્સવ દરમિયાન વિસર્જન સ્થળોએ સુરક્ષાના અભાવના કારણે અગાઉ પણ લાલબાગ વિસ્તારમાં બાળકી અને મહિલાના કરંટ લાગવાથી મોત થયાની ઘટનાઓ બની ચૂકી છે. આ વારંવાર બનતી દુર્ઘટનાઓ દર્શાવે છે કે વિસર્જન કુંડ પાસે ઇલેક્ટ્રિક વાયરિંગ અને સુરક્ષા વ્યવસ્થામાં ગંભીર બેદરકારી રાખવામાં આવી રહી છે. ગણેશ વિસર્જન જેવા ભીડભાડવાળા અને સંવેદનશીલ પ્રસંગે વહીવટીતંત્ર દ્વારા કરવામાં આવતી સુરક્ષા વ્યવસ્થા સામે હવે મોટા સવાલો ઉભા થયા છે.",
-            "published": "2026-09-21T02:33:17+00:00"
           }
         ]
       }
@@ -1072,6 +1072,41 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "చెన్నైకి భారీ ప్రాజెక్ట్ ను ఎగరేసుకెళ్లిన సీఎం విజయ్",
+            "link": "https://telugu.oneindia.com/news/india/starbucks-to-launch-its-1st-india-global-capability-centre-in-chennai-mou-with-cm-vijay-hiring-tech-507235.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-21T14:53:37+05:30"
+          },
+          {
+            "title": "దానం తరువాతి వికెట్ ఆయనే, అధారాలు పక్కా..? కేసీఆర్ ఫిక్స్..!!",
+            "link": "https://telugu.oneindia.com/news/telangana/brs-leadership-to-explore-all-legal-avenues-seeking-kadiyam-srihari-s-disqualification-here-the-de-507233.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-21T14:52:51+05:30"
+          },
+          {
+            "title": "ఆంధ్రప్రదేశ్‌లో క్యాన్సర్ రోగులకు శుభవార్త... 75వేల విలువ చేసే పరీక్షలు ఉచితం!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/guntur-cancer-genetic-testing-advanced-cancer-genetic-testing-facility-in-guntur-ggh-75k-worth-tes-507231.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-21T14:52:25+05:30"
+          },
+          {
+            "title": "ఐఫోన్ కోసం ఆ దేశానికి క్యూ కడుతున్న భారతీయులు.. ఆ క్రేజ్ వెనుక అసలు లెక్క ఇదే!",
+            "link": "https://telugu.oneindia.com/news/business/is-flying-to-dubai-for-iphone-18-pro-worth-it-price-difference-and-math-explained-here-is-the-cos-507229.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-21T14:44:32+05:30"
+          },
+          {
+            "title": "గెస్ట్‌హౌస్‌లో దారుణాలు.. పొక్సో కేసులో సీఎం విజయ్ సీరియస్!",
+            "link": "https://telugu.oneindia.com/news/india/tamil-nadu-cm-vijay-orders-strict-probe-in-high-profile-pocso-case-involving-84-year-old-businessman-507227.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-21T14:42:15+05:30"
+          },
+          {
             "title": "శాప్ కార్యాలయంలో స్పోర్ట్స్ కోటా టీచర్లపై వైసీపీ దాడి..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ysrcp-leaders-protest-outside-saap-office-in-vijayawada-police-deployed-maintain-law-and-order-507209.html",
             "source": "Oneindia Telugu",
@@ -1091,13 +1126,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-21T14:27:39+05:30"
-          },
-          {
-            "title": "China: 45 గంటల్లో నాలుగు రాకెట్‌ ప్రయోగాలు.. చైనా సరికొత్త చరిత్ర - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3g5WVNiNnE2cjZWTXR6MGpyMDY1VTZ4RUIzTkxIRWZXWE54NGIxYUlLaG01dURDVVh1Szc5WFFNZjhuVkR1d2x4YWtxbGhfWjJqZDBZdXFacEloNld4MUVaRjI5YllSTnJBVE9sWUFlQ2QySHpSd0tuTjhydHJoamNRcmRLZXBINzd6YXlzV0Z5YmpMX1ZiZGtScXBmVXZLckpQLUxtWmPSAagBQVVfeXFMTUt4OVlTYjZxNnI2Vk10ejBqcjA2NVU2eEVCM05MSEVmV1hOeDRiMWFJS2htNXVEQ1VYdUs3OVhRTWY4blZEdXdseGFrcWxoX1oyamQwWXVxWnBJaDZXeDFFWkYyOWJZUk5yQVRPbFlBZUNkMkh6UndLbk44cnRyaGpjUXJkS2VwSDc3emF5c1dGeWJqTF9WYmRrUnFwZlV2S3JKUC1MbVpj?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-21T08:41:42+00:00"
           },
           {
             "title": "ఐఐటీ- బీ ప్రొఫెసర్ పై వేటు: చదివింది ఏలూరు, కాకినాడల్లో",
@@ -1126,34 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-21T13:52:29+05:30"
-          },
-          {
-            "title": "Anumana Pakshi: ‘అనుమానం పక్షి’.. రిలీజ్‌ ట్రైలర్‌ చూశారా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3RVbE9oeUdvVW1MaXpoWTdPc1F3Q2VwNmlGQVQ3V0lXam5ZTFl1WEdRYWcwb2dIaWJydUlLcUxDel9rSDNNQ2ZSNmMtQ21wMDVaUU9XZWtUTEhQanlheEdLeEVac3RTX1YwaTRtT2FwWjZGRElkdHBXY0Y0dGstNUdDdWvSAYQBQVVfeXFMTVd0VWxPaHlHb1VtTGl6aFk3T3NRd0NlcDZpRkFUN1dJV2puWUxZdVhHUWFnMG9nSGlicnVJS3FMQ3pfa0gzTUNmUjZjLUNtcDA1WlFPV2VrVExIUGp5YXhHS3hFWnN0U19WMGk0bU9hcFo2RkRJZHRwV2NGNHRrLTVHQ3Vr?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-21T08:18:31+00:00"
-          },
-          {
-            "title": "NTR District: రూ.4.50 కోట్ల కరెన్సీ నోట్లతో గణేశుడికి అలంకరణ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTVYcmtxbmdxVlJjNjNwQ29ScDhOX0ltdkJnMEFOTEg3NDdHXzFEWXo5eHhTMjF5eXBFRjRQV3pPR1p2N21jY0hfOHdDQW5JcHdOVG1rZzdkVVdRTHhhZzJQaFROSXgzREJPSWI4UmtYdG42VGpfNUlZU19qd1E2d1ozZDY5Z3VlbmU5d0ZLMUtORDVJMnVPdmExUHJBaC1EaTBXUUo3eGhSNUHSAasBQVVfeXFMUGU1WHJrcW5ncVZSYzYzcENvUnA4Tl9JbXZCZzBBTkxINzQ3R18xRFl6OXh4UzIxeXlwRUY0UFd6T0dadjdtY2NIXzh3Q0FuSXB3TlRta2c3ZFVXUUx4YWcyUGhUTkl4M0RCT0liOFJrWHRuNlRqXzVJWVNfandRNndaM2Q2OWd1ZW5lOXdGSzFLTkQ1STJ1T3ZhMVByQWgtRGkwV1FKN3hoUjVB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-21T08:05:06+00:00"
-          },
-          {
-            "title": "Balu Geetha: ఈటీవీ విన్ వేదికగా మరో ప్రేమకథ.. ‘బాలుగీత’ స్ట్రీమింగ్‌ ఎప్పుడంటే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaEVhZUJ2SWlySUg4SGs4M0VyOC1hMXJERVc3WktnVkhwWndPWjB3YlhtblE3Q2RSVEZYT3M4LXJPZVlGenRjV0l4enMxdzFvb3FFbG9iUzlTVmhBb09xR2EwLW9fM1J1c2hnVFBGZ3puWDBVcGtrZ2FsZVZlVU9EatIBgAFBVV95cUxNaEVhZUJ2SWlySUg4SGs4M0VyOC1hMXJERVc3WktnVkhwWndPWjB3YlhtblE3Q2RSVEZYT3M4LXJPZVlGenRjV0l4enMxdzFvb3FFbG9iUzlTVmhBb09xR2EwLW9fM1J1c2hnVFBGZ3puWDBVcGtrZ2FsZVZlVU9Eag?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-21T07:46:54+00:00"
-          },
-          {
-            "title": "నాగబంధంలో హన్మకొండ సిద్ధేశ్వరాలయం.. రోజూ ఆలయం తెరవగానే అద్భుతం!",
-            "link": "https://telugu.oneindia.com/news/telangana/cobra-at-siddheswara-temple-a-cobra-daily-coils-around-the-shivalingam-at-siddheswara-temple-in-hnk-507215.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-21T13:15:55+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Kasturirangan Report: ಕಸ್ತೂರಿ ರಂಗನ್ ವರದಿ ಕುರಿತು ಸದನದಲ್ಲಿ ಚರ್ಚೆ: ಸಾಧಕ-ಬಾಧಕಗಳ ಬಗ್ಗೆ ಪರಮೇಶ್ವರ್‌ ಹೇಳಿದ್ದೇನು?",
+            "link": "https://kannada.oneindia.com/news/karnataka/kasturirangan-report-debate-in-karnataka-assembly-what-did-g-parameshwara-say-about-its-pros-and-c-468635.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-21T14:52:15+05:30"
+          },
+          {
+            "title": "Bengaluru Life: ಬೆಂಗಳೂರು ಬಿಟ್ಟು UKಗೆ ಹೋದ ಟೆಕ್ಕಿಗೆ ಪಶ್ಚಾತ್ತಾಪ: ‘ಅಲ್ಲಿ ಎಲ್ಲವೂ ಚೆನ್ನಾಗಿತ್ತು’, ವೈರಲ್ ಪೋಸ್ಟ್‌",
+            "link": "https://kannada.oneindia.com/news/international/bengaluru-life-techie-regrets-leaving-for-uk-says-everything-was-better-in-bengaluru-468633.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-21T14:52:09+05:30"
+          },
+          {
+            "title": "ಚಿಮಣಿ ದೀಪದ ಬೆಳಕಲ್ಲಿ ಓದಿ, 20 ಲಕ್ಷದ ಐಟಿ ಕೆಲಸ ಬಿಟ್ಟು ಐಪಿಎಸ್ ಅಧಿಕಾರಿಯಾದ ಶರಣ್ ಕಾಂಬಳೆ",
+            "link": "https://kannada.oneindia.com/news/india/inspiring-story-of-ips-sharan-kamble-from-lantern-lit-nights-in-solapur-to-clearing-upsc-exams-468631.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-21T14:44:48+05:30"
+          },
+          {
+            "title": "Viral: ಕೂಲಿ ಕೆಲಸ ಮಾಡುತ್ತಲೇ ಕಷ್ಟಪಟ್ಟು ಓದಿದ ಹುಡುಗ, ಇಂದು ಕೇಂದ್ರ ಸರ್ಕಾರಿ ಉದ್ಯೋಗಿ: ಇದು ಕಣ್ಣೀರ ಕಥೆ",
+            "link": "https://kannada.oneindia.com/news/india/poor-labourer-son-gets-central-govt-job-and-builds-his-own-house-once-couldnt-afford-school-tour-fee-468629.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-21T14:40:20+05:30"
+          },
+          {
             "title": "Karnataka Major Dams: ಆಲಮಟ್ಟಿ ಭರ್ತಿ! ರಾಜ್ಯದ ಇತರ ಪ್ರಮುಖ ಜಲಾಶಯಗಳ ಇಂದಿನ ನೀರಿನ ಮಟ್ಟ?",
             "link": "https://kannada.oneindia.com/news/karnataka/karnataka-major-reservoir-water-level-september-21-krs-kabini-almatti-and-harangi-inflow-is-here-468625.html",
             "source": "Oneindia Kannada",
@@ -1303,34 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-21T12:53:42+05:30"
-          },
-          {
-            "title": "AI ವೀಡಿಯೊಗಳಿಗಾಗಿ ಮುಖ ಬಾಡಿಗೆ: ನಿಮ್ಮ ಅನುಮತಿಗೆ ಸಿಗುತ್ತದೆ 14 ಲಕ್ಷ ರೂ.",
-            "link": "https://kannada.oneindia.com/news/india/ai-face-licens-business-one-can-earn-14-lakh-rupees-for-giving-face-for-ai-video-series-advertisemen-468609.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-21T12:35:44+05:30"
-          },
-          {
-            "title": "Soujanya Case: ಸೌಜನ್ಯಾ ಅತ್ಯಾಚಾರ, ಕೊಲೆ ಪ್ರಕರಣದ ಮರು ತನಿಖೆಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಆದೇಶ, ಸಂಪೂರ್ಣ ವಿವರ ಇಲ್ಲಿದೆ",
-            "link": "https://kannada.oneindia.com/news/karnataka/soujanya-case-supreme-court-orders-re-investigation-into-dharmasthala-rape-and-murder-case-468605.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಧರ್ಮಸ್ಥಳದ ಸೌಜನ್ಯಾ ಅತ್ಯಾಚಾರ ಮತ್ತು ಕೊಲೆ ಪ್ರಕರಣವು ರಾಜ್ಯದಲ್ಲಿ ಭಾರೀ ಸದ್ದು ಮಾಡಿದ ಪ್ರಕರಣವಾಗಿದೆ. ವರ್ಷಗಳ ಹಿಂದೆ ನಡೆದ ಈ ಘಟನೆಯು ನ್ಯಾಯಕ್ಕಾಗಿ ಹಲವು ಹೋರಾಟಗಳನ್ನು ಕಂಡಿದೆ. ಇದೀಗ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಈ ಪ್ರಕರಣದ ಮರು ತನಿಖೆಗೆ ಆದೇಶ ನೀಡಿರುವುದು ಸಂತ್ರಸ್ತ ಕುಟುಂಬಕ್ಕೆ ಮತ್ತು ನ್ಯಾಯದ ಪರವಾಗಿ ಹೋರಾಡುತ್ತಿರುವವರಿಗೆ ಹೊಸ ಭರವಸೆಯನ್ನು ನೀಡಿದೆ. ಈ ಹಿಂದೆ ನಡೆದ ತನಿಖೆಯ ವರದಿಗಳ ಬಗ್ಗೆ ಸಾರ್ವಜನಿಕವಾಗಿ ಮತ್ತು ಸೌಜನ್ಯಾ ಅವರ ಕುಟುಂಬದ ಕಡೆಯಿಂದ ಹಲವು ಅನುಮಾನಗಳು ವ್ಯಕ್ತವಾಗಿದ್ದವು. ಈ ಎಲ್ಲಾ ಅಂಶಗಳನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಈಗ ನ್ಯಾಯಾಲಯವು ಮರು ತನಿಖೆಗೆ ನಿರ್ದೇಶನ ನೀಡಿರುವುದು ಬಹಳ ಮಹತ್ವದ ಬೆಳವಣಿಗೆಯಾಗಿದೆ. ಪ್ರಕರಣವು ದೀರ್ಘಕಾಲದಿಂದ ನನೆಗುದಿಗೆ ಬಿದ್ದಿದ್ದರೂ, ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನ ಈ ತೀರ್ಮಾನವು ಸತ್ಯ ಹೊರಬರಲು ದಾರಿ ಮಾಡಿಕೊಡಲಿದೆ. ಈ ತನಿಖೆಯು ಯಾವ ಹಂತದಲ್ಲಿ ನಡೆಯುತ್ತದೆ ಮತ್ತು ತನಿಖಾ ಸಂಸ್ಥೆಗಳು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದು ಈಗ ಕುತೂಹಲ ಮೂಡಿಸಿದೆ. ರಾಜ್ಯದ ಜನತೆ ಈ ತನಿಖೆಯ ಪ್ರಗತಿಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ. ತಪ್ಪಿತಸ್ಥರಿಗೆ ಕಠಿಣ ಶಿಕ್ಷೆ ಸಿಗಬೇಕೆಂಬುದು ಸಾರ್ವಜನಿಕರ ಒತ್ತಾಯವಾಗಿದೆ. ನ್ಯಾಯಾಲಯದ ಈ ಕ್ರಮವು ಕಾನೂನಿನ ಮೇಲಿನ ನಂಬಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಿದ್ದು, ನಿಷ್ಪಕ್ಷಪಾತ ತನಿಖೆಯ ಮೂಲಕ ಸೌಜನ್ಯಾಳ ಆತ್ಮಕ್ಕೆ ನ್ಯಾಯ ಸಿಗಲಿ ಎಂದು ಎಲ್ಲರೂ ಆಶಿಸುತ್ತಿದ್ದಾರೆ. ಪ್ರಕರಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಮುಂದಿನ ಕಾನೂನು ಪ್ರಕ್ರಿಯೆಗಳು ದೇಶದ ಗಮನ ಸೆಳೆದಿವೆ.",
-            "published": "2026-09-21T12:28:24+05:30"
-          },
-          {
-            "title": "UPI ಶುಲ್ಕದ ನೆಪ, ಗ್ರಾಹಕರಿಗೆ ಬಿತ್ತು ಕನ್ನ: ಅಂಗಡಿಗಳ ಮುಂದೆ ರಾರಾಜಿಸುತ್ತಿವೆ 'ಕ್ಯಾಶ್ ಓನ್ಲಿ' ಬೋರ್ಡ್",
-            "link": "https://kannada.oneindia.com/news/india/upi-mdr-rule-sparks-outrage-merchants-exploit-customers-over-fake-fees-switch-to-cash-only-boards-468597.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಯುಪಿಐ ಪಾವತಿಗಳ ಮೇಲಿನ ಎಂಡಿಆರ್ (MDR) ಶುಲ್ಕ ಕಡಿತದ ನೆಪವೊಡ್ಡಿ, ಕೆಲವು ವ್ಯಾಪಾರಿಗಳು ಗ್ರಾಹಕರಿಂದ ಹೆಚ್ಚುವರಿ ಹಣವನ್ನು ಸುಲಿಗೆ ಮಾಡುತ್ತಿರುವ ಪ್ರಕರಣಗಳು ಬೆಳಕಿಗೆ ಬಂದಿವೆ. ವಿಶೇಷವಾಗಿ 2000 ರೂಪಾಯಿಗಿಂತ ಹೆಚ್ಚಿನ ವಹಿವಾಟುಗಳ ಮೇಲೆ ಕೆಲವು ಬದಲಾವಣೆಗಳು ಆದ ನಂತರ, ಗ್ರಾಹಕರು ಇಕ್ಕಟ್ಟಿಗೆ ಸಿಲುಕಿದ್ದಾರೆ. ಗಾಜಿಯಾಬಾದ್‌ನಂತಹ ನಗರಗಳಲ್ಲಿ ಅಂಗಡಿಗಳ ಮುಂದೆ 'ನಗದು ಮಾತ್ರ' (Cash Only) ಎಂದು ಬರೆದ ಫಲಕಗಳು ರಾರಾಜಿಸುತ್ತಿದ್ದು, ಡಿಜಿಟಲ್ ಇಂಡಿಯಾ ಕನಸಿಗೆ ಇದು ಅಡ್ಡಿಯಾಗುತ್ತಿದೆ. ಪಾನಿಪುರಿ ವ್ಯಾಪಾರಿಯೊಬ್ಬ ಯುಪಿಐ ಪಾವತಿಗೆ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕ ಕೇಳಿದ ವಿಡಿಯೋ ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ವೈರಲ್ ಆಗಿದ್ದು, ಜನಸಾಮಾನ್ಯರಲ್ಲಿ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ವ್ಯಾಪಾರಿಗಳು ತಮ್ಮ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಂತಹ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿರುವುದು ನೇರವಾಗಿ ಗ್ರಾಹಕರ ಜೇಬಿಗೆ ಕತ್ತರಿ ಹಾಕಿದಂತಾಗಿದೆ. ಆರ್‌ಬಿಐ ನಿಯಮಗಳ ಪ್ರಕಾರ ಯುಪಿಐ ವಹಿವಾಟುಗಳಿಗೆ ಶುಲ್ಕ ವಿಧಿಸಬಾರದು ಎಂಬ ಸ್ಪಷ್ಟನೆ ಇದ್ದರೂ, ಕೆಲವು ವ್ಯಾಪಾರಿಗಳು ಜಾಣತನದಿಂದ ಗ್ರಾಹಕರನ್ನು ಶೋಷಣೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಸ್ಥೆಯು ಪಾರದರ್ಶಕವಾಗಿರಬೇಕು ಎಂಬ ಉದ್ದೇಶವನ್ನು ಇದು ಸೋಲಿಸುತ್ತಿದೆ. ಆಡಳಿತ ಮಂಡಳಿಗಳು ಇಂತಹ ಅಕ್ರಮ ಸುಲಿಗೆಯನ್ನು ತಡೆಯಲು ಕಠಿಣ ಕ್ರಮ ಕೈಗೊಳ್ಳುವುದು ಅವಶ್ಯಕವಾಗಿದೆ. ಜನಸಾಮಾನ್ಯರು ಅಂತಹ ವ್ಯಾಪಾರಿಗಳ ವಿರುದ್ಧ ಧ್ವನಿ ಎತ್ತಬೇಕಿದೆ. ಇದು ಡಿಜಿಟಲ್ ಆರ್ಥಿಕತೆಯ ಭವಿಷ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕಾದ ಹೊಣೆಗಾರಿಕೆ ಎಲ್ಲರ ಮೇಲಿದೆ.",
-            "published": "2026-09-21T12:10:30+05:30"
-          },
-          {
-            "title": "Train: ದಸರಾ-ದೀಪಾವಳಿ ಪ್ರಯಾಣಿಕರಿಗೆ ಗುಡ್‌ನ್ಯೂಸ್! ಬೆಂಗಳೂರಿನ ವಿಶೇಷ ರೈಲುಗಳ ಸೇವೆ ನವೆಂಬರ್‌ವರೆಗೆ ವಿಸ್ತರಣೆ",
-            "link": "https://kannada.oneindia.com/news/india/karnataka-trains-update-special-express-services-extended-temporary-stops-added-at-nagalavi-halt-468603.html",
-            "source": "Oneindia Kannada",
-            "summary": "ದಸರಾ ಮತ್ತು ದೀಪಾವಳಿ ಹಬ್ಬಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಊರಿಗೆ ತೆರಳುವ ಪ್ರಯಾಣಿಕರಿಗೆ ರೈಲ್ವೆ ಇಲಾಖೆಯು ಸಿಹಿಸುದ್ದಿ ನೀಡಿದೆ. ಬೆಂಗಳೂರಿನಿಂದ ಸಂಚರಿಸುವ ವಿಶೇಷ ರೈಲುಗಳ ಸೇವೆಯನ್ನು ನವೆಂಬರ್ ತಿಂಗಳವರೆಗೆ ವಿಸ್ತರಣೆ ಮಾಡಲಾಗಿದೆ ಎಂದು ರೈಲ್ವೆ ಪ್ರಕಟಣೆಯಲ್ಲಿ ತಿಳಿಸಿದೆ. ಹಬ್ಬದ ರಜಾದಿನಗಳಲ್ಲಿ ಪ್ರಯಾಣಿಕರ ದಟ್ಟಣೆಯನ್ನು ನಿರ್ವಹಿಸಲು ಮತ್ತು ಜನರಿಗೆ ಸುಗಮ ಪ್ರಯಾಣದ ವ್ಯವಸ್ಥೆ ಕಲ್ಪಿಸಲು ಈ ನಿರ್ಧಾರವನ್ನು ಕೈಗೊಳ್ಳಲಾಗಿದೆ. ಬೆಂಗಳೂರು ಮತ್ತು ವಿಶಾಖಪಟ್ಟಣಂ ನಡುವೆ ಸಂಚರಿಸುವ ವಿಶೇಷ ರೈಲುಗಳಿಗೆ ನವೆಂಬರ್ ವರೆಗೆ ಸಮಯವನ್ನು ವಿಸ್ತರಿಸಲಾಗಿದ್ದು, ಈ ಮಾರ್ಗದಲ್ಲಿ ಪ್ರಯಾಣಿಸುವವರಿಗೆ ಇದು ದೊಡ್ಡ ನೆರವಾಗಲಿದೆ. ಇದಲ್ಲದೆ, ಪ್ರಯಾಣಿಕರ ಅನುಕೂಲಕ್ಕಾಗಿ ಕೆಲವು ನಿಲ್ದಾಣಗಳಲ್ಲಿ ತಾತ್ಕಾಲಿಕ ನಿಲುಗಡೆಗೆ ಕೂಡ ಆದೇಶಿಸಲಾಗಿದೆ. ನಾಗಲಾವಿ ಹಾಲ್ಟ್ ಸೇರಿದಂತೆ ಇತರೆ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ರೈಲುಗಳು ನಿಲ್ಲುವುದರಿಂದ ಸ್ಥಳೀಯ ಪ್ರಯಾಣಿಕರಿಗೆ ಬಹಳ ಅನುಕೂಲವಾಗಲಿದೆ. ಹಬ್ಬದ ಸಮಯದ ಟಿಕೆಟ್ ಬುಕಿಂಗ್ ಭರಾಟೆಯಲ್ಲಿ ಇರುವ ಜನರಿಗೆ ಈ ಹೆಚ್ಚುವರಿ ರೈಲುಗಳ ಸೇವೆ ಆತಂಕವನ್ನು ಕಡಿಮೆ ಮಾಡಿದೆ. ಮುಂಗಡ ಟಿಕೆಟ್ ಬುಕಿಂಗ್ ಮಾಡಿಕೊಳ್ಳಲು ಬಯಸುವವರು ರೈಲ್ವೆ ಇಲಾಖೆಯ ವೆಬ್‌ಸೈಟ್ ಅಥವಾ ಆ್ಯಪ್ ಮೂಲಕ ಮಾಹಿತಿ ಪಡೆಯಬಹುದಾಗಿದೆ. ಸರಕಾರದ ಈ ಕ್ರಮವು ಸಾವಿರಾರು ಪ್ರಯಾಣಿಕರ ಪ್ರಯಾಣದ ಕಷ್ಟವನ್ನು ಪರಿಹರಿಸಲಿದ್ದು, ಹಬ್ಬದ ಸಂಭ್ರಮಕ್ಕೆ ಯಾವುದೇ ತೊಂದರೆ ಇಲ್ಲದಂತೆ ಮಾಡಲು ಸಹಕಾರಿಯಾಗಿದೆ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಪಡೆಯಲು ಹತ್ತಿರದ ರೈಲ್ವೆ ನಿಲ್ದಾಣವನ್ನು ಸಂಪರ್ಕಿಸುವುದು ಸೂಕ್ತ.",
-            "published": "2026-09-21T12:06:44+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "পাকিস্তানি খেলোয়াড়দের সঙ্গে হাত মেলালেন সুতীর্থা-সিন্ড্রেলারা! ভারত-পাক ক্রিকেটের ছবি বদলে দিল টেবল টেনিস - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUFGWGZaZTVHVkpncjhmOE1TR1QxcVhzeldsbTAzZ3ItbFVaenpMbjd1ZVo4aUJFLU9YTnR1RDJGSTl4M1JWQ0picVUtcUo4WnNrSnhfR3AwUWRNT1lVVVd4aVNRTUQ3aHllMjM3ZHlCT1FnZl9BUXFwZl83Wk5fcE9XUVlYS1pQSW5vRWF5ZmsxbTNfVG9veENJU1F5dW5YeG1lTFhNdE80X1dwOV90QnBRRUFkUS1pRFNRWE9UNDlYVEhGSjdhWTJjQkFneUJadDNVTExB0gHbAUFVX3lxTE45MmFFSG9tSl9UdEdXSzJtZm5RMlJVVmtINFN0UmNVMFZrZUZDNjlQUjdaTGNFVzFhV2p6SVRRaDZqZ0xrZ2REN1F4NjhUM2h6VU96bzF0VDVnVnVmQlRvMGN2ejFLbzYwSEZldzZjdl9SeldYbWgyaGREc3ZMZUlBZ1lGMklDMGRSXzBXNG1VNGJfMFJNcXhtdDNpZmlGWGFxaU5LUWUwS2xJbE1IUWZCSFNLS3loRXFybmNYV2YyRTluSEc2Wk90LUlFZy1wS0ZUSzgyd0I5TkcxTQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-21T08:57:53+00:00"
+          },
+          {
             "title": "শ্রীলঙ্কায় 'সবচেয়ে বড়' গণকবরের সন্ধান, ৫৭২ জনের কঙ্কাল খুঁজে পেলেন শ্রমিকেরা",
             "link": "https://www.bbc.com/bengali/articles/c62l8270lvexo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1433,32 +1440,46 @@
             "published": "2026-09-21T07:09:59+00:00"
           },
           {
-            "title": "মমতার আর্জি দ্রুত শোনার চেষ্টা করা হবে, জানাল সুপ্রিম কোর্ট, প্রতীক খুইয়ে কমিশনের বিরুদ্ধে শীর্ষ আদালতে যান তৃণমূলনেত্রী - anandabazar.com",
+            "title": "মমতার আর্জি দ্রুত শোনার চেষ্টা করা হবে, জানাল সুপ্রিম কোর্ট, প্রতীক খুইয়ে কমিশনের বিরুদ্ধে শীর্ষ আদালতে যান তৃণমূলনেত্রী - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVEk3c2psUlNJM3RFWElWcjlJUzhKQTdQYjRZbWlKMUdzbzVIckN5SkRrQU5hckVYSDRiRHdUMFhEbG83YzktM2lSTEhURnR5cWhzUm5XUWl1Ujc3T1l3cVB4MUNhaFYxS081eW9IQldjR2FMR294WU0wc0UzemlPM0tmSFdIWldLT2RKZXFyaHhYc29WOTVlLVBlY0p4aVVHVXJIM2RrYi1SWGhuWXd0R1FxWFpMUTBVdUpFc0dsZUhXb0dLUDZqQ19XT3VOWjFmN3FTQjViLXJEY2pyX0ttMkRLVzhRTWxFSURxRjVlMmowcWFkaDhqaEdVYjZiWkRyZ3VUbHp30gGLAkFVX3lxTE0zWUJjN0RmNDEwVElLOUctRVZyR1QtdHp4Mk9abnhZbG9LMllySXFmU3FRTUdNa3RkQ0lrQ29xTzBJaEl3VVBMYkpycllxd0RtNWRFbjNnTG1TZzY4WWV6S1AxdkJWM1M0WnVvejl2YlRKTDZONHdBd1liSUxrRU1SMWZzSVZkZllTV1hGcTRLTTFWQ3JDcENKeUJEbmRmSzg5aEMyeHY1bFRVTF81aVJQWjVZeEFSS0M4UFgwYnI0Q2lGTzVYTnVpeWxrX0RHb2tUX2xFa2s5SGhSUktPQnFveWxfZGpHQ2dJTUVpLTRGWE1zZlNIejN3Q3hfd25aTWQ1Xzd5ZEhhN3dmYw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-21T06:06:20+00:00"
           },
           {
-            "title": "জেলবন্দি স্বামীর জন্য ভোট চাইলেন নন্দীগ্রামের কংগ্রেস প্রার্থীর স্ত্রী, পুরনো এবং মিথ্যা মামলায় ফাঁসানোর অভিযোগ - anandabazar.com",
+            "title": "বাজারমূল্য কমেছে ৮০ শতাংশ, আগ্রহ হারাচ্ছেন বিনিয়োগকারীরাও! দুর্দান্ত শুরুর পরেও কেন ধুঁকছে ‘সুগার কসমেটিক্‌স’ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaFZNWmlzbl9wZVFfMWV5eTJnWTR1TEVaSTZORm96dC0ydEJqcTVLYm9WSTB6Q1lKQ01LZzM3WlJZdjlvYWtaQjdXY0ZTeVBMZDk5cmdjMC1RVUl1VUV6TGFXU05BdjhhQUFmXzNibWRJUkdmaFFqOG5MYzNGVXlSeU1GaEJLdlpEY2sxMXR3RWk2ZjZWdEZlVnI3aS1iZ190dmpJb1NTRU5GN1N1S29Kd0Vqb0w2d0xGQWZGeTVzTWt5ekl3M3h5ZnBGN1hlLVVya0kyQXo0ZWN3R1E2ZDdjWUlvU2lxci1pcm1mcWw3WdIB9AFBVV95cUxQTTltYkZuWHpOS0prY0h2NUtOcG5PdTNleXpLaUl5MWUyd24yXzAyUnhuTkFTX01XXzJ5WWJjeXotNTJXWnRObmZFWFBoVm83RUItRW15SU1UY0cyMzJCU3VzcFpXT0RBNU4zbUJ6UnplSWxZekM4YmRKbmxVSHlHOUtuQUdMWWRNcVNfNGM1VUo2OFNzVEJaMXNWVDJPUVNkdm9FTkNLUFFISlhlamFWaFBTeVJSU01VTlpOZjEzZGZJbTZlS3ZQVHpIRlMxdXlaYXlqenBRUVJGbWs2cjZyMkRMSVZpVmFzRE1WRFNYRjB1NEFt?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-21T06:04:01+00:00"
+          },
+          {
+            "title": "জেলবন্দি স্বামীর জন্য ভোট চাইলেন নন্দীগ্রামের কংগ্রেস প্রার্থীর স্ত্রী, পুরনো এবং মিথ্যা মামলায় ফাঁসানোর অভিযোগ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUZnOHYyRGpSajZ5dHZxMk5RbzVNVEptcnM3WnRPQzJjZHBjZ2UxTDFWR1RkYzVDNFFIdWJvUmJyZEVKZGZkSGdnUnQwMVhpRzloWllhUndyN3dmOGdqTGV6ZGg3Q3E4a2V5ZVY3NXNzRDZGM3BBaGZVcVpYblhzbS05RC12dXNGdGk2N0xWRmdCNlpxQ1VlX1Foal8wUEFIMjdBaW1QUXNVZG1XLWhqTXhEalpLd0V6VUFoV2h4WWJzLTlhNmhV0gHMAUFVX3lxTE11Q2R3ckRWOVdYbEdNNFVLY1hOSV9YYmtGa2M4LVRtWXVDQkJvMXZKZmJTY09qOHJzbXBaem9rLTZycE11TWZWcWNwY0kyX2RrbE9mdHN0MGhxaFE3TUM4RmU2OThLVmxUeHpEVkh4WHVISjNiWE5MeGRMRDJQWFI0TV92Zk9SZ0l0VGV4cTE0YnROb2EwdFBUTmlGYnBjc25qNzQ3cUlsZGJNZUp5c3RBRy10cF91MUFsYUFpT3lXMkhleXI5U2VBN21jeQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "নন্দীগ্রামের নির্বাচনী ময়দানে বর্তমানে এক অন্যরকম দৃশ্য দেখা যাচ্ছে। সেখানকার কংগ্রেস প্রার্থীর স্ত্রী নিজের স্বামীর হয়ে প্রচারের দায়িত্ব নিজের কাঁধে তুলে নিয়েছেন। তিনি জনসমক্ষে অভিযোগ করেছেন যে, তার স্বামীকে একটি পুরনো এবং সম্পূর্ণ মিথ্যা মামলায় ফাঁসিয়ে কারাবন্দি করে রাখা হয়েছে। এই ঘটনাটিকে ঘিরে রাজনৈতিক মহলে যথেষ্ট তোলপাড় শুরু হয়েছে। প্রার্থীর স্ত্রীর দাবি, উদ্দেশ্যপ্রণোদিতভাবে এই ষড়যন্ত্র করা হয়েছে যাতে তিনি প্রচার করতে না পারেন। তিনি সাধারণ ভোটারদের কাছে আবেদন জানাচ্ছেন যাতে তারা এই অন্যায়ের প্রতিবাদ স্বরূপ তার স্বামীকে ভোট দিয়ে জয়যুক্ত করেন। এই পরিস্থিতিতে নন্দীগ্রামের রাজনৈতিক লড়াই আরও উত্তপ্ত হয়ে উঠেছে। বিরোধীরা কেন এই ধরনের পদক্ষেপ নিল এবং এর পেছনে আসল উদ্দেশ্য কী, তা নিয়ে এলাকায় জল্পনা বাড়ছে। একজন প্রার্থীর অনুপস্থিতিতে তার স্ত্রীর এই লড়াই ভোটারদের মন জয়ের ক্ষেত্রে কতটা প্রভাব ফেলে, এখন সেটাই দেখার বিষয়। নির্বাচন কমিশনের নজরদারিতে থাকা এই কেন্দ্রটিতে এখন নজর সবার। রাজনৈতিক প্রতিহিংসার এই লড়াইয়ে শেষ পর্যন্ত কার জয় হয়, তা জানতে অপেক্ষা করতে হবে ভোটের ফলাফলের জন্য।",
             "published": "2026-09-21T05:16:46+00:00"
           },
           {
-            "title": "ভারত-বাংলাদেশ যৌথ টাস্ক ফোর্স গড়তে আলোচনা! কূটনৈতিক টানাপড়েনের মাঝে দ্বিপাক্ষিক বাণিজ্য বৃদ্ধিতে উদ্যোগী দুই দেশ - anandabazar.com",
+            "title": "ভারত-বাংলাদেশ যৌথ টাস্ক ফোর্স গড়তে আলোচনা! কূটনৈতিক টানাপড়েনের মাঝে দ্বিপাক্ষিক বাণিজ্য বৃদ্ধিতে উদ্যোগী দুই দেশ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFdGeVdYV3dLcDhkSFppbktWY3NjWUExSGZ6d3RQb21PODQ3dEdncUNJNlh5UzhLcUV6alVFNjBSSlJCQzNoUFYtcWlnU0FCcC0tSnI0UjJHZ0ZtNkxMQzJkMVVoZjdYTXRPVUpSM3NCWko2WmhGcGw5ME9aUktHTnlrR0lmV1FhcUxJMWVXS1I0S0Y5T2dQd3ZPZXhOWmtkd3ZxZk5Mc2FEQzUxZFV1SlBsdjQwRGhKMU9vM2VFMW1MRnByLTR0cFducXcyUdIB0wFBVV95cUxPYm5PN0ZrUTJlU1pSQ2Fpazc0SjhQT2MyTHB0TmQwVDh3VUJPRkdwWmp4eG85X19OdmxWaUl6cDBnUnJVNWNUeVlyQ2JQekliZnU2aHdNN2Q2MlNmY3pGZXp6QVNGanc5eDBULUdDaHMwTHozNV9vMlRvSThYdFl3ZkVVR0hfQ3ZfZnhWOHVUdE9wQWNXbFFTeE9vZjdMQ3RWM25WbmFzOUU5TU43UV8xRlhSeTVPd01ORVBuc3poeGpidE5CbEc5czFTXzgwTndHSTRj?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-21T05:05:05+00:00"
           },
           {
-            "title": "দুই বাঙালি কন‍্যার হাত ধরে পাকিস্তানকে হারাল ভারত, এশিয়ান গেমসে টেবল টেনিসের কোয়ার্টারে সিন্ড্রেলা-সুতীর্থারা - anandabazar.com",
+            "title": "দুই বাঙালি কন‍্যার হাত ধরে পাকিস্তানকে হারাল ভারত, এশিয়ান গেমসে টেবল টেনিসের কোয়ার্টারে সিন্ড্রেলা-সুতীর্থারা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZGVHMDJJS3d4aExYNFR6M0tIY0RNbG5fQ2p5aTRwcVhoRV9ESi1jNm5GZXBGdWRra2ROVDJyN1Mzd1g0WFlVZUJleVdNNlBVcmR5R0Z0bWtwdUFVNVl2RmlzSXlDNzFLZEhraVk1c1dMOHNXdnVwTjc1OWJOWGI1TWJzNmlrc2lELTdTc0ZYM2IzRjNqa2FZdTFlMDZKZ1E2bDAtbFpWaXVVWklmUE1vODViNkhFZDJsMFdRb2YyT0V2SjZGS3dvbzZmNk1DTGExMGFEVjI5MmN0empBUWxuUWlkTlFjUnQxQ3d4Y2xLYTRUdENTcGFBZmFPdGZqQdIBgwJBVV95cUxPTm5XM1BLTWZOdU53d1ItakpaZ1MzcHhnQWYzTGp1YmM3bjBSYjlyZUZZLVNkS3E3bjZyOFRrZUV1VHl6X01kTGZrY0FsQ3BjU2JPUU9kRF9QUzdzallpbnpIUU95ZHloMm15dTcwU1RHMnVsb3JzdkJkZHI1VEtKcGNzUWR5UEQ0QmdwVzlpbXllOWkxS1lCMFNoNW9hUTBmMi1KMGlzaDlYby1EU05pX0JDMnZvVGNhQ1NDWk8tSXhrZzRkb09FMTZaR0ZMdURXRXoyY01uZ2IxUXZpaTBZX0Y5MHFRY1hwdGRkZTUyd2VTd0VrcTRVZ2tWLUgwS2NMT3RN?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "এশিয়ান গেমসের মঞ্চে ইতিহাস গড়েছে ভারতীয় টেবল টেনিস দল। দুই বাঙালি কন্যা সুতীর্থা মুখোপাধ্যায় এবং ঐহিকা মুখোপাধ্যায় (সিন্ড্রেলারা) অসাধারণ পারফরম্যান্সের মাধ্যমে পাকিস্তানকে হারিয়ে ভারতকে জয়ের স্বাদ এনে দিয়েছেন। তাদের এই দুর্দান্ত সাফল্যের ফলে ভারতীয় দল সরাসরি কোয়ার্টার ফাইনালে নিজেদের জায়গা পাকা করে নিয়েছে। আন্তর্জাতিক মঞ্চে বাঙালি কন্যাদের এই কীর্তি দেশের ক্রীড়াপ্রেমীদের কাছে গর্বের বিষয় হয়ে দাঁড়িয়েছে। খেলার শুরু থেকেই পাকিস্তান দলের বিরুদ্ধে আক্রমণাত্মক মেজাজে ছিলেন সুতীর্থা ও সিন্ড্রেলারা। নিখুঁত শট এবং টেকনিক্যাল দক্ষতার মাধ্যমে তারা বিপক্ষকে চাপে ফেলে দিয়েছিলেন। এশিয়ান গেমসের মতো বড় মাপের প্রতিযোগিতায় এই জয় শুধুমাত্র একটি ম্যাচ জেতা নয়, বরং ভারতীয় টেবল টেনিসের মানচিত্রে নতুন আশার আলো দেখিয়েছে। তাদের এই জয়ের পর থেকেই প্রশংসার জোয়ার বইছে চারিদিকে। বাঙালি খেলোয়াড়দের এই দাপট প্রমাণ করে যে, সঠিক সুযোগ পেলে তারা বিশ্বমানের লড়াই করতে সক্ষম। কোয়ার্টার ফাইনালে ওঠার এই পথ সহজ ছিল না, কিন্তু তাদের অদম্য জেদ জয় এনে দিয়েছে। আগামী ম্যাচগুলিতেও তারা এই ফর্ম বজায় রাখতে পারেন কি না, তা নিয়ে এখন আশায় বুক বাঁধছে গোটা দেশ।",
             "published": "2026-09-21T04:50:52+00:00"
+          },
+          {
+            "title": "সেরে উঠছে ওজ়োন স্তর! ছিদ্রের মাপ গত সাড়ে তিন দশকের ক্ষুদ্রতমগুলির মধ্যে একটি, সম্পূর্ণ সারতে আর ক’দিন? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkttMUdha3VDaUV5YkFON0JoWkNFRUNsbmx3YnppcTZOWDE5REYzeHlLUDhLWEtJOW94cDZQSkdPc3ZNZUVPRk9MNVJrWENVT3VyTDJPOTRFSXVLeHZBck5QQk50NW4zcWdwejQxdGg4Qk9Vdm9Vc19hVERHX0VsSjIxdnltMVI5YklKVllSMkpQMlhla01VR2JRY3hVeGdxM1ZqOE5UaVFJZ3Z2UE8ycThXaHF3OHBfeDdkSDFEcHdiZ2Ux0gHKAUFVX3lxTE9ibGpFbDhvdmIwQXQzUzJMYW9kMU9PN0RITmRraU5odmh1QzVMcDkyWkR4eFM4ZE5KN21FTzQxNUpma1FkcGtWdXA1dFFDSHprcWpubXN5ZGl5TTNJV256UGItLUNIcmRFM2FPMTB4OTRaRWo1aXpRMFY1ckZfZGw3aHhMOHV6Wl96Qm15SlZpdTY2YVBRUlgzM0VBUzBnRTlBRmpJYUY3WmoyRzBfcFlaNEVmT2dESWllWUtSMFFMcHoxVEVnRXhfbXc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-21T03:30:40+00:00"
           },
           {
             "title": "পত্রিকা: 'পুলিশের কাজে ধীরগতির কারণে নিখোঁজ শিশুদের লাশ পাওয়া যাচ্ছে'",
@@ -1468,18 +1489,11 @@
             "published": "2026-09-21T02:54:10+00:00"
           },
           {
-            "title": "আরব মুলুকে ড্রোন হামলায় বন্ধ ভারতে তেল সরবরাহ! খরচে নাভিশ্বাস নয়াদিল্লির, আবার বাড়বে তেলের দাম? - anandabazar.com",
+            "title": "আরব মুলুকে ড্রোন হামলায় বন্ধ ভারতে তেল সরবরাহ! খরচে নাভিশ্বাস নয়াদিল্লির, আবার বাড়বে তেলের দাম? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNODVaN2ppTERBUEtDNEhOQXJaWGxGbTZ5Z0t0RmFKeWtnc2lMNXVoSWRkNnR5Z0MydUNVMmkwMENRTkJHbk5VeDlybVZmYTgwTUUxS2Y2djB5VW90OVc5Zi16UlRMb2dqbF9Ia0VHWmRWUUZjYkNSOGktUjRIMnBqVnNaUTVTdmRhYi1rM2JPT0kzdUZpX216WktJd0NyQl9nU09QSXd4UHB6SzhPZTBaQW5NblNBUUY5RnlzYzY3NEt6ZGJnTERWTW9hNzdaOHZEZGdVTVFfUFJ2b2p3UTNGYjVxSEo4N0dCWWlPVG1QMWtZTkxOUnRFRWZxalPSAYICQVVfeXFMUFN5eUVIcWM2QjlLVHYydGF5alkwMGdNU2w3M3NrLXhBN1dyWVdnZld3WVNCb2x0Y3pQcHRmSGlNUjJ3azY0V1c2ZXAwdW9jVjYtbWM3U0t6QVprLUZvMTBwbE14aVJCZk1mbmNxVHdGUDVPeXlscGxHeHV3UmI4SFBObm94eVNKNVJrRzBfWlMwLU5yMzhYLU13N2xkb2NYRFBIVmx0dW9nMW9JRk9HX1dTSFdjdTFSb3FlWERFbk05OHNOeXZOdUx5Ukd2eVdkVm91eUw3cUpTRlZuaUdURzR5aXFuaGZqZ09GOGhONXB6bldPQzFOV1RqTTRBaTg5VjF3?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "সম্প্রতি ইন্টারনেটে একটি ভাইরাল ভিডিওকে কেন্দ্র করে বড় ধরনের বিতর্কের সৃষ্টি হয়েছে, যেখানে এক তরুণীকে বাজারে অস্বস্তিকর অভিজ্ঞতার সম্মুখীন হতে হয়েছে। ভিডিওতে দেখা যায়, বাজার করতে বেরিয়ে কিছু প্রবীণ ব্যক্তির (যাদের ‘কাকু’ হিসেবে সম্বোধন করা হয়েছে) কটু এবং অস্বস্তিকর চাহনির কারণে তিনি প্রচণ্ড মানসিক চাপে পড়েন। নিজেকে রক্ষা করতে এবং ওই পরিস্থিতির অস্বস্তি কাটাতে বাধ্য হয়ে তিনি নিজের পোশাকের ওপর আরেকটি পোশাক পরে নিতে বাধ্য হন। এই ঘটনার ভিডিও সোশ্যাল মিডিয়ায় ছড়িয়ে পড়তেই নেটপাড়ায় প্রতিবাদের ঝড় উঠেছে। নারীদের নিরাপত্তা এবং জনসমক্ষে পোশাক নির্বাচন নিয়ে দীর্ঘদিনের যে কুসংস্কার ও মানসিকতা সমাজের একাংশে রয়ে গেছে, তা এই ঘটনায় আরও প্রকট হয়ে উঠেছে। অনেকেই তরুণীর এই সাহসী পদক্ষেপকে সমর্থন জানিয়েছেন, আবার কেউ কেউ সমাজের এই অসুস্থ মানসিকতার কড়া সমালোচনা করছেন। একজন মহিলার ওপর এমন অভব্য আচরণ যে কোনোভাবেই মেনে নেওয়া যায় না, তা নিয়ে সরব হয়েছেন সচেতন নাগরিকরা। এই ঘটনাটি ফের একবার প্রমাণ করল যে, প্রকাশ্যে চলাফেরার ক্ষেত্রে নারীদের জন্য সামাজিক পরিবেশ কতটা প্রতিকূল হতে পারে এবং এই ধরনের ঘটনা রোধে সচেতনতা কতটা জরুরি।",
             "published": "2026-09-21T02:33:14+00:00"
-          },
-          {
-            "title": "বাজারে ‘কাকু’দের অস্বস্তিকর চাহনি! বাধ্য হয়ে পোশাকের উপর পোশাক পরলেন তরুণী, ভাইরাল ভিডিয়োয় বিতর্ক - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDhmZHhlaFlLUE43MnpWQUw2ZUNmT19fRjR4RDJPRjd0S3pyRUNZREFfZFNCNnFQRk82aHlCcEY2U1N5UlJqdE52QW1pQ0NpVnh2dURyMF9fVFZtTW1TZDNqQ2JvQVkxOVN3eXdBT0lNOEFKT2hmN3h6U28xejR5N0RRcnVraEYwd2FYdUNaLVg3Ny05ZlRlZGc5d29qZER3VTdpOTRRQlE5SFZ2SXJWSVlZLTZvN0VxX0tmZUllZ1BuVV9uU0xLN3I3NGJ4WE3SAdQBQVVfeXFMTklqbEdfMHB3bzJEdnl6QjRrODJQTzdla3BKbnNLZ2NtUlJaam1xVm40MWJyUEZ4TmFnNWNfbEt6cFJmVGk0dUJTMEtuQTZMellQajRoVDVsR0VmSjV3YjlZVmNBX2lZQVhYQ1ViU3JGaHF2Y0hDYmZSUVZxSFl4WTNSTmRqWTlURDRQZGZ1ZVR1Rlc3M0xaNHlfMVE3bGE2bWpzekNDenBacnRwMGQ0N19fR0E3YV9xX1piWlJfRWZSUGROV2kxaFNYSzE1VGVnbzYtelc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-21T02:28:54+00:00"
           },
           {
             "title": "শিয়ালের মাংস, তক্ষক, জোঁকের তেল: রোগ সারানোর বিশ্বাস কতটা সত্য?",
@@ -1489,25 +1503,11 @@
             "published": "2026-09-21T02:27:23+00:00"
           },
           {
-            "title": "কখন পুরো দেশটাকেই উড়িয়ে দেব! ডোনাল্ড ট্রাম্প সমঝে চলার হুঁশিয়ারি দিলেন ইরানকে - anandabazar.com",
+            "title": "কখন পুরো দেশটাকেই উড়িয়ে দেব! ডোনাল্ড ট্রাম্প সমঝে চলার হুঁশিয়ারি দিলেন ইরানকে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmloc0pyM2VIQ0JZbUN3cU1SZ2t1cS00dHRCVVdqRHBaYm9mamIxLWlIbndycl9WU1J0U2c2c3o3ZjlzazRMQVkxUkJkdTFIRXhnRVppR2EtdUxNYXJ3d2JnSGxFR29EZWF2VzBEdkljbTdJdjNYRHRyRzdHQUlQai0xUUpfVjFBcTJNWUJKUVczSmJkVGh2YVZB0gGfAUFVX3lxTE92anhzSnozRkpWei1WcDdkR3pfQ3lfRmdkNTVsVjFMSTFzQ2lmLWZHc0p6bklLV0R0MzhBdUs3UVZXSFJ3NEgzQ0ZnOHM3SnNfZnZBV3dac2xsTnkwUzRoQ3hKN3VCZnFfY0RWbmpjRmJoMGlSS1hnQVJaa2paR3JuZzlRSl9tbGlNbzdpM0tMLUhab3I3eUFhakl4d001WQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "ইরানের প্রতি চরম হুঁশিয়ারি উচ্চারণ করে ডোনাল্ড ট্রাম্প জানিয়েছেন, তিনি চাইলে পুরো দেশটিকে মুহূর্তের মধ্যে ধ্বংস করে দিতে পারেন। মার্কিন যুক্তরাষ্ট্রের রাজনীতি ও পররাষ্ট্রনীতির প্রেক্ষাপটে ট্রাম্পের এই ধরনের মন্তব্য আন্তর্জাতিক মহলে নতুন করে উত্তেজনার পারদ চড়িয়েছে। আনন্দবাজার পত্রিকার প্রতিবেদন অনুযায়ী, ইরানকে সতর্ক করে দেওয়া এই বক্তব্যটি ভূ-রাজনৈতিক অস্থিরতার ইঙ্গিত দিচ্ছে। ট্রাম্পের এই হুমকির পেছনে মূলত মধ্যপ্রাচ্যের চলমান সংকট এবং দুই দেশের মধ্যে দীর্ঘদিনের স্নায়ুযুদ্ধের প্রভাব রয়েছে বলে ধারণা করা হচ্ছে। অতীতেও ট্রাম্প প্রশাসন ইরানের বিরুদ্ধে কঠোর অর্থনৈতিক নিষেধাজ্ঞা আরোপ করেছে এবং সামরিক আগ্রাসনের হুমকি দিয়েছে। এবার সেই কঠোর অবস্থান পুনর্ব্যক্ত করে তিনি স্পষ্ট বার্তা দিলেন যে, আমেরিকা সামরিক দিক থেকে কতটা শক্তিশালী এবং প্রয়োজনে তারা যেকোনো চরম সিদ্ধান্ত নিতে দ্বিধা করবে না। যদিও ট্রাম্পের এই ধরনের মন্তব্যকে অনেক বিশেষজ্ঞই রাজনৈতিক কৌশলের অংশ হিসেবে দেখছেন, তবুও যুদ্ধের দামামা বাজানোর মতো এমন উস্কানিমূলক কথা বৈশ্বিক শান্তিশৃঙ্খলার জন্য কতটা হুমকি হয়ে দাঁড়াতে পারে, তা নিয়ে বিশ্বজুড়ে উদ্বেগ দেখা দিয়েছে। মূলত ইরান যেন আমেরিকার শক্তিকে খাটো করে না দেখে, সেটিই ছিল ট্রাম্পের এই হুমকির মূল উদ্দেশ্য।",
             "published": "2026-09-20T19:12:54+00:00"
-          },
-          {
-            "title": "অশোকনগরের তৈলক্ষেত্রে এ বার চালু নতুন যন্ত্র! উদ্বোধন করে শমীকের বার্তা, ‘খনিজ সম্পদ নিয়ে রাজনীতি চলবে না’ - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUWFPVVJKQzNBTGVDLW1KRS1QYS1SWDJlc2VHRlBLZkg5bTlJVTB3ellkSHBTQlNVU21USmJFNW1hWTJ0Smk2RWZLQ3NycWFRaFlPY3NQczMtOFdpZUM0b2gxRzFSV2x4ME5kZ2d5YTFmcnVxSExDaURmY3ZSanVLUEdoMjV6R3dpUmRrSzU4VkJZeDBnQ3h0NzRLNG1iYndaM3FkX1I0dmQzYS1uN095RnlmN0NFcVNneGdpeVBKMVdXQkd3T3RBWTRXVE1WZHNLaW5HWkZjZUR2VFdmLWxwNHk3endKNkJfQzcwWGRZcWpjczhjV0N0UFRmTEd5Sk1uMWZNU3FpV2hRdkJIYU1CSUhRczBEYUFVSGfSAZ8CQVVfeXFMUG56Qy1SYy1WdHF1U2tiWjd3SUNnbFJGWUFaM1hLaElwM21CVDkwdXRuaUhEQ0xQb0pJN01hNkphTDNhWUlmdVM1NERHMXBKTzVseHFuTVRfdHY3WTRsUUFhZXR6MDZKVzBmLVg2UnlGakhmcGhWMmo5U1FqSm1pX3ZaM3lEeWlFVEZKVFIzekdMdjUxN3JKcXV6ajlabzFmOGU1VXpMNWVJMTQzS3ZobWJrOVhZb1lKMkZDcDdLZlBPNjJ5bkZQa0ZDQ3dEUlhpSTNvNlVXRF9QdkI1c19BMjB0cnZTOFlzMXpmdFlsVGpBY2xBREg2WGgxMS1mcnRydmZsVHJ5ODZ5SEtqOFllc2s2Rm1icHIzUVk4d3pxbEE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "পশ্চিমবঙ্গের অশোকনগরের তৈলক্ষেত্রে নতুন যন্ত্র স্থাপনের মাধ্যমে খনিজ উত্তোলনের কাজ আরও গতিশীল করার উদ্যোগ নেওয়া হয়েছে। এই প্রকল্পের উদ্বোধন করার সময় বিজেপি বিধায়ক শমীক ভট্টাচার্য খনিজ সম্পদ ব্যবহারের ক্ষেত্রে রাজনীতিকরণের তীব্র বিরোধিতা করেছেন। তিনি স্পষ্ট ভাষায় জানিয়েছেন যে, রাজ্যের খনিজ সম্পদ আহরণের মতো উন্নয়নমূলক কাজে কোনো ধরনের রাজনৈতিক মতাদর্শের প্রভাব থাকা উচিত নয়। তার মতে, খনিজ সম্পদের সঠিক ব্যবহার অর্থনৈতিক প্রবৃদ্ধির জন্য অত্যন্ত গুরুত্বপূর্ণ, যা কোনো নির্দিষ্ট দলের স্বার্থে ব্যবহৃত হওয়া বা বাধাগ্রস্ত হওয়া কাম্য নয়। স্থানীয় ও জাতীয় অর্থনীতির বিকাশের লক্ষ্যে এই তৈলক্ষেত্রটির গুরুত্ব অপরিসীম। খনিজ সম্পদ নিয়ে অতীতেও অনেক বিতর্ক দানা বেঁধেছে, যেখানে কেন্দ্র ও রাজ্যের মধ্যে সমন্বয়ের অভাব লক্ষ্য করা গেছে। শমীক ভট্টাচার্যের এই বক্তব্যের মাধ্যমে বোঝা যাচ্ছে যে, তিনি উন্নয়ন ইস্যুগুলোকে রাজনৈতিক সংঘাতের ঊর্ধ্বে রাখতে চাইছেন। এই উদ্যোগটি সফলভাবে বাস্তবায়িত হলে স্থানীয় পর্যায়ে কর্মসংস্থানের সুযোগ সৃষ্টি হবে এবং জ্বালানি খাতের ওপর নির্ভরশীলতা কিছুটা কমবে। তবে রাজনৈতিক মহল এই দাবিকে কতটা গুরুত্ব দেয় এবং ভবিষ্যতে উন্নয়ন প্রকল্পে সব পক্ষ ঐকমত্যে আসতে পারে কি না, সেটিই এখন দেখার বিষয়।",
-            "published": "2026-09-20T17:39:08+00:00"
-          },
-          {
-            "title": "‘অভিষেক নয়, কোষাধ্যক্ষের নির্দেশেই’ অ্যাকাউন্টে টাকা জমা করতেন সুমিত! দাবি সাংসদের পিএ-র আইনজীবীর - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFh5b0haZURUNmV3YzFlT0VqTHdReGVqNnhGRzN4Nmh0ZERsV0tpSHFjYXhMTmh1MVgwcGJjeVFSdklKTmFGNmlrQUhMeG9WT2NtR1VjV1dvalp2R3lBZGN1ZUdtMDk1RXZ0TjFDMzAyTURKQ29kUW1ESHRYWHNsMF8yYlVKWjVRdmZRNE5XUS1ZRkc2M1ZQdW5zYk1rUGY1LXJMWUVTYTFJeDBSMFJiMVBhanZkSmwtVzJDQXFVbHJ1ejBwWEplNDJ4OWtIWTNkY1l5aVJWWEtDcUFQckHSAeMBQVVfeXFMT3BLLWFHZGVaeE1LNVRfUkZHZS1sZHBCR1puVFl2UEhHdGVQSUtEb1F5ZkhzMG5Cd3Q5TTFDdGx0MEM2OEdIcHQxNFlRbTVHUUkzLWY3R0xYOVNkaDRqaTdZRHVOMmRkR2xvYV84NjZvUkEtNTEwZFlnZVd5TUxXaV9kb2dmWTVIQXJiQVAtU1RhSGNMeXEwU1pJcF91TWRSTXp6T2JwelFoM1J0QkdvSU5UVnl4R3N6MXVMai1lUllrckx4MzBudFc2OW1zOUlsLVhJalU3NG9hYUFabVRmRndHVE0?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "রাজনৈতিক আর্থিক কেলেঙ্কারির মামলায় এক নতুন মোড় এসেছে যখন সাংসদের ব্যক্তিগত সহকারী সুমিতের আইনজীবী দাবি করেছেন যে, কোনো টাকা জমার নির্দেশ অভিষেক বন্দ্যোপাধ্যায়ের কাছ থেকে আসেনি। বরং আদালতের সামনে আইনজীবীর এই নতুন বয়ানে জানানো হয়েছে যে, সুমিত এই আর্থিক লেনদেনের কাজগুলো করতেন কোষাধ্যক্ষের সরাসরি নির্দেশে। এই চাঞ্চল্যকর দাবি রাজ্য রাজনীতির অন্দরে তোলপাড় সৃষ্টি করেছে, কারণ এর আগে অভিষেক বন্দ্যোপাধ্যায়ের সংশ্লিষ্টতা নিয়ে প্রচুর প্রশ্ন উঠেছিল। আইনজীবী তার মক্কেলের পক্ষে সাফাই গাইতে গিয়ে বোঝানোর চেষ্টা করছেন যে, সুমিত কেবল একজন কর্মচারী হিসেবে দায়িত্ব পালন করছিলেন এবং তার কোনো নিজস্ব সিদ্ধান্ত বা ক্ষমতা ছিল না। এই পুরো ঘটনাটি এখন তদন্তকারী সংস্থা এবং আদালতের নজরে রয়েছে। সাংসদের সাথে এই আর্থিক লেনদেনের সম্পর্ক কতটুকু এবং কোষাধ্যক্ষ আদৌ কোনো নির্দেশ দিয়েছিলেন কি না, তা এখন প্রমাণের অপেক্ষায়। অভিযুক্তদের পক্ষ থেকে এই ধরনের সাফাই মামলাটিকে কোন দিকে নিয়ে যাবে, তা নিয়ে সাধারণ মানুষের মধ্যে কৌতূহল বাড়ছে। এটি আসলে একটি আইনি লড়াইয়ের কৌশল নাকি সত্যের উদ্ঘাটন, তা নিয়ে রাজনৈতিক মহলে পাল্টাপাল্টি অভিযোগের ঝড় বইছে, যা আগামী দিনের মামলার রায়ে বড় ভূমিকা রাখবে বলে মনে করছেন বিশ্লেষকরা।",
-            "published": "2026-09-20T17:34:38+00:00"
           }
         ]
       }
