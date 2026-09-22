@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-09-22T21:01:38.481297+00:00",
+  "updated_at": "2026-09-22T21:13:41.787068+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "How Ceuta, football and Israel are shaping Morocco's election",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+            "published": "2026-09-22T20:59:00+00:00"
+          },
+          {
+            "title": "Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening",
+            "link": "https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "According to the state news agency IRIB, Araghchi told Witkoff that Tehran demands included \"the immediate lifting of the (US) naval blockade, the prompt payment of all Iranian assets that have been frozen,",
+            "published": "2026-09-23T02:25:05+05:30"
+          },
           {
             "title": "Trump says he would back ban on diesel exports",
             "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
@@ -18,6 +32,13 @@
             "source": "NDTV Sports",
             "summary": "Kawhi Leonard has agreed to a two-year, $115 million extension with the Toronto Raptors, adding another major chapter to his return. Here’s what the deal means for Leonard and Toronto.",
             "published": "2026-09-23T02:02:41+05:30"
+          },
+          {
+            "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+            "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Saudi monarch&#039;s rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
+            "published": "2026-09-22T20:27:45+00:00"
           },
           {
             "title": "Trump: US-Iran meeting at UN was ‘very good’",
@@ -48,6 +69,13 @@
             "published": "2026-09-22T20:16:43+00:00"
           },
           {
+            "title": "15 Men Jailed For 220 Years Over 2019 Lanka Bombings That Killed 279",
+            "link": "https://www.ndtv.com/world-news/sri-lanka-easter-sunday-bombings-15-men-jailed-for-220-years-over-2019-bombings-that-killed-260-12083549#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The three-judge bench found that 14 of the accused were guilty on all charges, including murder, conspiracy to commit terrorism and possessing firearms and explosives under the Prevention of Terrorism Act.",
+            "published": "2026-09-23T01:41:48+05:30"
+          },
+          {
             "title": "Why Did The Anaheim Ducks Choose Mikael Granlund As Captain?",
             "link": "https://sports.ndtv.com/us-nhl/why-did-the-anaheim-ducks-choose-mikael-granlund-as-captain-12083711#publisher=newsstand",
             "source": "NDTV Sports",
@@ -74,43 +102,29 @@
             "source": "BBC Technology",
             "summary": "China is competing with the United States and other nations to develop AI.",
             "published": "2026-09-22T20:00:00+00:00"
-          },
-          {
-            "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
-            "published": "2026-09-22T19:59:36+00:00"
-          },
-          {
-            "title": "Confident of a hat-trick in U.P.: Nabin",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/confident-of-a-hat-trick-inupnabin/article71495972.ece",
-            "source": "The Hindu",
-            "summary": "Workers’ energy, enthusiasm show lotus will bloom in State again, says BJP chief after concluding his first visit to west U.P. after taking over as party head; ahead of parleys, Oppn. MPs engage in one-upmanship over who can defeat ruling party",
-            "published": "2026-09-23T01:27:14+05:30"
-          },
-          {
-            "title": "FACT foundation day observed",
-            "link": "https://www.thehindu.com/news/national/kerala/fact-foundation-day-observed-cpi-alleges-bid-to-glorify-cp-ramaswamy-iyer/article71496727.ece",
-            "source": "The Hindu",
-            "summary": "Communist Party of India alleges deliberate attempt to glorify C.P. Ramaswamy Iyer",
-            "published": "2026-09-23T01:26:22+05:30"
-          },
-          {
-            "title": "Djibouti minister appeals for aid for Yemeni refugees",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
-            "published": "2026-09-22T19:56:02+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Iran's Araghchi Meets US Envoy Witkoff, Sets Conditions For Hormuz Reopening",
+            "link": "https://www.ndtv.com/world-news/irans-araghchi-meets-us-envoy-witkoff-sets-conditions-for-hormuz-reopening-12083797#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "According to the state news agency IRIB, Araghchi told Witkoff that Tehran demands included \"the immediate lifting of the (US) naval blockade, the prompt payment of all Iranian assets that have been frozen,",
+            "published": "2026-09-23T02:25:05+05:30"
+          },
           {
             "title": "Wisconsin delays demolition of 1897 jail museum after last-minute push",
             "link": "https://timesofindia.indiatimes.com/world/us/wisconsin-officials-were-set-to-demolish-an-1897-jail-museum-for-about-259000-after-a-last-minute-preservation-push-the-county-board-voted-26-1-to-delay-demolition-for-three-months/articleshow/134391590.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-23T01:50:00+05:30"
+          },
+          {
+            "title": "15 Men Jailed For 220 Years Over 2019 Lanka Bombings That Killed 279",
+            "link": "https://www.ndtv.com/world-news/sri-lanka-easter-sunday-bombings-15-men-jailed-for-220-years-over-2019-bombings-that-killed-260-12083549#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The three-judge bench found that 14 of the accused were guilty on all charges, including murder, conspiracy to commit terrorism and possessing firearms and explosives under the Prevention of Terrorism Act.",
+            "published": "2026-09-23T01:41:48+05:30"
           },
           {
             "title": "Confident of a hat-trick in U.P.: Nabin",
@@ -148,6 +162,13 @@
             "published": "2026-09-23T01:23:01+05:30"
           },
           {
+            "title": "Trump Says Russia, Ukraine Are Going To 'Make A Deal' Soon",
+            "link": "https://www.ndtv.com/world-news/donald-trump-says-russia-ukraine-are-going-to-make-a-deal-soon-12083704#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Donald Trump said he and Zelenskyy had a \"very good relationship\" and were working to find a solution to the conflict.",
+            "published": "2026-09-23T01:21:38+05:30"
+          },
+          {
             "title": "Freezing democracy: On the Election Commission of India and West Bengal",
             "link": "https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece",
             "source": "The Hindu",
@@ -167,30 +188,23 @@
             "source": "The Hindu",
             "summary": "‘Either Abdullah’s birth and death anniversaries should be observed as holidays, as in the past, or drop the holiday of the birth anniversary of Maharaja Hari Singh too,’ said NC legislator Abdul Majeed Larmi",
             "published": "2026-09-23T01:19:33+05:30"
-          },
-          {
-            "title": "Water wealth: On groundwater exploitation in Punjab",
-            "link": "https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece",
-            "source": "The Hindu",
-            "summary": "Groundwater exploitation in Punjab disincentivises small farmers",
-            "published": "2026-09-23T01:09:10+05:30"
-          },
-          {
-            "title": "On Sign Language Day, an interpreter recalls a moment on stage with the President",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/on-sign-language-day-an-interpreter-recalls-a-moment-on-stage-with-the-president/article71496143.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-23T00:58:22+05:30"
-          },
-          {
-            "title": "AISA claims college cancelled panel discussion after ‘threat’",
-            "link": "https://www.thehindu.com/news/national/karnataka/aisa-claims-college-cancelled-panel-discussion-after-threat/article71496964.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-23T00:55:07+05:30"
           }
         ],
         "World": [
+          {
+            "title": "How Ceuta, football and Israel are shaping Morocco's election",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+            "published": "2026-09-22T20:59:00+00:00"
+          },
+          {
+            "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+            "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Saudi monarch&#039;s rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
+            "published": "2026-09-22T20:27:45+00:00"
+          },
           {
             "title": "Trump: US-Iran meeting at UN was ‘very good’",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.",
             "published": "2026-09-22T19:14:41+00:00"
-          },
-          {
-            "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-            "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-            "published": "2026-09-22T19:06:06+00:00"
-          },
-          {
-            "title": "Is Ethiopia heading towards renewed civil war?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Seven armed groups announce alliance to topple government.",
-            "published": "2026-09-22T18:51:53+00:00"
           }
         ],
         "Business": [
@@ -1093,6 +1093,13 @@
             "published": "2026-09-22T22:34:40+05:30"
           },
           {
+            "title": "భర్త రెండో వివాహం.. ఇంటి ముందు భార్య నిరాహార దీక్ష - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlpvN2d6dzBtTUpPcENZRVJKX1hWVnJJMjVqdUJfTkFGY3FwUVlNejFrMmFzRUhQM01LbzN0N1JObWFJamZLT09IRkU5SlRJNlhEa1JaZVBKaWtQcC04ck8tNS1jZ0k5cGN0eGxUVlJCU1hGV0hSZFZINTU3SjIyaQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-22T17:00:31+00:00"
+          },
+          {
             "title": "హైదరాబాద్ లో దంచికొట్టిన వర్షం.. గణేష్ నిమజ్జనాల వేళ.. అధికారులకు సీఎం కీలక ఆదేశాలు..",
             "link": "https://telugu.oneindia.com/news/telangana/cmrevanth-heavy-rains-in-hyderabad-cm-revanth-reddy-puts-administration-and-officials-on-high-alert-507459.html",
             "source": "Oneindia Telugu",
@@ -1121,6 +1128,13 @@
             "published": "2026-09-22T16:10:51+00:00"
           },
           {
+            "title": "Mandaadi crosses rs100 crore Soori heartfelt note: ‘మండాడి’ విజయం పూర్తిగా మీదే: సూరి ఎమోషనల్‌ పోస్ట్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnlOaE9QYmFZTEhSdHVpenFCdDJUUDIzOHRneE44SzVlaWItdFpXbGxsRWlfbGl0ZUNkZzRLOVRYaUM4ZmRIeHVDa0tVaWt4QnJHUWhEN2tVVmRGRTBzZVc0NWZxX1BtSGFWNVJzQjdqbFNvWlh0c3NqYzF5NjdWRVBJd3NoQmVELXhsVlA2ZDBVblJBeUpLcWpoaUU0Z3gwMXpuVXBWQVlXUVF5aXlXbkVCZG40eHpCSm5nVlByYkVOcmxYOVE1elRxU196eDQ5ODlYOHJ3MEh2MzRXUUF1dDd2N3ZONDZW0gHoAUFVX3lxTFBCeU5oT1BiYVlMSFJ0dWl6cUJ0MlRQMjM4dGd4TjhLNWVpYi10WldsbGxFaV9saXRlQ2RnNEs5VFhpQzhmZEh4dUNrS1Vpa3hCckdRaEQ3a1VWZEZFMHNlVzQ1ZnFfUG1IYVY1UnNCN2psU29aWHRzc2pjMXk2N1ZFUEl3c2hCZUQteGxWUDZkMFVuUkF5SktxamhpRTRneDAxem5VcFZBWVdRUXlpeVduRUJkbjR4ekJKbmdWUHJiRU5ybFg5UTV6VHFTX3p4NDk4OVg4cncwSHYzNFdRQXV0N3Y3dk40NlY?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-22T15:41:45+00:00"
+          },
+          {
             "title": "జముయి లైంగిక హింస లాంటి వీడియోలు సోషల్ మీడియాలో షేర్ చేస్తున్నారా? అయితే చిక్కుల్లో పడినట్లే",
             "link": "https://www.bbc.com/telugu/articles/cm2dwye4pleeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1135,25 +1149,11 @@
             "published": "2026-09-22T15:21:19+00:00"
           },
           {
-            "title": "వారికి దసరా గిఫ్ట్.. కొత్త పెన్షన్స్ ఇచ్చేందుకు ముహూర్తం ఫిక్స్!",
-            "link": "https://telugu.oneindia.com/news/telangana/telangana-new-pensions-government-to-start-distributing-new-pensions-from-october-before-dasara-507453.html",
-            "source": "Oneindia Telugu",
+            "title": "NRI: శ్రీమద్భగవద్గీత ఆంగ్ల ఆడియో ఆల్బమ్‌ను ఆవిష్కరించిన మారిషస్‌ రాష్ట్రపతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFZVVzljcTVvaC1EVHhuZFJJOUc5U2p0MlpNSzA3Y1Vsemo5VlhPbmFfNUMzdldKdU9YdkNkMVd6ajF3OTA4LU5EYXRxajBQOHoxNmNRVW5SZjZPb1V1bHd2MjF3OG9IQW81TGlzV2ZuZGpfblh5VU5tbm5YUWYybFdjcHZsRVVCVGpPblFkR1dNV3JyY0NZcUgzdmd5b1RnYlltUll3TzAtX2JEbnBNYXI0YzdZQ1RBeFpuRWpzanpUVGJ50gHEAUFVX3lxTE9MVlVXOWNxNW9oLURUeG5kUkk5RzlTanQyWk1LMDdjVWx6ajlWWE9uYV81QzN2V0p1T1h2Q2QxV3pqMXc5MDgtTkRhdHFqMFA4ejE2Y1FVblJmNk9vVXVsd3YyMXc4b0hBbzVMaXNXZm5kal9uWHlVTm1ublhRZjJsV2NwdmxFVUJUak9uUWRHV01XcnJjQ1lxSDN2Z3lvVGdiWW1SWXdPMC1fYkRucE1hcjRjN1lDVEF4Wm5FanNqelRUYnk?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-22T19:43:47+05:30"
-          },
-          {
-            "title": "రేపు, ఎల్లుండి కేంద్ర కేబినెట్ ఆత్మ విమర్శ..! ప్రక్షాళన ప్రచారం వేళ కీలక భేటీ..!",
-            "link": "https://telugu.oneindia.com/news/india/modi-cabinet-to-meet-on-sept-23-24-for-viksit-bharat-2047-review-future-planning-507447.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-22T19:15:16+05:30"
-          },
-          {
-            "title": "చదువుకున్న మూర్ఖత్వం అంటే ఇదేరా భై.. లిఫ్టులోనే పోసేసిండు!(వీడియో)",
-            "link": "https://telugu.oneindia.com/news/india/ghaziabad-horror-shocking-cctv-shows-man-urinating-inside-apartment-lift-video-viral-full-details-507445.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-22T19:10:41+05:30"
+            "published": "2026-09-22T14:16:09+00:00"
           }
         ],
         "Entertainment": [
