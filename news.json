@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-23T22:14:09.641701+00:00",
+  "updated_at": "2026-09-23T22:31:25.798476+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+            "published": "2026-09-23T22:23:28+00:00"
+          },
+          {
+            "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+            "published": "2026-09-23T22:23:09+00:00"
+          },
+          {
+            "title": "EC faultlines have a long history, dating back to 1989",
+            "link": "https://timesofindia.indiatimes.com/india/ec-faultlines-have-a-long-history-dating-back-to-1989/articleshow/134446008.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T03:49:02+05:30"
+          },
           {
             "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
             "link": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
@@ -15,9 +36,16 @@
           {
             "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
             "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
+            "source": "BBC World",
             "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
             "published": "2026-09-23T22:01:17+00:00"
+          },
+          {
+            "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
+            "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T03:28:19+05:30"
           },
           {
             "title": "Federal judge delays ruling on White House media ban",
@@ -74,37 +102,23 @@
             "source": "BBC Business",
             "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
             "published": "2026-09-23T21:25:01+00:00"
-          },
-          {
-            "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
-            "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
-            "published": "2026-09-23T21:18:22+00:00"
-          },
-          {
-            "title": "Private retailers start rationing diesel sales",
-            "link": "https://timesofindia.indiatimes.com/india/private-retailers-start-rationing-diesel-sales/articleshow/134445769.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T02:47:21+05:30"
-          },
-          {
-            "title": "UK survivor of Canadian poison seller says he exploited her despair",
-            "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
-            "published": "2026-09-23T21:16:00+00:00"
-          },
-          {
-            "title": "Ensure govt benefits reach all eligible, PM Modi tells mantris",
-            "link": "https://timesofindia.indiatimes.com/india/ensure-govt-benefits-reach-all-eligible-pm-modi-tells-mantris/articleshow/134445763.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T02:44:15+05:30"
           }
         ],
         "India": [
+          {
+            "title": "EC faultlines have a long history, dating back to 1989",
+            "link": "https://timesofindia.indiatimes.com/india/ec-faultlines-have-a-long-history-dating-back-to-1989/articleshow/134446008.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T03:49:02+05:30"
+          },
+          {
+            "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
+            "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T03:28:19+05:30"
+          },
           {
             "title": "BJP defends EC, says oppn trying to discredit panel",
             "link": "https://timesofindia.indiatimes.com/india/bjp-defends-ec-says-oppn-trying-to-discredit-panel/articleshow/134445963.cms",
@@ -174,23 +188,16 @@
             "source": "The Hindu",
             "summary": "The decision was announced at a meeting of the BSP’s national executive held at the party headquarters in Lucknow, chaired by Mayawati",
             "published": "2026-09-24T02:24:34+05:30"
-          },
-          {
-            "title": "Elephant calf swept away in Teesta rescued by fishermen, reunited with mother",
-            "link": "https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece",
-            "source": "The Hindu",
-            "summary": "The calf was crossing the river near the barrage when the strong currents swept it away from the herd. Its rescue was captured on camera",
-            "published": "2026-09-24T02:10:42+05:30"
-          },
-          {
-            "title": "Putin's Envoy To Meet Team Trump In New York Over Ukraine War",
-            "link": "https://www.ndtv.com/world-news/putins-envoy-kirill-dmitriev-to-meet-team-trump-in-new-york-over-ukraine-war-12089204#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The sources said Dmitriev's visit to the US will take place in New York during the UN General Assembly and will follow up on a meeting between Putin and US representatives at the Kremlin earlier this month.",
-            "published": "2026-09-24T02:08:25+05:30"
           }
         ],
         "World": [
+          {
+            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+            "published": "2026-09-23T22:01:17+00:00"
+          },
           {
             "title": "Federal judge delays ruling on White House media ban",
             "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
@@ -267,22 +274,36 @@
             "source": "Al Jazeera",
             "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
             "published": "2026-09-23T19:54:24+00:00"
-          },
-          {
-            "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
-            "link": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.",
-            "published": "2026-09-23T19:35:09+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+            "published": "2026-09-23T22:23:09+00:00"
+          },
+          {
+            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+            "published": "2026-09-23T22:01:17+00:00"
+          },
           {
             "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
             "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
             "published": "2026-09-23T21:25:01+00:00"
+          },
+          {
+            "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+            "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+            "published": "2026-09-23T21:01:55+00:00"
           },
           {
             "title": "US stocks: US market ends down as oil prices, Treasury yields rise",
@@ -339,27 +360,6 @@
             "source": "Economic Times",
             "summary": "The 10-year US Treasury yield climbed to 5.058%, its highest level since July 2007, as fresh services and manufacturing data raised concerns about further Federal Reserve rate hikes. Rising yields intensified pressure on equities, particularly growth and technology stocks.",
             "published": "2026-09-23T20:22:02+05:30"
-          },
-          {
-            "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-            "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-            "published": "2026-09-23T13:50:25+00:00"
-          },
-          {
-            "title": "Concerns county will not benefit from £2 bus cap",
-            "link": "https://www.bbc.co.uk/news/articles/cqd08m30r2j9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Councillor Justine Peberdy says Yeomans Travel and Sargeants Brothers have not committed to the cap.",
-            "published": "2026-09-23T10:49:57+00:00"
-          },
-          {
-            "title": "Off sick? You need to phone your boss, back-to-work adviser says",
-            "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
-            "published": "2026-09-23T10:49:51+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,20 @@
         ],
         "Technology": [
           {
+            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+            "published": "2026-09-23T22:23:28+00:00"
+          },
+          {
+            "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+            "published": "2026-09-23T22:23:09+00:00"
+          },
+          {
             "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
             "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -518,20 +532,6 @@
             "source": "BBC Technology",
             "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
             "published": "2026-09-23T12:01:37+00:00"
-          },
-          {
-            "title": "Select Asus and ROG Laptops Get 3-Month Google AI Pro, AI Plus Subscription in India",
-            "link": "https://www.gadgets360.com/laptops/news/asus-rog-three-month-india-offer-google-ai-pro-plus-subscription-12086688",
-            "source": "Gadgets 360",
-            "summary": "Eligible new and existing Asus customers are confirmed to get three months of Google AI Pro or Google AI Plus at no extra cost. This offer covers select Asus and ROG laptops launched in 2025 and 2026 and models scheduled to launch next year. Eligible customers get 3 months of Google AI Pro with 5TB or Google AI Plus with 400GB cloud storage at no extra cost. This special offer is confirmed to be available from…",
-            "published": "2026-09-23T17:21:48+05:30"
-          },
-          {
-            "title": "Bitpace Brings Fireblocks Onboard for Stablecoin Settlements",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/bitpace-brings-fireblocks-onboard-for-stablecoin-settlements-crypto-markets-usdc-payments-crypto-adoption-btc-eth-12086801",
-            "source": "Gadgets 360",
-            "summary": "Bitpace has integrated Fireblocks into its payments infrastructure to support stablecoin transfers, multi-currency treasury management, and cross-border settlements. The service is aimed at businesses and merchants, with Fireblocks providing transaction controls, security features, and custodial infrastructure. Fireblocks said stablecoins accounted for 69 percent of its digital asset transaction volume in the second…",
-            "published": "2026-09-23T17:20:59+05:30"
           }
         ],
         "Entertainment": [
