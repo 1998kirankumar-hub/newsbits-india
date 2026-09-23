@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-09-23T22:01:55.515786+00:00",
+  "updated_at": "2026-09-23T22:14:09.641701+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
+            "published": "2026-09-23T22:03:27+00:00"
+          },
+          {
+            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+            "published": "2026-09-23T22:01:17+00:00"
+          },
           {
             "title": "Federal judge delays ruling on White House media ban",
             "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
@@ -88,20 +102,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-24T02:44:15+05:30"
-          },
-          {
-            "title": "Bihar Cabinet gives nod for setting up two universities",
-            "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-gives-nod-for-setting-up-two-universities/article71500749.ece",
-            "source": "The Hindu",
-            "summary": "Mata Sita Women’s University will be set up at Patna & Rashtrakavi Ramdhari Singh ‘Dinkar’ University at Begusarai; a total of 24 decisions were taken at the cabinet meeting chaired by CM Samrat Choudhary",
-            "published": "2026-09-24T02:36:29+05:30"
-          },
-          {
-            "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-            "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
-            "published": "2026-09-23T21:05:36+00:00"
           }
         ],
         "India": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+            "published": "2026-09-23T22:01:17+00:00"
+          },
+          {
             "title": "Pornhub investigated over its age checks",
             "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,16 +532,16 @@
             "source": "Gadgets 360",
             "summary": "Bitpace has integrated Fireblocks into its payments infrastructure to support stablecoin transfers, multi-currency treasury management, and cross-border settlements. The service is aimed at businesses and merchants, with Fireblocks providing transaction controls, security features, and custodial infrastructure. Fireblocks said stablecoins accounted for 69 percent of its digital asset transaction volume in the second…",
             "published": "2026-09-23T17:20:59+05:30"
-          },
-          {
-            "title": "Vivo S2 FE Could Launch in India Alongside the Vivo V80; Price, Key Specifications Tipped",
-            "link": "https://www.gadgets360.com/mobiles/news/vivo-s2-fe-india-price-launch-date-tipped-specifications-features-12086668",
-            "source": "Gadgets 360",
-            "summary": "Vivo S2 FE will be launched in India alongside the Vivo V80, a tipster claims. Apart from this, the leaker has shared two images of the purported Vivo S2 FE, showing the phone in black and green colour options. Further, the leaker claims that the Vivo S2 FE could be priced in India under Rs. 40,000. In terms of specifications, the Vivo S2 FE will reportedly sport a 6.83-inch 1.5K AMOLED display, delivering up to a…",
-            "published": "2026-09-23T16:57:42+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
+            "published": "2026-09-23T22:03:27+00:00"
+          },
           {
             "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
             "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "William and Catherine renew their friendship with the Hollywood star at the premiere for his film Digger.",
             "published": "2026-09-23T08:42:55+00:00"
-          },
-          {
-            "title": "'Disabled artists need opportunities, not just access'",
-            "link": "https://www.bbc.co.uk/news/articles/ck4gj4gn91xpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Artists say while access has improved at arts venues, more could be done to support their work.",
-            "published": "2026-09-23T04:51:05+00:00"
           }
         ]
       }
@@ -1072,21 +1072,21 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Adah Sharma: సృష్టి అంతా పరాశక్తి లీల - eenadu.net",
+            "title": "Adah Sharma: సృష్టి అంతా పరాశక్తి లీల - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcms1RU5jdFNNbFNCSlozanBxSm1LcC1IMVQzaWs4dUFOUkVKYnBRVkR2X2t6ZW05UVN0cUJvM2d1M18yQ1p1UmlmTGlHdGkzYTNGbFhPdGdGeEplM0JpdGNNN3BNNDBGZjRfT1Y3RmZxOHhDUmdUdWNsb1lIeVVDRTM5eVk3dGxiMjdZOGtVbFRWSGxJSTJDeEtybEVva2JBaVl6WlpkdW5sREU4X3RvSXBWMXRQTFlEZVhPalI2Y21RUWNOOW1uN280ekzSAcwBQVVfeXFMT3JrNUVOY3RTTWxTQkpaM2pwcUptS3AtSDFUM2lrOHVBTlJFSmJwUVZEdl9remVtOVFTdHFCbzNndTNfMkNadVJpZkxpR3RpM2EzRmxYT3RnRnhKZTNCaXRjTTdwTTQwRmY0X09WN0ZmcTh4Q1JnVHVjbG9ZSHlVQ0UzOXlZN3RsYjI3WThrVWxUVkhsSUkyQ3hLcmxFb2tiQWlZelpaZHVubERFOF90b0lwVjF0UExZRGVYT2pSNmNtUVFjTjltbjdvNHpM?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T20:47:46+00:00"
           },
           {
-            "title": "మనసులు గెలిచిన మహాదానం - eenadu.net",
+            "title": "మనసులు గెలిచిన మహాదానం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1naG1jZE9ERFY1T0U0V0MtOHpFdk5JdXFTTjB6VFRFbVQ1U3dyV2pzSGw2OWVvZkJCOHFiamFKa2JNZmpkQlpQeWhQWXN2V09ZRlhyUzZoTEhYcjVoS08wUlktQzJUei1jcnNyb3RXVW5tV0JwVkV6ckkxenIwdw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T18:36:36+00:00"
           },
           {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (24/09/2026) - eenadu.net",
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (24/09/2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3MwQ2RIMFpNRjJpU1ZFdVFYN3ZsWXRudEZWSUYwdU1UX3QtVHVBODFIbVpBUDA0R0wwM09pd0VYZm44blRuaURyTjlJNlJKRC0xMHNWMUYxY0gyM1pydnNSbUtPc01lWS1qSWNNLU0yOFI2aUFBdFZRSXlBOTNXOGpTeC0waGwtbkhtcXU0UEFXVHNwQTR6VmdFSUhpUDJyaFdzUXN0andsRGpwZ21LOWlZUHLSAbQBQVVfeXFMUGtzMENkSDBaTUYyaVNWRXVRWDd2bFl0bnRGVklGMHVNVF90LVR1QTgxSG1aQVAwNEdMMDNPaXdFWGZuOG5UbmlEck45STZSSkQtMTBzVjFGMWNIMjNacnZzUm1LT3NNZVktakljTS1NMjhSNmlBQXRWUUl5QTkzVzhqU3gtMGhsLW5IbXF1NFBBV1RzcEE0elZnRUlIaVAycmhXc1FzdGp3bERqcGdtSzlpWVBy?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1114,28 +1114,21 @@
             "published": "2026-09-23T21:38:10+05:30"
           },
           {
-            "title": "సన్‌ఫ్లవర్ గింజలతో.. కొత్త మెరుపు - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmVwZVlncFlFQ2FvVzc0cF8ySWpSOU9feTVzaFFtNlNXX3RiNHZsdGdVM1VLMUhGdlE2bm5sNExoajFzanVSb1ExalB2bjhxNlQtZnRsN1ZxWl83eGFoT0VManl2TzFaUnZJb2c4UDJrQ0ZxQTkwR09EZXU4OVVPQ2FncUM4azVlaXo0SE91dmVlRy1yS2RwVWRfSHFsM3lzM1I3aXFjWUxnb2xzaU5tX2JXSdIBswFBVV95cUxOUmVwZVlncFlFQ2FvVzc0cF8ySWpSOU9feTVzaFFtNlNXX3RiNHZsdGdVM1VLMUhGdlE2bm5sNExoajFzanVSb1ExalB2bjhxNlQtZnRsN1ZxWl83eGFoT0VManl2TzFaUnZJb2c4UDJrQ0ZxQTkwR09EZXU4OVVPQ2FncUM4azVlaXo0SE91dmVlRy1yS2RwVWRfSHFsM3lzM1I3aXFjWUxnb2xzaU5tX2JXSQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T15:57:09+00:00"
-          },
-          {
-            "title": "Shruti Haasan: పెళ్లంటే ఇష్టమే.. కానీ - eenadu.net",
+            "title": "Shruti Haasan: పెళ్లంటే ఇష్టమే.. కానీ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbC1pTTllM0MwY0FOeW4wTm53SlJ4SjlJQXY1Ml8wcDYzU25oT2NubGptTUNsZHpQcGlIN0RRY1M1RDlNY2VaeTRWRVJTYnEzcVJlenJZUkp6RlhDYkJTVU5yc2s3WlgzTTNNaXJXajB1YnRXWmZTTnhfZVNVZ3N5NGVSYnYzdnBqc0R6MWFKQ0wxR2Vvb3VrekNuSjNBUktFYk5qRkZRanNxcXpjSVc0UjBTTkZjSEptdHBCUkcwTHJLV0lCeUHSAcYBQVVfeXFMUGwtaU05ZTNDMGNBTnluME5ud0pSeEo5SUF2NTJfMHA2M1NuaE9jbmxqbU1DbGR6UHBpSDdEUWNTNUQ5TWNlWnk0VkVSU2JxM3FSZXpyWVJKekZYQ2JCU1VOcnNrN1pYM00zTWlyV2owdWJ0V1pmU054X2VTVWdzeTRlUmJ2M3ZwanNEejFhSkNMMUdlb291a3pDbkozQVJLRWJOakZGUWpzcXF6Y0lXNFIwU05GY0hKbXRwQlJHMExyS1dJQnlB?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T15:57:00+00:00"
           },
           {
-            "title": "మధ్య రాత్రి మెలకువ వస్తుంటే.. - eenadu.net",
+            "title": "మధ్య రాత్రి మెలకువ వస్తుంటే.. - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnhmZjluZ3Q4TnlRN0FpYXJMMDJodm1Qem5veVZYXzJzMUFpR01xTmVqZUV3cHRpajZua1F1U0k3Tlo2VnMyZlNKQ1A2b2ZfYWowOUY2QXc0MkxQUkplTjBJTDluTHdraXVrTkt4d1dQQzNaYmp6WnZyRWl5aVpra2VkM2VpMkt0ak9rMXNscnpHMEJUTTJjTjh3UDAyUjFxaHZ6Yk5hTHZSU0lubmlndWJfcGZmUdIBtgFBVV95cUxPcnhmZjluZ3Q4TnlRN0FpYXJMMDJodm1Qem5veVZYXzJzMUFpR01xTmVqZUV3cHRpajZua1F1U0k3Tlo2VnMyZlNKQ1A2b2ZfYWowOUY2QXc0MkxQUkplTjBJTDluTHdraXVrTkt4d1dQQzNaYmp6WnZyRWl5aVpra2VkM2VpMkt0ak9rMXNscnpHMEJUTTJjTjh3UDAyUjFxaHZ6Yk5hTHZSU0lubmlndWJfcGZmUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T15:48:54+00:00"
           },
           {
-            "title": "నదీ తీర ప్రాంత ప్రజలు అప్రమత్తంగా ఉండాలి - eenadu.net",
+            "title": "నదీ తీర ప్రాంత ప్రజలు అప్రమత్తంగా ఉండాలి - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUJxNTFZRXlhYkRlX0NIRkVTWXBuYndQY1JxckRzaGhkVW9UeE1SM2ZZdG9UeDNOdWtEWndaT3lUUzlINk5QS0J6ZzczUEJnZHFVN1o1SFFLTUZ2M1JtelpUZ0MzVlRjeXVfMXBMVFhiVFk2ZFhDS0F1VUhMOGtRaC1mTVFJYlFpTGFz?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1154,6 +1147,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-23T21:01:10+05:30"
+          },
+          {
+            "title": "Bhogapuram: భోగాపురం To దిల్లీ మరో విమాన సర్వీసు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVkwMHRpQWJ1YnFqYzM2YVpLb0czaXFHTVJuUVd4X2RKZHkwOTFkS01qaUVEY3FyeU9IUV9HdkEwWi1Pd0hIakxtNlMtcXBIcFlXUGxmeTRlc3E3MlVWTU84aGJ1eHotSlRPY21ua0RwRFBGcktEX0llNXNMOF9xNHF1U0F5cWdDN1BnWjY2M2wtY0ZfTlQ3azF0Tlh6MFNrbnREM0lscjJBZjNxRk80?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T15:21:41+00:00"
           }
         ],
         "Entertainment": [
