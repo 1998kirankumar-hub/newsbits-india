@@ -1,11 +1,95 @@
 {
-  "updated_at": "2026-09-23T23:01:33.604202+00:00",
+  "updated_at": "2026-09-23T23:31:25.981523+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "China’s Xi arrives to Trump welcome on state visit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "China&#039;s President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit",
+            "published": "2026-09-23T23:19:29+00:00"
+          },
+          {
+            "title": "Airtel Money plans to list on LSE, looks to raise $800mn",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/airtel-money-plans-to-list-on-lse-looks-to-raise-800mn/articleshow/134448519.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T04:49:13+05:30"
+          },
+          {
+            "title": "Indians are discovering the thrill of shopping without paying",
+            "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+            "published": "2026-09-23T23:14:10+00:00"
+          },
+          {
+            "title": "How the oil capital of the US welcomed a solar power boom",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+            "published": "2026-09-23T23:12:22+00:00"
+          },
+          {
+            "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+            "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Consumers are feeling the squeeze from the rising price of protein.",
+            "published": "2026-09-23T23:12:01+00:00"
+          },
+          {
+            "title": "Delhi Clears 1,300 Pink E-Autos For Women, Transgender Drivers: Who Can Apply",
+            "link": "https://www.ndtv.com/delhi-news/delhi-clears-1-300-pink-e-autos-for-women-transgender-drivers-who-can-apply-12089409#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The allocation will be spread across Delhi's 13 revenue districts, with up to 90 e-autos for women and 10 for transgender persons in each district. Delhi currently has 13 revenue districts.",
+            "published": "2026-09-24T04:38:27+05:30"
+          },
+          {
+            "title": "Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam",
+            "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece",
+            "source": "The Hindu",
+            "summary": "Many villagers have been opposing the bid to prepare the pre-feasibility report for the proposed Siang Upper Multipurpose Project, which will generate an estimated 11,000 MW of electricity",
+            "published": "2026-09-24T04:36:31+05:30"
+          },
+          {
+            "title": "J&K observes holiday on Dogra king Hari Singh’s birthday; BJP holds special functions",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece",
+            "source": "The Hindu",
+            "summary": "Maharaja Hari Singh took the wise decision in 1947 by acceding to India. How much have we benefited from the decision. Today we are with India, our country, said Darakshan Andrabi",
+            "published": "2026-09-24T04:31:33+05:30"
+          },
+          {
+            "title": "Inflation to stay within band: RBI deputy governor Poonam Gupta",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/inflation-to-stay-within-band-rbi-deputy-governor-poonam-gupta/articleshow/134448480.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T04:28:44+05:30"
+          },
+          {
+            "title": "Anthropic Says Claude AI Helped Discover Novel Enzyme System",
+            "link": "https://www.ndtv.com/world-news/anthropic-says-claude-ai-helped-discover-novel-enzyme-system-12089389#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Anthropic said Claude analyzed large DNA databases and found an unusual system built around a reverse transcriptase (RT), an enzyme that copies RNA into DNA.",
+            "published": "2026-09-24T04:27:01+05:30"
+          },
+          {
+            "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+            "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
+            "published": "2026-09-23T22:56:41+00:00"
+          },
+          {
+            "title": "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms",
+            "source": "Times of India",
+            "summary": "Majority owner will swing resolutions on reappointment; ban does not apply to sdtt",
+            "published": "2026-09-24T04:23:01+05:30"
+          },
+          {
             "title": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
             "link": "https://www.thehindu.com/news/national/bihar/bihar-bjp-mla-criticises-own-government-for-distributing10000-crore-to-jeevika-didis/article71500064.ece",
             "source": "The Hindu",
@@ -18,94 +102,59 @@
             "source": "The Hindu",
             "summary": "The tour of CM and DCM comes after Devendra Fadnavis announced the formation of a subcommittee to handle the drought issue under the chairmanship of Revenue Minister Chandrashekhar Bawankule",
             "published": "2026-09-24T04:12:52+05:30"
-          },
-          {
-            "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
-            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-            "published": "2026-09-23T22:35:14+00:00"
-          },
-          {
-            "title": "Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit",
-            "link": "https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T04:04:14+05:30"
-          },
-          {
-            "title": "After split verdict, SC refers law on EC appointment to larger bench",
-            "link": "https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:57:46+05:30"
-          },
-          {
-            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-            "published": "2026-09-23T22:23:28+00:00"
-          },
-          {
-            "title": "Alabama turns old gas rig into two reefs, with one rising 632 feet from seafloor",
-            "link": "https://timesofindia.indiatimes.com/world/us/alabama-has-turned-a-decommissioned-natural-gas-rig-into-two-artificial-reefs-one-section-rises-632-feet-from-the-seafloor-preserving-marine-habitat-that-has-been-growing-there-since-1998/articleshow/134437156.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:50:00+05:30"
-          },
-          {
-            "title": "EC faultlines have a long history, dating back to 1989",
-            "link": "https://timesofindia.indiatimes.com/india/ec-faultlines-have-a-long-history-dating-back-to-1989/articleshow/134446008.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:49:02+05:30"
-          },
-          {
-            "title": "U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece",
-            "source": "The Hindu",
-            "summary": "Now, upon registration, taxi drivers will become part of Bharat Taxi on zero commission and will receive social security of ₹5 lakh, said Yogi Adityanath",
-            "published": "2026-09-24T03:43:13+05:30"
-          },
-          {
-            "title": "Will.i.am backs campaign for Sir Tom Jones to return to The Voice",
-            "link": "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Sir Tom Jones, 86, has appeared as an on-off coach on the ITV show since 2012.",
-            "published": "2026-09-23T22:03:27+00:00"
-          },
-          {
-            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-            "published": "2026-09-23T22:01:17+00:00"
-          },
-          {
-            "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
-            "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:28:19+05:30"
-          },
-          {
-            "title": "BJP defends EC, says oppn trying to discredit panel",
-            "link": "https://timesofindia.indiatimes.com/india/bjp-defends-ec-says-oppn-trying-to-discredit-panel/articleshow/134445963.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:21:17+05:30"
-          },
-          {
-            "title": "Allegations of transfer of BCI assets to trust matter of concern: Supreme Court",
-            "link": "https://timesofindia.indiatimes.com/india/allegations-of-transfer-of-bci-assets-to-trust-matter-of-concern-supreme-court/articleshow/134445959.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:18:33+05:30"
           }
         ],
         "India": [
           {
+            "title": "Airtel Money plans to list on LSE, looks to raise $800mn",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/airtel-money-plans-to-list-on-lse-looks-to-raise-800mn/articleshow/134448519.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T04:49:13+05:30"
+          },
+          {
+            "title": "Delhi Clears 1,300 Pink E-Autos For Women, Transgender Drivers: Who Can Apply",
+            "link": "https://www.ndtv.com/delhi-news/delhi-clears-1-300-pink-e-autos-for-women-transgender-drivers-who-can-apply-12089409#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The allocation will be spread across Delhi's 13 revenue districts, with up to 90 e-autos for women and 10 for transgender persons in each district. Delhi currently has 13 revenue districts.",
+            "published": "2026-09-24T04:38:27+05:30"
+          },
+          {
+            "title": "Arunachal Pradesh State Cabinet approves panel for survey of Siang mega dam",
+            "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-pradesh-state-cabinet-approves-panel-for-survey-of-siang-mega-dam/article71499793.ece",
+            "source": "The Hindu",
+            "summary": "Many villagers have been opposing the bid to prepare the pre-feasibility report for the proposed Siang Upper Multipurpose Project, which will generate an estimated 11,000 MW of electricity",
+            "published": "2026-09-24T04:36:31+05:30"
+          },
+          {
+            "title": "J&K observes holiday on Dogra king Hari Singh’s birthday; BJP holds special functions",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece",
+            "source": "The Hindu",
+            "summary": "Maharaja Hari Singh took the wise decision in 1947 by acceding to India. How much have we benefited from the decision. Today we are with India, our country, said Darakshan Andrabi",
+            "published": "2026-09-24T04:31:33+05:30"
+          },
+          {
+            "title": "Inflation to stay within band: RBI deputy governor Poonam Gupta",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/inflation-to-stay-within-band-rbi-deputy-governor-poonam-gupta/articleshow/134448480.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-24T04:28:44+05:30"
+          },
+          {
+            "title": "Anthropic Says Claude AI Helped Discover Novel Enzyme System",
+            "link": "https://www.ndtv.com/world-news/anthropic-says-claude-ai-helped-discover-novel-enzyme-system-12089389#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Anthropic said Claude analyzed large DNA databases and found an unusual system built around a reverse transcriptase (RT), an enzyme that copies RNA into DNA.",
+            "published": "2026-09-24T04:27:01+05:30"
+          },
+          {
+            "title": "N Chandrasekaran's real vote test: Tata Sons AGM, not boardroom",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekarans-real-vote-test-tata-sons-agm-not-boardroom/articleshow/134448457.cms",
+            "source": "Times of India",
+            "summary": "Majority owner will swing resolutions on reappointment; ban does not apply to sdtt",
+            "published": "2026-09-24T04:23:01+05:30"
+          },
+          {
             "title": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
             "link": "https://www.thehindu.com/news/national/bihar/bihar-bjp-mla-criticises-own-government-for-distributing10000-crore-to-jeevika-didis/article71500064.ece",
             "source": "The Hindu",
@@ -120,77 +169,49 @@
             "published": "2026-09-24T04:12:52+05:30"
           },
           {
+            "title": "\"Unacceptable\": Australian PM Says OpenAI Hacked Government Health Website",
+            "link": "https://www.ndtv.com/world-news/australian-pm-says-openai-hacked-government-health-website-12089363#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "OpenAI infiltrated an Australian government health website in June in an \"unacceptable\" breach, Prime Minister Anthony Albanese said.",
+            "published": "2026-09-24T04:12:02+05:30"
+          },
+          {
+            "title": "Xi Jinping Lands In US For Key State Visit, Trump Receives Him",
+            "link": "https://www.ndtv.com/world-news/xi-jinping-lands-in-us-for-key-state-visit-trump-receives-him-12089339#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Trump, wearing a long coat and gloves, and Xi then stood side by side on the tarmac as a military band played, before two B-1 bombers staged a noisy flyover.",
+            "published": "2026-09-24T04:11:28+05:30"
+          },
+          {
             "title": "Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit",
             "link": "https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-24T04:04:14+05:30"
-          },
-          {
-            "title": "After split verdict, SC refers law on EC appointment to larger bench",
-            "link": "https://timesofindia.indiatimes.com/india/after-split-verdict-sc-refers-law-on-ec-appointment-to-larger-bench-decision-comes-amid-row-over-ec-functioning/articleshow/134448337.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:57:46+05:30"
-          },
-          {
-            "title": "Alabama turns old gas rig into two reefs, with one rising 632 feet from seafloor",
-            "link": "https://timesofindia.indiatimes.com/world/us/alabama-has-turned-a-decommissioned-natural-gas-rig-into-two-artificial-reefs-one-section-rises-632-feet-from-the-seafloor-preserving-marine-habitat-that-has-been-growing-there-since-1998/articleshow/134437156.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:50:00+05:30"
-          },
-          {
-            "title": "EC faultlines have a long history, dating back to 1989",
-            "link": "https://timesofindia.indiatimes.com/india/ec-faultlines-have-a-long-history-dating-back-to-1989/articleshow/134446008.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:49:02+05:30"
-          },
-          {
-            "title": "U.P. CM Yogi launches Bharat Taxi and Mukhyamantri Krishak Samriddhi Yojana",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/bharat-taxi-to-operate-on-zero-commission-drivers-to-get-5-lakh-social-security-cm-yogi-adityanath/article71499180.ece",
-            "source": "The Hindu",
-            "summary": "Now, upon registration, taxi drivers will become part of Bharat Taxi on zero commission and will receive social security of ₹5 lakh, said Yogi Adityanath",
-            "published": "2026-09-24T03:43:13+05:30"
-          },
-          {
-            "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
-            "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:28:19+05:30"
-          },
-          {
-            "title": "BJP defends EC, says oppn trying to discredit panel",
-            "link": "https://timesofindia.indiatimes.com/india/bjp-defends-ec-says-oppn-trying-to-discredit-panel/articleshow/134445963.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:21:17+05:30"
-          },
-          {
-            "title": "Allegations of transfer of BCI assets to trust matter of concern: Supreme Court",
-            "link": "https://timesofindia.indiatimes.com/india/allegations-of-transfer-of-bci-assets-to-trust-matter-of-concern-supreme-court/articleshow/134445959.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-24T03:18:33+05:30"
-          },
-          {
-            "title": "Madhya Pradesh traders, retailers observe ‘No UPI Day’, seek rollback of MDR charges",
-            "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-traders-retailers-observe-no-upi-day-seek-rollback-of-mdr-charges/article71500720.ece",
-            "source": "The Hindu",
-            "summary": "In cities like Bhopal and Indore, QR code stickers and payment confirmation soundboxes on several shops were seen covered with a black cloth, with the traders requesting customers to pay in cash",
-            "published": "2026-09-24T03:17:57+05:30"
-          },
-          {
-            "title": "West Bengal CM asks Ministers to concentrate on work rather than being hyperactive on the street",
-            "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-asks-ministers-to-concentrate-on-work-rather-than-being-hyperactive-on-the-street/article71501025.ece",
-            "source": "The Hindu",
-            "summary": "Two Ministers of the Suvendu Adhikari cabinet- Minister for Municipal Affairs Agnimitra Paul and Health Minister Sharadwat Mukherjee have been seen being active visiting streets and hospitals respectively",
-            "published": "2026-09-24T03:07:11+05:30"
           }
         ],
         "World": [
+          {
+            "title": "China’s Xi arrives to Trump welcome on state visit",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "China&#039;s President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit",
+            "published": "2026-09-23T23:19:29+00:00"
+          },
+          {
+            "title": "Indians are discovering the thrill of shopping without paying",
+            "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+            "published": "2026-09-23T23:14:10+00:00"
+          },
+          {
+            "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+            "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
+            "published": "2026-09-23T22:56:41+00:00"
+          },
           {
             "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -253,30 +274,23 @@
             "source": "Al Jazeera",
             "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
             "published": "2026-09-23T20:37:18+00:00"
-          },
-          {
-            "title": "Trump administration invites Putin to attend G20 summit in Miami",
-            "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
-            "published": "2026-09-23T20:23:31+00:00"
-          },
-          {
-            "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
-            "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
-            "published": "2026-09-23T19:58:00+00:00"
-          },
-          {
-            "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
-            "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
-            "published": "2026-09-23T19:54:24+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "How the oil capital of the US welcomed a solar power boom",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+            "published": "2026-09-23T23:12:22+00:00"
+          },
+          {
+            "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+            "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Consumers are feeling the squeeze from the rising price of protein.",
+            "published": "2026-09-23T23:12:01+00:00"
+          },
           {
             "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
             "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
@@ -346,20 +360,6 @@
             "source": "Economic Times",
             "summary": "On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant impact women make on the global economy during her remarks. Furthermore, she brought attention to global issues like the reunification of war-separated children. Excitingly, a new docuseries centered on Melania Trump is…",
             "published": "2026-09-23T22:57:05+05:30"
-          },
-          {
-            "title": "Fed Governor Michael Barr signals more rate hikes needed to tame inflation",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms",
-            "source": "Economic Times",
-            "summary": "Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central bank recently raised the policy rate to a range of 3.75%-4.00%. Barr's perspective contrasts with the Fed Chairman, who has not provided guidance on future rates.",
-            "published": "2026-09-23T22:14:32+05:30"
-          },
-          {
-            "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-            "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-            "published": "2026-09-23T16:42:47+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Indians are discovering the thrill of shopping without paying",
+            "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+            "published": "2026-09-23T23:14:10+00:00"
+          },
+          {
             "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
             "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Xiaomi 18 Pro and Xiaomi 18 Pro Max have been launched in China, retaining a similar design to their predecessors. The new smartphones will be available for purchase soon via the Xiaomi China online store in three distinct colour options. Moreover, the Xiaomi 18 Pro series features a secondary rear display and a triple rear camera unit. The Xiaomi 18 Pro Max sports a 6.9-inch AMOLED display, while the Xiaomi 18 Pro…",
             "published": "2026-09-23T17:34:38+05:30"
-          },
-          {
-            "title": "OpenAI gives cyber defence tools to Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-            "published": "2026-09-23T12:01:37+00:00"
           }
         ],
         "Entertainment": [
@@ -669,6 +669,13 @@
             "published": "2026-09-24T12:01:04+05:30"
           },
           {
+            "title": "जंक फूड पर स्कूल के 50 मीटर दायरे में रोक:किस पर लागू है यह पता नहीं; 2020 में सरकार ने बनाया था कानून, प्रावधान स्पष्ट नहीं",
+            "link": "https://www.bhaskar.com/national/news/fssai-junk-food-ban-school-zone-draft-rules-update-139129256.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-23T23:25:17+00:00"
+          },
+          {
             "title": "आस्था कुंज सामूहिक दुष्कर्म: आरोपी के मोबाइल में मिला जोड़े को धमकाने का वीडियो, पुराने मामले से मिला सुराग",
             "link": "https://www.amarujala.com/delhi-ncr/aastha-kunj-misdeed-video-threatening-the-couple-found-on-accused-s-mobile-phone-2026-09-24",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-23T19:06:21+00:00"
-          },
-          {
-            "title": "खाने का तेल सस्ता होगा, सरकार ने कस्टम ड्यूटी घटाई:सोया और पाम ऑयल पर शुल्क 10% से 5% हुआ; सूरजमुखी तेल पर ड्यूटी खत्म",
-            "link": "https://www.bhaskar.com/national/news/india-cooking-oil-custom-duty-reduction-soya-palm-sunflower-oil-139126982.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-23T18:24:38+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Indian Economy: జయహో భారత్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGlDWVVibjd2NVduaFRuRC1BWHVtcFdlWXpTRXhOWkEwWldlSnN3eEhBbXFtQk4xeFZMX3paM3Nha0lOTUZVZTJjSUFRZEtaNFR5bU9XVDJIWDhSZ1d3SE5IMG1fSWE4Wm9kZ0x5T0dYTEJRRUhqMUdQZVhYcHhvaW1vVjROaFlrQTUxVnk0QzY2VWl6UUk1c0ZOQdIBmwFBVV95cUxNRGlDWVVibjd2NVduaFRuRC1BWHVtcFdlWXpTRXhOWkEwWldlSnN3eEhBbXFtQk4xeFZMX3paM3Nha0lOTUZVZTJjSUFRZEtaNFR5bU9XVDJIWDhSZ1d3SE5IMG1fSWE4Wm9kZ0x5T0dYTEJRRUhqMUdQZVhYcHhvaW1vVjROaFlrQTUxVnk0QzY2VWl6UUk1c0ZOQQ?oc=5",
+            "title": "లక్ష్య సెంచరీ.. మూడో వన్డే యువ భారత్‌దే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xdnNoR3h5ZU9ldnlZT05Qdmppakw0blFQb3VxNGxIVHR4SjhvWklRWkpiQmpQanlvWjVaV0UtZll2ZkU4TTZ0NzcyMlhWZUE4aVZYcl80d19DSEk3Sk5iXzhrZ1VZdkVjQWdJWENCMVl4UdIBckFVX3lxTE4xdnNoR3h5ZU9ldnlZT05Qdmppakw0blFQb3VxNGxIVHR4SjhvWklRWkpiQmpQanlvWjVaV0UtZll2ZkU4TTZ0NzcyMlhWZUE4aVZYcl80d19DSEk3Sk5iXzhrZ1VZdkVjQWdJWENCMVl4UQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-23T22:02:24+00:00"
+            "published": "2026-09-23T22:04:53+00:00"
+          },
+          {
+            "title": "Varshini Venkat: బిగ్‌బాస్‌ ఫేమ్‌ వర్షిణి అరెస్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd25tWkFRbmV5X2xtZGx1UDk5ZGc4U2FmZ0RkdnVDbThHemM4Q2JMUm45akE3a2lKaGFUZUsybFBsYmllcHlLOG1sclhoSTFTeVFudDhCdWZ2bTJkei1lTjdPR25FM2x2eFVvNy1QZURtbXl4UnBjVTA3M2xNZWlVTHdOZXFIWmEweG9kQmt6MUU5VG80eWlLSXZhTE9ZZUFlM014LXd6ejlIQjV4aTNsaDFWYXZBN043UkN4aGZCSjdpOHN1dEhjZkJn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T20:02:47+00:00"
           },
           {
             "title": "Argentina: అర్జెంటీనా... ఖనిజాల ఖజానా - Eenadu",
@@ -1126,13 +1133,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-23T22:34:12+05:30"
-          },
-          {
-            "title": "కాకినాడ జిల్లాలో రేపు అన్ని విద్యాసంస్థలకు సెలవు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUNwYjhqNjBYS0NXOTlvOVdDT0RCMXhGbUxtUVAyX1gtaE1XV2hEYzRjd1VYYWhLZG44cGJ6NXpYWV9MeTlTNWxNZ1JPd2k5bDJ3b3ZyUHZfVHRibk01Q1J3czY1X1hvdzJKZ1E5N3pfZ0dtcjZsQTVHMWl0WnNpcQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T16:17:55+00:00"
           },
           {
             "title": "వినాయకుని విగ్రహంపై హెలికాప్టర్ నుంచి పూల వర్షం.. హైదరాబాద్ లో అరుదైన దృశ్యం..",
