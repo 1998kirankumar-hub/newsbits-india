@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-09-23T11:01:38.098484+00:00",
+  "updated_at": "2026-09-23T11:31:23.214994+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-            "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-            "published": "2026-09-23T11:00:08+00:00"
-          },
-          {
-            "title": "Class 5 student bitten by snake on school premises in Keralam’s Kozhikode",
-            "link": "https://www.thehindu.com/news/national/kerala/class-5-student-bitten-by-snake-on-school-premises-in-keralams-kozhikode/article71499427.ece",
+            "title": "Guwahati school students document 1,517 species in biodiversity survey",
+            "link": "https://www.thehindu.com/news/national/assam/guwahati-school-students-document-1517-species-in-biodiversity-survey/article71499424.ece",
             "source": "The Hindu",
-            "summary": "Teachers took the 10-year-old boy to taluk hospital, where he was given preliminary treatment. He was later shifted to Kozhikode Government Medical College Hospital",
-            "published": "2026-09-23T16:27:01+05:30"
+            "summary": "Month-long exercise aimed at creating permanent, real-time climate resilience database through student citizen-scientists",
+            "published": "2026-09-23T16:53:52+05:30"
           },
           {
-            "title": "Naidu, Sitharaman to lay foundation for ₹1 lakh crore Rayalaseema Horticulture Hub at Madanapalle on October 2",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-sitharaman-to-lay-foundation-for-1-lakh-crore-rayalaseema-horticulture-hub-at-madanapalle-on-october-2/article71499350.ece",
-            "source": "The Hindu",
-            "summary": "₹40,000 crore Central support and ₹60,000 crore private investment proposed; project to cover six districts",
-            "published": "2026-09-23T16:25:35+05:30"
-          },
-          {
-            "title": "Tamil Nadu | How the Museum of Chettinad keeps a community’s memory alive",
-            "link": "https://www.thehindu.com/life-and-style/tamil-nadu-museum-of-chettinad-visalakshi-ramaswamy-chettiar-heritage/article71467554.ece",
-            "source": "The Hindu",
-            "summary": "As part of the Chettinad Heritage and Cultural Festival which kicks off this weekend, visitors will get a peek into the museum, which officially opens in November",
-            "published": "2026-09-23T16:25:34+05:30"
-          },
-          {
-            "title": "Three schoolgirls missing from Keralam’s Thrissur found in Alappuzha",
-            "link": "https://www.thehindu.com/news/national/kerala/three-schoolgirls-missing-from-keralams-thrissur-found-in-alappuzha/article71498967.ece",
-            "source": "The Hindu",
-            "summary": "CCTV checks reveal girls boarding Ernad Express after leaving school during lunch break; police and railway authorities coordinate rescue",
-            "published": "2026-09-23T16:25:06+05:30"
-          },
-          {
-            "title": "Heavy rain lashes Odisha as deep depression approaches coast, 3,500 people evacuated",
-            "link": "https://www.thehindu.com/news/national/odisha/heavy-rain-lashes-odisha-as-deep-depression-approaches-coast/article71499120.ece",
-            "source": "The Hindu",
-            "summary": "Odisha government has ordered the closure of educational institutions and Anganwadi centres in 10 districts",
-            "published": "2026-09-23T16:23:52+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay returns from U.K. with ₹15,300-crore investment commitments",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-returns-from-uk-with-15300-crore-investment-commitments/article71475246.ece",
-            "source": "The Hindu",
-            "summary": "He also met Indian High Commissioner Kumaran Periyasamy and held discussions on joint ventures between India and the U.K. under the Comprehensive Economic and Trade Agreement",
-            "published": "2026-09-23T16:23:17+05:30"
-          },
-          {
-            "title": "VACB launches inspections at Kerala State Sports Council, district council offices over alleged corruption, procedural violations in selection",
-            "link": "https://www.thehindu.com/news/national/kerala/vacb-launches-inspections-at-kerala-state-sports-council-district-council-offices-over-alleged-corruption-procedural-violations-in-selection/article71499137.ece",
-            "source": "The Hindu",
-            "summary": "Code-named ‘Operation Kalikkalam’, Statewide inspection was ordered by Vigilance director Manoj Abraham based on tip-off about alleged irregularities in functioning of sports councils",
-            "published": "2026-09-23T16:22:25+05:30"
-          },
-          {
-            "title": "Madurai’s Meenakshi Temple kumbabishekam highlights: Thousands of devotees witness consecration ceremony after 17 years",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/madurai-meenakshi-temple-kumbabishekam-devotees-gather-in-large-numbers-for-consecration-ceremony-september-17-2026-live-updates/article71475137.ece",
-            "source": "The Hindu",
-            "summary": "A large number of police personnel were deployed to ensure the safety and security of the devotees",
-            "published": "2026-09-23T16:21:56+05:30"
-          },
-          {
-            "title": "Devotees gather in thousands for historic consecration of Meenakshi temple in Madurai",
-            "link": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-for-historic-consecration-of-meenakshi-temple-in-madurai/article71475121.ece",
-            "source": "The Hindu",
-            "summary": "​To manage the crowds, a filtering system based on pass colours — red, yellow, purple, and green — was in place, directing devotees to specific access areas closest to the temple’s inner sanctum.",
-            "published": "2026-09-23T16:20:42+05:30"
-          },
-          {
-            "title": "Congress MLA resigns after Indi and Chadchan taluks not included in drought-hit list in Karnataka",
-            "link": "https://www.thehindu.com/news/national/karnataka/congress-mla-resigns-over-exclusion-of-indi-and-chadchan-taluks-in-drought-hit-list-in-karnataka/article71499381.ece",
-            "source": "The Hindu",
-            "summary": "Yashavant Rayagoud V. Patil has submitted his resignation for the second time this year",
-            "published": "2026-09-23T16:20:24+05:30"
-          },
-          {
-            "title": "Asian Games 2026 LIVE | Mirabai Chanu wins silver in women’s 49kg weightlifting",
+            "title": "Asian Games 2026 LIVE | Indian men's badminton team settles for bronze after 1-3 loss to China",
             "link": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece",
             "source": "The Hindu",
             "summary": "India’s men’s and women’s skeet teams and men’s badminton team clinch bronze in Nagoya",
-            "published": "2026-09-23T16:20:11+05:30"
+            "published": "2026-09-23T16:53:07+05:30"
           },
           {
-            "title": "Concerns county will not benefit from £2 bus cap",
-            "link": "https://www.bbc.co.uk/news/articles/cqd08m30r2j9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Councillor Justine Peberdy says Yeomans Travel and Sargeants Brothers have not committed to the cap.",
-            "published": "2026-09-23T10:49:57+00:00"
+            "title": "Tamil Nadu CM Vijay conducts surprise inspection at TNDPCL headquarters",
+            "link": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-cm-vijay-conducts-surprise-inspection-at-tndpcl-headquarters/article71499378.ece",
+            "source": "The Hindu",
+            "summary": "Officials of TNDPCL explained to the CM the impact of the spike in electricity demand across the State, the constraints in procuring additional electricity from the power exchange to fill the demand-supply gap, and the challenges in coal supply, among other issues",
+            "published": "2026-09-23T16:52:32+05:30"
           },
           {
-            "title": "Billy Root retires from professional cricket, aged 34",
-            "link": "https://www.cricinfo.com/ci/content/story/1555475.html?ex_cid=OTC-RSS",
+            "title": "Exalogic-CMRL payoff case: Kerala CM says police inquiry not aimed at ‘targeting anyone or taking revenge’",
+            "link": "https://www.thehindu.com/news/national/kerala/exalogic-cmrl-payoff-case-kerala-cm-says-police-inquiry-not-aimed-at-targeting-anyone-or-taking-revenge/article71499189.ece",
+            "source": "The Hindu",
+            "summary": "Satheesan says government was obliged to take the decision after proper legal scrutiny",
+            "published": "2026-09-23T16:51:51+05:30"
+          },
+          {
+            "title": "Coinbase Introduces Fixed-Rate Bitcoin Loans, Giving Users an Alternative to Floating Rates",
+            "link": "https://www.gadgets360.com/cryptocurrency/news/coinbase-launches-fixed-rate-usdc-borrowing-against-bitcoin-crypto-partnerships-base-protocol-btc-12086346",
+            "source": "Gadgets 360",
+            "summary": "Coinbase has introduced fixed-rate, fixed-term USDC loans backed by Bitcoin, offering an alternative to its existing floating-rate borrowing option. The product operates through Morpho Midnight, a decentralised lending protocol built on Coinbase’s Base network. Borrowers can determine their interest costs and repayment dates upfront, while the existing Morpho Blue-based loans continue to use rates that fluctuate…",
+            "published": "2026-09-23T16:51:49+05:30"
+          },
+          {
+            "title": "Party in South Africa as World Cup holders Australia come calling",
+            "link": "https://www.cricinfo.com/ci/content/story/1555479.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "Younger brother of Test captain Joe says he 'wouldn't change a thing' after 14-year career",
-            "published": "2026-09-23T10:49:54+00:00"
+            "summary": "With four fast bowlers already lost to injury, the hosts will have to balance playing their strongest team and keeping players fit",
+            "published": "2026-09-23T11:21:08+00:00"
+          },
+          {
+            "title": "Not 5 Sixes, Rinku Singh Reveals What He Really Wants To Be Remembered For",
+            "link": "https://sports.ndtv.com/cricket/not-5-sixes-rinku-singh-reveals-what-he-really-wants-to-be-remembered-for-12085750#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Rinku Singh has also expressed hope that veteran stalwarts Virat Kohli and Rohit Sharma feature in the 2027 ODI World Cup and help India lift the coveted trophy.",
+            "published": "2026-09-23T16:50:13+05:30"
+          },
+          {
+            "title": "Telangana rain forecast puts officials on alert",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-rain-forecast-puts-officials-on-alert/article71499375.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-23T16:49:47+05:30"
+          },
+          {
+            "title": "Why construct new Secretariat complex when T.N. is facing financial crisis, Palaniswami asks TVK govt.",
+            "link": "https://www.thehindu.com/news/cities/Madurai/why-construct-new-secretariat-complex-when-tn-is-facing-financial-crisis-palaniswami-asks-tvk-govt/article71476052.ece",
+            "source": "The Hindu",
+            "summary": "Mr. Palaniswami said that after setting right the State’s financial situation, the government should choose a different site for the new Secretariat, which would not adversely affect people",
+            "published": "2026-09-23T16:49:47+05:30"
+          },
+          {
+            "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+            "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+            "published": "2026-09-23T11:18:28+00:00"
+          },
+          {
+            "title": "Tamil Nadu bypolls: After DMK’s plaint to EC, TVK drops leaders of alliance parties from star campaigner list",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-dmk-urges-election-commission-to-cancel-tvks-list-of-star-campaigners-from-other-parties/article71490583.ece",
+            "source": "The Hindu",
+            "summary": "The TVK has named leaders of its alliance partners in its list of star campaigners for the Madurantakam and Dharapuram bypolls",
+            "published": "2026-09-23T16:46:09+05:30"
+          },
+          {
+            "title": "Three people killed in as many conflicts with elephants in Assam",
+            "link": "https://www.thehindu.com/news/national/assam/three-people-killed-in-as-many-conflicts-with-elephants-in-assam/article71499260.ece",
+            "source": "The Hindu",
+            "summary": "The two incidents in Sonitpur district were reported from the Dhekiajuli area, about 130 km northeast of Guwahati; the Karbi Anglong incident occurred in a village about 230 km east of Guwahati",
+            "published": "2026-09-23T16:44:15+05:30"
+          },
+          {
+            "title": "Red alert in five Telangana districts on September 24",
+            "link": "https://www.thehindu.com/news/national/telangana/red-alert-in-five-telangana-districts-on-september-24/article71499288.ece",
+            "source": "The Hindu",
+            "summary": "Eight districts were placed under orange alert",
+            "published": "2026-09-23T16:43:52+05:30"
+          },
+          {
+            "title": "China's Yu Zidi, 13, Wins Third Gold With Latest Asian Games Record",
+            "link": "https://sports.ndtv.com/swimming/chinas-yu-zidi-13-wins-third-gold-with-latest-asian-games-record-12086084#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "China's 13-year-old swimming sensation Yu Zidi completed a hat-trick of Asian Games golds on Wednesday with a dominant victory in the 400m individual medley.",
+            "published": "2026-09-23T16:42:56+05:30"
           }
         ],
         "India": [
           {
-            "title": "Class 5 student bitten by snake on school premises in Keralam’s Kozhikode",
-            "link": "https://www.thehindu.com/news/national/kerala/class-5-student-bitten-by-snake-on-school-premises-in-keralams-kozhikode/article71499427.ece",
+            "title": "Guwahati school students document 1,517 species in biodiversity survey",
+            "link": "https://www.thehindu.com/news/national/assam/guwahati-school-students-document-1517-species-in-biodiversity-survey/article71499424.ece",
             "source": "The Hindu",
-            "summary": "Teachers took the 10-year-old boy to taluk hospital, where he was given preliminary treatment. He was later shifted to Kozhikode Government Medical College Hospital",
-            "published": "2026-09-23T16:27:01+05:30"
+            "summary": "Month-long exercise aimed at creating permanent, real-time climate resilience database through student citizen-scientists",
+            "published": "2026-09-23T16:53:52+05:30"
           },
           {
-            "title": "Naidu, Sitharaman to lay foundation for ₹1 lakh crore Rayalaseema Horticulture Hub at Madanapalle on October 2",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-sitharaman-to-lay-foundation-for-1-lakh-crore-rayalaseema-horticulture-hub-at-madanapalle-on-october-2/article71499350.ece",
-            "source": "The Hindu",
-            "summary": "₹40,000 crore Central support and ₹60,000 crore private investment proposed; project to cover six districts",
-            "published": "2026-09-23T16:25:35+05:30"
-          },
-          {
-            "title": "Tamil Nadu | How the Museum of Chettinad keeps a community’s memory alive",
-            "link": "https://www.thehindu.com/life-and-style/tamil-nadu-museum-of-chettinad-visalakshi-ramaswamy-chettiar-heritage/article71467554.ece",
-            "source": "The Hindu",
-            "summary": "As part of the Chettinad Heritage and Cultural Festival which kicks off this weekend, visitors will get a peek into the museum, which officially opens in November",
-            "published": "2026-09-23T16:25:34+05:30"
-          },
-          {
-            "title": "Three schoolgirls missing from Keralam’s Thrissur found in Alappuzha",
-            "link": "https://www.thehindu.com/news/national/kerala/three-schoolgirls-missing-from-keralams-thrissur-found-in-alappuzha/article71498967.ece",
-            "source": "The Hindu",
-            "summary": "CCTV checks reveal girls boarding Ernad Express after leaving school during lunch break; police and railway authorities coordinate rescue",
-            "published": "2026-09-23T16:25:06+05:30"
-          },
-          {
-            "title": "Heavy rain lashes Odisha as deep depression approaches coast, 3,500 people evacuated",
-            "link": "https://www.thehindu.com/news/national/odisha/heavy-rain-lashes-odisha-as-deep-depression-approaches-coast/article71499120.ece",
-            "source": "The Hindu",
-            "summary": "Odisha government has ordered the closure of educational institutions and Anganwadi centres in 10 districts",
-            "published": "2026-09-23T16:23:52+05:30"
-          },
-          {
-            "title": "Tamil Nadu CM Vijay returns from U.K. with ₹15,300-crore investment commitments",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-returns-from-uk-with-15300-crore-investment-commitments/article71475246.ece",
-            "source": "The Hindu",
-            "summary": "He also met Indian High Commissioner Kumaran Periyasamy and held discussions on joint ventures between India and the U.K. under the Comprehensive Economic and Trade Agreement",
-            "published": "2026-09-23T16:23:17+05:30"
-          },
-          {
-            "title": "VACB launches inspections at Kerala State Sports Council, district council offices over alleged corruption, procedural violations in selection",
-            "link": "https://www.thehindu.com/news/national/kerala/vacb-launches-inspections-at-kerala-state-sports-council-district-council-offices-over-alleged-corruption-procedural-violations-in-selection/article71499137.ece",
-            "source": "The Hindu",
-            "summary": "Code-named ‘Operation Kalikkalam’, Statewide inspection was ordered by Vigilance director Manoj Abraham based on tip-off about alleged irregularities in functioning of sports councils",
-            "published": "2026-09-23T16:22:25+05:30"
-          },
-          {
-            "title": "Madurai’s Meenakshi Temple kumbabishekam highlights: Thousands of devotees witness consecration ceremony after 17 years",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/madurai-meenakshi-temple-kumbabishekam-devotees-gather-in-large-numbers-for-consecration-ceremony-september-17-2026-live-updates/article71475137.ece",
-            "source": "The Hindu",
-            "summary": "A large number of police personnel were deployed to ensure the safety and security of the devotees",
-            "published": "2026-09-23T16:21:56+05:30"
-          },
-          {
-            "title": "Devotees gather in thousands for historic consecration of Meenakshi temple in Madurai",
-            "link": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-for-historic-consecration-of-meenakshi-temple-in-madurai/article71475121.ece",
-            "source": "The Hindu",
-            "summary": "​To manage the crowds, a filtering system based on pass colours — red, yellow, purple, and green — was in place, directing devotees to specific access areas closest to the temple’s inner sanctum.",
-            "published": "2026-09-23T16:20:42+05:30"
-          },
-          {
-            "title": "Congress MLA resigns after Indi and Chadchan taluks not included in drought-hit list in Karnataka",
-            "link": "https://www.thehindu.com/news/national/karnataka/congress-mla-resigns-over-exclusion-of-indi-and-chadchan-taluks-in-drought-hit-list-in-karnataka/article71499381.ece",
-            "source": "The Hindu",
-            "summary": "Yashavant Rayagoud V. Patil has submitted his resignation for the second time this year",
-            "published": "2026-09-23T16:20:24+05:30"
-          },
-          {
-            "title": "Asian Games 2026 LIVE | Mirabai Chanu wins silver in women’s 49kg weightlifting",
+            "title": "Asian Games 2026 LIVE | Indian men's badminton team settles for bronze after 1-3 loss to China",
             "link": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece",
             "source": "The Hindu",
             "summary": "India’s men’s and women’s skeet teams and men’s badminton team clinch bronze in Nagoya",
-            "published": "2026-09-23T16:20:11+05:30"
+            "published": "2026-09-23T16:53:07+05:30"
           },
           {
-            "title": "Meenakshi Sundareswarar temple kumbabishekam begins",
-            "link": "https://www.thehindu.com/news/cities/Madurai/meenakshi-sundareswarar-temple-consecration-ceremony-kumbhabhishekam-september-17-2026/article71475098.ece",
+            "title": "Tamil Nadu CM Vijay conducts surprise inspection at TNDPCL headquarters",
+            "link": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-cm-vijay-conducts-surprise-inspection-at-tndpcl-headquarters/article71499378.ece",
             "source": "The Hindu",
-            "summary": "The priests are expected to perform the ceremony at the scheduled time between 7.40 a.m. and 8.10 a.m",
-            "published": "2026-09-23T16:19:49+05:30"
+            "summary": "Officials of TNDPCL explained to the CM the impact of the spike in electricity demand across the State, the constraints in procuring additional electricity from the power exchange to fill the demand-supply gap, and the challenges in coal supply, among other issues",
+            "published": "2026-09-23T16:52:32+05:30"
+          },
+          {
+            "title": "Exalogic-CMRL payoff case: Kerala CM says police inquiry not aimed at ‘targeting anyone or taking revenge’",
+            "link": "https://www.thehindu.com/news/national/kerala/exalogic-cmrl-payoff-case-kerala-cm-says-police-inquiry-not-aimed-at-targeting-anyone-or-taking-revenge/article71499189.ece",
+            "source": "The Hindu",
+            "summary": "Satheesan says government was obliged to take the decision after proper legal scrutiny",
+            "published": "2026-09-23T16:51:51+05:30"
+          },
+          {
+            "title": "Telangana rain forecast puts officials on alert",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-rain-forecast-puts-officials-on-alert/article71499375.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-23T16:49:47+05:30"
+          },
+          {
+            "title": "Why construct new Secretariat complex when T.N. is facing financial crisis, Palaniswami asks TVK govt.",
+            "link": "https://www.thehindu.com/news/cities/Madurai/why-construct-new-secretariat-complex-when-tn-is-facing-financial-crisis-palaniswami-asks-tvk-govt/article71476052.ece",
+            "source": "The Hindu",
+            "summary": "Mr. Palaniswami said that after setting right the State’s financial situation, the government should choose a different site for the new Secretariat, which would not adversely affect people",
+            "published": "2026-09-23T16:49:47+05:30"
+          },
+          {
+            "title": "Tamil Nadu bypolls: After DMK’s plaint to EC, TVK drops leaders of alliance parties from star campaigner list",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-dmk-urges-election-commission-to-cancel-tvks-list-of-star-campaigners-from-other-parties/article71490583.ece",
+            "source": "The Hindu",
+            "summary": "The TVK has named leaders of its alliance partners in its list of star campaigners for the Madurantakam and Dharapuram bypolls",
+            "published": "2026-09-23T16:46:09+05:30"
+          },
+          {
+            "title": "Three people killed in as many conflicts with elephants in Assam",
+            "link": "https://www.thehindu.com/news/national/assam/three-people-killed-in-as-many-conflicts-with-elephants-in-assam/article71499260.ece",
+            "source": "The Hindu",
+            "summary": "The two incidents in Sonitpur district were reported from the Dhekiajuli area, about 130 km northeast of Guwahati; the Karbi Anglong incident occurred in a village about 230 km east of Guwahati",
+            "published": "2026-09-23T16:44:15+05:30"
+          },
+          {
+            "title": "Red alert in five Telangana districts on September 24",
+            "link": "https://www.thehindu.com/news/national/telangana/red-alert-in-five-telangana-districts-on-september-24/article71499288.ece",
+            "source": "The Hindu",
+            "summary": "Eight districts were placed under orange alert",
+            "published": "2026-09-23T16:43:52+05:30"
+          },
+          {
+            "title": "Minister in CEC-EC selection panel fails ‘perception test’, says Justice Datta in split verdict",
+            "link": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
+            "source": "The Hindu",
+            "summary": "Justice Datta said the Minister “cannot be expected to defy the Prime Minister”; he said the Prime Minister and his Cabinet Minister shared a “collective responsibility” and inclusion of a Minister “fails to provide an independent countenance”",
+            "published": "2026-09-23T16:41:37+05:30"
+          },
+          {
+            "title": "Prominent dissident MLAs left out of AIADMK’s bypoll campaign events",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/prominent-dissidents-left-out-of-aiadmks-bypoll-campaign-programmes/article71480391.ece",
+            "source": "The Hindu",
+            "summary": "There are 13 sitting legislators including general secretary Edappadi K. Palaniswami who have figured in the list of star campaigners",
+            "published": "2026-09-23T16:39:41+05:30"
+          },
+          {
+            "title": "Navodaya schools case: Supreme Court asks Tamil Nadu to drop anti-Hindi ‘mindset’; State says language is a fundamental right",
+            "link": "https://www.thehindu.com/news/national/navodaya-schools-case-supreme-court-asks-tamil-nadu-to-drop-anti-hindi-mindset-state-says-language-is-a-fundamental-right/article71476345.ece",
+            "source": "The Hindu",
+            "summary": "‘Chennai should not alienate Delhi, and vice versa, too,’ Justice Nagarathna, heading a Bench comprising Justice A.G. Masih, addressed both governments",
+            "published": "2026-09-23T16:37:51+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+            "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+            "published": "2026-09-23T11:18:28+00:00"
+          },
+          {
+            "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.",
+            "published": "2026-09-23T11:03:35+00:00"
+          },
+          {
+            "title": "What's at stake when Trump and Xi meet in the US?",
+            "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+            "published": "2026-09-23T11:00:09+00:00"
+          },
+          {
+            "title": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
+            "link": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.",
+            "published": "2026-09-23T10:50:43+00:00"
+          },
+          {
+            "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
+            "link": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.",
+            "published": "2026-09-23T10:44:52+00:00"
+          },
           {
             "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
             "link": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
@@ -239,41 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Trump threatens to &#039;annihilate&#039; Iran and then brags about diplomacy, provoking Tehran to warn of a response.",
             "published": "2026-09-23T09:40:20+00:00"
-          },
-          {
-            "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
-            "link": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.",
-            "published": "2026-09-23T09:06:41+00:00"
-          },
-          {
-            "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
-            "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
-            "published": "2026-09-23T09:02:02+00:00"
-          },
-          {
-            "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
-            "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Chanu finally clinches an elusive Asian Games medal in Japan and Ri Song-gum wins North Korea’s first gold.",
-            "published": "2026-09-23T08:58:18+00:00"
-          },
-          {
-            "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Democratic senator Chris Van Hollen has called Netanyahu a lying war criminal ahead of his visit to UNGA",
-            "published": "2026-09-23T08:44:44+00:00"
-          },
-          {
-            "title": "What Palestinian children endure in Israeli detention",
-            "link": "https://www.aljazeera.com/features/2026/9/23/inside-israels-prisons-what-palestinian-children-say-they-endure-in-deten?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Every day, Fidaa Zalbani checks the room of her son, Mohammed, 17, tidying his bed and arranging untouched clothes.",
-            "published": "2026-09-23T08:42:11+00:00"
           }
         ],
         "Business": [
@@ -355,7 +355,7 @@
             "published": "2026-09-23T05:14:10+00:00"
           },
           {
-            "title": "Trump wants AI to be called super intelligence. Will it work?",
+            "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
             "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
@@ -364,91 +364,105 @@
         ],
         "Sports": [
           {
-            "title": "Billy Root retires from professional cricket, aged 34",
-            "link": "https://www.cricinfo.com/ci/content/story/1555475.html?ex_cid=OTC-RSS",
+            "title": "Party in South Africa as World Cup holders Australia come calling",
+            "link": "https://www.cricinfo.com/ci/content/story/1555479.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
-            "summary": "Younger brother of Test captain Joe says he 'wouldn't change a thing' after 14-year career",
-            "published": "2026-09-23T10:49:54+00:00"
+            "summary": "With four fast bowlers already lost to injury, the hosts will have to balance playing their strongest team and keeping players fit",
+            "published": "2026-09-23T11:21:08+00:00"
           },
           {
-            "title": "Weatherald fires as SA win epic over Tasmania",
-            "link": "https://www.cricinfo.com/ci/content/story/1555478.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Weatherald made 92, Gilkes 97* and Fraser-McGurk blasted 88 from 47 as SA posted 383 to hold off Tasmania who fell seven runs short after Silk's career-best 142",
-            "published": "2026-09-23T10:31:05+00:00"
-          },
-          {
-            "title": "'I'm very keen to come back and play' - Tahir eyes CPL 2027 at 48",
-            "link": "https://www.cricinfo.com/ci/content/story/1555476.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Tahir wants to finish his career \"in front of the Guyanese crowd,\" whose franchise he has represented since 2018 in the CPL",
-            "published": "2026-09-23T10:06:26+00:00"
-          },
-          {
-            "title": "Brook attains career-best fourth in T20I batting rankings; Rashid loses top spot among bowlers",
-            "link": "https://www.cricinfo.com/ci/content/story/1555471.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Zimbabwe's Sikandar Raza is now second in the ODI allrounder rankings",
-            "published": "2026-09-23T10:06:18+00:00"
-          },
-          {
-            "title": "Manu Bhaker Breaks Down Recalling Jaspal Rana After Asian Games Medal Miss",
-            "link": "https://sports.ndtv.com/shooting/manu-bhaker-breaks-down-recalling-jaspal-rana-after-asian-games-medal-miss-12086132#publisher=newsstand",
+            "title": "Not 5 Sixes, Rinku Singh Reveals What He Really Wants To Be Remembered For",
+            "link": "https://sports.ndtv.com/cricket/not-5-sixes-rinku-singh-reveals-what-he-really-wants-to-be-remembered-for-12085750#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "She held steady after missing out on a medal but Manu Bhaker lost grip on her emotions the moment Jaspal Rana's name cropped up as she recollected the career and life advices from the legend who died of cardiac issues a few months ag",
-            "published": "2026-09-23T15:21:47+05:30"
+            "summary": "Rinku Singh has also expressed hope that veteran stalwarts Virat Kohli and Rohit Sharma feature in the 2027 ODI World Cup and help India lift the coveted trophy.",
+            "published": "2026-09-23T16:50:13+05:30"
           },
           {
-            "title": "India vs China Badminton Men's Team Semi-Final LIVE Updates: Hariharan/Arjun Fight Back After Losing 1st Game vs China",
-            "link": "https://sports.ndtv.com/badminton/india-vs-china-mens-team-badminton-semi-final-live-score-ind-vs-chn-asian-games-2026-live-updates-aichi-nagoya-japan-gold-medal-race-12084708#publisher=newsstand",
+            "title": "China's Yu Zidi, 13, Wins Third Gold With Latest Asian Games Record",
+            "link": "https://sports.ndtv.com/swimming/chinas-yu-zidi-13-wins-third-gold-with-latest-asian-games-record-12086084#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "India vs China Men's Team Semi-Final LIVE Updates: Hariharan Amsakarunan and Arjun Madathil are currently a game down against Ji Ting He and Yi Liu in the second doubles match.",
-            "published": "2026-09-23T15:21:20+05:30"
+            "summary": "China's 13-year-old swimming sensation Yu Zidi completed a hat-trick of Asian Games golds on Wednesday with a dominant victory in the 400m individual medley.",
+            "published": "2026-09-23T16:42:56+05:30"
           },
           {
-            "title": "Asian Games 2026 Day 4 LIVE Updates: India Assured Of Wushu Silver After Mirabai Chanu's Heroics",
-            "link": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-4-india-medal-tally-results-gold-silver-bronze-medal-count-aichi-nagoya-japan-live-news-shooting-weightlifting-12083555#publisher=newsstand",
+            "title": "Kwena Maphaka Ruled Out Of South Africa's ODIs Against Australia, Lizaad Williams Given Call-Up",
+            "link": "https://sports.ndtv.com/cricket/kwena-maphaka-ruled-out-of-south-africas-odis-against-australia-lizaad-williams-given-call-up-12085948#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Asian Games 2026 Day 4 LIVE Score Updates: Mirabai Chanu won a silver medal in women's 49kg weightlifting, her first ever in the Games. In the process, she also ended the country's 28-year wait for a medal in weightlifting.",
-            "published": "2026-09-23T15:13:19+05:30"
+            "summary": "South Africa's fast-bowling injury troubles worsened on the eve of the start of their three-match ODI series against Australia, with young pacer Kwena Maphaka ruled out due to a right hamstring strain.",
+            "published": "2026-09-23T16:38:33+05:30"
           },
           {
-            "title": "Chiedza Dhururu and Olinder Chare back in Zimbabwe squad for WI series",
-            "link": "https://www.cricinfo.com/ci/content/story/1555473.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Pemhiwa and Mabhera make way from the squad that played South Africa, while Tsuma misses out because of injury",
-            "published": "2026-09-23T09:40:45+00:00"
-          },
-          {
-            "title": "\"Just The Beginning\": Mairaj Khan Hails India Women's Skeet Team's Historic Asian Games Bronze",
-            "link": "https://sports.ndtv.com/shooting/just-the-beginning-mairaj-khan-hails-india-womens-skeet-teams-historic-asian-games-bronze-12084917#publisher=newsstand",
+            "title": "Pakistan Coaching Staff Hit By Major Exit As Ashley Noffke Takes Over Netherlands",
+            "link": "https://sports.ndtv.com/cricket/pakistan-coaching-staff-hit-by-major-exit-as-ashley-noffke-takes-over-netherlands-12086007#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Indian skeet shooter Mairaj Ahmad Khan hailed the historic bronze medal won by the women's skeet team at the Aichi-Nagoya Asian Games 2026, saying the achievement has created a strong platform for future competitions.",
-            "published": "2026-09-23T15:03:19+05:30"
+            "summary": "Former Australia international Ashley Noffke has left his role as bowling coach of Pakistan's cricket team to take over as Netherlands head coach.",
+            "published": "2026-09-23T16:31:19+05:30"
           },
           {
-            "title": "India Storm Into Asian Games Men's Kabaddi Semifinals With Win Over Bangladesh, Confirms Medal",
-            "link": "https://sports.ndtv.com/kabaddi/india-storm-into-asian-games-mens-kabaddi-semifinals-with-win-over-bangladesh-confirms-medal-12084588#publisher=newsstand",
+            "title": "Terrell Owens' NFL Journey: Inside His Dallas Cowboys Chapter And Life Beyond Football",
+            "link": "https://sports.ndtv.com/us-nfl/terrell-owens-nfl-journey-inside-his-dallas-cowboys-chapter-and-life-beyond-football-12086505#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "India stormed into the men's kabaddi semifinals at the 2026 Asian Games with a commanding 48-25 victory over Bangladesh in their Group A clash at the Tokai Citizens Gymnasium on Wednesday.",
-            "published": "2026-09-23T14:50:28+05:30"
+            "summary": "Terrell Owens reflects on his complicated Dallas Cowboys chapter while starting a new sports-focused chapter beyond the NFL.",
+            "published": "2026-09-23T16:29:10+05:30"
           },
           {
-            "title": "Usman Nurmagomedov Says Gable Steveson \"Isn’t a Fighter\" After His Shocking 12-Second UFC 331 Loss",
-            "link": "https://sports.ndtv.com/us-mma/usman-nurmagomedov-says-gable-steveson-isn-t-a-fighter-after-his-shocking-12-second-ufc-331-loss-12085752#publisher=newsstand",
+            "title": "Troy Aikman's Aaron Donald Blunder Sparks Fans' Reaction During MNF",
+            "link": "https://sports.ndtv.com/us-nfl/troy-aikmans-aaron-donald-blunder-sparks-fans-reaction-during-mnf-12086468#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Usman Nurmagomedov questioned Gable Steveson’s MMA experience after his 12-second loss to Sean Sharaf at UFC 331, saying Olympic wrestling alone does not make him a complete fighter. Dana White still backed Steveson’s comeback after the defeat.",
-            "published": "2026-09-23T14:15:43+05:30"
+            "summary": "Troy Aikman mistakenly identified Tyler Davis as Aaron Donald during ESPN’s Rams-Giants broadcast, drawing fan reactions as his contract situation remains unresolved.",
+            "published": "2026-09-23T16:28:28+05:30"
           },
           {
-            "title": "9 Goals In 1 Match: Deepika Sehrawat Makes Asian Games Hockey History As India Thrash Thailand 20-1",
-            "link": "https://sports.ndtv.com/hockey/9-goals-in-1-match-deepika-sehrawat-makes-asian-games-hockey-history-as-india-thrash-thailand-20-1-12085745#publisher=newsstand",
+            "title": "Can Kyle Pitts Turn His Quiet Start Into A New Beginning For Atlanta Falcons This Season?",
+            "link": "https://sports.ndtv.com/us-nfl/can-kyle-pitts-turn-his-quiet-start-into-a-new-beginning-for-atlanta-falcons-this-season-12086444#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "In-form drag-flicker Deepika Sehrawat continued her impressive run, scoring a record nine goals in a single match as India thrashed Thailand 20-1 to register their third consecutive victory",
-            "published": "2026-09-23T14:10:57+05:30"
+            "summary": "Kyle Pitts has a chance to change his quiet start as the Atlanta Falcons prepare to bring Michael Penix Jr. back at quarterback.",
+            "published": "2026-09-23T16:26:57+05:30"
+          },
+          {
+            "title": "NBA Injury Update: 6-Foot-8 New Clippers Star Hit With Bad News Ahead Of Media Day",
+            "link": "https://sports.ndtv.com/us-nba/nba-injury-update-6-foot-8-new-clippers-star-hit-with-bad-news-ahead-of-media-day-12086420#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Brandon Ingram's status for the start of the season is up in the air after offseason heel surgery, according to ESPN's Brian Windhorst, who said a clearer answer should come at media day. The two-time All-Star joined the Clippers this summer.",
+            "published": "2026-09-23T16:26:31+05:30"
+          },
+          {
+            "title": "Inside Russell Wilson And Ciara's Family Life Beyond Football And Music",
+            "link": "https://sports.ndtv.com/us-nfl/inside-russell-wilson-and-ciaras-family-life-beyond-football-and-music-12086400#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Russell Wilson and Ciara have built a family life that continues to grow while they balance the demands of the NFL, music and life in the public eye.",
+            "published": "2026-09-23T16:26:00+05:30"
+          },
+          {
+            "title": "Adin Ross Reacts To ExtraEmily Clip, Criticizes Twitch's Enforcement Standards",
+            "link": "https://sports.ndtv.com/us-us-streamers/streamers-nowadays-p-dophiles-adin-ross-complains-about-how-twitch-standards-have-changed-since-his-2021-ban-12086362#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Adin Ross reacted with disgust to a clip of ExtraEmily eating, then brought up the 2021 driving ban that cost him his Twitch channel in the same broadcast.",
+            "published": "2026-09-23T16:24:39+05:30"
+          },
+          {
+            "title": "Bangladesh Recall Towhid Hridoy, Rest Taskin Ahmed For Afghanistan Test",
+            "link": "https://sports.ndtv.com/cricket/bangladesh-recall-towhid-hridoy-rest-taskin-ahmed-for-afghanistan-test-12086109#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Bangladesh recalled on Wednesday Towhid Hridoy and rested fast bowler Taskin Ahmed for next month's one-off Test against Afghanistan in the United Arab Emirates.",
+            "published": "2026-09-23T16:23:52+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Coinbase Introduces Fixed-Rate Bitcoin Loans, Giving Users an Alternative to Floating Rates",
+            "link": "https://www.gadgets360.com/cryptocurrency/news/coinbase-launches-fixed-rate-usdc-borrowing-against-bitcoin-crypto-partnerships-base-protocol-btc-12086346",
+            "source": "Gadgets 360",
+            "summary": "Coinbase has introduced fixed-rate, fixed-term USDC loans backed by Bitcoin, offering an alternative to its existing floating-rate borrowing option. The product operates through Morpho Midnight, a decentralised lending protocol built on Coinbase’s Base network. Borrowers can determine their interest costs and repayment dates upfront, while the existing Morpho Blue-based loans continue to use rates that fluctuate…",
+            "published": "2026-09-23T16:51:49+05:30"
+          },
+          {
+            "title": "Vivo X500 Series Confirmed to Launch Globally Late Next Month; Might Debut With Smaller Batteries",
+            "link": "https://www.gadgets360.com/mobiles/news/vivo-x500-series-global-launch-date-announced-sale-date-specifications-features-12086155",
+            "source": "Gadgets 360",
+            "summary": "Vivo X500 series will be launched in select global markets on October 27 at 4 pm CET (8:30 pm IST), according to a dedicated microsite on the Vivo Austria website. The Vivo X500, Vivo X500 Pro, and Vivo X500 Pro Max will be available for pre-order in the region on the same day as their launch. Meanwhile, the phones will go on sale in the EU on November 5. Apart from this, the Vivo X500 Pro Max, Vivo X500 Pro, and…",
+            "published": "2026-09-23T15:41:42+05:30"
+          },
           {
             "title": "TRAI Mandates Shorter Voice, SMS-Only Recharge Plans With Lower Tariffs",
             "link": "https://www.gadgets360.com/telecom/news/trai-mandates-shorter-voice-sms-only-recharge-plans-with-lower-tariffs-12085966",
@@ -518,23 +532,23 @@
             "source": "Gadgets 360",
             "summary": "Apple will reportedly host another event in October, during which the Cupertino company might launch new devices. First, the company could launch the new iPad Mini (2026), which might arrive with either the Apple A20 Pro or Apple A19 Pro chipset. The iPad Mini (2026) is also expected to sport an OLED display, similar to iPhone models, along with a new speaker system without holes and a water-resistant design. Next…",
             "published": "2026-09-23T13:10:08+05:30"
-          },
-          {
-            "title": "Vivo Confirms X500 Ultra Will Be Launched Next Year: Report",
-            "link": "https://www.gadgets360.com/mobiles/news/vivo-x500-ultra-launch-timeline-confirmed-2027-12085293",
-            "source": "Gadgets 360",
-            "summary": "Soon after launching the X500, X500 Pro, and X500 Pro Max in China, the company revealed the timeline for the X500 Ultra’s launch. Vivo told another publication that it will announce the flagship X500 Ultra in China next year. Vivo did not reveal details about the X500 series' global availability.",
-            "published": "2026-09-23T13:08:31+05:30"
-          },
-          {
-            "title": "Apple Screenless Fitness Tracker Could Rival Whoop, Launch May Come in 2028: Report",
-            "link": "https://www.gadgets360.com/wearables/news/apple-developing-screenless-fitness-tracker-expected-whoop-rival-report-12085253",
-            "source": "Gadgets 360",
-            "summary": "Apple is working on prototypes of a screenless wearable focused on health and fitness tracking, according to a recent report. The device could feature a fabric wristband and a sensor-equipped computing module, with no display. The project has reportedly received support from senior Apple executives, including Tim Cook and Eddy Cue. Apple has not decided whether to release the product. The company is also adding more…",
-            "published": "2026-09-23T13:07:50+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+            "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
+            "published": "2026-09-23T11:18:28+00:00"
+          },
+          {
+            "title": "Jorja Smith 'very grateful' as she bags independent music prize",
+            "link": "https://www.bbc.co.uk/news/articles/c8r4v71qg5l4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The singer reflected on her \"crazy\" journey as she collected the prize for best independent track.",
+            "published": "2026-09-23T11:02:42+00:00"
+          },
           {
             "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
             "link": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
@@ -604,20 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The alleged sexual offences date back to 1991 and 2004.",
             "published": "2026-09-22T14:29:31+00:00"
-          },
-          {
-            "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-            "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-            "published": "2026-09-22T14:16:42+00:00"
-          },
-          {
-            "title": "Harper Lee first edition novel found in Oxfam shop",
-            "link": "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "An original US edition of To Kill a Mockingbird is found in an Oxfam store in west London.",
-            "published": "2026-09-22T10:11:36+00:00"
           }
         ]
       }
@@ -627,7 +627,14 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "'रूसी इसे मार गिराने की कोशिश करेंगे': जब अफ़ग़ान पायलट विमान लेकर फ़रार हो गया",
+            "title": "Maxvolt Energy Aligarh Plant: अलीगढ़ में ₹700 करोड़ का बैटरी प्लांट, 12.5 GWh कुल क्षमता, 10 हजार तक रोजगार",
+            "link": "https://hindi.oneindia.com/news/india/maxvolt-energy-aligarh-battery-plant-700-crore-investment-12-5-gwh-capacity-jobs-news-hindi-1654073.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-23T16:54:12+05:30"
+          },
+          {
+            "title": "'रूसी इसे मार गिराने की कोशिश करेंगे': जब अफ़ग़ान पायलट विमान लेकर पहुँचा पाकिस्तान",
             "link": "https://www.bbc.com/hindi/articles/c60reyz8rnzno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-23T08:56:14+00:00"
-          },
-          {
-            "title": "क्या इस रविवार को खुले रहेंगे देशभर के बैंक? क्या है SBI सहित अन्य सरकारी बैंकों की हड़ताल का सच?",
-            "link": "https://hindi.oneindia.com/news/india/banks-to-remain-open-on-sunday-september-27-ahead-of-3-day-nationwide-bank-strike-1653975.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-23T14:15:57+05:30"
           }
         ],
         "Entertainment": [
@@ -804,7 +804,35 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ભાજપે તમામ રાજ્યોમાં નવા પ્રભારીઓની જાહેરાત કરી:ગુજરાતમાં તરુણ ચુગને જવાબદારી, સ્મૃતિ ઈરાની સહિત 5 નેતાઓને બે-બે રાજ્યોની જવાબદારી",
+            "title": "ચૂંટણી કમિશનરોની નિમણૂક, સુપ્રીમ કોર્ટનો ચુકાદો વિભાજિત:એક ન્યાયાધીશ કેસને 5 ન્યાયાધીશોની બેન્ચને મોકલવાના પક્ષમાં, બીજાએ વિરોધ કર્યો",
+            "link": "https://www.divyabhaskar.co.in/national/news/supreme-court-split-verdict-election-commissioner-appointment-2026-139123082.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-23T11:14:49+00:00"
+          },
+          {
+            "title": "'સલવાર ઉતારવી બળાત્કારનો પ્રયાસ નથી':પટના હાઈકોર્ટના ચૂકાદાથી સુપ્રીમ કોર્ટ નારાજ, CJI બોલ્યા- નિવેદન વાંધાજનક; ચુકાદો રદ થઈ શકે છે",
+            "link": "https://www.divyabhaskar.co.in/national/news/supreme-court-patna-high-court-rape-attempt-verdict-controversy-139123024.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-23T11:10:24+00:00"
+          },
+          {
+            "title": "સુચિકા હુડ્ડા: 12 વર્ષની ઉંમરે છેડતી થઈ, ચાર અલગ-અલગ રમતો શીખી, હવે છેક 24 વર્ષે ભારત માટે મેડલ જીત્યો",
+            "link": "https://www.bbc.com/gujarati/articles/cmzxzq7n6w07o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-23T11:09:39+00:00"
+          },
+          {
+            "title": "IIT- બોમ્બે આત્મહત્યા કેસમાં પ્રોફેસર ડુલાને રજા પર મોકલ્યા:તપાસ માટે 10 સભ્યોની સમિતિ બનાવાઈ; સાહિલના પિતાએ કહ્યું- આરોપીઓની ધરપકડ થવી જોઈએ",
+            "link": "https://www.divyabhaskar.co.in/national/news/iit-bombay-student-suicide-case-professor-dulan-probe-committee-139122993.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-23T11:06:40+00:00"
+          },
+          {
+            "title": "ભાજપે તમામ રાજ્યોમાં નવા પ્રભારીઓની જાહેરાત કરી:અનિલ એન્ટનીને બે રાજ્યોમાં બેવડી જવાબદારી: મહારાષ્ટ્રમાં બે પ્રભારી, બે સહ-પ્રભારી",
             "link": "https://www.divyabhaskar.co.in/national/news/bjp-party-state-incharge-list-tarun-chugh-smriti-irani-ram-madhav-139122566.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -858,34 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-23T07:24:50+00:00"
-          },
-          {
-            "title": "વેઇટલિફ્ટર મીરાબાઈ ચનૂએ એશિયન ગેમ્સમાં સિલ્વર મેડલ જીત્યો – ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/cw20vyk57vj1o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "ડોનાલ્ડ ટ્રમ્પે તાજેતરમાં ભારત-મધ્યપૂર્વ-યુરોપ આર્થિક કૉરિડોર અંગે મહત્વપૂર્ણ નિવેદન આપ્યું છે, જેના કારણે વૈશ્વિક રાજકારણ અને અર્થતંત્રમાં આ પ્રોજેક્ટનું મહત્વ ફરી ચર્ચામાં આવ્યું છે. આ કૉરિડોર ભારતને પશ્ચિમી દેશો સાથે જોડવાની એક મહત્વની કડી માનવામાં આવે છે, જે વ્યાપારી સંબંધોને નવી ઊંચાઈઓ પર લઈ જઈ શકે તેમ છે. ટ્રમ્પના આ નિવેદન પાછળ કયા રાજકીય સમીકરણો કામ કરી રહ્યા છે અને તેનો આવનારા સમયમાં આર્થિક કૉરિડોરના અમલીકરણ પર શું પ્રભાવ પડશે, તે સમજવું ખૂબ જ જરૂરી છે. બીબીસી ગુજરાતીના અહેવાલો મુજબ, આ પ્રકારના આંતરરાષ્ટ્રીય પ્રોજેક્ટ્સ ભારતની ભૂમિકાને વૈશ્વિક મંચ પર મજબૂત બનાવે છે. ગુજરાત સહિત સમગ્ર દેશમાં આ અંગે વિવિધ પ્રતિક્રિયાઓ જોવા મળી રહી છે. આર્થિક કૉરિડોર એ માત્ર માર્ગ નિર્માણનો પ્રોજેક્ટ નથી, પરંતુ તે ભવિષ્યના વૈશ્વિક વેપારનું એક મુખ્ય કેન્દ્ર બનવાની ક્ષમતા ધરાવે છે. આ પ્રોજેક્ટથી ભારતને થનારા લાંબા ગાળાના લાભો અને તેની ભૌગોલિક રાજકીય અસર વિશેની દરેક અપડેટ જાણવી જરૂરી છે.",
-            "published": "2026-09-23T07:05:43+00:00"
-          },
-          {
-            "title": "ફ્લાઇટ 901 : આકાશમાં વિસ્ફોટથી તૂટી પડેલા વિમાનની કથા જેનું રહસ્ય હજુ ઉકેલાયું નથી",
-            "link": "https://www.bbc.com/gujarati/articles/c6gmrd9l72dro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "ફ્લાઇટ 901ની દુર્ઘટનાને હવે ૩૦ વર્ષ જેટલો લાંબો સમય વીતી ગયો છે, છતાં આ કરુણ ઘટના આજે પણ એક વણઉકેલ્યું રહસ્ય બનીને રહી ગઈ છે. કોલોન ઍરપૉર્ટ પરથી જ્યારે આ વિમાન રવાના થયું, ત્યારે કોઈને ખ્યાલ નહોતો કે થોડી જ ક્ષણોમાં તે આકાશમાં જ એક ભયાનક વિસ્ફોટનો ભોગ બનશે. આ દુર્ઘટના પાછળના કારણોને લઈને અનેક પ્રકારની અટકળો લગાવવામાં આવી છે, પરંતુ સૌથી મોટો સવાલ એ છે કે શું વિમાનની સીટ નંબર ૬ પર બેઠેલી વ્યક્તિનો આ વિસ્ફોટ સાથે સીધો કોઈ સંબંધ હતો? તપાસ દરમિયાન મળેલી વિગતો અને રહસ્યમય સંજોગોએ આ કેસને વધુ ગૂંચવી નાખ્યો છે. આ દુર્ઘટના માત્ર એક ટેકનિકલ ખામી હતી કે પછી કોઈ આયોજિત કાવતરું, તે પ્રશ્ન આજે પણ તપાસ એજન્સીઓ અને દુનિયા માટે કોયડો છે. પીડિત પરિવારો અને એવિએશન જગત માટે આ ઘટનાની સત્યતા જાણવી આજે પણ એટલી જ મહત્વની છે, કારણ કે આ રહસ્ય હજુ સુધી અકબંધ છે અને તે સુરક્ષાના અનેક પાસાઓ પર સવાલો ઊભા કરે છે.",
-            "published": "2026-09-23T06:57:02+00:00"
-          },
-          {
-            "title": "ભારત-જાપાન ટી20 : અક્ષર પટેલની છેલ્લી ઓવરમાં અપાયેલો એ 'વાઇડ બૉલ' જેના પર વિવાદ થયો, શું કહે છે નિયમ?",
-            "link": "https://www.bbc.com/gujarati/articles/cq3d7yzel41yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "જાપાનના સાનો ખાતે રમાયેલી ભારત અને જાપાન વચ્ચેની ટી૨૦ મૅચ અત્યંત રોમાંચક અને વિવાદાસ્પદ બની રહી હતી. એક સમયે વર્લ્ડ ચૅમ્પિયન ભારતીય ટીમ હારની ખૂબ નજીક પહોંચી ગઈ હતી, પરંતુ અંતે જીત મેળવવામાં સફળ રહી. આ મૅચમાં અક્ષર પટેલની છેલ્લી ઓવર દરમિયાન બનેલી એક ઘટનાએ ક્રિકેટ જગતમાં ચર્ચા જગાવી છે. અક્ષર પટેલે જ્યારે બે વાઇડ બૉલ ફેંક્યા, ત્યારે અમ્પાયરે તેમાંથી એક વાઇડ બૉલના પોતાના જ નિર્ણયને ફેરવી નાખતા ભારે વિવાદ સર્જાયો હતો. આ પ્રકારનો નિર્ણય ખેલાડીઓ અને ચાહકો માટે નવાઈજનક હતો અને હવે સવાલ એ થાય છે કે આઈસીસીના નિયમો મુજબ અમ્પાયર આવી રીતે નિર્ણય બદલી શકે કે કેમ? આ ઘટનાએ રમતની નિષ્પક્ષતા અને અમ્પાયરિંગના નિર્ણયો પર ફરી એકવાર ચર્ચા છેડી દીધી છે. જોકે ભારત આ મૅચ જીતવામાં સફળ રહ્યું હતું, પરંતુ છેલ્લા ઓવરના આ વિવાદાસ્પદ વાઇડ બૉલની અસર લાંબા સમય સુધી લોકોના સ્મરણમાં રહેશે.",
-            "published": "2026-09-23T06:13:40+00:00"
-          },
-          {
-            "title": "'બળદ હવે સચવાતો નથી, તેને વેચવાનો જીવ ચાલતો નથી', ગુજરાતના ખેડૂતો કેમ બળદને આશ્રમમાં મૂકી રહ્યા છે?",
-            "link": "https://www.bbc.com/gujarati/articles/cmeq8d9v9vn5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "રાજકોટ પાસે આવેલા સદ્દભાવના બળદ આશ્રમમાં છેલ્લા કેટલાક દિવસોથી હૃદયદ્રાવક દ્રશ્યો જોવા મળી રહ્યા છે, જ્યાં મોટી સંખ્યામાં ખેડૂતો પોતાના બળદોને આશ્રમમાં સોંપવા આવી રહ્યા છે. આ ઘટના પાછળનું મુખ્ય કારણ એ છે કે ખેડૂતો માટે હવે બળદને સાચવવા આર્થિક રીતે મુશ્કેલ બની ગયા છે, તેમ છતાં તેઓ બળદને વેચવા પણ તૈયાર નથી, કારણ કે ખેતીના વર્ષોના સાથી તરીકે તેમની સાથે ભાવનાત્મક સંબંધ જોડાયેલો છે. આ ખેડૂતો ભીની આંખે પોતાના પ્રિય બળદોને અહીં છોડીને પાછા ફરી રહ્યા છે, જે એક ખૂબ જ સંવેદનશીલ સ્થિતિનું નિર્માણ કરે છે. આશ્રમમાં હવે દરરોજ સંખ્યાબંધ બળદો આવી રહ્યા છે, જે દર્શાવે છે કે આધુનિક ખેતીમાં મશીનોના ઉપયોગ વચ્ચે હવે પશુધન પાછળનું આયોજન ખેડૂતો માટે ચિંતાનો વિષય બન્યું છે. આ મુદ્દો માત્ર એક આશ્રમનો નથી, પરંતુ સમગ્ર ગુજરાતના ખેડૂતોની આર્થિક અને સામાજિક સ્થિતિનું પ્રતિબિંબ છે. પશુઓ અને ખેડૂતો વચ્ચેનો આ સંબંધ તૂટતો જોવો ખૂબ જ દુઃખદાયક છે અને આ સ્થિતિ સામાજિક સ્તરે ગંભીર ચર્ચા માંગી લે છે.",
-            "published": "2026-09-23T04:29:05+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "'வீட்டு நீச்சல் குளத்தில் அடிக்கடி வந்து குளிக்கும் கரடிகள்' - இந்த குடும்பம் என்ன செய்கிறது?",
+            "link": "https://www.bbc.com/tamil/articles/c6kgwp57j8vlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-23T11:22:06+00:00"
+          },
           {
             "title": "டிப்ஸ் கேட்கும் ரோபோ: நிறுவனம் அல்லது ஊழியர்கள் யாருக்கு அந்த பணம் செல்கிறது?",
             "link": "https://www.bbc.com/tamil/articles/cm3eqy4wd009o?at_medium=RSS&at_campaign=rss",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "மருந்து உட்கொள்வதில் நாம் காட்டும் சிறிய கவனக்குறைவு எவ்வளவு பெரிய பாதிப்பை ஏற்படுத்தும் என்பதற்கு இந்த கல்லூரி மாணவரின் நிகழ்வு ஒரு சோகமான உதாரணம். பொதுவாக காய்ச்சல் அல்லது சளி பாதிப்புகளுக்கு நாம் பாராசிட்டமால் மாத்திரைகளை உட்கொள்வது வழக்கம். ஆனால், இந்த மாணவர் ஒரே நேரத்தில் இரண்டு வெவ்வேறு வகையான சளி மருந்துகளை உட்கொண்டதன் விளைவாக, பாராசிட்டமாலின் அளவு உடலில் அபாயகரமான அளவுக்கு அதிகரித்துள்ளது. இந்த மருந்தின் அதீத வீரியத்தால் அவரது உடல் மற்றும் நரம்பு மண்டலம் கடுமையாகப் பாதிக்கப்பட்டது. இதன் விளைவாக, அந்த மாணவர் தனது நடக்கும் திறனையும், பேசும் சக்தியையும் இழந்து, மீண்டும் ஒரு குழந்தையைப் போல அனைத்தையும் புதிதாகக் கற்றுக்கொள்ள வேண்டிய கட்டாயத்திற்குத் தள்ளப்பட்டார். மருத்துவ நிபுணர்கள் எச்சரிப்பது போல, எந்தவொரு மருந்தையும் மருத்துவரின் ஆலோசனையின்றி உட்கொள்வது உயிருக்கே ஆபத்தாக முடியலாம். இத்தகைய மருந்துகளில் உள்ள உட்பொருட்கள் ஒத்துப் போகாதபோது, அது கல்லீரல் மற்றும் மூளை பாதிப்புகளுக்கு வழிவகுக்கும் என்பது மருத்துவ ரீதியாக நிரூபிக்கப்பட்டுள்ளது. இந்த சம்பவம் மருந்துகளை உட்கொள்வதற்கு முன்பு அதன் உள்ளடக்கங்களைச் சரிபார்ப்பதன் அவசியத்தையும், மருத்துவர்களின் பரிந்துரைப்படி மட்டுமே மருந்துகளை எடுத்துக் கொள்வதன் முக்கியத்துவத்தையும் நமக்குத் தெளிவாக உணர்த்துகிறது. ஒரு மாணவரின் எதிர்காலமே பாதிக்கப்பட்ட இந்த சம்பவம், மருந்து பயன்பாட்டில் மக்கள் விழிப்புணர்வுடன் இருக்க வேண்டியதன் அவசியத்தை அடிக்கோடிட்டுக் காட்டுகிறது.",
             "published": "2026-09-23T06:10:04+00:00"
-          },
-          {
-            "title": "'மரணத்தை சந்தித்தாலும் தப்பிப்போம்' - கறுப்பு ஜூலைக்கு பிறகு இலங்கை சிறையில் இருந்து தமிழ் கைதிகள் தப்பியது எப்படி?",
-            "link": "https://www.bbc.com/tamil/articles/cr6241xd38zjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "1983-ஆம் ஆண்டு செப்டம்பர் மாதம் இலங்கையின் மட்டக்களப்பு சிறைச்சாலையில் நடந்த சம்பவம், அந்த நாட்டின் வரலாற்றில் மிக முக்கியமான மற்றும் பரபரப்பான நிகழ்வுகளில் ஒன்றாகும். கறுப்பு ஜூலை கலவரங்கள் ஏற்படுத்திய அதிர்ச்சிகளிலிருந்து மக்கள் மீளாத நிலையில், சிறைச்சாலையில் அடைக்கப்பட்டிருந்த சுமார் 200-க்கும் மேற்பட்ட தமிழ் கைதிகள் அங்கிருந்து தப்பிச் சென்றனர். இது வெறும் சிறை உடைப்பு மட்டுமல்ல, அன்றைய அரசியல் சூழலில் ஒடுக்கப்பட்டவர்களின் போராட்ட உணர்வாகவும் பார்க்கப்பட்டது. இச்சம்பவத்தின் பின்னணியில், சிறைச்சாலையில் இருந்த கைதிகளின் பாதுகாப்பின்மை மற்றும் இன ரீதியான அழுத்தங்கள் இருந்ததாகக் கூறப்படுகிறது. கறுப்பு ஜூலை வன்முறைகளின் தொடர்ச்சியாக, தமிழ் கைதிகள் எதிர்கொண்ட நெருக்கடிகளும், பாகுபாடுகளும் இந்த துணிச்சலான முடிவுக்கு அவர்களைத் தள்ளியது. சிறைச்சாலை அதிகாரிகள் மற்றும் காவல்துறைக்குச் சவால் விடும் வகையில் அமைந்த இந்த நிகழ்வு, அன்றைய இலங்கை அரசாங்கத்திற்குப் பெரும் பின்னடைவை ஏற்படுத்தியது. இந்த சம்பவத்தைப் பற்றி பேசும்போது, பல கைதிகள் எப்படி திட்டமிட்டு, சிறை சுவர்களைத் தாண்டி வெளியேறினார்கள் என்பது இன்றும் ஒரு புதிராகவே உள்ளது. இலங்கைத் தமிழர்களின் வரலாற்றில் இந்தக் கரும்புள்ளி போன்ற காலகட்டத்தில், தங்களின் உயிர் மற்றும் வாழ்வாதாரத்திற்காக அவர்கள் மேற்கொண்ட இந்த பயணம், ஒட்டுமொத்த அரசியல் மாற்றங்களையும், அடக்குமுறைகளையும் எதிர்த்துப் போராடியவர்களின் மன உறுதியை நமக்கு எடுத்துரைக்கிறது.",
-            "published": "2026-09-23T04:36:17+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,41 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఆదిలాబాద్ రిమ్స్ అగ్నిప్రమాదం: ‘‘పొగ, మంటల మధ్య నా చేతికందిన 12 మంది శిశువులను రక్షించా, కానీ నా బిడ్డను కోల్పోయా’’- గ్రౌండ్ రిపోర్ట్",
+            "link": "https://www.bbc.com/telugu/articles/c6x2zd1j9kz9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-23T11:30:19+00:00"
+          },
+          {
+            "title": "బెంగాల్లో రీ పోలింగ్ - సీఈసీ జ్ఞానేష్ అరెస్ట్..! దీదీ డిమాండ్..!",
+            "link": "https://telugu.oneindia.com/news/india/mamata-banerjee-demands-west-bengal-repolls-seeks-arrest-and-criminal-action-against-cec-gyanesh-ku-507577.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-23T16:53:48+05:30"
+          },
+          {
+            "title": "TTD: కొత్త సదుపాయాలు ప్రారంభం, అలిపిరి కేంద్రంగా ఇక - ఛైర్మన్ బీఆర్ నాయుడు..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-chairman-br-naidu-credits-teamwork-for-successful-srivari-salakatla-brahmotsavams-details-here-507575.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-23T16:36:20+05:30"
+          },
+          {
+            "title": "Sridhar Vembu on AI: ఏఐకి బ్రేకులు అసాధ్యం.. శ్రీధర్‌ వెంబు కీలక వ్యాఖ్యలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa29UZGJ0VmVuSjVPeWVOdG8yTkxtTWZQVlZSX3lFVzIyNG83ajdCYmxKM0ZWZkx5ZXdGRHoyN2hFREJ6UmJYNWI4SU5TMGZFd05qbjFYc2RRUXo5bVhSeUJnUk11eDQ3ejZNSXRxSmhhemk1N2NHRUJNaC1NUENWVllBT3duRVAtZ1JJNWQ5MnV1OG9UM1NWQjBJQUlXaUFzaUdCVktJOVpUTm5fNHhRUnNBblBUWnNKenNabTh6NEgzbC00bDF6S01nYUY0S1c3b1c2V9IB1AFBVV95cUxQa29UZGJ0VmVuSjVPeWVOdG8yTkxtTWZQVlZSX3lFVzIyNG83ajdCYmxKM0ZWZkx5ZXdGRHoyN2hFREJ6UmJYNWI4SU5TMGZFd05qbjFYc2RRUXo5bVhSeUJnUk11eDQ3ejZNSXRxSmhhemk1N2NHRUJNaC1NUENWVllBT3duRVAtZ1JJNWQ5MnV1OG9UM1NWQjBJQUlXaUFzaUdCVktJOVpUTm5fNHhRUnNBblBUWnNKenNabTh6NEgzbC00bDF6S01nYUY0S1c3b1c2Vw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T11:02:46+00:00"
+          },
+          {
+            "title": "Movie Tickets: ఏకంగా 570 శాతం పన్ను? ఈ సినిమాలకు మాత్రం జీరో ట్యాక్స్",
+            "link": "https://telugu.oneindia.com/news/business/bmc-entertainment-tax-hike-proposal-ac-multiplex-tickets-to-face-heavy-tax-burden-in-mumbai-507573.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-23T16:32:42+05:30"
+          },
+          {
             "title": "కేంద్రం గుడ్ న్యూస్ - అమరావతి కేంద్రంగా ఇమ్మిగ్రేషన్ కార్యాలయం..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/capital-amaravati-to-get-frro-office-as-centre-issues-gazette-notification-here-the-details-507571.html",
             "source": "Oneindia Telugu",
@@ -1086,18 +1121,18 @@
             "published": "2026-09-23T16:22:23+05:30"
           },
           {
-            "title": "BJP: APకి అరవింద్.. TGకి సునీల్‌ భన్సల్‌.. రాష్ట్రాలకు భాజపా ఇన్‌ఛార్జిల నియామకం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdlpLRnpqRXRocENUbElNXy1oNkh2UW82MmdvVWR0a1hhUXRJVVpzbnNKT3hlMXFZZnVta1o0YnE5S2tXLUtCUWZfZ0FaUkJNUFVNS1VRcDBkazI1MjhaczNBU1Y4SVpLTDFza2ZJQndtYmdhcFJ3R3Q1ZVFzNmtpSUFpX3dFSWNZWWNwZDNocGdGMTFFQlMzbXlNNUcyLW5BemM0cTAtbngtbTVud05NQjVWNTlRX1lxWUFKcVptQUt4UF9sYWRZQjlvMjd3M3dTUnRYZk5n0gHWAUFVX3lxTE92WktGempFdGhwQ1RsSU1fLWg2SHZRbzYyZ29VZHRrWGFRdElVWnNuc0pPeGUxcVlmdW1rWjRicTlLa1ctS0JRZl9nQVpSQk1QVU1LVVFwMGRrMjUyOFpzM0FTVjhJWktMMXNrZklCd21iZ2FwUndHdDVlUXM2a2lJQWlfd0VJY1lZY3BkM2hwZ0YxMUVCUzNteU01RzItbkF6YzRxMC1ueC1tNW53Tk1CNVY1OVFfWXFZQUpxWm1BS3hQX2xhZFlCOW8yN3czd1NSdFhmTmc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T10:51:51+00:00"
-          },
-          {
             "title": "గణేష్ నిమజ్జనం వేళ భక్తులకు గుడ్ న్యూస్.. రాత్రంతా నడవనున్న ఎంఎం​టీఎస్ రైళ్లు",
             "link": "https://telugu.oneindia.com/news/telangana/mmts-trains-good-news-for-ganesh-devotees-during-the-ganesh-immersion-mmts-trains-to-run-all-night-507567.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-23T16:20:35+05:30"
+          },
+          {
+            "title": "stock market: 100 డాలర్ల దిగువకు క్రూడ్‌.. లాభాల్లో ముగిసిన సూచీలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmdvc25lU0tfOUhqb1U4WHpiWllZbnk3S285c0o2VFRIdDNLX2JjMVd4TDQyV0RBcTF5dmJKYXRGRnJMdjAwclhmamhCYkdqa2hTZEFrd2ZFZjJ1eDEyQWppMFc2cWxtRWpQY3F6NEZuUlEzUE5wdWZwZXo5RHNGS1dFaVFWY01yQ3k0V0lwclpCRkg50gGUAUFVX3lxTE52Z29zbmVTS185SGpvVThYemJaWVlueTdLbzlzSjZUVEh0M0tfYmMxV3hMNDJXREFxMXl2YkphdEZGckx2MDByWGZqaEJiR2praFNkQWt3ZkVmMnV4MTJBamkwVzZxbG1FalBjcXo0Rm5SUTNQTnB1ZnBlejlEc0ZLV0VpUVZjTXJDeTRXSXByWkJGSDk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T10:32:03+00:00"
           },
           {
             "title": "వారసుడిని ప్రకటించిన మాయావతి",
@@ -1119,41 +1154,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-09-23T10:16:03+00:00"
-          },
-          {
-            "title": "ఏపీలో 4 కొత్త పోలీసు కమిషనరేట్లు- అమరావతి రైతుల కౌలు సవరణ-కేబినెట్ కీలక నిర్ణయాలు..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-cabinet-takes-key-decisions-four-new-police-commissionerates-amaravati-infrastructure-boost-507547.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-23T15:36:07+05:30"
-          },
-          {
-            "title": "Kavach 4.0: మల్కాజిగిరి-కామారెడ్డి మార్గంలో 108 కిలోమీటర్ల మేర కొత్త టెక్నాలజీ",
-            "link": "https://telugu.oneindia.com/news/telangana/kavach-4-0-commissioned-on-south-central-railway-enhanced-safety-across-malkajgiri-kamareddi-route-507555.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-23T15:19:14+05:30"
-          },
-          {
-            "title": "అంతా రివర్స్ అయింది, ఇక నుంచి - జగన్ కీలక వ్యాఖ్యలు..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ysrcp-chief-ys-jagan-key-directions-for-visakha-party-leaders-over-municipal-elections-here-the-det-507553.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-23T15:16:08+05:30"
-          },
-          {
-            "title": "ఎల్ నినో.. ఇంకా స్ట్రాంగ్ అయింది: ఈ ఆరు నెలల్లో మృత్యు తాండవం",
-            "link": "https://telugu.oneindia.com/news/india/climate-impact-lab-predicts-extreme-heat-from-el-nino-may-cause-451000-additional-deaths-next-6-mont-507551.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-23T15:11:59+05:30"
-          },
-          {
-            "title": "వైఎస్ షర్మిల కుమార్తె పెళ్లివేళ.. జగన్ , షర్మిలపై వైఎస్సార్ కోరిక ఇదేనన్న తెలంగాణా నేత!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-rajasekhara-reddy-wish-telangana-leader-v-prakash-reveals-ysr-special-wish-for-ys-jagan-daughter-507549.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-23T15:05:54+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "SIT: ವಿಮಾ ವಂಚನೆ ಪ್ರಕರಣಗಳಿಗೆ ಬ್ರೇಕ್: ಕರ್ನಾಟಕದಲ್ಲಿ ವಿಶೇಷ ತನಿಖಾ ತಂಡ ರಚನೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/sit-government-has-constituted-a-state-level-special-investigation-team-to-probe-insurance-fraud-ca-468891.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-23T16:42:15+05:30"
+          },
+          {
             "title": "ಮಂಗಳೂರು ರೈಲ್ವೆ ವಿಚಾರದಲ್ಲಿ ಕೇರಳಕ್ಕೆ ಹಿನ್ನಡೆ! ರಾಜ್ಯಕ್ಕೆ 10% ಅಧಿಕ ಅನುದಾನ ಹಂಚಿಕೆ: ಅಶ್ವಿನಿ ವೈಷ್ಣವ್",
             "link": "https://kannada.oneindia.com/news/india/kerala-railway-funding-raised-10-times-mangalore-railway-to-join-south-western-railway-zone-says-g-468889.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಚಿನ್ನದ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಭಾರಿ ಏರಿಳಿತಗಳು ಕಂಡುಬರುತ್ತಿದ್ದು, ಮುಂದಿನ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಚಿನ್ನದ ಬೆಲೆಯು ಹೊಸ ಗರಿಷ್ಠ ಮಟ್ಟವನ್ನು ತಲುಪುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ಮಾರುಕಟ್ಟೆ ತಜ್ಞರು ಅಂದಾಜಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಪ್ರವೃತ್ತಿಗಳನ್ನು ಗಮನಿಸಿದರೆ, ಚಿನ್ನದ ಬೆಲೆಯು ಪ್ರತಿ 100 ಗ್ರಾಂಗೆ 3.08 ಲಕ್ಷ ರೂಪಾಯಿಗಳ ಗಡಿಯನ್ನು ದಾಟುವ ಮುನ್ಸೂಚನೆ ಸಿಗುತ್ತಿದೆ, ಇದು ಹೂಡಿಕೆದಾರರು ಮತ್ತು ಗ್ರಾಹಕರಲ್ಲಿ ಭಾರಿ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ. ಸೆಪ್ಟೆಂಬರ್ 23 ರಂದು ದೇಶಾದ್ಯಂತ ಚಿನ್ನ ಮತ್ತು ಬೆಳ್ಳಿಯ ದರಗಳು ಏರುಗತಿಯಲ್ಲಿದ್ದು, ಹಬ್ಬದ ಸೀಸನ್ ಹತ್ತಿರವಾಗುತ್ತಿರುವ ಹೊತ್ತಲ್ಲೇ ಈ ಬೆಲೆ ಏರಿಕೆ ಸಾಮಾನ್ಯ ಗ್ರಾಹಕರ ಜೇಬಿಗೆ ಕತ್ತರಿ ಹಾಕಲಿದೆ. ಚಿನ್ನವನ್ನು ಕೇವಲ ಆಭರಣವಷ್ಟೇ ಅಲ್ಲದೆ, ಸುರಕ್ಷಿತ ಹೂಡಿಕೆಯಾಗಿ ಪರಿಗಣಿಸುವವರಿಗೆ ಈ ಬೆಳವಣಿಗೆಯೂ ಗಮನಾರ್ಹವಾಗಿದೆ. ಬೆಲೆ ಏರಿಕೆಯು ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಯ ಒತ್ತಡಗಳು ಮತ್ತು ಬೇಡಿಕೆಯ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದ್ದು, ಬೆಳ್ಳಿಯ ದರದಲ್ಲೂ ಏರಿಕೆ ಕಂಡುಬಂದಿದೆ. ನೀವು ಚಿನ್ನ ಖರೀದಿಸಲು ಯೋಚಿಸುತ್ತಿದ್ದರೆ, ಮಾರುಕಟ್ಟೆಯ ದೈನಂದಿನ ಬದಲಾವಣೆಗಳ ಮೇಲೆ ನಿಗಾ ಇಡುವುದು ಸೂಕ್ತವಾಗಿದೆ. ಅನಿಶ್ಚಿತ ಆರ್ಥಿಕ ಸನ್ನಿವೇಶದಲ್ಲಿ ಅಮೂಲ್ಯ ಲೋಹಗಳ ಬೆಲೆಗಳು ದಿನೇ ದಿನೇ ಏರುತ್ತಿರುವುದು, ಸಾಮಾನ್ಯ ಜನರಿಗೆ ತಮ್ಮ ಉಳಿತಾಯವನ್ನು ಚಿನ್ನದಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡುವುದು ದುಬಾರಿಯಾಗಲಿದೆ ಎಂಬ ಆತಂಕವನ್ನು ಸೃಷ್ಟಿಸಿದೆ.",
             "published": "2026-09-23T12:02:43+05:30"
-          },
-          {
-            "title": "Coconut Business: ತೆಂಗಿನಕಾಯಿ ವ್ಯವಹಾರದಿಂದ ಇವರ ಮಾಸಿಕ ಗಳಿಕೆ 20 ಲಕ್ಷ ರೂ.! ಇದೇಗೆ ಸಾಧ್ಯ?",
-            "link": "https://kannada.oneindia.com/news/india/greenaura-coconut-business-women-earns-20-lakh-per-month-by-producing-coconut-oil-chutney-milk-powd-468853.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಕೃಷಿ ಆಧಾರಿತ ಉದ್ಯಮದಲ್ಲಿ ಯಶಸ್ಸು ಸಾಧಿಸುವುದು ಹೇಗೆ ಎಂಬುದಕ್ಕೆ 'ಗ್ರೀನ್ ಆರಾ' (Greenaura) ಉದ್ಯಮಶೀಲತೆಯ ಕಥೆಯು ಒಂದು ಮಾದರಿಯಾಗಿದೆ. ತೆಂಗಿನಕಾಯಿಯನ್ನು ಕೇವಲ ಸಾಂಪ್ರದಾಯಿಕ ಕೃಷಿ ಉತ್ಪನ್ನವಾಗಿ ನೋಡದೆ, ಅದನ್ನು ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನಗಳಾಗಿ ಪರಿವರ್ತಿಸುವ ಮೂಲಕ ಈ ಉದ್ಯಮವು ತಿಂಗಳಿಗೆ ಬರೋಬ್ಬರಿ 20 ಲಕ್ಷ ರೂಪಾಯಿ ಆದಾಯವನ್ನು ಗಳಿಸುತ್ತಿದೆ. ತೆಂಗಿನೆಣ್ಣೆ, ತೆಂಗಿನಕಾಯಿ ಚಟ್ನಿ ಪೌಡರ್ ಮತ್ತು ತೆಂಗಿನ ಹಾಲಿನ ಪುಡಿಯಂತಹ ವೈವಿಧ್ಯಮಯ ಉತ್ಪನ್ನಗಳನ್ನು ತಯಾರಿಸಿ ಮಾರುಕಟ್ಟೆಗೆ ಬಿಡುಗಡೆ ಮಾಡುವ ಮೂಲಕ ಇವರು ಅಸಾಧಾರಣ ಯಶಸ್ಸನ್ನು ಸಾಧಿಸಿದ್ದಾರೆ. ಕೃಷಿ ಮತ್ತು ಸಂಸ್ಕರಣೆಯನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ಸಂಯೋಜಿಸಿದರೆ ಲಾಭದಾಯಕ ಉದ್ಯಮವನ್ನು ಹೇಗೆ ರೂಪಿಸಬಹುದು ಎಂಬುದನ್ನು ಇವರ ಯಶೋಗಾಥೆಯು ತೋರಿಸಿಕೊಡುತ್ತದೆ. ಗ್ರಾಹಕರಿಗೆ ಆರೋಗ್ಯಕರ ಮತ್ತು ನೈಸರ್ಗಿಕ ಉತ್ಪನ್ನಗಳನ್ನು ತಲುಪಿಸುವ ಇವರ ಪ್ರಯತ್ನ, ಗ್ರಾಮೀಣ ಪ್ರದೇಶದ ಕೃಷಿಕರು ಸ್ವಾವಲಂಬಿಗಳಾಗಲು ಸ್ಪೂರ್ತಿಯಾಗಿದೆ. ಮಾರುಕಟ್ಟೆಯ ಬೇಡಿಕೆಯನ್ನು ಅರಿತು ಗುಣಮಟ್ಟದ ಉತ್ಪನ್ನಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಮೂಲಕ ಹೇಗೆ ಉದ್ಯೋಗಾವಕಾಶ ಸೃಷ್ಟಿಸಬಹುದು ಮತ್ತು ಆರ್ಥಿಕವಾಗಿ ಸದೃಢವಾಗಬಹುದು ಎಂಬುದಕ್ಕೆ ಇದು ಉತ್ತಮ ನಿದರ್ಶನ. ಈ ಯಶಸ್ಸಿನ ಹಿಂದಿನ ತಂತ್ರಗಾರಿಕೆ ಮತ್ತು ಮೌಲ್ಯವರ್ಧನೆಯ ಮಹತ್ವದ ಕುರಿತಾದ ಹೆಚ್ಚಿನ ವಿವರಗಳು ಈಗ ಅನೇಕ ಉದ್ಯಮಿಗಳಿಗೆ ದಾರಿದೀಪವಾಗಿವೆ.",
-            "published": "2026-09-23T11:57:43+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "বৃহস্পতিবার জাতীয় শিবিরে যোগ দেবেন রোহিত, কোহলি, ওয়েস্ট ইন্ডিজ় সিরিজ়ের প্রস্তুতি শুরু করে দিচ্ছে ভারত - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWtSWEgzM213YVoyOHVGYzRTTDFtbzRvNDMxc3drbFVBUlEya1Q3cFo4LUJjQkZ1MHJfNzA3aUhiRWRJcFZhQ1ltRktnaWI3WHJKSHFxbjRPaW5qSmtJaGtaWWtTVkNacEpFVDAydjhaZGtlVXV4cVRZa0FKUDhaOUdjRGxqZU5hV19qNF9BeXdwd05QcmhOMFhkYy1UV0lwR05tN1l1dzF5cGozWVhHZWtkczVhWnJ2NzFuVlVNTdIBxAFBVV95cUxQN3J1RW1yNklTRVZzcFI4dG5sMlVBd1RFTno0TlFRVjEyd3ZLRUJWeW5VT2d0d0tydWw4a1ZwbTJOTElyTk5RUHdkaFVnSU9xNkI5amRMYnNjNGNIQ2tzWUcwQUVwbXB1SG5qUmd0UkFxejNRVWNJQW15aW9Xa2NFbEsyMncyaTFBdzVDT2dmb01WOFNPZUxvam5sNzJxdDE2dTQxaGo2X2xtRVpTdHFSakhXai15ZGNmamJwUVFTd0pZUVIz?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T10:33:02+00:00"
+          },
+          {
             "title": "‘যাঁরা বিদায় নিচ্ছেন, তাঁদের জন্য কঠিন দিন’! জানিয়ে কর্মীছাঁটাই করল মাইক্রোসফ্‌টের গেমিং বিভাগ এক্সবক্স - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFIVWdacFV0OW1yUWp4cEJoSnlMRm9kRmFXR2pQR09HOEVkYnJMM2h0UjByOWZpeDZId3p6eWxDUk9va0ZsYW1XY0ZIeDI4azdkM3RqcWQ1OWs3anNwT1B4enlOemplYUtmVEpNeElhaU5yZzF1LURRWllHV2NRa1k4U1gzMXktcm16ak1SRWVBX3ZwV0NBVWNIQ1U0NlJpV3pmZXMyUUM1UdIBrwFBVV95cUxQdlFVcFB6SEVLQmcwQ0xsb1ZzaE9OSzd1bHpaV3NJWU1ORDcyWGV4VldHSS1BQXJvcUdaRW5aX3djdm01U3BiV1RvVUc3OUJZVHBjQ19uQlR2Tm1rUGpfblNNY001VVFSRmVYN2RUb1hHVWV4TEtpYWFNbmdDR0RiTFZVeXhpNVl5NEV0bndyazlBMFVqdDR4MWJmZENVT2FfdHRLZ2VZUGlFNVp1N0Q0?oc=5",
             "source": "Anandabazar Patrika",
@@ -1440,11 +1447,53 @@
             "published": "2026-09-23T10:04:40+00:00"
           },
           {
+            "title": "সুদীপ-কাকলিদের সাংসদপদ খারিজ নিয়ে দ্রুত সিদ্ধান্ত নিন স্পিকার, চায় সুপ্রিম কোর্ট! আরও এক মাস সময় চেয়েছে এনসিপিআই - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1EwczN0V0pMVzhyTEI0ZFdrblpmWHpBQTMzZFg5aXZrYUtZOWZRbHd3MHdfTVRMaFBFN094RFBKUzd3MnZ3T043cXlpQzZHRWxZckxZUWk3VWRlUUNvcnBMNWJOMFRFa3pzTHhTQVFPZDZRVERud291R0ZjeW96RWxYeDJHcjktRENGY0xMeV8tUld6Z09Lb252b2xrSzVfMUpINU9uMUxVNmdRajQzb1lDUF9XeWdWTElVaGlmTkvSAcYBQVVfeXFMT1dXZUNHRmwycTFFVmlrWnBhQkp2QmZOdjRyVmZTOW14ZUpfaXFHZWVTdnpsUEJYa2lzLW1uRFoyeHJ1VURsRmhHcXhPQllfenZQVjlMaXp5dHpIZU1YY3JZVldpc3VTSHl3VUxwbGU1TWt2V0MyM2VWNjktenBVSUg4R0RjdlQ0OVR2TDgyZEdBcGNGMkxvYzhHbGxWLU8zMS1HNVp1U0ZwWDRabkJpaHN6V2ZYLXdoSTV1UmlxTTlpU25IS293?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T09:30:54+00:00"
+          },
+          {
             "title": "সেনাকর্মীকে পিটিয়ে খুন করা হল মিজ়োরামে! ছুটিতে বাড়ি ফিরছিলেন, ভুল লেনে ট্রাক চালানোর প্রতিবাদ করায় হামলা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXZiR0NialEybXY2YzVoZEdXaW5uTjRfN2ROcFNaUWVGbERYQ0dUVEgzeWNhMDkwU0c0YUpyQlNOUTlQZU5ZaGFNWFJ4UlBJN0hmZnZad3ZhWTFfUk5KNFVoTHNETlNWdUpOTHJ5U2JTYzNEWjhTbi1XWlFHTTM0emd1RnotdTdMaDZ6Y29fb0NZM2NBYnVF0gGcAUFVX3lxTE9jcHdCRnpsTVJYbHBJbFM3Zzk2bkVhSHJlQlh2WTdwVnQ5SUJGVS1JYXlYcEkzemxISUJKMFI3QldtdlVMWlZvVDB5STUxVEJEMlRkLTRYUHdSOU56dlhnY1VtZEJYdkJyWEhmRkViUnpidElTcmgtUzJHQTU2ZTdmZXduRU1OOHJhNTBNMHZqX3NqT0RWZldTZE9faQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-23T09:27:30+00:00"
+          },
+          {
+            "title": "আইএসএফের খাম প্রতীক হাতছাড়া হওয়ার মামলায় নির্বাচন কমিশনের রিপোর্ট চাইল হাই কোর্ট, বৃহস্পতিবার ফের শুনানি - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2hSdU94cVRwUUM2bjFkSDAtUDdqd0lxRFFGbVdDYWxBeWM5NVo3M2ZtNkhJMjlfZHNORFN3OTdKR2VNTVdrLXpibWw0RTdHNlAwV0lRd1pfbzhWNktJRTVveEtoTE8zYWR3UVBTTFpXc0xjM3VGYTAtZ1lfR0JGV3lfWkh6RG1CbXpPZFUxdXM4SDFZd0JqTjZkMlNsQjF2b3hLcmd2X1dlM204ck9CcTdsSWc2aXF4NkpWa2Y1NmYzeTNoSUdYQkRPTE9iYmVRR2FQUjFCTVFzNXlhc2Y1aHh30gHnAUFVX3lxTE9EZDRsNzFDLURZVXZOZlhITHRmYWt0ejE5b1ZrUmVYX1ZZalBnRzVIZ0tySmdmazkyTmdST1daREw5MUJzS0xiRzYxbGRJTFRuSUtkMzlObExFRjNZZ3dNdHNtZ2JteWRKaVlkblNJTUZFRlhNcm84RWdNdUM1VHBwM2tJUlcxZUJsTXVFSGpOWTNqeFl4ZGR4Slp1LWZJVm5YQmNYS251SGY5WXRwcDNaZ2ZNV2g3OEk5aG1HY29ydmo0NnBEZnpPVzBXdmdpNXI0bURKa2xjYzA4X1pPUmJyNzNLaW1iQQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T08:56:11+00:00"
+          },
+          {
+            "title": "জ্ঞানেশের পদত্যাগ থেকে শুরু করে বিধানসভা ভোট বাতিলের দাবি বিরোধীদের! ‘অন্তর্বিরোধ’ অস্বীকার করছে নির্বাচন কমিশন - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbXh3N005TkRlUS1rSVNSdW9XT3U5d1RvYTBaaEVXNjJxTm05bXpxUUdVWFRGVTRqNkJqWUUxQ2M1ZGVVV2dIVDJwVjM2cmxIeDRlSkIwWlhZVExscDQtb1lQb1FZbGFiSDE0eEcwNE1rVXQxWVJhQkdNbW1xQUJJU2pLVmFJUUs0cXZNa2tQQTh3cTBUTzJGSUx3c0N1TXZ2LXFjckZrNlZxV2FWVEk3ZkJBZFB3SUFobS1lcHdaejdscE1YZmlvZnRzNlo4U1J1N3pfVC16dVFBNS1hUmczSXRB0gHnAUFVX3lxTE1xaElVOFcyaFg2NFpDQllONWtGbGVaZzZtajY0QXNiUmF3WmlMZnU2dVY0eGZZZ1ZhS21qVzdtTDdONmRwN3JtMzU0d2dMVGdXdkp2TXh2VG5qd2ctanlvcV9GaXhKcy1DYW9rNDBtcldvRUJnbXNlcEZ5cU45UFFXTjcycDluRGZNYTRNMzNfMVQ5NUszX2ZZU3dSWXhqZWVrS0NpcXpiX2ZTQWw5X1Q2dnJjYkpWVnV0bG93WmstZlFVbDU4YUk3d09sSTRIbFhGSVdoRENrMjJmMExNNm4tU0kxOEF4WQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T08:51:30+00:00"
+          },
+          {
+            "title": "আগামী রবিবার ছুটির দিনেও খোলা থাকছে ব্যাঙ্ক! তিন দিনের ধর্মঘটের আগে গ্রাহকদের সুরাহায় পদক্ষেপ কেন্দ্রের - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaFFoX2dCejV0UnVTcFFJNGNMWkoyNGRsWVFjN3E1ZWd3Vlpha3BhZGdoYkd1SUdyT2RjaV9qS3ZzQjd2U0hxR0tFclFhSllmWVhLdjY2TFdoVWs5djZxYUhjNkFJY2liMG8wNEQ0and4TnMwd1VWMjZyV3VDTGJURFlHajlVMjdmMGZPSGQ2UEw0TWVIZVcwMUJSLWNDMnBmUmNCeDVVUGVOOWc0MW9VcG5TWm1wWDBoLWxGb0kwU2Jic2J3RWtQeEVmck_SAdIBQVVfeXFMUEN2TzUzNThQeEhqZkdUSDg1OXd2TDlYM3BoTTBMSE5wY3h2OWhqaVJsUzBGaGFkb3luMTdmTW51bHN0QnZtYWdzM01iMVJSaUxfSjlVbU4wMDNvQ1lSRjNPczVKUkpHUTJzc2RkNTBzWV9NT09vbkpzN2ZZZ0FEbXFkZ3hkTWlIVGRUQ3hxRnpTQmREWC12bDFqb2dvSWF3c2p1Skg5eHhCbHBwaWpPT2otWG9aQmxpNWZuMWN1NDRRVHRfS3FBdU13b1BFZlhfZDh3?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T08:15:03+00:00"
+          },
+          {
+            "title": "নরেন্দ্রপুর ডিজিটাল গ্রেফতার মামলার তদন্ত করবে সিবিআই, জানাল হাই কোর্ট, সুপ্রিম কোর্টের রায়ের ভিত্তিতেই সিদ্ধান্ত? - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQjBQVkJFYzZ5NjlwQXdfanRrY2JXb2RwRmtVVWdtX19VR0kwLUM1b1pxNTNyMHJJSmhHWjNBS3Y2b05jSll1X1lwaFUzWWkwUzUyc1JfNjBzUHYwMlRWcURoZnB5NUhleFlwclFnMkJSNm40bU82SjZFODJtV3ppSmduZzhzcXNyYXF1SjBOQVp1TG5lU2RobXlWb1JyUUNkZ3daZklJVFVuQ2stWXAxcUh4THdzSmJXLVJJSWtmczFWM1lxSjJZbjRSRWoycHhPUHpMUkZCZ01CTEnSAeABQVVfeXFMUHk3TjNkTWUxWV9pQnRDWjZXX2RtUW4wNDdjLXRNX2kyZXJVZmlQZ2hCNkd5c0Vrbm91YnFRMF9DSjFWVlZoTTZTbGhnSzhiMUxRMjBNRWc2TzdIZjNBUGdyR0RYaHpDMmVSTVdpcmlwZkt6SjRaZVJNekNRRjdXeEQ5alJrSEJvcDRuNllrcmlJZzZ4Z0ZIYlB5S3dFWk11Z1ZIN3drZ0dIZG5xNlRvSThrbzlCdWpjVm4zOUhReWJydkROZ3JranJFbl8tT2x4TW82MDhZZE4wWWFQUXEtN0I?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T07:54:51+00:00"
+          },
+          {
+            "title": "বিধবা ভাতার পরিবর্তে অন্নপূর্ণা যোজনা পাওয়া যাবে,পছন্দ জানানোর নির্দেশ জারি, ঘোষণা করেছিলেন মুখ্যমন্ত্রী - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVzNIZng0NVlBc3pLLUFyWnlJbDAwNl9mcnUxRUN4WlMxX01DQVdteDNiaHJVQUFpMHdhRUpZZDN4di1sdU14czNKUnBraUlkbVVsWmpsZnlobVBDWnJlTjVzX2t4R2U2WVh3VWw4VjFZd2FMakg0WEFPLVRmcDhSU3V5RE1ENnp2ZkNWMjZqd0pxX0NmSUJtVmZhSmN3cjVDMExQc011ZlNGYWtTNjdoclJqaElvUzhwNDR0dlEtcnYxNjRoQnBudlVLMDhWRWxfTlFvZTZ0UmNGY2dlaC1XeHhUSXRvV3dVZWtWN051TGJEbVRrOERiLWk0aEJWVjR2MFJZQjVPSUl2SUdXdW96WlR5Z3hNRUFyUFRKSF9od9IBpAJBVV95cUxQWlpuczNNNzlZZDVRSk04Z1BHc1FIRW8xYUU3d3gwNEJibndzSU45RWJwM21kZWRJc3JmVzlwRkxtTzVKeF9vVzVDWnRSeEJkVEEtVzVxS19uc0ROckVDSWNsQ0hzbnJDa3hpbER2OExoUndjaDRJeWsybUtKMGZxc1lsaDVaUUM3dWZnbzhyNk5CR24tNHhBOGFSQ0pMVFlnWURoZVlMZ3hBTnVaOWR0c1o3Z1UwYjM4c0NRNzZwY201cHVnVHAzSENjNGo1eWt6TUk3Zl8yWWpYOWVkckJTNmNLNGpkWTBuLV9wdWZxQ2J6QTFOazVZQ2Noa05qRnltNy1tdEVadDc2MVNOMVBuOXVGVmlzdWxCQ2ZKSzE5dVpJQWVQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-23T07:48:51+00:00"
           },
           {
             "title": "মানবাধিকার সুরক্ষা প্রশ্নে কথা রাখতে পারেনি বিএনপি: হিউম্যান রাইটস ওয়াচ",
@@ -1459,55 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-23T07:20:31+00:00"
-          },
-          {
-            "title": "কমিশনে কলহ! অন্ধকারে রেখে সিদ্ধান্ত নিচ্ছেন জ্ঞানেশ, ১০ মাসে ১৪ বার লিখিত আপত্তি জানান দুই নির্বাচন কমিশনার - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRHFuQWx4dkZ1QmJOZnRJVW4ycXB6Uk91Qk4ySXFMS2w1NWtDam81bS0xeXBMUlo3eTduNl9LVlJINk5Xc1VMOGdFcEZjNDZ0bDlBalg3RkVSMGVkNUx6WkdJVGFxWFppbHo1d0ZObTlNc1FITHpKRVBfX1c3X2p2dDRLYkt2MmEzd3VXODhybERUTHNtQjh4RU9KaWd5Z3FhNUY4QkJiS3hMemFoUzVxQkFDUlZpa2thSXMzNkxTVWZMWTZqMFdld1JaTVFlOUt6ZDhWTdIB2gFBVV95cUxOTHJtYWdYcG9kLTFxQWVBQkRFbXllOHhIMV9OTkV0aVdYdWZKR1NwdjlOWDdhSlF4dTRlT1VDbS0wQ3JITFZSTnMyd3h3dzRTVWluY0pYODhnZktzbXdPLUJCRE9ZN2JLeFBDRFRIWkhEVzZNUnJaYUE4QS1jS2tSMFFmdDBubDhGcGZxMzRubnJVOGluSjJFdlVWUE9FV0hYQXhmck9IU3ZQY2NaNjlDU1Y5Y1J1a0RGV2RONTFZbll6NFR6V25jTElCcUtDak1WdUtReXNOb3IzZw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T07:15:07+00:00"
-          },
-          {
-            "title": "জন্মসাল ও শিক্ষাগত যোগ্যতা নিয়ে প্রশ্ন, নন্দীগ্রামের বিজেপি প্রার্থী হাসিরানির হলফনামাকে চ্যালেঞ্জ করে হাই কোর্টে কংগ্রেস - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNFNrTlEwdXRVSjJ2bzM4QlNKUHFLbDVFblBVTXhEZzdRdXZXRzV0RHI2Q25PT01QeUhqVHBiNFFNMWIyaXFKRF9GZ1lmb1pJeG4wVnczd2tXeERsdm9SbWx5dHJUTjF0RnNvbHpmTnFWeWl0QkstcTVZMWhpS1NSY2JtaEM0Z0RfWWdoMXhranVzM1ZhalpqYm9BZzN3VGJFdFlFZVVvZUhfbWVPNlJZbGxVTmo3UGVuR01XaVFDSWdBWVZtV2tmVXEtR0t5LWhDOWdFRTAxU3VFTW82UllwdG9Rc1F5dWZGM3Vsa3U1SERWSzg00gH6AUFVX3lxTE1yUWlYMG1EZWg3WmNNaXI0amVsZTk4QS1CV3UzeHVwMjJhRnFWNEQyN1dzMk81YkVmclg3MGNOUUk3YjNKQ2pFZ01wRXVhdmVGcDFORmpIdVNITFd2Z0g5YkNqbC1PMC14Q2d3QmRPX3RVd0VxY05kR1ZIUEFiWGR2ODdYUjN1UzNFcnh1NXBqV1dwR0h4WENWY1pOSjRjWVZNR3ZGNEFoMXluS0lBX3lTbmpTZ2NnZE1OQ3pXeXp4T0NQLTNnNkhhLXltOFFQdFJBczJNdTJkZWtYNkJKanI4WmV4Sk5aemNvQ1dpdWpGXy1wVzVoRDRPOGc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T07:10:27+00:00"
-          },
-          {
-            "title": "তোলাবাজি-সিন্ডিকেটবাজি নিয়ে বিজেপির সভা সরগরম! দমদম পার্কে মন্ত্রী শারদ্বতকে আঙুল উঁচিয়ে প্রশ্ন পদ্মবিধায়ক পীযূষের - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORlVIMG5FRDQ5TFk5Q1BCNVVUNVpTYWw0MTU0Z1B3R204N2ZGbG5YOFMxUDNwVHM4TkFzY2xCSTVZX2hjZlVnMUhNb1pCdmhFbzJ5dGtvZEJIWGRQRkJrZVZTRzh4VHNESVc0RHppdllfbWdSRzFxWjdVRkl5TG1MQk53LWUtU3NkblFXenZFNDNsQzlTdGFUZ09xREZsWlk0ODdWSnpLb08tT3hlS09Xc0dvVGJGZnBjcDNEVnNKTmxJaWRaNUpySmVYdFBWT0ZXTFdremRGTXdBNjBqX0930gHkAUFVX3lxTE16bXk3akNoRjdOSW1RbEttT2RXTHE0V2YxbGxZU1BLa2N1V0otMFhERHhvNDk1ODBENlJhd3MyaHpJOFhSaFhmV05mejA1R0g2ak5fSTdld2U4VEc3NVo4Sl9JR2p5ZzczcUlZY084MlZsenk1OTFXb0ZkNTNDY2xYclRIXzNUU1NSdTZYZU9UeVhKYkZsdlROSlRnYl9aQU1fdmx2VHV1c3JsaTc4bkFENl9ubFpVemEyMWM0SkQ5enQwNmFkRHFsaF84MG9FTUdXcG5HQkpkdTlOTHV2WXN1MWFEYg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T06:39:53+00:00"
-          },
-          {
-            "title": "আর্থিক প্রতারণার মামলায় কলকাতায় ফের ইডির অভিযান, নিউ আলিপুর ও বালিগঞ্জের বেশ কিছু ঠিকানায় তল্লাশি - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejdoZnN4aXU5ZmZuazdLUXhoMGdhcVRSWTRWT0x6X3l3Ty16eFllVUxYc3llM3pFOTVmSE5VNnRQMXdrU3FQX0lJcGNfYk9BVHdjdWYxMzlMOG11aHJGcV9EUEhRTFhNYjYxVDJfazZxOUZsTURleTE0dE1hVHBrMHlDSUZHWFluVXpxR1JRNkcxVHVhUXQwaGFGN2Flc1VQaUlqV2dieUl1NEnSAbABQVVfeXFMTlVwQU9Ga1o4YmxCaWdBdWpJYlduZzlJeVJ5VFpWaUttUi1vLUZDWUtpdURSLVBYZWxMR0FoNGxjX1pWSF93alk2aExxanM3akZXYmotMlJtTU4zeHZFOGZDSXlNc05CRDl6c3I5T1ZYbjFuWUgwSE14UzJRNzFKcGJKNDM5TzFGS1ktV1ktVEdIZVdQNkZIdjhXd1VYOFFDbHlCbEFkbXVlSElQcS1VMzg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T06:36:51+00:00"
-          },
-          {
-            "title": "পার্থ ভৌমিক ঘনিষ্ঠ নৈহাটির তৃণমূল নেতাকে মধ্যপ্রদেশ থেকে গ্রেফতার করে আনল পুলিশ! রয়েছে তোলাবাজি-সহ বিবিধ অভিযোগ - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSnd4SlNUUW5USjlvdjhCUFR0bW9QWnpZMmxtVFBWdUVLRTYtUUF6MGRjTmE0ZFhFYmJfQ2tJY2RnQXdpTTNodmlWb2lMVE5GdWdLTGEtdFZxQW9xVzI1RFRVa0MwOUU2aXR3VWNhX3d3Z2JCUkZBcFFGQkJHUkpCZV9GUXB5VVNUTXRfanBnSTZvcWo5ejdULVF6X0p4Yy1ZdnpBSXgydVVGWmxUZTAtLV9wWG1nNTc2dG9NanRCZ1E4NlhpVW5CY1ZLRG5EQ0d2YkRTWnV5Ry02UW9LZ1hmRtIB5gFBVV95cUxNM21vcmlDY0pWbkM4TndHMHE1aXdXMHJlMExTRmt1T3hFazR3NHNYWFdrNS0xcFJBZHVYMjJlS2FJRW1qbmRsc0FqYkRmeWVIakhJVU4ySmE5aVhKSzlLNWtnUGFfZVVyZ2lQM29OWVhFRWJBNVhlcnNqeTNvVS1PcERzSTVYQkJwMG02M1JJSjBkYXRhSGRxWlNrX1N5bG5iSG5lU3RfbUhkYU9jdUF2SjlFYng2SU1jMkQ4aDF3bnlYc1d0d3puNVZTWnByQnd1UlE5anlKLUIwdWdDcEh3UjhHZWtvUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T06:28:03+00:00"
-          },
-          {
-            "title": "বাংলাদেশ থেকে হারিয়ে যাওয়ার ঝুঁকিতে আট সাপ, কোথায় তাদের বসবাস?",
-            "link": "https://www.bbc.com/bengali/articles/cn5npx16xnvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "বাংলাদেশে সাপের অস্তিত্ব এখন এক গভীর উদ্বেগের বিষয় হয়ে দাঁড়িয়েছে। বিবিসির সাম্প্রতিক প্রতিবেদন অনুযায়ী, বর্তমানে বাংলাদেশের আটটি প্রজাতির সাপ হারিয়ে যাওয়ার প্রবল ঝুঁকিতে রয়েছে। এর মধ্যে রেটিকুলেটেড পাইথন বা জাল অজগর প্রজাতিটি বর্তমানে মহাবিপন্ন অবস্থায় রয়েছে, যা পরিবেশগত ভারসাম্যের জন্য একটি বড় অশনি সংকেত। এছাড়া আরও দুটি প্রজাতির সাপ বিপন্ন এবং পাঁচটি প্রজাতি ঝুঁকিপূর্ণ অবস্থায় রয়েছে বলে চিহ্নিত করা হয়েছে। এই সরীসৃপগুলো মূলত বাংলাদেশের বিভিন্ন বনাঞ্চল এবং জলাভূমি এলাকায় বসবাস করে, কিন্তু জলবায়ু পরিবর্তন, বনভূমি ধ্বংস এবং মানুষের দ্বারা আবাসস্থল নষ্ট হওয়ার কারণে এদের অস্তিত্ব আজ বিপন্ন। সাপগুলো বাস্তুসংস্থানের অবিচ্ছেদ্য অংশ হিসেবে ইঁদুর ও অন্যান্য ক্ষতিকারক প্রাণীর সংখ্যা নিয়ন্ত্রণে গুরুত্বপূর্ণ ভূমিকা পালন করে। যদি দ্রুত এদের আবাসস্থল সংরক্ষণ এবং সচেতনতা বৃদ্ধি করা না যায়, তবে অদূর ভবিষ্যতে বাংলাদেশের জীববৈচিত্র্য থেকে এই আটটি প্রজাতি পুরোপুরি মুছে যাওয়ার আশঙ্কা তৈরি হয়েছে। প্রকৃতিপ্রেমী ও পরিবেশবিদরা মনে করছেন, বন বিভাগ এবং সাধারণ মানুষের সম্মিলিত প্রচেষ্টাই পারে এদের বিলুপ্তির হাত থেকে রক্ষা করতে। পরিবেশের ভারসাম্য রক্ষায় এই উদ্যোগ নেওয়া এখন সময়ের দাবি হয়ে দাঁড়িয়েছে।",
-            "published": "2026-09-23T06:12:40+00:00"
-          },
-          {
-            "title": "আরও এগোল নিম্নচাপ, বুধবারই আছড়ে পড়বে উপকূলে! পুরী থেকে আর কত দূরে? ভারী বৃষ্টির সতর্কতা দক্ষিণের ৬ জেলায় - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa0NtRnlmYzVKUlRPbExqUWo5NGVJNFJJS0stWFFiRTRDaEpMTGUxYjE2TjZCNUVqOURHMkhhLUFWc1p4RXdWUkRQcnJWY0lOd1p0YUhIRGJFc1VfblF5NlZvd01NenpFTUJVUl9iVThPdnZURzRwcm1CU3FPalBSR2FvYXpDM19GN1lsOENyZDdwWnZiMWdmR0hQRlFIVjVHTGFFN2dmcFNvcm9GQUpmN0l1cnpCSVkxTjI2YVlBVFh5dWxYMVhranRlXzhqNDZsb3Noa1ZkR0lvVXhjdHNEZ2ZSS05oaVRlWW13ckxB0gHzAUFVX3lxTE51eWVfOW1WakQzZDVGVnZYVjVVSU0zOHB4Wk9OOURQVFhoVGpHdFZpZFNlV0RxMWxSc3pZT3gtVkZ1U2t6aUQwcmZCQ1NydjJ3ZjVNb2E5LVZxdU53ejZLbGRtZ3c1Q2VhV010UUY3bVE0Sk9PZzh2YlpWQnZzdllTbGhVdWdZNUlxMURxb3hjNV9YVXV2WkRNNjVCbDlOQjMwODJ1aHEyTzZ4c0tnR00tbkVSa3F3eXpKU3ctUDF1elNRbFRKS2pXY1dTanAtTVQwaEFHemlDRVI1VFY2MWdGN3dQanYyRGROa05IUEhBVXp0MA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-23T05:07:43+00:00"
           }
         ]
       }
