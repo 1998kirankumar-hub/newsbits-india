@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-09-24T00:51:03.334361+00:00",
+  "updated_at": "2026-09-24T01:01:30.739072+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+            "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+            "published": "2026-09-24T00:50:24+00:00"
+          },
+          {
+            "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.",
+            "published": "2026-09-24T00:43:10+00:00"
+          },
           {
             "title": "Asian Games 2026, Day 5 LIVE Updates: Rowers Satnam, Salman Clinch Bronze. Roshibina Devi Eyes Wushu Gold",
             "link": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-5-india-medal-tally-roshibina-devi-aichi-nagoya-japan-live-news-12088910#publisher=newsstand",
@@ -41,7 +55,14 @@
             "published": "2026-09-24T05:46:40+05:30"
           },
           {
-            "title": "AI corporate leaders tell UN the industry needs global regulation",
+            "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+            "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+            "published": "2026-09-24T00:15:46+00:00"
+          },
+          {
+            "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
             "link": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.",
@@ -81,27 +102,6 @@
             "source": "BBC World",
             "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
             "published": "2026-09-23T23:58:50+00:00"
-          },
-          {
-            "title": "She trained disguised as a man, fled the Taliban and won Asian Games silver",
-            "link": "https://timesofindia.indiatimes.com/life-style/people/who-is-fariba-hashimi-meet-the-afghan-cyclist-who-trained-disguised-as-a-man-wins-asian-games-silver-after-fleeing-taliban/articleshow/134448577.cms",
-            "source": "Times of India",
-            "summary": "Fariba Hashimi and her sister Yulduz encountered significant challenges while training to become cyclists in Afghanistan. Their talent was recognized after they excelled in local competitions, earning them a chance to join the national team. After their escape to Italy, Fariba's remarkable achievement of winning a silver medal at the Asian Games signified a breakthrough for Afghan women, representing hope and…",
-            "published": "2026-09-24T05:15:33+05:30"
-          },
-          {
-            "title": "Sagar hooch tragedy: Two more key accused held after encounter; 39 arrested so far",
-            "link": "https://www.thehindu.com/news/national/madhya-pradesh/sagar-hooch-tragedy-two-more-key-accused-held-after-encounter-39-arrested-so-far/article71500299.ece",
-            "source": "The Hindu",
-            "summary": "The police fired in self-defence and he was injured in his leg after which Ashish Sahu and he were taken into custody, said Sagar Superintendent of Police (SP) Anurag Sujania",
-            "published": "2026-09-24T05:15:07+05:30"
-          },
-          {
-            "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-            "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-            "published": "2026-09-23T23:42:38+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+            "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+            "published": "2026-09-24T00:50:24+00:00"
+          },
+          {
+            "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.",
+            "published": "2026-09-24T00:43:10+00:00"
+          },
+          {
             "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -199,7 +213,14 @@
             "published": "2026-09-24T00:28:46+00:00"
           },
           {
-            "title": "AI corporate leaders tell UN the industry needs global regulation",
+            "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+            "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+            "published": "2026-09-24T00:15:46+00:00"
+          },
+          {
+            "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
             "link": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.",
@@ -253,30 +274,16 @@
             "source": "BBC World",
             "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
             "published": "2026-09-23T23:03:56+00:00"
-          },
-          {
-            "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
-            "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
-            "published": "2026-09-23T22:56:41+00:00"
-          },
-          {
-            "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-            "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-            "published": "2026-09-23T22:01:17+00:00"
-          },
-          {
-            "title": "Watch: The arms race in space and how the UK is defending itself",
-            "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-            "published": "2026-09-23T21:29:04+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+            "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+            "published": "2026-09-24T00:50:24+00:00"
+          },
           {
             "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -353,13 +360,6 @@
             "source": "Economic Times",
             "summary": "The government has cut customs duty on various edible oils, which includes crude and refined oils. These changes aim to reduce import costs and potentially ease domestic prices. The reduced duties are effective from September 24, allowing businesses to benefit immediately. India, one of the largest edible oil importers, is sensitive to global commodity price fluctuations. This action may provide relief from rising…",
             "published": "2026-09-24T00:41:25+05:30"
-          },
-          {
-            "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-            "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-            "published": "2026-09-23T19:10:22+00:00"
           }
         ],
         "Sports": [
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "అర్ధరాత్రి తీరం దాటిన తీవ్ర వాయుగుండం! 48 గంటలు డేంజర్ బెల్స్",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/deep-depression-crosses-north-andhra-coast-near-kalingapatnam-heavy-rain-alert-issued-for-telugu-st-507629.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-24T06:29:22+05:30"
+          },
+          {
+            "title": "కారు.. కలర్‌ఫుల్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KcFNhZTRYTVduSlI1amtRdGEyUkMzUmRrWHFzWkg0SzJJMVJncnRuaFl6T3pTNFF1b0pwQWhmeF90WXFJS0FOSGd0SFFOa0hfcFcxMDJnUi1TdFdxWkRnTXRaRElvUWF3NzJzbEN6cE3SAXBBVV95cUxOSnBTYWU0WE1XbkpSNWprUXRhMlJDM1Jka1hxc1pINEsySTFSZ3J0bmhZek96UzRRdW9KcEFoZnhfdFlxSUtBTkhndEhRTmtIX3BXMTAyZ1ItU3RXcVpEZ010WkRJb1Fhdzcyc2xDenBN?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-24T00:55:42+00:00"
+          },
+          {
+            "title": "టీఎంసీ ఎంపీల కేసును త్వరగా తేల్చితే మేలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Wjhra042V1JBOExHNFhtSEd6SFZldlpWU3FORXZST3lGem8xUldrbGFBZnU0NnEtTmt5MFQtOXJoU2NMX3o0QnVaOGppVzFicnZrWUFiOURBcDA5cHJDMGRldC10bVN4SGxQdXMzSVHSAXBBVV95cUxQeVo4a2tONldSQThMRzRYbUhHekhWZXZaVlNxTkV2Uk95RnpvMVJXa2xhQWZ1NDZxLU5reTBULTlyaFNjTF96NEJ1WjhqaVcxYnJ2a1lBYjlEQXAwOXByQzBkZXQtdG1TeEhsUHVzM0lR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-24T00:54:51+00:00"
+          },
+          {
             "title": "సీనియర్‌ న్యాయవాదిగా పల్లె నాగేశ్వరరావు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2dDlVTXRFYkp2OWdKRkhlUFdRNzRTczFQcVVmWGNlOEhxdjdZbzF6YUFIRGdadUliMHQ5ZU9hU0NqaVlVRTVWc1kySlNkWTJkcTdBWmVKZXJCWDFJVkNkU0szb3poZ1lDcW16SG1BZnIwSHNieFHSAXZBVV95cUxQdnQ5VU10RWJKdjlnSkZIZVBXUTc0U3MxUHFVZlhjZThIcXY3WW8xemFBSERnWnVJYjB0OWVPYVNDamlZVUU1VnNZMkpTZFkyZHE3QVplSmVyQlgxSVZDZFNLM296aGdZQ3FtekhtQWZyMEhzYnhR?oc=5",
             "source": "Eenadu",
@@ -1093,13 +1114,6 @@
             "published": "2026-09-24T00:23:23+00:00"
           },
           {
-            "title": "Machilipatnam: మచిలీపట్నంలో నౌకా నిర్మాణ కేంద్రం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTFKcmZfbzZaRjVXdXhIQXJ4X2Rwa2hnMUNqVmtHOHlLNU5LR2N6Z19IQWFIRTVISFdIbGFObGVlY284SHAxdFBEcF9oWTJBaUR3dnN6WWlPY3dlWFZEUmRwZU5uTE9SdDQtM0lFZWNQQnR6aTZpMTRzM0Iyazkzb3l5V1RqSDlKdi12WGU3cVpPUFhOWTZOTXZLbVo3UC1MMFptedIBpAFBVV95cUxPSTFKcmZfbzZaRjVXdXhIQXJ4X2Rwa2hnMUNqVmtHOHlLNU5LR2N6Z19IQWFIRTVISFdIbGFObGVlY284SHAxdFBEcF9oWTJBaUR3dnN6WWlPY3dlWFZEUmRwZU5uTE9SdDQtM0lFZWNQQnR6aTZpMTRzM0Iyazkzb3l5V1RqSDlKdi12WGU3cVpPUFhOWTZOTXZLbVo3UC1MMFpteQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-24T00:21:29+00:00"
-          },
-          {
             "title": "వైభవోపేతంగా చక్రధరుడి చక్రస్నానం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1cGk1Z1c2LUdGS1RjNkt1ZE5KcFZHN0N6N252YVJyNEZnNnNiOV9Ibk9vaU5wUzJDQXVjYnJ5UGJsTVk2NDFuYUdWMnloYmlCcFJHVnRiemVJTmF5TGJJV2w1U2xBWWk3U1JRSVlmbjh2aWtmUmhUaWFXazLSAXxBVV95cUxQdXBpNWdXNi1HRktUYzZLdWROSnBWRzdDejdudmFScjRGZzZzYjlfSG5Pb2lOcFMyQ0F1Y2JyeVBibE1ZNjQxbmFHVjJ5aGJpQnBSR1Z0YnplSU5heUxiSVdsNVNsQVlpN1NSUUlZZm44dmlrZlJoVGlhV2sy?oc=5",
             "source": "Eenadu",
@@ -1107,11 +1121,25 @@
             "published": "2026-09-24T00:03:33+00:00"
           },
           {
+            "title": "ఏపీ, తెలంగాణ, కర్ణాటక, తమిళనాడులు.. ఎందుకు ఎప్పుడూ పోట్లాడుకుంటుంటాయి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uaWRQWkgwSWNCNGVtY1pCOFhpdUczZFQzZS1wc0kxc0ZvbGJ6WGtjWFJqVFRoQTdFT29OaTVNVWF4d3VqMHp5MWVlVHJxMTgwMC1yM2Iwa1hYWjBqRzBLUXNBclhWY2FzSWFZMDl4ZnBxVERLakxubTZfWW_SAXxBVV95cUxObmlkUFpIMEljQjRlbWNaQjhYaXVHM2RUM2UtcHNJMXNGb2xielhrY1hSalRUaEE3RU9vTmk1TVVheHd1ajB6eTFlZVRycTE4MDAtcjNiMGtYWFowakcwS1FzQXJYVmNhc0lhWTA5eGZwcVRES2pMbm02X1lv?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T23:48:31+00:00"
+          },
+          {
             "title": "దిల్లీ చేరుకున్న మంత్రి లోకేశ్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yOG5LRmZZQ2FjOHZpalRpTFhkZnFMVW5LOG1LRFRwRnA3OEt6TjBPVzVyVnNGU19PbElVT2RWRWpuM08zYzZ2UTBxMWQtTjNrY0xPRENzSmRhUF9ueE1wWUlIdlBMNE9FSzNZZDhiN1Z5ajVEV1BSdndOMmTSAXxBVV95cUxPcjhuS0ZmWUNhYzh2aWpUaUxYZGZxTFVuSzhtS0RUcEZwNzhLek4wT1c1clZzRlNfT2xJVU9kVkVqbjNPM2M2dlEwcTFkLU4za2NMT0RDc0pkYVBfbnhNcFlJSHZQTDRPRUszWWQ4YjdWeWo1RFdQUnZ3TjJk?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T23:48:15+00:00"
+          },
+          {
+            "title": "శ్రీవారిని దర్శించుకున్న నారా భువనేశ్వరి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTE9XMEpqN01ESTd3M3N1dmFfS09EVDhrRmRiMUpQRUJYZmY0UFZodjdSNXhDZUo2d3djUDFTUDQ1THJLWjJzRTRJTEhkSlVSc01tUll3QUMtS05fZUpyX2NlY291LUV0N19SUFI4NFM4dnU0RUJCMHpwdlnSAXxBVV95cUxPY0xPVzBKajdNREk3dzNzdXZhX0tPRFQ4a0ZkYjFKUEVCWGZmNFBWaHY3UjV4Q2VKNnd3Y1AxU1A0NUxyS1oyc0U0SUxIZEpVUnNNbVJZd0FDLUtOX2VKcl9jZWNvdS1FdDdfUlBSODRTOHZ1NEVCQjB6cHZZ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-23T23:47:33+00:00"
           },
           {
             "title": "TG Rains: నేడు, రేపు భారీ నుంచి అతిభారీ వర్షాలు - Eenadu",
@@ -1126,34 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-23T23:33:31+00:00"
-          },
-          {
-            "title": "వక్ఫ్‌ ఆస్తుల ప్రకటనకు ముందు విధివిధానాలను అనుసరించాల్సిందే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZN0NCTDZZZ0RtbmdiRmZBa3ZOQXVfOWJ4bF9KdTFlOFRkdldLYzFnZkYwUEFPYl9maG1vaHUyOV9DVlV4RWlvWmw0ZXpacnVYbjJDLXNCMjFJUGptZU9SNldJdDVTZ3BvazFmaGtIaFAtNkFuQmfSAXZBVV95cUxPWTdDQkw2WWdEbW5nYkZmQWt2TkF1XzlieGxfSnUxZThUZHZXS2MxZ2ZGMFBBT2JfZmhtb2h1MjlfQ1ZVeEVpb1psNGV6WnJ1WG4yQy1zQjIxSVBqbWVPUjZXSXQ1U2dwb2sxZmhrSGhQLTZBbkJn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T23:32:20+00:00"
-          },
-          {
-            "title": "3,236 మద్యం దుకాణాల లైసెన్సులు రెన్యువల్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VLWdsbUJpVEpOU3pyT2RNclhjRUtQVUdwMTBtSG9lYW5xdk44eDJSY25GTUc2TmVzNlBERngyNVR0WnlRU3oxRFdDaTEtOWRkcGZJZDQtUGpBSFNVbEI0NUI4al9mVGFEZmVOYnZTbDdzYjV6UklYT3BGaDjSAXxBVV95cUxPVS1nbG1CaVRKTlN6ck9kTXJYY0VLUFVHcDEwbUhvZWFucXZOOHgyUmNuRk1HNk5lczZQREZ4MjVUdFp5UVN6MURXQ2kxLTlkZHBmSWQ0LVBqQUhTVWxCNDVCOGpfZlRhRGZlTmJ2U2w3c2I1elJJWE9wRmg4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T23:30:28+00:00"
-          },
-          {
-            "title": "జడ శ్రావణ్‌కుమార్‌ చిరునామాతో ఆర్టీఐ దరఖాస్తులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ybFlMckoxbk9Cam9iU2g2ZmFKZkVCTnpxc0tWckpKN29pQ3VQOFNMOUZudm1La3puY0JvY3E3U0pBZm1nMlRoOFdNMXQydTd6LUhWWm83LUk2c0xLS3laajQ5ZUVGQjU1RTRPQlhtRW5mTUM4U0RjY2xlNHXSAXxBVV95cUxOMmxZTHJKMW5PQmpvYlNoNmZhSmZFQk56cXNLVnJKSjdvaUN1UDhTTDlGbnZtS2t6bmNCb2NxN1NKQWZtZzJUaDhXTTF0MnU3ei1IVlpvNy1JNnNMS0t5Wmo0OWVFRkI1NUU0T0JYbUVuZk1DOFNEY2NsZTR1?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T23:29:52+00:00"
-          },
-          {
-            "title": "గల్ఫ్‌ భారతీయులకు తెలుగువారు ఆదర్శం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zQ1hlRHdwWEZHTFJfamFsSzZUMHIyd3NVS243enhQaE5IVmF4amp6TnJ3a3VXWkh1WDJIN0t4bVl3MGpoYk93NFVUVWp3ajVaa1ctYVhYdnZLUjhXaWZNN1RZTlpHVGMyZ2YyQTBXOWpVT2YyZWtYZkliRWfSAXxBVV95cUxPM0NYZUR3cFhGR0xSX2phbEs2VDByMndzVUtuN3p4UGhOSFZheGpqek5yd2t1V1pIdVgySDdLeG1ZdzBqaGJPdzRVVFVqd2o1WmtXLWFYWHZ2S1I4V2lmTTdUWU5aR1RjMmdmMkEwVzlqVU9mMmVrWGZJYkVn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-23T23:29:32+00:00"
           }
         ],
         "Entertainment": [
