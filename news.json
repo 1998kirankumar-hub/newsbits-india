@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-24T11:31:24.317883+00:00",
+  "updated_at": "2026-09-24T11:39:47.581107+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Election Commission row LIVE: CJP demands resignation of CEC Gyanesh Kumar within 48 hours",
+            "link": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
+            "source": "The Hindu",
+            "summary": "The Cockroach Janta Party demanded initiation of criminal proceedings against Chief Election Commissioner Gyanesh Kumar and called for the restoration of pre-SIR voter rolls in all States",
+            "published": "2026-09-24T17:03:57+05:30"
+          },
+          {
+            "title": "Danam Nagender ready for Khairatabad bypoll, silent on party affiliation",
+            "link": "https://www.thehindu.com/news/national/telangana/danam-nagender-ready-for-khairatabad-bypoll/article71503790.ece",
+            "source": "The Hindu",
+            "summary": "The disqualified MLA declines to disclose whether he would seek the ticket from the Congress or any other party",
+            "published": "2026-09-24T17:03:10+05:30"
+          },
+          {
             "title": "Are we back in big tech's 'move fast and break things' era?",
             "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
             "published": "2026-09-24T11:29:20+00:00"
+          },
+          {
+            "title": "SC dismisses Danam Nagender's plea against disqualification",
+            "link": "https://www.thehindu.com/news/national/telangana/sc-dismisses-danam-nagenders-plea-against-disqualification/article71503531.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-24T16:58:02+05:30"
           },
           {
             "title": "97-year-old Bronx movie palace to become 4,000-seat performing arts center",
@@ -32,13 +53,6 @@
             "source": "The Hindu",
             "summary": "Nani’s physical transformation in this Srikanth Odela-directed film is striking, but it cannot make up for a narrative that struggles to establish its characters or conflict",
             "published": "2026-09-24T16:49:53+05:30"
-          },
-          {
-            "title": "Could the oil shock push fuel prices even higher?",
-            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "From Hormuz to the Black Sea, pressure on main supply routes is testing the resilience of the global energy market.",
-            "published": "2026-09-24T11:17:48+00:00"
           },
           {
             "title": "SIR is illegal and needs to be reversed: former CEC Quraishi",
@@ -88,23 +102,30 @@
             "source": "The Hindu",
             "summary": "Delhi High Court said a prima facie case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was made out against YouTuber Ajeet Bharti and noted that the legislation imposes a statutory bar on granting pre-arrest bail in such cases",
             "published": "2026-09-24T16:36:27+05:30"
-          },
-          {
-            "title": "NDMC develops 1-acre ‘Bharat Van’ using Miyawaki method in Delhi’s Lodhi Colony",
-            "link": "https://www.hindustantimes.com/india-news/ndmc-develops-bharat-van-miyawaki-forest-in-delhi-s-lodhi-colony-with-10-000-plants-101790247872990.html",
-            "source": "Hindustan Times",
-            "summary": "Bharat Van will have around 10,000 indigenous plants, along with spaces for yoga, meditation and other recreational activities",
-            "published": "2026-09-24T16:34:32+05:30"
-          },
-          {
-            "title": "OpenAI agents hack Australian government health data",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-agents-hack-australian-government-health-data?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rogue OpenAI agents accessed an Australian government health data website, obtaining non-public information.",
-            "published": "2026-09-24T11:01:18+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Election Commission row LIVE: CJP demands resignation of CEC Gyanesh Kumar within 48 hours",
+            "link": "https://www.thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece",
+            "source": "The Hindu",
+            "summary": "The Cockroach Janta Party demanded initiation of criminal proceedings against Chief Election Commissioner Gyanesh Kumar and called for the restoration of pre-SIR voter rolls in all States",
+            "published": "2026-09-24T17:03:57+05:30"
+          },
+          {
+            "title": "Danam Nagender ready for Khairatabad bypoll, silent on party affiliation",
+            "link": "https://www.thehindu.com/news/national/telangana/danam-nagender-ready-for-khairatabad-bypoll/article71503790.ece",
+            "source": "The Hindu",
+            "summary": "The disqualified MLA declines to disclose whether he would seek the ticket from the Congress or any other party",
+            "published": "2026-09-24T17:03:10+05:30"
+          },
+          {
+            "title": "SC dismisses Danam Nagender's plea against disqualification",
+            "link": "https://www.thehindu.com/news/national/telangana/sc-dismisses-danam-nagenders-plea-against-disqualification/article71503531.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-24T16:58:02+05:30"
+          },
           {
             "title": "97-year-old Bronx movie palace to become 4,000-seat performing arts center",
             "link": "https://timesofindia.indiatimes.com/world/us/a-97-year-old-bronx-movie-palace-that-survived-subdivision-closure-restoration-a-church-era-and-a-2020-fire-is-becoming-a-4000-seat-performing-arts-center-new-york-citys-second-largest-theater/articleshow/134458178.cms",
@@ -167,37 +188,9 @@
             "source": "The Hindu",
             "summary": "Delhi High Court said a prima facie case under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was made out against YouTuber Ajeet Bharti and noted that the legislation imposes a statutory bar on granting pre-arrest bail in such cases",
             "published": "2026-09-24T16:36:27+05:30"
-          },
-          {
-            "title": "NDMC develops 1-acre ‘Bharat Van’ using Miyawaki method in Delhi’s Lodhi Colony",
-            "link": "https://www.hindustantimes.com/india-news/ndmc-develops-bharat-van-miyawaki-forest-in-delhi-s-lodhi-colony-with-10-000-plants-101790247872990.html",
-            "source": "Hindustan Times",
-            "summary": "Bharat Van will have around 10,000 indigenous plants, along with spaces for yoga, meditation and other recreational activities",
-            "published": "2026-09-24T16:34:32+05:30"
-          },
-          {
-            "title": "Donation platform collapsed owing 3,200 nonprofits nearly $29 million",
-            "link": "https://timesofindia.indiatimes.com/world/us/in-2025-donation-platform-flipcause-collapsed-owing-more-than-3200-nonprofits-nearly-29-million-bankruptcy-records-later-showed-3-8-million-went-to-executives-relatives-and-related-firms-before-liquidation/articleshow/134457447.cms",
-            "source": "Times of India",
-            "summary": "Flipcause, an Oakland-based donation platform, filed for bankruptcy in December 2025 after owing nearly $29 million to more than 3,200 nonprofits. Bankruptcy records showed the company paid $3.8 million to executives, relatives and related firms in the year before filing. Nonprofits later questioned Flipcause leadership over delayed donations and how company funds were managed.",
-            "published": "2026-09-24T16:30:00+05:30"
-          },
-          {
-            "title": "Kerala HC says investigating officer can also be appointed as prosecutor in court-martial case as per Navy regulations",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-says-investigating-officer-can-also-be-appointed-as-prosecutor-in-court-martial-case-as-per-navy-regulations/article71503499.ece",
-            "source": "The Hindu",
-            "summary": "Court holds that this will not violate accused person’s fundamental right to a fair trial",
-            "published": "2026-09-24T16:28:53+05:30"
           }
         ],
         "World": [
-          {
-            "title": "Could the oil shock push fuel prices even higher?",
-            "link": "https://www.aljazeera.com/video/counting-the-cost/2026/9/24/could-the-oil-shock-push-fuel-prices-even-higher?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "From Hormuz to the Black Sea, pressure on main supply routes is testing the resilience of the global energy market.",
-            "published": "2026-09-24T11:17:48+00:00"
-          },
           {
             "title": "Why is Iran threatening regional airports, and what could be the impact?",
             "link": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
@@ -274,6 +267,13 @@
             "source": "Al Jazeera",
             "summary": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
             "published": "2026-09-24T09:26:32+00:00"
+          },
+          {
+            "title": "‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat",
+            "link": "https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.",
+            "published": "2026-09-24T09:22:27+00:00"
           }
         ],
         "Business": [
@@ -641,15 +641,15 @@
             "published": "2026-09-24T11:12:43+00:00"
           },
           {
-            "title": "नंदीग्राम से कांग्रेस उम्मीदवार मिलन प्रधान को मिली जमानत:कलकत्ता हाईकोर्ट ने राज्य सरकार को लगाई फटकार, कहा- दोबारा क्यों किया अरेस्ट",
-            "link": "https://www.bhaskar.com/national/news/calcutta-high-court-nandigram-congress-candidate-milan-pradhan-bail-139133950.html",
+            "title": "नंदीग्राम से कांग्रेस उम्मीदवार को मिली जमानत:कलकत्ता हाईकोर्ट ने पूछा- 19 साल पुराने मामले में कार्रवाई क्यों",
+            "link": "https://www.bhaskar.com/g/national/news/calcutta-high-court-nandigram-congress-candidate-milan-pradhan-bail-139133950.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-24T11:06:09+00:00"
           },
           {
-            "title": "महुआ ने चुनाव आयुक्त के खिलाफ दिल्ली में शिकायत करवाई:कहा- ज्ञानेश कुमार को कोई छूट नहीं मिल सकती, उन पर मुकदमा चलना चाहिए",
-            "link": "https://www.bhaskar.com/national/news/mahua-moitra-complaint-election-commissioner-gyanesh-kumar-congress-protest-all-states-ec-office-139133914.html",
+            "title": "चुनाव आयुक्त के खिलाफ दिल्ली पुलिस में शिकायत:महुआ ने FIR की मांग की; विपक्ष की 6 महीने में दूसरी बार महाभियोग लाने की तैयारी",
+            "link": "https://www.bhaskar.com/g/national/news/mahua-moitra-complaint-election-commissioner-gyanesh-kumar-congress-protest-all-states-ec-office-139133914.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-24T11:02:11+00:00"
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મહુઆએ ચૂંટણી કમિશનર વિરુદ્ધ દિલ્હીમાં ફરિયાદ નોંધાવી:મહુઆએ કહ્યું- જ્ઞાનેશ કુમારને કોઈ છૂટ મળી શકે નહીં, તેમના પર કેસ ચાલવો જોઈએ",
+            "link": "https://www.divyabhaskar.co.in/national/news/mahua-moitra-files-complaint-against-gyanesh-kumar-delhi-election-139134260.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-24T11:36:28+00:00"
+          },
+          {
             "title": "ભાજપે બંગાળ ચૂંટણીમાં ₹287 કરોડ ખર્ચ્યા:5 રાજ્યોના ચૂંટણી ખર્ચના અડધાથી વધુ બંગાળમાં; બાકીના 4 રાજ્યોમાં ₹242 કરોડ ખર્ચાયા",
             "link": "https://www.divyabhaskar.co.in/national/news/bjp-election-expenditure-west-bengal-assam-kerala-tamil-nadu-139134150.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "આર્ટિફિશિયલ ઇન્ટેલિજન્સ એટલે કે એઆઈ (AI) ના ઝડપી વિકાસ સાથે દુનિયામાં એક નવો વિવાદ પણ જન્મ્યો છે. આધુનિક ટેકનોલોજીના આ યુગમાં કેટલાક ખ્રિસ્તી ધર્મગુરુઓ આર્ટિફિશિયલ ઇન્ટેલિજન્સને લઈને ખૂબ જ ચિંતિત છે. તેમનું માનવું છે કે એઆઈ એક પ્રકારની 'ખ્રિસ્તવિરોધી' અથવા શેતાની શક્તિ છે, જે માનવજાતને ભ્રમિત કરીને અધર્મના માર્ગે દોરી શકે છે. આ વર્ગના લોકોનો દાવો છે કે એઆઈ મનુષ્યોની વિચારવાની શક્તિ પર પ્રભુત્વ જમાવીને તેમને શેતાનની પૂજા કરવા પ્રેરી શકે છે, જેના કારણે વિનાશનો ભય ફેલાયો છે. આ પ્રકારના વિચારો પાછળનું મુખ્ય કારણ ટેકનોલોજીના અજાણ્યા અને અંકુશ વગરના પાસાઓ છે. લોકોમાં ડર છે કે જો મશીનો સ્વતંત્ર નિર્ણય લેવા લાગશે, તો તે નૈતિક મૂલ્યોને નષ્ટ કરી નાખશે. જોકે, વૈજ્ઞાનિક દ્રષ્ટિકોણથી જોઈએ તો એઆઈ એ માત્ર ડેટા પ્રોસેસિંગનું એક માધ્યમ છે, પરંતુ ધાર્મિક અને દાર્શનિક દ્રષ્ટિએ આ ટેકનોલોજીને માનવ અસ્તિત્વ માટે ખતરો માનવામાં આવી રહી છે. આ ચર્ચા ટેકનોલોજી અને આધ્યાત્મિકતા વચ્ચેના સંઘર્ષને વધુ ગંભીર બનાવી રહી છે.",
             "published": "2026-09-24T06:57:23+00:00"
-          },
-          {
-            "title": "તહેવારો પહેલાં મોંઘવારીમાં રાહત, ખાદ્ય તેલ સસ્તુ થશે:નવી કિંમતો આજથી લાગુ; સૂર્યમુખી તેલ પર કસ્ટમ ડ્યૂટી નહીં લાગે, મગફળી-પામ તેલના ભાવ ઘટશે",
-            "link": "https://www.divyabhaskar.co.in/national/news/india-edible-oil-custom-duty-cut-sunflower-soya-palm-price-139130915.html",
-            "source": "Divya Bhaskar",
-            "summary": "તહેવારોની મોસમ આવતા પહેલા જ સામાન્ય જનતા માટે રાહતના સમાચાર આવ્યા છે. કેન્દ્ર સરકારે ખાદ્ય તેલના ભાવ ઘટાડવા માટે એક મોટો નિર્ણય લીધો છે, જે અંતર્ગત વિવિધ પ્રકારના તેલ પરની બેઝિક કસ્ટમ્સ ડ્યુટીમાં ઘટાડો કરવામાં આવ્યો છે. નાણાં મંત્રાલયે જાહેર કર્યું છે કે આ નવા દરો 24 સપ્ટેમ્બરથી સમગ્ર દેશમાં અમલી બની જશે. સરકારના આ પગલાથી હવે રિફાઇન્ડ સોયા અને પામ ઓઇલ તેમજ અન્ય તેલના ભાવ ઘટવાની શક્યતા છે. ક્રૂડ સોયા અને ક્રૂડ પામ ઓઇલ પરની ડ્યુટી 10 ટકાથી ઘટાડીને 5 ટકા કરી દેવામાં આવી છે, જ્યારે રિફાઇન્ડ ઓઇલ પરની ડ્યુટી 32.5 ટકાથી ઘટાડીને 27.5 ટકા કરવામાં આવી છે. આ ઉપરાંત સૌથી મહત્વનો નિર્ણય ક્રૂડ સૂર્યમુખી તેલ પર લેવાયો છે, જેમાં કસ્ટમ ડ્યુટી ઘટાડીને શૂન્ય કરી દેવામાં આવી છે. આ ઘટાડાનો સીધો ફાયદો ગ્રાહકોને મળશે, જેમના રસોડાના બજેટમાં રાહત જોવા મળશે. સરકારનું આ પગલું તહેવારોમાં મોંઘવારીને કાબૂમાં રાખવા અને સામાન્ય માણસને રાહત આપવાના હેતુથી લેવામાં આવ્યું છે, જે ચોક્કસપણે આવકારદાયક છે.",
-            "published": "2026-09-24T05:24:12+00:00"
           }
         ]
       }
@@ -894,6 +894,20 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "ஏஐ கிறிஸ்துவுக்கு எதிரானது என சிலர் நம்புவது ஏன்? அது மனிதர்களை சாத்தானை வணங்கச் செய்யும் கருவியாக செயல்படுகிறதா?",
+            "link": "https://www.bbc.com/tamil/articles/cq07ly09klx0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-24T11:33:30+00:00"
+          },
+          {
+            "title": "ஞானேஷ் குமார்: எதிர்க்கட்சிகளின் விமர்சனத்துக்கு ஆளாகியிருக்கும் தலைமை தேர்தல் ஆணையரின் முழு பின்னணி",
+            "link": "https://www.bbc.com/tamil/articles/cr5y5e91k7p2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-24T11:30:15+00:00"
+          },
           {
             "title": "\"போய் சாவுங்க\".. பஸ் எரியுதுனு சொன்னாலும் நிறுத்தாமல் சிரித்த டிரைவர்.. 9 பேர் கருகி பலி.. சோகம்",
             "link": "https://tamil.oneindia.com/news/india/uttar-pradesh-bus-fire-driver-smile-and-didnot-stops-bus-after-passenger-alerts-fire-this-leads-kil-833355.html",
@@ -907,13 +921,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-24T15:57:21+05:30"
-          },
-          {
-            "title": "ஏஐ கிறிஸ்துவுக்கு எதிரானது என சிலர் நம்புவது ஏன்? அது மனிதர்களை சாத்தானை வணங்கச் செய்யும் கருவியாக செயல்படுகிறதா?",
-            "link": "https://www.bbc.com/tamil/articles/cq07ly09klx0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-24T10:06:13+00:00"
           },
           {
             "title": "இங்கிலாந்தில் சுறா மீன்களுக்கிடையே ஜேம்ஸ் செய்ததை பார்த்து திக்கு முக்காடிய காதலி! ஏன் தெரியுமா?",
@@ -963,13 +970,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-24T04:07:34+00:00"
-          },
-          {
-            "title": "'10 மாதங்களில் 14 ஆட்சேபனை': தேர்தல் ஆணைய செயல்பாடு குறித்த புலனாய்வு அறிக்கை தகவலால் கொந்தளிப்பு",
-            "link": "https://www.bbc.com/tamil/articles/cx7v4yy21n2yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-24T03:38:47+00:00"
           },
           {
             "title": "\"விஜய் என்னை வைத்து கார் ஓட்டினார்! அப்போ என்ன சொன்னார் தெரியுமா?\" சீமான் பரபர தகவல்!",
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "మోడీ ఏరికోరి తెచ్చుకున్న ఈసీ కమిషనర్ల తిరుగుబాటు ? ఎవరీ సంధూ, వివేక్ జోషీ..?",
+            "link": "https://telugu.oneindia.com/news/india/who-are-election-commissioners-vivek-joshi-and-sukhbir-singh-sandhu-why-their-dissent-has-put-eci-u-507681.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-24T17:08:53+05:30"
+          },
+          {
+            "title": "Breaking: 48 గంటల్లో సీఈసీ రాజీనామా- తేడా వస్తే దేశవ్యాప్త ఉద్యమం- కాక్రోచ్ అల్టిమేటం..!",
+            "link": "https://telugu.oneindia.com/news/india/cjp-founder-abhijeet-dipke-slams-cec-gyanesh-kumar-calls-for-his-immediate-resignation-507715.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-24T17:08:27+05:30"
+          },
+          {
+            "title": "CEC పై కోర్టు ధిక్కారం ? చిక్కుల్లో కేంద్రం..! సుప్రీంలో కీలక పరిణామం..!",
+            "link": "https://telugu.oneindia.com/news/india/cec-gyanesh-kumar-faces-contempt-proceedings-move-sc-advocate-seeks-ag-s-consent-507717.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-24T17:07:15+05:30"
+          },
+          {
             "title": "Hurun India Rich List 2026: హైదరాబాద్ లో టాప్ 7 రిచెస్ట్ పర్సన్స్ వీళ్లే..",
             "link": "https://telugu.oneindia.com/news/telangana/hurun-seven-hyderabad-billionaires-feature-in-the-hurun-india-top-100-list-here-are-the-details-507739.html",
             "source": "Oneindia Telugu",
@@ -1093,25 +1114,11 @@
             "published": "2026-09-24T16:29:25+05:30"
           },
           {
-            "title": "CJP on EC: సీఈసీ రాజీనామా చేయకుంటే ‘జంతర్‌ మంతర్‌ 2.0’ - సీజేపీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGdxZWduQmJGY3dwS1VQWlBubllPdFlFdnJoT3JKcmVjWXJnREVnMFZaWFQxRnRGVVYtUkxLUHo4MXJYV1VGcUlZVkV6N0dlOUt3eEJrWldvU0Noc1hQcmVPc1gyTTdqeTEybEFXWldFeWl5aC1lMURxVzJ1cjl4Z2oydk1pWHBHRjNvSXNPT19sNUJhbFhOemNRU3BUMzM1SmpQVnpTS05rUVk1T1FkYVYyUFZSRHdjNFJFNXBqRHPSAcABQVVfeXFMTkhncWVnbkJiRmN3cEtVUFpQbm5ZT3RZRXZyaE9ySnJlY1lyZ0RFZzBWWlhUMUZ0RlVWLVJMS1B6ODFyWFdVRnFJWVZFejdHZTlLd3hCa1pXb1NDaHNYUHJlT3NYMk03ankxMmxBV1pXRXlpeWgtZTFEcVcydXI5eGdqMnZNaVhwR0Yzb0lzT09fbDVCYWxYTnpjUVNwVDMzNUpqUFZ6U0tOa1FZNU9RZGFWMlBWUkR3YzRSRTVwakRz?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-24T10:49:56+00:00"
-          },
-          {
             "title": "Latest Current Affairs Reports & Surveys | Eenadu Pratibha|2026|telugu-medium - eenadu pratibha",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjU0QUxrejNfWl9seGZ0ZnFXb0wzN3VaanBWUWQzTlpVdi1jcFI1N05FeC1pZWNYVHZaLTFZOHBxQ2dfbjNOWExGVkktOEI3RzJEUnNWTW95ZUFNTzF5emVEeDc4RDduTWdJSENEdXE1MmM5aktMaGxVTWxscVN0ZmZkSjRXbU5hdXI5ZTc2aHc0eUI0Tkw1SnRMNDU3azlqbTI2ZU5qSE5sUVJsRHc?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-24T10:41:19+00:00"
-          },
-          {
-            "title": "Britain: ఇతర దేశాల ఉపగ్రహాలను బ్లాక్‌ చేస్తున్న బ్రిటన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWtMMTFfNGVJY0xER3hqSmJ6ak5XZzkyR1h1eFhmV0ppTnUyaTdVbFQ4SGpNVTV6b3h5RlpJeXZJbWswRUh2LTMyYTd0RFRMVUNyWWc0eEl2TzZrTXpXelNZN3EyNlg5V291YTFNQXFVNmI3SDdMcUVaSjd2ME5UUWFZQTFxTTFkN3J3QjNiY1dkRE1PZVNvQXZrMHE2a1d2NEI4TTAybExvUGNER21qeFpBMzE1ckRkS0FGdFB1N1Jmc3lH0gHEAUFVX3lxTFA5a0wxMV80ZUljTERHeGpKYnpqTldnOTJHWHV4WGZXSmlOdTJpN1VsVDhIak1VNXpveHlGWkl5dkltazBFSHYtMzJhN3REVExVQ3JZZzR4SXZPNmtNeld6U1k3cTI2WDlXb3VhMU1BcVU2YjdIN0xxRVpKN3YwTlRRYVlBMXFNMWQ3cndCM2JjV2RETU9lU29BdmswcTZrV3Y0QjhNMDJsTG9QY0RHbWp4WkEzMTVyRGRLQUZ0UHU3UmZzeUc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-24T10:31:15+00:00"
           },
           {
             "title": "పర్యాటకంగా తెలంగాణా బ్రాండ్ ప్రపంచానికి తెలిసేలా.. ఆదాయం వచ్చేలా బిగ్ ప్లాన్!",
@@ -1147,13 +1154,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-09-24T10:06:07+00:00"
-          },
-          {
-            "title": "నెలకు లక్ష నుండి రెండున్నర లక్షలు సంపాదించే ఈ బిజినెస్ కు ఏపీ సర్కార్ అండ!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/polutry-best-income-business-the-ap-government-backs-poultry-business-earns-between-1-lakh-and-2-507719.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-24T15:30:01+05:30"
           }
         ],
         "Entertainment": [
