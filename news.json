@@ -1,23 +1,37 @@
 {
-  "updated_at": "2026-09-25T20:31:18.798658+00:00",
+  "updated_at": "2026-09-25T21:01:38.115379+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+            "published": "2026-09-25T20:47:49+00:00"
+          },
+          {
+            "title": "Greater Noida bus fire: booking manager arrested for negligence",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece",
+            "source": "The Hindu",
+            "summary": "Police said passengers had called Vikas Kumar about smoke and fire before the blaze but he did not act; three more victims were identified on Friday",
+            "published": "2026-09-26T02:04:24+05:30"
+          },
+          {
+            "title": "Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election",
+            "link": "https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-26T02:02:39+05:30"
+          },
+          {
             "title": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
             "source": "Economic Times",
             "summary": "Wall Street experienced gains on Friday, driven by positive performance from Microsoft and AI-related technology stocks. High oil prices and rising US Treasury yields created investor uncertainty throughout the week. Various industries are under scrutiny regarding their prospects related to artificial intelligence advancements. Additionally, traders faced a potential interest rate increase by the Federal Reserve in…",
             "published": "2026-09-26T01:41:14+05:30"
-          },
-          {
-            "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-            "published": "2026-09-25T20:07:43+00:00"
           },
           {
             "title": "M.P. gets govt. bus service after 21 years; 351 buses flagged off",
@@ -69,6 +83,13 @@
             "published": "2026-09-25T19:38:21+00:00"
           },
           {
+            "title": "E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari",
+            "link": "https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece",
+            "source": "The Hindu",
+            "summary": "‘All automobile companies will bring out vehicles equipped with flex-fuel engines that can run on 100% ethanol. The country will no longer need to import petrol and diesel worth ₹22 lakh crore. There will be no pollution’",
+            "published": "2026-09-26T01:05:00+05:30"
+          },
+          {
             "title": "Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on",
             "link": "https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece",
             "source": "The Hindu",
@@ -81,30 +102,23 @@
             "source": "The Hindu",
             "summary": "For three decades, the Balapur Ganesh laddu has grown from a ₹450 village tradition into a ₹39-lakh symbol of faith, prosperity and changing fortunes. Once bought by farmers and shared among villagers, the prasadam is now sought by businessmen and real-estate entrepreneurs, reflecting the dramatic transformation of a once-rural landscape",
             "published": "2026-09-26T01:01:27+05:30"
-          },
-          {
-            "title": "Narrowed posture: On Karnataka and the Kasturirangan Report",
-            "link": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece",
-            "source": "The Hindu",
-            "summary": "Karnataka must not reject the entire framework of ecologically sensitive areas",
-            "published": "2026-09-26T00:59:30+05:30"
-          },
-          {
-            "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-            "link": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
-            "published": "2026-09-25T19:24:46+00:00"
-          },
-          {
-            "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-            "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
-            "published": "2026-09-25T19:21:57+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Greater Noida bus fire: booking manager arrested for negligence",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/greater-noida-bus-fire-booking-manager-arrested-for-negligence/article71509263.ece",
+            "source": "The Hindu",
+            "summary": "Police said passengers had called Vikas Kumar about smoke and fire before the blaze but he did not act; three more victims were identified on Friday",
+            "published": "2026-09-26T02:04:24+05:30"
+          },
+          {
+            "title": "Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election",
+            "link": "https://www.thehindu.com/news/national/punjab/congress-hopes-for-calm-in-punjab-unit-but-storm-clouds-remain-ahead-of-2027-assembly-election/article71509096.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-26T02:02:39+05:30"
+          },
           {
             "title": "M.P. gets govt. bus service after 21 years; 351 buses flagged off",
             "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-getsgovt-bus-service-after-21-years-351-buses-flagged-off/article71509637.ece",
@@ -134,6 +148,13 @@
             "published": "2026-09-26T01:10:05+05:30"
           },
           {
+            "title": "E20 fuel increases mileage, helps farmers, and will not harm vehicles, says Gadkari",
+            "link": "https://www.thehindu.com/news/national/e20-fuel-increases-mileage-helps-farmers-and-will-not-harm-vehicles-says-gadkari/article71509834.ece",
+            "source": "The Hindu",
+            "summary": "‘All automobile companies will bring out vehicles equipped with flex-fuel engines that can run on 100% ethanol. The country will no longer need to import petrol and diesel worth ₹22 lakh crore. There will be no pollution’",
+            "published": "2026-09-26T01:05:00+05:30"
+          },
+          {
             "title": "Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on",
             "link": "https://www.thehindu.com/news/national/telangana/hyderabad-metro-rail-phase-i-takeover-phase-ii-expansion-hit-roadblock-as-funding-search-drags-on/article71509329.ece",
             "source": "The Hindu",
@@ -155,48 +176,27 @@
             "published": "2026-09-26T00:59:30+05:30"
           },
           {
+            "title": "ICG ship Shaunak sails for Australia with QUAD officers onboard",
+            "link": "https://www.thehindu.com/news/national/icg-ship-shaunak-sails-for-australia-with-quad-officers-onboard/article71509417.ece",
+            "source": "The Hindu",
+            "summary": "The initiative is aligned with the QUAD Foreign Ministers’ Joint Statement of May 26, 2026, which reiterated the grouping’s commitment to a free, open, inclusive and rules-based maritime order in the Indo-Pacific",
+            "published": "2026-09-26T00:55:04+05:30"
+          },
+          {
             "title": "1,671 km of stormwater drains being desilted: Chennai Mayor",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/1671-km-of-stormwater-drains-being-desilted-chennai-mayor/article71510339.ece",
             "source": "The Hindu",
             "summary": "",
             "published": "2026-09-26T00:46:45+05:30"
-          },
-          {
-            "title": "Rani Channamma University officials held over fraud allegations",
-            "link": "https://www.thehindu.com/news/national/karnataka/rani-channamma-university-officials-held-over-fraud-allegations/article71508843.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-26T00:43:19+05:30"
-          },
-          {
-            "title": "Railways to run 102 festival special trips via Solapur division",
-            "link": "https://www.thehindu.com/news/national/karnataka/railways-to-run-102-festival-special-trips-via-solapur-division/article71509426.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-26T00:41:27+05:30"
-          },
-          {
-            "title": "Blood donation camp held in Raichur",
-            "link": "https://www.thehindu.com/news/national/karnataka/blood-donation-camp-held-in-raichur/article71508760.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-26T00:38:51+05:30"
-          },
-          {
-            "title": "AIADMK not agreeing to field a common candidate reason for not extending support: PMK",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-not-agreeing-to-field-a-common-candidate-reason-for-not-extending-support-pmk/article71510149.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-26T00:37:54+05:30"
           }
         ],
         "World": [
           {
-            "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+            "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
             "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-            "published": "2026-09-25T20:07:43+00:00"
+            "published": "2026-09-25T20:47:49+00:00"
           },
           {
             "title": "Which countries walked out of Netanyahu’s UNGA speech?",
@@ -655,7 +655,7 @@
             "published": "2026-09-26T12:04:19+05:30"
           },
           {
-            "title": "दिल्ली: बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी",
+            "title": "दिल्ली: बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को होगी परेशानी; रविवार को कामकाज पर असमंजस",
             "link": "https://www.amarujala.com/delhi-ncr/delhi-bank-unions-strike-from-september-28-2026-09-26",
             "source": "Amar Ujala",
             "summary": "",
@@ -1086,6 +1086,13 @@
             "published": "2026-09-25T18:40:00+00:00"
           },
           {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (26/09/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1ZPTXFvSGdsdDdyV0hXaDdRX0xLTk9NOFhuM0hYUmxiUFJkMlB5UFJZdGV3SGUzZW1WcXNrV1NVTDFNV3BXcDJGYUVWSllOblBxdE5yMmdvUC1Zbk9VSkVmRWFUNE1RWnI3TWlTdWlqZnowam1YdEJENk9TRU1rNE04WFlBdkZYRHZqZVN2bFg2SjN1QWw0UGRJWTAxb3IwRDNFRWViWk1QLWdFdHV5UUNWUVnSAbQBQVVfeXFMUDNWT01xb0hnbHQ3cldIV2g3UV9MS05PTThYbjNIWFJsYlBSZDJQeVBSWXRld0hlM2VtVnFza1dTVUwxTVdwV3AyRmFFVkpZTm5QcXROcjJnb1AtWW5PVUpFZkVhVDRNUVpyN01pU3VpamZ6MGptWHRCRDZPU0VNazRNOFhZQXZGWER2amVTdmxYNkozdUFsNFBkSVkwMW9yMEQzRUVlYlpNUC1nRXR1eVFDVlFZ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-25T18:31:59+00:00"
+          },
+          {
             "title": "ఇరాన్ డ్రోన్ల వెనుక దాగున్న అసలు సూత్రధారి? అమెరికా నిఘా వర్గాల షాకింగ్ రిపోర్ట్!",
             "link": "https://telugu.oneindia.com/news/international/china-satellite-data-boosts-iran-drone-strikes-us-intelligence-raises-alarm-over-support-full-deta-507931.html",
             "source": "Oneindia Telugu",
@@ -1142,18 +1149,11 @@
             "published": "2026-09-25T19:58:58+05:30"
           },
           {
-            "title": "సామాన్య భక్తులకు అమ్మవారి దర్శనం కల్పించాలి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSDVaNHVaRFlvWXpmelFTQ21CcUtERS1zYkpZQncweFptOXdZYWI4ZUpKSkM0MXE5YmJURWNRNzZYSVQyMkNIcFlKLTNUb2VKRXpnVGc0ZkZ3T2c2eG5IYVR5UUZqZk9QY24xSWljSWZIWHQ3QWo2OV9KRDZOeVFCQw?oc=5",
+            "title": "Asian Games: పోల్‌ వాల్ట్‌లో భారత్‌కు కాంస్యం.. భరణిక రికార్డు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0Q0VEtvbk1Wdk1jZkZQQkw3RFYzblJTOEhwQ2hMdHVrREVXeXd2STlJUXFOd1dtTnMxN2lMX0dzMU1pWTZjSV9jWGJtRzFZLXFaX3EwcVRxR2lGVzN6b0V1WTl3VTBsczUtVnBNa29tYUt0Ny1iU3dieS1BQTRndmZudS0tX0lPcVRtdlluc0RkdnlNSm5GLWtvdllraUg3TWpJVU1IbHZfckcyakZ2MkQycWdWU0Z4MXNwUXRObnIxdjY0ZEJVQmNsQ2h5TzhuckpZ0gHTAUFVX3lxTFBzRDRUS29uTVZ2TWNmRlBCTDdEVjNuUlM4SHBDaEx0dWtERVd5d3ZJOUlRcU53V21OczE3aUxfR3MxTWlZNmNJX2NYYm1HMVktcVpfcTBxVHFHaUZXM3pvRXVZOXdVMGxzNS1WcE1rb21hS3Q3LWJTd2J5LUFBNGd2Zm51LS1fSU9xVG12WW5zRGR2eU1KbkYta292WWtpSDdNaklVTUhsdl9yRzJqRnYyRDJxZ1ZTRngxc3BRdE5ucjF2NjRkQlVCY2xDaHlPOG5ySlk?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-25T14:26:44+00:00"
-          },
-          {
-            "title": "ఏపీలో ఉలుకుపలుకు లేని కాంగ్రెస్.. !!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/andhra-congress-committee-stays-calm-as-the-party-launched-nationwide-protests-on-cec-gyanesh-kumar-507917.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-25T19:49:07+05:30"
+            "published": "2026-09-25T14:26:45+00:00"
           }
         ],
         "Entertainment": [
@@ -1489,6 +1489,13 @@
             "published": "2026-09-25T12:35:59+00:00"
           },
           {
+            "title": "আজকের দিন বৃষ রাশি- ২৬ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkFvUFp6TkNkY2t2elNkUlVDVFllY0ZZMl9zUWZUUFBwWnR0UkFza1YtM0w5TUpad1lEU2NxWkthVlV0SVR6TzJpZzNja28xT3dtVjdSc2tMOUhwSVpHWTF0MHF4d1RWLWFLY2k5RUw2QTBDWkxpWHR5N3hzR196TFBEelljb3AwNTRDNGtQdVFydE1oYS1YbFc5bjByQnpyQkplYS0zZWhDZVR3cFBPSDMyalNnQdIBuwFBVV95cUxOYmVHS1Zxcm9hT3BiZzlrWXBNVXBKbEpWWGVaeDJobTBnVUppLXZ3WjhmSHI4WHVSWVZsamVNelowcVRxdjhLV3dkRGNjTEpibGEzbUJ2OC0zbjRlRENzWTF6TjYySUZLUjFDTzlrZXg2cXVLbkdfd1NpSTJIcmdLVjFKdEVPaUpab0VTRy0wWjZjaFRiVjBYZnFKTnNfRHZOdXpjUGJnUmsyRk1FbXFERHVSZ1g1S0hHT2w4?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-25T12:33:56+00:00"
+          },
+          {
             "title": "আজকের দিন মেষ রাশি- ২৬ সেপ্টেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWR2cWRtTkhBMHl0ZllGMlF3X0EtdGFQTzREM2k4V3UtblJQcWtfcU4yS2lXak9kNkZEM3hJSlVFdFN5aHRtODVnaUNwbUFmSG9PU2F5RHIyNTNTc05sNzcxMDM3R20tN0h6OXBuTmljOUJvY1RZT241NGpvN3JjVGdXWVhKWExqakJvbVYweFU2cUlyWXhDbldDSEVNdzRQVzB4RjM3Nk5EQnBxRkHSAbMBQVVfeXFMTzhFMzZ5MTVHM05tN2pRR1hCcl9VRUplVEFsYmNhazFVcTJKVlFxNnNHTU15UldVMmtYb1EzZGhNSzBadDJfdFpUQXZSUE43TkdLVVBteWlDWVZGamlCalJOSWphcXYxbTBqUDNMb0xiRkdFZC0zaEZZNllIcE9SaEtnNUpfbXc3R1k1MFlJOWRudGU4ZlRVdFZ2akNMOGVNRTdaRF84ZzgycTJPekxoNmNyUjA?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-25T12:29:21+00:00"
-          },
-          {
-            "title": "জ্ঞানেশের ইস্তফা চেয়ে বিক্ষোভ দেশ জুড়ে! পটনায় জলকামান, গুয়াহাটিতে আটক গগৈ, নেহা দিল্লিতে, মিছিল কলকাতাতেও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTg1N0VJa01OZjV4eEJKRXRJdnV2dm1kc3RDNllSenJUdU9CU1M1VFR2SldfYzNZWE1HamFISzhGdnc4WmJ5Yng0cEptd2VVRDBSWUpYTUdHbXFKd1h1QnNPeFBwOTFmanAwNktPZUVVbXpuMEZ1UU1SV1g3QjNaOFk5dkRZcFlMRlJqbVN2OEEwZ3ZqdXlIcFlZZ2dWdFJwckxPUWNTVTNxNjVMcnY4MVV2OFVGU19UT3NjeTVPXzAxek9ZUFhIdFIxNHNTMzhnRmRkRFAwRkdtVmZlUmlMYWNBcXlqUdIB6wFBVV95cUxPSHpKeUlYV0pNbDRlT21EbDdXajBtbEZMd1p4NEViVmR5SkR2OUR5WHFjZ0liamxoc3BORmFuRXdDY3Zxemw0b3g0WGVwMzZ0eml4ZTV1TFBPNkpiMWJPeWtFUHBIaUtfZ0lxTV95SUp0SlFKVDhBNy1yZjJDZi0xb0FFd3RxSWwyclFTZVBiMHBxdm9admF3czBiSUZ5dUhlaDRRU1Y2OE5TR19ucGhjc3VaVTU3NHJGeWVlc0RoY2VCMTRjT0VaZlVUaEpUNml0UTBlMElsMXktM2EwM285eVV0OWQxRXFGdVpB?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-25T12:19:57+00:00"
           }
         ]
       }
