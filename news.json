@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-09-27T20:31:16.792694+00:00",
+  "updated_at": "2026-09-27T21:01:34.858781+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "IndiGo A321 suffers tail strike in Bengaluru",
+            "link": "https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-in-bengaluru/articleshow/134526157.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-28T02:15:24+05:30"
+          },
+          {
+            "title": "Boeing flags 737 MAX glitch that may turn off auto pilot",
+            "link": "https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-28T02:09:39+05:30"
+          },
+          {
+            "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+            "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+            "published": "2026-09-27T20:34:09+00:00"
+          },
+          {
+            "title": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+            "link": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+            "published": "2026-09-27T20:29:34+00:00"
+          },
+          {
             "title": "India to attend SCO officials' meeting in Pakistan",
             "link": "https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-28T01:54:10+05:30"
+          },
+          {
+            "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+            "link": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
+            "published": "2026-09-27T20:21:30+00:00"
           },
           {
             "title": "'Giving back to my country': Dubai teen uses birthday savings to build solar plant in UP",
@@ -67,44 +102,23 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-09-28T01:16:17+05:30"
-          },
-          {
-            "title": "Kerala High Court directs State to ensure adequate facilities at POCSO courts",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-ensure-adequate-facilities-at-pocso-courts/article71509475.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T01:15:30+05:30"
-          },
-          {
-            "title": "Kappan says HC has no jurisdiction over disqualification plea",
-            "link": "https://www.thehindu.com/news/national/kerala/kappan-says-hc-has-no-jurisdiction-over-disqualification-plea/article71509602.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T01:11:37+05:30"
-          },
-          {
-            "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-            "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
-            "published": "2026-09-27T19:35:30+00:00"
-          },
-          {
-            "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
-            "link": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.",
-            "published": "2026-09-27T19:34:42+00:00"
-          },
-          {
-            "title": "Actor Lakshmipriya booked for allegedly defaming Ansiba Hassan",
-            "link": "https://www.thehindu.com/news/national/kerala/actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hassan/article71517199.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T01:04:35+05:30"
           }
         ],
         "India": [
+          {
+            "title": "IndiGo A321 suffers tail strike in Bengaluru",
+            "link": "https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-in-bengaluru/articleshow/134526157.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-28T02:15:24+05:30"
+          },
+          {
+            "title": "Boeing flags 737 MAX glitch that may turn off auto pilot",
+            "link": "https://timesofindia.indiatimes.com/india/boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot/articleshow/134526139.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-28T02:09:39+05:30"
+          },
           {
             "title": "India to attend SCO officials' meeting in Pakistan",
             "link": "https://timesofindia.indiatimes.com/india/india-to-attend-sco-officials-meeting-in-pakistan/articleshow/134526093.cms",
@@ -174,23 +188,30 @@
             "source": "The Hindu",
             "summary": "A high-level committee of the Indian Banks’ Association and UFBU will be formed immediately to deliberate on the issue of declaring the remaining Saturdays as holidays, the statement said",
             "published": "2026-09-28T00:38:03+05:30"
-          },
-          {
-            "title": "Govt. to build ‘Karnataka Mantapa’ modeled after ‘Bharat Mandapam’: CM Shivakumar",
-            "link": "https://www.thehindu.com/news/national/karnataka/govt-to-build-karnataka-mantapa-modeled-after-bharat-mandapam-cm-shivakumar/article71516720.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T00:33:42+05:30"
-          },
-          {
-            "title": "Unfortunate that Veerashaiava-Lingayat community which worked for social justice has to seek justice now: Khandre",
-            "link": "https://www.thehindu.com/news/national/karnataka/unfortunate-that-veerashaiava-lingayat-community-which-worked-for-social-justice-has-to-seek-justice-now-khandre/article71516688.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T00:33:07+05:30"
           }
         ],
         "World": [
+          {
+            "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+            "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+            "published": "2026-09-27T20:34:09+00:00"
+          },
+          {
+            "title": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+            "link": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+            "published": "2026-09-27T20:29:34+00:00"
+          },
+          {
+            "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+            "link": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
+            "published": "2026-09-27T20:21:30+00:00"
+          },
           {
             "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
             "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "This incident comes only two days after at least 41 people died in another boat capsizing in DRC.",
             "published": "2026-09-27T18:47:52+00:00"
-          },
-          {
-            "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-            "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "South Korea&#039;s presidential office criticises Ukraine for denying POW nondisclosure agreement.",
-            "published": "2026-09-27T18:30:53+00:00"
-          },
-          {
-            "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-            "published": "2026-09-27T17:46:04+00:00"
-          },
-          {
-            "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-            "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
-            "published": "2026-09-27T17:42:45+00:00"
           }
         ],
         "Business": [
@@ -1149,11 +1149,11 @@
             "published": "2026-09-27T20:20:09+05:30"
           },
           {
-            "title": "రైతుల నోట్లో మట్టి కొట్టే కేంద్ర నిర్ణయం - మంత్రి తుమ్మల ఆగ్రహం!",
-            "link": "https://telugu.oneindia.com/news/telangana/telangana-minister-tummala-nageswara-rao-slams-centre-for-cutting-import-duty-on-palm-oil-says-it-hu-508199.html",
-            "source": "Oneindia Telugu",
+            "title": "Ysr kadapa News: ఆకట్టుకున్న విద్యార్థుల స్కేటింగ్ ప్రదర్శన - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU9rVFRZU2lVbzlCNDd4bVdOYkVUUHYzdmpoMTUtVVlPbDhMcDdxOFl6ZmctYUNBWTF4ZEhURGJEdHJMMFFJQ2ZsRFRlRWh5eXZTUXIyWUNrcUJOSWc1bTNoUEJ1dnRZb2FsNGlTaEZXaVZRSU5VSzYxaWlwa1RHN0RrMjNxcURzRFAwX3pJV3d5Z1B5THdKcFVCdEPSAZwBQVVfeXFMUHVPa1RUWVNpVW85QjQ3eG1XTmJFVFB2M3ZqaDE1LVVZT2w4THA3cThZemZnLWFDQVkxeGRIVERiRHRyTDBRSUNmbERUZUVoeXl2U1FyMllDa3FCTklnNW0zaFBCdXZ0WW9hbDRpU2hGV2lWUUlOVUs2MWlpcGtURzdEazIzcXFEc0RQMF96SVd3eWdQeUx3SnBVQnRD?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-27T19:48:15+05:30"
+            "published": "2026-09-27T14:44:46+00:00"
           }
         ],
         "Entertainment": [
