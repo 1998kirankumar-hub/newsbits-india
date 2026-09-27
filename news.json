@@ -1,111 +1,181 @@
 {
-  "updated_at": "2026-09-27T12:01:38.293308+00:00",
+  "updated_at": "2026-09-27T12:31:20.208086+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Miller, Bavuma centuries propel South Africa to 365",
+            "link": "https://www.cricinfo.com/ci/content/story/1555929.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Ellis suffered a side injury and bowled just four overs, leaving Australia's attack depleted",
+            "published": "2026-09-27T12:25:13+00:00"
+          },
+          {
+            "title": "New homes, new jobs: Why this Denver-area ZIP code is drawing movers",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/new-homes-new-jobs-why-this-denver-area-zip-code-is-drawing-movers/articleshow/134519505.cms",
+            "source": "Times of India",
+            "summary": "Aurora, Colorado's 80019 ZIP code is now the most popular destination for movers in the United States. The ranking is based on a significant number of new housing developments in the area. Fort Leavenworth, Kansas, remains in second place due to military relocations that dominate its movement figures. Florida has three spots in the top ten, appealing to retirees and remote workers.",
+            "published": "2026-09-27T17:49:35+05:30"
+          },
+          {
+            "title": "Rishikesh rafting halted indefinitely as Ganga water level rises: Officials",
+            "link": "https://www.hindustantimes.com/india-news/rishikesh-rafting-halted-indefinitely-as-ganga-water-level-risesofficials-101790511412774.html",
+            "source": "Hindustan Times",
+            "summary": "Rafting resumed in the Ganga on September 23 following the annual monsoonal break that began on July 1",
+            "published": "2026-09-27T17:46:52+05:30"
+          },
+          {
+            "title": "Tribal students to launch 180-km march to Mumbai on September 28 over poor residential school facilities",
+            "link": "https://www.thehindu.com/news/national/maharashtra/tribal-students-to-launch-180-km-march-to-mumbai-on-september-28-over-poor-residential-school-facilities/article71515728.ece",
+            "source": "The Hindu",
+            "summary": "Key demands include resignation of Maharashtra Tribal Development Minister Ashok Uike, transfer of Tribal Development Department’s Secretary and Commissioner and basic facilities in tribal schools and hostels",
+            "published": "2026-09-27T17:41:05+05:30"
+          },
+          {
+            "title": "Delhi minister Parvesh Verma loses cool, slaps man filming him during road inspection | Video",
+            "link": "https://www.hindustantimes.com/india-news/delhi-deputy-cm-parvesh-verma-loses-cool-slaps-man-filming-him-during-road-inspection-video-101790509456988.html",
+            "source": "Hindustan Times",
+            "summary": "The young man who was allegedly hit later said that an FIR has been filed. He also alleged that Verma’s “associates threatened to kill” him after the incident.",
+            "published": "2026-09-27T17:39:15+05:30"
+          },
+          {
+            "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
+            "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
+            "published": "2026-09-27T12:02:50+00:00"
+          },
+          {
+            "title": "Tamil Nadu govt rolls back law and order department’s RTI exemption amid backlash",
+            "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms",
+            "source": "Times of India",
+            "summary": "The Tamil Nadu government faced backlash after it issued a notification that exempted the Public (Law and Order) Department from the Right to Information (RTI) Act. Critics, including numerous political leaders, argued that such an action would jeopardize transparency and obstruct public access to crucial law records. In response to widespread criticism, the government promptly withdrew the exemption, reaffirming…",
+            "published": "2026-09-27T17:32:37+05:30"
+          },
+          {
+            "title": "Asian Games: Ancy Sojan misses gold by 2cm, Shaili loses bronze on final jump",
+            "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-ancy-sojan-misses-long-jump-gold-by-2cm-shaili-singh-loses-bronze-on-final-attempt/articleshow/134519748.cms",
+            "source": "Times of India",
+            "summary": "In a nail-biting finish at the Asian Games 2026, Ancy Sojan just fell short of clinching the gold medal in the women's long jump, achieving a stellar jump of 6.53m, only to be bested by China's Yingying Huang at 6.55m. Shaili Singh, meanwhile, faced disappointment, slipping to fourth place with a last jump that pushed her down after Mengyi Tan's leap.",
+            "published": "2026-09-27T17:31:10+05:30"
+          },
+          {
+            "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
+            "link": "https://www.thehindu.com/news/national/india-canada-preparing-to-take-ties-to-higher-level-jaishankar/article71515782.ece",
+            "source": "The Hindu",
+            "summary": "Amid discussions in India regarding diversification of its energy sources, Jaishankar also met Venezuela Foreign Minister Felix Plasencia Gonzalez on the UNGA sidelines",
+            "published": "2026-09-27T17:30:10+05:30"
+          },
+          {
+            "title": "Om five-for bowls Australia Under-19 out for 217 despite Cattle century",
+            "link": "https://www.cricinfo.com/ci/content/story/1555921.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Visitors in Rajkot had done well to recover from 27 for 3, before India U-19 hit back",
+            "published": "2026-09-27T12:00:09+00:00"
+          },
+          {
+            "title": "Mobile phone retailers to protest against UPI MDR charges on October 2",
+            "link": "https://www.thehindu.com/news/national/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-october-2/article71515807.ece",
+            "source": "The Hindu",
+            "summary": "The All India Mobile Retailers Association for the Delhi NCR region said retailers will symbolically cover UPI QR codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti",
+            "published": "2026-09-27T17:28:37+05:30"
+          },
+          {
+            "title": "Supreme Court orders action against Mau SPs from 2023 over ‘casual approach’ in criminal case trial",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-orders-action-against-mau-sps-from-2023-over-casual-approach-in-criminal-case-trial/article71515793.ece",
+            "source": "The Hindu",
+            "summary": "A Bench said only two of 54 prosecution witnesses have been examined since charges were framed in a 2017 kidnapping case, calling the prosecution “absolutely slack”",
+            "published": "2026-09-27T17:27:49+05:30"
+          },
+          {
+            "title": "After backlash, Tamil Nadu government withdraws G.O. exempting Public (Law and Order) Department from RTI Act",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+            "source": "The Hindu",
+            "summary": "According to the Government Order dated September 21, 2026, information on communal and caste clashes, inquiry reports on police firing, custodial deaths, details on handling of agitations by students and farmers; and matters relating to National Security Act detentions, were excluded from the ambit of RTI Act",
+            "published": "2026-09-27T17:27:04+05:30"
+          },
+          {
             "title": "Ludhiana to host 'Jashan-e-Inquilab' on Bhagat Singh's birth anniversary on Sep 28",
             "link": "https://www.hindustantimes.com/india-news/ludhiana-to-host-jashan-e-inquilab-on-bhagat-singh-s-birth-anniversary-on-sep-28-101790510094081.html",
             "source": "Hindustan Times",
             "summary": "",
             "published": "2026-09-27T17:24:53+05:30"
-          },
-          {
-            "title": "Pinarayi Vijayan, Ramesh Chennithala cross swords over Kerala Lok Ayukta",
-            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-ramesh-chennithala-cross-swords-over-kerala-lok-ayukta/article71515762.ece",
-            "source": "The Hindu",
-            "summary": "While Pinarayi alleges that the Home Minister chaired a high-level meeting attended by Lok Ayukta, Upa Lok Ayuktas and senior government officials to bring the institution under executive control, Chennithala maintains the discussion was convened to address long-pending administrative issues",
-            "published": "2026-09-27T17:22:38+05:30"
-          },
-          {
-            "title": "40-year-old demand for road to Scheduled Caste village causes communal rift in Nilgiris",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/40-year-old-demand-for-road-to-scheduled-caste-village-causes-communal-rift-in-nilgiris/article71515572.ece",
-            "source": "The Hindu",
-            "summary": "As many as 40 Sri Lankan-repatriate Scheduled Caste families in Ambal Colony, Kil Kotagiri, were set to benefit from a short road near their hamlet. However, the road laying project approved on September 3 has now sparked communal tensions.",
-            "published": "2026-09-27T17:20:38+05:30"
-          },
-          {
-            "title": "CSA reports loss as broadcast challenges loom",
-            "link": "https://www.cricinfo.com/ci/content/story/1555911.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The board is also predicting another loss in the 2026-27 summer despite hosting the Australia and England men's teams",
-            "published": "2026-09-27T11:46:32+00:00"
-          },
-          {
-            "title": "Former U.P. Minister Ram Govind Chaudhary cremated in Ballia with State honours",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/former-up-minister-ram-govind-chaudhary-cremated-in-ballia-with-state-honours/article71515833.ece",
-            "source": "The Hindu",
-            "summary": "Samajwadi Party veteran Chaudhary, an eight-time MLA and former leader of the Opposition in the Uttar Pradesh Assembly, died on September 25 while undergoing treatment in Lucknow",
-            "published": "2026-09-27T17:11:54+05:30"
-          },
-          {
-            "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
-            "link": "https://www.thehindu.com/news/national/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515799.ece",
-            "source": "The Hindu",
-            "summary": "“India should bring in regulations. It could become horrible when one major incident happens, and somebody steals the secrets of one of the major departments or, say, atomic energy,” says Dr. Srinivas Padmanabuni",
-            "published": "2026-09-27T17:10:47+05:30"
-          },
-          {
-            "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-            "published": "2026-09-27T11:38:03+00:00"
-          },
-          {
-            "title": "India vs West Indies LIVE Score, 1st ODI: Kuldeep Yadav Tears Through WI Batting, Scalps 2 Wickets In 2 Balls After Justin Greaves' 100",
-            "link": "https://sports.ndtv.com/cricket/india-vs-west-indies-live-score-1st-odi-ind-vs-wi-live-updates-shubman-gill-virat-kohli-rohit-sharma-cricket-12104194#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs West Indies, 1st ODI Live Updates: India spinner Kuldeep Yadav has caused havoc after West Indies opener Justin Greaves slammed his maiden century in the first ODI in Thiruvananthapuram.",
-            "published": "2026-09-27T17:04:21+05:30"
-          },
-          {
-            "title": "UP rain fury: 56 dead in three days, flood-like situation in several districts",
-            "link": "https://www.hindustantimes.com/india-news/up-rain-fury-56-dead-in-three-days-flood-like-situation-in-several-districts-101790508738356.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-27T17:02:17+05:30"
-          },
-          {
-            "title": "Asian Games 2026 Day 8 LIVE Updates: India Women Put Six Goals Past Singapore; 3 Medals Assured In Boxing",
-            "link": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-8-india-medal-tally-squash-badminton-athletics-aichi-nagoya-japan-live-news-12103175#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Asian Games 2026, India In Action, Day 8 LIVE Updates: India are enjoying a productive day across multiple disciplines at the Asian Games.",
-            "published": "2026-09-27T16:59:29+05:30"
-          },
-          {
-            "title": "'Recite Bhagavad Gita fearlessly': Suvendu claims 'winds have changed' in Bengal",
-            "link": "https://timesofindia.indiatimes.com/india/recite-bhagavad-gita-fearlessly-suvendu-adhikari-claims-winds-have-changed-in-bengal/articleshow/134519200.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-27T16:59:08+05:30"
-          },
-          {
-            "title": "RAF Fairford alert: Several arrested, homes evacuated near US air base - key details",
-            "link": "https://timesofindia.indiatimes.com/world/uk/several-arrested-near-uks-raf-fairford-in-explosives-probe-us-base-on-highest-alert-key-details/articleshow/134518951.cms",
-            "source": "Times of India",
-            "summary": "Several men were arrested near RAF Fairford on suspicion of violations under the Explosives Act. Residents of the nearby village of Whelford were evacuated to a leisure center in Cirencester. Police established a cordon around the area while an Army explosive ordnance disposal team assessed several vehicles. Counter-terrorism police are leading the investigation but have not confirmed a link to RAF Fairford.",
-            "published": "2026-09-27T16:56:56+05:30"
-          },
-          {
-            "title": "Operation Toofan to enter second phase on September 28; focus on drug prevention and rehabilitation",
-            "link": "https://www.thehindu.com/news/national/kerala/operation-toofan-to-enter-second-phase-on-september-28-focus-on-drug-prevention-and-rehabilitation/article71515789.ece",
-            "source": "The Hindu",
-            "summary": "Second phase of Operation Toofan envisages the formation of Toofan Janajagratha Samithis through local bodies with the participation of residents’ associations. The committees will coordinate community-level activities aimed at preventing substance abuse and promoting public awareness",
-            "published": "2026-09-27T16:52:42+05:30"
-          },
-          {
-            "title": "Andy Burnham refuses to back third runway at Heathrow",
-            "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
-            "published": "2026-09-27T11:22:32+00:00"
           }
         ],
         "India": [
           {
+            "title": "New homes, new jobs: Why this Denver-area ZIP code is drawing movers",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/new-homes-new-jobs-why-this-denver-area-zip-code-is-drawing-movers/articleshow/134519505.cms",
+            "source": "Times of India",
+            "summary": "Aurora, Colorado's 80019 ZIP code is now the most popular destination for movers in the United States. The ranking is based on a significant number of new housing developments in the area. Fort Leavenworth, Kansas, remains in second place due to military relocations that dominate its movement figures. Florida has three spots in the top ten, appealing to retirees and remote workers.",
+            "published": "2026-09-27T17:49:35+05:30"
+          },
+          {
+            "title": "Rishikesh rafting halted indefinitely as Ganga water level rises: Officials",
+            "link": "https://www.hindustantimes.com/india-news/rishikesh-rafting-halted-indefinitely-as-ganga-water-level-risesofficials-101790511412774.html",
+            "source": "Hindustan Times",
+            "summary": "Rafting resumed in the Ganga on September 23 following the annual monsoonal break that began on July 1",
+            "published": "2026-09-27T17:46:52+05:30"
+          },
+          {
+            "title": "Tribal students to launch 180-km march to Mumbai on September 28 over poor residential school facilities",
+            "link": "https://www.thehindu.com/news/national/maharashtra/tribal-students-to-launch-180-km-march-to-mumbai-on-september-28-over-poor-residential-school-facilities/article71515728.ece",
+            "source": "The Hindu",
+            "summary": "Key demands include resignation of Maharashtra Tribal Development Minister Ashok Uike, transfer of Tribal Development Department’s Secretary and Commissioner and basic facilities in tribal schools and hostels",
+            "published": "2026-09-27T17:41:05+05:30"
+          },
+          {
+            "title": "Delhi minister Parvesh Verma loses cool, slaps man filming him during road inspection | Video",
+            "link": "https://www.hindustantimes.com/india-news/delhi-deputy-cm-parvesh-verma-loses-cool-slaps-man-filming-him-during-road-inspection-video-101790509456988.html",
+            "source": "Hindustan Times",
+            "summary": "The young man who was allegedly hit later said that an FIR has been filed. He also alleged that Verma’s “associates threatened to kill” him after the incident.",
+            "published": "2026-09-27T17:39:15+05:30"
+          },
+          {
+            "title": "Tamil Nadu govt rolls back law and order department’s RTI exemption amid backlash",
+            "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms",
+            "source": "Times of India",
+            "summary": "The Tamil Nadu government faced backlash after it issued a notification that exempted the Public (Law and Order) Department from the Right to Information (RTI) Act. Critics, including numerous political leaders, argued that such an action would jeopardize transparency and obstruct public access to crucial law records. In response to widespread criticism, the government promptly withdrew the exemption, reaffirming…",
+            "published": "2026-09-27T17:32:37+05:30"
+          },
+          {
+            "title": "Asian Games: Ancy Sojan misses gold by 2cm, Shaili loses bronze on final jump",
+            "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-ancy-sojan-misses-long-jump-gold-by-2cm-shaili-singh-loses-bronze-on-final-attempt/articleshow/134519748.cms",
+            "source": "Times of India",
+            "summary": "In a nail-biting finish at the Asian Games 2026, Ancy Sojan just fell short of clinching the gold medal in the women's long jump, achieving a stellar jump of 6.53m, only to be bested by China's Yingying Huang at 6.55m. Shaili Singh, meanwhile, faced disappointment, slipping to fourth place with a last jump that pushed her down after Mengyi Tan's leap.",
+            "published": "2026-09-27T17:31:10+05:30"
+          },
+          {
+            "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
+            "link": "https://www.thehindu.com/news/national/india-canada-preparing-to-take-ties-to-higher-level-jaishankar/article71515782.ece",
+            "source": "The Hindu",
+            "summary": "Amid discussions in India regarding diversification of its energy sources, Jaishankar also met Venezuela Foreign Minister Felix Plasencia Gonzalez on the UNGA sidelines",
+            "published": "2026-09-27T17:30:10+05:30"
+          },
+          {
+            "title": "Mobile phone retailers to protest against UPI MDR charges on October 2",
+            "link": "https://www.thehindu.com/news/national/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-october-2/article71515807.ece",
+            "source": "The Hindu",
+            "summary": "The All India Mobile Retailers Association for the Delhi NCR region said retailers will symbolically cover UPI QR codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti",
+            "published": "2026-09-27T17:28:37+05:30"
+          },
+          {
+            "title": "Supreme Court orders action against Mau SPs from 2023 over ‘casual approach’ in criminal case trial",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-orders-action-against-mau-sps-from-2023-over-casual-approach-in-criminal-case-trial/article71515793.ece",
+            "source": "The Hindu",
+            "summary": "A Bench said only two of 54 prosecution witnesses have been examined since charges were framed in a 2017 kidnapping case, calling the prosecution “absolutely slack”",
+            "published": "2026-09-27T17:27:49+05:30"
+          },
+          {
+            "title": "After backlash, Tamil Nadu government withdraws G.O. exempting Public (Law and Order) Department from RTI Act",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+            "source": "The Hindu",
+            "summary": "According to the Government Order dated September 21, 2026, information on communal and caste clashes, inquiry reports on police firing, custodial deaths, details on handling of agitations by students and farmers; and matters relating to National Security Act detentions, were excluded from the ambit of RTI Act",
+            "published": "2026-09-27T17:27:04+05:30"
+          },
+          {
             "title": "Ludhiana to host 'Jashan-e-Inquilab' on Bhagat Singh's birth anniversary on Sep 28",
             "link": "https://www.hindustantimes.com/india-news/ludhiana-to-host-jashan-e-inquilab-on-bhagat-singh-s-birth-anniversary-on-sep-28-101790510094081.html",
             "source": "Hindustan Times",
@@ -113,84 +183,21 @@
             "published": "2026-09-27T17:24:53+05:30"
           },
           {
-            "title": "Pinarayi Vijayan, Ramesh Chennithala cross swords over Kerala Lok Ayukta",
-            "link": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-ramesh-chennithala-cross-swords-over-kerala-lok-ayukta/article71515762.ece",
-            "source": "The Hindu",
-            "summary": "While Pinarayi alleges that the Home Minister chaired a high-level meeting attended by Lok Ayukta, Upa Lok Ayuktas and senior government officials to bring the institution under executive control, Chennithala maintains the discussion was convened to address long-pending administrative issues",
-            "published": "2026-09-27T17:22:38+05:30"
-          },
-          {
-            "title": "40-year-old demand for road to Scheduled Caste village causes communal rift in Nilgiris",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/40-year-old-demand-for-road-to-scheduled-caste-village-causes-communal-rift-in-nilgiris/article71515572.ece",
-            "source": "The Hindu",
-            "summary": "As many as 40 Sri Lankan-repatriate Scheduled Caste families in Ambal Colony, Kil Kotagiri, were set to benefit from a short road near their hamlet. However, the road laying project approved on September 3 has now sparked communal tensions.",
-            "published": "2026-09-27T17:20:38+05:30"
-          },
-          {
-            "title": "Former U.P. Minister Ram Govind Chaudhary cremated in Ballia with State honours",
-            "link": "https://www.thehindu.com/news/national/uttar-pradesh/former-up-minister-ram-govind-chaudhary-cremated-in-ballia-with-state-honours/article71515833.ece",
-            "source": "The Hindu",
-            "summary": "Samajwadi Party veteran Chaudhary, an eight-time MLA and former leader of the Opposition in the Uttar Pradesh Assembly, died on September 25 while undergoing treatment in Lucknow",
-            "published": "2026-09-27T17:11:54+05:30"
-          },
-          {
-            "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
-            "link": "https://www.thehindu.com/news/national/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515799.ece",
-            "source": "The Hindu",
-            "summary": "“India should bring in regulations. It could become horrible when one major incident happens, and somebody steals the secrets of one of the major departments or, say, atomic energy,” says Dr. Srinivas Padmanabuni",
-            "published": "2026-09-27T17:10:47+05:30"
-          },
-          {
-            "title": "UP rain fury: 56 dead in three days, flood-like situation in several districts",
-            "link": "https://www.hindustantimes.com/india-news/up-rain-fury-56-dead-in-three-days-flood-like-situation-in-several-districts-101790508738356.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-27T17:02:17+05:30"
-          },
-          {
-            "title": "'Recite Bhagavad Gita fearlessly': Suvendu claims 'winds have changed' in Bengal",
-            "link": "https://timesofindia.indiatimes.com/india/recite-bhagavad-gita-fearlessly-suvendu-adhikari-claims-winds-have-changed-in-bengal/articleshow/134519200.cms",
+            "title": "‘We have handcuffs ready’: Trump admin warns H-1B visa programme may see major changes",
+            "link": "https://timesofindia.indiatimes.com/world/us/we-have-handcuffs-ready-trump-admin-warns-of-major-h-1b-changes-as-visa-fraud-crackdown-widens/articleshow/134519521.cms",
             "source": "Times of India",
             "summary": "",
-            "published": "2026-09-27T16:59:08+05:30"
-          },
-          {
-            "title": "RAF Fairford alert: Several arrested, homes evacuated near US air base - key details",
-            "link": "https://timesofindia.indiatimes.com/world/uk/several-arrested-near-uks-raf-fairford-in-explosives-probe-us-base-on-highest-alert-key-details/articleshow/134518951.cms",
-            "source": "Times of India",
-            "summary": "Several men were arrested near RAF Fairford on suspicion of violations under the Explosives Act. Residents of the nearby village of Whelford were evacuated to a leisure center in Cirencester. Police established a cordon around the area while an Army explosive ordnance disposal team assessed several vehicles. Counter-terrorism police are leading the investigation but have not confirmed a link to RAF Fairford.",
-            "published": "2026-09-27T16:56:56+05:30"
-          },
-          {
-            "title": "Operation Toofan to enter second phase on September 28; focus on drug prevention and rehabilitation",
-            "link": "https://www.thehindu.com/news/national/kerala/operation-toofan-to-enter-second-phase-on-september-28-focus-on-drug-prevention-and-rehabilitation/article71515789.ece",
-            "source": "The Hindu",
-            "summary": "Second phase of Operation Toofan envisages the formation of Toofan Janajagratha Samithis through local bodies with the participation of residents’ associations. The committees will coordinate community-level activities aimed at preventing substance abuse and promoting public awareness",
-            "published": "2026-09-27T16:52:42+05:30"
-          },
-          {
-            "title": "NEET paper leak impact: CISF to guard NTA premises; stricter monitoring for 'confidential' areas",
-            "link": "https://www.thehindu.com/news/national/neet-paper-leak-impact-cisf-to-guard-nta-premises-stricter-monitoring-for-confidential-areas/article71515827.ece",
-            "source": "The Hindu",
-            "summary": "The move comes in the wake of the question paper leak of medical entrance exam NEET-UG earlier this year, which had sparked nationwide student protests and led to the resignation of then Union Education Minister Dharmendra Pradhan.",
-            "published": "2026-09-27T16:51:58+05:30"
-          },
-          {
-            "title": "New mobile recharge rules: 30-day plans, call-only options and more",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/new-mobile-recharge-rules-30-day-plans-call-only-options-and-more-trai-rules-explained/articleshow/134519014.cms",
-            "source": "Times of India",
-            "summary": "The Telecom Regulatory Authority of India has unveiled enhancements to prepaid mobile recharge options, featuring more voice-and-SMS-only Special Tariff Vouchers. Users can now access plans with a validity of 30 days or less. This initiative is especially beneficial for senior citizens and budget-conscious individuals who prefer voice-only prepaid plans without data, addressing concerns raised by Rajya Sabha MP…",
-            "published": "2026-09-27T16:51:26+05:30"
-          },
-          {
-            "title": "'Supported when they were weak, now...': Sonam Wangchuk on CJP's protest call against CEC Gyanesh Kumar",
-            "link": "https://www.hindustantimes.com/india-news/sonam-wangchuk-backs-cjp-protest-against-cec-gyanesh-kumar-election-commission-abhijeet-dipke-call-for-october-2-101790504695763.html",
-            "source": "Hindustan Times",
-            "summary": "The Ladakhi activist said October 2 was a \"very sacred day\" as it marked the birth anniversary of Mahatma Gandhi.",
-            "published": "2026-09-27T16:48:44+05:30"
+            "published": "2026-09-27T17:23:35+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
+            "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
+            "published": "2026-09-27T12:02:50+00:00"
+          },
           {
             "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
             "published": "2026-09-27T08:49:32+00:00"
-          },
-          {
-            "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-09-27T08:35:25+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,20 @@
         ],
         "Sports": [
           {
+            "title": "Miller, Bavuma centuries propel South Africa to 365",
+            "link": "https://www.cricinfo.com/ci/content/story/1555929.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Ellis suffered a side injury and bowled just four overs, leaving Australia's attack depleted",
+            "published": "2026-09-27T12:25:13+00:00"
+          },
+          {
+            "title": "Om five-for bowls Australia Under-19 out for 217 despite Cattle century",
+            "link": "https://www.cricinfo.com/ci/content/story/1555921.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Visitors in Rajkot had done well to recover from 27 for 3, before India U-19 hit back",
+            "published": "2026-09-27T12:00:09+00:00"
+          },
+          {
             "title": "CSA reports loss as broadcast challenges loom",
             "link": "https://www.cricinfo.com/ci/content/story/1555911.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -432,20 +446,6 @@
             "source": "NDTV Sports",
             "summary": "The Dallas Cowboys Cheerleaders’ Netflix fame has sparked major fashion and beauty deals, boosting their commercial value while raising questions about how much of that growing revenue reaches the cheerleaders.",
             "published": "2026-09-27T16:46:52+05:30"
-          },
-          {
-            "title": "India In Athletics LIVE, Asian Games 2026: Ancy Sojan Set For Long Jump Gold After Harita Bhadra Wins 200m Bronze",
-            "link": "https://sports.ndtv.com/athletics/india-in-athletics-asian-games-2026-live-updates-indian-athletes-results-medal-events-track-and-field-aichi-nagoya-animesh-kujur-tejaswin-shankar-12102952#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India In Athletics At Asian Games 2026 LIVE Updates, Day 8: Harita Bhadra has claimed a bronze medal for India in the women's 200m race. She clocked 23.20 seconds to finish on the podium.",
-            "published": "2026-09-27T16:42:38+05:30"
-          },
-          {
-            "title": "Shreyas Iyer: 'There is rain, but we can't use that as an excuse'",
-            "link": "https://www.cricinfo.com/ci/content/story/1555903.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "\"We have set a standard as a team, and we must try to transcend that in every match,\" Shreyas Iyer says of his goal as India's T20I captain",
-            "published": "2026-09-27T10:45:27+00:00"
           }
         ],
         "Technology": [
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "जस्टिन ग्रीव्स ने शतक जड़कर मचाई तोड़तोड़, कुलदीप यादव ने कहर बरपाते हुए पलट दिया गेम",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/ind-vs-wi-west-indies-batters-shine-justin-greaves-hits-a-brilliant-century-1656737.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-27T17:54:43+05:30"
+          },
+          {
+            "title": "Dhamra Port का बड़ा कमाल! भारत का पहला निजी मल्टी-कार्गो पोर्ट, अब 100% ग्रीन एनर्जी से चलेगा",
+            "link": "https://hindi.oneindia.com/news/india/dhamra-port-indias-first-major-private-multi-cargo-port-to-shift-completely-to-renewable-energy-1656783.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-27T17:40:23+05:30"
+          },
+          {
             "title": "बिहार को मिलेगी पहली महिला DGP? IPS प्रीता वर्मा का नाम सबसे आगे, और कौन-कौन है रेस में?",
             "link": "https://hindi.oneindia.com/news/bihar/bihar-dgp-vinay-kumar-vrs-preeta-verma-acting-dgp-race-for-new-police-chief-1656769.html",
             "source": "Oneindia Hindi",
@@ -669,13 +683,6 @@
             "published": "2026-09-27T11:29:09+00:00"
           },
           {
-            "title": "जस्टिन ग्रीव्स ने शतक जड़कर मचाई तोड़तोड़, विकेट को तरसे भारतीय गेंदबाज, बड़े स्कोर की तरफ विंडीज",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/ind-vs-wi-west-indies-batters-shine-justin-greaves-hits-a-brilliant-century-1656737.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-27T16:43:16+05:30"
-          },
-          {
             "title": "वांगचुक ने सरकार को 2 अक्टूबर की डेडलाइन दी:कहा- लद्दाख मामले पर जरूरी कदम नहीं उठाए गए, प्रदर्शन करेंगे; पिछले साल लद्दाख में हिंसा हुई थी",
             "link": "https://www.bhaskar.com/g/national/news/ladakh-statehood-sonam-wangchuk-protest-deadline-delhi-statement-139167351.html",
             "source": "Dainik Bhaskar",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-27T15:36:34+05:30"
-          },
-          {
-            "title": "दिल्ली के मंत्री प्रवेश वर्मा ने युवक को थप्पड़ मारा:AAP ने VIDEO पोस्ट करके कहा- सड़क बनाने में भ्रष्टाचार हुआ, सवाल करने पर पीटा",
-            "link": "https://www.bhaskar.com/g/national/news/delhi-minister-pravesh-verma-slaps-youth-corruption-controversy-video-139166836.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-27T09:53:46+00:00"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ஆர்.டி.ஐ-யில் சட்டம் ஒழுங்கு துறைக்கு விலக்கு அளித்த சில மணி நேரத்தில் அரசாணை வாபஸ் - அதில் என்ன இருந்தது?",
+            "link": "https://www.bbc.com/tamil/articles/cqly77ymdzpzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-27T12:22:37+00:00"
+          },
+          {
             "title": "'20 ஆண்டில் 29 தற்கொலைகள்' : சென்னை ஐஐடி மீது தொடரும் சாதிய பாகுபாடு புகார் - முன்னாள் மாணவர்கள் கூறுவது என்ன?",
             "link": "https://www.bbc.com/tamil/articles/cx4gq313q16do?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -928,13 +935,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-27T16:21:26+05:30"
-          },
-          {
-            "title": "தொலைதூர தீவில் கண்ணுக்கு தெரியாத போருக்கு தயாராகும் ஜிபிஎஸ் ஹேக்கர்கள்",
-            "link": "https://www.bbc.com/tamil/articles/cq5yjxk83545o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-27T10:42:57+00:00"
           },
           {
             "title": "சோவியத், பிரிட்டன் உளவுத் துறைகள் மற்றும் இரானுக்கு நடுவே சிக்கிய ஒரு உளவாளியின் கதை",
@@ -1079,6 +1079,13 @@
             "published": "2026-09-27T17:24:58+05:30"
           },
           {
+            "title": "Narayana: స్వర్ణ వార్డుల్లో ఉద్యోగులకు పదోన్నతులు: మంత్రి నారాయణ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWhua0JrbEhTV1FoSWJhYXhqQV9LMDdCUlpuc3IxbkpNSEhsVmZ2X3ZmQndMMjNMaW9ZV1dzSDdjUWZJMXA0TFRpelFvdDBaa1FZd3ZtWnBZVkRneWtyei1YSzVqVzNDMzZsS1FnVktZeG9fYWFUbVFkdVNEWEVQdEdsWTJoek1sLXBrUFl4RnBJc2ZLanctNVBUdEtlS2F0QWlPV1JqVlHSAagBQVVfeXFMTlFobmtCa2xIU1dRaEliYWF4akFfSzA3QlJabnNyMW5KTUhIbFZmdl92ZkJ3TDIzTGlvWVdXc0g3Y1FmSTFwNExUaXpRb3QwWmtRWXd2bVpwWVZEZ3lrcnotWEs1alczQzM2bEtRZ1ZLWXhvX2FhVG1RZHVTRFhFUHRHbFkyaHpNbC1wa1BZeEZwSXNmS2p3LTVQVHRLZUthdEFpT1dSalZR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-27T11:53:38+00:00"
+          },
+          {
             "title": "వార్డు, గ్రామ సచివాలయ ఉద్యోగులకు గుడ్ న్యూస్ - పదోన్నతుల పై ఉత్తర్వులు..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-issues-new-guidelines-for-promotions-of-village-and-ward-secretariat-employees-508179.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-27T15:25:22+05:30"
-          },
-          {
-            "title": "అందరి లెక్కలు తేల్చుతాం -కేటీఆర్ స్ట్రాంగ్ వార్నింగ్..!!",
-            "link": "https://telugu.oneindia.com/news/telangana/brs-leader-ktr-made-serious-comments-against-hyderabad-cp-and-targets-congress-govt-here-the-detail-508161.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-27T15:24:15+05:30"
           }
         ],
         "Entertainment": [
@@ -1468,6 +1468,13 @@
             "published": "2026-09-27T05:29:52+00:00"
           },
           {
+            "title": "আবার বন্যার শঙ্কা নেপালে - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmVOS2tlR2c0d3V4cXlaYnd6bzViZXp4STRvbnVjVzhWOW1lVTlpaTYtVWR1NXA1eG4zT3MtWjFnUlh4SzZGVDhLM09oaEs0cWs0eUZTRTczc1pEM2lJY00zM3J5RlY2RGhlYkZNWlhlTGVMM01VRXdwc1AtY01IRWlkemNEUEF4THc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-27T04:27:08+00:00"
+          },
+          {
             "title": "ধসে অবরুদ্ধ জাতীয় সড়ক, ভাঙনের আতঙ্ক মেখলিগঞ্জে - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTZROU1GRXh5dDF6MXNQQmhhYS03dDBJOHVoM2hWekFFcmxYajFBYVE0ajJhRV85Nkl2V2ZLMDZNVFlzZlRIdGJYbUNPVlZJbWY3azlVQXlkSjA4RHotWjl1eHk2dWFaYm44Nk80WXVGYVk0czR6Y2w3S0VFUC1yRFdrX1dKTjdWbG5wVHNnTQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-27T03:39:19+00:00"
-          },
-          {
-            "title": "ভারতে শিক্ষিত তরুণরাই সবচেয়ে বেশি বেকার! বাজারের চাহিদা মেটাচ্ছে না পাঠ্যক্রম, গবেষণায় লগ্নি কম, কারণ বহু - anandabazar.com",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNXzBTRjBDeEsxTTdBRnBmTHh3enFJZXplZGNZZk9MWXpfZmZkT1pIekVXOUN2azBMWnZYWXlsWjBtU2dJdGsyd1Y0aEljZ0hud0FLTVYxNENKakNldXRJTXAxd3lXekRYQWtyQ0NpZGZxSWJzV1RveXQ3LWt1WjZ3UE91X1VmSDRsMmsyelRERjA4NUVnV2tNZDBaam9PbTUxQUdfNU4tWHp4QjBKWDZzSFloeUNZUEFyV0U0NVZrWXVoYWxwUGtVbFk2VnpTYTJqaHdyUmJFc3ZneFFJVXd6R0Y0MS1rNUHSAewBQVVfeXFMTVlnamY0VFVIUVpXVXhaWFRtdklHWGJ4QmkzQmRuU3dFWFM4dlRvX1FMOUd1QXFSSzdhNUFSWHRDTy1Kemp6ZDAtSXRsaFZkTDhiWHNNS1VBakxnT3ZpcnF5aTRZeGhTUzd4SUdaQkVUTjVKNlN4cG1XQ0NneVZSR1F3QjNuLVZuVDZ6UjlwYWNkbXhDMGRUbW13MHBaNlE1b19aNWdBWFFUWkp2YVJDQzlTRGd3ZDhHYVZvcEZuT3JhUGp1Y3pSbHI4OUNxczF4cGoxQ0JVNzRIaloxWndSWUJsaHg5SVdHQlItT0s?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-27T03:31:20+00:00"
           }
         ]
       }
