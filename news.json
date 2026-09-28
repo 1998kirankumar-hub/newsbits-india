@@ -1,11 +1,95 @@
 {
-  "updated_at": "2026-09-28T19:01:39.936225+00:00",
+  "updated_at": "2026-09-28T19:31:20.921939+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+            "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+            "published": "2026-09-28T19:26:15+00:00"
+          },
+          {
+            "title": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
+            "link": "https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:46:24+05:30"
+          },
+          {
+            "title": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:45:19+05:30"
+          },
+          {
+            "title": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+            "link": "https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:45:04+05:30"
+          },
+          {
+            "title": "Truck catches fire after collision with bike on Kanakapura road; rider injured",
+            "link": "https://www.thehindu.com/news/national/karnataka/truck-catches-fire-after-collision-with-bike-on-kanakapura-road-rider-injured/article71519616.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:44:16+05:30"
+          },
+          {
+            "title": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
+            "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-tree-fall-tragedy-prompts-karnataka-hc-to-script-tech-driven-public-safety-framework-across-state/article71520301.ece",
+            "source": "The Hindu",
+            "summary": "The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
+            "published": "2026-09-29T00:43:56+05:30"
+          },
+          {
+            "title": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
+            "link": "https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece",
+            "source": "The Hindu",
+            "summary": "The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
+            "published": "2026-09-29T00:43:46+05:30"
+          },
+          {
+            "title": "FBI puts gangster Goldy Brar on Ten Most Wanted Fugitives list",
+            "link": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-29T00:39:07+05:30"
+          },
+          {
+            "title": "American and six Ukrainians released by India after six months in jail",
+            "link": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+            "published": "2026-09-28T19:02:53+00:00"
+          },
+          {
+            "title": "Vijay announces ₹30 lakh for Asian Games athlete",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-announces-30-lakh-for-asian-games-athlete/article71520738.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:31:45+05:30"
+          },
+          {
+            "title": "Minister urges youth to become job providers",
+            "link": "https://www.thehindu.com/news/national/kerala/minister-urges-youth-to-become-job-providers/article71520130.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:28:46+05:30"
+          },
+          {
+            "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+            "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
+            "published": "2026-09-28T18:50:24+00:00"
+          },
+          {
             "title": "Prime accused in overseas recruitment scam gets bail",
             "link": "https://www.thehindu.com/news/national/kerala/prime-accused-in-overseas-recruitment-scam-gets-bail/article71520581.ece",
             "source": "The Hindu",
@@ -18,94 +102,73 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-09-29T00:19:53+05:30"
-          },
-          {
-            "title": "BRS will emerge victorious, says KTR",
-            "link": "https://www.thehindu.com/news/national/telangana/brs-will-emerge-victorious-says-ktr/article71520953.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-29T00:19:03+05:30"
-          },
-          {
-            "title": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forms-three-committees-led-by-retired-dgps-to-recommend-police-reforms-in-two-months/article71519867.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-29T00:16:59+05:30"
-          },
-          {
-            "title": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece",
-            "source": "The Hindu",
-            "summary": "The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
-            "published": "2026-09-29T00:14:24+05:30"
-          },
-          {
-            "title": "Gold tumbles 4% to seven-week low as oil, dollar and yields climb",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-tumbles-4-to-seven-week-low-as-oil-dollar-and-yields-climb/articleshow/134549139.cms",
-            "source": "Economic Times",
-            "summary": "Gold fell sharply as rising oil prices heightened inflation concerns and strengthened expectations for tighter monetary policy. A firmer dollar and increasing Treasury yields contributed to the decline in gold prices. Spot gold reached its lowest level since early August, settling significantly lower than previous trading sessions. Other precious metals such as silver, platinum, and palladium also experienced…",
-            "published": "2026-09-29T00:12:24+05:30"
-          },
-          {
-            "title": "UNFPA report: Low wages, poverty, debt drive migrant workers to seek better lives",
-            "link": "https://timesofindia.indiatimes.com/india/unfpa-report-migrant-workers-cite-livelihood-insecurity-low-wages-poverty-and-debt-as-reasons-for-moving-out-for-better-life/articleshow/134549109.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T00:10:51+05:30"
-          },
-          {
-            "title": "Only Governor, not government can grant sanction to conduct investigation against me in ₹100-crore fraud case, Anbil Mahesh Poyyamozhi claims before Madras High Court",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/only-governor-not-government-can-grant-sanction-to-conduct-investigation-against-me-in-100-crore-fraud-case-anbil-mahesh-poyyamozhi-claims-before-madras-high-court/article71519088.ece",
-            "source": "The Hindu",
-            "summary": "He says the First Information Report registered against him must be quashed since the Public Department Secretary had granted the sanction on June 23, 2026",
-            "published": "2026-09-29T00:08:55+05:30"
-          },
-          {
-            "title": "Asian Games 2026, September 29 Schedule: India Eyes Medal Haul In Athletics, Boxing And Shooting",
-            "link": "https://sports.ndtv.com/othersports/asian-games-2026-september-29-schedule-india-eyes-medal-haul-in-athletics-boxing-and-shooting-12110442#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India's Asian Games, Day 10 Schedule: India will have the opportunity to add to their medal tally on Day 10 of the 2026 Asian Games, with athletics, shooting and boxing offering several medal prospects.",
-            "published": "2026-09-29T00:05:33+05:30"
-          },
-          {
-            "title": "Tirupattur TVK MLA’s win by a single vote: Madras High Court rejects election petition filed against his victory",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tirupattur-tvk-mlas-win-by-a-single-vote-madras-high-court-rejects-election-petition-filed-against-his-victory/article71518312.ece",
-            "source": "The Hindu",
-            "summary": "Justice G.K. Ilanthiraiyan allowed an application filed by the MLA R. Seenivasa Sethupathy to reject the election petition preferred by former DMK Minister K.R. Periakaruppan",
-            "published": "2026-09-29T00:04:06+05:30"
-          },
-          {
-            "title": "Video Emerges From Snow-Covered Nepal Peak Where 4 Died In Avalanche",
-            "link": "https://www.ndtv.com/world-news/video-emerges-from-snow-covered-nepal-peak-where-4-died-in-avalanche-12111559#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The avalanche struck the base camp of the 7,126-metre Himlung Himal peak in the Nar Phu area of Nepal's Manang district on Sunday.",
-            "published": "2026-09-29T00:03:27+05:30"
-          },
-          {
-            "title": "8-Day Police Custody For Male Friend Of Woman Who Died In Guwahati Homestay",
-            "link": "https://www.ndtv.com/india-news/8-day-police-custody-for-male-friend-of-woman-who-died-in-guwahati-homestay-12111558#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Skeptical of Asik Ali's version that she had hanged herself, the police are now interrogating him to unravel what led to the woman's death.",
-            "published": "2026-09-29T00:03:06+05:30"
-          },
-          {
-            "title": "Ayesha Curry Fires Back At Stephen Curry Over His Viral Broadway Joke",
-            "link": "https://sports.ndtv.com/us-nba/ayesha-curry-fires-back-at-stephen-curry-over-his-viral-broadway-joke-12111478#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Ayesha Curry turned Stephen Curry’s latest joke into a funny comeback after he shared her Broadway flying clip, bringing back his famous basketball-spinning struggle from the 2024 Olympics.",
-            "published": "2026-09-29T00:02:43+05:30"
-          },
-          {
-            "title": "India, Fiji hold key meeting to boost cooperation in maritime security, cyber training",
-            "link": "https://www.hindustantimes.com/india-news/india-fiji-hold-key-meeting-to-boost-cooperation-in-maritime-security-cyber-training-101790620302331.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-29T00:01:41+05:30"
           }
         ],
         "India": [
           {
+            "title": "Sustainable development must go hand-in-hand with environmental conservation: B.S. Jha",
+            "link": "https://www.thehindu.com/news/national/karnataka/sustainable-development-must-go-hand-in-hand-with-environmental-conservation-bs-jha/article71519930.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:46:24+05:30"
+          },
+          {
+            "title": "Karnataka youth achieves impressive feat in Shanghai World Skills Competition",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-youth-achieves-impressive-feat-in-shanghai-world-skills-competition/article71520463.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:45:19+05:30"
+          },
+          {
+            "title": "Bharatiya Vidya Bhavan to host literary festival on Karnataka’s indegenous languages from October 2",
+            "link": "https://www.thehindu.com/news/national/karnataka/bharatiya-vidya-bhavan-to-host-literary-festival-on-karnatakas-indegenous-languages-from-october-2/article71519907.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:45:04+05:30"
+          },
+          {
+            "title": "Truck catches fire after collision with bike on Kanakapura road; rider injured",
+            "link": "https://www.thehindu.com/news/national/karnataka/truck-catches-fire-after-collision-with-bike-on-kanakapura-road-rider-injured/article71519616.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:44:16+05:30"
+          },
+          {
+            "title": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State",
+            "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-tree-fall-tragedy-prompts-karnataka-hc-to-script-tech-driven-public-safety-framework-across-state/article71520301.ece",
+            "source": "The Hindu",
+            "summary": "The public safety hazards would include trees, damaged roads, open manholes, blocked drains, exposed electrical installations, unsafe construction, encroachments, or any condition capable of causing death or serious injury, the court said.",
+            "published": "2026-09-29T00:43:56+05:30"
+          },
+          {
+            "title": "Locals symbolically ‘open’ Bengaluru Metro Pink Line, demand early launch",
+            "link": "https://www.thehindu.com/news/national/karnataka/locals-symbolically-open-bengaluru-metro-pink-line-demand-early-launch/article71521103.ece",
+            "source": "The Hindu",
+            "summary": "The protest came as the Bangalore Metro Rail Corporation Ltd. missed its September-end target for opening the 7.5-km elevated stretch between Kalena Agrahara and Tavarekere",
+            "published": "2026-09-29T00:43:46+05:30"
+          },
+          {
+            "title": "FBI puts gangster Goldy Brar on Ten Most Wanted Fugitives list",
+            "link": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-29T00:39:07+05:30"
+          },
+          {
+            "title": "Vijay announces ₹30 lakh for Asian Games athlete",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-announces-30-lakh-for-asian-games-athlete/article71520738.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:31:45+05:30"
+          },
+          {
+            "title": "Minister urges youth to become job providers",
+            "link": "https://www.thehindu.com/news/national/kerala/minister-urges-youth-to-become-job-providers/article71520130.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T00:28:46+05:30"
+          },
+          {
             "title": "Prime accused in overseas recruitment scam gets bail",
             "link": "https://www.thehindu.com/news/national/kerala/prime-accused-in-overseas-recruitment-scam-gets-bail/article71520581.ece",
             "source": "The Hindu",
@@ -125,72 +188,30 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-09-29T00:19:03+05:30"
-          },
-          {
-            "title": "Karnataka forms three committees led by retired DGPs to recommend police reforms in two months",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forms-three-committees-led-by-retired-dgps-to-recommend-police-reforms-in-two-months/article71519867.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-29T00:16:59+05:30"
-          },
-          {
-            "title": "‘Gem Granites’ Veeramani booked in second POCSO Act case",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granite-veeramani-booked-in-second-pocso-act-case/article71519195.ece",
-            "source": "The Hindu",
-            "summary": "The second POCSO Act case was registered based on a complaint lodged by a woman alleging that her daughter, a minor, was sexually abused by the businessman.",
-            "published": "2026-09-29T00:14:24+05:30"
-          },
-          {
-            "title": "UNFPA report: Low wages, poverty, debt drive migrant workers to seek better lives",
-            "link": "https://timesofindia.indiatimes.com/india/unfpa-report-migrant-workers-cite-livelihood-insecurity-low-wages-poverty-and-debt-as-reasons-for-moving-out-for-better-life/articleshow/134549109.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T00:10:51+05:30"
-          },
-          {
-            "title": "Only Governor, not government can grant sanction to conduct investigation against me in ₹100-crore fraud case, Anbil Mahesh Poyyamozhi claims before Madras High Court",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/only-governor-not-government-can-grant-sanction-to-conduct-investigation-against-me-in-100-crore-fraud-case-anbil-mahesh-poyyamozhi-claims-before-madras-high-court/article71519088.ece",
-            "source": "The Hindu",
-            "summary": "He says the First Information Report registered against him must be quashed since the Public Department Secretary had granted the sanction on June 23, 2026",
-            "published": "2026-09-29T00:08:55+05:30"
-          },
-          {
-            "title": "Tirupattur TVK MLA’s win by a single vote: Madras High Court rejects election petition filed against his victory",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tirupattur-tvk-mlas-win-by-a-single-vote-madras-high-court-rejects-election-petition-filed-against-his-victory/article71518312.ece",
-            "source": "The Hindu",
-            "summary": "Justice G.K. Ilanthiraiyan allowed an application filed by the MLA R. Seenivasa Sethupathy to reject the election petition preferred by former DMK Minister K.R. Periakaruppan",
-            "published": "2026-09-29T00:04:06+05:30"
-          },
-          {
-            "title": "Video Emerges From Snow-Covered Nepal Peak Where 4 Died In Avalanche",
-            "link": "https://www.ndtv.com/world-news/video-emerges-from-snow-covered-nepal-peak-where-4-died-in-avalanche-12111559#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The avalanche struck the base camp of the 7,126-metre Himlung Himal peak in the Nar Phu area of Nepal's Manang district on Sunday.",
-            "published": "2026-09-29T00:03:27+05:30"
-          },
-          {
-            "title": "8-Day Police Custody For Male Friend Of Woman Who Died In Guwahati Homestay",
-            "link": "https://www.ndtv.com/india-news/8-day-police-custody-for-male-friend-of-woman-who-died-in-guwahati-homestay-12111558#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Skeptical of Asik Ali's version that she had hanged herself, the police are now interrogating him to unravel what led to the woman's death.",
-            "published": "2026-09-29T00:03:06+05:30"
-          },
-          {
-            "title": "India, Fiji hold key meeting to boost cooperation in maritime security, cyber training",
-            "link": "https://www.hindustantimes.com/india-news/india-fiji-hold-key-meeting-to-boost-cooperation-in-maritime-security-cyber-training-101790620302331.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-09-29T00:01:41+05:30"
-          },
-          {
-            "title": "Israel Says It Killed Man Seen In Viral Oct 7 Hostage Kidnapping Video",
-            "link": "https://www.ndtv.com/world-news/israeli-says-man-seen-in-viral-oct-7-hostage-kidnapping-video-has-been-killed-12111547#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Video footage widely circulated in the aftermath of the attack showed terrorists kidnapping Noa Argamani and her boyfriend Avinatan Or at the Nova music festival.",
-            "published": "2026-09-29T00:00:38+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+            "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+            "published": "2026-09-28T19:26:15+00:00"
+          },
+          {
+            "title": "American and six Ukrainians released by India after six months in jail",
+            "link": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+            "published": "2026-09-28T19:02:53+00:00"
+          },
+          {
+            "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+            "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
+            "published": "2026-09-28T18:50:24+00:00"
+          },
           {
             "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
             "link": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
@@ -204,13 +225,6 @@
             "source": "Al Jazeera",
             "summary": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point.",
             "published": "2026-09-28T18:16:26+00:00"
-          },
-          {
-            "title": "Stand-up comic set for release after being convicted of insulting Erdoğan",
-            "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Turkish comedian Deniz Göktaş has been sentenced to almost 19 months, but is set to be released due to time served.",
-            "published": "2026-09-28T18:11:58+00:00"
           },
           {
             "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
@@ -260,20 +274,6 @@
             "source": "BBC World",
             "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
             "published": "2026-09-28T17:15:00+00:00"
-          },
-          {
-            "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-            "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Spain&#039;s Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali.",
-            "published": "2026-09-28T17:13:03+00:00"
-          },
-          {
-            "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person",
-            "published": "2026-09-28T17:06:00+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "आज का राशिफल : ग्रह-नक्षत्रों की चाल से इन 6 राशियों के जीवन में आएंगे महत्वपूर्ण बदलाव, जानें दैनिक राशिफल",
+            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-29-september-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-09-28",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-29T12:30:37+05:30"
+          },
+          {
+            "title": "कैसे होगी स्पैम कॉल की पहचान?: ट्राई ने टेलीकॉम कंपनियों के लिए जारी किए नए नियम; आप खुद भी कर सकते हैं शिकायत",
+            "link": "https://www.amarujala.com/india-news/how-will-spam-calls-be-detected-trai-issues-new-rules-for-telecom-companies-consumers-also-file-complaint-2026-09-29",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-29T12:27:54+05:30"
+          },
+          {
+            "title": "ई20 पेट्रोल से घटेगा भारत का तेल आयात: ओएनजीसी अधिकारी ने बताया कैसे बढ़ सकती है आत्मनिर्भरता, जानें पूरा गणित",
+            "link": "https://www.amarujala.com/india-news/e20-petrol-to-cut-india-s-oil-imports-ongc-official-explains-how-it-can-boost-energy-self-reliance-2026-09-29",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-29T12:08:41+05:30"
+          },
+          {
             "title": "4.5 KM का ये रास्ता रात में क्यों बन जाता है ‘मौत का जाल’? Oneindia की Ground Report में सामने आई हकीकत",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/greater-noida-hit-and-run-hotspot-ek-murti-to-saini-chauraha-ground-report-on-4-5-km-deadly-stretch-1657747.html",
             "source": "Oneindia Hindi",
@@ -688,27 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-28T14:24:36+00:00"
-          },
-          {
-            "title": "Srinivas कौन था? सोते वक्त कुल्हाड़ी से पत्नी ने काटी गर्दन, बेटे संग थाने पहुंची और बोली- 'पति को मार डाला'",
-            "link": "https://hindi.oneindia.com/news/india/srinivas-murder-case-wife-kills-husband-with-axe-while-he-slept-hyderabad-crime-news-hindi-1657529.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-28T19:44:59+05:30"
-          },
-          {
-            "title": "ज्ञानेश कुमार को हटाने के लिए देश के कई हिस्सों में प्रदर्शन, मामला सुप्रीम कोर्ट पहुंचा",
-            "link": "https://www.bbc.com/hindi/articles/cv5yjnxx92elo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-28T14:14:31+00:00"
-          },
-          {
-            "title": "सुप्रीम कोर्ट बोला-मीडिया यौन अपराधों की रिपोर्टिंग पर संयम रखे:पीड़ित की पहचान उजागर न करें, सनसनीखेज खबर से परिवार सदमें में जा सकता है",
-            "link": "https://www.bhaskar.com/national/news/supreme-court-media-guidelines-sexual-assault-reporting-delhi-139180420.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-28T14:06:43+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Gold and Silver Prices Today: తెలుగు రాష్ట్రాల్లోని ప్రధాన నగరాల్లో బంగారం, వెండి ధరలు ఇలా.. (28/09/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGJKUDE2d2ZVU21IWXpYY1g5VVBmM1ZVS0pOeW4xNU1pY0VLNTJqdkdQVkpMQVQ2di1nRnBSUnpFQzNfX1czXzZfS0g0ZXNQakUwRzh6ZFE1LW1HS1pIZFhobU1iY0JFOFB4MHNJMTBZRjFmVW02Wlo1R0RrTk1sb2pTcVp2eVhzSllDZGJsZ0NMak8waS05bXpodkg4Wno1THBIV0V1aXJDaWNqaHRNSzN6c2c2a2FSSlJuWlBtV28wYy02WnZaXzFyNFZMRDhHcTFjdUdXTUIzU3gxbEtieNIB4AFBVV95cUxOUGJKUDE2d2ZVU21IWXpYY1g5VVBmM1ZVS0pOeW4xNU1pY0VLNTJqdkdQVkpMQVQ2di1nRnBSUnpFQzNfX1czXzZfS0g0ZXNQakUwRzh6ZFE1LW1HS1pIZFhobU1iY0JFOFB4MHNJMTBZRjFmVW02Wlo1R0RrTk1sb2pTcVp2eVhzSllDZGJsZ0NMak8waS05bXpodkg4Wno1THBIV0V1aXJDaWNqaHRNSzN6c2c2a2FSSlJuWlBtV28wYy02WnZaXzFyNFZMRDhHcTFjdUdXTUIzU3gxbEtieA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-28T19:10:17+00:00"
+          },
+          {
             "title": "యువకుడ్ని చెంపదెబ్బ కొట్టిన దిల్లీ మంత్రి పర్వేశ్ వర్మకు పోలీసులు షాక్..",
             "link": "https://telugu.oneindia.com/news/india/parveshverma-police-deal-a-blow-to-delhi-minister-slapping-youth-non-cognizable-report-registered-508383.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-28T20:03:35+05:30"
-          },
-          {
-            "title": "కేంద్ర మంత్రులతో సీఎం డీకే శివకుమార్ భేటీ.. పలు అంశాలపై చర్చ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqS01TY3pQX1NpTTRwVThtSG03UHRmTF9Fb2xQZVZEYk9qbU5zMUhCaFpaY3o3OFlMaGI5YUtTVzEzMFBVRXpUTm01eGdPNGh1aV80MEN5UVZsY2xyLTJycDlYTkJJR0RfSDhrMnhuNGJLUzJ0Wk5KODZSQUcyQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-28T14:13:14+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "অনুমতি দিচ্ছে না পাকিস্তান, বাংলাদেশের রূপপুর পারমাণবিক প্রকল্পের প্রয়োজনীয় ইউরেনিয়াম রাশিয়া থেকে আনতে পারছে না ঢাকা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSXJSWDdkLVlOS1l2TWZIY19pN1JWV0lqNWpNRTZ1V04tc0tSYkVIMmtld3JQcHFPY2VRUGZnNm5Pa3ltTVlNVVh6cmEzOUVqbUY3b2Z2R1hoNG5sWkxwd3B3TjNnUWpHWVVxZXNheUJPMWFQSmxaRnBTOGdQZXhRSHZpMmpsUEdKN0dtZ05aZHR6RHhHWW9iTWd3aEx3ODlfRVVxeGxPX1ViSHFYVDVoQXlsQ3kza29ZTGFzN2ZwOWJ0QTFwWktEWHdWN3BCSVBQQ2pCZmRuTnhPbW94RGtYR0dPbEU0SS02TjhvSkxkTFNzblFIbnE5OXJkVk1qcFZ3UWVEdm43bklIck83ekZaU3JOaEIwTkV2TTdnTXBEZjNmZ9IBpwJBVV95cUxOanAwSjZvNFd1RmZhUUJhZm9uWlNaVmJzWVZCS0hyTkpaRWdqcWE4MTEwckp0YjhDd2ZZOEJ3MWdWTWdwaTFSRFVvTGd5ajJHcE5pTS1CSVVEb1RWVjdDc01CVVZPZEx4WXVhcFNtaS04QlFJY2pmUWZxTHhPdWRlOUR2b1JicjYzS1Nma2hrY3RzbjVmajZmWE9qOUJoMkprYzNLbFJzeWYtaGxzTTFoODd1Vm5KZFVjZE9sSkxNQ3MxeTMxaU85ZkFTbmRQZUcwTzE3eUx6T0d4VERDdmQ2blJrVGdnNzJOUXRpdVNoSTA5RkcybnZCUGpvN2FOdF82NFlKdm1DY254dzZ6bDB5TC1HSUstdVpraW5WVjFaM2tWZkZFTlBj?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-28T17:41:07+00:00"
+          },
+          {
             "title": "এসআরএফটিআই-এ সংঘর্ষের প্রতিবাদে পথে বাম ছাত্র সংগঠনের পড়ুয়ারা, পাল্টা অভিযোগ এবিভিপি-র - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0Z1Q0ZNVnJxQWpWeWZpd0c0MnZyNnh4c3FPWFBFRnhZdlNTSHhEV1lRc3lOMDZUUjVXUDJNWnk3aVE0M21qeFV6M05aVmV2VlRJcm9vX2l5MnBOQl9wM3hrenI5NE9yTjlxUzlmQ1VCTHZQMHd5U19GWV9kUGNHWjUwYTJya0ZjZHc0bU1CLWlsOThIYWZBTURMbnFHcDJ6YjItMkh1bklTRUFmSWJlVmlDYVV0SXZweW1SdnJheGJWbmvSAcgBQVVfeXFMTS1YX29yOW54YTVhN3NPUnY3Tlkzd0pHcDVvRnFoeEhhaDJkN01kekNPT1JWLVRGYjJmLVIxUkZneXZEWGhicEhmUTNZYmh2QzVGOTR5bk9ITFByYlZFVktzY0I2ZklhNzFFMUt4d2p0QzhJNDFFNUpmU0ZNVTVkXzNReWNoV3lTbG9vQVptc3VoNWtKMnhHVWFWZVFfVGV3V0VacWpscG0xZ0g4azNCZ2VySTljZFJuZDctWXVkWmNXdGNjZUx3aW4?oc=5",
             "source": "Anandabazar Patrika",
@@ -1438,6 +1445,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T15:42:01+00:00"
+          },
+          {
+            "title": "ধর্ষণে অভিযুক্ত অভিষেক পোড়েলকে প্রস্তুতি ম্যাচের দলে রাখল বাংলা, লক্ষ্মীকে ছাড়াই গুয়াহাটিতে খেলতে যাচ্ছে দল - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM09qRU5qX1E4ZUpCUjRQVkhrSDFvN0hMd3J3NkdCcGxqSkhWOEYzNTZmM1pOSjFKT2xDV05ScUFZdTEwbU1oRUhXOUV1V2p6QXEyNWlSa1ZaOXZvR0xuOXZSRVBBR1k5aENLX2hnQUs3ZTE0dVd2VW5OckFGZkQ2QmVhN3l0NGkyeHdJYUZIZGFIaHpQUUx4VEJ1T2J5MmxQendRVFhHdDFXMmZVUWp3WmQ3bFRCX3JFejdjT0FTVdIBxAFBVV95cUxQejg3UUQ1V28ybU1KbkJxRUluOEdQRFZ3TnVqeXp0Q3FrTzBOY0RQYWxJWXpwN0wtNEppaHVpb0NoQnliX3JnOFRBNFowOGdHcS1IQng5cF9KUE5KM3c3bjFOemRLVzNvWElUekJHZEREZzJoU1ZsQVdKOE93QjlaV0tTcWRINVFCT1gxb3EzZkZRdGNRLXpBWl93T0RsQVpOQUEycFpaRHJ1QXhULU93ajF1MmdnV01FajRud24yaW1ZWF9f?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-28T15:29:21+00:00"
           },
           {
             "title": "একাদশ-দ্বাদশ স্তরে শিক্ষক নিয়োগের জন্য নতুন তালিকা প্রকাশ এসএসসি-র, ফের আইনি জটিলতার আশঙ্কা প্রার্থীদের - Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T13:59:18+00:00"
-          },
-          {
-            "title": "একসঙ্গে ব্যাট করার সময় কী কথা হয়? ওয়েস্ট ইন্ডিজ়কে হারানোর পর শুভমনকে পাশে নিয়ে বলে দিলেন কোহলি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMHFlcWN2c0NJOWNTREVIQlFsZUkyYjVybVloWFRzSVlKNVRYa2psX05kb1FqZ0luZFUydGd6bmFvc2pLbnhhU1Qta2UtSnF0NkloNmYzaExyaDVWUXZOVjgzNnpleGZJS2FBaWsyZVktd0NaOUFiU1F5ZExmdXdvV3RVSDNhYy1SdVhia3hzVGNIRUtKNEJIeGZhVGNpbEJWNGMtZWVSdUItRDZMZk9pYkc4WHJkTDd5LU1vQ3JiNmRfbFNwMTFTTGU2Tk1PWGw5bE0yeTczTTJPcEVWTlFjcWtR0gHnAUFVX3lxTE01cG5YbW1NQWc1SVdpQ2xtWEZtX0FjaWZCTG51bnJWWFI0cTc3TlNqNUlRaGdlLWJ6WVhmZ3VmclhlS2ZoMW56bmhiNG9BRzNiRDR1MkJyX2RIbDlqM2Y4d3BvZjlDR2lVMzlJZ1c3YWo3S3dONjJyLWREdjBNN3p6ZnNWZkwtbXFkVnF1VHVZVVlvdXVZcDZqVFpxeTZMSjRpaXRNVlRVVmlIRWNPOUFsTXRZcTR0ekEtcjhodE5rYWRRZk4yZGl2OHZpaGVnREwxbDVoSlpRMmdVOUpld0NzZjJJb2lTMA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T13:33:38+00:00"
-          },
-          {
-            "title": "'খুঁটির সাথে বাবা বাঁধা, চা-রুটি খাওয়াচ্ছে শিশু কন্যা' ভিডিও ভাইরাল, কী ঘটেছিল সেখানে",
-            "link": "https://www.bbc.com/bengali/articles/c34gd105l1xlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-09-28T13:20:43+00:00"
           }
         ]
       }
