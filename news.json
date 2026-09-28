@@ -1,116 +1,179 @@
 {
-  "updated_at": "2026-09-28T05:01:31.554168+00:00",
+  "updated_at": "2026-09-28T05:31:14.284591+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "How much is in your savings account?",
+            "link": "https://www.bbc.co.uk/news/videos/cqrm99we3rjxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "From £65 to $60,000 - we talk savings with people in East London's Brick Lane.",
+            "published": "2026-09-28T05:22:50+00:00"
+          },
+          {
+            "title": "After protests within Congress, Keralam govt puts on hold reinstatement of DySP accused of sexual assault in custody",
+            "link": "https://www.thehindu.com/news/national/kerala/after-protests-within-congress-keralam-govt-puts-on-hold-reinstatement-of-dysp-accused-of-sexual-assault-in-custody/article71518425.ece",
+            "source": "The Hindu",
+            "summary": "Home Minister Ramesh Chennithala directs department to withdraw reinstatement decision following strong opposition within Congress in Kozhikode after news of the officer’s proposed return to service emerged",
+            "published": "2026-09-28T10:47:43+05:30"
+          },
+          {
+            "title": "How waste food helps families through the week",
+            "link": "https://www.bbc.co.uk/news/articles/cjqlw1p4pvxgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The scheme runs in schools across the West Midlands, including Birmingham and Walsall.",
+            "published": "2026-09-28T05:15:22+00:00"
+          },
+          {
+            "title": "Mass deletions, internal dissent allegations challenge Supreme Court-backed SIR",
+            "link": "https://www.thehindu.com/news/national/mass-deletions-internal-dissent-allegations-challenge-supreme-court-backed-sir/article71518374.ece",
+            "source": "The Hindu",
+            "summary": "‘The process of electoral revision must be conducted with care, fairness, and due regard to the limits of institutional competence’",
+            "published": "2026-09-28T10:44:57+05:30"
+          },
+          {
+            "title": "Supreme Court on recent Delhi rape cases: 'Painful parallel to Nirbhaya case'",
+            "link": "https://www.hindustantimes.com/india-news/public-spaces-cant-be-zones-of-high-risk-supreme-court-takes-cognisance-of-kalkaji-other-recent-rape-cases-101790572200677.html",
+            "source": "Hindustan Times",
+            "summary": "Public spaces can't be zones of high risk: Supreme Court takes cognisance of Kalkaji, other recent rape cases",
+            "published": "2026-09-28T10:42:52+05:30"
+          },
+          {
+            "title": "Long wait for justice as pendencies in rape cases mount",
+            "link": "https://www.thehindu.com/data/rape-cases-in-india-long-wait-for-justice-as-pendencies-in-rape-cases-mount/article71517284.ece",
+            "source": "The Hindu",
+            "summary": "Rape cases have remained steady since 2018, but pendency has grown, with less than 2% ending in conviction in the same year as the trial",
+            "published": "2026-09-28T10:42:07+05:30"
+          },
+          {
+            "title": "Keralam Waqf Board reconstitution: Govt to examine all aspects before decision, says Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-waqf-board-reconstitution-govt-to-examine-all-aspects-before-decision-says-minister/article71518405.ece",
+            "source": "The Hindu",
+            "summary": "Waqf Minister N. Samsudheen clarifies that no decision has been taken so far to dissolve or reconstitute existing board",
+            "published": "2026-09-28T10:38:37+05:30"
+          },
+          {
+            "title": "Uni student living at home 'wasn't ready' to move away",
+            "link": "https://www.bbc.co.uk/news/articles/cmwyzjgw7q6zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A third of students starting courses are living at home, the University of Gloucestershire says.",
+            "published": "2026-09-28T05:07:17+00:00"
+          },
+          {
+            "title": "LPU protest: Traffic on NH-44 restored, situation under control, say police",
+            "link": "https://www.thehindu.com/news/national/punjab/lpu-protest-traffic-on-nh-44-restored-situation-under-control-say-police/article71518299.ece",
+            "source": "The Hindu",
+            "summary": "LPU authorities suspended classes for 10 days starting from Monday, September 28; midterm examinations have also been postponed until further notice; Punjab Director General of police Gaurav Yadav is expected to visit the campus",
+            "published": "2026-09-28T10:37:02+05:30"
+          },
+          {
+            "title": "Russian strikes kill eight, injure dozens across Ukraine",
+            "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+            "published": "2026-09-28T05:06:11+00:00"
+          },
+          {
+            "title": "Molineux a doubt for Bangladesh ODIs with hip injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1556018.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "A CA spokesperson said Molineux's involvement in the series 'will continue to be assessed'",
+            "published": "2026-09-28T05:05:11+00:00"
+          },
+          {
             "title": "Spurious drugs racket kingpin arrested in Bengaluru",
             "link": "https://www.thehindu.com/news/national/karnataka/spurious-drugs-racket-kingpin-arrested-in-bengaluru/article71518285.ece",
             "source": "The Hindu",
             "summary": "Alleged kingpin R. Prashanth was reportedly hiding in Azerbaijan after the illegal drugs case came to light",
-            "published": "2026-09-28T10:24:47+05:30"
+            "published": "2026-09-28T10:33:36+05:30"
           },
           {
-            "title": "Serbia’s president resigns to run for prime minister",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.",
-            "published": "2026-09-28T04:50:46+00:00"
-          },
-          {
-            "title": "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
-            "link": "https://www.thehindu.com/news/national/kerala/iav-develops-dengue-early-warning-system-to-forecast-dengue-trends/article71512981.ece",
-            "source": "The Hindu",
-            "summary": "The aim is to help public health managers plan resource allocation and preventive measures proactively, rather than responding only after outbreaks occur",
-            "published": "2026-09-28T10:15:00+05:30"
-          },
-          {
-            "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.",
-            "published": "2026-09-28T04:44:12+00:00"
-          },
-          {
-            "title": "Lovely Professional University on the boil: What has led to the students’ protest in Punjab?",
-            "link": "https://www.thehindu.com/news/national/punjab/lovely-professional-university-punjab-on-the-boil-what-has-led-to-the-students-protest-how-has-the-university-police-responded/article71518351.ece",
-            "source": "The Hindu",
-            "summary": "LPU has claimed that certain anti-social elements were spreading completely false, baseless and fabricated rumours",
-            "published": "2026-09-28T10:13:36+05:30"
-          },
-          {
-            "title": "136 trekkers, mountaineers stranded in Uttarkashi due to snowfall; 5 evacuated",
-            "link": "https://www.hindustantimes.com/india-news/136-trekkers-mountaineers-stranded-in-uttarkashi-due-to-snowfall-5-evacuated-101790570404556.html",
+            "title": "Tamil Nadu CM Vijay to launch one-gram gold ring scheme for newborns in Madurai: All you need to know",
+            "link": "https://www.hindustantimes.com/india-news/tamil-nadu-cm-vijay-to-launch-one-gram-gold-ring-scheme-for-newborns-in-madurai-all-you-need-to-know-101790564578479.html",
             "source": "Hindustan Times",
-            "summary": "Rescue and relief teams have been activated at various trekking routes and base camps to bring people to safer locations",
-            "published": "2026-09-28T10:10:04+05:30"
+            "summary": "To be eligible for the one-gram gold ring scheme, mothers of newborns must be permanent residents of Tamil Nadu.",
+            "published": "2026-09-28T10:32:29+05:30"
           },
           {
-            "title": "Washout against Afghanistan sends India into semi-finals",
-            "link": "https://www.cricinfo.com/ci/content/story/1556015.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Persistent rain and a damp outfield forced the abandonment of the quarter-final 16 minutes before the scheduled toss",
-            "published": "2026-09-28T04:39:09+00:00"
-          },
-          {
-            "title": "CJP workers detained in Assam allege no food for 24 hours: ‘Who can survive on one banana?’",
-            "link": "https://www.hindustantimes.com/india-news/detained-cjp-workers-say-they-were-denied-food-in-assam-who-can-survive-on-one-banana-101790569117172.html",
+            "title": "Why edible oil prices could stay high long after the seasonal onion surge",
+            "link": "https://www.hindustantimes.com/india-news/why-edible-oil-prices-could-stay-high-long-after-the-seasonal-onion-surge-101790571725127.html",
             "source": "Hindustan Times",
-            "summary": "This comes as several CJP volunteers were detained in Guwahati on Sunday on their way to the venue of the party’s first volunteers’ meet.",
-            "published": "2026-09-28T10:04:17+05:30"
-          },
-          {
-            "title": "Portugal Start Nations League Defence With Back-To-Back Wins, Beat Norway 2-1",
-            "link": "https://sports.ndtv.com/football/portugal-start-nations-league-defence-with-back-to-back-wins-beat-norway-2-1-12106703#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Goncalo Ramos started in place of Cristiano Ronaldo and scored the winner as Portugal made it back-to-back victories to start their UEFA Nations League title defence by beating Norway 2-1 in Oslo on Sunday.",
-            "published": "2026-09-28T10:02:27+05:30"
-          },
-          {
-            "title": "An uncertain wait for filmmakers selected in IDSFFK after Union I&B Ministry ‘ban’",
-            "link": "https://www.thehindu.com/news/national/kerala/an-uncertain-wait-for-filmmakers-selected-in-idsffk-after-union-ib-ministry-ban/article71516456.ece",
-            "source": "The Hindu",
-            "summary": "Eight documentaries await censor exemption at the film festival",
-            "published": "2026-09-28T10:00:38+05:30"
-          },
-          {
-            "title": "Char Dham Yatra suspended for second day amid heavy rain in Uttarakhand",
-            "link": "https://www.hindustantimes.com/india-news/char-dham-yatra-suspended-for-second-day-amid-heavy-rain-in-uttarakhand-101790568502435.html",
-            "source": "Hindustan Times",
-            "summary": "Around 136 mountaineers, including several foreign nationals, were stranded at various locations in the mountainous regions due to heavy snowfall.",
-            "published": "2026-09-28T09:57:13+05:30"
-          },
-          {
-            "title": "Asian Games 2026 Day 9 LIVE Updates: Shooters 'Zero Shot' Denies India A Medal, Cricket Match Called Off",
-            "link": "https://sports.ndtv.com/othersports/asian-games-2026-live-updates-day-9-india-medal-tally-results-live-manu-bhaker-lovlina-borgohain-boxing-12106384#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Asian Games 2026 Day 9 LIVE Updates: Manu Bhaker and Rahi Sarnobat missed out on a spot in women's 25m air pistol final but Esha Singh qualified after finishing 8th. In the process, however, India missed out on a team medal.",
-            "published": "2026-09-28T09:56:07+05:30"
-          },
-          {
-            "title": "Omar Abdullah’s resolution on Statehood set for debate in J&K assembly; 6 NC MLAs move amendments to include Article 370, 35A",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-resolution-on-statehood-debate-in-jammu-kashmir-assembly/article71518226.ece",
-            "source": "The Hindu",
-            "summary": "Jammu and Kashmir Chief Minister Omar Abdullah on Friday, September 25, moved a resolution on the restoration of Statehood “in continuation of the 2000 autonomy resolution”",
-            "published": "2026-09-28T09:55:18+05:30"
-          },
-          {
-            "title": "India vs Afghanistan LIVE Score, Asian Games 2026: India vs Afghanistan Match Abandoned Due To Rain, This Team Qualifies",
-            "link": "https://sports.ndtv.com/cricket/india-vs-afghanistan-live-score-ind-vs-afg-asian-games-2026-quarterfinal-live-updates-aichi-nagoya-japan-shreyas-iyer-vaibhav-sooryavanshi-12107226#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs Afghanistan LIVE Score, Asian Games 2026: The Asian Games 2026 men's cricket quarterfinal between India and Afghanistan was abandoned without a toss due to heavy rain in Nisshin on Monday.",
-            "published": "2026-09-28T09:55:05+05:30"
+            "summary": "Commodities such as onion are experiencing a transient spike that would peak over the next few weeks and then decline as the Kharif harvest increases supply",
+            "published": "2026-09-28T10:32:04+05:30"
           }
         ],
         "India": [
           {
+            "title": "After protests within Congress, Keralam govt puts on hold reinstatement of DySP accused of sexual assault in custody",
+            "link": "https://www.thehindu.com/news/national/kerala/after-protests-within-congress-keralam-govt-puts-on-hold-reinstatement-of-dysp-accused-of-sexual-assault-in-custody/article71518425.ece",
+            "source": "The Hindu",
+            "summary": "Home Minister Ramesh Chennithala directs department to withdraw reinstatement decision following strong opposition within Congress in Kozhikode after news of the officer’s proposed return to service emerged",
+            "published": "2026-09-28T10:47:43+05:30"
+          },
+          {
+            "title": "Mass deletions, internal dissent allegations challenge Supreme Court-backed SIR",
+            "link": "https://www.thehindu.com/news/national/mass-deletions-internal-dissent-allegations-challenge-supreme-court-backed-sir/article71518374.ece",
+            "source": "The Hindu",
+            "summary": "‘The process of electoral revision must be conducted with care, fairness, and due regard to the limits of institutional competence’",
+            "published": "2026-09-28T10:44:57+05:30"
+          },
+          {
+            "title": "Supreme Court on recent Delhi rape cases: 'Painful parallel to Nirbhaya case'",
+            "link": "https://www.hindustantimes.com/india-news/public-spaces-cant-be-zones-of-high-risk-supreme-court-takes-cognisance-of-kalkaji-other-recent-rape-cases-101790572200677.html",
+            "source": "Hindustan Times",
+            "summary": "Public spaces can't be zones of high risk: Supreme Court takes cognisance of Kalkaji, other recent rape cases",
+            "published": "2026-09-28T10:42:52+05:30"
+          },
+          {
+            "title": "Long wait for justice as pendencies in rape cases mount",
+            "link": "https://www.thehindu.com/data/rape-cases-in-india-long-wait-for-justice-as-pendencies-in-rape-cases-mount/article71517284.ece",
+            "source": "The Hindu",
+            "summary": "Rape cases have remained steady since 2018, but pendency has grown, with less than 2% ending in conviction in the same year as the trial",
+            "published": "2026-09-28T10:42:07+05:30"
+          },
+          {
+            "title": "Keralam Waqf Board reconstitution: Govt to examine all aspects before decision, says Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-waqf-board-reconstitution-govt-to-examine-all-aspects-before-decision-says-minister/article71518405.ece",
+            "source": "The Hindu",
+            "summary": "Waqf Minister N. Samsudheen clarifies that no decision has been taken so far to dissolve or reconstitute existing board",
+            "published": "2026-09-28T10:38:37+05:30"
+          },
+          {
+            "title": "LPU protest: Traffic on NH-44 restored, situation under control, say police",
+            "link": "https://www.thehindu.com/news/national/punjab/lpu-protest-traffic-on-nh-44-restored-situation-under-control-say-police/article71518299.ece",
+            "source": "The Hindu",
+            "summary": "LPU authorities suspended classes for 10 days starting from Monday, September 28; midterm examinations have also been postponed until further notice; Punjab Director General of police Gaurav Yadav is expected to visit the campus",
+            "published": "2026-09-28T10:37:02+05:30"
+          },
+          {
             "title": "Spurious drugs racket kingpin arrested in Bengaluru",
             "link": "https://www.thehindu.com/news/national/karnataka/spurious-drugs-racket-kingpin-arrested-in-bengaluru/article71518285.ece",
             "source": "The Hindu",
             "summary": "Alleged kingpin R. Prashanth was reportedly hiding in Azerbaijan after the illegal drugs case came to light",
-            "published": "2026-09-28T10:24:47+05:30"
+            "published": "2026-09-28T10:33:36+05:30"
+          },
+          {
+            "title": "Tamil Nadu CM Vijay to launch one-gram gold ring scheme for newborns in Madurai: All you need to know",
+            "link": "https://www.hindustantimes.com/india-news/tamil-nadu-cm-vijay-to-launch-one-gram-gold-ring-scheme-for-newborns-in-madurai-all-you-need-to-know-101790564578479.html",
+            "source": "Hindustan Times",
+            "summary": "To be eligible for the one-gram gold ring scheme, mothers of newborns must be permanent residents of Tamil Nadu.",
+            "published": "2026-09-28T10:32:29+05:30"
+          },
+          {
+            "title": "Why edible oil prices could stay high long after the seasonal onion surge",
+            "link": "https://www.hindustantimes.com/india-news/why-edible-oil-prices-could-stay-high-long-after-the-seasonal-onion-surge-101790571725127.html",
+            "source": "Hindustan Times",
+            "summary": "Commodities such as onion are experiencing a transient spike that would peak over the next few weeks and then decline as the Kharif harvest increases supply",
+            "published": "2026-09-28T10:32:04+05:30"
+          },
+          {
+            "title": "Video: Ujjain tensions flare after clash over part of Shahi mosque demolition",
+            "link": "https://timesofindia.indiatimes.com/city/indore/tensions-flare-in-ujjain-after-group-clashes-with-police-over-shahi-masjid-demolition-row/articleshow/134532177.cms",
+            "source": "Times of India",
+            "summary": "A large crowd clashed with police in Ujjain due to plans to demolish part of the Shahi Masjid. Stone-throwing individuals intensified the situation, prompting police to intervene and control the unrest. Authorities deployed heavy police force to maintain order in the area following the clash. Tear-gas shells were used by police in an effort to disperse the crowd. This incident is currently being reported as a…",
+            "published": "2026-09-28T10:24:01+05:30"
           },
           {
             "title": "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
@@ -125,72 +188,23 @@
             "source": "The Hindu",
             "summary": "LPU has claimed that certain anti-social elements were spreading completely false, baseless and fabricated rumours",
             "published": "2026-09-28T10:13:36+05:30"
-          },
-          {
-            "title": "136 trekkers, mountaineers stranded in Uttarkashi due to snowfall; 5 evacuated",
-            "link": "https://www.hindustantimes.com/india-news/136-trekkers-mountaineers-stranded-in-uttarkashi-due-to-snowfall-5-evacuated-101790570404556.html",
-            "source": "Hindustan Times",
-            "summary": "Rescue and relief teams have been activated at various trekking routes and base camps to bring people to safer locations",
-            "published": "2026-09-28T10:10:04+05:30"
-          },
-          {
-            "title": "CJP workers detained in Assam allege no food for 24 hours: ‘Who can survive on one banana?’",
-            "link": "https://www.hindustantimes.com/india-news/detained-cjp-workers-say-they-were-denied-food-in-assam-who-can-survive-on-one-banana-101790569117172.html",
-            "source": "Hindustan Times",
-            "summary": "This comes as several CJP volunteers were detained in Guwahati on Sunday on their way to the venue of the party’s first volunteers’ meet.",
-            "published": "2026-09-28T10:04:17+05:30"
-          },
-          {
-            "title": "An uncertain wait for filmmakers selected in IDSFFK after Union I&B Ministry ‘ban’",
-            "link": "https://www.thehindu.com/news/national/kerala/an-uncertain-wait-for-filmmakers-selected-in-idsffk-after-union-ib-ministry-ban/article71516456.ece",
-            "source": "The Hindu",
-            "summary": "Eight documentaries await censor exemption at the film festival",
-            "published": "2026-09-28T10:00:38+05:30"
-          },
-          {
-            "title": "Char Dham Yatra suspended for second day amid heavy rain in Uttarakhand",
-            "link": "https://www.hindustantimes.com/india-news/char-dham-yatra-suspended-for-second-day-amid-heavy-rain-in-uttarakhand-101790568502435.html",
-            "source": "Hindustan Times",
-            "summary": "Around 136 mountaineers, including several foreign nationals, were stranded at various locations in the mountainous regions due to heavy snowfall.",
-            "published": "2026-09-28T09:57:13+05:30"
-          },
-          {
-            "title": "Omar Abdullah’s resolution on Statehood set for debate in J&K assembly; 6 NC MLAs move amendments to include Article 370, 35A",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-resolution-on-statehood-debate-in-jammu-kashmir-assembly/article71518226.ece",
-            "source": "The Hindu",
-            "summary": "Jammu and Kashmir Chief Minister Omar Abdullah on Friday, September 25, moved a resolution on the restoration of Statehood “in continuation of the 2000 autonomy resolution”",
-            "published": "2026-09-28T09:55:18+05:30"
-          },
-          {
-            "title": "Study flags E. coli in 67% of water samples in Keralam’s Pala region",
-            "link": "https://www.thehindu.com/news/national/kerala/study-flags-e-coli-in-67-of-water-samples-in-keralams-pala-region/article71516096.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-09-28T09:54:54+05:30"
-          },
-          {
-            "title": "KC Venugopal targeted in Facebook posts, case registered against five people",
-            "link": "https://www.hindustantimes.com/india-news/kc-venugopal-targeted-in-facebook-posts-case-registered-against-five-people-101790568484845.html",
-            "source": "Hindustan Times",
-            "summary": "Venugopal's name was also among those being discussed for the post, and the accused allegedly posted on social media opposing his candidature, police said.",
-            "published": "2026-09-28T09:54:22+05:30"
-          },
-          {
-            "title": "Anushka lets daughter binge at ice-cream museum, shares parenting lesson",
-            "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/anushka-sharma-once-took-her-ice-cream-loving-daughter-to-an-ice-cream-museum-and-told-her-to-eat-as-much-as-she-wanted-heres-what-happened-next-and-the-takeaway-for-parents/articleshow/134531665.cms",
-            "source": "Times of India",
-            "summary": "During a recent visit to a museum, Anushka Sharma let her daughter Vamika enjoy some ice cream. Interestingly, Vamika showed restraint and didn’t overindulge, despite the absence of strict food rules. Anushka highlighted that discussing food choices effectively fosters understanding and promotes healthier eating habits, illustrating that teaching kids about nutrition can be a enjoyable journey.",
-            "published": "2026-09-28T09:53:48+05:30"
-          },
-          {
-            "title": "ED attaches assets worth ₹442 crore in RummyCulture money laundering case",
-            "link": "https://www.thehindu.com/news/national/karnataka/ed-attaches-assets-worth-442-crore-in-rummyculture-money-laundering-case/article71516225.ece",
-            "source": "The Hindu",
-            "summary": "The ED initiated the money laundering investigation based on multiple FIRs registered by law enforcement agencies in Telangana",
-            "published": "2026-09-28T09:48:37+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Russian strikes kill eight, injure dozens across Ukraine",
+            "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+            "published": "2026-09-28T05:06:11+00:00"
+          },
+          {
+            "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.",
+            "published": "2026-09-28T04:56:00+00:00"
+          },
           {
             "title": "Serbia’s president resigns to run for prime minister",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
@@ -260,23 +274,30 @@
             "source": "BBC World",
             "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
             "published": "2026-09-28T00:52:49+00:00"
-          },
-          {
-            "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-            "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.",
-            "published": "2026-09-28T00:29:25+00:00"
-          },
-          {
-            "title": "South African police discover body of 11th woman near Johannesburg",
-            "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
-            "published": "2026-09-28T00:25:12+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "How much is in your savings account?",
+            "link": "https://www.bbc.co.uk/news/videos/cqrm99we3rjxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "From £65 to $60,000 - we talk savings with people in East London's Brick Lane.",
+            "published": "2026-09-28T05:22:50+00:00"
+          },
+          {
+            "title": "How waste food helps families through the week",
+            "link": "https://www.bbc.co.uk/news/articles/cjqlw1p4pvxgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The scheme runs in schools across the West Midlands, including Birmingham and Walsall.",
+            "published": "2026-09-28T05:15:22+00:00"
+          },
+          {
+            "title": "Uni student living at home 'wasn't ready' to move away",
+            "link": "https://www.bbc.co.uk/news/articles/cmwyzjgw7q6zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A third of students starting courses are living at home, the University of Gloucestershire says.",
+            "published": "2026-09-28T05:07:17+00:00"
+          },
           {
             "title": "Avanti West Coast services to be nationalised from March",
             "link": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
@@ -339,30 +360,16 @@
             "source": "BBC Business",
             "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
             "published": "2026-09-27T23:05:53+00:00"
-          },
-          {
-            "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-            "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-            "published": "2026-09-27T23:01:47+00:00"
-          },
-          {
-            "title": "Andy Burnham refuses to back third runway at Heathrow",
-            "link": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
-            "published": "2026-09-27T11:22:32+00:00"
-          },
-          {
-            "title": "Baby bank's urgent appeal as demand for help grows",
-            "link": "https://www.bbc.co.uk/news/articles/c81dl1qkxg7xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The founder of Leeds Baby Bank says the charity has seen a \"massive\" increase in referrals recently.",
-            "published": "2026-09-27T07:54:19+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Molineux a doubt for Bangladesh ODIs with hip injury",
+            "link": "https://www.cricinfo.com/ci/content/story/1556018.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "A CA spokesperson said Molineux's involvement in the series 'will continue to be assessed'",
+            "published": "2026-09-28T05:05:11+00:00"
+          },
           {
             "title": "Washout against Afghanistan sends India into semi-finals",
             "link": "https://www.cricinfo.com/ci/content/story/1556015.html?ex_cid=OTC-RSS",
@@ -439,13 +446,6 @@
             "source": "ESPN Cricinfo",
             "summary": "The fast bowler is relishing leading an inexperienced pace attack in the ODI series against West Indies",
             "published": "2026-09-28T03:18:20+00:00"
-          },
-          {
-            "title": "Out, not-out, out: England secure bizarre run-out in Oval victory",
-            "link": "https://www.cricinfo.com/ci/content/story/1555966.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Wicketkeeper knocks bails, but shy plucks stump out of ground in Rathnayake dismissal",
-            "published": "2026-09-28T03:15:42+00:00"
           }
         ],
         "Technology": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "द बोनस मार्केट अपडेट: बाजार में बिकवाली हावी, सेंसेक्स 1000 अंक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे",
+            "link": "https://www.amarujala.com/business/business-diary/opening-bell-sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-09-28",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-28T10:52:34+05:30"
+          },
+          {
+            "title": "बैरिकेड्स तोड़ परिसर में जाने की कोशिश! उज्जैन में शाही मस्जिद के बाहर भड़का विरोध, छावनी में बदला इलाका",
+            "link": "https://hindi.oneindia.com/news/india/ujjain-shahi-masjid-road-widening-row-simhastha-2028-high-court-hearing-1657085.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-28T10:44:57+05:30"
+          },
+          {
+            "title": "बैंक हड़ताल: आईबीए के आश्वासन पर यूएफबीयू ने हड़ताल वापस लिया, हफ्ते में पांच दिन काम पर क्या हुआ फैसला?",
+            "link": "https://www.amarujala.com/business/business-diary/bank-strike-called-off-banking-operations-normal-from-monday-after-iba-assurance-2026-09-28",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-28T10:28:57+05:30"
+          },
+          {
             "title": "बिना खेले एशियन गेम्स क्रिकेट के सेमीफाइनल में भारत, अफगानिस्तान को क्यों किया गया बाहर?",
             "link": "https://hindi.oneindia.com/news/sports/cricket/asian-games-2026-india-reach-semi-final-without-playing-a-ball-as-rain-washes-out-afghanistan-qf-1657079.html",
             "source": "Oneindia Hindi",
@@ -639,13 +660,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-28T10:20:46+05:30"
-          },
-          {
-            "title": "एलपीयू में बेकाबू बवाल: इंटरनेट बंद, 10 दिन की छुट्टी, सीएम मान ने दिए ये आदेश; डीजीपी आज संभालेंगे मोर्चा",
-            "link": "https://www.amarujala.com/live/punjab/jalandhar/lovely-professional-university-uproar-punjab-government-internet-services-suspended-dgp-live-update-2026-09-28",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-28T10:08:20+05:30"
           },
           {
             "title": "Dharavi Redevelopment: धारावी में घर खाली करने में देरी की तो घटेगा ट्रांजिट रेंट,पुनर्विकास पर क्या है अपडेट",
@@ -669,6 +683,20 @@
             "published": "2026-09-28T09:41:36+05:30"
           },
           {
+            "title": "न नाम न चेहरा: आखिर किसकी अगुवाई में तबाह हुई लवली प्रोफेशनल यूनिवर्सिटी? करोड़ों का नुकसान; आज कैसे हैं हालात",
+            "link": "https://www.amarujala.com/photo-gallery/punjab/jalandhar/lpu-violence-from-rumors-to-arson-an-anonymous-rage-gripped-lpu-for-24-hours-full-story-2026-09-28",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-28T09:31:35+05:30"
+          },
+          {
+            "title": "ख्वाजा आसिफ की बेहूदा हरकत: महिला पत्रकार ने तालिबान पर किया सवाल, पाकिस्तानी मंत्री का गला काटने जैसा इशारा",
+            "link": "https://www.amarujala.com/world/khawaja-asif-afghan-journalist-throat-cut-gesture-taliban-question-unga-viral-video-user-reaction-2026-09-28",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-28T09:21:26+05:30"
+          },
+          {
             "title": "कौन थी 30 साल की निधि तिवारी? 16 लाख फॉलोअर्स वाली स्टार की कैसे हुई मौत? ‘मिस प्रिटी इंडिया’ का मिला था खिताब",
             "link": "https://hindi.oneindia.com/news/india/who-was-nidhi-tiwari-social-media-influencer-16-lakh-followers-miss-pretty-india-2024-1657053.html",
             "source": "Oneindia Hindi",
@@ -681,34 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-28T09:03:48+05:30"
-          },
-          {
-            "title": "मणिपुर में अब कुकी और नगा समुदाय के बीच क्यों बढ़ा टकराव, दो दिनों में सात लोगों की हत्या",
-            "link": "https://www.bbc.com/hindi/articles/cm5ydng1r727o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-28T03:25:00+00:00"
-          },
-          {
-            "title": "थप्पड़कांड पर सियासत: केजरीवाल समेत 'आप' नेताओं ने भाजपा को घेरा, प्रवेश वर्मा के खिलाफ कार्रवाई की मांग",
-            "link": "https://www.amarujala.com/delhi-ncr/delhi-minister-parvesh-sahib-singh-verma-accused-of-slapping-a-youth-in-tilak-nagar-2026-09-28",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-28T08:49:04+05:30"
-          },
-          {
-            "title": "एसएससी सीजीएल 2026: 30 सितंबर को होने वाली टियर-1 परीक्षा का प्रवेश पत्र जारी, ऐसे करें डाउनलोड",
-            "link": "https://www.amarujala.com/jobs/government-jobs/ssc-cgl-tier-1-admit-card-2026-released-check-exam-date-download-steps-and-details-2026-09-28",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-28T08:40:34+05:30"
-          },
-          {
-            "title": "पंजाब : लवली प्रोफ़ेशनल यूनिवर्सिटी ने छात्रा से रेप के आरोपों को अफवाह बताया, पुलिस ने कहा- तोड़फोड़ के बाद हालात अब सामान्य",
-            "link": "https://www.bbc.com/hindi/articles/c3qjknl1wxpro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-09-28T02:51:51+00:00"
           }
         ],
         "Entertainment": [
@@ -804,7 +804,14 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ઉજ્જૈનમાં પથ્થરમારો, પોલીસે ટીયર ગેસના સેલ છોડ્યા:સિંહસ્થ માટે શાહી મસ્જિદ હટાવવાના વિરોધમાં પ્રદર્શન; મહિલા TI ઘાયલ",
+            "title": "'હું હવે ખૂલીને રમીશ...' કોહલીએ વેસ્ટ ઇન્ડીઝ સામે સદી ફટકારી રેકૉર્ડ બનાવ્યા",
+            "link": "https://www.bbc.com/gujarati/articles/cw770pz05rgeo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-28T05:15:31+00:00"
+          },
+          {
+            "title": "સિંહસ્થ માટે ઉજ્જૈનમાં મસ્જિદનો ભાગ તોડવાના વિરોધમાં પથ્થરમારો:પોલીસે ટીયર ગેસના સેલ છોડ્યા; મહિલા પોલીસ સ્ટેશન ઈન્ચાર્જ ઈજાગ્રસ્ત",
             "link": "https://www.divyabhaskar.co.in/national/news/ujjain-shahi-masjid-protest-stone-pelting-ti-injured-139175101.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -846,7 +853,7 @@
             "published": "2026-09-28T02:40:40+00:00"
           },
           {
-            "title": "ઉત્તરાખંડમાં હિમવર્ષાને કારણે 136 પર્વતારોહકો ફસાયા:યુપીના ગોંડા-બદાયૂમાં પુલ ડૂબ્યો; બિહારના 2 જિલ્લાઓમાં પૂર, 82 હજાર લોકો અસરગ્રસ્ત",
+            "title": "ઉત્તરાખંડમાં હિમવર્ષાને કારણે 136 પર્વતારોહકો ફસાયા:યુપીના ગોંડા-બદાયૂમાં પુલ ડૂબ્યા; બિહારના 2 જિલ્લાઓમાં પૂર, 82 હજાર લોકો અસરગ્રસ્ત",
             "link": "https://www.divyabhaskar.co.in/national/news/gadchiroli-flood-uttar-pradesh-heavy-rain-alert-weather-update-2026-139174111.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-09-27T15:52:03+00:00"
-          },
-          {
-            "title": "અઠવાડિયામાં પૂરતી ઊંઘ ન મળતી હોય, તો શું શનિ-રવિમાં મોડે સુધી ઊંઘવાથી ફાયદો થાય?",
-            "link": "https://www.bbc.com/gujarati/articles/cqrm9ppz31dlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-27T14:11:36+00:00"
           }
         ]
       }
@@ -895,18 +895,32 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ஆபாச படம் ஓகே.. ஆண்டுக்கு ரூ.2,200 கோடி வருமானம்! வருவாய் பற்றாக்குறையால் அரசு எடுத்த முடிவு",
+            "link": "https://tamil.oneindia.com/news/international/ukraine-moves-to-legalise-adult-industry-to-raise-tax-revenue-amid-war-what-it-means-for-govt-834211.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-09-28T10:53:54+05:30"
+          },
+          {
+            "title": "ஆர்.டி.ஐ-யில் சட்டம் ஒழுங்கு துறைக்கு விலக்கு அளித்த சில மணி நேரத்தில் அரசாணை வாபஸ் - அதில் என்ன இருந்தது?",
+            "link": "https://www.bbc.com/tamil/articles/cqly77ymdzpzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-28T05:19:07+00:00"
+          },
+          {
+            "title": "திருவள்ளூர் கழிவுநீர் கூவத்தில் கலப்பது செம்பரம்பாக்கம் ஏரியை எப்படி பாதிக்கக்கூடும்?",
+            "link": "https://www.bbc.com/tamil/articles/cmed739617wzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-28T05:08:45+00:00"
+          },
+          {
             "title": "பாகிஸ்தானை போட்டு பந்தாடும் ஆப்கானிஸ்தான்.. 28 பேரை கொன்று 32 பைட்டர்கள் சிறைபிடிப்பு.. பதற்றம்",
             "link": "https://tamil.oneindia.com/news/international/afghanistan-says-that-28-pakistan-fighters-killed-and-32-captured-834209.html",
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-09-28T10:29:24+05:30"
-          },
-          {
-            "title": "ஆபாச படம் ஓகே.. ஆண்டுக்கு ரூ.2,200 கோடி வருமானம்! வருவாய் பற்றாக்குறையால் அரசு எடுத்த முடிவு",
-            "link": "https://tamil.oneindia.com/news/international/ukraine-moves-to-legalise-adult-industry-to-raise-tax-revenue-amid-war-what-it-means-for-govt-834211.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-28T10:26:37+05:30"
           },
           {
             "title": "ஓம் காளி! ஜெய் காளி! தவெக ஒரு ஓடுகாலி! விஜய் ஸ்டைலில் உதயநிதி கடும் விமர்சனம்",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-28T01:24:44+00:00"
-          },
-          {
-            "title": "யானைகள் சில தாவரங்கள் மூலம் தமக்குத் தாமே மருத்துவம் செய்யும் - ஆய்வில் புதிய தகவல்",
-            "link": "https://www.bbc.com/tamil/articles/crjw5elqze52o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-27T16:28:32+00:00"
-          },
-          {
-            "title": "86வது சம்பவம்.. வேட்டையாட வெறியோட இருந்திருக்காரு.. 74 பந்தில் சதமடித்து விராட் கோலி கொடுத்த ட்ரீட்!",
-            "link": "https://tamil.oneindia.com/news/sports/cricket/virat-kohli-virat-kohli-scored-his-86th-century-in-just-74-balls-against-west-indies-in-1st-odi-at-834135.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-27T21:30:17+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,39 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "క్రిస్టా పైక్: పసి వయసులోనే లైంగిక దాడికి గురైన ఈ మహిళ మరణశిక్షను ఎందుకు ఎదుర్కొంటున్నారు?",
+            "link": "https://www.bbc.com/telugu/articles/cwg7kxrv72vpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-09-28T05:24:15+00:00"
+          },
+          {
+            "title": "బంగారం ధరలపై భారీగా దెబ్బపడింది.. భయానక పతనం",
+            "link": "https://telugu.oneindia.com/news/business/gold-price-drops-nearly-2-percent-in-india-at-mcx-following-comex-as-us-iran-tensions-reignite-them-508255.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-28T10:45:18+05:30"
+          },
+          {
+            "title": "వర్షాకాలం అసలు కథ ఇది.. ఒకే రోజులో నెలవారీ వాన!",
+            "link": "https://telugu.oneindia.com/news/india/why-indias-2026-monsoon-saw-severe-deficits-alongside-flash-floods-and-concentrated-heavy-rainstorm-508253.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-28T10:40:10+05:30"
+          },
+          {
             "title": "రైతులకు దసరా కానుక- ఖాతాల్లో నిధుల జమ, ఒకేసారి రూ 6 వేలు...!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-likely-to-release-annadata-sukhi-bava-funds-in-farmers-accounts-during-dasra-time-here-the-508251.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-28T10:19:24+05:30"
+          },
+          {
+            "title": "Ketan Agarwal Murder Case: కేతన్‌కు పట్టిన గతే నీకూ పడుతుందన్నారు: హత్య కేసులో ప్రత్యక్ష సాక్షి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1NzeldSYmtWMzlQZm9mOUNaM043ajhDZXB6bGJWOUR4dk9FT2I1bG1rc2dlalJnZkpRVzBpNEdiS3dlQzBmdERLdVpHWDgwSlpyYllBOEw0UmdLX1QwdUpmZEJhVjZCY0R6cWU3cGctcncxVUNwWGFteGdMZXVJSm03Vk5OSzg3MXVfeFJpTVBjOTNUNk5FS0dXWGZITnVnZmdQMGVzNFVRQ1kxaTVWd3hQYWtQRDVqdmhGV0lqZzctLVk3dnRGN0NRZHN5SDTSAc8BQVVfeXFMTldTc3pXUmJrVjM5UGZvZjlDWjNON2o4Q2VwemxiVjlEeHZPRU9iNWxta3NnZWpSZ2ZKUVcwaTRHYkt3ZUMwZnRES3VaR1g4MEpacmJZQThMNFJnS19UMHVKZmRCYVY2QmNEenFlN3BnLXJ3MVVDcFhhbXhnTGV1SUptN1ZOTks4NzF1X3hSaU1QYzkzVDZORUtHV1hmSE51Z2ZnUDBlczRVUUNZMWk1Vnd4UGFrUEQ1anZoRldJamc3LS1ZN3Z0RjdDUWRzeUg0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-28T04:35:41+00:00"
           },
           {
             "title": "డ్రైవింగ్ లైసెన్స్‌కు మొబైల్ నంబర్ లింక్ చేసుకోకుంటే లైసెన్స్ రద్దు అవుతుందా?",
@@ -1086,11 +1114,11 @@
             "published": "2026-09-28T10:04:26+05:30"
           },
           {
-            "title": "Stock Market: మార్కెట్లకు చమురు షాక్‌.. 900 పాయింట్లు పతనమైన సెన్సెక్స్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWZZM2ZDdUM1M2oyYVhCNWdJYU5UaUtFdjh6YU42dHRQZ05Oa0RXZFl0RDMwcjlnNVZOY0dKazIyWjN0VkdWTGNUNnhqY1ljZlg3Zm9Yc1A2UFlTeC1DMG5relh2clFUOWkxZ3NvVGllUGd2SFc3WkhsalFXNjlPbGE5YmNicTF4MFBTNjdGYU8yVkRQYTg4Y1E2aTAtM09lOW1CYkY5LWRYZUFCTEHSAa4BQVVfeXFMT0lmWTNmQ3VDNTNqMmFYQjVnSWFOVGlLRXY4emFONnR0UGdOTmtEV2RZdEQzMHI5ZzVWTmNHSmsyMlozdFZHVkxjVDZ4amNZY2ZYN2ZvWHNQNlBZU3gtQzBua3pYdnJRVDlpMWdzb1RpZVBndkhXN1pIbGpRVzY5T2xhOWJjYnExeDBQUzY3RmFPMlZEUGE4OGNRNmkwLTNPZTltQmJGOS1kWGVBQkxB?oc=5",
+            "title": "కంటైనర్‌ను ఢీకొన్న కారు.. అడిషనల్‌ కలెక్టర్‌కు తప్పిన ప్రమాదం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNjlLbGRhWTlYa05HdEtxSDl5VnFaNkI5WW5vT3BpaUxlbzdkaFVjLTYwSXlzYUFRUDZMRDVtWjRQcHFvZWxWdFljcVhuSWNHVTBtcFNhMVVBWkdKX0JjSnRGRnhPbWJIeXI2bWdxVjVfRGU0ZHJHeW9RWW0?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-28T04:22:10+00:00"
+            "published": "2026-09-28T04:20:09+00:00"
           },
           {
             "title": "అర్ధరాత్రి ఇబ్బంది పెడుతున్నారు- పోలీసులకు అల్లు శిరీశ్ ఫిర్యాదు..!!",
@@ -1126,34 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-28T08:44:55+05:30"
-          },
-          {
-            "title": "H-1B: రాబోయే 365 రోజుల్లో వీసా రూపురేఖలు మార్చేయనున్న ట్రంప్!",
-            "link": "https://telugu.oneindia.com/news/international/us-labor-inspector-general-warns-of-tougher-h-1b-enforcement-and-growing-foreign-labor-crackdow-508233.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T08:14:10+05:30"
-          },
-          {
-            "title": "చైనాను కుదిపిన భూకంపం..!!",
-            "link": "https://telugu.oneindia.com/news/international/earthquake-today-magnitude-4-5-rocks-78-km-north-of-daocheng-of-china-assumed-to-be-shallow-508231.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T08:06:58+05:30"
-          },
-          {
-            "title": "ఏపీలో పెన్షన్లకు 13.65 లక్షల దరఖాస్తులు-అప్పుడే 1.42 లక్షల మంది ?",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ntr-bharosa-pensions-ap-govt-filters-out-1-42-lakh-applicants-from-13-65-lakh-applications-508229.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T08:05:45+05:30"
-          },
-          {
-            "title": "''ఆహారం ఆర్డర్ చేయండి, బిల్లు మాత్రం కట్టకండి''- ఎక్కువగా ఫుడ్ ఆర్డర్లు పెట్టే అలవాటుకు విరుగుడు దొరికినట్టేనా?",
-            "link": "https://www.bbc.com/telugu/articles/ckjw5e4yjwzwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-09-28T02:11:45+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಹುಚ್ಚು ಬಿಡುತ್ತೆ, ರಾಹುಲ್ ಗಾಂಧಿಗೆ ಒಂದು ಮದುವೆ ಮಾಡಿ: ಛಲವಾದಿ ನಾರಾಯಣಸ್ವಾಮಿ",
+            "link": "https://kannada.oneindia.com/news/karnataka/rahul-gandhi-chalavadi-narayanaswamy-says-get-congress-leader-gandhi-married-his-craziness-will-469355.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-28T10:58:34+05:30"
+          },
+          {
             "title": "55, 86, 315,15,000.. ಕ್ರಿಕೆಟ್‌ ದೇವರು ಸಚಿನ್ ರೆಕಾರ್ಡ್‌ ಬ್ರೇಕ್: ಕಿಂಗ್ ಕೊಹ್ಲಿ ಐತಿಹಾಸಿಕ ದಾಖಲೆ",
             "link": "https://kannada.oneindia.com/news/sports/virat-kohli-records-breaks-team-india-legend-sachin-tendulkars-odi-record-with-15-000-runs-469351.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-27T20:49:49+05:30"
-          },
-          {
-            "title": "KEA ಮಾಸ್ಟರ್ ಪ್ಲ್ಯಾನ್! ಪರೀಕ್ಷಾ ಅಕ್ರಮಕ್ಕೆ ಬ್ರೇಕ್ ಹಾಕಲು ಬಂತು 3 ಲೇಯರ್ OMR, ಎಲ್ಲ ಪರೀಕ್ಷೆಗಳಿಗೂ ವಿಸ್ತರಣೆ",
-            "link": "https://kannada.oneindia.com/news/karnataka/kea-triple-layer-omr-sheet-new-system-to-curb-exam-malpractice-in-karnataka-recruitment-tests-469319.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-27T20:03:38+05:30"
           }
         ],
         "Entertainment": [
