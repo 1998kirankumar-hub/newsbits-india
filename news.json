@@ -1,196 +1,245 @@
 {
-  "updated_at": "2026-09-28T17:01:37.863107+00:00",
+  "updated_at": "2026-09-28T17:31:16.010668+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-            "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+            "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+            "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+            "published": "2026-09-28T17:26:21+00:00"
+          },
+          {
+            "title": "Kerala HC grants pre-arrest bail to YouTuber",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-grants-pre-arrest-bail-to-youtuber/article71521013.ece",
+            "source": "The Hindu",
+            "summary": "Court says custodial interrogation unnecessary; bail subject to conditions including weekly appearance before investigating officer and cooperation with probe",
+            "published": "2026-09-28T22:53:06+05:30"
+          },
+          {
+            "title": "Supreme Court asks how children can have social media accounts, as underlying contracts are legally void",
+            "link": "https://www.thehindu.com/news/national/supreme-court-asks-how-children-can-have-social-media-accounts-as-underlying-contracts-are-legally-void/article71520970.ece",
+            "source": "The Hindu",
+            "summary": "Minors are legally incompetent to enter contracts under Indian law, notes SC; says social media firms must frame their platforms in conformity with Indian law, and enforce an age threshold of 18 years for ‘membership’",
+            "published": "2026-09-28T22:50:32+05:30"
+          },
+          {
+            "title": "UK diesel price hits all-time high, the RAC says",
+            "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-            "published": "2026-09-28T16:58:48+00:00"
+            "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+            "published": "2026-09-28T17:19:05+00:00"
           },
           {
-            "title": "Leicestershire fight on as eight points cut from pitch penalty by tribunal",
-            "link": "https://www.cricinfo.com/ci/content/story/1556062.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "CDP withdraws additional penalty as appeal to stay in first division continues",
-            "published": "2026-09-28T16:54:45+00:00"
+            "title": "Why UK diesel prices have hit an all-time high",
+            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+            "published": "2026-09-28T17:18:07+00:00"
           },
           {
-            "title": "Supreme Court questions FSSAI for delay in roll-out of warning labels on packaged foods",
-            "link": "https://www.thehindu.com/news/national/sc-questions-fssai-over-its-proposed-timeline-for-implementation-of-front-of-package-labelling/article71518996.ece",
-            "source": "The Hindu",
-            "summary": "‘You started in 2022. What did you do in the last four years,’ the Bench asks the food safety regulator as it seeks nearly two years to roll out front-of-pack warning labels on packaged foods",
-            "published": "2026-09-28T22:23:39+05:30"
+            "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+            "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+            "published": "2026-09-28T17:15:00+00:00"
           },
           {
-            "title": "Gujarat Giants Explain Why They Released \"World Class\" Danni Wyatt-Hodge Ahead Of WPL Auction",
-            "link": "https://sports.ndtv.com/cricket/gujarat-giants-explain-why-they-released-world-class-danni-wyatt-hodge-ahead-of-wpl-auction-12110904#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Gujarat Giants (GG) head coach Michael Klinger has stated that the decision to release England opener Danni Wyatt-Hodge was driven by a desire for tactical flexibility in the upcoming auction, alongside considerations regarding her international availability during WPL 2027.",
-            "published": "2026-09-28T22:21:56+05:30"
-          },
-          {
-            "title": "BJP’s SC/ST Lok Sabha MPs took part in fewer debates than House average and party peers",
-            "link": "https://www.thehindu.com/news/national/bjps-scst-lok-sabha-mps-took-part-in-fewer-debates-than-house-average-and-party-peers/article71520138.ece",
-            "source": "The Hindu",
-            "summary": "The 46 BJP Members elected from Scheduled Caste and Scheduled Tribe seats averaged 13.9 debates in the 18th Lok Sabha, against 21.5 for the House and 19.7 for BJP MPs from other seats, show PRS data",
-            "published": "2026-09-28T22:21:16+05:30"
-          },
-          {
-            "title": "South Korea suspects North Korean mines behind DMZ blast",
-            "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The report into the explosion in Demilitarized Zone threatens to provoke renewed tension between the two Koreas.",
-            "published": "2026-09-28T16:50:08+00:00"
-          },
-          {
-            "title": "Ireland appoint Ed Joyce as high performance batting coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1556063.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "He will coach the senior men's team and also be involved with their male talent pathway",
-            "published": "2026-09-28T16:49:04+00:00"
-          },
-          {
-            "title": "Keralam long jumper Sreeshankar’s silver at Asian Games brings cheers to Yakkara",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-long-jumper-sreeshankars-silver-at-asian-games-brings-cheers-to-yakkara/article71520671.ece",
-            "source": "The Hindu",
-            "summary": "His second attempt of 8.07 metres enough to win him silver",
-            "published": "2026-09-28T22:17:36+05:30"
-          },
-          {
-            "title": "'I Made Boxing Gloves Out Of Lungis': Roshibina Devi Recalls Unusual Start To Wushu Journey",
-            "link": "https://sports.ndtv.com/othersports/i-made-boxing-gloves-out-of-lungis-roshibina-devi-recalls-unusual-start-to-wushu-journey-12111138#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Three Asian Games medals across three editions. That's a feat not many Indian athletes can boast of, unless you're Roshibina Devi.",
-            "published": "2026-09-28T22:17:19+05:30"
-          },
-          {
-            "title": "Ujjain mosque demolition: MP HC disposes of pleas by Muslim side after 'settlement' with civic body",
-            "link": "https://www.hindustantimes.com/india-news/ujjain-mosque-demolition-hc-disposes-of-pleas-by-muslim-side-after-settlement-with-civic-body-101790613396993.html",
+            "title": "US sets zero tariff on certain speciality drugs, ingredients from India, 19 other nations",
+            "link": "https://www.hindustantimes.com/india-news/us-sets-zero-tariff-on-certain-speciality-drugs-ingredients-from-india-19-other-nations-101790613511567.html",
             "source": "Hindustan Times",
-            "summary": "The bench said assurances provided by Ujjain Municipal Corporation in its response and interim notice in Shahi Masjid case would be binding on the civic body.",
-            "published": "2026-09-28T22:16:53+05:30"
+            "summary": "An ad valorem tariff is a set percentage of the monetary value of the goods to be taxed, according to the World Customs Organisation.",
+            "published": "2026-09-28T22:44:40+05:30"
           },
           {
-            "title": "RCB Release Grace Harris Ahead Of WPL 2027 Auction, UP Warriorz Let Go Of 9 Players",
-            "link": "https://sports.ndtv.com/cricket/rcb-release-grace-harris-ahead-of-wpl-2027-auction-up-warriorz-let-go-of-9-players-12110163#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Defending champions Royal Challengers Bengaluru (RCB) on Monday decided to release destructive Australian batter Grace Harris ahead of the 2027 WPL auction in Kochi on October 28.",
-            "published": "2026-09-28T22:16:00+05:30"
+            "title": "What is the Budget and what could be in it?",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
+            "published": "2026-09-28T17:14:16+00:00"
           },
           {
-            "title": "Migrant children protest after police clear beach camp in Ceuta",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
+            "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
+            "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Migrant children in Ceuta have protested for adequate shelter after heavy rain soaked their makeshift tents.",
-            "published": "2026-09-28T16:44:58+00:00"
+            "summary": "Spain&#039;s Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali.",
+            "published": "2026-09-28T17:13:03+00:00"
           },
           {
-            "title": "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah",
-            "link": "https://www.thehindu.com/news/national/over-40-modules-of-shahzad-bhatti-network-busted-350-held-across-15-states-amit-shah/article71520689.ece",
+            "title": "Clashes in Ujjain over razing of mosque’s portion, 15 detained",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/ujjain-madhya-pradesh-protests-mosque-demolition-road-widening-project/article71518811.ece",
             "source": "The Hindu",
-            "summary": "The Centre has declared the Bhatti network a terrorist organisation, which is allegedly involved in cross-border smuggling of weapons, explosives and narcotics; Bhatti is a Pakistani social media influencer",
-            "published": "2026-09-28T22:14:06+05:30"
+            "summary": "Clashes erupted when a few community members began removing a three-foot overhang of the mosque near the Mahakaleshwar Temple following an agreement with the administration on Sunday",
+            "published": "2026-09-28T22:39:01+05:30"
           },
           {
-            "title": "Campus defaced, vehicles on fire, classes suspended: Punjab's LPU returns to normalcy day after violent protests",
-            "link": "https://www.hindustantimes.com/india-news/campus-defaced-classes-suspended-vehicles-on-fire-punjab-lpu-latest-updates-after-violent-protests-over-student-rape-101790612595891.html",
-            "source": "Hindustan Times",
-            "summary": "The protests escalated on Sunday evening when some protesters allegedly pelted police personnel with stones and attacked their vehicles, injuring several cops.",
-            "published": "2026-09-28T22:12:32+05:30"
+            "title": "Sangam Dairy plans expansion, targets ₹2,500 crore turnover",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/sangam-dairy-plans-expansion-targets-2500-crore-turnover/article71520521.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-28T22:38:05+05:30"
+          },
+          {
+            "title": "Workshop on ‘Quaternary Earth System Processes and Geohazards in Southern India’ begins at NCESS",
+            "link": "https://www.thehindu.com/news/national/kerala/workshop-on-quaternary-earth-system-processes-and-geohazards-in-southern-india-begins-at-ncess/article71520496.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-28T22:37:52+05:30"
+          },
+          {
+            "title": "40 trekkers trapped at high altitude rescued in Uttarkashi, many still stranded",
+            "link": "https://www.thehindu.com/news/national/uttarakhand/trekkers-and-expedition-members-stranded-at-high-altitude-kalindi-pass-base-and-audens-col-base-in-uttarkashi/article71518572.ece",
+            "source": "The Hindu",
+            "summary": "The remaining trekkers will be evacuated when weather conditions permit, with the operation scheduled to resume at 6 on September 29",
+            "published": "2026-09-28T22:36:53+05:30"
+          },
+          {
+            "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person",
+            "published": "2026-09-28T17:06:00+00:00"
           }
         ],
         "India": [
           {
-            "title": "Supreme Court questions FSSAI for delay in roll-out of warning labels on packaged foods",
-            "link": "https://www.thehindu.com/news/national/sc-questions-fssai-over-its-proposed-timeline-for-implementation-of-front-of-package-labelling/article71518996.ece",
+            "title": "Kerala HC grants pre-arrest bail to YouTuber",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-grants-pre-arrest-bail-to-youtuber/article71521013.ece",
             "source": "The Hindu",
-            "summary": "‘You started in 2022. What did you do in the last four years,’ the Bench asks the food safety regulator as it seeks nearly two years to roll out front-of-pack warning labels on packaged foods",
-            "published": "2026-09-28T22:23:39+05:30"
+            "summary": "Court says custodial interrogation unnecessary; bail subject to conditions including weekly appearance before investigating officer and cooperation with probe",
+            "published": "2026-09-28T22:53:06+05:30"
           },
           {
-            "title": "BJP’s SC/ST Lok Sabha MPs took part in fewer debates than House average and party peers",
-            "link": "https://www.thehindu.com/news/national/bjps-scst-lok-sabha-mps-took-part-in-fewer-debates-than-house-average-and-party-peers/article71520138.ece",
+            "title": "Supreme Court asks how children can have social media accounts, as underlying contracts are legally void",
+            "link": "https://www.thehindu.com/news/national/supreme-court-asks-how-children-can-have-social-media-accounts-as-underlying-contracts-are-legally-void/article71520970.ece",
             "source": "The Hindu",
-            "summary": "The 46 BJP Members elected from Scheduled Caste and Scheduled Tribe seats averaged 13.9 debates in the 18th Lok Sabha, against 21.5 for the House and 19.7 for BJP MPs from other seats, show PRS data",
-            "published": "2026-09-28T22:21:16+05:30"
+            "summary": "Minors are legally incompetent to enter contracts under Indian law, notes SC; says social media firms must frame their platforms in conformity with Indian law, and enforce an age threshold of 18 years for ‘membership’",
+            "published": "2026-09-28T22:50:32+05:30"
           },
           {
-            "title": "Keralam long jumper Sreeshankar’s silver at Asian Games brings cheers to Yakkara",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-long-jumper-sreeshankars-silver-at-asian-games-brings-cheers-to-yakkara/article71520671.ece",
-            "source": "The Hindu",
-            "summary": "His second attempt of 8.07 metres enough to win him silver",
-            "published": "2026-09-28T22:17:36+05:30"
-          },
-          {
-            "title": "Ujjain mosque demolition: MP HC disposes of pleas by Muslim side after 'settlement' with civic body",
-            "link": "https://www.hindustantimes.com/india-news/ujjain-mosque-demolition-hc-disposes-of-pleas-by-muslim-side-after-settlement-with-civic-body-101790613396993.html",
+            "title": "US sets zero tariff on certain speciality drugs, ingredients from India, 19 other nations",
+            "link": "https://www.hindustantimes.com/india-news/us-sets-zero-tariff-on-certain-speciality-drugs-ingredients-from-india-19-other-nations-101790613511567.html",
             "source": "Hindustan Times",
-            "summary": "The bench said assurances provided by Ujjain Municipal Corporation in its response and interim notice in Shahi Masjid case would be binding on the civic body.",
-            "published": "2026-09-28T22:16:53+05:30"
+            "summary": "An ad valorem tariff is a set percentage of the monetary value of the goods to be taxed, according to the World Customs Organisation.",
+            "published": "2026-09-28T22:44:40+05:30"
           },
           {
-            "title": "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah",
-            "link": "https://www.thehindu.com/news/national/over-40-modules-of-shahzad-bhatti-network-busted-350-held-across-15-states-amit-shah/article71520689.ece",
+            "title": "Clashes in Ujjain over razing of mosque’s portion, 15 detained",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/ujjain-madhya-pradesh-protests-mosque-demolition-road-widening-project/article71518811.ece",
             "source": "The Hindu",
-            "summary": "The Centre has declared the Bhatti network a terrorist organisation, which is allegedly involved in cross-border smuggling of weapons, explosives and narcotics; Bhatti is a Pakistani social media influencer",
-            "published": "2026-09-28T22:14:06+05:30"
+            "summary": "Clashes erupted when a few community members began removing a three-foot overhang of the mosque near the Mahakaleshwar Temple following an agreement with the administration on Sunday",
+            "published": "2026-09-28T22:39:01+05:30"
           },
           {
-            "title": "Campus defaced, vehicles on fire, classes suspended: Punjab's LPU returns to normalcy day after violent protests",
-            "link": "https://www.hindustantimes.com/india-news/campus-defaced-classes-suspended-vehicles-on-fire-punjab-lpu-latest-updates-after-violent-protests-over-student-rape-101790612595891.html",
-            "source": "Hindustan Times",
-            "summary": "The protests escalated on Sunday evening when some protesters allegedly pelted police personnel with stones and attacked their vehicles, injuring several cops.",
-            "published": "2026-09-28T22:12:32+05:30"
-          },
-          {
-            "title": "Families of Nepal flood victims urged to submit DNA samples for identification",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/families-of-nepal-flood-victims-urged-to-submit-dna-samples-for-identification/article71520550.ece",
+            "title": "Sangam Dairy plans expansion, targets ₹2,500 crore turnover",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/sangam-dairy-plans-expansion-targets-2500-crore-turnover/article71520521.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-28T22:12:19+05:30"
+            "published": "2026-09-28T22:38:05+05:30"
           },
           {
-            "title": "Telangana Fire Services proposes risk-based classification to simplify industrial Fire NOCs",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-fire-services-proposes-risk-based-classification-to-simplify-industrial-fire-nocs/article71520250.ece",
+            "title": "Workshop on ‘Quaternary Earth System Processes and Geohazards in Southern India’ begins at NCESS",
+            "link": "https://www.thehindu.com/news/national/kerala/workshop-on-quaternary-earth-system-processes-and-geohazards-in-southern-india-begins-at-ncess/article71520496.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-28T22:11:12+05:30"
+            "published": "2026-09-28T22:37:52+05:30"
           },
           {
-            "title": "MIT artificial reef helps Maldives beach double in size, growing by 90 feet",
-            "link": "https://timesofindia.indiatimes.com/science/nature/a-300-foot-maldives-beach-was-shrinking-slowly-then-mit-researchers-built-an-artificial-reef-that-helped-the-shoreline-grow-by-90-feet-and-double-in-size/articleshow/134536500.cms",
+            "title": "40 trekkers trapped at high altitude rescued in Uttarkashi, many still stranded",
+            "link": "https://www.thehindu.com/news/national/uttarakhand/trekkers-and-expedition-members-stranded-at-high-altitude-kalindi-pass-base-and-audens-col-base-in-uttarkashi/article71518572.ece",
+            "source": "The Hindu",
+            "summary": "The remaining trekkers will be evacuated when weather conditions permit, with the operation scheduled to resume at 6 on September 29",
+            "published": "2026-09-28T22:36:53+05:30"
+          },
+          {
+            "title": "Participants of the 4th Congress of the International Russophile Movement meet Governor",
+            "link": "https://www.thehindu.com/news/national/kerala/participants-of-the-4th-congress-of-the-international-russophile-movement-meet-governor/article71520539.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-28T22:33:38+05:30"
+          },
+          {
+            "title": "Innovation and technical skills crucial for youth, says Advisor to A.P. government",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/innovation-and-technical-skills-crucial-for-youth-says-advisor-to-ap-government/article71520641.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-28T22:32:52+05:30"
+          },
+          {
+            "title": "J&K Bureaucrats Oppose Statehood Resolution In Rare Letter To Assembly Speaker",
+            "link": "https://www.ndtv.com/india-news/dont-allow-statehood-resolution-j-k-bureaucrats-letter-to-assembly-speaker-12111057#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "J&K Chief Secretary Atal Duloo and the Law Secretary Achal Sethi have sent separate letters to the Assembly Secretariat calling for disallowing the resolution, three days after it was moved by chief minister Omar Abdullah and admitted by the House.",
+            "published": "2026-09-28T22:28:35+05:30"
+          },
+          {
+            "title": "Gautam Adani, 4 group firms settle with Sebi in minimum public shareholding violation case",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/gautam-adani-4-group-firms-settle-with-sebi-in-minimum-public-shareholding-violation-case/articleshow/134547086.cms",
             "source": "Times of India",
-            "summary": "In a bold move against beach erosion, a Marriott resort in the Maldives is pioneering the use of artificial reefs. This project involves the careful placement of concrete blocks to enhance sand accumulation while simultaneously fostering local marine ecosystems. Via advanced satellite and ocean current data, Coastal Assembly identifies optimal reef locations, illustrating a transformative trend in sustainable…",
-            "published": "2026-09-28T22:00:00+05:30"
+            "summary": "Adani Group chairman Gautam Adani and his companies have reached a settlement with Sebi regarding violations of minimum public shareholding laws. They agreed to pay Rs 1.48 crore to close the matter, which stemmed from complaints filed in 2020. Although the involved parties denied any wrongdoing, Sebi will refrain from further enforcement actions unless similar issues come up in the future.",
+            "published": "2026-09-28T22:26:50+05:30"
           },
           {
-            "title": "Three-day Navy Commanders’ Conference to start in New Delhi on September 29",
-            "link": "https://www.thehindu.com/news/national/three-day-navy-commanders-conference-to-start-in-new-delhi-on-september-29/article71519927.ece",
-            "source": "The Hindu",
-            "summary": "It will review operational preparedness amid West Asia conflict",
-            "published": "2026-09-28T21:59:43+05:30"
-          },
-          {
-            "title": "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found",
-            "link": "https://www.hindustantimes.com/india-news/irani-cafe-kyani-and-co-in-mumbai-licence-cancelled-maharashtra-fda-scanner-tukaram-mundhe-rat-droppings-lizards-found-101790609344402.html",
-            "source": "Hindustan Times",
-            "summary": "The FDA also suspended the licences of Arun Vilas Farsan in Dharavi and Ruchi Veg Restaurant in Parel over hygiene and sanitation violations.",
-            "published": "2026-09-28T21:59:38+05:30"
-          },
-          {
-            "title": "Prolonged El Nino may hurt marine ecosystem: INCOIS",
-            "link": "https://www.thehindu.com/news/national/telangana/prolonged-el-nino-may-hurt-marine-ecosystem-incois/article71519304.ece",
+            "title": "Telangana High Court directs private medical college to return tuition fee to student as university cancels admission",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-high-court-directs-private-medical-college-to-return-tuition-fee-to-student-as-university-cancels-admission/article71520777.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-28T21:58:59+05:30"
+            "published": "2026-09-28T22:25:26+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+            "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+            "published": "2026-09-28T17:26:21+00:00"
+          },
+          {
+            "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+            "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+            "published": "2026-09-28T17:15:00+00:00"
+          },
+          {
+            "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
+            "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Spain&#039;s Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali.",
+            "published": "2026-09-28T17:13:03+00:00"
+          },
+          {
+            "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person",
+            "published": "2026-09-28T17:06:00+00:00"
+          },
+          {
+            "title": "People escape historic Kyiv building hit by Russian drone",
+            "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+            "published": "2026-09-28T17:04:14+00:00"
+          },
+          {
+            "title": "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/09-28-nigerian-dancer-sv-mp4?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Nigerian dancer Benjamin Daniel Gabriel is trying to dance for 168 hours straight in a bid to set a world record.",
+            "published": "2026-09-28T17:02:53+00:00"
+          },
+          {
+            "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
+            "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Analysts dismissed Trump&#039;s proposal as lacking any strategic logic – but said it revealed how he views Beijing.",
+            "published": "2026-09-28T16:55:05+00:00"
+          },
           {
             "title": "South Korea suspects North Korean mines behind DMZ blast",
             "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
@@ -225,58 +274,37 @@
             "source": "BBC World",
             "summary": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
             "published": "2026-09-28T16:25:00+00:00"
-          },
-          {
-            "title": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/jerusalem-daily-israeli-incursions-at-al-aqsa-mosque?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-09-28T16:24:54+00:00"
-          },
-          {
-            "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
-            "link": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Republican-led US state says the AI should be blocked from development until safeguards are put in place.",
-            "published": "2026-09-28T16:24:25+00:00"
-          },
-          {
-            "title": "Four bodies found after avalanche hits Himalayan climbing group",
-            "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
-            "published": "2026-09-28T16:13:44+00:00"
-          },
-          {
-            "title": "LIVE: Belgium vs France – Nations League",
-            "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Follow updates from the Group A1 Nations League clash, including the build-up, analysis and live text commentary.",
-            "published": "2026-09-28T16:00:25+00:00"
-          },
-          {
-            "title": "At least 33 killed after Myanmar military air strike hits market",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Dozens of people have been killed in a military air strike on an opposition-controlled area of Rakhine State, Myanmar.",
-            "published": "2026-09-28T15:38:16+00:00"
-          },
-          {
-            "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
-            "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "British foreign minister vows to &#039;match word with action&#039; when it comes to defending Palestinian rights.",
-            "published": "2026-09-28T15:35:21+00:00"
-          },
-          {
-            "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
-            "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.",
-            "published": "2026-09-28T15:29:48+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "UK diesel price hits all-time high, the RAC says",
+            "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+            "published": "2026-09-28T17:19:05+00:00"
+          },
+          {
+            "title": "Why UK diesel prices have hit an all-time high",
+            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+            "published": "2026-09-28T17:18:07+00:00"
+          },
+          {
+            "title": "What is the Budget and what could be in it?",
+            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
+            "published": "2026-09-28T17:14:16+00:00"
+          },
+          {
+            "title": "UK tries to stop Trump's diesel export ban",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+            "published": "2026-09-28T17:00:52+00:00"
+          },
           {
             "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
             "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
@@ -285,11 +313,18 @@
             "published": "2026-09-28T16:58:48+00:00"
           },
           {
-            "title": "What is the Budget and what could be in it?",
-            "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "title": "Paramount rolls out $44 billion bond sale to fund Warner Bros. takeover",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/paramount-rolls-out-44-billion-bond-sale-to-fund-warner-bros-takeover/articleshow/134547217.cms",
+            "source": "Economic Times",
+            "summary": "Paramount Skydance Corp. has initiated the sale of over $44 billion in bonds to fund its acquisition of Warner Bros. Discovery Inc. Following legal settlements, the company can proceed with the financing, which includes various debt tranches. The bond issuance is expected to be one of the largest corporate high-yield deals recorded. Initial pricing discussions have indicated a yield in the low-9% range for the…",
+            "published": "2026-09-28T22:19:21+05:30"
+          },
+          {
+            "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
-            "published": "2026-09-28T14:29:49+00:00"
+            "summary": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear.",
+            "published": "2026-09-28T16:47:53+00:00"
           },
           {
             "title": "What will the energy cap changes mean for my bills?",
@@ -320,46 +355,11 @@
             "published": "2026-09-28T12:52:56+00:00"
           },
           {
-            "title": "Why UK diesel prices have hit an all-time high",
-            "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-            "published": "2026-09-28T11:50:18+00:00"
-          },
-          {
             "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
             "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
             "published": "2026-09-28T11:16:08+00:00"
-          },
-          {
-            "title": "Tourism tax needs to be more flexible in Wales, warns expert",
-            "link": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
-            "published": "2026-09-28T10:49:31+00:00"
-          },
-          {
-            "title": "UK diesel price hits all-time high, the RAC says",
-            "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
-            "published": "2026-09-28T10:00:18+00:00"
-          },
-          {
-            "title": "Childminder facing 'severe financial burden' as heating oil costs rise",
-            "link": "https://www.bbc.co.uk/news/articles/cq07ly2232pzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The war in Iran is having a practical impact on people across the island as energy prices continue to climb.",
-            "published": "2026-09-28T09:01:12+00:00"
-          },
-          {
-            "title": "You need £17,000 for a first home - here's how to save it",
-            "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
-            "published": "2026-09-28T08:21:54+00:00"
           }
         ],
         "Sports": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1556062.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "CDP withdraws additional penalty as appeal to stay in first division continues",
-            "published": "2026-09-28T16:54:45+00:00"
+            "published": "2026-09-28T16:59:43+00:00"
           },
           {
             "title": "Gujarat Giants Explain Why They Released \"World Class\" Danni Wyatt-Hodge Ahead Of WPL Auction",
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
+            "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The heavy metal band will be joined by the US rock musician during their London show.",
+            "published": "2026-09-28T17:00:29+00:00"
+          },
+          {
             "title": "Angela Scanlon takes over Sara Cox's drivetime slot on Radio 2",
             "link": "https://www.bbc.co.uk/news/articles/cmqxvnyg0xz7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The rock band go back to their roots, playing a gig in the Dublin playground where they first met.",
             "published": "2026-09-25T16:52:10+00:00"
-          },
-          {
-            "title": "Ex-GTA developer's studio faces closure after debut game flopped",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Build A Rocket Boy, founded by Leslie Benzies, has gone into administration after its debut game flopped.",
-            "published": "2026-09-25T16:17:20+00:00"
           }
         ]
       }
@@ -634,7 +634,7 @@
             "published": "2026-09-28T22:15:06+05:30"
           },
           {
-            "title": "सोशल मीडिया अकाउंट बनाने के लिए 18 की उम्र जरूरी:सुप्रीम कोर्ट ने सरकार से नियम बनाने को कहा, प्लेटफॉर्म्स को भारतीय कानून मानना होगा",
+            "title": "सोशल मीडिया अकाउंट बनाने के लिए 18 की उम्र जरूरी:सुप्रीम कोर्ट ने सरकार से नियम बनाने को कहा; निर्देश- प्लेटफॉर्म्स को भारतीय कानून मानने होंगे",
             "link": "https://www.bhaskar.com/national/news/supreme-court-social-media-age-limit-india-legal-norms-update-139181505.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "సీఈసీ జ్ఞానేశ్ కుమార్ పై వేణుస్వామి సంచలన జోస్యం..! వందకు కోటి శాతం అక్టోబర్ 31లోపు..",
+            "link": "https://telugu.oneindia.com/news/india/venuswamy-made-sensational-prediction-regarding-cec-gyanesh-kumar-the-video-states-he-would-resign-508379.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-28T22:39:43+05:30"
+          },
+          {
+            "title": "Viral Video: విస్తరాకులో 30కిపైగా స్వీట్స్‌.. ఇంటికి తీసుకెళ్లడానికి కవర్‌ కూడా... - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2YyYzVtVUdoLWVMbklvaVQ3RXdNa3h0X3BNdktlX2dCd0lRNXh0aEtXTENwUEtlYm5EOFdjcy1VSXBvenF5cFlncXZTblVwTTdTUGNiY3VBangyQjJWS0VmTFZpd2VDSm1TT1JLa1Z3ZXRKa0I5cnRnZUJuRDRfZHU1d0hVVS00YmcwN0lpRkpoQmV6Y1h1MnloY1fSAZwBQVVfeXFMT3dmMmM1bVVHaC1lTG5Jb2lUN0V3TWt4dF9wTXZLZV9nQndJUTV4dGhLV0xDcFBLZWJuRDhXY3MtVUlwb3pxeXBZZ3F2U25VcE03U1BjYmN1QWp4MkIyVktFZkxWaXdlQ0ptU09SS2tWd2V0SmtCOXJ0Z2VCbkQ0X2R1NXdIVVUtNGJnMDdJaUZKaEJlemNYdTJ5aGNX?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-28T17:08:41+00:00"
+          },
+          {
             "title": "నేపాల్‌లో మళ్లీ వరదలు.. 24 మంది మృతి.. భయానక వీడియో నెట్టింట వైరల్",
             "link": "https://telugu.oneindia.com/news/international/nepalfloods-strike-again-24-dead-terrifying-video-goes-viral-online-floods-landslides-destruction-508377.html",
             "source": "Oneindia Telugu",
@@ -1098,6 +1112,13 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-09-28T15:13:30+00:00"
+          },
+          {
+            "title": "Dhauladhar: వీడియో: ధౌలాధర్ శిఖరాలపై తెల్లటి మంచు దుప్పటి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjZmZXZrUFBoclhTSno1MWUza1o5ZlNmTjdtRGR2UUphUW1ZVDVpLUNSamJmTTEyN3d0MDJGV0FNR2l5NUlTM3lBWndVbWd4cVJfMy1JWDV6dXBjQmJtdVM3VlJhdFEwTFlzTVd5OHhuU0FCVzh1OURhc2VNR01ncG85ZDU5MzBvanZDYUJBRnBxSldiYmJ2aWhMd9IBmwFBVV95cUxQbjZmZXZrUFBoclhTSno1MWUza1o5ZlNmTjdtRGR2UUphUW1ZVDVpLUNSamJmTTEyN3d0MDJGV0FNR2l5NUlTM3lBWndVbWd4cVJfMy1JWDV6dXBjQmJtdVM3VlJhdFEwTFlzTVd5OHhuU0FCVzh1OURhc2VNR01ncG85ZDU5MzBvanZDYUJBRnBxSldiYmJ2aWhMdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-28T15:11:10+00:00"
           },
           {
             "title": "మచిలీపట్నం నుంచి కర్నూలుకు కొత్త రైలు-కేంద్రం ఆమోదం- హాల్ట్ లు ఇవే..!",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-28T20:03:35+05:30"
-          },
-          {
-            "title": "ఫ్లిప్‌కార్ట్ బిగ్ బిలియన్ డేస్ సేల్ 2026.. అదిరిపోయే ఆఫర్లు అప్పటి నుండే!",
-            "link": "https://telugu.oneindia.com/news/india/flipkart-big-billion-days-sale-2026-starts-october-9-with-huge-offers-and-big-mobile-phone-discoun-508365.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T19:27:53+05:30"
-          },
-          {
-            "title": "సీఈసీతో పాటు టార్గెట్ అవుతున్న సుప్రీం..! ఇద్దరు జడ్జీల వ్యాఖ్యలతో..!",
-            "link": "https://telugu.oneindia.com/news/india/supreme-court-faces-social-media-criticism-alongside-cec-gyanesh-kumar-over-remarks-on-bengal-sir-508363.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T19:21:48+05:30"
-          },
-          {
-            "title": "కష్టాలను అధిగమిస్తూ ఉన్నతంగా ఎదగాలి: గోలి శ్రీనివాసరెడ్డి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmxMaE0tRGIzVEFvWXd1TEFidVROczRyU1FsVXEtM29iYk4tQ3VTaGxTRmtCWFp0Zk50dmxxX1EtcXlSRHh0dHFjUW8wTy1VTXBCZklNZWFFSWpNdERIc1J0NEZ2WEVFNVkxenBYWXJ2RnczUzBaU1RobEs4VlZMbw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-28T13:19:22+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "এশিয়ান গেমসে অব্যবস্থা চলছেই, পাকিস্তানের ভলিবল দলকে ভুল জায়গায় পৌঁছে দিল বাস! ম্যাচের আগে হেনস্থায় ক্ষোভ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFlUV0N1ekVvc2RWOVRVdWIyTHJRRFl4TGFLMVpZNFd6QXF0ZDNHVkMwSnk4UmQyS1F1a28xVHRHbG5rNHZZcndEbXhCZlgtdVJPY0lyOFdfdmFZalFyekg2Ym4zMTdtaC1hTkFTM3JfLVVHek5wRThLWUkxV0dlbG1YQ0tGU2FhV0hvWUltQUw1NUZvMFZsUGVWSHVlUzlxWmlENGNXUXlHbWNaN3FFZEUwdEJUOVoyOGxCMUhtb1hXa3B4OTItSWJBTlVMWmJmRFFr0gHYAUFVX3lxTE5ZX3BBSDNhWWtmM2IwR2NULXpPWld3bE9qeXEtZk0wRjlTaWdkcTFIY3pGYm5ueTJFaFpmc0Q2cm96a0FjYnM0dklJNGZFcXp2MmIyekY0STUtTk1tLU96UkJ5dGVYdE0zMjBJWkczbFU2cEM3c2wxdzdncG42aHJ2TmswSWdsNElMSHU4cUFfQ0pGUndTRTRTUE5fWk9keTJhNEZwbk5KZHBNRTIzbFV4YThkTXZhTjlaNWZqSWVYb2FSMVBkb29saWZkOV9ic2Y1RlR1aWZCUw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-28T15:42:01+00:00"
+          },
+          {
+            "title": "একাদশ-দ্বাদশ স্তরে শিক্ষক নিয়োগের জন্য নতুন তালিকা প্রকাশ এসএসসি-র, ফের আইনি জটিলতার আশঙ্কা প্রার্থীদের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTXRPZ3Y1a0tZYjRfY0dxMG1PU0dLZTZVY1o3UDE3ZEV1SlY5MnM0RWxMUFVUWnRjbklnWWp4dGRjeXZ3MFp1Wkx2d1dpbWVEV09tWUs0eUZJOHN3RzNDZ3FFT2RCblQ5YzM2UDhrTFFEQ3Ywa1h0eHNUeTF0TW56OWxXNnBKcmJhUVNvbzVRbmc4dzc2S0g3Mkhia2syZFlhc28tNjNZODB1cXpzSkRrY1VPekFpSHBpSmxNUXdRUTFUVXpoYTJXYUxDdndzRnBzQ3lkTXBYanhNanZxd3UtQ3VjaWU1SlBYVm9yS180R3lPZ9IB9wFBVV95cUxNLXBLQm54QkNrX3ZLS2JTTEZVdFUwQzROM3lqdjJuTWxhaDNzSDVHUHVjV2FiN01hd21Kel8zMnFVLUZYcmNySDRxaFBubWpXZmNxRUJTZ0xvSXpCV2tpZWhFMTFwalUxQzktaHVCVlM1LVB2ZlUxc0F1WXlLRDdPVlpmbFptM3hBTl8ybG1od3BwMVR6TjZlU2NSMGluQ0gtMDk3TWNLaTlqalZPRUpIeTN4MU40VGI5THBaeG5fc21OOERLa0U1WS1iR19PTFFNMWtyU1psUmg1NFEzSk5zbDBzbkJWSzlEX2pNTjA4TFlBNzlJbk00?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-28T15:15:53+00:00"
+          },
+          {
             "title": "দূষণ শংসাপত্র না থাকলে জ্বালানি নয়, চলবে আরও বৈদ্যুতিন বাস, ভাবনায় ওয়ার্ক ফ্রম হোমও! বিষবায়ু রুখতে পরিকল্পনা দিল্লিতে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3llZGhkSWlUY0szcFNrSnR0UnRwQlJKSktNaHg0NmdyZ0Z5QXBDalpEOXNPMHVhNnk3SXFON1gxc2JSdVdaZUtBRFBVOTh2SFM4czJzeTNUYlNsZTB6YWNQMUJWeFp5VmFKTVVpdWNtekJfS3pXUnZsVjdvZzczdmhhb1RyQmdqdG9aa01xTTVMaW5Zdko2MUFyT0xnLVZIZ2swRNIBqgFBVV95cUxPdUF6a29vUk92TmRVV1ZUSHRkekF1VlgxRDhkRzQ5YlhreE5PcWFUdUtuZnVrVVBYQUUzNzVoaTBVUWdObkk2OTdfekx0UFhUNjRlUDZVLVJPalFUTkVySXU5eGYxel9NMS1hbVhTNV9iWWlHend3Q2tKUlg0b0ZCOGhjSXZLNmV2eVNaTFFSOWxVWmx3VkdnSS1ob256R3BEN0hwN0hsWXVlZw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1452,6 +1466,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T14:34:01+00:00"
+          },
+          {
+            "title": "এশিয়াডে জোড়া বিতর্ক! সোনা থেকে বঞ্চিত শৈলী? সর্বোচ্চ ক্রীড়া আদালতে যাচ্ছে ভারত, প্রতিবাদে সরব শুটার রাহিও - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUpZcE5OcjFBTkFtRWZpOERMTExOX05BcE1JYWl3MUxzZ2oyeVIzNklGVTNSSkhSWVNNLWFXbUZpaU9tVFIxU28xX2F6NmJiaktiU09VYlZDdjlWRGp1dl9jQUNBTWlqVE13bmFUb1Y5aFNQZ2dFWVhWR2JHdTJ4MUJSb3F5STBWRUVIM1NSLXFnLXVVUnA0bWRMLWJQclZId2ZNM2JuRjB6VVlWNmpOOHRoWERZc193NWV1cmd4Q3BUcnlBd1h5U1QtNjNiTFFfTXhNalZaaW3SAd4BQVVfeXFMUFc1cUl4TDVwNlJEbC0weVJnaXlMd29UQVNXbkxWblpvZ2xLek0zbFFqdFM1UEd4WTVBSXhBR09hTnJHTVlxQUh3cWRFX013bUE0UnliMlRBX2JvY3pwTmliTzNkQWhzdXBZTFQ5OUVmakF2VHYwNlRoTVk2alZKM1FxTzVMeHEyMEFkVUdSSXp1d3oyRnFxeFlpMDFFZWF0LWFyT0p6VjVUY1VtREhPVy1LZE00cFNiYmZ3NVduZkh4d3NpRGh5RmtvcWtRU29La3poZFYtTmdrdlg0Z3J3?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-28T14:05:01+00:00"
           },
           {
             "title": "পুজোয় সঙ্গীর সঙ্গে একান্তযাপনের ইচ্ছে, হোটেলে লুকোনো ক্যামেরা আছে কি না কী ভাবে বুঝবেন? - Anandabazar Patrika",
@@ -1487,27 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T13:11:44+00:00"
-          },
-          {
-            "title": "দুই দিনে সাতজনকে হত্যা, মণিপুরে কুকি ও নাগা গোষ্ঠীর মধ্যে সহিংসতা বাড়ছে কেন?",
-            "link": "https://www.bbc.com/bengali/articles/cmlyrlkvzn8vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-09-28T12:22:49+00:00"
-          },
-          {
-            "title": "ফ্রিজ খুলে আপেল-চকোলেট খেয়ে ‘অপারেশন’! ১৪ ভরি সোনা, দেড় লাখ টাকা চুরির অভিযোগ বর্ধমানে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDhma1lVLWVjQ2dBWUc1N3NKS05KRENYS3FzZzZzMlpBdjJaN1V1MEMxeXFjRkVaWXFLVkdSVDFIT1h2M3gxaG5lQklDNXBXVVlvRnFLcjA5VnNZRGZRR2JvbVRBTDBJSjV3ZUUzUWNsT2VKVjdrbGdBSmMxcnZETzVFVXRYVVdTS3hoZHZlcDVzTUQxdjhkdDJIMjZCVEdyWkgwaHVlQzRKTU0yRWczRHlqMHFTR3JYQ3plbzBVQ0R2cmZC0gHKAUFVX3lxTE1IYzdycnlIWmJWcEx0cGhvaVNKeHNPU0k5aFJXTzdBRnQ2V2x2NmxGQnk2OTREdFdOMVBOenVYMzJmczdORmNRcFBZUXBrelB3dlRIdENiYS1mZ2FIQzNjc2QtVTlSYUl1WngxWTk2SWsxaWJDaVZaMFpFTXZ6ekN6MWtXaHZ0TmtpeVdZMlU3VWdscFZScWhoOW96OXYydmRsXzFHNjBTTTVZSFlnc09Ka1lLUk5RSXZkRDhZOWQ4azg5UWtURFlpdmc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T12:10:25+00:00"
-          },
-          {
-            "title": "স্বামীজি, ভারতমাতার অপমান বরদাস্ত নয়, কাউকে ছাড়া হবে না! এসআরএফটিআই কাণ্ডে কড়া অবস্থান উচ্চশিক্ষামন্ত্রীর - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWRVN3BpblQ1U0lhY28tMkFZSS16cXg3cWxseU41YVJXUEdlUDM2Z0dielNLbXU5X21EM09tc25TUWZ0SnA5VVFNMm9ESndiMjhyR3lZSGwtTnFucHRKNFVmUnBBYVBoTmIwSlpTRlJQTUhPWXVaLTNnOVJDX2NSdlZlZmdVaXBndlg3NS03NlFDNWRzRVF5dDBSbDJSYk1NamplT2VnTTktMDFNMWl6djZWWk9pY2FBSW1lX1pSbTlpb0RFdkRCSm1ZQTJydXBKanNQRDRZeDlNYjFmNmdEN0JKQnktUlpFY3FoaEFUUlN4UGgtOUQxblZzZGxTRF9GbU9kT3VNX29kRVRoU2JUTEZPQXQ2djF1MUI4VDg5S1JQRVHSAagCQVVfeXFMTzZOOXBHUlNtOXdKeEdmRXJCZ1FZNURaMlVCOHNGbVJHR1JfUXBjTWlxTG5Rd1dSSE5ZZEx3UGFMSl9GLTROTTdoNkxMZ21ObzJERUZSdUNVYzFmQ2JGZ2VkalUtaVdsMmtvTVpXSkZ2RUU5TUNBeWw5ZV9DaXlLODRLOGRfZy1yakVPanpyaENXVjZHWERZM0lEQ0hWT2RvV0JvNHFQcVluS19lcmJ5eXZhRlM4enVyTWpNRjFZa19HQ1NxV2dyZlg5S3hNQWhDNV80YkxnTGlzM3R5YmJGWHRtc2hQREJ5clY5ODR3cGZmenhvX3NQMXlDeVNQRHNNM3FmM3JVdWhuaUlTb1dWQ2lnTmlhVFFPckJsRzZqMDBVdko1NWV4ZkQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T11:37:41+00:00"
           }
         ]
       }
