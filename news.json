@@ -1,201 +1,215 @@
 {
-  "updated_at": "2026-09-29T02:31:34.646523+00:00",
+  "updated_at": "2026-09-29T03:01:29.604940+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them ’poison’",
+            "link": "https://www.thehindu.com/news/national/telangana/pmo-reviews-ambedkarite-writings-in-university-curricula-after-anonymous-post-calls-them-poison/article71521420.ece",
+            "source": "The Hindu",
+            "summary": "Academic Kancha Ilaiah Shepherd questions the interference of the PMO in the syllabus of universities, which ought to be in the purview of the Department of Higher Education or University Grants Commission",
+            "published": "2026-09-29T08:16:01+05:30"
+          },
+          {
+            "title": "Asian Games 2026 India’s medallists: Full list of winners",
+            "link": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
+            "source": "The Hindu",
+            "summary": "Here’s the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport",
+            "published": "2026-09-29T08:09:25+05:30"
+          },
+          {
+            "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+            "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+            "published": "2026-09-29T02:36:46+00:00"
+          },
+          {
+            "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+            "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.",
+            "published": "2026-09-29T02:36:25+00:00"
+          },
+          {
+            "title": "Market veterans favour value plays over crowded, expensive themes",
+            "link": "https://economictimes.indiatimes.com/mf/analysis/any-asset-class-so-long-as-it-is-equity-some-wind-in-the-sails-expect-reasonable-returns/articleshow/134554032.cms",
+            "source": "Economic Times",
+            "summary": "Market experts project cautious optimism for Indian equities as valuations become less demanding and earnings growth aligns. Large-cap stocks appear more favorable compared to mid- and small-caps, which require prudence. Preferred sectors include financials, manufacturing, and consumer discretionary, while technology remains divisive. Investors are advised to avoid slow-growth sectors and overpriced mid-caps…",
+            "published": "2026-09-29T08:03:28+05:30"
+          },
+          {
+            "title": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters",
+            "link": "https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece",
+            "source": "The Hindu",
+            "summary": "The panel has sought religion-wise data for past 15 years on birth and vehicle registrations, school enrolment and property transactions, as well as district-wise details of religious structures and unusual increases in Aadhaar, voter ID and ration card registrations; data not maintained on religious lines, officials say",
+            "published": "2026-09-29T08:00:37+05:30"
+          },
+          {
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "published": "2026-09-29T02:29:25+00:00"
           },
           {
-            "title": "Dhaka begins search for missing Assam woman",
-            "link": "https://timesofindia.indiatimes.com/india/dhaka-begins-search-for-missing-assam-woman/articleshow/134554035.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:44:10+05:30"
-          },
-          {
-            "title": "'I offered nothing’: Trump denies sanctions relief to Iran, bashes media report",
-            "link": "https://timesofindia.indiatimes.com/world/us/i-offered-them-nothing-trump-denies-sanctions-relief-to-iran-bashes-axios-report/articleshow/134553822.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:38:56+05:30"
-          },
-          {
-            "title": "Dollar hold near two-month peak as yields rise, Fed data looms",
-            "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hold-near-two-month-peak-as-yields-rise-fed-data-looms/articleshow/134553967.cms",
-            "source": "Economic Times",
-            "summary": "The dollar remained stable near a two-month peak while traders closely monitored upcoming US economic reports. Oil prices experienced a slight uptick, with Brent crude futures approaching $106 per barrel amidst market volatility. Meanwhile, US Treasury yields hit multi-year highs, impacting the dollar's strength. Anticipated economic metrics could pave the way for additional Federal Reserve rate hikes this month.",
-            "published": "2026-09-29T07:37:44+05:30"
-          },
-          {
-            "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/didnt-quite-meet-the-bar-why-openai-scrapped-release-of-its-latest-ai-model/articleshow/134553926.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:36:45+05:30"
-          },
-          {
-            "title": "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
-            "source": "Times of India",
-            "summary": "Nihal Sarin responded to an X user who told him to “play for Pakistan” after India’s Open team won silver at the Chess Olympiad, replying simply, “on board 0?” Nihal’s tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
-            "published": "2026-09-29T07:35:22+05:30"
-          },
-          {
-            "title": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR, calls for Opposition unity",
-            "link": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece",
-            "source": "The Hindu",
-            "summary": "An intensive revision for the whole country was illegal, said Mr. Singh, adding that the Supreme Court order upholding the general SIR was wrong",
-            "published": "2026-09-29T07:33:44+05:30"
-          },
-          {
-            "title": "Future Warfare To Pakistan Threat: 15 Big Takeaways From NDTV Defence Summit",
-            "link": "https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Senior military commanders and the Defence Minister spoke about the capabilities India is building, the gaps it must address immediately and the technologies expected to shape warfare in the years ahead.",
-            "published": "2026-09-29T07:27:07+05:30"
-          },
-          {
-            "title": "Nifty, Sensex sink to 6-month low as US-Iran breakthrough hopes fade, oil tops $100",
-            "link": "https://www.hindustantimes.com/india-news/indian-stocks-nifty-sensex-hit-6-month-low-as-us-iran-breakthrough-hopes-fade-oil-tops-100-101790645162905.html",
+            "title": "When Gokhale brought Gandhi to Garden City",
+            "link": "https://www.hindustantimes.com/india-news/when-gokhale-brought-gandhi-to-garden-city-101790623935278.html",
             "source": "Hindustan Times",
-            "summary": "Brent has risen above $100 a barrel, US 10-year yields are near 5%, and rising global inflation is prompting central banks to hike rates.",
-            "published": "2026-09-29T07:24:42+05:30"
+            "summary": "Another October rolls around, and with it, another birth anniversary of the Mahatma",
+            "published": "2026-09-29T07:54:00+05:30"
           },
           {
-            "title": "Shopping Online This Festive Season? 3 Checks To Avoid Buying Fake Products",
-            "link": "https://www.ndtv.com/business-news/online-shopping-e-commerce-festive-season-3-checks-avoid-buying-fake-products-12112145#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "With more people shopping online during festivals, checking a seller's credentials, product details and authenticity can help avoid a costly mistake.",
-            "published": "2026-09-29T07:20:09+05:30"
+            "title": "ED interrogates prime accused in Viveka Reddy murder case",
+            "link": "https://www.hindustantimes.com/india-news/ed-interrogates-prime-accused-in-viveka-reddy-murder-case-101790623454892.html",
+            "source": "Hindustan Times",
+            "summary": "The Enforcement Directorate (ED) on Monday questioned the prime accused – Yerra Gangi Reddy – in connection with the alleged financial transactions linked to the murder of former Andhra Pradesh minister Y S Vivekananda Reddy in March 2019, people familiar with the development said",
+            "published": "2026-09-29T07:53:00+05:30"
           },
           {
-            "title": "Khalistan groups turn to jail networks to recruit operatives across north India: Intel",
-            "link": "https://timesofindia.indiatimes.com/city/delhi/intel-jails-hiring-grounds-for-pro-khalistan-groups/articleshow/134553776.cms",
-            "source": "Times of India",
-            "summary": "Intelligence agencies are investigating pro-Khalistan groups recruiting within jails across north India. A recently detained operative disclosed connections to key figures while serving in Patiala jail. Agency investigations now focus on dead-drop recruitment methods and funding channels used by these groups. An SFJ-backed operatives was arrested after graffiti incidents linked to Khalistan activities. The arrested…",
-            "published": "2026-09-29T07:20:04+05:30"
+            "title": "Garg Aviation flouted flight data-monitoring norms: AAIB in Kanpur training aircraft crash probe",
+            "link": "https://www.hindustantimes.com/india-news/garg-aviation-flouted-flight-data-monitoring-norms-aaib-101790623275518.html",
+            "source": "Hindustan Times",
+            "summary": "The AAIB has recommended that the DGCA direct Garg Aviation and other FTOs to strictly adhere to the requirements under the Flying Training Circular (FTC).",
+            "published": "2026-09-29T07:52:20+05:30"
           },
           {
-            "title": "Gangster Goldy Brar On FBI's 10 Most Wanted List With $1 Million Bounty",
-            "link": "https://www.ndtv.com/world-news/lawrance-bishnoi-gang-member-goldy-brar-added-to-fbis-10-most-wanted-fugitives-list-12112119#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The probe agency warned that Brar should be considered armed, dangerous and an escape risk. He is based in the United States and is the alleged leader of the Lawrence Bishnoi group in North America.",
-            "published": "2026-09-29T07:19:05+05:30"
+            "title": "Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada",
+            "link": "https://www.hindustantimes.com/india-news/congress-stages-rallies-against-ec-cec-issue-in-hyderabad-vijaywada-101790623275016.html",
+            "source": "Hindustan Times",
+            "summary": "The state Congress units in Telangana and Andhra Pradesh on Monday took out protest rallies demanding the resignation of chief election commissioner Gyanesh Kumar and restoration of all the votes deleted as part of the SIR across the country",
+            "published": "2026-09-29T07:52:10+05:30"
           },
           {
-            "title": "4 ISIS Operatives Jailed In 'Voice Of Hind' Terror Conspiracy Case",
-            "link": "https://www.ndtv.com/india-news/4-isis-operatives-jailed-in-voice-of-hind-terror-conspiracy-case-12112162#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The court has imposed fines of Rs 36,000 upon Umar Nisar, Rs 31,000 upon Rameez Ahmad Lone, Rs 23,000 upon Tanveer Ahmad Bhat and Rs 9,000 upon Afshan Parvaiz Jarabi, respectively.",
-            "published": "2026-09-29T07:19:03+05:30"
+            "title": "Two ‘masterminds’ of a conspiracy to build bombs get bail days after NIA chargesheet",
+            "link": "https://www.hindustantimes.com/india-news/two-masterminds-of-a-conspiracy-to-build-bombs-get-bail-days-after-nia-chargesheet-101790623214055.html",
+            "source": "Hindustan Times",
+            "summary": "Two alleged masterminds of a conspiracy to build bombs in West Bengal’s Amta area in February 2022, have been granted bail within three months of their arrest and a little more than a week after the National Investigation Agency (NIA) filed a charge sheet against them",
+            "published": "2026-09-29T07:50:30+05:30"
           },
           {
-            "title": "US military to guard midterms after Trump gutted agency that protects elections",
-            "link": "https://timesofindia.indiatimes.com/world/us/us-military-to-guard-midterms-after-donald-trump-gutted-agency-that-protects-elections/articleshow/134553721.cms",
-            "source": "Times of India",
-            "summary": "The National Security Agency and other military cyber units have long assisted with monitoring election infrastructure and defending it against possible hacking attempts. Election systems were designated as “critical infrastructure” in 2017, paving the way for greater federal cybersecurity support. Hegseth's announcement comes weeks before Election Day on November 3, with early voting already underway.",
-            "published": "2026-09-29T07:17:56+05:30"
+            "title": "SIR will unite Opposition, says Telangana CM Revanth",
+            "link": "https://www.thehindu.com/news/national/telangana/simon-go-back-then-sir-go-back-in-coming-days-says-revanth/article71521045.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T07:50:23+05:30"
+          },
+          {
+            "title": "Congress plans 84-day march across lost seats",
+            "link": "https://www.hindustantimes.com/india-news/congress-plans-84-day-march-across-lost-seats-101790623154201.html",
+            "source": "Hindustan Times",
+            "summary": "Karnataka Congress will begin an 84 day foot march on September 30, taking the party through all 84 Assembly constituencies it lost in the 2023 elections, as it expands its political outreach across the state.",
+            "published": "2026-09-29T07:49:30+05:30"
           }
         ],
         "India": [
           {
-            "title": "Dhaka begins search for missing Assam woman",
-            "link": "https://timesofindia.indiatimes.com/india/dhaka-begins-search-for-missing-assam-woman/articleshow/134554035.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:44:10+05:30"
-          },
-          {
-            "title": "'I offered nothing’: Trump denies sanctions relief to Iran, bashes media report",
-            "link": "https://timesofindia.indiatimes.com/world/us/i-offered-them-nothing-trump-denies-sanctions-relief-to-iran-bashes-axios-report/articleshow/134553822.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:38:56+05:30"
-          },
-          {
-            "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/didnt-quite-meet-the-bar-why-openai-scrapped-release-of-its-latest-ai-model/articleshow/134553926.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-09-29T07:36:45+05:30"
-          },
-          {
-            "title": "Olympiad medallist Nihal replies to 'play for Pakistan' troll with 3 words",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/indias-chess-olympiad-medallist-nihal-sarin-replies-to-play-for-pakistan-troll-with-three-words/articleshow/134553791.cms",
-            "source": "Times of India",
-            "summary": "Nihal Sarin responded to an X user who told him to “play for Pakistan” after India’s Open team won silver at the Chess Olympiad, replying simply, “on board 0?” Nihal’s tournament was mixed, with five points from nine games after a strong start and two consecutive losses in the middle. India finished runners-up to Uzbekistan.",
-            "published": "2026-09-29T07:35:22+05:30"
-          },
-          {
-            "title": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR, calls for Opposition unity",
-            "link": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece",
+            "title": "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them ’poison’",
+            "link": "https://www.thehindu.com/news/national/telangana/pmo-reviews-ambedkarite-writings-in-university-curricula-after-anonymous-post-calls-them-poison/article71521420.ece",
             "source": "The Hindu",
-            "summary": "An intensive revision for the whole country was illegal, said Mr. Singh, adding that the Supreme Court order upholding the general SIR was wrong",
-            "published": "2026-09-29T07:33:44+05:30"
+            "summary": "Academic Kancha Ilaiah Shepherd questions the interference of the PMO in the syllabus of universities, which ought to be in the purview of the Department of Higher Education or University Grants Commission",
+            "published": "2026-09-29T08:16:01+05:30"
           },
           {
-            "title": "Future Warfare To Pakistan Threat: 15 Big Takeaways From NDTV Defence Summit",
-            "link": "https://www.ndtv.com/india-news/ndtv-defence-summit-china-pakistan-from-6th-gen-fighters-to-ai-15-biggest-takeaways-from-ndtv-defence-summit-12111614#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Senior military commanders and the Defence Minister spoke about the capabilities India is building, the gaps it must address immediately and the technologies expected to shape warfare in the years ahead.",
-            "published": "2026-09-29T07:27:07+05:30"
+            "title": "Asian Games 2026 India’s medallists: Full list of winners",
+            "link": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece",
+            "source": "The Hindu",
+            "summary": "Here’s the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport",
+            "published": "2026-09-29T08:09:25+05:30"
           },
           {
-            "title": "Nifty, Sensex sink to 6-month low as US-Iran breakthrough hopes fade, oil tops $100",
-            "link": "https://www.hindustantimes.com/india-news/indian-stocks-nifty-sensex-hit-6-month-low-as-us-iran-breakthrough-hopes-fade-oil-tops-100-101790645162905.html",
+            "title": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters",
+            "link": "https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece",
+            "source": "The Hindu",
+            "summary": "The panel has sought religion-wise data for past 15 years on birth and vehicle registrations, school enrolment and property transactions, as well as district-wise details of religious structures and unusual increases in Aadhaar, voter ID and ration card registrations; data not maintained on religious lines, officials say",
+            "published": "2026-09-29T08:00:37+05:30"
+          },
+          {
+            "title": "When Gokhale brought Gandhi to Garden City",
+            "link": "https://www.hindustantimes.com/india-news/when-gokhale-brought-gandhi-to-garden-city-101790623935278.html",
             "source": "Hindustan Times",
-            "summary": "Brent has risen above $100 a barrel, US 10-year yields are near 5%, and rising global inflation is prompting central banks to hike rates.",
-            "published": "2026-09-29T07:24:42+05:30"
+            "summary": "Another October rolls around, and with it, another birth anniversary of the Mahatma",
+            "published": "2026-09-29T07:54:00+05:30"
           },
           {
-            "title": "Shopping Online This Festive Season? 3 Checks To Avoid Buying Fake Products",
-            "link": "https://www.ndtv.com/business-news/online-shopping-e-commerce-festive-season-3-checks-avoid-buying-fake-products-12112145#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "With more people shopping online during festivals, checking a seller's credentials, product details and authenticity can help avoid a costly mistake.",
-            "published": "2026-09-29T07:20:09+05:30"
+            "title": "ED interrogates prime accused in Viveka Reddy murder case",
+            "link": "https://www.hindustantimes.com/india-news/ed-interrogates-prime-accused-in-viveka-reddy-murder-case-101790623454892.html",
+            "source": "Hindustan Times",
+            "summary": "The Enforcement Directorate (ED) on Monday questioned the prime accused – Yerra Gangi Reddy – in connection with the alleged financial transactions linked to the murder of former Andhra Pradesh minister Y S Vivekananda Reddy in March 2019, people familiar with the development said",
+            "published": "2026-09-29T07:53:00+05:30"
           },
           {
-            "title": "Khalistan groups turn to jail networks to recruit operatives across north India: Intel",
-            "link": "https://timesofindia.indiatimes.com/city/delhi/intel-jails-hiring-grounds-for-pro-khalistan-groups/articleshow/134553776.cms",
-            "source": "Times of India",
-            "summary": "Intelligence agencies are investigating pro-Khalistan groups recruiting within jails across north India. A recently detained operative disclosed connections to key figures while serving in Patiala jail. Agency investigations now focus on dead-drop recruitment methods and funding channels used by these groups. An SFJ-backed operatives was arrested after graffiti incidents linked to Khalistan activities. The arrested…",
-            "published": "2026-09-29T07:20:04+05:30"
+            "title": "Garg Aviation flouted flight data-monitoring norms: AAIB in Kanpur training aircraft crash probe",
+            "link": "https://www.hindustantimes.com/india-news/garg-aviation-flouted-flight-data-monitoring-norms-aaib-101790623275518.html",
+            "source": "Hindustan Times",
+            "summary": "The AAIB has recommended that the DGCA direct Garg Aviation and other FTOs to strictly adhere to the requirements under the Flying Training Circular (FTC).",
+            "published": "2026-09-29T07:52:20+05:30"
           },
           {
-            "title": "Gangster Goldy Brar On FBI's 10 Most Wanted List With $1 Million Bounty",
-            "link": "https://www.ndtv.com/world-news/lawrance-bishnoi-gang-member-goldy-brar-added-to-fbis-10-most-wanted-fugitives-list-12112119#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The probe agency warned that Brar should be considered armed, dangerous and an escape risk. He is based in the United States and is the alleged leader of the Lawrence Bishnoi group in North America.",
-            "published": "2026-09-29T07:19:05+05:30"
+            "title": "Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada",
+            "link": "https://www.hindustantimes.com/india-news/congress-stages-rallies-against-ec-cec-issue-in-hyderabad-vijaywada-101790623275016.html",
+            "source": "Hindustan Times",
+            "summary": "The state Congress units in Telangana and Andhra Pradesh on Monday took out protest rallies demanding the resignation of chief election commissioner Gyanesh Kumar and restoration of all the votes deleted as part of the SIR across the country",
+            "published": "2026-09-29T07:52:10+05:30"
           },
           {
-            "title": "4 ISIS Operatives Jailed In 'Voice Of Hind' Terror Conspiracy Case",
-            "link": "https://www.ndtv.com/india-news/4-isis-operatives-jailed-in-voice-of-hind-terror-conspiracy-case-12112162#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The court has imposed fines of Rs 36,000 upon Umar Nisar, Rs 31,000 upon Rameez Ahmad Lone, Rs 23,000 upon Tanveer Ahmad Bhat and Rs 9,000 upon Afshan Parvaiz Jarabi, respectively.",
-            "published": "2026-09-29T07:19:03+05:30"
+            "title": "Two ‘masterminds’ of a conspiracy to build bombs get bail days after NIA chargesheet",
+            "link": "https://www.hindustantimes.com/india-news/two-masterminds-of-a-conspiracy-to-build-bombs-get-bail-days-after-nia-chargesheet-101790623214055.html",
+            "source": "Hindustan Times",
+            "summary": "Two alleged masterminds of a conspiracy to build bombs in West Bengal’s Amta area in February 2022, have been granted bail within three months of their arrest and a little more than a week after the National Investigation Agency (NIA) filed a charge sheet against them",
+            "published": "2026-09-29T07:50:30+05:30"
           },
           {
-            "title": "US military to guard midterms after Trump gutted agency that protects elections",
-            "link": "https://timesofindia.indiatimes.com/world/us/us-military-to-guard-midterms-after-donald-trump-gutted-agency-that-protects-elections/articleshow/134553721.cms",
-            "source": "Times of India",
-            "summary": "The National Security Agency and other military cyber units have long assisted with monitoring election infrastructure and defending it against possible hacking attempts. Election systems were designated as “critical infrastructure” in 2017, paving the way for greater federal cybersecurity support. Hegseth's announcement comes weeks before Election Day on November 3, with early voting already underway.",
-            "published": "2026-09-29T07:17:56+05:30"
+            "title": "SIR will unite Opposition, says Telangana CM Revanth",
+            "link": "https://www.thehindu.com/news/national/telangana/simon-go-back-then-sir-go-back-in-coming-days-says-revanth/article71521045.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T07:50:23+05:30"
+          },
+          {
+            "title": "Congress plans 84-day march across lost seats",
+            "link": "https://www.hindustantimes.com/india-news/congress-plans-84-day-march-across-lost-seats-101790623154201.html",
+            "source": "Hindustan Times",
+            "summary": "Karnataka Congress will begin an 84 day foot march on September 30, taking the party through all 84 Assembly constituencies it lost in the 2023 elections, as it expands its political outreach across the state.",
+            "published": "2026-09-29T07:49:30+05:30"
+          },
+          {
+            "title": "Centre to send 3 teams to assess K’taka drought: deputy CM",
+            "link": "https://www.hindustantimes.com/india-news/centre-to-send-3-teams-to-assess-k-taka-drought-deputy-cm-101790623005702.html",
+            "source": "Hindustan Times",
+            "summary": "Three teams from Union government will visit Karnataka to assess the drought situation across the state following a request from state government, deputy chief minister G Parameshwara said on Monday.",
+            "published": "2026-09-29T07:48:20+05:30"
+          },
+          {
+            "title": "Centre prepares SOP for reporting child sexual abuse material online",
+            "link": "https://www.hindustantimes.com/india-news/centre-prepares-sop-for-reporting-child-sexual-abuse-material-online-101790622983123.html",
+            "source": "Hindustan Times",
+            "summary": "MeitY will be meeting with the Ministry of Women and Child Development (WCD), the Department of Telecommunications, the Indian Cybercrime Coordination Centre (I4C) and the Ministry of Home Affairs to consult on the matter, officials said.",
+            "published": "2026-09-29T07:48:00+05:30"
           }
         ],
         "World": [
           {
+            "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+            "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+            "published": "2026-09-29T02:36:46+00:00"
+          },
+          {
+            "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+            "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.",
+            "published": "2026-09-29T02:36:25+00:00"
+          },
+          {
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "published": "2026-09-29T02:29:25+00:00"
           },
           {
@@ -220,7 +234,7 @@
             "published": "2026-09-29T00:38:23+00:00"
           },
           {
-            "title": "OpenAI scraps release of latest AI model over safety concerns",
+            "title": "OpenAI cancels release of latest AI model over safety concerns",
             "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
@@ -260,36 +274,22 @@
             "source": "BBC World",
             "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
             "published": "2026-09-28T23:44:49+00:00"
-          },
-          {
-            "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-            "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
-            "published": "2026-09-28T23:43:48+00:00"
-          },
-          {
-            "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford",
-            "published": "2026-09-28T23:34:19+00:00"
           }
         ],
         "Business": [
           {
+            "title": "Market veterans favour value plays over crowded, expensive themes",
+            "link": "https://economictimes.indiatimes.com/mf/analysis/any-asset-class-so-long-as-it-is-equity-some-wind-in-the-sails-expect-reasonable-returns/articleshow/134554032.cms",
+            "source": "Economic Times",
+            "summary": "Market experts project cautious optimism for Indian equities as valuations become less demanding and earnings growth aligns. Large-cap stocks appear more favorable compared to mid- and small-caps, which require prudence. Preferred sectors include financials, manufacturing, and consumer discretionary, while technology remains divisive. Investors are advised to avoid slow-growth sectors and overpriced mid-caps…",
+            "published": "2026-09-29T08:03:28+05:30"
+          },
+          {
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "published": "2026-09-29T02:29:25+00:00"
-          },
-          {
-            "title": "Dollar hold near two-month peak as yields rise, Fed data looms",
-            "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-hold-near-two-month-peak-as-yields-rise-fed-data-looms/articleshow/134553967.cms",
-            "source": "Economic Times",
-            "summary": "The dollar remained stable near a two-month peak while traders closely monitored upcoming US economic reports. Oil prices experienced a slight uptick, with Brent crude futures approaching $106 per barrel amidst market volatility. Meanwhile, US Treasury yields hit multi-year highs, impacting the dollar's strength. Anticipated economic metrics could pave the way for additional Federal Reserve rate hikes this month.",
-            "published": "2026-09-29T07:37:44+05:30"
           },
           {
             "title": "SIPs offer steady gains as most fund categories beat benchmark indices",
@@ -453,7 +453,7 @@
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
-            "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
             "published": "2026-09-29T02:29:25+00:00"
           },
           {
@@ -634,11 +634,25 @@
             "published": "2026-09-29T12:30:37+05:30"
           },
           {
-            "title": "Asian Games 2026 Live: शूटिंग में भारत को एक और पदक, महिला ट्रैप टीम ने जीता रजत, अब नीरू ढांडा से उम्मीदें",
-            "link": "https://www.amarujala.com/live/sports/asian-games-2026-live-india-eye-more-medals-shooting-and-archery-action-takes-centre-stage-squash-wrestling-2026-09-29",
+            "title": "FBI की 'टॉप-10 वांटेड' लिस्ट में गैंगस्टर गोल्डी बराड़, अब बचना नामुमकिन, गिरफ्तारी पर इतने करोड़ का इनाम",
+            "link": "https://hindi.oneindia.com/news/international/gangster-goldy-brar-fbi-top-10-most-wanted-fugitives-10-million-dollar-reward-lawrence-bishnoi-opera-1657801.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T08:16:17+05:30"
+          },
+          {
+            "title": "पश्चिम एशिया: इस्राइल और यूएई के बीच गुपचुप क्या खिचड़ी पक रही? नेतन्याहू ने अबू धाबी का किया खुफिया दौरा",
+            "link": "https://www.amarujala.com/world/west-asia-crisis-israel-pm-netanyahu-secret-visit-to-uae-2026-09-29",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-09-29T07:57:20+05:30"
+            "published": "2026-09-29T08:14:32+05:30"
+          },
+          {
+            "title": "Govinda जिसके साथ रहे, खुश रहे, कोमल रानी संग अफेयर की खबरों पर सुनीता आहूजा का बड़ा बयान, क्या कहेंगे एक्टर?",
+            "link": "https://hindi.oneindia.com/news/entertainment/govinda-wife-sunita-ahuja-on-news-of-actor-affair-with-komal-rani-said-he-should-be-happy-1657421.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T08:05:21+05:30"
           },
           {
             "title": "आईआईटी में पढ़ चुके आरक्षित वर्ग के छात्रों ने साझा किए अपने ये अनुभव",
@@ -646,6 +660,13 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-09-29T02:24:56+00:00"
+          },
+          {
+            "title": "दिल्ली की जज का रेप पीड़ित बच्ची को स्पेशल लेटर:लिखा- तुम्हारा बचपन लौटा नहीं सकते, लेकिन साहस याद रखेंगे, दोषी कभी आजाद नहीं होगा",
+            "link": "https://www.bhaskar.com/g/local/new-delhi/news/delhi-high-court-rape-victim-judge-rajni-ranga-verdict-letter-139185010.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T02:24:51+00:00"
           },
           {
             "title": "LPU में भारी बवाल! गाड़ियां फूंकीं, 10 दिन के लिए यूनिवर्सिटी बंद,जानिए पंजाब के कैंपस में अबतक क्या-क्या हुआ?",
@@ -683,35 +704,21 @@
             "published": "2026-09-29T06:20:32+05:30"
           },
           {
-            "title": "सुर्खियां: आज कई जगह आंधी-बारिश के आसार; एचएएल 5वीं पीढ़ी के जेट नहीं बनाएगा; गोल्डी बराड़ की तलाश में एफबीआई",
-            "link": "https://www.amarujala.com/india-news/top-news-today-weather-alert-f-35a-exercise-goldy-brar-hunt-starship-mission-and-major-india-us-updates-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-29T06:08:28+05:30"
-          },
-          {
             "title": "'इंटीमेट सीन Leak हो गया', Radhika Apte का 'गंदा वीडियो' हुआ वायरल, अब राधिका मदान ने दिया बड़ा बयान",
             "link": "https://hindi.oneindia.com/news/entertainment/radhika-apte-intimate-scene-leak-dirty-video-viral-now-radhika-madan-makes-a-big-statement-1657347.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-29T06:05:23+05:30"
-          },
-          {
-            "title": "18 की उम्र में सहपाठी का कत्ल: खोपड़ी का टुकड़ा जेब में रखा, अब 30 साल बाद नरक खत्म होने का कर रही इंतजार",
-            "link": "https://www.amarujala.com/world/christa-pike-execution-woman-who-killed-classmate-at-18-faces-death-after-30-years-on-death-row-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-29T05:28:09+05:30"
-          },
-          {
-            "title": "पाकिस्तान सीमा पर भविष्य के महासमर की तैयारी?: तरंग शक्ति में एफ-35ए क्यों खास, जंग के लिए कितना जरूरी?",
-            "link": "https://www.amarujala.com/india-news/tarang-shakti-2026-why-india-is-training-with-f-35a-near-pakistan-border-for-future-warfare-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-29T05:19:55+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "Govinda जिसके साथ रहे, खुश रहे, कोमल रानी संग अफेयर की खबरों पर सुनीता आहूजा का बड़ा बयान, क्या कहेंगे एक्टर?",
+            "link": "https://hindi.oneindia.com/news/entertainment/govinda-wife-sunita-ahuja-on-news-of-actor-affair-with-komal-rani-said-he-should-be-happy-1657421.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T08:05:21+05:30"
+          },
           {
             "title": "'इंटीमेट सीन Leak हो गया', Radhika Apte का 'गंदा वीडियो' हुआ वायरल, अब राधिका मदान ने दिया बड़ा बयान",
             "link": "https://hindi.oneindia.com/news/entertainment/radhika-apte-intimate-scene-leak-dirty-video-viral-now-radhika-madan-makes-a-big-statement-1657347.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "मशहूर अभिनेता गोविंदा की पत्नी सुनीता आहूजा हाल ही में चर्चा का केंद्र बनी हुई हैं, जब उन्होंने दक्षिणेश्वर काली मंदिर में प्रार्थना के दौरान भावुक होकर हाथ जोड़कर एक अजीब अपील की। सुनीता ने सरेआम मीडिया और जनता के सामने अपने परिवार और निजी जीवन को लेकर चिंता व्यक्त की, जिसमें उन्होंने कहा कि उनका घर बर्बाद हो रहा है। उनकी यह सार्वजनिक भावुकता लोगों के बीच कौतूहल का विषय बन गई है। उन्होंने विशेष रूप से महिलाओं और जेन-जेड (Gen Z) पीढ़ी से समर्थन की गुहार लगाई है, यह इशारा करते हुए कि उनके वैवाहिक जीवन में कुछ गंभीर परेशानियां चल रही हैं। गोविंदा और सुनीता की जोड़ी लंबे समय से फिल्म जगत में एक मिसाल मानी जाती रही है, ऐसे में सुनीता की यह अपील उनके प्रशंसकों के लिए काफी चौंकाने वाली है। सोशल मीडिया पर भी इस घटना के बाद कई तरह की चर्चाएं तेज हो गई हैं, जहां लोग यह जानने को उत्सुक हैं कि आखिर वह कौन सी परिस्थितियां हैं जिन्होंने उन्हें मंदिर के द्वार तक अपनी बात रखने के लिए मजबूर किया। इस घटनाक्रम ने पूरे बॉलीवुड गलियारों में हलचल मचा दी है और लोग अब उनके आगे के बयान का इंतजार कर रहे हैं।",
             "published": "2026-09-26T10:53:01+05:30"
-          },
-          {
-            "title": "Mushtaq Khan Funeral: मुश्ताक खान की बेटी का रोकर हुआ बुरा हाल, बेटे ने जनाजे को दिया कंधा, Video वायरल",
-            "link": "https://hindi.oneindia.com/news/entertainment/mushtaq-khan-funeral-daughter-breaks-down-crying-lot-son-carries-coffin-video-goes-viral-1655625.html",
-            "source": "Oneindia Hindi",
-            "summary": "बॉलीवुड के जाने-माने अभिनेता मुश्ताक खान के निधन ने पूरे फिल्म जगत को शोक में डुबो दिया है। 25 सितंबर 2026, शुक्रवार के दिन उन्हें मुंबई के यारी रोड कब्रिस्तान में अंतिम विदाई दी गई। इस दुखद मौके पर उनकी बेटी को रोते हुए और अपने पिता के जाने के गम में बिलखते देखा गया, जिसने वहां मौजूद हर व्यक्ति को भावुक कर दिया। मुश्ताक खान के बेटे मोहसिन ने परंपरा का पालन करते हुए जनाजे को कंधा दिया और उन्हें आखिरी विदाई दी। उनके अंतिम संस्कार में कई फिल्मी हस्तियां और कलाकार शामिल हुए, जिन्होंने दिवंगत अभिनेता के साथ बिताए पलों को याद किया और उन्हें श्रद्धांजलि दी। मुश्ताक खान की अदाकारी और फिल्म उद्योग में उनके योगदान को हमेशा याद रखा जाएगा। उनकी मौत की खबर ने सोशल मीडिया पर भी काफी हलचल पैदा की है, जहां उनके अंतिम संस्कार का वीडियो तेजी से वायरल हो रहा है। यह दृश्य न केवल उनके परिवार के लिए कठिन है, बल्कि उन प्रशंसकों के लिए भी बहुत दुखद है जिन्होंने सालों तक उन्हें पर्दे पर देखा है। उनके निधन से बॉलीवुड ने एक सुलझा हुआ और हुनरमंद कलाकार खो दिया है।",
-            "published": "2026-09-25T17:39:34+05:30"
           }
         ]
       }
@@ -804,18 +804,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ગોલ્ડી બરાડ અમેરિકાના મોસ્ટ વૉન્ટેડ અપરાધીઓના લિસ્ટમાં સામેલ- ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/cq5y415478v5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-29T02:56:06+00:00"
+          },
+          {
+            "title": "ક્રિસ્ટા પાઇક : એ મહિલા, જેને 200 વર્ષના ઇતિહાસમાં પ્રથમ વાર ફાંસીએ ચડાવાશે",
+            "link": "https://www.bbc.com/gujarati/articles/cvgl7w3gk0k8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-29T02:38:03+00:00"
+          },
+          {
             "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:અમેરિકા જવા નીકળેલા 3 ગુજરાતીઓનું ઇથોપિયામાં અપહરણ, ઉજ્જૈનમાં મસ્જિદ તોડવા મુદ્દે ભારેલો અગ્નિ, UPI ચાર્જ પર રોક નહીં લાગે",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-high-court-ujjain-shahi-masjid-demolition-protest-139179998.html",
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-28T23:30:00+00:00"
-          },
-          {
-            "title": "દિલ્હી ગૅંગરેપ: મહિલા સુરક્ષા મુદ્દે દિલ્હી યુનિવર્સિટીની વિદ્યાર્થિનીઓએ કર્યું વિરોધ પ્રદર્શન - ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/c6vgyxk4v0l0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-09-28T16:30:50+00:00"
           },
           {
             "title": "રાહુલ ગાંધી દિલ્હીની ઝૂંપડપટ્ટીમાં પહોંચ્યા:SDMને પૂછ્યું- આખી વસાહતના મતદારો ગાયબ થયા, માત્ર એક જ બચ્યો; દિલ્હી SIRમાં 33 લાખ નામ કપાયાં",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-09-28T10:29:33+00:00"
-          },
-          {
-            "title": "સુપ્રીમ કોર્ટે કહ્યું- ચૂંટણી પંચ 4 મહિનામાં TMC વિવાદ ઉકેલે:પાર્ટીનું નામ-ચિહ્ન ફ્રીઝ; શિવસેનાનો કેસ 4 વર્ષથી, NCPનો 3 વર્ષથી પેન્ડિંગ",
-            "link": "https://www.divyabhaskar.co.in/national/news/tmc-party-name-symbol-controversy-supreme-court-election-commission-139177241.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-28T09:27:06+00:00"
           }
         ]
       }
@@ -894,6 +894,20 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "விஜய் ரூ.200 கோடி சம்பளம் வாங்கினா 14,000 கோடி இருக்கணுமே.. மீதி எங்கப்பா.. எடப்பாடி கிடுக்குப்பிடி",
+            "link": "https://tamil.oneindia.com/news/tamilnadu/if-vijay-get-200-crore-for-a-movie-where-is-the-remaining-amount-said-edappadi-palanisamy-834445.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-09-29T08:19:22+05:30"
+          },
+          {
+            "title": "பூனை கண்ணின் அறிவியல் ரோபோ, டிரோன் கேமராவை மேம்படுத்த எப்படி உதவுகிறது?",
+            "link": "https://www.bbc.com/tamil/articles/c63re5v5vgd1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-09-29T02:39:04+00:00"
+          },
           {
             "title": "தாராபுரம் களநிலவரத்தால் கலங்கிய சத்தியபாமா? கையில் எடுத்த புது டெக்னிக்! வைரலாகும் பிரச்சாரம்!",
             "link": "https://tamil.oneindia.com/news/tamilnadu/dharapuram-tvk-candidate-sathyabama-follows-new-technique-834439.html",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-09-28T12:44:08+00:00"
-          },
-          {
-            "title": "வேறு வழியில்லை... இந்தியாவில் தனது பிடியை இறுக்க போகும் ரிசர்வ் வங்கி",
-            "link": "https://tamil.oneindia.com/news/business/there-is-no-other-way-the-reserve-bank-is-set-to-tighten-its-grip-in-india-834359.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-09-28T17:48:39+05:30"
-          },
-          {
-            "title": "சுத்தத்திற்கு பெயர் போன ஜப்பான் தெருக்களில் குப்பைத் தொட்டிகளை காண்பதே அரிதாக இருப்பது ஏன்?",
-            "link": "https://www.bbc.com/tamil/articles/c6n074w1q9xzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-09-28T11:35:32+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "లోన్లు తీసుకున్న వారికి బ్యాడ్ న్యూస్.. భారీగా పెరగనున్న వడ్డీ!",
+            "link": "https://telugu.oneindia.com/news/business/rbi-expected-to-raise-repo-rate-by-25-basis-points-in-october-policy-amid-rising-inflation-pressures-508397.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T08:20:03+05:30"
+          },
+          {
+            "title": "భారత గ్యాంగ్‌స్టర్ ఆచూకీ ఇస్తే 10 లక్షల డాలర్ల రివార్డ్ ప్రకటించిన అమెరికా: మోస్ట్ వాంటెడ్ లిస్ట్",
+            "link": "https://telugu.oneindia.com/news/international/goldy-brar-manhunt-intensifies-as-fbi-offers-1m-dollar-bounty-set-for-information-leading-to-arrest-508395.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T08:09:39+05:30"
+          },
+          {
             "title": "అమెరికాలో చరిత్రలోనే అతిపెద్ద స్టీల్ ప్లాంట్.. స్వయంగా ప్రకటించిన ట్రంప్",
             "link": "https://telugu.oneindia.com/news/international/donald-trump-announces-essar-group-15-billion-dollar-iowa-steel-complex-boosting-us-manufacturing-508393.html",
             "source": "Oneindia Telugu",
@@ -1100,11 +1114,11 @@
             "published": "2026-09-29T06:46:56+05:30"
           },
           {
-            "title": "కుక్కల్లోనూ మాటలు గుర్తించే సామర్థ్యం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcEJzcElLQWgxSTAzbi1vSDA5UU9kWmYxV1FkWVVpdEFYNDFrYklYeFJYM00tR3pVQ0V6ZDcxZzNjYzRVcm9qb2gtN21rc29WdVNMNWJGYUhUajdKRGtmODlpWG9zMTRnbWlocldxdGLSAXBBVV95cUxOR3BCc3BJS0FoMUkwM24tb0gwOVFPZFpmMVdRZFlVaXRBWDQxa2JJWHhSWDNNLUd6VUNFemQ3MWczY2M0VXJvam9oLTdta3NvVnVTTDViRmFIVGo3SkRrZjg5aVhvczE0Z21paHJXcXRi?oc=5",
+            "title": "సముద్ర గస్తీకి హైస్పీడ్‌ బోటు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tNEhRcHh5Rk9GMGc2WVVGSlZqaEtJVUhwZ0lDOHc4TFY5UWlhRXdSanUwZnI2QUpzSzBJd2UtTVJyc3JsRFV6LTJnaHRkdUlKMFFkZ2Z3Zk50ZGgwY0tqV3FFTXFqLTlSNi1GUnZZak1SS3UtS3NBbw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-29T00:57:32+00:00"
+            "published": "2026-09-29T00:55:03+00:00"
           },
           {
             "title": "పోలీసుల నేరాలు.. ఘోరాలు.. బలవన్మరణాలు - Eenadu",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T00:44:34+00:00"
-          },
-          {
-            "title": "పాలమూరులో రూ.46 కోట్ల విలువైన ధాన్యం మాయం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BUFp4aHpZaW5mU0VjMUl5cTktcm1wWkNFb1J5b3NOOUItS1FVaDUzLS1WLXZfT2pqZ2tMRVc4Sko5MEc0c1gxN3RJVXUxT3M2UDZUejFvaDRwNnZHYVBNZjJqODVlOEZDUFgzWlFiZFrSAXBBVV95cUxNQVBaeGh6WWluZlNFYzFJeXE5LXJtcFpDRW9SeW9zTjlCLUtRVWg1My0tVi12X09qamdrTEVXOEpKOTBHNHNYMTd0SVV1MU9zNlA2VHoxb2g0cDZ2R2FQTWYyajg1ZThGQ1BYM1pRYmRa?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T00:39:17+00:00"
-          },
-          {
-            "title": "ఉపాధ్యాయులపై దాడికి... 6నెలల కఠిన కారాగారం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JSnYtR0RtZlkxLS1ZNnpJdUkyOHBxN09EX0pNMHJ0Y2ZmdGtNYVc3cTJnVTJ6bHI4OThiVm01Ty1Uck9zWDlVSjNHakNvWUZ6WFB4eDVyVmstZlpSbGVGb3RxOHY3Q0hHUF9DcFdVdnDSAXBBVV95cUxNSUp2LUdEbWZZMS0tWTZ6SXVJMjhwcTdPRF9KTTBydGNmZnRrTWFXN3EyZ1UyemxyODk4YlZtNU8tVHJPc1g5VUozR2pDb1lGelhQeHg1clZrLWZaUmxlRm90cTh2N0NIR1BfQ3BXVXZw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T00:38:17+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "পত্রিকা:‌ ''অপারেশন ক্লিন হার্টের' আদলে অভিযানের চিন্তা'",
+            "link": "https://www.bbc.com/bengali/articles/cmx2z8eg1e1vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-09-29T02:50:23+00:00"
+          },
+          {
+            "title": "রাস্তায় আলু বিক্রি করে অবস্থানে চাষিরা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVVudDl3VnA5RGpxaXl6b0ZNVG14R3hWcnR3MGszWGExdVlIWlRKRFh1VFhPQ1JDMmR0Zm5QazVEZ0VKVE4wRmFOVElleTZsN29SRG9uYlVIVWEyZzB2NHdLVEV2OENmRUpDWXZ3UHF0RG4wamllWGxxNnF5eFAxRlZRanJxWVY5SURsUUMzRVhlVmFYak9oX2JqQm5RV3BCT0syblNvOEdBaXBhenc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-29T02:37:26+00:00"
+          },
+          {
             "title": "'কেউ মামলা করেনি' - অজুহাতে পুলিশ কি দায়িত্ব এড়াতে পারে?",
             "link": "https://www.bbc.com/bengali/articles/c6n9wrpry1zeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T15:42:01+00:00"
-          },
-          {
-            "title": "ধর্ষণে অভিযুক্ত অভিষেক পোড়েলকে প্রস্তুতি ম্যাচের দলে রাখল বাংলা, লক্ষ্মীকে ছাড়াই গুয়াহাটিতে খেলতে যাচ্ছে দল - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM09qRU5qX1E4ZUpCUjRQVkhrSDFvN0hMd3J3NkdCcGxqSkhWOEYzNTZmM1pOSjFKT2xDV05ScUFZdTEwbU1oRUhXOUV1V2p6QXEyNWlSa1ZaOXZvR0xuOXZSRVBBR1k5aENLX2hnQUs3ZTE0dVd2VW5OckFGZkQ2QmVhN3l0NGkyeHdJYUZIZGFIaHpQUUx4VEJ1T2J5MmxQendRVFhHdDFXMmZVUWp3WmQ3bFRCX3JFejdjT0FTVdIBxAFBVV95cUxQejg3UUQ1V28ybU1KbkJxRUluOEdQRFZ3TnVqeXp0Q3FrTzBOY0RQYWxJWXpwN0wtNEppaHVpb0NoQnliX3JnOFRBNFowOGdHcS1IQng5cF9KUE5KM3c3bjFOemRLVzNvWElUekJHZEREZzJoU1ZsQVdKOE93QjlaV0tTcWRINVFCT1gxb3EzZkZRdGNRLXpBWl93T0RsQVpOQUEycFpaRHJ1QXhULU93ajF1MmdnV01FajRud24yaW1ZWF9f?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T15:29:21+00:00"
-          },
-          {
-            "title": "একাদশ-দ্বাদশ স্তরে শিক্ষক নিয়োগের জন্য নতুন তালিকা প্রকাশ এসএসসি-র, ফের আইনি জটিলতার আশঙ্কা প্রার্থীদের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTXRPZ3Y1a0tZYjRfY0dxMG1PU0dLZTZVY1o3UDE3ZEV1SlY5MnM0RWxMUFVUWnRjbklnWWp4dGRjeXZ3MFp1Wkx2d1dpbWVEV09tWUs0eUZJOHN3RzNDZ3FFT2RCblQ5YzM2UDhrTFFEQ3Ywa1h0eHNUeTF0TW56OWxXNnBKcmJhUVNvbzVRbmc4dzc2S0g3Mkhia2syZFlhc28tNjNZODB1cXpzSkRrY1VPekFpSHBpSmxNUXdRUTFUVXpoYTJXYUxDdndzRnBzQ3lkTXBYanhNanZxd3UtQ3VjaWU1SlBYVm9yS180R3lPZ9IB9wFBVV95cUxNLXBLQm54QkNrX3ZLS2JTTEZVdFUwQzROM3lqdjJuTWxhaDNzSDVHUHVjV2FiN01hd21Kel8zMnFVLUZYcmNySDRxaFBubWpXZmNxRUJTZ0xvSXpCV2tpZWhFMTFwalUxQzktaHVCVlM1LVB2ZlUxc0F1WXlLRDdPVlpmbFptM3hBTl8ybG1od3BwMVR6TjZlU2NSMGluQ0gtMDk3TWNLaTlqalZPRUpIeTN4MU40VGI5THBaeG5fc21OOERLa0U1WS1iR19PTFFNMWtyU1psUmg1NFEzSk5zbDBzbkJWSzlEX2pNTjA4TFlBNzlJbk00?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T15:15:53+00:00"
           }
         ]
       }
