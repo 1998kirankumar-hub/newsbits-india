@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-09-29T08:01:47.490198+00:00",
+  "updated_at": "2026-09-29T08:22:02.031583+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Calcutta High Court grants interim bail to Congress Nandigram bypoll candidate Milan Pradhan",
+            "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-grants-interim-bail-to-congress-nandigram-bypoll-candidate-milan-pradhan/article71522918.ece",
+            "source": "The Hindu",
+            "summary": "With the interim bail till October 20, Milan Pradhan who was arrested in a 19 -year- old case on September 18, will be able to campaign for the by-polls scheduled on October 5",
+            "published": "2026-09-29T13:47:57+05:30"
+          },
+          {
+            "title": "Keralam local body bypolls results LIVE: UDF, LDF fight it out in 38 wards",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-results-udf-ldf-bjp-kerala/article71522923.ece",
+            "source": "The Hindu",
+            "summary": "The results of byelections in 38 local body wards across 12 districts in Keralam is seen as the first major electoral test for Congress-led UDF government, which is riding high on the overwhelming mandate it received in 2026 Assembly polls",
+            "published": "2026-09-29T13:47:14+05:30"
+          },
+          {
+            "title": "Karnataka Forest Minister orders removal of eucalyptus and acacia trees in research centres, forest in Bengaluru",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forest-minister-orders-removal-of-eucalyptus-and-acacia-trees-in-research-centres-forests-in-bengaluru/article71520583.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T13:46:31+05:30"
+          },
+          {
+            "title": "Man dies trapped in burning car on Sangadigunta-Ponnur Road in Guntur; son rescued",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/man-dies-trapped-in-burning-car-on-sangadigunta-ponnur-road-in-guntur-son-rescued/article71522723.ece",
+            "source": "The Hindu",
+            "summary": "Tadikonda Harikrishna, 56, and his son were returning from a dialysis appointment when the car’s doors locked, his relative says; the cause of the fire is yet to be established",
+            "published": "2026-09-29T13:45:38+05:30"
+          },
+          {
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "published": "2026-09-29T08:13:13+00:00"
+          },
+          {
+            "title": "BJP’s K. Surendran takes dig at Rahul Gandhi over Minister Shaji’s claim on Muslim girls following atheist pages",
+            "link": "https://www.thehindu.com/news/national/kerala/bjps-k-surendran-takes-dig-at-rahul-gandhi-over-minister-shajis-claim-on-muslim-girls-following-atheist-pages/article71522956.ece",
+            "source": "The Hindu",
+            "summary": "K.M. Shaji had commented that Muslim girls account for the largest share of followers on atheist social media pages",
+            "published": "2026-09-29T13:41:13+05:30"
+          },
+          {
+            "title": "India-China ties ‘better’ than a couple of years ago: Jaishankar",
+            "link": "https://www.thehindu.com/news/national/india-china-ties-better-than-a-couple-of-years-ago-jaishankar/article71522936.ece",
+            "source": "The Hindu",
+            "summary": "Once the border standoff was resolved, it was natural that this would start to improve, S Jaishankar said",
+            "published": "2026-09-29T13:39:49+05:30"
+          },
+          {
+            "title": "Crackers burst to welcome BJP State chief Madhav start fire at Vizianagaram apartment complex",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/crackers-burst-to-welcome-bjp-state-chief-madhav-start-fire-at-vizianagaram-apartment-complex/article71522944.ece",
+            "source": "The Hindu",
+            "summary": "Residents of Sai Kasturi Enclave run to safety when smoke fills their flats; party leaders promise a new generator",
+            "published": "2026-09-29T13:36:46+05:30"
+          },
+          {
+            "title": "Barapullah Phase III elevated corridor, worth ₹1,635 crore, opens in Delhi",
+            "link": "https://www.hindustantimes.com/india-news/barapullah-phase-iii-elevated-corridor-worth-1-635-crore-opens-in-delhi-amit-shah-rekha-gupta-101790668415811.html",
+            "source": "Hindustan Times",
+            "summary": "The 5-km Barapullah Phase III corridor provides a signal-free link between Mayur Vihar Phase I and Sarai Kale Khan, with connectivity towards AIIMS.",
+            "published": "2026-09-29T13:36:38+05:30"
+          },
+          {
+            "title": "On 'Har Shikhar Par Tiranga' mission, Telangana man scales Nagaland mountain to cover 11 states",
+            "link": "https://www.hindustantimes.com/india-news/on-har-shikhar-par-tiranga-mission-telangana-man-scales-nagaland-mountain-to-cover-11-states-101790669166036.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-29T13:36:05+05:30"
+          },
+          {
+            "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+            "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+            "published": "2026-09-29T08:05:09+00:00"
+          },
+          {
+            "title": "Nayab Saini directs officers to ensure effective delivery of welfare schemes",
+            "link": "https://www.hindustantimes.com/india-news/nayab-saini-directs-officers-to-ensure-effective-delivery-of-welfare-schemes-101790669105975.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-29T13:35:05+05:30"
+          },
+          {
+            "title": "Rahul urges youth to protest, says government only responds under pressure",
+            "link": "https://www.thehindu.com/news/national/rahul-urges-youth-to-protest-says-government-only-responds-under-pressure/article71523021.ece",
+            "source": "The Hindu",
+            "summary": "\"Stop punishing women for the crimes committed against them. Across our country, women are afraid to walk the streets, afraid of being harassed, afraid of being raped. And the government's answer: stay at home. This is patriarchy at work: a system that blames the victim and shields the criminal. It is time to smash it,\" says Rahul Gandhi",
+            "published": "2026-09-29T13:34:02+05:30"
+          },
+          {
             "title": "Keralam local body bypolls leave status quo in Ernakulam as UDF, LDF and Twenty20 retain seats",
             "link": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-leave-status-quo-in-ernakulam-as-udf-ldf-and-twenty20-retain-seats/article71522820.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-29T13:28:32+05:30"
-          },
-          {
-            "title": "Supreme Court quashes NSA detention of Sambhal violence accused, slaps ₹10 lakh costs on U.P. govt.",
-            "link": "https://www.thehindu.com/news/national/supreme-court-quashes-nsa-detention-of-sambhal-violence-accused-slaps-10-lakh-costs-on-up-govt/article71522938.ece",
-            "source": "The Hindu",
-            "summary": "The ruling came on a petition filed by Mulla Afroz; the top court said that the power of detention had been “illegally exercised”",
-            "published": "2026-09-29T13:28:01+05:30"
-          },
-          {
-            "title": "9% of students report suicidal thoughts, finds Supreme Court-appointed panel’s survey",
-            "link": "https://www.thehindu.com/news/national/nine-per-cent-of-students-report-suicidal-thoughts-finds-supreme-court-appointed-panels-survey/article71522815.ece",
-            "source": "The Hindu",
-            "summary": "A nationwide survey by the National Task Force found 15% of students felt overwhelmed or distressed and 9% reported suicidal thoughts in the past six months, ahead of its final report due on October 31",
-            "published": "2026-09-29T13:26:57+05:30"
-          },
-          {
-            "title": "PM Modi should resign for ‘pressuring’ CEC: Kharge at CWC meet",
-            "link": "https://www.thehindu.com/news/national/kharge-demands-modi-resignation-cec-gyanesh-kumar-removal-cwc-meet/article71522992.ece",
-            "source": "The Hindu",
-            "summary": "Congress president Mallikarjun Kharge demanded Chief Election Commissioner Gyanesh Kumar’s removal and PM Modi’s resignation, alleging irregularities in the SIR of electoral rolls",
-            "published": "2026-09-29T13:26:49+05:30"
-          },
-          {
-            "title": "Madras High Court imposes ₹1 lakh cost on lawyer who sought to recover bypoll expenses from resigned MLAs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-imposes-1-lakh-cost-on-lawyer-who-sought-to-recover-bypoll-expenses-from-resigned-mlas/article71522623.ece",
-            "source": "The Hindu",
-            "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan say the present case was filed for publicity though they had dismissed a similar case on merits just last week",
-            "published": "2026-09-29T13:19:48+05:30"
-          },
-          {
-            "title": "Gruha Jyothi verification: Bescom to revisit 5.5 lakh beneficiaries who failed to submit documents and refused to provide details",
-            "link": "https://www.thehindu.com/news/national/karnataka/gruha-jyothi-verification-bescom-to-revisit-55-lakh-beneficiaries-who-failed-to-submit-documents-and-refused-to-provide-details/article71520238.ece",
-            "source": "The Hindu",
-            "summary": "Officials in the Energy department said that a second round of verification would be launched for these 5.5 lakh beneficiaries",
-            "published": "2026-09-29T13:18:31+05:30"
-          },
-          {
-            "title": "Godavari begins to recede at Dowleswaram, inflow falls to 7.79 lakh cusecs; relief continues in Chintoor",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/godavari-begins-to-recede-at-dowleswaram-inflow-falls-to-779-lakh-cusecs-relief-continues-in-chintoor/article71522876.ece",
-            "source": "The Hindu",
-            "summary": "The barrage stayed short of the 10-lakh first warning mark; boats carry supplies to 17 submerged tribal habitations, and fishermen are told to keep off the river until the flood recedes",
-            "published": "2026-09-29T13:18:00+05:30"
-          },
-          {
-            "title": "CEC row LIVE: Former Home Secretary urges Opposition to boycott elections until Gyanesh Kumar resigns",
-            "link": "https://www.thehindu.com/news/national/cec-election-commission-row-gyanesh-kumar-live-updates-september-29-2026/article71522496.ece",
-            "source": "The Hindu",
-            "summary": "A significant political controversy is brewing regarding the Election Commission of India, specifically involving Election Commissioner Gyanesh Kumar. The situation has escalated to the point where a former Home Secretary has publicly called upon the Opposition parties to boycott future elections until the official steps down from his post. This demand reflects growing tensions and a lack of trust in the electoral body's current composition. In response to these developments and growing concerns over internal operational differences within the ECI, the Congress Working Committee has scheduled an urgent meeting for today, September 29. The purpose of this gathering is to deliberate on the party's stance regarding the ECI's internal management and the potential implications for the integrity of democratic processes. This standoff highlights the deep-seated political friction currently defining the landscape of Indian governance, as opposition leaders seek to address perceived biases within independent constitutional institutions. The outcome of the committee's meeting will likely set a decisive tone for the political strategy of the Congress party in the coming months as they navigate these institutional challenges.",
-            "published": "2026-09-29T13:17:58+05:30"
-          },
-          {
-            "title": "Why is SRFTI on the boil ? | Explained",
-            "link": "https://www.thehindu.com/news/national/west-bengal/why-is-srfti-on-the-boil-explained/article71523007.ece",
-            "source": "The Hindu",
-            "summary": "What led to the clash between students and members of the Akhil Bharatiya Grahak Panchayat (ABGP) during an event on campus? Why are students questioning the presence of an outside organisation at the institute? What action has the Kolkata Police taken so far?",
-            "published": "2026-09-29T13:16:20+05:30"
-          },
-          {
-            "title": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office",
-            "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-office/article71522689.ece",
-            "source": "The Hindu",
-            "summary": "Appearing before CJI Surya Kant, senior advocates, representing petitioner Rakesh Kumar Singh, made an oral mentioning for early hearing of the plea which urged the court to direct that Gyanesh Kumar should not exercise the functions of Chief Election Commissioner, pending final hearing of this petition",
-            "published": "2026-09-29T13:15:08+05:30"
-          },
-          {
-            "title": "₹70.17 crore released to 322 farmers who gave land for Guntur Channel extension, says Pemmasani",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/7017-crore-released-to-322-farmers-who-gave-land-for-guntur-channel-extension-says-pemmasani/article71522454.ece",
-            "source": "The Hindu",
-            "summary": "Payments to farmers in Garapadu, Kondepadu, Yanamadala, Prattipadu, Mallayapalem, Ravipadu and GG Palem cleared in five instalments since March",
-            "published": "2026-09-29T13:10:35+05:30"
-          },
-          {
-            "title": "Supreme Court refuses to entertain PIL for Central law, guidelines to curb ragging in schools",
-            "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-pil-for-central-law-guidelines-to-curb-ragging-in-schools/article71522951.ece",
-            "source": "The Hindu",
-            "summary": "The plea has named the Centre, all states and Union Territories, the Central Board of Secondary Education and the Council for the Indian School Certificate Examinations as parties",
-            "published": "2026-09-29T13:08:56+05:30"
-          },
-          {
-            "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-            "link": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-            "published": "2026-09-29T07:34:50+00:00"
-          },
-          {
-            "title": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-            "link": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
-            "published": "2026-09-29T07:26:37+00:00"
+            "published": "2026-09-29T13:32:05+05:30"
           }
         ],
         "India": [
           {
+            "title": "Calcutta High Court grants interim bail to Congress Nandigram bypoll candidate Milan Pradhan",
+            "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-grants-interim-bail-to-congress-nandigram-bypoll-candidate-milan-pradhan/article71522918.ece",
+            "source": "The Hindu",
+            "summary": "With the interim bail till October 20, Milan Pradhan who was arrested in a 19 -year- old case on September 18, will be able to campaign for the by-polls scheduled on October 5",
+            "published": "2026-09-29T13:47:57+05:30"
+          },
+          {
+            "title": "Keralam local body bypolls results LIVE: UDF, LDF fight it out in 38 wards",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-results-udf-ldf-bjp-kerala/article71522923.ece",
+            "source": "The Hindu",
+            "summary": "The results of byelections in 38 local body wards across 12 districts in Keralam is seen as the first major electoral test for Congress-led UDF government, which is riding high on the overwhelming mandate it received in 2026 Assembly polls",
+            "published": "2026-09-29T13:47:14+05:30"
+          },
+          {
+            "title": "Karnataka Forest Minister orders removal of eucalyptus and acacia trees in research centres, forest in Bengaluru",
+            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-forest-minister-orders-removal-of-eucalyptus-and-acacia-trees-in-research-centres-forests-in-bengaluru/article71520583.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-09-29T13:46:31+05:30"
+          },
+          {
+            "title": "Man dies trapped in burning car on Sangadigunta-Ponnur Road in Guntur; son rescued",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/man-dies-trapped-in-burning-car-on-sangadigunta-ponnur-road-in-guntur-son-rescued/article71522723.ece",
+            "source": "The Hindu",
+            "summary": "Tadikonda Harikrishna, 56, and his son were returning from a dialysis appointment when the car’s doors locked, his relative says; the cause of the fire is yet to be established",
+            "published": "2026-09-29T13:45:38+05:30"
+          },
+          {
+            "title": "BJP’s K. Surendran takes dig at Rahul Gandhi over Minister Shaji’s claim on Muslim girls following atheist pages",
+            "link": "https://www.thehindu.com/news/national/kerala/bjps-k-surendran-takes-dig-at-rahul-gandhi-over-minister-shajis-claim-on-muslim-girls-following-atheist-pages/article71522956.ece",
+            "source": "The Hindu",
+            "summary": "K.M. Shaji had commented that Muslim girls account for the largest share of followers on atheist social media pages",
+            "published": "2026-09-29T13:41:13+05:30"
+          },
+          {
+            "title": "India-China ties ‘better’ than a couple of years ago: Jaishankar",
+            "link": "https://www.thehindu.com/news/national/india-china-ties-better-than-a-couple-of-years-ago-jaishankar/article71522936.ece",
+            "source": "The Hindu",
+            "summary": "Once the border standoff was resolved, it was natural that this would start to improve, S Jaishankar said",
+            "published": "2026-09-29T13:39:49+05:30"
+          },
+          {
+            "title": "Crackers burst to welcome BJP State chief Madhav start fire at Vizianagaram apartment complex",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/crackers-burst-to-welcome-bjp-state-chief-madhav-start-fire-at-vizianagaram-apartment-complex/article71522944.ece",
+            "source": "The Hindu",
+            "summary": "Residents of Sai Kasturi Enclave run to safety when smoke fills their flats; party leaders promise a new generator",
+            "published": "2026-09-29T13:36:46+05:30"
+          },
+          {
+            "title": "Barapullah Phase III elevated corridor, worth ₹1,635 crore, opens in Delhi",
+            "link": "https://www.hindustantimes.com/india-news/barapullah-phase-iii-elevated-corridor-worth-1-635-crore-opens-in-delhi-amit-shah-rekha-gupta-101790668415811.html",
+            "source": "Hindustan Times",
+            "summary": "The 5-km Barapullah Phase III corridor provides a signal-free link between Mayur Vihar Phase I and Sarai Kale Khan, with connectivity towards AIIMS.",
+            "published": "2026-09-29T13:36:38+05:30"
+          },
+          {
+            "title": "On 'Har Shikhar Par Tiranga' mission, Telangana man scales Nagaland mountain to cover 11 states",
+            "link": "https://www.hindustantimes.com/india-news/on-har-shikhar-par-tiranga-mission-telangana-man-scales-nagaland-mountain-to-cover-11-states-101790669166036.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-29T13:36:05+05:30"
+          },
+          {
+            "title": "Nayab Saini directs officers to ensure effective delivery of welfare schemes",
+            "link": "https://www.hindustantimes.com/india-news/nayab-saini-directs-officers-to-ensure-effective-delivery-of-welfare-schemes-101790669105975.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-09-29T13:35:05+05:30"
+          },
+          {
+            "title": "Rahul urges youth to protest, says government only responds under pressure",
+            "link": "https://www.thehindu.com/news/national/rahul-urges-youth-to-protest-says-government-only-responds-under-pressure/article71523021.ece",
+            "source": "The Hindu",
+            "summary": "\"Stop punishing women for the crimes committed against them. Across our country, women are afraid to walk the streets, afraid of being harassed, afraid of being raped. And the government's answer: stay at home. This is patriarchy at work: a system that blames the victim and shields the criminal. It is time to smash it,\" says Rahul Gandhi",
+            "published": "2026-09-29T13:34:02+05:30"
+          },
+          {
             "title": "Keralam local body bypolls leave status quo in Ernakulam as UDF, LDF and Twenty20 retain seats",
             "link": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-leave-status-quo-in-ernakulam-as-udf-ldf-and-twenty20-retain-seats/article71522820.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-09-29T13:28:32+05:30"
-          },
-          {
-            "title": "Supreme Court quashes NSA detention of Sambhal violence accused, slaps ₹10 lakh costs on U.P. govt.",
-            "link": "https://www.thehindu.com/news/national/supreme-court-quashes-nsa-detention-of-sambhal-violence-accused-slaps-10-lakh-costs-on-up-govt/article71522938.ece",
-            "source": "The Hindu",
-            "summary": "The ruling came on a petition filed by Mulla Afroz; the top court said that the power of detention had been “illegally exercised”",
-            "published": "2026-09-29T13:28:01+05:30"
-          },
-          {
-            "title": "9% of students report suicidal thoughts, finds Supreme Court-appointed panel’s survey",
-            "link": "https://www.thehindu.com/news/national/nine-per-cent-of-students-report-suicidal-thoughts-finds-supreme-court-appointed-panels-survey/article71522815.ece",
-            "source": "The Hindu",
-            "summary": "A nationwide survey by the National Task Force found 15% of students felt overwhelmed or distressed and 9% reported suicidal thoughts in the past six months, ahead of its final report due on October 31",
-            "published": "2026-09-29T13:26:57+05:30"
-          },
-          {
-            "title": "PM Modi should resign for ‘pressuring’ CEC: Kharge at CWC meet",
-            "link": "https://www.thehindu.com/news/national/kharge-demands-modi-resignation-cec-gyanesh-kumar-removal-cwc-meet/article71522992.ece",
-            "source": "The Hindu",
-            "summary": "Congress president Mallikarjun Kharge demanded Chief Election Commissioner Gyanesh Kumar’s removal and PM Modi’s resignation, alleging irregularities in the SIR of electoral rolls",
-            "published": "2026-09-29T13:26:49+05:30"
-          },
-          {
-            "title": "Madras High Court imposes ₹1 lakh cost on lawyer who sought to recover bypoll expenses from resigned MLAs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-imposes-1-lakh-cost-on-lawyer-who-sought-to-recover-bypoll-expenses-from-resigned-mlas/article71522623.ece",
-            "source": "The Hindu",
-            "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan say the present case was filed for publicity though they had dismissed a similar case on merits just last week",
-            "published": "2026-09-29T13:19:48+05:30"
-          },
-          {
-            "title": "Gruha Jyothi verification: Bescom to revisit 5.5 lakh beneficiaries who failed to submit documents and refused to provide details",
-            "link": "https://www.thehindu.com/news/national/karnataka/gruha-jyothi-verification-bescom-to-revisit-55-lakh-beneficiaries-who-failed-to-submit-documents-and-refused-to-provide-details/article71520238.ece",
-            "source": "The Hindu",
-            "summary": "Officials in the Energy department said that a second round of verification would be launched for these 5.5 lakh beneficiaries",
-            "published": "2026-09-29T13:18:31+05:30"
-          },
-          {
-            "title": "Godavari begins to recede at Dowleswaram, inflow falls to 7.79 lakh cusecs; relief continues in Chintoor",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/godavari-begins-to-recede-at-dowleswaram-inflow-falls-to-779-lakh-cusecs-relief-continues-in-chintoor/article71522876.ece",
-            "source": "The Hindu",
-            "summary": "The barrage stayed short of the 10-lakh first warning mark; boats carry supplies to 17 submerged tribal habitations, and fishermen are told to keep off the river until the flood recedes",
-            "published": "2026-09-29T13:18:00+05:30"
-          },
-          {
-            "title": "CEC row LIVE: Former Home Secretary urges Opposition to boycott elections until Gyanesh Kumar resigns",
-            "link": "https://www.thehindu.com/news/national/cec-election-commission-row-gyanesh-kumar-live-updates-september-29-2026/article71522496.ece",
-            "source": "The Hindu",
-            "summary": "A significant political controversy is brewing regarding the Election Commission of India, specifically involving Election Commissioner Gyanesh Kumar. The situation has escalated to the point where a former Home Secretary has publicly called upon the Opposition parties to boycott future elections until the official steps down from his post. This demand reflects growing tensions and a lack of trust in the electoral body's current composition. In response to these developments and growing concerns over internal operational differences within the ECI, the Congress Working Committee has scheduled an urgent meeting for today, September 29. The purpose of this gathering is to deliberate on the party's stance regarding the ECI's internal management and the potential implications for the integrity of democratic processes. This standoff highlights the deep-seated political friction currently defining the landscape of Indian governance, as opposition leaders seek to address perceived biases within independent constitutional institutions. The outcome of the committee's meeting will likely set a decisive tone for the political strategy of the Congress party in the coming months as they navigate these institutional challenges.",
-            "published": "2026-09-29T13:17:58+05:30"
-          },
-          {
-            "title": "Why is SRFTI on the boil ? | Explained",
-            "link": "https://www.thehindu.com/news/national/west-bengal/why-is-srfti-on-the-boil-explained/article71523007.ece",
-            "source": "The Hindu",
-            "summary": "What led to the clash between students and members of the Akhil Bharatiya Grahak Panchayat (ABGP) during an event on campus? Why are students questioning the presence of an outside organisation at the institute? What action has the Kolkata Police taken so far?",
-            "published": "2026-09-29T13:16:20+05:30"
-          },
-          {
-            "title": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office",
-            "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-office/article71522689.ece",
-            "source": "The Hindu",
-            "summary": "Appearing before CJI Surya Kant, senior advocates, representing petitioner Rakesh Kumar Singh, made an oral mentioning for early hearing of the plea which urged the court to direct that Gyanesh Kumar should not exercise the functions of Chief Election Commissioner, pending final hearing of this petition",
-            "published": "2026-09-29T13:15:08+05:30"
-          },
-          {
-            "title": "₹70.17 crore released to 322 farmers who gave land for Guntur Channel extension, says Pemmasani",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/7017-crore-released-to-322-farmers-who-gave-land-for-guntur-channel-extension-says-pemmasani/article71522454.ece",
-            "source": "The Hindu",
-            "summary": "Payments to farmers in Garapadu, Kondepadu, Yanamadala, Prattipadu, Mallayapalem, Ravipadu and GG Palem cleared in five instalments since March",
-            "published": "2026-09-29T13:10:35+05:30"
-          },
-          {
-            "title": "Supreme Court refuses to entertain PIL for Central law, guidelines to curb ragging in schools",
-            "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-pil-for-central-law-guidelines-to-curb-ragging-in-schools/article71522951.ece",
-            "source": "The Hindu",
-            "summary": "The plea has named the Centre, all states and Union Territories, the Central Board of Secondary Education and the Council for the Indian School Certificate Examinations as parties",
-            "published": "2026-09-29T13:08:56+05:30"
+            "published": "2026-09-29T13:32:05+05:30"
           }
         ],
         "World": [
+          {
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "published": "2026-09-29T08:13:13+00:00"
+          },
+          {
+            "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+            "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+            "published": "2026-09-29T08:05:09+00:00"
+          },
+          {
+            "title": "Israel’s West Bank road closures turn routine journeys into long ordeals",
+            "link": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
+            "published": "2026-09-29T07:44:06+00:00"
+          },
+          {
+            "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
+            "link": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Google Earth images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.",
+            "published": "2026-09-29T07:41:59+00:00"
+          },
+          {
+            "title": "Can Pakistan’s Sohail Afridi win freedom for ex-PM Imran Khan?",
+            "link": "https://www.aljazeera.com/features/2026/9/29/can-pakistans-sohail-afridi-win-freedom-for-ex-pm-imran-khan?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "At 37, he&#039;s the PTI&#039;s top elected leader. But the Khyber Pakhtunkhwa chief minister is assuming a national role too.",
+            "published": "2026-09-29T07:38:56+00:00"
+          },
           {
             "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
             "link": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
@@ -239,44 +274,16 @@
             "source": "BBC World",
             "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
             "published": "2026-09-29T06:15:25+00:00"
-          },
-          {
-            "title": "Watch: Luxury units uncovered inside an Indonesian prison",
-            "link": "https://www.bbc.co.uk/news/videos/c6vgy293vvp3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A surprise inspection at the prison revealed apartment-like units appearing to house inmates, equipped with televisions, a gym and fridges stocked with alcohol.",
-            "published": "2026-09-29T06:04:36+00:00"
-          },
-          {
-            "title": "Public transport drivers strike in Manila over soaring fuel prices",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
-            "published": "2026-09-29T05:21:50+00:00"
-          },
-          {
-            "title": "More than 80 reported abducted in Nigeria as police find human remains",
-            "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.",
-            "published": "2026-09-29T05:17:35+00:00"
-          },
-          {
-            "title": "Pope Leo says AI risk concerns not ‘fake news’",
-            "link": "https://www.aljazeera.com/economy/2026/9/29/pope-leo-says-ai-risk-concerns-not-fake-news?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Leader of the Catholic Church says AI safety issues should be taken seriously and acted on.",
-            "published": "2026-09-29T04:51:46+00:00"
-          },
-          {
-            "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
-            "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen&#039;s Houthis.",
-            "published": "2026-09-29T04:46:38+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "published": "2026-09-29T08:13:13+00:00"
+          },
           {
             "title": "UK tries to stop Trump's diesel export ban",
             "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
@@ -353,13 +360,6 @@
             "source": "Economic Times",
             "summary": "Tata group stocks declined after Tata Trusts proposed restructuring Tata Sons to potentially remove its NBFC and CIC classification, which could allow the holding company to remain private and ease regulatory requirements linked to a listing.",
             "published": "2026-09-29T10:23:35+05:30"
-          },
-          {
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-            "published": "2026-09-29T04:30:13+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+            "published": "2026-09-29T08:13:13+00:00"
+          },
+          {
             "title": "Lava Shark 2 Pro 5G Launched in India With 6,000mAh Battery, 50-Megapixel Rear Camera: Price, Specifications",
             "link": "https://www.gadgets360.com/mobiles/news/lava-shark-2-pro-5g-price-in-india-launch-sale-date-specifications-features-12113204",
             "source": "Gadgets 360",
@@ -518,13 +525,6 @@
             "source": "Gadgets 360",
             "summary": "The iPhone Duo was launched as Apple’s first-ever foldable earlier this month, alongside the iPhone 18 Pro and iPhone 18 Pro Max. While the non-fold models have already made their way to customers, the foldable iPhone will go on sale beginning next month. A new leak suggests that the iPhone Duo could offer more software features than the company previewed during its ‘Surprise and shine’ event. It is expected to…",
             "published": "2026-09-29T10:13:30+05:30"
-          },
-          {
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-            "published": "2026-09-29T04:30:13+00:00"
           },
           {
             "title": "Nothing Headphone (1) Pro Launched With Triple Drivers, 46dB ANC and 68-Hour Battery Life: Price, Specifications",
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "विराट कोहली से दोस्ती को लेकर भावुक हुए रोहित शर्मा, पहली बार कही ऐसी बात जिसकी हो रही चर्चा",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/rohit-sharma-on-virat-kohli-from-test-captaincy-to-their-lasting-cricket-bond-1657909.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T13:45:23+05:30"
+          },
+          {
+            "title": "Asian Games: नीरू ढांडा का 'गोल्डन शॉट', एशियन गेम्स में किया ऐतिहासिक कारनामा, भारत को मिला पांचवां गोल्ड",
+            "link": "https://hindi.oneindia.com/news/sports/more-sports/neeru-dhanda-wins-historic-gold-in-women-s-trap-at-asian-games-2026-1657857.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T13:44:12+05:30"
+          },
+          {
+            "title": "क्या मौत से पहले ड्रग्स लिया था प्रेमानंद का शिष्य? परिवार के आरोप, CCTV और पोस्टमार्टम ने खड़े किए कई सवाल",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/premanand-disciple-death-rasik-dulari-sharan-death-drugs-cctv-postmortem-grinder-family-allegations-1657919.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-09-29T13:41:27+05:30"
+          },
+          {
             "title": "'Rhiti Tiwari मैं तुम्हारा लीगल बाप हूं, पैसा कहां है?', BJP MP मनोज तिवारी की बेटी पर क्या बोले एकम बावा?",
             "link": "https://hindi.oneindia.com/news/entertainment/rhiti-tiwari-iam-still-your-legal-father-bjp-mp-manoj-tiwari-daughter-daughter-what-ekam-bawa-say-1657897.html",
             "source": "Oneindia Hindi",
@@ -639,6 +660,13 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-09-29T13:01:04+05:30"
+          },
+          {
+            "title": "हल्दिया: इंडियन ऑयल को विस्तार के लिए जमीन देगी बंगाल सरकार, लंबे समय से अटकी है ये योजना",
+            "link": "https://www.amarujala.com/india-news/west-bengal-cm-shuvendu-adhikari-assures-indian-oil-of-facilitating-land-for-its-expansion-plan-in-haldia-2026-09-29",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-29T12:50:14+05:30"
           },
           {
             "title": "दिल्ली में AAP कार्यकर्ताओं ने पुलिसकर्मी से मारपीट की:केजरीवाल तिलक नगर दौरे पर थे; 2 दिन पहले प्रवेश वर्मा ने युवक को थप्पड़ मारा था",
@@ -655,6 +683,13 @@
             "published": "2026-09-29T12:30:23+05:30"
           },
           {
+            "title": "लुधियाना के अंगद ढिल्लों ने रचा इतिहास: यूएई में बने कनाडा के राजदूत, 35 साल की उम्र में मिली अहम जिम्मेदारी",
+            "link": "https://www.amarujala.com/punjab/ludhiana/ludhiana-village-ghungrana-angad-dhillon-appointed-canada-ambassador-to-uae-2026-09-29",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-29T12:29:26+05:30"
+          },
+          {
             "title": "ADM के घर निगरानी का छापा: 79 लाख कैश,3 करोड़ की प्रॉपर्टी और 48 महंगी घड़ियां,अफसर पति-पत्नी की इनसाइड स्टोरी",
             "link": "https://hindi.oneindia.com/news/bihar/patna-adm-ravindra-kumar-divakar-vigilance-raid-79-lakh-cash-expensive-watches-3-crore-property-1657877.html",
             "source": "Oneindia Hindi",
@@ -662,25 +697,11 @@
             "published": "2026-09-29T12:27:56+05:30"
           },
           {
-            "title": "SIR पर कल INDIA ब्लॉक की बैठक, अखिलेश नहीं आएंगे:उद्धव ऑनलाइन जुड़ेंगे; पिछली बैठक में 23 दल शामिल हुए, AAP-DMK ने बनाई थी दूरी",
+            "title": "SIR पर कल I.N.D.I.A. ब्लॉक की बैठक, अखिलेश नहीं आएंगे:उद्धव ऑनलाइन जुड़ेंगे; पिछली बैठक में 23 दल शामिल हुए, AAP-DMK ने बनाई थी दूरी",
             "link": "https://www.bhaskar.com/g/national/news/india-bloc-meeting-delhi-uddhav-thackeray-akhilesh-yadav-sir-protest-139186846.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-29T06:53:57+00:00"
-          },
-          {
-            "title": "बिहार में गंडक-बागमती का बढ़ता पानी: दो दर्जन से ज्यादा स्कूल डूबे, पढ़ाई ठप हुई; बच्चों के लिए नाव बनी सहारा",
-            "link": "https://www.amarujala.com/bihar/muzaffarpur/muzaffarpur-bihar-news-many-schools-affected-by-floods-roads-submerged-students-distressed-classes-been-suspended-muzaffarpur-news-c-1-1-noi1376-4777473-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-29T12:17:11+05:30"
-          },
-          {
-            "title": "राजस्थान : सुप्रीम कोर्ट ने आरसीए चुनाव जारी रखने की अनुमति दी, हाईकोर्ट के फैसले तक परिणाम घोषित करने पर रोक",
-            "link": "https://www.amarujala.com/rajasthan/rca-elections-can-proceed-supreme-court-bars-result-declaration-pending-rajasthan-hc-verdict-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-29T12:16:03+05:30"
           },
           {
             "title": "हिमाचल: सनावर के पूर्व छात्र जनरल गौरव शमशेर जंग राणा को बड़ी जिम्मेदारी, ब्रिटेन में नेपाल के राजदूत होंगे",
@@ -688,27 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-29T12:06:02+05:30"
-          },
-          {
-            "title": "भारतीय शेयर बाज़ार में जारी गिरावट की चार बड़ी वजहें, कैसी होगी आगे की राह",
-            "link": "https://www.bbc.com/hindi/articles/c5pve9nnvdwlo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "भारतीय शेयर बाजार में पिछले कुछ समय से लगातार गिरावट का माहौल बना हुआ है, जिससे निवेशकों की चिंताएं बढ़ गई हैं। इस गिरावट के पीछे कई महत्वपूर्ण कारण काम कर रहे हैं, जिनमें वैश्विक अनिश्चितताएं और घरेलू बाजार के नकारात्मक रुझान शामिल हैं। हाल ही में सामने आए आंकड़ों के अनुसार, 18 सितंबर को समाप्त हुए सप्ताह में भारत के विदेशी मुद्रा भंडार में पिछले दो वर्षों की सबसे बड़ी साप्ताहिक गिरावट दर्ज की गई है। विदेशी मुद्रा भंडार का कम होना बाजार की तरलता और अर्थव्यवस्था के प्रति निवेशकों के भरोसे को प्रभावित करता है। इसके अलावा, अंतरराष्ट्रीय बाजार में कच्चे तेल की कीमतों में उतार-चढ़ाव और विदेशी संस्थागत निवेशकों की बिकवाली भी भारतीय बाजार को दबा रही है। भविष्य की राह के बारे में विशेषज्ञों का मानना है कि जब तक आर्थिक संकेतक और मुद्रा भंडार की स्थिति में सुधार नहीं होता, तब तक बाजार में उतार-चढ़ाव जारी रह सकता है। निवेशकों को इस दौर में सोच-समझकर निवेश करने की सलाह दी जा रही है।",
-            "published": "2026-09-29T06:33:21+00:00"
-          },
-          {
-            "title": "खड़गे बोले- मुख्य चुनाव आयुक्त सरकार की कठपुतली, उन्हें हटाएं:वोटर्स के नाम हटाने की साजिश रची; कांग्रेस की SIR पर बैठक",
-            "link": "https://www.bhaskar.com/g/national/news/kharge-allegation-modi-govt-cec-voter-list-controversy-form-6-rules-139186708.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-29T06:32:06+00:00"
-          },
-          {
-            "title": "Vidya Balan ने खुलेआम पति सिद्धार्थ रॉय कपूर के साथ एयरपोर्ट पर की ऐसी हरकत, 18 सेकंड के वीडियो ने मचाई सनसनी",
-            "link": "https://hindi.oneindia.com/news/entertainment/vidya-balan-openly-did-this-with-husband-siddharth-roy-kapur-18-second-video-created-sensation-1657867.html",
-            "source": "Oneindia Hindi",
-            "summary": "विद्या बालन और उनके पति सिद्धार्थ रॉय कपूर का एक वीडियो सोशल मीडिया पर चर्चा का केंद्र बना हुआ है। यह घटना मुंबई एयरपोर्ट की है, जहाँ सिद्धार्थ अपनी पत्नी को छोड़ने आए थे। वीडियो में देखा जा सकता है कि विद्या बालन जब टर्मिनल की ओर बढ़ रही थीं, तब उन्होंने अपने पति के साथ बेहद निजी और रोमांटिक पल साझा किए। उन्होंने एक-दूसरे को गले लगाकर विदाई दी और इस दौरान उन्होंने सरेआम एक-दूसरे को लिप किस भी किया। यह 18 सेकंड का क्लिप इंटरनेट पर तेजी से वायरल हो गया है। प्रशंसकों और नेटिज़न्स के बीच इस वीडियो को लेकर मिली-जुली प्रतिक्रियाएं देखने को मिल रही हैं। कुछ लोग उनके इस खुलेपन की तारीफ कर रहे हैं, तो कुछ इसे सार्वजनिक स्थान पर ऐसी हरकतों को लेकर सवाल उठा रहे हैं। यह घटना एक बार फिर सेलिब्रिटी लाइफस्टाइल और प्राइवेसी के बीच की बहस को सामने ले आई है। विद्या और सिद्धार्थ का यह प्यार भरा अंदाज उनके प्रशंसकों के लिए काफी हैरान करने वाला रहा है क्योंकि आमतौर पर यह जोड़ा काफी संयमित रहता है। यह वीडियो अब प्लेटफॉर्म्स पर चर्चा का बड़ा विषय बन चुका है।",
-            "published": "2026-09-29T11:55:48+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ભારતીય શૅરબજારમાં રોકાણકારોના રૂપિયા ધોવાયા, માર્કેટ ઘટવાનાં ચાર કારણો કયાં છે?",
+            "link": "https://www.bbc.com/gujarati/articles/c87502wrdqpno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-09-29T07:57:39+00:00"
+          },
+          {
             "title": "જયશંકરે અમેરિકાને બતાવ્યો અરીસો!:આતંકવાદ અંગે ભારતની ચિંતા US સમજતું નથી, વોશિંગ્ટન PAK સાથે નિકટતા વધારી રહ્યું છે; આતંકીઓને સાથ આપનારાઓ સાથે કેવો સંબંધ?",
             "link": "https://www.divyabhaskar.co.in/national/news/jaishankar-statement-pakistan-terrorism-usa-relationship-new-york-139187281.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "અમેરિકાની જેલ પ્રણાલી અને ટેનેસી રાજ્યના ઈતિહાસમાં એક ખૂબ જ અસાધારણ કિસ્સો સામે આવ્યો છે, જેમાં ક્રિસ્ટા પાઇક નામની મહિલાને ફાંસી આપવામાં આવનાર છે. છેલ્લા ૨૦૦ વર્ષોના લાંબા ગાળા પછી આ પ્રથમ વખત બની રહ્યું છે કે જ્યારે ટેનેસીમાં કોઈ મહિલાને ફાંસીની સજા આપવામાં આવશે. વર્ષો સુધી પોતાની સજાને પડકારતી અપીલ કરવા છતાં, તમામ કાયદાકીય માર્ગો બંધ થઈ જવાથી હવે તેને બુધવારે ફાંસી આપવાની તૈયારીઓ પૂર્ણ કરી લેવામાં આવી છે. અમેરિકાના સમગ્ર દેશના આંકડા જોઈએ તો ૧૯૭૦ના દાયકાથી અત્યાર સુધી ૧,૬૬૩ પુરુષોને ફાંસી આપવામાં આવી છે, જેની સરખામણીએ મહિલાઓની સંખ્યા માત્ર ૧૮ જેટલી જ રહી છે, જે આ કેસની દુર્લભતા દર્શાવે છે. આ ઘટના ન્યાયિક પ્રક્રિયાની કઠોરતા અને ગંભીર ગુનાઓ બદલ અપાતી સજાની તીવ્રતાને પ્રતિબિંબિત કરે છે. સમગ્ર વિશ્વમાં આ કેસ પર નજર રાખવામાં આવી રહી છે, કારણ કે આટલા લાંબા સમય બાદ એક મહિલાને ફાંસીની સજા આપવી એ અમેરિકન કાયદાકીય ઇતિહાસના પાનાઓમાં એક મોટી અને ચર્ચાસ્પદ ઘટના તરીકે નોંધાશે.",
             "published": "2026-09-29T02:38:03+00:00"
-          },
-          {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:અમેરિકા જવા નીકળેલા 3 ગુજરાતીઓનું ઇથોપિયામાં અપહરણ, ઉજ્જૈનમાં મસ્જિદ તોડવા મુદ્દે ભારેલો અગ્નિ, UPI ચાર્જ પર રોક નહીં લાગે",
-            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-high-court-ujjain-shahi-masjid-demolition-protest-139179998.html",
-            "source": "Divya Bhaskar",
-            "summary": "આજના સમાચારોમાં અનેક મહત્વપૂર્ણ મુદ્દાઓ ચર્ચામાં છે, જેમાં મધ્યપ્રદેશના ઉજ્જૈનમાં મસ્જિદના એક ભાગને તોડવાને કારણે ફાટી નીકળેલી હિંસાના સમાચાર સૌથી વધુ ધ્યાન ખેંચે છે; જેમાં ટોળા દ્વારા પોલીસ પર પથ્થરમારો કરવામાં આવ્યો હતો. આ સિવાય, વિદેશમાં ગુજરાતીઓની સુરક્ષા અંગે ચિંતાજનક ઘટના સામે આવી છે, જેમાં અમેરિકા જવા નીકળેલા ત્રણ ગુજરાતી નાગરિકોનું ઇથોપિયામાં અપહરણ કરવામાં આવ્યું છે. આજના મહત્વના કાર્યક્રમોમાં રાજકીય ગરમાવો પણ જોવા મળશે, જેમાં ઉત્તર પ્રદેશની એમપી-એમએલએ કોર્ટમાં રાહુલ ગાંધી વિરુદ્ધ અમિત શાહ વિશે કરેલી કથિત વાંધાજનક ટિપ્પણી બાબતે સુનાવણી હાથ ધરવામાં આવશે. બીજી તરફ, નાણાકીય જગતમાંથી સમાચાર આવ્યા છે કે યુપીઆઈ (UPI) ટ્રાન્ઝેક્શન પર કોઈ પ્રકારનો વધારાનો ચાર્જ લગાવવાની દરખાસ્ત પર હાલ રોક લાગવાની નથી, જે સામાન્ય નાગરિકો માટે મહત્વની વાત છે. આ ઉપરાંત, આંતરરાષ્ટ્રીય સ્તરે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI) અંગેના વલણ પર પણ વિશ્વભરના નિષ્ણાતોની નજર રહેશે, જે ટેક્નોલોજીના ભવિષ્યને નક્કી કરી શકે છે.",
-            "published": "2026-09-28T23:30:00+00:00"
           }
         ]
       }
@@ -899,14 +899,14 @@
             "link": "https://tamil.oneindia.com/news/international/pakistan-water-shortage-25-less-water-as-reservoir-levels-fall-to-4-year-low-food-security-at-risk-834543.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-09-29T13:24:33+05:30"
+            "published": "2026-09-29T13:43:37+05:30"
           },
           {
             "title": "எம்எல்ஏக்கள் சம்பளம் ரூ.1.80 லட்சத்தில் இருந்து ரூ.3 லட்சமாக உயர்வு.. இந்தியாவிலேயே அதிகம்",
             "link": "https://tamil.oneindia.com/news/india/jammu-kashmir-mla-salary-will-increase-from-rs-1-8-lakh-to-rs-3-lakh-834539.html",
             "source": "Oneindia Tamil",
             "summary": "",
-            "published": "2026-09-29T13:19:10+05:30"
+            "published": "2026-09-29T13:33:05+05:30"
           },
           {
             "title": "விஜய் அரசு நான்கு மாதங்களில் திரும்ப பெற்ற 7 முக்கிய முடிவுகள் - என்ன நடந்தது?",
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "భగ్గుమంటున్న సిమెంట్ ధరలు.. అక్టోబర్‌లో మరోసారి పెరిగే ఛాన్స్!",
+            "link": "https://telugu.oneindia.com/news/business/cement-prices-rise-by-rs-7-per-bag-in-september-with-further-hikes-expected-across-markets-in-octobe-508453.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T13:49:39+05:30"
+          },
+          {
+            "title": "The Traitors Telugu: తెలుగు ప్రేక్షకుల ముందుకు మరో రియాల్టీ షో.. ‘ది ట్రైటర్స్’ స్ట్రీమింగ్‌ ఎప్పుడంటే? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSmFWMXliTktwREJhdFN3TWRqVmE3T3lWdVJOR1oxc3dIeUtabzc2cEtReU1qazdRU1plRDYzQjg3YTljTnhrRTBLeGdaTTZfSmdHSmdNaGcyQmoyMmZiVGhCTVAxb0kyVEgwclVRTUtnRFNPbHNlQU5icGRKT256NnVWT3RRUkduZXRpcVNSWWRRR0XSAZMBQVVfeXFMTkphVjF5Yk5LcERCYXRTd01kalZhN095VnVSTkdaMXN3SHlLWm83NnBLUXlNams3UVNaZUQ2M0I4N2E5Y054a0UwS3hnWk02X0pnR0pnTWhnMkJqMjJmYlRoQk1QMW9JMlRIMHJVUU1LZ0RTT2xzZUFOYnBkSk9uejZ1Vk90UVJHbmV0aXFTUllkUUdF?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-29T07:59:24+00:00"
+          },
+          {
             "title": "సచివాలయ ఉద్యోగుల సమస్యల పై మంత్రి కీలక ప్రకటన..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-minister-dola-veranjaneya-swamy-clarifies-govt-stand-over-secretariat-employees-demands-here-the-508451.html",
             "source": "Oneindia Telugu",
@@ -1098,6 +1112,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-29T12:53:16+05:30"
+          },
+          {
+            "title": "Guntur: కారులో మంటలు.. వృద్ధుడి సజీవ దహనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVldrYVdEc21DV1MtTmJBN0lkNGZ0QkRHTXlFRkNkbXlBbDVtRmpBNjBBaGxYSEYzNzc5YndLZExReXctWWlha0djdFNyMDdiSmFHejdqdVZGSWRGemxKbktYaDd0YkNYRTJybHhSRElMREFzSUdMcDljZUV2azJXZkVsM3ZPdlRQRWlKSEFQaU9ZNVJfTVU3NF9OZW01MlFkdU1r0gGjAUFVX3lxTE9WV2thV0RzbUNXUy1OYkE3SWQ0ZnRCREdNeUVGQ2RteUFsNW1GakE2MEFobFhIRjM3Nzlid0tkTFF5dy1ZaWFrR2N0U3IwN2JKYUd6N2p1VkZJZEZ6bEpuS1hoN3RiQ1hFMnJseFJESUxEQXNJR0xwOWNlRXZrMldmRWwzdk92VFBFaUpIQVBpT1k1Ul9NVTc0X05lbTUyUWR1TWs?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-29T07:16:09+00:00"
           },
           {
             "title": "కాంగ్రెస్ ఎమ్మెల్సీ అభ్యర్దులు ఖరారు..!?",
@@ -1133,27 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "ఎన్నికల కమిషన్ ఆఫ్ ఇండియా (ECI) సాంకేతిక వ్యవస్థలపై మహారాష్ట్ర సీఈఓ చోకలింగం తాజాగా లేఖ రాయడం సంచలనం సృష్టిస్తోంది. ఈసీఐనెట్ (ECINet) యాప్‌లో మార్పులు తీసుకురావాలని, తద్వారా ఎన్నికల ప్రక్రియను మరింత పారదర్శకంగా మార్చాలని ఆయన కోరారు. ముఖ్యంగా ఎస్ఐఆర్ (SIR) ప్రక్రియ సమయంలో ఈఆర్వోలకు (EROs) మరిన్ని అధికారాలు కల్పించాల్సిన అవసరం ఉందని ఆయన తన లేఖలో ప్రస్తావించారు. ఇది కేవలం ఆయన ఒక్కరి అభిప్రాయం మాత్రమే కాదు, గతంలో ఇద్దరు ఎన్నికల కమిషనర్లు వ్యక్తపరిచిన ఆందోళనలకు కూడా ఇది బలాన్ని ఇస్తోంది. సాంకేతిక లోపాలను సరిదిద్దడం, వ్యవస్థలో జవాబుదారీతనాన్ని పెంచడం ద్వారా ఎన్నికల నిర్వహణలో మెరుగైన ఫలితాలు సాధించవచ్చని ఆయన వాదిస్తున్నారు. ఎన్నికల సంఘం యొక్క అంతర్గత విధానాలపై, ముఖ్యంగా సాంకేతిక పరమైన నిర్ణయాలపై ఇలాంటి భిన్నాభిప్రాయాలు రావడం చర్చకు దారితీస్తోంది. కమిషన్ లోపల వస్తున్న ఈ అభ్యంతరాలు ఎన్నికల నిర్వహణలో సమూల మార్పుల అవసరాన్ని గుర్తుచేస్తున్నాయి. రాబోయే ఎన్నికల నిర్వహణలో సాంకేతికపరమైన ఇబ్బందులు తలెత్తకుండా ఉండాలంటే, వెంటనే ఈ మార్పులను చేపట్టాలని సీఈఓ కోరుతున్నారు. ఈ పరిణామం దేశవ్యాప్తంగా ఎన్నికల నిర్వహణ వ్యవస్థపై తీవ్రమైన చర్చను రేకెత్తిస్తోంది.",
             "published": "2026-09-29T11:50:13+05:30"
-          },
-          {
-            "title": "Virat Kohli: గణాంకాల కోసం ఆడితే ఇంతకాలం కొనసాగలేం..: కోహ్లీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjNWLUhNSzdRZDJiS3lOeFo1OGh6d2s2Y2dsM2NTZ0tHVjEzaDlSY3JQanI0czkyM2NWbDlvTmJibno5TUt4MzdiZ1ZVME16ZFV5S2VSRmx4Xzl2dnBHUC1kZVYwM2pzYk1LRy1WdlBOYWdtc2dRVnBUQjFKbDVJaDEwck5td2g0Z2VwckNvOXZPdklMZXlId3NNU0dEZW9CTW01YllSOU9xZmhQREtocFRKSEtqbHcyc215WnhBbGdzd9IBwgFBVV95cUxNRjNWLUhNSzdRZDJiS3lOeFo1OGh6d2s2Y2dsM2NTZ0tHVjEzaDlSY3JQanI0czkyM2NWbDlvTmJibno5TUt4MzdiZ1ZVME16ZFV5S2VSRmx4Xzl2dnBHUC1kZVYwM2pzYk1LRy1WdlBOYWdtc2dRVnBUQjFKbDVJaDEwck5td2g0Z2VwckNvOXZPdklMZXlId3NNU0dEZW9CTW01YllSOU9xZmhQREtocFRKSEtqbHcyc215WnhBbGdzdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T06:06:19+00:00"
-          },
-          {
-            "title": "Anantapur: అనంతపురంలో రెచ్చిపోయిన చైన్‌ స్నాచర్లు.. ఐదు చోట్ల చోరీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUJCd3YyNW8zamNtLUczWEhrSlJTdW9oTXRRVE5oQVpHWEhOcm1hdEM0VWhPb3pNdjhIc3BKQkk0YVpDZVBCSkJIbVBMbWdpaFpxdFRSNTgtSTN5eXZlNENZSDgwZ2YydjFyOVVGSVVBX3ZiOFVNeVlNLU1qLVRuYjZUQWJqN3pHMjU3Q9IBjAFBVV95cUxPOUJCd3YyNW8zamNtLUczWEhrSlJTdW9oTXRRVE5oQVpHWEhOcm1hdEM0VWhPb3pNdjhIc3BKQkk0YVpDZVBCSkJIbVBMbWdpaFpxdFRSNTgtSTN5eXZlNENZSDgwZ2YydjFyOVVGSVVBX3ZiOFVNeVlNLU1qLVRuYjZUQWJqN3pHMjU3Qw?oc=5",
-            "source": "Eenadu",
-            "summary": "అనంతపురం నగరంలో చైన్ స్నాచర్లు ఒక్కసారిగా రెచ్చిపోవడంతో ప్రజలు భయాందోళనలకు గురవుతున్నారు. నగరంలోని వివిధ ప్రాంతాల్లో కేవలం కొద్దిసేపటి వ్యవధిలోనే ఐదు చోట్ల చోరీలకు పాల్పడటం గమనార్హం. ద్విచక్ర వాహనాలపై వచ్చిన గుర్తుతెలియని వ్యక్తులు, ఒంటరిగా వెళ్తున్న మహిళలే లక్ష్యంగా చేసుకొని వారి మెడలోని బంగారు గొలుసులను లాక్కెళ్లారు. ఈ వరుస ఘటనలతో నగరంలో శాంతిభద్రతల పరిస్థితిపై స్థానికులు తీవ్ర ఆందోళన చెందుతున్నారు. పోలీసులు గస్తీ నిర్వహించడంలో విఫలమయ్యారని, నిందితుల ఆగడాలు మితిమీరిపోతున్నాయని బాధితులు వాపోతున్నారు. సమాచారం అందుకున్న పోలీసులు వెంటనే ఘటనా స్థలాలకు చేరుకుని, సిసి కెమెరాల దృశ్యాలను సేకరిస్తున్నారు. నిందితులను పట్టుకునేందుకు ప్రత్యేక బృందాలను రంగంలోకి దింపినట్లు సమాచారం. నగరంలో ఇటువంటి ఘటనలు పునరావృతం కాకుండా కఠిన చర్యలు తీసుకోవాలని స్థానిక ప్రజలు పోలీసులను కోరుతున్నారు. నిందితుల గుర్తింపు కోసం పోలీసులు అన్వేషణ ముమ్మరం చేశారు. వరుస చైన్ స్నాచింగ్‌లు కావడంతో భయాందోళన చెందిన మహిళలు బయటకు రావాలంటేనే వెనుకాడే పరిస్థితి నెలకొంది. త్వరలోనే నిందితులను పట్టుకుని కఠినంగా శిక్షించాలని స్థానిక ప్రజలు డిమాండ్ చేస్తున్నారు.",
-            "published": "2026-09-29T06:01:52+00:00"
-          },
-          {
-            "title": "అన్నామలై బాటలో ఐఎఎస్ అధికారిణి: యూపీ రాజకీయాల్లో లేడీ సింగం",
-            "link": "https://telugu.oneindia.com/news/india/resigned-ias-officer-divya-mittal-announced-her-entry-into-politics-uttar-pradesh-to-build-platform-508431.html",
-            "source": "Oneindia Telugu",
-            "summary": "ఐఏఎస్ అధికారిణి దివ్య మిట్టల్ తన పదవికి రాజీనామా చేసి, రాజకీయాల్లోకి అడుగుపెట్టాలనే నిర్ణయం ఇప్పుడు ఉత్తరప్రదేశ్ రాజకీయాల్లో చర్చగా మారింది. ఐపీఎస్ నుంచి రాజకీయాల్లోకి వచ్చిన అన్నామలై బాటలోనే ఆమె కూడా ప్రయాణించాలని నిర్ణయించుకున్నట్లు కనిపిస్తోంది. సోమవారం ఎక్స్ (ట్విట్టర్) వేదికగా ఒక వీడియో సందేశాన్ని విడుదల చేస్తూ, ఈ నిర్ణయం తీసుకోవడానికి తాను చాలా సమయం తీసుకున్నానని, రాజకీయ రంగం ద్వారా మరింతగా ప్రజలకు సేవ చేయాలని భావిస్తున్నానని ఆమె వెల్లడించారు. తాను పనిచేసిన బ్యూరోక్రాటిక్ వ్యవస్థ కంటే, రాజకీయాల్లోకి వెళ్లడం ద్వారా సమాజంలో మరింత ప్రభావవంతమైన మార్పును తీసుకురావచ్చని ఆమె నమ్ముతున్నారు. ఆమె తీసుకున్న ఈ నిర్ణయం యూపీ రాజకీయాల్లో కొత్త ఉత్సాహాన్ని నింపుతోంది. తన గత అనుభవం రాజకీయాల్లో ఎలా ఉపయోగపడుతుందనే అంశంపై ఆమె స్పష్టత ఇచ్చారు. ఆమె నిర్ణయం పట్ల సామాజిక మాధ్యమాల్లో రకరకాల అభిప్రాయాలు వ్యక్తమవుతున్నాయి. ఒక ఉన్నత స్థాయి ఐఏఎస్ అధికారిణిగా రాణించిన ఆమె, రాజకీయాల్లో కూడా తనదైన ముద్ర వేయగలరా అన్నది ఇప్పుడు ఆసక్తికరంగా మారింది. యూపీ రాజకీయాల్లో ఒక 'లేడీ సింగం'గా తన ప్రస్థానాన్ని మొదలుపెట్టబోతున్న దివ్య మిట్టల్, భవిష్యత్తులో ఎలాంటి రాజకీయ వ్యూహాలతో ముందుకు వెళ్తారో వేచి చూడాలి.",
-            "published": "2026-09-29T11:30:27+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,18 +1249,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Nitin Gupta : ಭಾರತಕ್ಕೇ ಮೊದಲ ರ‍್ಯಾಂಕ್‌ ಬಂದವನಿಂದ ಈಗ ಸೊಳ್ಳೆಯ ಮೆದುಳು ಅಧ್ಯಯನ! ಯಾರೀ ನಿತಿನ್‌ ಗುಪ್ತಾ?",
+            "link": "https://kannada.oneindia.com/news/india/iit-jee-topper-nitin-gupta-now-studies-mosquito-brains-his-unusual-career-journey-is-here-469515.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-29T13:37:52+05:30"
+          },
+          {
+            "title": "Vijayapura: ವಿಜಯಪುರದಲ್ಲಿ ಭೂಕಂಪ! 3.5 ತೀವ್ರತೆಯಲ್ಲಿ ಭೂಮಿ ಕಂಪನ, ಜನರಲ್ಲಿ ಆತಂಕ",
+            "link": "https://kannada.oneindia.com/news/karnataka/vijayapura-earthquake-3-5-magnitude-tremor-recorded-in-basavan-bagewadi-near-village-on-september-2-469503.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-09-29T13:35:16+05:30"
+          },
+          {
             "title": "Indian Joint Family: ಒಂದೇ ಮನೆಯಲ್ಲಿ 185 ಜನ, 13 ಒಲೆಗಳು! ಆರು ತಲೆಮಾರಿರೋ ಈ ಕುಟುಂಬದ ಬದುಕೇ ಅಚ್ಚರಿ",
             "link": "https://kannada.oneindia.com/news/india/indian-joint-family-185-people-six-generations-under-one-roof-meet-rajasthans-remarkable-joint-f-469509.html",
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-09-29T13:21:25+05:30"
-          },
-          {
-            "title": "Breaking: ವಿಜಯಪುರದಲ್ಲಿ ಭೂಕಂಪ! 3.5 ತೀವ್ರತೆಯಲ್ಲಿ ಭೂಮಿ ಕಂಪನ, ಜನರಲ್ಲಿ ಆತಂಕ",
-            "link": "https://kannada.oneindia.com/news/karnataka/vijayapura-earthquake-3-5-magnitude-tremor-recorded-in-basavan-bagewadi-near-village-on-september-2-469503.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-09-29T13:17:39+05:30"
           },
           {
             "title": "Indo-US Relations: ಭಾರತವಿನ್ನು ಹೆದರಬಾರದು, ಫಾರಿನ್ ಪಾಲಿಸಿ ಕಡೆ ಗಮನಿಸೋ ಟೈಮಿದು",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಸೆಪ್ಟೆಂಬರ್ 29ರಂದು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಪೆಟ್ರೋಲ್ ಮತ್ತು ಡೀಸೆಲ್ ದರಗಳಲ್ಲಿ ಆಗಿರುವ ಬದಲಾವಣೆಗಳ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು ಇಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ವಾಹನ ಸವಾರರು ಪ್ರತಿನಿತ್ಯದ ಇಂಧನ ದರದ ಏರಿಳಿತವನ್ನು ಗಮನಿಸುವುದು ಬಹಳ ಮುಖ್ಯ, ಏಕೆಂದರೆ ಇದು ದೈನಂದಿನ ಬಜೆಟ್ ಮೇಲೆ ನೇರ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ. ಅಂತರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಕಚ್ಚಾ ತೈಲದ ಬೆಲೆ ಮತ್ತು ಡಾಲರ್ ಮೌಲ್ಯದ ಆಧಾರದ ಮೇಲೆ ಸರ್ಕಾರಿ ತೈಲ ಕಂಪನಿಗಳು ಪ್ರತಿದಿನ ದರಗಳನ್ನು ಪರಿಷ್ಕರಿಸುತ್ತವೆ. ಬೆಂಗಳೂರು ನಗರದ ದರಗಳೊಂದಿಗೆ ರಾಜ್ಯದ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳಾದ ಮೈಸೂರು, ಹುಬ್ಬಳ್ಳಿ, ದಾವಣಗೆರೆ ಮತ್ತು ಮಂಗಳೂರಿನಲ್ಲಿ ಅನ್ವಯವಾಗುವ ಇಂಧನ ದರಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು ಸೂಕ್ತವಾಗಿದೆ. ಪೆಟ್ರೋಲ್ ಮತ್ತು ಡೀಸೆಲ್ ಬೆಲೆಗಳಲ್ಲಿನ ಸಣ್ಣ ಬದಲಾವಣೆಗಳು ಸಹ ಸರಕು ಸಾಗಣೆಯ ವೆಚ್ಚದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುತ್ತವೆ, ಇದು ಅಂತಿಮವಾಗಿ ಅಗತ್ಯ ವಸ್ತುಗಳ ಬೆಲೆ ಏರಿಕೆಗೆ ಕಾರಣವಾಗಬಹುದು. ರಾಜ್ಯದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಅಬಕಾರಿ ಸುಂಕ ಮತ್ತು ಸ್ಥಳೀಯ ತೆರಿಗೆಗಳ ಕಾರಣದಿಂದ ಬೆಲೆಗಳಲ್ಲಿ ಸಣ್ಣ ವ್ಯತ್ಯಾಸಗಳಿರುತ್ತವೆ. ಸಾರ್ವಜನಿಕರು ಆನ್‌ಲೈನ್ ಪೋರ್ಟಲ್‌ಗಳು ಅಥವಾ ಮೊಬೈಲ್ ಆಪ್‌ಗಳ ಮೂಲಕ ತಮ್ಮ ತಮ್ಮ ಜಿಲ್ಲೆಯ ನಿಖರವಾದ ದರವನ್ನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು. ಅತಿ ಹೆಚ್ಚು ಬೇಡಿಕೆಯಿರುವ ಪೆಟ್ರೋಲ್ ಮತ್ತು ಡೀಸೆಲ್ ಬೆಲೆಗಳ ಬಗ್ಗೆ ಅಪ್‌ಡೇಟ್ ಆಗಿರುವುದು ವಾಹನ ಮಾಲೀಕರಿಗೆ ತಮ್ಮ ಪ್ರಯಾಣದ ವೆಚ್ಚವನ್ನು ಯೋಜಿಸಲು ನೆರವಾಗುತ್ತದೆ. ಈ ದರದ ಪಟ್ಟಿಗಳು ಇಂದಿನ ದಿನಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಾಗಿದ್ದು, ಮುಂದಿನ ದಿನಗಳಲ್ಲಿನ ಬದಲಾವಣೆಗಳಿಗಾಗಿ ತೈಲ ಕಂಪನಿಗಳ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಅನುಸರಿಸುವುದು ಉತ್ತಮ.",
             "published": "2026-09-29T10:32:22+05:30"
-          },
-          {
-            "title": "Karnataka Major Reservoirs: ಕೆಆರ್‌ಎಸ್‌ ಸೇರಿ ರಾಜ್ಯದ ಪ್ರಮುಖ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟ: ಸೆಪ್ಟೆಂಬರ್ 29ರ ಅಂಕಿಅಂಶಗಳು",
-            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-major-reservoirs-water-level-on-september-29-2026-explore-the-complete-statistics-detail-469481.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಸೆಪ್ಟೆಂಬರ್ 29ರಂದು ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟದಲ್ಲಿ ಆಗಿರುವ ಬದಲಾವಣೆಗಳು ರಾಜ್ಯದ ಕೃಷಿ ಮತ್ತು ಕುಡಿಯುವ ನೀರಿನ ಪೂರೈಕೆಗೆ ಅತ್ಯಂತ ನಿರ್ಣಾಯಕವಾಗಿವೆ. ಕೃಷ್ಣರಾಜ ಸಾಗರ (KRS) ಅಣೆಕಟ್ಟು ರಾಜ್ಯದ ಜೀವನಾಡಿಯಾಗಿದ್ದು, ಅದರ ನೀರಿನ ಸಂಗ್ರಹಣೆಯು ಮಂಡ್ಯ ಮತ್ತು ಮೈಸೂರು ಭಾಗದ ರೈತರ ಪಾಲಿಗೆ ಅತ್ಯಂತ ಮಹತ್ವದ್ದಾಗಿದೆ. ಇದರ ಜೊತೆಗೆ ಕಬಿನಿ, ತುಂಗಭದ್ರಾ, ಭದ್ರಾ, ಹೇಮಾವತಿ, ಹಾರಂಗಿ ಮತ್ತು ಲಿಂಗನಮಕ್ಕಿ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟದ ಅಂಕಿಅಂಶಗಳನ್ನು ಸಹ ಈ ದಿನದ ವರದಿಯಲ್ಲಿ ನೀಡಲಾಗಿದೆ. ಕಳೆದ ಮಳೆಗಾಲದ ಅವಧಿಯಲ್ಲಿ ಸುರಿದ ಮಳೆಯು ಜಲಾಶಯಗಳ ಮಟ್ಟದಲ್ಲಿನ ಏರಿಳಿತಕ್ಕೆ ನೇರ ಕಾರಣವಾಗಿದೆ. ಜಲಾಶಯಗಳಲ್ಲಿನ ನೀರಿನ ಸಂಗ್ರಹವು ಕೇವಲ ಕೃಷಿಗೆ ಮಾತ್ರವಲ್ಲದೆ, ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆಗೂ ಪ್ರಮುಖವಾಗಿದೆ. ಜಲಾಶಯಗಳ ಮಟ್ಟವನ್ನು ಗಮನಿಸುವುದರಿಂದ ಮುಂದಿನ ಬೇಸಿಗೆಯ ಅವಧಿಯಲ್ಲಿ ಕುಡಿಯುವ ನೀರಿಗೆ ಬರ ಉಂಟಾಗಲಿದೆಯೇ ಅಥವಾ ಇಲ್ಲವೇ ಎಂಬ ಸುಳಿವು ಸಿಗುತ್ತದೆ. ಕೃಷಿ ಚಟುವಟಿಕೆಗಳಿಗೆ ನೀರು ಬಿಡುಗಡೆ ಮಾಡುವ ಮುನ್ನ ಜಲಾಶಯಗಳ ಭರ್ತಿಯ ಪ್ರಮಾಣವನ್ನು ಅಳೆಯುವುದು ಕಡ್ಡಾಯವಾಗಿದೆ. ರಾಜ್ಯದ ಪ್ರಮುಖ ಅಣೆಕಟ್ಟುಗಳ ದೈನಂದಿನ ನೀರಿನ ಮಟ್ಟದ ವರದಿಗಳು ರೈತರಿಗೆ ಬೆಳೆಗಳನ್ನು ನಿರ್ಧರಿಸಲು ಮತ್ತು ನೀರಿನ ಬಳಕೆಯನ್ನು ಸಮರ್ಪಕವಾಗಿ ನಿರ್ವಹಿಸಲು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ. ಈ ಅಂಕಿಅಂಶಗಳನ್ನು ಸಾರ್ವಜನಿಕರು ನಿಯಮಿತವಾಗಿ ಗಮನಿಸುವುದು ಅತ್ಯಗತ್ಯ, ಏಕೆಂದರೆ ಇದು ರಾಜ್ಯದ ಜಲ ಭದ್ರತೆಯ ಸೂಚಕವಾಗಿದೆ.",
-            "published": "2026-09-29T10:19:54+05:30"
           }
         ],
         "Entertainment": [
@@ -1440,6 +1440,13 @@
             "published": "2026-09-29T06:47:22+00:00"
           },
           {
+            "title": "শম্বুক গতির ট্রাইবুনাল, কলকাতা হাওড়ায় পুরভোট এসআইআর-এ ‘ডিলিটেড’ ২ লক্ষকে বাদ রেখেই? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUXNSR3ByRmNfY2NGNzhXVnFDOTJvRTBCclpmWXRRV29jQl9JSlBrZEpBdXh3d3F2cUpCY1R0RjNENllZeXlXY00zanROUmxQTS1zaXZmRE45ZUtoeHQ3OTdHbnhhN3pmUkJkSUVDdFhlQlBBNFdReTNzd25KREQ1a09WQmpxNERqNUUzajU2cjJUMTFpSGRuMmMtVGh4RWlyQzUwV3lCeHhjX1FzR0pIR1IxdnI3bk1KZEJEQldMbjB0clludUZ0cko4cGhqUDI5VXZKSWtQVTN3emtyWDNnZkVuR1FRRkJZVnA0OGUxUThZby11ZkZhVHVyM1JJZ3lNRUVZV2hHRWthZ0g1MEZLMGpwWHBZWDZBN3Z3WGd6UlJHejVpSlHSAasCQVVfeXFMUHF5SXIyaXl3T2ppNW10N0FTcTVYa0Z5M3ZVUW1IX2hFaUhUdG1od21zRnFsNHVEYm5lSk9QMHkyNEZrdXZXRmhwX0daeWRNOGI5djh5ODROYjc5aFFhQVZ6ZG1ZdnIzMGd3WW50OGVHQmZ4M0dXbmFuUUdTZzRsY0RleEo0VEFXNE5TSlJTYnBPUVdGLTRaQWdIRlB6ckJETldhd2I5RVQ5eWRETXdkRmJoa1Q5dEwxMW56YTZSX2gxMXp1bHRmaGJONF9MTllyc0xRcmZPZm5JaGQzRVdRM2Flcm5iZXNtTDBjeEU5OGpfSWJuWDVNR3N6X29oenFTaHFzM05HY1dWeWZPLW1IRTVOOXo5Q2NHUThzRjRVWDlDWHdxT283dVlHSEU?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-29T05:25:00+00:00"
+          },
+          {
             "title": "১৮ লক্ষের দেনা থেকে মাসে ২ কোটি আয়! অনুষ্কা শর্মার অর্ডার কী ভাবে বদলে দেয় এক রেস্তরাঁর ভাগ্য - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNENOcVY0OWNvT19ybXFpclZxZkx3dldQWGItbG5VYmtPclR5YzUtR2QwRTJEZzBkdUFEZFJZVGxwaXRnRWFRcFA5cXd5RTVwV202c0ZSaWRWSXJMNWltdzJ1a2FpbTQzV0hwSk80aXE0Z21oOGRjZV90cGpnRnh4WnJmRWd2cW1OYjlUM04wYzdqRXQtWDhWSnIxRzFuQ2dEbjZxakMteEpGWTlhTUpDRXF1UDZPN0NLT2lBVEhJcE1wY3pJSGV3b0VYNjJHRkk3X1FmWEZWLWdFampYbGZjT0lHNUXSAeoBQVVfeXFMUFBTUm1VRGU1eXdCTlYyUHVJQ0NKd2VtMVd1QnlZS0tRc092VWV4N2VKLWZFaTlnekpFR0NFQTJMVlBuOHVZaGR6WkpLaVV6WFRsWVdIWU5hbFNEQVYybTExX3I3eTdFRlREUVU4LVNXbTJuQmNjU0tSWkRlWm45Vi0wU253RFh3TnduWHU4N0hEWE1ZNWU3OExmVHd2SjhXLUNVVWZXSEFFVkRkVGcyOFVrSTQ1RWRnLV9yOGFQNG1nbGF4Mkotck15MW9qeTlFSEs0NkY5VkUwTUJ2MF9ObWNmM08yRG9IcTJ3?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-28T17:18:52+00:00"
-          },
-          {
-            "title": "কী ভাবে সম্ভব হল ব্রাজ়িলকে ভারতে খেলতে রাজি করানো? জানালেন উদ‍্যোক্তা সৌরভ, আশা, শীঘ্রই দেখা যাবে বিশ্বজয়ী স্পেনকে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbVBBSHMwVHF2NTFoeFhvdVZlRU5qVFJXZDFFOVZkNWZsNHJIMmFJaVNsQ0xoVWpMVzVtMFZxWDMzQmo3UTdZdDNROG90N20zVmhSYU5WOGN2X2RXMDFMRE9BczBydTVvbE9KeTdJR1NfeE5Pc2FVZG5hYUs4X0NMMjBnUGhDdjVZRDFVMVJ3dnRIY2Z1TkZqWWxhMU15Qi1MYmtLRjVNT3RaUUFNaFRTSjFTYXQxbURpUGtIQ3RhYkFKbkdDNzMtbE96aEkwSlgyb2w0b0dfa3NxT0JIb3hCdk1LYzNrN3haSUpnRU9vNVNTdDQ4RUN6Rkdn0gH_AUFVX3lxTE9ZUnNBTk5XZVlhNHltcVBtQ19WNHFmNkFPRGNHbVU0NGpzb1lqT1hZckhMZzRuN3lFZkFsRDBpS0FKeVhWZFktMzZsdEItZ00xS1JJeGdXRHF0WUQwZzZLZjZmeGhhSmtJZ29HTGNOVDE4VWpiVERrc3hLbEhYempRWnM1ZVcwUUxYU0pyZF9abjFaVmJoc0wtRXJFSnNyV2d3S2tEWTNWVFZlR1JITUoyQm9SQXA5MUJIZGwyRFRiTVdmV3BJRFh4Vnl4SG15c2pYajEyR0VUc0J0MVNXaEt1ci1FVVloUXp2LXVpY1VmMThkaG0wSHRTZWg4SEtBTQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-28T16:46:25+00:00"
           }
         ]
       }
