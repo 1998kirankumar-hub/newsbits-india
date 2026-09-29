@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-29T22:01:38.135597+00:00",
+  "updated_at": "2026-09-29T22:31:19.849723+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+            "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+            "published": "2026-09-29T22:13:36+00:00"
+          },
+          {
+            "title": "US Supreme Court allows Trump to continue third-country deportations",
+            "link": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+            "published": "2026-09-29T22:06:43+00:00"
+          },
+          {
+            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+            "published": "2026-09-29T22:06:18+00:00"
+          },
           {
             "title": "More than 400 detained as France student protests escalate",
             "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
@@ -27,13 +48,6 @@
             "published": "2026-09-29T21:45:01+00:00"
           },
           {
-            "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-            "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
-            "published": "2026-09-29T21:34:59+00:00"
-          },
-          {
             "title": "Yamal stars as Spain thrash Croatia",
             "link": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
             "source": "Al Jazeera",
@@ -53,6 +67,13 @@
             "source": "ESPN Cricinfo",
             "summary": "The Victoria keeper rescued Australia A after Bhute and Mulani had reduced them to 104 for 5",
             "published": "2026-09-29T21:15:11+00:00"
+          },
+          {
+            "title": "Pak Vows To Defend Saudi Against Iran-Backed Houthis By \"Whatever Means\"",
+            "link": "https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Defense Minister Khawaja Muhammad Asif said that Pakistan's military capabilities would be available to Saudi Arabia under a new mutual defense pact with Saudi Arabia and Turkey.",
+            "published": "2026-09-30T02:43:14+05:30"
           },
           {
             "title": "French students clash with police as protests over education cuts spread",
@@ -81,30 +102,16 @@
             "source": "Al Jazeera",
             "summary": "The real estate firm backs down and restores her old rent after mass protests over Spain&#039;s housing crisis.",
             "published": "2026-09-29T21:02:02+00:00"
-          },
-          {
-            "title": "What we know about RAF Fairford ‘bomb plot’",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
-            "published": "2026-09-29T20:55:20+00:00"
-          },
-          {
-            "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-            "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
-            "published": "2026-09-29T20:48:34+00:00"
-          },
-          {
-            "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
-            "link": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Udaigiri hill in Madhya Pradesh contains a rock-cut sacred ensemble developed primarily under Gupta patronage between the late 4th and early 5th centuries, according to the UNESCO website.",
-            "published": "2026-09-30T02:18:04+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Pak Vows To Defend Saudi Against Iran-Backed Houthis By \"Whatever Means\"",
+            "link": "https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Defense Minister Khawaja Muhammad Asif said that Pakistan's military capabilities would be available to Saudi Arabia under a new mutual defense pact with Saudi Arabia and Turkey.",
+            "published": "2026-09-30T02:43:14+05:30"
+          },
           {
             "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
             "link": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand",
@@ -181,16 +188,23 @@
             "source": "The Hindu",
             "summary": "A spokesman said a joint search operation was launched by the Army, J&K Police and CRPF in the general area of Korag, Yousmarg, in Budgam “based on specific intelligence input”.",
             "published": "2026-09-30T01:18:48+05:30"
-          },
-          {
-            "title": "US Supreme Court Allows Trump's 3rd-Country Deportations",
-            "link": "https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Under a series of often-secret agreements, the Trump administration has deported some 25,000 people to more than two dozen countries, including Liberia and Guyana. The vast majority have been sent to Mexico.",
-            "published": "2026-09-30T01:16:32+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+            "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+            "published": "2026-09-29T22:13:36+00:00"
+          },
+          {
+            "title": "US Supreme Court allows Trump to continue third-country deportations",
+            "link": "https://www.aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+            "published": "2026-09-29T22:06:43+00:00"
+          },
           {
             "title": "More than 400 detained as France student protests escalate",
             "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
@@ -211,13 +225,6 @@
             "source": "BBC World",
             "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
             "published": "2026-09-29T21:45:01+00:00"
-          },
-          {
-            "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-            "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
-            "published": "2026-09-29T21:34:59+00:00"
           },
           {
             "title": "Yamal stars as Spain thrash Croatia",
@@ -267,16 +274,16 @@
             "source": "Al Jazeera",
             "summary": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
             "published": "2026-09-29T20:55:20+00:00"
-          },
-          {
-            "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-            "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
-            "published": "2026-09-29T20:48:34+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+            "published": "2026-09-29T22:06:18+00:00"
+          },
           {
             "title": "US stocks: US market ends lower as bond yields hold near multi-decade highs",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
@@ -297,13 +304,6 @@
             "source": "Economic Times",
             "summary": "Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE through bulk deals on the NSE. The combined sale amounted to approximately Rs 2,186.44 crore and occurred before BSE's entry into the Nifty 50 index. UTI Mutual Fund and Nippon India Mutual Fund purchased a total of 52.43 lakh shares of BSE. BSE shares ended 3.31% higher at Rs 3,200, reflecting significant market interest.",
             "published": "2026-09-30T00:54:26+05:30"
-          },
-          {
-            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-            "published": "2026-09-29T19:17:43+00:00"
           },
           {
             "title": "Soho House venue under investigation for food safety",
@@ -450,18 +450,18 @@
         ],
         "Technology": [
           {
+            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+            "published": "2026-09-29T22:06:18+00:00"
+          },
+          {
             "title": "Tech Life",
             "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
             "published": "2026-09-29T19:30:00+00:00"
-          },
-          {
-            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-            "published": "2026-09-29T19:17:43+00:00"
           },
           {
             "title": "Oura pulls $15bn stock market listing days after announcement",
@@ -648,6 +648,34 @@
             "published": "2026-09-30T12:02:02+05:30"
           },
           {
+            "title": "संसद से महज 20 किलोमीटर दूर: न बिजली, न पानी... राजधानी के एक गांव की ऐसी भी कहानी; चार हजार लोग इंतजार में",
+            "link": "https://www.amarujala.com/delhi-ncr/just-20-kilometers-from-parliament-no-electricity-no-water-the-story-of-a-village-in-the-capital-2026-09-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-30T03:33:05+05:30"
+          },
+          {
+            "title": "भाजपा संसदीय बोर्ड में आधे सदस्य बदले जा सकते हैं:येदियुरप्पा और जटिया को हटाया जा सकता है, दोनों की उम्र 80 के पार",
+            "link": "https://www.bhaskar.com/national/news/bjp-parliamentary-board-reshuffle-yediyurappa-jatya-nadda-news-139194493.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T22:01:38+00:00"
+          },
+          {
+            "title": "एलपीयू हिंसाः 30-40 छात्र जांच के घेरे में, फरहत देव मास्टरमाइंड; चार एफआईआर के बाद बढ़ा तफ्तीश का दायरा",
+            "link": "https://www.amarujala.com/punjab/jalandhar/lpu-violence-30-40-students-under-scrutiny-farhat-dev-identified-as-mastermind-2026-09-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-30T03:31:24+05:30"
+          },
+          {
+            "title": "अमेरिका से तीसरे देशों में भेजे जा सकेंगे प्रवासी: ट्रंप प्रशासन को सुप्रीम कोर्ट से राहत; क्या है नीति?",
+            "link": "https://www.amarujala.com/world/supreme-court-lets-trump-continue-deporting-people-to-third-countries-while-justices-weigh-policy-2026-09-30",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-09-30T02:44:45+05:30"
+          },
+          {
             "title": "UNESCO वर्ल्ड-हेरिटेज टेंटेटिव लिस्ट में भारत की 5 नई साइट:इसमें मध्यप्रदेश की चार; उदयगिरि गुफाएं, गिन्नौरगढ़ और बटेश्वर के मंदिर शामिल",
             "link": "https://www.bhaskar.com/national/news/madhya-pradesh-unesco-world-heritage-list-sites-update-139194081.html",
             "source": "Dainik Bhaskar",
@@ -681,34 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-29T17:17:18+00:00"
-          },
-          {
-            "title": "Kathua CISF Camp में खूनी खेल! असिस्टेंट कमांडेंट समेत 4 जवानों की मौत, अपने ही साथियों पर क्यों चलाई गोलियां?",
-            "link": "https://hindi.oneindia.com/news/jammu-and-kashmir/kathua-cisf-camp-firing-reason-4-jawans-including-assistant-commandant-killed-explained-1658315.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-29T21:20:56+05:30"
-          },
-          {
-            "title": "देश में पहली बार हुई झरनों की गिनती:10 राज्यों में 14,468 झरने; मणिपुर में सबसे ज्यादा, यहीं 1336 झरने खतरे में",
-            "link": "https://www.bhaskar.com/national/news/india-spring-census-water-report-manipur-maharashtra-list-139192003.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-29T15:47:16+00:00"
-          },
-          {
-            "title": "Baloch की नई महिला यूनिट KAAD का पहला बड़ा ऑपरेशन, 9 पाकिस्तानी सैनिकों को मार गिराया, कौन लीड कर रहा था मिशन?",
-            "link": "https://hindi.oneindia.com/news/international/baloch-kaad-women-unit-claims-killed-9-pakistani-soldiers-who-led-operation-explained-1658349.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-09-29T21:08:14+05:30"
-          },
-          {
-            "title": "CISF जवान ने साथियों पर गोली चलाई, 4 की मौत:जम्मू के कठुआ में विवाद के बाद फायरिंग; आपसी झगड़ों में 5 साल में 24 मौतें",
-            "link": "https://www.bhaskar.com/national/news/jammu-kashmir-kathua-cisf-jawan-firing-incident-arrest-139191503.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-29T14:48:30+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,49 +1072,42 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Ram Charan: దసరాకి ప్రత్యేక పోస్టర్‌తో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjV3c3hXYXlRaHhnSUtqSm9vT21kVXFIdXpkeUNqQjRQcUxXb2ZCY2hsRVRJTllBamxDUVg0Q1ZFTUJNeG9OTmoxQTZ4eXRTcDljaDVSWlV2dnh1dFJ1N1pCYjVCRUt0NkVWbzdiYm16QWZpMDRleEQtOFFLUTBoa3VyWjA0Zl8xV2g2TF9yV0VzSU11ZGJVRmRFb3F6OHJPNk51NWVPRmlyYjEtNDFPcjdnR2RoeVNQY20zMlQwb2FwZklMNHpyb2dB0gHKAUFVX3lxTFBmNXdzeFdheVFoeGdJS2pKb29PbWRVcUh1emR5Q2pCNFBxTFdvZkJjaGxFVElOWUFqbENRWDRDVkVNQk14b05OajFBNnh5dFNwOWNoNVJaVXZ2eHV0UnU3WkJiNUJFS3Q2RVZvN2JibXpBZmkwNGV4RC04UUtRMGhrdXJaMDRmXzFXaDZMX3JXRXNJTXVkYlVGZEVvcXo4ck82TnU1ZU9GaXJiMS00MU9yN2dHZGh5U1BjbTMyVDBvYXBmSUw0enJvZ0E?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T21:27:45+00:00"
-          },
-          {
-            "title": "Smart shoe: నడకను విశ్లేషించే స్మార్ట్‌ షూ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1BrM0d2VV9qbGllM0pGRkhhOGhfMkpabUM2aEpSV080bngwRmMtUVFBSnlFaUZ3T0lHVHppZXE4R05KajlDb1Y1OUxaMWxNdnhwY0VvbW5ycnpVMVg3TmFSMTJ0WkNKNnRIUnBfdUVEdVJhTnhPM2l3eFFTem1Va1FEZm9BUTkxUjUyWUZMZ0VSOTdl0gGUAUFVX3lxTE9LUGszR3ZVX2psaWUzSkZGSGE4aF8ySlptQzZoSlJXTzRueDBGYy1RUUFKeUVpRndPSUdUemllcThHTkpqOUNvVjU5TFoxbE12eHBjRW9tbnJyelUxWDdOYVIxMnRaQ0o2dEhScF91RUR1UmFOeE8zaXd4UVN6bVVrUURmb0FROTFSNTJZRkxnRVI5N2U?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T21:20:00+00:00"
-          },
-          {
-            "title": "భారత్‌-ఎ 351/9 - Eenadu",
+            "title": "భారత్‌-ఎ 351/9 - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVMXpzaWY5cHlCMU15Sy1tUUFLeXF4NlpWTDVtc0ZZUXJnRnYyRW1aS0pUeDM5azRrT01qd0l2Sy1Hdlk5TVBwV21KQ1hYZHN6aXpmclQ0VDdXZDd1VTZDTUtUSHM3aDdEa2F1T1M1ZjJZUdIBckFVX3lxTFBVMXpzaWY5cHlCMU15Sy1tUUFLeXF4NlpWTDVtc0ZZUXJnRnYyRW1aS0pUeDM5azRrT01qd0l2Sy1Hdlk5TVBwV21KQ1hYZHN6aXpmclQ0VDdXZDd1VTZDTUtUSHM3aDdEa2F1T1M1ZjJZUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T21:09:29+00:00"
           },
           {
-            "title": "మీకు తెలుసా? - Eenadu",
+            "title": "సెమీస్‌లో శ్రీలంకతో భారత్‌ ఢీ - eenadu.net",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuOU0zMU50aEcyNUtFTkl6MlRfM0lVUC1QNS1JNjlhOFpiN015aDBSQWVFd0tJWHlPTmFtWFhibV9BZ3VudmwxdWFxVzY0Smlwd1FueVdjOFBUTnlGa0dVS0xxMjgxLWtkTHVhMUNXTTZKZ9IBckFVX3lxTFBuOU0zMU50aEcyNUtFTkl6MlRfM0lVUC1QNS1JNjlhOFpiN015aDBSQWVFd0tJWHlPTmFtWFhibV9BZ3VudmwxdWFxVzY0Smlwd1FueVdjOFBUTnlGa0dVS0xxMjgxLWtkTHVhMUNXTTZKZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-29T21:07:57+00:00"
+          },
+          {
+            "title": "మీకు తెలుసా? - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoTzJIOUdjd0hRcVN0WUlUVGg4ekk2TElRc1ZxSjBLMXY3eVNfb3J6U210NHY5Z0M2d3ZyMjVYNktzcy1iclZBdHFwd1BxdTdiMjVuMWhGZ25EN2ZfX3FxS3ZXcjVWVWNjMjVnZGFxVXTSAXBBVV95cUxQaE8ySDlHY3dIUXFTdFlJVFRoOHpJNkxJUXNWcUowSzF2N3lTX29yelNtdDR2OWdDNnd2cjI1WDZLc3MtYnJWQXRxcHdQcXU3YjI1bjFoRmduRDdmX19xcUt2V3I1VlVjYzI1Z2RhcVV0?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T19:51:25+00:00"
           },
           {
-            "title": "పదాలేవి? - Eenadu",
+            "title": "పదాలేవి? - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zR25TbWFIVmhLZURZQnBXSUl4MzBpdUhocUFNU3JGanFGcGRRQlpKZXk3dUpVTzZuSnNVSVoyNFhxdGdxZzZqQ25pN0R0VHExc3pTdS1pd0VHY1gyQlhfWk9GODZkM0JORVVlanZWWWtZWDhuVkpnd2NmeEg3QdIBfkFVX3lxTE0zR25TbWFIVmhLZURZQnBXSUl4MzBpdUhocUFNU3JGanFGcGRRQlpKZXk3dUpVTzZuSnNVSVoyNFhxdGdxZzZqQ25pN0R0VHExc3pTdS1pd0VHY1gyQlhfWk9GODZkM0JORVVlanZWWWtZWDhuVkpnd2NmeEg3QQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T19:35:56+00:00"
           },
           {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (30/09/2026) - Eenadu",
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (30/09/2026) - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWJIamlxNUNfdWhLSWVLb0hKa2pjV09GQ0dBU3VzRzNBb0NUX1p5TW9RZTZOZVVLNHozY082MGR3Z08wVE5hYnQ3bXhGYnNUZTI0M1lqaGszcGQwb295aG45TUYxT1Q5ZkNfSVRENndPaUxVcFdmaFJ1Y0Q2ajVzaW1yVlNaOUVFYWxVSFlIaW5wRzktMTVMUVoxaHpISnlzeExZVGx1TjV4Y3pJU05sUmtwSkwwQdIBtgFBVV95cUxPQWJIamlxNUNfdWhLSWVLb0hKa2pjV09GQ0dBU3VzRzNBb0NUX1p5TW9RZTZOZVVLNHozY082MGR3Z08wVE5hYnQ3bXhGYnNUZTI0M1lqaGszcGQwb295aG45TUYxT1Q5ZkNfSVRENndPaUxVcFdmaFJ1Y0Q2ajVzaW1yVlNaOUVFYWxVSFlIaW5wRzktMTVMUVoxaHpISnlzeExZVGx1TjV4Y3pJU05sUmtwSkwwQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T18:31:45+00:00"
           },
           {
-            "title": "బెట్టింగ్ కోసం కిడ్నీ అమ్ముకున్నాడు.. అయినా అప్పులు తీరక.. - Eenadu",
+            "title": "బెట్టింగ్ కోసం కిడ్నీ అమ్ముకున్నాడు.. అయినా అప్పులు తీరక.. - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHNMdU4wSEI4ZXdkcVZHdUNYc1lBSUQ2aXV0ZVQ1ZUhtWlhsZ2s5YnE5cjBMenItYjhPOEc1OU41OXBKem9yYTdzTEpjQl9WY2JKejRDWkVlSjg4ZVlYcXV6VzFna0p1YkRFc204Rk1JV1c1VWtGbnUwR3lJRGM2eDVRYWE3YjY4RjRjdTNCc2TSAZABQVVfeXFMTkhzTHVOMEhCOGV3ZHFWR3VDWHNZQUlENml1dGVUNWVIbVpYbGdrOWJxOXIwTHpyLWI4TzhHNTlONTlwSnpvcmE3c0xKY0JfVmNiSno0Q1pFZUo4OGVZWHF1elcxZ2tKdWJERXNtOEZNSVdXNVVrRm51MEd5SURjNng1UWFhN2I2OEY0Y3UzQnNk?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1128,7 +1121,7 @@
             "published": "2026-09-29T23:45:15+05:30"
           },
           {
-            "title": "Asian Games 2026: ఆసియా క్రీడలు.. అథ్లెటిక్స్‌లో భారత్‌కు తొలి స్వర్ణం - Eenadu",
+            "title": "Asian Games 2026: ఆసియా క్రీడలు.. అథ్లెటిక్స్‌లో భారత్‌కు తొలి స్వర్ణం - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0ZfbWNuSGNVdGFvT3hOLXhDdFJTT25DOWV0S0ItcmU1bGZ4Y09TVUVGN0FCYU9fbFBKN3BXYjU0ZEZjNExMeTdGQ3FrTUU5Y2dPYlNHU016Z2tDMVNyVUdYMF9yenFQUmV3VGNpVHBDRmd6WjJuX29vSDNMeHhXaDYyZDZkR3dRazBDaHZHTjIxVFM4Sk8wSHdDOEpfMldPTVNPejZCYVVEWkNMc0MwQmpaZ1NjRW9IcG1B0gG7AUFVX3lxTE5nRl9tY25IY1V0YW9PeE4teEN0UlNPbkM5ZXRLQi1yZTVsZnhjT1NVRUY3QUJhT19sUEo3cFdiNTRkRmM0TEx5N0ZDcWtNRTljZ09iU0dTTXpna0MxU3JVR1gwX3J6cVBSZXdUY2lUcENGZ3paMm5fb29IM0x4eFdoNjJkNmRHd1FrMENodkdOMjFUUzhKTzBId0M4Sl8yV09NU096NkJhVURaQ0xzQzBCalpnU2NFb0hwbUE?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1142,7 +1135,7 @@
             "published": "2026-09-29T23:07:14+05:30"
           },
           {
-            "title": "Amaravati: అమరావతిలో శ్రీవారి ఆలయం నిర్మాణం ఇలా.. - Eenadu",
+            "title": "Amaravati: అమరావతిలో శ్రీవారి ఆలయం నిర్మాణం ఇలా.. - eenadu.net",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVdtZjZzRkNUaE93cC1LQ1ZsS1JpdllQWkF2NjBZdHlEVEZRRkFMY0lfaUNZenV5M3hsWUxsSWlYU0toQk1TZWRaMXlFVmhPUjRQWTRmTzlEX25PdWtHbkFCU2Fqdm9UUHNMSy1iNUtZRlRxWFNhcXdWMms5Y1pfemY0dFc0WUFZQTdQV0RLaVFKbl9MZ0VZQtIBmAFBVV95cUxOWVdtZjZzRkNUaE93cC1LQ1ZsS1JpdllQWkF2NjBZdHlEVEZRRkFMY0lfaUNZenV5M3hsWUxsSWlYU0toQk1TZWRaMXlFVmhPUjRQWTRmTzlEX25PdWtHbkFCU2Fqdm9UUHNMSy1iNUtZRlRxWFNhcXdWMms5Y1pfemY0dFc0WUFZQTdQV0RLaVFKbl9MZ0VZQg?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1154,6 +1147,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-09-29T22:06:34+05:30"
+          },
+          {
+            "title": "అల్వాల్ మైనర్ బాలిక లైంగిక దాడి కేసులో బిగ్ ట్విస్ట్.. 12 మందికీ డ్రగ్స్ పాజిటివ్‌ గా నిర్ధారణ",
+            "link": "https://telugu.oneindia.com/news/telangana/alwalcase-major-twist-involving-sexual-assault-minor-girl-all-12-accused-tested-positive-for-drugs-508527.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T22:05:41+05:30"
           }
         ],
         "Entertainment": [
