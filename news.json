@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-09-29T23:31:14.391369+00:00",
+  "updated_at": "2026-09-29T23:39:24.848958+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+            "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.",
+            "published": "2026-09-29T23:28:47+00:00"
+          },
+          {
+            "title": "‘Court must protect liberty of accused if trial may be delayed’, says Supreme Court",
+            "link": "https://timesofindia.indiatimes.com/india/court-must-protect-liberty-of-accused-if-trial-may-be-delayed/articleshow/134576518.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-30T04:57:31+05:30"
+          },
+          {
+            "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+            "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Wilber Rafael Garces Perez has disputed the government&#039;s account of what led to his shooting during a DoorDash delivery.",
+            "published": "2026-09-29T23:15:35+00:00"
+          },
           {
             "title": "Chinese AI tool told researchers how to make bioweapons",
             "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
@@ -81,30 +102,16 @@
             "source": "NDTV",
             "summary": "The two had been arrested in the case and were in custody in connection with allegations relating to Garg's property and financial transactions.",
             "published": "2026-09-30T04:20:15+05:30"
-          },
-          {
-            "title": "Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig",
-            "link": "https://www.thehindu.com/news/national/west-bengal/mamata-in-delhi-to-participate-in-india-bloc-meetings-suvendu-takes-a-dig/article71524694.ece",
-            "source": "The Hindu",
-            "summary": "Our target is the Chief Election Commissioner and his full software team, who cheated and betrayed the people, former West Bengal Chief Minister Mamata Banerjee said",
-            "published": "2026-09-30T04:12:12+05:30"
-          },
-          {
-            "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-            "link": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
-            "published": "2026-09-29T22:38:10+00:00"
-          },
-          {
-            "title": "As US cozies up to Pakistan, India warns it could impact ties",
-            "link": "https://timesofindia.indiatimes.com/india/as-us-cozies-up-to-pakistan-india-warns-it-could-impact-ties/articleshow/134576433.cms",
-            "source": "Times of India",
-            "summary": "EAM flags lack of empathy on terror concerns",
-            "published": "2026-09-30T04:05:53+05:30"
           }
         ],
         "India": [
+          {
+            "title": "‘Court must protect liberty of accused if trial may be delayed’, says Supreme Court",
+            "link": "https://timesofindia.indiatimes.com/india/court-must-protect-liberty-of-accused-if-trial-may-be-delayed/articleshow/134576518.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-09-30T04:57:31+05:30"
+          },
           {
             "title": "Pentagon Signs $20 Billion Boeing Deal For 6th-Generation Strike Fighter",
             "link": "https://www.ndtv.com/world-news/pentagon-signs-20-billion-boeing-deal-for-6th-generation-strike-fighter-12117289#publisher=newsstand",
@@ -181,16 +188,23 @@
             "source": "NDTV",
             "summary": "Defense Minister Khawaja Muhammad Asif said that Pakistan's military capabilities would be available to Saudi Arabia under a new mutual defense pact with Saudi Arabia and Turkey.",
             "published": "2026-09-30T02:43:14+05:30"
-          },
-          {
-            "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
-            "link": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The Udaigiri hill in Madhya Pradesh contains a rock-cut sacred ensemble developed primarily under Gupta patronage between the late 4th and early 5th centuries, according to the UNESCO website.",
-            "published": "2026-09-30T02:18:04+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+            "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.",
+            "published": "2026-09-29T23:28:47+00:00"
+          },
+          {
+            "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+            "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Wilber Rafael Garces Perez has disputed the government&#039;s account of what led to his shooting during a DoorDash delivery.",
+            "published": "2026-09-29T23:15:35+00:00"
+          },
           {
             "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
             "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
@@ -260,20 +274,6 @@
             "source": "BBC World",
             "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
             "published": "2026-09-29T21:53:36+00:00"
-          },
-          {
-            "title": "Trump rules out joint US-China venture to develop AI",
-            "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-            "published": "2026-09-29T21:45:01+00:00"
-          },
-          {
-            "title": "Yamal stars as Spain thrash Croatia",
-            "link": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3",
-            "published": "2026-09-29T21:29:57+00:00"
           }
         ],
         "Business": [
@@ -648,6 +648,27 @@
             "published": "2026-09-30T12:02:02+05:30"
           },
           {
+            "title": "खबर हटके- गधे को नर्सिंग सर्टिफिकेट:AI मगरमच्छ की तलाश में भटकती रही पुलिस; पानी पर दौड़ाया दो मंजिला घर",
+            "link": "https://www.bhaskar.com/national/news/khabar-hatke-donkey-nursing-certificate-ai-crocodile-police-floating-two-storey-house-viral-news-139192624.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T23:35:00+00:00"
+          },
+          {
+            "title": "यूपी के कानपुर-बिजनौर में सड़कें डूबीं:छत्तीसगढ़ के जगदलपुर में बाढ़ के हालात, बिहार के 17 जिलों में अलर्ट",
+            "link": "https://www.bhaskar.com/g/national/news/flood-alert-jagdalpur-bihar-up-rain-updates-139192696.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T23:35:00+00:00"
+          },
+          {
+            "title": "SIR पर आज I.N.D.I.A. ब्लॉक की बैठक, अखिलेश नहीं आएंगे:ऑनलाइन जुड़ेंगे उद्धव, DMK-AAP ने बनाई दूरी; 3 साल में 8वीं बार जुटेंगे विपक्षी दल",
+            "link": "https://www.bhaskar.com/g/national/news/india-block-meeting-delhi-uddhav-thackeray-akhilesh-yadav-updates-139193443.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T23:30:49+00:00"
+          },
+          {
             "title": "भास्कर अपडेट्स:ठाणे में शिवसेना यूबीटी के स्थानीय नेता की गोली मारकर हत्या",
             "link": "https://www.bhaskar.com/g/national/news/thane-shiv-sena-ubt-leader-pradeep-purnekar-murder-cctv-footage-139195235.html",
             "source": "Dainik Bhaskar",
@@ -688,27 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-09-30T03:31:24+05:30"
-          },
-          {
-            "title": "अमेरिका से तीसरे देशों में भेजे जा सकेंगे प्रवासी: ट्रंप प्रशासन को सुप्रीम कोर्ट से राहत; क्या है नीति?",
-            "link": "https://www.amarujala.com/world/supreme-court-lets-trump-continue-deporting-people-to-third-countries-while-justices-weigh-policy-2026-09-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-30T02:44:45+05:30"
-          },
-          {
-            "title": "UNESCO वर्ल्ड-हेरिटेज टेंटेटिव लिस्ट में भारत की 5 नई साइट:इसमें मध्यप्रदेश की चार; उदयगिरि गुफाएं, गिन्नौरगढ़ और बटेश्वर के मंदिर शामिल",
-            "link": "https://www.bhaskar.com/g/national/news/madhya-pradesh-unesco-world-heritage-list-sites-update-139194081.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-09-29T20:50:28+00:00"
-          },
-          {
-            "title": "आज का राशिफल: ग्रह-नक्षत्रों की चाल बदलेगी दिन का हाल! मेष, सिंह, तुला, कुंभ और मीन राशि समेत पढ़ें राशिफल",
-            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-30-september-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-09-29",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-30T02:06:22+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:સુપ્રીમ કોર્ટે કહ્યું - કેન્સરની દવાઓની ઊંચી કિંમત નરસંહાર જેવી; જજનો રેપ પીડિતાને સ્પેશિયલ મેસેજ; પૂર્વ મુખ્યમંત્રી શંકરસિંહ કોંગ્રેસમાં જોડાશે",
+            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-supreme-court-cancer-drugs-high-prices-genocide-139192994.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-09-29T23:30:00+00:00"
+          },
+          {
             "title": "UNESCO વર્લ્ડ હેરિટેજ ટેન્ટેટિવ લિસ્ટમાં ભારતની 5 નવી સાઇટ્સ:આમાં મધ્ય પ્રદેશની ચાર; ઉદયગિરિ ગુફાઓ, ગિન્નૌરગઢ અને બટેશ્વરના મંદિરો સામેલ",
             "link": "https://www.divyabhaskar.co.in/national/news/india-unesco-world-heritage-tentative-list-sites-update-139194384.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-09-29T11:30:26+00:00"
-          },
-          {
-            "title": "'SIRમાં સ્થાનિક અધિકારીઓને વધુ અધિકારો મળે':મહારાષ્ટ્રના CEOએ પણ પત્ર લખ્યો હતો, 4 માગ કરી હતી; બે ચૂંટણી કમિશનરો પણ વાંધો વ્યક્ત કરી ચૂક્યા છે",
-            "link": "https://www.divyabhaskar.co.in/national/news/maharashtra-ceo-s-chokalingam-ecinet-election-commission-controversy-139189453.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-09-29T11:27:04+00:00"
           }
         ]
       }
@@ -1072,18 +1072,18 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "మీ గుండె బతకాలయ్యా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUU1qand6YUlrUnFoVTU3RmpGT2Y0RzE5MDItT1psWEhCM3NVd0FJQUpzZFlFT2hORHJ1SVFDR3h4R0NNdWU4ZURCODd3c1c2dzZHcnRtbkpzZTJCWWQ1dFV2dUZCQi0wVnoyWkZWSlNZdjIzM2hhRTd6WC3SAXxBVV95cUxQS1FNamp3emFJa1JxaFU1N0ZqRk9mNEcxOTAyLU9abFhIQjNzVXdBSUFKc2RZRU9oTkRydUlRQ0d4eEdDTXVlOGVEQjg3d3NXNnc2R3J0bW5Kc2UyQllkNXRVdnVGQkItMFZ6MlpGVkpTWXYyMzNoYUU3elgt?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-29T23:28:42+00:00"
+          },
+          {
             "title": "నియామకాల్లో ఆధార్‌ ముఖ గుర్తింపు తనిఖీలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuUEdyeHVMX1lJM3FjSnRLTHR0ZkVsd3gwaEVuM2YweUp1S0c3R1ItNUNvUVNVSE1SX2JlSTBWYU0zQUFwMFJNckdmbEczUTJjYmpiTUxqRWdYRXdQYTZmVHl6VEw2Q0pvTkhsYnV3VGpUTW1jZ0HSAXZBVV95cUxQblBHcnh1TF9ZSTNxY0p0S0x0dGZFbHd4MGhFbjNmMHlKdUtHN0dSLTVDb1FTVUhNUl9iZUkwVmFNM0FBcDBSTXJHZmxHM1EyY2JqYk1MakVnWEV3UGE2ZlR5elRMNkNKb05IbGJ1d1RqVE1tY2dB?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T23:24:38+00:00"
-          },
-          {
-            "title": "1,500 మెగావాట్ల బెస్‌ ప్రాజెక్టుల ఏర్పాటుకు చర్యలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kVEppWDR5LXhhRENBblBFMGJCa25pV1ZGd1RSM2x0eGZXQURxWUtKUk14ODlRRkxRWUo4N3ZMTTRwaUY5bWVqbExoNXNlOFA3MVlLSVdhZ19IRFc0S3JIeGotV2ZoTnFpUHZkdEx3dlZuUDdSSFAxcUFhN0vSAXxBVV95cUxOZFRKaVg0eS14YURDQW5QRTBiQmtuaVdWRndUUjNsdHhmV0FEcVlLSlJNeDg5UUZMUVlKODd2TE00cGlGOW1lamxMaDVzZThQNzFZS0lXYWdfSERXNEtySHhqLVdmaE5xaVB2ZHRMd3ZWblA3UkhQMXFBYTdL?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T23:24:31+00:00"
           },
           {
             "title": "తెలంగాణలో పెట్టుబడి అవకాశాలను సద్వినియోగం చేసుకోవాలి - Eenadu",
@@ -1093,32 +1093,11 @@
             "published": "2026-09-29T23:24:10+00:00"
           },
           {
-            "title": "90.5% ప్రభుత్వ పాఠశాలల్లో ముగిసిన యాజమాన్య కమిటీ ఎన్నికలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CRWRJcjM4ejBYZ01jc210Mk13dWJuZHVjM0k4NzRFOC1ONm1sZTE3M21HM1c0WlBZV0hMTW8yWEVOXzgwQkF3WXk3aFpnLTA3WFVhTl9ILUVETmV1WUExdHd6VUJXSkpYRDZwdkxqOGxlbC1lb2E4X1ZuOFDSAXxBVV95cUxOQkVkSXIzOHowWGdNY3NtdDJNd3VibmR1YzNJODc0RTgtTjZtbGUxNzNtRzNXNFpQWVdITE1vMlhFTl84MEJBd1l5N2haZy0wN1hVYU5fSC1FRE5ldVlBMXR3elVCV0pKWEQ2cHZMajhsZWwtZW9hOF9WbjhQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T23:22:22+00:00"
-          },
-          {
-            "title": "1,919 మంది ఖాతాల్లో.. కేంద్ర పింఛను నిధుల జమ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMeGYwZTdBVER5SHhxeGt1Mk9lWHZCNXlHeWJuN256QW1zbFpGOHo1THFBcS1fMTNCN1ZGTXJ0cFNSb05LV0xqNlB1ZHllZEFFb19nd2lFczR4WTc0eno1ZjdJUTQ5MGwtbWkxbGpHYVJjbFc1ZFViTmU5amnSAXxBVV95cUxQTHhmMGU3QVREeUh4cXhrdTJPZVh2QjV5R3libjduekFtc2xaRjh6NUxxQXEtXzEzQjdWRk1ydHBTUm9OS1dMajZQdWR5ZWRBRW9fZ3dpRXM0eFk3NHp6NWY3SVE0OTBsLW1pMWxqR2FSY2xXNWRVYk5lOWpp?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T23:20:53+00:00"
-          },
-          {
             "title": "పల్నాడులో ఇరువర్గాల ఘర్షణ.. ఐదుగురికి గాయాలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBR0ZMdjZ6bFZnS25JamxZbFp3WDVVOTZ6UE9aZXJZZzZ0UHEwaHAzcE5mQ1llY1NPWUJRWjhNN3ZTNm42b1M0aVRpcDdsX1J3Z2tZUHVyVXowSXZzZGJnY2VlUlZkNENXRWpFcURQTHLSAXBBVV95cUxQQUdGTHY2emxWZ0tuSWpsWWxad1g1VTk2elBPWmVyWWc2dFBxMGhwM3BOZkNZZWNTT1lCUVo4TTd2UzZuNm9TNGlUaXA3bF9Sd2drWVB1clV6MEl2c2RiZ2NlZVJWZDRDV0VqRXFEUExy?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T22:53:04+00:00"
-          },
-          {
-            "title": "Plastic Eating Bacteria: ప్లాస్టిక్‌ను తినేసే సరికొత్త బ్యాక్టీరియా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFc3U1NHejZEZnBpZmlHdUYtRXQ2a29USFFzb1FsczM4TU04eUtPVUlBYjdleUJadHU1XzRtOUpQMnluR2JGVTA0TENLdEp3TWJaNWk5ajNHTUx4UHczdkYyLUN2TFpBUkFKcGVxRXRfNHhhVG1PMHFqV0ZmMEZZLXBwemd0VHBRS1NwdXFXRzNaTnByM0NFU1lvVFJwR3EwMy1Mbl9DQXRHeTJQWW1GWUx1QmRZcExucVdONUw0ODQxOVAzSGVKNDVB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-29T22:51:35+00:00"
           },
           {
             "title": "NTR: ఫహాద్‌ నాకెన్నో సందర్భాల్లో స్ఫూర్తినిచ్చారు: ఎన్టీఆర్‌ - Eenadu",
@@ -1154,6 +1133,27 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-09-29T18:29:33+00:00"
+          },
+          {
+            "title": "సీజేపీకి ముంబై స్థానికులు బిగ్ షాక్.. శివాజీ పార్క్ లో నిరసనలకు నో పర్మిషన్..",
+            "link": "https://telugu.oneindia.com/news/india/cjp-called-for-massive-protests-shivaji-park-mumbai-on-october-2nd-locals-demanded-leave-the-park-508533.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T23:45:15+05:30"
+          },
+          {
+            "title": "పాకిస్థాన్ లోని ఆ రాష్ట్రంలో గవర్నర్ రూల్..? కారణం ఇదే..!",
+            "link": "https://telugu.oneindia.com/news/international/pakistan-sensitive-province-khyber-pakhtunkhwa-steps-towards-governors-rule-in-here-is-the-reason-508531.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-29T23:07:14+05:30"
+          },
+          {
+            "title": "Amaravati: అమరావతిలో శ్రీవారి ఆలయం నిర్మాణం ఇలా.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVdtZjZzRkNUaE93cC1LQ1ZsS1JpdllQWkF2NjBZdHlEVEZRRkFMY0lfaUNZenV5M3hsWUxsSWlYU0toQk1TZWRaMXlFVmhPUjRQWTRmTzlEX25PdWtHbkFCU2Fqdm9UUHNMSy1iNUtZRlRxWFNhcXdWMms5Y1pfemY0dFc0WUFZQTdQV0RLaVFKbl9MZ0VZQtIBmAFBVV95cUxOWVdtZjZzRkNUaE93cC1LQ1ZsS1JpdllQWkF2NjBZdHlEVEZRRkFMY0lfaUNZenV5M3hsWUxsSWlYU0toQk1TZWRaMXlFVmhPUjRQWTRmTzlEX25PdWtHbkFCU2Fqdm9UUHNMSy1iNUtZRlRxWFNhcXdWMms5Y1pfemY0dFc0WUFZQTdQV0RLaVFKbl9MZ0VZQg?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-09-29T17:34:10+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,21 +1426,28 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "হালিশহরে অগ্নিকাণ্ডে পুড়ে ছাই আস্ত বাড়ি, ব্যবসার সামগ্রী সরাতে গিয়ে আহত ১ - Anandabazar Patrika",
+            "title": "Food Habit | Bengalis will not tolerate interference with their food habits - anandabazar.com",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmkwSDVLakwzZTV5MUthQWNGa1V4ZFZWSFJDQ2RaMEM4T3R5UWJFV0FHamk5Zk9rNzNnOXRjM2FuR0loUVMxbExGZkR0V3o0d3lwcWd6ZlNSRjZ0cWtuXzhFZWpRREJtdFpOTWc3NFBxNVZ3eGx2Rk5TQUxObFpCTVF0Ukk1WllmZUZVZk9aeVQ0M1BET1UwZm1wZU0taVRFcmV5cFpUS1dYR09LbENIWlVOUFV6Nl9WbXcwT0FzT0FHQWU4b25vMA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-29T23:31:38+00:00"
+          },
+          {
+            "title": "হালিশহরে অগ্নিকাণ্ডে পুড়ে ছাই আস্ত বাড়ি, ব্যবসার সামগ্রী সরাতে গিয়ে আহত ১ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGtDZlpZRzBORU1aQkZ4LS14OU1zTGZiQ2xUYkdmSm91cXlTaU16bk51aHQxZkk2Wm5uejd4V3Z1dHlERlY3UlhlNzcxRjhZNUdqQkszc0dkQXdQOENhR3Z3MjdPVV9ub1ROZHBGbEM1elBzam1mTFZNcUlUaElLcEFPSmVtNFdWdEZqY2xhTDBBTE81d2tON1N1ZUNoRDBfYkHSAaIBQVVfeXFMTlhrQ2ZaWUcwTkVNWkJGeC0teDlNc0xmYkNsVGJHZkpvdXF5U2lNem5OdWh0MWZJNlpubno3eFd2dXR5REZWN1JYZTc3MUY4WTVHakJLM3NHZEF3UDhDYUd2dzI3T1Vfbm9UTmRwRmxDNXpQc2ptZkxWTXFJVGhJS3BBT0plbTRXVnRGamNsYUwwQUxPNXdrTjdTdWVDaEQwX2JB?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T19:52:47+00:00"
           },
           {
-            "title": "দুর্গাপুজোয় আর্থিক অনুদানের অঙ্ক বৃদ্ধির ঘোষণা করলেন বাংলাদেশের প্রধানমন্ত্রী তারেক, বাড়ল ছুটিও - Anandabazar Patrika",
+            "title": "দুর্গাপুজোয় আর্থিক অনুদানের অঙ্ক বৃদ্ধির ঘোষণা করলেন বাংলাদেশের প্রধানমন্ত্রী তারেক, বাড়ল ছুটিও - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObHJPS2xRdjFVajVJdVJrTFFYVUxKSFBRaDhPRV85b25ycmtQQXNZNkllcUZNNm5jY1ZmaG1sd1RlRExIT2ZkYzhMY3FUekR4T0dUTXBxUkdISzBpQk9IVXdsSVBtblRrNHlkMjhXRVVYTVlmRzhLQjhuTG5kVXhBMHRQZXpTWXB3MDlHa2VnN1FSTVVCczZZSnlvRUtOSk9MOVhBV3V4clZtRDhVelo2M1BVUDZpTEpPTV9DYWNRZjZtcmhyZ0gxNks4UEJzaWZLZXp2Vjk3cXJXVWxCenBHd3BzWWRxOExSdkRIM1hzalFJUFFEd0VCY1VjS2lNTXVoZHpEdE42RVJ3VEkyNTVPYdIBlgJBVV95cUxQbnJLVGNHLUxWTjRjeDd3bWMwWHBjV0lMcXN2eVgzTkdXUGpKTjlhUXV4R3RmWkNBbUVzc1hEalRQR2hRVTlldGpRTTlWbFRzV2NjUXhtUm1WV041dXJ1WXYzRE0tOTdTN1lidnNZS3RrR0w5b1VMaHVjcUF3NFpyZnVZWHYwd2FhTVVONTBtdEZBcWxvYTB2X3doZTE1eGVzbHlRWE95bEFpWjh6OGdBZ0VoaGw4R0pEeFFjY19iemFrd3dkWjJ4VWxweTktRXJZQVJ3Tk9fYTFCQWpsZ0tKczRueHRfVWp3ZkVfZUJfck1zZmxyTmh5N3oyaFBvMUo1R0M3T1FrT2t4YzR3UlhlYm55M2hsQQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T17:42:48+00:00"
           },
           {
-            "title": "সরকারি হাসপাতালে বেড নেই? মুশকিল আসানে কর্পোরেট! ন্যাশনালের রোগী যাবেন ঢাকুরিয়ায়, মেডিক্যাল থেকে সল্টলেক মণিপালে - Anandabazar Patrika",
+            "title": "সরকারি হাসপাতালে বেড নেই? মুশকিল আসানে কর্পোরেট! ন্যাশনালের রোগী যাবেন ঢাকুরিয়ায়, মেডিক্যাল থেকে সল্টলেক মণিপালে - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckc2YjltOVVxVUY3WUJMWFJfeFlMYm5oSWJWVzg5WnoyeW1tVGFKaGZDdURPYWlVMVUwdFRuZnBCU1gtaVlMTjJTOWtCQTlHVFExalNvaXczZFhZaldkNzc2V0hjQ2d2bFpSc1c4ZEZsX240WWJIM0djSlY1SnVmZm9ta2hFTGVXLVBzaU8ycjJnbHNsMmZRanpmZzViMGtQM1VrM3BjSXo2MGRCaGhNT090VV9Vc2VuOU9ITnB0VnlablnSAcgBQVVfeXFMT0N5Vy1Fc010V3VQTWNPb3diSlR3RVByQUpKaFhlbWVsN2VIeFhJX25TOFdzVERsUE10Vmd6dFduTWFsUTFJOE1sdkRtVkV0bDNxRGdpNHZhNmFoSGZFQWtVRDF1cGdwWGNkY3VZQ0M2VGJBTUZDNnlSaUdfeEEwblFOQjZ6LXpPSlgzSm1IeUU4cllJS1BRa3RuTFZjTmZVZkFzYk5QUFBOQVp5elJiTndkVE1HM0dyS25Ia3YwY1VKRndENnViYVk?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1461,28 +1468,28 @@
             "published": "2026-09-29T14:09:54+00:00"
           },
           {
-            "title": "অস্ট্রেলিয়াকে ৪ গোল দিয়ে ভারতে আসছেন ভিনিসিয়াসেরা, ব্রাজ়িলের ফুটবলারদের বিশেষ মর্যাদা রাজ্যের, সংবর্ধনায় থাকবেন মুখ্যমন্ত্রী - Anandabazar Patrika",
+            "title": "অস্ট্রেলিয়াকে ৪ গোল দিয়ে ভারতে আসছেন ভিনিসিয়াসেরা, ব্রাজ়িলের ফুটবলারদের বিশেষ মর্যাদা রাজ্যের, সংবর্ধনায় থাকবেন মুখ্যমন্ত্রী - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYWFUTlY5aTdXOWFwc0Z0Si1FcmRTMmpsSnFoTWRsUkRyT0R5dmV6WUtEdm9jRlhyb0Yxb3N6djJCZURBakhRaGpsUEtoejROSExhZU9adWlRc1JXZXZ6SVUxQms0UUE4VFNDNkJQY0s0Uy1MRmJ5TFRYWnBRZDBjUjE5aWttUUdYbzdRc1FhQXNVTWZVdUZTc25DOXZOZ2I3MTFQMTR1Rm40WG80UndLbFh6MmctUTBQVGhTQ2xfQTZVQVNIbFNSLXdLSUZUb21BNGNR0gHYAUFVX3lxTE5RTzNSVUpsbnhHc1BHYXRtbWFrRkU4cTBwZ0hrdWZ4cnRqZnJYNUpDbmd4YTFCaE5xb1BYUkJQMnBDdENjRHBOWGxoM0V2QmlJNWVWWnJVUUZvbDMwQ2RKUUVPSDcydU5nbG5Ua2cyd24xXzdDakhPWUZwQnF5WTI2UnJ6cm5oQXpkcmdtQ285UVk4eUREeUhtT1hIcXZObnphbXVCSldTd1JOdWVJa25qbE54QWpMRG94SVdGVVh0NkpKc0l3Zl84d05LN01GUmpXWjVCV0VEYQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T14:05:41+00:00"
           },
           {
-            "title": "মদের দোকানের লাইসেন্সবিধি বদল করল রাজ্য, বন্ধ দোকান খুলতে নতুন ব্যবস্থা, পুর অঞ্চলে বাড়ানো হল দূরত্বের সীমাও - Anandabazar Patrika",
+            "title": "মদের দোকানের লাইসেন্সবিধি বদল করল রাজ্য, বন্ধ দোকান খুলতে নতুন ব্যবস্থা, পুর অঞ্চলে বাড়ানো হল দূরত্বের সীমাও - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ2ZJQk4wZjN2NUMySG9SNmNTZXo3dmNnUmZ3QkJjc0pZenVEV0huQ1BpVlppUG05LXR6THkwVndUSXdzNUJyNDRJNDk0QVRjM25IX3VGMU01Z1BjSVVyVFFuODB1RnN2MklHcVIzdFJpcFM2YnBXWHROSkFJMk83Q0VNV3NENHN1bFBvdFNNWDJIWm9qOGMtQ19jSm9QakFUM3RpZXJzbllZSHJ2ajlIcWpfWkpoTnFfbFlDYUFNd2tfTklMYzNsVFBjcmZkbDBNMjRMVmlZWlNaNTE4RHJISXNqMlZQYXRIdVRPOEJIX0pYUi1mN09J0gH8AUFVX3lxTE9mTlVWSnhlOEJuZ3I0VEJxc0haMmhlaWdoZU9rdHl6ZHFkb1dHdXZZczJXdzZvQ1pFQ1UtbHA3N3dmOXo5Wnk0ZG1mb0I5SUNyMnRobEJMdElnTEVacHRqa2plQnlTbHloX0lLYnZhM0xHZVZiZGlVUDFHWndnUmJRX1BocXNGa1JMOU94SkJXbzhqZmMwa05zbG1tUE9nbjB2NVd4QXBGeXRXSERqVlVUYnZSdjN2MHd6YkhhSlFMREJjREU3ZW5USHY1VzZ0aW1qSEI3WmM1ME5nNHRPdTVzWmJPSjRMSDVwQVFZOXNpZV9qLUN0SmtYazVQUA?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T14:01:50+00:00"
           },
           {
-            "title": "দু’বছরের শিশুর শ্বাসনালিতে আটকে গিয়েছিল সুচ! কঠিন অস্ত্রোপচার বর্ধমান মেডিক্যাল কলেজে - Anandabazar Patrika",
+            "title": "দু’বছরের শিশুর শ্বাসনালিতে আটকে গিয়েছিল সুচ! কঠিন অস্ত্রোপচার বর্ধমান মেডিক্যাল কলেজে - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeUdGb2JjaHZaVGxHNWRCTmlGWm9WYmd4amV6WmU5R2ZLbkFuZW1ucHY2NkFLc2lBOHRjQTVnem1iSlh2QldDMkIwU3VFdXczYkdfM3JEckFNZGZVM3IzY1VQbkhibG5SaG9ta3VHbi1EOTJvRU1IT0xuX1JpWVhBSEYtdUFKZmtMRk1CM1ZRLWZLczNvY3FsVEtvWHY2Y0pDWEx1NDBSaVFia0FFRzA0R3paWTZkNVAyVjg0aXdlbjItOVFpT2pLVU93UlYxblV5SkRsMDViNGQwT3VLUXBVZjhleTJVU3puYVFiN2w0LVNJUXlaSXZjdGF1NU14bW9NeTdUVWZoWmJVZ1Nua2pmZHRNVlJaZ9IBmwJBVV95cUxPSjdFTXN3S2w4c3Z3M3pCUTRfVENrcVVrSFFucGJwUzZ6S3lWQUxNdnJidXNiV2tKdVpHdEhhakxDdld5Mk4wMGgxaGNyMGFpanJGWHVGMEgyVE9wMHAyRGg4Q0RVZUpNc1pQUDBZbVJIZXpEdzA3U3EtbEN5Z0xWOUlxUWI4MjF3NUJHNGxpSC1UdkhtLXRkZUY3V3lKRGs5RnpJeWNpQlVXNWZXNlg5VG5LZmE5WGZjY1dROU5vRmZ3Tmh2UDJGVTJ3d3BON2pkZHFuOVpRSWM2UUVjdjhCbUNmaXpwM19MQlZMRWhoTDUzT2NjQkdPWVBDMHlNZmIzb3VCdk1CdVZ4dGpSTy1lQkZPM3VzeUROVVhV?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T13:57:50+00:00"
           },
           {
-            "title": "এ তো ধ্বংসযজ্ঞ! ক্যানসারের ওষুধের খুচরো মূল্য পাইকারি দামের দশ গুণ, কেন্দ্রের জবাব চাইল উদ্বিগ্ন সুপ্রিম কোর্ট - Anandabazar Patrika",
+            "title": "এ তো ধ্বংসযজ্ঞ! ক্যানসারের ওষুধের খুচরো মূল্য পাইকারি দামের দশ গুণ, কেন্দ্রের জবাব চাইল উদ্বিগ্ন সুপ্রিম কোর্ট - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMFc0UWZDS2JsRDB3ZzNJa1JROEJYRkU2MWV5cnNPMGxwOVdyQ3EteDE0ajBwWGVtOHltSTdrSWJnRUViRURqbllsT0pSODZGbTBneWE5cVJoMzdUcjhaMXJWN2hLdlVMRDJILTdQYXR2TXo0akVKaFhDb2JlWVNHa1QtckdOVGhCQU11U1MzQTZ5S2hMajhVUERfTXVnbURlTjIwSGpSUVM5VnE5QjEwbjg5STZoaVljZ3hUVHdPbmJCY2tNcVlRa1pudjFmQjZfdVHSAdcBQVVfeXFMT00zRC1reTBoQVlORFBycUNJRWdldVZpcVctN0Z3MU5Uc3ZBeDVCNDZJVWhnaWp3dzlxSmdkM2JzQ0ZBV1FOTDdKeXBJdXJfWkkwQ3JQMlJ1R1hXMU5oUmhiQnMxZk45SHpSRnRGeU1vNFhYOC1qdzRMOXFDcExtelV3RjhiT2hnTUc4OURzdF9HSUZzcjlvRnBtWV9LUFhiWDZmTHRGUzNoY1UwblIyazQ5MEM5dzUtaTh0UFVOSm5Qck5YUGdDVVRoMzk3a19FeHhIaGVpeEk?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1496,18 +1503,11 @@
             "published": "2026-09-29T13:10:33+00:00"
           },
           {
-            "title": "৪x৪০০ রিলেতে মেয়েদের সোনা, ছেলেদের ব্রোঞ্জ, চমক মিক্সড ৪x১০০ রিলেতে, তিন পদকে উষাকে ছুঁলেন গুলবীর - Anandabazar Patrika",
+            "title": "৪x৪০০ রিলেতে মেয়েদের সোনা, ছেলেদের ব্রোঞ্জ, চমক মিক্সড ৪x১০০ রিলেতে, তিন পদকে উষাকে ছুঁলেন গুলবীর - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVHNHU2htejFTRDIzMFN6TjlqTGtUbEFDRnUxc3BfRHZsQmxrUUVoaUxDb2FMZWlpeFA2XzNxRW5BeGdwbzJRY3ZNT1pnM01GWUp1WWtWR3h5eG55Q3pYZDc2V1J1dXFFQUoyYmJsU18wdzc2NzFseS1jeTE2aUc2bWJIMFFYMGh3REk3REtuQkxodHRWa3psYmpNMl9tZzNoMVBMYXdZUTRfZV9ZVnRwdEVERWlRNFVGZ1BPX09jWUEzdUI0elRjYm1iZkpxVjZmMm1wSktielkycTV4SkHSAeMBQVVfeXFMUGtaeFBCTG9QX3VKWlJ4NUVFdVljdVFzaXp6SFgtd3Z4aVNqeWI5RHI3X2VrcmRPWDJyYUtHWmxCbTlqR3Nya0psbXY0R2pWbDF6WF9jVGFOVFU4WnFhenBzVTZkenNnT2xyZ2dkeWpqd2ZDNDRqV3NZejNkejRPTHl6TFZDZFVDQ3BwcXZzNjRWdHJmdm14TndTN2dzV2twcFdRcWVhOVdGWUZlTkp2ejFvMmxMUzU1THRnNDJjcUEyN2NaVGtta2hlZEd0UlFfVXRJUTQxNnZwbm1MRkFrYXZNbnc?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T13:03:23+00:00"
-          },
-          {
-            "title": "ব্রিটেনে আমেরিকার বায়ুসেনা ঘাঁটি থেকে গ্রেফতার পাঁচ জনকেই জামিন! আমেরিকার দাবি, হামলার ছক কষছিল বিদেশি রাষ্ট্র - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnQxcEtTQ1A4NkFMejBjMnhoWkMxNGtiaHlfWU5jcS1QYkFLU3gwcUlEUHhMWEJGa25nS1FkeVp5clZpbGpYVFNWYUl2Sl94NXVrOFpFckZqUUd1ODJWZmtfeF9zVE8tNDFzblhPODkyT2s5S2VJT2I2dm45ckFFRGtHX3hadEQ5V05Xd2FGOVZ4V29HSWVaeFB2Z1pXX21XTnNIOHdXcnBWeHpBMlpKcjIwak54OTVhTHFjTmJQRDBLRVRlTEJCM2w5RWZzc03SAdQBQVVfeXFMTlhiU183MTFBeTVVNFNXV1YxMHJEV3hmdHlkcWg4OXh5ODVxQW9meEVFVlg1R2dudVptbXBteXIyZU1NWE92T2VoZGQyd3djNXlTUVZxNnMxSGpzRmR1MDJIdDdQcFY1WmNIOTZFeF9fd2hWcWxUb0dmNllmZjZHYk1KQTRNbHNXLV9KcmhIc1RrSVZmYkxRSm9ReVNtMTBqN1Nodk5LWTYtdWF5UTdUbEpaeGw0Q2dPM2dDck5XZl81amlxdDg1S3JEQlNIVW9XMnNMNTY?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-29T12:54:11+00:00"
           }
         ]
       }
