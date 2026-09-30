@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-09-30T05:24:42.782880+00:00",
+  "updated_at": "2026-09-30T05:31:18.263589+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Household energy bills forecast to see biggest rise in four years",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+            "published": "2026-09-30T05:27:23+00:00"
+          },
+          {
+            "title": "Drop in donations puts community pantry at risk",
+            "link": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+            "published": "2026-09-30T05:25:52+00:00"
+          },
+          {
+            "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+            "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+            "published": "2026-09-30T05:24:52+00:00"
+          },
+          {
+            "title": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece",
+            "source": "The Hindu",
+            "summary": "Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter",
+            "published": "2026-09-30T10:52:03+05:30"
+          },
+          {
+            "title": "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/birth-centenary-of-poet-kannadasan-a-creative-mind-that-enriched-tamil-cinema-with-exquisite-philosophical-songs/article71524092.ece",
+            "source": "The Hindu",
+            "summary": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
+            "published": "2026-09-30T10:49:00+05:30"
+          },
           {
             "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
             "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
@@ -13,6 +48,13 @@
             "published": "2026-09-30T05:18:13+00:00"
           },
           {
+            "title": "126 hearings, 22 witnesses & 13 months: Verdict in Meerut 'blue drum' case likely today",
+            "link": "https://www.hindustantimes.com/india-news/verdict-in-meerut-blue-drum-case-likely-today-saurabh-rajput-muskan-rastogi-uttar-pradesh-101790745056893.html",
+            "source": "Hindustan Times",
+            "summary": "The case has seen 126 hearings and testimony from more than 22 witnesses.",
+            "published": "2026-09-30T10:47:56+05:30"
+          },
+          {
             "title": "‘He should better visit Bihar’: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
             "link": "https://www.thehindu.com/news/national/bihar/he-should-better-visit-bihar-minister-takes-a-dig-at-chirag-paswan-over-his-remarks-against-state-govt/article71524847.ece",
             "source": "The Hindu",
@@ -55,57 +97,36 @@
             "published": "2026-09-30T10:43:08+05:30"
           },
           {
-            "title": "Risks being taken with heating oil orders, firm says",
-            "link": "https://www.bbc.co.uk/news/articles/crd68d96zeq8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Customers in Berkshire and Hampshire are leaving it late to refill their tanks, an oil firm says.",
-            "published": "2026-09-30T05:08:19+00:00"
-          },
-          {
-            "title": "EAM Jaishankar warns of ‘major food crisis’ in coming months",
-            "link": "https://www.thehindu.com/news/national/eam-jaishankar-warns-ofmajor-food-crisis-in-coming-months/article71526595.ece",
-            "source": "The Hindu",
-            "summary": "\"We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea,\" S. Jaishankar said",
-            "published": "2026-09-30T10:35:09+05:30"
-          },
-          {
-            "title": "Bangladesh and Pakistan hope the sun keeps rising in Nisshin",
-            "link": "https://www.cricinfo.com/ci/content/story/1556540.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The forecast for semi-finals day in Nisshin is excellent; if that changes and there is no play, Pakistan will enter the final by virtue of their higher seeding",
-            "published": "2026-09-30T05:03:49+00:00"
-          },
-          {
-            "title": "Sensex rises 190 points in early trade after two days of losses",
-            "link": "https://www.thehindu.com/business/markets/sensex-rises-190-points-in-early-trade-after-two-days-of-losses/article71526807.ece",
-            "source": "The Hindu",
-            "summary": "The 30-share BSE Sensex advanced 190 points to 72,733.04 in early trade. The 50-share NSE Nifty was up 22 points to 22,735.20",
-            "published": "2026-09-30T10:33:02+05:30"
-          },
-          {
-            "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-            "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-            "published": "2026-09-30T05:02:50+00:00"
-          },
-          {
-            "title": "Congress workers booked for attempt to murder over ‘defacement’ of CEC Gyanesh Kumar’s Agra house",
-            "link": "https://www.thehindu.com/news/national/congress-workers-booked-for-attempt-to-murder-over-defacement-of-cec-gyanesh-kumars-agra-house/article71526795.ece",
-            "source": "The Hindu",
-            "summary": "Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers",
-            "published": "2026-09-30T10:31:05+05:30"
-          },
-          {
-            "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-            "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
-            "published": "2026-09-30T05:01:04+00:00"
+            "title": "Punjab Police set ball rolling to extradite 14 people from UK",
+            "link": "https://www.hindustantimes.com/india-news/punjab-police-set-ball-rolling-to-extradite-14-people-from-uk-101790744713097.html",
+            "source": "Hindustan Times",
+            "summary": "Following the SIT’s findings, warrants have been issued against all 14 passengers and the BOI has initiated extradition-related proceedings.",
+            "published": "2026-09-30T10:38:27+05:30"
           }
         ],
         "India": [
           {
+            "title": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece",
+            "source": "The Hindu",
+            "summary": "Court was considering a report filed by Sabarimala Special Commissioner R. Jayakrishnan on the matter",
+            "published": "2026-09-30T10:52:03+05:30"
+          },
+          {
+            "title": "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/birth-centenary-of-poet-kannadasan-a-creative-mind-that-enriched-tamil-cinema-with-exquisite-philosophical-songs/article71524092.ece",
+            "source": "The Hindu",
+            "summary": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet later turned spiritual.",
+            "published": "2026-09-30T10:49:00+05:30"
+          },
+          {
+            "title": "126 hearings, 22 witnesses & 13 months: Verdict in Meerut 'blue drum' case likely today",
+            "link": "https://www.hindustantimes.com/india-news/verdict-in-meerut-blue-drum-case-likely-today-saurabh-rajput-muskan-rastogi-uttar-pradesh-101790745056893.html",
+            "source": "Hindustan Times",
+            "summary": "The case has seen 126 hearings and testimony from more than 22 witnesses.",
+            "published": "2026-09-30T10:47:56+05:30"
+          },
+          {
             "title": "‘He should better visit Bihar’: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
             "link": "https://www.thehindu.com/news/national/bihar/he-should-better-visit-bihar-minister-takes-a-dig-at-chirag-paswan-over-his-remarks-against-state-govt/article71524847.ece",
             "source": "The Hindu",
@@ -148,6 +169,13 @@
             "published": "2026-09-30T10:43:08+05:30"
           },
           {
+            "title": "Punjab Police set ball rolling to extradite 14 people from UK",
+            "link": "https://www.hindustantimes.com/india-news/punjab-police-set-ball-rolling-to-extradite-14-people-from-uk-101790744713097.html",
+            "source": "Hindustan Times",
+            "summary": "Following the SIT’s findings, warrants have been issued against all 14 passengers and the BOI has initiated extradition-related proceedings.",
+            "published": "2026-09-30T10:38:27+05:30"
+          },
+          {
             "title": "EAM Jaishankar warns of ‘major food crisis’ in coming months",
             "link": "https://www.thehindu.com/news/national/eam-jaishankar-warns-ofmajor-food-crisis-in-coming-months/article71526595.ece",
             "source": "The Hindu",
@@ -160,37 +188,16 @@
             "source": "The Hindu",
             "summary": "The 30-share BSE Sensex advanced 190 points to 72,733.04 in early trade. The 50-share NSE Nifty was up 22 points to 22,735.20",
             "published": "2026-09-30T10:33:02+05:30"
-          },
-          {
-            "title": "Congress workers booked for attempt to murder over ‘defacement’ of CEC Gyanesh Kumar’s Agra house",
-            "link": "https://www.thehindu.com/news/national/congress-workers-booked-for-attempt-to-murder-over-defacement-of-cec-gyanesh-kumars-agra-house/article71526795.ece",
-            "source": "The Hindu",
-            "summary": "Congress city president Amit Singh said the case should have been limited to provisions relating to the protest, but police had invoked several \"false\" sections against the workers",
-            "published": "2026-09-30T10:31:05+05:30"
-          },
-          {
-            "title": "Senior journalist seeks to intervene in legislative privilege versus free speech case",
-            "link": "https://www.thehindu.com/news/national/senior-journalist-seeks-to-intervene-in-legislative-privilege-versus-free-speech-case/article71526758.ece",
-            "source": "The Hindu",
-            "summary": "“Legislative privileges and fundamental rights do not operate in separate, watertight compartments, but must be read together, harmoniously, to give full effect to the constitutional scheme of democratic governance,” the application submitted",
-            "published": "2026-09-30T10:30:42+05:30"
-          },
-          {
-            "title": "Why rare-disease drugs could become India’s next pharma frontier",
-            "link": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
-            "source": "The Hindu",
-            "summary": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector",
-            "published": "2026-09-30T10:30:32+05:30"
-          },
-          {
-            "title": "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
-            "link": "https://www.thehindu.com/news/national/karnataka/mammoth-protest-at-kittur-chennamma-circle-by-sugarcane-farmers-farmers-agree-for-talk-at-delhi-with-joshi-after-intervention-by-mlas-tenginakai-patil/article71524508.ece",
-            "source": "The Hindu",
-            "summary": "Thousands of sugarcane growers from across Karnataka and neighbouring Maharashtra and Telangana staged a massive protest at Kittur Chennamma Circle in Hubballi on Tuesday, demanding remunerative prices for sugarcane and a revision of the minimum selling price (MSP) of sugar. After appeal by union minister Pralhad Joshi, intervention by local legislators they agree for talks at Delhi, withdraw protest",
-            "published": "2026-09-30T10:26:21+05:30"
           }
         ],
         "World": [
+          {
+            "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+            "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+            "published": "2026-09-30T05:24:52+00:00"
+          },
           {
             "title": "Girl has multiple surgeries to control infections after strike in Gaza",
             "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
@@ -255,13 +262,6 @@
             "published": "2026-09-30T03:53:39+00:00"
           },
           {
-            "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-            "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-            "published": "2026-09-30T03:38:09+00:00"
-          },
-          {
             "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
             "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -277,6 +277,20 @@
           }
         ],
         "Business": [
+          {
+            "title": "Household energy bills forecast to see biggest rise in four years",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+            "published": "2026-09-30T05:27:23+00:00"
+          },
+          {
+            "title": "Drop in donations puts community pantry at risk",
+            "link": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+            "published": "2026-09-30T05:25:52+00:00"
+          },
           {
             "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
             "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
@@ -346,20 +360,6 @@
             "source": "Economic Times",
             "summary": "During the initial nine months of 2026, investment banks generated fees totaling ₹2,274 crore by managing 81 mainboard IPOs. This figure showcases a notable uptick in both earnings and amounts raised versus last year. The September quarter alone yielded around ₹1,600 crore, highlighting a remarkable rebound in the primary market.",
             "published": "2026-09-30T05:40:23+05:30"
-          },
-          {
-            "title": "Chinese AI tool told researchers how to make bioweapons",
-            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-            "published": "2026-09-29T23:15:29+00:00"
-          },
-          {
-            "title": "The start-ups hoping to return battery making to the US",
-            "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-            "published": "2026-09-29T23:06:50+00:00"
           }
         ],
         "Sports": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "पश्चिम बंगाल की वोटर लिस्ट में नाम वापस जुड़वाने के लिए कैसे काम कर रहे हैं ट्रिब्यूनल?",
+            "link": "https://www.bbc.com/hindi/articles/cj1dlvel47zqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-09-30T05:28:51+00:00"
+          },
+          {
             "title": "जमुई-समस्तीपुर के बाद अब गया में शर्मसार करने वाली करतूत! मोरल पुलिसिंग के नाम पर कपल से बदसलूकी",
             "link": "https://hindi.oneindia.com/news/bihar/gaya-sherghati-moral-policing-viral-video-couple-harassed-hilltop-police-probe-1658545.html",
             "source": "Oneindia Hindi",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-09-30T04:05:20+00:00"
-          },
-          {
-            "title": "यूपी: अपने ही वोट बैंक को बचाने की भाजपा को लड़नी होगी जंग, अखिलेश यादव का ये नया जातीय गणित होगी बड़ी परीक्षा",
-            "link": "https://www.amarujala.com/uttar-pradesh/akhilesh-yadav-new-caste-arithmetic-will-be-major-test-sp-will-place-its-bets-on-brahmins-non-dalit-jatavs-2026-09-30",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-09-30T09:35:12+05:30"
           }
         ],
         "Entertainment": [
@@ -1107,13 +1107,6 @@
             "published": "2026-09-30T10:23:17+05:30"
           },
           {
-            "title": "EB-5 Green Card: ఈబీ-5 గ్రీన్‌కార్డు ఫీజులపై ‘డబుల్‌’ షాక్‌.. భారతీయులపై ఎఫెక్ట్‌ - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0hGU2lMLXNFa1ZQb1dhaHduend5c0VCNjlISlV0YmpoajlfQU5DMTduaHZFRThaVTF1bjVUVDBwRjdIa2JpRlNLUk84NXE5SzZmVmN3QTVGbXA2dEJSdkw4SWJVTHZZT2FxeW9XY1R0emVpYzhzVmpHNElVUm5ocUp0bklzSzlrdHpJOWdn0gGOAUFVX3lxTE1rSEZTaUwtc0VrVlBvV2Fod256d3lzRUI2OUhKVXRiamhqOV9BTkMxN25odkVFOFpVMXVuNVRUMHBGN0hrYmlGU0tSTzg1cTlLNmZWY3dBNUZtcDZ0QlJ2TDhJYlVMdllPYXF5b1djVHR6ZWljOHNWakc0SVVSbmhxSnRuSXNLOWt0ekk5Z2c?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-09-30T04:42:52+00:00"
-          },
-          {
             "title": "ఆధార్ ఉంటే చాలు - రూ 35కే కిలో ఉల్లి..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-govt-to-sell-onions-at-35-per-kg-in-vijayawada-rythu-bazaars-to-expand-across-the-state-soon-508557.html",
             "source": "Oneindia Telugu",
@@ -1149,14 +1142,28 @@
             "published": "2026-09-30T03:08:34+00:00"
           },
           {
-            "title": "మీ గుండె బతకాలయ్యా - eenadu.net",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUU1qand6YUlrUnFoVTU3RmpGT2Y0RzE5MDItT1psWEhCM3NVd0FJQUpzZFlFT2hORHJ1SVFDR3h4R0NNdWU4ZURCODd3c1c2dzZHcnRtbkpzZTJCWWQ1dFV2dUZCQi0wVnoyWkZWSlNZdjIzM2hhRTd6WC3SAXxBVV95cUxQS1FNamp3emFJa1JxaFU1N0ZqRk9mNEcxOTAyLU9abFhIQjNzVXdBSUFKc2RZRU9oTkRydUlRQ0d4eEdDTXVlOGVEQjg3d3NXNnc2R3J0bW5Kc2UyQllkNXRVdnVGQkItMFZ6MlpGVkpTWXYyMzNoYUU3elgt?oc=5",
+            "title": "ఏఐ పేరును పూర్తిగా మార్చేసిన ట్రంప్. వైట్‌హౌస్‌లో కొత్త నామకరణం..",
+            "link": "https://telugu.oneindia.com/news/international/us-president-donald-trump-renames-artificial-intelligence-to-super-intelligence-during-white-house-m-508541.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-30T08:20:58+05:30"
+          },
+          {
+            "title": "Asian Games 2026: అదరగొట్టిన ఆర్చరీ టీమ్‌.. ఆసియా క్రీడల్లో తెలుగు అమ్మాయిలకు స్వర్ణం - eenadu.net",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRSZFY4V2Z0UjJlNVpUSlFWYmlJQXN1VFd0d0pGZ0VjS3I1eTFiVmdDbV9ibXpLQmQ5Wk5kT0MySjU0SEN1WS1DbGtjaGk4NG9RN2ZYSFJUWE0tWTBYbkhmaU9TdkRKd3ZweVpiZFNkRkVTV05EX3NQejJ2TmExUGtDSXRzWU1PSno3QmlkeDF0YVBETm1GRE5Lc055bW9sTmozREl30gGmAUFVX3lxTE9PNFJkVjhXZnRSMmU1WlRKUVZiaUlBc3VUV3R3SkZnRWNLcjV5MWJWZ0NtX2JtektCZDlaTmRPQzJKNTRIQ3VZLUNsa2NoaTg0b1E3ZlhIUlRYTS1ZMFhuSGZpT1N2REp3dnB5WmJkU2RGRVNXTkRfc1B6MnZOYTFQa0NJdHNZTU9KejdCaWR4MXRhUERObUZETktzTnltb2xOajNESXc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-09-30T02:56:00+00:00"
+            "published": "2026-09-30T02:43:03+00:00"
           }
         ],
         "Entertainment": [
+          {
+            "title": "నా కోసం ఏ కుటుంబం కూడా నిలబడలేదు: ఎన్టీఆర్ ఆవేదన",
+            "link": "https://telugu.oneindia.com/entertainment/jr-ntr-made-emotional-comments-no-family-was-there-for-me-recalls-actor-at-dont-trouble-the-troub-508567.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-09-30T10:56:58+05:30"
+          },
           {
             "title": "గుండెను తాకే మెలోడీ.. మ్యూజిక్ లవర్స్‌కు ట్రీట్!",
             "link": "https://telugu.oneindia.com/entertainment/first-single-rubaru-released-from-jai-hind-jai-sindh-movie-a-soulful-melody-full-details-here-508559.html",
@@ -1233,13 +1240,6 @@
             "source": "Oneindia Telugu",
             "summary": "ప్రముఖ నటుడు కార్తీ నటించిన స్పై యాక్షన్ థ్రిల్లర్ 'సర్దార్ 2' సినిమా విడుదలైన కొద్ది రోజుల్లోనే ఓటీటీ వేదికపైకి రానుంది. ఈ సినిమా థియేటర్లలో విడుదలైన మూడు వారాలకే ఓటీటీలో స్ట్రీమింగ్ కాబోతుండటం అభిమానులను ఆశ్చర్యపరుస్తోంది. అక్టోబర్ 1వ తేదీ నుంచి ప్రముఖ ఓటీటీ సంస్థ 'అమెజాన్ ప్రైమ్'లో ఈ సినిమా అందుబాటులోకి రానుంది. స్పై యాక్షన్ సినిమాలకు తెలుగు, తమిళ రాష్ట్రాల్లో మంచి క్రేజ్ ఉండటంతో, డిజిటల్ ప్లాట్ ఫామ్ పై కూడా ఈ మూవీ రికార్డు స్థాయి వ్యూస్ సాధిస్తుందని అంచనా వేస్తున్నారు. థియేటర్లకు వెళ్లలేని సినీ ప్రేక్షకులు, ఇంట్లోనే కూర్చుని ఈ థ్రిల్లర్ ను వీక్షించే అవకాశం దక్కనుంది. అక్టోబర్ ప్రారంభంలోనే ఈ సినిమా డిజిటల్ విడుదలకు సిద్ధం కావడంతో, అభిమానులు పండుగ చేసుకుంటున్నారు. సర్దార్ మొదటి భాగం ప్రేక్షకులను బాగా అలరించిన నేపథ్యంలో, రెండో భాగంపై ఉన్న అంచనాలు డిజిటల్ వ్యూయర్ షిప్ ను పెంచే అవకాశం ఉంది. ఈ వేగవంతమైన ఓటీటీ విడుదల ధోరణి సినిమాల వ్యాపారంలో కొత్త మార్పులకు నిదర్శనంగా నిలుస్తోంది.",
             "published": "2026-09-28T19:11:37+05:30"
-          },
-          {
-            "title": "ప్రెగ్నెన్సీలోనూ సమంత రిస్క్... సామ్ ఎనర్జీ నెక్ట్స్‌ లెవల్‌ అంతే!",
-            "link": "https://telugu.oneindia.com/entertainment/samantha-ruth-prabhu-plays-pickleball-with-raj-nidimoru-during-pregnancy-video-goes-viral-508359.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-09-28T19:00:46+05:30"
           }
         ]
       }
@@ -1489,13 +1489,6 @@
             "published": "2026-09-30T00:53:51+00:00"
           },
           {
-            "title": "হস্তক্ষেপ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmkwSDVLakwzZTV5MUthQWNGa1V4ZFZWSFJDQ2RaMEM4T3R5UWJFV0FHamk5Zk9rNzNnOXRjM2FuR0loUVMxbExGZkR0V3o0d3lwcWd6ZlNSRjZ0cWtuXzhFZWpRREJtdFpOTWc3NFBxNVZ3eGx2Rk5TQUxObFpCTVF0Ukk1WllmZUZVZk9aeVQ0M1BET1UwZm1wZU0taVRFcmV5cFpUS1dYR09LbENIWlVOUFV6Nl9WbXcwT0FzT0FHQWU4b25vMA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-09-29T23:31:38+00:00"
-          },
-          {
             "title": "হালিশহরে অগ্নিকাণ্ডে পুড়ে ছাই আস্ত বাড়ি, ব্যবসার সামগ্রী সরাতে গিয়ে আহত ১ - Anandabazar",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGtDZlpZRzBORU1aQkZ4LS14OU1zTGZiQ2xUYkdmSm91cXlTaU16bk51aHQxZkk2Wm5uejd4V3Z1dHlERlY3UlhlNzcxRjhZNUdqQkszc0dkQXdQOENhR3Z3MjdPVV9ub1ROZHBGbEM1elBzam1mTFZNcUlUaElLcEFPSmVtNFdWdEZqY2xhTDBBTE81d2tON1N1ZUNoRDBfYkHSAaIBQVVfeXFMTlhrQ2ZaWUcwTkVNWkJGeC0teDlNc0xmYkNsVGJHZkpvdXF5U2lNem5OdWh0MWZJNlpubno3eFd2dXR5REZWN1JYZTc3MUY4WTVHakJLM3NHZEF3UDhDYUd2dzI3T1Vfbm9UTmRwRmxDNXpQc2ptZkxWTXFJVGhJS3BBT0plbTRXVnRGamNsYUwwQUxPNXdrTjdTdWVDaEQwX2JB?oc=5",
             "source": "Anandabazar Patrika",
@@ -1508,6 +1501,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-09-29T17:42:48+00:00"
+          },
+          {
+            "title": "সরকারি হাসপাতালে বেড নেই? মুশকিল আসানে কর্পোরেট! ন্যাশনালের রোগী যাবেন ঢাকুরিয়ায়, মেডিক্যাল থেকে সল্টলেক মণিপালে - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckc2YjltOVVxVUY3WUJMWFJfeFlMYm5oSWJWVzg5WnoyeW1tVGFKaGZDdURPYWlVMVUwdFRuZnBCU1gtaVlMTjJTOWtCQTlHVFExalNvaXczZFhZaldkNzc2V0hjQ2d2bFpSc1c4ZEZsX240WWJIM0djSlY1SnVmZm9ta2hFTGVXLVBzaU8ycjJnbHNsMmZRanpmZzViMGtQM1VrM3BjSXo2MGRCaGhNT090VV9Vc2VuOU9ITnB0VnlablnSAcgBQVVfeXFMT0N5Vy1Fc010V3VQTWNPb3diSlR3RVByQUpKaFhlbWVsN2VIeFhJX25TOFdzVERsUE10Vmd6dFduTWFsUTFJOE1sdkRtVkV0bDNxRGdpNHZhNmFoSGZFQWtVRDF1cGdwWGNkY3VZQ0M2VGJBTUZDNnlSaUdfeEEwblFOQjZ6LXpPSlgzSm1IeUU4cllJS1BRa3RuTFZjTmZVZkFzYk5QUFBOQVp5elJiTndkVE1HM0dyS25Ia3YwY1VKRndENnViYVk?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-09-29T16:52:12+00:00"
           }
         ]
       }
