@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:23:36.749148+00:00",
+  "updated_at": "2026-10-03T01:31:18.172476+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -13,10 +13,17 @@
             "published": "2026-10-03T06:43:09+05:30"
           },
           {
+            "title": "Officer flagged by ECs Sukhbir Sandhu, Vivek Joshi to cabinet secretary oversees poll panel’s IT wing",
+            "link": "https://www.hindustantimes.com/india-news/officer-flagged-by-ecs-sukhbir-sandhu-vivek-joshi-to-cabinet-secretary-oversees-poll-panel-s-it-wing-101790985500001.html",
+            "source": "Hindustan Times",
+            "summary": "Letters to cabinet secretary TV Somanathan said Garg’s move to alter the routing of DG (IT) Seema Khanna’s files undermined an established layer of scrutiny.",
+            "published": "2026-10-03T06:38:13+05:30"
+          },
+          {
             "title": "5 Indians rescued after Kuwait-flagged tanker hit by projectile in Strait of Hormuz",
             "link": "https://www.hindustantimes.com/india-news/5-indians-rescued-after-kuwait-flagged-tanker-hit-by-projectile-in-strait-of-hormuz-mt-kazimah-iii-101790988733698.html",
             "source": "Hindustan Times",
-            "summary": "The Indian embassy also thanked Omani authorities for their support and assistance in carrying out the rescue operation.",
+            "summary": "Five Indian nationals were rescued from the Kuwait-flagged tanker MT Kazimah III after it was hit by a projectile in the Strait of Hormuz.",
             "published": "2026-10-03T06:31:45+05:30"
           },
           {
@@ -95,13 +102,6 @@
             "source": "Al Jazeera",
             "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.",
             "published": "2026-10-02T23:43:50+00:00"
-          },
-          {
-            "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-            "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-            "published": "2026-10-02T23:37:13+00:00"
           }
         ],
         "India": [
@@ -113,10 +113,17 @@
             "published": "2026-10-03T06:43:09+05:30"
           },
           {
+            "title": "Officer flagged by ECs Sukhbir Sandhu, Vivek Joshi to cabinet secretary oversees poll panel’s IT wing",
+            "link": "https://www.hindustantimes.com/india-news/officer-flagged-by-ecs-sukhbir-sandhu-vivek-joshi-to-cabinet-secretary-oversees-poll-panel-s-it-wing-101790985500001.html",
+            "source": "Hindustan Times",
+            "summary": "Letters to cabinet secretary TV Somanathan said Garg’s move to alter the routing of DG (IT) Seema Khanna’s files undermined an established layer of scrutiny.",
+            "published": "2026-10-03T06:38:13+05:30"
+          },
+          {
             "title": "5 Indians rescued after Kuwait-flagged tanker hit by projectile in Strait of Hormuz",
             "link": "https://www.hindustantimes.com/india-news/5-indians-rescued-after-kuwait-flagged-tanker-hit-by-projectile-in-strait-of-hormuz-mt-kazimah-iii-101790988733698.html",
             "source": "Hindustan Times",
-            "summary": "The Indian embassy also thanked Omani authorities for their support and assistance in carrying out the rescue operation.",
+            "summary": "Five Indian nationals were rescued from the Kuwait-flagged tanker MT Kazimah III after it was hit by a projectile in the Strait of Hormuz.",
             "published": "2026-10-03T06:31:45+05:30"
           },
           {
@@ -181,13 +188,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-10-03T03:08:26+05:30"
-          },
-          {
-            "title": "India standardises names of 28 places in Ladakh",
-            "link": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece",
-            "source": "The Hindu",
-            "summary": "The list in Ladakh includes 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake and one other water body",
-            "published": "2026-10-03T02:56:57+05:30"
           }
         ],
         "World": [
@@ -811,7 +811,7 @@
             "published": "2026-10-03T01:09:24+00:00"
           },
           {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:એશિયાડ- 44 વર્ષ પછી વુમન્સ હોકીમાં ગોલ્ડ; પાયલોટ સ્મિત બોલ્યા- હનુમાન ચાલીસા બોલીને કોકપિટ ખોલ્યું; બેકાબૂ AIની 100 સંસ્થાઓમાં ઘૂસણખોરી",
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:કેપ્ટન સ્મિત મચ્છર રડી પડ્યા-દીકરી જોઇ ના શકી, મુંબઇથી કોકરોચ પાર્ટીનું સરકારને નવું અલ્ટિમેટમ, એશિયાડમાં 44 વર્ષ પછી વુમન્સ હોકીમાં ગોલ્ડ",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-gujarat-ucc-law-aravalli-malpur-police-encounter-139225544.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -1072,18 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "భారత హాకీ మాజీ కెప్టెన్‌ పర్గత్‌కు పంజాబ్‌ కాంగ్రెస్‌ పగ్గాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSEZjZTRyOFo3VzhuZlZFamZJZW1xazhNR3JpcTNsMG1NWTNLY3U2LUFXSEU4SEZ6cm1laGJMRUE0MlBjTXFCTEFKNk1lel9JUVVjYTdyWmZhVWNDZXBRX2s1N19aUXVSTFV1NHAxT1rSAXBBVV95cUxNS0hGY2U0cjhaN1c4bmZWRWpmSWVtcWs4TUdyaXEzbDBtTVkzS2N1Ni1BV0hFOEhGenJtZWhiTEVBNDJQY01xQkxBSjZNZXpfSVFVY2E3clpmYVVjQ2VwUV9rNTdfWlF1UkxVdTRwMU9a?oc=5",
-            "source": "Eenadu",
+            "title": "తిరుపతిలో ఇంకాస్సేపట్లో టీటీడీ భారీ కార్యక్రమం",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/pindi-deepa-mahotsavam-begins-today-in-tirupati-devotees-line-up-for-alipiri-padala-mandapam-darshan-508987.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-10-03T00:20:06+00:00"
+            "published": "2026-10-03T06:59:34+05:30"
           },
           {
-            "title": "ట‘మాట’ రూ.93 వేలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xdmFYdF9WUjJiZVNPazR1ekdIZlgxZHdCRFE3NXFzYS1yX0c0d3NUdVhaX2RXMUpqWEp0NmZVSGZUQkhqR1dfa1RsVGFSTXlCT3pIU3R1RHBCVHB2c1dQWmxnYXA0NWpzZXpOcFk0UWNCZTNhQ1JUeTdyVm4?oc=5",
+            "title": "అమిత్ షా రాజీనామా చేయాల్సిందే! హోంమంత్రికి కాక్రోచ్ సీరియస్ వార్నింగ్",
+            "link": "https://telugu.oneindia.com/news/india/cjp-protests-over-sir-exercise-demand-cec-gyanesh-kumar-resignation-and-threaten-direct-protests-to-508985.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-03T06:56:30+05:30"
+          },
+          {
+            "title": "భలేగుంది బాంబూ బైౖసికిల్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfeEJmS1Zfb1llSndzYTBxQjlLN2M2eXFSZDRJOXY1V0p4UnJyS3RLS215dHlqRlBPZTdTSlJZdl9VWU5GVm9MWDJCd181MjVTdnU1ZkhodlJMdi02M2dDdkF5Z2xXbzNxSFJXTTg2c3nSAXBBVV95cUxQX3hCZktWX29ZZUp3c2EwcUI5SzdjNnlxUmQ0STl2NVdKeFJyckt0S0tteXR5akZQT2U3U0pSWXZfVVlORlZvTFgyQndfNTI1U3Z1NWZIaHZSTHYtNjNnQ3ZBeWdsV28zcUhSV004NnN5?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-03T00:15:12+00:00"
+            "published": "2026-10-03T00:28:26+00:00"
+          },
+          {
+            "title": "మీ ఇంట్లో ఇలాంటి మార్పులు చేయండి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WWXZOQjRncFFzLXZ1V2kzeXItT1VHdlhVby1TNHRnVjZCRmMwTDVwUndTbDVGYl9OQlVKZTBaLUtnN2NpVld1SFBvRXZ5aU5vcTZnMktnQVFfOFpXVDdRVHVXY0R2eUcxTGZGbEJUQVTSAXBBVV95cUxNVll2TkI0Z3BRcy12dVdpM3lyLU9VR3ZYVW8tUzR0Z1Y2QkZjMEw1cFJ3U2w1RmJfTkJVSmUwWi1LZzdjaVZXdUhQb0V2eWlOb3E2ZzJLZ0FRXzhaV1Q3UVR1V2NEdnlHMUxmRmxCVEFU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-03T00:20:40+00:00"
+          },
+          {
+            "title": "గాజాపై పోస్టులు పెట్టే రాహుల్‌ పైలట్‌ను మెచ్చుకోరా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NR2Y5eXhfZHdQUjUtbU1Bc1p1UHpqMUFtTGlUSUNackxvRzgzUlY4WmU1ZkZmQ0kySjdOdzloWllySFJtdm9FcU1ZSDg2SmloczFSRTJ4WDc5RWNVR0htV0VhdXlMNmZqQzdRLVpaRUbSAXBBVV95cUxOTUdmOXl4X2R3UFI1LW1NQXNadVB6ajFBbUxpVElDWnJMb0c4M1JWOFplNWZGZkNJMko3Tnc5aFpZckhSbXZvRXFNWUg4NkppaHMxUkUyeFg3OUVjVUdIbVdFYXV5TDZmakM3US1aWkVG?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-03T00:17:18+00:00"
+          },
+          {
+            "title": "భాజపాతో స్నేహానికిదే మంచి తరుణం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wSG1ZYWRJb29WX1hWbG5SNDRBcWVHOE9oZC1XWGk2dnh1djd6bGh2MkpQOWNXUVUyY3VsaWFvNDZlWEctVUFaYUszX0xtdnVRTjhPNTBMTFR2QkROUU9rUGtvTUVjbkhSR0F5ZjhnQ0nSAXBBVV95cUxPMEhtWWFkSW9vVl9YVmxuUjQ0QXFlRzhPaGQtV1hpNnZ4dXY3emxodjJKUDljV1FVMmN1bGlhbzQ2ZVhHLVVBWmFLM19MbXZ1UU44TzUwTExUdkJETlFPa1Brb01FY25IUkdBeWY4Z0NJ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-03T00:15:32+00:00"
           },
           {
             "title": "నాడు ఛీఛీ.. నేడు దారులన్నీ సీసీ - Eenadu",
@@ -1114,46 +1142,18 @@
             "published": "2026-10-02T23:41:27+00:00"
           },
           {
-            "title": "ఏపీని అగ్రస్థానంలో నిలపడమే మా లక్ష్యం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUVV6X2N0M05uVnJLcC1XdWZ5eGdpTm8wWjBMM1Q0aUJEMWdVeTl2QjFoU21VOFF3RzdkdWZya0JJemlxS2J6alo4R2ZMV01sSm1kajhRcm5qTW1hSGdrMFpla0hPTC1vWVFPVmU2QUNnTUJrVmpVYXFzWWTSAXxBVV95cUxOZ1FVel9jdDNOblZyS3AtV3VmeXhnaU5vMFowTDNUNGlCRDFnVXk5dkIxaFNtVThRd0c3ZHVmcmtCSXppcUtiempaOEdmTFdNbEptZGo4UXJuak1tYUhnazBaZWtIT0wtb1lRT1ZlNkFDZ01Ca1ZqVWFxc1lk?oc=5",
+            "title": "శ్రీవారిని దర్శించుకున్న హైకోర్టు న్యాయమూర్తులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aEVjSFR2am9PdGlabEc3QjltSHgyV0pCWXpVM2JzcTAxdFRzcU9lNlJvSE5XSDlDdnBYWFM2Y09PanY1Sk5Kb2tPSUlKdVRaNWpxVDVVQ004Mnc0YXdyOHEydTZreXVCWlBkdm5lT2xES0s1bm5fZjBqLTLSAXxBVV95cUxNNWhFY0hUdmpvT3RpWmxHN0I5bUh4MldKQll6VTNic3EwMXRUc3FPZTZSb0hOV0g5Q3ZwWFhTNmNPT2p2NUpOSm9rT0lJSnVUWjVqcVQ1VUNNODJ3NGF3cjhxMnU2a3l1QlpQZHZuZU9sREtLNW5uX2Ywai0y?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-02T23:38:21+00:00"
+            "published": "2026-10-02T23:38:10+00:00"
           },
           {
-            "title": "నోటిఫికేషన్స్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1meFJvanhTcnVxa1d6R28wQkhjQjB3cGFZV2dibGV0M0U1bmNyMWxSbUpYWEJaVENraHhnRzhlTWJ2YktXdU9nVVNHZHEtc053aUloQ3FPZWlkSncycWtyUUNaR2MtSmNOQmVnVlRCbDVFRlFpRUEyeUtn0gF6QVVfeXFMTWZ4Um9qeFNydXFrV3pHbzBCSGNCMHdwYVlXZ2JsZXQzRTVuY3IxbFJtSlhYQlpUQ2toeGdHOGVNYnZiS1d1T2dVU0dkcS1zTndpSWhDcU9laWRKdzJxa3JRQ1pHYy1KY05CZWdWVEJsNUVGUWlFQTJ5S2c?oc=5",
+            "title": "మళ్లీ నిరాశే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hLUQ5dHU3ZUdCRi0tcFdSZDlmS1Y5c19RZ29LaklqaF95MzViWGdOZURyYnBYYXllWWZmTkU5V2ZUU2ZqTkdseldQQ0o4RlZpNnlDcGRwcEdBVkhaUEljNVVwRlE3T1Z3NUEtRklGTzNhZ0p2TlpfOURwSGdvZw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-02T23:29:25+00:00"
-          },
-          {
-            "title": "సౌకర్యమంటూ నీతులు.. వీధి వీధినా గోతులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWFlOW1VdEVLSG5VNmt4TExYUFZGTVVSU1RTcDJoalJBUGNkcG1lVjlhX3JEeE4xSDU4NVA0OHF3ZUdzQUtFSC1BZ1JOZHZHUjNHX0ZyX3g5SGc5VzV3b0RJY1hEZk91aHV1MTBobHlFTVAxMS1EcmFMckFlYWZiNTB3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-02T23:19:16+00:00"
-          },
-          {
-            "title": "ఓటమిని జీర్ణించుకోలేకే ఈసీపై కాంగ్రెస్‌ ఆరోపణలు: కె.లక్ష్మణ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oNFg5MHVSU284eG9GVEVxM0JLZTBDc3g0LVp6U1IzVXJXaElJTGxJVUQwcDNmc0NreEI2ZmVxNGo2NzZxQnVvbk51Y3JkU3J6WXlIUVloOTA4SjNFVENtQVBvOEpvU3lEalowbGx5bm92bU1LVEHSAXZBVV95cUxPaDRYOTB1UlNvOHhvRlRFcTNCS2UwQ3N4NC1aelNSM1VyV2hJSUxsSVVEMHAzZnNDa3hCNmZlcTRqNjc2cUJ1b25OdWNyZFNyell5SFFZaDkwOEozRVRDbUFQbzhKb1N5RGpaMGxseW5vdm1NS1RB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-02T23:09:46+00:00"
-          },
-          {
-            "title": "Viveka murder case: 14న విచారణకు రండి.. వివేకా హత్య కేసులో అవినాష్‌రెడ్డికి ఈడీ నోటీసులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGt2elg5Rmt6S2xuN043R1V1ajA3UGpqdktaZ0J3R05ucFpqSTJOYW5fMFVQWWcyNlZaZ3BUTmlxekoyOF9ucmdNclV5aWhnMG9ZaXIxRjUxaXJUNUhBd2pETWpRWm44elpKWlRtckdEenBnalVaNnpnaXp0OS1LdElRbjBDSGdzbU5KWnFhc29McmRwRVVsUmtQYlBQNmVqS0ZidHhzM2VvdmFVTklUY1diQmfSAbQBQVVfeXFMT3RrdnpYOUZrektsbjdON0dVdWowN1BqanZLWmdCd0dObnBaakkyTmFuXzBVUFlnMjZWWmdwVE5pcXpKMjhfbnJnTXJVeWloZzBvWWlyMUY1MWlyVDVIQXdqRE1qUVpuOHpaSlpUbXJHRHpwZ2pVWjZ6Z2l6dDktS3RJUW4wQ0hnc21OSlpxYXNvTHJkcEVVbFJrUGJQUDZlaktGYnR4czNlb3ZhVU5JVGNXYkJn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-02T23:00:07+00:00"
-          },
-          {
-            "title": "బాపూఘాట్‌ వద్ద మహాత్ముడికి గవర్నర్, సీఎంల నివాళి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JN1NHUTdQY3JoejBPaVpOSnFMNWZTX1BsZzVZSklTSGlNeklBN0o0eU8yY3h3X0FMVnl2YUx5cnFDSzN3SHZhZFUyQUd3Z0w2Um9NcS12SWVEbXBjaFRIUXY3UkpabUJvUjQ3aHAtMkU4ZUZUc2fSAXZBVV95cUxNSTdTR1E3UGNyaHowT2laTkpxTDVmU19QbGc1WUpJU0hpTXpJQTdKNHlPMmN4d19BTFZ5dmFMeXJxQ0szd0h2YWRVMkFHd2dMNlJvTXEtdkllRG1wY2hUSFF2N1JKWm1Cb1I0N2hwLTJFOGVGVHNn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-02T22:56:59+00:00"
+            "published": "2026-10-02T23:33:43+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Karnataka Rain Alert: ಬೆಂಗಳೂರು ಸೇರಿ ಕರ್ನಾಟಕದ ಈ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ವರುಣಾರ್ಭಟ, ಅಕ್ಟೋಬರ್ 15ರ ವರೆಗೆ ಮಳೆ!",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-rain-alert-heavy-rain-in-bengaluru-and-these-districts-rain-likely-until-october-15-469975.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-10-03T06:54:58+05:30"
+          },
+          {
             "title": "ಕೊಪ್ಪಳದ 11 ಗ್ರಾಮಗಳು 'ಮದ್ಯ ಮಾರಾಟ ಮುಕ್ತ': ರಾಜ್ಯ ಸರ್ಕಾರದಿಂದ 'ಗಾಂಧಿ ಪುರಸ್ಕಾರ ಸ್ವೀಕಾರ'",
             "link": "https://kannada.oneindia.com/news/karnataka/liquor-free-11-villages-of-koppal-districts-which-received-gandhi-award-from-karnataka-government-469967.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-10-02T16:37:27+05:30"
-          },
-          {
-            "title": "ಮಹಾವಿಷ್ಣುವಿನ ಕೂರ್ಮಾವತಾರ ನೆನಪಿಸುವ ಎರಡು ತಲೆಗಳ ಆಮೆ! ಅಮೆರಿಕದಲ್ಲಿ ಅಪರೂಪದ ಮರಿ ಪತ್ತೆ",
-            "link": "https://kannada.oneindia.com/news/international/rare-two-headed-turtle-hatchling-found-in-us-is-it-reminiscent-of-lord-vishnu-s-kurma-avatar-469925.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-10-02T16:24:07+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,70 +1426,70 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "জ্ঞানেশ-ফাইল খুলছে কংগ্রেস - Anandabazar",
+            "title": "জ্ঞানেশ-ফাইল খুলছে কংগ্রেস - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0I3eDNmdUdFcEdBNHk1Q2N3bXBFVW1nd3E2TTVRb1ZVQ1VqR2RTMDNHZHg0cVZQN2x0QnhjdmJOTkV5SzM5Skw1S2p1WGhXbFVKaHNMa25KekhYbFlaUnFHQ1B4eGhHLUVKNFd3ZlJRZ2FVdW43QmRZNElJd3BIbjJHeHBxVjNYdkhuakdwMEtaUF9oQmlxczBVbkhlQVMyaVpIWk9VM3Y1eHlZbExZUmxvTUJ0TUE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-03T01:16:53+00:00"
           },
           {
-            "title": "ভাগবতের দাবি ঘিরে প্রশ্ন - Anandabazar",
+            "title": "ভাগবতের দাবি ঘিরে প্রশ্ন - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkxkck1FRFZabnJIWHNXM0lBOTZSV2RQLV94T3FXRy1yME9xbGNOTGo1N3hhV2ZPRGxKa09IR21feFExZFM4eE9RVDlNT3FQTXpMYXlfZTF6bnF2aEdSdjVQODM1aXlUWjRfbGtKdWtIRlB4aVFYZU0xLVJzVGJGeFdubERsbzNVenBFVlJqYzc3aHJoZ0pYeTlJZGNjekdaVkxtVDZZNWNlTFpwLUVUdWdmdVpqdmd1TkJj?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-03T01:09:25+00:00"
           },
           {
-            "title": "বেহাল গান্ধী ভবন, সরব স্মৃতি-সমিতি - Anandabazar",
+            "title": "বেহাল গান্ধী ভবন, সরব স্মৃতি-সমিতি - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUlDMDh6Z19kalBIR01XTk5TN1lHeFQ1Zy1sekJ0TGdQdDhSQlpfMGdGaGw2TFZyOTlfN2Z6dEZHek1ObzdyR1ZJYlNvSjRkcDV6WUlFdlBUM2ZBaWhYT29kcW9Zamg3ckt0X3VaVndTOHBBU3QxeER0X2pzU2ZkaXlwWE1hbWxFcFdXai05cFlEQTZJcHEyRTJOR2xzc3lSYWcyNzl2bUtQQkNKYlNYSEtiZjB6M1JiSFE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-03T00:30:57+00:00"
           },
           {
-            "title": "কেন্দ্রীয় বাহিনী নিয়ে আলোচনা চান ডেরেক, পাশে কংগ্রেস - Anandabazar",
+            "title": "কেন্দ্রীয় বাহিনী নিয়ে আলোচনা চান ডেরেক, পাশে কংগ্রেস - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHlYWlo4bE0wdmZJNFJhTnFvRkNxODY4TFJqOTZFM2FKZ2pEM0I2bHRaOGc2bUxac3RaMFpieURSdHNLcGtFTHp2bmlUZ3BxeXVORzVNSHh1RUdSS0sySWtsc1pLeGlJU3FqM0JFRmFBS1U2TFVNQmdFY0pGU2hUNE1LeHhEMmZNZWNSQ0RGQmhKRVhvWmJweDY4WHp6ajZmZUNwZnlVRQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-03T00:22:12+00:00"
           },
           {
-            "title": "অন্নপূর্ণা নিয়ে ক্ষোভ, সরকারি শিবিরে ভাঙচুর - Anandabazar",
+            "title": "অন্নপূর্ণা নিয়ে ক্ষোভ, সরকারি শিবিরে ভাঙচুর - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW9ONmlQOXVaektoMUtkaW0yTGJoU3RRbUxJZk5uRWNGVnM2aFE2aHRWdW9TY0d5ZHdheGtPTExKUDRXZGxZLUdoRDJqblp0LUVKeWxjR3BWRjFWM2xOZmRNTkRJVVR6eTZ1azB2c0hoWnpBUFRwbWRlM0NwenhoQlRZWlAwRXNnVVZFUEgwLWNiNG1oamk3ZE9fWS1UcWJObVMzZ3ZxLW9DREh1dTZOeEVBYw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-03T00:06:10+00:00"
           },
           {
-            "title": "কৃষিক্ষেত্র পরিদর্শনে মন্ত্রী, পর্যালোচনা বৈঠক - Anandabazar",
+            "title": "কৃষিক্ষেত্র পরিদর্শনে মন্ত্রী, পর্যালোচনা বৈঠক - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlRCR1YzcWRvaWIyLVVVRGJMT21ja2xab2Fha2MxZDhmQzRibmNoSVZTS0JCRklVMThDaTRCazBKbWpIOG9Md09MR19zRGdDc1YxYzdPUFlyY0dVZmVqTUVlMWsyRjVZOTczYnB2bEdHTlNpQkJ1V0dpVkZndjlDY0pCU1JOeklxbXJ2VGtmbFd3SThRdjcyRG10QlAxeUU3Vkg3OE1NMDF3YlpsMlN5TW4tQlE5emRxZGJTa3FfWmkwWWlnel9LZGdUWWZ2TjBXc0E?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-02T19:36:37+00:00"
           },
           {
-            "title": "হায়দরাবাদ ছাড়তে চান অভিষেক, ঈশান নেতা হওয়ায় খুশি নন ভারতের ওপেনার, যোগ দিতে পারেন কলকাতাতেও - Anandabazar",
+            "title": "হায়দরাবাদ ছাড়তে চান অভিষেক, ঈশান নেতা হওয়ায় খুশি নন ভারতের ওপেনার, যোগ দিতে পারেন কলকাতাতেও - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWlMVFRWdlZlWlZ2Skx5NDFKMUExZFdmTktYeVJTVlctQURsRVpZSzkyVGN3Z3JEXzNqeUdQNXlyQ1E0M3BfZzF1emttZXJmVHNranBGTHJHM2QtbF9pcms4M1E2cjRVTmNLTDZSOTdxNnp3Qm0wRmxrajhuN19NZXluTS1vSVlMSHRTbFhPczh5OTRuMGQ4VU5aRFFXSnNrSE5ZY0ZRWDNocGdHR2Fn0gG0AUFVX3lxTE5qX0dYcXhBNWJTNWItWXQ2NmgzcHhuUXZCZzd4eVZ2YzBXNEJ6UUNrcmNsQnNZMkJETUFzTU8yZDNJbTh6VlVwN040ZktpNk1NaHprOXFWVlRjcnU4M21nY0h5aVphZ01CYzZRNkxjc0JKbW1STlhHVEtYdFp0eUpzTUdSUXlCcXlSU0Z1X0hQSFhHUlo5N2xDMkVEWUlvc0pwOTJadDViTWxGQ205TDUzcGRyQQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-02T17:31:44+00:00"
           },
           {
-            "title": "জ্ঞানেশের ইস্তফা দাবি: আপের বিক্ষোভে উত্তাল যন্তর মন্তর, মুম্বইয়ে ককরোচদের ‘জেল ভরো’, কলকাতায় পথে বামেরা - Anandabazar",
+            "title": "জ্ঞানেশের ইস্তফা দাবি: আপের বিক্ষোভে উত্তাল যন্তর মন্তর, মুম্বইয়ে ককরোচদের ‘জেল ভরো’, কলকাতায় পথে বামেরা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVB5eTJEZFMwenpqc1JTcjE5SUZUWXpqckZObE5xdnJfQy1VME1hS2hBcXI1NGRfTU5qN0E0ZG9JbExaNWgwVjVaMWRDSG0wVTFncG5rNDJ5SFFXeldvRGJ4bE5OeXByMG5oaUlVZ1hOOHROTlF4WnJxZXhVV1d6YzhScGdhVmx0RkRNc2NjUjZScE0xSGE3WTlkMnBaWUs1WS1yaUM3YlBFb29NNDU5a0UwbXFqMm9yQUFnbk5BbWVBWmM3SEhFR0VOc9IB0AFBVV95cUxNSUc2eU5XQUdyRm1hWlF3QlpINFlXckx0RW5XVGpGUWNEY1A5alduaFlvZ1BfbDhaUU9iRGlWQUtNbnlNMWFQQU9TVjhTRS10NThRV0pSWkE3a01WQUhjdkhMR1VjRkJfYU1oVWJ5V2JHUUpLMlVfOXdGS1pvY293bXFTaUR1Rk93ZDJKMWY1enhLRm5CWFdYS0tRWXlEWGJBWWVJYW5HeXkzXy1ObmV5LXloam1VTTRHZE9WdTlxRUg1SndzYXZMRUlhb1BYYl9D?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-02T17:21:05+00:00"
           },
           {
-            "title": "এক দিনের বিশ্বকাপের দলে কোন ১১ জন খেলবেন? এক বছর আগেই প্রথম একাদশ বেছে ফেললেন সৌরভ - Anandabazar",
+            "title": "এক দিনের বিশ্বকাপের দলে কোন ১১ জন খেলবেন? এক বছর আগেই প্রথম একাদশ বেছে ফেললেন সৌরভ - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSml2U2hESkd6SmJWWUZiS3ZVdGNOQzFBaG95UGc5bDdkMFFsTk56ZzJZODRFV1R4RVhhVWNILXhKYmdtVWFNN3ZHWWp4VjB0bUpxaXBfRWttTWhJbEtMcWJIZlFMb2pJUlhjRnE0a25pQk9IWEc1WC1KM0wyYTBKR21RRkpvSHd4emZjVENmcXJ6SmNDY25DWUZxZWdRX215cHJsOHhrYzJjXzltNWMzWXFn0gG3AUFVX3lxTE9pOHVXbHgyaTFDTWlnd3d3YlU4WjRWQVp0dVkyQzlsM19XN0drR0FTR21KSFhFVG9Db0V2dmwxb2prR2o4X1JXY1NaSEtPbC1DLWZmRTFONkl4VmNENjh3X0E3YWdkTXJZdmljX1dPLVQ2S2NlaUw2dUl3TTN6RVYwYUpDVmw2eGRFTGVpMi0xN3ljNEpBQWVRVG5YRXhlMkpUX2hodm8tdGdTeDI2d3o4aWlMNzBBZw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-02T17:13:16+00:00"
           },
           {
-            "title": "পুজোয় ‘নো ভিআইপি’ জ়োন! দর্শনার্থীদের সঙ্গে এক লাইনে প্রবেশ, জানালেন উদ্যোক্তারা - Anandabazar",
+            "title": "পুজোয় ‘নো ভিআইপি’ জ়োন! দর্শনার্থীদের সঙ্গে এক লাইনে প্রবেশ, জানালেন উদ্যোক্তারা - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGdGbmJtYnFTNEdkV1g2UVVma1ROVFZxRkd3a2JTMW9xdlA5Wl84VG5CMS1SQ3R5YlhkRnExeTJBN3g3c2E2MnVtVGU5NmlkSkllc0hWV1ZlY1dodlVjTk1sSXZqZS1tZXN2ZWdqSmFwLTIxR01FcDg0enFBX1hoQ0loOWxsbkpSdUc0alVYei1qMVdPTHJjX1BYSHpHN29jYWJ2dmlFSWNOWXA4ZkJwS2c2VGZESzhGc0R6TFZkVlhCTTZ3cGfSAcsBQVVfeXFMTWZ6TlMtTUx0MU9jODFGWm9LRnkzMGtjbEVMWThzSzFKdU5rYnprYzBGZGc5UktIMXBFNHVEYWx1Ykd0OUZTNjJkS1ZUcDYxQTd2TC0yeWVYdmNERHdaQnVVYlhmNWVZSHA4UWE3M0xjeDZ3UGFJOWliejFXd2l5MjRLOWx2b3dlVDhMUDN3ckVGUFV5dFlDcGxBbzhtd3dZdHA4UXdqSkx6SWZPUUNtTktWNURydS1ZLXFETEtZNjdOeUZYd3NwNUlFODQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
@@ -1503,7 +1503,7 @@
             "published": "2026-10-02T16:18:45+00:00"
           },
           {
-            "title": "বিরাটিতে এসএফআইয়ের সভাতে হামলা, ভাঙা হল চেয়ার, ছেঁড়া হল ফ্লেক্স! অভিযোগ বিজেপির বিরুদ্ধে - Anandabazar",
+            "title": "বিরাটিতে এসএফআইয়ের সভাতে হামলা, ভাঙা হল চেয়ার, ছেঁড়া হল ফ্লেক্স! অভিযোগ বিজেপির বিরুদ্ধে - anandabazar.com",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFWMFhkdng2MFZ4R2pOR210QVRIcjh0QkpQajJnUmVTM1l6ZkpTY3VyZVAxRVhROVZLSEc4MVp1TnF0T3pPWV8yNDJUUlB6Rmxtb1hEYTVRUGJ4X0tadXFhbFoyWTRkaU5kRXFXcUtXR2F6cHplNHFZZG9HUGVfVUpyQld0RW9DRmRnYk42dXlpTjU0X3pqVmxEM3Z0UkVNZEtkMEVDa3VscS1SUzVyb1ZUZExVYW_SAbwBQVVfeXFMT21XbVNzeXlJd3M4dzg4NFlzZ1AwOGVDMF8xdDIwNTlEYkQ2ZmhfWW1mZGgxLXBibC1JWGFUaEtWZ2Q0dk5FQzBGMkhzanRHQ2Q2WEtYbUJzOU5FaTF2ZThCMTZzZVYtV1BZNEdheWdMa1EtTEkyRE1RZ3ZKdjJra2JJYUtEWS04YlQzR2xHY2NENWtxZW5CYmtsdGw4a0tiX0lTakwybEoyY3I0MjM5a3AyOFl4Qnd4NW9tUW8?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
