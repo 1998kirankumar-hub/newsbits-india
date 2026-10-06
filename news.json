@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-10-06T20:01:40.363563+00:00",
+  "updated_at": "2026-10-06T20:31:28.260754+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Twenty-five years of leadership, an India transformed",
+            "link": "https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece",
+            "source": "The Hindu",
+            "summary": "Prime Minister Narendra Modi’s 25 years in leadership reflect India’s transformation and its rising national ambitions",
+            "published": "2026-10-07T01:51:30+05:30"
+          },
+          {
+            "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+            "published": "2026-10-06T20:18:58+00:00"
+          },
+          {
+            "title": "Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off",
+            "link": "https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms",
+            "source": "Times of India",
+            "summary": "Opposition members from the INDIA bloc, led by Rahul Gandhi, organized a protest march to the Election Commission. The police stopped their march just before reaching Akashvani Bhavan, leading to a lengthy dharna by the MPs. Despite police attempts to remove the protesters, several MPs entered the Akashvani premises and continued their demonstration. Rahul Gandhi criticized Prime Minister Modi and accused his…",
+            "published": "2026-10-07T01:47:29+05:30"
+          },
+          {
+            "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+            "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+            "published": "2026-10-06T20:15:31+00:00"
+          },
+          {
+            "title": "CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe",
+            "link": "https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms",
+            "source": "Times of India",
+            "summary": "CBI conducted raids on multiple locations including the camp office of Punjab CM Bhagwant Mann. The investigation stems from a High Court order based on allegations from the Enforcement Directorate. Various individuals are named in the FIR for their alleged involvement in corruption and manipulation of government processes. Mann criticized the timing of the raids as politically motivated amid upcoming elections.",
+            "published": "2026-10-07T01:38:30+05:30"
+          },
+          {
             "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
             "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
             "published": "2026-10-06T19:43:05+00:00"
+          },
+          {
+            "title": "Guns, Political Killings, Attacks On Cops: Punjab's Arms Trail Before Polls",
+            "link": "https://www.ndtv.com/india-news/guns-political-killings-attacks-on-cops-punjabs-arms-trail-before-polls-12148396#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "What does the availability of sophisticated illegal weapons indicate about the state's evolving law-and-order and security challenge?",
+            "published": "2026-10-07T01:12:31+05:30"
+          },
+          {
+            "title": "Kalshi launches perpetual futures tied to US 500 stock index",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+            "source": "Economic Times",
+            "summary": "Kalshi has introduced a new perpetual futures contract that is linked to its US 500 index. This contract will allow traders to hold positions indefinitely, without the need to roll over. It aims to provide stock market exposure, a key step in Kalshi's expansion as a financial exchange. The CEO mentioned leveraging long or short positions on the stock index.",
+            "published": "2026-10-07T01:12:01+05:30"
+          },
+          {
+            "title": "Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-07T01:05:03+05:30"
           },
           {
             "title": "The new players in space",
@@ -27,6 +83,13 @@
             "published": "2026-10-06T19:30:00+00:00"
           },
           {
+            "title": "Ex-German Spy Chief Arrested For Espionage, Treason",
+            "link": "https://www.ndtv.com/world-news/ex-german-spy-chief-august-hanning-arrested-for-espionage-treason-12148375#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "August Hanning, who ran Germany's BND intelligence agency between 1998 and 2005, is suspected of charges including \"attempted treason\" and \"espionage\", according to a statement from federal prosecutors.",
+            "published": "2026-10-07T00:58:49+05:30"
+          },
+          {
             "title": "British Indian peer Lord Ranger wins right to judicial review of CBE annulment",
             "link": "https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms",
             "source": "Times of India",
@@ -39,72 +102,51 @@
             "source": "Al Jazeera",
             "summary": "Russia denies plague cases after laboratory technician&#039;s death; US demands &#039;transparency&#039; as WHO monitors situation.",
             "published": "2026-10-06T19:26:27+00:00"
-          },
-          {
-            "title": "Astronomers find ‘phoenix planet’ born from ashes of a dying star",
-            "link": "https://timesofindia.indiatimes.com/science/astronomers-find-phoenix-planet-born-from-ashes-of-a-dying-star/articleshow/134749586.cms",
-            "source": "Times of India",
-            "summary": "A team of astronomers has discovered a second-generation planet orbiting a white dwarf named HS 0209+0832. This planet formed from the material that the white dwarf expelled during its death. The atmosphere of the white dwarf contains heavy elements such as zinc, copper, and niobium. This discovery could change the way astronomers search for similar planets around dead stars.",
-            "published": "2026-10-07T00:54:27+05:30"
-          },
-          {
-            "title": "Maryland dairy farm spill kills nearly 11,000 fish across 25 species",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-manure-lagoon-overflow-at-a-maryland-dairy-farm-killed-nearly-11000-fish-across-25-species-state-officials-say-the-farm-already-faces-a-pollution-lawsuit-and-a-civil-contempt-request-over-alleged-violations/articleshow/134705486.cms",
-            "source": "Times of India",
-            "summary": "A tragic incident has unfolded at Basin Run, where nearly 11,000 fish have succumbed to the consequences of a manure lagoon overflow from Kilby Farms. The Maryland Department of the Environment has traced the source of this discharge back to a series of ongoing pollution violations. Local residents, frustrated with the recurring environmental harm, are demanding accountability.",
-            "published": "2026-10-07T00:50:00+05:30"
-          },
-          {
-            "title": "Jammu and Kashmir: Arms &amp; drugs seized in cross-border smuggling case; 4 held",
-            "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-arms-drugs-seized-in-cross-border-smuggling-case-4-held/articleshow/134749535.cms",
-            "source": "Times of India",
-            "summary": "J&amp;K Police arrested four suspects linked to cross-border drug and arms smuggling. The police seized a Beretta pistol, magazines, live rounds, and narcotics during this operation. Initial arrests occurred when two men were stopped at a checkpoint and found with heroin and a firearm. This investigation revealed connections with handlers based in Pakistan and previous air-dropped consignments. The case has been…",
-            "published": "2026-10-07T00:48:45+05:30"
-          },
-          {
-            "title": "What can I do to protect myself after 'Asos hacked' message?",
-            "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
-            "published": "2026-10-06T19:17:23+00:00"
-          },
-          {
-            "title": "Amazon wins global rights to stream Emmys in six-year deal",
-            "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-            "published": "2026-10-06T19:08:21+00:00"
-          },
-          {
-            "title": "Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy",
-            "link": "https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-07T00:34:53+05:30"
-          },
-          {
-            "title": "Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls",
-            "link": "https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece",
-            "source": "The Hindu",
-            "summary": "The Cabinet is learnt to have discussed the proposal for a revision of fares in State-owned road transport corporations",
-            "published": "2026-10-07T00:32:31+05:30"
-          },
-          {
-            "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
-            "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Spain&#039;s Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.",
-            "published": "2026-10-06T18:58:01+00:00"
-          },
-          {
-            "title": "Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli",
-            "link": "https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece",
-            "source": "The Hindu",
-            "summary": "According to the National Centre for Seismology the epicentre was located at a depth of 13 km in Chamoli.",
-            "published": "2026-10-07T00:26:14+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Twenty-five years of leadership, an India transformed",
+            "link": "https://www.thehindu.com/opinion/lead/twenty-five-years-of-leadership-an-india-transformed/article71552707.ece",
+            "source": "The Hindu",
+            "summary": "Prime Minister Narendra Modi’s 25 years in leadership reflect India’s transformation and its rising national ambitions",
+            "published": "2026-10-07T01:51:30+05:30"
+          },
+          {
+            "title": "Opposition's anti-SIR-CEC march turns into INDIA bloc-government face-off",
+            "link": "https://timesofindia.indiatimes.com/india/oppositions-anti-sir-cec-march-turns-into-india-bloc-government-face-off/articleshow/134749875.cms",
+            "source": "Times of India",
+            "summary": "Opposition members from the INDIA bloc, led by Rahul Gandhi, organized a protest march to the Election Commission. The police stopped their march just before reaching Akashvani Bhavan, leading to a lengthy dharna by the MPs. Despite police attempts to remove the protesters, several MPs entered the Akashvani premises and continued their demonstration. Rahul Gandhi criticized Prime Minister Modi and accused his…",
+            "published": "2026-10-07T01:47:29+05:30"
+          },
+          {
+            "title": "CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe",
+            "link": "https://timesofindia.indiatimes.com/india/cbi-raids-cm-bhagwant-manns-camp-office-his-osds-home-in-graft-probe/articleshow/134749798.cms",
+            "source": "Times of India",
+            "summary": "CBI conducted raids on multiple locations including the camp office of Punjab CM Bhagwant Mann. The investigation stems from a High Court order based on allegations from the Enforcement Directorate. Various individuals are named in the FIR for their alleged involvement in corruption and manipulation of government processes. Mann criticized the timing of the raids as politically motivated amid upcoming elections.",
+            "published": "2026-10-07T01:38:30+05:30"
+          },
+          {
+            "title": "Guns, Political Killings, Attacks On Cops: Punjab's Arms Trail Before Polls",
+            "link": "https://www.ndtv.com/india-news/guns-political-killings-attacks-on-cops-punjabs-arms-trail-before-polls-12148396#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "What does the availability of sophisticated illegal weapons indicate about the state's evolving law-and-order and security challenge?",
+            "published": "2026-10-07T01:12:31+05:30"
+          },
+          {
+            "title": "Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-sets-aside-detention-order-of-thiruvananthapuram-councillor-r-sugathan/article71552446.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-07T01:05:03+05:30"
+          },
+          {
+            "title": "Ex-German Spy Chief Arrested For Espionage, Treason",
+            "link": "https://www.ndtv.com/world-news/ex-german-spy-chief-august-hanning-arrested-for-espionage-treason-12148375#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "August Hanning, who ran Germany's BND intelligence agency between 1998 and 2005, is suspected of charges including \"attempted treason\" and \"espionage\", according to a statement from federal prosecutors.",
+            "published": "2026-10-07T00:58:49+05:30"
+          },
           {
             "title": "British Indian peer Lord Ranger wins right to judicial review of CBE annulment",
             "link": "https://timesofindia.indiatimes.com/world/uk/british-indian-peer-lord-ranger-wins-right-to-judicial-review-of-cbe-annulment/articleshow/134749624.cms",
@@ -120,6 +162,13 @@
             "published": "2026-10-07T00:54:27+05:30"
           },
           {
+            "title": "What Happened Near Poll Body Office? Inside Story Of Opposition March",
+            "link": "https://www.ndtv.com/india-news/what-happened-near-poll-body-office-inside-story-of-opposition-march-12148232#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "It was the Samajwadi Party MPs, who set the tone. Clad in red caps and red scarves, they stood out, holding red placards inscribed with various slogans",
+            "published": "2026-10-07T00:51:12+05:30"
+          },
+          {
             "title": "Maryland dairy farm spill kills nearly 11,000 fish across 25 species",
             "link": "https://timesofindia.indiatimes.com/world/us/a-manure-lagoon-overflow-at-a-maryland-dairy-farm-killed-nearly-11000-fish-across-25-species-state-officials-say-the-farm-already-faces-a-pollution-lawsuit-and-a-civil-contempt-request-over-alleged-violations/articleshow/134705486.cms",
             "source": "Times of India",
@@ -134,63 +183,21 @@
             "published": "2026-10-07T00:48:45+05:30"
           },
           {
-            "title": "Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy",
-            "link": "https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-07T00:34:53+05:30"
-          },
-          {
-            "title": "Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls",
-            "link": "https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece",
-            "source": "The Hindu",
-            "summary": "The Cabinet is learnt to have discussed the proposal for a revision of fares in State-owned road transport corporations",
-            "published": "2026-10-07T00:32:31+05:30"
-          },
-          {
-            "title": "Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli",
-            "link": "https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece",
-            "source": "The Hindu",
-            "summary": "According to the National Centre for Seismology the epicentre was located at a depth of 13 km in Chamoli.",
-            "published": "2026-10-07T00:26:14+05:30"
-          },
-          {
-            "title": "Vellore police hands over missing phones to owners",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece",
-            "source": "The Hindu",
-            "summary": "The cybercrime team had been monitoring the missing mobile phone handsets through their IMEI number at periodical intervals",
-            "published": "2026-10-07T00:21:03+05:30"
-          },
-          {
-            "title": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar",
-            "link": "https://www.thehindu.com/news/national/bihar/cm-samrat-choudhary-directs-officials-to-submit-detailed-report-on-flood-damage-in-bihar/article71552720.ece",
-            "source": "The Hindu",
-            "summary": "He instructed that the Disaster Management Department must obtain assessments of flood damage and rehabilitation costs from all relevant departments and submit a report at the earliest.",
-            "published": "2026-10-07T00:18:03+05:30"
-          },
-          {
-            "title": "RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece",
-            "source": "The Hindu",
-            "summary": "The drug peddlers were allegedly selling small quantities of ganja at public places in surrounding villages near Nemili and Arakkonam towns",
-            "published": "2026-10-07T00:16:33+05:30"
-          },
-          {
-            "title": "Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece",
-            "source": "The Hindu",
-            "summary": "The rear door of the house was also damaged",
-            "published": "2026-10-07T00:14:04+05:30"
-          },
-          {
-            "title": "SIR: BLOs being forced to accept Form-7s without signature of applicants",
-            "link": "https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-07T00:03:15+05:30"
+            "title": "\"Islam Wanting To Take Over\": Trump On Mass Student Protests In France",
+            "link": "https://www.ndtv.com/world-news/islam-wanting-to-take-over-donald-trump-on-mass-student-protest-in-france-12148064#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Trump and his administration have long blamed European social issues on migration, calling on Europe to shut its borders and echoing far-right parties by warning of what they call civilisational decline.",
+            "published": "2026-10-07T00:45:13+05:30"
           }
         ],
         "World": [
+          {
+            "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+            "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+            "published": "2026-10-06T20:15:31+00:00"
+          },
           {
             "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
             "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
@@ -267,16 +274,23 @@
             "source": "Al Jazeera",
             "summary": "",
             "published": "2026-10-06T17:34:32+00:00"
-          },
-          {
-            "title": "Finland orders halt to work on two Google data centres",
-            "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-            "published": "2026-10-06T17:15:46+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+            "published": "2026-10-06T20:18:58+00:00"
+          },
+          {
+            "title": "Kalshi launches perpetual futures tied to US 500 stock index",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+            "source": "Economic Times",
+            "summary": "Kalshi has introduced a new perpetual futures contract that is linked to its US 500 index. This contract will allow traders to hold positions indefinitely, without the need to roll over. It aims to provide stock market exposure, a key step in Kalshi's expansion as a financial exchange. The CEO mentioned leveraging long or short positions on the stock index.",
+            "published": "2026-10-07T01:12:01+05:30"
+          },
           {
             "title": "What can I do to protect myself after 'Asos hacked' message?",
             "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
@@ -327,13 +341,6 @@
             "published": "2026-10-06T17:38:29+00:00"
           },
           {
-            "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-            "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-            "published": "2026-10-06T16:01:11+00:00"
-          },
-          {
             "title": "US software shares hit 2026 highs as AI disruption fears ease",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-software-shares-scale-fresh-2026-highs-as-ai-disruption-worries-fade/articleshow/134743282.cms",
             "source": "Economic Times",
@@ -346,13 +353,6 @@
             "source": "BBC Business",
             "summary": "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
             "published": "2026-10-06T13:43:15+00:00"
-          },
-          {
-            "title": "Sebi says Jane Street’s appeal for more details a delaying ploy",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-says-jane-streets-appeal-for-more-details-a-delaying-ploy/articleshow/134738661.cms",
-            "source": "Economic Times",
-            "summary": "Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms assess regulatory risks in India’s derivatives market, with the hearing set to continue Wednesday.",
-            "published": "2026-10-06T16:46:02+05:30"
           },
           {
             "title": "Motilal Oswal initiates coverage on Molbio Diagnostics stock with Buy, sees 21% upside. Here's why",
@@ -536,18 +536,18 @@
         ],
         "Entertainment": [
           {
+            "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+            "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+            "published": "2026-10-06T20:18:58+00:00"
+          },
+          {
             "title": "From films to streaming prices - how the Warner Bros deal could affect you",
             "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
             "published": "2026-10-06T18:42:58+00:00"
-          },
-          {
-            "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-            "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-            "published": "2026-10-06T16:01:11+00:00"
           },
           {
             "title": "Michael Flatley says 'heart is broken' after death of wife, Niamh O'Brien",
@@ -627,11 +627,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "वृंदावन: पानी का टैंक साफ करने उतरे गुरुकुलम के चार छात्रों की माैत, एक अस्पताल में; हादसे की जांच के आदेश",
+            "title": "महाराष्ट्र: नागपुर में नौ साल की बच्ची से यौन उत्पीड़न, गुस्साई भीड़ ने आरोपी की पीट-पीटकर हत्या की",
+            "link": "https://www.amarujala.com/india-news/maharashtra-nagpur-man-betaen-to-death-by-mob-after-assaults-of-minor-girl-2026-10-07",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-07T12:46:21+05:30"
+          },
+          {
+            "title": "वृंदावन: पानी का टैंक साफ करने उतरे गुरुकुलम के चार छात्रों की माैत, एक अस्पताल में भर्ती; जांच के आदेश",
             "link": "https://www.amarujala.com/uttar-pradesh/mathura/vrindavan-four-gurukul-students-drown-in-a-water-tank-2026-10-07",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-07T12:08:01+05:30"
+          },
+          {
+            "title": "भास्कर अपडेट्स:केंद्र ने बंगाल के DGP सिद्ध नाथ गुप्ता का कार्यकाल 6 महीने बढ़ाया",
+            "link": "https://www.bhaskar.com/national/news/west-bengal-dgp-siddh-nath-gupta-tenure-extended-central-govt-139272290.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-06T20:02:52+00:00"
           },
           {
             "title": "Uttarakhand News: चारधाम यात्रा ने रचा नया रिकॉर्ड, श्रद्धालुओं की संख्या 56.18 लाख के पार; 2023 का रिकॉर्ड टूटा",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-06T21:22:36+05:30"
-          },
-          {
-            "title": "तेलंगाना में अवैध फॉर्म 7 के मामले में पहली FIR:भाजपा एजेंट पर 30 लोगों के नाम पर फर्जी फॉर्म भरने का आरोप, सभी मुस्लिम",
-            "link": "https://www.bhaskar.com/national/news/hyderabad-bjp-agent-fake-voter-form-7-controversy-mushirabad-139269907.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-06T15:33:39+00:00"
-          },
-          {
-            "title": "गुजरात के दाहोद में प्रेमी जोड़े ने सुसाइड किया:इंस्टग्राम पर लाइव आए, 50 लोगों के साथ परिवार वालों ने भी देखा",
-            "link": "https://www.bhaskar.com/national/news/dahod-couple-suicide-live-streaming-instagram-gujarat-news-139269873.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-06T15:30:20+00:00"
           }
         ],
         "Entertainment": [
@@ -1121,6 +1121,13 @@
             "published": "2026-10-06T21:53:13+05:30"
           },
           {
+            "title": "సరదాగా.. నచ్చేలా.. మెచ్చేలా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzE1enU5RnVKWnQwY2g1TS1RdjVrX0lfcGxwdUZ0czVuWUlXclZvRUE2NHdheGMyR3pmbGl1THJUeWlNV0ZxXzBMUTcwdVVyT0pTOWNXLTNrekdzcW13S09LRUh1SDVKM0lPRzBWTUY3ZWdHQTVHcEFjX2RGOTRmc1pwdHEwbEJlczZyS0Iza2hvVEx1NzBKZnJlbHgyNlYyNlBLMWdGTkhJeUJwakJIcGpoblRFbFVUWmExRWlB0gG-AUFVX3lxTFBvMTV6dTlGdUpadDBjaDVNLVF2NWtfSV9wbHB1RnRzNW5ZSVdyVm9FQTY0d2F4YzJHemZsaXVMclR5aU1XRnFfMExRNzB1VXJPSlM5Y1ctM2t6R3NxbXdLT0tFSHVINUozSU9HMFZNRjdlZ0dBNUdwQWNfZEY5NGZzWnB0cTBsQmVzNnJLQjNraG9UTHU3MEpmcmVseDI2VjI2UEsxZ0ZOSEl5QnBqQkhwamhuVEVsVVRaYTFFaUE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-06T15:54:18+00:00"
+          },
+          {
             "title": "Bobbili Fire Accident: బొబ్బిలి బెర్రీ అల్లాయిస్‌ పరిశ్రమలో భారీ పేలుడు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTlTbXZjTzI2UE5fUDg2Z2NCOWhRRE5qZGN0dkpNQlU4cC15Xy1OYlYySkR6S25CVUdzVnpJdlBvNDFneGg5dkVjUG0wakx3TDhUX3lHUzRHdHF4cFp1ZHpwcU90RllpS3Zia25PYmE3RHNHWXBPYkFsbjV4OHczanY5T2VlUUh5VEtDaF9SbmZiN1VXb2dvRG56YmNPSjc50gGgAUFVX3lxTE1VOVNtdmNPMjZQTl9QODZnY0I5aFFETmpkY3R2Sk1CVThwLXlfLU5iVjJKRHpLbkJVR3NWekl2UG80MWd4aDl2RWNQbTBqTHdMOFRfeUdTNEd0cXhwWnVkenBxT3RGWWlLdmJrbk9iYTdEc0dZcE9iQWxuNXg4dzNqdjlPZWVRSHlUS0NoX1JuZmI3VVdvZ29EbnpiY09KNzk?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-06T15:02:47+00:00"
-          },
-          {
-            "title": "రాష్ట్రంలో విద్యుత్ డిమాండ్ పెరిగింది: డిప్యూటీ సీఎం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hMENKN2NCWGNJTEJqNXBoZW40R1RNd2lob25acGU1U0ZWdVJkeW5JeGxZOTdjZVQ5TGR1TExLZjVrQWFqSkNlWGJCLUxwSkNaLU0yeEFJeDVxakRVVGxDdk5DQURNXzBLSWE4VllDMmlMS0YzZkhpaXJrR24?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-06T14:54:44+00:00"
           }
         ],
         "Entertainment": [
@@ -1468,20 +1468,6 @@
             "published": "2026-10-06T12:51:25+00:00"
           },
           {
-            "title": "আজকের দিন মীন রাশি- ০৭ অক্টোবর, ২০২৬ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1JkelhnLURDTmFpWEZ3cTlxVVVLY2xMcUU0ay1yZXozNjNsVkJ3YjgtUzkyMUhtcl9ZaWc3TUVnR2JYS25OdXBsUS1RSUh6SDZZeG1wVzYxZnVzREF1bTlYd3pGT0tQamZFdGNsdkIwampwNzNFRWk5ZXV0TFA1bDVTV3RLMG1Uc1FHT05YbWp0ajE3SDJEWC13WGlDTXZ3Qno1V0Rnc0ZoLS1l0gGyAUFVX3lxTE5Za2Q5VFJ5a0M1SmZLbnJGS2xlb2hKZkZpNE5PenNUYUIxYTB5RUw3TXNkVmIxb1NQdUYtV2wwaTdPR0djcm56bHhYZkdQVUtPVlhXRUN2NzBrc3V3dEpOTGdSZFRCVnpveUNMaU0zMlNmNk5aTTdkOV9EazRLOG80Q1JCcFVzNzJKU2FUVmFmZi0wWlpvQndRbGw5ejVxWUwweTdUVjJrcjROeW9veW85Q3c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-06T12:37:48+00:00"
-          },
-          {
-            "title": "আজকের দিন কুম্ভ রাশি- ০৭ অক্টোবর, ২০২৬ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2NmbHBLUk4yYTRBSVFjNVBlSmZDUWdZRkd2VFVDbEd4MVBvM3IxNE55UnR5S3R5NEFHZnZZdThrTDF4bXFkamZoZnBQNC15TUIzUnJ6Qnk3QnY0ZHQzbTFTeUphV25CbW9Fb0F2d1JMeUVLU1dFT0Y4U0tqZnFRMXVRdmhheGd3Smw0SUE1ZDdLc19JSW9STmxLemY4TDR2N0Nhc0lNQVZldEhaN2JqTtIBtgFBVV95cUxQQUZDWHFCbzZBSHExb3laOXJLVWstTU41cXE4ZkhmOXVNLU9ScEhJMUxGek54OFEtcmNvUkxGNjFudnFWRVg0NkZLM3hUS1o3ZS1xcU50bXJkMURabzBHX2xnd2tWN2VOYk1fUWVUdEUzNlM5WHpIaWgtaGY5RzJvVkhyMjMtN1B3OHRIdmhmZkhoZFNmUTNxRHRWekVZaFREWDVoRkVJOWZ5V21iRTdGZS1DZjhYUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-06T12:35:22+00:00"
-          },
-          {
             "title": "আপনার আসল জায়গা জেলই, ২ কোটি টাকা দিতে ব্যর্থ রাজপাল! অভিনেতার প্রতি ক্ষুব্ধ শীর্ষ আদালতও - Anandabazar",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJyQVhncG5xSks0enZPUmZCV3Jmb3FndzlCLTRoS1pwSUVaN0xhRW9ZbEp3aWRILTZyTE9CZDB5NGxzbUZlcnc5R1BZM2pyUGZxdVB5RWNvUlBlUk9wUHZkYmlsVXQ3WHZwOG01b3lZVkpnV0lOS1prUGRkMnlmTnJ1MG1YUWpEX0lnUy1Eem1GelM5ak9ZcUEzcGdrUGhnTURLNkNYT0Z2ODDSAbABQVVfeXFMTWY1STRKc2JBMVBnTDBpaFR4VzZLUTN6eTBYLXBVdlJmeWg0bVhESWhma2ZHTVdTTHpYdVEtS2hmWmVlRVJrTGs0V1FrcHB3cWoyXzRPTmJoX2RIR1NoSmY4TVFtTVkwd1V0MTAtMTFkR0FERmpBb09DcE8xb1o0WjYybWZETC1lTlhqaFRaejNCdV9Uazg5ck1QOHlmYzdSckREVG1oRE16aERqNjFxZno?oc=5",
             "source": "Anandabazar Patrika",
@@ -1508,6 +1494,20 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-06T09:07:53+00:00"
+          },
+          {
+            "title": "ইমরান খান ও নওয়াজ শরীফের বন্ধুত্ব কীভাবে হয়েছিল?",
+            "link": "https://www.bbc.com/bengali/articles/cmq5ne142n2wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-10-06T06:16:11+00:00"
+          },
+          {
+            "title": "রাতের রাস্তায় একা বসার ‘মাশুল’, গাড়ি নিয়ে তরুণীর সামনে অদ্ভুত আচরণ তরুণের! তার পর? - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkloZU14RDlBQjFvaTl0V2JsbVFPdVMtWGhiTUN4QnI4ZzdpRXpzVEY2Sm4xV2toTU1lNHhLX25rTW1EV0hzRHZNZ1dIcF9VaWRLZDRsSmtrRkJUdWM3dlNOOGFVT2lHbGQ0dG1DSHVaTXpqNzJwTmwteFl3anllcVVyejF5NjN3RFVGYjJFemdIMjBZZmVVVFpVblo0ZmJsZDJPV9IBqgFBVV95cUxPTnRJYWRQdGhFY2FmZ3NUWkNmSG13eHVha3hMVU1NbnJMWUx4TGhKbEE5Z253azBqeWJLRDdSSUVxbjI2ZHVkb3hYSDdMQUlVNndwT1IxUjVfSk13cEhmbEFwVm1FX0ttQkJVUElHOXNxTHRqazlXWEc5Y016aFpXMUtTZS1rYi16U2hoNWtjQ3ZycEptemJhcUdQMWl2ZkFFZTVkLVRMNGstQQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-06T04:28:41+00:00"
           }
         ]
       }
