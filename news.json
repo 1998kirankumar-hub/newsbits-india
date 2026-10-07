@@ -1,202 +1,216 @@
 {
-  "updated_at": "2026-10-07T17:31:23.955533+00:00",
+  "updated_at": "2026-10-07T18:01:40.105051+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "State Central Library branch opened at Technopark",
+            "link": "https://www.thehindu.com/news/national/kerala/state-central-library-branch-opened-at-technopark/article71556065.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-07T23:27:23+05:30"
+          },
+          {
+            "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+            "published": "2026-10-07T17:47:31+00:00"
+          },
+          {
+            "title": "Jharkhand CM Hemant Soren’s mother Roopi Soren dies",
+            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-sorens-mother-roopi-soren-dies/article71557123.ece",
+            "source": "The Hindu",
+            "summary": "Roopi was admitted to Hill View Hospital & Research Centre on September 18, with breathing difficulties and placed on a ventilator on October 7",
+            "published": "2026-10-07T23:12:34+05:30"
+          },
+          {
+            "title": "Kashmir-born filmmaker held in U.S. likely to be freed soon, says family",
+            "link": "https://www.thehindu.com/news/national/kashmir-born-filmmaker-held-in-us-likely-to-be-freed-soon-says-family/article71556733.ece",
+            "source": "The Hindu",
+            "summary": "Sheikh Arfat won many awards after multiple screenings of his movie Saffron Kingdom in several parts of the United States and Europe",
+            "published": "2026-10-07T23:11:01+05:30"
+          },
+          {
+            "title": "US Man Out-Streamed Taylor Swift, But No One Was Listening",
+            "link": "https://www.ndtv.com/world-news/ai-streaming-fraud-taylor-swift-us-man-out-streamed-youtube-but-no-one-was-listening-12153165#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Michael Smith, 54, was sentenced for taking part in a scheme to \"defraud music streaming platforms and musicians of royalty payments\", according to the US Attorney's Office.",
+            "published": "2026-10-07T23:10:47+05:30"
+          },
+          {
+            "title": "Pfizer partners with GITAM to train rural women for pharmaceutical careers",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/pfizer-partners-with-gitam-to-train-rural-women-for-pharmaceutical-careers/article71556743.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-07T23:09:49+05:30"
+          },
+          {
+            "title": "A 1985 Viral Pic And 2 Young Coursemates, Who Are Now Army, Air Force Chief",
+            "link": "https://www.ndtv.com/india-news/a-1985-viral-pic-and-2-young-coursemates-who-are-now-army-air-force-chief-general-dhiraj-seth-air-marshal-ashutosh-dixit-12153162#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The two officers are Army chief General Dhiraj Seth and the next chief of the Indian Air Force, Air Marshal Ashutosh Dixit.",
+            "published": "2026-10-07T23:09:42+05:30"
+          },
+          {
+            "title": "2 Children, Pregnant Woman Killed In Building Collapse In Delhi. 8 Injured",
+            "link": "https://www.ndtv.com/india-news/many-feared-trapped-as-building-collapses-in-delhis-seemapuri-a-month-after-satya-niketan-tragedy-12150995#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The Delhi Fire Service (DFS) received a call regarding the collapse at 3.30 pm and rushed fire engines to the spot.",
+            "published": "2026-10-07T23:08:39+05:30"
+          },
+          {
+            "title": "BJ Watling appointed New Zealand men's batting coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1557511.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Watling will take over from Luke Ronchi following the conclusion of New Zealand's Test series against India in December",
+            "published": "2026-10-07T17:37:51+00:00"
+          },
+          {
+            "title": "CEC row LIVE: Rahul Gandhi's 'They cannot stop our will' message after Jantar Mantar protest",
+            "link": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
+            "source": "The Hindu",
+            "summary": "Lok Sabha LoP Rahul Gandhi and Congress MP Priyanka Gandhi were released after being detained during the INDIA bloc’s protest march towards Jantar Mantar.",
+            "published": "2026-10-07T23:02:28+05:30"
+          },
+          {
+            "title": "Jharkhand Chief Minister Hemant Soren's Mother Rupi Soren Dies At 80",
+            "link": "https://www.ndtv.com/india-news/jharkhand-chief-minister-hemant-sorens-mother-rupi-soren-dies-at-80-12153120#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The wife of Jharkhand Mukti Morcha founder and former chief minister, the late Shibu Soren, was in critical condition and on ventilator support.",
+            "published": "2026-10-07T23:00:31+05:30"
+          },
+          {
+            "title": "Five ‘terrorist associates’ held, hideout busted in Kashmir: police",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/five-terrorist-associates-held-hideout-busted-in-kashmir-police/article71556989.ece",
+            "source": "The Hindu",
+            "summary": "Joint operation in Kulgam district resulted in arrest of five ‘terrorist associates’ and recovery of two pistols and some ammunition; old hideout destroyed in a forested area in Handwara, huge cache of arms and ammo recovered",
+            "published": "2026-10-07T23:00:29+05:30"
+          },
+          {
+            "title": "Jim Belushi expanded Oregon retreat from 13 to 93 acres with cattle and sanctuary",
+            "link": "https://timesofindia.indiatimes.com/world/us/jim-belushi-bought-13-acres-beside-oregons-rogue-river-and-expanded-his-retreat-to-93-acres-years-later-the-actor-described-a-sanctuary-with-a-sweat-lodge-50-cows-and-50-newly-born-calves/articleshow/134770372.cms",
+            "source": "Times of India",
+            "summary": "Jim Belushi has expanded his Oregon property from 13 acres to 93 acres, establishing a working ranch. The ranch serves as a spiritual sanctuary where he focuses on sobriety, family, and land stewardship. Belushi manages a herd of around 50 cows and 50 calves, emphasizing the ranch's working identity. His involvement in cannabis cultivation reflects a blend of business and lifestyle choices.",
+            "published": "2026-10-07T23:00:00+05:30"
+          },
+          {
             "title": "Canada suspends plans to expand assisted dying to people with mental illness",
             "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
             "published": "2026-10-07T17:29:46+00:00"
-          },
-          {
-            "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
-            "link": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
-            "source": "The Hindu",
-            "summary": "INDIA bloc leaders hint at more protests on Thursday as dramatic scenes unfold during the Opposition’s three-hour-long bus procession and the subsequent impromptu sit-in",
-            "published": "2026-10-07T22:58:40+05:30"
-          },
-          {
-            "title": "Pointing to Indus Water Treaty, Karnataka signals intent to revisit Cauvery water allocation",
-            "link": "https://www.thehindu.com/news/national/karnataka/pointing-to-indus-water-treaty-karnataka-signals-intent-to-reopen-cauvery-water-consensus/article71556952.ece",
-            "source": "The Hindu",
-            "summary": "The State’s response refers to international practices to revisit inter-State water allocations by agreement or adjudication in the changed circumstances, known as rebus sic stantibus",
-            "published": "2026-10-07T22:57:35+05:30"
-          },
-          {
-            "title": "Repair T1, don't force passengers and airlines to move to Navi Mumbai airport: Aaditya Thackeray",
-            "link": "https://www.hindustantimes.com/india-news/repair-t1-dont-force-passengers-and-airlines-to-move-to-navi-mumbai-airport-aaditya-thackeray-101791389705018.html",
-            "source": "Hindustan Times",
-            "summary": "Adani Airport Holdings Ltd has asked airlines to shift 33% of their international flights from Mumbai's CSMIA to Navi Mumbai International Airport",
-            "published": "2026-10-07T22:56:33+05:30"
-          },
-          {
-            "title": "Entire texture of CM Vijay’s election case changed, says Madras High Court Judge",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/entire-texture-of-cm-vijays-election-case-changed-says-madras-high-court-judge/article71556542.ece",
-            "source": "The Hindu",
-            "summary": "Justice V. Lakshminarayanan wants to know how Mr. Vijay would overcome the Supreme Court rulings on the subject",
-            "published": "2026-10-07T22:55:33+05:30"
-          },
-          {
-            "title": "CCG urges serving civil servants to uphold Constitution, resist 'partisan objectives'",
-            "link": "https://www.thehindu.com/news/national/ccg-urges-serving-civil-servants-to-uphold-constitution-resist-partisan-objectives/article71556580.ece",
-            "source": "The Hindu",
-            "summary": "Open letter flags alleged erosion of institutional independence, lack of dialogue and targeting of dissent",
-            "published": "2026-10-07T22:50:51+05:30"
-          },
-          {
-            "title": "Boots sold in £7bn deal to Canadian billionaire family",
-            "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The sale of the High Street chain was announced on Wednesday.",
-            "published": "2026-10-07T17:18:30+00:00"
-          },
-          {
-            "title": "Two cheetahs released into tiger reserve, their third habitat in Madhya Pradesh",
-            "link": "https://www.thehindu.com/news/national/madhya-pradesh/two-cheetahs-released-into-tiger-reserve-their-third-habitat-in-madhya-pradesh/article71556825.ece",
-            "source": "The Hindu",
-            "summary": "After Kuno National Park in Sheopur and Gandhi Sagar Wildlife Sanctuary in Mandsaur, the tiger reserve in Bundelkhand will be the third cheetah habitat in MP",
-            "published": "2026-10-07T22:47:37+05:30"
-          },
-          {
-            "title": "Elon Musk blames Starlink hurdles in India on ‘monopolistic chokeholds’",
-            "link": "https://www.hindustantimes.com/india-news/elon-musk-blames-starlink-roadblocks-in-india-on-monopolistic-chokeholds-101791392998055.html",
-            "source": "Hindustan Times",
-            "summary": "Musk said Starlink is being blocked by “certain oligarchs” in India seeking to maintain a “monopolistic chokehold” on people.",
-            "published": "2026-10-07T22:46:28+05:30"
-          },
-          {
-            "title": "No child should have to learn in a cold classroom - children's commissioner",
-            "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
-            "published": "2026-10-07T17:15:26+00:00"
-          },
-          {
-            "title": "‘You are doing your job’: Detained Rahul Gandhi offers water to police - watch",
-            "link": "https://timesofindia.indiatimes.com/india/you-are-doing-your-job-detained-rahul-gandhi-offers-water-to-police-watch/articleshow/134770647.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-07T22:44:38+05:30"
-          },
-          {
-            "title": "Gen Z gives ‘Dilli Chalo’ call to fix ‘broken system’",
-            "link": "https://www.thehindu.com/news/national/gen-z-gives-dilli-chalo-call-to-fix-broken-system/article71556496.ece",
-            "source": "The Hindu",
-            "summary": "CJP says stir to continue till electoral system is ‘reformed’, urges youth to ‘book tickets to Delhi’; AISA’s Neha Bora says the protest is a fight by ‘we the people of India’ against the BJP to ‘save democracy’",
-            "published": "2026-10-07T22:43:25+05:30"
-          },
-          {
-            "title": "Gyanesh Kumar has become an ‘instrument’ of Modi to win elections: Revanth Reddy",
-            "link": "https://www.thehindu.com/news/national/telangana/gyanesh-kumar-has-become-an-instrument-of-modi-to-win-elections-revanth-reddy/article71556925.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-07T22:42:33+05:30"
-          },
-          {
-            "title": "US mortgage rates hit their highest level in three years",
-            "link": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.",
-            "published": "2026-10-07T17:05:10+00:00"
           }
         ],
         "India": [
           {
-            "title": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
-            "link": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
+            "title": "State Central Library branch opened at Technopark",
+            "link": "https://www.thehindu.com/news/national/kerala/state-central-library-branch-opened-at-technopark/article71556065.ece",
             "source": "The Hindu",
-            "summary": "INDIA bloc leaders hint at more protests on Thursday as dramatic scenes unfold during the Opposition’s three-hour-long bus procession and the subsequent impromptu sit-in",
-            "published": "2026-10-07T22:58:40+05:30"
+            "summary": "",
+            "published": "2026-10-07T23:27:23+05:30"
           },
           {
-            "title": "Pointing to Indus Water Treaty, Karnataka signals intent to revisit Cauvery water allocation",
-            "link": "https://www.thehindu.com/news/national/karnataka/pointing-to-indus-water-treaty-karnataka-signals-intent-to-reopen-cauvery-water-consensus/article71556952.ece",
+            "title": "Jharkhand CM Hemant Soren’s mother Roopi Soren dies",
+            "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-sorens-mother-roopi-soren-dies/article71557123.ece",
             "source": "The Hindu",
-            "summary": "The State’s response refers to international practices to revisit inter-State water allocations by agreement or adjudication in the changed circumstances, known as rebus sic stantibus",
-            "published": "2026-10-07T22:57:35+05:30"
+            "summary": "Roopi was admitted to Hill View Hospital & Research Centre on September 18, with breathing difficulties and placed on a ventilator on October 7",
+            "published": "2026-10-07T23:12:34+05:30"
           },
           {
-            "title": "Repair T1, don't force passengers and airlines to move to Navi Mumbai airport: Aaditya Thackeray",
-            "link": "https://www.hindustantimes.com/india-news/repair-t1-dont-force-passengers-and-airlines-to-move-to-navi-mumbai-airport-aaditya-thackeray-101791389705018.html",
-            "source": "Hindustan Times",
-            "summary": "Adani Airport Holdings Ltd has asked airlines to shift 33% of their international flights from Mumbai's CSMIA to Navi Mumbai International Airport",
-            "published": "2026-10-07T22:56:33+05:30"
-          },
-          {
-            "title": "Entire texture of CM Vijay’s election case changed, says Madras High Court Judge",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/entire-texture-of-cm-vijays-election-case-changed-says-madras-high-court-judge/article71556542.ece",
+            "title": "Kashmir-born filmmaker held in U.S. likely to be freed soon, says family",
+            "link": "https://www.thehindu.com/news/national/kashmir-born-filmmaker-held-in-us-likely-to-be-freed-soon-says-family/article71556733.ece",
             "source": "The Hindu",
-            "summary": "Justice V. Lakshminarayanan wants to know how Mr. Vijay would overcome the Supreme Court rulings on the subject",
-            "published": "2026-10-07T22:55:33+05:30"
+            "summary": "Sheikh Arfat won many awards after multiple screenings of his movie Saffron Kingdom in several parts of the United States and Europe",
+            "published": "2026-10-07T23:11:01+05:30"
           },
           {
-            "title": "CCG urges serving civil servants to uphold Constitution, resist 'partisan objectives'",
-            "link": "https://www.thehindu.com/news/national/ccg-urges-serving-civil-servants-to-uphold-constitution-resist-partisan-objectives/article71556580.ece",
+            "title": "US Man Out-Streamed Taylor Swift, But No One Was Listening",
+            "link": "https://www.ndtv.com/world-news/ai-streaming-fraud-taylor-swift-us-man-out-streamed-youtube-but-no-one-was-listening-12153165#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Michael Smith, 54, was sentenced for taking part in a scheme to \"defraud music streaming platforms and musicians of royalty payments\", according to the US Attorney's Office.",
+            "published": "2026-10-07T23:10:47+05:30"
+          },
+          {
+            "title": "Pfizer partners with GITAM to train rural women for pharmaceutical careers",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/pfizer-partners-with-gitam-to-train-rural-women-for-pharmaceutical-careers/article71556743.ece",
             "source": "The Hindu",
-            "summary": "Open letter flags alleged erosion of institutional independence, lack of dialogue and targeting of dissent",
-            "published": "2026-10-07T22:50:51+05:30"
+            "summary": "",
+            "published": "2026-10-07T23:09:49+05:30"
           },
           {
-            "title": "Two cheetahs released into tiger reserve, their third habitat in Madhya Pradesh",
-            "link": "https://www.thehindu.com/news/national/madhya-pradesh/two-cheetahs-released-into-tiger-reserve-their-third-habitat-in-madhya-pradesh/article71556825.ece",
+            "title": "A 1985 Viral Pic And 2 Young Coursemates, Who Are Now Army, Air Force Chief",
+            "link": "https://www.ndtv.com/india-news/a-1985-viral-pic-and-2-young-coursemates-who-are-now-army-air-force-chief-general-dhiraj-seth-air-marshal-ashutosh-dixit-12153162#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The two officers are Army chief General Dhiraj Seth and the next chief of the Indian Air Force, Air Marshal Ashutosh Dixit.",
+            "published": "2026-10-07T23:09:42+05:30"
+          },
+          {
+            "title": "2 Children, Pregnant Woman Killed In Building Collapse In Delhi. 8 Injured",
+            "link": "https://www.ndtv.com/india-news/many-feared-trapped-as-building-collapses-in-delhis-seemapuri-a-month-after-satya-niketan-tragedy-12150995#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The Delhi Fire Service (DFS) received a call regarding the collapse at 3.30 pm and rushed fire engines to the spot.",
+            "published": "2026-10-07T23:08:39+05:30"
+          },
+          {
+            "title": "CEC row LIVE: Rahul Gandhi's 'They cannot stop our will' message after Jantar Mantar protest",
+            "link": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
             "source": "The Hindu",
-            "summary": "After Kuno National Park in Sheopur and Gandhi Sagar Wildlife Sanctuary in Mandsaur, the tiger reserve in Bundelkhand will be the third cheetah habitat in MP",
-            "published": "2026-10-07T22:47:37+05:30"
+            "summary": "Lok Sabha LoP Rahul Gandhi and Congress MP Priyanka Gandhi were released after being detained during the INDIA bloc’s protest march towards Jantar Mantar.",
+            "published": "2026-10-07T23:02:28+05:30"
           },
           {
-            "title": "Elon Musk blames Starlink hurdles in India on ‘monopolistic chokeholds’",
-            "link": "https://www.hindustantimes.com/india-news/elon-musk-blames-starlink-roadblocks-in-india-on-monopolistic-chokeholds-101791392998055.html",
-            "source": "Hindustan Times",
-            "summary": "Musk said Starlink is being blocked by “certain oligarchs” in India seeking to maintain a “monopolistic chokehold” on people.",
-            "published": "2026-10-07T22:46:28+05:30"
+            "title": "Jharkhand Chief Minister Hemant Soren's Mother Rupi Soren Dies At 80",
+            "link": "https://www.ndtv.com/india-news/jharkhand-chief-minister-hemant-sorens-mother-rupi-soren-dies-at-80-12153120#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The wife of Jharkhand Mukti Morcha founder and former chief minister, the late Shibu Soren, was in critical condition and on ventilator support.",
+            "published": "2026-10-07T23:00:31+05:30"
           },
           {
-            "title": "‘You are doing your job’: Detained Rahul Gandhi offers water to police - watch",
-            "link": "https://timesofindia.indiatimes.com/india/you-are-doing-your-job-detained-rahul-gandhi-offers-water-to-police-watch/articleshow/134770647.cms",
+            "title": "Five ‘terrorist associates’ held, hideout busted in Kashmir: police",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/five-terrorist-associates-held-hideout-busted-in-kashmir-police/article71556989.ece",
+            "source": "The Hindu",
+            "summary": "Joint operation in Kulgam district resulted in arrest of five ‘terrorist associates’ and recovery of two pistols and some ammunition; old hideout destroyed in a forested area in Handwara, huge cache of arms and ammo recovered",
+            "published": "2026-10-07T23:00:29+05:30"
+          },
+          {
+            "title": "Jim Belushi expanded Oregon retreat from 13 to 93 acres with cattle and sanctuary",
+            "link": "https://timesofindia.indiatimes.com/world/us/jim-belushi-bought-13-acres-beside-oregons-rogue-river-and-expanded-his-retreat-to-93-acres-years-later-the-actor-described-a-sanctuary-with-a-sweat-lodge-50-cows-and-50-newly-born-calves/articleshow/134770372.cms",
             "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-07T22:44:38+05:30"
+            "summary": "Jim Belushi has expanded his Oregon property from 13 acres to 93 acres, establishing a working ranch. The ranch serves as a spiritual sanctuary where he focuses on sobriety, family, and land stewardship. Belushi manages a herd of around 50 cows and 50 calves, emphasizing the ranch's working identity. His involvement in cannabis cultivation reflects a blend of business and lifestyle choices.",
+            "published": "2026-10-07T23:00:00+05:30"
           },
           {
-            "title": "Gen Z gives ‘Dilli Chalo’ call to fix ‘broken system’",
-            "link": "https://www.thehindu.com/news/national/gen-z-gives-dilli-chalo-call-to-fix-broken-system/article71556496.ece",
-            "source": "The Hindu",
-            "summary": "CJP says stir to continue till electoral system is ‘reformed’, urges youth to ‘book tickets to Delhi’; AISA’s Neha Bora says the protest is a fight by ‘we the people of India’ against the BJP to ‘save democracy’",
-            "published": "2026-10-07T22:43:25+05:30"
-          },
-          {
-            "title": "Gyanesh Kumar has become an ‘instrument’ of Modi to win elections: Revanth Reddy",
-            "link": "https://www.thehindu.com/news/national/telangana/gyanesh-kumar-has-become-an-instrument-of-modi-to-win-elections-revanth-reddy/article71556925.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-07T22:42:33+05:30"
-          },
-          {
-            "title": "L-G enforces major administrative reshuffle in J&K, ruffles feathers with elected government",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/l-g-enforces-major-administrative-reshuffle-in-jk-ruffles-feathers-with-elected-government/article71556915.ece",
-            "source": "The Hindu",
-            "summary": "The L-G must have enforced these transfers with a good vision, says CM Omar Abdullah, adding that the elected government will prepare to work with these officers now",
-            "published": "2026-10-07T22:33:21+05:30"
-          },
-          {
-            "title": "‘Responding well’: MEA gives health update on pilot Smit Machchhar after flydubai cockpit attack",
-            "link": "https://www.hindustantimes.com/india-news/responding-well-mea-gives-health-update-on-indian-pilot-smit-machchhar-after-cockpit-attack-flydubai-101791392226173.html",
-            "source": "Hindustan Times",
-            "summary": "MEA spokesperson Randhir Jaiswal assured that Indian diplomatic authorities were in continuous contact with the hospital team overseeing his care.",
-            "published": "2026-10-07T22:32:31+05:30"
+            "title": "\"Not Just An Attempt To Kill Israelis\": Ambassador Reuven Azar On flydubai Attack",
+            "link": "https://www.ndtv.com/india-news/not-just-an-attempt-to-kill-israelis-ambassador-reuven-azar-on-flydubai-attack-12153068#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"What terrorists are trying to do is to always find cracks in the system and our job is to narrow those gaps,\" Reuven Azar said on the third anniversary of the October 7 attack.",
+            "published": "2026-10-07T22:58:58+05:30"
           }
         ],
         "World": [
+          {
+            "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+            "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+            "published": "2026-10-07T17:47:31+00:00"
+          },
           {
             "title": "Canada suspends plans to expand assisted dying to people with mental illness",
             "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
             "published": "2026-10-07T17:29:46+00:00"
+          },
+          {
+            "title": "Over 100 arrested in Belgium student protests over education costs",
+            "link": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Protesting students have demanded education reforms in French-speaking areas of the country.",
+            "published": "2026-10-07T17:28:56+00:00"
           },
           {
             "title": "US mortgage rates hit their highest level in three years",
@@ -211,13 +225,6 @@
             "source": "Al Jazeera",
             "summary": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.",
             "published": "2026-10-07T16:47:24+00:00"
-          },
-          {
-            "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-            "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-            "published": "2026-10-07T16:41:57+00:00"
           },
           {
             "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "There have been many cases of top spies giving classified information to enemy nations. Here are some of the highlights.",
             "published": "2026-10-07T14:52:26+00:00"
-          },
-          {
-            "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-            "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-            "published": "2026-10-07T14:50:28+00:00"
           }
         ],
         "Business": [
@@ -364,18 +364,18 @@
         ],
         "Sports": [
           {
+            "title": "BJ Watling appointed New Zealand men's batting coach",
+            "link": "https://www.cricinfo.com/ci/content/story/1557511.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Watling will take over from Luke Ronchi following the conclusion of New Zealand's Test series against India in December",
+            "published": "2026-10-07T17:37:51+00:00"
+          },
+          {
             "title": "From Rejection To World Record: Ishaan S Swims Across The Palk Strait",
             "link": "https://sports.ndtv.com/swimming/from-rejection-to-world-record-ishaan-s-swims-across-the-palk-strait-12152976#publisher=newsstand",
             "source": "NDTV Sports",
             "summary": "For his mother, A. Sharmila, a Chennai-based techie, the 64-km swim is far more than a world record.",
             "published": "2026-10-07T22:31:33+05:30"
-          },
-          {
-            "title": "BJ Watling appointed New Zealand men's batting coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1557511.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Watling will take over from Luke Ronchi following the conclusion of New Zealand's Test series against India in December",
-            "published": "2026-10-07T16:49:01+00:00"
           },
           {
             "title": "SA20 2027 Auction Highlights: Faf Du Plessis, Kieron Pollard Bought By Super Kings But Costliest Buy Is Someone Else",
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Bihar News: देशभर के युवाओं के लिए LIVE हुआ YellowDots Talent DPI, मुफ्त कोचिंग के साथ मिलेगा AI ट्यूटर और IIT खड़गपुर का सर्टिफिकेट",
+            "link": "https://hindi.oneindia.com/news/india/yellowdots-talent-digital-public-infrastructure-ai-skills-platform-012-1663679.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-10-07T23:01:14+05:30"
+          },
+          {
+            "title": "इंडिगो फ्लाइट पर बिजली गिरी, लखनऊ में इमरजेंसी लैंडिंग:विमान का अगला हिस्सा क्षतिग्रस्त; पटना से अहमदाबाद जा रही थी",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/sarojini-nagar/news/indigo-flight-lightning-strike-lucknow-patna-emergency-landing-139281093.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-07T15:58:53+00:00"
+          },
+          {
             "title": "रिहा होने के बाद बोले राहुल गांधी- मोदी, शाह, और ज्ञानेश कुमार को कटघरे में लाएंगे",
             "link": "https://www.bbc.com/hindi/articles/cmqlnrqd9qp5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-07T18:55:54+05:30"
-          },
-          {
-            "title": "जम्मू में BSF महिला कांस्टेबल की गोली लगने से मौत:जम्मू के आरएस पुरा सेक्टर में तैनात थीं, फायरिंग की वजह साफ नहीं",
-            "link": "https://www.bhaskar.com/national/news/jammu-rs-pura-bsf-constable-death-raj-lakshmi-border-post-case-139279481.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-07T13:22:47+00:00"
-          },
-          {
-            "title": "वायुसेना की क्षमता बढ़ी लेकिन रफ्तार और तेज करनी होगी:एयर चीफ मार्शल सिंह बोले- फाइटर प्लेन एमके 1A में देरी चिंता की बात",
-            "link": "https://www.bhaskar.com/national/news/iaf-chief-ap-singh-lca-mk-1a-delivery-delay-new-delhi-statement-139279403.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-07T13:15:11+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "సర్ రద్దు చేయాలి.. సీఈసీ జ్ఞానేష్ కుమార్ రాజీనామా చేయాలి: సీఎం రేవంత్ రెడ్డి",
+            "link": "https://telugu.oneindia.com/news/telangana/cmrevanth-reddy-sensational-comments-on-centre-sir-must-be-cancelled-cec-gyanesh-kumar-must-resign-509663.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-07T23:05:19+05:30"
+          },
+          {
             "title": "SIR కు వ్యతిరేకంగా రేపు బెంగళూరులో Chappal protest.. చీఫ్ గెస్ట్ గా ధ్రువ్ రాఠే",
             "link": "https://telugu.oneindia.com/news/india/dhruvrathee-special-guest-at-the-protest-in-bengaluru-freedom-park-on-october-8-prakash-raj-tells-509661.html",
             "source": "Oneindia Telugu",
@@ -1084,13 +1091,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-07T16:15:36+00:00"
-          },
-          {
-            "title": "స్టార్‌బక్స్‌ కాఫీ కప్పుపై మెహెందీ డిజైన్‌ వేసి.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUUQ0VnNVYmxxejd5TTBNa2d4Z0hFMTV1d2lud1pzR3J4WmdIakpMeE9JUkJidlJMS09NeUltVHA4OFFpdFdQZVRSa2RSZTFienFoTUdIR1VnV25vWlZKbVVGNW5GR3lLLXhjd1V0b3BVc25FeU9KaXZLdE5FTm5MNFVOcFdOUy0zbnFlMXV5VWhlMkNKQ1JiaHBkQ2dhSFRhdlA2RlpqOEVkd2FGRHlteWlsZVZYcHhvb2lERWNWaVhjQVJuSndzaXh4eVJjOGNWUlpabzlrdzA1Q0FfNklGSjQySzdYMHZQN25RatIB7AFBVV95cUxQUUQ0VnNVYmxxejd5TTBNa2d4Z0hFMTV1d2lud1pzR3J4WmdIakpMeE9JUkJidlJMS09NeUltVHA4OFFpdFdQZVRSa2RSZTFienFoTUdIR1VnV25vWlZKbVVGNW5GR3lLLXhjd1V0b3BVc25FeU9KaXZLdE5FTm5MNFVOcFdOUy0zbnFlMXV5VWhlMkNKQ1JiaHBkQ2dhSFRhdlA2RlpqOEVkd2FGRHlteWlsZVZYcHhvb2lERWNWaVhjQVJuSndzaXh4eVJjOGNWUlpabzlrdzA1Q0FfNklGSjQySzdYMHZQN25Rag?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-07T16:10:44+00:00"
           },
           {
             "title": "పాకిస్థాన్ లో కిలో గోధుమ పిండి ధర ఎంతో తెలిస్తే షాక్ అవుతారు..!",
@@ -1112,13 +1112,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-07T15:19:23+00:00"
-          },
-          {
-            "title": "Uttar Pradesh: ట్రక్కును ఢీకొన్న కారు.. ముగ్గురు టెన్నిస్‌ ప్లేయర్ల మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObURJbnFLRmZ1YWRnUTVCN3NWc3Rpc2tDOTQ1S0RyQjVKLUJjaDltd2cyRW43RXp0Z3JuSEJELU9keFpnWDJtR255dHBkU05KMXRIckFyRjlOYVljZmpZNWFMdUZsZW5jYTJSRzVsWmkxWHQweDF5SUFFcS1uVUs4RDI1aDJ3eWpSVDdOUzFKREZVdTZxbjRxUHFfYl9ySEhVbUs1N016YUZ6V2ZnNW92aGtmazdsLUJWdGlv0gG7AUFVX3lxTE5tRElucUtGZnVhZGdRNUI3c1ZzdGlza0M5NDVLRHJCNUotQmNoOW13ZzJFbjdFenRncm5IQkQtT2R4WmdYMm1Hbnl0cGRTTkoxdEhyQXJGOU5hWWNmalk1YUx1RmxlbmNhMlJHNWxaaTFYdDB4MXlJQUVxLW5VSzhEMjVoMnd5alJUN05TMUpERlV1NnFuNHFQcV9iX3JISFVtSzU3TXphRnpXZmc1b3Zoa2ZrN2wtQlZ0aW8?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-07T15:09:03+00:00"
           },
           {
             "title": "JimJimTara viral trend: జింజిం తారా.. జింజిం తారా.. జిలేబీ తేరా చిన్నోడా.. ఇన్‌స్టాలో వైరల్‌ పాట - Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-07T14:41:13+00:00"
+          },
+          {
+            "title": "జలాశయం నిర్మించి మా జీవితాలను ఆగం చేయొద్దు: గీత కార్మికులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2ZSTmpMb25kajg0NndhWU1nU0Z4TWpPaUNDeEpidWVsclR2R3RDa3VjOTR5eVk2SFNiSDRRSk84TWNIcWx3S1RSbXhlbmRnV2JQSjZsclJwUFJsVnh4S1pKamhDTF90NFNPdkVnSC1ONXg4a0g4QkNOVFpORHJmYQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-07T14:38:14+00:00"
           }
         ],
         "Entertainment": [
@@ -1482,6 +1482,13 @@
             "published": "2026-10-07T10:37:42+00:00"
           },
           {
+            "title": "আজকের দিন বৃশ্চিক রাশি- ০৮ অক্টোবর, ২০২৬ - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDRrcmpqSC1ocjJtMFh6clZkdzNyQnlyY0lQUVphU05kWDEzWEtuLXcxSmRlVGwzeThRdVVPdFI5OUFMdnl2T0Jhd2h4bVBYelY3QXp1dkQzVGh6QldXS3ZkVjF1WTBGcUV4VlU3VlNiM3lwRmZsVUxsd0UwMm1CemhGcExwTUJiVmQ5UkNxcVZUeEdyMFBOWTFjdkhmQ3dyY2FFb09DTDlFYlRKY042OC10T1HSAboBQVVfeXFMUGM2YzBEZ3hoem9xUDd3MlpDaU5MbEllQ2ZXV2RSNHJ3UENWRUFmcVJVRTVnWFF4d0FaSWxNak9YelhRMHU3V1hvQTJRR05jRXZkOFQzTjAtOGdGN0taVG1OWFhrNmRaYkdJVkZ3MjZwWEoxQXpCRU1Sbnd6OHZBSmFiQnFpZ1VLbllNOF9YMG05VGxNSDRRNC1PUU5PbkdIcFB6d29UakFSNUNiY3lDSHI3UDRWSjRKRHRR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-07T10:33:29+00:00"
+          },
+          {
             "title": "আগরকর নির্বাচক কমিটি থেকে সরতেই দলে ভুবনেশ্বর! কী ভাবে ‘নির্বাসন’ থেকে জাতীয় দলে ফিরলেন জোরে বোলার? ফাঁস রহস্য - Anandabazar",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVE3R3Ezak9hOFBqU3hkTWdjbFZmUDNqaFRPeFctOGZrRWhNdndBeVNxSGp6aUFMdHBmSTR1RTVIVW9XY3ZKTXlqX1duY0NyZ3owejhfdndxYmZ4MDh2Wi1uSzNnTHNNZ3l1ZDV5U0YtTm1vZ1FEUGkwQ0JnWnB5Wjd5MzdBWjN2OEVocDRUenFtWmRseDhzaC03ZTZyU1NoUTFaWE5EX2TSAa4BQVVfeXFMUHY3MWlqMHAwVTRZVzdGbXk0bTJuMXJaSHYtdjZqWW12cVlMSHRFd0dlNnhoX3NLdG9aWkhYX3N6NUlTNHVlZ1ZQMXluLXhlWWFCZGRkd2I1RUxvOUZqQ00tbzB2cW1RV1JpYmhiM3hpN21wTmNTZC0yMkpHZEluOVVnQkphNFVNUHBiTXUyakN1dEFlUXl0NDJJa1FzZDBfR3FCMExkVTBYckVxRm5R?oc=5",
             "source": "Anandabazar Patrika",
@@ -1489,25 +1496,18 @@
             "published": "2026-10-07T10:33:03+00:00"
           },
           {
+            "title": "আজকের দিন তুলা রাশি- ০৮ অক্টোবর, ২০২৬ - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndKREJZYnB0ZklDUHFvd2NrYWNISTB6RkhSYWJMR2t2Q0tmaXlCYndyRG9SRUIwRGFOTkNjMEpPUUI3dVNTa2c3cHpBYmxFYUllR19wX3h6dEJHOXcyeFc3aFl0ZllvRHM4NWJic2JCaG0yY3Vrb2V4NnoxS19vRXFTSHRrS1VhU2I1MjRyaFR1aXR6MkpPZHdhNXRGN09BZnpNNnBPVU1JcHfSAbABQVVfeXFMTVpia1dPQ1VvdUdxcEtIMUVSWm13U2RIYUtHbXNKOW1iVFJ5MjRHbl9Jc0xJMTVVcEVRUDJaOU1icXVRUGw1bFNBZlJLVlN0YjAxQlU2clNvM0dDN3NTVmItV0FONlRVa3VHSV9LLVowMm5YSmNZNE8td1VzRzVKRU5JVlZoajlrak91TXNkalA1bDU2R29ZS3o4bWNIRDJBaF9idWFjUTh5UnNFejdVY3Y?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-07T10:32:08+00:00"
+          },
+          {
             "title": "আজকের দিন কন্যা রাশি- ০৮ অক্টোবর, ২০২৬ - Anandabazar",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0hua0l1SkhTMElyX1ppa3VPX0RGNG1SaTd0dm1ERUlSRkJ4TnJnTnM3S0xMR3Nqbks1WFBBUWk4eXc3WXA1NzRsSkZ5STNMRTgzZjBMRExEMGpCbXR1ZlBBYU5VV04tdFJrdF9VekhsN0V3M0RxSTJlS1lrOUthYWhKb1RqT2dwSjFJdE5UdW1STVAtdjg0bW1UYTZPdC1MWWhLRm1SWGd4WnBO0gGyAUFVX3lxTE5kMi14MUhSM1NJejFSSmdkaUY2WmZ5UDljV29XOXJwZlBMVmQ3dDVSVFdtUTFlMmYwUmtFR0xxemRQRW13UHItVXJTYnU2S1p1X2JoZzR4SW5PTnBmOG5xWlZfdXZ0S2FjREliaFA5bEVtZ2ZmSmdmU2xVVmJWQ1IweFZOTk5ZLU9TWFBUMkRGbnBkd0ppYmJZWlExYWE2VDJQaTMxb19OdFJMek5QUnlUQUE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-07T10:30:43+00:00"
-          },
-          {
-            "title": "আজকের দিন সিংহ রাশি- ০৮ অক্টোবর, ২০২৬ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGV2d1RNRW9pT1l3a0ZHS1YzQlhaZTlNZmtHd2pXbEdCSDBxQ0N0OGpqVVJrRzZpNEZGTlE0TEN1dDZqU2VrdGl1SjdQTVQ2QXZuRVJWRUplZktSVkQ3OHpGMlk1TVJtdkVycmxEcDdYMjJHa1ZRSDlCaENHMXV2dE5HTVpfRUczcGo4T2lqWEJDY1pZSXVGUmlMOXlrcTc1ZkVxVHNtNVVzV3PSAbABQVVfeXFMTjVmaUhHSHAyUjU3NVFEZmxRQW9aNzFCOGVLMkQ1dHFoaTJiaUVJZzd5bS1NMzNnU0JsTUI5Q1pPck5HUzZ0aDkyWHJ3VFF6dnBBQzJjRGpVYXR4aFo5MGZnZXpDcGl0ZEhzdWZ4em5zMlk5RWZleWp6NUk5SGNvT1U0Vm83bk42WFVIcDlCWUZfX2JuOVk3eWJzZ19PY20xZ2hEY1Y5MnIyQjIzeEliQXE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-07T10:28:38+00:00"
-          },
-          {
-            "title": "জ্ঞান ফিরেছে, কথাও বলছেন আমেরিকার সাজাপ্রাপ্ত সেই আসামি ক্রিস্টা! মৃত্যুদণ্ড কার্যকর করতে বিষপ্রয়োগ করা হয় ২ বার - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGYtT3dkTjlVS3pVNkVDNllhZDNUMlBhc0pYZHF3UHNzc2l5bzZMblN3UXVTQnZRTnNpRTV0MXh1MmMtdzJyZzZEb3BhYU9kMXFjdUkyNllFeHI0cGFZeHcwbjFubW5PRGJZSC1tQVB1YzhJVTJWZFVkaU5PWGQ5THp3QzNIV3o2emlLN2NWYkw5elNXYXlhWGNDTEZuRlZTWEdncVBtSdIBrAFBVV95cUxQTGJwZGVOMjQ5MkktV2xmV3doeDBWN0NxN3NzWjFqWWdfNWEtMDdUS19Mb3BWYnZSNkd3U1lobTdQWUt4Tno5QjJScEZxVmVEY3FyVXBONy01SHBEX3FHTHFTY3laRHpCbm4yRHY4bF81bnZfbm5WcTl2MGNoQmwxTFY1SWduWlZJeDhRcDJSeFM5N3pIaTM5TjFOSVl0R0NmS1ZRZGNjUmdNc3Vh?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-07T09:37:22+00:00"
           }
         ]
       }
