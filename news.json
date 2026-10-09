@@ -1,202 +1,223 @@
 {
-  "updated_at": "2026-10-09T19:01:21.251257+00:00",
+  "updated_at": "2026-10-09T19:31:06.349099+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Hyderabad’s common mobility pass fails to hit the mark",
+            "link": "https://www.thehindu.com/news/national/telangana/hyderabads-common-mobility-pass-fails-to-hit-the-mark/article71564182.ece",
+            "source": "The Hindu",
+            "summary": "Priced at ₹8,500 a month, the new pass allows unlimited travel on Metro Rail and RTC buses within the ORR limits but excludes MMTS and last-mile services. Commuters say affordable fares, feeder connectivity and coordination among transport agencies are essential for seamless travel",
+            "published": "2026-10-10T00:56:07+05:30"
+          },
+          {
+            "title": "Trump announces deal with Putin to release Russian diesel",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
+            "published": "2026-10-09T19:24:38+00:00"
+          },
+          {
+            "title": "Commentator Katie Zacharia picked as new White House press secretary",
+            "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+            "published": "2026-10-09T19:22:33+00:00"
+          },
+          {
+            "title": "Breakfast scheme brings more students to schools in Telangana",
+            "link": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
+            "source": "The Hindu",
+            "summary": "Increased enrolment, enhanced attendance, no complaints of hunger and more energy among students throughout the day were some of the key factors that emerged as focal points in the Telangana schools after the introduction of the breakfast scheme this academic year, according to a survey in Kodangal constituency by Third Vision Research and Services",
+            "published": "2026-10-10T00:51:09+05:30"
+          },
+          {
+            "title": "Injured Orangutan rescued from Indonesia wildfires",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.",
+            "published": "2026-10-09T19:14:56+00:00"
+          },
+          {
+            "title": "World Hospice and Palliative Care Day to be celebrated on October 10",
+            "link": "https://www.thehindu.com/news/national/kerala/world-hospice-and-palliative-care-day-to-be-celebrated-on-october-10/article71565100.ece",
+            "source": "The Hindu",
+            "summary": "Pallium India’s celebration will bring together patients, families, caregivers, healthcare professionals, and volunteers",
+            "published": "2026-10-10T00:44:20+05:30"
+          },
+          {
+            "title": "T.N. Home Secretary transferred, Prem Anand Sinha posted as Director of DVAC",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-home-secretary-tneb-chairman-transferred/article71562513.ece",
+            "source": "The Hindu",
+            "summary": "Tamil Nadu Home Secretary K. Manivasan has been replaced by A. Karthik, Chairman and Managing Director of the Tamil Nadu Small Industries Development Corporation (TANSIDCO).",
+            "published": "2026-10-10T00:40:33+05:30"
+          },
+          {
+            "title": "T.N. says Karnataka’s scant respect for CWMA’s orders has affected its Cauvery Basin farmers",
+            "link": "https://www.thehindu.com/news/national/tn-says-karnatakas-scant-respect-for-cwmas-orders-has-affected-its-cauvery-basin-farmers/article71564810.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:36:41+05:30"
+          },
+          {
+            "title": "Form 7 objections rise by 19,376 in four days during SIR in Karnataka",
+            "link": "https://www.thehindu.com/news/national/karnataka/form-7-objections-rise-by-19376-in-four-days-during-sir-in-karnataka/article71564718.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:35:45+05:30"
+          },
+          {
+            "title": "Supreme Court backs T.N. Speaker’s decision to drop disqualification proceedings against AIADMK MLAs",
+            "link": "https://www.thehindu.com/news/national/supreme-court-backs-tn-speakers-decision-to-drop-disqualification-proceedings-against-aiadmk-mlas/article71564397.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:32:32+05:30"
+          },
+          {
+            "title": "CEC row updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke",
+            "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
+            "source": "The Hindu",
+            "summary": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
+            "published": "2026-10-10T00:31:24+05:30"
+          },
+          {
+            "title": "Rahul Gandhi to address students in Chennai today",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/rahul-gandhi-to-address-students-in-chennai-today/article71564848.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:29:57+05:30"
+          },
+          {
+            "title": "Five-tier security for Prime Minister’s Chennai visit",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/five-tier-security-for-prime-ministers-chennai-visit/article71564916.ece",
+            "source": "The Hindu",
+            "summary": "The arrangement includes 15,000 officers and personnel. City Police Commissioner A. Amalraj chairs review meeting",
+            "published": "2026-10-10T00:29:20+05:30"
+          },
+          {
             "title": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase",
             "link": "https://www.cricinfo.com/ci/content/story/1557797.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "India put up 249 for 5 but without Jasprit Bumrah the bowlers couldn't defend it",
             "published": "2026-10-09T18:56:51+00:00"
-          },
-          {
-            "title": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke",
-            "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
-            "source": "The Hindu",
-            "summary": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
-            "published": "2026-10-10T00:25:57+05:30"
-          },
-          {
-            "title": "Raza leads Zimbabwe in Ngarava's absence at UAE tri-series",
-            "link": "https://www.cricinfo.com/ci/content/story/1557800.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The team will stay in the country to play Afghanistan in three T20Is and two Tests",
-            "published": "2026-10-09T18:54:48+00:00"
-          },
-          {
-            "title": "Karnataka HC stays probe into FIRs against two BJP booth-level agents in Form 7 row",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hc-stays-probe-into-firs-against-two-bjp-booth-level-agents-in-form-7-row/article71564852.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:23:07+05:30"
-          },
-          {
-            "title": "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/units-grappling-with-rising-costs-says-expert-at-vettri-tamil-nadu-msme-summit-2026/article71564229.ece",
-            "source": "The Hindu",
-            "summary": "According to S. Vasudevan, president of Tanstia, Micro and Small Enterprises are presently undergoing an extremely challenging phase due to the West Asia conflict and the continuous increase in production and operational costs",
-            "published": "2026-10-10T00:22:13+05:30"
-          },
-          {
-            "title": "Commentator Katie Zacharia picked as new White House press secretary",
-            "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-            "published": "2026-10-09T18:52:06+00:00"
-          },
-          {
-            "title": "BJP says Rahul’s account of INDIA bloc meeting with President ‘politically motivated’",
-            "link": "https://www.thehindu.com/news/national/bjp-says-rahuls-account-of-india-bloc-meeting-with-president-politically-motivated/article71565642.ece",
-            "source": "The Hindu",
-            "summary": "While Congress leader says he was ‘shocked’ that the President did not ‘deny’ the Opposition’s ‘vote theft’ allegation, BJP’s Sudhanshu Trivedi says Rahul Gandhi twisted what had occurred",
-            "published": "2026-10-10T00:15:46+05:30"
-          },
-          {
-            "title": "Tale of two protests: Before CJP, dismissed BSF personnel were denied permission for Jantar Mantar agitation",
-            "link": "https://www.thehindu.com/news/national/before-cjp-400-former-bsf-personnel-were-denied-permission-to-protest-in-jantar-mantar/article71565335.ece",
-            "source": "The Hindu",
-            "summary": "Police told the former BSF personnel, who wanted to protest against their dismissal from service, that hunger strikes were unlawful and that a two-day continuous agitation is not permitted",
-            "published": "2026-10-10T00:12:49+05:30"
-          },
-          {
-            "title": "Kerala Postal Circle launches ‘Assured Next Day Delivery’ service",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-postal-circle-launches-assured-next-day-delivery-service/article71564978.ece",
-            "source": "The Hindu",
-            "summary": "Speed Post articles to be delivered next day in six Municipal Corporations of Keralam",
-            "published": "2026-10-10T00:12:25+05:30"
-          },
-          {
-            "title": "HC imposes costs on School Education department for delay in filing appeal",
-            "link": "https://www.thehindu.com/news/national/telangana/hc-imposes-costs-on-school-education-department-for-delay-in-filing-appeal/article71565263.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:10:29+05:30"
-          },
-          {
-            "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-            "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-            "published": "2026-10-09T18:40:10+00:00"
-          },
-          {
-            "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-            "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-            "published": "2026-10-09T18:40:05+00:00"
-          },
-          {
-            "title": "TVK allies hail byelection victory, says its an endorsement of government’s performance",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-allies-hail-byelection-victory-says-its-an-endorsement-of-governments-performance/article71564417.ece",
-            "source": "The Hindu",
-            "summary": "Alliance leaders including Thirumavalavan and Manickam Tagore congratulate the party on its electoral success",
-            "published": "2026-10-10T00:09:22+05:30"
-          },
-          {
-            "title": "University Teachers’ Association (Contract) seek regularisation, implementation of UGC pay scale",
-            "link": "https://www.thehindu.com/news/national/telangana/university-teachers-association-contract-seek-regularisation-implementation-of-ugc-pay-scale/article71564540.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:08:32+05:30"
           }
         ],
         "India": [
           {
-            "title": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke",
+            "title": "Hyderabad’s common mobility pass fails to hit the mark",
+            "link": "https://www.thehindu.com/news/national/telangana/hyderabads-common-mobility-pass-fails-to-hit-the-mark/article71564182.ece",
+            "source": "The Hindu",
+            "summary": "Priced at ₹8,500 a month, the new pass allows unlimited travel on Metro Rail and RTC buses within the ORR limits but excludes MMTS and last-mile services. Commuters say affordable fares, feeder connectivity and coordination among transport agencies are essential for seamless travel",
+            "published": "2026-10-10T00:56:07+05:30"
+          },
+          {
+            "title": "Breakfast scheme brings more students to schools in Telangana",
+            "link": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece",
+            "source": "The Hindu",
+            "summary": "Increased enrolment, enhanced attendance, no complaints of hunger and more energy among students throughout the day were some of the key factors that emerged as focal points in the Telangana schools after the introduction of the breakfast scheme this academic year, according to a survey in Kodangal constituency by Third Vision Research and Services",
+            "published": "2026-10-10T00:51:09+05:30"
+          },
+          {
+            "title": "World Hospice and Palliative Care Day to be celebrated on October 10",
+            "link": "https://www.thehindu.com/news/national/kerala/world-hospice-and-palliative-care-day-to-be-celebrated-on-october-10/article71565100.ece",
+            "source": "The Hindu",
+            "summary": "Pallium India’s celebration will bring together patients, families, caregivers, healthcare professionals, and volunteers",
+            "published": "2026-10-10T00:44:20+05:30"
+          },
+          {
+            "title": "T.N. Home Secretary transferred, Prem Anand Sinha posted as Director of DVAC",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-home-secretary-tneb-chairman-transferred/article71562513.ece",
+            "source": "The Hindu",
+            "summary": "Tamil Nadu Home Secretary K. Manivasan has been replaced by A. Karthik, Chairman and Managing Director of the Tamil Nadu Small Industries Development Corporation (TANSIDCO).",
+            "published": "2026-10-10T00:40:33+05:30"
+          },
+          {
+            "title": "T.N. says Karnataka’s scant respect for CWMA’s orders has affected its Cauvery Basin farmers",
+            "link": "https://www.thehindu.com/news/national/tn-says-karnatakas-scant-respect-for-cwmas-orders-has-affected-its-cauvery-basin-farmers/article71564810.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:36:41+05:30"
+          },
+          {
+            "title": "Form 7 objections rise by 19,376 in four days during SIR in Karnataka",
+            "link": "https://www.thehindu.com/news/national/karnataka/form-7-objections-rise-by-19376-in-four-days-during-sir-in-karnataka/article71564718.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:35:45+05:30"
+          },
+          {
+            "title": "Supreme Court backs T.N. Speaker’s decision to drop disqualification proceedings against AIADMK MLAs",
+            "link": "https://www.thehindu.com/news/national/supreme-court-backs-tn-speakers-decision-to-drop-disqualification-proceedings-against-aiadmk-mlas/article71564397.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-10T00:32:32+05:30"
+          },
+          {
+            "title": "CEC row updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke",
             "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
             "source": "The Hindu",
             "summary": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath–Kartavya Path crossing from 10 p.m. on October 9 to 10 p.m. on October 10.",
-            "published": "2026-10-10T00:25:57+05:30"
+            "published": "2026-10-10T00:31:24+05:30"
           },
           {
-            "title": "Karnataka HC stays probe into FIRs against two BJP booth-level agents in Form 7 row",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hc-stays-probe-into-firs-against-two-bjp-booth-level-agents-in-form-7-row/article71564852.ece",
+            "title": "Rahul Gandhi to address students in Chennai today",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/rahul-gandhi-to-address-students-in-chennai-today/article71564848.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-10-10T00:23:07+05:30"
+            "published": "2026-10-10T00:29:57+05:30"
           },
           {
-            "title": "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/units-grappling-with-rising-costs-says-expert-at-vettri-tamil-nadu-msme-summit-2026/article71564229.ece",
+            "title": "Five-tier security for Prime Minister’s Chennai visit",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/five-tier-security-for-prime-ministers-chennai-visit/article71564916.ece",
             "source": "The Hindu",
-            "summary": "According to S. Vasudevan, president of Tanstia, Micro and Small Enterprises are presently undergoing an extremely challenging phase due to the West Asia conflict and the continuous increase in production and operational costs",
-            "published": "2026-10-10T00:22:13+05:30"
+            "summary": "The arrangement includes 15,000 officers and personnel. City Police Commissioner A. Amalraj chairs review meeting",
+            "published": "2026-10-10T00:29:20+05:30"
           },
           {
-            "title": "BJP says Rahul’s account of INDIA bloc meeting with President ‘politically motivated’",
-            "link": "https://www.thehindu.com/news/national/bjp-says-rahuls-account-of-india-bloc-meeting-with-president-politically-motivated/article71565642.ece",
-            "source": "The Hindu",
-            "summary": "While Congress leader says he was ‘shocked’ that the President did not ‘deny’ the Opposition’s ‘vote theft’ allegation, BJP’s Sudhanshu Trivedi says Rahul Gandhi twisted what had occurred",
-            "published": "2026-10-10T00:15:46+05:30"
+            "title": "Ahead Of CJP Protest, Internet Cut For 24 Hours Around Jantar Mantar",
+            "link": "https://www.ndtv.com/india-news/ahead-of-cjp-protest-24-hour-internet-suspension-around-jantar-mantar-12162490#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The order has been issued by the Delhi Police.",
+            "published": "2026-10-10T00:26:05+05:30"
           },
           {
-            "title": "Tale of two protests: Before CJP, dismissed BSF personnel were denied permission for Jantar Mantar agitation",
-            "link": "https://www.thehindu.com/news/national/before-cjp-400-former-bsf-personnel-were-denied-permission-to-protest-in-jantar-mantar/article71565335.ece",
-            "source": "The Hindu",
-            "summary": "Police told the former BSF personnel, who wanted to protest against their dismissal from service, that hunger strikes were unlawful and that a two-day continuous agitation is not permitted",
-            "published": "2026-10-10T00:12:49+05:30"
-          },
-          {
-            "title": "Kerala Postal Circle launches ‘Assured Next Day Delivery’ service",
-            "link": "https://www.thehindu.com/news/national/kerala/kerala-postal-circle-launches-assured-next-day-delivery-service/article71564978.ece",
-            "source": "The Hindu",
-            "summary": "Speed Post articles to be delivered next day in six Municipal Corporations of Keralam",
-            "published": "2026-10-10T00:12:25+05:30"
-          },
-          {
-            "title": "HC imposes costs on School Education department for delay in filing appeal",
-            "link": "https://www.thehindu.com/news/national/telangana/hc-imposes-costs-on-school-education-department-for-delay-in-filing-appeal/article71565263.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:10:29+05:30"
-          },
-          {
-            "title": "TVK allies hail byelection victory, says its an endorsement of government’s performance",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-allies-hail-byelection-victory-says-its-an-endorsement-of-governments-performance/article71564417.ece",
-            "source": "The Hindu",
-            "summary": "Alliance leaders including Thirumavalavan and Manickam Tagore congratulate the party on its electoral success",
-            "published": "2026-10-10T00:09:22+05:30"
-          },
-          {
-            "title": "University Teachers’ Association (Contract) seek regularisation, implementation of UGC pay scale",
-            "link": "https://www.thehindu.com/news/national/telangana/university-teachers-association-contract-seek-regularisation-implementation-of-ugc-pay-scale/article71564540.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:08:32+05:30"
-          },
-          {
-            "title": "Awareness safety drive held for fishing boat owners",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/awareness-safety-drive-held-for-fishing-boat-owners/article71565184.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-10T00:08:08+05:30"
-          },
-          {
-            "title": "568 projects proposed under UDF government’s 100-day action plan implemented, says Keralam Chief Minister",
-            "link": "https://www.thehindu.com/news/national/kerala/568-projects-proposed-under-udf-governments-100-day-action-plan-implemented-says-keralam-chief-minister/article71565293.ece",
-            "source": "The Hindu",
-            "summary": "Satheesan announces the government’s second ‘mission’ christened ‘Janasparsham’ -- a ‘File Adalat’ lasting from October 15 to December 31 to dispose of pending files",
-            "published": "2026-10-10T00:05:30+05:30"
-          },
-          {
-            "title": "Public safety, past lapses: Why Delhi Police denied CJP permission for Jantar Mantar protest",
-            "link": "https://www.hindustantimes.com/india-news/public-safety-past-lapses-why-delhi-police-denied-cjp-permission-for-jantar-mantar-october-10-gyanesh-kumar-protest-101791570038308.html",
-            "source": "Hindustan Times",
-            "summary": "Delhi police said the right to protest is a fundamental right but that granting permission also requires authorities to consider the rights of other citizens.",
-            "published": "2026-10-10T00:04:39+05:30"
+            "title": "Delhi Protests Highlights: Number Of Delhi Metro Stations Shut Cut From 57 To 45, Hours After Supreme Court Order",
+            "link": "https://www.ndtv.com/india-news/delhi-protests-cjp-rahul-gandhi-election-commission-gyanesh-kumar-india-bloc-opposition-live-updates-news-12163169#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Delhi Protests Highlights: This comes ahead of a protest called by the Cockroach Janata Party (CJP) against the poll body chief.",
+            "published": "2026-10-10T00:25:47+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump announces deal with Putin to release Russian diesel",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
+            "published": "2026-10-09T19:24:38+00:00"
+          },
           {
             "title": "Commentator Katie Zacharia picked as new White House press secretary",
             "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-            "published": "2026-10-09T18:52:06+00:00"
+            "published": "2026-10-09T19:22:33+00:00"
+          },
+          {
+            "title": "Injured Orangutan rescued from Indonesia wildfires",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.",
+            "published": "2026-10-09T19:14:56+00:00"
+          },
+          {
+            "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+            "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+            "published": "2026-10-09T18:49:24+00:00"
           },
           {
             "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
@@ -253,30 +274,16 @@
             "source": "Al Jazeera",
             "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
             "published": "2026-10-09T17:37:05+00:00"
-          },
-          {
-            "title": "US immigration officials defend ICE agents who shot man in same car as child",
-            "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-            "published": "2026-10-09T17:36:09+00:00"
-          },
-          {
-            "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-            "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
-            "published": "2026-10-09T17:19:43+00:00"
-          },
-          {
-            "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-            "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-            "published": "2026-10-09T17:14:44+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Trump announces deal with Putin to release Russian diesel",
+            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
+            "published": "2026-10-09T19:24:38+00:00"
+          },
           {
             "title": "Burnham promises to curb non-compete rules in job contracts",
             "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "More than 260 industry leaders met to discuss the role wealthy residents play in Jersey's economy.",
             "published": "2026-10-09T05:29:43+00:00"
-          },
-          {
-            "title": "'You cannot build this car anywhere else in the world'",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
-            "published": "2026-10-09T05:11:49+00:00"
           }
         ],
         "Sports": [
@@ -627,11 +627,32 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "आज दिल्ली प्रदर्शन: मेट्रो-ट्रेनों के बाद अब इंटरनेट सेवा भी ठप; नई दिल्ली में चार किमी के दायरे में रहेगा बैन",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-protests-after-train-metro-services-internet-services-also-suspended-2026-10-09",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-10T12:41:36+05:30"
+          },
+          {
+            "title": "एनआईए ने दाखिल की चार्जशीट: पाकिस्तान में रची गई थी किश्तवाड़ आतंकी हमले की साजिश, जैश कमांडर दे रहा था हुक्म",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/kishtwar-terror-attack-plot-hatched-in-pakistan-nia-files-charge-sheet-2026-10-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-10T12:29:27+05:30"
+          },
+          {
             "title": "जम्मू-कश्मीर: पुलिस महकमे में बड़ा फेरबदल, गृह विभाग ने किए 100 अधिकारियों के तबादले; आठ जिलों के कप्तान बदले",
             "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/jammu-kashmir-major-reshuffle-in-police-department-100-officers-transferred-2026-10-10",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-10T12:17:08+05:30"
+          },
+          {
+            "title": "भास्कर अपडेट्स:जम्मू-कश्मीर के रियासी में CISF जवान की गोली लगने से मौत, जांच के आदेश",
+            "link": "https://www.bhaskar.com/national/news/jammu-kashmir-reasi-cisf-jawan-death-investigation-139304357.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-09T18:59:43+00:00"
           },
           {
             "title": "MP News: हरदा में सीएम मोहन यादव का सख्त एक्शन, 10 महीने से मानदेय लंबित रखने पर जिला संयोजक निलंबित",
@@ -688,27 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-10-09T16:27:15+00:00"
-          },
-          {
-            "title": "42 की उम्र में जड़े 11 छक्के, 37 गेंदों में ठोका शतक, एबी डिविलियर्स ने टीम को जीत दिलाकर काटा बवाल",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/ab-de-villiers-smashes-37-ball-century-as-south-africa-champions-chase-210-in-wcl-2026-1665095.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-09T21:31:28+05:30"
-          },
-          {
-            "title": "CJP Protest से पहले Delhi में Traffic Alert! 10 अक्टूबर को सुबह 6 बजे से इन 30 रास्तों पर पाबंदी-पूरी LIST",
-            "link": "https://hindi.oneindia.com/news/delhi/cjp-protest-delhi-traffic-advisory-on-10-october-30-routes-from-6-am-diversions-full-list-1665057.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-09T21:30:24+05:30"
-          },
-          {
-            "title": "Delhi: ‘राष्ट्रपति ने वोट चोरी पर सबूत मांगे’, Rahul Gandhi का ऐलान - 12 अक्टूबर को SC जाएगा विपक्ष",
-            "link": "https://hindi.oneindia.com/news/india/delhi-gyanesh-kumar-protest-rahul-gandhi-priyanka-mamata-march-towards-rashtrapati-bhavan-dharna-1665001.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-09T21:17:56+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,7 +1072,28 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Vijayawada: మహిళను హత్య చేసి.. యువకుడి ఆత్మహత్యాయత్నం.. అసలేం జరిగింది? - Eenadu",
+            "title": "West Asian Crisis: ఎటు పోయి ఎటు వస్తుందో.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc015UjBrUV8tZTV2bTdsajltNnB1bVZTcGpHUGdSU05PWU9QLVp1alQ1a0NOZHg1RDg3VHJtakdIRTF3U0s0Rkd1M3FEcC05V3hybVVra2tlY3Awd1dOZHYxUl9rR2otY0w0TUxrWi15ODZrejJUNnoyV3AtVlpHSFgyOG94cVVDNWxTR1BHTVBXYWlzNTYwZS1vN0g5c0VMdUVsNVZsc2hCMkpVOWFlWktCRk_SAbQBQVVfeXFMUHNNeVIwa1FfLWU1dm03bGo5bTZwdW1WU3BqR1BnUlNOT1lPUC1adWpUNWtDTmR4NUQ4N1RybWpHSEUxd1NLNEZHdTNxRHAtOVd4cm1Va2trZWNwMHdXTmR2MVJfa0dqLWNMNE1Ma1oteTg2a3oyVDZ6MldwLVZaR0hYMjhveHFVQzVsU0dQR01QV2FpczU2MGUtbzdIOXNFTHVFbDVWbHNoQjJKVTlhZVpLQkZP?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-09T19:25:49+00:00"
+          },
+          {
+            "title": "అవునా.. కాదా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uMXIydEllbnJMdVAyZENlQ3pDY2NtQlF6MEhsbEFsaDZiV2RkZ2JpRmJCQ0JrUmhVaHpYZUdUS09KSUtUbjRvNnVsXy1kM3ZpREpOQUtkVEpPaWk1YzJxdUV4ckl2a3oyTDNWZ1RfX0UyMXQwa0t5MHlGY1IyQdIBfkFVX3lxTE1uMXIydEllbnJMdVAyZENlQ3pDY2NtQlF6MEhsbEFsaDZiV2RkZ2JpRmJCQ0JrUmhVaHpYZUdUS09KSUtUbjRvNnVsXy1kM3ZpREpOQUtkVEpPaWk1YzJxdUV4ckl2a3oyTDNWZ1RfX0UyMXQwa0t5MHlGY1IyQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-09T19:17:42+00:00"
+          },
+          {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (10/10/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWlwQVVhcW8waXJnam44WWZCX1JZUHJ1Smk3WmwxeXE5MkZCLVBSLXVqQ3pmOWNFN3Ytclpoc1g0aVM2dzFjbGU4TDBLT2lfNjk2ZGFhdWNsb2ZHWlZCM2V1U2hWSkQ3Q0licGZ6QnBTWkExX21TMWlIME5Xa3FDYW9jalhadTVIODhSZC1BOUJqQ2o4c2tQSkJYRWc1Q1JyOWhfb3JtQlpaU1VTYnpGOXdn0gGyAUFVX3lxTE01aXBBVWFxbzBpcmdqbjhZZkJfUllQcnVKaTdabDF5cTkyRkItUFItdWpDemY5Y0U3di1yWmhzWDRpUzZ3MWNsZThMMEtPaV82OTZkYWF1Y2xvZkdaVkIzZXVTaFZKRDdDSWJwZnpCcFNaQTFfbVMxaUgwTldrcUNhb2NqWFp1NUg4OFJkLUE5QmpDajhza1BKQlhFZzVDUnI5aF9vcm1CWlpTVVNiekY5d2c?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-09T18:31:18+00:00"
+          },
+          {
+            "title": "Vijayawada: మహిళను హత్య చేసి.. యువకుడి ఆత్మహత్యాయత్నం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSndpZ2EwRDd3QU1wTmRYV01iZzRIb3dYZW53aFZhT0tXRWd6UEFzclNta2pDUTlmU3FvQWtnS19hOWh0MVp6cE9CeHc2bnJKbmFZVlZYX1hMWVVaX0hKZ3QydFlnblFMSElsSE9uWjg0Q3lEOWxjWnFpejd2RUhEZUtuWmR1ZzdabW8zaUlRSFRmTTBhcUg3edIBmAFBVV95cUxQSndpZ2EwRDd3QU1wTmRYV01iZzRIb3dYZW53aFZhT0tXRWd6UEFzclNta2pDUTlmU3FvQWtnS19hOWh0MVp6cE9CeHc2bnJKbmFZVlZYX1hMWVVaX0hKZ3QydFlnblFMSElsSE9uWjg0Q3lEOWxjWnFpejd2RUhEZUtuWmR1ZzdabW8zaUlRSFRmTTBhcUg3eQ?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1098,13 +1119,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-09T21:58:13+05:30"
-          },
-          {
-            "title": "Rahul Gandhi: ప్రజాస్వామ్యాన్ని ధ్వంసం చేస్తున్నారు: రాహుల్‌ గాంధీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1Vackw4MlBjcHZXMmZyWV9kSTFFcGRUdEREYXoybHdENWFJN2NPQ3U2eFMyN3V5cWY3RnM5UHJlMEkyVEFBVEgwV241UTFKd2hTcEEzVjlyOU1FSGN1TFpxX19QeDRUQzg2OGQxaWh1UjlMTnUtVURmRkRHdlJfa2tZZ25ablFmcHVlZkQyT1VTNTB4RlZ2cnFLX0NWMmJoc1VBdtIBpAFBVV95cUxNS1Vackw4MlBjcHZXMmZyWV9kSTFFcGRUdEREYXoybHdENWFJN2NPQ3U2eFMyN3V5cWY3RnM5UHJlMEkyVEFBVEgwV241UTFKd2hTcEEzVjlyOU1FSGN1TFpxX19QeDRUQzg2OGQxaWh1UjlMTnUtVURmRkRHdlJfa2tZZ25ablFmcHVlZkQyT1VTNTB4RlZ2cnFLX0NWMmJoc1VBdg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-09T15:50:44+00:00"
           },
           {
             "title": "సెలవులకు ఇంటికెళ్తూ.. విద్యార్థి మృత్యువాత - Eenadu",
@@ -1135,25 +1149,11 @@
             "published": "2026-10-09T15:01:13+00:00"
           },
           {
-            "title": "Belly fat: పొట్ట చుట్టూ కొవ్వును తగ్గించే ఆహారాలు ఇవీ... - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREpLNWo3dFVza0NPUy1EWXpWLXNFd1NhN3RlNXk2X0tsbTI1dVE4c1JQMXJzMUh5NW1KaVVOWjJqVGw0VzBOX0FrYkMzcWQ2QTd3TnN0a05Vd0xlbUFZT2s1SGwyejl4bDVpdWxBUlBfLXlic3FFQndYS0huemdHZ19fWU0xb0NjYy1IME1qN1ZSV3pR0gGUAUFVX3lxTE1ESks1ajd0VXNrQ09TLURZelYtc0V3U2E3dGU1eTZfS2xtMjV1UThzUlAxcnMxSHk1bUppVU5aMmpUbDRXME5fQWtiQzNxZDZBN3dOc3RrTlV3TGVtQVlPazVIbDJ6OXhsNWl1bEFSUF8teWJzcUVCd1hLSG56Z0dnX19ZTTFvQ2NjLUgwTWo3VlJXelE?oc=5",
+            "title": "భావాలను వ్యక్తీకరించడానికి సాహిత్యం అద్భుతమైన మార్గం: బ్రహ్మానందం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3U2eEkxaEhqbzl6QTdaVDdvbXo3NG5qSWFHYzFTR19sbW5uakg0anc3OEFwdUV3czRwaU9qMmNoNXotcXF0eGVsR3pmU3hzZHFCVVl5ejRCY2VNaGlhOGdLa0w5bHN4Z1RGeXJvZU92dTduZldDRzBHc295Y3BiUXc5OFpJUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-09T14:41:12+00:00"
-          },
-          {
-            "title": "హనుమకొండ బస్టాండ్‌లో ప్రయాణికుల రద్దీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ucWptNGhIclJWYVFsNEpkaVhKWGF2ZmNnQXB1bGQ1UTBONi16U19TNWhuQ2FKWmw0eURneW9VdmQxVDNLM2pNdkZnT1l5Rjk3bzNCaFlOVUNrc1pwSnFRakxaS29KRmQxQmdQTkJDWEFCSW5nWGRXSU0wMjQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-09T14:40:08+00:00"
-          },
-          {
-            "title": "Urban Forests: ఏపీలో నగరవాసుల ఆరోగ్యానికి... 71 నగరవనాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3hnVXVfZGVzSnJtX2ZFWjc5dkUyaTExRHdrZVU1ME9feFVmRkxRVmtUZEhiN0tfTkRVOTl0QzdfS3FKdVJBakd3eU95NnIyd3FiUjlFWVRQM1hkSTVVSkRncE8xTVBMUzk2eHhqWlV6WGdmbTkzSHZ4aXc1MDQxV183OURJR001cGVDRkpQR3NvWFM3cUR4Umt4UVTSAZwBQVVfeXFMT0d4Z1V1X2Rlc0pybV9mRVo3OXZFMmkxMUR3a2VVNTBPX3hVZkZMUVZrVGRIYjdLX05EVTk5dEM3X0txSnVSQWpHd3lPeTZyMndxYlI5RVlUUDNYZEk1VUpEZ3BPMU1QTFM5Nnh4alpVelhnZm05M0h2eGl3NTA0MVdfNzlESUdNNXBlQ0ZKUEdzb1hTN3FEeFJreFFU?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-09T14:31:31+00:00"
+            "published": "2026-10-09T14:47:18+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন মীন রাশি- ০৯ অক্টোবর, ২০২৬ - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkxzOUFmQXk4U040LWs2TzNyV2hKZmpZdnQ1M0d6ejdUOUEyejEwTGMwYy1Eal9ZTnNZTlJDM0pYZXh0RUd6X2hYU2ZDdnRiRDdEUGVoWjA1SkhweTJPZTh0anFJbXNMLS1vM3ZfRzBEbjNqeGx6ekY4Y0MzRVVfVGxVdjNZU2lGd0ViTGRJREFBcFdoNmEzXzRvb3hsZEdpZE1oclYtRTN4VC1x0gGyAUFVX3lxTFBJOXJKeHF6ZjhWUHVZX3p4VktBMDZCREVLMmNvMjI0dGJmcHFveUNac1Q2SHNkYk5RRmlBSWJEbUNVdEhHNm5fVEp0U3JmSWtuQm9lYUdrT3ZqbHVIbXdaVnVsRGJ5RGdqdVd0emw2bjg0RVlycnpaOEhfbmF1TzVzS2ZzU3JNQjVONFhlcGpiMVV1ajBDM1AwYTRsWkIyamlTZnlubkhQNEg4Tzk5WUVWYmc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-09T19:19:13+00:00"
+          },
+          {
+            "title": "আজকের দিন সিংহ রাশি- ০৯ অক্টোবর, ২০২৬ - Anandabazar",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlJU3BPZXhqN2tWYm02QjJaZlByLTYxU24tWkJYX19OLVljaTl1UXU3cTN3RnoxWHdhV2JMaFFsUFhHRk91Zk11aWp4OVI4YThLRWEzOWJGX0xIX3NSdjBqUngwZFMtLV9xZFQ0OWhBS0VCZldzbm5Ud3FSQmRFcEI4dW1ZNm5GVFYzWjkzU1k5RWNON1lUVk92TE5NazBqN1lnR2w1Tm9lSUXSAbABQVVfeXFMTnFMLXBvNnpRSGZJU29TRm8wUVpqY1h5aUFwbjU0R3JUaHlkcWhGOHFYbjZtUF9lMzFGVnpJZUkwaXZndnBRS2dLTDhRRlhvQUwweEdGTWlHYXBBYjBseVc4RUFJczBlUGp6UWdHZGtiSFd6emo0cnN3eXFVbElTeGhNanJzS3dEUjRfQTRMWmNERFVkbXJReWpiSlhiTGI4dExHRHFoMWdQd2FYdE1reS0?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-09T19:01:09+00:00"
+          },
+          {
             "title": "আজকের দিন ধনু রাশি- ০৯ অক্টোবর, ২০২৬ - Anandabazar",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVmR5dzhNakhEdXB3TndPbEVfODdDZk1hTGhVVVo4b1FSQlBvalpOM1R1dnZ0eDdVb25rUVNPdHA5ZXVpT2w3YWNac1lvUlhQOEpaVXVTYi1qOUpRSnFCUWdkWmxuaHQyZV9kUnFzb09fODRROXlqWTlxa0lxWDBlaUk4dVYzbzVtTWVnNWp2bHZoMjZpNnBrRXRSRjdEeHNZdDNQeFhFNzBWVGJWY3JfSkc2Y9IBuAFBVV95cUxQVWYwOEtScC1fQS1kOVBnMW82bFlGeGRMTUR3bHd6ZkZWM0ctZTk3eEc5MWlkWUNhM2pFTldTcHRsdjc5R0piZE5mYm9rNFBHbEY2NlQ4YlEwS2hnS2xNVy1aQnU4Y1ViNlVOR3p0YzBrQzMxOVZCZ1hfZnRXSlpvbWd5X1hVOFk4VlJEUlpZQXlhbXFrWFV6dlVjUlJTem9sQVR3bjJvMENYdDZBaVpTTmZxR2Z4a0xX?oc=5",
             "source": "Anandabazar Patrika",
@@ -1473,20 +1487,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-09T17:11:44+00:00"
-          },
-          {
-            "title": "আজকের দিন মীন রাশি- ০৯ অক্টোবর, ২০২৬ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkxzOUFmQXk4U040LWs2TzNyV2hKZmpZdnQ1M0d6ejdUOUEyejEwTGMwYy1Eal9ZTnNZTlJDM0pYZXh0RUd6X2hYU2ZDdnRiRDdEUGVoWjA1SkhweTJPZTh0anFJbXNMLS1vM3ZfRzBEbjNqeGx6ekY4Y0MzRVVfVGxVdjNZU2lGd0ViTGRJREFBcFdoNmEzXzRvb3hsZEdpZE1oclYtRTN4VC1x0gGyAUFVX3lxTFBJOXJKeHF6ZjhWUHVZX3p4VktBMDZCREVLMmNvMjI0dGJmcHFveUNac1Q2SHNkYk5RRmlBSWJEbUNVdEhHNm5fVEp0U3JmSWtuQm9lYUdrT3ZqbHVIbXdaVnVsRGJ5RGdqdVd0emw2bjg0RVlycnpaOEhfbmF1TzVzS2ZzU3JNQjVONFhlcGpiMVV1ajBDM1AwYTRsWkIyamlTZnlubkhQNEg4Tzk5WUVWYmc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-09T16:15:45+00:00"
-          },
-          {
-            "title": "আজকের দিন সিংহ রাশি- ০৯ অক্টোবর, ২০২৬ - Anandabazar",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlJU3BPZXhqN2tWYm02QjJaZlByLTYxU24tWkJYX19OLVljaTl1UXU3cTN3RnoxWHdhV2JMaFFsUFhHRk91Zk11aWp4OVI4YThLRWEzOWJGX0xIX3NSdjBqUngwZFMtLV9xZFQ0OWhBS0VCZldzbm5Ud3FSQmRFcEI4dW1ZNm5GVFYzWjkzU1k5RWNON1lUVk92TE5NazBqN1lnR2w1Tm9lSUXSAbABQVVfeXFMTnFMLXBvNnpRSGZJU29TRm8wUVpqY1h5aUFwbjU0R3JUaHlkcWhGOHFYbjZtUF9lMzFGVnpJZUkwaXZndnBRS2dLTDhRRlhvQUwweEdGTWlHYXBBYjBseVc4RUFJczBlUGp6UWdHZGtiSFd6emo0cnN3eXFVbElTeGhNanJzS3dEUjRfQTRMWmNERFVkbXJReWpiSlhiTGI4dExHRHFoMWdQd2FYdE1reS0?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-09T15:59:41+00:00"
           },
           {
             "title": "ক্ষমা চাইতে হবে! ‘ভোটচোর’ বলায় মহুয়াকে আইনি নোটিস মুখ্যসচিব মনোজের, ডিলিট করতে বললেন পোস্ট - Anandabazar",
