@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T20:40:26.803866+00:00",
+  "updated_at": "2026-10-10T21:01:18.724910+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -11,6 +11,20 @@
             "source": "Gadgets 360",
             "summary": "Amazon has some interesting appliance deals this year, and washing machines are no exception. The Amazon Great Indian Festival sale has deals on Samsung, Bosch, LG, Haier and IFB front-loading washing machines. These offer a 9 to 12 kg load capacity and pack numerous features, including some AI-enabled functions.",
             "published": "2026-10-11T08:00:40+05:30"
+          },
+          {
+            "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+            "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+            "published": "2026-10-10T20:51:12+00:00"
+          },
+          {
+            "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
+            "published": "2026-10-10T20:37:17+00:00"
           },
           {
             "title": "Rubio pledges US cooperation in Marine-linked murder case",
@@ -88,20 +102,6 @@
             "source": "Al Jazeera",
             "summary": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.",
             "published": "2026-10-10T19:47:10+00:00"
-          },
-          {
-            "title": "CJP member moves Supreme Court on whereabouts of Dipke, Das, Ranka",
-            "link": "https://www.thehindu.com/news/national/cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-ranka/article71569478.ece",
-            "source": "The Hindu",
-            "summary": "Filing a habeas corpus petition in the top court, CJP coverage coordinator Gaurav Bharti seeks urgent hearing on October 11",
-            "published": "2026-10-11T01:06:40+05:30"
-          },
-          {
-            "title": "Trump says Ukraine needs a new president who will agree to end the war",
-            "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
-            "published": "2026-10-10T19:32:37+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+            "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+            "published": "2026-10-10T20:51:12+00:00"
+          },
+          {
+            "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
+            "published": "2026-10-10T20:37:17+00:00"
+          },
+          {
             "title": "Rubio pledges US cooperation in Marine-linked murder case",
             "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
             "source": "Al Jazeera",
@@ -255,25 +269,11 @@
             "published": "2026-10-10T19:26:22+00:00"
           },
           {
-            "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-            "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
-            "published": "2026-10-10T19:23:26+00:00"
-          },
-          {
-            "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-            "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+            "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+            "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-            "published": "2026-10-10T19:08:17+00:00"
-          },
-          {
-            "title": "Trump calls for new president in Ukraine",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
-            "published": "2026-10-10T18:50:23+00:00"
+            "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+            "published": "2026-10-10T19:25:03+00:00"
           }
         ],
         "Business": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Bidula: మోదీ మెచ్చిన కళాకారిణి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmVfSk9Ba29WcXU2bzI4RTdHSW9NdlFQcmNWU2k1QUpJb216WG9GVWhlUzMzRERmOEpYSXJuc0dSMFVLWDBUeExRVl96UGM5aTM0Rk9yT3hYTlFzUFRRdnE5Z2w5TlFmdWppRjJIMFV3QUZWeDVlNTFrUTRfaHJhTFlrU0otYnE00gGIAUFVX3lxTE1KZV9KT0Frb1ZxdTZvMjhFN0dJb012UVByY1ZTaTVBSklvbXpYb0ZVaGVTMzNERGY4SlhJcm5zR1IwVUtYMFR4TFFWX3pQYzlpMzRGT3JPeFhOUXNQVFF2cTlnbDlOUWZ1amlGMkgwVXdBRlZ4NWU1MWtRNF9ocmFMWWtTSi1icTQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-10T20:33:12+00:00"
+          },
+          {
             "title": "మీకు తెలుసా? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CbHdCRC1pc3Q1QzZMUVBIUU4wb1J2Z3FaZXg0dEVnMkw2YjViTlQtendRYXB1RTI4YXNjREZIY2RaQWlDSlBQbnBYb3VlZmZmUkxQRUVXNFZ2cERISkhzVGRoNktJYS0tRXg5cXFnN0LSAXBBVV95cUxPQmx3QkQtaXN0NUM2TFFQSFFOMG9SdmdxWmV4NHRFZzJMNmI1Yk5ULXp3UWFwdUUyOGFzY0RGSGNkWkFpQ0pQUG5wWG91ZWZmZlJMUEVFVzRWdnBESEpIc1RkaDZLSWEtLUV4OXFxZzdC?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-10T18:42:06+00:00"
-          },
-          {
-            "title": "ఈ వారం రాశిఫలం (అక్టోబరు 11 - అక్టోబరు 17) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUpjU3d2clVCTS1SWUtOSGItQkZSZTBLU0tLa1k3cFh5aEFndDN3M2RmSjQtYmpRMjltUndPcjNhWU9DeU1ZUzJZZVNLRnp6MTAxWWIzX3RyNU1WZ0JHVHl3aHpIVW1Yb0NlSjFnVHpVNXJkRXVzOGZ1MVZFajlDa0ZBWWTSAYQBQVVfeXFMUDVKY1N3dnJVQk0tUllLTkhiLUJGUmUwS1NLS2tZN3BYeWhBZ3QzdzNkZko0LWJqUTI5bVJ3T3IzYVlPQ3lNWVMyWWVTS0Z6ejEwMVliM190cjVNVmdCR1R5d2h6SFVtWG9DZUoxZ1R6VTVyZEV1czhmdTFWRWo5Q2tGQVlk?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-10T18:25:00+00:00"
           }
         ],
         "Entertainment": [
