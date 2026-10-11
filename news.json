@@ -1,10 +1,94 @@
 {
-  "updated_at": "2026-10-11T23:01:23.308577+00:00",
+  "updated_at": "2026-10-11T23:31:05.216168+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+            "published": "2026-10-11T23:20:46+00:00"
+          },
+          {
+            "title": "Roofing scammers con homeowners out of thousands of pounds",
+            "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+            "published": "2026-10-11T23:19:49+00:00"
+          },
+          {
+            "title": "Debt advice that may leave you owing even more money",
+            "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+            "published": "2026-10-11T23:19:07+00:00"
+          },
+          {
+            "title": "Trump faces growing backlash over plans to import diesel from Russia",
+            "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+            "published": "2026-10-11T23:18:45+00:00"
+          },
+          {
+            "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+            "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+            "published": "2026-10-11T23:17:05+00:00"
+          },
+          {
+            "title": "AI is less regulated than milk, says Microsoft president",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+            "published": "2026-10-11T23:07:35+00:00"
+          },
+          {
+            "title": "24 hours after hosting Rahul Gandhi, TN CM Vijay takes metro ride with PM Modi",
+            "link": "https://timesofindia.indiatimes.com/india/24-hours-after-hosting-rahul-gandhi-tn-cm-vijay-takes-metro-ride-with-pm-modi/articleshow/134879747.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:37:19+05:30"
+          },
+          {
+            "title": "Passenger's device starts smoking, flight diverted",
+            "link": "https://timesofindia.indiatimes.com/india/passengers-device-starts-smoking-flight-diverted/articleshow/134879740.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:34:29+05:30"
+          },
+          {
+            "title": "Iran war threatens Healey's Budget plans, think tank warns",
+            "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+            "published": "2026-10-11T23:04:07+00:00"
+          },
+          {
+            "title": "Pargat Singh says ‘Congress is united’ as he takes charge of Punjab unit",
+            "link": "https://www.thehindu.com/news/national/punjab/pargat-singh-says-congress-is-united-as-he-takes-charge-of-punjab-unit/article71572198.ece",
+            "source": "The Hindu",
+            "summary": "Punjab Congress in-charge and AICC General Secretary Sachin Pilot formally handed over the responsibility to Mr. Pargat",
+            "published": "2026-10-12T04:32:27+05:30"
+          },
+          {
+            "title": "Government slams UN rights body for 'practising double standards'",
+            "link": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:27:09+05:30"
+          },
+          {
+            "title": "Protests against SIR-CEC intensify, several detained in Mumbai, Pune",
+            "link": "https://timesofindia.indiatimes.com/india/protests-against-sir-cec-intensify-several-detained-in-mumbai-pune/articleshow/134879721.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:23:45+05:30"
+          },
           {
             "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
@@ -18,94 +102,45 @@
             "source": "BBC World",
             "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
             "published": "2026-10-11T22:45:58+00:00"
-          },
-          {
-            "title": "CJI: No meet with Congress, it'll violate 'separation of power'",
-            "link": "https://timesofindia.indiatimes.com/india/cji-no-meet-with-congress-itll-violate-separation-of-power/articleshow/134879703.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T04:09:37+05:30"
-          },
-          {
-            "title": "Congress could reiterate request for meeting with CJI today",
-            "link": "https://timesofindia.indiatimes.com/india/congress-could-reiterate-request-for-meeting-with-cji-today/articleshow/134879687.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T04:07:56+05:30"
-          },
-          {
-            "title": "Community-led model to tackle drug abuse in 300 Haryana villages",
-            "link": "https://www.thehindu.com/news/national/haryana/community-led-model-to-tackle-drug-abuse-in-300-haryana-villages/article71572302.ece",
-            "source": "The Hindu",
-            "summary": "The voluntary, non-political initiative has been launched by the Haryana Professional Forum and Jind Social Forum, a network of volunteers with roots in Haryana",
-            "published": "2026-10-12T03:57:43+05:30"
-          },
-          {
-            "title": "Ryan Reynolds and Blake Lively’s $500,000 gift trains Indigenous water operators",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2022-ryan-reynolds-and-blake-lively-gave-500000-to-water-first-four-years-later-the-canadian-charitys-latest-graduating-class-included-eight-newly-certified-indigenous-water-operators/articleshow/134835792.cms",
-            "source": "Times of India",
-            "summary": "Ryan Reynolds and Blake Lively's generous contribution to Water First has empowered Indigenous communities by enhancing their water management capabilities. After an intensive 15-month certification process, eight Indigenous trainees have successfully graduated, accumulating over 2,000 hours of combined practical and technical training. These graduates are set to embark on careers in water treatment, fostering…",
-            "published": "2026-10-12T03:57:00+05:30"
-          },
-          {
-            "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
-            "published": "2026-10-11T22:24:07+00:00"
-          },
-          {
-            "title": "Bangladesh party backs CJP stir, ex-Yunus aide seeks Modi's fall",
-            "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-party-backs-cjp-stir-ex-yunus-aide-seeks-modis-fall/articleshow/134879664.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:47:53+05:30"
-          },
-          {
-            "title": "I-T department estimates 25k cr tax evasion by restaurants",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/i-t-department-estimates-25k-cr-tax-evasion-by-restaurants/articleshow/134878708.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:42:07+05:30"
-          },
-          {
-            "title": "Sporadic protests break uneasy calm in Delhi",
-            "link": "https://www.thehindu.com/news/cities/Delhi/sporadic-protests-break-uneasy-calm-in-delhi/article71572311.ece",
-            "source": "The Hindu",
-            "summary": "Protests continue despite security deployment and restrictions on gatherings; throughout the day, police chase and detain demonstrators; a few shoppers return to Connaught Place but remain cautious",
-            "published": "2026-10-12T03:35:56+05:30"
-          },
-          {
-            "title": "RBI measures: Rupee to gain sharply but forex liquidity likely to dry up",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:25:11+05:30"
-          },
-          {
-            "title": "Green cards not key to workforce strategy: TCS",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/green-cards-not-key-to-workforce-strategy-tcs/articleshow/134877320.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:19:53+05:30"
-          },
-          {
-            "title": "Anti-CEC protest Highlights, October 11: CJI Surya Kant declines to meet INDIA bloc leaders; Delhi Police detain women protesters in the evening",
-            "link": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece",
-            "source": "The Hindu",
-            "summary": "CJP leaders to approach police seeking date to hold peaceful protest at Jantar Mantar",
-            "published": "2026-10-12T03:07:41+05:30"
-          },
-          {
-            "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-            "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
-            "published": "2026-10-11T21:36:40+00:00"
           }
         ],
         "India": [
           {
+            "title": "24 hours after hosting Rahul Gandhi, TN CM Vijay takes metro ride with PM Modi",
+            "link": "https://timesofindia.indiatimes.com/india/24-hours-after-hosting-rahul-gandhi-tn-cm-vijay-takes-metro-ride-with-pm-modi/articleshow/134879747.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:37:19+05:30"
+          },
+          {
+            "title": "Passenger's device starts smoking, flight diverted",
+            "link": "https://timesofindia.indiatimes.com/india/passengers-device-starts-smoking-flight-diverted/articleshow/134879740.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:34:29+05:30"
+          },
+          {
+            "title": "Pargat Singh says ‘Congress is united’ as he takes charge of Punjab unit",
+            "link": "https://www.thehindu.com/news/national/punjab/pargat-singh-says-congress-is-united-as-he-takes-charge-of-punjab-unit/article71572198.ece",
+            "source": "The Hindu",
+            "summary": "Punjab Congress in-charge and AICC General Secretary Sachin Pilot formally handed over the responsibility to Mr. Pargat",
+            "published": "2026-10-12T04:32:27+05:30"
+          },
+          {
+            "title": "Government slams UN rights body for 'practising double standards'",
+            "link": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:27:09+05:30"
+          },
+          {
+            "title": "Protests against SIR-CEC intensify, several detained in Mumbai, Pune",
+            "link": "https://timesofindia.indiatimes.com/india/protests-against-sir-cec-intensify-several-detained-in-mumbai-pune/articleshow/134879721.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-12T04:23:45+05:30"
+          },
+          {
             "title": "CJI: No meet with Congress, it'll violate 'separation of power'",
             "link": "https://timesofindia.indiatimes.com/india/cji-no-meet-with-congress-itll-violate-separation-of-power/articleshow/134879703.cms",
             "source": "Times of India",
@@ -153,44 +188,23 @@
             "source": "The Hindu",
             "summary": "Protests continue despite security deployment and restrictions on gatherings; throughout the day, police chase and detain demonstrators; a few shoppers return to Connaught Place but remain cautious",
             "published": "2026-10-12T03:35:56+05:30"
-          },
-          {
-            "title": "RBI measures: Rupee to gain sharply but forex liquidity likely to dry up",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:25:11+05:30"
-          },
-          {
-            "title": "Green cards not key to workforce strategy: TCS",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/green-cards-not-key-to-workforce-strategy-tcs/articleshow/134877320.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-12T03:19:53+05:30"
-          },
-          {
-            "title": "Anti-CEC protest Highlights, October 11: CJI Surya Kant declines to meet INDIA bloc leaders; Delhi Police detain women protesters in the evening",
-            "link": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece",
-            "source": "The Hindu",
-            "summary": "CJP leaders to approach police seeking date to hold peaceful protest at Jantar Mantar",
-            "published": "2026-10-12T03:07:41+05:30"
-          },
-          {
-            "title": "Hindu outfit backs its men arrested over Delhi assault",
-            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-four-men-claiming-links-to-hindu-raksha-dal-arrested-for-assault-on-students/article71570866.ece",
-            "source": "The Hindu",
-            "summary": "Hindu Raksha Dal chief Pinky Chaudhary claims the accused as his workers and vows to protect them; police probe allegations of inaction",
-            "published": "2026-10-12T02:22:39+05:30"
-          },
-          {
-            "title": "Protests will happen not just in Delhi but whole country: CJP",
-            "link": "https://www.thehindu.com/news/national/protest-at-a-designated-protest-spot-is-not-disturbing-the-peace-says-ashutosh-ranka/article71572559.ece",
-            "source": "The Hindu",
-            "summary": "Delhi Police officials took away their phones during their detention without issuing any seizure memo, CJP’s Saurav Das claims, raising concerns that the devices might have been hacked or cloned",
-            "published": "2026-10-12T02:14:22+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+            "published": "2026-10-11T23:20:46+00:00"
+          },
+          {
+            "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+            "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+            "published": "2026-10-11T23:17:05+00:00"
+          },
           {
             "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
@@ -260,23 +274,44 @@
             "source": "Al Jazeera",
             "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
             "published": "2026-10-11T20:44:17+00:00"
-          },
-          {
-            "title": "How Man City beat Liverpool after guilty verdict",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.",
-            "published": "2026-10-11T20:41:09+00:00"
-          },
-          {
-            "title": "Zelenskyy welcomes US-announced energy ceasefire",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
-            "published": "2026-10-11T20:28:46+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Roofing scammers con homeowners out of thousands of pounds",
+            "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+            "published": "2026-10-11T23:19:49+00:00"
+          },
+          {
+            "title": "Debt advice that may leave you owing even more money",
+            "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+            "published": "2026-10-11T23:19:07+00:00"
+          },
+          {
+            "title": "Trump faces growing backlash over plans to import diesel from Russia",
+            "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+            "published": "2026-10-11T23:18:45+00:00"
+          },
+          {
+            "title": "AI is less regulated than milk, says Microsoft president",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+            "published": "2026-10-11T23:07:35+00:00"
+          },
+          {
+            "title": "Iran war threatens Healey's Budget plans, think tank warns",
+            "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+            "published": "2026-10-11T23:04:07+00:00"
+          },
           {
             "title": "Citroen revives the 2CV for an electric age",
             "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
@@ -325,44 +360,51 @@
             "source": "Economic Times",
             "summary": "​Nine penny stocks with market capitalisations below Rs 1,000 crore and share prices under Rs 20 gained up to 316% in six months, supported by strong price momentum and minimum trading volumes of 5 lakh shares.​",
             "published": "2026-10-11T12:15:07+05:30"
-          },
-          {
-            "title": "Charities and businesses wrestle with diesel cost",
-            "link": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Cancer charity Daft as a Brush and Teesside Minibus Hire say they are struggling with pump prices.",
-            "published": "2026-10-11T06:23:27+00:00"
-          },
-          {
-            "title": "International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers",
-            "link": "https://economictimes.indiatimes.com/mf/analysis/international-mutual-funds-top-return-chart-last-week-offer-up-to-11-gains-check-top-5-performers/slideshow/134864935.cms",
-            "source": "Economic Times",
-            "summary": "International mutual funds topped the returns chart for the week ended October 9, with the Mirae Asset NYSE FANG+ ETF FoF leading the pack with 10.66% returns. Of 626 funds, 148 delivered positive returns, while 474 posted losses.​",
-            "published": "2026-10-11T09:58:10+05:30"
-          },
-          {
-            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-            "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-            "published": "2026-10-10T14:24:14+00:00"
-          },
-          {
-            "title": "Money Box",
-            "link": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "What age will you get your state pension?",
-            "published": "2026-10-10T11:30:00+00:00"
-          },
-          {
-            "title": "Boots has a new owner: Three ways it could affect you",
-            "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-            "published": "2026-10-09T23:01:14+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Maxime Raynaud Avoids Major Knee Injury as Sacramento Kings Reveal Encouraging MRI Results",
+            "link": "https://sports.ndtv.com/us-nba/maxime-raynaud-avoids-major-knee-injury-as-kings-provide-positive-mri-update-12171392#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Maxime Raynaud avoided major structural or ligament damage after suffering a right patellar subluxation against the Warriors. The Kings center will be reevaluated in approximately two weeks.",
+            "published": "2026-10-12T02:35:43+05:30"
+          },
+          {
+            "title": "KSI Announces Retirement From Influencer Boxing and Takes a Jab at Jake Paul",
+            "link": "https://sports.ndtv.com/us-wwe/ksi-announces-retirement-from-influencer-boxing-and-takes-a-jab-at-jake-paul-12171335#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "KSI announces his retirement from influencer boxing at a Misfits Boxing event, taking a final jab at longtime rival Jake Paul while confirming he will remain involved behind the scenes.",
+            "published": "2026-10-12T01:40:55+05:30"
+          },
+          {
+            "title": "Byron Saxton Replaces Alicia Taylor as WWE Money in the Bank Ring Announcer",
+            "link": "https://sports.ndtv.com/us-wwe/byron-saxton-replaces-alicia-taylor-as-wwe-money-in-the-bank-2026-ring-announcer-12171327#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Byron Saxton replaced Alicia Taylor as WWE Money in the Bank 2026 ring announcer after she lost her voice and had to leave the arena.",
+            "published": "2026-10-12T01:40:21+05:30"
+          },
+          {
+            "title": "Zheng Qinwen Beats Mirra Andreeva To Become First Home Player To Win China Open",
+            "link": "https://sports.ndtv.com/tennis/zheng-qinwen-beats-mirra-andreeva-to-become-first-home-player-to-win-china-open-12170341#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Zheng Qinwen became the first home winner of the China Open on Sunday as she beat Russian teenager Mirra Andreeva 7-5, 6-4.",
+            "published": "2026-10-12T00:04:43+05:30"
+          },
+          {
+            "title": "Ben Shelton Crashes Out As French Underdog Arthur Gea Pulls Off Career-Best Win",
+            "link": "https://sports.ndtv.com/tennis/ben-shelton-crashes-out-as-french-underdog-arthur-gea-pulls-off-career-best-win-12170155#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "France's world number 56 Arthur Gea stunned Ben Shelton in the third round of the Shanghai Masters on Sunday.",
+            "published": "2026-10-12T00:04:02+05:30"
+          },
+          {
+            "title": "Jaylen Brown Returns to Boston as Abby Chin Reveals Why He Missed Celtics Preseason Clash",
+            "link": "https://sports.ndtv.com/us-nba/jaylen-brown-returns-to-boston-as-abby-chin-reveals-why-he-missed-celtics-game-12171178#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Jaylen Brown missed the 76ers’ preseason clash against the Celtics after returning to Boston, with Abby Chin revealing his absence. His first regular-season game back in Boston is scheduled for January 21, 2027.",
+            "published": "2026-10-11T23:37:04+05:30"
+          },
           {
             "title": "How bad light could shape the South Africa vs Australia Test",
             "link": "https://www.cricinfo.com/ci/content/story/1558041.html?ex_cid=OTC-RSS",
@@ -385,70 +427,35 @@
             "published": "2026-10-11T18:03:31+00:00"
           },
           {
-            "title": "Farhan and Sadaqat help Pakistan seal series in style",
-            "link": "https://www.cricinfo.com/ci/content/story/1558035.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Both batters blazed fifties to take Pakistan to 215, and Sri Lanka never got going in the chase",
-            "published": "2026-10-11T17:32:32+00:00"
+            "title": "Premier League: Manchester City Shrug Off Uncertain Future To Beat 10-Man Liverpool",
+            "link": "https://sports.ndtv.com/football/premier-league-manchester-city-shrug-off-uncertain-future-to-beat-10-man-liverpool-12171064#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Manchester City shrugged off the threat of swingeing sanctions to beat 10-man Liverpool 3-0 in their first game since being found guilty on more than 100 charges of breaking Premier League financial rules.",
+            "published": "2026-10-11T23:20:46+05:30"
           },
           {
-            "title": "India vs West Indies LIVE Score, 3rd T20I: All-Round India Beat WI By 14 Runs, Go 2-1 Up In 5-Match Series",
-            "link": "https://sports.ndtv.com/cricket/india-vs-west-indies-3rd-t20i-live-score-updates-ind-vs-wi-live-cricket-match-vaibhav-sooryavanshi-sanju-samson-shreyas-iyer-12169701#publisher=newsstand",
+            "title": "Japan's Keisuke Goto Fires Freiburg To Bundesliga Summit",
+            "link": "https://sports.ndtv.com/football/japans-keisuke-goto-fires-freiburg-to-bundesliga-summit-12171090#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "India vs West Indies Highlights, 3rd T20I: An all-round India beat West Indies by 14 runs in the third T20I on Sunday to take a crucial lead in the five-match series.",
-            "published": "2026-10-11T22:46:46+05:30"
+            "summary": "Japan forward Keisuke Goto's late header fired ten-man Freiburg to the top of the German Bundesliga table with a 2-1 win over Schalke on Sunday.",
+            "published": "2026-10-11T23:18:58+05:30"
           },
           {
-            "title": "Zheng Qinwen Beats Mirra Andreeva To Become First Home Player To Win China Open",
-            "link": "https://sports.ndtv.com/cricket/zheng-qinwen-beats-mirra-andreeva-to-become-first-home-player-to-win-china-open-12170341#publisher=newsstand",
+            "title": "Abhishek Sharma, Arshdeep Singh Power India To 14-Run Victory Over West Indies In 3rd T20I",
+            "link": "https://sports.ndtv.com/cricket/abhishek-sharma-arshdeep-singh-power-india-to-14-run-victory-over-west-indies-in-3rd-t20i-12171086#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Zheng Qinwen became the first home winner of the China Open on Sunday as she beat Russian teenager Mirra Andreeva 7-5, 6-4.",
-            "published": "2026-10-11T22:46:17+05:30"
-          },
-          {
-            "title": "Ben Shelton Crashes Out As French Underdog Arthur Gea Pulls Off Career-Best Win",
-            "link": "https://sports.ndtv.com/cricket/ben-shelton-crashes-out-as-french-underdog-arthur-gea-pulls-off-career-best-win-12170155#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "France's world number 56 Arthur Gea stunned Ben Shelton in the third round of the Shanghai Masters on Sunday.",
-            "published": "2026-10-11T22:36:14+05:30"
-          },
-          {
-            "title": "Australia's Bowling Giants Pat Cummins, Mitchell Starc, Josh Hazlewood and Nathan Lyon Create Test Cricket History",
-            "link": "https://sports.ndtv.com/cricket/australias-bowling-giants-pat-cummins-mitchell-starc-josh-hazlewood-and-nathan-lyon-create-test-cricket-history-12170014#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Australia's fabled fast-bowling quartet of Pat Cummins, Josh Hazlewood, Mitchell Starc and Nathan Lyon etched their names into the history books during the first Test against SA at Kingsmead.",
-            "published": "2026-10-11T22:33:15+05:30"
-          },
-          {
-            "title": "Dylan Garand Gets Unexpected Rangers Opportunity After Igor Shesterkin Injury",
-            "link": "https://sports.ndtv.com/us-nhl/dylan-garand-gets-unexpected-rangers-opportunity-after-igor-shesterkin-injury-12170843#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Igor Shesterkin is out for the season, Korpisalo is on IR, and Dylan Garand is now the Rangers’ starter. Here is what the goaltending crisis means for New York’s 2026-27 season.",
-            "published": "2026-10-11T21:58:58+05:30"
-          },
-          {
-            "title": "Jacob Fowler Makes Montreal Canadiens History With Unbelievable Performance Against Detroit Red Wings",
-            "link": "https://sports.ndtv.com/us-nhl/jacob-fowler-makes-montreal-canadiens-history-with-unbelievable-performance-against-detroit-red-wings-12170730#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Jacob Fowler became the first goalie in Canadiens history to shut out the opponent in regulation, OT, and the shootout, stopping all 30 shots and all 6 shooters in a 1-0 win over Detroit.",
-            "published": "2026-10-11T21:56:46+05:30"
-          },
-          {
-            "title": "Kerala Blasters Begin Season With 2-0 Win Over Inter Kashi",
-            "link": "https://sports.ndtv.com/football/kerala-blasters-begin-season-with-2-0-win-over-inter-kashi-12170450#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Vibin Mohanan and Andre Green struck a goal each to help Kerala Blasters FC begin their Indian Super League (ISL) campaign with a 2-0 victory over Inter Kashi on Sunday.",
-            "published": "2026-10-11T21:45:02+05:30"
-          },
-          {
-            "title": "Max Verstappen Wins Singapore Grand Prix For First Time",
-            "link": "https://sports.ndtv.com/formula-1/max-verstappen-wins-singapore-grand-prix-for-first-time-12170457#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Max Verstappen won the Singapore Grand Prix for the first time in his career on Sunday to complete a perfect weekend where he also finished first in the sprint and was on pole for both races.",
-            "published": "2026-10-11T21:39:52+05:30"
+            "summary": "Abhishek Sharma's scintillating 69 and pacer Arshdeep Singh's crucial three-wicket haul paved the way for India's 14-run victory against the West Indies in the third T20I in Indore on Sunday.",
+            "published": "2026-10-11T23:15:59+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "AI is less regulated than milk, says Microsoft president",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+            "published": "2026-10-11T23:07:35+00:00"
+          },
           {
             "title": "Amazon Great Indian Festival 2026: Best Air Conditioner Deals",
             "link": "https://www.gadgets360.com/home-appliances/news/amazon-great-indian-festival-2026-best-air-conditioner-deals-12170674",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Amazon has some interesting appliance deals this year, and washing machines are no exception. The Amazon Great Indian Festival sale has deals on Samsung, Bosch, LG, Haier and IFB front-loading washing machines. These offer a 9 to 12 kg load capacity and pack numerous features, including some AI-enabled functions.",
             "published": "2026-10-11T08:00:40+05:30"
-          },
-          {
-            "title": "King warns malicious online actors are evolving tactics",
-            "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-            "published": "2026-10-10T15:56:32+00:00"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "दिल्ली में नगर निगम ने 47 जर्जर बिल्डिंग गिराई:282 सील की, 5 दिन पहले इमारत गिरने से 5 की मौत हुई थी",
+            "link": "https://www.bhaskar.com/national/news/delhi-mcd-illegal-building-demolition-drive-sealing-action-139330024.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-11T23:18:45+00:00"
+          },
+          {
             "title": "मणिपुर के कांगपोकपी-कामजोंग जिलों में 24 घंटे का कर्फ्यू लागू:बाजार बंद, फोर्स तैनात; एक दिन पहले 10 लोगों की मौत हुई थी",
             "link": "https://www.bhaskar.com/national/news/manipur-kangpokpi-kamjong-curfew-violence-clash-security-forces-139329997.html",
             "source": "Dainik Bhaskar",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-11T21:13:23+05:30"
-          },
-          {
-            "title": "सीजेपी प्रदर्शन के दौरान पत्रकारों के साथ क्या क्या हुआ?",
-            "link": "https://www.bbc.com/hindi/articles/c615jqn1d1qjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-11T15:33:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1079,32 +1079,46 @@
             "published": "2026-10-11T22:28:07+00:00"
           },
           {
-            "title": "Tamil Nadu: మధుమితకు సమన్లు జారీ చేయనున్న పోలీసులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONklHVHgzeVU5NHZIZm9WV2xNX0ZIY20wSlc0VGtiRW92alZlbENCdmxaV25ubVBxcFNMT3dpUGNyMmpKYWFGMWV3RThqU3ZuSmVPb3g4ajBRMm4yLTRsenZ2X2JXbG45N2cyME94b2NseHZyMnhiVTZiU2dkWl9wd3Qzb1ZzdEladjRxUkpyTHZUd3gzOWtuOXVZNW9KWldIT2lTMFl0WlBlbXdvQktXME5HYnVrZnE3NTdV?oc=5",
+            "title": "విజృంభించిన అనికేత్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tMWhBemNmT3dIUEwyR0JRSGRwLWlUUEJMN053Yjh2RnJ0VUFVZG1ZUTFpeXN5YmNDVFFBSzJxWlcwdjlJVVNMYnM5bkxaZEt4YUl2TUhzRDVBZkdIaTgyOXE4d01DdXhOSWhNX3FWTXI0d9IBckFVX3lxTE9tMWhBemNmT3dIUEwyR0JRSGRwLWlUUEJMN053Yjh2RnJ0VUFVZG1ZUTFpeXN5YmNDVFFBSzJxWlcwdjlJVVNMYnM5bkxaZEt4YUl2TUhzRDVBZkdIaTgyOXE4d01DdXhOSWhNX3FWTXI0dw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-11T20:01:00+00:00"
+            "published": "2026-10-11T22:24:19+00:00"
           },
           {
-            "title": "విజయ్‌కి అండగా ఉంటాం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QUC1GWV9XdDh3ODRJbDBkRXM5TnlpeEJTdXdZSVJoTlREUE1DLTJmYVJYV3k5WGE2VWhWV2lidTFvMWh4U3RiZ2tNR3FCMnRDTWFMbE5JQ2NvblhuT29Lek9pTUhhWnpzLXlGb0R5cUJTZnY0RkxNanFnbzlIZw?oc=5",
+            "title": "Trial and error: ట్రయల్‌ అండ్‌ ఎర్రర్‌.. మొదలైంది - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGFoMFVCc3Q4cjBxYkdDNzdMTERlZWdOZU1VbzZpTTJRZGdaRUE1NUZWYlJCdHI3YW9ieUhidHVBQlhuaTF0SU1DLVRCU1BGY3RPWjM0VGtrWmI0WDhTSEZFZ3ZZNWFwR1pwRjExMm1id2ZVZ3pMdVZaVmYxMEs0dDlYdWtHRjJqa0ZIaWZHRlRJLVlTNG1odVhxM1ZWaE1Rc2FMQ1N4bmFHZ3VmUWUxc9IBsAFBVV95cUxOcGFoMFVCc3Q4cjBxYkdDNzdMTERlZWdOZU1VbzZpTTJRZGdaRUE1NUZWYlJCdHI3YW9ieUhidHVBQlhuaTF0SU1DLVRCU1BGY3RPWjM0VGtrWmI0WDhTSEZFZ3ZZNWFwR1pwRjExMm1id2ZVZ3pMdVZaVmYxMEs0dDlYdWtHRjJqa0ZIaWZHRlRJLVlTNG1odVhxM1ZWaE1Rc2FMQ1N4bmFHZ3VmUWUxcw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-11T19:53:00+00:00"
+            "published": "2026-10-11T22:14:52+00:00"
           },
           {
-            "title": "రూ.5,110 కోట్ల బకాయిల్ని విడుదల చేయండి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85VjktSUtudVVTY2FZQVRNNGppNkxrSF9CWUtyU0ZpNHE1TFAxbmY5RnRUejg2dkNiYzFIY2Z1YVVVaFlfaGVseUFoQWVfX3UwNHpOMDB4RzVzX1dvZ0t4ak1EclpicWVOYjhMSl9SZUlzekx2RG1fbDJjaVN1dw?oc=5",
+            "title": "ISSF World Cup: ఉదయ్‌వీర్‌కు స్వర్ణం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVHNjRjFyMmp6RFZoem5lUkhhNE9CNkRNeFZDdUp1SkNSdjAtNDJ6bzN5UFJ0bDhjQ0lmbDZnN29hcnFXd2M1MXBpMTB2bmVZU0U2ajNWYWJkdUpEcTl0Ym9pdWR4Qmxka1VHUUdpTTNJdjlFR0J5WnFiUHBxeS1XZ3NzZWQ5WEVuZk0wMkZFczBuN2Nqcy1vdkxldkFWbDQzOXBhY0I0aWNpWEtKYWVJN3ZmWFFyNVVncHZ6UnFn0gG-AUFVX3lxTE5Uc2NGMXIyanpEVmh6bmVSSGE0T0I2RE14VkN1SnVKQ1J2MC00MnpvM3lQUnRsOGNDSWZsNmc3b2FycVd3YzUxcGkxMHZuZVlTRTZqM1ZhYmR1SkRxOXRib2l1ZHhCbGRrVUdRR2lNM0l2OUVHQnlacWJQcHF5LVdnc3NlZDlYRW5mTTAyRkVzMG43Y2pzLW92TGV2QVZsNDM5cGFjQjRpY2lYS0phZUk3dmZYUXI1VWdwdnpScWc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-11T19:32:11+00:00"
+            "published": "2026-10-11T21:36:18+00:00"
           },
           {
-            "title": "మీకు తెలుసా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEd1JONEhHLW5fWkRnZmpiLXR2enQtSHJNbm9PMi11cGRWLXNCbVZYSkY4dlVYMXp4TkJpZmJWdVlBYTRUUEI1SnFFQkdxQ1RXUkVReE5kVkUwaWl5MlF3WHY4TDRHN0xoOFdfQnR2b0XSAXBBVV95cUxQRHdSTjRIRy1uX1pEZ2ZqYi10dnp0LUhyTW5vTzItdXBkVi1zQm1WWEpGOHZVWDF6eE5CaWZiVnVZQWE0VFBCNUpxRUJHcUNUV1JFUXhOZFZFMGlpeTJRd1h2OEw0RzdMaDhXX0J0dm9F?oc=5",
+            "title": "చైనా ఓపెన్‌ విజేత జెంగ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tZ2tzZzhKQmlkNGpZVnNHWmw3a3FURGlVMzBhYlJlZW05a1Zidl9tdVR2MEFmRTJreWVuN3dTVWVBX3N1eVBvTFJZaWZhYnNlRlBycXFxai1VQXJlb3BuNnlnd1NVa0FJQ0I2dG1PSW1lUdIBckFVX3lxTE9tZ2tzZzhKQmlkNGpZVnNHWmw3a3FURGlVMzBhYlJlZW05a1Zidl9tdVR2MEFmRTJreWVuN3dTVWVBX3N1eVBvTFJZaWZhYnNlRlBycXFxai1VQXJlb3BuNnlnd1NVa0FJQ0I2dG1PSW1lUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-11T19:01:50+00:00"
+            "published": "2026-10-11T21:35:58+00:00"
+          },
+          {
+            "title": "కలర్‌ కోటెడ్‌ స్టీల్‌ తయారీలోకి బీఎండబ్ల్యూ ఇండస్ట్రీస్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSXzNqay0wNGVET2N0eGJUcUdoN0pIQXFSQXljZ1ZYc1BUcVpSUm9WYi1KTDU4dWhzZWp5RlhUdHZmREZndzdubmptaWxyUG1MTnVzVlV1UXRDcDl2ckdNUWo3dDhMd3NZdVJwNGN6cFB0WnIz0gF0QVVfeXFMUFJfM2prLTA0ZURPY3R4YlRxR2g3SkhBcVJBeWNnVlhzUFRxWlJSb1ZiLUpMNTh1aHNlanlGWFR0dmZERmd3N25uam1pbHJQbUxOdXNWVXVRdENwOXZyR01Rajd0OEx3c1l1UnA0Y3pwUHRacjM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-11T20:40:16+00:00"
+          },
+          {
+            "title": "రూ.5 కోట్లు లంచం తీసుకున్న ఇన్‌స్పెక్టర్‌ అరెస్ట్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rZWFkNHo3RlNmYlRLUmZxdlB0eUdVeUxJYmRjdWpvbXZPbGdlamR1YU9FTlY1cktldTRNZnJZWWJVY0NPQWFXRDZvSzVuT211R1J6ZW96d0VpZ0VpQkJHaGNvZ3JDTmN4eWF1TmQ2a0h1dTJxZUxxZ0Z6ODYyZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-11T19:11:52+00:00"
           },
           {
             "title": "Delhi Police releases video: మరణ వార్తను దీప్కేకు వెంటనే చెప్పాం.. వీడియో విడుదల చేసిన దిల్లీ పోలీసులు - Eenadu",
@@ -1140,20 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-11T23:30:16+05:30"
-          },
-          {
-            "title": "Nuclear Power: రష్యా తర్వాత మనమే .. భారత్‌ మాస్టర్ ప్లాన్ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVk9TY18zc2dTVnNEcmc3ZEhhQ0UzRGZkUlpzazE3ejNMMDdkVHFxcnduZlFua1dyNV84aUI4SHhTTjV5V3NFS09vbnpxaVpkd1VjWjBRTDN4emN3b01jdEdEYWFmZ1dFNlZCRk5YZGpBTkFMUDA1ZXdOanlpV1VsdzVkelRONzZxb1VUWGhLRdIBjwFBVV95cUxPVk9TY18zc2dTVnNEcmc3ZEhhQ0UzRGZkUlpzazE3ejNMMDdkVHFxcnduZlFua1dyNV84aUI4SHhTTjV5V3NFS09vbnpxaVpkd1VjWjBRTDN4emN3b01jdEdEYWFmZ1dFNlZCRk5YZGpBTkFMUDA1ZXdOanlpV1VsdzVkelRONzZxb1VUWGhLRQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-11T17:50:54+00:00"
-          },
-          {
-            "title": "రైతులు యాసంగి పంట వేయొద్దు: మంత్రి పొంగులేటి కీలక విజ్ఞప్తి",
-            "link": "https://telugu.oneindia.com/news/telangana/ponguleti-srinivas-reddy-drought-in-telangana-makes-a-crucial-appeal-not-to-sow-a-second-crop-510291.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-11T22:49:21+05:30"
           }
         ],
         "Entertainment": [
@@ -1454,6 +1454,13 @@
             "published": "2026-10-11T19:36:44+00:00"
           },
           {
+            "title": "আর ভোটে লড়বেন না! নির্বাচন-রাজনীতি থেকে অবসরের ঘোষণা জঙ্গিপুরের বিজেপি বিধায়ক চিত্ত মুখোপাধ্যায়ের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeFNLazNmOUhFVFV3N0luRGhiaVpTVWlvSlhwVmJWb0FnY1ltRUNjS1R0RmU1NmVQT3l2M0MyX0lrN2xuNDR1YXdmdWdkSkJ6TVdwemkta1hIWUx5SGw5S0ZSX3QybmhtSi1ScHp5Z2NkQkloakVJalluQkVmWFh2cDMtNUFPaFgzN3VKMnJGbU9GSlVxTE04LTVkVkM2V3B2RWJFNzdGU0EtV05PZklSdkpMcFdUOHRUcHhIXzRjNGpkWXN3VTNCN0ZHY1Q1S0pDVS1ONklOWdIB3AFBVV95cUxNZGtqajNIdnVWcklDNUtRWUw4TEQwaXJSZGJQdk4wOEpOUTREOHEybXAwSTZyLVRPUlFsRWZYY290c1k1LVZXUjlqZFNHd1JzajQyeW1yejF0TU4teWszc3FTSEJ2VEFUS0VUVkZUblRsVHlpOC1IOGsxMVpIWE1FNlUwcUd5aTQ4SWcydkxieXJqUjRSOGFvR1J3bmhUdzdITlhTWHZLX21WNlI0M1BRaFhmbmM3eTZSY2E4TF8yZXY0WWJVOWtrTjlDeUZHT295aDQ4dndoRDAzU2U2?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-11T19:30:14+00:00"
+          },
+          {
             "title": "সন্ধ্যায় ফের বিক্ষোভ দিল্লির রাস্তায়! কনট প্লেসের সামনে জমায়েতের চেষ্টা হতেই আটক, তোলা হল প্রিজ়ন ভ্যানে - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0dqOGkycEFRRzVURHo2eWdNa2x2RkFCYTJVWGwtc05HTUdnWXRNVWZIV2tRT2lHRzFsVkhsWVF5Y3EwSlpiM2JDM3VpZ2dMSVdSOTNyMV9KNzRiemlJUzE2WDEwYmlWS0VWb3Q3ZlZXUnh0OW9QX1ZESC1YRGV3ZXFRelJrQ1VxVFFZSDZrSmg2OEFUVUlaM25QOWlBRG0wNFHSAacBQVVfeXFMTnJjaU1rTDhzRDgzZUNEZHM4c0gtUGI5MUNvaVloV2JVbVdqVURHQVRxU2tEb2VpQUZ0cVk1bGtJRkF2dzRfQmppN2JISzVzTHI0RGNoN0p1MlpWbm9acnp1d3FFbVgtZHdPeHZCbFpHMGpmeHdUWlFBWEN1TDlCekxuX3VlRC1IUlFkLWE1OVJ5eTZTcFl0ZktiM0o2WVFTSzBYbW9Fcjg?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-11T12:44:19+00:00"
-          },
-          {
-            "title": "টিভিতে আইএসএলের খেলা কেন দেখা যাচ্ছে না, সোমবার মোহনবাগানের ম্যাচ কি দেখা যাবে, মুখ খুললেন আয়োজকেরা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQk1UTnk1OHVDaHIyd2QwdTBFWGVOdjFoU2I5cTBNeU9ldWtRVlhWVEg0NlRLa3pMNjMwdmczS1NZQ2lRa2lkRms0cEJpU1A4Z0lXZVY4dThQa21XQUpxb2xOOFhYYngybDZURjlENVQyYkdyQlp2R3MzaElhZ082RWJxNlZmR0RNTmJhVUwyYTV6OGNjM01NdV9lSExPMGI5U2ZmbjJ5bmxqX1NX0gGyAUFVX3lxTFBtQUNFVU5KSTIyR1gtTkozWkpFaE8tYnlQVHI3a2d3eG5SMFJrZWVKZlByb0hLYnpKVFNmUTVxRWtRUWZtUUU2WHZjNnQtQ2JwLWNIY3FiRVZwckc4cmRvRm9mUEtTSGNLSW9JXy1wMDE0QW9nRnhXMl81N0F0SGtGSjVhTXVOWmdCSlpTN1N1VFZSQWFpQVBGdmlLZ2QwVnFRSGFOSFFJS3huaHI3M2dWSUE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-11T12:22:19+00:00"
           }
         ]
       }
