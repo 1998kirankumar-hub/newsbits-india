@@ -1,30 +1,100 @@
 {
-  "updated_at": "2026-10-13T17:31:15.961945+00:00",
+  "updated_at": "2026-10-13T18:01:29.664390+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Nearly dozen dead after boat capsizes in Bihar’s Vaishali",
+            "link": "https://www.thehindu.com/news/national/bihar/several-killed-after-boat-capsizes-in-bihar-vaishali-october-13-2026/article71581066.ece",
+            "source": "The Hindu",
+            "summary": "Bihar CM announces ex-gratia for kin of dead",
+            "published": "2026-10-13T23:24:17+05:30"
+          },
+          {
+            "title": "‘8 months of hard work wasted’: Bittu Tabahi finds Madhya Pradesh's Ajnar river choked with garbage again | Video",
+            "link": "https://www.hindustantimes.com/india-news/bittu-tabahi-finds-madhya-pradesh-ajnar-river-choked-with-garbage-again-video-101791910240102.html",
+            "source": "Hindustan Times",
+            "summary": "The video has renewed discussions online about civic responsibility and the need to prevent rivers from being polluted.",
+            "published": "2026-10-13T23:21:00+05:30"
+          },
+          {
+            "title": "Five held over suspected murder in Palakkad",
+            "link": "https://www.thehindu.com/news/national/kerala/five-held-over-suspected-murder-in-palakkad/article71581030.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-13T23:14:46+05:30"
+          },
+          {
+            "title": "Supreme Court asks Delhi governmente to seek inputs from IB on Hawara plea for transfer to Punjab jail",
+            "link": "https://www.thehindu.com/news/national/supreme-court-asks-delhi-governmente-to-seek-inputs-from-ib-on-hawara-plea-for-transfer-to-punjab-jail/article71580476.ece",
+            "source": "The Hindu",
+            "summary": "Bench takes a cautious approach, saying the case of Beant Singh murder convict is sensitive, and even the Punjab government seems to be reluctant",
+            "published": "2026-10-13T23:13:09+05:30"
+          },
+          {
+            "title": "China sentences three people to death for running Myanmar scam centres",
+            "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder.",
+            "published": "2026-10-13T17:41:16+00:00"
+          },
+          {
+            "title": "Five arrested as 29-year-old man dies after ‘assault’ over beer spill at north Delhi nightclub",
+            "link": "https://www.hindustantimes.com/india-news/five-arrested-man-death-alleged-assault-beer-spill-tor-house-nightclub-north-delhi-daljeet-bouncers-police-investigation-101791897085035.html",
+            "source": "Hindustan Times",
+            "summary": "Police are examining CCTV footage and allegations of a firearm threat and theft as they investigate the death of Daljeet at Tor House nightclub.",
+            "published": "2026-10-13T23:11:06+05:30"
+          },
+          {
+            "title": "Ashok Lavasa says EC must regain public trust amid SIR controversy",
+            "link": "https://timesofindia.indiatimes.com/india/ec-should-regain-credibility-ashok-lavasa-says-poll-panel-must-regain-public-trust-amid-sir-controversy/articleshow/134923909.cms",
+            "source": "Times of India",
+            "summary": "Ashok Lavasa stressed the importance of the Election Commission regaining trust during recent protests over electoral roll irregularities. He highlighted concerns regarding the integrity of the Special Intensive Revision exercise and its impact on voter rights. The commission's credibility is questioned due to dissent among its members and lack of transparency in decision-making. Prakash Raj labeled the exercise as…",
+            "published": "2026-10-13T23:07:34+05:30"
+          },
+          {
+            "title": "BIMSTEC adopts Delhi Declaration to counter terrorism",
+            "link": "https://www.thehindu.com/news/national/bimstec-adopts-delhi-declaration-to-counter-terrorism/article71580842.ece",
+            "source": "The Hindu",
+            "summary": "Meeting of Home Ministers calls for action against terror financing, recruitment and misuse of emerging technologies; Bangladesh sends senior Home Ministry official instead of its Home Minister",
+            "published": "2026-10-13T23:07:33+05:30"
+          },
+          {
+            "title": "Two bridges complete coastal road link between Kollam and Koyilandy harbour",
+            "link": "https://www.thehindu.com/news/national/kerala/two-bridges-complete-coastal-road-link-between-kollam-and-koyilandy-harbour/article71579132.ece",
+            "source": "The Hindu",
+            "summary": "The road will provide fisherfolk from Kollam, Arayankavu, and Gurukulam beach with direct access to Koyilandy harbour without having to use the national highway. The bridges were constructed at a cost of ₹1.16 crore using funds from the Harbour Engineering department.",
+            "published": "2026-10-13T23:06:52+05:30"
+          },
+          {
+            "title": "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council",
+            "link": "https://www.thehindu.com/news/national/karnataka/brain-damage-to-toddler-health-department-refers-medical-negligence-case-against-hospital-to-karnataka-medical-council/article71580964.ece",
+            "source": "The Hindu",
+            "summary": "During the procedure, the toddler suffered a cardiac arrest in the operation theatre and subsequently sustained severe brain injury due to lack of oxygen.",
+            "published": "2026-10-13T23:05:05+05:30"
+          },
+          {
+            "title": "Hospitals, police refuse to share medico legal case details with protesters injured in detention",
+            "link": "https://www.thehindu.com/news/national/hospitals-police-refuse-to-share-medico-legal-case-details-with-protesters-injured-in-detention/article71579912.ece",
+            "source": "The Hindu",
+            "summary": "Patients forced to run between hospitals and police, seeking access to MLC copies; hospitals document injuries, but sources say they are pressured not to share information during protests",
+            "published": "2026-10-13T23:03:09+05:30"
+          },
+          {
+            "title": "Woman found dead in river near Payyannur",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-found-dead-in-river-near-payyanur/article71579731.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-13T22:59:46+05:30"
+          },
+          {
             "title": "China says it doesn’t recognise U.T. of Ladakh; spars with India over naming geographical features",
             "link": "https://www.thehindu.com/news/national/mea-reaffirms-ladakh-is-an-integral-part-of-india-says-chinas-denial-cannot-change-facts/article71579210.ece",
             "source": "The Hindu",
             "summary": "Spat comes 10 days after the Survey of India announced the standardisation of the names of specific relief features in Ladakh, including 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake, and one other water body",
             "published": "2026-10-13T22:55:39+05:30"
-          },
-          {
-            "title": "Political resistance against vote chori will continue, not as parallel protests but as one movement: Rahul Gandhi",
-            "link": "https://www.thehindu.com/news/national/political-resistance-against-vote-chori-will-continue-not-as-parallel-protests-but-as-one-movement-rahul-gandhi/article71580671.ece",
-            "source": "The Hindu",
-            "summary": "Rahul Gandhi hosted leaders from 16 Opposition parties, civil society and student activists in a bid to coordinate diverse strands of the agitation; sources said CJP leaders did not attend despite an invitation",
-            "published": "2026-10-13T22:53:09+05:30"
-          },
-          {
-            "title": "CJP leaders Saurav Das, Ashutosh Ranka among 14 detained, booked after Jantar Mantar protest; FIRs over INDIA bloc march",
-            "link": "https://www.thehindu.com/news/national/cjps-saurav-das-ashutosh-ranka-ajinkya-shinde-detained-near-jantar-mantar-dipke-says-cannot-de-notify-resistance/article71577984.ece",
-            "source": "The Hindu",
-            "summary": "Detentions come a day after Delhi Police de-notified Jantar Mantar as a protest site; two FIRs registered over the INDIA bloc march held without permission in Central Delhi.",
-            "published": "2026-10-13T22:53:03+05:30"
           },
           {
             "title": "Kusal Mendis 87* hands Sri Lanka consolation win",
@@ -32,165 +102,109 @@
             "source": "ESPN Cricinfo",
             "summary": "Sri Lanka hunted down Pakistan's total of 168 for 8 with 17 balls and eight wickets to spare",
             "published": "2026-10-13T17:21:42+00:00"
-          },
-          {
-            "title": "Koodathil case: Crime Branch uncovers crucial evidence in mysterious death of Jayamadhavan Nair",
-            "link": "https://www.thehindu.com/news/national/kerala/koodathil-case-crime-branch-uncovers-crucial-evidence-in-mysterious-death-of-jayamadhavan-nair/article71580611.ece",
-            "source": "The Hindu",
-            "summary": "The probe team has found crucial evidence against the family’s former caretaker, Raveendran Nair, the prime accused in the case; the deaths of the members of the Koodathil family over a period of 26 years from 1991 had piqued interest, considering its eerie resemblance with the Koodathayi serial murder case in which a woman had allegedly murdered six people in Kozhikode over a span of 14 years.",
-            "published": "2026-10-13T22:48:45+05:30"
-          },
-          {
-            "title": "Bavuma focused on South Africa response after first taste of defeat",
-            "link": "https://www.cricinfo.com/ci/content/story/1558308.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Test captain says there are \"obvious things we could improve on\" after unbeaten run ended in Durban",
-            "published": "2026-10-13T17:17:01+00:00"
-          },
-          {
-            "title": "Former Supreme Court judge calls for constitutional safeguards to ensure ECI’s independence",
-            "link": "https://www.thehindu.com/news/national/kerala/former-supreme-court-judge-calls-for-constitutional-safeguards-to-ensure-ecis-independence/article71580390.ece",
-            "source": "The Hindu",
-            "summary": "Constitution; K. Balakrishnan Nair, former Kerala High Court judge, says the removal of voters during the special intensive revision violated the principles of natural justice; writer K.R. Meera expresses faith in youth-led protests to restore democracy and brotherhood",
-            "published": "2026-10-13T22:46:49+05:30"
-          },
-          {
-            "title": "Special trains from Keralam for festival season announced",
-            "link": "https://www.thehindu.com/news/national/kerala/special-trains-from-keralam-for-festival-season-announced/article71579950.ece",
-            "source": "The Hindu",
-            "summary": "The special trains are headed to Bengaluru, Kolkata and back",
-            "published": "2026-10-13T22:42:22+05:30"
-          },
-          {
-            "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-            "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-            "published": "2026-10-13T17:10:50+00:00"
-          },
-          {
-            "title": "At least 10 dead after boat capsizes in Bihar’s Vaishali",
-            "link": "https://timesofindia.indiatimes.com/city/patna/several-feared-dead-after-boat-capsizes-in-bihars-vaishali/articleshow/134923081.cms",
-            "source": "Times of India",
-            "summary": "In a heart-wrenching event in the Raghopur Diara vicinity of Vaishali district, a boat capsized, tragically involving many children. The local community is in distress, with RJD leader Tejashwi Yadav voicing his grief and urging immediate rescue actions. The administration is actively working to hasten relief efforts and support victims, while officials keep a vigilant watch on the unfolding situation.",
-            "published": "2026-10-13T22:40:29+05:30"
-          },
-          {
-            "title": "New White House press secretary Katie Zacharia holds first briefing",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Katie Zacharia has held her first briefing as White House press secretary after replacing Karoline Leavitt.",
-            "published": "2026-10-13T17:09:38+00:00"
-          },
-          {
-            "title": "NHAI takes up tree plantation drive along ECR between Mamallapuram and Marakkanam",
-            "link": "https://www.thehindu.com/news/cities/chennai/nhai-takes-up-tree-plantation-drive-along-ecr-between-mamallapuram-and-marakkanam/article71580501.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-13T22:39:10+05:30"
-          },
-          {
-            "title": "India asks its nationals in Saudi Arabia to ‘remain calm and vigilant’",
-            "link": "https://www.thehindu.com/news/national/india-asks-its-nationals-in-saudi-arabia-to-remain-calm-and-vigilant/article71580892.ece",
-            "source": "The Hindu",
-            "summary": "Saudi Arabia has been facing a series of deadly drone and missile attacks targeting civilian infrastructure by Yemen’s Iran-backed Houthi rebels",
-            "published": "2026-10-13T22:38:58+05:30"
-          },
-          {
-            "title": "Anti-CEC protests highlights: CJP leaders Das, Ranka booked for unauthorised entry at Jantar Mantar",
-            "link": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece",
-            "source": "The Hindu",
-            "summary": "Opposition leaders gathered for a high tea at Rahul Gandhi’s residence in Delhi after the INDIA bloc’s march to the Supreme Court",
-            "published": "2026-10-13T22:38:35+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Nearly dozen dead after boat capsizes in Bihar’s Vaishali",
+            "link": "https://www.thehindu.com/news/national/bihar/several-killed-after-boat-capsizes-in-bihar-vaishali-october-13-2026/article71581066.ece",
+            "source": "The Hindu",
+            "summary": "Bihar CM announces ex-gratia for kin of dead",
+            "published": "2026-10-13T23:24:17+05:30"
+          },
+          {
+            "title": "‘8 months of hard work wasted’: Bittu Tabahi finds Madhya Pradesh's Ajnar river choked with garbage again | Video",
+            "link": "https://www.hindustantimes.com/india-news/bittu-tabahi-finds-madhya-pradesh-ajnar-river-choked-with-garbage-again-video-101791910240102.html",
+            "source": "Hindustan Times",
+            "summary": "The video has renewed discussions online about civic responsibility and the need to prevent rivers from being polluted.",
+            "published": "2026-10-13T23:21:00+05:30"
+          },
+          {
+            "title": "Five held over suspected murder in Palakkad",
+            "link": "https://www.thehindu.com/news/national/kerala/five-held-over-suspected-murder-in-palakkad/article71581030.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-13T23:14:46+05:30"
+          },
+          {
+            "title": "Supreme Court asks Delhi governmente to seek inputs from IB on Hawara plea for transfer to Punjab jail",
+            "link": "https://www.thehindu.com/news/national/supreme-court-asks-delhi-governmente-to-seek-inputs-from-ib-on-hawara-plea-for-transfer-to-punjab-jail/article71580476.ece",
+            "source": "The Hindu",
+            "summary": "Bench takes a cautious approach, saying the case of Beant Singh murder convict is sensitive, and even the Punjab government seems to be reluctant",
+            "published": "2026-10-13T23:13:09+05:30"
+          },
+          {
+            "title": "Five arrested as 29-year-old man dies after ‘assault’ over beer spill at north Delhi nightclub",
+            "link": "https://www.hindustantimes.com/india-news/five-arrested-man-death-alleged-assault-beer-spill-tor-house-nightclub-north-delhi-daljeet-bouncers-police-investigation-101791897085035.html",
+            "source": "Hindustan Times",
+            "summary": "Police are examining CCTV footage and allegations of a firearm threat and theft as they investigate the death of Daljeet at Tor House nightclub.",
+            "published": "2026-10-13T23:11:06+05:30"
+          },
+          {
+            "title": "Ashok Lavasa says EC must regain public trust amid SIR controversy",
+            "link": "https://timesofindia.indiatimes.com/india/ec-should-regain-credibility-ashok-lavasa-says-poll-panel-must-regain-public-trust-amid-sir-controversy/articleshow/134923909.cms",
+            "source": "Times of India",
+            "summary": "Ashok Lavasa stressed the importance of the Election Commission regaining trust during recent protests over electoral roll irregularities. He highlighted concerns regarding the integrity of the Special Intensive Revision exercise and its impact on voter rights. The commission's credibility is questioned due to dissent among its members and lack of transparency in decision-making. Prakash Raj labeled the exercise as…",
+            "published": "2026-10-13T23:07:34+05:30"
+          },
+          {
+            "title": "BIMSTEC adopts Delhi Declaration to counter terrorism",
+            "link": "https://www.thehindu.com/news/national/bimstec-adopts-delhi-declaration-to-counter-terrorism/article71580842.ece",
+            "source": "The Hindu",
+            "summary": "Meeting of Home Ministers calls for action against terror financing, recruitment and misuse of emerging technologies; Bangladesh sends senior Home Ministry official instead of its Home Minister",
+            "published": "2026-10-13T23:07:33+05:30"
+          },
+          {
+            "title": "Two bridges complete coastal road link between Kollam and Koyilandy harbour",
+            "link": "https://www.thehindu.com/news/national/kerala/two-bridges-complete-coastal-road-link-between-kollam-and-koyilandy-harbour/article71579132.ece",
+            "source": "The Hindu",
+            "summary": "The road will provide fisherfolk from Kollam, Arayankavu, and Gurukulam beach with direct access to Koyilandy harbour without having to use the national highway. The bridges were constructed at a cost of ₹1.16 crore using funds from the Harbour Engineering department.",
+            "published": "2026-10-13T23:06:52+05:30"
+          },
+          {
+            "title": "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council",
+            "link": "https://www.thehindu.com/news/national/karnataka/brain-damage-to-toddler-health-department-refers-medical-negligence-case-against-hospital-to-karnataka-medical-council/article71580964.ece",
+            "source": "The Hindu",
+            "summary": "During the procedure, the toddler suffered a cardiac arrest in the operation theatre and subsequently sustained severe brain injury due to lack of oxygen.",
+            "published": "2026-10-13T23:05:05+05:30"
+          },
+          {
+            "title": "Hospitals, police refuse to share medico legal case details with protesters injured in detention",
+            "link": "https://www.thehindu.com/news/national/hospitals-police-refuse-to-share-medico-legal-case-details-with-protesters-injured-in-detention/article71579912.ece",
+            "source": "The Hindu",
+            "summary": "Patients forced to run between hospitals and police, seeking access to MLC copies; hospitals document injuries, but sources say they are pressured not to share information during protests",
+            "published": "2026-10-13T23:03:09+05:30"
+          },
+          {
+            "title": "Woman found dead in river near Payyannur",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-found-dead-in-river-near-payyanur/article71579731.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-13T22:59:46+05:30"
+          },
           {
             "title": "China says it doesn’t recognise U.T. of Ladakh; spars with India over naming geographical features",
             "link": "https://www.thehindu.com/news/national/mea-reaffirms-ladakh-is-an-integral-part-of-india-says-chinas-denial-cannot-change-facts/article71579210.ece",
             "source": "The Hindu",
             "summary": "Spat comes 10 days after the Survey of India announced the standardisation of the names of specific relief features in Ladakh, including 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake, and one other water body",
             "published": "2026-10-13T22:55:39+05:30"
-          },
-          {
-            "title": "Political resistance against vote chori will continue, not as parallel protests but as one movement: Rahul Gandhi",
-            "link": "https://www.thehindu.com/news/national/political-resistance-against-vote-chori-will-continue-not-as-parallel-protests-but-as-one-movement-rahul-gandhi/article71580671.ece",
-            "source": "The Hindu",
-            "summary": "Rahul Gandhi hosted leaders from 16 Opposition parties, civil society and student activists in a bid to coordinate diverse strands of the agitation; sources said CJP leaders did not attend despite an invitation",
-            "published": "2026-10-13T22:53:09+05:30"
-          },
-          {
-            "title": "CJP leaders Saurav Das, Ashutosh Ranka among 14 detained, booked after Jantar Mantar protest; FIRs over INDIA bloc march",
-            "link": "https://www.thehindu.com/news/national/cjps-saurav-das-ashutosh-ranka-ajinkya-shinde-detained-near-jantar-mantar-dipke-says-cannot-de-notify-resistance/article71577984.ece",
-            "source": "The Hindu",
-            "summary": "Detentions come a day after Delhi Police de-notified Jantar Mantar as a protest site; two FIRs registered over the INDIA bloc march held without permission in Central Delhi.",
-            "published": "2026-10-13T22:53:03+05:30"
-          },
-          {
-            "title": "Koodathil case: Crime Branch uncovers crucial evidence in mysterious death of Jayamadhavan Nair",
-            "link": "https://www.thehindu.com/news/national/kerala/koodathil-case-crime-branch-uncovers-crucial-evidence-in-mysterious-death-of-jayamadhavan-nair/article71580611.ece",
-            "source": "The Hindu",
-            "summary": "The probe team has found crucial evidence against the family’s former caretaker, Raveendran Nair, the prime accused in the case; the deaths of the members of the Koodathil family over a period of 26 years from 1991 had piqued interest, considering its eerie resemblance with the Koodathayi serial murder case in which a woman had allegedly murdered six people in Kozhikode over a span of 14 years.",
-            "published": "2026-10-13T22:48:45+05:30"
-          },
-          {
-            "title": "Former Supreme Court judge calls for constitutional safeguards to ensure ECI’s independence",
-            "link": "https://www.thehindu.com/news/national/kerala/former-supreme-court-judge-calls-for-constitutional-safeguards-to-ensure-ecis-independence/article71580390.ece",
-            "source": "The Hindu",
-            "summary": "Constitution; K. Balakrishnan Nair, former Kerala High Court judge, says the removal of voters during the special intensive revision violated the principles of natural justice; writer K.R. Meera expresses faith in youth-led protests to restore democracy and brotherhood",
-            "published": "2026-10-13T22:46:49+05:30"
-          },
-          {
-            "title": "Special trains from Keralam for festival season announced",
-            "link": "https://www.thehindu.com/news/national/kerala/special-trains-from-keralam-for-festival-season-announced/article71579950.ece",
-            "source": "The Hindu",
-            "summary": "The special trains are headed to Bengaluru, Kolkata and back",
-            "published": "2026-10-13T22:42:22+05:30"
-          },
-          {
-            "title": "At least 10 dead after boat capsizes in Bihar’s Vaishali",
-            "link": "https://timesofindia.indiatimes.com/city/patna/several-feared-dead-after-boat-capsizes-in-bihars-vaishali/articleshow/134923081.cms",
-            "source": "Times of India",
-            "summary": "In a heart-wrenching event in the Raghopur Diara vicinity of Vaishali district, a boat capsized, tragically involving many children. The local community is in distress, with RJD leader Tejashwi Yadav voicing his grief and urging immediate rescue actions. The administration is actively working to hasten relief efforts and support victims, while officials keep a vigilant watch on the unfolding situation.",
-            "published": "2026-10-13T22:40:29+05:30"
-          },
-          {
-            "title": "NHAI takes up tree plantation drive along ECR between Mamallapuram and Marakkanam",
-            "link": "https://www.thehindu.com/news/cities/chennai/nhai-takes-up-tree-plantation-drive-along-ecr-between-mamallapuram-and-marakkanam/article71580501.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-13T22:39:10+05:30"
-          },
-          {
-            "title": "India asks its nationals in Saudi Arabia to ‘remain calm and vigilant’",
-            "link": "https://www.thehindu.com/news/national/india-asks-its-nationals-in-saudi-arabia-to-remain-calm-and-vigilant/article71580892.ece",
-            "source": "The Hindu",
-            "summary": "Saudi Arabia has been facing a series of deadly drone and missile attacks targeting civilian infrastructure by Yemen’s Iran-backed Houthi rebels",
-            "published": "2026-10-13T22:38:58+05:30"
-          },
-          {
-            "title": "Anti-CEC protests highlights: CJP leaders Das, Ranka booked for unauthorised entry at Jantar Mantar",
-            "link": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece",
-            "source": "The Hindu",
-            "summary": "Opposition leaders gathered for a high tea at Rahul Gandhi’s residence in Delhi after the INDIA bloc’s march to the Supreme Court",
-            "published": "2026-10-13T22:38:35+05:30"
-          },
-          {
-            "title": "Alleged mobile snatcher caught by passengers, dragged alongside running train in Bihar’s Bhagalpur",
-            "link": "https://www.thehindu.com/news/national/bihar/alleged-mobile-snatcher-caught-by-passengers-dragged-alongside-running-train-in-bihars-bhagalpur/article71580605.ece",
-            "source": "The Hindu",
-            "summary": "Passengers grab the thief’s hand through the window and drag him along the platform; video goes viral.",
-            "published": "2026-10-13T22:38:02+05:30"
-          },
-          {
-            "title": "Kudumbashree’s focus on nutrition as part of Poshan Maah observance",
-            "link": "https://www.thehindu.com/news/national/kerala/kudumbashrees-focus-on-nutrition-as-part-of-poshan-maah-observance/article71579998.ece",
-            "source": "The Hindu",
-            "summary": "It has been organising food festivals featuring dishes made using millets, tubers, and various kinds of leaves in wards and panchayats for the past month",
-            "published": "2026-10-13T22:32:18+05:30"
           }
         ],
         "World": [
+          {
+            "title": "China sentences three people to death for running Myanmar scam centres",
+            "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder.",
+            "published": "2026-10-13T17:41:16+00:00"
+          },
+          {
+            "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+            "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
+            "published": "2026-10-13T17:18:45+00:00"
+          },
           {
             "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
             "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money.",
             "published": "2026-10-13T15:37:32+00:00"
-          },
-          {
-            "title": "Sweden’s centre-left leader fails in second bid to form government",
-            "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Social Democratic leader Magdalena Andersson says &#039;conditions not in place&#039; to form government, prolonging deadlock.",
-            "published": "2026-10-13T15:37:18+00:00"
-          },
-          {
-            "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
-            "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition&#039;s evacuation order as Houthis promise &#039;harsh&#039; response.",
-            "published": "2026-10-13T15:01:36+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ममता बनर्जी पर 'हमले' की कोशिश, अब तक क्या-क्या पता है?",
+            "link": "https://www.bbc.com/hindi/articles/cm93z41nygzko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-10-13T17:54:16+00:00"
+          },
+          {
             "title": "धीरूभाई ने भारत को सिर्फ बचत नहीं, निवेश करना सिखाया:शेयर बाजार को मध्यमवर्गीय परिवारों तक पहुंचाया, बड़े सपनों का साझेदार बनाया",
             "link": "https://www.bhaskar.com/national/news/dhirubhai-ambani-india-share-market-investment-journey-success-story-139350875.html",
             "source": "Dainik Bhaskar",
@@ -646,6 +653,13 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-10-13T16:11:17+00:00"
+          },
+          {
+            "title": "बिहार के वैशाली में नाव पलटी, 15 की मौत:20 युवक और बच्चे सवार थे; मृतकों की उम्र 6 से 18 साल के बीच",
+            "link": "https://www.bhaskar.com/local/bihar/vaishali/hajipur/news/vaishali-raghopur-boat-accident-rampur-drowning-tragedy-news-139350160.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-13T15:59:45+00:00"
           },
           {
             "title": "टाइटैनिक पर सवार इकलौता काला यात्री कौन था?",
@@ -695,20 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-10-13T13:53:17+00:00"
-          },
-          {
-            "title": "Odisha e-Sanchar: अब सरकारी विज्ञापनों का पूरा हिसाब होगा ऑनलाइन, ओडिशा सरकार ने शुरू किया नया प्लेटफॉर्म",
-            "link": "https://hindi.oneindia.com/news/india/odisha-launches-e-sanchar-government-advertisement-management-1667417.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-13T19:21:52+05:30"
-          },
-          {
-            "title": "इलेक्शन कमिश्नर्स को कानूनी छूट देने वाली धारा को चुनौती:सुप्रीम कोर्ट ने केंद्र, चुनाव आयोग से जवाब मांगा; जनवरी में रोक लगाने से इनकार किया था",
-            "link": "https://www.bhaskar.com/national/news/supreme-court-notice-central-government-election-commission-cec-ecs-139349028.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-13T13:49:20+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "બિહારના વૈશાલીમાં બોટ પલટતા 15 લોકોના મોત:20 યુવકો અને બાળકો સવાર હતા, મૃતકોની ઉંમર 6થી 18 વર્ષની વચ્ચે",
+            "link": "https://www.divyabhaskar.co.in/national/news/vaishali-boat-capsize-accident-bihar-ganga-river-tragedy-139351209.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-10-13T17:57:22+00:00"
+          },
+          {
             "title": "મમતા બેનર્જી પર ચાકુથી હુમલાનો પ્રયાસ:દુર્ગા પંડાલ જઈ રહ્યાં હતાં, આરોપ- હુમલાખોર નશામાં હતી, પોતાને પૂર્વ મુખ્યમંત્રીની ભત્રીજી ગણાવી",
             "link": "https://www.divyabhaskar.co.in/national/news/mamata-banerjee-attack-attempt-kolkata-tmc-security-breach-139350423.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-10-13T11:04:08+00:00"
-          },
-          {
-            "title": "'સમોસા જાએગા તેલ મેં, જ્ઞાનૂ કો ભેજો જેલ મેં':મોદી-શાહ ‘ઠગ્સ ઑફ હિન્દુસ્તાન’ પોસ્ટરો સાથે નારેબાજી; તસવીરોમાં જુઓ પટનામાં વિદ્યાર્થીઓનું પ્રદર્શન",
-            "link": "https://www.divyabhaskar.co.in/national/news/patna-student-protest-modi-shah-thugs-hindustan-posters-139345839.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-10-13T09:22:07+00:00"
           }
         ]
       }
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "2029 లో ఓటమికి సిద్ధంగా ఉండండి: రాహుల్ గాంధీపై విరుచుకుపడ్డ అమిత్ షా",
+            "link": "https://telugu.oneindia.com/news/india/amitshah-on-rahul-gandhi-be-prepared-for-defeat-in-2029-amit-shah-lashes-out-at-rahul-gandhi2029-510599.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-13T23:05:11+05:30"
+          },
+          {
             "title": "Viral Video: కదులుతున్న రైలు ఎక్కబోయిన వ్యక్తి.. జారిపడి.. వీడియో వైరల్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgwX0FEMEdNWmpoUzdrMmVRcUdfc2thaFJTbm5aMXZjNzNnMjloRzdUaHBFbEFRMWVzZlpJUWdXVEFpamZPbFVYdExZUEVhSWdiNkpqZm83OERnTEtCWWlRMVZuQzdJOUNpS1lJY3lUM21KVE1GYkZpcnhCMDR3dFQtRktBNVplZEtZR1liYlk1azDSAZMBQVVfeXFMUDU4MF9BRDBHTVpqaFM3azJlUXFHX3NrYWhSU25uWjF2YzczZzI5aEc3VGhwRWxBUTFlc2ZaSVFnV1RBaWpmT2xVWHRMWVBFYUlnYjZKamZvNzhEZ0xLQllpUTFWbkM3STlDaUtZSWN5VDNtSlRNRmJGaXJ4QjA0d3RULUZLQTVaZWRLWUdZYmJZNWsw?oc=5",
             "source": "Eenadu",
@@ -1100,6 +1107,13 @@
             "published": "2026-10-13T21:40:08+05:30"
           },
           {
+            "title": "ఎన్‌సీసీ గ్రూప్‌ ఛైర్మన్‌ ఏవీఎస్‌ రాజు కన్నుమూత | - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0em45RUpCOENPSzZEdmFsWWpmYy1Jd1RuNS03Nm9XbEtQX01WWE1sSWtXODVTV3lPWmtlaTZueC1ldmVueWt2UWY4UG56OGxtVnlPTEkzYklOZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-13T16:09:50+00:00"
+          },
+          {
             "title": "హైదరాబాద్ లో షాకింగ్ ఘటన.. 30వ ఫ్లోర్‌ నుంచి పడి సాఫ్ట్‌వేర్ ఇంజనీర్ మృతి.. కారణం ఏంటి..?",
             "link": "https://telugu.oneindia.com/news/telangana/software-engineer-dies-after-falling-from-30th-floor-nanakramguda-just-2-days-after-a-shift-change-510593.html",
             "source": "Oneindia Telugu",
@@ -1112,13 +1126,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-10-13T15:08:24+00:00"
-          },
-          {
-            "title": "Rahul Gandhi: ప్రజాస్వామ్య పునరుద్ధరణకు ఐక్య పోరాటం: రాహుల్ గాంధీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFNHWHBuWnA2dGhrUXNwQldRMTdFV3FUY0VrZnlSWjhlc0RxOC1jcUFZeUVVcExwWGd4aUFiM3dSRGVSSzdNZGNseXVGaHB5TjlTYVUzSWVkRHJrWXpOYzhXNzhNbXBsU3VSZ0tZZE9ZY1c0OTRRMDl6N0dnV2VOWTNQeEE5eXZ0Qng2cC1ka2g0T1VabUowT3EteHNheUNDTkpTU0FXZVVWVlBhWnpmaWp5eDl2eGfSAbcBQVVfeXFMTzhTR1hwblpwNnRoa1FzcEJXUTE3RVdxVGNFa2Z5Ulo4ZXNEcTgtY3FBWXlFVXBMcFhneGlBYjN3UkRlUks3TWRjbHl1RmhweU45U2FVM0llZERya1l6TmM4Vzc4TW1wbFN1UmdLWWRPWWNXNDk0UTA5ejdHZ1dlTlkzUHhBOXl2dEJ4NnAtZGtoNE9VWm1KME9xLXhzYXlDQ05KU1NBV2VVVlZQYVp6ZmlqeXg5dnhn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-13T14:59:22+00:00"
           },
           {
             "title": "చెన్నైని ఆదుకోరూ..! చంద్రబాబును కోరిన విజయ్..! తొలి భేటీలోనే హామీ..!",
@@ -1135,25 +1142,18 @@
             "published": "2026-10-13T14:43:59+00:00"
           },
           {
+            "title": "Telangana News: అసిస్టెంట్ ప్రొఫెసర్‌ నుంచి డీఎస్పీగా.. నేహా అగర్వాల్ సక్సెస్ స్టోరీ ఇదీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkpyRkgwTHdDRGN6R1A2QUtGazk4WUx0aHN3d0ZkUFhmVzNyVW90Q1ltZ1h4MUtkeUNDZnlEOUVKS2VzVDJoa2kzaEo3dW1WbW4ycF9iRElhbnI2bDE1ZnNzcTJDVGtraHBqQzU3a01ZWDBlZUEzMXhYQzdqblBZNlNOM2dqOVJXSVVPdTEtZW1DeElveTktenlmWTNoTUxNRTNVTG5zYUVjQ2tjSFHSAa4BQVVfeXFMUGZKckZIMEx3Q0RjekdQNkFLRms5OFlMdGhzd3dGZFBYZlczclVvdENZbWdYeDFLZHlDQ2Z5RDlFSktlc1QyaGtpM2hKN3VtVm1uMnBfYkRJYW5yNmwxNWZzc3EyQ1Rra2hwakM1N2tNWVgwZWVBMzF4WEM3am5QWTZTTjNnajlSV0lVT3UxLWVtQ3hJb3k5LXp5ZlkzaE1MTUUzVUxuc2FFY0NrY0hR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-13T14:31:14+00:00"
+          },
+          {
             "title": "East Godavari News: ఆకట్టుకుంటున్న దుర్గమ్మ - ద్రౌపదీ ముర్ము సైకత శిల్పం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGt2SllUX01zSW5UUU5qeXB0X3YwY2M5WkNoR0dPd0V5N2ZRSGVndEtibnFjanFDaVRXYjFfa3Z3ZDktMERxYms5b1V3VFZnUjRNSWY0eC12MV9TY29KMjJKU3JNeXduaWtYMFV2cU5zNXRNR0FJYXJURW5Ya0JaY0I2NlZwVUlBeDVNTXdaZlI2M0kyNXJlYUFGb01SemNkRmJJN1Nib3hVNFdm0gGsAUFVX3lxTE1sa3ZKWVRfTXNJblRRTmp5cHRfdjBjYzlaQ2hHR093RXk3ZlFIZWd0S2JucWNqcUNpVFdiMV9rdndkOS0wRHFiazlvVXdUVmdSNE1JZjR4LXYxX1Njb0oyMkpTck15d25pa1gwVXZxTnM1dE1HQUlhclRFblhrQlpjQjY2VnBVSUF4NU1Nd1pmUjYzSTI1cmVhQUZvTVJ6Y2RGYkk3U2JveFU0V2Y?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-13T14:03:05+00:00"
-          },
-          {
-            "title": "Reliance Jio: ఒక కుమార్తె ఫిర్యాదు.. ఒక కుమారుడి ఆలోచన.. జియో ఆవిర్భావం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFRRdVZhSnZGMkhOcW9md1NCQ2h2Y3ZUNFBjSS1MSjBUcVpLMmFYaXc2eXdDR1ByNjhBSkpDYktlQm90SkdRQVRTNHgwWVhSMXdzQVJmcU9nMXNXdnhIT2RTTVJVaXFILWY2d2kwSzVYMDhENDM5R2pwZ2ZpRmwxTUl0bGo4R09iS0E1eFpfQTQ1eDlsVXlvTGE1d3ZnMWk5VEFBMDdjakU1QzVLOTRvU0gyNXVvNTFnRlBna09mdEU4VVJGMlo3Zmp6cFBVWFk2amhN0gHTAUFVX3lxTFBEVFF1VmFKdkYySE5xb2Z3U0JDaHZjdlQ0UGNJLUxKMFRxWksyYVhpdzZ5d0NHUHI2OEFKSkNiS2VCb3RKR1FBVFM0eDBZWFIxd3NBUmZxT2cxc1d2eEhPZFNNUlVpcUgtZjZ3aTBLNVgwOEQ0MzlHanBnZmlGbDFNSXRsajhHT2JLQTV4Wl9BNDV4OWxVeW9MYTV3dmcxaTlUQUEwN2NqRTVDNUs5NG9TSDI1dW81MWdGUGdrT2Z0RThVUkYyWjdmanpwUFVYWTZqaE0?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-13T13:52:48+00:00"
-          },
-          {
-            "title": "Chandrababu - Vijay: LIVE: విజయవాడ ఉత్సవ్‌లో సీఎంలు చంద్రబాబు, విజయ్ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWxFdVIwT2JLd1h1ckkzNjR3YnhPMFpIa0tHOHlwX0kxR1kzMXp0R0dSRTk4cmVPV0Rqd25QR1h5eXJ5RExMMlBCMFY2aVViNUY2c0xlbnJVeks4Q0lfOUVLTmdjM2hxX2xuZU5IbzNmTXloQ0VNcjVRVmh0SXdSajU0MmxhLWRsbjdzN3d2Vnl5OXRXcXlaMFNZaU52Y013T0F2MV9QSHMzQdIBqgFBVV95cUxQTWxFdVIwT2JLd1h1ckkzNjR3YnhPMFpIa0tHOHlwX0kxR1kzMXp0R0dSRTk4cmVPV0Rqd25QR1h5eXJ5RExMMlBCMFY2aVViNUY2c0xlbnJVeks4Q0lfOUVLTmdjM2hxX2xuZU5IbzNmTXloQ0VNcjVRVmh0SXdSajU0MmxhLWRsbjdzN3d2Vnl5OXRXcXlaMFNZaU52Y013T0F2MV9QSHMzQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-13T13:46:52+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Rahul Gandhi–DKS Row: ರಾಹುಲ್ ಗಾಂಧಿ ನನ್ನನ್ನು ತಳ್ಳಲಿಲ್ಲ; ಬಿಜೆಪಿಯವರಿಗೆ ನನ್ನ ಮೇಲೆ ಪ್ರೀತಿ ಜಾಸ್ತಿ: ಸಿಎಂ ಡಿಕೆಶಿ",
+            "link": "https://kannada.oneindia.com/news/india/rahul-gandhi-dks-row-rahul-gandhi-didn-t-push-me-bjp-has-too-much-love-for-me-says-dk-shivakum-471235.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-10-13T23:27:42+05:30"
+          },
+          {
+            "title": "Bihar Boat Accident: ಗಂಗಾ ನದಿಯಲ್ಲಿ ದೋಣಿ ಮುಳುಗಿ 13 ಸಾವು; 20ಕ್ಕೂ ಹೆಚ್ಚು ಮಂದಿ ನಾಪತ್ತೆ, ದುರಂತಕ್ಕೆ ಕಾರಣವೇನು",
+            "link": "https://kannada.oneindia.com/news/india/bihar-boat-accident-several-dead-over-20-missing-after-boat-capsizes-in-ganga-what-caused-the-tra-471233.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-10-13T23:14:44+05:30"
+          },
+          {
             "title": "ಜಿಪಂ–ತಾಪಂ ಚುನಾವಣೆ ಮೇಲೆ ಮೂರು ಪಕ್ಷಗಳ ಕಣ್ಣು: ಜೆಡಿಎಸ್‌–ಬಿಜೆಪಿ ಮೈತ್ರಿ ಬಲಕ್ಕೆ ಎಚ್‌ಡಿಕೆ ಕಸರತ್ತು",
             "link": "https://kannada.oneindia.com/news/karnataka/jds-bjp-alliance-hd-kumaraswamy-steps-up-jds-bjp-coordination-ahead-of-local-body-elections-in-kar-471231.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-10-13T17:51:46+05:30"
-          },
-          {
-            "title": "ಡಿಕೆಶಿ ಮನೆಯಲ್ಲಿ ಪೋನ್‌ ಟ್ಯಾಫಿಂಗ್ ನಿಗಾ ಇಡಲು ನಿವೃತ್ತ ಪೊಲೀಸರ ನೇಮಕ: ಹೆಚ್‌ ಡಿ ಕುಮಾರಸ್ವಾಮಿ",
-            "link": "https://kannada.oneindia.com/news/karnataka/hd-kumaraswamy-retired-police-officers-appointed-to-monitor-phone-tapping-at-d-k-shivakumar-s-re-471193.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-10-13T17:28:22+05:30"
-          },
-          {
-            "title": "Bengaluru-Mangaluru Railway Line: ಇತಿಹಾಸ ಸೇರಲಿವೆ ಡೀಸೆಲ್ ರೈಲುಗಳು, ವಿದ್ಯುತ್ ರೈಲುಗಳ ಸಂಚಾರ ಶೀಘ್ರ",
-            "link": "https://kannada.oneindia.com/news/karnataka/bengaluru-mangaluru-railway-route-electric-trains-to-replace-diesel-engines-on-55-km-ghat-section-471191.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-10-13T17:25:09+05:30"
           }
         ],
         "Entertainment": [
