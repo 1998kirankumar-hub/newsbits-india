@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-10-13T21:01:40.601857+00:00",
+  "updated_at": "2026-10-13T21:30:23.193445+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Saudi national charged with secretly planting recording device in OpenAI office",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "published": "2026-10-13T21:19:02+00:00"
+          },
           {
             "title": "Tupac Shakur killer sentenced to 40 years in prison",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
@@ -53,13 +60,6 @@
             "source": "Economic Times",
             "summary": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
             "published": "2026-10-14T01:43:21+05:30"
-          },
-          {
-            "title": "How podcasts became political powerhouses",
-            "link": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Are podcasts remaking politics or just bypassing scrutiny?",
-            "published": "2026-10-13T20:12:42+00:00"
           },
           {
             "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
@@ -213,13 +213,6 @@
             "published": "2026-10-13T20:33:10+00:00"
           },
           {
-            "title": "How podcasts became political powerhouses",
-            "link": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Are podcasts remaking politics or just bypassing scrutiny?",
-            "published": "2026-10-13T20:12:42+00:00"
-          },
-          {
             "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
             "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -274,9 +267,23 @@
             "source": "Al Jazeera",
             "summary": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.",
             "published": "2026-10-13T19:24:50+00:00"
+          },
+          {
+            "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+            "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+            "published": "2026-10-13T19:23:28+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Saudi national charged with secretly planting recording device in OpenAI office",
+            "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "published": "2026-10-13T21:19:02+00:00"
+          },
           {
             "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
             "published": "2026-10-13T09:38:54+00:00"
-          },
-          {
-            "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-            "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-            "published": "2026-10-13T09:34:43+00:00"
           }
         ],
         "Sports": [
@@ -1072,13 +1072,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Ruthvika Rao: నా నవల... ఓ సాహసం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdC1JQlFSMlNFakdaRmtGSG0yUmtJUjN3S0pwc2ZfZVlSdENMbW1zekNIcE1Pel9nNzJ2QklUQXBUZUtFVC16SWJMc2xhcWRnZUNoYXVhZUtTY1E2NmxpdGZseUg3MERtZ0I1LUpUQldZeElHTFdiSGtpbW9rZm9pT2t1UXY2eUhKSGVJSWhyT2tmaml5T2Nob0RCLXpqbE1lYW5qRnhVWW9zekppdG1fSzJmMjlvNWpvQmRRNmhjT2p1aUw1VVZUajE2MlhTbnc1Y2thUFBzdkd1VkJpTnpV0gHfAUFVX3lxTE10LUlCUVIyU0VqR1pGa0ZIbTJSa0lSM3dLSnBzZl9lWVJ0Q0xtbXN6Q0hwTU96X2c3MnZCSVRBcFRlS0VULXpJYkxzbGFxZGdlQ2hhdWFlS1NjUTY2bGl0Zmx5SDcwRG1nQjUtSlRCV1l4SUdMV2JIa2ltb2tmb2lPa3VRdjZ5SEpIZUlJaHJPa2ZqaXlPY2hvREItempsTWVhbmpGeFVZb3N6Sml0bV9LMmYyOW81am9CZFE2aGNPanVpTDVVVlRqMTYyWFNudzVja2FQUHN2R3VWQmlOelU?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-13T19:46:16+00:00"
-          },
-          {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (14/10/2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVdGeXRrYTNFSGdwNFNKZ1paM3ZHM0ZSX2Zkd3BVLWZfX2ptbUZ0WGFGbUJaMUdHMC11M0hjOGNQM3MyUHdWLWJpbXFEX19mTzFfTFdwb3cxdGl4Mm1zSUZDQllqRHQ5QmoyYXF1VGFvMHlsVGE1WWZyZTl6QmlJQzFPOHY1bGUtUndOamVvNUR4Z3dZUlRwZjZLMDg5bjkwUGZOaDhkWVUwbHR3Vm5JcG9nQdIBswFBVV95cUxQSVdGeXRrYTNFSGdwNFNKZ1paM3ZHM0ZSX2Zkd3BVLWZfX2ptbUZ0WGFGbUJaMUdHMC11M0hjOGNQM3MyUHdWLWJpbXFEX19mTzFfTFdwb3cxdGl4Mm1zSUZDQllqRHQ5QmoyYXF1VGFvMHlsVGE1WWZyZTl6QmlJQzFPOHY1bGUtUndOamVvNUR4Z3dZUlRwZjZLMDg5bjkwUGZOaDhkWVUwbHR3Vm5JcG9nQQ?oc=5",
             "source": "Eenadu",
@@ -1154,6 +1147,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-13T20:17:24+05:30"
+          },
+          {
+            "title": "Uppal T20: ఉప్పల్‌ టీ20కి సర్వం సిద్ధం... ఏర్పాట్ల వివరాలివీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTVfREppVjZZUFRwRTUtUlA3YnJFdmladW95YnlQNE9OUlZGMXZwZ3BQRjFveTBTUWlHMll4bjduMkxIOENIZkFSUlNuSEhiZ0dxOEtaZXJtd1BaakdxRVVGaUtxbmFKS0U3TTJlUnh0WkZwQklnYl9iZWFtV3J6ZnpIT09pTzJXeWJxR1Nnc294S2x6UDZDa0ZCa1rSAZwBQVVfeXFMTnU1X0RKaVY2WVBUcEU1LVJQN2JyRXZpWnVveWJ5UDRPTlJWRjF2cGdwUEYxb3kwU1FpRzJZeG43bjJMSDhDSGZBUlJTbkhIYmdHcThLWmVybXdQWmpHcUVVRmlLcW5hSktFN00yZVJ4dFpGcEJJZ2JfYmVhbVdyemZ6SE9PaU8yV3licUdTZ3NveEtselA2Q2tGQmta?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-13T14:42:31+00:00"
           }
         ],
         "Entertainment": [
