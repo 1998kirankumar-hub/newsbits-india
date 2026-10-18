@@ -1,72 +1,100 @@
 {
-  "updated_at": "2026-10-18T17:01:19.737839+00:00",
+  "updated_at": "2026-10-18T17:31:11.398063+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Anti-CEC protest highlights | CJP legal head alleges ‘deliberate delay’ in hearing on Saurav Das, Ashutosh Ranka’s release",
+            "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protests-oct-18-live-updates-cjp/article71598964.ece",
+            "source": "The Hindu",
+            "summary": "The CJP has warned of legal action against those allegedly responsible for keeping Ashutosh and Saurav in illegal custody",
+            "published": "2026-10-18T22:50:43+05:30"
+          },
+          {
+            "title": "Five killed as car crashes into State transport bus in Maharashtra's Beed district",
+            "link": "https://www.thehindu.com/news/national/maharashtra/five-killed-as-car-crashes-into-state-transport-bus-in-maharashtras-beed-district/article71600280.ece",
+            "source": "The Hindu",
+            "summary": "CCTV footage from the area showed the speeding car lose control while attempting to avoid potholes on a bridge, leading to the head-on crash with the bus",
+            "published": "2026-10-18T22:49:53+05:30"
+          },
+          {
+            "title": "Two arrested after pelting of stones on Kashmir-bound bus in Haryana",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-held-in-haryana-for-allegedly-attacking-srinagar-bound-bus/article71599765.ece",
+            "source": "The Hindu",
+            "summary": "‘The safety of every citizen and every person visiting the State is our utmost priority,’ Haryana Chief Minister Nayab Singh Saini says in a social media post",
+            "published": "2026-10-18T22:49:03+05:30"
+          },
+          {
+            "title": "Canada keen to deepen partnerships with Karnataka quantum computing, AI, aerospace and defence: Trade Minister Maninder Sidhu",
+            "link": "https://www.thehindu.com/news/national/karnataka/canada-keen-to-deepen-partnerships-with-karnataka-quantum-computing-ai-aerospace-and-defence-trade-minister-maninder-sindhu/article71593364.ece",
+            "source": "The Hindu",
+            "summary": "Mr. Sidhu, who was in the city as part of a high-level Canadian trade mission to India, said Canada and India had complementary economic strengths and were well positioned to build stronger partnerships at a time when global trade patterns were being reshaped.",
+            "published": "2026-10-18T22:46:14+05:30"
+          },
+          {
+            "title": "Kumaraswamy unable to digest Shivakumar as Chief Minister, says Sharan Prakash Patil",
+            "link": "https://www.thehindu.com/news/national/karnataka/kumaraswamy-unable-to-digest-shivakumar-as-chief-minister-says-sharan-prakash-patil/article71596347.ece",
+            "source": "The Hindu",
+            "summary": "Medical Education Minister accuses Centre of withholding drought relief funds to Karnataka; backs protests against SIR and CEC",
+            "published": "2026-10-18T22:45:51+05:30"
+          },
+          {
+            "title": "AAP's Saurabh Bharadwaj claims Delhi Police harassing Bengali community in CR Park",
+            "link": "https://timesofindia.indiatimes.com/india/barged-in-cut-power-aaps-saurabh-bharadwaj-claims-delhi-police-harassing-bengali-community-in-cr-park/articleshow/135031313.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-18T22:45:20+05:30"
+          },
+          {
+            "title": "Ten youths from Punjab with unlicensed weapons arrested in Rayachoti",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ten-youths-from-punjab-with-unlicensed-weapons-arrested-in-rayachoti/article71596238.ece",
+            "source": "The Hindu",
+            "summary": "Tension prevails as TDP men confront supporters of a political party outside the lodge on Madanapalle Road where the accused have allegedly been staying; investigation into the purpose of their stay at the lodge and their possible links to Friday’s clashes under way, say police",
+            "published": "2026-10-18T22:43:55+05:30"
+          },
+          {
+            "title": "FSSAI asks food operators to maintain cold chain for perishables",
+            "link": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
+            "source": "The Hindu",
+            "summary": "Food businesses told to maintain prescribed temperatures across supply chain; states asked to act against violations",
+            "published": "2026-10-18T22:43:30+05:30"
+          },
+          {
+            "title": "Despite drought and diseases, farmers around Bengaluru achieve good pomegranate yield",
+            "link": "https://www.thehindu.com/news/national/karnataka/despite-drought-and-diseases-farmers-around-bengaluru-achieve-good-pomegranate-yield/article71593232.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:40:48+05:30"
+          },
+          {
+            "title": "Upset with non-inclusion of woman in Karnataka Cabinet, Sowmya Reddy quits as State Mahila Congress chief",
+            "link": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:38:53+05:30"
+          },
+          {
+            "title": "Banana, idli eating competitions as part of Shivamogga Dasara celebrations",
+            "link": "https://www.thehindu.com/news/national/karnataka/banana-idli-eating-competitions-as-part-of-shivamogga-dasara-celebrations/article71596328.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:38:46+05:30"
+          },
+          {
+            "title": "NHAI begins work on long-delayed FOB after pedestrian deaths on Bengaluru–Mysuru highway",
+            "link": "https://www.thehindu.com/news/cities/bangalore/nhai-begins-work-on-long-delayed-fob-after-pedestrian-deaths-on-bengalurumysuru-highway/article71596323.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:36:28+05:30"
+          },
+          {
             "title": "Pakistan quicks seal win after Salman Agha ton sets tone",
             "link": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Rathnayake, Liyanage half-centuries in vain as Sri Lanka unravel in pursuit of 306",
-            "published": "2026-10-18T16:58:32+00:00"
-          },
-          {
-            "title": "How has the SC strengthened arrest safeguards? | Explained",
-            "link": "https://www.thehindu.com/news/national/how-has-the-sc-strengthened-arrest-safeguards-explained/article71583594.ece",
-            "source": "The Hindu",
-            "summary": "What makes written grounds of arrest mandatory, and what happens if they are not provided?",
-            "published": "2026-10-18T22:24:09+05:30"
-          },
-          {
-            "title": "Two-year-old boy dies of suspected malnutrition in Alappuzha",
-            "link": "https://www.thehindu.com/news/national/kerala/two-year-old-boy-dies-of-suspected-malnutrition-in-alappuzha/article71600884.ece",
-            "source": "The Hindu",
-            "summary": "As per doctors, he was ‘acutely anaemic' and appeared malnourished as his weight was 7.6 kg, whereas the normal weight for his age would be closer to 12 kg",
-            "published": "2026-10-18T22:23:37+05:30"
-          },
-          {
-            "title": "Why does India need a trained workforce for elderly care?",
-            "link": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece",
-            "source": "The Hindu",
-            "summary": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
-            "published": "2026-10-18T22:23:25+05:30"
-          },
-          {
-            "title": "Actor Tiger Shroff escapes unhurt in Juhu firing incident; suspect detained",
-            "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
-            "source": "The Hindu",
-            "summary": "Devendra Fadnavis calls Mumbai Police Commissioner Deven Bharti and directs him to probe the case swiftly and take strict action against the perpetrators",
-            "published": "2026-10-18T22:22:35+05:30"
-          },
-          {
-            "title": "Comparing SIR 2002-04 and 2025-26",
-            "link": "https://www.thehindu.com/news/national/comparing-sir-2002-04-and-2025-26/article71576723.ece",
-            "source": "The Hindu",
-            "summary": "Unlike previous SIRs, which had elaborate processes for preparing fresh rolls to ensure that no eligible elector would be taken off the rolls, the current SIR exercise adopts a flawed process that has led to the exclusion of lakhs of eligible voters; a point-by-point comparison is provided",
-            "published": "2026-10-18T22:20:31+05:30"
-          },
-          {
-            "title": "Why UAPA demands urgent reform",
-            "link": "https://www.thehindu.com/news/national/why-uapa-demands-urgent-reform/article71571306.ece",
-            "source": "The Hindu",
-            "summary": "UAPA’s vague provisions, stringent bail conditions and inconsistent judicial interpretations have enabled the prolonged imprisonment of activists, scholars and journalists without trial; Prof. G.N. Saibaba’s experience shows the urgent need to reform a legal regime that undermines civil liberties, due process and rule of law",
-            "published": "2026-10-18T22:19:55+05:30"
-          },
-          {
-            "title": "Study on Internet use flags emotional and physical impact on children",
-            "link": "https://www.thehindu.com/news/national/study-on-internet-use-flags-emotional-and-physical-impact-on-children/article71600441.ece",
-            "source": "The Hindu",
-            "summary": "The majority of children, irrespective of their perceived digital skills, struggled to stop using the Internet even when they wanted to, reflecting signs of addiction, the study’s author says",
-            "published": "2026-10-18T22:19:12+05:30"
-          },
-          {
-            "title": "Bimol Akoijam willing to contest Manipur Assembly polls if Congress offers ticket",
-            "link": "https://timesofindia.indiatimes.com/india/bimol-akoijam-willing-to-contest-manipur-assembly-polls-if-congress-offers-ticket/articleshow/135031895.cms",
-            "source": "Times of India",
-            "summary": "Congress MP Angomcha Bimol Akoijam expressed his willingness to contest in the upcoming Manipur Assembly elections. He stated his decision was for the future of the state and would respect the party's ticket offering. Akoijam currently faces serious allegations of sexual harassment and has been dismissed from Jawaharlal Nehru University. Multiple complaints from female students prompted a police investigation into…",
-            "published": "2026-10-18T22:17:50+05:30"
+            "published": "2026-10-18T17:04:57+00:00"
           },
           {
             "title": "Bowlers, Shafali, Mandhana power India to series win",
@@ -74,123 +102,102 @@
             "source": "ESPN Cricinfo",
             "summary": "India eased to victory after limiting Zimbabwe to 102 for 8",
             "published": "2026-10-18T16:47:25+00:00"
-          },
-          {
-            "title": "Understanding Gandhi’s re-emergence in India’s oppositional politics",
-            "link": "https://www.thehindu.com/news/national/understanding-gandhis-re-emergence-in-indias-oppositional-politics/article71560235.ece",
-            "source": "The Hindu",
-            "summary": "Gandhi’s return to the centre of opposition politics shows a wider churn in India, with protests, citizen action and new political movements seeking greater accountability and systemic change; despite efforts to diminish his legacy, his emphasis on bottom-up political change remains relevant",
-            "published": "2026-10-18T22:16:57+05:30"
-          },
-          {
-            "title": "Delhi SIR: Public audit in two booths find over 100 voters wrongly marked absent, shifted, or dead",
-            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-public-audit-in-two-booths-find-over-100-voters-wrongly-marked-absent-shifted-or-dead/article71600683.ece",
-            "source": "The Hindu",
-            "summary": "Voters residing at the same address for multiple decades express anger that they were marked ‘untraceable’, ‘absent’, and permanently shifted, and their only option is to enrol afresh using Form 6",
-            "published": "2026-10-18T22:16:28+05:30"
-          },
-          {
-            "title": "Why stubble fires keep coming back",
-            "link": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
-            "source": "The Hindu",
-            "summary": "Stubble burning is the result of a combination of legal, technological and economic factors, including the paddy-wheat cycle, assured procurement and a narrow window between crops; a lasting solution needs stronger incentives for diversification, better residue management and more reliable measurement of burning",
-            "published": "2026-10-18T22:16:01+05:30"
-          },
-          {
-            "title": "Nahida Akter named Bangladesh women's T20I captain",
-            "link": "https://www.cricinfo.com/ci/content/story/1558998.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "She has been given an initial one-year term, with the ICC Women's Emerging Nations Trophy next month set to be her first assignment",
-            "published": "2026-10-18T16:42:34+00:00"
           }
         ],
         "India": [
           {
-            "title": "How has the SC strengthened arrest safeguards? | Explained",
-            "link": "https://www.thehindu.com/news/national/how-has-the-sc-strengthened-arrest-safeguards-explained/article71583594.ece",
+            "title": "Anti-CEC protest highlights | CJP legal head alleges ‘deliberate delay’ in hearing on Saurav Das, Ashutosh Ranka’s release",
+            "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protests-oct-18-live-updates-cjp/article71598964.ece",
             "source": "The Hindu",
-            "summary": "What makes written grounds of arrest mandatory, and what happens if they are not provided?",
-            "published": "2026-10-18T22:24:09+05:30"
+            "summary": "The CJP has warned of legal action against those allegedly responsible for keeping Ashutosh and Saurav in illegal custody",
+            "published": "2026-10-18T22:50:43+05:30"
           },
           {
-            "title": "Two-year-old boy dies of suspected malnutrition in Alappuzha",
-            "link": "https://www.thehindu.com/news/national/kerala/two-year-old-boy-dies-of-suspected-malnutrition-in-alappuzha/article71600884.ece",
+            "title": "Five killed as car crashes into State transport bus in Maharashtra's Beed district",
+            "link": "https://www.thehindu.com/news/national/maharashtra/five-killed-as-car-crashes-into-state-transport-bus-in-maharashtras-beed-district/article71600280.ece",
             "source": "The Hindu",
-            "summary": "As per doctors, he was ‘acutely anaemic' and appeared malnourished as his weight was 7.6 kg, whereas the normal weight for his age would be closer to 12 kg",
-            "published": "2026-10-18T22:23:37+05:30"
+            "summary": "CCTV footage from the area showed the speeding car lose control while attempting to avoid potholes on a bridge, leading to the head-on crash with the bus",
+            "published": "2026-10-18T22:49:53+05:30"
           },
           {
-            "title": "Why does India need a trained workforce for elderly care?",
-            "link": "https://www.thehindu.com/news/national/why-does-india-need-a-trained-workforce-for-elderly-care/article71576741.ece",
+            "title": "Two arrested after pelting of stones on Kashmir-bound bus in Haryana",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-held-in-haryana-for-allegedly-attacking-srinagar-bound-bus/article71599765.ece",
             "source": "The Hindu",
-            "summary": "India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote gender parity in caregiving and recognise informal, unpaid family caregivers",
-            "published": "2026-10-18T22:23:25+05:30"
+            "summary": "‘The safety of every citizen and every person visiting the State is our utmost priority,’ Haryana Chief Minister Nayab Singh Saini says in a social media post",
+            "published": "2026-10-18T22:49:03+05:30"
           },
           {
-            "title": "Actor Tiger Shroff escapes unhurt in Juhu firing incident; suspect detained",
-            "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-in-mumbai-juhu-october-18-2026/article71600449.ece",
+            "title": "Canada keen to deepen partnerships with Karnataka quantum computing, AI, aerospace and defence: Trade Minister Maninder Sidhu",
+            "link": "https://www.thehindu.com/news/national/karnataka/canada-keen-to-deepen-partnerships-with-karnataka-quantum-computing-ai-aerospace-and-defence-trade-minister-maninder-sindhu/article71593364.ece",
             "source": "The Hindu",
-            "summary": "Devendra Fadnavis calls Mumbai Police Commissioner Deven Bharti and directs him to probe the case swiftly and take strict action against the perpetrators",
-            "published": "2026-10-18T22:22:35+05:30"
+            "summary": "Mr. Sidhu, who was in the city as part of a high-level Canadian trade mission to India, said Canada and India had complementary economic strengths and were well positioned to build stronger partnerships at a time when global trade patterns were being reshaped.",
+            "published": "2026-10-18T22:46:14+05:30"
           },
           {
-            "title": "Comparing SIR 2002-04 and 2025-26",
-            "link": "https://www.thehindu.com/news/national/comparing-sir-2002-04-and-2025-26/article71576723.ece",
+            "title": "Kumaraswamy unable to digest Shivakumar as Chief Minister, says Sharan Prakash Patil",
+            "link": "https://www.thehindu.com/news/national/karnataka/kumaraswamy-unable-to-digest-shivakumar-as-chief-minister-says-sharan-prakash-patil/article71596347.ece",
             "source": "The Hindu",
-            "summary": "Unlike previous SIRs, which had elaborate processes for preparing fresh rolls to ensure that no eligible elector would be taken off the rolls, the current SIR exercise adopts a flawed process that has led to the exclusion of lakhs of eligible voters; a point-by-point comparison is provided",
-            "published": "2026-10-18T22:20:31+05:30"
+            "summary": "Medical Education Minister accuses Centre of withholding drought relief funds to Karnataka; backs protests against SIR and CEC",
+            "published": "2026-10-18T22:45:51+05:30"
           },
           {
-            "title": "Why UAPA demands urgent reform",
-            "link": "https://www.thehindu.com/news/national/why-uapa-demands-urgent-reform/article71571306.ece",
-            "source": "The Hindu",
-            "summary": "UAPA’s vague provisions, stringent bail conditions and inconsistent judicial interpretations have enabled the prolonged imprisonment of activists, scholars and journalists without trial; Prof. G.N. Saibaba’s experience shows the urgent need to reform a legal regime that undermines civil liberties, due process and rule of law",
-            "published": "2026-10-18T22:19:55+05:30"
-          },
-          {
-            "title": "Study on Internet use flags emotional and physical impact on children",
-            "link": "https://www.thehindu.com/news/national/study-on-internet-use-flags-emotional-and-physical-impact-on-children/article71600441.ece",
-            "source": "The Hindu",
-            "summary": "The majority of children, irrespective of their perceived digital skills, struggled to stop using the Internet even when they wanted to, reflecting signs of addiction, the study’s author says",
-            "published": "2026-10-18T22:19:12+05:30"
-          },
-          {
-            "title": "Bimol Akoijam willing to contest Manipur Assembly polls if Congress offers ticket",
-            "link": "https://timesofindia.indiatimes.com/india/bimol-akoijam-willing-to-contest-manipur-assembly-polls-if-congress-offers-ticket/articleshow/135031895.cms",
+            "title": "AAP's Saurabh Bharadwaj claims Delhi Police harassing Bengali community in CR Park",
+            "link": "https://timesofindia.indiatimes.com/india/barged-in-cut-power-aaps-saurabh-bharadwaj-claims-delhi-police-harassing-bengali-community-in-cr-park/articleshow/135031313.cms",
             "source": "Times of India",
-            "summary": "Congress MP Angomcha Bimol Akoijam expressed his willingness to contest in the upcoming Manipur Assembly elections. He stated his decision was for the future of the state and would respect the party's ticket offering. Akoijam currently faces serious allegations of sexual harassment and has been dismissed from Jawaharlal Nehru University. Multiple complaints from female students prompted a police investigation into…",
-            "published": "2026-10-18T22:17:50+05:30"
+            "summary": "",
+            "published": "2026-10-18T22:45:20+05:30"
           },
           {
-            "title": "Understanding Gandhi’s re-emergence in India’s oppositional politics",
-            "link": "https://www.thehindu.com/news/national/understanding-gandhis-re-emergence-in-indias-oppositional-politics/article71560235.ece",
+            "title": "Ten youths from Punjab with unlicensed weapons arrested in Rayachoti",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/ten-youths-from-punjab-with-unlicensed-weapons-arrested-in-rayachoti/article71596238.ece",
             "source": "The Hindu",
-            "summary": "Gandhi’s return to the centre of opposition politics shows a wider churn in India, with protests, citizen action and new political movements seeking greater accountability and systemic change; despite efforts to diminish his legacy, his emphasis on bottom-up political change remains relevant",
-            "published": "2026-10-18T22:16:57+05:30"
+            "summary": "Tension prevails as TDP men confront supporters of a political party outside the lodge on Madanapalle Road where the accused have allegedly been staying; investigation into the purpose of their stay at the lodge and their possible links to Friday’s clashes under way, say police",
+            "published": "2026-10-18T22:43:55+05:30"
           },
           {
-            "title": "Delhi SIR: Public audit in two booths find over 100 voters wrongly marked absent, shifted, or dead",
-            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-public-audit-in-two-booths-find-over-100-voters-wrongly-marked-absent-shifted-or-dead/article71600683.ece",
+            "title": "FSSAI asks food operators to maintain cold chain for perishables",
+            "link": "https://www.thehindu.com/news/national/fssai-asks-food-operators-to-maintain-cold-chain-for-perishables/article71600265.ece",
             "source": "The Hindu",
-            "summary": "Voters residing at the same address for multiple decades express anger that they were marked ‘untraceable’, ‘absent’, and permanently shifted, and their only option is to enrol afresh using Form 6",
-            "published": "2026-10-18T22:16:28+05:30"
+            "summary": "Food businesses told to maintain prescribed temperatures across supply chain; states asked to act against violations",
+            "published": "2026-10-18T22:43:30+05:30"
           },
           {
-            "title": "Why stubble fires keep coming back",
-            "link": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
+            "title": "Despite drought and diseases, farmers around Bengaluru achieve good pomegranate yield",
+            "link": "https://www.thehindu.com/news/national/karnataka/despite-drought-and-diseases-farmers-around-bengaluru-achieve-good-pomegranate-yield/article71593232.ece",
             "source": "The Hindu",
-            "summary": "Stubble burning is the result of a combination of legal, technological and economic factors, including the paddy-wheat cycle, assured procurement and a narrow window between crops; a lasting solution needs stronger incentives for diversification, better residue management and more reliable measurement of burning",
-            "published": "2026-10-18T22:16:01+05:30"
+            "summary": "",
+            "published": "2026-10-18T22:40:48+05:30"
           },
           {
-            "title": "Kuki group announces shutdown of key Manipur highway after attacks on villages",
-            "link": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece",
+            "title": "Upset with non-inclusion of woman in Karnataka Cabinet, Sowmya Reddy quits as State Mahila Congress chief",
+            "link": "https://www.thehindu.com/news/national/karnataka/upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmya-reddy-quits-as-state-mahila-congress-chief/article71596504.ece",
             "source": "The Hindu",
-            "summary": "State government transfers Superintendent of Police in charge of Kamjong district",
-            "published": "2026-10-18T22:10:52+05:30"
+            "summary": "",
+            "published": "2026-10-18T22:38:53+05:30"
+          },
+          {
+            "title": "Banana, idli eating competitions as part of Shivamogga Dasara celebrations",
+            "link": "https://www.thehindu.com/news/national/karnataka/banana-idli-eating-competitions-as-part-of-shivamogga-dasara-celebrations/article71596328.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:38:46+05:30"
+          },
+          {
+            "title": "NHAI begins work on long-delayed FOB after pedestrian deaths on Bengaluru–Mysuru highway",
+            "link": "https://www.thehindu.com/news/cities/bangalore/nhai-begins-work-on-long-delayed-fob-after-pedestrian-deaths-on-bengalurumysuru-highway/article71596323.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-18T22:36:28+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump endorses Netanyahu in Israeli legislative elections",
+            "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.",
+            "published": "2026-10-18T16:36:26+00:00"
+          },
           {
             "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
             "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
@@ -248,10 +255,10 @@
             "published": "2026-10-18T14:42:01+00:00"
           },
           {
-            "title": "France protests live: Macron to address nation after protests",
+            "title": "France protests live: Big blaze, tear gas fired during standoff in Paris",
             "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Protests are sweeping France as anger over conditions in schools meets frustration with high living costs",
+            "summary": "Protests are sweeping France as anger over conditions in schools meets frustration with high living costs.",
             "published": "2026-10-18T14:26:11+00:00"
           },
           {
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
             "published": "2026-10-18T13:48:04+00:00"
-          },
-          {
-            "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-            "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-            "published": "2026-10-18T13:47:07+00:00"
           }
         ],
         "Business": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1558979.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Rathnayake, Liyanage half-centuries in vain as Sri Lanka unravel in pursuit of 306",
-            "published": "2026-10-18T16:58:32+00:00"
+            "published": "2026-10-18T17:04:57+00:00"
           },
           {
             "title": "Bowlers, Shafali, Mandhana power India to series win",
@@ -627,18 +627,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Tiger Shroff पर 5 राउंड फायर, Bishnoi Gang बोला-'Salman Khan संग जो भी काम करेगा, अगला नंबर उसका, वेट एंड वॉच'",
+            "link": "https://hindi.oneindia.com/news/entertainment/tiger-shroff-firing-bishnoi-gang-threats-salman-khan-associates-next-number-is-yours-wait-and-watch-1670655.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-10-18T22:39:34+05:30"
+          },
+          {
+            "title": "Punjab Sangrur Hit-and-Run: मनरेगा मजदूरों को कुचलने वाला कौन? 7 महिलाओं समेत 8 की मौत, ड्राइवर फरार",
+            "link": "https://hindi.oneindia.com/news/punjab/punjab-sangrur-hit-and-run-who-killed-8-mgnrega-workers-driver-absconding-explained-1670705.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-10-18T22:35:11+05:30"
+          },
+          {
             "title": "Tiger Shroff पर फायरिंग से डरीं Poonam Pandey, बोलीं- डर लग रहा, Eknath Shinde बोले- 90 के दशक जैसा जवाब देंगे",
             "link": "https://hindi.oneindia.com/news/maharashtra/tiger-shroff-firing-poonam-pandey-scared-eknath-shinde-issues-warning-to-bishnoi-1990s-style-1670687.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-18T22:06:05+05:30"
-          },
-          {
-            "title": "Tiger Shroff पर 5 राउंड फायर, Bishnoi Gang बोला-'Salman Khan संग जो भी काम करेगा, अगला नंबर उसका, वेट एंड वॉच'",
-            "link": "https://hindi.oneindia.com/news/entertainment/tiger-shroff-firing-bishnoi-gang-threats-salman-khan-associates-next-number-is-yours-wait-and-watch-1670655.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-18T21:37:12+05:30"
           },
           {
             "title": "महाराष्ट्र CM Devendra Fadnavis को D.Litt. से सम्मान, AIHER में 2,320 डिग्रियां बांटी गईं",
@@ -683,7 +690,7 @@
             "published": "2026-10-18T20:11:02+05:30"
           },
           {
-            "title": "टाइगर श्रॉफ पर मुंबई में 5 राउंड फायरिंग, एक्टर सुरक्षित:लॉरेंस गैंग की पोस्ट- जो सलमान के साथ काम करेगा, उसका यही अंजाम होगा",
+            "title": "टाइगर श्रॉफ पर मुंबई में 5 राउंड फायरिंग, एक्टर सुरक्षित:लॉरेंस गैंग ने जिम्मेदारी ली; वायरल ऑडियो में सलमान खान को खत्म करने की धमकी",
             "link": "https://www.bhaskar.com/national/news/tiger-shroff-mumbai-juhu-firing-attack-driver-injured-update-139410739.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-10-18T13:54:25+00:00"
-          },
-          {
-            "title": "France में 5.5 लाख लोग सड़कों पर क्यों उतरे? आगजनी-लूटपाट, 'कैप्टन अमेरिका' भी पहुंचे, 1200 से ज्यादा अरेस्ट",
-            "link": "https://hindi.oneindia.com/news/international/france-protests-2026-reason-why-550000-people-on-streets-riots-looting-over-1200-arrested-explain-1670567.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-18T19:23:39+05:30"
           }
         ],
         "Entertainment": [
@@ -717,7 +717,7 @@
             "link": "https://hindi.oneindia.com/news/entertainment/tiger-shroff-firing-bishnoi-gang-threats-salman-khan-associates-next-number-is-yours-wait-and-watch-1670655.html",
             "source": "Oneindia Hindi",
             "summary": "",
-            "published": "2026-10-18T21:37:12+05:30"
+            "published": "2026-10-18T22:39:34+05:30"
           },
           {
             "title": "'मुझे किडनैप किया, मैं चिल्लाती रही', Akanksha Choudhary को कार में ठूंसा, नवरात्रि इवेंट आयोजकों पर आरोप",
@@ -895,11 +895,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "மும்பையில் பிரபல நடிகரை குறிவைத்து துப்பாக்கிச் சூடு - காவல்துறை கூறியது என்ன?",
+            "link": "https://www.bbc.com/tamil/articles/c680zd3y4l3ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-10-18T17:08:03+00:00"
+          },
+          {
             "title": "ஒரே குடும்பத்தைச் சேர்ந்த 5 பேர் உயிரிழக்க நூடுல்ஸ் சாப்பிட்டதே காரணமா? விசாரணையில் வெளிப்பட்ட தகவல்கள்",
             "link": "https://www.bbc.com/tamil/articles/cq398djevz0mo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-10-18T16:50:38+00:00"
+          },
+          {
+            "title": "நாகை: 'ரூ.100 கோடி' போதைப்பொருளை பறிமுதல் செய்தது எப்படி? வருவாய் புலனாய்வு இயக்குநரகம் தகவல்",
+            "link": "https://www.bbc.com/tamil/articles/cwe8rzrez8e1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-10-18T16:40:07+00:00"
           },
           {
             "title": "பள்ளிக்குள் துப்பாக்கிச் சூடு நடத்தியவரை துணிச்சலாக எதிர்கொண்டு சுட்டுக் கொன்ற 2 மாணவிகளின் தந்தை",
@@ -944,7 +958,7 @@
             "published": "2026-10-18T12:44:24+00:00"
           },
           {
-            "title": "நட்பாக இல்லாத இந்தியா, சீனாவை ஓரணியில் திரட்ட முயலும் நேபாளம் - எதற்காக தெரியுமா?",
+            "title": "இந்தியா, சீனாவை ஓரணியில் திரட்ட முயலும் நேபாளம் - எதற்காக தெரியுமா?",
             "link": "https://www.bbc.com/tamil/articles/c6n04qn8v7z4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
             "summary": "",
@@ -963,20 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-10-18T16:14:56+05:30"
-          },
-          {
-            "title": "5 வயது குழந்தையை சுமார் 800 மீ தனியே செல்ல அனுமதித்த தாய் குற்றவாளி என தீர்ப்பு - தண்டனை என்ன தெரியுமா?",
-            "link": "https://www.bbc.com/tamil/articles/cqze4y99z69eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "அமெரிக்காவின் விர்ஜீனியா மாகாணத்தில் நடந்துள்ள ஒரு விசித்திரமான மற்றும் சட்டரீதியான விவாதம், பல பெற்றோர்களிடையே பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. ஐந்து வயது சிறுவன் ஒருவன், தான் வசிக்கும் அதே குடியிருப்புப் பகுதிக்குள் 800 மீட்டர் தூரம் தனியாக நடந்து செல்ல அனுமதித்ததற்காக, அவனது தாயை நீதிமன்றம் குற்றவாளியாக அறிவித்துள்ளது. குழந்தை துன்புறுத்தல் என்ற சட்டப்பிரிவின் கீழ் அவர் மீது சுமத்தப்பட்ட குற்றச்சாட்டு உறுதி செய்யப்பட்டுள்ளது. இச்சம்பவம், அமெரிக்காவில் குழந்தைகளை வளர்க்கும் முறை மற்றும் சுதந்திரம் தொடர்பான விவாதங்களை முன்னுக்குக் கொண்டு வந்துள்ளது. பொதுவாக, பாதுகாப்பு காரணங்களுக்காக குழந்தைகளை தனியாக விடுவது ஆபத்தானது என்று கருதினாலும், இச்சம்பவம் பெற்றோர்களின் உரிமையையும் குழந்தைகளுக்கான சுதந்திரத்தையும் கேள்விக்குள்ளாக்கியுள்ளது. குறித்த தாய் தனது குழந்தையின் தன்னம்பிக்கையை வளர்க்கவே அவ்வாறு செய்ததாகக் கூறினாலும், சட்டம் அதைத் தவறான முன்னுதாரணமாகவே பார்க்கிறது. இத்தீர்ப்பு, விர்ஜீனியா மட்டுமல்லாது பல இடங்களிலும் பெற்றோர் தங்கள் பிள்ளைகளை வளர்க்கும் விதம் குறித்து மீண்டும் சிந்திக்கத் தூண்டியுள்ளது. சட்டத்தின் பார்வைக்கும், பெற்றோரின் எண்ணத்திற்கும் இடையிலான இந்த மோதல், எதிர்காலத்தில் குழந்தை பராமரிப்பு தொடர்பான சட்டங்களில் மாற்றங்களை கொண்டு வருமா என்ற கேள்வியையும் எழுப்பியுள்ளது. இச்சம்பவம் தற்போது சமூக வலைதளங்களில் பெரும் விவாதப் பொருளாக மாறியுள்ளது.",
-            "published": "2026-10-18T10:05:18+00:00"
-          },
-          {
-            "title": "கொல்கத்தா துர்கா பூஜை பந்தலில் கூட்ட நெரிசல் ஏற்பட்டது ஏன்? 7 நிமிடங்களில் துக்கமாக மாறிய கொண்டாட்டம்",
-            "link": "https://www.bbc.com/tamil/articles/c6n4e78gp324o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-10-18T07:49:46+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "హౌతీ దాడుల వేళ సౌదీలోని భారత పౌరులకు.. ఇండియన్ ఎంబసీ కీలక ఆదేశాలు జారీ..",
+            "link": "https://telugu.oneindia.com/news/international/indian-embassy-issues-key-directives-to-indian-citizens-in-saudi-arabia-amid-houthi-attacks-latest-511303.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-18T22:50:56+05:30"
+          },
+          {
+            "title": "France protests: చల్లారని ఫ్రాన్స్‌.. 1800 మంది అరెస్ట్‌.. 143 ఏళ్ల చారిత్రక భవనం దగ్ధం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVpXNGtIWDU5azBXYUlILTZ4MlFncHJuTmZFWTd2c2dKcmdPZHQxN3Y0T1Y1Q19selBDcnNwTG4tNVBRYXZpZVkzd2pHMnkzQ3diV1JlZ1Vkb2d0UVR3RXNqRlRaOFBGcTNYTWg1LUg3M0swcTZPdkY5eTAzSXVWTUZ1U3NMVGlRMjFWWGo0MFhNQzhZUmc5cUNKQjlCWkdGZGJDZFpTcjBqd3M4UUd4RnNIZVE4SkxrM21ER3BNMHpxZ9IBwgFBVV95cUxNcVpXNGtIWDU5azBXYUlILTZ4MlFncHJuTmZFWTd2c2dKcmdPZHQxN3Y0T1Y1Q19selBDcnNwTG4tNVBRYXZpZVkzd2pHMnkzQ3diV1JlZ1Vkb2d0UVR3RXNqRlRaOFBGcTNYTWg1LUg3M0swcTZPdkY5eTAzSXVWTUZ1U3NMVGlRMjFWWGo0MFhNQzhZUmc5cUNKQjlCWkdGZGJDZFpTcjBqd3M4UUd4RnNIZVE4SkxrM21ER3BNMHpxZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T17:14:37+00:00"
+          },
+          {
+            "title": "Andhrapradesh News: సూపర్ ఎల్‌నినో ముప్పు... వేసవిలో నీటి కష్టాలు తప్పవా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1dsUjBKRi1RUFBNWmthVml4andBaEJ0Q2xWZW43SDVvc0FHSU1ScFpLZERZTkNJbFBDa0RjLTAwaFlRS0FCUk9tUUhlQWxUemZqODh1YlBEV3pvVTE5WXVpMlNoalpqLU9sUXlWTXE0RHJFTFdUaklyUF95SFFVV2Y5aUFUa252dHJ3Sm9UaVJkOFM0UVR3ejgxNGNHRFdRZU9xWmotRTBOMk5qdVhtVmxuM29LRWhxSmxaWjJpX3lLVVlrMUlpaEp5Y9IBywFBVV95cUxPN1dsUjBKRi1RUFBNWmthVml4andBaEJ0Q2xWZW43SDVvc0FHSU1ScFpLZERZTkNJbFBDa0RjLTAwaFlRS0FCUk9tUUhlQWxUemZqODh1YlBEV3pvVTE5WXVpMlNoalpqLU9sUXlWTXE0RHJFTFdUaklyUF95SFFVV2Y5aUFUa252dHJ3Sm9UaVJkOFM0UVR3ejgxNGNHRFdRZU9xWmotRTBOMk5qdVhtVmxuM29LRWhxSmxaWjJpX3lLVVlrMUlpaEp5Yw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T16:45:45+00:00"
+          },
+          {
             "title": "ట్యాంక్ బండ్ పై ఘనంగా సద్దుల బతుకమ్మ సంబరాలు.. స్పెషల్ ఎట్రాక్షన్ గా విజయ్‌, రష్మిక",
             "link": "https://telugu.oneindia.com/news/telangana/saddulabathukamma-celebrations-at-tank-bund-vijay-and-rashmika-emerge-as-the-special-attraction-now-511301.html",
             "source": "Oneindia Telugu",
@@ -1100,60 +1121,39 @@
             "published": "2026-10-18T20:45:12+05:30"
           },
           {
+            "title": "bathukamma celebrations 2026: పూల పండుగలో మహిళల కోలాహలం.. ఘనంగా ముగిసిన సంతూర్ పసుపు చందనాల బతుకమ్మ వేడుకలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenlGR0hIclBCT0lXZG9TN0V3Yy1fblJXQ250bjNfMVVTRjZkZ1VzdzJjUG1CS09uYjBJYThFZ0IwOHU4ckFKZDBwSHl1bG5KNGZWRTM3bE9DdG5HMzdubUpBSGdGVGdnYzFLdm1mN2JldmdyeV9uVVM5YzBTaHFUakNvaEJlUlZfOVVHd0VvU1l1MTJpLW43N2tPNVkxM2tWQW9aVFE3T2loNi0wVm1FV050TDEtczI5eWZkX3N6cmVNOUZMZlNySEVuNHBwTlAxWk1qckRob9IB1wFBVV95cUxNenlGR0hIclBCT0lXZG9TN0V3Yy1fblJXQ250bjNfMVVTRjZkZ1VzdzJjUG1CS09uYjBJYThFZ0IwOHU4ckFKZDBwSHl1bG5KNGZWRTM3bE9DdG5HMzdubUpBSGdGVGdnYzFLdm1mN2JldmdyeV9uVVM5YzBTaHFUakNvaEJlUlZfOVVHd0VvU1l1MTJpLW43N2tPNVkxM2tWQW9aVFE3T2loNi0wVm1FV050TDEtczI5eWZkX3N6cmVNOUZMZlNySEVuNHBwTlAxWk1qckRobw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T15:12:31+00:00"
+          },
+          {
+            "title": "JD Vance: భారత్‌ విషయంలో ఆ రోజు హద్దులు దాటి మాట్లాడాను: జేడీ వాన్స్ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNElCbl9TZXNOQXBHVWpXWk1GQlNPVFhBX2oyNnZiWmZQazg4RGV2SmNZa3FrN2VEd05Rbi1FVE9MdEZhSzllNFBOYUJRZmFvNk1wN2JPRnlSMDJhZ2hBWGlvak9xdVNQZVQ0enhuT1V3aVFwX0htWmREUXdCZGJDeUxCYXpJMUlOalZTSUJNVG1DUUJCaEtrQmZ4VnNMQ2VOTVNjdnRTTjJubEk4bVZtdTRVbENuWk9YZFHSAboBQVVfeXFMTzRJQm5fU2VzTkFwR1VqV1pNRkJTT1RYQV9qMjZ2YlpmUGs4OERldkpjWWtxazdlRHdOUW4tRVRPTHRGYUs5ZTRQTmFCUWZhbzZNcDdiT0Z5UjAyYWdoQVhpb2pPcXVTUGVUNHp4bk9Vd2lRcF9IbVpkRFF3QmRiQ3lMQmF6STFJTmpWU0lCTVRtQ1FCQmhLa0JmeFZzTENlTk1TY3Z0U04ybmxJOG1WbXU0VWxDblpPWGRR?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T15:12:04+00:00"
+          },
+          {
+            "title": "Tirumala: చంద్రప్రభ వాహనంపై శ్రీవారు.. నర్తన కృష్ణుడిగా దర్శనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNckhTSnFneExtR1NCd0RjbHVvZV9qUkVoV0FQV2FDYWhBazRPQnFkVlZnSXVSR2xWanhZOENpMEE4blZDMWhlWTdyQml3em5SdlV5Ungxa3ExU0VWSHhJVHhHUU00YWJobnU2RE1Nb1ZoM2xDNzlya0hjdTZ0NlY4N1FCSV9DNjBSWk1GOHpFbnh5Rkxyc1ZCLTE4TXJkNGpRQ1BFTXJ6OU7SAagBQVVfeXFMTXJIU0pxZ3hMbUdTQndEY2x1b2VfalJFaFdBUFdhQ2FoQWs0T0JxZFZWZ0l1UkdsVmp4WThDaTBBOG5WQzFoZVk3ckJpd3puUnZVeVJ4MWtxMVNFVkh4SVR4R1FNNGFiaG51NkRNTW9WaDNsQzc5cmtIY3U2dDZWODdRQklfQzYwUlpNRjh6RW54eUZMcnNWQi0xOE1yZDRqUUNQRU1yejlO?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T15:09:28+00:00"
+          },
+          {
+            "title": "Mysore Dasara Festival: మైసూరు దసరా ఉత్సవాలు.. ఆకట్టుకున్న డ్రోన్‌ షో - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGp6U0hBZVQ5elFkbklCdlhZUFFpNEpSejdIdXlNejZ6OVE3Wlg5SFB4ODZrbnRWVDgyWkFzWU85Y1BydnBhQnZhWGFzdElXMUd5SjN4QV9hSzFrRjR5cVBYLVVkTUZKaENkbjQ2NWR5V2VnaUZqZWNlZW84QlcxelNIb05xV29VcWlqQl96YmpuOERLbGpNbERNUURrXzgtWWt6dTVoc0Z3R1JoN1BZOE9QQdIBswFBVV95cUxOcGp6U0hBZVQ5elFkbklCdlhZUFFpNEpSejdIdXlNejZ6OVE3Wlg5SFB4ODZrbnRWVDgyWkFzWU85Y1BydnBhQnZhWGFzdElXMUd5SjN4QV9hSzFrRjR5cVBYLVVkTUZKaENkbjQ2NWR5V2VnaUZqZWNlZW84QlcxelNIb05xV29VcWlqQl96YmpuOERLbGpNbERNUURrXzgtWWt6dTVoc0Z3R1JoN1BZOE9QQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-18T14:44:14+00:00"
+          },
+          {
             "title": "తీహార్లో జైల్లోనే సీజేపీ నేతలు సౌరవ్, అశుతోష్..! కస్టడీ ముగిసినా తేల్చని కోర్టు..!",
             "link": "https://telugu.oneindia.com/news/india/cjp-leaders-still-in-custody-four-sureties-rejected-as-party-questions-delay-in-release-511291.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-18T19:59:09+05:30"
-          },
-          {
-            "title": "నూడుల్స్ వల్ల ఆ కుటుంబం చనిపోలేదు: గ్రేటర్ నోయిడా కుటుంబ సభ్యుల మృతి కేసులో బిగ్ ట్విస్ట్..",
-            "link": "https://telugu.oneindia.com/news/india/noida-family-did-not-die-because-of-noodles-major-twist-in-case-of-deaths-of-five-family-members-511289.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-18T19:38:23+05:30"
-          },
-          {
-            "title": "HYDలోని సాఫ్ట్‌వేర్‌ కంపెనీలో అగ్నిప్రమాదం | - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbUJMSUtYRFpISnJ3LXd4YlMtOEFLamJWbXl6MmxXWm43bExpcXItQVVCZE5SanBhcmFpa0VmUHE0eG5ldnQ1emtwYXQ4ZWJZTGZ4UmlVQlNFdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-18T13:47:53+00:00"
-          },
-          {
-            "title": "రెండు ద్విచక్రవాహనాలు ఢీ.. ముగ్గురికి తీవ్ర గాయాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajkwU2xKYzhkY1hGR1djclNVaHFmcUhPMTJHclBaTmNsRWhCS1FxSlgtMTZZbzg4Tk5BTDBqaXhHYjFGWkJOZ1o5dWNTcHJkNWFveU5nMFRqamVDNTdadTk2bHVNdDF2ZW5KWUZiZ2p2ZEItR251QzlMTWZGcmxqRnVB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-18T13:45:10+00:00"
-          },
-          {
-            "title": "సౌరవ్ దాస్, అషుతోష్ రాంకా రిలీజ్ అయ్యాక తదుపరి కార్యాచరణ ప్రకటిస్తాం.. అభిజిత్ దిప్కే షాకింగ్ కామెంట్స్",
-            "link": "https://telugu.oneindia.com/news/india/cjp-founder-abhijit-dipke-said-once-the-sourav-das-and-ashutosh-ranka-released-tell-our-next-action-511287.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-18T19:09:45+05:30"
-          },
-          {
-            "title": "జగన్ బిగ్ స్టెప్- గవర్నర్ దృష్టికి అన్ని విషయాలు",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-meet-governor-sa-nazeer-to-raises-alarm-and-report-attacks-on-ysrcp-candidates-across-state-511285.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-18T18:57:24+05:30"
-          },
-          {
-            "title": "Suryapeta: కోదాడలో విషాదం.. తల్లి దాడిలో చిన్నారి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBudjNUOHZBREFaV1d1enJoMjY3ZGtBcnZuOXhsdXdlUEtNaHpINDdaUHFEbm9Ec3l6OXl5azM5QThzSHVqX1lWWElyQm8xclFFZllrdl83NndwY0FWWlRON2s5WGNiNWIxd0VWQi1xOVFTQmQ0RTdWOFpzaTZ4UktPNVFmc0VaSXk4VWNDQ05EcXRTbmZjV3lxVVVIV3V0VmlfZDBobjBRNXBCQjlzaTdWOVNYaU52MkE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-18T13:16:55+00:00"
-          },
-          {
-            "title": "కొమ్మల్లో కుకూలు.. పంచే ఆనందాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01R3RjZFU5bDd0b1hsQmNycnZXcVExVXRYd2FqRE92QXExN3RMMjA3a3hDSFJxd3YwT0FQQ25QUG5fZEJiZjExM0djQzdKM3Jzb2dzZTBTM2g2LXFHX2VLMm1QNDJWS2NEY2lIWjBfb25qREZHTHhuYlBSU1nSAXxBVV95cUxNNUd0Y2RVOWw3dG9YbEJjcnJ2V3FRMVV0WHdhakRPdkFxMTd0TDIwN2t4Q0hScXd2ME9BUENuUFBuX2RCYmYxMTNHY0M3SjNyc29nc2UwUzNoNi1xR19lSzJtUDQyVktjRGNpSFowX29uakRGR0x4bmJQUlNZ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-18T13:08:46+00:00"
           }
         ],
         "Entertainment": [
@@ -1447,8 +1447,8 @@
             "published": "2026-10-18T14:14:04+00:00"
           },
           {
-            "title": "Videos | Stampede at Kolkata’s chorebagan sarbojanin Durga Puja pandal - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkFTYzN1RlJsd1ZlNlBFMnpUd09sOExDNUFQOGFuaVotd2F3cGVtS2NXaWNkWGo0cVkwMWlIMDhiT1JzY2s5Qjd1X1RsUU1BcHV6OERBRlYxYm9pTVJxeHFUSjQwYzRPbDYwSnZyZUtzekpHZC1Nb3RsZUx3ZmZpUGthTQ?oc=5",
+            "title": "Photos | Stampede at Kolkata’s chorebagan sarbojanin Durga Puja pandal - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGJ0OGo3MUxZQ2poTFVpbGRZQWhmY0RVUHdnN2pBQWQwd1M4NC0xUW5DOUVHUlNKNlEyRjVNT09MM2lqZ041bXNTSmN3bU8wTXNhYlVPZ2hCSnFnNV85UXRWNnE5NDNQaS1HTXJyMTEtdnNWalpvakFDOFNvNFpqWDk1aw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-18T12:06:45+00:00"
@@ -1459,6 +1459,13 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-10-18T12:06:02+00:00"
+          },
+          {
+            "title": "বুড়ো-বুড়ি বাড়ছে ভারতে, ‘বৃদ্ধ’ দেশে বয়স্ক জনসংখ্যা কি বোঝা, না কি অর্থনীতির নতুন সম্ভাবনা? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQkEtRFdpTklWb2NUWjBzOW42YUFudnpuZlBBeHdGeFBhdmxiQVo3RWN0RUp6X3dvNmt5NGtFZDlNUl9OTmZhZXBLQklOcUowLUNvNzBYdWtNZ0dxdXFVR2pINFdsSU9oUzY0MVVIUUZfWVFHSWFLVkVMVkdsWDFsTXdON05HZll1LUhuckpNeWJiWk12ODhsWGFMMVFNNmNRTVJWVGpMdEUwVm5INDRMemQ4WWY5d1VIbFJXN1NfU0pMTms2ekhEeHNvQTJWSE9ERjdkRi1vTVVTNk9qT0V30gHkAUFVX3lxTE1uRWloVkhhQ3RJbzQwQVh4ODFCZ2tTNF92NHBkMlRWMHJJakhZV1lTUXlrMWFSMVduMlB3bDBFTW02S3pRcE1iTHVtVmdSSVRJaU8wNnNRRUViUmYzN3Z4UmZ6VTFtVUIzZUR0czB6Zy1zb3ZPZUQ2aHlDWmtqOVFBV2txekJEYnBBanlTME5uS1hzS2ZQczkzM2tDbWtTNUNUTU00c3BHeEljNGpUd1dhNXNTak02REwzMFV6d0dTNHJLdlJHek52MkVyZExpQ1gzRVVRTTR0Z1JqVzQtckNQMGxBaQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-18T10:43:55+00:00"
           },
           {
             "title": "চার মিনিটে জোড়া গোল মেসির, পায়ের জাদুতে বোকা বানালেন বিপক্ষকে, আমেরিকার লিগে আটলান্টাকে হারাল মায়ামি - Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-18T09:40:05+00:00"
-          },
-          {
-            "title": "নির্মাণ আর বিনির্মাণ! সন্তোষপুর অ্যাভিনিউ সাউথের হীরকজয়ন্তী বর্ষের ভাবনায় ভাঙাগড়ার খেলা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVHZydTI4VUxaOTJPN2Q4THdhU3JJLTNlRXN1VnlpeVRGYUVkRTJ2THl5OUdqbVh0YnkxTEptUjREYnFJWlFSQTV4bXlBWG0zb3BLeDRKQnRmZzI0TkxoeWFRSG81NXc4MUFYRkdjVHJCV0lTVE1vaHVabG5SSXAydkNTcXRpMk9ueTA0WW9uNFIwQ1doMGFCR2tfZ2tzWFZYVFhOaHVpcjlQT0dhU3h0SFk5b1pGR3NLNVBXM2FZZ0k5S0FLUnRtQUZaU0ZacVNZN2VNaEpVV05NR0d0S2lOU1hDZUV3bmfSAewBQVVfeXFMUF9CWEJEQWNWa3FaRmdPLXlfdHhfcnFrck1qMkQ5UUFRNlNBM1B5YllsdXZLUkZPSjNiLUlRMUhSU0ZMUjAxMDRyRmhkWE5EQjBPSnk2eHhEX0ZzTmVaME4ydnk3LXRaWnhkMGo1VkJDRm85OWo4b1F3eHRGRFI3ZTR4M3NsRkROajJQUk1WYUdOZ3pqY2hyWW9JOHlVZGwwOW1LYmVGX1ZGLUIzLUlFS3lLZlRKT3ZyX3FablV1NHlTcXBWZzJkZEJBelB6b1JmWUFmajNLV09ERkRtWFlmZ09ISFFSS1pYVmpOVng?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-18T09:34:30+00:00"
           }
         ]
       }
