@@ -1,111 +1,181 @@
 {
-  "updated_at": "2026-10-19T02:01:18.262913+00:00",
+  "updated_at": "2026-10-19T02:31:08.487389+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "China's economic growth picks up as AI boom boosts exports",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+            "published": "2026-10-19T02:22:42+00:00"
+          },
+          {
+            "title": "France on fire: City halls set ablaze, shops looted as protests turn violent - videos",
+            "link": "https://timesofindia.indiatimes.com/world/europe/france-on-fire-city-halls-set-ablaze-shops-looted-as-protests-turn-violent-in-videos/articleshow/135037812.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-19T07:42:23+05:30"
+          },
+          {
+            "title": "Kolkata stampede toll at 19; 7 held as Bengal govt orders SIT amid blame game over crowd control lapses",
+            "link": "https://www.hindustantimes.com/india-news/kolkata-stampede-toll-at-19-7-held-as-bengal-govt-orders-sit-amid-blame-game-over-crowd-control-lapses-at-durga-puja-pandal-101792373925363.html",
+            "source": "Hindustan Times",
+            "summary": "The West Bengal government will set up an SIT to investigate the tragedy, while 25 people remain under treatment, including two in intensive care.",
+            "published": "2026-10-19T07:41:19+05:30"
+          },
+          {
+            "title": "Heavy rainfall likely across Tamil Nadu till Oct 24",
+            "link": "https://www.hindustantimes.com/india-news/heavy-rainfall-likely-across-tamil-nadu-till-oct-24-101792348988697.html",
+            "source": "Hindustan Times",
+            "summary": "Extremely heavy rainfall lashed several districts across Tamil Nadu and most places recording over 20 cm of rain in the last 24 hours, with the meteorological department said on Sunday that heavy to very heavy rainfall is likely across the state till October 24",
+            "published": "2026-10-19T07:40:20+05:30"
+          },
+          {
+            "title": "Celebrating but reducing harm to mother earth",
+            "link": "https://www.hindustantimes.com/india-news/celebrating-but-reducing-harm-to-mother-earth-101792347249090.html",
+            "source": "Hindustan Times",
+            "summary": "Burning Ravan’s effigy, for instance, could be replaced with creative ways of symbolically decapitating his ten heads",
+            "published": "2026-10-19T07:35:20+05:30"
+          },
+          {
+            "title": "India, China: Forces reshaping global economy, world order",
+            "link": "https://www.hindustantimes.com/india-news/india-china-forces-reshaping-global-economy-world-order-101792347205226.html",
+            "source": "Hindustan Times",
+            "summary": "While manufacturing has powered much of China’s remarkable growth in recent decades, Sir Vincent Cable argued that India now has stronger growth momentum.",
+            "published": "2026-10-19T07:35:00+05:30"
+          },
+          {
+            "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies/articleshow/135037803.cms",
+            "source": "Economic Times",
+            "summary": "Oil prices took a tumble after US President Trump eased sanctions on Russia, prompting a surge in fuel exports. Brent crude futures fell to $108.43 a barrel, down from a peak of $110. Ukrainian President Volodymyr Zelenskiy warned that such actions would adversely impact Ukraine, while the US secured a deal to import diesel from Russia.",
+            "published": "2026-10-19T07:34:10+05:30"
+          },
+          {
+            "title": "Tiger Shroff shooting case updates: Tiger Shroff meets Eknath Shinde; 15 teams formed as cops trace accused",
+            "link": "https://www.hindustantimes.com/india-news/tiger-shroff-shooting-case-live-updates-lawrence-bishnoi-gang-anil-pandit-harman-sandhu-mumbai-juhu-tiger-shroff-firing-101792374488160.html",
+            "source": "Hindustan Times",
+            "summary": "Tiger Shroff shooting case updates: Shortly after the incident, two alleged operatives of the Lawrence Bishnoi gang – Anil Pandit and Harman Sandhu – claimed responsibility for the attack.",
+            "published": "2026-10-19T07:30:07+05:30"
+          },
+          {
+            "title": "Arm Bandaged, Dressing On Chest, Shoulder: Tiger Shroff's 1st Photo After Shooting Attempt",
+            "link": "https://www.ndtv.com/india-news/tiger-shroff-firing-incident-news-dadagiri-mumbai-me-nahi-chalegi-maharashtra-deputy-chief-minister-eknath-shinde-after-firing-at-tiger-shroff-12204281#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Photographs from Tiger Shroff's residence showed the actor with dressings on his shoulder and chest and a bandage on his right arm as he interacted with Eknath Shinde",
+            "published": "2026-10-19T07:27:56+05:30"
+          },
+          {
+            "title": "Woman killed, 3 injured as Russian attack hits Kyiv residential building, subway station",
+            "link": "https://timesofindia.indiatimes.com/world/europe/woman-killed-3-injured-as-russian-attack-hits-kyiv-residential-building-subway-station/articleshow/135037654.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-19T07:24:36+05:30"
+          },
+          {
+            "title": "4 Passengers Only, No Driver-Seat Riders: Delhi's E-Rickshaw Safety Draft",
+            "link": "https://www.ndtv.com/delhi-news/4-passengers-only-no-driver-seat-riders-delhis-e-rickshaw-safety-draft-12204304#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The draft also bars standing passengers and distracting music and proposes impounding vehicles fitted with bullbars or unsafe batteries.",
+            "published": "2026-10-19T07:22:04+05:30"
+          },
+          {
+            "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+            "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+            "published": "2026-10-19T01:50:48+00:00"
+          },
+          {
+            "title": "Corbett’s 80-year-old elephant Sonakali dies after decades of wildlife service",
+            "link": "https://www.hindustantimes.com/india-news/corbetts-80-year-old-elephant-sonakali-dies-after-decades-of-wildlife-service-101792374616637.html",
+            "source": "Hindustan Times",
+            "summary": "According to CTR deputy director, Sonakali was kept under a care regimen tailored to her age, health and physical capabilities after her retirement.",
+            "published": "2026-10-19T07:20:16+05:30"
+          },
+          {
             "title": "Kenya reports 8th Ebola case as Congo outbreak expands across borders",
             "link": "https://timesofindia.indiatimes.com/world/rest-of-world/kenya-reports-8th-ebola-case-as-congo-outbreak-expands-across-borders/articleshow/135037641.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-10-19T07:17:21+05:30"
-          },
-          {
-            "title": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-trump-waives-russia-sanctions-middle-east-risks-persist/articleshow/135037616.cms",
-            "source": "Times of India",
-            "summary": "Oil prices have seen a downturn due to US President Donald Trump's decision to lift sanctions on Russia, causing worries about supply stability. Brent crude is now at $108.3 per barrel, while West Texas Intermediate has decreased to $101.2 per barrel. Heightened security risks in the Middle East and the ongoing uncertainty of US-Iran talks are adding to the market's instability.",
-            "published": "2026-10-19T07:13:42+05:30"
-          },
-          {
-            "title": "BCCI Blasted For Lack Of Transparency Over Mohammed Shami's Omission",
-            "link": "https://sports.ndtv.com/cricket/bcci-blasted-for-lack-of-transparency-over-mohammed-shamis-omission-sigh-of-relief-for-new-zealand-12202464#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Mohammed Shami has been in blistering form in domestic cricket over the past year or so and picked up five wickets for Bengal in their Ranji Trophy season opener against Delhi earlier this week.",
-            "published": "2026-10-19T07:03:14+05:30"
-          },
-          {
-            "title": "5hr wait, 10min hearing at Mandir Marg: Ashutosh Ranka, Saurav Das in jail for 6 days",
-            "link": "https://www.hindustantimes.com/india-news/5hr-wait-10min-hearing-at-mandir-marg-ashutosh-ranka-saurav-das-in-jail-for-6-days-101792373474757.html",
-            "source": "Hindustan Times",
-            "summary": "Police cited CJP leader Abhijeet Dipke’s reported remarks at the airport on Sunday that the party will strategise its next course of action",
-            "published": "2026-10-19T07:01:14+05:30"
-          },
-          {
-            "title": "Temple development works worth ₹2,500 crore under way across Telangana: Bhatti Vikramarka",
-            "link": "https://www.thehindu.com/news/national/telangana/temple-development-works-worth-2500-crore-underway-across-telangana-bhatti-vikramarka/article71600272.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T07:00:33+05:30"
-          },
-          {
-            "title": "IUML Keralam chief Sadikali Thangal downplays row over Waqf board reconstitution",
-            "link": "https://www.thehindu.com/news/national/kerala/iuml-keralam-chief-sadikali-thangal-downplays-row-over-waqf-board-reconstitution/article71599999.ece",
-            "source": "The Hindu",
-            "summary": "Syed Sadikali Shihab Thangal says that at all Muslim organisations have been given representation in the board and those left out could be considered for membership in other bodies",
-            "published": "2026-10-19T07:00:31+05:30"
-          },
-          {
-            "title": "Elaborate arrangements made for Teppotsavam in Vijayawada on October 20",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-arrangements-made-for-teppotsavam-in-vijayawada-on-october-20/article71599670.ece",
-            "source": "The Hindu",
-            "summary": "Police personnel and expert swimmers deployed at bathing ghats along the Krishna River; the float festival was cancelled in 2025 and 2024 due to floods",
-            "published": "2026-10-19T07:00:03+05:30"
-          },
-          {
-            "title": "Two held for sexual exploitation of minor of minor in Kovalam spa",
-            "link": "https://www.thehindu.com/news/national/kerala/two-held-for-sexual-exploitation-of-minor-of-minor-in-kovalam-spa/article71600188.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T07:00:00+05:30"
-          },
-          {
-            "title": "Vadaanya Talent Test 2026 to be held in Anantapur, Sri Sathya Sai districts on December 13",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/vadaanya-talent-test-2026-to-be-held-in-anantapur-sri-sathya-sai-districts-on-december-13/article71599600.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T06:59:26+05:30"
-          },
-          {
-            "title": "Karnataka revises penalties for officials, false grievances under new Act",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-revises-penalties-for-officials-false-grievances-under-new-act/article71600157.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T06:58:53+05:30"
-          },
-          {
-            "title": "AgriStack initiative: Keralam government constitutes ‘AgriStack Commissionerate’",
-            "link": "https://www.thehindu.com/news/national/kerala/agristack-initiative-keralam-government-constitutes-agristack-commissionerate/article71599994.ece",
-            "source": "The Hindu",
-            "summary": "The Director, Agriculture, will serve as the AgriStack Commissioner in the four-level AgriStack Commissionerate.",
-            "published": "2026-10-19T06:58:13+05:30"
-          },
-          {
-            "title": "Pakistan Drops Two England Greats From Commentary Team After Imran Khan Interview Row",
-            "link": "https://sports.ndtv.com/cricket/pakistan-drops-nasser-hussain-michael-atherton-from-commentary-team-after-imran-khan-interview-row-12203621#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "During Pakistan's tour of England earlier this year, Sky Sports broadcast an interview with Imran's sons, Kasim and Sulaiman Khan, which was conducted by Michael Atherton.",
-            "published": "2026-10-19T06:57:56+05:30"
-          },
-          {
-            "title": "News about sting operations is diversionary tactics, says Pralhad Joshi",
-            "link": "https://www.thehindu.com/news/national/karnataka/news-about-sting-operations-is-diversionary-tactics-says-pralhad-joshi/article71600242.ece",
-            "source": "The Hindu",
-            "summary": "Congress govt. in the State diverting people’s interest away from its failures, according to the Union Minister",
-            "published": "2026-10-19T06:57:42+05:30"
-          },
-          {
-            "title": "Dhinakaran criticises TVK-led government over monsoon preparedness",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-criticises-tvk-led-government-over-monsoon-preparedness/article71599527.ece",
-            "source": "The Hindu",
-            "summary": "The AMMK founder charged that precautionary measures were not undertaken even after a weather advisory about heavy rain in Chennai was received in advance",
-            "published": "2026-10-19T06:57:27+05:30"
           }
         ],
         "India": [
           {
+            "title": "France on fire: City halls set ablaze, shops looted as protests turn violent - videos",
+            "link": "https://timesofindia.indiatimes.com/world/europe/france-on-fire-city-halls-set-ablaze-shops-looted-as-protests-turn-violent-in-videos/articleshow/135037812.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-19T07:42:23+05:30"
+          },
+          {
+            "title": "Kolkata stampede toll at 19; 7 held as Bengal govt orders SIT amid blame game over crowd control lapses",
+            "link": "https://www.hindustantimes.com/india-news/kolkata-stampede-toll-at-19-7-held-as-bengal-govt-orders-sit-amid-blame-game-over-crowd-control-lapses-at-durga-puja-pandal-101792373925363.html",
+            "source": "Hindustan Times",
+            "summary": "The West Bengal government will set up an SIT to investigate the tragedy, while 25 people remain under treatment, including two in intensive care.",
+            "published": "2026-10-19T07:41:19+05:30"
+          },
+          {
+            "title": "Heavy rainfall likely across Tamil Nadu till Oct 24",
+            "link": "https://www.hindustantimes.com/india-news/heavy-rainfall-likely-across-tamil-nadu-till-oct-24-101792348988697.html",
+            "source": "Hindustan Times",
+            "summary": "Extremely heavy rainfall lashed several districts across Tamil Nadu and most places recording over 20 cm of rain in the last 24 hours, with the meteorological department said on Sunday that heavy to very heavy rainfall is likely across the state till October 24",
+            "published": "2026-10-19T07:40:20+05:30"
+          },
+          {
+            "title": "Celebrating but reducing harm to mother earth",
+            "link": "https://www.hindustantimes.com/india-news/celebrating-but-reducing-harm-to-mother-earth-101792347249090.html",
+            "source": "Hindustan Times",
+            "summary": "Burning Ravan’s effigy, for instance, could be replaced with creative ways of symbolically decapitating his ten heads",
+            "published": "2026-10-19T07:35:20+05:30"
+          },
+          {
+            "title": "India, China: Forces reshaping global economy, world order",
+            "link": "https://www.hindustantimes.com/india-news/india-china-forces-reshaping-global-economy-world-order-101792347205226.html",
+            "source": "Hindustan Times",
+            "summary": "While manufacturing has powered much of China’s remarkable growth in recent decades, Sir Vincent Cable argued that India now has stronger growth momentum.",
+            "published": "2026-10-19T07:35:00+05:30"
+          },
+          {
+            "title": "Tiger Shroff shooting case updates: Tiger Shroff meets Eknath Shinde; 15 teams formed as cops trace accused",
+            "link": "https://www.hindustantimes.com/india-news/tiger-shroff-shooting-case-live-updates-lawrence-bishnoi-gang-anil-pandit-harman-sandhu-mumbai-juhu-tiger-shroff-firing-101792374488160.html",
+            "source": "Hindustan Times",
+            "summary": "Tiger Shroff shooting case updates: Shortly after the incident, two alleged operatives of the Lawrence Bishnoi gang – Anil Pandit and Harman Sandhu – claimed responsibility for the attack.",
+            "published": "2026-10-19T07:30:07+05:30"
+          },
+          {
+            "title": "Arm Bandaged, Dressing On Chest, Shoulder: Tiger Shroff's 1st Photo After Shooting Attempt",
+            "link": "https://www.ndtv.com/india-news/tiger-shroff-firing-incident-news-dadagiri-mumbai-me-nahi-chalegi-maharashtra-deputy-chief-minister-eknath-shinde-after-firing-at-tiger-shroff-12204281#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Photographs from Tiger Shroff's residence showed the actor with dressings on his shoulder and chest and a bandage on his right arm as he interacted with Eknath Shinde",
+            "published": "2026-10-19T07:27:56+05:30"
+          },
+          {
+            "title": "Woman killed, 3 injured as Russian attack hits Kyiv residential building, subway station",
+            "link": "https://timesofindia.indiatimes.com/world/europe/woman-killed-3-injured-as-russian-attack-hits-kyiv-residential-building-subway-station/articleshow/135037654.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-19T07:24:36+05:30"
+          },
+          {
+            "title": "4 Passengers Only, No Driver-Seat Riders: Delhi's E-Rickshaw Safety Draft",
+            "link": "https://www.ndtv.com/delhi-news/4-passengers-only-no-driver-seat-riders-delhis-e-rickshaw-safety-draft-12204304#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The draft also bars standing passengers and distracting music and proposes impounding vehicles fitted with bullbars or unsafe batteries.",
+            "published": "2026-10-19T07:22:04+05:30"
+          },
+          {
+            "title": "Corbett’s 80-year-old elephant Sonakali dies after decades of wildlife service",
+            "link": "https://www.hindustantimes.com/india-news/corbetts-80-year-old-elephant-sonakali-dies-after-decades-of-wildlife-service-101792374616637.html",
+            "source": "Hindustan Times",
+            "summary": "According to CTR deputy director, Sonakali was kept under a care regimen tailored to her age, health and physical capabilities after her retirement.",
+            "published": "2026-10-19T07:20:16+05:30"
+          },
+          {
             "title": "Kenya reports 8th Ebola case as Congo outbreak expands across borders",
             "link": "https://timesofindia.indiatimes.com/world/rest-of-world/kenya-reports-8th-ebola-case-as-congo-outbreak-expands-across-borders/articleshow/135037641.cms",
             "source": "Times of India",
@@ -118,79 +188,23 @@
             "source": "Times of India",
             "summary": "Oil prices have seen a downturn due to US President Donald Trump's decision to lift sanctions on Russia, causing worries about supply stability. Brent crude is now at $108.3 per barrel, while West Texas Intermediate has decreased to $101.2 per barrel. Heightened security risks in the Middle East and the ongoing uncertainty of US-Iran talks are adding to the market's instability.",
             "published": "2026-10-19T07:13:42+05:30"
-          },
-          {
-            "title": "5hr wait, 10min hearing at Mandir Marg: Ashutosh Ranka, Saurav Das in jail for 6 days",
-            "link": "https://www.hindustantimes.com/india-news/5hr-wait-10min-hearing-at-mandir-marg-ashutosh-ranka-saurav-das-in-jail-for-6-days-101792373474757.html",
-            "source": "Hindustan Times",
-            "summary": "Police cited CJP leader Abhijeet Dipke’s reported remarks at the airport on Sunday that the party will strategise its next course of action",
-            "published": "2026-10-19T07:01:14+05:30"
-          },
-          {
-            "title": "Temple development works worth ₹2,500 crore under way across Telangana: Bhatti Vikramarka",
-            "link": "https://www.thehindu.com/news/national/telangana/temple-development-works-worth-2500-crore-underway-across-telangana-bhatti-vikramarka/article71600272.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T07:00:33+05:30"
-          },
-          {
-            "title": "IUML Keralam chief Sadikali Thangal downplays row over Waqf board reconstitution",
-            "link": "https://www.thehindu.com/news/national/kerala/iuml-keralam-chief-sadikali-thangal-downplays-row-over-waqf-board-reconstitution/article71599999.ece",
-            "source": "The Hindu",
-            "summary": "Syed Sadikali Shihab Thangal says that at all Muslim organisations have been given representation in the board and those left out could be considered for membership in other bodies",
-            "published": "2026-10-19T07:00:31+05:30"
-          },
-          {
-            "title": "Elaborate arrangements made for Teppotsavam in Vijayawada on October 20",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/elaborate-arrangements-made-for-teppotsavam-in-vijayawada-on-october-20/article71599670.ece",
-            "source": "The Hindu",
-            "summary": "Police personnel and expert swimmers deployed at bathing ghats along the Krishna River; the float festival was cancelled in 2025 and 2024 due to floods",
-            "published": "2026-10-19T07:00:03+05:30"
-          },
-          {
-            "title": "Two held for sexual exploitation of minor of minor in Kovalam spa",
-            "link": "https://www.thehindu.com/news/national/kerala/two-held-for-sexual-exploitation-of-minor-of-minor-in-kovalam-spa/article71600188.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T07:00:00+05:30"
-          },
-          {
-            "title": "Vadaanya Talent Test 2026 to be held in Anantapur, Sri Sathya Sai districts on December 13",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/vadaanya-talent-test-2026-to-be-held-in-anantapur-sri-sathya-sai-districts-on-december-13/article71599600.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T06:59:26+05:30"
-          },
-          {
-            "title": "Karnataka revises penalties for officials, false grievances under new Act",
-            "link": "https://www.thehindu.com/news/national/karnataka/karnataka-revises-penalties-for-officials-false-grievances-under-new-act/article71600157.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-19T06:58:53+05:30"
-          },
-          {
-            "title": "AgriStack initiative: Keralam government constitutes ‘AgriStack Commissionerate’",
-            "link": "https://www.thehindu.com/news/national/kerala/agristack-initiative-keralam-government-constitutes-agristack-commissionerate/article71599994.ece",
-            "source": "The Hindu",
-            "summary": "The Director, Agriculture, will serve as the AgriStack Commissioner in the four-level AgriStack Commissionerate.",
-            "published": "2026-10-19T06:58:13+05:30"
-          },
-          {
-            "title": "News about sting operations is diversionary tactics, says Pralhad Joshi",
-            "link": "https://www.thehindu.com/news/national/karnataka/news-about-sting-operations-is-diversionary-tactics-says-pralhad-joshi/article71600242.ece",
-            "source": "The Hindu",
-            "summary": "Congress govt. in the State diverting people’s interest away from its failures, according to the Union Minister",
-            "published": "2026-10-19T06:57:42+05:30"
-          },
-          {
-            "title": "Dhinakaran criticises TVK-led government over monsoon preparedness",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-criticises-tvk-led-government-over-monsoon-preparedness/article71599527.ece",
-            "source": "The Hindu",
-            "summary": "The AMMK founder charged that precautionary measures were not undertaken even after a weather advisory about heavy rain in Chennai was received in advance",
-            "published": "2026-10-19T06:57:27+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+            "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+            "published": "2026-10-19T01:50:48+00:00"
+          },
+          {
+            "title": "Australian Greens senator denies claims of misconduct towards women",
+            "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+            "published": "2026-10-19T01:32:40+00:00"
+          },
           {
             "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
             "link": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
@@ -260,23 +274,23 @@
             "source": "Al Jazeera",
             "summary": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
             "published": "2026-10-18T22:41:49+00:00"
-          },
-          {
-            "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-            "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-            "published": "2026-10-18T22:22:51+00:00"
-          },
-          {
-            "title": "Alberta independence referendum: Will separatists survive a loss?",
-            "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
-            "published": "2026-10-18T21:53:13+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "China's economic growth picks up as AI boom boosts exports",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+            "published": "2026-10-19T02:22:42+00:00"
+          },
+          {
+            "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies/articleshow/135037803.cms",
+            "source": "Economic Times",
+            "summary": "Oil prices took a tumble after US President Trump eased sanctions on Russia, prompting a surge in fuel exports. Brent crude futures fell to $108.43 a barrel, down from a peak of $110. Ukrainian President Volodymyr Zelenskiy warned that such actions would adversely impact Ukraine, while the US secured a deal to import diesel from Russia.",
+            "published": "2026-10-19T07:34:10+05:30"
+          },
           {
             "title": "Jio Platforms IPO, Paras Healthcare issue to drive primary market activity this week",
             "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-to-lead-ipo-parade-this-week/articleshow/135037311.cms",
@@ -341,25 +355,11 @@
             "published": "2026-10-19T01:07:35+05:30"
           },
           {
-            "title": "IIFL Finance plans to raise ₹2,500-5,000 crore by selling stake amid Fairfax exit rumors",
-            "link": "https://economictimes.indiatimes.com/markets/expert-view/iifl-finance-plans-to-raise-2500-5000-crore-by-selling-stake-amid-fairfax-exit-rumors/articleshow/135037342.cms",
-            "source": "Economic Times",
-            "summary": "IIFL Finance is intending to raise ₹2,500-5,000 crore by selling a minority stake. The company's promoters may subscribe to warrants to limit dilution. Fairfax Financial Holdings is likely to sell its stake due to regulatory norms. IIFL aims to enhance its capital position amid evolving market conditions. These measures are expected to create synergies for IIFL Capital as part of IDBI Bank.",
-            "published": "2026-10-19T01:00:08+05:30"
-          },
-          {
             "title": "Microsoft pulls out of UK's largest AI data centre",
             "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
             "published": "2026-10-18T16:46:42+00:00"
-          },
-          {
-            "title": "Gleaning group gives £1m of produce to food banks",
-            "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
-            "published": "2026-10-18T11:03:04+00:00"
           }
         ],
         "Sports": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "China's economic growth picks up as AI boom boosts exports",
+            "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+            "published": "2026-10-19T02:22:42+00:00"
+          },
+          {
             "title": "Don't fall for this - how to protect yourself from AI scams",
             "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Here we have compiled a list of some of the best power bank deals available during the Amazon Great Indian Festival Sale 2026. The prices mentioned below do not include any additional bank discounts or cashback offers that may be available at checkout. Customers can find deals on power banks with 10,000mAh and 20,000mAh battery capacities at reduced prices during the ongoing sale. Select mobile accessories are…",
             "published": "2026-10-17T16:00:49+05:30"
-          },
-          {
-            "title": "Visa Enables Round-the-Clock USDC Funding for Global Payments",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/visa-enables-round-the-clock-usdc-funding-for-global-payments-crypto-adoption-stablecoin-usdc-usdt-crypto-partnerships-12196249",
-            "source": "Gadgets 360",
-            "summary": "Visa has launched USDC-based commercial funding for cross-border payouts through its Visa Direct service, with Inyo Global serving as its partner. The offering follows successful testing in 2025 and allows eligible businesses to prefund international payments using USDC. Availability will depend on customer eligibility and geographic restrictions, and Visa has not confirmed that the service covers all markets…",
-            "published": "2026-10-17T15:00:17+05:30"
           }
         ],
         "Entertainment": [
@@ -627,11 +627,39 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "फ्रांस में सबसे बड़ा प्रदर्शन: 2000 गिरफ्तार; सड़कों पर लाखों लोग; राष्ट्रपति मैक्रों ने क्या चेतावनी दी?",
-            "link": "https://www.amarujala.com/world/france-s-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic-2026-10-19",
+            "title": "आज का राशिफल 19 अक्तूबर: मेष, कन्या और मीन राशि वालों के लिए बनेंगे नए अवसर, जानें नौकरी और व्यापार का हाल",
+            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-19-october-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-10-18",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-10-19T12:30:36+05:30"
+            "published": "2026-10-19T12:56:52+05:30"
+          },
+          {
+            "title": "टाइगर श्रॉफ पर फायरिंग, हाथ और सीने पर पट्टियां दिखीं:एकनाथ शिंदे मिलने पहुंचे; ड्राइवर समेत 2 लोग घायल",
+            "link": "https://www.bhaskar.com/national/news/tiger-shroff-firing-juhu-mumbai-eknath-shinde-visit-photo-139415716.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-19T02:28:58+00:00"
+          },
+          {
+            "title": "बिहार: मनेर में पैक्स अध्यक्ष की गोली मारकर हत्या, प्रमुख पति घायल; दो बाइक से आए चार अपराधियों ने की फायरिंग",
+            "link": "https://www.amarujala.com/bihar/patna/bihar-maner-pacs-president-sanjit-kumar-murder-byaypur-firing-pintu-kumar-injured-2026-10-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-19T07:52:07+05:30"
+          },
+          {
+            "title": "टाइगर श्रॉफ़ से लेकर सलमान और सैफ़ अली ख़ान तक, बॉलीवुड की इन हस्तियों पर हो चुका है हमला",
+            "link": "https://www.bbc.com/hindi/articles/cj3vq36yn0qqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-10-19T02:11:25+00:00"
+          },
+          {
+            "title": "'इस्राइल का इससे बड़ा दोस्त नहीं': ट्रंप के समर्थन पर भावुक हुए नेतन्याहू; ईरान से खतरे पर क्या बोले?",
+            "link": "https://www.amarujala.com/world/netanyahu-trump-endorsement-israel-election-iran-nuclear-threat-2026-10-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-19T07:21:44+05:30"
           },
           {
             "title": "जामिया में छात्र क्यों कर रहे हैं भूख हड़ताल, क्या हैं मांगें और प्रशासन का क्या है रुख़?",
@@ -655,18 +683,18 @@
             "published": "2026-10-19T07:00:14+05:30"
           },
           {
+            "title": "महाराष्ट्र: जलगांव में कंटेनर ट्रक से टकराई कार, तीन चचेरे भाइयों की मौत; परिजन ने क्या बताया; कैसे हुआ हादसा?",
+            "link": "https://www.amarujala.com/india-news/maharashtra-several-killed-after-a-car-collided-with-a-container-truck-near-bambhori-bridge-in-jalgaon-2026-10-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-19T06:50:58+05:30"
+          },
+          {
             "title": "ध्यान दें: क्या आज महानवमी के दिन बैंक खुले हैं या नहीं? यहां चेक करें अपने शहर के बारे में",
             "link": "https://www.amarujala.com/photo-gallery/utility/shardiya-navratri-2026-9th-days-are-banks-open-today-on-the-day-of-navami-or-not-bank-aaj-open-hai-ya-band-hai-2026-10-19",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-19T06:38:43+05:30"
-          },
-          {
-            "title": "Tiger Shroff Firing News Live: घटना के बाद सामने आई टाइगर श्रॉफ की पहली तस्वीर, मिलने पहुंचीं दिशा पाटनी",
-            "link": "https://www.amarujala.com/live/entertainment/firing-incident-on-tiger-shroff-mumbai-police-says-actor-is-safe-further-investigation-is-underway-2026-10-18",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-19T06:31:07+05:30"
           },
           {
             "title": "दिल्ली: आशुतोष रांका और सौरव दास की जमानत मामले में मंदिर मार्ग एसईएम को धमकी, अज्ञात लोगों पर प्राथमिकी दर्ज",
@@ -681,34 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-19T06:16:22+05:30"
-          },
-          {
-            "title": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026: प्रथम चरण में 35 हजार से अधिक विद्यार्थी शामिल, दिखा जबर्दस्त उत्साह",
-            "link": "https://www.amarujala.com/education/atul-maheshwari-chhatravritti-2026-exam-35k-plus-students-in-first-phase-enthusiasm-seen-next-paper-on-25-oct-2026-10-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-19T06:03:31+05:30"
-          },
-          {
-            "title": "सब्जी मंडी थाना: कटोरा और थाली की चोरी पर 165 साल पहले हुई थी पहली प्राथमिकी, तब पंजाब का हिस्सा थी दिल्ली!",
-            "link": "https://www.amarujala.com/delhi-ncr/sabzi-mandi-police-station-the-first-fir-was-registered-165-years-ago-over-the-theft-of-a-bowl-and-a-plate-2026-10-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-19T05:58:38+05:30"
-          },
-          {
-            "title": "फायदे की बात: नई गाड़ी से पहले खरीदें स्क्रैपेज सर्टिफिकेट; पुरानी कार नहीं तब भी रियायत का फायदा?",
-            "link": "https://www.amarujala.com/business/bonus/scrappage-certificate-buy-new-car-discount-without-old-vehicle-2026-10-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-19T05:53:14+05:30"
-          },
-          {
-            "title": "गिरिराज, ललन और रूडी की सीटों में क्यों होगा बंटवारा:बिहार की कौन-कौन सी लोकसभा सीटें 3 हिस्सों में बंटेंगी, तेजस्वी-मोदी किसे फायदा",
-            "link": "https://www.bhaskar.com/local/bihar/news/bihar-lok-sabha-delimitation-plan-modi-tejashwi-yadav-seat-increase-139415338.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-18T23:55:48+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "આ રામલીલામાં દરેક પાત્ર મહિલાઓ કેમ ભજવે છે?",
+            "link": "https://www.bbc.com/gujarati/watch/c94g1z8m0p4vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-10-19T02:19:07+00:00"
+          },
+          {
+            "title": "જંતર-મંતર 2.0 : આંદોલનનો એજન્ડા કોણ નક્કી કરી રહ્યું છે અને સીજેપી શું ચૂક કરી રહી છે?",
+            "link": "https://www.bbc.com/gujarati/articles/ck79plqpgjx2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-10-19T02:17:01+00:00"
+          },
+          {
             "title": "CJP નેતાઓના જામીન મામલે મેજિસ્ટ્રેટને ધમકી:FIR નોંધાઈ; સૌરવ દાસ અને આશુતોષ રાંકા 6 દિવસ પહેલાં જંતર-મંતર પરથી પકડાયા હતા",
             "link": "https://www.divyabhaskar.co.in/national/news/delhi-cj-party-leaders-threaten-magistrate-jantar-mantar-case-139415403.html",
             "source": "Divya Bhaskar",
@@ -811,7 +825,7 @@
             "published": "2026-10-19T00:54:27+00:00"
           },
           {
-            "title": "ટાઇગર શ્રોફ પર ગોળીબારના 4 વીડિયો:શૂટર્સે ગોળીબાર કર્યો, ડ્રાઇવર ઘાયલ થયો; એક્ટર ડ્રાઇવિંગ સીટ પર આવ્યા; કાર લઈને જતા રહ્યા",
+            "title": "ટાઇગર શ્રોફ પર જીવલેણ હુમલાનાં 4 VIDEO:શૂટર્સે 5 રાઉન્ડ ફાયરિંગ કરી કારને ટાર્ગેટ કરી; ડ્રાઇવર લોહીલુહાણ થતાં પોતે સ્ટિયરિંગ સંભાળીને હોસ્પિટલ દોડ્યો એક્ટર",
             "link": "https://www.divyabhaskar.co.in/national/news/tiger-shroff-shooting-mumbai-juhu-driver-injured-cctv-footage-139415392.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -872,20 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-10-18T13:01:50+00:00"
-          },
-          {
-            "title": "મહારાષ્ટ્રના મુખ્ય ચૂંટણી અધિકારીએ ફોર્મ-6માં ફેરફારનો પ્રસ્તાવ મોકલ્યો:કહ્યું- પહેલી વખત નામ જોડાવી રહ્યા છો કે નહીં તે ન પૂછવું જોઈએ, લોકો તેનાથી ડરી રહ્યા છે",
-            "link": "https://www.divyabhaskar.co.in/national/news/maharashtra-election-officer-proposes-voter-form-6-change-139408967.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-10-18T11:48:40+00:00"
-          },
-          {
-            "title": "'જ્ઞાનેશ કુમાર બચી નહીં શકે...’:રાહુલે કહ્યું- કિંમત ચૂકવવી પડશે, હું મત ચોરીની વાત કરું છું પણ કેસ થતો નથી, મારા પર કેસ કરશે તો મામલો લીગલ બની જશે",
-            "link": "https://www.divyabhaskar.co.in/national/news/rahul-gandhi-goa-visit-vote-theft-allegations-congress-statement-139408869.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-10-18T11:40:37+00:00"
           }
         ]
       }
@@ -894,6 +894,20 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "கருப்பை நார்த்திசு கட்டிகளால் குழந்தையின்மை ஏற்படுமா? 10 கேள்வி - பதில்கள்",
+            "link": "https://www.bbc.com/tamil/articles/cr3elzz9exg5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-10-19T02:21:00+00:00"
+          },
+          {
+            "title": "சீனாவில் கம்ப்யூட்டரே குழம்பிருச்சாம்.. கல்யாண பத்திரிகையை கண்டு மலைத்த உறவினர்கள்! அங்கேதான் விஷயமே",
+            "link": "https://tamil.oneindia.com/news/international/chinese-wedding-goes-viral-computer-confused-relatives-stunned-what-was-the-twist-839107.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-10-19T07:30:20+05:30"
+          },
           {
             "title": "இந்தியாவில் இருந்து 8 டாலர்களுடன் கனடா சென்று ரூ.52,000 கோடிக்கு ஐடிபிஐ வங்கியை வாங்கும் பிரேம் வாட்சாவின் கதை",
             "link": "https://www.bbc.com/tamil/articles/c6zxjyejdq2po?at_medium=RSS&at_campaign=rss",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-10-18T12:44:24+00:00"
-          },
-          {
-            "title": "இந்தியா, சீனாவை ஓரணியில் திரட்ட முயலும் நேபாளம் - எதற்காக தெரியுமா?",
-            "link": "https://www.bbc.com/tamil/articles/c6n04qn8v7z4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-10-18T12:17:39+00:00"
-          },
-          {
-            "title": "'புவிக்கு ஒரு நியாயம், ஷமிக்கு ஒரு நியாயமா?' - இந்திய அணித்தேர்வு குறித்து கேள்வி எழுப்பும் நிபுணர்கள்",
-            "link": "https://www.bbc.com/tamil/articles/c6reyvqq9jlgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-10-18T10:56:55+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,46 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "నాకే ఎందుకిలా జరిగిందో! - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWF1dDZUWVBMT2o4b0FBRlMwQ3FGSXlXdzZfUHpSZFF1dGRtcGRScnM4R2g1QWNFcllBb0ZSRTdaRnA5bUJrWEZrZmY3bDdJVVFhQ0dLTUtfWlVtcUFLOWZwbS10a3hnT3BpenNSNlU1MDA5T3RzdWhseTBEa2hZWXJn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-19T02:25:00+00:00"
+          },
+          {
+            "title": "జంతర్ మంతర్ 2.0: ఈ నిరసనలకు ఎజెండాను ఎవరు నిర్దేశిస్తున్నారు, సీజేపీ తప్పటడుగులు వేస్తోందా?",
+            "link": "https://www.bbc.com/telugu/articles/c617knwl7wgwo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-10-19T02:16:48+00:00"
+          },
+          {
+            "title": "flight emergency landing: టెల్‌ అవీవ్‌-వియన్నా విమానానికి బాంబు బెదిరింపు.. అత్యవసర ల్యాండింగ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazFySGRBdU42N0xsTlVLbHA4STkwbUZ1QTdzaUl6ellYZ3E2eEQzQ1JBak1hbzNuOTZreTZHa3M4cXI5aG45Z3VtV2laak9CaDlEbWhMWVoxUEw0VWZITy1HbjBJa2ZXSVJCVW8yRW9IY214NzB3NW5JM3FPQlRDcl9hdXBTb00tZlhEV0loNzUwUW5nSjVJVXBodDN3T3laSTNGVmpRTGYtUHE2STJMczNKbk0yS2lkN3BvOdIBvAFBVV95cUxQazFySGRBdU42N0xsTlVLbHA4STkwbUZ1QTdzaUl6ellYZ3E2eEQzQ1JBak1hbzNuOTZreTZHa3M4cXI5aG45Z3VtV2laak9CaDlEbWhMWVoxUEw0VWZITy1HbjBJa2ZXSVJCVW8yRW9IY214NzB3NW5JM3FPQlRDcl9hdXBTb00tZlhEV0loNzUwUW5nSjVJVXBodDN3T3laSTNGVmpRTGYtUHE2STJMczNKbk0yS2lkN3BvOQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-19T02:05:07+00:00"
+          },
+          {
             "title": "కాల్పుల్లో గాయపడ్డ టైగర్ ష్రాఫ్ ఫస్ట్ ఫొటో: డిప్యూటీ సీఎం రాక.. !!",
             "link": "https://telugu.oneindia.com/news/india/deputy-cm-eknath-shinde-meets-actor-tiger-shroff-at-his-residence-in-mumbai-following-the-gun-firing-511307.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-19T07:24:41+05:30"
+          },
+          {
+            "title": "వయసు 56.. మారథాన్‌లు 218 - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53SEdZcUZNNktRV0ZCdlZFc1JYUW1WWkNpTFhmUVhDZmlFb3JjbFpkSmtWSldFZS0tdkJrOFQ2ZGV6eDJjbUNOeDBybUF4RGdEYUQtQV9OQTlFZ2l2bkFURGw0ODJzWTJicW5yeDVSU1XSAXBBVV95cUxOd0hHWXFGTTZLUVdGQnZWRXNSWFFtVlpDaUxYZlFYQ2ZpRW9yY2xaZEprVkpXRWUtLXZCazhUNmRlengyY21DTngwcm1BeERnRGFELUFfTkE5RWdpdm5BVERsNDgyc1kyYnFucng1UlNV?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-19T01:03:26+00:00"
+          },
+          {
+            "title": "‘కూటమి’లో సీట్ల సర్దుబాటు కొలిక్కివచ్చేనా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTV3ei1SZGxQY0ZUYzBRWUt4dXpHTzVmaHpJdDIyYUpqZFA5aV9Fc2dnUVZQVnJvNkkwT2JQeHljakVkSXBSSUlYOFdnX3ZfbHIxZFZSbGVWX0ZFdzU3N2gyZE9sYWhua2pfQWxRRXZBTE0tRndsNHpic21XX1pXaXRn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-19T00:55:48+00:00"
           },
           {
             "title": "నామినేషన్ల కోలాహలం - Eenadu",
@@ -1086,18 +1121,18 @@
             "published": "2026-10-19T00:50:08+00:00"
           },
           {
-            "title": "బరిలో నిలిచేదెవరు! - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNjdEd0xZbEUxaGMwd2xHZzU4Q3p0U0QtRGNrM0tzSzJkV1B1dmkzb3UxRWI0VWhQSmlUd0JuR29tTTRiUHFqcDNnOEpDUTB4YjFPQTdPaUtHTTdyX0dpaXh2QXRSTTlWM2VZV1hBUDhGbGZHdkFaSlRSXzdXX1lacFRB?oc=5",
+            "title": "Tiger Shroff: బాలీవుడ్‌ నటుడు టైగర్‌ ష్రాఫ్‌పై కాల్పులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGlaV2FaR2stUGZiUlRfQjZpcGtQcjhZbHJOZDdFS1pLc0lPQXdVY0tzNFJhVzhfOHlKWm92TlBNZzhBYTc4blhWVnEyX1hNMjVQRDg0WUc2cmtqRnVha3NxMTd2ZlNpMnBzX3Q1T05iQXJ1c2lxdTZfS1Rtb2xBV0ZOallhY1NGYUVVX2tKSFZmOU90bWhXblhMQWxaS1HSAZ8BQVVfeXFMTTBpWldhWkdrLVBmYlJUX0I2aXBrUHI4WWxyTmQ3RUtaS3NJT0F3VWNLczRSYVc4Xzh5Slpvdk5QTWc4QWE3OG5YVlZxMl9YTTI1UEQ4NFlHNnJrakZ1YWtzcTE3dmZTaTJwc190NU9OYkFydXNpcXU2X0tUbW9sQVdGTmpZYWNTRmFFVV9rSkhWZjlPdG1oV25YTEFsWktR?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-19T00:46:24+00:00"
+            "published": "2026-10-19T00:43:15+00:00"
           },
           {
-            "title": "Unesco: భారత్‌లో 11 లక్షల మందికి పైగా ఉపాధ్యాయుల కొరత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkxnZFU5aThaVWY4R3RMblVVS0dKYlZHMmQxNzA5WC1CZ3BLMHYtQU9UWkFtR0ZIRGVQNVEzcUdZbjZaUV81cUhQNHBra21VSmU3emtxQlBrcnlYSFU3Qzdldm1CWkhkc2tvX3lGS1dla1U2ZkJQd0NmNHVqQ0tUT290b0NCQXhzS3EyLXQ3RW5oVjNzcHJ3YkV30gGaAUFVX3lxTE1mTGdkVTlpOFpVZjhHdExuVVVLR0piVkcyZDE3MDlYLUJncEswdi1BT1RaQW1HRkhEZVA1UTNxR1luNlpRXzVxSFA0cGtrbVVKZTd6a3FCUGtyeVhIVTdDN2V2bUJaSGRza29feUZLV2VrVTZmQlB3Q2Y0dWpDS1RPb3RvQ0JBeHNLcTItdDdFbmhWM3NwcndiRXc?oc=5",
+            "title": "అక్కడ వైద్యులకే పీఠం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JTWNWYmxpNFFYR05DZUhSWkdJdEFudlFqRUF2YmFfS1ZKX0JoZ1g2NzhmSzh4cXNBOV9temw0c3dmaXZ1Ukg0WHpEMU1NRWktbUR5UFlHSVpNT1FFcUQwNmYzcTR3ZEJGREpnUE1LRnJsYlRJMUc0MFpaNXnSAXxBVV95cUxPSU1jVmJsaTRRWEdOQ2VIUlpHSXRBbnZRakVBdmJhX0tWSl9CaGdYNjc4Zks4eHFzQTlfbXpsNHN3Zml2dVJINFh6RDFNTUVpLW1EeVBZR0laTU9RRXFEMDZmM3E0d2RCRkRKZ1BNS0ZybGJUSTFHNDBaWjV5?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-19T00:36:56+00:00"
+            "published": "2026-10-19T00:41:00+00:00"
           },
           {
             "title": "El Nino: వేల చెరువులు వెలవెల - Eenadu",
@@ -1107,53 +1142,18 @@
             "published": "2026-10-19T00:35:50+00:00"
           },
           {
-            "title": "YSRCP: వైకాపా చేష్టలకు పరాకాష్ఠ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzBoWEJqcy0xVWNweUJCZGgyc3BSdlZaQ3dmWDNYYU9IR3lZT3UtdWdHNG1PeHIzcUlYN3NVS0ZTcmRrME5JVU5idlFjZVllMWc5bTdGYVJSUjNuMi1jQ2pEZnFhUDJWbGFmMzFob3RZMDVxU2FpZkJSQkhRRmxpcXdiclREajgzVE82YjFoLWxJWWwzOWNDVDhRM2MzNnl0ekxHMDFsdUtRamhr0gGsAUFVX3lxTFBfMGhYQmpzLTFVY3B5QkJkaDJzcFJ2VlpDd2ZYM1hhT0hHeVlPdS11Z0c0bU94cjNxSVg3c1VLRlNyZGswTklVTmJ2UWNlWWUxZzltN0ZhUlJSM24yLWNDakRmcWFQMlZsYWYzMWhvdFkwNXFTYWlmQlJCSFFGbGlxd2JyVERqODNUTzZiMWgtbElZbDM5Y0NUOFEzYzM2eXR6TEcwMWx1S1FqaGs?oc=5",
+            "title": "Bhatti Vikramarka: రూ.2,500 కోట్లతో ఆలయాల ఆధునికీకరణ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONENPUEltNWlBQVl4bklORHZhUzBIcmQ1Vnd6TTJXNExtVzd5WG9Uc0V1WVZSMktiZXI4LS02eHZDSDZXT3FGdXIzQUtsQ3lYd1RhOWFlemU4S1FFUUNXMTFUaFBWN3NjVmQyaDRmZ3M2LWRHSERQVzN2ZVdTTms4RXNSTkd2OW1rTTJEVk1aY2N3ckZDOExjTGNnc3ZmODFzaEJVZVFB0gGmAUFVX3lxTE40Q09QSW01aUFBWXhuSU5EdmFTMEhyZDVWd3pNMlc0TG1XN3lYb1RzRXVZVlIyS2JlcjgtLTZ4dkNINldPcUZ1cjNBS2xDeVh3VGE5YWV6ZThLUUVRQ1cxMVRoUFY3c2NWZDJoNGZnczYtZEdIRFBXM3ZlV1NOazhFc1JOR3Y5bWtNMkRWTVpjY3dyRkM4TGNMY2dzdmY4MXNoQlVlUUE?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-19T00:20:38+00:00"
+            "published": "2026-10-19T00:34:55+00:00"
           },
           {
-            "title": "పండగ వేళ ఆర్టీసీ టికెట్‌ ధరల్ని రెట్టింపు చేశారు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yb3NRaTZRdWJlQTZIVFQ4YVdXZnZhM2k2WmtnVHozb09oM1RCTHh6bGFpc2pudFAxeDV4cHhoTmZBUGY1R0EtVnQxRWRBV21ERGtqLW9Scmw0eENtM1JrYjg0Q0VwenVPdWtXZEVBWnNMSkN5cnfSAXZBVV95cUxNMm9zUWk2UXViZUE2SFRUOGFXV2Z2YTNpNlprZ1R6M29PaDNUQkx4emxhaXNqbnRQMXg1eHB4aE5mQVBmNUdBLVZ0MUVkQVdtRERrai1vUnJsNHhDbTNSa2I4NENFcHp1T3VrV2RFQVpzTEpDeXJ3?oc=5",
+            "title": "ఫారం-6ను నింపి పేరు మళ్లీ చేర్చుకోవచ్చు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkajc3T3dPc013MnVlZEY5RWt4cHNzREFpMWJHSGlRd0dwSmJyQmVCbzNzcWtSejdwSDliZkg0NlZnQXNrLUhCbUVNRzRDTEtQVWdibkxtcW9tc19SMHYwSFJZMS00aHJXblE3eUc4N1rSAXBBVV95cUxQZGo3N093T3NNdzJ1ZWRGOUVreHBzc0RBaTFiR0hpUXdHcEpickJlQm8zc3FrUno3cEg5YmZINDZWZ0Fzay1IQm1FTUc0Q0xLUFVnYm5MbXFvbXNfUjB2MEhSWTEtNGhyV25RN3lHODda?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-19T00:20:08+00:00"
-          },
-          {
-            "title": "నగర సమగ్రాభివృద్ధికి కృషి చేస్తా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFlRem8wemxIQXdyN0pFb3RrZmtBaVZjdjMxRVBfeEVfcmszTDAwNFlqa1UyamV6NWtUU1pFNU50TnkyVEFzYXVKUmtVdmlwVVRMcHhrU1l2MWhyeS1CazFCNEh0WFYxSmQ5TTBSOG50UGVRZm5leEltZVpHblB5N3ln?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-19T00:19:59+00:00"
-          },
-          {
-            "title": "మధురవాడలో వైకాపా శ్రేణుల ర్యాలీ కలకలం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeU1HOGVWM3U0UGp2czNWbUM1VGZIdl94dDFfSGt4UEZqRTFUUzBIdlczVHRfUkR4UkdLajFlRThtSDQ0UE5iT194cnN3TFFJNTROUWhTZGhxTkE2MW1faVZUbU52OVlyZ3FTajhlZzNfWXJheVNtQ3VaU04zMThMQmZR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-19T00:18:42+00:00"
-          },
-          {
-            "title": "వియన్నాలో ఘనంగా బతుకమ్మ వేడుకలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVMHBFdmRCU1JIT0c1elRwOWtRN3FNMW9JdUowQW44b0dtWkJjMHBkMEk1d1daTURYNjdJZURLbmduZ0tjVTdPYVo3S2RQbGFETlB2a3JNbjNITnVfQ1U4NnUwelBzb2lUNmdQSS1B0gFuQVVfeXFMUFUwcEV2ZEJTUkhPRzV6VHA5a1E3cU0xb0l1SjBBbjhvR21aQmMwcGQwSTV3V1pNRFg2N0llREtuZ25nS2NVN09hWjdLZFBsYUROUHZrck1uM0hOdV9DVTg2dTB6UHNvaVQ2Z1BJLUE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-19T00:11:42+00:00"
-          },
-          {
-            "title": "Vijayawada: కనకదుర్గమ్మకు స్వర్ణ కమలాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ01zMTFGUS1RbjRxMkRKVUFHaTZjUE50eE5Pa3BXLWo1RnkwWm9zaEctbFpyaDVwNlpYWkRLRGxVeGozTnRsLVpLYVVxTXBxc1RINWd2TmhkRHhQSmkyMC1WeDFCVC1wUnBfOUYweXdBQVdUbnRRN0tjbXFZVjNGWnFaS2p6Zkt0Y05NRVkwSHhVeURvNWlLbktGOEVxNm1EQ240Yk530gGmAUFVX3lxTE9DTXMxMUZRLVFuNHEyREpVQUdpNmNQTnR4Tk9rcFctajVGeTBab3NoRy1sWnJoNXA2WlhaREtEbFV4ajNOdGwtWkthVXFNcHFzVEg1Z3ZOaGREeFBKaTIwLVZ4MUJULXBScF85RjB5d0FBV1RudFE3S2NtcVlWM0ZacVpLanpmS3RjTk1FWTBIeFV5RG81aUtuS0Y4RXE2bURDbjRiTnc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-19T00:11:24+00:00"
-          },
-          {
-            "title": "12 అడుగుల మొసలి చేతిలో వృద్ధుడి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HYm9yVlJMd1NwNENQUGhfYUZnMmpyeUVmYUlvNFpLWG83bkNkVk84YW1tNXByVlA0WTBTZk1TUWR1OVZaZjVOeG5kcnBuNGxwak00bXV3aWlndGg5WDl6ZEg2c1gxX2xMYUg0TE53UUTSAXBBVV95cUxOR2JvclZSTHdTcDRDUFBoX2FGZzJqcnlFZmFJbzRaS1hvN25DZFZPOGFtbTVwclZQNFkwU2ZNU1FkdTlWWmY1TnhuZHJwbjRscGpNNG11d2lpZ3RoOVg5emRINnNYMV9sTGFINExOd1FE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-19T00:09:09+00:00"
+            "published": "2026-10-19T00:33:32+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಬಾಲಿವುಡ್ ನಟ ಟೈಗರ್ ಶ್ರಾಫ್ ಮೇಲೆ ಫೈರಿಂಗ್‌: ಸಲ್ಮಾನ್ ಖಾನ್ ಜೊತೆ ಕೆಲಸ ಮಾಡದಂತೆ ಎಚ್ಚರಿಕೆ!",
+            "link": "https://kannada.oneindia.com/news/india/tiger-shroff-firing-at-shroff-s-car-bishnoi-gang-linked-post-threatens-actors-working-with-salman-471807.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-10-19T07:33:53+05:30"
+          },
+          {
             "title": "ಸರ್ಕಾರಿ ನೌಕರರಿಗೆ ಗುಡ್ ನ್ಯೂಸ್‌: ಸಂಬಳ, GPF, ರಜೆ ಮಂಜೂರಾತಿಗೆ ಸಕಾಲದಲ್ಲಿ ಡೆಡ್‌ಲೈನ್ ಫಿಕ್ಸ್!",
             "link": "https://kannada.oneindia.com/news/karnataka/government-employees-employees-salary-gpf-and-leave-approval-services-under-sakala-with-fixed-dea-471805.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-10-18T14:59:01+05:30"
-          },
-          {
-            "title": "ವೆಸ್ಟ್‌ ಇಂಡೀಸ್‌ ವಿರುದ್ಧದ ಟಿ20 ಸರಣಿಯಲ್ಲಿ ವೈಭವ್ ಸೂರ್ಯವಂಶಿಯನ್ನ ಆಡಿಸಲಿಲ್ಲ ಯಾಕೆ? ಹೀಗಿದೆ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ಸ್ಪಷ್ಟನೆ",
-            "link": "https://kannada.oneindia.com/news/sports/vaibhav-sooryavanshi-why-was-team-india-15-year-old-boy-benched-shreyas-iyer-reveals-the-reason-471755.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-10-18T14:31:49+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "টানা দু’ম্যাচে শতরান রিঙ্কুর, ব্যর্থ শুভমন - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTBWY2tqekRmWkJIQWg4aXBLQ29NeHlRV3FpcFp0NmJiX2dUWWc1ak92SFRKU1U4dFRUTHFMR1lmSHgzbEQxUThDQk5XbDRkZEZpMmR5Y0QxQnBvLWdfNXh4SzFSLUJvcHRtZTJYSTlNekZhcHlhcUl6OElibmpUbm4zRHJmUi1JNmtkS0FfVG1FdEJST0E?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-19T01:56:42+00:00"
+          },
+          {
             "title": "প্যাশন ফ্রুট বা আনারকলি ফল নিয়ে বাংলাদেশে কেন আগ্রহ বাড়ছে",
             "link": "https://www.bbc.com/bengali/articles/cmq8n0324yevo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-10-18T12:06:02+00:00"
-          },
-          {
-            "title": "আজকের দিন তুলা রাশি- ১৯ অক্টোবর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEhSYUJCOF9hSFN6SkF6SHJjdVdmbl9MWVBsNVBsVGtScERaZXhaMkVWNktuMVE4VzhDYkpucXpNQzJCTnNQV21uRDBZYThlTUJuUkpXaXJXaE16bHBNdDZvN2lETFRDUlRFUllPQ1hCZW83VzlvdHBDaHNQbDJFNko3UzhUdzVzalZJbDRvOFJmcWEwNmNNZU1WdldydVdaazZ6dzZtMFJpLUHSAbABQVVfeXFMTnBBcFR5a0w4QXhUSG1HQ2ZPaVloVkhPc3pxTmNSaVhqM2FrblRzZUJFNXNvd1BzRXdYeEo3aGZIRzQ1Z1dmYzM2VjR6d2Znek9QSmdrM1RjM0pXcXZzNllCQXZKYkwwazlwdTZqd1RqYXlvSl9YQmNMdmRqaEVUanlJV19aWXU4M1lSQ1dxaWhuaG9FSWZHcVZ2UE00V0FMVEVtVURwX3d3RzhfU0VCZ1Y?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-18T11:44:42+00:00"
           }
         ]
       }
