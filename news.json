@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-10-20T12:01:29.418311+00:00",
+  "updated_at": "2026-10-20T12:04:23.103846+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "All-round Gardner seals Rose Bowl for Australia",
+            "link": "https://www.cricinfo.com/ci/content/story/1559179.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The Australia allrounder followed her 45-ball 84 with a couple of wickets as New Zealand fell short by 40 runs",
+            "published": "2026-10-20T12:02:03+00:00"
+          },
           {
             "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
             "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
@@ -25,6 +32,13 @@
             "source": "The Hindu",
             "summary": "Mirwaiz Umar Farooq said the failure of the waqf authorities to defend the mosque was also alarming",
             "published": "2026-10-20T17:25:06+05:30"
+          },
+          {
+            "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+            "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A re-ignition of Yemen&#039;s war has left the chronically sick who need treatment trapped in the country.",
+            "published": "2026-10-20T11:52:11+00:00"
           },
           {
             "title": "Under Punjab’s ‘AAPda regime’, those raising voices against drug menace not safe, says Amit Shah; meets Parvinder Singh Jhota’s family",
@@ -83,25 +97,11 @@
             "published": "2026-10-20T17:07:53+05:30"
           },
           {
-            "title": "Shah meets families of anti-drug activists killed in Punjab; targets AAP",
-            "link": "https://timesofindia.indiatimes.com/india/amit-shah-meets-families-of-anti-drug-campaigners-killed-in-punjab-targets-aap-on-open-drug-trade/articleshow/135069001.cms",
-            "source": "Times of India",
-            "summary": "Amit Shah visited families of drug-related victims in Punjab, expressing condolences and discussing safety issues. He criticised the AAP government for its failure to tackle the drug menace effectively. Shah highlighted the dangers faced by those who oppose drug trafficking in the state. The recent murder of anti-drug activist Parvinder Singh Jhota escalated political tensions in Punjab.",
-            "published": "2026-10-20T17:07:18+05:30"
-          },
-          {
-            "title": "Dussehra 2026: Traffic curbs in Dwarka, security tightened in Delhi-NCR and more",
-            "link": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece",
-            "source": "The Hindu",
-            "summary": "As per the Delhi Traffic Police advisory, restrictions may be imposed on six roads in Dwarka on October 20 evening",
-            "published": "2026-10-20T17:06:46+05:30"
-          },
-          {
-            "title": "UK football club boss faces £100k legal battle over 24ft garden room built in 2018",
-            "link": "https://timesofindia.indiatimes.com/world/uk/in-2018-a-uk-football-club-boss-built-a-24ft-garden-room-with-a-bar-tv-and-electric-doorbell-his-upstairs-neighbour-now-wants-it-demolished-in-a-court-fight-lawyers-say-could-cost-more-than-100000/articleshow/135067904.cms",
-            "source": "Times of India",
-            "summary": "A UK football club official is facing a court battle with his upstairs neighbour over a 24ft garden room built in 2018 with a bar, television and electric doorbell. Justin Salmon altered the structure after a tribunal found it breached his lease, but neighbour Andrianna Neophytou says the changes are insufficient and wants it demolished. Legal costs could exceed £100,000.",
-            "published": "2026-10-20T17:05:52+05:30"
+            "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+            "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ministry of Defence says warplanes will operate in &#039;defensive role&#039; and not be used to attack Yemeni group.",
+            "published": "2026-10-20T11:37:43+00:00"
           }
         ],
         "India": [
@@ -192,11 +192,25 @@
         ],
         "World": [
           {
+            "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+            "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A re-ignition of Yemen&#039;s war has left the chronically sick who need treatment trapped in the country.",
+            "published": "2026-10-20T11:52:11+00:00"
+          },
+          {
             "title": "Suspect arrested after historic town hall set alight - French media",
             "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
             "published": "2026-10-20T11:47:39+00:00"
+          },
+          {
+            "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+            "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Ministry of Defence says warplanes will operate in &#039;defensive role&#039; and not be used to attack Yemeni group.",
+            "published": "2026-10-20T11:37:43+00:00"
           },
           {
             "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
             "published": "2026-10-20T10:24:28+00:00"
-          },
-          {
-            "title": "Trump’s approval ratings plummet: what that means for the US midterms",
-            "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump&#039;s ratings are at a historic low.",
-            "published": "2026-10-20T10:13:19+00:00"
-          },
-          {
-            "title": "Albertans reject referendum on independence from Canada",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
-            "published": "2026-10-20T09:42:04+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "All-round Gardner seals Rose Bowl for Australia",
+            "link": "https://www.cricinfo.com/ci/content/story/1559179.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The Australia allrounder followed her 45-ball 84 with a couple of wickets as New Zealand fell short by 40 runs",
+            "published": "2026-10-20T12:02:03+00:00"
+          },
+          {
             "title": "Edwards and Abbott keep New South Wales in charge",
             "link": "https://www.cricinfo.com/ci/content/story/1559134.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
@@ -439,13 +446,6 @@
             "source": "ESPN Cricinfo",
             "summary": "Following their defeat in the opening game to Zimbabwe, Bangladesh are in a position where they must win, and win big",
             "published": "2026-10-20T09:07:11+00:00"
-          },
-          {
-            "title": "Judge Rejects WWE, TKO and McMahons' Bid To End Ring Boy Lawsuit Over Old Abuse Claims",
-            "link": "https://sports.ndtv.com/us-wwe/judge-rejects-wwe-tko-and-mcmahons-bid-to-end-ring-boy-lawsuit-over-old-abuse-claims-12210046#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "A federal judge has rejected WWE, TKO and the McMahons’ constitutional challenge to Maryland’s Child Victims Act, allowing seven former ring boys’ lawsuit over alleged abuse to move toward discovery. The ruling does not decide liability in court.",
-            "published": "2026-10-20T14:35:40+05:30"
           }
         ],
         "Technology": [
@@ -1142,18 +1142,18 @@
             "published": "2026-10-20T16:20:24+05:30"
           },
           {
+            "title": "Dhanush: ధనుష్‌ పొలిటికల్‌ ఎంట్రీ.. టీవీకే స్పందనిదే.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREhISjVySWNpdTBwWnFPRTI0TG83MWpYbkpVLU9KLU5zTmJ2UVBDdThDbldCeElqZnBMazhfaE9DYno3Vmh6NGFrMVZKZUMtdE9IMWh6a0t1VXlKRHFSUTdINWFKck15dXI1RFJndzhBX2FFVUU2ZmpYQ2wweHZtTTRUbnBkTS1KLUJjNGppcXpYT2dXYmNyRmd6b05hZ9IBngFBVV95cUxQREhISjVySWNpdTBwWnFPRTI0TG83MWpYbkpVLU9KLU5zTmJ2UVBDdThDbldCeElqZnBMazhfaE9DYno3Vmh6NGFrMVZKZUMtdE9IMWh6a0t1VXlKRHFSUTdINWFKck15dXI1RFJndzhBX2FFVUU2ZmpYQ2wweHZtTTRUbnBkTS1KLUJjNGppcXpYT2dXYmNyRmd6b05hZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-20T10:33:42+00:00"
+          },
+          {
             "title": "Tirumala: వైభవంగా శ్రీవారి చక్రస్నానం.. ఫొటోలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFhmYTFJOUZLSWkwMzJOeFViVFdtRjVpV3ZFQURCa3FTTWxLdkxQR0ZQd0hGWlQzeWtqNmJjZnhKNjVSYVA5U0ZhR2k3OTFyY2VYWWdhYVVYZlpQWEZZUmdYVEdNQnlPRjRNRFF6SjhmWXdlX3plMFdveDFvU25pdWQza3lEZ0xD0gGIAUFVX3lxTFA4WGZhMUk5RktJaTAzMk54VWJUV21GNWlXdkVBREJrcVNNbEt2TFBHRlB3SEZaVDN5a2o2YmNmeEo2NVJhUDlTRmFHaTc5MXJjZVhZZ2FhVVhmWlBYRllSZ1hUR01CeU9GNE1EUXpKOGZZd2VfemUwV294MW9Tbml1ZDNreURnTEM?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-20T10:21:00+00:00"
-          },
-          {
-            "title": "వరంగల్‌ సూపర్‌ స్పెషాలిటీ ఆస్పత్రి ఓపీ సాఫ్ట్‌ లాంచ్‌ వాయిదా..కారణమిదే!",
-            "link": "https://telugu.oneindia.com/news/telangana/warangal-super-speciality-hospital-soft-launch-postponed-op-services-delayed-this-is-the-reason-511547.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-20T15:50:02+05:30"
           }
         ],
         "Entertainment": [
