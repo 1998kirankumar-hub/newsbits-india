@@ -1,23 +1,30 @@
 {
-  "updated_at": "2026-10-20T23:21:59.444625+00:00",
+  "updated_at": "2026-10-20T23:31:11.026531+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "published": "2026-10-20T23:24:47+00:00"
+          },
+          {
+            "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+            "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+            "published": "2026-10-20T23:19:52+00:00"
+          },
+          {
             "title": "The tech helping crack decades-old cold cases",
             "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
             "published": "2026-10-20T23:13:24+00:00"
-          },
-          {
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-            "published": "2026-10-20T23:11:17+00:00"
           },
           {
             "title": "4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case",
@@ -95,13 +102,6 @@
             "source": "NDTV",
             "summary": "President Donald Trump's administration has revoked over 300,000 US visas during his second term, the State Department said on Tuesday as the federal",
             "published": "2026-10-21T03:46:05+05:30"
-          },
-          {
-            "title": "Hacker group claims access to 3.8 lakh SBI data entries",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/hacker-group-claims-access-to-3-8-lakh-sbi-data-entries/articleshow/135076898.cms",
-            "source": "Times of India",
-            "summary": "The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The allegedly exposed dataset is said to contain customers’ personal information, residential addresses, loan…",
-            "published": "2026-10-21T03:22:56+05:30"
           }
         ],
         "India": [
@@ -192,6 +192,13 @@
         ],
         "World": [
           {
+            "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+            "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+            "published": "2026-10-20T23:19:52+00:00"
+          },
+          {
             "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
             "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
             "source": "Al Jazeera",
@@ -267,29 +274,22 @@
             "source": "Al Jazeera",
             "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
             "published": "2026-10-20T20:23:52+00:00"
-          },
-          {
-            "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-            "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
-            "published": "2026-10-20T20:17:53+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "published": "2026-10-20T23:24:47+00:00"
+          },
           {
             "title": "The tech helping crack decades-old cold cases",
             "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
             "published": "2026-10-20T23:13:24+00:00"
-          },
-          {
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-            "published": "2026-10-20T23:11:17+00:00"
           },
           {
             "title": "Audit regulator looking into Manchester City accounting",
@@ -450,18 +450,18 @@
         ],
         "Technology": [
           {
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+            "published": "2026-10-20T23:24:47+00:00"
+          },
+          {
             "title": "The tech helping crack decades-old cold cases",
             "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
             "published": "2026-10-20T23:13:24+00:00"
-          },
-          {
-            "title": "Elon Musk says Tesla-SpaceX merger being considered",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-            "published": "2026-10-20T23:11:17+00:00"
           },
           {
             "title": "Tech Life",
@@ -634,13 +634,6 @@
             "published": "2026-10-21T12:30:02+05:30"
           },
           {
-            "title": "मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद, इलाके में सनसनी",
-            "link": "https://www.amarujala.com/uttar-pradesh/moradabad/farmer-kuldeep-shot-dead-in-moradabad-2026-10-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-21T12:27:08+05:30"
-          },
-          {
             "title": "रुबियो से बातचीत का असर: यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
             "link": "https://www.amarujala.com/world/zelenskyy-says-early-warning-system-resumes-following-rubio-call-2026-10-21",
             "source": "Amar Ujala",
@@ -648,11 +641,46 @@
             "published": "2026-10-21T12:23:40+05:30"
           },
           {
-            "title": "सेलेब्स का त्योहार: दिल्ली की रामलीला में शामिल हुईं यामी, आलिया-काजोल समेत दुर्गा पूजा में पहुंचे कई सितारे",
-            "link": "https://www.amarujala.com/entertainment/bollywood/yami-gautam-at-delhi-ram-leela-performed-ravan-dahan-alia-bhatta-and-kajol-were-at-duraga-pandal-2026-10-20",
+            "title": "दिल्ली: रात के नौ बजते ही बिगड़ने लगती है हवा, पीएम 10 का स्तर 428 पहुंचा, हवा की सुस्त रफ्तार ने बढ़ाई मुसीब",
+            "link": "https://www.amarujala.com/delhi/air-quality-begins-to-deteriorate-as-soon-as-9-pm-pm10-levels-reach-428-while-sluggish-wind-speeds-exacerbate-2026-10-21",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-10-21T12:07:26+05:30"
+            "published": "2026-10-21T04:54:15+05:30"
+          },
+          {
+            "title": "हमीरपुर: लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार",
+            "link": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/monitoring-systems-to-be-installed-at-20-locations-in-lahaul-spiti-water-levels-will-indicate-the-rate-of-glac-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-21T04:54:03+05:30"
+          },
+          {
+            "title": "विश्व बैंक रिपोर्ट: एआई से नौकरियां नहीं गईं, पर करिअर की पहली सीढ़ी खिसकी; कितनी कंपनियों ने घटाई भर्ती?",
+            "link": "https://www.amarujala.com/business/business-diary/world-bank-report-ai-jobs-entry-level-hiring-cuts-india-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-21T04:50:09+05:30"
+          },
+          {
+            "title": "जियो का मेगा IPO आज: बाजार में दिवाली तक चार और कंपनियां उतरेंगी; ₹32 हजार करोड़ से अधिक जुटाएंगी तीन कंपनियां",
+            "link": "https://www.amarujala.com/business/business-diary/jio-mega-ipo-launch-today-four-more-companies-to-enter-market-by-diwali-over-32k-crore-fund-raise-plan-news-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-21T04:46:33+05:30"
+          },
+          {
+            "title": "शांति प्रस्ताव...: ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
+            "link": "https://www.amarujala.com/world/iran-us-peace-proposal-agreement-possible-this-week-six-billion-dollar-fund-relief-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-21T04:34:20+05:30"
+          },
+          {
+            "title": "दिल्ली: दशहरा से बढ़ी ठंड, 24-25 अक्तूबर को वेस्टर्न डिस्टर्बेंस से होगी बादलों की आवाजाही, बारिश की आशंका",
+            "link": "https://www.amarujala.com/delhi/cold-weather-has-intensified-since-dussehra-a-western-disturbance-is-expected-to-bring-cloud-cover-on-october-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-21T04:24:20+05:30"
           },
           {
             "title": "लापरवाही: छह माह से 12 हजार स्कूलों की करीब 70 करोड़ रुपये की पोषण राशि बकाया, उधारी से चल रहा मिड-डे मील",
@@ -669,13 +697,6 @@
             "published": "2026-10-21T04:00:50+05:30"
           },
           {
-            "title": "महाराष्ट्र की सियासत: प्रियंका के साथ दिखे शैलेश पाटिल, राजनीतिक वापसी अटकलें; पिता रहे थे केंद्रीय मंत्री",
-            "link": "https://www.amarujala.com/india-news/maharashtra-shailesh-patil-priyanka-gandhi-pic-comeback-speculation-father-shivraj-ex-home-minister-upa-govt-2026-10-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-21T03:30:19+05:30"
-          },
-          {
             "title": "13 लाख फॉलोअर्स वाले फाइनेंस इन्फ्लुएंसर ने सुसाइड किया:पिता का आरोप- बेटे का इंस्टाग्राम अकाउंट बंद हुआ था, साइबर बुलिंग भी हुई",
             "link": "https://www.bhaskar.com/national/news/chennai-finance-influencer-v-harish-suicide-case-cyberbullying-allegation-139437502.html",
             "source": "Dainik Bhaskar",
@@ -683,32 +704,11 @@
             "published": "2026-10-20T21:07:29+00:00"
           },
           {
-            "title": "ब्रिटेन: पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
-            "link": "https://www.amarujala.com/world/prince-harry-says-he-wants-to-work-out-relationship-with-brother-and-father-2026-10-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-21T02:15:18+05:30"
-          },
-          {
             "title": "भास्कर अपडेट्स:मुंबई के संजय गांधी नेशनल पार्क में फायरिंग; एक की मौत, कई घायल",
             "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-21-october-august-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-139437299.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-10-20T20:43:43+00:00"
-          },
-          {
-            "title": "इटली: दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
-            "link": "https://www.amarujala.com/world/italy-s-meloni-approves-tougher-measures-to-crack-down-on-protests-after-milan-riots-2026-10-21",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-21T01:43:04+05:30"
-          },
-          {
-            "title": "टाइगर श्रॉफ केस में दिल्ली से 4 आरोपी गिरफ्तार:इनमें 2 महिलाएं, हथियार सप्लाई करने का आरोप; एक्टर पर मुंबई में फायरिंग हुई थी",
-            "link": "https://www.bhaskar.com/national/news/tiger-shroff-car-firing-case-delhi-arrests-cctv-footage-update-139436991.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-20T20:06:15+00:00"
           }
         ],
         "Entertainment": [
@@ -1437,7 +1437,7 @@
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlNFc0llQWN2SzNqZEo0Z3cyNGVuUEswU3JnOVZmeGJLaEVJTnVlZFJmbDJTWjNTZS1yQ3ppLVlXWGRmaFdiS1dVUUhlQnoyVmpITUhRSnRGZWRtQUlDVWMzVWZ5T1d2cWo4b1Y1MUdtSXhjb2h1a05GdDZrZjBMdjd1eGJvNEx0UGc2WWZUMzl6eDVjajdlZ0ZONHZoajdUN2JhX1BvcVJ0SHBvR0hWeHJQUHhrczlyZ3FN0gHAAUFVX3lxTE9hZXVIRDlBajk0NGpfZWs5WWd3bVpCbWR5ajRaVnhxZDFGTE5uRnhNQ1FwbnNDb0lJMmNRZjFUQ0dDd0pBVE12dkk4OWdBcDBndEdLaEJiNHhTRDF0TUN3UFd2eFIxY08xR0tBN1N3V2p5QjJKamZPaEgzSjJ3QzRUTDd0b2ZqMkJvcEx4cjdUOW9xNlB6OWhyZTZ0ZTEwNkZzczFEQkVTa0FWSXMxdFpSSzBKTWM4NEpnbEJUeXZvYg?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-10-20T18:56:36+00:00"
+            "published": "2026-10-20T19:53:02+00:00"
           },
           {
             "title": "আজকের দিন তুলা রাশি- ২১ অক্টোবর, ২০২৬ - Anandabazar Patrika",
