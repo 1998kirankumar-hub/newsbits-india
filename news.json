@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-20T22:01:28.063137+00:00",
+  "updated_at": "2026-10-20T22:31:10.073457+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+            "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
+            "published": "2026-10-20T22:20:13+00:00"
+          },
+          {
             "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
             "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Musk says a mega merger would have many benefits to his companies.",
-            "published": "2026-10-20T21:50:41+00:00"
+            "summary": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+            "published": "2026-10-20T22:06:48+00:00"
+          },
+          {
+            "title": "Hacker group claims access to 3.8 lakh SBI data entries",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/hacker-group-claims-access-to-3-8-lakh-sbi-data-entries/articleshow/135076898.cms",
+            "source": "Times of India",
+            "summary": "The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The allegedly exposed dataset is said to contain customers’ personal information, residential addresses, loan…",
+            "published": "2026-10-21T03:22:56+05:30"
+          },
+          {
+            "title": "Smartphone shipments slip, Chinese brands lose ground",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/smartphone-shipments-slip-chinese-brands-lose-ground/articleshow/135076901.cms",
+            "source": "Times of India",
+            "summary": "Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its position. Xiaomi’s traditional appeal of offering more features for the money also came under pressure. Rising component costs forced trade-offs on pricing and memory configurations, with shipments falling…",
+            "published": "2026-10-21T03:17:32+05:30"
           },
           {
             "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
@@ -81,30 +102,23 @@
             "source": "Al Jazeera",
             "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump&#039;s final two years in office.",
             "published": "2026-10-20T21:00:42+00:00"
-          },
-          {
-            "title": "India &amp; US to boost defence, energy ties, Marco Rubio says trade deal close",
-            "link": "https://timesofindia.indiatimes.com/india/india-united-states-to-boost-defence-energy-ties-marco-rubio-says-trade-deal-close/articleshow/135076521.cms",
-            "source": "Times of India",
-            "summary": "Rubio’s second visit to India comes against the backdrop of the US’s Sanctioning Russia and Iran Act, which is intended to penalise countries purchasing Russian oil, and Trump’s subsequent temporary suspension of related tariffs. India maintains that its oil procurement is essential not only for its own energy security but also for the stability of global markets. Rubio lauded the “substantial progress” made by…",
-            "published": "2026-10-21T02:27:36+05:30"
-          },
-          {
-            "title": "Audit regulator looking into Manchester City accounting",
-            "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
-            "published": "2026-10-20T20:56:53+00:00"
-          },
-          {
-            "title": "Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case",
-            "link": "https://timesofindia.indiatimes.com/india/police-lens-on-lawrence-bishnois-aide-randeep-malik-in-tiger-shroff-shooting-case/articleshow/135076527.cms",
-            "source": "Times of India",
-            "summary": "Anil Pandit Pandit and Shroff ’s shooter Rehan both reported to Malik and were considered “his men” till a few months ago, a source said. Rehan had been earlier tasked by Malik and Pandit with a shooting incident in Sonipat as well. “Rehan was shown the same ‘American dream’ that Malik had shown Pandit in the past,” a source said.",
-            "published": "2026-10-21T02:26:17+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Hacker group claims access to 3.8 lakh SBI data entries",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/hacker-group-claims-access-to-3-8-lakh-sbi-data-entries/articleshow/135076898.cms",
+            "source": "Times of India",
+            "summary": "The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The allegedly exposed dataset is said to contain customers’ personal information, residential addresses, loan…",
+            "published": "2026-10-21T03:22:56+05:30"
+          },
+          {
+            "title": "Smartphone shipments slip, Chinese brands lose ground",
+            "link": "https://timesofindia.indiatimes.com/business/india-business/smartphone-shipments-slip-chinese-brands-lose-ground/articleshow/135076901.cms",
+            "source": "Times of India",
+            "summary": "Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its position. Xiaomi’s traditional appeal of offering more features for the money also came under pressure. Rising component costs forced trade-offs on pricing and memory configurations, with shipments falling…",
+            "published": "2026-10-21T03:17:32+05:30"
+          },
           {
             "title": "Texas family backed 204-acre park plan on ranchland sought for 3,500 homes",
             "link": "https://timesofindia.indiatimes.com/world/us/in-1858-a-texas-family-began-holding-ranchland-that-developers-later-wanted-for-3500-houses-in-2016-the-family-backed-a-plan-to-preserve-204-acres-for-a-san-antonio-park-worth-nearly-10-million/articleshow/135061695.cms",
@@ -174,23 +188,16 @@
             "source": "Times of India",
             "summary": "Steve Buscemi, who once served in the New York City Fire Department, stepped up to assist at Ground Zero in the wake of 9/11. This selfless act highlighted the emotional toll on first responders. He subsequently became involved with Friends of Firefighters, a nonprofit that offers crucial mental health support, not just for firefighters but also their families, ensuring privacy.",
             "published": "2026-10-21T01:54:00+05:30"
-          },
-          {
-            "title": "‘Identify and defeat forces against India’: PM Modi calls for unity",
-            "link": "https://timesofindia.indiatimes.com/india/identify-and-defeat-forces-against-india-pm-modi-calls-for-unity-during-vijayadashami-celebrations/articleshow/135076523.cms",
-            "source": "Times of India",
-            "summary": "Drawing lessons from Lord Ram’s life, PM Modi stressed self-reliance. Despite the ocean separating him from Lanka, Lord Ram mobilised collective strength, brought together available resources and achieved what appeared impossible, he said. “We must not sit relying on others. We must recognise our own strength and we must have faith in our own resources,” the PM said, linking the message to the goals of ‘Atmanirbhar…",
-            "published": "2026-10-21T01:52:19+05:30"
-          },
-          {
-            "title": "Anthropic Recorded Net Loss Of Over $80 Billion In 1st Half Of 2026: Report",
-            "link": "https://www.ndtv.com/world-news/anthropic-recorded-net-loss-of-over-80-billion-in-1st-half-of-2026-report-12212587#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "AI startup Anthropic recorded a net loss of more than $80 billion in the first half of this year, the Wall Street Journal reported on Tuesday, citing a draft initial public offering prospectus.",
-            "published": "2026-10-21T01:33:41+05:30"
           }
         ],
         "World": [
+          {
+            "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+            "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
+            "published": "2026-10-20T22:20:13+00:00"
+          },
           {
             "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
             "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
             "published": "2026-10-20T20:16:01+00:00"
-          },
-          {
-            "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-            "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.",
-            "published": "2026-10-20T20:05:39+00:00"
           }
         ],
         "Business": [
@@ -281,8 +281,8 @@
             "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
             "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Musk says a mega merger would have many benefits to his companies.",
-            "published": "2026-10-20T21:50:41+00:00"
+            "summary": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+            "published": "2026-10-20T22:06:48+00:00"
           },
           {
             "title": "Audit regulator looking into Manchester City accounting",
@@ -1072,46 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Sanju Samson: థియేటర్‌ మొత్తం బుక్‌ చేసిన సంజు శాంసన్‌.. రజనీకాంత్‌పై వీరాభిమానం.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkNoeVpIWHh4SXNPcmFxM2dFQ2hnV2VDTFNJbEpHWk1mYlZxT1lSTnpWMFQ3eXNQMDFBdXRSdzF6S0I2V2hSWXYteUNDeUlRenVFdlNJYnhJSGwya01oY3VnZk9kT0djQS1HYWIxNHFFZ2oxYTBJSktmNVdvcldya1RDNFByeTRodnBWSzdmYm83VUNVcXVmam14VXJYX2dEbkcxYWJfVHliSmd1OXBmM2k1OHpqR2NQRnhPVUpPOEpXZVlmQjA2YTRIN0o4dzlSWGdQOVBIWFg0b2vSAdsBQVVfeXFMUEpDaHlaSFh4eElzT3JhcTNnRUNoZ1dlQ0xTSWxKR1pNZmJWcU9ZUk56VjBUN3lzUDAxQXV0UncxektCNldoUll2LXlDQ3lJUXp1RXZTSWJ4SUhsMmtNaGN1Z2ZPZE9HY0EtR2FiMTRxRWdqMWEwSUpLZjVXb3JXcmtUQzRQcnk0aHZwVks3ZmJvN1VDVXF1ZmpteFVyWF9nRG5HMWFiX1R5YkpndTlwZjNpNTh6akdjUEZ4T1VKTzhKV2VZZkIwNmE0SDdKOHc5UlhnUDlQSFhYNG9r?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-20T19:51:00+00:00"
-          },
-          {
-            "title": "Rahul Gandhi foreign trips: బాగా అలసిపోయా.. ఇక వియత్నాం వెళ్లొస్తా: రాహుల్ ఫ్లైట్ వీడియోతో భాజపా సెటైర్ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVRWX1pSZW02alBfajUtZTVKV2lSajlLdkFMNzdRTzV2LUYxbVJBZlJqYjBvLTVqRnhYbU5jRFpQR1VmUTluel9EQ3pIdUhNMVAyZDBPNjhsMUxLZFFVSUxubjZjRlUzVjdTb1QzVmNONzFPTEFydWJTZEhvTFJHSHUxSW04UHJBLXRlMmhjREM2Yk5XVWk0RzdB0gGaAUFVX3lxTE5hVFZfWlJlbTZqUF9qNS1lNUpXaVJqOUt2QUw3N1FPNXYtRjFtUkFmUmpiMG8tNWpGeFhtTmNEWlBHVWZROW56X0RDekh1SE0xUDJkME82OGwxTEtkUVVJTG5uNmNGVTNWN1NvVDNWY043MU9MQXJ1YlNkSG9MUkdIdTFJbThQckEtdGUyaGNEQzZiTldVaTRHN0E?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-20T18:49:00+00:00"
-          },
-          {
             "title": "రాజస్థాన్ లోని కోటాలో బోటు ప్రమాదం.. నలుగురు చిన్నారులు మృతి",
             "link": "https://telugu.oneindia.com/news/india/kota-boat-accident-in-rajasthan-four-children-dead-boat-accident-in-kota-rajasthan-news-four-dead-511595.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-21T00:05:53+05:30"
-          },
-          {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (21/10/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW45dXJWTUE4OUpQeEU1bmtrUVF4N2VFakJlem03M0pVNlBWLXhRd2dDR0Q2VlI3MFJwdDJFN3dCaE05ZkttRWxvOEtJbllUbW14RFducjdJNmV5MXpNalN0SHN0N2FyVDlsdjJyUEVheGtwRHRyNDFXdUlzN3p1YTN6cFg2OXM2ZWdXNWl0UmJraHhycFNVUG40ZElZZmZxdTNJd3ozMElPZGhKSFNpMXJ3RdIBswFBVV95cUxNSW45dXJWTUE4OUpQeEU1bmtrUVF4N2VFakJlem03M0pVNlBWLXhRd2dDR0Q2VlI3MFJwdDJFN3dCaE05ZkttRWxvOEtJbllUbW14RFducjdJNmV5MXpNalN0SHN0N2FyVDlsdjJyUEVheGtwRHRyNDFXdUlzN3p1YTN6cFg2OXM2ZWdXNWl0UmJraHhycFNVUG40ZElZZmZxdTNJd3ozMElPZGhKSFNpMXJ3RQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-20T18:31:32+00:00"
-          },
-          {
-            "title": "FMCG: డిసెంబర్ నుంచి FMCG ధరలు పెరుగుతాయా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2ltRmRmN1RrbDdaV2ZRcW9BTTFoVmxJZlBaT3JYVUo0bFNlT1UwSnFlQi1LNkdaMmRIRVdXQkVHT0NVcUR2eGY5NVhDOGVfNjBMeU9vLXNxSmhnZGVOOEJDWUNhajJjRU1NVnJZMDNxYUc2OENBVnJDRFZVdHZOLVJMTUd6dnNkVjh2d1puN3JVLXktenVTa9IBmAFBVV95cUxPN2ltRmRmN1RrbDdaV2ZRcW9BTTFoVmxJZlBaT3JYVUo0bFNlT1UwSnFlQi1LNkdaMmRIRVdXQkVHT0NVcUR2eGY5NVhDOGVfNjBMeU9vLXNxSmhnZGVOOEJDWUNhajJjRU1NVnJZMDNxYUc2OENBVnJDRFZVdHZOLVJMTUd6dnNkVjh2d1puN3JVLXktenVTaw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-20T18:12:00+00:00"
-          },
-          {
-            "title": "Rajakumari: రంగు, రూపంపై హేళనలు.. ఉత్తమ నటిగా అవార్డు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUc4VFpWc0k2aW5VS2VNdzRRNS16TFlmU0tXWk1WVjBuWk43N2ZOTzVuc0pkZS1HSi0tYWtxQmY2a3pERWlfb2dtRXRsVTFLS1Vta05jeENVWXlkQnhMTXRrNmxUeUJjbXB5VHFyd3JJb2huREhJczJKLThoSFEyQmlCMm1iNlhFanEtVmt4clFuZXdIV3dxdTREWkhGNDg0QlBaR2xJa01RQdIBqgFBVV95cUxOWUc4VFpWc0k2aW5VS2VNdzRRNS16TFlmU0tXWk1WVjBuWk43N2ZOTzVuc0pkZS1HSi0tYWtxQmY2a3pERWlfb2dtRXRsVTFLS1Vta05jeENVWXlkQnhMTXRrNmxUeUJjbXB5VHFyd3JJb2huREhJczJKLThoSFEyQmlCMm1iNlhFanEtVmt4clFuZXdIV3dxdTREWkhGNDg0QlBaR2xJa01RQQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-20T17:45:55+00:00"
           },
           {
             "title": "పాల పిట్టలను బంధిస్తే కఠిన చర్యలు తప్పవు.. సీపీ సజ్జనార్‌ హెచ్చరికలు జారీ",
@@ -1154,6 +1119,41 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-20T20:12:18+05:30"
+          },
+          {
+            "title": "ఢిల్లీ నిరసనలపై మోడీ కీలక వ్యాఖ్యలు- దసరా సంబరాల్లో ప్రసంగం..!",
+            "link": "https://telugu.oneindia.com/news/india/pm-modi-calls-for-identifying-and-defeating-enemies-of-india-in-dussehra-address-511587.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-20T20:11:10+05:30"
+          },
+          {
+            "title": "కనిగిరి: మున్సిపల్ ఎన్నికల్లో నామినేషన్ వేయడానికి వచ్చిన మహిళ ఎందుకు ఏడ్చారు? మరో మహిళ పోలీసుల కాళ్లు ఎందుకు పట్టుకున్నారు?",
+            "link": "https://www.bbc.com/telugu/articles/c65ynvqr1xz8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-10-20T13:59:58+00:00"
+          },
+          {
+            "title": "India-US Trade Deal: భారత్ -అమెరికా ట్రేడ్ డీల్ పై ట్రంప్ దూత కీలక ప్రకటన..!",
+            "link": "https://telugu.oneindia.com/news/international/india-us-trade-deal-near-finalisation-only-few-issues-left-to-resolve-marco-rubio-511581.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-20T19:13:29+05:30"
+          },
+          {
+            "title": "హైదరాబాద్ జూపార్క్ లోకి వింత జంతువులు.. సడెన్ గా పెరిగిన పర్యటకులు..!",
+            "link": "https://telugu.oneindia.com/news/telangana/hyderabad-zoo-kangaroos-wallabies-and-ring-tailed-lemurs-will-soon-be-arriving-at-the-hyderabad-zoo-511577.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-20T18:40:13+05:30"
+          },
+          {
+            "title": "ఇల్లందులో అభివృద్ధి కార్యక్రమాలను ప్రారంభించిన మంత్రి పొంగులేటి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yT3J5R0NVMENmNHcyYnBSTkVfelBLWlhoNmUzSjVmZnZFX1RsbS1QV3pzVVhETm5qMzJObGVzV2hYZmQ0VlRqQkR2Yy1NUHdhVTVfM2Z0VkpDUHZwTXp5VUQtWVNNNk9RUGMzM1N0akJ4U090OVlGYzdTNA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-20T13:09:14+00:00"
           }
         ],
         "Entertainment": [
