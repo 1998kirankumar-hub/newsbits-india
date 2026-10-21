@@ -1,16 +1,100 @@
 {
-  "updated_at": "2026-10-21T19:31:06.667110+00:00",
+  "updated_at": "2026-10-21T20:01:30.681970+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "published": "2026-10-21T19:54:57+00:00"
+          },
+          {
             "title": "Meta fined $25bn for 'lies' over user data privacy",
             "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-            "published": "2026-10-21T19:30:30+00:00"
+            "published": "2026-10-21T19:54:16+00:00"
+          },
+          {
+            "title": "Ukraine's Zelensky Hopes For New Talks With Russia, US By Early November",
+            "link": "https://www.ndtv.com/world-news/ukraines-zelensky-hopes-for-new-talks-with-russia-us-by-early-november-12217389#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Zelenskiy, speaking to journalists said he had spoken to US officials after presidential envoy Steve Witkoff's talks in St Petersburg with Russian President Vladimir Putin.",
+            "published": "2026-10-22T01:15:07+05:30"
+          },
+          {
+            "title": "Student killed after being hit by train in Kozhikode",
+            "link": "https://www.thehindu.com/news/national/kerala/student-run-over-by-train-in-kozhikode/article71607225.ece",
+            "source": "The Hindu",
+            "summary": "Police say she was attempting to cross the railway tracks when the Vande Bharat Express, travelling towards Thiruvananthapuram, struck her",
+            "published": "2026-10-22T01:11:17+05:30"
+          },
+          {
+            "title": "Man booked for allegedly defaming Aluva MLA on social media",
+            "link": "https://www.thehindu.com/news/national/kerala/man-booked-for-alleged-defamatory-remarks-against-aluva-mla/article71607227.ece",
+            "source": "The Hindu",
+            "summary": "The accused has been booked on charges including criminal defamation",
+            "published": "2026-10-22T01:09:53+05:30"
+          },
+          {
+            "title": "J&K HC summons Srinagar Deputy Commissioner over detention order under PSA passed ‘without application of mind’",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-hc-summons-srinagar-deputy-commissioner-over-detention-order-under-psa-passed-without-application-of-mind/article71608260.ece",
+            "source": "The Hindu",
+            "summary": "In the present case, the nature of the allegations, the apparent absence of specific material particulars on the grounds of detention and the prima facie concern regarding the manner in which the detention order has been formulated warrant further examination, Justice Nargal observes",
+            "published": "2026-10-22T01:08:55+05:30"
+          },
+          {
+            "title": "Kuki-Zo groups demand reimposition of President’s Rule in Manipur",
+            "link": "https://www.thehindu.com/news/national/manipur/manipur-crisis-is-political-not-a-security-issue-says-kuki-zo-womens-forum-seeks-presidents-rule/article71607642.ece",
+            "source": "The Hindu",
+            "summary": "President’s Rule was last imposed in the State from February 2025 to February 2026; Kuki-Zo groups say 32 members of their community have died in ethnic violence since March, while economic embargoes hurt Kuki-Zo villages",
+            "published": "2026-10-22T01:07:10+05:30"
+          },
+          {
+            "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+            "published": "2026-10-21T19:29:40+00:00"
+          },
+          {
+            "title": "RSS-affiliated labour organisation opens first Kashmir office in Pulwama",
+            "link": "https://timesofindia.indiatimes.com/india/rss-affiliated-labour-organisation-opens-first-kashmir-office-in-pulwama/articleshow/135099884.cms",
+            "source": "Times of India",
+            "summary": "BMS has been actively working in Kashmir since 2020 after the abrogation of Article 370 and currently has 20 registered affiliated labour unions in the region, Khuchay said. Initially, there were a lot of misconceptions about RSS, he said. However, the BMS functionary claimed that over the years, he had succeeded in convincing the people that RSS was not anti-Muslim, but pro-labour and pro-people.",
+            "published": "2026-10-22T00:57:19+05:30"
+          },
+          {
+            "title": "Manhattan townhouse with 41-foot indoor pool lists for $10.45m after price cut",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1886-this-manhattan-townhouse-was-bought-for-8-8-million-in-2012-and-transformed-in-a-multimillion-dollar-renovation-that-added-a-41-foot-indoor-pool-now-after-a-1-million-price-cut-it-is-listed-for-10-45-million/articleshow/135067320.cms",
+            "source": "Times of India",
+            "summary": "Nestled at 238 West 74th Street, this pristine townhouse dating back 140 years is available for $10.45 million. Spanning around 6,460 square feet, it boasts six bedrooms and six-and-a-half bathrooms. Unique features include a splendid 41-foot heated indoor pool and lush outdoor spaces, combining modern conveniences with historic charm. Its recent renovations enhance the classic aesthetics, and it has seen several…",
+            "published": "2026-10-22T00:57:00+05:30"
+          },
+          {
+            "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+            "source": "Economic Times",
+            "summary": "BlackRock has launched a new robotics focused ETF as investors become more selective about AI investments. The fund targets companies using intelligent machines across industries such as manufacturing and transportation, adding to a rapidly expanding market of ETFs built around different parts of the AI theme.",
+            "published": "2026-10-22T00:56:44+05:30"
+          },
+          {
+            "title": "JD Vance \"Disgusted\" By Republicans Over Vivek Ramaswamy's Controversial Ad",
+            "link": "https://www.ndtv.com/world-news/jd-vance-disgusted-by-republicans-over-vivek-ramaswamys-controversial-ad-12217357#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "In Cincinnati, the vice president said it was \"not really my concern\" whether the controversial 60-second spot was appropriate, and said he was focused on supporting Republican candidates in their midterm races.",
+            "published": "2026-10-22T00:53:43+05:30"
+          },
+          {
+            "title": "Connecticut tenant wins $1.6m after losing toe; lawyer says he got nothing",
+            "link": "https://timesofindia.indiatimes.com/world/us/in-2024-a-connecticut-tenant-tripped-over-concrete-outside-his-unlit-apartment-building-and-later-lost-a-toe-he-won-a-1-6-million-judgment-in-january-2026-but-his-lawyer-says-he-has-received-nothing/articleshow/135075633.cms",
+            "source": "Times of India",
+            "summary": "Michael Criscuolo, a resident of Connecticut, faced a life-changing injury after stumbling over construction debris near his apartment. A court ruled in his favor, granting him $1.6 million due to the landlord's clear negligence. Yet, Sim Levenhartz has failed to pay the awarded sum, with an appeal still in progress, prolonging Criscuolo's wait for justice. Meanwhile, the property deteriorates further, racking up…",
+            "published": "2026-10-22T00:52:00+05:30"
           },
           {
             "title": "Rahmat, Rashid knock Bangladesh out and send Afghanistan to final",
@@ -18,94 +102,80 @@
             "source": "ESPN Cricinfo",
             "summary": "Bangladesh's 160 was never going to be enough, as Afghanistan strolled home to set up a final date with Zimbabwe",
             "published": "2026-10-21T19:20:56+00:00"
-          },
-          {
-            "title": "Jansen five-for sets up South Africa's victory push",
-            "link": "https://www.cricinfo.com/ci/content/story/1559315.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Head led Australia's second-innings fightback with an unbeaten 87 after they folded for 99 in the first",
-            "published": "2026-10-21T19:20:53+00:00"
-          },
-          {
-            "title": "23rd Kaladarshini cultural festival from October 26 in Vijayawada",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/23rd-kaladarshini-cultural-festival-from-october-26-in-vijayawada/article71608523.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:48:22+05:30"
-          },
-          {
-            "title": "'We obviously want to go for the win' - Bavuma's 179 gives South Africa a chance to dream",
-            "link": "https://www.cricinfo.com/ci/content/story/1559258.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "South Africa are now the only side with a realistic chance of winning although being able to enforce the follow-on will likely be key to the outcome",
-            "published": "2026-10-21T19:17:53+00:00"
-          },
-          {
-            "title": "Jansen says he is ready to 'come back again and again' after star turn in Gqeberha",
-            "link": "https://www.cricinfo.com/ci/content/story/1559364.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Jansen has already made an 85 in the first innings, taken a five-for, and effected a third-innings run out in the second Test as South Africa look to level series",
-            "published": "2026-10-21T19:16:54+00:00"
-          },
-          {
-            "title": "T.N. government fixes car purchase ceiling at ₹26 lakh for Ministers, other key Assembly functionaries; sets ₹15-lakh cap for other MLAs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-fixes-car-purchase-ceiling-at-26-lakh-for-ministers-other-key-assembly-functionaries-sets-15-lakh-cap-for-other-mlas/article71608722.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:46:39+05:30"
-          },
-          {
-            "title": "Trade, defence and the Russia-Ukraine conflict to dominate Modi-Tusk talks on October 22",
-            "link": "https://www.thehindu.com/news/national/trade-defence-and-the-russia-ukraine-conflict-to-dominate-modi-tusk-talks-on-october-22/article71607872.ece",
-            "source": "The Hindu",
-            "summary": "Polish PM to hold meetings Delhi and Bengaluru, both sides finalising a confidentiality agreement for defence tech sensitivities on Russia",
-            "published": "2026-10-22T00:38:29+05:30"
-          },
-          {
-            "title": "Vijay congratulates Kasthuri Rajamani for clinching silver medal in 5th Asian Para Games",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-congratulates-kasthuri-rajamani-for-clinching-silver-medal-in-5th-asian-para-games/article71606546.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:38:13+05:30"
-          },
-          {
-            "title": "IIT-Madras to train bio-tech graduates in practical skills",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-bio-tech-graduates-in-practical-skills/article71608464.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:32:52+05:30"
-          },
-          {
-            "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
-            "published": "2026-10-21T19:01:05+00:00"
-          },
-          {
-            "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.",
-            "published": "2026-10-21T18:59:37+00:00"
-          },
-          {
-            "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-            "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
-            "published": "2026-10-21T18:58:29+00:00"
-          },
-          {
-            "title": "Parvinder Singh Jhota murder case: CBI takes over probe; opposition demands Punjab CM’s resignation",
-            "link": "https://www.thehindu.com/news/national/punjab/parvinder-singh-jhota-murder-case-cbi-takes-over-probe-punjab-mansa/article71606264.ece",
-            "source": "The Hindu",
-            "summary": "The anti-drug activist’s family is expected to be examined by the CBI team, led by senior DIG, in Mansa",
-            "published": "2026-10-22T00:27:11+05:30"
           }
         ],
         "India": [
           {
+            "title": "Ukraine's Zelensky Hopes For New Talks With Russia, US By Early November",
+            "link": "https://www.ndtv.com/world-news/ukraines-zelensky-hopes-for-new-talks-with-russia-us-by-early-november-12217389#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Zelenskiy, speaking to journalists said he had spoken to US officials after presidential envoy Steve Witkoff's talks in St Petersburg with Russian President Vladimir Putin.",
+            "published": "2026-10-22T01:15:07+05:30"
+          },
+          {
+            "title": "Student killed after being hit by train in Kozhikode",
+            "link": "https://www.thehindu.com/news/national/kerala/student-run-over-by-train-in-kozhikode/article71607225.ece",
+            "source": "The Hindu",
+            "summary": "Police say she was attempting to cross the railway tracks when the Vande Bharat Express, travelling towards Thiruvananthapuram, struck her",
+            "published": "2026-10-22T01:11:17+05:30"
+          },
+          {
+            "title": "Man booked for allegedly defaming Aluva MLA on social media",
+            "link": "https://www.thehindu.com/news/national/kerala/man-booked-for-alleged-defamatory-remarks-against-aluva-mla/article71607227.ece",
+            "source": "The Hindu",
+            "summary": "The accused has been booked on charges including criminal defamation",
+            "published": "2026-10-22T01:09:53+05:30"
+          },
+          {
+            "title": "J&K HC summons Srinagar Deputy Commissioner over detention order under PSA passed ‘without application of mind’",
+            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-hc-summons-srinagar-deputy-commissioner-over-detention-order-under-psa-passed-without-application-of-mind/article71608260.ece",
+            "source": "The Hindu",
+            "summary": "In the present case, the nature of the allegations, the apparent absence of specific material particulars on the grounds of detention and the prima facie concern regarding the manner in which the detention order has been formulated warrant further examination, Justice Nargal observes",
+            "published": "2026-10-22T01:08:55+05:30"
+          },
+          {
+            "title": "Kuki-Zo groups demand reimposition of President’s Rule in Manipur",
+            "link": "https://www.thehindu.com/news/national/manipur/manipur-crisis-is-political-not-a-security-issue-says-kuki-zo-womens-forum-seeks-presidents-rule/article71607642.ece",
+            "source": "The Hindu",
+            "summary": "President’s Rule was last imposed in the State from February 2025 to February 2026; Kuki-Zo groups say 32 members of their community have died in ethnic violence since March, while economic embargoes hurt Kuki-Zo villages",
+            "published": "2026-10-22T01:07:10+05:30"
+          },
+          {
+            "title": "RSS-affiliated labour organisation opens first Kashmir office in Pulwama",
+            "link": "https://timesofindia.indiatimes.com/india/rss-affiliated-labour-organisation-opens-first-kashmir-office-in-pulwama/articleshow/135099884.cms",
+            "source": "Times of India",
+            "summary": "BMS has been actively working in Kashmir since 2020 after the abrogation of Article 370 and currently has 20 registered affiliated labour unions in the region, Khuchay said. Initially, there were a lot of misconceptions about RSS, he said. However, the BMS functionary claimed that over the years, he had succeeded in convincing the people that RSS was not anti-Muslim, but pro-labour and pro-people.",
+            "published": "2026-10-22T00:57:19+05:30"
+          },
+          {
+            "title": "Manhattan townhouse with 41-foot indoor pool lists for $10.45m after price cut",
+            "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1886-this-manhattan-townhouse-was-bought-for-8-8-million-in-2012-and-transformed-in-a-multimillion-dollar-renovation-that-added-a-41-foot-indoor-pool-now-after-a-1-million-price-cut-it-is-listed-for-10-45-million/articleshow/135067320.cms",
+            "source": "Times of India",
+            "summary": "Nestled at 238 West 74th Street, this pristine townhouse dating back 140 years is available for $10.45 million. Spanning around 6,460 square feet, it boasts six bedrooms and six-and-a-half bathrooms. Unique features include a splendid 41-foot heated indoor pool and lush outdoor spaces, combining modern conveniences with historic charm. Its recent renovations enhance the classic aesthetics, and it has seen several…",
+            "published": "2026-10-22T00:57:00+05:30"
+          },
+          {
+            "title": "JD Vance \"Disgusted\" By Republicans Over Vivek Ramaswamy's Controversial Ad",
+            "link": "https://www.ndtv.com/world-news/jd-vance-disgusted-by-republicans-over-vivek-ramaswamys-controversial-ad-12217357#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "In Cincinnati, the vice president said it was \"not really my concern\" whether the controversial 60-second spot was appropriate, and said he was focused on supporting Republican candidates in their midterm races.",
+            "published": "2026-10-22T00:53:43+05:30"
+          },
+          {
+            "title": "Connecticut tenant wins $1.6m after losing toe; lawyer says he got nothing",
+            "link": "https://timesofindia.indiatimes.com/world/us/in-2024-a-connecticut-tenant-tripped-over-concrete-outside-his-unlit-apartment-building-and-later-lost-a-toe-he-won-a-1-6-million-judgment-in-january-2026-but-his-lawyer-says-he-has-received-nothing/articleshow/135075633.cms",
+            "source": "Times of India",
+            "summary": "Michael Criscuolo, a resident of Connecticut, faced a life-changing injury after stumbling over construction debris near his apartment. A court ruled in his favor, granting him $1.6 million due to the landlord's clear negligence. Yet, Sim Levenhartz has failed to pay the awarded sum, with an appeal still in progress, prolonging Criscuolo's wait for justice. Meanwhile, the property deteriorates further, racking up…",
+            "published": "2026-10-22T00:52:00+05:30"
+          },
+          {
+            "title": "Drone-linked narco-terror module busted in Jammu; 804 gm heroin; 1.1 kg opium seized",
+            "link": "https://timesofindia.indiatimes.com/india/drone-linked-narco-terror-module-busted-in-jammu-804-gm-heroin-1-1-kg-opium-seized/articleshow/135099887.cms",
+            "source": "Times of India",
+            "summary": "“Preliminary investigation has indicated a cross-border nexus. Inquiry is underway to identify the source of the consignment, its intended recipients, and persons involved in the network,” police said. The network came to light during the questioning of a 26-year-old man arrested for consuming drugs in RS Pura on Wednesday. Police said, “The arrested man, Sunny Kumar, a resident of Kotli Mirdian, Suchetgarh…",
+            "published": "2026-10-22T00:48:32+05:30"
+          },
+          {
             "title": "23rd Kaladarshini cultural festival from October 26 in Vijayawada",
             "link": "https://www.thehindu.com/news/national/andhra-pradesh/23rd-kaladarshini-cultural-festival-from-october-26-in-vijayawada/article71608523.ece",
             "source": "The Hindu",
@@ -113,81 +183,11 @@
             "published": "2026-10-22T00:48:22+05:30"
           },
           {
-            "title": "T.N. government fixes car purchase ceiling at ₹26 lakh for Ministers, other key Assembly functionaries; sets ₹15-lakh cap for other MLAs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-fixes-car-purchase-ceiling-at-26-lakh-for-ministers-other-key-assembly-functionaries-sets-15-lakh-cap-for-other-mlas/article71608722.ece",
+            "title": "AAP alleges corruption in DJB on spraying of anti-frothing agent in Yamuna",
+            "link": "https://www.thehindu.com/news/cities/Delhi/aap-alleges-corruption-in-djb-on-spraying-of-anti-frothing-agent-in-yamuna/article71608548.ece",
             "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:46:39+05:30"
-          },
-          {
-            "title": "Trade, defence and the Russia-Ukraine conflict to dominate Modi-Tusk talks on October 22",
-            "link": "https://www.thehindu.com/news/national/trade-defence-and-the-russia-ukraine-conflict-to-dominate-modi-tusk-talks-on-october-22/article71607872.ece",
-            "source": "The Hindu",
-            "summary": "Polish PM to hold meetings Delhi and Bengaluru, both sides finalising a confidentiality agreement for defence tech sensitivities on Russia",
-            "published": "2026-10-22T00:38:29+05:30"
-          },
-          {
-            "title": "Vijay congratulates Kasthuri Rajamani for clinching silver medal in 5th Asian Para Games",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/vijay-congratulates-kasthuri-rajamani-for-clinching-silver-medal-in-5th-asian-para-games/article71606546.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:38:13+05:30"
-          },
-          {
-            "title": "IIT-Madras to train bio-tech graduates in practical skills",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-bio-tech-graduates-in-practical-skills/article71608464.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:32:52+05:30"
-          },
-          {
-            "title": "Parvinder Singh Jhota murder case: CBI takes over probe; opposition demands Punjab CM’s resignation",
-            "link": "https://www.thehindu.com/news/national/punjab/parvinder-singh-jhota-murder-case-cbi-takes-over-probe-punjab-mansa/article71606264.ece",
-            "source": "The Hindu",
-            "summary": "The anti-drug activist’s family is expected to be examined by the CBI team, led by senior DIG, in Mansa",
-            "published": "2026-10-22T00:27:11+05:30"
-          },
-          {
-            "title": "Tribal held for possession of country-made gun, explosives in Jawadhu Hills",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tribal-held-for-possession-of-country-made-gun-explosives-in-jawadhu-hills/article71607782.ece",
-            "source": "The Hindu",
-            "summary": "The team apprehended one of the suspects and seized the country-made gun and explosives from him",
-            "published": "2026-10-22T00:23:57+05:30"
-          },
-          {
-            "title": "Will get support of 275 MLAs in 294 member Assembly, says West Bengal CM",
-            "link": "https://www.thehindu.com/news/national/west-bengal/will-get-support-of-275-mlas-in-294-member-assembly-says-west-bengal-cm/article71608418.ece",
-            "source": "The Hindu",
-            "summary": "Chief Minister Suvendu Adhikari gave hints that 64 of the MLAs of the rebel TMC faction will support him. BJP has 209 elected MLAs in the WB Legislative Assembly",
-            "published": "2026-10-22T00:23:00+05:30"
-          },
-          {
-            "title": "Will not rest until J&K is freed from separatist, terrorist elements: J&K L-G Manoj Sinha",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/will-not-rest-until-jk-is-freed-from-separatist-terrorist-elements-jk-l-g-manoj-sinha/article71608454.ece",
-            "source": "The Hindu",
-            "summary": "The Lieutenant-Governor said the Government of India’s commitment to strengthening peace and progress in Jammu and Kashmir",
-            "published": "2026-10-22T00:17:46+05:30"
-          },
-          {
-            "title": "Banned tobacco, suspect snacks seized in Mumbai; FDA crackdown nets ₹3.11 crore across Maharashtra",
-            "link": "https://www.thehindu.com/news/national/maharashtra/banned-tobacco-suspect-snacks-seized-in-mumbai-fda-crackdown-nets-311-crore-across-maharashtra/article71608708.ece",
-            "source": "The Hindu",
-            "summary": "The FDA said the banned-product seizures in Mumbai and Jalna, including vehicles and other items, were valued at ₹93.42 lakh",
-            "published": "2026-10-22T00:04:35+05:30"
-          },
-          {
-            "title": "Three held for suspected deer hunt in Karnataka; rifle, night-vision equipment seized in Hyderabad",
-            "link": "https://www.thehindu.com/news/national/telangana/three-held-for-suspected-deer-hunt-in-karnataka-rifle-night-vision-equipment-seized-in-hyderabad/article71608817.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-22T00:03:25+05:30"
-          },
-          {
-            "title": "Meta ordered to pay $25 billion in fine linked to 8-year-old data privacy scandal",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/judge-orders-meta-to-pay-25-billion-in-trial-related-to-8-year-old-data-privacy-scandal/articleshow/135098967.cms",
-            "source": "Times of India",
-            "summary": "A New Mexico state court has imposed a $25 billion penalty on Meta following a legal battle. Jurors found Meta liable for deceiving residents about data privacy measures and harmful content management. The court reduced the initial $219.5 billion request, affirming the penalty's justification due to numerous violations. Meta's internal inquiry was deemed ineffective, failing to meet commitments made after the…",
-            "published": "2026-10-21T23:57:53+05:30"
+            "summary": "“The container belonging to a company is marked ‘Defoamer Stock’, which means the tanks and all the equipment used to spray chemicals to remove foam from the Yamuna have already been set up,” says AAP Delhi president",
+            "published": "2026-10-22T00:48:13+05:30"
           }
         ],
         "World": [
@@ -196,7 +196,28 @@
             "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-            "published": "2026-10-21T19:30:30+00:00"
+            "published": "2026-10-21T19:54:16+00:00"
+          },
+          {
+            "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+            "published": "2026-10-21T19:29:40+00:00"
+          },
+          {
+            "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+            "published": "2026-10-21T19:17:51+00:00"
+          },
+          {
+            "title": "Tunisia jails opposition politician for four years over social media posts",
+            "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of &#039;plotting&#039; and &#039;inciting&#039; military to disobey orders.",
+            "published": "2026-10-21T19:14:49+00:00"
           },
           {
             "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "A mass funeral has been held in southern Yemen for 75 recruits killed in a Houthi missile strike on a training camp.",
             "published": "2026-10-21T18:29:38+00:00"
-          },
-          {
-            "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres.",
-            "published": "2026-10-21T18:24:42+00:00"
-          },
-          {
-            "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-            "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
-            "published": "2026-10-21T18:22:28+00:00"
-          },
-          {
-            "title": "Why social media has become an election issue in Brazil’s presidential race",
-            "link": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
-            "published": "2026-10-21T18:14:02+00:00"
           }
         ],
         "Business": [
@@ -282,7 +282,14 @@
             "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-            "published": "2026-10-21T19:30:30+00:00"
+            "published": "2026-10-21T19:54:16+00:00"
+          },
+          {
+            "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+            "source": "Economic Times",
+            "summary": "BlackRock has launched a new robotics focused ETF as investors become more selective about AI investments. The fund targets companies using intelligent machines across industries such as manufacturing and transportation, adding to a rapidly expanding market of ETFs built around different parts of the AI theme.",
+            "published": "2026-10-22T00:56:44+05:30"
           },
           {
             "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
@@ -341,13 +348,6 @@
             "published": "2026-10-21T16:54:00+05:30"
           },
           {
-            "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
-            "source": "Economic Times",
-            "summary": "Ten BSE 500 stocks have rallied between 59% and 129% in FY27 so far as mutual funds increased their shareholding in the September 2026 quarter. Cemindia Projects, Aditya Infotech and Aegis Logistics lead the list of gainers.",
-            "published": "2026-10-21T16:01:44+05:30"
-          },
-          {
             "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
             "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -390,6 +390,13 @@
             "source": "ESPN Cricinfo",
             "summary": "Jansen has already made an 85 in the first innings, taken a five-for, and effected a third-innings run out in the second Test as South Africa look to level series",
             "published": "2026-10-21T19:16:54+00:00"
+          },
+          {
+            "title": "Merab Dvalishvili Reveals Why Petr Yan’s Trash Talk No Longer Bother Him",
+            "link": "https://sports.ndtv.com/us/mma/merab-dvalishvili-reveals-why-petr-yan-s-trash-talk-no-longer-bother-him-12217283#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Merab Dvalishvili has dismissed Petr Yan’s trash talk ahead of their UFC 333 trilogy, calling the Russian “a politician.” Their 1-1 rivalry will be settled for the bantamweight title in Abu Dhabi on Saturday.",
+            "published": "2026-10-22T00:09:15+05:30"
           },
           {
             "title": "Florida Panthers' Brady Tkachuk's Charity Proposal For Ottawa Senators Jerseys Gets Attention Before Game",
@@ -439,29 +446,22 @@
             "source": "NDTV Sports",
             "summary": "Former Kansas City Chiefs and Atlanta Falcons defensive end Allen Bailey has died at 37. His wife found him unresponsive at their Florida home Tuesday. Family cites natural causes. Bailey played 133 NFL games over nine seasons.",
             "published": "2026-10-21T23:01:02+05:30"
-          },
-          {
-            "title": "Macklin Celebrini Makes History Against Montreal Canadiens Before Sealing San Jose Sharks’ Dramatic OT Win",
-            "link": "https://sports.ndtv.com/us/nhl/macklin-celebrini-makes-history-against-montreal-canadiens-before-sealing-san-jose-sharks-dramatic-ot-win-12216454#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Macklin Celebrini scored a power-play overtime goal to give the Sharks a 4-3 win over the Canadiens, becoming just the second player since 1919 to record 11 points in his first five career games against Montreal.",
-            "published": "2026-10-21T23:00:32+05:30"
           }
         ],
         "Technology": [
+          {
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "published": "2026-10-21T19:54:57+00:00"
+          },
           {
             "title": "Just Eat apologises for AI food mistakes after social media ridicule",
             "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
             "published": "2026-10-21T17:04:13+00:00"
-          },
-          {
-            "title": "Websites taken down worldwide as critical cyber-security update issued",
-            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-            "published": "2026-10-21T16:07:19+00:00"
           },
           {
             "title": "GTA 6 Is Estimated to Have Generated $630 Million From Pre-Orders Already",
@@ -655,6 +655,27 @@
             "published": "2026-10-22T12:08:20+05:30"
           },
           {
+            "title": "आज का राशिफल 22 अक्तूबर: वृषभ, तुला और कुंभ राशि वालों के लिए खुल सकते हैं तरक्की के रास्ते, पढ़ें दैनिक राशिफल",
+            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-22-october-2026-aaj-ka-rashifal-mesh-kark-singh-kanya-kumbh-makar-2026-10-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-22T01:20:23+05:30"
+          },
+          {
+            "title": "बीकानेर हाउस ने रेहान वाड्रा की प्रदर्शन वाली तस्वीरें हटाईं:प्रियंका गांधी बोलीं- अब लोकतंत्र नहीं रहा, शो तय समय पर जारी",
+            "link": "https://www.bhaskar.com/national/news/priyanka-gandhi-raihan-vadra-bikaner-house-exhibition-controversy-139447938.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-21T19:48:59+00:00"
+          },
+          {
+            "title": "MP News: जन विश्वास अभियान में अब अचानक किसी भी जिले में पहुंचेंगे CM मोहन यादव, अधिकारियों को दी सख्त चेतावनी",
+            "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-chief-minister-directs-field-deployment-to-resolve-public-issues-012-1672131.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-10-22T01:01:01+05:30"
+          },
+          {
             "title": "MP News: कार्बाइड गन और लैम्प के इस्तेमाल पर सख्ती, हादसा हुआ तो कलेक्टर-SP होंगे जिम्मेदार: CM मोहन यादव",
             "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-festival-security-crackdown-carbide-gun-crackers-012-1672129.html",
             "source": "Oneindia Hindi",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-21T23:11:44+05:30"
-          },
-          {
-            "title": "सौरव दास और आशुतोष रांका जेल से रिहा, अभिजीत दीपके बोले- जान हाज़िर है!",
-            "link": "https://www.bbc.com/hindi/articles/c693z1vdjg5jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-21T16:28:57+00:00"
-          },
-          {
-            "title": "पंजाब में पहली बार होगी एशियन हॉकी चैंपियनशिप ट्रॉफी, 4 और 5 नवंबर को मोहाली में सेमीफाइनल और फाइनल",
-            "link": "https://hindi.oneindia.com/news/india/punjab-hosts-asian-hockey-championship-2026-012-1672107.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-21T21:31:07+05:30"
-          },
-          {
-            "title": "जियो के आईपीओ ने खुलते ही बनाया रिकॉर्ड, लिस्टिंग पर कैसा रहा है कई दिग्गज आईपीओ का हाल",
-            "link": "https://www.bbc.com/hindi/articles/cm93zxql0kvwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-21T15:57:38+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,60 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Kurnool: దేవరగట్టులో కర్రల సంబరం.. పలువురికి గాయాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjQ5V2l3cHNvakR1M2hTNzl3aXdaX3hucXppYU1UN29ZQkNCOExBSXkzcUp5cGVqR0I2a05CVFpjZzdsYnBPV0F3Q0ZsV0wtaXVCNTFUb3JlX3phQlA1aVppamFtMWVFZTdBV3hpVWhIbXJIcEh1UlV5QV9kSXhCLXpaLUdtQmJrOGRXZm8wUzBPNzRKaDdhanJsNHprWDBIbExCenp4el83VHdJUERCYUE0OHVjREZia2d4c0dOSjgyWG44NG9rQ05IVmE5SjVOT3VWbWdHSTNKS3BWb3pV?oc=5",
+            "title": "కుటుంబ కలహాలు.. యువకుడి హత్య - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsVzlmc2t5RlliTXRmbW0zVF82aXV0b1dXRHhBRnVidGFMOGVNTkRTTE5OTktpTzFXcVdlVkxPTHZCeXNYMjU3aUN2NUdGcFROdkNoZlZobEUzMFU3QTVGdnphUGh6WDFwcTdfMFY1ZjFyQjI3UmpPQjl3?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-21T19:04:10+00:00"
+            "published": "2026-10-21T19:50:08+00:00"
+          },
+          {
+            "title": "ఆకాశంలో హాట్‌ ఎయిర్‌ బెలూన్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvUGZ6ZW9TaGlINzNLTnZyWWdpb2RLUExLd1VpRVQ3OVF2eXdPUXB0bHQzU1ZYVHpaSF9welZmRUUxRWphaVpqNGtNQkZ1VHgxZTBZUlVORGE4WmZQZzJtN0FveHhrQlBobHBMMGVycXo3YlcybUtsSA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:36:43+00:00"
+          },
+          {
+            "title": "నదిలో పూజా సామగ్రి.. మారని ప్రజల తీరు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50OHhRdjVOSmtGVEVqc1ZLZ0F2Ql9xYmE5LUpoQmJrY3M5T1RoNUp0ZnNFZXJrS05rLTVZNEVvSjZQRDdjX29BbEphRWRoNzZRNXlmd3lRNDFKQThDeHdiLTh4eWhwOG1jbWdUVGlocU5odjRTU3poYw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:35:52+00:00"
+          },
+          {
+            "title": "100 రోజుల గరిష్ఠానికి ఏక్యూఐ అమల్లోకి గ్రాప్‌-1 ఆంక్షలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MdjJ0TklleHQ3VnFaRk9QQ3h4Z2xOYXd2dGxRZy1QaUpsVHp3a2tzcWRfVGl1VkFBSlZmUHVjeWdoOFZhLXZfLVJ0bFJudjE1ekJyekpfaHRPTUYtekVMR0VBSGZsb3BlaHhib3VfYS1TU196bkRQMw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:34:59+00:00"
+          },
+          {
+            "title": "సీఎం సమావేశాలకే తొలి ప్రాధాన్యం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xN2VuNXZCb0Q0MXhSSkRMS1lNZTR0ckJpaUlGOVRSUnVnUkZoRUZlVzgyWlAxLUsyS2JqOUE2eWdHZXNyb1EySGNWS25LTzdHQlFxQTJCdjc3cElULWJxT2h5OTFJX3ZiZWhRTTFUUnYxeWtXNC1xaA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:34:26+00:00"
+          },
+          {
+            "title": "లక్ష దాటిన రూఫ్‌టాప్‌ సోలార్‌ రిజిస్ట్రేషన్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xc1JPVTlZcmswbHo1WDdqLTlNdXN1NnFJMVRUTHRobmFOVWZtVmNKbnFKT1NoUlEwVUU2TE12a24yUmRIMHR3dUtaY1EyTTdCVWFaekowWC1yM0pDbUdOYUFOaEc1R0k5cW5RWUJFcnlCbVBpdTdNUA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:30:20+00:00"
+          },
+          {
+            "title": "ముగిసిన జేఎన్‌యూ విద్యార్థుల నిరాహార దీక్ష - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByX1d0TVNzZDlibE9JNWlsY21pNGlPWmFyNHpIM25pRnVvY3hoaXE3dVBQdlpxMjVJclgzbV9heVVORExlTGpacjFiNFR6QlpXUVN4a2doNXAyLWtGd1dTREZZQzlWeXpPaDhfOE9seGVvaHRtbTdRUg?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:29:55+00:00"
+          },
+          {
+            "title": "న్యాయ సంస్కరణలు, సమాఖ్య విధానంపై జాతీయ సదస్సు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aZkpYXy1KNFBCVHlOUFNNMjhhZjFuaVBBRkJORTQ1RzJURFE5R0FISG1oRlQwZm0yMDFYdURlc3NGZ1JOSmdWQlJKSVJoWGZuZFpRWjM2aGhjZEIzMjJLOUQ2WnNvNUNiTmpZQTFHV0YtQVNCV1Y2Tw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T19:28:57+00:00"
           },
           {
             "title": "సందేహం.. సందిగ్ధం.. - Eenadu",
@@ -1105,55 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-21T23:35:26+05:30"
-          },
-          {
-            "title": "దసరా వేళ మెరుపు దాడులు.. 4 పాల పిట్టలను కాపాడిన పోలీసులు",
-            "link": "https://telugu.oneindia.com/news/telangana/indianrollers-lightning-operations-during-dasara-police-rescue-4-indian-rollers-dasara-latest-news-511713.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-21T23:10:21+05:30"
-          },
-          {
-            "title": "Local Body Elections: ఏపీలో పట్టణ స్థానిక సంస్థల ఎన్నికల ప్రక్రియకు తాత్కాలికంగా బ్రేక్‌: ఎస్‌ఈసీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDJWWUYweE1OSWxZdGFvNjFKVTBtRkVTc3l1TnN1Z0dndlpESm1DckNmT053dDh5RjFVM21xLW5EYjduZHA2OWkxaE9XQ3RCQXM3cGw0bG1wLWw3S0Nob2Q1M2cxWEpZTW1fRkh1cDhBeDVjdXZsZDZ5eVpHdEZyTXhjTlE1bUU0WTFCM0FBSlAyV3BNTVMwYUlwQlB0SThfb29DOTZfRml1dHhCWDF0VDNZTUZFZDNhVWpZVzFVTktmQ3FkdmfSAcYBQVVfeXFMTmgyVllGMHhNTklsWXRhbzYxSlUwbUZFU3N5dU5zdWdHZ3ZaREptQ3JDZk9Od3Q4eUYxVTNtcS1uRGI3bmRwNjlpMWhPV0N0QkFzN3BsNGxtcC1sN0tDaG9kNTNnMVhKWU1tX0ZIdXA4QXg1Y3V2bGQ2eXlaR3RGck14Y05RNW1FNFkxQjNBQUpQMldwTU1TMGFJcEJQdEk4X29vQzk2X0ZpdXR4QlgxdFQzWU1GRWQzYVVqWVcxVU5LZkNxZHZn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-21T17:33:57+00:00"
-          },
-          {
-            "title": "దసరా ఊరేగింపులో ఏనుగు హల్ చల్.. పరుగులు తీసిన జనం.. వీడియో వైరల్",
-            "link": "https://telugu.oneindia.com/news/india/elephant-goes-on-a-rampage-during-dasara-procession-people-scramble-to-flee-video-goes-viral-now-511711.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-21T22:46:39+05:30"
-          },
-          {
-            "title": "Dasara Bonanza: తెలంగాణలో మద్యం అమ్మకాల జోరు చూస్తే మైండ్ బ్లాంక్..!",
-            "link": "https://telugu.oneindia.com/news/telangana/liquor-sales-surge-in-telangana-from-the-past-19-days-in-october-rs-2-054-crore-in-just-19-days-511709.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-21T21:30:34+05:30"
-          },
-          {
-            "title": "Amitabh Advised To Rest: వైద్యులు రెస్ట్‌ తీసుకోమన్నారు.. క్షమించండి: అమితాబ్‌ ప్రకటన - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUlkWjJFcFE5cEpoTklhWjdMZXdOTEMtcVY2YXVnV3FpN0stMnMta0tPZFkwZGhxUDV2MW5wUlpPWlBGa1hGeWlUbVVCSncwMzZrWUJxZkZMSFpCd2txTVF5UGF4djJONjl4bjJpSmtBeW9oVmF5TlFJWVRDRS1QbUd1c2ZBb1BjUjM2YXN0M0haY0xYT0RpZXFXeW5pUdIBngFBVV95cUxQVUlkWjJFcFE5cEpoTklhWjdMZXdOTEMtcVY2YXVnV3FpN0stMnMta0tPZFkwZGhxUDV2MW5wUlpPWlBGa1hGeWlUbVVCSncwMzZrWUJxZkZMSFpCd2txTVF5UGF4djJONjl4bjJpSmtBeW9oVmF5TlFJWVRDRS1QbUd1c2ZBb1BjUjM2YXN0M0haY0xYT0RpZXFXeW5pUQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-21T15:45:11+00:00"
-          },
-          {
-            "title": "Revanth Reddy: మైసూరు ఉత్సవాల్లో పాల్గొన్న సీఎం రేవంత్‌రెడ్డి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnpqejREejByMEQ4SHJmOEVfTEdEeTczbmF1YlhVdXNncHZ3ekxudGI1dDdBRGtKOFhjOGprdExFVFVjcm5jYVlLRXJLNExzLXZTOXVaUVZTcGxwNkJSRk10YnYwV1FRV3k5NE05eHBrcHd6cHBrTXRobEhpdDJFYjBDUEhKdVN6czRKRk9aWFQyUEtPSzYtYy1DYmppQ2FCLXZnbzE2UWxLYmxUWkHSAa4BQVVfeXFMUDZ6ano0RHowcjBEOEhyZjhFX0xHRHk3M25hdWJYVXVzZ3B2d3pMbnRiNXQ3QURrSjhYYzhqa3RMRVRVY3JuY2FZS0VySzRMcy12Uzl1WlFWU3BscDZCUkZNdGJ2MFdRUVd5OTRNOXhwa3B3enBwa010aGxIaXQyRWIwQ1BISnVTenM0SkZPWlhUMlBLT0s2LWMtQ2JqaUNhQi12Z28xNlFsS2JsVFpB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-21T15:20:30+00:00"
-          },
-          {
-            "title": "రోడ్డు ప్రమాదంలో మహిళ మృతి.. మరొకరికి తీవ్ర గాయాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUpOY1JLWmRrVV9zby1rc3d2c2JDcERmMmpOaFpmSUJ2MFF2ZDM3LVN1R0tvQWxMQ1VGWWpsdjI3c3hqd05mUl9CQWZtS21lUEVmQXh6dzRqUi16VEhqX2Nfb0ZmOGFYTElGN0wwX0dzX2MtYjJyYTlVTzBnemlLcQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-21T15:18:12+00:00"
           }
         ],
         "Entertainment": [
@@ -1430,7 +1430,7 @@
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU11djUxMFFlUGstck1DbnFjaGVmZGZZTkw4RnJYSXBWUFJKU1l5Z1FqUWtUWjhQMTNBblpwYXJULVRjeThDalUtX2hiTTBDSldseG54TWpIWWRmRnpxV0V2RThyTUF2ZzRpUDREMFBFZ1NDTDhtZlBVVW13VjNNbTNfYThkay1Vd2RtdTZUbTBqMGpzWEFpQThUcnlzSFBXclVqVUl3S2xaNGM5VE53YWJQT0nSAboBQVVfeXFMTXNQSTFqUjBYVVpYTGpfOXpRU0tPTHVJMnVCNEJwbEwtMTBvZFFDSW5yS29hRG4ycEo3bWY1aWlKMTZja1NmUHpPZ0ZLdW9STEluYTR2aWR3emJqVHljYkNxUzd6bDZsaTBMUFZ3MmM5dzM3X2VoSnNCY2d3WmFJbEpwQnJlRmY4bmFKVjVxOGpSeFM2SW9jeGdQM25YV01qdW0yd0RZbEV3dGRheXd0ZC1iSWpLRjRtRFNR?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-10-21T16:48:55+00:00"
+            "published": "2026-10-21T19:51:12+00:00"
           },
           {
             "title": "আজকের দিন বৃষ রাশি- ২১ অক্টোবর, ২০২৬ - Anandabazar Patrika",
