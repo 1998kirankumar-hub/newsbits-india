@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T00:31:08.621799+00:00",
+  "updated_at": "2026-10-22T00:37:59.912666+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -55,11 +55,25 @@
             "published": "2026-10-22T05:42:27+05:30"
           },
           {
+            "title": "World leaders warn against security flaw found in PHP computer programming",
+            "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "AI was used to pinpoint two vulnerabilities in the PHP language, used by more than 70 percent of websites.",
+            "published": "2026-10-22T00:10:27+00:00"
+          },
+          {
             "title": "SBI confirms data leak, says 4,000 customer records identified on dark web",
             "link": "https://timesofindia.indiatimes.com/business/india-business/sbi-confirms-data-leak-says-4000-customer-records-identified-on-dark-web/articleshow/135103369.cms",
             "source": "Times of India",
             "summary": "The disclosure follows a claim by cybersecurity monitoring account CyberPulse that a threat actor using the name Siriusim had leaked documents and personal data allegedly linked to SBI. The post claimed the dataset contained 3,75,000 rows in CSV files and 2,722 PDF documents, including customer information, loan applications, supporting documents, account-opening forms and addresses.",
             "published": "2026-10-22T05:40:09+05:30"
+          },
+          {
+            "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+            "published": "2026-10-22T00:00:00+00:00"
           },
           {
             "title": "US accuses Canada of election interference ahead of midterms",
@@ -88,20 +102,6 @@
             "source": "BBC Business",
             "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
             "published": "2026-10-21T23:27:05+00:00"
-          },
-          {
-            "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-            "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
-            "published": "2026-10-21T23:20:58+00:00"
-          },
-          {
-            "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-            "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.",
-            "published": "2026-10-21T23:20:12+00:00"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "World leaders warn against security flaw found in PHP computer programming",
+            "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "AI was used to pinpoint two vulnerabilities in the PHP language, used by more than 70 percent of websites.",
+            "published": "2026-10-22T00:10:27+00:00"
+          },
+          {
+            "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+            "published": "2026-10-22T00:00:00+00:00"
+          },
+          {
             "title": "US accuses Canada of election interference ahead of midterms",
             "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
             "source": "Al Jazeera",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
             "published": "2026-10-21T22:16:50+00:00"
-          },
-          {
-            "title": "Video shows Israeli settler assaulting Palestinian child",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
-            "published": "2026-10-21T22:03:54+00:00"
-          },
-          {
-            "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-            "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
-            "published": "2026-10-21T22:02:18+00:00"
           }
         ],
         "Business": [
@@ -662,18 +662,18 @@
             "published": "2026-10-22T00:23:11+00:00"
           },
           {
+            "title": "सुर्खियां: मेटा पर 2.35 लाख करोड़ फाइन; दिल्ली-NCR की हवा खराब; भारत आए पोलिश पीएम; दिल्ली में जल संकट की आहट",
+            "link": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-22-october-2026-updates-on-amar-ujala-2026-10-22",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-22T05:50:46+05:30"
+          },
+          {
             "title": "एक साथ जांच: भारतीय वैज्ञानिकों ने तैयार की नई तकनीक, 540 मरीजों पर हुई जांच में मिले अच्छे नतीजे; कितना लाभ?",
             "link": "https://www.amarujala.com/india-news/simultaneous-testing-indian-scientists-developed-new-technique-trials-on-540-patients-positive-know-benefits-2026-10-22",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-22T05:36:36+05:30"
-          },
-          {
-            "title": "फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर विवाद: मुस्लिम प्रवासियों पर बहस; आरोपों पर मैक्रों का पलटवार",
-            "link": "https://www.amarujala.com/world/france-protest-slogan-controversy-macron-hits-back-at-trump-and-netanyahu-2026-10-22",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-22T05:27:48+05:30"
           },
           {
             "title": "पंजाब की सियासत: भाजपा-शिअद साथ, पर नशे के खिलाफ अभियान की चिंता",
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "સુરતમાં શોપિંગ, મુંબઈમાં ફાયરિંગ:ટાઇગર પર હુમલાના આરોપીની લક્ઝરી લાઇફ; ક્યારેક રેપિડો ચલાવતો, હવે BMWમાં ફરે છે; પિતાની લિટ્ટી-ચોખાની દુકાન",
+            "link": "https://www.divyabhaskar.co.in/national/news/begusarai-hrithik-tiger-shroff-shooting-controversy-luxury-lifestyle-139443247.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-10-22T00:30:00+00:00"
+          },
+          {
             "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:મોદીના મંત્રીની એપસ્ટિન સાથેની તસવીરથી રાજકીય ભૂકંપ, લોરેન્સના ભાઇએ નવો ધડાકો કર્યો, જિયોનો IPO 3 ગણો ભરાયો-જેને લાગ્યો એને બખ્ખાં",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-epstein-hardeep-puri-photo-viral-congress-139446229.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-10-21T12:29:52+00:00"
-          },
-          {
-            "title": "ગુજરાત : ભાજપ આદિવાસી વિસ્તારમાં સાંસદો, ધારાસભ્યો, મંત્રીઓને કેમ દોડાવી રહ્યો છે?",
-            "link": "https://www.bbc.com/gujarati/articles/c3vgxdwy7y44o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-10-21T11:05:02+00:00"
           }
         ]
       }
@@ -1072,46 +1072,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "సెంగోల్‌ రూపశిల్పి ఉమ్మిడి ఎత్తిరాజ్‌ కన్నుమూత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WdUhhQlF4MGVsZ0FjQUxPZGxYMm1PekdqNHJjaHJCenFhWEZzbnFVTzJaYnNSR2Q4Ql9ReE1wT2JSZndYNUNnUFdjMWRpc3UzeXNhamt0NlJRNU9xOXg0UzVLaWR4MTdROVFNTHUybTJCYWEwdXRUWjcxWXXSAXxBVV95cUxNVnVIYUJReDBlbGdBY0FMT2RsWDJtT3pHajRyY2hyQnpxYVhGc25xVU8yWmJzUkdkOEJfUXhNcE9iUmZ3WDVDZ1BXYzFkaXN1M3lzYWprdDZSUTVPcTl4NFM1S2lkeDE3UTlRTUx1Mm0yQmFhMHV0VFo3MVl1?oc=5",
+            "title": "సర్పంచులుగా స్నేహితులు.. నేడు జడ్పీటీసీలుగా ప్రత్యర్థులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95SE40Y0d2T0JSV0NEaGFsU3VYNVBqQWFLT2tXclVmam9LbENnN2EtSjFnSnVLVTFaVjMtRk5zTmVUUUpmTXlGRjNHY3VISERrV25MX0l0aklOQlFCTV9oLVViNGxjNVgxdnRaWENoeWhGRXZiTkhNSWcyNEZtQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-22T00:18:44+00:00"
+            "published": "2026-10-22T00:23:16+00:00"
           },
           {
-            "title": "మహిషాసుర సంహారంలో ‘బొద్దింక’ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWGQyNVVKWUNxeVlDeTdlUmlNemtaZ0J6NUxMa2lCU1JTb1FYZFpqeUVjSkMwUDdEUmVhRHZMdVRuWEtKRllZRGkwWkRWMXhEdW9tOFBSMl84d0trYjVkU2VISHdwMVduc1pVbUNiTTBLclhkU2J4b2FHb0dfRk0?oc=5",
+            "title": "టికెట్‌ రాకుండానే తాయిలాలు! - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGRkgzaWFNY3hrMlpIYWs3ZWVIVUNibHVJUGNFRkJRNS1CWTZLSzJ1X01ueUxLNWNIWl92T3lqS2VOLWIzVnhpb3MzNHVtUWp0bW43SUlQb2ZsUVhFS2tnU21hTld4NHN1YV9rV2FwNHJMYkpMeFV1MzRrM2NfUQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-22T00:17:11+00:00"
+            "published": "2026-10-22T00:22:17+00:00"
           },
           {
-            "title": "సౌదీలో అయిలాపూర్‌ వాసి హఠాన్మరణం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FX0xVMjBVU1dWam4taUxHNm9FSFhfbFZ6Xzk2ZmtLOERrOXN3QnlLUFFIa0thTXdweHBfOVhtc19vZE5aeWwwNUpjYzJtWUk2WmhOdm1fUEM3UjhTSlp2TF9iYUNUOVp0dUIycm9GQjk5NS01b29za1M5RF9xNXc?oc=5",
+            "title": "కుప్పకూలిన రాజవరం వంతెన రెయిలింగ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VbVlCSlJ0ZkJPOVRCakMzdTdfa1F6bnRSUHgzU1RhanFrNzdnU1V6Qlp1a1RiOEY0bzN4bnJhbUhnX1JsdUdiQ0hLV1B0WXBJN1kzblFYSEJTVGNMdWVING82enkwQ2lyT3A4RUxKRUctTmZyRVE2S05GQk44dw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-22T00:16:20+00:00"
+            "published": "2026-10-22T00:18:36+00:00"
           },
           {
-            "title": "పల్లె పాలనకు ఆర్థిక దన్ను - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kVkdOajhqekxWT2tKdXg5b1RCeUxHVFUxdlk2aUx1RWl4SThsODZGUFVCcjVoTkFyeUNsUW4tYThmMloyQWppWVZjZGV2cVFuOG1KWk9oYWNkY3BfTlRnTndEWWpNU2R5NW9jbmJ1cThKX1E0c21KSUkteklRQQ?oc=5",
+            "title": "నిబంధనలు ఉల్లంఘిస్తే కఠిన చర్యలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YMFFQU3cxYldrWGEzMFJYOFVRcVE5R1J3WUdIRUpMYXZCUWdQMmtyaUd3RTZzVjVfWEVRdVFQRm13cHdCWXNOYmNlb0RTcS1ZdDdRZ1U5Q3Q2OHBPRHA4dlNsbzZMSzktWEpZRmpXOTlyZmJ3MVBfX3N3bktXZw?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-22T00:15:09+00:00"
-          },
-          {
-            "title": "నిబంధనలపై నజర్‌..! - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVczJoeERvSWZUSVlUdEhIdENfWWRIeHpWclpwN05pVXZWaVE5UVc2bGNEV0szcGR4M3JXMV9iRFhldXFkVjZnT2tyWnVqZ2lweEI0RDdneE81UklaeWNhZXFxbU0zLVJGdV9yVGdSZGdfSXhVdGhzZ0szRzEtdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-22T00:14:08+00:00"
-          },
-          {
-            "title": "అభ్యర్థుల.. సర్దుపాట్లు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NG9sSllMQjN5dXNzVGtTdlZoNGdvQXlEUF9ZMUU5eGMzUUx6TXU1QWtwQ0pYUkRrY2NPUnBFRzdqczQ4YUNnS3d3NU9fSDNRQWlXcjJ0SEhNMktueDRGVDB5ZE1zZTNzTWVoWkc1ZEhUSWNiLWFraHdiRlowdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-22T00:13:00+00:00"
+            "published": "2026-10-22T00:16:46+00:00"
           },
           {
             "title": "తల్లిపై కుమారుడి దాడి - Eenadu",
@@ -1128,13 +1114,6 @@
             "published": "2026-10-22T00:11:50+00:00"
           },
           {
-            "title": "పెరుగుతున్న విద్యుత్తు వినియోగం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HTjJHN2l1M0tsSUptWVN1aDhOTHdWZTctXzFYZUFCSldjbFpFdHhNNVBZTTdvUC1aYThQbnpGMy1YSlBnTHpfRkJiTXB1RlFlTlVnRHBnamZBX2Z1Q0pLVE44ZjMxclpVVHRJSm5lVDRwVm9haHhZeHN4bWU?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-21T23:59:58+00:00"
-          },
-          {
             "title": "రైల్వే స్తంభం ఎక్కి యువకుడి హల్‌చల్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWkNpYmVBQlJacTBLX2FsdmVyaE5QY3JUblY5TEpfME9aZ3JFMmtCbFJWRlJzdHZaSjRSTWNDVWNpc1FXdHUwWVRrVHNLZ0lXQ01uS2pmOXN0Z1Q4eEVVak16dzBFVFhXOHdXQk5QejF5c1ptbHEyVHQzLTc?oc=5",
             "source": "Eenadu",
@@ -1142,18 +1121,39 @@
             "published": "2026-10-21T23:48:39+00:00"
           },
           {
-            "title": "మునగ సాగుకు ప్రోత్సాహకాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbjZWMjNRUzhnWVNEVEZDcFo2cWNBUWY5akI1X3FJMkZJT1BWRTY2c0dnVVhFd09wakYxNXEzUXhDQzEzeEV2ZVpGc1piRDNKVlUxNFg5dUN6d2J6RjFxZVdubEdPc25YN09uT0dYOWIyalVXUWVTdEJmUEw?oc=5",
+            "title": "వీడిన వివాహిత మృతి కేసు మిస్టరీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkQnEtOFlqenFjYnoxVUxTaWFiRVZFdEYwNFlqemxNUnFkRlJzVFNNYzdrZVJFU21xcHhiaVFpZVB6VXgtdXpsa2VMWTFhcjVsSmlUQlhqdlVJZ20tV3NHUXJUWExacHBDUVJtdFRINGpzWjgwcWJUNlNB?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-21T23:46:50+00:00"
+            "published": "2026-10-21T23:25:56+00:00"
           },
           {
-            "title": "పరిషత్తు నామినేషన్లు ప్రారంభం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwWDJRVXhvcW1MbkxvX05nX1FVYnlFa0RMZTVtOTRHckdnLXdpbHZUZjhGd0RwMU4tRVIwLUZjYWNaVVhxYTFUSDA3OGZLLXB5WjRWYUM4VXU0OWRINXRlTm5xNy0xZXVxeWxQaEFMRmNWaE8xOU1fbWZR?oc=5",
+            "title": "తిన్న ఆకులు కడిగి.. అవే మళ్లీ వినియోగిస్తూ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BZ2ZyWHFPRktOQS1WMlZyMEItQ29sUWJPMTJxTmxOaHhMUjNOdTBnMllMTlUtWkpiaHk0VGcyZkJlMzhfUDZ1MV9RRGFoaVRvaTJyek9NclZqVG85VUl5aFNiQ1RDVzdIeUVNTU9oMFRFbW13MU5yNHp3?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-21T23:38:38+00:00"
+            "published": "2026-10-21T23:25:02+00:00"
+          },
+          {
+            "title": "ఎంపీ అవినాష్‌రెడ్డి ఎక్కడ కాలు మోపితే అక్కడ వినాశనమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3OVhrcFpxdWZWendXQWhtNURLMGZhZFlmRDRjOFhDeGdONXNlb3R4cGhBNHVrTjBQRllsZHppMUF5RXhQZTVQM3FHQkdHWUVDWEY0T08zcHdxOXZUUU9hZVZsd1dQdEJIdV9vM0NsUkdOYVh5dFJBdXRIMGs?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T22:46:36+00:00"
+          },
+          {
+            "title": "హీమోఫీలియా ఔషధానికి అనుమతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPTFdZbXh1Zzc1RHJnUVZUX0dJd1JyWHRGS0Q5RW1mMVA1M2FmTF9SWUxsY0tYWjZfeGh5YjU1N3RBdzI0dVAwcER5UENzekxsTV9WcGNVUVhWd2lSeTlRZHpKT0NVd0NiMnlXR1laaElXb2RN0gF0QVVfeXFMUE9MV1lteHVnNzVEcmdRVlRfR0l3UnJYdEZLRDlFbWYxUDUzYWZMX1JZTGxjS1haNl94aHliNTU3dEF3MjR1UDBwRHlQQ3N6TGxNX1ZwY1VRWFZ3aVJ5OVFkekpPQ1V3Q2IyeVdHWVpoSVdvZE0?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T22:41:42+00:00"
+          },
+          {
+            "title": "ఎటర్నల్‌ నుంచి ఈ ఏడాదిలోనే డార్క్‌.ఏఐ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ROXNJd0dWeHNUc005ZGNQd25GZG1OaHc5eU9id2M1VVg0MHVYdXZRSG4zai1Sc3FTaVdRZTJqV1ZCQmVOajdjOXJSNEdUNnZKRXBNZGNlcFBoV3VOQTdaYXFhcW9JZDFQOV9UYUJiRkl4V3Y10gF0QVVfeXFMT1E5c0l3R1Z4c1RzTTlkY1B3bkZkbU5odzl5T2J3YzVVWDQwdVh1dlFIbjNqLVJzcVNpV1FlMmpXVkJCZU5qN2M5clI0R1Q2dkpFcE1kY2VwUGhXdU5BN1phcWFxb0lkMVA5X1RhQmJGSXhXdjU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-21T22:39:37+00:00"
           }
         ],
         "Entertainment": [
