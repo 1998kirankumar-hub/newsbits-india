@@ -1,10 +1,31 @@
 {
-  "updated_at": "2026-10-22T22:01:23.932487+00:00",
+  "updated_at": "2026-10-22T22:31:06.521547+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Necklace almost priced at £15 for car boot sale later sold for £99,000",
+            "link": "https://timesofindia.indiatimes.com/world/uk/a-necklace-nearly-taken-to-a-car-boot-sale-with-a-15-price-tag-was-later-identified-as-a-rare-south-pacific-treasure-expected-to-fetch-just-60-to-100-it-sold-for-99000-at-auction/articleshow/135094253.cms",
+            "source": "Times of India",
+            "summary": "Imagine a dusty car boot sale where a unique necklace fashioned from human hair and whale bone was nearly sold for just £15. Fortunately, it caught the eye of an expert at Ewbank's auction house, revealing its immense worth, which fetched an incredible £99,000 at auction. This story underscores the vital role of appraisals in recognizing hidden treasures that often go unnoticed in clearance sales.",
+            "published": "2026-10-23T03:54:00+05:30"
+          },
+          {
+            "title": "PHP security flaws trigger global scramble; CERT-In flags vulnerabilities",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms",
+            "source": "Times of India",
+            "summary": "Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Google Cloud said its own infrastructure was not vulnerable, but warned that customers running PHP applications on the…",
+            "published": "2026-10-23T03:47:02+05:30"
+          },
+          {
+            "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+            "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+            "published": "2026-10-22T22:09:38+00:00"
+          },
           {
             "title": "Congress MLAs burn Punjab CM effigy over poor law-and-order following anti-drugs crusaders murder",
             "link": "https://www.thehindu.com/news/national/punjab/congress-mlas-burn-punjab-cm-effigy-over-poor-law-and-order-following-anti-drugs-crusaders-murder/article71612209.ece",
@@ -13,7 +34,28 @@
             "published": "2026-10-23T03:27:56+05:30"
           },
           {
-            "title": "Trump says Musk has restored Ukraine's internet access",
+            "title": "US judge blocks federal operations seeking to identify non-citizen voters",
+            "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+            "published": "2026-10-22T21:52:52+00:00"
+          },
+          {
+            "title": "Michigan voters closely divided between Rogers and El-Sayed",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+            "published": "2026-10-22T21:51:50+00:00"
+          },
+          {
+            "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+            "link": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+            "published": "2026-10-22T21:51:41+00:00"
+          },
+          {
+            "title": "Trump says Musk has restored Ukraine's access after Starlink row",
             "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
@@ -27,17 +69,10 @@
             "published": "2026-10-23T02:57:41+05:30"
           },
           {
-            "title": "Colorado wildlife overpass linked to 91% drop in animal collisions: Report",
-            "link": "https://timesofindia.indiatimes.com/science/wildlife/colorado-built-a-wildlife-overpass-across-a-busy-highway-a-new-report-says-animal-vehicle-collisions-fell-by-91-as-elk-bears-and-frogs-began-using-the-crossing/articleshow/135093165.cms",
-            "source": "Times of India",
-            "summary": "A network of wildlife crossings in Colorado has reduced collisions along Interstate 25 by approximately 85 percent. This system includes fencing, underpasses, and an overpass which opened in December 2025. Recent studies show a significant decline in wildlife-related crashes since the introduction of these measures. Various species, including elk and pronghorn, have begun using these crossings effectively.",
-            "published": "2026-10-23T02:54:00+05:30"
-          },
-          {
             "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
             "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.",
+            "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
             "published": "2026-10-22T21:23:01+00:00"
           },
           {
@@ -67,44 +102,23 @@
             "source": "Al Jazeera",
             "summary": "Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.",
             "published": "2026-10-22T21:19:47+00:00"
-          },
-          {
-            "title": "16 killed, 32 injured in magnitude 7 earthquake in Tibet; rescue ops under way",
-            "link": "https://timesofindia.indiatimes.com/world/south-asia/16-killed-32-injured-in-magnitude-7-earthquake-in-tibet-region/articleshow/135127549.cms",
-            "source": "Times of India",
-            "summary": "Police and fire department personnel have been working to rescue people and provide temporary shelter to those who had lost their homes. Rescue teams were also putting up tents to accommodate residents displaced by the earthquake. According to the United States Geological Survey (USGS), the earthquake occurred at 10.33 pm local time.",
-            "published": "2026-10-23T02:45:33+05:30"
-          },
-          {
-            "title": "From Jan 1, WhatsApp, Telegram won’t work without SIM cards, govt issues guidelines",
-            "link": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms",
-            "source": "Times of India",
-            "summary": "The move is to curb cross-border cyber frauds, phishing, digital arrest scams using Indian mobile numbers and enhance telecom cyber security. Apple has updated iOS with a software patch to help detect when an iPhone is operating without a physical SIM card to abide with the rules. It is learnt Signal has not yet responded to govt notices.",
-            "published": "2026-10-23T02:36:01+05:30"
-          },
-          {
-            "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
-            "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.",
-            "published": "2026-10-22T21:03:48+00:00"
-          },
-          {
-            "title": "Govt plans colour-coded driving licence for Indians, foreigners",
-            "link": "https://timesofindia.indiatimes.com/india/govt-plans-colour-coded-driving-licence-for-indians-foreigners/articleshow/135127122.cms",
-            "source": "Times of India",
-            "summary": "Life insurance policies, too, would no longer be accepted as proof. Proposing sweeping changes to the driving licence (DL) regime under Motor Vehicles Rules, the road transport ministry Wednesday issued a draft notification to raise the pass mark for the online safe-driving tutorial assessment from the current 60% to 75%.",
-            "published": "2026-10-23T02:32:43+05:30"
-          },
-          {
-            "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
-            "link": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.",
-            "published": "2026-10-22T21:02:30+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Necklace almost priced at £15 for car boot sale later sold for £99,000",
+            "link": "https://timesofindia.indiatimes.com/world/uk/a-necklace-nearly-taken-to-a-car-boot-sale-with-a-15-price-tag-was-later-identified-as-a-rare-south-pacific-treasure-expected-to-fetch-just-60-to-100-it-sold-for-99000-at-auction/articleshow/135094253.cms",
+            "source": "Times of India",
+            "summary": "Imagine a dusty car boot sale where a unique necklace fashioned from human hair and whale bone was nearly sold for just £15. Fortunately, it caught the eye of an expert at Ewbank's auction house, revealing its immense worth, which fetched an incredible £99,000 at auction. This story underscores the vital role of appraisals in recognizing hidden treasures that often go unnoticed in clearance sales.",
+            "published": "2026-10-23T03:54:00+05:30"
+          },
+          {
+            "title": "PHP security flaws trigger global scramble; CERT-In flags vulnerabilities",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms",
+            "source": "Times of India",
+            "summary": "Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Google Cloud said its own infrastructure was not vulnerable, but warned that customers running PHP applications on the…",
+            "published": "2026-10-23T03:47:02+05:30"
+          },
           {
             "title": "Congress MLAs burn Punjab CM effigy over poor law-and-order following anti-drugs crusaders murder",
             "link": "https://www.thehindu.com/news/national/punjab/congress-mlas-burn-punjab-cm-effigy-over-poor-law-and-order-following-anti-drugs-crusaders-murder/article71612209.ece",
@@ -118,13 +132,6 @@
             "source": "Times of India",
             "summary": "PM Modi said he had received acall from Netanyahu during which the leaders reviewed the sustained momentum in bilateral ties and reaffirmed their commitment to further strengthening the partnership. Modi did not mention Netanyahu’s invitation in his post on the conversation. “We exchanged views on developments in West Asia and underscored the urgent need to restore peace and stability in the region,” Modi said on X.",
             "published": "2026-10-23T02:57:41+05:30"
-          },
-          {
-            "title": "Colorado wildlife overpass linked to 91% drop in animal collisions: Report",
-            "link": "https://timesofindia.indiatimes.com/science/wildlife/colorado-built-a-wildlife-overpass-across-a-busy-highway-a-new-report-says-animal-vehicle-collisions-fell-by-91-as-elk-bears-and-frogs-began-using-the-crossing/articleshow/135093165.cms",
-            "source": "Times of India",
-            "summary": "A network of wildlife crossings in Colorado has reduced collisions along Interstate 25 by approximately 85 percent. This system includes fencing, underpasses, and an overpass which opened in December 2025. Recent studies show a significant decline in wildlife-related crashes since the introduction of these measures. Various species, including elk and pronghorn, have begun using these crossings effectively.",
-            "published": "2026-10-23T02:54:00+05:30"
           },
           {
             "title": "Will back all meaningful efforts for Ukraine peace, PM Modi assures Poland's Tusk",
@@ -181,18 +188,39 @@
             "source": "Times of India",
             "summary": "A bench of Justices J B Pardiwala and K V Viswanathan said cases already dealt with by foreign courts were coming before it time and again and their adjudication was not easy as they involved deeply emotional and sensitive issues. It added that the welfare of the child “must be understood in the widest sense, not by money or physical comfort alone”.",
             "published": "2026-10-23T02:21:51+05:30"
-          },
-          {
-            "title": "Sonia Gandhi makes Instagram debut, shares first look of her upcoming book",
-            "link": "https://timesofindia.indiatimes.com/india/sonia-gandhi-makes-instagram-debut-shares-first-look-of-her-upcoming-book/articleshow/135127125.cms",
-            "source": "Times of India",
-            "summary": "In her first post on Instagram, Sonia shared a video of her welcoming the first copies of her autobiography “Belonging: A journey of love” which is set to be released on Nov 10. The video showed her holding up the book and then sharing sweets with daughter and MP Priyanka Gandhi Vadra. “It is a story of love, duty, loss and finding a place to belong. I look forward to sharing it with you,” Sonia wrote on the post.",
-            "published": "2026-10-23T02:20:10+05:30"
           }
         ],
         "World": [
           {
-            "title": "Trump says Musk has restored Ukraine's internet access",
+            "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+            "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+            "published": "2026-10-22T22:09:38+00:00"
+          },
+          {
+            "title": "US judge blocks federal operations seeking to identify non-citizen voters",
+            "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+            "published": "2026-10-22T21:52:52+00:00"
+          },
+          {
+            "title": "Michigan voters closely divided between Rogers and El-Sayed",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+            "published": "2026-10-22T21:51:50+00:00"
+          },
+          {
+            "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+            "link": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+            "published": "2026-10-22T21:51:41+00:00"
+          },
+          {
+            "title": "Trump says Musk has restored Ukraine's access after Starlink row",
             "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
@@ -202,7 +230,7 @@
             "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
             "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.",
+            "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
             "published": "2026-10-22T21:23:01+00:00"
           },
           {
@@ -246,34 +274,6 @@
             "source": "BBC World",
             "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
             "published": "2026-10-22T20:49:12+00:00"
-          },
-          {
-            "title": "Thousands gather at final student-led rally ahead of Serbia election",
-            "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
-            "published": "2026-10-22T20:21:12+00:00"
-          },
-          {
-            "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Some countries in the region say it infringes on their rights.",
-            "published": "2026-10-22T20:13:21+00:00"
-          },
-          {
-            "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-            "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.",
-            "published": "2026-10-22T20:05:22+00:00"
-          },
-          {
-            "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-10-22T19:35:18+00:00"
           }
         ],
         "Business": [
@@ -627,11 +627,53 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "मौत के बाद लिंडसे ग्राहम पर गंभीर आरोप: डॉक्यूमेंट्री में यौन संबंधों को लेकर दावे, पैसे देकर किया गंदा काम",
+            "link": "https://www.amarujala.com/world/late-south-carolina-senator-lindsey-graham-physical-relations-allegations-male-escorts-documentary-russian-oil-2026-10-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-23T12:48:49+05:30"
+          },
+          {
+            "title": "हैदराबाद: महिला से दुर्व्यवहार के आरोप पर बवाल, पड़ोसी के मुक्के से डीआरडीओ कर्मचारी की मौत; दो मामले दर्ज",
+            "link": "https://www.amarujala.com/india-news/drdo-employee-dies-after-neighbour-allegedly-punches-him-following-misbehaviour-allegation-2026-10-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-23T12:33:06+05:30"
+          },
+          {
             "title": "यूपी: विधान परिषद की 11 सीटों के लिए वोटिंग आज, 72 जिलों में 14.81 लाख मतदाता करेंगे अपने मताधिकार का प्रयोग",
             "link": "https://www.amarujala.com/lucknow/up-14-81-lakh-voters-will-cast-their-votes-for-11-legislative-council-seats-on-friday-voting-will-take-place-2026-10-22",
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-10-23T12:05:46+05:30"
+          },
+          {
+            "title": "न्यूक्लियर प्लांट में सॉफ्टवेयर हटाए, अब हैकिंग का डर नहीं:नई रूसी हार्डवेयर तकनीक, सिस्टम क्रैश से भी सुरक्षा; 10 साल मे 2 बड़े साइबर अटैक हुए",
+            "link": "https://www.bhaskar.com/national/news/russian-hardware-tech-tamil-nadu-nuclear-plant-cyber-security-139460192.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-22T22:22:06+00:00"
+          },
+          {
+            "title": "दिल्ली में प्रदूषण ने बढ़ाई चिंता: राजधानी के 42 में से 32 स्टेशनों पर एक्यूआई 200 के पार, जहांगीरपुरी में 306",
+            "link": "https://www.amarujala.com/delhi-ncr/pollution-raises-concerns-in-delhi-aqi-crosses-200-at-32-out-of-42-stations-in-the-capital-2026-10-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-23T03:39:30+05:30"
+          },
+          {
+            "title": "एससी-एसटी एक्ट के दुरुपयोग पर शीर्ष अदालत सख्त: कहा- कर्ज वसूली के विवाद को जातिगत भेदभाव का रंग न दें",
+            "link": "https://www.amarujala.com/india-news/supreme-court-quashes-fir-against-sbi-officials-over-loan-dispute-in-sc-st-act-case-2026-10-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-23T03:35:07+05:30"
+          },
+          {
+            "title": "दिल्ली: आज देशभर के 31 जल संरक्षकों को दिया जाएगा जल प्रहरी सम्मान-2026, मिलेगा प्रोत्साहन; बढ़ेगी जागरूकता",
+            "link": "https://www.amarujala.com/delhi-ncr/today-31-water-conservationists-from-across-the-country-will-be-presented-with-the-jal-prahari-samman-2026-2026-10-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-23T03:31:35+05:30"
           },
           {
             "title": "भास्कर अपडेट्स:सिम बाइंडिंग नियम से जुड़ेंगे वॉट्सएप और टेलीग्राम एप, ऑनलाइन धोखाधड़ी रोकने नया नियम",
@@ -667,48 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-23T00:31:20+05:30"
-          },
-          {
-            "title": "मान बोले- युवा बड़े सपने देखें, उन्हें पूरा करने के लिए हरसंभव मदद करेगी सरकार",
-            "link": "https://hindi.oneindia.com/news/india/punjab-youth-empowerment-tips-for-career-and-health-insurance-012-1672301.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-23T00:01:14+05:30"
-          },
-          {
-            "title": "बिरला बोले-CEC पर नया महाभियोग नोटिस आया तो जांच होगी:नियमों के तहत होगी कार्रवाई; विपक्ष के पहले 2 नोटिस संसद से खारिज हुए थे",
-            "link": "https://www.bhaskar.com/national/news/lok-sabha-speaker-om-birla-cec-impeachment-notice-updates-139458070.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-22T18:21:29+00:00"
-          },
-          {
-            "title": "ऑनलाइन मंगाया गया सामान एक्सपायर्ड निकले तो आपके क्या अधिकार हैं?",
-            "link": "https://www.bbc.com/hindi/articles/ck20w5yy76e2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-22T16:03:13+00:00"
-          },
-          {
-            "title": "मध्यप्रदेश सेमीकंडक्टर समिट-2026: इंदौर में आज से जुटेंगे देश-विदेश के निवेशक, CM मोहन यादव करेंगे शुभारंभ",
-            "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-semiconductor-summit-2026-investment-opportunities-012-1672299.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-22T21:32:04+05:30"
-          },
-          {
-            "title": "Tibet Earthquake: तिब्बत में 7 तीव्रता का भूकंप, 10 KM गहराई पर था केंद्र, नेपाल में फिर बढ़ने वाला खतरा?",
-            "link": "https://hindi.oneindia.com/news/international/tibet-earthquake-7-0-magnitude-quake-at-10-km-depth-after-nepal-floods-is-more-danger-ahead-1672297.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-22T21:27:05+05:30"
-          },
-          {
-            "title": "इंडिया केम-2026: मध्यप्रदेश में पेट्रोकेमिकल, उर्वरक और दवा उद्योगों में निवेश के बड़े अवसर, CM मोहन यादव ने दिया ग्लोबल इन्वेस्टर्स समिट-2027 का न्योता",
-            "link": "https://hindi.oneindia.com/news/india/madhya-pradesh-chemical-petrochemical-investment-hub-012-1672295.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-22T21:01:16+05:30"
           }
         ],
         "Entertainment": [
@@ -1079,6 +1079,13 @@
             "published": "2026-10-22T20:55:11+00:00"
           },
           {
+            "title": "సెల్‌ఫోన్‌లో ఆ మాటలేంటి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yeUk3REozWGRDWHBxOEZBZ1d6Z2I1RFBBNDloamNZejVaRDFxa09WU3ljbWJXcEo1Y01vTFRadGpGOHJDZ3FPbHItWk9hRmRTSnVDYnU1ZktQa041OXJ0WDhRZXFjUm52Mkh6UkNpVFczYy1yNG1GazgtYnQwQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-22T20:47:38+00:00"
+          },
+          {
             "title": "వైకాపా జడ్పీటీసీ అభ్యర్థిగా బీదా రమేష్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PckdzWWVDNV9oN3dVMW84Rk42RllKanlrT3JvTkdqUkxUdXBjTmpXR0owazctalBlZjJ3Z3dzSEpJdTJkTUViRlNhY3U5T3h2NVZza0xwWUF5WmlPRklKRjNINl9iTlhTOXNCUUFaanE3SF9PWkNKQQ?oc=5",
             "source": "Eenadu",
@@ -1098,13 +1105,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-10-22T19:40:00+00:00"
-          },
-          {
-            "title": "గృహరుణం ఇప్పుడేం చేయాలి? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUcEVOUjJXXzFkLWlTbVpQZ28weFRIVFVHd3dVRC1MVVA1NTNjOUFYa0F4X2hxUlVndjd4VlFXdmlfOHg5OHNXRjQzOUg2aFBnTnRRTU9UNHpibUtQejljdlg2ZC01WXd0bzhmNzJFd1hWdnQw0gF0QVVfeXFMUFRwRU5SMldfMWQtaVNtWlBnbzB4VEhUVUd3d1VELUxVUDU1M2M5QVhrQXhfaHFSVWd2N3hWUVd2aV84eDk4c1dGNDM5SDZoUGdOdFFNT1Q0emJtS1B6OWN2WDZkLTVZd3RvOGY3MkV3WFZ2dDA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-22T19:38:06+00:00"
           },
           {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (23/10/2026) - Eenadu",
@@ -1128,6 +1128,13 @@
             "published": "2026-10-22T23:11:17+05:30"
           },
           {
+            "title": "Artificial Intelligence: విద్యార్థుల ఆలోచనశక్తిని తగ్గిస్తోన్న ఏఐ..? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbERwbl9FOWprckMxYnczeV9jbzNrOEJPMmxsRjZWb0tNejd4VlVHMWpOaDdyLWVJTXpoc21walJIZzRfQlBCeGM5ZTlzUHFrV2VIWmJ1cE5hR2Y5Z0FISEhqQ09DNTEzaFFnYkMzaVBoM2RwWDR1SU8tdENYQUhCRnZPY2ZfYkpYb2FRYkRsOUtRdEdwS3g5M3I0QmdxNHRsUmM2MnhjZjdIRHpD0gGsAUFVX3lxTE9sRHBuX0U5amtyQzFidzN5X2NvM2s4Qk8ybGxGNlZvS016N3hWVUcxak5oN3ItZUlNemhzbXBqUkhnNF9CUEJ4YzllOXNQcWtXZUhaYnVwTmFHZjlnQUhISGpDT0M1MTNoUWdiQzNpUGgzZHBYNHVJTy10Q1hBSEJGdk9jZl9iSlhvYVFiRGw5S1F0R3BLeDkzcjRCZ3E0dGxSYzYyeGNmN0hEekM?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-22T17:20:07+00:00"
+          },
+          {
             "title": "హైదరాబాద్ లో బీభత్సం సృష్టించిన ఫార్చ్యూనర్‌ కారు.. పల్టీకొట్టిన ఐ10.. ఆ తర్వాత ఏం జరిగిందంటే..?",
             "link": "https://telugu.oneindia.com/news/telangana/fortuner-car-wreaks-havoc-in-hyderabad-city-today-causing-an-i-10-to-overturn-what-happened-next-511867.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-22T21:51:41+05:30"
-          },
-          {
-            "title": "మీర్జాపూర్‌లో బిహార్ కూలీ మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vUi1yZGdUMjVVOFdzcmNMcS02VG1GRUhHS012N2lhTW9pZm9OSXhvczZiWWJodjYyMXNGSThzamt1cUFPTmVqTXdFNVZhLUJHdnI5QUFMd0oyV0lpaUEwZUtGYzFEZldwY1l5cXlsTUJ4dkR2cWRHUy03b21zZw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-22T16:06:07+00:00"
           }
         ],
         "Entertainment": [
@@ -1430,7 +1430,14 @@
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHdYZzBJcjFVcGRjOFJYVzk2M3R3N294VGF0Q0pqRTc2RXZxTndPT19QYjFkUmF3TkxtZkJYM280REN6VGNsOUpIOEpOSXBuSUxldTQ5T1hZZC1lX3hTcnFmU1hKbE5JaHdVRlVfcElKUDZobVlHUnpvWFVRZHFTUUZ1NktpVjV0aGxtcFFfWjcwaTltS0VpUk02S09sb3VqaFdVN1M1Vi14MjBud3NFbjlCbTLSAboBQVVfeXFMTlhXZ25zUlBkOWNJNVFKejZCVVdBcGMxRmtHTXdrMTY5TGIxdks4Tm90NmZFdDh5SGJueDl1UzdlNDhxcTU4YkxWcHFnbW9jMjcxM0xCUEduM2p1QS1tWFVkY3QxbDJXRXFHYjdCZzdLS2N4MlB6elJPaXNuS1lSTjVPVTJtRklfdUcxRzYzbk9XOXpWRWtDR2dxNklBcXBSbFlTSUlnM0ZwNDZjVUNXb2xUNFNXMzhuYXZR?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-10-22T19:26:39+00:00"
+            "published": "2026-10-22T22:29:40+00:00"
+          },
+          {
+            "title": "মা চলে গিয়েছেন, তবু শূন্য মণ্ডপে জ্বলে প্রদীপ! বিসর্জনের পরে আলো জ্বালিয়ে রাখার কারণ জানেন? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXZPWDZwVm83MEs1dGV0YS1mRy1EWENXNVdqQ0Ric28xd0psSmFtalEySkJaakJDMnJjV2pWMktTUE5TWHBTLV95QzMzNVg3ZzZjYUJINVR2d3Q1STktNUFjZ243SFR2N01KX0FoaFp1aGxWTTQtdEZRdkhDVk9zS21ZWVFHSlJiUnFnM3drcXFFTmZDb0lvQ0ZnSmZabFBYX1BKUDQwVmV4T1FyelJ0ZWNsbTRCQU1iLWlPaTlNN0NXRTc2eFHSAcsBQVVfeXFMT0xvZ2dYd2dBTC1pUTZwaUd5MFphTjNFaXBTZHA1TVh5Ym1CUnBKZFZ3SEwtSWRpRHo0dlhXQUNUQ1hfZEhZakZDZUJ4UG5CS29tVXNhWXhPMEdsSFJkQm5zbFJkeEpGOEhrdjZnRHI3U2F4OERKSThmLW9oQk53ckRVRVczOU9xMTBkelBnR2RraVF5eUxWRWNHUW84YnZ1cmxLbzNKdFJsMFFmOFZCc1Q2c3NOaWd0QXJheVZEeGNBWDVpTWVnQnJQTHc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-22T16:10:26+00:00"
           },
           {
             "title": "সৌদি আরবে মৃত্যুদণ্ড হওয়া দুই বাংলাদেশির 'অপরাধের' কথা আগে জানলেও কেন পদক্ষেপ নেয়নি ঢাকা?",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-22T10:57:37+00:00"
-          },
-          {
-            "title": "আজকের দিন মীন রাশি- ২৩ অক্টোবর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXVoN1JEdmFfWERPMVN3NHRwQUZWV0YybmpZSnE1WnFQVTdxZXYwcWxLQnBlNDdoOUdSLWJuSEVlYlZsSWRiOVFLM3JTYUFNem1QMDN1Q3JUN294RURPLW5hVnRJRmFkQWxrQmowTlU4ZDAwNUc0QUR5eHpoNklCYTdnQXZCWUZEZTltemQ4dGU2dFQzSl81WVo1SmNBZnJYeUVKOWx5a19KclU20gGyAUFVX3lxTE1BVXJjSzhibjFjMkZ1b0k1YUNKX0paZUZUXzBBSlkzRUcwZ24wOHZGZzF6ZHg0VjltdlZUZ0xBaHEzYS1jcEsxemVnR29BMzByOTNFaDFtU04yeElJVmZyOEVzQ241NHU2NG5xYjZRYjkzUHp2OFNPM1JZNjVNRi1Ba012ZlFvS3FxWnYyUnJYeFpWLVVwUFBsWVo4RDZmR0xqQ01pU0pWT05JWWFjenJmVnc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-22T10:54:49+00:00"
           }
         ]
       }
