@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:26:48.706525+00:00",
+  "updated_at": "2026-10-24T19:31:12.430403+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -55,13 +55,6 @@
             "published": "2026-10-25T00:38:26+05:30"
           },
           {
-            "title": "Thousands join Paris protests as authorities clamp down on disorder",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Thousands of protesters are on the streets of Paris for a second weekend.",
-            "published": "2026-10-24T19:01:52+00:00"
-          },
-          {
             "title": "Eight KLE tech varsity researchers feature in global top 2% list of scientists",
             "link": "https://www.thehindu.com/news/national/karnataka/eight-kle-tech-varsity-researchers-feature-in-global-top-2-list-of-scientists/article71619939.ece",
             "source": "The Hindu",
@@ -102,6 +95,13 @@
             "source": "Al Jazeera",
             "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
             "published": "2026-10-24T18:30:56+00:00"
+          },
+          {
+            "title": "UAE's Ras Al Khaimah Shuts All Beaches After Oil Spill In Neighbouring Cities",
+            "link": "https://www.ndtv.com/world-news/uaes-ras-al-khaimah-shuts-all-beaches-after-oil-spill-in-neighbouring-cities-12231310#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Since the start of the US-Israeli war with Iran, attacks on commercial vessels in Gulf shipping lanes have heightened concerns about maritime security.",
+            "published": "2026-10-24T23:59:51+05:30"
           }
         ],
         "India": [
@@ -199,13 +199,6 @@
             "published": "2026-10-24T19:12:51+00:00"
           },
           {
-            "title": "Thousands join Paris protests as authorities clamp down on disorder",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Thousands of protesters are on the streets of Paris for a second weekend.",
-            "published": "2026-10-24T19:01:52+00:00"
-          },
-          {
             "title": "Thousands gather at new Albanian antigovernment rally",
             "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
             "source": "Al Jazeera",
@@ -274,6 +267,13 @@
             "source": "BBC World",
             "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
             "published": "2026-10-24T15:56:48+00:00"
+          },
+          {
+            "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+            "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across the West Bank.",
+            "published": "2026-10-24T15:50:49+00:00"
           }
         ],
         "Business": [
@@ -627,6 +627,48 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित",
+            "link": "https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:52:26+05:30"
+          },
+          {
+            "title": "यूपी पेट परीक्षा आज: परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब... कहां से",
+            "link": "https://www.amarujala.com/lucknow/up-pet-exam-on-sunday-additional-buses-and-trains-will-run-to-provide-relief-to-candidates-know-the-details-2026-10-24",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:46:37+05:30"
+          },
+          {
+            "title": "आज काशी में पीएम मोदी: 9 किमी में 13 जगहों पर होगा स्वागत, 1000 महिलाओं को रोजगार देने की योजना; बजेंगे ढोल",
+            "link": "https://www.amarujala.com/uttar-pradesh/chandauli/pm-modi-kashi-welcomed-13-locations-plan-to-provide-employment-1000-women-drums-played-bjp-politics-air-show-2026-10-24",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:39:01+05:30"
+          },
+          {
+            "title": "दिल्ली में खून: डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-young-man-stabbed-to-death-near-jhanda-chowk-in-dabri-2026-10-25",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:31:58+05:30"
+          },
+          {
+            "title": "जामिया में हंगामा: गेट बंद करने के आदेश पर छात्रों का फूटा गुस्सा, बोले- हिंसक तरीके से दबाया जा रहा आंदोलन",
+            "link": "https://www.amarujala.com/delhi-ncr/uproar-at-jamia-students-express-outrage-over-order-to-close-gates-2026-10-25",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:27:31+05:30"
+          },
+          {
+            "title": "IPL: धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले माही?",
+            "link": "https://www.amarujala.com/cricket/cricket-news/ms-dhoni-ipl-future-csk-legend-to-decide-on-playing-another-season-before-december-2026-10-25",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-25T12:08:18+05:30"
+          },
+          {
             "title": "सऊदी अरब की उड़ानें 7 नवंबर तक रद्द:एयर इंडिया और एयर इंडिया एक्सप्रेस ने फ्लाइट्स कैंसिल कीं, फ्री रीबुकिंग करा सकेंगे पैसेंजर्स",
             "link": "https://www.bhaskar.com/national/news/air-india-express-cancel-flights-saudi-arabia-riyadh-dammam-139479145.html",
             "source": "Dainik Bhaskar",
@@ -667,48 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-24T20:19:34+05:30"
-          },
-          {
-            "title": "रक्षा सचिव राजेश सिंह का कार्यकाल एक साल बढ़ा:अब 2027 में रिटायरमेंट, मोदी सरकार में सबसे लंबे कार्यकाल वाले दूसरे डिफेंस सेक्रेटरी होंगे",
-            "link": "https://www.bhaskar.com/national/news/rajesh-kumar-singh-defence-secretary-tenure-extended-modi-govt-139477589.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-10-24T14:44:25+00:00"
-          },
-          {
-            "title": "ट्रंप ने दी फिर हमले की चेतावनी तो ईरान ने बताया कैसे देगा जवाब",
-            "link": "https://www.bbc.com/hindi/articles/cqn73k4567rvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-24T14:43:56+00:00"
-          },
-          {
-            "title": "घर पर ये आसान फ़िटनेस टेस्ट करके लगा सकते हैं जान को ख़तरे का अंदाज़ा",
-            "link": "https://www.bbc.com/hindi/articles/c689z8g895q7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-24T14:35:55+00:00"
-          },
-          {
-            "title": "बिहार : मोकामा के विधायक अनंत सिंह को जेडी (यू) ने पार्टी से निकाला, क्या है पूरा मामला",
-            "link": "https://www.bbc.com/hindi/articles/c8r4ydy1yvp0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-24T13:43:20+00:00"
-          },
-          {
-            "title": "MLC चुनाव में बगावत पड़ी भारी! मोकामा विधायक अनंत सिंह पत्नी सहित JDU से निष्कासित",
-            "link": "https://hindi.oneindia.com/news/bihar/jdu-expels-mokama-mla-anant-singh-wife-neelam-devi-for-six-years-1672969.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-24T19:12:18+05:30"
-          },
-          {
-            "title": "अर्शदीप सिंह ने तोड़ दिया भुवनेश्वर कुमार का बड़ा रिकॉर्ड, बन गए भारत के लिए ऐसा करने वाले पहले खिलाड़ी",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/arshdeep-singh-breaks-bhuvneshwar-kumars-indian-record-with-38-t20i-wickets-in-2026-1672945.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-24T19:05:11+05:30"
           }
         ],
         "Entertainment": [
