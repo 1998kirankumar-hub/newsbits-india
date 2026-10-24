@@ -1,10 +1,17 @@
 {
-  "updated_at": "2026-10-24T09:01:20.114487+00:00",
+  "updated_at": "2026-10-24T09:04:47.106172+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+            "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+            "published": "2026-10-24T09:03:15+00:00"
+          },
           {
             "title": "IAS officer Sajjan Singh Yadav to be new J&K chief secretary",
             "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ias-officer-sajjan-singh-yadav-to-be-new-jk-chief-secretary/article71619495.ece",
@@ -48,6 +55,13 @@
             "published": "2026-10-24T14:14:07+05:30"
           },
           {
+            "title": "Burnt body of Class 12 student found behind guard room at Delhi school",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/mystery-surrounds-death-of-class-12-student-found-burnt-behind-delhi-school-guard-room/articleshow/135166056.cms",
+            "source": "Times of India",
+            "summary": "An 18-year-old girl was discovered burnt behind the guard room of a school in Krishna Nagar. Police received a call regarding the fire incident and promptly arrived at the scene. They conducted preliminary proceedings and collected materials from the spot, including the victim's school bag. A crime team thoroughly inspected the location to gather evidence for the ongoing investigation.",
+            "published": "2026-10-24T14:13:35+05:30"
+          },
+          {
             "title": "Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live",
             "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
             "source": "The Hindu",
@@ -88,20 +102,6 @@
             "source": "The Hindu",
             "summary": "Elections to five Teachers’ and Graduates’ Constituencies in the Maharashtra Legislative Council were held on October 23",
             "published": "2026-10-24T13:57:50+05:30"
-          },
-          {
-            "title": "Delhi court remands content creator Amir Shokeen in five-day police custody in racial abuse case",
-            "link": "https://www.thehindu.com/news/national/delhi-court-remands-content-creator-amir-shokeen-in-five-day-police-custody-in-racial-abuse-case/article71619384.ece",
-            "source": "The Hindu",
-            "summary": "Police told the court that Shokeen needs to be taken to Ahmedabad for identification and arrest of other persons allegedly involved in the incident",
-            "published": "2026-10-24T13:56:30+05:30"
-          },
-          {
-            "title": "Arunachal Pradesh: Dam protesters burn NHPC office, vandalise MLAs' houses in Pasighat",
-            "link": "https://www.hindustantimes.com/india-news/arunachal-pradesh-dam-protesters-burn-nhpc-office-vandalise-mlas-houses-in-pasighat-101792829395475.html",
-            "source": "Hindustan Times",
-            "summary": "The Pasighat office of NHPC, several government offices, one police station and seven to eight police vehicles were allegedly set on fire.",
-            "published": "2026-10-24T13:55:56+05:30"
           }
         ],
         "India": [
@@ -148,6 +148,13 @@
             "published": "2026-10-24T14:14:07+05:30"
           },
           {
+            "title": "Burnt body of Class 12 student found behind guard room at Delhi school",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/mystery-surrounds-death-of-class-12-student-found-burnt-behind-delhi-school-guard-room/articleshow/135166056.cms",
+            "source": "Times of India",
+            "summary": "An 18-year-old girl was discovered burnt behind the guard room of a school in Krishna Nagar. Police received a call regarding the fire incident and promptly arrived at the scene. They conducted preliminary proceedings and collected materials from the spot, including the victim's school bag. A crime team thoroughly inspected the location to gather evidence for the ongoing investigation.",
+            "published": "2026-10-24T14:13:35+05:30"
+          },
+          {
             "title": "Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live",
             "link": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
             "source": "The Hindu",
@@ -181,16 +188,16 @@
             "source": "The Hindu",
             "summary": "Police told the court that Shokeen needs to be taken to Ahmedabad for identification and arrest of other persons allegedly involved in the incident",
             "published": "2026-10-24T13:56:30+05:30"
-          },
-          {
-            "title": "Arunachal Pradesh: Dam protesters burn NHPC office, vandalise MLAs' houses in Pasighat",
-            "link": "https://www.hindustantimes.com/india-news/arunachal-pradesh-dam-protesters-burn-nhpc-office-vandalise-mlas-houses-in-pasighat-101792829395475.html",
-            "source": "Hindustan Times",
-            "summary": "The Pasighat office of NHPC, several government offices, one police station and seven to eight police vehicles were allegedly set on fire.",
-            "published": "2026-10-24T13:55:56+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+            "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+            "published": "2026-10-24T09:03:15+00:00"
+          },
           {
             "title": "The Muslims finding belonging in southern Spain",
             "link": "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
             "published": "2026-10-24T06:52:41+00:00"
-          },
-          {
-            "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
-            "link": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ex-Barcelona forward to make November return, having last played for Brazilian club Fluminense in 2015.",
-            "published": "2026-10-24T06:51:26+00:00"
           }
         ],
         "Business": [
@@ -627,7 +627,7 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "दिल्ली के स्कूल में 12वीं की छात्रा का शव मिला:गार्ड रूम के पीछे जली हालत में शव बरामद; आत्महत्या की आशंका, मौके से बैग मिला",
+            "title": "दिल्ली के स्कूल में 12वीं की छात्रा का शव मिला:गार्ड रूम के पीछे जली हालत में मिली, पास से बैग भी बरामद; आत्महत्या की आशंका",
             "link": "https://www.bhaskar.com/national/news/delhi-krishna-nagar-school-student-death-suicide-case-police-probe-139474138.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "நடுவானில் பயங்கரமாக மோதிய 2 விமானங்கள்.. விமானத்தில் பயணித்த 4 பைலட்டுகளும் பலி",
+            "link": "https://tamil.oneindia.com/news/international/4-pilots-killed-in-mid-air-collision-of-philippines-military-planes-840359.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-10-24T14:32:21+05:30"
+          },
+          {
             "title": "பரிதாப நிலையில் பாகிஸ்தான்.. கேஸ் சிலிண்டர் விலை ரூ.10,000 ஆக உயர்வு! மக்கள் கடும் பாதிப்பு!",
             "link": "https://tamil.oneindia.com/news/international/lpg-cylinder-prices-in-pakistan-reach-rs-10-000-as-iran-border-trade-remains-shut-840347.html",
             "source": "Oneindia Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "தமிழகத்தில் வடகிழக்குப் பருவமழை தீவிரம் அடைந்துள்ள நிலையில், மாநிலத்தின் பல்வேறு பகுதிகளிலும் தொடர் மழை பெய்து வருகிறது. இதன் காரணமாக, இன்று 26 மாவட்டங்களில் கனமழை பெய்ய வாய்ப்புள்ளதாக வானிலை ஆய்வு மையம் எச்சரிக்கை விடுத்துள்ளது. மேகக் கூட்டங்கள் திரண்டுள்ளதால் பல இடங்களில் பலத்த காற்றும் இடியும் மின்னலுடனும் கூடிய மழை பெய்யக்கூடும் என்று எதிர்பார்க்கப்படுகிறது. மக்களின் பாதுகாப்பைக் கருத்தில் கொண்டு, கனமழை பெய்யும் மாவட்டங்களில் உள்ள பள்ளிகளுக்கு அந்தந்த மாவட்ட ஆட்சியர்கள் விடுமுறை அறிவித்துள்ளனர். மாணவர்கள் மற்றும் ஆசிரியர்களின் பாதுகாப்பை உறுதி செய்யும் நோக்கில் இந்த முன்னெச்சரிக்கை நடவடிக்கை எடுக்கப்பட்டுள்ளது. சாலைகளில் தண்ணீர் தேங்கும் அபாயம் இருப்பதால், பொதுமக்கள் அத்தியாவசியத் தேவைகளுக்குத் தவிர மற்ற நேரங்களில் வீட்டை விட்டு வெளியேற வேண்டாம் என்று அறிவுறுத்தப்பட்டுள்ளனர். தாழ்வான பகுதிகளில் வசிக்கும் மக்கள் பாதுகாப்பான இடங்களுக்குச் செல்லுமாறு அரசு அறிவுறுத்தியுள்ளது. பேரிடர் மீட்புக் குழுவினரும் தயார் நிலையில் வைக்கப்பட்டுள்ளனர். அரசு வழங்கும் வானிலை முன்னெச்சரிக்கை செய்திகளைப் பொதுமக்கள் கவனத்துடன் பின்தொடருமாறு கேட்டுக்கொள்ளப்படுகிறார்கள். பருவமழையின் தாக்கத்தால் நீர்நிலைகள் நிரம்பி வருகின்றன, இது விவசாயத்திற்குப் பயனுள்ளதாக இருந்தாலும், மக்களின் அன்றாட இயல்பு வாழ்க்கையில் சில பாதிப்புகளை ஏற்படுத்தியுள்ளது.",
             "published": "2026-10-24T01:40:27+00:00"
-          },
-          {
-            "title": "அமெரிக்காவில் கிரீன் கார்டு பெற இந்தியர்களுக்கு புதிய சிக்கல்: ஹெச்-1பி விசா, பெர்ம் கட்டுப்பாடுகளின் தாக்கம்",
-            "link": "https://www.bbc.com/tamil/articles/cr93zwk5xv9wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "அமெரிக்காவில் பணிபுரியும் இந்திய ஐடி ஊழியர்களுக்கு தற்போது பெரும் சவாலாக கிரீன் கார்டு பெறுவதில் சிக்கல் எழுந்துள்ளது. மைக்ரோசாப்ட், டிசிஎஸ் உள்ளிட்ட முன்னணி தொழில்நுட்ப நிறுவனங்களுக்கு அமெரிக்க அரசு விதித்துள்ள 'பெர்ம்' (PERM) கட்டுப்பாடுகள் இதற்கு முக்கிய காரணமாக மாறியுள்ளன. இந்த கட்டுப்பாடுகள் காரணமாக, ஏற்கனவே கிரீன் கார்டுக்காக நீண்ட காலமாக வரிசையில் காத்திருக்கும் இந்தியர்களின் கனவு மேலும் தள்ளிப்போகும் அபாயம் ஏற்பட்டுள்ளது. ஹெச்-1பி (H-1B) விசாவில் பணியாற்றுபவர்கள் தங்களின் பணித்திறனை நிரூபித்து, நிரந்தர குடியுரிமை பெற விரும்பும்போது இத்தகைய சட்டத் தடைகள் பெரும் தடையாக உருவெடுத்துள்ளன. சர்வதேச அளவில் தொழில்நுட்பத் துறையில் சிறந்து விளங்கும் இந்தியர்கள், இத்தகைய விசா நடைமுறைகளால் வேலையில் தொடர்ச்சியற்ற தன்மையை உணர்கின்றனர். குறிப்பாக, நிறுவனங்களின் தரப்பில் ஏற்படும் ஆவணச் சிக்கல்கள் அல்லது அரசின் கடுமையான விதிமுறைகள் ஊழியர்களின் குடும்ப வாழ்க்கையையும், எதிர்காலத் திட்டங்களையும் கடுமையாகப் பாதிக்கின்றன. அமெரிக்க நிறுவனங்கள் தங்களுக்குத் தேவையான திறமையான பணியாளர்களைத் தக்கவைத்துக் கொள்ள முனையும் நிலையில், இந்த விசா கெடுபிடிகள் அந்த நிறுவனங்களுக்கும் ஒரு நெருக்கடியை உருவாக்கியுள்ளன. இந்தியர்கள் மத்தியில் இந்தச் சூழல் மிகுந்த கவலையை ஏற்படுத்தியுள்ளதுடன், அமெரிக்காவின் குடியேற்றக் கொள்கைகளில் மாற்றங்களைக் கொண்டு வர வேண்டும் என்ற குரல்களும் வலுத்து வருகின்றன.",
-            "published": "2026-10-24T01:30:03+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ক্যান্সার, অকাল মেনোপজ ও কয়েক দশকের লড়াই: যেভাবে হিমায়িত ডিম্বাশয় টিস্যু থেকে জন্ম নিল এক সুস্থ শিশু",
+            "link": "https://www.bbc.com/bengali/articles/cqp8g6rkpy3xo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-10-24T09:00:26+00:00"
+          },
+          {
             "title": "আজকের দিন বৃষ রাশি- ২৪ অক্টোবর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGhfSUFYMUdUVWI3OTBjbkVhdTR3dndkQ0pLYmQ2MGJHelMtWk12Zzl2SzdQZ01UUlB1T0JKbnR0U1dGUFIyOGlubzBDWWlqNVpDdnF6OVlZRE1xbWNQdTQtdjRaSW91NUx4QUdTdG8yWVBSME16MDlOWFREQVM5dWxtUW9JemszeXg4WUhEblVWM1k4MTRiY2IzeF83VFJPNDI2a2pTdjkwLXpoT2tWMjRNMNIBuAFBVV95cUxPMDhLYnZ5Zm9hemJGc1lndm0zbXB1QkFwdFp3blpLMndHX3BqVV9Yc3hkT09HeFJvTWRMUjRFQVh2ZHZxcXR5TGFMQWRTVTZUYm9qeGFNQ3pRZ0F2ckx3Y0hpb2Vwd2JITjNlcUxGMDVxVFdQQWtma1ZUUTRJQkljZUJ5QXhZYkdlbTFScTlab3AzeEdNTnJHdzA2RGxFZlZGR1loVjlUUVF3MUxJMFhrQjA1eU82Wmdn?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "জনসংযোগ বা ব্যাপক প্রচারের পরেও পরিস্থিতির কোনো পরিবর্তন হয়নি—এমনই এক হতাশাজনক চিত্র ফুটে উঠেছে সাম্প্রতিক ঘটনায়। লোকজনকে সচেতন করতে এবং প্রচারের মাধ্যমে যে ইতিবাচক পরিবর্তনের স্বপ্ন দেখানো হয়েছিল, তা আদতে কোনো কাজে আসেনি। প্রবাদ রয়েছে 'ওঠ ছুঁড়ি তোর বিয়ে', যার অর্থ হলো কাজ শুরু করার তাগিদ থাকলেও বাস্তবে তার কোনো প্রতিফলন নেই। এখানেও ঠিক তাই ঘটেছে; প্রশাসন বা সংশ্লিষ্ট পক্ষ প্রচারের জাঁকজমক করলেও মাঠপর্যায়ে কোনো পরিবর্তন লক্ষ করা যাচ্ছে না। সাধারণ মানুষ এখনো সেই পুরনো সমস্যা বা অব্যবস্থার মধ্যেই দিন কাটাচ্ছেন, যা প্রচারের উদ্দেশ্যকেই ব্যর্থ করে দিচ্ছে। প্রচার মানেই যে সমস্যার সমাধান নয়, এই ঘটনাটি তার একটি জ্বলন্ত উদাহরণ। শুধু প্রচারের ওপর নির্ভর না করে সমস্যাটির মূলে গিয়ে সমাধানের চেষ্টা করলে হয়তো আজকের এই পরিস্থিতির উদ্ভব হতো না। সচেতনতামূলক প্রচারের পর যে সুফল পাওয়ার কথা ছিল, তা না মেলায় সাধারণ মানুষের মধ্যে বিরূপ প্রতিক্রিয়া সৃষ্টি হয়েছে। প্রচার এবং বাস্তবের মধ্যে এই বিপুল ফারাক দূর করাই এখন বড় চ্যালেঞ্জ।",
             "published": "2026-10-24T02:06:10+00:00"
-          },
-          {
-            "title": "'গুপ্ত-সুপ্ত' বাংলাদেশের রাজনীতিতে কী প্রভাব ফেলছে?",
-            "link": "https://www.bbc.com/bengali/articles/cmx2wnd0e55zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-10-24T01:51:42+00:00"
           }
         ]
       }
