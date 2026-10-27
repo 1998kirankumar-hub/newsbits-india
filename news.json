@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-10-27T07:05:33.031631+00:00",
+  "updated_at": "2026-10-27T07:31:10.363973+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "\"Hire the Robot, Fire the Human\": Gates' Warning, Then Microsoft Buyouts",
-            "link": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Microsoft co-founder Bill Gates says companies are being pushed to replace workers with AI. A day after his statement Microsoft offers buyout to 60,000 employees",
-            "published": "2026-10-27T12:26:12+05:30"
-          },
-          {
-            "title": "Tribal, Dalit advocacy groups in Keralam allege policy discrimination against SC, ST students in nursing admissions",
-            "link": "https://www.thehindu.com/news/national/kerala/tribal-dalit-advocacy-groups-in-keralam-allege-policy-discrimination-against-sc-st-students-in-nursing-admissions/article71630045.ece",
+            "title": "New privacy law will shut down newsrooms, change the concept of news: Digital News Publishers Association",
+            "link": "https://www.thehindu.com/news/national/new-privacy-law-will-shut-down-news-rooms-change-the-concept-of-news-digital-news-publishers-association/article71630056.ece",
             "source": "The Hindu",
-            "summary": "Controversy centres on sequencing of seat allotments undertaken by LBS Centre for Science and Technology. Advocacy groups approach State govt alleging that lapses have disenfranchised marginalised aspirants from higher-tier seat upgrades",
-            "published": "2026-10-27T12:25:30+05:30"
-          },
-          {
-            "title": "Cyclone ‘Arnab’ LIVE updates | Landfall expected on Andhra coast near Yanam; Odisha, Bengal, Jharkhand brace for rain",
-            "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-            "source": "The Hindu",
-            "summary": "Several southern Odisha districts started receiving rain as ‘Arnab’ hurtled towards the Andhra Pradesh coast on October 27 2026",
-            "published": "2026-10-27T12:24:26+05:30"
-          },
-          {
-            "title": "SC collegium recommends four judges for appointment as High Court chief justices",
-            "link": "https://www.thehindu.com/news/national/sc-collegium-recommends-four-judges-for-appointment-as-high-court-chief-justices/article71630086.ece",
-            "source": "The Hindu",
-            "summary": "The Collegium has recommended Justice P. Sam Koshy as Chief Justice of the Delhi High Court, among four appointments across the Gujarat, Telangana and Uttarakhand High Courts",
-            "published": "2026-10-27T12:24:25+05:30"
-          },
-          {
-            "title": "‘Desist from targeting Hindu festivals, economy’: VHP to Opposition over November 1 rally",
-            "link": "https://www.thehindu.com/news/national/desist-from-targeting-hindu-festivals-economy-vhp-to-opposition-over-november-1-rally/article71630070.ece",
-            "source": "The Hindu",
-            "summary": "The remarks came a day after traders held a protest at Kashmere Gate in New Delhi, demanding that Congress defer the November 1 rally until after Diwali.",
-            "published": "2026-10-27T12:24:18+05:30"
-          },
-          {
-            "title": "Netanyahu Pushed For Attack On Iran Ahead Of Israeli Election: Report",
-            "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-pushed-for-attack-on-iran-ahead-of-israeli-election-report-12241014#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Israeli Prime Minister Benjamin Netanyahu started pushing for a separate action against Iran that fell short of an overt strike but met with resistance.",
-            "published": "2026-10-27T12:23:27+05:30"
-          },
-          {
-            "title": "\"You Are World's Biggest NGO, Just get Registered\": Priyanka Kharge To RSS",
-            "link": "https://www.ndtv.com/india-news/rss-biggest-threat-to-our-democracy-right-now-priyank-kharge-12241301#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The 47-year-old Kharge accused the RSS of hobnobbing with the lobbyists in the US, who are also lobbying for Pakistan.",
-            "published": "2026-10-27T12:22:56+05:30"
-          },
-          {
-            "title": "17 remand prisoners escape from sub-jail in Theni district; combing operations lead to arrest of four: IGP",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece",
-            "source": "The Hindu",
-            "summary": "The public can contact 9498101570 or 9176104100 if they have any information about the prisoners who escaped",
-            "published": "2026-10-27T12:20:44+05:30"
-          },
-          {
-            "title": "K.N. Nehru cash-for-jobs scam case: Madras High Court clears decks for DVAC probe",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/kn-nehru-cash-for-jobs-scam-case-madras-high-court-dismisses-his-review-application/article71625637.ece",
-            "source": "The Hindu",
-            "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan dismiss an application filed by him to review a direction issued to the DVAC to register a FIR",
-            "published": "2026-10-27T12:20:24+05:30"
-          },
-          {
-            "title": "Cyclone Arnab: Bapatla district issues emergency helpline numbers",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-bapatla-district-issues-emergency-helpline-numbers/article71629936.ece",
-            "source": "The Hindu",
-            "summary": "The district administration has established a 24-hour control room to respond to emergencies",
-            "published": "2026-10-27T12:20:12+05:30"
-          },
-          {
-            "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-            "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-            "published": "2026-10-27T06:49:19+00:00"
-          },
-          {
-            "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-            "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-            "published": "2026-10-27T06:48:50+00:00"
-          },
-          {
-            "title": "Unchanged India bowl, NZ make three changes",
-            "link": "https://www.cricinfo.com/ci/content/story/1560132.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Matt Henry and Lockie Ferguson are sitting out as expected, and Nathan Smith is also missing out",
-            "published": "2026-10-27T06:48:31+00:00"
-          },
-          {
-            "title": "Cyclone Arnab to trigger heavy rains in parts of Jharkhand, government asks districts to remain alert",
-            "link": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rains-in-jharkhand-yellow-and-orange-alert-issued/article71629994.ece",
-            "source": "The Hindu",
-            "summary": "A ‘yellow’ alert (be updated) of heavy rain has been issued for eight districts for 24 hours starting from 8.30 a.m. on October 28, the IMD said",
-            "published": "2026-10-27T12:18:09+05:30"
-          }
-        ],
-        "India": [
-          {
-            "title": "\"Hire the Robot, Fire the Human\": Gates' Warning, Then Microsoft Buyouts",
-            "link": "https://www.ndtv.com/artificial-intelligence/hire-the-robot-fire-the-human-bill-gates-warning-then-microsoft-buyouts-12241459#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Microsoft co-founder Bill Gates says companies are being pushed to replace workers with AI. A day after his statement Microsoft offers buyout to 60,000 employees",
-            "published": "2026-10-27T12:26:12+05:30"
-          },
-          {
-            "title": "Tribal, Dalit advocacy groups in Keralam allege policy discrimination against SC, ST students in nursing admissions",
-            "link": "https://www.thehindu.com/news/national/kerala/tribal-dalit-advocacy-groups-in-keralam-allege-policy-discrimination-against-sc-st-students-in-nursing-admissions/article71630045.ece",
-            "source": "The Hindu",
-            "summary": "Controversy centres on sequencing of seat allotments undertaken by LBS Centre for Science and Technology. Advocacy groups approach State govt alleging that lapses have disenfranchised marginalised aspirants from higher-tier seat upgrades",
-            "published": "2026-10-27T12:25:30+05:30"
-          },
-          {
-            "title": "Cyclone ‘Arnab’ LIVE updates | Landfall expected on Andhra coast near Yanam; Odisha, Bengal, Jharkhand brace for rain",
-            "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-            "source": "The Hindu",
-            "summary": "Several southern Odisha districts started receiving rain as ‘Arnab’ hurtled towards the Andhra Pradesh coast on October 27 2026",
-            "published": "2026-10-27T12:24:26+05:30"
-          },
-          {
-            "title": "SC collegium recommends four judges for appointment as High Court chief justices",
-            "link": "https://www.thehindu.com/news/national/sc-collegium-recommends-four-judges-for-appointment-as-high-court-chief-justices/article71630086.ece",
-            "source": "The Hindu",
-            "summary": "The Collegium has recommended Justice P. Sam Koshy as Chief Justice of the Delhi High Court, among four appointments across the Gujarat, Telangana and Uttarakhand High Courts",
-            "published": "2026-10-27T12:24:25+05:30"
-          },
-          {
-            "title": "‘Desist from targeting Hindu festivals, economy’: VHP to Opposition over November 1 rally",
-            "link": "https://www.thehindu.com/news/national/desist-from-targeting-hindu-festivals-economy-vhp-to-opposition-over-november-1-rally/article71630070.ece",
-            "source": "The Hindu",
-            "summary": "The remarks came a day after traders held a protest at Kashmere Gate in New Delhi, demanding that Congress defer the November 1 rally until after Diwali.",
-            "published": "2026-10-27T12:24:18+05:30"
-          },
-          {
-            "title": "Netanyahu Pushed For Attack On Iran Ahead Of Israeli Election: Report",
-            "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-pushed-for-attack-on-iran-ahead-of-israeli-election-report-12241014#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Israeli Prime Minister Benjamin Netanyahu started pushing for a separate action against Iran that fell short of an overt strike but met with resistance.",
-            "published": "2026-10-27T12:23:27+05:30"
-          },
-          {
-            "title": "\"You Are World's Biggest NGO, Just get Registered\": Priyanka Kharge To RSS",
-            "link": "https://www.ndtv.com/india-news/rss-biggest-threat-to-our-democracy-right-now-priyank-kharge-12241301#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The 47-year-old Kharge accused the RSS of hobnobbing with the lobbyists in the US, who are also lobbying for Pakistan.",
-            "published": "2026-10-27T12:22:56+05:30"
-          },
-          {
-            "title": "17 remand prisoners escape from sub-jail in Theni district; combing operations lead to arrest of four: IGP",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece",
-            "source": "The Hindu",
-            "summary": "The public can contact 9498101570 or 9176104100 if they have any information about the prisoners who escaped",
-            "published": "2026-10-27T12:20:44+05:30"
-          },
-          {
-            "title": "K.N. Nehru cash-for-jobs scam case: Madras High Court clears decks for DVAC probe",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/kn-nehru-cash-for-jobs-scam-case-madras-high-court-dismisses-his-review-application/article71625637.ece",
-            "source": "The Hindu",
-            "summary": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan dismiss an application filed by him to review a direction issued to the DVAC to register a FIR",
-            "published": "2026-10-27T12:20:24+05:30"
-          },
-          {
-            "title": "Cyclone Arnab: Bapatla district issues emergency helpline numbers",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-bapatla-district-issues-emergency-helpline-numbers/article71629936.ece",
-            "source": "The Hindu",
-            "summary": "The district administration has established a 24-hour control room to respond to emergencies",
-            "published": "2026-10-27T12:20:12+05:30"
-          },
-          {
-            "title": "Cyclone Arnab to trigger heavy rains in parts of Jharkhand, government asks districts to remain alert",
-            "link": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rains-in-jharkhand-yellow-and-orange-alert-issued/article71629994.ece",
-            "source": "The Hindu",
-            "summary": "A ‘yellow’ alert (be updated) of heavy rain has been issued for eight districts for 24 hours starting from 8.30 a.m. on October 28, the IMD said",
-            "published": "2026-10-27T12:18:09+05:30"
+            "summary": "The Supreme Court issued notice to the Centre and listed the case for detailed hearing on November 17",
+            "published": "2026-10-27T12:57:28+05:30"
           },
           {
             "title": "Theni jailbreak: Human error led to escape of prisoners, says DGP-Prisons Sandeep Rai Rathore",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-human-error-led-to-escape-of-prisoners-says-dgp-prisons/article71629966.ece",
             "source": "The Hindu",
             "summary": "Security audit of all prisons had been ordered after the escape of a prisoner in Puzhal recently",
-            "published": "2026-10-27T12:18:05+05:30"
+            "published": "2026-10-27T12:53:15+05:30"
+          },
+          {
+            "title": "Tamil Nadu BJP chief Nainar Nagenthran urges repair of Palar bridge, seeks safety audit",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-chief-nainar-nagenthran-urges-repair-of-palar-bridge-seeks-safety-audit/article71629798.ece",
+            "source": "The Hindu",
+            "summary": "In a social media post, Mr. Nagenthran said the dangerous potholes on the bridge posed a risk to schoolchildren and members of the public",
+            "published": "2026-10-27T12:52:59+05:30"
+          },
+          {
+            "title": "Theni jailbreak: Efforts are on to nab 13 prisoners still absconding, says T.N. Law Minister Nirmal Kumar",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-efforts-are-on-to-nab-13-prisoners-still-absconding-says-tn-law-minister-nirmal-kumar/article71629734.ece",
+            "source": "The Hindu",
+            "summary": "C.T.R. Nirmal Kumar rejects political vendetta charge over former DMK Minister Anbil Mahesh’s arrest",
+            "published": "2026-10-27T12:51:42+05:30"
+          },
+          {
+            "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
+            "link": "https://www.thehindu.com/business/anup-bagchi-takes-charge-as-hdfc-bank-ceo-and-md/article71630082.ece",
+            "source": "The Hindu",
+            "summary": "Anup Bagchi, an ICICI Group veteran, becomes the first outsider to head HDFC Bank in its three-decade history, succeeding Sashidhar Jagdishan amid governance concerns",
+            "published": "2026-10-27T12:51:39+05:30"
+          },
+          {
+            "title": "Bangladesh's chance to bounce back after tough UAE tour",
+            "link": "https://www.cricinfo.com/ci/content/story/1560136.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Bangladesh lost both games in the tri-series and failed to win the one-off Test against Afghanistan in the lead-up to this Test series",
+            "published": "2026-10-27T07:21:07+00:00"
+          },
+          {
+            "title": "Maharashtra farmers march to Mumbai seeking immediate relief for drought-hit cultivators",
+            "link": "https://www.hindustantimes.com/india-news/maharashtra-farmers-march-to-mumbai-seeking-immediate-relief-for-drought-hit-cultivators-101793085541058.html",
+            "source": "Hindustan Times",
+            "summary": "The farmers carrying red flags began their march from Igatpuri to Mumbai along the Nashik–Mumbai highway",
+            "published": "2026-10-27T12:49:00+05:30"
+          },
+          {
+            "title": "Keralam Assembly: Opposition confronts govt over alleged police atrocities, claims ‘dual justice system’",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-assembly-opposition-confronts-govt-over-alleged-police-atrocities-claims-dual-justice-system/article71630136.ece",
+            "source": "The Hindu",
+            "summary": "Chennithala admits lapses by police in Cheranalloor car crash case. Opposition stages walkout in protest against denial of discussion, suspending House proceedings",
+            "published": "2026-10-27T12:48:39+05:30"
+          },
+          {
+            "title": "No pressure, but an inspiration - Shanto on Bangladesh's WTC chances",
+            "link": "https://www.cricinfo.com/ci/content/story/1560137.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Bangladesh are currently fourth in the World Test Championship standings",
+            "published": "2026-10-27T07:17:46+00:00"
+          },
+          {
+            "title": "Kerala HC allows couple to hand over baby with skeletal dysplasia to child welfare committee after birth",
+            "link": "https://www.hindustantimes.com/india-news/kerala-hc-allows-couple-to-hand-over-baby-with-skeletal-dysplasia-to-child-welfare-committee-after-birth-101793084477066.html",
+            "source": "Hindustan Times",
+            "summary": "Kerala HC observed that since the couple did not intend to retain the child after birth, they can hand over baby to the Child Welfare Committee.",
+            "published": "2026-10-27T12:47:18+05:30"
+          },
+          {
+            "title": "Who named Cyclone Arnab and why? Where it will hit, states on alert &amp; preparedness",
+            "link": "https://timesofindia.indiatimes.com/india/who-named-cyclone-arnab-and-why-where-it-will-hit-states-on-alert-and-preparedness/articleshow/135226544.cms",
+            "source": "Times of India",
+            "summary": "Cyclone Arnab is intensifying and is forecasted to hit the Andhra Pradesh coastline by Wednesday morning. The India Meteorological Department has issued alerts for severe winds and torrential rainfall affecting multiple states. Emergency shelters and control rooms are set up as beach access is prohibited to ensure public safety. Heavy rains are also impacting Odisha and Jharkhand. Residents are urged to stay updated…",
+            "published": "2026-10-27T12:46:13+05:30"
+          },
+          {
+            "title": "Cyclone ‘Arnab’ LIVE updates | IMD raises wind forecast to 150 kmph gusts; landfall near Yanam; 61 trains cancelled",
+            "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+            "source": "The Hindu",
+            "summary": "Nearly 89,000 people on the Kakinada coast are being moved to relief camps ahead of Cyclone Arnab’s landfall on October 28",
+            "published": "2026-10-27T12:45:59+05:30"
+          },
+          {
+            "title": "Cyclone Arnab to trigger heavy rains in parts of Jharkhand, government asks districts to remain alert",
+            "link": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rains-in-jharkhand-yellow-and-orange-alert-issued/article71629994.ece",
+            "source": "The Hindu",
+            "summary": "A ‘yellow’ alert (be updated) of heavy rain has been issued for eight districts for 24 hours starting from 8.30 a.m. on October 28, the IMD said",
+            "published": "2026-10-27T12:45:21+05:30"
+          },
+          {
+            "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+            "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+            "published": "2026-10-27T07:15:08+00:00"
+          }
+        ],
+        "India": [
+          {
+            "title": "New privacy law will shut down newsrooms, change the concept of news: Digital News Publishers Association",
+            "link": "https://www.thehindu.com/news/national/new-privacy-law-will-shut-down-news-rooms-change-the-concept-of-news-digital-news-publishers-association/article71630056.ece",
+            "source": "The Hindu",
+            "summary": "The Supreme Court issued notice to the Centre and listed the case for detailed hearing on November 17",
+            "published": "2026-10-27T12:57:28+05:30"
+          },
+          {
+            "title": "Theni jailbreak: Human error led to escape of prisoners, says DGP-Prisons Sandeep Rai Rathore",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-human-error-led-to-escape-of-prisoners-says-dgp-prisons/article71629966.ece",
+            "source": "The Hindu",
+            "summary": "Security audit of all prisons had been ordered after the escape of a prisoner in Puzhal recently",
+            "published": "2026-10-27T12:53:15+05:30"
+          },
+          {
+            "title": "Tamil Nadu BJP chief Nainar Nagenthran urges repair of Palar bridge, seeks safety audit",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-chief-nainar-nagenthran-urges-repair-of-palar-bridge-seeks-safety-audit/article71629798.ece",
+            "source": "The Hindu",
+            "summary": "In a social media post, Mr. Nagenthran said the dangerous potholes on the bridge posed a risk to schoolchildren and members of the public",
+            "published": "2026-10-27T12:52:59+05:30"
+          },
+          {
+            "title": "Theni jailbreak: Efforts are on to nab 13 prisoners still absconding, says T.N. Law Minister Nirmal Kumar",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-efforts-are-on-to-nab-13-prisoners-still-absconding-says-tn-law-minister-nirmal-kumar/article71629734.ece",
+            "source": "The Hindu",
+            "summary": "C.T.R. Nirmal Kumar rejects political vendetta charge over former DMK Minister Anbil Mahesh’s arrest",
+            "published": "2026-10-27T12:51:42+05:30"
+          },
+          {
+            "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
+            "link": "https://www.thehindu.com/business/anup-bagchi-takes-charge-as-hdfc-bank-ceo-and-md/article71630082.ece",
+            "source": "The Hindu",
+            "summary": "Anup Bagchi, an ICICI Group veteran, becomes the first outsider to head HDFC Bank in its three-decade history, succeeding Sashidhar Jagdishan amid governance concerns",
+            "published": "2026-10-27T12:51:39+05:30"
+          },
+          {
+            "title": "Maharashtra farmers march to Mumbai seeking immediate relief for drought-hit cultivators",
+            "link": "https://www.hindustantimes.com/india-news/maharashtra-farmers-march-to-mumbai-seeking-immediate-relief-for-drought-hit-cultivators-101793085541058.html",
+            "source": "Hindustan Times",
+            "summary": "The farmers carrying red flags began their march from Igatpuri to Mumbai along the Nashik–Mumbai highway",
+            "published": "2026-10-27T12:49:00+05:30"
+          },
+          {
+            "title": "Keralam Assembly: Opposition confronts govt over alleged police atrocities, claims ‘dual justice system’",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-assembly-opposition-confronts-govt-over-alleged-police-atrocities-claims-dual-justice-system/article71630136.ece",
+            "source": "The Hindu",
+            "summary": "Chennithala admits lapses by police in Cheranalloor car crash case. Opposition stages walkout in protest against denial of discussion, suspending House proceedings",
+            "published": "2026-10-27T12:48:39+05:30"
+          },
+          {
+            "title": "Kerala HC allows couple to hand over baby with skeletal dysplasia to child welfare committee after birth",
+            "link": "https://www.hindustantimes.com/india-news/kerala-hc-allows-couple-to-hand-over-baby-with-skeletal-dysplasia-to-child-welfare-committee-after-birth-101793084477066.html",
+            "source": "Hindustan Times",
+            "summary": "Kerala HC observed that since the couple did not intend to retain the child after birth, they can hand over baby to the Child Welfare Committee.",
+            "published": "2026-10-27T12:47:18+05:30"
+          },
+          {
+            "title": "Who named Cyclone Arnab and why? Where it will hit, states on alert &amp; preparedness",
+            "link": "https://timesofindia.indiatimes.com/india/who-named-cyclone-arnab-and-why-where-it-will-hit-states-on-alert-and-preparedness/articleshow/135226544.cms",
+            "source": "Times of India",
+            "summary": "Cyclone Arnab is intensifying and is forecasted to hit the Andhra Pradesh coastline by Wednesday morning. The India Meteorological Department has issued alerts for severe winds and torrential rainfall affecting multiple states. Emergency shelters and control rooms are set up as beach access is prohibited to ensure public safety. Heavy rains are also impacting Odisha and Jharkhand. Residents are urged to stay updated…",
+            "published": "2026-10-27T12:46:13+05:30"
+          },
+          {
+            "title": "Cyclone ‘Arnab’ LIVE updates | IMD raises wind forecast to 150 kmph gusts; landfall near Yanam; 61 trains cancelled",
+            "link": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+            "source": "The Hindu",
+            "summary": "Nearly 89,000 people on the Kakinada coast are being moved to relief camps ahead of Cyclone Arnab’s landfall on October 28",
+            "published": "2026-10-27T12:45:59+05:30"
+          },
+          {
+            "title": "Cyclone Arnab to trigger heavy rains in parts of Jharkhand, government asks districts to remain alert",
+            "link": "https://www.thehindu.com/news/national/jharkhand/cyclone-arnab-triggers-heavy-rains-in-jharkhand-yellow-and-orange-alert-issued/article71629994.ece",
+            "source": "The Hindu",
+            "summary": "A ‘yellow’ alert (be updated) of heavy rain has been issued for eight districts for 24 hours starting from 8.30 a.m. on October 28, the IMD said",
+            "published": "2026-10-27T12:45:21+05:30"
+          },
+          {
+            "title": "SC seeks Centre’s response to media body’s plea challenging data protection act",
+            "link": "https://timesofindia.indiatimes.com/india/sc-seeks-centres-response-to-media-bodys-plea-challenging-data-protection-law/articleshow/135227340.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-10-27T12:43:53+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+            "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+            "published": "2026-10-27T07:15:08+00:00"
+          },
+          {
+            "title": "Wales first minister : ‘We’re within a union that is not a union of equals’",
+            "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.",
+            "published": "2026-10-27T07:14:25+00:00"
+          },
+          {
+            "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+            "link": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Countries also urge Sudan&#039;s warring parties to &#039;lift all impediments on humanitarian assistance&#039;.",
+            "published": "2026-10-27T06:56:30+00:00"
+          },
+          {
+            "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+            "link": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Asia&#039;s fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
+            "published": "2026-10-27T06:50:53+00:00"
+          },
+          {
+            "title": "Sixty Christians killed in Ethiopia’s Oromia region",
+            "link": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Church officials say more than 20 people have been injured, while 20 homes have burned down as religious tensions flare.",
+            "published": "2026-10-27T06:49:45+00:00"
+          },
           {
             "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
             "link": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
@@ -239,44 +274,16 @@
             "source": "Al Jazeera",
             "summary": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
             "published": "2026-10-27T05:14:13+00:00"
-          },
-          {
-            "title": "Jay-Z to perform at Super Bowl half-time show",
-            "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-            "published": "2026-10-27T05:05:15+00:00"
-          },
-          {
-            "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
-            "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "OpenAI&#039;s announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
-            "published": "2026-10-27T05:01:13+00:00"
-          },
-          {
-            "title": "Saudi-led coalition says it downed Houthi missiles and drones",
-            "link": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The attacks come as top officials from Saudi Arabia, Turkiye, Pakistan and Iran met in Tehran to de-escalate conflict.",
-            "published": "2026-10-27T04:54:26+00:00"
-          },
-          {
-            "title": "People missing after massive drilling platform sinks off Gabon",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Five people are missing after a massive offshore drilling platform sank into the sea off Gabon’s southern coast.",
-            "published": "2026-10-27T04:45:16+00:00"
-          },
-          {
-            "title": "Israel heads to the polls as shift to the right dominates critical election",
-            "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Netanyahu seeks to extend rule at helm of far right alliance facing off against predominantly right-wing bloc.",
-            "published": "2026-10-27T04:44:14+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+            "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+            "published": "2026-10-27T07:15:08+00:00"
+          },
           {
             "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
             "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
@@ -290,6 +297,13 @@
             "source": "BBC Business",
             "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
             "published": "2026-10-27T06:48:50+00:00"
+          },
+          {
+            "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+            "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+            "published": "2026-10-27T06:33:11+00:00"
           },
           {
             "title": "Will the Budget pass Burnham's Makerfield test?",
@@ -327,6 +341,13 @@
             "published": "2026-10-27T11:06:16+05:30"
           },
           {
+            "title": "Sona BLW Precision Forgings shares rally 6% after Q2 profit rises 29%, revenue jumps 35%",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-forgings-shares-rally-6-after-q2-profit-rises-29-revenue-jumps-35/articleshow/135225348.cms",
+            "source": "Economic Times",
+            "summary": "Sona Comstar shares surged nearly 6% after the company reported record Q2FY27 revenue and profit, driven by robust growth in its electric-vehicle business, new orders and product launches.",
+            "published": "2026-10-27T11:01:54+05:30"
+          },
+          {
             "title": "Sigma Advanced Systems shares rally 5% after securing Rs 973 crore NATO order",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/sigma-advanced-systems-shares-rally-5-after-securing-rs-973-crore-nato-order/articleshow/135225297.cms",
             "source": "Economic Times",
@@ -334,35 +355,28 @@
             "published": "2026-10-27T10:55:02+05:30"
           },
           {
-            "title": "Smallcap mutual funds are best performing funds with up to 16% return since last Diwali. Will it last?",
-            "link": "https://economictimes.indiatimes.com/mf/analysis/smallcap-mutual-funds-are-best-performing-funds-with-up-to-16-return-since-last-diwali-will-it-last/articleshow/135225131.cms",
-            "source": "Economic Times",
-            "summary": "Small cap mutual funds have proven to be the top performers in the market, offering impressive returns as high as 16%. The Bank of India Small Cap Fund took the lead with a notable return of 15.51%. However, investment experts emphasize a cautious approach to valuations, despite an optimistic long-term outlook for small caps.",
-            "published": "2026-10-27T10:46:33+05:30"
-          },
-          {
             "title": "Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?",
             "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-jump-5-extend-rally-to-20-in-two-days-after-q2-results-can-the-run-continue/articleshow/135225009.cms",
             "source": "Economic Times",
             "summary": "Ather Energy shares extended their rally on Tuesday after the electric two-wheeler maker reported its first quarterly profit of Rs 1.26 crore in Q2 FY27. Revenue surged 63% year-on-year to Rs 1,464 crore, while EBITDA turned positive. Nomura raised its target price to Rs 2,070 and retained its Buy rating.",
             "published": "2026-10-27T10:39:27+05:30"
-          },
-          {
-            "title": "Tata Consumer shares rally over 4% after Q2 results. Why brokerages remain bullish despite target price cuts",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-consumer-shares-in-focus-as-q2-net-profit-rises-16-yoy-why-jefferies-other-brokerages-are-bullish-despite-target-price-cuts/articleshow/135223973.cms",
-            "source": "Economic Times",
-            "summary": "Tata Consumer Products reported 16% year-on-year profit growth in Q2FY27, while brokerages retained positive ratings but cut target prices amid inflationary pressures. Jefferies, Nuvama, Elara Capital and Systematix see varying upside potential in the stock.",
-            "published": "2026-10-27T09:30:23+05:30"
-          },
-          {
-            "title": "SFC Environmental IPO opens: Check GMP, price band and other key details",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-opens-today-gmp-at-9-check-price-band-lot-size-and-key-details/articleshow/135222860.cms",
-            "source": "Economic Times",
-            "summary": "SFC Environmental Technologies Ipo Gmp : The Rs 667.53-crore public issue is a combination of a fresh issue of 45.45 lakh shares aggregating to Rs 150 crore and an offer for sale (OFS) of 1.57 crore shares worth Rs 517.53 crore. Through the OFS, existing shareholders will sell part of their holdings, while the company will receive proceeds from the fresh issue.",
-            "published": "2026-10-27T08:03:10+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "Bangladesh's chance to bounce back after tough UAE tour",
+            "link": "https://www.cricinfo.com/ci/content/story/1560136.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Bangladesh lost both games in the tri-series and failed to win the one-off Test against Afghanistan in the lead-up to this Test series",
+            "published": "2026-10-27T07:21:07+00:00"
+          },
+          {
+            "title": "No pressure, but an inspiration - Shanto on Bangladesh's WTC chances",
+            "link": "https://www.cricinfo.com/ci/content/story/1560137.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Bangladesh are currently fourth in the World Test Championship standings",
+            "published": "2026-10-27T07:17:46+00:00"
+          },
           {
             "title": "Unchanged India bowl, NZ make three changes",
             "link": "https://www.cricinfo.com/ci/content/story/1560132.html?ex_cid=OTC-RSS",
@@ -432,23 +446,65 @@
             "source": "NDTV Sports",
             "summary": "Solo Sikoa has accepted Royce Keys’ challenge for a singles match on WWE RAW on November 2. With Roman Reigns back alongside The Bloodline, the Brooklyn showdown adds another chapter to their feud with 946.",
             "published": "2026-10-27T11:01:52+05:30"
-          },
-          {
-            "title": "Dallas Cowboys Legend Jimmy Johnson Makes Surprising Admission About The Philadelphia Eagles",
-            "link": "https://sports.ndtv.com/us/nfl/dallas-cowboys-legend-jimmy-johnson-makes-surprising-admission-about-the-philadelphia-eagles-12241104#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Dallas Cowboys legend Jimmy Johnson reveals why he considers himself a Philadelphia Eagles fan. Find out what he said.",
-            "published": "2026-10-27T11:01:48+05:30"
-          },
-          {
-            "title": "Smith undergoes fitness test ahead of decider in Cape Town",
-            "link": "https://www.cricinfo.com/ci/content/story/1560077.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Nic Maddinson and Sam Harper have been released from the Test squad to play in the Sheffield Shield for their respective sides",
-            "published": "2026-10-27T05:21:13+00:00"
           }
         ],
         "Technology": [
+          {
+            "title": "Motorola Launches Motorollers Community App for Android Users in India",
+            "link": "https://www.gadgets360.com/mobiles/news/motorola-motorollers-app-for-android-users-india-launch-features-12241456",
+            "source": "Gadgets 360",
+            "summary": "Motorollers will feature interest-based groups called Tribes, where members can post content and join discussions on topics ranging from gaming and photography to travel and artificial intelligence. The app will include Vibe Check for polls, Hot Take for opinions and Deep Dive for longer articles. Motorola will use dedicated channels to share product announcements, discounts and coupons, while retail partners and…",
+            "published": "2026-10-27T12:27:04+05:30"
+          },
+          {
+            "title": "Infinix GT 50 Pro Launched in India With Dimensity 8400 Ultimate, 144Hz Refresh Rate Display: Price, Specifications",
+            "link": "https://www.gadgets360.com/mobiles/news/infinix-gt-50-pro-price-in-india-launch-specifications-features-12241358",
+            "source": "Gadgets 360",
+            "summary": "Infinix GT 50 Pro has been launched in India. It runs on a MediaTek Dimensity 8400 Ultimate chipset and has a 6,500mAh battery. Infinix GT 50 Pro runs Android 16-based XOS 16. It features a 6.78-inch LTPS AMOLED display with a 1.5K resolution. As part of the launch offer, the company is offering the GT 50 Pro Gaming Ecosystem worth Rs. 24,999 free alongside the phone.",
+            "published": "2026-10-27T12:23:45+05:30"
+          },
+          {
+            "title": "iOS 27.2 Update Rolls Out With New Siri AI Features, Contextual Messages Suggestions and More",
+            "link": "https://www.gadgets360.com/mobiles/news/ios-27-2-update-iphone-siri-ai-features-messages-contextual-suggestions-apple-intelligence-12241292",
+            "source": "Gadgets 360",
+            "summary": "Apple released the iOS 27.2 update for iPhone on Monday. It is the second major iteration of the latest iPhone operating system, which was first rolled out in September alongside the iPhone 18 Pro and iPhone 18 Pro Max. The update brings several new features, including new features and more languages for Siri AI. Users can also access contextual suggestions in Messages, which allow them to take quick actions in apps…",
+            "published": "2026-10-27T12:23:23+05:30"
+          },
+          {
+            "title": "Call of Duty: Modern Warfare 4 Launch Pushes Franchise Past $40 Billion Lifetime Revenue",
+            "link": "https://www.gadgets360.com/games/news/call-of-duty-modern-warfare-4-launch-franchise-lifetime-revenue-activision-12241253",
+            "source": "Gadgets 360",
+            "summary": "Call of Duty has surpassed $40 billion in lifetime franchise revenue, Xbox CEO Asha Sharma confirmed after the launch of Call of Duty: Modern Warfare 4. Sharma congratulated Activision for the successful launch of the game and said Modern Warfare 4 was \"one of the most celebrated Call of Duty games in its 24-year history.\"",
+            "published": "2026-10-27T11:48:01+05:30"
+          },
+          {
+            "title": "Instagram Tests Long-Form Videos With Features, Taking on YouTube’s Content Format",
+            "link": "https://www.gadgets360.com/apps/news/instagram-features-explained-video-length-availability-other-updates-12241068",
+            "source": "Gadgets 360",
+            "summary": "Instagram has begun testing Features, a long-form video format, with select US creators following earlier trials in Brazil. The feature lets creators link short Reels to horizontal videos lasting up to 90 minutes, with recommendations appearing across the app. Instagram plans to expand the test to more creators and is exploring TV viewing options. It is also working on brand deals but has yet to outline a…",
+            "published": "2026-10-27T11:40:21+05:30"
+          },
+          {
+            "title": "Microsoft Offers Voluntary Exit Buyout to About 60,000 Employees Amid Massive AI Infrastructure Push",
+            "link": "https://www.gadgets360.com/ai/news/microsoft-voluntary-exit-buyout-60-thousand-employees-india-us-uk-ai-infrastructure-expansion-12241199",
+            "source": "Gadgets 360",
+            "summary": "Microsoft is offering a Voluntary Exit Offer (VEO) to “some” employees in the US, India, the UK, and Canada, Microsoft’s Executive Vice President and Chief People Officer, Amy Coleman, announced on Monday. Further, the company executive said that Microsoft employees with an experience level of 70 or below are eligible for the voluntary exit package, which will include multiple pay components. Microsoft says that the…",
+            "published": "2026-10-27T11:39:35+05:30"
+          },
+          {
+            "title": "Motorola Edge 70 Neo Colour Options, Specifications Leaked Ahead of India Launch",
+            "link": "https://www.gadgets360.com/mobiles/news/motorola-edge-70-neo-colour-options-ram-storage-specifications-leak-12241088",
+            "source": "Gadgets 360",
+            "summary": "Motorola Edge 70 Neo specifications and colour options have leaked. The phone is tipped to feature a 7,000mAh battery and a 144Hz display. It could run on a Snapdragon 7s Gen 3 chipset and a 50-megapixel Sony LYTIA camera. It could feature a 32-megapixel camera for selfies and video calls. The Motorola Edge 70 Neo is said to pack a 7,000mAh battery with support for 45W charging.",
+            "published": "2026-10-27T11:38:30+05:30"
+          },
+          {
+            "title": "Festive Season Laptop Deals 2026: Explore Best Deals on AI Laptops on Amazon",
+            "link": "https://www.gadgets360.com/laptops/sponsored/festive-season-laptop-deals-2026-explore-best-deals-on-ai-laptops-on-amazon-12241185",
+            "source": "Gadgets 360",
+            "summary": "‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎",
+            "published": "2026-10-27T11:26:49+05:30"
+          },
           {
             "title": "Former DOGE Staffers’ Startup Reportedly Claims to Have Accessed Sensitive Anthropic Data Using AI Agents",
             "link": "https://www.gadgets360.com/ai/news/cathedral-startup-accessed-sensitive-anthropic-claude-data-ai-agents-report-12240830",
@@ -476,62 +532,6 @@
             "source": "BBC Technology",
             "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
             "published": "2026-10-26T19:57:23+00:00"
-          },
-          {
-            "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-            "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-            "published": "2026-10-26T16:27:17+00:00"
-          },
-          {
-            "title": "MEXC Set to Exit Netherlands After Confirming It Has No MiCA Licence",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/mexc-exit-netherlands-after-confirming-no-mica-licence-crypto-regulations-law-12238954",
-            "source": "Gadgets 360",
-            "summary": "Cryptocurrency exchange MEXC has confirmed that it lacks authorisation under the European Union’s Markets in Crypto-Assets Regulation (MiCA), prompting its withdrawal from the Netherlands. The move follows a warning from Dutch regulator AFM over its services to local customers. MEXC has also announced service closures in Russia and Belarus and maintains restrictions across several other jurisdictions, including the…",
-            "published": "2026-10-26T21:00:15+05:30"
-          },
-          {
-            "title": "Sony-Backed Soneium Prepares Token Launch to Broaden Entertainment Reach",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/sony-backed-soneium-prepares-token-launch-broaden-entertainment-reach-crypto-adoption-tokens-crypto-industry-12238537",
-            "source": "Gadgets 360",
-            "summary": "Sony-backed Ethereum Layer 2 network Soneium is preparing an ecosystem token called SONEIUM to connect creators, intellectual property owners, developers, fans and investors. The initiative forms part of its broader strategy to bring entertainment assets, including music, anime and video games, onto the blockchain. Soneium is also developing the Soneium Portal to help users discover tokenised entertainment projects…",
-            "published": "2026-10-26T20:59:50+05:30"
-          },
-          {
-            "title": "iPad Mini (2026) Launched in India With OLED Screen, A20 Pro Chip: Price, Specifications",
-            "link": "https://www.gadgets360.com/tablets/news/ipad-mini-2026-price-in-india-launch-sale-date-features-specifications-12238695",
-            "source": "Gadgets 360",
-            "summary": "Apple launched the iPad mini (2026) in India and global markets on Monday. The tablet has debuted mere days before the ‘Pro and Tell’ event, where the Cupertino-based tech giant is expected to unveil its first touchscreen MacBook Pro. The iPad mini (2026) features a new 8.5-inch OLED screen, making it the first in the lineup to do so. It is powered by the A20 Pro chipset and comes with a landscape-oriented front…",
-            "published": "2026-10-26T19:36:37+05:30"
-          },
-          {
-            "title": "Fans Ask EA to 'Save Mass Effect' as Petition Gathers Over 2,00,000 Signatures",
-            "link": "https://www.gadgets360.com/games/news/save-mass-effect-petition-200000-signatures-ea-bioware-12238547",
-            "source": "Gadgets 360",
-            "summary": "A fan petition to save Mass Effect has gather over 2,00,000 signatures. The petition was started on Change.org last week after EA announced it was shutting down BioWare and cancelling the next Mass Effect game. Voice actors from Mass Effect games have also urged fans to sign the petition. The next Mass Effect was in development at a small team at BioWare.",
-            "published": "2026-10-26T19:22:05+05:30"
-          },
-          {
-            "title": "Anthropic Sued for Allegedly Using Elvis Presley's Songs to Train Claude AI Models Without Permission: Report",
-            "link": "https://www.gadgets360.com/ai/news/anthropic-elvis-presley-songs-train-claude-ai-models-copyright-lawsuit-report-12238251",
-            "source": "Gadgets 360",
-            "summary": "Anthropic faces a lawsuit alleging it used 274 Elvis Presley songs without permission to train its Claude AI models. The lawsuit was reportedly brought by a unit of Authentic Brands Group, which handles the intellectual property rights associated with Elvis Presley. The lawsuit was filed on October 23. The plaintiffs allege that Anthropic used copyrighted works on a large scale to develop its AI technology without…",
-            "published": "2026-10-26T19:00:53+05:30"
-          },
-          {
-            "title": "Amazon Great Indian Festival Reloaded Sale: Best Deals on Gaming Smartphones",
-            "link": "https://www.gadgets360.com/mobiles/news/amazon-great-indian-festival-reloaded-sale-best-deals-gaming-smartphones-oneplus-nord-ce-6-iqoo-15r-12237858",
-            "source": "Gadgets 360",
-            "summary": "The Amazon Great Indian Festival Reloaded Sale is offering discounts on several smartphones. Customers can purchase select handsets at reduced prices during the sale, with additional savings available through eligible bank offers and credit card EMI transactions. OnePlus Nord CE 6 is available at a discounted price of Rs. 33,999, down from its listed price of Rs. 40,999. The iQOO 15R can be purchased for Rs. 48,999…",
-            "published": "2026-10-26T18:59:55+05:30"
-          },
-          {
-            "title": "CoinDCX Discloses $15.99 Million Loss After Previously Denying Hack Reports",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/coindcx-discloses-usd-16-million-loss-after-previously-denying-hack-reports-crypto-scams-hacks-regulations-in-india-fiu-12237851",
-            "source": "Gadgets 360",
-            "summary": "Indian cryptocurrency exchange CoinDCX has confirmed a loss of 15.99 million USDT following a cyberattack on October 21. The incident affected legacy wallet infrastructure that was compromised during a July 2025 attack, which caused losses of $44 million. CoinDCX said it would absorb the financial impact, with no effect on customer balances or exchange operations. The disclosure followed days of disagreement between…",
-            "published": "2026-10-26T17:27:33+05:30"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "IND vs NZ: तीसरे टी20 में क्यों नहीं खेल रहे ईशान किशन? सामने आया बड़ा कारण",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/why-is-ishan-kishan-not-playing-ind-vs-nz-3rd-t20i-check-reason-1673287.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-10-27T12:46:15+05:30"
+          },
+          {
+            "title": "सुप्रीम कोर्ट ने राहुल गांधी को नोटिस जारी किया:12 अक्टूबर के मार्च में गर्भवती पत्रकार को धक्का देने का आरोप; दावा- कंधे से पकड़कर खींचा",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-notice-rahul-gandhi-protest-journalist-controversy-139504116.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-27T07:06:06+00:00"
+          },
+          {
+            "title": "चक्रवात अर्नब का खतरा: एअर इंडिया ने जारी की एडवाइजरी, विशाखापत्तनम और विजयवाड़ा की उड़ानें होंगी प्रभावित",
+            "link": "https://www.amarujala.com/india-news/cyclone-arnab-air-india-travel-advisory-visakhapatnam-vijayawada-andhra-pradesh-2026-10-27",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-27T12:30:41+05:30"
+          },
+          {
             "title": "चुनाव आयोग के सुप्रीम कोर्ट में हलफ़नामे से क्या चीज़ें बदल जाएंगी? अब भी बचे हैं ये सवाल",
             "link": "https://www.bbc.com/hindi/articles/cj5ynkq1zpx9o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
@@ -641,18 +662,25 @@
             "published": "2026-10-27T12:23:50+05:30"
           },
           {
+            "title": "अब लंबी-चौड़ी थीसिस लिखने का झंझट खत्म: इस आईआईटी में पीएचडी का नया मॉडल हुआ शुरू? जानें कैसे मिलेगी डिग्री",
+            "link": "https://www.amarujala.com/education/iit-ropar-introduces-product-driven-phd-model-scholars-can-pursue-doctorate-through-startups-and-patents-2026-10-27",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-27T12:00:31+05:30"
+          },
+          {
+            "title": "लखनऊ ट्रिपल मर्डर: तीनों लाशें रखकर हंगामा, दस थानों की पुलिस तैनात, चौकी प्रभारी और इंस्पेक्टर सस्पेंड",
+            "link": "https://www.amarujala.com/lucknow/lucknow-triple-murder-uproar-over-the-three-bodies-demands-raised-to-use-a-bulldozer-on-the-accused-s-house-2026-10-27",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-27T11:58:58+05:30"
+          },
+          {
             "title": "IPL 2027: दादा-युवराज की नजर इन 6 खिलाड़ियों पर! क्यों दिल्ली कैपिटल्स से किए जा सकते हैं बाहर?",
             "link": "https://hindi.oneindia.com/news/sports/cricket/ipl-2027-delhi-capitals-6-players-release-rumours-ganguly-yuvraj-1673283.html",
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-27T11:47:22+05:30"
-          },
-          {
-            "title": "विधान परिषद चुनाव मतगणना LIVE: यूपी, बिहार, महाराष्ट्र समेत चार राज्यों में मतगणना शुरू, कब आएगा पहला रुझान?",
-            "link": "https://www.amarujala.com/live/india-news/mlc-elections-vote-counting-live-update-up-bihar-maharashtra-karnataka-legislative-council-constituencies-news-2026-10-27",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-27T11:45:24+05:30"
           },
           {
             "title": "MLC Election Result LIVE: बिहार-UP समेत 4 राज्यों की 28 सीटों पर नतीजे कुछ देर में, किस सीट का क्या हाल?",
@@ -669,46 +697,18 @@
             "published": "2026-10-27T06:11:12+00:00"
           },
           {
+            "title": "रायपुर और दुर्ग में ईडी का छापा: सुशील विला में दस्तावेजों की जांच-पड़ताल कर रही टीम, जानें क्या है मामला",
+            "link": "https://www.amarujala.com/chhattisgarh/ed-raids-in-raipur-and-durg-team-examines-documents-at-sushil-villa-pandari-2026-10-27",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-10-27T11:22:01+05:30"
+          },
+          {
             "title": "एचडीएफसी बैंक: अनूप बागची ने एमडी और सीईओ पद की संभाली कमान, चुनौतियों से कैसे मिलेगी मुक्ति?",
             "link": "https://www.amarujala.com/business/business-diary/anup-bagchi-takes-helm-as-hdfc-bank-ceo-amidst-challenges-2026-10-27",
             "source": "Amar Ujala",
             "summary": "एचडीएफसी बैंक में एक बड़े बदलाव के तहत आईसीआईसीआई समूह के अनुभवी और कद्दावर व्यक्तित्व अनूप बागची ने बैंक के नए प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी के रूप में कार्यभार संभाल लिया है। यह नियुक्ति ऐसे समय में हुई है जब बैंक कई तरह की आर्थिक और प्रशासनिक चुनौतियों का सामना कर रहा है। बैंक के सामने फिलहाल मुख्य समस्या आय में वांछित वृद्धि लाने और मार्जिन को बेहतर बनाए रखने की है। इसके अतिरिक्त, शशिधर जगदीश के कार्यकाल के दौरान सामने आई शासन संबंधी कमियों और नियामक अपेक्षाओं को पूरा करना अनूप बागची के लिए सबसे बड़ी प्राथमिकता होगी। बैंकिंग क्षेत्र के विशेषज्ञ इसे एक महत्वपूर्ण मोड़ के रूप में देख रहे हैं, क्योंकि बैंक की साख और बाजार में उसकी स्थिति को फिर से नई ऊंचाइयों पर ले जाने का दारोमदार अब पूरी तरह से बागची के नेतृत्व पर है। बैंक के शेयरधारकों और ग्राहकों की नजरें अब इस बात पर टिकी हैं कि बागची किस तरह से इन आंतरिक और बाहरी समस्याओं का समाधान निकालते हैं और बैंक की कार्यप्रणाली में कितनी पारदर्शिता लाते हैं।",
             "published": "2026-10-27T11:17:12+05:30"
-          },
-          {
-            "title": "एमएलसी चुनाव: ऐसे तय होती है उम्मीदवारों की जीत-हार, जानिए क्या है वरीयता मतों की गिनती का पूरा गणित",
-            "link": "https://www.amarujala.com/uttar-pradesh/meerut/mlc-election-how-preferential-voting-determines-the-winner-in-teacher-and-graduate-constituencies-2026-10-27",
-            "source": "Amar Ujala",
-            "summary": "एमएलसी यानी विधान परिषद चुनाव की प्रक्रिया सामान्य विधानसभा या लोकसभा चुनावों से काफी अलग और जटिल होती है। इसमें उम्मीदवारों की जीत-हार का फैसला सीधे तौर पर डाले गए वोटों से नहीं, बल्कि वरीयता मतों की गिनती से होता है। इस प्रक्रिया को समझने के लिए यह जानना जरूरी है कि मतदाता अपने पसंदीदा उम्मीदवारों को प्राथमिकता के आधार पर क्रम (पहली, दूसरी, तीसरी वरीयता) देते हैं। यदि किसी उम्मीदवार को पहली वरीयता के मतों में निर्धारित कोटा (कोटा = कुल वैध मत / (सीटों की संख्या + 1) + 1) प्राप्त हो जाता है, तो उसे सीधे विजेता घोषित कर दिया जाता है। लेकिन यदि ऐसा नहीं होता है, तो सबसे कम वोट पाने वाले उम्मीदवार को दौड़ से बाहर कर दिया जाता है और उसके वोट उसकी दूसरी पसंद के उम्मीदवारों में स्थानांतरित कर दिए जाते हैं। यह प्रक्रिया तब तक चलती रहती है जब तक कि अपेक्षित कोटा पूरा न हो जाए। यह गणितीय प्रक्रिया चुनावी परिणाम को रोमांचक बनाती है और यह सुनिश्चित करती है कि निर्वाचित प्रतिनिधि का समर्थन एक बड़े और विविध मतदाता वर्ग द्वारा प्राप्त हो।",
-            "published": "2026-10-27T11:09:24+05:30"
-          },
-          {
-            "title": "राजनाथ सिंह फिलीपींस रवाना: आसियान रक्षा मंत्रियों की बैठक में होंगे शामिल, साझेदारी मजबूत करने की होगी कोशिश",
-            "link": "https://www.amarujala.com/india-news/rajnath-singh-philippines-asean-defence-ministers-meeting-plus-strategic-partnerships-2026-10-27",
-            "source": "Amar Ujala",
-            "summary": "केंद्रीय रक्षा मंत्री राजनाथ सिंह फिलीपींस की अपनी आधिकारिक यात्रा के लिए रवाना हो चुके हैं, जिसका मुख्य उद्देश्य आसियान रक्षा मंत्रियों की बैठक (ADMM-Plus) में भाग लेना है। यह दौरा भारत की 'एक्ट ईस्ट' नीति के तहत काफी महत्वपूर्ण माना जा रहा है। इस सम्मेलन में राजनाथ सिंह दक्षिण-पूर्व एशियाई देशों के रक्षा मंत्रियों के साथ चर्चा करेंगे और क्षेत्रीय सुरक्षा के मुद्दों पर भारत का दृष्टिकोण साझा करेंगे। इस यात्रा का मुख्य ध्येय हिंद-प्रशांत क्षेत्र में समुद्री सुरक्षा, आतंकवाद से निपटने और रक्षा सहयोग को और अधिक सुदृढ़ बनाना है। फिलीपींस के साथ भारत के द्विपक्षीय संबंधों को नई ऊर्जा देने और रक्षा क्षेत्र में तकनीकी और रणनीतिक साझेदारी बढ़ाने की कोशिश इस दौरे का अहम हिस्सा है। वैश्विक स्तर पर बदलती रक्षा जरूरतों को देखते हुए, आसियान देशों के साथ भारत का यह संवाद क्षेत्रीय स्थिरता बनाए रखने के लिए बेहद मायने रखता है। उम्मीद है कि इस बैठक के माध्यम से रक्षा उपकरणों के उत्पादन और साझा सुरक्षा तंत्र विकसित करने के लिए नई राहें खुलेंगी।",
-            "published": "2026-10-27T11:05:37+05:30"
-          },
-          {
-            "title": "'वो मेरी बेटी की उम्र की है और उसके साथ ही', 'तिरछी टोपीवाले' गाने में नसीरुद्दीन शाह की हुई थी ऐसी हालत",
-            "link": "https://hindi.oneindia.com/news/entertainment/naseeruddin-shah-said-sonam-is-my-daughter-age-actor-discomfort-in-song-tirchi-topiwale-1673281.html",
-            "source": "Oneindia Hindi",
-            "summary": "दिग्गज अभिनेता नसीरुद्दीन शाह के करियर से जुड़ा एक दिलचस्प किस्सा फिल्म 'त्रिदेव' के मशहूर गाने 'तिरछी टोपीवाले' की शूटिंग के दौरान का है। फिल्म के निर्देशक राजीव राय ने साझा किया है कि उस समय नसीरुद्दीन शाह गाने की शूटिंग को लेकर काफी असहज महसूस कर रहे थे। इसका मुख्य कारण यह था कि उन्हें अपनी सह-कलाकार सोनम के साथ रोमांस करना था, जबकि सोनम उम्र में उनसे काफी छोटी थीं और नसीरुद्दीन के लिए उन्हें अपनी बेटी की उम्र की मानना एक मानसिक बाधा बन रहा था। अभिनेता का यह व्यवहार उनके संकोची स्वभाव और काम के प्रति उनकी नैतिकता को दर्शाता है। यह किस्सा इस बात को उजागर करता है कि किस तरह से एक मंझे हुए कलाकार के लिए भी व्यावसायिक सिनेमा की व्यावसायिक मांगें कभी-कभी असहज कर देने वाली होती हैं। हालांकि, बाद में शूटिंग पूरी हुई और यह गाना दर्शकों के बीच आज भी काफी लोकप्रिय है। यह वाकया फिल्मी पर्दे के पीछे के उन पलों को दर्शाता है जहां कलाकार की निजी भावनाएं और पेशेवर किरदार के बीच का द्वंद्व अक्सर उभर कर सामने आता है।",
-            "published": "2026-10-27T11:04:02+05:30"
-          },
-          {
-            "title": "सोने की तलाश में इस नदी की ख़ाक छान रहे हैं लोग, कितनी होती है कमाई",
-            "link": "https://www.bbc.com/hindi/articles/c8040375vnz7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-10-27T05:30:33+00:00"
-          },
-          {
-            "title": "यूपी: मायावती ने राजनीतिक बयानबाजी पर जताई चिंता, बोलीं- नेताओं के बीच बढ़ती कटुता देशहित में नहीं",
-            "link": "https://www.amarujala.com/lucknow/up-mayawati-expresses-concern-over-political-rhetoric-says-the-growing-bitterness-among-leaders-is-not-in-th-2026-10-27",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-10-27T10:59:04+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "શૅરબજારમાં ઉતાર-ચઢાવ વચ્ચે SIPમાં રોકાણ ચાલુ રાખવું જોઈએ કે બંધ કરી દેવું જોઈએ?",
+            "link": "https://www.bbc.com/gujarati/articles/cqvgrknn2rjdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-10-27T07:15:27+00:00"
+          },
+          {
+            "title": "લખનઉમાં કાર પાર્કિંગ મામલે ધોળાદિવસે 3ની હત્યા:પિતા-પુત્ર અને ભાઈને પાડોશીએ ધડાધડ ગોળીઓ મારી; 5 ડિસેમ્બરે પુત્રના લગ્ન થવાના હતા",
+            "link": "https://www.divyabhaskar.co.in/national/news/lucknow-parking-dispute-triple-murder-shiwaji-tiwari-suyash-139504061.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-10-27T06:58:38+00:00"
+          },
+          {
             "title": "સોના-ચાંદીમાં મોટો કડાકો:₹4 લાખ વટાવી ચૂકેલી ચાંદી સીધી ₹2.26 લાખ સસ્તી થઈ; સોનાના ભાવમાં પણ મોટો ઘટાડો",
             "link": "https://www.divyabhaskar.co.in/business/news/gold-silver-price-crash-india-mcx-market-update-139504032.html",
             "source": "Divya Bhaskar",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-10-27T03:08:03+00:00"
-          },
-          {
-            "title": "વાવાઝોડું 'અર્નબ' અતિભારે ચક્રવાતમાં ફેરવાયું, સ્કૂલ-કૉલેજો બંધ, આગળ વધીને ત્રાટકશે ત્યારે કેવી અસર થશે?",
-            "link": "https://www.bbc.com/gujarati/articles/c6n9rdwnn708o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "બંગાળની ખાડીમાં સર્જાયેલું ચક્રવાતી વાવાઝોડું 'અર્નબ' હવે વધુ વિકરાળ સ્વરૂપ ધારણ કરીને અત્યંત ગંભીર ચક્રવાતી તોફાનમાં ફેરવાઈ ગયું છે. હવામાન વિભાગના તાજેતરના અહેવાલ મુજબ, ૨૭ ઓક્ટોબરની સવારે આ વાવાઝોડું વિશાખાપટ્ટનમથી ૩૦૦ કિલોમીટર, કાકીનાડાથી ૩૮૦ કિલોમીટર અને મછલીપટ્ટનમથી ૪૬૦ કિલોમીટર દૂર દક્ષિણ-પશ્ચિમ દિશામાં સક્રિય છે. ૨૮ ઓક્ટોબરના રોજ આ વાવાઝોડું દરિયાકિનારાના વિસ્તારો સાથે ટકરાશે તેવી પ્રબળ શક્યતા છે, જેના કારણે ઓડિશા અને આંધ્ર પ્રદેશમાં હાઈ એલર્ટ જાહેર કરવામાં આવ્યું છે. વહીવટી તંત્ર દ્વારા એકોય સાવચેતીના ભાગરૂપે આ બંને રાજ્યોમાં તમામ શાળાઓ અને કોલેજો બંધ કરવાનો આદેશ આપી દેવામાં આવ્યો છે. આ ઉપરાંત, માછીમારોને દરિયો ન ખેડવાની કડક સૂચના આપવામાં આવી છે અને કોઈપણ પ્રકારની જાનહાનિ ટાળવા માટે બચાવ દળોને સંપૂર્ણ સજ્જ રહેવા માટે કહેવામાં આવ્યું છે. દરિયાઈ તોફાનના કારણે જે વિસ્તારોમાં ભારે વરસાદ અને પવન ફૂંકાવાની શક્યતા છે, ત્યાં વહીવટીતંત્ર સતત દેખરેખ રાખી રહ્યું છે જેથી કરીને પ્રભાવિત વિસ્તારોમાંથી લોકોને સલામત સ્થળે ખસેડી શકાય અને આ કુદરતી આપત્તિની અસરને ન્યૂનતમ કરી શકાય.",
-            "published": "2026-10-27T02:35:54+00:00"
-          },
-          {
-            "title": "તમિલનાડુની થેની જેલમાંથી 17 કેદી ફરાર:પોલીસકર્મીઓ પર હુમલો કરીને ભાગ્યા; 4ની ધરપકડ, બાકીની શોધ માટે 17 ટીમો બનાવાઈ",
-            "link": "https://www.divyabhaskar.co.in/national/news/tamilnadu-theni-jail-break-prisoners-escape-search-operation-139502055.html",
-            "source": "Divya Bhaskar",
-            "summary": "તમિલનાડુના થેની જિલ્લામાં આવેલી સબ-જેલમાં સોમવારે મોડી રાત્રે એક ગંભીર સુરક્ષા ચૂકનો મામલો સામે આવ્યો છે, જ્યાં ૧૭ જેટલા કેદીઓએ જેલના કર્મચારીઓ પર હુમલો કરીને ત્યાંથી ફરાર થવામાં સફળતા મેળવી હતી. આ ઘટનાની જાણ થતાં જ પોલીસ તંત્રમાં દોડધામ મચી ગઈ હતી અને રાતભર વ્યાપક સર્ચ ઓપરેશન હાથ ધરવામાં આવ્યું હતું. અત્યાર સુધીની કાર્યવાહીમાં પોલીસે ૧૭ માંથી ૪ કેદીઓને ઝડપી પાડ્યા છે, જ્યારે બાકીના ૧૩ કેદીઓની સઘન શોધખોળ કરવા માટે ૧૭ વિશેષ પોલીસ ટીમોનું ગઠન કરવામાં આવ્યું છે. સાઉથ ઝોનના પોલીસ મહાનિરીક્ષક વિજયેન્દ્ર બિદારીના જણાવ્યા મુજબ, જેલમાં બંધ આ તમામ કેદીઓ એક જ સેલમાં રાખવામાં આવ્યા હતા. ઘટનાના દિવસે જ્યારે જેલના કર્મચારીઓને સૂચના મળી કે એક કેદીની તબિયત લથડી છે, ત્યારે તેઓ તપાસ કરવા માટે ગયા હતા, અને આ તકનો લાભ લઈને કેદીઓએ કર્મચારીઓ પર હુમલો કરી દીધો હતો. હાલમાં આસપાસના વિસ્તારોમાં નાકાબંધી કરીને નાસી છૂટેલા કેદીઓને પકડવાના પ્રયાસો તેજ કરી દેવામાં આવ્યા છે અને જેલની સુરક્ષા વ્યવસ્થાની તપાસ પણ શરૂ કરવામાં આવી છે.",
-            "published": "2026-10-27T01:03:51+00:00"
           }
         ]
       }
@@ -895,25 +895,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "டென்ஷனான கிம் ஜாங் உன்.. தென்கொரியாவுடன் போரை தொடங்கும் வடகொரியா? எல்லையில் குவியும் பீரங்கிகள்",
-            "link": "https://tamil.oneindia.com/news/international/north-korea-deploys-3-howitzers-spotted-closeto-the-south-korea-border-840991.html",
-            "source": "Oneindia Tamil",
-            "summary": "வடகொரியா மற்றும் தென்கொரியா நாடுகளுக்கு இடையே நீண்டகாலமாக நிலவி வரும் மோதல் போக்கு தற்போது உச்சகட்டத்தை எட்டியுள்ளது. வடகொரிய அதிபர் கிம் ஜாங் உன், திடீரென தனது நாட்டு எல்லைப் பகுதிகளில் பெருமளவிலான ராணுவப் படைகளையும், பீரங்கிகளையும் குவித்துள்ள செயல் சர்வதேச அளவில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது. இந்த ராணுவ நகர்வுகள் வெறும் எச்சரிக்கைக்காகவா அல்லது தென்கொரியா மீது நேரடிப் போரைத் தொடங்குவதற்கான முன்னேற்பாடா என்ற அச்சம் உலக நாடுகளிடையே எழுந்துள்ளது. கொரிய தீபகற்பத்தில் அமைதி நிலவ சர்வதேச சமூகம் வலியுறுத்தி வரும் வேளையில், கிம் ஜாங் உன்னின் இந்த அதிரடி நடவடிக்கை பதற்றத்தை அதிகரித்துள்ளது. எல்லையில் படைகள் குவிகின்ற சூழலில், தென்கொரியாவும் பாதுகாப்பு ஏற்பாடுகளை பலப்படுத்தியுள்ளது. இரு நாடுகளும் அணு ஆயுத பலம் கொண்டவை என்பதால், இந்த மோதல் ஒரு போர்ச் சூழலுக்கு வழிவகுத்தால் அது ஆசியப் பிராந்தியத்தில் மிகப்பெரிய பாதிப்புகளை ஏற்படுத்தும் என்று அரசியல் விமர்சகர்கள் எச்சரிக்கின்றனர். கிம் ஜாங் உன் எத்தகைய முடிவை எடுக்கப் போகிறார் என்பது தற்போதைக்கு விடையற்ற கேள்வியாகவே உள்ளது. ராணுவ ரீதியாக தன்னை நிலைநிறுத்திக் கொள்ள அவர் எடுக்கும் இந்த நடவடிக்கைகள், பிராந்தியத்தின் ஸ்திரத்தன்மையை அச்சுறுத்தும் வகையில் அமைந்துள்ளதால், உலகம் முழுவதும் உள்ள நாடுகள் இந்த நிகழ்வை உன்னிப்பாகக் கவனித்து வருகின்றன.",
-            "published": "2026-10-27T12:12:21+05:30"
-          },
-          {
             "title": "தேனி சிறையிலிருந்து ஒரே நேரத்தில் தப்பிய 17 கைதிகள்: 4 பேரை பிடித்த காவல்துறை - என்ன நடக்கிறது?",
             "link": "https://www.bbc.com/tamil/articles/cmly0xnvyjeno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
             "summary": "தேனி கிளைச் சிறையிலிருந்து ஒரே நேரத்தில் 17 கைதிகள் தப்பிச் சென்ற சம்பவம் தமிழக காவல்துறையினரிடையே பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. சிறை நிர்வாகத்தின் பாதுகாப்பு குறைபாடுகள் மற்றும் கண்காணிப்பில் இருந்த ஓட்டைகளை இது வெளிச்சத்திற்குக் கொண்டு வந்துள்ளது. சம்பவம் நடந்த சில மணி நேரங்களிலேயே காவல்துறையினர் தீவிர தேடுதல் வேட்டையில் இறங்கி, தப்பியோடியவர்களில் 4 பேரை மீண்டும் பிடித்துள்ளனர். எஞ்சிய 17 பேரை வலைவீசித் தேட தனிப்படைகள் அமைக்கப்பட்டுள்ளன. மாநிலம் முழுவதும் உள்ள முக்கிய சாலைகள், பேருந்து நிலையங்கள் மற்றும் ரயில் நிலையங்களில் தீவிர வாகனச் சோதனை நடத்தப்பட்டு வருகிறது. எல்லைப் பகுதிகள் மற்றும் முக்கிய நுழைவு வாயில்களிலும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது. சிறையிலிருந்து எப்படி இத்தனை பேர் தப்பிக்க முடிந்தது, இதில் சிறைக்காவலர்களின் அலட்சியம் உள்ளதா அல்லது கைதிகளுக்கு ஏதேனும் திட்டமிடப்பட்ட உதவி கிடைத்ததா என்பது குறித்த விசாரணை முடுக்கி விடப்பட்டுள்ளது. தப்பியோடிய கைதிகளால் சட்டம்-ஒழுங்கு பிரச்சனை ஏற்பட வாய்ப்புள்ளதால், பொதுமக்கள் பாதுகாப்பாக இருக்க அறிவுறுத்தப்பட்டுள்ளனர். மிக முக்கியமான இந்த பாதுகாப்பு மீறல், சிறைத்துறையின் செயல்பாடுகள் குறித்து மறுபரிசீலனை செய்ய வேண்டிய கட்டாயத்தை அரசுக்கு ஏற்படுத்தியுள்ளது.",
-            "published": "2026-10-27T06:41:35+00:00"
+            "published": "2026-10-27T07:29:53+00:00"
           },
           {
             "title": "சீனாவை வைத்து.. \"உளவியல்\" போரை ஆரம்பித்த பாகிஸ்தான்? இந்தியா கொடுக்க போகும் தரமான பதிலடி!",
             "link": "https://tamil.oneindia.com/news/international/india-china-border-tensions-old-videos-now-circulate-as-psychological-warfare-claims-emerge-840995.html",
             "source": "Oneindia Tamil",
             "summary": "இந்தியா மற்றும் சீனா இடையிலான எல்லைப் பதற்றத்தை வைத்து, பாகிஸ்தான் ஒரு புதிய உளவியல் போரைத் தொடங்கியுள்ளதாக தகவல்கள் வெளியாகியுள்ளன. அருணாச்சலப் பிரதேச எல்லையில் சீன ராணுவம் ஊடுருவியதாகவும், இந்திய ராணுவத்திற்குப் பின்னடைவு ஏற்பட்டதாகவும் கூறும் பழைய மற்றும் தவறான காணொளிகளை பாகிஸ்தான் சமூக வலைதளங்களில் பரப்பி வருகிறது. இந்தியாவிற்கும் சீனாவிற்கும் இடையிலான உறவில் விரிசல் ஏற்படுத்தும் நோக்கத்துடன், தவறான தகவல்களைப் பரப்புவதன் மூலம் இந்திய ராணுவத்தின் மன உறுதியைக் குலைக்க பாகிஸ்தான் முயல்கிறது. இந்தச் செயல்களை இந்திய பாதுகாப்புத் துறை மிகவும் தீவிரமாகக் கவனித்து வருகிறது. எல்லையில் உண்மையான சூழல் எப்படி இருக்கிறது என்பதை உலக நாடுகளுக்கு உணர்த்தவும், பாகிஸ்தானின் இத்தகைய பொய்ப் பிரச்சாரங்களை முறியடிக்கவும் இந்தியா தயாராகி வருகிறது. இந்திய ராணுவம் எல்லையில் மிகுந்த விழிப்புணர்வுடன் இருப்பதை உறுதி செய்யும் அதே வேளையில், இந்த டிஜிட்டல் மற்றும் தகவல் போரைச் சமாளிக்க உரிய தரவுகளை இந்திய அரசு வெளியிடும் என்று எதிர்பார்க்கப்படுகிறது. இத்தகைய உளவியல் போர்களுக்கு இந்தியா தகுந்த பதிலடி கொடுக்கும் என்பதில் சந்தேகம் இல்லை என்று பாதுகாப்பு வல்லுநர்கள் கருத்து தெரிவிக்கின்றனர்.",
-            "published": "2026-10-27T12:10:47+05:30"
+            "published": "2026-10-27T12:47:14+05:30"
+          },
+          {
+            "title": "டென்ஷனான கிம் ஜாங் உன்.. தென்கொரியாவுடன் போரை தொடங்கும் வடகொரியா? எல்லையில் குவியும் பீரங்கிகள்",
+            "link": "https://tamil.oneindia.com/news/international/north-korea-deploys-3-howitzers-spotted-closeto-the-south-korea-border-840991.html",
+            "source": "Oneindia Tamil",
+            "summary": "வடகொரியா மற்றும் தென்கொரியா நாடுகளுக்கு இடையே நீண்டகாலமாக நிலவி வரும் மோதல் போக்கு தற்போது உச்சகட்டத்தை எட்டியுள்ளது. வடகொரிய அதிபர் கிம் ஜாங் உன், திடீரென தனது நாட்டு எல்லைப் பகுதிகளில் பெருமளவிலான ராணுவப் படைகளையும், பீரங்கிகளையும் குவித்துள்ள செயல் சர்வதேச அளவில் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது. இந்த ராணுவ நகர்வுகள் வெறும் எச்சரிக்கைக்காகவா அல்லது தென்கொரியா மீது நேரடிப் போரைத் தொடங்குவதற்கான முன்னேற்பாடா என்ற அச்சம் உலக நாடுகளிடையே எழுந்துள்ளது. கொரிய தீபகற்பத்தில் அமைதி நிலவ சர்வதேச சமூகம் வலியுறுத்தி வரும் வேளையில், கிம் ஜாங் உன்னின் இந்த அதிரடி நடவடிக்கை பதற்றத்தை அதிகரித்துள்ளது. எல்லையில் படைகள் குவிகின்ற சூழலில், தென்கொரியாவும் பாதுகாப்பு ஏற்பாடுகளை பலப்படுத்தியுள்ளது. இரு நாடுகளும் அணு ஆயுத பலம் கொண்டவை என்பதால், இந்த மோதல் ஒரு போர்ச் சூழலுக்கு வழிவகுத்தால் அது ஆசியப் பிராந்தியத்தில் மிகப்பெரிய பாதிப்புகளை ஏற்படுத்தும் என்று அரசியல் விமர்சகர்கள் எச்சரிக்கின்றனர். கிம் ஜாங் உன் எத்தகைய முடிவை எடுக்கப் போகிறார் என்பது தற்போதைக்கு விடையற்ற கேள்வியாகவே உள்ளது. ராணுவ ரீதியாக தன்னை நிலைநிறுத்திக் கொள்ள அவர் எடுக்கும் இந்த நடவடிக்கைகள், பிராந்தியத்தின் ஸ்திரத்தன்மையை அச்சுறுத்தும் வகையில் அமைந்துள்ளதால், உலகம் முழுவதும் உள்ள நாடுகள் இந்த நிகழ்வை உன்னிப்பாகக் கவனித்து வருகின்றன.",
+            "published": "2026-10-27T12:12:21+05:30"
           },
           {
             "title": "வங்கக்கடலில் 'அர்னாப்' புயல் நகர்வு எப்படி உள்ளது? தமிழ்நாட்டில் மழை நிலவரம் என்ன?",
@@ -1072,11 +1072,67 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Ramayana: ముందు అంటారు.. తర్వాత క్షమాపణలు చెబుతారు: రామాయణ ట్రోల్స్‌పై రెహమన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcl9pNDhtUW1sUm4wYjBFcFJ0Rk9EQl85NHVvMHJjaXJGR3pvSWNydG9MSWw4Nkc3YnlMNldCVEZ6RG4zdlRtamlZOXEtcWV3TGJLa3VWNDlJX3A2WWlJdDN2Zzlnd3VxYnRoMG5hbk1vSFZGZ2s0Mk9zamhyeFZlLW9ScmI3bVl6cmVnV2t3OGlWeVh6dXR4dtIBmAFBVV95cUxOcl9pNDhtUW1sUm4wYjBFcFJ0Rk9EQl85NHVvMHJjaXJGR3pvSWNydG9MSWw4Nkc3YnlMNldCVEZ6RG4zdlRtamlZOXEtcWV3TGJLa3VWNDlJX3A2WWlJdDN2Zzlnd3VxYnRoMG5hbk1vSFZGZ2s0Mk9zamhyeFZlLW9ScmI3bVl6cmVnV2t3OGlWeVh6dXR4dg?oc=5",
+            "title": "AP 12th PRC: ఏపీ ఉద్యోగులకు మరో గుడ్ న్యూస్..! పీఆర్సీపై మరో అప్డేట్..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-12th-prc-update-retired-ias-officer-p-laxminarasimham-appointed-secretary-512437.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:50:56+05:30"
+          },
+          {
+            "title": "రైళ్ల రద్దు, విద్యాసంస్థలకు సెలవులు, నిత్యావసరాలు రెడీ చేసుకుంటున్న ప్రజలు.. అర్నబ్ తుపాను ఆంధ్రప్రదేశ్‌పై ఎలాంటి ప్రభావం చూపుతోందంటే",
+            "link": "https://www.bbc.com/telugu/articles/cx8dz5rqpz01o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
+            "summary": "",
+            "published": "2026-10-27T07:13:31+00:00"
+          },
+          {
+            "title": "నా వాళ్ల మీద చేయి వస్తే నా మీద వేసినట్లే, ఇక్కడే ఉంటా... ఎవరొస్తారో రండి- జగన్..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ys-jagan-makes-sensational-comments-on-coalition-excesses-in-local-body-elections-512435.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:42:22+05:30"
+          },
+          {
+            "title": "బెంగళూరులో ఈ రద్దీ రూట్ లో ఎలివేటెడ్ కారిడార్.. !!",
+            "link": "https://telugu.oneindia.com/news/india/bengaluru-considers-elevated-corridor-or-short-flyovers-on-hennur-bagalur-road-to-ease-kia-traffic-512433.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:42:19+05:30"
+          },
+          {
+            "title": "'అర్నాబ్' ఉగ్రరూపం.. ప్రయాణికులకు ఎయిర్ ఇండియా విజ్ఞప్తి",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/air-india-issues-advisory-for-visakhapatnam-and-vijayawada-flights-due-to-severe-cyclone-arnab-threa-512431.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:37:13+05:30"
+          },
+          {
+            "title": "AP Local Polls: కూటమికే ఎందుకు ఓటేయాలంటే?- చంద్రబాబు, పవన్, మాధవ్ కామెంట్స్..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-local-polls-chandrababu-pawan-kalyan-and-pvn-madhav-seek-votes-on-development-agenda-512429.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:26:26+05:30"
+          },
+          {
+            "title": "మున్సిపల్ ఎన్నికలపై ఆర్నాబ్ తుఫాన్ ఎఫెక్ట్, కీలక నిర్ణయం..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/arnab-cyclone-impact-on-municipal-elections-in-ap-key-decisions-likely-to-announce-512427.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:10:50+05:30"
+          },
+          {
+            "title": "ఇలా అయితే రూపాయి గతి ఏంటి? వణికిపోతున్న కరెన్సీ మార్కెట్లు..",
+            "link": "https://telugu.oneindia.com/news/business/indian-rupee-slump-continues-high-oil-prices-and-rising-dollar-demand-push-usd-inr-pair-toward-95-2-512425.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T12:06:52+05:30"
+          },
+          {
+            "title": "Keralam: కేరళంలో అద్భుతం.. ఏసీ గదిలో పండిన కశ్మీరీ కుంకుమపువ్వు.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0ZxbGczeXFlSXhNY1hUTEZMQkpKSmtEanNiS3oxQmVJVktXVlpLQ1VRcDM3REwyaWNuNUplcGVKLTdlQ3VCYW9vLUlKTkJ5dDJYNjd5SkRrM216Qllweno1SEtPa2dDa3B1cGEtTzlaZEpDWGhjaEpYVUoxMnhOY1hBeFdUN0tmbFAtcFNQWVdvTWRLSHhJU0ZuOXRYTDdUTmtwR0hqQkRaVUJzbnNuT2xTaHVKRmvSAbcBQVVfeXFMUHdGcWxnM3lxZUl4TWNYVExGTEJKSkprRGpzYkt6MUJlSVZLV1ZaS0NVUXAzN0RMMmljbjVKZXBlSi03ZUN1QmFvby1JSk5CeXQyWDY3eUpEazNtekJZcHp6NUhLT2tnQ2twdXBhLU85WmRKQ1hoY2hKWFVKMTJ4TmNYQXhXVDdLZmxQLXBTUFlXb01kS0h4SVNGbjl0WEw3VE5rcEdIakJEWlVCc25zbk9sU2h1SkZr?oc=5",
             "source": "Eenadu",
-            "summary": "రామాయణ కావ్యం నేపథ్యంలో సోషల్ మీడియాలో జరుగుతున్న ట్రోల్స్ మరియు వివాదాస్పద వ్యాఖ్యలపై ప్రముఖ సంగీత దర్శకుడు ఏఆర్ రెహమాన్ తాజాగా స్పందించారు. నెటిజన్లు ముందుగా ఏదైనా ఒక విషయాన్ని అనవసరంగా విమర్శించడం లేదా వివాదాస్పదం చేయడం, ఆ తర్వాత పరిస్థితి తీవ్రతను గ్రహించి క్షమాపణలు కోరడం పరిపాటిగా మారిందని ఆయన అసహనం వ్యక్తం చేశారు. బాధ్యతాయుతమైన వేదికగా ఉండాల్సిన సోషల్ మీడియా, ప్రస్తుతం ఇతరుల మనోభావాలను దెబ్బతీసేలా ప్రవర్తించడం పట్ల ఆయన విచారం వ్యక్తం చేశారు. ఒక గొప్ప పురాణ కావ్యాన్ని అపహాస్యం చేసేలా ట్రోల్స్ ఉండటం ఏమాత్రం సమర్థనీయం కాదని ఆయన అభిప్రాయపడ్డారు. ఇటువంటి చర్యల వల్ల సామాజిక సామరస్యం దెబ్బతినడమే కాకుండా, సృజనాత్మకతకు కూడా ఆటంకం కలుగుతుందని ఆయన హెచ్చరించారు. క్షమాపణలు చెప్పడం కంటే, మాట్లాడే ముందు ఆలోచించడం ముఖ్యమని ఆయన సూచించారు. ఇలాంటి వివాదాల వెనుక ఉన్న అసలు ఉద్దేశాలను ప్రజలు గుర్తించాలని ఆయన కోరారు. కళాకారులను, పురాణాలను గౌరవించడం ప్రతి ఒక్కరి ప్రాథమిక బాధ్యతని, దీనిపై ప్రతి ఒక్కరూ ఆత్మపరిశీలన చేసుకోవాలని ఆయన పిలుపునిచ్చారు. ఈ ఘటన సమాజంలో నెలకొన్న సహన లోపాన్ని ప్రతిబింబిస్తోందని ఆయన వాపోయారు.",
-            "published": "2026-10-27T06:46:13+00:00"
+            "summary": "",
+            "published": "2026-10-27T06:24:08+00:00"
           },
           {
             "title": "Cyclone Arnab: ఏపీపై అర్నబ్‌ ఎఫెక్ట్‌.. తీరప్రాంతాల్లో అలజడి - Eenadu",
@@ -1086,74 +1142,18 @@
             "published": "2026-10-27T06:22:24+00:00"
           },
           {
+            "title": "వీటో అధికారాలపై ఐరాస వేదికగా తేల్చి చెప్పిన భారత్: అవి ద్వితీయ శ్రేణి దేశాలే",
+            "link": "https://telugu.oneindia.com/news/international/india-says-un-security-council-reform-without-veto-rights-creates-second-class-permanent-members-512419.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-27T11:39:33+05:30"
+          },
+          {
             "title": "Nandyal: మంచినీటి పైప్‌లైన్‌ లీకేజీ.. ఉవ్వెత్తున ఎగసిన నీరు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGstQkxrVmQtRFJQMUhFZ1BFczVTak9VbGtUdmJXWWJaQ2dBZTluWDc5VzI1c1ZHN2hEWEtjSS1ZV1BHMFgtQzRlOFF1QWVyS3VER0s5c0h0LTR0RjNfMmZaUks3NnZYdnZPT0N6WU5NZ1ZwTVhFVkZhWDItTFFzS0tsTTZoZzlMWDFOenZ5OFFrSTZJcE5ybzltOVhVTHhfN1hta28xVTlJcmp10gGsAUFVX3lxTE54ay1CTGtWZC1EUlAxSEVnUEVzNVNqT1Vsa1R2YldZYlpDZ0FlOW5YNzlXMjVzVkc3aERYS2NJLVlXUEcwWC1DNGU4UXVBZXJLdURHSzlzSHQtNHRGM18yZlpSSzc2dlh2dk9PQ3pZTk1nVnBNWEVWRmFYMi1MUXNLS2xNNmhnOUxYMU56dnk4UWtJNklwTnJvOW05WFVMeF83WG1rbzFVOUlyanU?oc=5",
             "source": "Eenadu",
             "summary": "నంద్యాల పట్టణంలో జరిగిన ఒక ఊహించని సంఘటన స్థానికులను తీవ్ర ఆందోళనకు గురిచేసింది. నగరంలోని ప్రధాన మంచినీటి పైప్‌లైన్‌ ఒక్కసారిగా పగిలిపోవడంతో, నీరు పెద్ద ఎత్తున గాలిలోకి ఉవ్వెత్తున ఎగసిపడింది. ఈ దృశ్యం చూసిన స్థానికులు భయాందోళనలకు లోనయ్యారు. పైపులైన్ నుండి వచ్చిన నీటి ఒత్తిడి ఎంత ఎక్కువగా ఉందంటే, అది గాలిలో చాలా మీటర్ల ఎత్తు వరకు చిమ్మడం వల్ల చుట్టుపక్కల ప్రాంతాలు జలమయమయ్యాయి. వెంటనే అప్రమత్తమైన స్థానిక ప్రజలు సంబంధిత మున్సిపల్ అధికారులకు సమాచారం అందించారు. అధికారులు ఘటనా స్థలానికి చేరుకుని, నీటి సరఫరాను నిలిపివేసి మరమ్మతు పనులను ప్రారంభించారు. ప్రధాన పైప్‌లైన్ కావడంతో నగరంలోని పలు ప్రాంతాల్లో నీటి సరఫరా నిలిచిపోయే అవకాశం ఉందని అధికారులు పేర్కొన్నారు. ఇంత పెద్ద మొత్తంలో నీరు వృథా కావడం పట్ల ప్రజలు ఆవేదన వ్యక్తం చేస్తున్నారు. నాణ్యత లేని పనుల వల్లే ఇలాంటి ప్రమాదాలు జరుగుతున్నాయని పలువురు విమర్శిస్తున్నారు. సరైన సమయంలో అధికారులు స్పందించడం వల్ల భారీ ప్రమాదం తప్పిందని, త్వరలోనే సమస్యను పరిష్కరిస్తామని మున్సిపల్ శాఖ హామీ ఇచ్చింది. ప్రజలు కూడా పైప్‌లైన్లకు దూరంగా ఉండాలని సూచించారు.",
             "published": "2026-10-27T06:08:07+00:00"
-          },
-          {
-            "title": "Hyderabad: దుర్గంచెరువు కేబుల్‌ బ్రిడ్జి పైనుంచి దూకి సాఫ్ట్‌వేర్‌ ఉద్యోగి ఆత్మహత్య - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVVRXcG9MWVlPQ19qMXFzSFMtbmprT2lNQUowbWpGdW1xU05aQXpNOGJjSG5wNzQzVDducFR2a3ZuUlhFUXplaTE2bS1panBKVzNlUVZmOVo2SHQtR2FaNWgzRWxwWWxxbmxPYUp2aGN5ZlhKaTFuUlRSXzJUOV90NF9ObGpZWThlN1F6Q0xrdWh5NEdPa0dGdDVEc01iSmdoZkVTd3MySENOaUhaRF9SWE44WnRKNEJOM3FTaW5LSFhuMXh2VEZRS0dqZFBIbTlTVWllWmdNRnYwNnJ3YnptQVpRNA?oc=5",
-            "source": "Eenadu",
-            "summary": "హైదరాబాద్ నగరంలో విషాదకరమైన ఘటన చోటుచేసుకుంది. నగరంలోని ప్రసిద్ధ దుర్గం చెరువు కేబుల్ బ్రిడ్జి పైనుంచి దూకి ఒక సాఫ్ట్‌వేర్ ఉద్యోగి ఆత్మహత్యకు పాల్పడ్డారు. ఈ ఘటన జరిగిన వెంటనే స్థానికులు పోలీసులకు సమాచారం అందించారు. సమాచారం అందుకున్న పోలీసులు మరియు గజ ఈతగాళ్లు ఘటనా స్థలానికి చేరుకుని గాలింపు చర్యలు చేపట్టారు. మృతదేహం కోసం జరిపిన తీవ్ర ప్రయత్నాల అనంతరం దానిని వెలికితీశారు. మృతుడు ఐటీ రంగంలో పనిచేస్తున్నాడని ప్రాథమిక విచారణలో తెలిసింది. అయితే ఆత్మహత్యకు గల కారణాలు ఇంకా తెలియాల్సి ఉంది. వ్యక్తిగత కారణాల వల్ల లేదా ఒత్తిడి వల్ల ఈ నిర్ణయం తీసుకుని ఉండవచ్చని పోలీసులు అనుమానిస్తున్నారు. కేసు నమోదు చేసుకున్న పోలీసులు దర్యాప్తు ప్రారంభించారు. సిసి కెమెరా ఫుటేజీని పరిశీలిస్తూ, మృతుని కుటుంబ సభ్యులను విచారిస్తున్నారు. నగరంలో ఇలాంటి ఘటనలు జరగడం పట్ల ఆందోళన వ్యక్తమవుతోంది. యువత ఆత్మహత్యల వైపు మొగ్గు చూపడం విషాదకరమని, ఏదైనా సమస్య ఉంటే కుటుంబ సభ్యులతో లేదా కౌన్సిలర్లతో పంచుకోవాలని అధికారులు సూచిస్తున్నారు. మృతదేహాన్ని పోస్టుమార్టం నిమిత్తం ఆసుపత్రికి తరలించారు.",
-            "published": "2026-10-27T06:03:02+00:00"
-          },
-          {
-            "title": "AP news: కూటమి నేతల మీడియా సమావేశం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0NhUXRCZE1ibXl3TFg3UExUdTlOc1FkcldEdkxYd3NPX0MyUTJNWU5OUnJXdG1XMzhLVXduYnNSV1dOVFR5M0JHQ2ZvWklVa0t4QmQydlRORE41eThZVHRUcDNYcld6MzNGUmlMN0x1SFhtSmxlaEF4MkFYRjg1YmJUcjZCYlhVaFBSVV9nWmcySEM4a3RCU0oyWnHSAZwBQVVfeXFMTVNDYVF0QmRNYm15d0xYN1BMVHU5TnNRZHJXRHZMWHdzT19DMlEyTVlOTlJyV3RtVzM4S1V3bmJzUldXTlRUeTNCR0Nmb1pJVWtLeEJkMnZUTkRONXk4WVR0VHAzWHJXejMzRlJpTDdMdUhYbUpsZWhBeDJBWEY4NWJiVHI2QmJYVWhQUlVfZ1pnMkhDOGt0QlNKMlpx?oc=5",
-            "source": "Eenadu",
-            "summary": "ఆంధ్రప్రదేశ్‌లో రాజకీయ పరిణామాలు వేగంగా మారుతున్న నేపథ్యంలో, కూటమి నేతలు తాజాగా మీడియా సమావేశాన్ని నిర్వహించారు. తాజా రాజకీయ పరిస్థితులు, ప్రభుత్వ విధానాలు మరియు ప్రజల సమస్యలపై ఈ సమావేశంలో విస్తృతంగా చర్చించారు. కూటమిలోని ప్రధాన పార్టీల నేతలు పాల్గొని, రాష్ట్ర భవిష్యత్తు గురించి తమ వ్యూహాలను వెల్లడించారు. ప్రభుత్వం అనుసరిస్తున్న తీరుపై తాము నిరంతరం నిఘా ఉంచుతామని, ప్రజల సంక్షేమమే తమ ప్రాధాన్యత అని వారు స్పష్టం చేశారు. ప్రతిపక్షంలో ఉన్నా, ప్రభుత్వం తీసుకునే ప్రజా వ్యతిరేక నిర్ణయాలను గట్టిగా ప్రశ్నిస్తామని నాయకులు తేల్చిచెప్పారు. ముఖ్యంగా నిరుద్యోగ సమస్య, మౌలిక వసతుల కల్పన మరియు అభివృద్ధి పనుల వేగవంతంపై తాము చేస్తున్న పోరాటాలను వివరించారు. కూటమి ఐక్యత రాష్ట్ర రాజకీయాల్లో ఎలాంటి మార్పులు తీసుకువస్తుందో వారు చర్చించారు. రాబోయే రోజుల్లో రాష్ట్రవ్యాప్తంగా ప్రజా సమస్యలపై పెద్ద ఎత్తున నిరసనలు, కార్యక్రమాలు చేపడతామని వారు ప్రకటించారు. మీడియా అడిగిన పలు ప్రశ్నలకు సమాధానాలు ఇస్తూ, తాము ప్రజల పక్షాన నిలబడతామని హామీ ఇచ్చారు. నేతల మధ్య సమన్వయం ఎలా ఉందో కూడా ఈ సమావేశం ద్వారా స్పష్టమైంది. భవిష్యత్తులో రాజకీయ పరిస్థితులు ఎలా మారతాయన్నది ఆసక్తికరంగా మారింది.",
-            "published": "2026-10-27T05:51:44+00:00"
-          },
-          {
-            "title": "Visakhapatnam: విశాఖలో 10 మీటర్లు ముందుకొచ్చిన సముద్రం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTVlMzhQV3pXQlk1Y3ZiLWJGVXJubTA3ZXRCSjZVZmNYSW5ZdHpiREFFa2NsSjRFSDhkRldxbHRMWkFKakc1NUhLODVzcU5zYU00d3pkYnpoNjJCV2RGWU5WdWRVeXVMNjJzMUU2dWN6MzQ0NmZTTkNOQzh6ZjFQSXNBcmVtT0FFQThwNF9rbTlRM3lwRTdHTUFRNjUwSFRsM2M0MEt0QzU1bnpMbGQ4c3I1Qk1Gam5zTHV5OFFsUmjSAcABQVVfeXFMTVk1ZTM4UFd6V0JZNWN2Yi1iRlVybm0wN2V0Qko2VWZjWEluWXR6YkRBRWtjbEo0RUg4ZEZXcWx0TFpBSmpHNTVISzg1c3FOc2FNNHd6ZGJ6aDYyQldkRllOVnVkVXl1TDYyczFFNnVjejM0NDZmU05DTkM4emYxUElzQXJlbU9BRUE4cDRfa205UTN5cEU3R01BUTY1MEhUbDNjNDBLdEM1NW56TGxkOHNyNUJNRmpuc0x1eThRbFJo?oc=5",
-            "source": "Eenadu",
-            "summary": "విశాఖపట్నం తీరంలో సముద్రం అకస్మాత్తుగా 10 మీటర్ల మేర ముందుకి రావడం స్థానికులను, పర్యాటకులను ఆందోళనకు గురిచేస్తోంది. సాధారణంగా అలల తాకిడి ఎక్కువగా ఉన్నప్పుడు సముద్రం ముందుకు రావడం సహజమే అయినా, ఈసారి మరీ ఎక్కువగా లోతట్టు ప్రాంతాల వైపు దూసుకురావడం చర్చనీయాంశంగా మారింది. సముద్ర మట్టంలో వస్తున్న మార్పులు, భూభౌగోళిక పరిస్థితులపై నిపుణులు ఆరా తీస్తున్నారు. తీర ప్రాంత వాసులు అప్రమత్తంగా ఉండాలని అధికారులు సూచిస్తున్నారు. విశాఖ నగరంలో ఉన్న ప్రముఖ బీచ్‌లలో పర్యాటకుల రద్దీ ఎక్కువగా ఉంటుంది కాబట్టి, వారి భద్రతను దృష్టిలో ఉంచుకుని పర్యాటక పోలీసులు నిఘా పెంచారు. సముద్రపు అలలు ఆకస్మికంగా పెరగడానికి కారణాలు ఏమిటో తెలుసుకునేందుకు జియోలాజికల్ విభాగం వారు పరిశీలనలు చేస్తున్నారు. గతంలో కూడా ఇలాంటి పరిస్థితులు తలెత్తినప్పటికీ, ప్రస్తుత మార్పులు కాస్త భిన్నంగా ఉన్నాయని స్థానికులు చెబుతున్నారు. సముద్రం ఇలాగే ముందుకు వస్తే తీర ప్రాంతంలోని నిర్మాణాలు, ఇతర మౌలిక సదుపాయాలకు ప్రమాదం వాటిల్లే అవకాశం ఉందని పర్యావరణ వేత్తలు ఆందోళన చెందుతున్నారు. ప్రకృతి వైపరీత్యాలు సంభవించే సూచనలు ఉన్నాయా లేదా కేవలం అల్పపీడన ప్రభావమా అనేది స్పష్టత రావాల్సి ఉంది. ఎటువంటి ఆందోళన చెందకుండా అధికారులు సూచించే జాగ్రత్తలు పాటించాలని స్థానిక యంత్రాంగం ప్రజలను కోరుతోంది.",
-            "published": "2026-10-27T05:31:56+00:00"
-          },
-          {
-            "title": "Madhya Pradesh: ఖైదీల చేతుల్లో దీపావళి కళాకృతులు.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVdXUE9wUUVyNXpQLWhLYVpVdFpsSkYxZXF3S0RsYUpHdmhjVWRxaXlEUTBobERUTWhGUmhmcmpwejkwYjFtcTVMN0xpdHhOeWh0VE5OV3ZQcUhsbEhnbUlkSnZGLWJwaENtR3U4RXY0NXlRaEJxQ3A3NFBsdXd6Ym1LYUxkWkdzelh1M9IBjAFBVV95cUxOMVdXUE9wUUVyNXpQLWhLYVpVdFpsSkYxZXF3S0RsYUpHdmhjVWRxaXlEUTBobERUTWhGUmhmcmpwejkwYjFtcTVMN0xpdHhOeWh0VE5OV3ZQcUhsbEhnbUlkSnZGLWJwaENtR3U4RXY0NXlRaEJxQ3A3NFBsdXd6Ym1LYUxkWkdzelh1Mw?oc=5",
-            "source": "Eenadu",
-            "summary": "మధ్యప్రదేశ్‌లోని జైలు ఖైదీలు తమ సృజనాత్మకతను చాటుకుంటూ దీపావళి పండుగ కోసం అందమైన కళాకృతులను తయారు చేస్తున్నారు. శిక్ష అనుభవిస్తున్నప్పటికీ, సమాజంతో మమేకం అయ్యేందుకు, తమలోని నైపుణ్యాలను మెరుగుపరుచుకునేందుకు జైలు అధికారులు వారికి ఈ అవకాశం కల్పించారు. ఖైదీల చేతుల్లో రూపుదిద్దుకుంటున్న దీపాలు, రంగురంగుల దివ్వెలు మరియు ఇతర అలంకరణ వస్తువులు మార్కెట్‌లో ఎంతో ప్రత్యేకతను సంతరించుకుంటున్నాయి. దీపావళి అంటేనే వెలుగుల పండుగ, అటువంటి పండుగ సమయంలో వీరు తయారు చేసిన కళాకృతులు అందరినీ ఆకట్టుకుంటున్నాయి. ఖైదీల ఈ ప్రయత్నం వారిలో సానుకూల దృక్పథాన్ని పెంపొందించడమే కాకుండా, వారు జైలు నుండి విడుదలైన తర్వాత ఒక గౌరవప్రదమైన జీవనం గడపడానికి అవసరమైన శిక్షణను కూడా అందిస్తోంది. జైలు అధికారులు ఈ కార్యక్రమాన్ని పర్యవేక్షిస్తూ, ఖైదీలకు కావాల్సిన ముడి సరుకులను సమకూర్చుతున్నారు. వీరు తయారు చేసిన ఉత్పత్తులను ప్రజలు కూడా ఎంతో ఉత్సాహంతో కొనుగోలు చేస్తూ వారిని ప్రోత్సహిస్తున్నారు. ఒక చిన్న కళాకృతి వెనుక ఉన్న వారి శ్రమ, ఏకాగ్రత మరియు పశ్చాత్తాపం వారి జీవితాల్లో మార్పుకు నాంది పలుకుతున్నాయి. జైలు గోడల మధ్య వెలుగులు నింపే ఈ ప్రయత్నం ఖచ్చితంగా ప్రశంసనీయమైనది మరియు సమాజంలో మంచి సందేశాన్ని ఇస్తోంది.",
-            "published": "2026-10-27T05:11:20+00:00"
-          },
-          {
-            "title": "ఏకగ్రీవాలు, మున్సిపల్ ఎన్నికల కొనసాగింపు పై కొత్త టెన్షన్ - కీలక పరిణామాలు, నేడే నిర్ణయం..!?",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/supreme-court-to-hear-ysrcp-plea-on-municipal-election-nominations-today-details-here-512393.html",
-            "source": "Oneindia Telugu",
-            "summary": "ఆంధ్రప్రదేశ్ మున్సిపల్ ఎన్నికల ప్రక్రియ మరియు ఏకగ్రీవాల వివాదంపై సుప్రీంకోర్టు నేడు కీలకమైన విచారణ చేపట్టనుంది. వైఎస్సార్ కాంగ్రెస్ పార్టీ దాఖలు చేసిన పిటిషన్‌పై అత్యున్నత న్యాయస్థానం స్పందించనుంది. తమ అభ్యర్థులను నామినేషన్లు వేయకుండా అడ్డుకున్నారని, దీనివల్ల ప్రజాస్వామ్య ప్రక్రియ దెబ్బతిన్నదని వైఎస్సార్సీపీ ఆరోపించింది. రాష్ట్రంలో జరిగిన ఎన్నికల సమయంలో చోటుచేసుకున్న పరిణామాలు, బలవంతపు ఏకగ్రీవాలు మరియు ఇతర ఆరోపణలను పిటిషనర్లు సుప్రీంకోర్టు దృష్టికి తీసుకువెళ్లారు. గతంలో జరిగిన ఎన్నికల ప్రక్రియలో తలెత్తిన అక్రమాలపై సమగ్ర విచారణ జరగాలని వారు కోరుతున్నారు. ఈ పిటిషన్ విచారణ ఏపీ రాజకీయాల్లోనే కాకుండా మున్సిపల్ ఎన్నికల భవిష్యత్తుపై కూడా ప్రభావం చూపే అవకాశం ఉంది. కోర్టు తీసుకునే నిర్ణయం ఏకగ్రీవాల చెల్లుబాటును మరియు ఎన్నికల నిర్వహణపై తీవ్ర ప్రభావం చూపుతుంది. ప్రత్యర్థులు చేస్తున్న ఆరోపణలను ఎలా ఎదుర్కోవాలో, కోర్టులో ఎలాంటి వాదనలు వినిపించాలో అన్నది ఇప్పుడు ఆసక్తికరంగా మారింది. ఎన్నికల ప్రక్రియ నిష్పక్షపాతంగా జరగడం లేదని ప్రతిపక్షాలు చేస్తున్న విమర్శల నేపథ్యంలో, సుప్రీంకోర్టు ఇచ్చే తీర్పు కీలకంగా మారింది. రాజకీయ వర్గాల్లో దీనిపై పెద్ద ఎత్తున చర్చ నడుస్తోంది మరియు నేటి విచారణ కోసం అందరూ వేచి చూస్తున్నారు.",
-            "published": "2026-10-27T10:34:36+05:30"
-          },
-          {
-            "title": "అమ్మాయిని ముద్దు పెట్టుకున్నాడని నడిరోడ్డుపై నగ్నంగా.. కొడుకు చేసిన పనికి తండ్రికి నరకం..",
-            "link": "https://telugu.oneindia.com/news/india/minor-boy-paraded-naked-in-kolkata-for-kissing-girl-girls-parents-uncle-arrested-by-police-512405.html",
-            "source": "Oneindia Telugu",
-            "summary": "కోల్‌కతాలో జరిగిన ఒక అమానవీయ ఘటన అందరినీ దిగ్భ్రాంతికి గురిచేసింది. తన స్నేహితురాలిని ముద్దు పెట్టుకున్నాడన్న కారణంతో 17 ఏళ్ల మైనర్ బాలుడిని, అతని స్నేహితుడిని మరియు ఆ బాలుడి తండ్రిని గ్రామస్తులు నడిరోడ్డుపై నగ్నంగా ఊరేగించిన సంఘటన సభ్య సమాజం తలదించుకునేలా చేసింది. ఒక వ్యక్తి చేసిన చిన్న పొరపాటుకు అతని కుటుంబ సభ్యులను కూడా బాధ్యులను చేస్తూ, వారి గౌరవాన్ని మంటగలిపేలా వ్యవహరించడంపై తీవ్ర నిరసన వ్యక్తమవుతోంది. ఈ ఘటనపై తీవ్ర ఆగ్రహం వ్యక్తం కావడంతో పోలీసులు రంగంలోకి దిగి, బాధితులపై దాడి చేసిన వారిని గుర్తించే పనిలో పడ్డారు. ఇప్పటికే ఈ ఘటనకు సంబంధించి అమ్మాయి తల్లిదండ్రులను, మేనమామను పోలీసులు అదుపులోకి తీసుకున్నారు. చట్టాన్ని చేతుల్లోకి తీసుకోవడం నేరమని, ఇలాంటి అనాగరిక చర్యలను సహించేది లేదని పోలీసులు స్పష్టం చేస్తున్నారు. ఈ దారుణానికి పాల్పడిన ప్రతి ఒక్కరిపై కఠిన చర్యలు తీసుకుంటామని హామీ ఇచ్చారు. సొంత ఇంట్లోనే కాదు, సమాజంలో కూడా గౌరవంగా బ్రతకాల్సిన వారిని ఇలా పబ్లిక్ లో నగ్నంగా ఊరేగించడం చట్టరీత్యా మరియు నైతికంగా పెద్ద నేరం. నిందితులపై పోక్సో చట్టం మరియు ఇతర సంబంధిత సెక్షన్ల కింద కేసులు నమోదు చేశారు. ఈ ఘటన బాధితుల మానసిక స్థితిపై తీవ్ర ప్రభావం చూపుతుందని, వారికి తగిన న్యాయం జరగాలని ప్రజలు కోరుతున్నారు.",
-            "published": "2026-10-27T10:30:32+05:30"
-          },
-          {
-            "title": "NZ vs IND: న్యూజిలాండ్ - భారత్ జట్ల మధ్య మూడో టీ20 మ్యాచ్ లైవ్‌ అప్‌డేట్స్ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjFJZVBzaFUtQVlJcVhZODc5NVlCZTA5YzRzenQ1a1QzcTMzc25kZFFmenY2UmUwWUNMb0laUmNLTVItTTk4VmtDQy1mX1BiZzdaSFE4MkJRT1JLNDl4YVhRVm80OUo1dTM2OC13VG5GVER6ZGo5WUVoNFNJYkhyS0xZVnFIejA1LXp1LTN2dTF2VU1uSDdYY2kzZw?oc=5",
-            "source": "Eenadu",
-            "summary": "భారత క్రికెట్ జట్టు మరియు న్యూజిలాండ్ జట్ల మధ్య జరుగుతున్న ప్రతిష్టాత్మకమైన మూడవ టీ20 మ్యాచ్ ఉత్కంఠభరితంగా కొనసాగుతోంది. ఈ సిరీస్ నిర్ణయాత్మక మ్యాచ్ కావడంతో ఇరు జట్లు గెలుపు కోసం సర్వశక్తులు ఒడ్డుతున్నాయి. భారత జట్టు బ్యాటర్లు మరియు బౌలర్లు గత మ్యాచ్‌లలో చేసిన పొరపాట్లను సరిదిద్దుకుని ఈ మ్యాచ్‌లో రాణించాలని పట్టుదలగా ఉన్నారు. పిచ్ కండిషన్స్ మరియు వాతావరణ పరిస్థితులకు అనుగుణంగా వ్యూహాలను అమలు చేస్తూ, ప్రత్యర్థిని కట్టడి చేసేందుకు టీమ్ ఇండియా సిద్ధమైంది. న్యూజిలాండ్ జట్టు కూడా స్వదేశంలో తమ ఆధిపత్యాన్ని కొనసాగించాలని చూస్తోంది. మైదానంలో ప్రతి బంతికి ఉత్కంఠ పెరిగిపోతోంది, అభిమానులు టీవీల ముందు ఉండి ఆటను వీక్షిస్తున్నారు. టీమ్ ఇండియా యువ ఆటగాళ్లకు ఇది ఒక గొప్ప అవకాశం. ముఖ్యంగా కీలక సమయాల్లో రాణించడం ద్వారా సిరీస్‌ను గెలుచుకోవాలని భారత జట్టు భావిస్తోంది. మ్యాచ్‌లోని లైవ్ అప్‌డేట్స్ కోసం స్కోరు బోర్డులు, కామెంటరీ బాక్సులు అన్నీ ఉత్సాహంగా ఉన్నాయి. బౌలింగ్ విభాగంలో స్పిన్నర్లు, పేసర్లు ఎలా రాణిస్తారన్నది ఆసక్తికరంగా మారింది. ఫీల్డింగ్‌లో భారత్ మరింత మెరుగ్గా ఉంటే విజయం సులభమవుతుందని విశ్లేషకులు అభిప్రాయపడుతున్నారు. మ్యాచ్ చివరకు ఎవరిని విజేతగా నిలుపుతుందోనని క్రికెట్ ప్రేమికులు ఆత్రుతగా ఎదురు చూస్తున్నారు.",
-            "published": "2026-10-27T05:00:15+00:00"
-          },
-          {
-            "title": "మూర్ఛ వ్యాధి డ్రామా:జైలు నుంచి పరారైన 17మంది ఖైదీలు..ప్రజలు జాగ్రత్త..!!",
-            "link": "https://telugu.oneindia.com/news/india/tamil-nadu-jailbreak-17-prisoners-escape-after-faking-seizure-4-caught-512403.html",
-            "source": "Oneindia Telugu",
-            "summary": "తమిళనాడులోని తేని జిల్లా, తేక్కంపట్టి సబ్‌జైలు నుంచి 17 మంది రిమాండ్ ఖైదీలు తప్పించుకున్న ఘటన తీవ్ర కలకలం రేపింది. ఈ ఖైదీలు చాలా పక్కా ప్లాన్‌తో జైలు నుంచి బయటపడ్డారు. మొదట తమకు మూర్ఛ వ్యాధి వచ్చిందని జైలు సిబ్బందిని నమ్మించే ప్రయత్నం చేశారు. ఆ సమయంలో సిబ్బంది అప్రమత్తత కోల్పోయినట్లు భావించి, అకస్మాత్తుగా వారిపై దాడికి పాల్పడ్డారు. ఈ గందరగోళాన్ని ఆసరాగా చేసుకుని వారు జైలు నుంచి పరారయ్యారు. ప్రస్తుతం పోలీసులు వారి కోసం గాలింపు చర్యలు ముమ్మరం చేశారు. ఈ ఘటనలో ఇప్పటివరకు నలుగురు ఖైదీలను తిరిగి అదుపులోకి తీసుకున్నట్లు సమాచారం. మిగిలిన వారు ఇంకా పరారీలోనే ఉండటంతో, స్థానిక ప్రజలు అత్యంత అప్రమత్తంగా ఉండాలని అధికారులు హెచ్చరిస్తున్నారు. జైలులో ఖైదీల భద్రత మరియు పర్యవేక్షణపై ఈ ఘటన పెద్ద ఎత్తున ప్రశ్నలను లేవనెత్తుతోంది. నిందితులు ఎక్కడికి పారిపోయారోనని చుట్టుపక్కల ప్రాంతాల ప్రజలు తీవ్ర భయాందోళనలకు గురవుతున్నారు. పోలీసు యంత్రాంగం ప్రత్యేక బృందాలను రంగంలోకి దించి గాలిస్తోంది. త్వరలోనే మిగిలిన వారందరినీ పట్టుకుంటామని అధికారులు భరోసా ఇస్తున్నారు.",
-            "published": "2026-10-27T10:26:38+05:30"
-          },
-          {
-            "title": "Lawrence Bishnoi: ‘200 రూమ్‌’కు లారెన్స్‌ బిష్ణోయ్‌.. కరుడుగట్టిన నేరగాళ్లు అక్కడే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzdNWjgxU3liNG9NR2cxT2RqRF9VbEVjdktZWmF3Z2VlRVBEazVWTS1Ga1RzT0Q3YjdGeGFnb2dleWZ1RFlvbWVjaE1NSlVKdFRmTG9BbnNuX0pPX3N5RGkyNEJoblZZbGdPMlF5a3I2ZE1SZjV1dUJ6OVIwQjVFQlV0d2RfZ2VKZk5lNkJ2UlBVY2xqbnN5aVp2MkZVTlVDcS1ZWGJXRU1TekxVNlh1V0xuTTU5c1dWNHc0NWdrY0JxY3lNY2NxNzFkSW1tYUhQenE3Z1lGT05uc2_SAdsBQVVfeXFMT3c3TVo4MVN5YjRvTUdnMU9kakRfVWxFY3ZLWVphd2dlZUVQRGs1Vk0tRmtUc09EN2I3RnhhZ29nZXlmdURZb21lY2hNTUpVSnRUZkxvQW5zbl9KT19zeURpMjRCaG5WWWxnTzJReWtyNmRNUmY1dXVCejlSMEI1RUJVdHdkX2dlSmZOZTZCdlJQVWNsam5zeWladjJGVU5VQ3EtWVhiV0VNU3pMVTZYdVdMbk01OXNXVjR3NDVna2NCcWN5TWNjcTcxZEltbWFIUHpxN2dZRk9ObnNv?oc=5",
-            "source": "Eenadu",
-            "summary": "గ్యాంగ్‌స్టర్ లారెన్స్ బిష్ణోయ్‌ను కట్టుదిట్టమైన భద్రత మధ్య జైలులోని '200 రూమ్'కు తరలించినట్లు సమాచారం. ఈ సెల్ అత్యంత ప్రమాదకరమైన మరియు కరుడుగట్టిన నేరగాళ్లను ఉంచే ప్రాంతంగా పేరుగాంచింది. దేశవ్యాప్తంగా సంచలనం సృష్టించిన అనేక కేసుల్లో లారెన్స్ బిష్ణోయ్ కీలక నిందితుడిగా ఉన్నందున, అతనికి అత్యున్నత స్థాయి భద్రత అవసరమని అధికారులు భావిస్తున్నారు. ఈ ప్రత్యేక గదిలో నేరగాళ్లపై నిరంతరం నిఘా ఉంటుంది. బయటి ప్రపంచంతో ఎలాంటి సంబంధాలు లేకుండా, అత్యంత కఠినమైన నియమ నిబంధనలతో ఇక్కడ ఖైదీలను ఉంచుతారు. లారెన్స్ బిష్ణోయ్ పేరు వినగానే ఒకప్పుడు వణుకు పుట్టే పరిస్థితులు ఉండేవి, ఇప్పుడు అతన్ని కఠిన కారాగారంలో ఉంచడం ద్వారా నేర కార్యకలాపాలకు అడ్డుకట్ట వేయాలని ప్రభుత్వం ప్రయత్నిస్తోంది. ఈ తరహా సెల్‌లో ఉంచడం వల్ల భద్రతాపరమైన ముప్పులు తగ్గుతాయని విశ్లేషకులు భావిస్తున్నారు. జైలు అధికారులు కూడా అతని కదలికలపై నిరంతరం కన్నేసి ఉంచారు. ముఖ్యంగా అతను ఇతర గ్యాంగ్‌స్టర్లతో సంప్రదింపులు జరపకుండా చూడటమే ప్రధాన ఉద్దేశ్యమని తెలుస్తోంది. ఈ పరిణామం పోలీసు శాఖలో మరియు న్యాయ వ్యవస్థలో ఒక ముఖ్యమైన చర్యగా పరిగణించబడుతోంది.",
-            "published": "2026-10-27T04:52:18+00:00"
           }
         ],
         "Entertainment": [
@@ -1253,7 +1253,7 @@
             "link": "https://kannada.oneindia.com/news/karnataka/kas-exam-postponement-up-to-kea-congress-confident-of-winning-4-mlc-seats-g-parameshwara-472627.html",
             "source": "Oneindia Kannada",
             "summary": "ಕರ್ನಾಟಕದ ಉಪಮುಖ್ಯಮಂತ್ರಿ ಡಾ. ಜಿ. ಪರಮೇಶ್ವರ್ ಅವರು ಇತ್ತೀಚಿನ ರಾಜಕೀಯ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಬೆಳವಣಿಗೆಗಳ ಕುರಿತು ಮಹತ್ವದ ಹೇಳಿಕೆಗಳನ್ನು ನೀಡಿದ್ದಾರೆ. ರಾಜ್ಯದಲ್ಲಿ ನಡೆಯಲಿರುವ ನಾಲ್ಕು ಎಂಎಲ್‌ಸಿ ಸ್ಥಾನಗಳ ಚುನಾವಣೆಯಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷವು ಸಂಪೂರ್ಣ ಗೆಲುವು ಸಾಧಿಸಲಿದೆ ಎಂಬ ವಿಶ್ವಾಸವನ್ನು ಅವರು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಈ ಚುನಾವಣೆಗಳು ಪಕ್ಷದ ಪಾಲಿಗೆ ಅತ್ಯಂತ ನಿರ್ಣಾಯಕವಾಗಿದ್ದು, ತಳಮಟ್ಟದಲ್ಲಿ ಪಕ್ಷವನ್ನು ಬಲಪಡಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ನಾಯಕರು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ ಎಂದು ಅವರು ತಿಳಿಸಿದ್ದಾರೆ. ಇನ್ನು ಇತ್ತೀಚೆಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ವಲಯದಲ್ಲಿ ಭಾರೀ ಚರ್ಚೆಗೆ ಗ್ರಾಸವಾಗಿರುವ ಕೆಎಎಸ್ ಪರೀಕ್ಷೆ ಮುಂದೂಡುವಿಕೆಯ ವಿಷಯದ ಬಗ್ಗೆಯೂ ಅವರು ಸ್ಪಷ್ಟನೆ ನೀಡಿದ್ದಾರೆ. ಪರೀಕ್ಷೆಯನ್ನು ಮುಂದೂಡುವ ನಿರ್ಧಾರವು ಸಂಪೂರ್ಣವಾಗಿ ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದ (KEA) ವ್ಯಾಪ್ತಿಗೆ ಬರುತ್ತದೆ ಎಂದು ಹೇಳುವ ಮೂಲಕ ಸರ್ಕಾರವು ಈ ವಿಷಯದಲ್ಲಿ ನೇರ ಹಸ್ತಕ್ಷೇಪ ಮಾಡುವುದಿಲ್ಲ ಎಂಬ ಸಂಕೇತವನ್ನು ನೀಡಿದ್ದಾರೆ. ಪರೀಕ್ಷಾ ಪ್ರಕ್ರಿಯೆಗಳು ಪಾರದರ್ಶಕವಾಗಿ ನಡೆಯಬೇಕು ಎಂಬುದು ಸರ್ಕಾರದ ನಿಲುವಾಗಿದ್ದು, ಈ ಸಂಬಂಧ ಯಾವುದೇ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಅಧಿಕಾರವನ್ನು ಆಯಾ ಸಂಸ್ಥೆಗಳಿಗೆ ಬಿಟ್ಟುಕೊಡಲಾಗಿದೆ ಎಂದು ಅವರು ವಿವರಿಸಿದ್ದಾರೆ. ಈ ಹೇಳಿಕೆಗಳು ಪರೀಕ್ಷೆಗಾಗಿ ತಯಾರಿ ನಡೆಸುತ್ತಿರುವ ಅಭ್ಯರ್ಥಿಗಳಲ್ಲಿನ ಗೊಂದಲವನ್ನು ಬಗೆಹರಿಸುವ ಪ್ರಯತ್ನವಾಗಿದೆ ಎಂದು ರಾಜಕೀಯ ವಿಶ್ಲೇಷಕರು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ.",
-            "published": "2026-10-27T12:20:03+05:30"
+            "published": "2026-10-27T12:50:01+05:30"
           },
           {
             "title": "ನೆಲದಡಿಯಲ್ಲೇ ನೆಲೆಸಿದೆ ಇಡೀ ಹಳ್ಳಿ : ಸುರಂಗದೊಳಗೆ ಕಟ್ಟಿರುವ ದೊಡ್ಡ ದೊಡ್ಡ ಮನೆ; ವಿಶಿಷ್ಟ ಮನೆಯ ವಿಡಿಯೋ",
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ইসরায়েলে আজ নির্বাচন, নেতানিয়াহুকে হটানোই বিরোধীদের প্রধান লক্ষ্য",
+            "link": "https://www.bbc.com/bengali/articles/cj75peqp049qo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-10-27T07:25:41+00:00"
+          },
+          {
             "title": "গাইঘাটা ‘এনকাউন্টার’: বন্দুক ছিনিয়ে গুলি, আত্মরক্ষার জন্য জলাশয়ে ঝাঁপ! পুনর্নির্মাণ শেষে কী কী ঘটল গভীর রাতে? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3dPY3VTTVVHTUEtVmxsNW9sb045LXhSOW9oUzZXNTNPSmlqbkpWMlZGM2M1X1N4ckM4dUQ3NzNGTklkMjhPY0Q4LU9kaXEzWFExczFCbGo3eS1GVEhGbUVhZnhEMnhORV9HTks1V1NOTkZ0dTUyLUNiWGJ4U1JxS3NTRjlXR1FYN1lud09wcVBsLS13NDJWU0l0anlSeDRzRVE0RnVKQUdsQmd1U2xxRF9kZFN4czgtVU12MVpqUkJkQ0N6akhWRVg1dEhqYjlmdF9MNDE2Q01iT09Xd0xoTdIB5gFBVV95cUxOd2pSaHlXdHN1VTVHbXZPSXBYM2hDTWVwQTR4REt0eFZrU185U21fcFdHNThxX2tMenlVNlNla1ZmbnRzRk16NFZhckN6NTgyRXVNd3I2ejJpbDNtR1pNeHU2WDF6dk81OXhKbngxcmdOdnp0RXRhRVFqQWxJOFBmZGd2MFFWbVE2aF9naUJpVXpTcmhuQTEzMC1VYjRuLWtpblJhMi0tY3FhWE1NemRKQVhZaG4yOThWdGhoTWZCWk9OeHdPdEFSWmtISzhMY0ZLaXdYZGNTeFBrZm42dU5rUThBR2ZQdw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-10-26T16:39:20+00:00"
-          },
-          {
-            "title": "চোরবাগানে মণ্ডপশিল্পীকে তলব করল পুলিশ, বৈঠকে বসল সিট! আহতরা বেসরকারি হাসপাতালে কেন, ব্যাখ্যা দিলেন মুখ্যমন্ত্রী - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOVllfQjh3UVJQWHFxVV93TWZwek5qZEdwc2V5dEs3cFhfeldlM2FDUlJfRkluT0xqM0NmeXkyUW5rcDBwYTUydEVOcUVZZEVyNmJrZThqRFlmUVlEUkpNZHJkNkliMjlfdEx5RWg5aTRyalNxUm1QakN5dnRVSmVzNnB3ZEt5UUpIUWpYTlRrYnlnUExhdTczcTRvaEhNQUxqYktwWkMzd3RnTld2Um9rN3Z2Y1FCTEZmNzhIWU9VSDdBWlloTC1icm5KeTN4Y3RrcEFNRGVIRDZxaUdKZUV5SVlJREl0UmhNRzl5dkN3WnpRRmFMaVd1QUtKRXNScmhONWIwUlpYTmdhalk4amtsV1AxUFp0d9IBmwJBVV95cUxPSUNrSUFqeldhMlBKRVVaTk9rZFZudHd0TjRNSE56d3hUQ05ONFd1TlVwUTlOdUxzVGJENzRDTU41TllNdkl0anUtRklXVlQ4UHh1aGw5Y1BVRlEwMWowWGhGVmRTUkYxSzI2c2NXam9HOWJOZkVVWnBCX2RCYTFTWUtzVFNFSndqb1gzLXRreWlKMlota0dhQVhONUlaNlh2Qlo1Z1phTTJTcTA5N3NFbFhHME5VV251akNQcmwtZzJFcWI0NXozUkc2WXExS2pMVExRN0pZYkZma0lyb1RRa1FMWWxoV3N2cmxlaGI3VlRicVVyV1BkT1c3ZHREZW5xbTlCWVlsaFM4Q1hwaVdFaVAwTWVBc2FzMzc4?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-10-26T16:18:26+00:00"
           }
         ]
       }
