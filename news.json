@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-10-27T20:31:14.739073+00:00",
+  "updated_at": "2026-10-27T20:38:04.407874+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Starc's admission: 'A lot of things that haven't felt right'",
+            "link": "https://www.cricinfo.com/ci/content/story/1560352.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The left-armer said he had not felt at his best during the series but viewing footage made him feel he had over thought it",
+            "published": "2026-10-27T20:31:04+00:00"
+          },
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+            "published": "2026-10-27T20:30:00+00:00"
+          },
           {
             "title": "Israel election exit polls show no clear winner as Netanyahu and rivals fall short of majority",
             "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
@@ -25,6 +39,13 @@
             "source": "Al Jazeera",
             "summary": "The official results are due to be published on November 4, more than a week after the vote.",
             "published": "2026-10-27T20:18:18+00:00"
+          },
+          {
+            "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
+            "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Cyclone Arnab LIVE Updates: According to a Met Department update, the storm will cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam. The crossing is expected between 2 am and 4 am.",
+            "published": "2026-10-28T01:47:38+05:30"
           },
           {
             "title": "CPI forms human chain in Delhi demanding CEC’s resignation and rollback of SIR",
@@ -48,7 +69,7 @@
             "published": "2026-10-27T20:00:46+00:00"
           },
           {
-            "title": "Cyclone Arnab makes landfall along Andhra Pradesh coast, triggers heavy rain and strong winds",
+            "title": "Cyclone Arnab starts landfall process along Andhra Pradesh coast, triggers heavy rain and strong winds",
             "link": "https://www.hindustantimes.com/india-news/cyclone-arnab-makes-landfall-along-andhra-pradesh-coast-triggers-heavy-rain-and-strong-winds-101793119695215.html",
             "source": "Hindustan Times",
             "summary": "Authorities remain on high alert as rescue and relief teams continue to take precautionary measures to minimise the impact of the severe cyclonic storm.",
@@ -62,6 +83,13 @@
             "published": "2026-10-28T01:16:02+05:30"
           },
           {
+            "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
+            "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The company has also raised concerns about AI agents taking actions before humans can stop them, the possibility of expensive lawsuits, growing opposition to data centres and the impact of its safety decisions on employees.",
+            "published": "2026-10-28T01:15:49+05:30"
+          },
+          {
             "title": "Fouled waters: On Rajasthan’s river pollution",
             "link": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
             "source": "The Hindu",
@@ -69,39 +97,11 @@
             "published": "2026-10-28T01:15:12+05:30"
           },
           {
-            "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-            "published": "2026-10-27T19:36:01+00:00"
-          },
-          {
-            "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
-            "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-            "published": "2026-10-27T19:30:37+00:00"
-          },
-          {
-            "title": "Israel election results live: No clear winner – first TV exit polls",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
-            "published": "2026-10-27T19:28:12+00:00"
-          },
-          {
-            "title": "Why this British plumber prefers working in Poland",
-            "link": "https://www.bbc.co.uk/news/videos/ckq6nqqlj8nro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Poland is now achieving formidable economic growth rates and fast rising living standards",
-            "published": "2026-10-27T19:25:04+00:00"
-          },
-          {
-            "title": "Ladakh government reaches out to protesters demanding liquor ban",
-            "link": "https://timesofindia.indiatimes.com/india/ladakh-government-reaches-out-to-protesters-demanding-liquor-ban/articleshow/135244987.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-10-28T00:53:41+05:30"
+            "title": "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
+            "link": "https://www.ndtv.com/india-news/prashant-kishors-jan-suraaj-wins-first-seat-in-bihar-upper-house-12245395#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Of the eight Bihar Legislative Council seats that went to polls, the state's ruling NDA appears set to win five seats, two went to Independents and one to Jan Suraaj, which won a seat in the assembly in the recently concluded bye-elections.",
+            "published": "2026-10-28T01:14:29+05:30"
           }
         ],
         "India": [
@@ -111,6 +111,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-10-28T01:51:35+05:30"
+          },
+          {
+            "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
+            "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Cyclone Arnab LIVE Updates: According to a Met Department update, the storm will cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam. The crossing is expected between 2 am and 4 am.",
+            "published": "2026-10-28T01:47:38+05:30"
           },
           {
             "title": "CPI forms human chain in Delhi demanding CEC’s resignation and rollback of SIR",
@@ -127,7 +134,7 @@
             "published": "2026-10-28T01:35:58+05:30"
           },
           {
-            "title": "Cyclone Arnab makes landfall along Andhra Pradesh coast, triggers heavy rain and strong winds",
+            "title": "Cyclone Arnab starts landfall process along Andhra Pradesh coast, triggers heavy rain and strong winds",
             "link": "https://www.hindustantimes.com/india-news/cyclone-arnab-makes-landfall-along-andhra-pradesh-coast-triggers-heavy-rain-and-strong-winds-101793119695215.html",
             "source": "Hindustan Times",
             "summary": "Authorities remain on high alert as rescue and relief teams continue to take precautionary measures to minimise the impact of the severe cyclonic storm.",
@@ -141,6 +148,13 @@
             "published": "2026-10-28T01:16:02+05:30"
           },
           {
+            "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
+            "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The company has also raised concerns about AI agents taking actions before humans can stop them, the possibility of expensive lawsuits, growing opposition to data centres and the impact of its safety decisions on employees.",
+            "published": "2026-10-28T01:15:49+05:30"
+          },
+          {
             "title": "Fouled waters: On Rajasthan’s river pollution",
             "link": "https://www.thehindu.com/opinion/editorial/fouled-waters-on-rajasthans-river-pollution/article71631783.ece",
             "source": "The Hindu",
@@ -148,46 +162,32 @@
             "published": "2026-10-28T01:15:12+05:30"
           },
           {
+            "title": "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
+            "link": "https://www.ndtv.com/india-news/prashant-kishors-jan-suraaj-wins-first-seat-in-bihar-upper-house-12245395#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Of the eight Bihar Legislative Council seats that went to polls, the state's ruling NDA appears set to win five seats, two went to Independents and one to Jan Suraaj, which won a seat in the assembly in the recently concluded bye-elections.",
+            "published": "2026-10-28T01:14:29+05:30"
+          },
+          {
+            "title": "\"Direct Hit\": Houthis Claim Targeted Saudi Ministry With Ballistic Missile",
+            "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Houthis also claimed to attack the kingdom's biggest oil refinery, Ras Tanura, which is located on the Gulf west of the Strait of Hormuz.",
+            "published": "2026-10-28T01:04:41+05:30"
+          },
+          {
+            "title": "Trump Says He Will Respect Midterm Election Results \"If Polls Are Honest\"",
+            "link": "https://www.ndtv.com/world-news/donald-trump-says-he-will-respect-midterm-election-results-if-polls-are-honest-12245512#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "His remarks come as the President has intensified his focus on election integrity ahead of the midterm polls, which will determine control of both chambers of the US Congress and could significantly affect his legislative agenda for the remainder of his term.",
+            "published": "2026-10-28T00:59:16+05:30"
+          },
+          {
             "title": "Ladakh government reaches out to protesters demanding liquor ban",
             "link": "https://timesofindia.indiatimes.com/india/ladakh-government-reaches-out-to-protesters-demanding-liquor-ban/articleshow/135244987.cms",
             "source": "Times of India",
             "summary": "",
             "published": "2026-10-28T00:53:41+05:30"
-          },
-          {
-            "title": "Are coronary stents necessary?",
-            "link": "https://www.thehindu.com/opinion/op-ed/are-coronary-stents-necessary/article71633062.ece",
-            "source": "The Hindu",
-            "summary": "There is a crucial distinction between stenting as a life-saving measure to medical treatment via stenting because a narrowing of blood vessels is seen on an angiogram",
-            "published": "2026-10-28T00:51:03+05:30"
-          },
-          {
-            "title": "Singareni seeks Angul Collector’s support for road laying to transport coal from Naini",
-            "link": "https://www.thehindu.com/news/national/telangana/singareni-seeks-angul-collectors-support-for-road-laying-to-transport-coal-from-naini/article71632515.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-28T00:49:46+05:30"
-          },
-          {
-            "title": "Women protests force Ladakh administration to discuss ‘declaring region a dry UT'",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/women-protests-force-ladakh-administration-to-discuss-declaring-region-a-dry-ut/article71632294.ece",
-            "source": "The Hindu",
-            "summary": "Officials disclosed that this year, only one retail vendor was functional and the number of functional bars attached to restaurants offering retail sale of liquor had increased by 17 newly issued licences, taking the total to 40",
-            "published": "2026-10-28T00:46:46+05:30"
-          },
-          {
-            "title": "ACB arrests Mirchowk inspector, home guard in ₹3 lakh bribe case",
-            "link": "https://www.thehindu.com/news/national/telangana/acb-arrests-mirchowk-inspector-home-guard-in-3-lakh-bribe-case/article71633036.ece",
-            "source": "The Hindu",
-            "summary": "Inspector demanded ₹6 lakh to close case against complainant’s father, ACB says",
-            "published": "2026-10-28T00:46:33+05:30"
-          },
-          {
-            "title": "Days after claims of irregularities in garbage contracts, Chief Minister meets with legislators",
-            "link": "https://www.thehindu.com/news/cities/bangalore/days-after-claims-of-irregularities-in-garbage-contracts-chief-minister-meets-with-opposition/article71632870.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-28T00:46:13+05:30"
           }
         ],
         "World": [
@@ -364,6 +364,13 @@
         ],
         "Sports": [
           {
+            "title": "Starc's admission: 'A lot of things that haven't felt right'",
+            "link": "https://www.cricinfo.com/ci/content/story/1560352.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "The left-armer said he had not felt at his best during the series but viewing footage made him feel he had over thought it",
+            "published": "2026-10-27T20:31:04+00:00"
+          },
+          {
             "title": "Tracy McGrady Names Jared McCain as Thunder Face Jalen Williams Injury Crisis",
             "link": "https://sports.ndtv.com/us/nba/tracy-mcgrady-names-jared-mccain-as-thunder-face-jalen-williams-injury-crisis-12245452#publisher=newsstand",
             "source": "NDTV Sports",
@@ -439,16 +446,16 @@
             "source": "NDTV Sports",
             "summary": "Easton Cowan took responsibility for two costly mistakes as the Toronto Maple Leafs lost 5-2 to the Calgary Flames. Coach Jim Hiller defended the rookie, pointing to mistakes across the lineup rather than blaming one player.",
             "published": "2026-10-27T23:43:10+05:30"
-          },
-          {
-            "title": "Anderson announced as co-owner of new Italian T10 franchise",
-            "link": "https://www.cricinfo.com/ci/content/story/1560331.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "England legend's involvement in 'Napoli Knights' comes amid uncertain playing future",
-            "published": "2026-10-27T17:56:28+00:00"
           }
         ],
         "Technology": [
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+            "published": "2026-10-27T20:30:00+00:00"
+          },
           {
             "title": "WhatsApp Is Reportedly Working on a New Settings Menu for Android Users",
             "link": "https://www.gadgets360.com/apps/news/whatsapp-tests-redesigned-settings-menu-on-android-with-rounded-sections-12244283",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Free Fire India (FFI) will be available to download in India from October 28, 2026, Garena announced on Tuesday. The battle royale game will be released as a standalone application on the Apple App Store and Google Play Store. The launch kicks off with an exclusive Diwali event running until 15 November. Free Fire India is confirmed to include parental consent requirements for users under 18.",
             "published": "2026-10-27T17:33:34+05:30"
-          },
-          {
-            "title": "Canada Invites Feedback on Stablecoin Rules Following US GENIUS Act",
-            "link": "https://www.gadgets360.com/cryptocurrency/news/canada-invites-feedback-stablecoin-rules-us-genius-act-crypto-regulations-law-12243011",
-            "source": "Gadgets 360",
-            "summary": "Canada has opened a 60-day public consultation on proposed regulations for stablecoin issuers that are not financial institutions, with feedback accepted until December 23. The framework includes restrictions on yield payments, redemption requirements, and limits on transaction fees. The proposed rules aim to align Canada’s approach with international frameworks and are expected to take effect in fall 2027, after…",
-            "published": "2026-10-27T16:59:48+05:30"
           }
         ],
         "Entertainment": [
@@ -641,11 +641,18 @@
             "published": "2026-10-28T12:01:32+05:30"
           },
           {
-            "title": "UP MLC Election Results LIVE: मेरठ में भाजपा दोनों सीटें जीती, चार जगहों पर आगे; वाराणसी में सपा की जीत",
+            "title": "UP MLC Election Results LIVE: मेरठ में भाजपा दोनों सीटें जीती, बरेली में भी खिला कमल; वाराणसी में सपा की जीत",
             "link": "https://www.amarujala.com/live/uttar-pradesh/up-mlc-election-results-2026-live-counting-for-11-seats-begins-hindi-news-2026-10-27",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-10-28T01:45:41+05:30"
+            "published": "2026-10-28T02:05:04+05:30"
+          },
+          {
+            "title": "दिल्ली में शराब की ऑनलाइन बुकिंग का एप लॉन्च:बुक करने के 48 घंटे के भीतर दुकान पर जाकर लेनी होगी बोतल",
+            "link": "https://www.bhaskar.com/national/news/delhi-liquor-booking-app-launch-store-pickup-policy-139510961.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-10-27T20:32:32+00:00"
           },
           {
             "title": "करतारपुर साहिब कॉरिडोर फिर से खोला जाए, धार्मिक भावनाएं राजनीति से ऊपर: मुख्यमंत्री भगवंत मान",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-10-27T23:17:07+05:30"
-          },
-          {
-            "title": "DNPA in Supreme Court: भारत के नए निजता कानून से खतरे में प्रेस-फ्रीडम? सुप्रीम कोर्ट ने केंद्र को भेजा नोटिस",
-            "link": "https://hindi.oneindia.com/news/dw-feed-article-5okh5-79779435-cms-1673387.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-10-27T23:15:27+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఠాణెలో హాస్టలర్స్‌ హబ్‌ ప్రారంభం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VMUhBaWJibERIYlZ1ekltOFFsaV9kVjVtbG9vaHNVdjlobnJKcnFFSS04SkpQSERjb01ZeTRNRDVhRzRMeHVBWXpFT09rYzJ6SmFNblk1WXFYTVh4dHhhSnhEZmxiTkhBZmYyemFOc1FzVVdmdF9uY0lB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-27T20:11:08+00:00"
+          },
+          {
             "title": "జామియా విద్యార్థుల ఆందోళన ఉద్ధృతం - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNnV0X1ByaVh3UlZac0h2Zk1oN05iTXNaVXYtc3ZPeHV3MHRRc0h0T3ZpZHNBTE5EazFwWUZXbEIybFRIeU85RlRuOEltOUhTLU50dy1LNGV4UG16RDlOUVVHZ1Jabm04YXZQV3pqYmxKMU4wZnZlSA?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-27T20:57:38+05:30"
-          },
-          {
-            "title": "సౌదీ అరేబియాపై బాలిస్టిక్ క్షిపణులతో భారీ దాడులు-డీల్ కూడా లెక్కచేయని హూతీలు..!",
-            "link": "https://telugu.oneindia.com/news/international/houthis-launch-ballistic-missile-strikes-on-saudi-defence-ministry-oil-refinery-amid-peace-deal-off-512483.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-27T20:43:30+05:30"
           }
         ],
         "Entertainment": [
