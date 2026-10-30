@@ -1,11 +1,95 @@
 {
-  "updated_at": "2026-10-30T15:17:39.705688+00:00",
+  "updated_at": "2026-10-30T15:31:12.999899+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "US tech stocks see sharp falls over AI cost fears",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+            "published": "2026-10-30T15:27:54+00:00"
+          },
+          {
+            "title": "Infosys opens 1.1 million sq.ft. new block at Pocharam campus in Hyderabad",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/infosys-opens-11-million-sqft-new-block-at-pocharam-campus-in-hyderabad/article71645905.ece",
+            "source": "The Hindu",
+            "summary": "The new facility will add 10,000 seats, enabling the company to aim to support an additional workforce of over 13,000 employees under a hybrid working model, the IT major said after the inauguration by Deputy CM Bhatti, IT Minister Sridhar Babu",
+            "published": "2026-10-30T20:56:17+05:30"
+          },
+          {
+            "title": "Census across the country from January 10",
+            "link": "https://www.thehindu.com/news/national/population-census-dates-mha-notification/article71645802.ece",
+            "source": "The Hindu",
+            "summary": "Reference date for population census will be 00:00 hours of March 1, 2027; census will not be held in Manipur, Goa, Uttar Pradesh, Punjab and Uttarakhand, Ladakh, Himachal Pradesh and J&K",
+            "published": "2026-10-30T20:55:24+05:30"
+          },
+          {
+            "title": "Keralam govt. reshuffles Principals in government arts and science colleges",
+            "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-govt-reshuffles-principals-in-government-arts-and-science-colleges/article71645908.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:55:19+05:30"
+          },
+          {
+            "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
+            "link": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
+            "source": "The Hindu",
+            "summary": "The circular mandates that all hospital pharmacies disclose the landing base/purchase price and maximum retail price of medicines, medical devices and consumables on bills.",
+            "published": "2026-10-30T20:54:16+05:30"
+          },
+          {
+            "title": "Inspector who died in helicopter crash was from Belagavi",
+            "link": "https://www.thehindu.com/news/national/karnataka/inspector-who-died-in-helicopter-crash-was-from-belagavi/article71645687.ece",
+            "source": "The Hindu",
+            "summary": "Arun Salunke left for Uttarakhand with his friends last week",
+            "published": "2026-10-30T20:51:24+05:30"
+          },
+          {
+            "title": "Converting science into services must be priority: MoES Secretary Srinivasa Kumar",
+            "link": "https://www.thehindu.com/news/national/telangana/converting-science-into-services-must-be-priority-moes-secretary-srinivasa-kumar/article71646009.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:50:56+05:30"
+          },
+          {
+            "title": "U.P. CM prioritised his home turf over 2 Varanasi seats in MLC polls: Akhilesh",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-prioritised-his-home-turf-over-2-varanasi-seats-in-mlc-polls-akhilesh/article71645763.ece",
+            "source": "The Hindu",
+            "summary": "As per the final tally, declared on Thursday afternoon, of the 11 U.P. Legislative Council seats that went to the polls on October 23, the BJP won six while the SP raised its tally from the previous MLC polls by two",
+            "published": "2026-10-30T20:50:33+05:30"
+          },
+          {
+            "title": "Revanth wants Ashwini Vaishnaw’s nod for six railway projects in Telangana",
+            "link": "https://www.thehindu.com/news/national/telangana/revanth-wants-ashwini-vaishnaws-nod-for-six-railway-projects-in-telangana/article71645833.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:48:58+05:30"
+          },
+          {
+            "title": "TDP steps up door-to-door campaign in minority- dominated areas of Vizianagaram",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-steps-up-door-to-door-campaign-in-minority-dominated-areas-of-vizianagaram/article71645048.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:47:40+05:30"
+          },
+          {
+            "title": "No tolerance to even minor lapses in polling, counting: Annamayya Collector",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-tolerance-to-even-minor-lapses-in-polling-counting-annamayya-collector/article71645027.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:47:30+05:30"
+          },
+          {
+            "title": "Democratic senator blames Egypt press crackdown on Trump military aid decision",
+            "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+            "published": "2026-10-30T15:17:11+00:00"
+          },
+          {
             "title": "‘Cyberabad Moves 2026’ to turn traffic data into solutions",
             "link": "https://www.thehindu.com/news/national/telangana/cyberabad-moves-2026-to-turn-traffic-data-into-solutions/article71645306.ece",
             "source": "The Hindu",
@@ -18,94 +102,80 @@
             "source": "The Hindu",
             "summary": "Fisheries Department asked to prepare draft State-level policy; Deputy CM stresses speedy completion of Uppada sea protection wall and replacement of washed-away beach road",
             "published": "2026-10-30T20:46:27+05:30"
-          },
-          {
-            "title": "TDP steps up door-to-door campaign in minority- dominated areas of Vizianagaram",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-steps-up-door-to-door-campaign-in-minority-dominated-areas-of-vizianagaram/article71645048.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:46:19+05:30"
-          },
-          {
-            "title": "Keralam invites EoI for social impact study for Vizhinjam port expansion",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-invites-eoi-for-social-impact-study-for-vizhinjam-port-expansion/article71645582.ece",
-            "source": "The Hindu",
-            "summary": "Study aims to assess potential losses of employment and livelihoods arising from the port expansion and identify the groups likely to be affected",
-            "published": "2026-10-30T20:46:07+05:30"
-          },
-          {
-            "title": "International agricultural event to focus on climate resilience",
-            "link": "https://www.thehindu.com/news/national/international-agricultural-event-to-focus-on-climate-resilience/article71645810.ece",
-            "source": "The Hindu",
-            "summary": "The event will bring researchers, farmers, governments, start-ups and businesses from around the world to New Delhi",
-            "published": "2026-10-30T20:45:47+05:30"
-          },
-          {
-            "title": "Rahul Gandhi questions IDBI Bank sale; Nirmala Sitharaman hits back, says Congress treated banks as 'personal entities'",
-            "link": "https://www.thehindu.com/news/national/idbi-bank-divestment-finance-minister-nirmala-sitharaman-says-congress-upa-govt-used-banks-financial-institutions-as-personal-entities/article71644305.ece",
-            "source": "The Hindu",
-            "summary": "In an open letter to IDBI Bank employees, Rahul Gandhi expressed solidarity with their opposition to the proposed sale, arguing that public banks were not assets to be sold but “tools to build the nation”",
-            "published": "2026-10-30T20:45:24+05:30"
-          },
-          {
-            "title": "Cheranalloor car crash: Kaliraj denies intervening in probe, CM visits victim’s family",
-            "link": "https://www.thehindu.com/news/national/kerala/cheranalloor-car-crash-kaliraj-denies-intervening-in-probe-cm-visits-victims-family/article71645804.ece",
-            "source": "The Hindu",
-            "summary": "Mahesh Kumar terms the reports that the judge of a district court, who is the father of the minor who allegedly drove the luxury car involved in the incident, had called him after the accident baseless.",
-            "published": "2026-10-30T20:44:33+05:30"
-          },
-          {
-            "title": "Upalokayuktha calls for honesty during Vigilance Awareness Week in Mysuru",
-            "link": "https://www.thehindu.com/news/national/karnataka/upalokayuktha-calls-for-honesty-during-vigilance-awareness-week-in-mysuru/article71645195.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:44:30+05:30"
-          },
-          {
-            "title": "Quantum tech can help solve complex problems: Jnan Yalla",
-            "link": "https://www.thehindu.com/news/national/karnataka/quantum-tech-can-help-solve-complex-problems-jnan-yalla/article71645579.ece",
-            "source": "The Hindu",
-            "summary": "Qiskit Fall Fest inaugurated at Visvesvaraya Technological University in Belagavi",
-            "published": "2026-10-30T20:43:23+05:30"
-          },
-          {
-            "title": "Amrita, Rajya Rani express trains to be upgraded with LHB coaches",
-            "link": "https://www.thehindu.com/news/national/kerala/amrita-rajya-rani-express-trains-to-be-upgraded-with-lhb-coaches/article71645849.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:40:49+05:30"
-          },
-          {
-            "title": "Man gets life term for sexually assaulting a minor, her sister in Tindivanam",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-gets-life-term-for-sexually-assaulting-a-minor-her-sister-in-tindivanam/article71644861.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:40:19+05:30"
-          },
-          {
-            "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-            "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-            "published": "2026-10-30T15:09:29+00:00"
-          },
-          {
-            "title": "Accused in drug case, absconding for two years, held from Kullu in Himachal Pradesh",
-            "link": "https://www.thehindu.com/news/national/kerala/accused-in-drug-case-absconding-for-two-years-held-from-kullu-in-himachal-pradesh/article71645021.ece",
-            "source": "The Hindu",
-            "summary": "The accused had been on the run since the seizure of 316 grams of suspected MDMA and 420 grams of suspected ganja from a car at Athani in June, 2024,say police",
-            "published": "2026-10-30T20:38:15+05:30"
-          },
-          {
-            "title": "Six dead after helicopter crashes in northern Indian state",
-            "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-            "published": "2026-10-30T15:06:05+00:00"
           }
         ],
         "India": [
           {
+            "title": "Infosys opens 1.1 million sq.ft. new block at Pocharam campus in Hyderabad",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/infosys-opens-11-million-sqft-new-block-at-pocharam-campus-in-hyderabad/article71645905.ece",
+            "source": "The Hindu",
+            "summary": "The new facility will add 10,000 seats, enabling the company to aim to support an additional workforce of over 13,000 employees under a hybrid working model, the IT major said after the inauguration by Deputy CM Bhatti, IT Minister Sridhar Babu",
+            "published": "2026-10-30T20:56:17+05:30"
+          },
+          {
+            "title": "Census across the country from January 10",
+            "link": "https://www.thehindu.com/news/national/population-census-dates-mha-notification/article71645802.ece",
+            "source": "The Hindu",
+            "summary": "Reference date for population census will be 00:00 hours of March 1, 2027; census will not be held in Manipur, Goa, Uttar Pradesh, Punjab and Uttarakhand, Ladakh, Himachal Pradesh and J&K",
+            "published": "2026-10-30T20:55:24+05:30"
+          },
+          {
+            "title": "Keralam govt. reshuffles Principals in government arts and science colleges",
+            "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-govt-reshuffles-principals-in-government-arts-and-science-colleges/article71645908.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:55:19+05:30"
+          },
+          {
+            "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
+            "link": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
+            "source": "The Hindu",
+            "summary": "The circular mandates that all hospital pharmacies disclose the landing base/purchase price and maximum retail price of medicines, medical devices and consumables on bills.",
+            "published": "2026-10-30T20:54:16+05:30"
+          },
+          {
+            "title": "Inspector who died in helicopter crash was from Belagavi",
+            "link": "https://www.thehindu.com/news/national/karnataka/inspector-who-died-in-helicopter-crash-was-from-belagavi/article71645687.ece",
+            "source": "The Hindu",
+            "summary": "Arun Salunke left for Uttarakhand with his friends last week",
+            "published": "2026-10-30T20:51:24+05:30"
+          },
+          {
+            "title": "Converting science into services must be priority: MoES Secretary Srinivasa Kumar",
+            "link": "https://www.thehindu.com/news/national/telangana/converting-science-into-services-must-be-priority-moes-secretary-srinivasa-kumar/article71646009.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:50:56+05:30"
+          },
+          {
+            "title": "U.P. CM prioritised his home turf over 2 Varanasi seats in MLC polls: Akhilesh",
+            "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-prioritised-his-home-turf-over-2-varanasi-seats-in-mlc-polls-akhilesh/article71645763.ece",
+            "source": "The Hindu",
+            "summary": "As per the final tally, declared on Thursday afternoon, of the 11 U.P. Legislative Council seats that went to the polls on October 23, the BJP won six while the SP raised its tally from the previous MLC polls by two",
+            "published": "2026-10-30T20:50:33+05:30"
+          },
+          {
+            "title": "Revanth wants Ashwini Vaishnaw’s nod for six railway projects in Telangana",
+            "link": "https://www.thehindu.com/news/national/telangana/revanth-wants-ashwini-vaishnaws-nod-for-six-railway-projects-in-telangana/article71645833.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:48:58+05:30"
+          },
+          {
+            "title": "TDP steps up door-to-door campaign in minority- dominated areas of Vizianagaram",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-steps-up-door-to-door-campaign-in-minority-dominated-areas-of-vizianagaram/article71645048.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:47:40+05:30"
+          },
+          {
+            "title": "No tolerance to even minor lapses in polling, counting: Annamayya Collector",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/no-tolerance-to-even-minor-lapses-in-polling-counting-annamayya-collector/article71645027.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-10-30T20:47:30+05:30"
+          },
+          {
             "title": "‘Cyberabad Moves 2026’ to turn traffic data into solutions",
             "link": "https://www.thehindu.com/news/national/telangana/cyberabad-moves-2026-to-turn-traffic-data-into-solutions/article71645306.ece",
             "source": "The Hindu",
@@ -118,79 +188,23 @@
             "source": "The Hindu",
             "summary": "Fisheries Department asked to prepare draft State-level policy; Deputy CM stresses speedy completion of Uppada sea protection wall and replacement of washed-away beach road",
             "published": "2026-10-30T20:46:27+05:30"
-          },
-          {
-            "title": "TDP steps up door-to-door campaign in minority- dominated areas of Vizianagaram",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-steps-up-door-to-door-campaign-in-minority-dominated-areas-of-vizianagaram/article71645048.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:46:19+05:30"
-          },
-          {
-            "title": "Keralam invites EoI for social impact study for Vizhinjam port expansion",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-invites-eoi-for-social-impact-study-for-vizhinjam-port-expansion/article71645582.ece",
-            "source": "The Hindu",
-            "summary": "Study aims to assess potential losses of employment and livelihoods arising from the port expansion and identify the groups likely to be affected",
-            "published": "2026-10-30T20:46:07+05:30"
-          },
-          {
-            "title": "International agricultural event to focus on climate resilience",
-            "link": "https://www.thehindu.com/news/national/international-agricultural-event-to-focus-on-climate-resilience/article71645810.ece",
-            "source": "The Hindu",
-            "summary": "The event will bring researchers, farmers, governments, start-ups and businesses from around the world to New Delhi",
-            "published": "2026-10-30T20:45:47+05:30"
-          },
-          {
-            "title": "Rahul Gandhi questions IDBI Bank sale; Nirmala Sitharaman hits back, says Congress treated banks as 'personal entities'",
-            "link": "https://www.thehindu.com/news/national/idbi-bank-divestment-finance-minister-nirmala-sitharaman-says-congress-upa-govt-used-banks-financial-institutions-as-personal-entities/article71644305.ece",
-            "source": "The Hindu",
-            "summary": "In an open letter to IDBI Bank employees, Rahul Gandhi expressed solidarity with their opposition to the proposed sale, arguing that public banks were not assets to be sold but “tools to build the nation”",
-            "published": "2026-10-30T20:45:24+05:30"
-          },
-          {
-            "title": "Cheranalloor car crash: Kaliraj denies intervening in probe, CM visits victim’s family",
-            "link": "https://www.thehindu.com/news/national/kerala/cheranalloor-car-crash-kaliraj-denies-intervening-in-probe-cm-visits-victims-family/article71645804.ece",
-            "source": "The Hindu",
-            "summary": "Mahesh Kumar terms the reports that the judge of a district court, who is the father of the minor who allegedly drove the luxury car involved in the incident, had called him after the accident baseless.",
-            "published": "2026-10-30T20:44:33+05:30"
-          },
-          {
-            "title": "Upalokayuktha calls for honesty during Vigilance Awareness Week in Mysuru",
-            "link": "https://www.thehindu.com/news/national/karnataka/upalokayuktha-calls-for-honesty-during-vigilance-awareness-week-in-mysuru/article71645195.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:44:30+05:30"
-          },
-          {
-            "title": "Quantum tech can help solve complex problems: Jnan Yalla",
-            "link": "https://www.thehindu.com/news/national/karnataka/quantum-tech-can-help-solve-complex-problems-jnan-yalla/article71645579.ece",
-            "source": "The Hindu",
-            "summary": "Qiskit Fall Fest inaugurated at Visvesvaraya Technological University in Belagavi",
-            "published": "2026-10-30T20:43:23+05:30"
-          },
-          {
-            "title": "Amrita, Rajya Rani express trains to be upgraded with LHB coaches",
-            "link": "https://www.thehindu.com/news/national/kerala/amrita-rajya-rani-express-trains-to-be-upgraded-with-lhb-coaches/article71645849.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:40:49+05:30"
-          },
-          {
-            "title": "Man gets life term for sexually assaulting a minor, her sister in Tindivanam",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-gets-life-term-for-sexually-assaulting-a-minor-her-sister-in-tindivanam/article71644861.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-10-30T20:40:19+05:30"
-          },
-          {
-            "title": "Accused in drug case, absconding for two years, held from Kullu in Himachal Pradesh",
-            "link": "https://www.thehindu.com/news/national/kerala/accused-in-drug-case-absconding-for-two-years-held-from-kullu-in-himachal-pradesh/article71645021.ece",
-            "source": "The Hindu",
-            "summary": "The accused had been on the run since the seizure of 316 grams of suspected MDMA and 420 grams of suspected ganja from a car at Athani in June, 2024,say police",
-            "published": "2026-10-30T20:38:15+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US tech stocks see sharp falls over AI cost fears",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+            "published": "2026-10-30T15:27:54+00:00"
+          },
+          {
+            "title": "Democratic senator blames Egypt press crackdown on Trump military aid decision",
+            "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+            "published": "2026-10-30T15:17:11+00:00"
+          },
           {
             "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
             "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
@@ -204,6 +218,13 @@
             "source": "BBC World",
             "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
             "published": "2026-10-30T15:06:05+00:00"
+          },
+          {
+            "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
+            "published": "2026-10-30T15:06:00+00:00"
           },
           {
             "title": "Spain transport minister says he won't resign over high-speed rail disaster",
@@ -253,36 +274,15 @@
             "source": "Al Jazeera",
             "summary": "No injuries reported after glacial lake burst, causing a flash flood and disrupting Bhutan&#039;s Gasa Tshachu hot springs.",
             "published": "2026-10-30T14:01:03+00:00"
-          },
-          {
-            "title": "MLB World Series: Why did baseball’s biggest stage struggle for viewership?",
-            "link": "https://www.aljazeera.com/sports/2026/10/30/major-league-baseball-world-series-brewers-rays-nba-nfl-united-states?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "When Brewers and Rays faced off, it marked the first World Series between two of MLB&#039;s smallest spenders in 35 years.",
-            "published": "2026-10-30T13:58:04+00:00"
-          },
-          {
-            "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
-            "link": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "West Indies&#039; Royston Chase forces collapse as Bangladesh slump to 79-6, a lead of 106 runs, on day three of first Test.",
-            "published": "2026-10-30T13:56:22+00:00"
-          },
-          {
-            "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-            "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-            "published": "2026-10-30T13:46:16+00:00"
           }
         ],
         "Business": [
           {
-            "title": "US tech stocks see sharp falls over AI cost concerns",
+            "title": "US tech stocks see sharp falls over AI cost fears",
             "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-            "published": "2026-10-30T15:01:56+00:00"
+            "published": "2026-10-30T15:27:54+00:00"
           },
           {
             "title": "Yorkshire Water boss resigns after firm downgraded",
@@ -450,11 +450,11 @@
         ],
         "Technology": [
           {
-            "title": "US tech stocks see sharp falls over AI cost concerns",
+            "title": "US tech stocks see sharp falls over AI cost fears",
             "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-            "published": "2026-10-30T15:01:56+00:00"
+            "published": "2026-10-30T15:27:54+00:00"
           },
           {
             "title": "Google Gemini Personal Avatars: How to Create, Share and Delete Them",
@@ -895,6 +895,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ரூ.59,000 கோடி கிரிப்டோகரன்சி திருட்டு: பினன்ஸ் ஹேக்கிங் பற்றி இதுவரை தெரியவந்தது என்ன?",
+            "link": "https://www.bbc.com/tamil/articles/cqm24pdnv2evo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-10-30T15:24:39+00:00"
+          },
+          {
+            "title": "\"ஐரோப்பாவுடன் போருக்கு ரெடி..\" திடீரென பகிரங்க எச்சரிக்கை விடுத்த ரஷ்ய அதிபர் புதின்.. என்ன காரணம்?",
+            "link": "https://tamil.oneindia.com/news/international/president-putin-warns-russia-is-ready-for-war-with-europe-if-provoked-what-it-means-for-europe-841865.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-10-30T20:46:33+05:30"
+          },
+          {
             "title": "இந்தியாவில் ஒரு லட்சத்திற்கும் அதிகமான ஓராசிரியர் பள்ளிகள் - தமிழ்நாட்டில் நிலவரம் என்ன?",
             "link": "https://www.bbc.com/tamil/articles/cm62yl1pe6wgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -963,20 +977,6 @@
             "source": "Oneindia Tamil",
             "summary": "",
             "published": "2026-10-30T17:17:40+05:30"
-          },
-          {
-            "title": "ஒரே ஓவரில் 32 ரன்: இந்தியாவிடம் ஹாட்ரிக் தோல்வியடைந்த நியூசிலாந்து முதல் வெற்றி",
-            "link": "https://www.bbc.com/tamil/articles/ck5yn8el1258o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-10-30T11:27:38+00:00"
-          },
-          {
-            "title": "3 வயது குழந்தையை கொஞ்சுவதாக கூறி அநாகரீகமாக நடந்த இளைஞர்! தடுக்காத தாய்! இருவரும் கைது!",
-            "link": "https://tamil.oneindia.com/news/tamilnadu/youth-and-mother-of-3-years-old-arrested-in-kumbakonam-841801.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-10-30T16:25:38+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "రూ.50,000 తగ్గిన బంగారం ధరలు.. దీపావళికి ముందే గోల్డెన్ ఛాన్స్!",
+            "link": "https://telugu.oneindia.com/news/business/gold-prices-drops-by-rs-50-000-before-diwali-is-this-the-right-time-to-buy-gold-check-mcx-gold-rat-512899.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-10-30T20:55:24+05:30"
+          },
+          {
+            "title": "Diwali bonus: నవంబర్‌ 5న సింగరేణి కార్మికులకు దీపావళి బోనస్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMi1PVnJLbVB6d0trUnRDS055b0dQZWtIUlNmdnN3R2x5alFqOXE4NE04MngtdnNLaTk4NlhtS3hTUVY5bm1HWjlBR0tmUjNtWm5icEM1a2puTzhfOWZyMTVVZ0tKZE11SkY0VU5NTE05NFI4ZEtKTWJqZlJvNkhDcm5zQks2NFhJNEN2aGRMc1o4UmN6a3ZWci1n?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-30T15:13:20+00:00"
+          },
+          {
             "title": "పాకిస్తాన్: మానవ హక్కుల న్యాయవాద దంపతులకు 10 ఏళ్ల జైలు శిక్ష.. వీళ్లు చేసిన తప్పేంటి?",
             "link": "https://www.bbc.com/telugu/articles/cx62yd8v87ndo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
@@ -1086,18 +1100,11 @@
             "published": "2026-10-30T20:24:06+05:30"
           },
           {
-            "title": "CURRENT AFFAIRS - eenadu pratibha",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUxaQW5NNTgxMnBLekFPZktua0gtVUItQTFMMVhTZmhnQU5LNDZVOG9LZ2J6UVplY00zclVYR21WZ2QxdFo2dGZSMDNHSEd6eWxFZHV1eE5JNXdBalNFRC1Obkp6bjQzZU9reGV0TGFlQWJiWmNrR1Qyb0Z6RmNuUzJ2VkFaNk84WHgxSzN6d3FFYV9qNU1hc1hR?oc=5",
+            "title": "Shraddha Kapoor: ‘ఈథ’.. వాళ్ల సహకారంతోనే చేయగలిగా: శ్రద్ధా కపూర్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTjIta01PNEVQb3BiOEN4cVpiMnVvSWQzdGhKeG5Zb0t0bmUzV1dYaWp3d0VNRXE3aUxhVkhrNGdJMnBVOEV4anFQaUs4OHMwdk13cXBRUEgtMTVUSTY3c2hBb0syczlCWFBXTkNXdEhUeHo2RXFKeV9YajRrQjdtNUpjam5hNUVTNG1CRlY3TDU4dFpQZVgwWHRNak9VQlBRNUt4MWZfOUw0MnNXUUpvaDVKY3E1V0lk0gG4AUFVX3lxTE1OMi1rTU80RVBvcGI4Q3hxWmIydW9JZDN0aEp4bllvS3RuZTNXV1hpand3RU1FcTdpTGFWSGs0Z0kycFU4RXhqcVBpSzg4czB2TXdxcFFQSC0xNVRJNjdzaEFvSzJzOUJYUFdOQ1d0SFR4ejZFcUp5X1hqNGtCN201SmNqbmE1RVM0bUJGVjdMNTh0WlBlWDBYdE1qT1VCUFE1S3gxZl85TDQyc1dRSm9oNUpjcTVXSWQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-10-30T14:49:48+00:00"
-          },
-          {
-            "title": "Hyderabad Heavy Rainfall: హైదరాబాద్‌లో వివిధ ప్రాంతాల్లో భారీ వర్షం.. వీడియో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0R0ZS13NlI2Q3NXX0FKaHY2ZHlkUlNla2hDYjBsTXdnSnI1WV90VWNOVW82c01fMG1sM2FZSDlob0JxODlNeWJWLTJ2R3B6V1F0cDJ3RzVCclZOMkdLcWNKLU8yVzFTOUFYZlRRTlRXeGRqSnFMUVQzbTFNR3pOUHFVbmNNTFhERmxPU2xoeHlMalZ2b2U1RHljX27SAZwBQVVfeXFMTW9EdGUtdzZSNkNzV19BSmh2NmR5ZFJTZWtoQ2IwbE13Z0pyNVlfdFVjTlVvNnNNXzBtbDNhWUg5aG9CcTg5TXliVi0ydkdweldRdHAyd0c1QnJWTjJHS3FjSi1PMlcxUzlBWGZUUU5UV3hkakpxTFFUM20xTUd6TlBxVW5jTUxYREZsT1NsaHh5TGpWdm9lNUR5Y19u?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-10-30T14:40:33+00:00"
+            "published": "2026-10-30T14:42:15+00:00"
           },
           {
             "title": "12 గంటల్లోనే స్థానిక ఎన్నికల ఫలితాలు- పోలింగ్, కౌంటింగ్ పై ఎస్ఈసీ కీలక ఆదేశాలు..!",
@@ -1105,6 +1112,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-30T20:09:02+05:30"
+          },
+          {
+            "title": "కావ్య-అనిరుధ్‌ రిసెప్షన్‌ కార్డు అలా డిజైన్‌ చేశా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNm5kakFHWUtIcmdhSk1qanAzbF9hZ0o3eTZBMk5qZElQeF85X0pBUmZ1eDc1a2VlWmVYUlpicmZJQTZrYW5yS0o2NDJLRzFwRGVLd2xuNzd3ajNVbWNDVVUxTmNmV1hHZVNUTVBQS0FmdkZhTFZkR0VRMkFnelRPTFFLbTNRbjlnRl9hSFQ2eWpDRlhfUVd6WU9IMjhmOXJKYjFYUzFCRTJVNEg5WHlhY2tCWVgybXViSW1qVlc0VmZ3N0h6ZDNfZmVWRGJQYlR2QURYanlNT09HNlk5bTN5Qmx5NTbSAeQBQVVfeXFMTTZuZGpBR1lLSHJnYUpNampwM2xfYWdKN3k2QTJOamRJUHhfOV9KQVJmdXg3NWtlZVplWFJaYnJmSUE2a2FucktKNjQyS0cxcERlS3dsbjc3d2ozVW1jQ1VVMU5jZldYR2VTVE1QUEtBZnZGYUxWZEdFUTJBZ3pUT0xRS20zUW45Z0ZfYUhUNnlqQ0ZYX1FXellPSDI4ZjlySmIxWFMxQkUyVTRIOVh5YWNrQllYMm11YkltalZXNFZmdzdIemQzX2ZlVkRiUGJUdkFEWGp5TU9PRzZZOW0zeUJseTU2?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-10-30T14:19:51+00:00"
           },
           {
             "title": "ఎల్ నినో తర్వాత లా నినా వస్తుందా? వాతావరణంలో మరో కీలక పరిణామం!",
@@ -1140,20 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-10-30T18:54:18+05:30"
-          },
-          {
-            "title": "భర్త చేసిన ఒక్క కామెంట్‌తో రచ్చ రచ్చ.. చివరకు ఇద్దరు భార్యలు చేసిన పని వైరల్!",
-            "link": "https://telugu.oneindia.com/news/india/kanpur-man-joke-about-3rd-marriage-wife-reaches-police-both-fast-on-karwa-chauth-full-details-her-512887.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-10-30T18:53:04+05:30"
-          },
-          {
-            "title": "#కల్ట్ మూవీ: ముసుగు మనిషి రక్తపాతం థ్రిల్ పంచిందా, విశ్వక్ సేన్ దర్శక ప్రతిభ ఎలా ఉంది?",
-            "link": "https://www.bbc.com/telugu/articles/ck1wv2pnezj7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-10-30T12:50:34+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ভূতুড়ে আবহেই মজাদার চুমুক! শিশুদের ‘হ্যালোউইন পার্টি’ জমে উঠুক মদিরাবর্জিত এই সব পানীয়ে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTJGaGJTaFdacDdPeUhnd2RLcG94Qmp2OTZHOGpwQkNIXzJKQjMyT1VSalVUVTM2RFpCdUpFZlZFcldLM0N1bUxJM2lMa0tPc2VremwwakpsX0RsNEgweUpRSlVXRXRpVUd5cC1JZjZNbW5zTGVMUkpXU29KX19OOGNxZl9DMkxLUjFreDZtLTRVclpVcnRXX0ppbkVacXJqeXBfcVJGWTNqZmJqYnUzNHpYUU91c1RnTkI2LTlRWkRZUVJrTUY0Z185NE95Ujh2dGQw0gHYAUFVX3lxTE5jLTVDb0NqQnpzZmhzMUZZY2dqbDhyMzVib2huRGtOTkFjLUpNNEhRZ1lGTFhNenBuR3E5d29XMVF3dnhJSGliY19pRnVqc0RiMTdiWndDUUVPMGF4Y1pVTURpbjZ2LTg1RXdKbUFyUktCM1FScHlsMm5BZmNfRURmWjhvRjVIRzFLMDBVcG1Vd2tUTE4yN2RCQUo1QzBtd0M5SUIxcEpxQ0VITWNFSGI1Y0xXMy1HZE9FRjBBbEI3OWNxWlo4M0FkWlhIUVJLcm5uWERmWVo1SA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-30T15:02:10+00:00"
+          },
+          {
             "title": "দত্তপুকুরে সিভিকের রহস্যমৃত্যু দত্তপুকুরে, ‘সুইসাইড নোটে’ নাম মহিলা আইনজীবীর, তিনি-ই প্রেমিকা ছিলেন, দাবি পরিবারের - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXZuSEc5aUNkV08tTDR6Y0IzbmI4SjliNlYzS1VNZ3l6ZTV3STNJM2VfeTljM0JyXzRXdkhiQ0FOTUkxOFhKVEdobWY1M3puajI1MTRacEwzaTYwRGF4aU1pYzBQbTM5bzFNTGlNcFdJZDZqQU5Zczl5QWZOakJCV1lTeWVKelJTYS1tMm5sbnhfd3hoa0YtU3ZIVnlORjJoS3lnSlNBa1FjLTlXMlZDdlBYNXpYbFct0gG-AUFVX3lxTE1faXZwRDVNdDNIRnh3NVFzNUw0R0dkX3FmYmZUcExNVi1hQU1RT2QyTHVSbnFfU2xpUmxUemZoWFU5RGNsWWFfMmdiNjJkbVlyRkQ4TUdidUh0YldsV3JINS01VVpZVjR2ZlVKOHN3MWx5WkVyX3VmNFNUVi1Ua1hONmFKQWNna2JsTUd3QUdhN1NvaExnSkVQSnJXRnE5SFVFX1NNQXd3bTlyUTVvUWp0MndrdkJubU16OF85SEE?oc=5",
             "source": "Anandabazar Patrika",
@@ -1482,6 +1489,13 @@
             "published": "2026-10-30T13:11:08+00:00"
           },
           {
+            "title": "স্বাস্থ্যসাথী, আয়ুষ্মান কার্ড ফেরানোর জন্য আরও কিছুটা সময় পাবেন সরকারি কর্মীরা! মেয়াদ বাড়াল রাজ্য সরকার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVjA4cV9qSUZUSkZ5WjJlVUZGWUdQRGVYbFVxNlNUU3FmSXphdGlvNW9BWkdpeGxGVlMwZDhFbTRIWTg4ZnNWUE8wTW40ZnhlWHB2WnhWZlJjQWh0MzUwc1lBSkR0WnBlN09sRTloWjJVd25sMUQzcTU2LXJjNmpzMlkyTFRmUjZXRzVXV2EzbEdwYzhBblFxMkk1WDk3cGxwVXB3Qy12T2taTXZFRDZVOVNNektuWVJDVWVpbFpFakZwSFBUZFdDbi1idHRwV1lLOXRLNy1MRnZjVGFlOU1KaXd1dHlXMzJK0gHuAUFVX3lxTE9hRWdHT0ltMmZkSXFMTVRJTHJGVG04SnloOFdQanhTSFJSZHNMcUdfdkk5eXdHZTE4N2VjazJ4aktnZWROV0VERlJpTEgxZVpXSXFUSERpd2ZkaGxzdl9iVy1Rb0RvV2JyVTdzdXhMZUxlVkZ3akEtUFZIY1dTOE9tZ0d2T0VUaVZCdmlLbEhaMmtoM1VVNUt4RFNSVFhEbDlUZ1lsSFBaTTNEQmh5S2FRelA3Ykg2NWM5NnlkUjlMRE9NQ2dUSEliOUxydzVhVVloVXl2X1V1MmlhMm5UbDlIT0dxazlRaW9VMGhIY1E?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-10-30T12:59:57+00:00"
+          },
+          {
             "title": "শূর্পণখাকে সকলে ভুল বুঝেছে, এই ছবিতে নতুন ভাবে তাকে আবিষ্কার করা যাবে: রকুল প্রীত - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3l2UDFuSHRkYlo3aWxNX2l2dmRSd1AwUVM5aUxtT1ZWWjZobWZRelEtNC1KeExUbkFYY3Z4OTRlX3k2VmN3c1ZCUE91bEdWUlctbmxGVjIyaDJxY1NpWjVJbUg2c1FwaDIxVE5nQXlDUElDSGxvLVFRVzJuSW1IanhhbzlodzdnS3ZCbFp1dm03QWZsZDJvUVdNUTZEM0ZQWjhiZTdIQ05oT3A5YlNfZGpMbnFwQdIBuwFBVV95cUxOT3ljTjFIQWdaN0NpZEdBTkRTQldzd2xGNnV4SjNFUDBVQkVpNXJOQVludEJIaUlHM1pSbUdSbl95ZGZPbW5qNkt4cjJkTzNXT2p6c1BoYzYtSDN0ZHpwRFRTLUg0UmhmOXBmRF9fOGhydTVXX0ZPclJYbVM2ZW9RR0FxUm5CemRUNWE5M2w1cGgtaTNHM1YtRE5rYWdyd1FnVlNCOVpVUFZJdTBVRVpfOVZJSjhuWFdEaGJ3?oc=5",
             "source": "Anandabazar Patrika",
@@ -1489,25 +1503,11 @@
             "published": "2026-10-30T12:59:01+00:00"
           },
           {
-            "title": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন কী?",
-            "link": "https://www.bbc.com/bengali/articles/cr5yn72jwe7jo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-10-30T12:48:17+00:00"
-          },
-          {
-            "title": "পাকিস্তানের কাছে হার ভারতের, এক ওভারে ৩১ রান দিলেন ক্রুণাল, হংকংয়ের প্রতিযোগিতায় শুরুতেই হোঁচট - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnl3Q2JmbEdmZ1RNS1BFZUlqWmQwMF9OcVJmVXk5SWlXc0F6c01jRDdtR1pDU1dKZ0QzX0ZEN2R6X1JDY21UNWhQd1Fob0Y4Z19yZmxZYjVBR2NBMGdfMGY1c3N2Q0RSRE1ZMUdWbWZ0TjVveUcxLWthSTA3anlCcC1sb1BxVnhucFhyaGlPazRJbXZGMUpMNlgwb2dwYU1VdFZjWmt5d2pyOXJ1bjlmcXUtY9IBswFBVV95cUxNQnl3Q2JmbEdmZ1RNS1BFZUlqWmQwMF9OcVJmVXk5SWlXc0F6c01jRDdtR1pDU1dKZ0QzX0ZEN2R6X1JDY21UNWhQd1Fob0Y4Z19yZmxZYjVBR2NBMGdfMGY1c3N2Q0RSRE1ZMUdWbWZ0TjVveUcxLWthSTA3anlCcC1sb1BxVnhucFhyaGlPazRJbXZGMUpMNlgwb2dwYU1VdFZjWmt5d2pyOXJ1bjlmcXUtYw?oc=5",
+            "title": "হাসিমুখে ‘আগ্নেয়াস্ত্র’ উঁচিয়ে পড়ুয়াদের বিজ্ঞানের পাঠ! শিক্ষকের কাণ্ড দেখে ভিরমি খেল নেটপাড়া - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUx1QTNLRkc2VFRTOGZOY2x0RWQ2S0VTQXh1YUNqeEhmZ3RjdEp0VzF4SnkyVGxYMEZTcXVsYTBobmc5YnQydmdZR183REJzUjhYaFpoZkdsemF6bFNIQzNPVmJIbU5odVFSVGdBYnNYaTM0R3pWdWh3WmZMNV96aUIxN0pucFRJN29aQ1RXUmtFZkREbFhNdmpEWTZQZmxKbTJDMFZEcWJhZTJaSTRIZEFzWUh0aVh3OHd5MVlqMjROb0o2d1dWQ1lSNNIBywFBVV95cUxNTUx1QTNLRkc2VFRTOGZOY2x0RWQ2S0VTQXh1YUNqeEhmZ3RjdEp0VzF4SnkyVGxYMEZTcXVsYTBobmc5YnQydmdZR183REJzUjhYaFpoZkdsemF6bFNIQzNPVmJIbU5odVFSVGdBYnNYaTM0R3pWdWh3WmZMNV96aUIxN0pucFRJN29aQ1RXUmtFZkREbFhNdmpEWTZQZmxKbTJDMFZEcWJhZTJaSTRIZEFzWUh0aVh3OHd5MVlqMjROb0o2d1dWQ1lSNA?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-10-30T12:34:40+00:00"
-          },
-          {
-            "title": "বিমানবাহিনীর সাবেক কর্মকর্তার মৃত্যু রহস্য: যেসব বিষয় তদন্ত করছে পুলিশ",
-            "link": "https://www.bbc.com/bengali/articles/c5vgjz9ez11lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-10-30T11:06:54+00:00"
+            "published": "2026-10-30T12:51:15+00:00"
           }
         ]
       }
