@@ -1,196 +1,224 @@
 {
-  "updated_at": "2026-11-02T06:31:12.263554+00:00",
+  "updated_at": "2026-11-02T07:01:26.336638+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
+            "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+            "source": "The Hindu",
+            "summary": "System intensifies into ‘Severe Cyclonic Storm’, likely to cross the south Andhra coast, between 11.30 p.m. today and 4 a.m. on November 3.",
+            "published": "2026-11-02T12:26:00+05:30"
+          },
+          {
+            "title": "Madhya Pradesh Police inspector mowed down by truck carrying illicit liquor in Dewas",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
+            "source": "The Hindu",
+            "summary": "Another police officer said that the truck driver and staff fled the scene after leaving the truck at some distance following the incident, and a search is underway for them",
+            "published": "2026-11-02T12:23:34+05:30"
+          },
+          {
+            "title": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece",
+            "source": "The Hindu",
+            "summary": "Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest",
+            "published": "2026-11-02T12:22:38+05:30"
+          },
+          {
+            "title": "Cyclone Murasu: 12 flight services cancelled at Vijayawada; Visakhapatnam flights hit",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-12-flight-services-cancelled-at-vijayawada-visakhapatnam-flights-hit/article71655530.ece",
+            "source": "The Hindu",
+            "summary": "The severe cyclonic storm Murasu is expected to cross the south Andhra coast near Ongole tonight",
+            "published": "2026-11-02T12:18:50+05:30"
+          },
+          {
+            "title": "KBN Hospital hosts workshop on hysterectomy and advanced laparoscopy in Kalaburagi",
+            "link": "https://www.thehindu.com/news/national/karnataka/kbn-hospital-hosts-workshop-on-hysterectomy-and-advanced-laparoscopy-in-kalaburagi/article71645308.ece",
+            "source": "The Hindu",
+            "summary": "Ten surgeries performed live; around 150 delegates from across Karnataka participate",
+            "published": "2026-11-02T12:18:26+05:30"
+          },
+          {
+            "title": "Odisha govt evacuates people from vulnerable areas as Murasu intensifies into severe cyclonic storm",
+            "link": "https://www.hindustantimes.com/india-news/odisha-govt-evacuates-people-from-vulnerable-areas-as-murasu-intensifies-into-severe-cyclonic-storm-101793602036519.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-11-02T12:17:16+05:30"
+          },
+          {
+            "title": "Sourabh Chandrakar's rise to infamy: A shop worker to organiser of illegal betting app",
+            "link": "https://www.hindustantimes.com/india-news/sourabh-chandrakar-oman-extradition-rise-to-infamy-a-shop-worker-to-organiser-of-mahadev-illegal-betting-app-101793598118127.html",
+            "source": "Hindustan Times",
+            "summary": "In 2023, HT spoke to neighbours and former associates in his Chhattisgarh hometown to trace his journey from shop worker to illegal betting network promoter.",
+            "published": "2026-11-02T12:16:47+05:30"
+          },
+          {
+            "title": "How did two foreign nationals die in a five-star hotel pool in Bengaluru? | Explained",
+            "link": "https://www.thehindu.com/news/national/karnataka/explainer-on-bengaluru-hotel-conrad-swimming-pool-incident/article71655524.ece",
+            "source": "The Hindu",
+            "summary": "The incident raised serious questions about electrical safety standards, maintenance protocols and emergency preparedness at swimming pools in general and luxury hotels",
+            "published": "2026-11-02T12:16:42+05:30"
+          },
+          {
+            "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+            "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+            "source": "The Hindu",
+            "summary": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+            "published": "2026-11-02T12:15:52+05:30"
+          },
+          {
+            "title": "SRN Mehta School-Kalaburagi student selected for national-level chess championship",
+            "link": "https://www.thehindu.com/news/national/karnataka/srn-mehta-school-kalaburagi-student-selected-for-national-level-chess-championship/article71640812.ece",
+            "source": "The Hindu",
+            "summary": "Anish P. More secures fifth place in State-level tournament",
+            "published": "2026-11-02T12:15:50+05:30"
+          },
+          {
+            "title": "Cyclone Murasu: List of flights cancelled to and from Chennai",
+            "link": "https://www.thehindu.com/news/national/cyclone-murasu-full-list-of-flights-cancelled-and-affected/article71655519.ece",
+            "source": "The Hindu",
+            "summary": "Cyclone Murasu comes just days after Cyclone Arnab made landfall in Andhra Pradesh on October 27,2026.",
+            "published": "2026-11-02T12:07:24+05:30"
+          },
+          {
+            "title": "Six Indian tourists stranded in Nepal's National Park rescued safely",
+            "link": "https://www.thehindu.com/news/national/six-indian-tourists-stranded-in-nepals-national-park-rescued-safely/article71655445.ece",
+            "source": "The Hindu",
+            "summary": "All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police",
+            "published": "2026-11-02T12:06:54+05:30"
+          },
+          {
             "title": "Lower-order runs put New Zealand A in front despite Siraj and Mukesh hauls",
             "link": "https://www.cricinfo.com/ci/content/story/1561079.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Yashasvi Jaiswal and B Sai Sudharsan batted out the 11 overs before close of play to reduce the deficit for India A to 46 runs",
-            "published": "2026-11-02T06:29:35+00:00"
+            "published": "2026-11-02T06:30:52+00:00"
           },
           {
-            "title": "Cyclone Murasu: List of flights cancelled to and from Chennai",
-            "link": "https://www.thehindu.com/news/national/cyclone-murasu-full-list-of-flights-cancelled-and-affected/article71655519.ece",
-            "source": "The Hindu",
-            "summary": "Cyclone Murasu comes just days after Cyclone Arnab made landfall in Andhra Pradesh on October 27,2026.",
-            "published": "2026-11-02T11:55:31+05:30"
-          },
-          {
-            "title": "ED registers money laundering case against Subhash Chandra",
-            "link": "https://www.thehindu.com/news/national/ed-registers-money-laundering-case-against-subhash-chandra/article71655520.ece",
-            "source": "The Hindu",
-            "summary": "The officials said the case has been filed under the Prevention of Money Laundering Act (PMLA), taking cognisance of a CBI FIR",
-            "published": "2026-11-02T11:54:42+05:30"
-          },
-          {
-            "title": "Agitators clash with security forces in Manipur's Kangpokpi after recovery of missing youths' bodies",
-            "link": "https://www.thehindu.com/news/national/manipur/agitators-clash-with-security-forces-in-manipurs-kangpokpi-after-recovery-of-missing-youths-bodies/article71655499.ece",
-            "source": "The Hindu",
-            "summary": "Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders",
-            "published": "2026-11-02T11:53:04+05:30"
-          },
-          {
-            "title": "Christmas donations gift demand up, charities say",
-            "link": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
-            "published": "2026-11-02T06:22:48+00:00"
-          },
-          {
-            "title": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
-            "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-telanganas-nagarkurnool-administration-releases-dos-and-donts/article71655531.ece",
-            "source": "The Hindu",
-            "summary": "People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots",
-            "published": "2026-11-02T11:52:15+05:30"
-          },
-          {
-            "title": "Cyclonic storm Murasu to make landfall close to Ongole",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
-            "source": "The Hindu",
-            "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
-            "published": "2026-11-02T11:51:14+05:30"
-          },
-          {
-            "title": "Christmas shoebox appeal launches to help children",
-            "link": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
-            "published": "2026-11-02T06:21:09+00:00"
-          },
-          {
-            "title": "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
-            "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-            "source": "The Hindu",
-            "summary": "System intensifies into ‘Severe Cyclonic Storm’, to make landfall on November 3 morning",
-            "published": "2026-11-02T11:49:52+05:30"
-          },
-          {
-            "title": "Big blow to AAP as three MLAs join BJP ahead of 2027 Assembly polls",
-            "link": "https://www.hindustantimes.com/india-news/big-blow-to-aap-as-three-mlas-resign-join-bjp-ahead-of-2027-assembly-polls-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-prata-101793599396364.html",
-            "source": "Hindustan Times",
-            "summary": "The leaders arrived at the BJP Headquarters in Delhi and were seen raising slogans of “BJP Zindabad” ahead of officially joining the party.",
-            "published": "2026-11-02T11:46:54+05:30"
-          },
-          {
-            "title": "‘Murasu’ strengthens into Severe Cyclonic Storm",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
-            "source": "The Hindu",
-            "summary": "The system may continue to move northwestwards and cross south Andhra Pradesh coast",
-            "published": "2026-11-02T11:44:51+05:30"
-          },
-          {
-            "title": "Open-top overlanders: Show of Opposition unity at their largest mobilisation in recent years",
-            "link": "https://www.hindustantimes.com/india-news/opentop-overlanders-show-of-opposition-unity-at-their-largest-mobilisation-in-recent-years-101793599976030.html",
-            "source": "Hindustan Times",
-            "summary": "The overlanders brought together leaders from the INDIA bloc for the march and a rally at Ramlila Maidan",
-            "published": "2026-11-02T11:42:55+05:30"
-          },
-          {
-            "title": "'We will navigate through challenges': IndiGo CEO on airline industry's tough phase",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/we-will-navigate-through-challenges-indigo-ceo-willie-walsh-on-airline-industrys-tough-phase/articleshow/135447005.cms",
-            "source": "Times of India",
-            "summary": "IndiGo CEO Willie Walsh indicated significant growth opportunities for the airline despite rising fuel costs. The airline reported a net loss of Rs 1,879.1 crore due to elevated expenses and rupee depreciation. Walsh anticipates deliveries of wide-body Airbus A350 aircraft beginning in the second quarter of 2028. IndiGo plans to shift some international flights to the new Navi Mumbai airport to capitalize on…",
-            "published": "2026-11-02T11:42:28+05:30"
-          },
-          {
-            "title": "Why Kashmir’s oldest party National Conference stares at rare upheaval | Explained",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/why-kashmirs-oldest-party-national-conference-stares-at-rare-upheaval-explained/article71655436.ece",
-            "source": "The Hindu",
-            "summary": "Omar Abdullah announced the induction of four new faces into the Cabinet on October 27, reshuffling the portfolios. The legislators accused the CM and his close confidantes of eroding the culture of consultation in the party by imposing decisions from the top, causing a political upheaval",
-            "published": "2026-11-02T11:41:31+05:30"
+            "title": "Vedanta Oil and Gas shares jump 14% in 2 days, m-cap swells by Rs 1,600 crore after Q2 results",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-jump-14-in-2-days-m-cap-swells-by-rs-1600-crore-after-q2-results/articleshow/135448408.cms",
+            "source": "Economic Times",
+            "summary": "Vedanta Oil and Gas shares jumped 6% on Monday after rallying 8.5% in the previous session, adding nearly Rs 1,600 crore to its market capitalisation. The gains followed a strong Q2 performance, with the company reporting a net profit of Rs 746 crore against a loss of Rs 91 crore a year ago, despite a sequential decline.",
+            "published": "2026-11-02T12:00:46+05:30"
           }
         ],
         "India": [
           {
+            "title": "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
+            "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+            "source": "The Hindu",
+            "summary": "System intensifies into ‘Severe Cyclonic Storm’, likely to cross the south Andhra coast, between 11.30 p.m. today and 4 a.m. on November 3.",
+            "published": "2026-11-02T12:26:00+05:30"
+          },
+          {
+            "title": "Madhya Pradesh Police inspector mowed down by truck carrying illicit liquor in Dewas",
+            "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
+            "source": "The Hindu",
+            "summary": "Another police officer said that the truck driver and staff fled the scene after leaving the truck at some distance following the incident, and a search is underway for them",
+            "published": "2026-11-02T12:23:34+05:30"
+          },
+          {
+            "title": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece",
+            "source": "The Hindu",
+            "summary": "Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest",
+            "published": "2026-11-02T12:22:38+05:30"
+          },
+          {
+            "title": "Cyclone Murasu: 12 flight services cancelled at Vijayawada; Visakhapatnam flights hit",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-12-flight-services-cancelled-at-vijayawada-visakhapatnam-flights-hit/article71655530.ece",
+            "source": "The Hindu",
+            "summary": "The severe cyclonic storm Murasu is expected to cross the south Andhra coast near Ongole tonight",
+            "published": "2026-11-02T12:18:50+05:30"
+          },
+          {
+            "title": "KBN Hospital hosts workshop on hysterectomy and advanced laparoscopy in Kalaburagi",
+            "link": "https://www.thehindu.com/news/national/karnataka/kbn-hospital-hosts-workshop-on-hysterectomy-and-advanced-laparoscopy-in-kalaburagi/article71645308.ece",
+            "source": "The Hindu",
+            "summary": "Ten surgeries performed live; around 150 delegates from across Karnataka participate",
+            "published": "2026-11-02T12:18:26+05:30"
+          },
+          {
+            "title": "Odisha govt evacuates people from vulnerable areas as Murasu intensifies into severe cyclonic storm",
+            "link": "https://www.hindustantimes.com/india-news/odisha-govt-evacuates-people-from-vulnerable-areas-as-murasu-intensifies-into-severe-cyclonic-storm-101793602036519.html",
+            "source": "Hindustan Times",
+            "summary": "",
+            "published": "2026-11-02T12:17:16+05:30"
+          },
+          {
+            "title": "Sourabh Chandrakar's rise to infamy: A shop worker to organiser of illegal betting app",
+            "link": "https://www.hindustantimes.com/india-news/sourabh-chandrakar-oman-extradition-rise-to-infamy-a-shop-worker-to-organiser-of-mahadev-illegal-betting-app-101793598118127.html",
+            "source": "Hindustan Times",
+            "summary": "In 2023, HT spoke to neighbours and former associates in his Chhattisgarh hometown to trace his journey from shop worker to illegal betting network promoter.",
+            "published": "2026-11-02T12:16:47+05:30"
+          },
+          {
+            "title": "How did two foreign nationals die in a five-star hotel pool in Bengaluru? | Explained",
+            "link": "https://www.thehindu.com/news/national/karnataka/explainer-on-bengaluru-hotel-conrad-swimming-pool-incident/article71655524.ece",
+            "source": "The Hindu",
+            "summary": "The incident raised serious questions about electrical safety standards, maintenance protocols and emergency preparedness at swimming pools in general and luxury hotels",
+            "published": "2026-11-02T12:16:42+05:30"
+          },
+          {
+            "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+            "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+            "source": "The Hindu",
+            "summary": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals",
+            "published": "2026-11-02T12:15:52+05:30"
+          },
+          {
+            "title": "SRN Mehta School-Kalaburagi student selected for national-level chess championship",
+            "link": "https://www.thehindu.com/news/national/karnataka/srn-mehta-school-kalaburagi-student-selected-for-national-level-chess-championship/article71640812.ece",
+            "source": "The Hindu",
+            "summary": "Anish P. More secures fifth place in State-level tournament",
+            "published": "2026-11-02T12:15:50+05:30"
+          },
+          {
             "title": "Cyclone Murasu: List of flights cancelled to and from Chennai",
             "link": "https://www.thehindu.com/news/national/cyclone-murasu-full-list-of-flights-cancelled-and-affected/article71655519.ece",
             "source": "The Hindu",
             "summary": "Cyclone Murasu comes just days after Cyclone Arnab made landfall in Andhra Pradesh on October 27,2026.",
-            "published": "2026-11-02T11:55:31+05:30"
+            "published": "2026-11-02T12:07:24+05:30"
           },
           {
-            "title": "ED registers money laundering case against Subhash Chandra",
-            "link": "https://www.thehindu.com/news/national/ed-registers-money-laundering-case-against-subhash-chandra/article71655520.ece",
+            "title": "Six Indian tourists stranded in Nepal's National Park rescued safely",
+            "link": "https://www.thehindu.com/news/national/six-indian-tourists-stranded-in-nepals-national-park-rescued-safely/article71655445.ece",
             "source": "The Hindu",
-            "summary": "The officials said the case has been filed under the Prevention of Money Laundering Act (PMLA), taking cognisance of a CBI FIR",
-            "published": "2026-11-02T11:54:42+05:30"
-          },
-          {
-            "title": "Agitators clash with security forces in Manipur's Kangpokpi after recovery of missing youths' bodies",
-            "link": "https://www.thehindu.com/news/national/manipur/agitators-clash-with-security-forces-in-manipurs-kangpokpi-after-recovery-of-missing-youths-bodies/article71655499.ece",
-            "source": "The Hindu",
-            "summary": "Protests erupted in several parts of Kangpokpi district on November 1, as agitators burned tyres on many roads and blocked several stretches with logs of wood and boulders",
-            "published": "2026-11-02T11:53:04+05:30"
-          },
-          {
-            "title": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
-            "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-telanganas-nagarkurnool-administration-releases-dos-and-donts/article71655531.ece",
-            "source": "The Hindu",
-            "summary": "People were urged to avoid travelling to Somasila, the Nallamalla ghat road, and tourist spots",
-            "published": "2026-11-02T11:52:15+05:30"
-          },
-          {
-            "title": "Cyclonic storm Murasu to make landfall close to Ongole",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
-            "source": "The Hindu",
-            "summary": "NDRF, SDRF teams deployed in districts likely to be affected",
-            "published": "2026-11-02T11:51:14+05:30"
-          },
-          {
-            "title": "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
-            "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-            "source": "The Hindu",
-            "summary": "System intensifies into ‘Severe Cyclonic Storm’, to make landfall on November 3 morning",
-            "published": "2026-11-02T11:49:52+05:30"
-          },
-          {
-            "title": "Big blow to AAP as three MLAs join BJP ahead of 2027 Assembly polls",
-            "link": "https://www.hindustantimes.com/india-news/big-blow-to-aap-as-three-mlas-resign-join-bjp-ahead-of-2027-assembly-polls-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-prata-101793599396364.html",
-            "source": "Hindustan Times",
-            "summary": "The leaders arrived at the BJP Headquarters in Delhi and were seen raising slogans of “BJP Zindabad” ahead of officially joining the party.",
-            "published": "2026-11-02T11:46:54+05:30"
-          },
-          {
-            "title": "‘Murasu’ strengthens into Severe Cyclonic Storm",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
-            "source": "The Hindu",
-            "summary": "The system may continue to move northwestwards and cross south Andhra Pradesh coast",
-            "published": "2026-11-02T11:44:51+05:30"
-          },
-          {
-            "title": "Open-top overlanders: Show of Opposition unity at their largest mobilisation in recent years",
-            "link": "https://www.hindustantimes.com/india-news/opentop-overlanders-show-of-opposition-unity-at-their-largest-mobilisation-in-recent-years-101793599976030.html",
-            "source": "Hindustan Times",
-            "summary": "The overlanders brought together leaders from the INDIA bloc for the march and a rally at Ramlila Maidan",
-            "published": "2026-11-02T11:42:55+05:30"
-          },
-          {
-            "title": "'We will navigate through challenges': IndiGo CEO on airline industry's tough phase",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/we-will-navigate-through-challenges-indigo-ceo-willie-walsh-on-airline-industrys-tough-phase/articleshow/135447005.cms",
-            "source": "Times of India",
-            "summary": "IndiGo CEO Willie Walsh indicated significant growth opportunities for the airline despite rising fuel costs. The airline reported a net loss of Rs 1,879.1 crore due to elevated expenses and rupee depreciation. Walsh anticipates deliveries of wide-body Airbus A350 aircraft beginning in the second quarter of 2028. IndiGo plans to shift some international flights to the new Navi Mumbai airport to capitalize on…",
-            "published": "2026-11-02T11:42:28+05:30"
-          },
-          {
-            "title": "Why Kashmir’s oldest party National Conference stares at rare upheaval | Explained",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/why-kashmirs-oldest-party-national-conference-stares-at-rare-upheaval-explained/article71655436.ece",
-            "source": "The Hindu",
-            "summary": "Omar Abdullah announced the induction of four new faces into the Cabinet on October 27, reshuffling the portfolios. The legislators accused the CM and his close confidantes of eroding the culture of consultation in the party by imposing decisions from the top, causing a political upheaval",
-            "published": "2026-11-02T11:41:31+05:30"
-          },
-          {
-            "title": "Delhi Police personnel protest against transfers of ACP, SHO after Shahdara police station scuffle",
-            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-police-personnel-protest-against-transfers-of-acp-sho-after-shahdara-police-station-scuffle/article71655486.ece",
-            "source": "The Hindu",
-            "summary": "Protesters demand reinstatement of Manasvi Vashistha and Inspector Arun Kumar, transferred after an advocate suffered a head injury and lawyers launched an indefinite strike",
-            "published": "2026-11-02T11:37:52+05:30"
+            "summary": "All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police",
+            "published": "2026-11-02T12:06:54+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Shadowy Indian election ‘consultants’ add US midterms to global footprint",
+            "link": "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "India&#039;s election consultants are exporting covert campaign tactics to manipulate elections worldwide, including the US.",
+            "published": "2026-11-02T06:28:01+00:00"
+          },
+          {
+            "title": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+            "link": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Governor Khaled Dudin says families who were forced from their homes can return.",
+            "published": "2026-11-02T06:27:01+00:00"
+          },
+          {
+            "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+            "published": "2026-11-02T06:00:54+00:00"
+          },
+          {
+            "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+            "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+            "published": "2026-11-02T04:40:00+00:00"
+          },
           {
             "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
             "link": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
@@ -213,6 +241,20 @@
             "published": "2026-11-02T04:08:54+00:00"
           },
           {
+            "title": "Trump makes fevered campaign push in final weekend before election",
+            "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+            "published": "2026-11-02T04:04:28+00:00"
+          },
+          {
+            "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+            "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+            "published": "2026-11-02T03:58:38+00:00"
+          },
+          {
             "title": "US midterms: What to know about independent voters and candidates",
             "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
             "source": "Al Jazeera",
@@ -227,56 +269,21 @@
             "published": "2026-11-02T03:51:57+00:00"
           },
           {
-            "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate",
-            "published": "2026-11-02T03:17:41+00:00"
-          },
-          {
-            "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-11-02T02:41:40+00:00"
-          },
-          {
-            "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-            "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+            "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-            "published": "2026-11-02T01:45:42+00:00"
-          },
-          {
-            "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-            "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports &#039;false information&#039; on its app.",
-            "published": "2026-11-02T01:40:50+00:00"
-          },
-          {
-            "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
-            "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bhutan is building a &#039;mindfulness&#039; city to drive economic growth and persuade more young people to stay.",
-            "published": "2026-11-02T01:31:21+00:00"
-          },
-          {
-            "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
-            "published": "2026-11-02T01:25:00+00:00"
-          },
-          {
-            "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-            "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-            "published": "2026-11-02T01:18:27+00:00"
+            "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+            "published": "2026-11-02T03:32:14+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Vedanta Oil and Gas shares jump 14% in 2 days, m-cap swells by Rs 1,600 crore after Q2 results",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-jump-14-in-2-days-m-cap-swells-by-rs-1600-crore-after-q2-results/articleshow/135448408.cms",
+            "source": "Economic Times",
+            "summary": "Vedanta Oil and Gas shares jumped 6% on Monday after rallying 8.5% in the previous session, adding nearly Rs 1,600 crore to its market capitalisation. The gains followed a strong Q2 performance, with the company reporting a net profit of Rs 746 crore against a loss of Rs 91 crore a year ago, despite a sequential decline.",
+            "published": "2026-11-02T12:00:46+05:30"
+          },
           {
             "title": "Christmas donations gift demand up, charities say",
             "link": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
@@ -292,18 +299,32 @@
             "published": "2026-11-02T06:21:09+00:00"
           },
           {
-            "title": "NTPC shares rise 3% after Q2 results. Why Jefferies and Nuvama remain bullish",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-shares-rise-3-after-q2-results-why-jefferies-and-nuvama-remain-bullish/articleshow/135444649.cms",
+            "title": "GAIL shares jump 4% as Q2 net profit rises over 8% to Rs 4,650 crore, revenue grows 17%",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/gail-shares-jump-4-as-q2-net-profit-rises-over-8-to-rs-4650-crore-revenue-grows-17/articleshow/135447997.cms",
             "source": "Economic Times",
-            "summary": "NTPC shares rose after the state-owned power major reported a 14% YoY rise in standalone net profit to Rs 5,320 crore for Q2 FY27. Revenue grew 17% to Rs 45,752 crore, while EBITDA increased 9% to Rs 10,891 crore. The company also announced an interim dividend of Rs 3 per share, with November 6 set as the record date. Brokerages maintained their Buy ratings on the stock.",
-            "published": "2026-11-02T09:36:30+05:30"
+            "summary": "GAIL shares rose nearly 4% after the company reported strong second-quarter profit and revenue growth, supported by its gas marketing and transmission businesses. Investor sentiment was also buoyed by the board’s in-principle approval to list subsidiary GAIL Gas through an IPO.",
+            "published": "2026-11-02T11:48:57+05:30"
           },
           {
-            "title": "EAAA India Alternatives shares list at less than 1% premium on BSE, NSE",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-shares-to-list-today-check-gmp-ahead-of-market-debut/articleshow/135444094.cms",
+            "title": "PC Jeweller shares drop 4% after Sebi sends warning letters to MD, company secretary. Here's why",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-drop-4-after-sebi-sends-warning-letters-to-md-company-secretary-heres-why/articleshow/135448058.cms",
             "source": "Economic Times",
-            "summary": "EAAA India Alternatives experienced a quiet entrance into the market, debuting at a slight premium over its IPO price. The IPO, valued at Rs 1,200 crore, involved completely an offer for sale by the promoter without any new equity shares being issued. Consequently, no funds will benefit the company directly.",
-            "published": "2026-11-02T09:17:11+05:30"
+            "summary": "PC Jeweller shares fell over 4% after Sebi issued warning letters to two senior executives for failing to maintain a structured digital database linked to a 2025 business update. The company said the warnings would have no financial or operational impact.",
+            "published": "2026-11-02T11:47:54+05:30"
+          },
+          {
+            "title": "This auto ancillary stock soars 13% after Q2 PAT jumps 35% YoY. Do you own it?",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/this-auto-ancillary-stock-soars-13-after-q2-pat-jumps-35-yoy-do-you-own-it/articleshow/135445868.cms",
+            "source": "Economic Times",
+            "summary": "Motherson Sumi Wiring shares surged after the auto ancillary company reported a 35% year-on-year rise in Q2 FY27 net profit and 47% revenue growth. Premiumisation, higher content per vehicle and new model wins supported the performance.",
+            "published": "2026-11-02T10:26:12+05:30"
+          },
+          {
+            "title": "Zen Technologies shares rally 9% after Q2 profit rises 51% YoY, revenue nearly doubles",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-rally-9-after-q2-profit-rises-51-yoy-revenue-nearly-doubles/articleshow/135445767.cms",
+            "source": "Economic Times",
+            "summary": "Zen Technologies shares jumped 8.67% after the defence technology company reported a 51% YoY rise in Q2 net profit to Rs 90 crore, while revenue surged 98% to Rs 345 crore. The company recorded an order inflow of Rs 481.81 crore during the quarter, taking its consolidated order book to Rs 1,375.70 crore as of September 30, 2026.",
+            "published": "2026-11-02T10:23:44+05:30"
           },
           {
             "title": "Bank of Baroda shares jump 5% after Q2 net profit rises 36%. What Nomura and other brokerages saying?",
@@ -313,32 +334,11 @@
             "published": "2026-11-02T09:13:43+05:30"
           },
           {
-            "title": "Binance users withdraw $3.6bn after record crypto hack",
+            "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
             "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+            "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
             "published": "2026-11-02T03:32:14+00:00"
-          },
-          {
-            "title": "November could favour bulls, but macro headwinds cloud outlook",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/november-could-favour-bulls-but-macro-headwinds-cloud-outlook/articleshow/135441344.cms",
-            "source": "Economic Times",
-            "summary": "In November, investors are optimistic about Indian equities due to ongoing festive celebrations and better-than-expected corporate earnings. While the Sensex and Nifty boasted gains in October, other market indices saw declines. However, potential threats such as rising crude oil prices and global uncertainties remain. A noticeable surge in purchases by foreign portfolio investors signals renewed interest in Indian…",
-            "published": "2026-11-02T06:28:27+05:30"
-          },
-          {
-            "title": "FPI buying returns to Dalal Street as global investors rethink AI bets",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-as-ai-trade-worries-trigger-allocation-shift/articleshow/135441107.cms",
-            "source": "Economic Times",
-            "summary": "Foreign portfolio investors have shifted from aggressive selling to net buying of Indian equities recently. They invested nearly $1.2 billion over the last ten trading sessions, particularly in large-cap stocks. This change in behavior may be attributed to concerns regarding the artificial intelligence trade influencing investor decisions. Globally, markets saw corrections, while Indian indices had a mixed…",
-            "published": "2026-11-02T05:53:30+05:30"
-          },
-          {
-            "title": "Nifty’s next move hinges on breakout above 23,200: Analysts",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-faces-key-23200-hurdle-analysts-remain-cautious/articleshow/135440855.cms",
-            "source": "Economic Times",
-            "summary": "Nifty has recently surged by nearly 2%, approaching the resistance level at 23,200. Analysts recommend building long positions to capitalize on a potential breakout. Support is set between 22,600 and 22,800, serving as a buffer. Recommended stocks for investment this week include DLF and Zensar Technologies. Investors should exercise caution in the broader market until significant resistance levels are broken.",
-            "published": "2026-11-02T05:38:15+05:30"
           },
           {
             "title": "Don't get caught out by new Buy Now Pay Later rules",
@@ -355,10 +355,10 @@
             "published": "2026-11-01T22:25:51+00:00"
           },
           {
-            "title": "Thousands of jobs at Virgin Media O2 to be cut",
+            "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
             "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+            "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
             "published": "2026-11-01T16:57:14+00:00"
           }
         ],
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1561079.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Yashasvi Jaiswal and B Sai Sudharsan batted out the 11 overs before close of play to reduce the deficit for India A to 46 runs",
-            "published": "2026-11-02T06:29:35+00:00"
+            "published": "2026-11-02T06:30:52+00:00"
           },
           {
             "title": "Former 10-Time WWE Champion Reportedly Barred From TNA's Upcoming Canadian Shows Due To Past Legal Issues",
@@ -457,10 +457,10 @@
             "published": "2026-11-02T09:59:43+05:30"
           },
           {
-            "title": "Binance users withdraw $3.6bn after record crypto hack",
+            "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
             "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
-            "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+            "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
             "published": "2026-11-02T03:32:14+00:00"
           },
           {
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "साइक्लोन 'मुरासु' आंध्र प्रदेश के तट से कब टकराएगा, किन राज्यों में भारी बारिश का अलर्ट?",
+            "link": "https://www.bbc.com/hindi/articles/cmy93r944v2no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-11-02T06:58:48+00:00"
+          },
+          {
+            "title": "अदाणी यूनिवर्सिटी के दीक्षांत समारोह में IISc निदेशक बोले- AI से शिक्षा-शोध में तेजी, लेकिन भरोसे का संकट",
+            "link": "https://hindi.oneindia.com/news/india/adani-university-convocation-iisc-director-ai-education-research-future-1676831.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-02T12:09:03+05:30"
+          },
+          {
             "title": "यूपी में अधिवक्ता का कत्ल: पैर छुए, कार से अगवा किया; दम निकलने तक सिर पर जैक से किए वार; हड्डियां भी चकनाचूर",
             "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/jalaun-bar-association-chief-murdered-abducted-lawyer-s-body-found-in-kanpur-canal-2026-11-02",
             "source": "Amar Ujala",
@@ -695,20 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-11-02T05:51:55+00:00"
-          },
-          {
-            "title": "Cyclone Murasu Alert: तूफान 'मुरासु' की दस्तक, किन राज्यों में मचेगी तबाही? कहां-कहां जारी हुआ अलर्ट?",
-            "link": "https://hindi.oneindia.com/news/india/cyclone-murasu-alert-bay-of-bengal-heavy-rain-warning-andhra-pradesh-odisha-landfall-november-3-1676809.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-02T11:11:03+05:30"
-          },
-          {
-            "title": "पहली बार UPI से एक महीने में 25 अरब ट्रांजैक्शन , रोजाना 1 लाख करोड़ पार, किन चीजों पर लोगों ने खर्च किए पैसे?",
-            "link": "https://hindi.oneindia.com/news/business/upi-record-25-billion-transactions-october-2026-monthly-upi-volumes-touch-all-time-high-mdr-debate-1676805.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-02T11:03:17+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "દાવો- ઈન્ડિયા બ્લોકની રેલીથી ₹11,000 કરોડનું નુકસાન:વેપારી સંગઠનોએ કહ્યું- રવિવારે દિલ્હીના 20 મોટા બજારોની 2.5 લાખ દુકાનો બંધ રહી",
+            "link": "https://www.divyabhaskar.co.in/business/news/delhi-markets-shut-india-bloc-rally-trade-loss-business-impact-139567208.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-02T06:51:20+00:00"
+          },
+          {
+            "title": "આંધ્રના કિનારા તરફ આગળ વધ્યું ચક્રવાત મુરાસુ, આજે રાત્રે ટકરાશે:3 NDRF ટીમો તૈનાત, વિજયવાડામાં 10 ફ્લાઇટ્સ રદ; ચેન્નઈમાં ભારે વરસાદ, શાળાઓ બંધ",
+            "link": "https://www.divyabhaskar.co.in/national/news/cyclone-murasu-hits-andhra-pradesh-flights-cancelled-chennai-rain-139567106.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-02T06:39:47+00:00"
+          },
+          {
             "title": "પંજાબમાં AAP છોડનારા ત્રણેય ધારાસભ્યો BJPમાં જોડાયા:દિલ્હીમાં સભ્યપદ લીધું; ત્રણેયે છેલ્લા બે દિવસમાં રાજીનામું આપ્યું",
             "link": "https://www.divyabhaskar.co.in/national/news/punjab-aap-mla-join-bjp-delhi-politics-latest-updates-139566959.html",
             "source": "Divya Bhaskar",
@@ -872,20 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-11-02T02:29:04+00:00"
-          },
-          {
-            "title": "25 ધારાસભ્યોએ ઉમર અબ્દુલ્લાને અલ્ટીમેટમ આપ્યું:કહ્યું- માંગણીઓ ન માનવામાં આવે તો સરકાર પાસેથી સમર્થન પાછું ખેંચી લઈશું; મંત્રીપદ ન મળતાં ધારાસભ્યો નારાજ",
-            "link": "https://www.divyabhaskar.co.in/national/news/jammu-kashmir-nc-mlas-ultimatum-omar-abdullah-support-withdrawal-139565351.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-11-02T00:55:44+00:00"
-          },
-          {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:રાજકોટની સરાઝા હોટેલમાં દારૂ પાર્ટી, અનેક મોટા માથા સામેલ, રાહુલે કહ્યું- જ્ઞાનેશ કુમાર જેલ જશે; વાવાઝોડા અર્નબ પછી હવે મુરાસુનું જોખમ",
-            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-rahul-gandhi-sir-protest-gyanesh-kumar-jail-139562274.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-11-01T23:30:00+00:00"
           }
         ]
       }
@@ -1135,7 +1135,7 @@
             "published": "2026-11-02T11:05:16+05:30"
           },
           {
-            "title": "ఒకప్పుడు మనుషులూ వాటికి ఆహారమే.. ఆకాశాన్ని శాసించిన 'రాకాసి పక్షుల కథ'",
+            "title": "ఆకాశాన్ని శాసించిన ‘రాకాసి పక్షుల’ కథ.. ఒకప్పుడు మనుషులూ వాటికి ఆహారమే",
             "link": "https://www.bbc.com/telugu/articles/cmp3g6v0dxlno?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Sting Operation: ಸಿದ್ದರಾಮಯ್ಯ ಸ್ಟಿಂಗ್ ವಿಡಿಯೋ ಹರಡಿದ್ದೇ ಎಚ್‌ಡಿ ಕುಮಾರಸ್ವಾಮಿ? ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಯತೀಂದ್ರ ಒತ್ತಾಯ",
+            "link": "https://kannada.oneindia.com/news/karnataka/siddaramaiah-sting-video-row-yathindra-demands-legal-action-against-hd-kumaraswamy-over-his-link-wi-473205.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-02T12:20:03+05:30"
+          },
+          {
+            "title": "ಬರಿಗೈಯಲ್ಲೇ ಟಾಯ್ಲೆಟ್ ಸೀಟ್ ಸ್ವಚ್ಛಗೊಳಿಸಿದ ಬಿಜೆಪಿ ಸಂಸದ: ವಿಡಿಯೋ ನೋಡಿ ನೆಟ್ಟಿಗರು ಶಾಕ್!",
+            "link": "https://kannada.oneindia.com/news/india/bjp-mp-janardan-mishra-cleans-toilet-seat-bare-handed-viral-video-sparks-debate-over-social-media-473203.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-02T12:15:12+05:30"
+          },
+          {
             "title": "Bengaluru-Mumbai Vande Bharat Sleeper:ಪ್ರಯಾಣಿಕರಿಂದ ಮೊದಲ ಸಂಚಾರದ ಹಾನೆಸ್ಟ್ ರಿವ್ಯೂ! ಇಲ್ಲಿದೆ, ವಿಡಿಯೋ",
             "link": "https://kannada.oneindia.com/news/india/bengaluru-mumbai-vande-bharat-sleeper-train-gets-positive-passenger-feedback-after-first-journey-vi-473201.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-11-02T07:28:07+05:30"
-          },
-          {
-            "title": "Rishabh Pant: ನ್ಯೂಜಿಲೆಂಡ್ ವಿರುದ್ಧದ ಸರಣಿಗೂ ಮುನ್ನ ಭಾರತಕ್ಕೆ ಆಘಾತ; ರಿಷಭ್ ಪಂತ್ ಔಟ್",
-            "link": "https://kannada.oneindia.com/news/sports/rishabh-pant-ruled-out-of-india-a-s-3rd-test-against-new-zealand-a-first-test-doubtful-know-detail-473177.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-01T23:09:56+05:30"
-          },
-          {
-            "title": "Gautam Gambhir: ನಾವು ಜನಪ್ರಿಯ ನಿರ್ಧಾರಗಳ ಪರ ಅಲ್ಲ: ಟೀಮ್ ಇಂಡಿಯಾ ಮುಖ್ಯ ಕೋಚ್ ಗೌತಮ್ ಗಂಭೀರ್ ಹಿಂಗ್ ಹೇಳಿದ್ಯಾಕೆ?",
-            "link": "https://kannada.oneindia.com/news/sports/gautam-gambhir-breaks-silence-on-vaibhav-sooryavanshi-s-bench-time-in-new-zealand-t20i-series-473175.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-01T22:40:39+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,13 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "আপনার এই মাস নভেম্বর ২০২৬, বৃষ রাশি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTN3ajBZRkp2dlFLeFZqTXVCUjJUb3hzZjl3NTh3b0Y4bGtYalJ6WUNiY1RBVUhlTFJmamxkOFg1dXl5WEI1aGkxZlFNdnRNM1ZmRnlFaWN2dVpHeFBIYUVObFBnT0ZhckJ1eXRFYkxYTWlCWTlVaGtCM3BDVUkxaGVvOHItM205UVBrd0N5V1ZFQUlXamszMGVNU2tHaHJpbmVJRmdiZkhYa2VsT1pGSkJR0gG3AUFVX3lxTE9CU2Y3OUxLNzFfbDBuTEhDVi0tSzRtM0NvdFd6WEFEMFdXanRJaUpGQzl3ZkphcHB6anhYNnFBY3dwUG5SNzRRTUtTSExmNnl6cFRSeU90eVJoa0NzZ0NfN3IzNkpwUUUwMU41bzJsVFRhV2lJeUxyVUVKaXVFR2RZVW1KTFczQUoyYVNxcjBlV3VDbGdpWmFhbDRBMlp2aTFZanpjNGp6OHh1Z3M5c0ZkVkR5dm9DOA?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-02T05:20:01+00:00"
-          },
-          {
             "title": "রাশিয়া ও ইউক্রেনের জরুরি সতর্কতা অ্যাপগুলো সাইবার হামলার শিকার",
             "link": "https://www.bbc.com/bengali/articles/c6vg9799kzkpo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1468,13 +1461,6 @@
             "published": "2026-11-02T04:11:33+00:00"
           },
           {
-            "title": "আরামবাগ উৎসবের নামে বদল, শুরু সাঁতার - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdzJNNUV4RFY4cGdCNmY1V1dHaGduaDNydXpHOHhGTXRBM0d3OE1JOVBFYjJEMjlQcDFPUFBWdDNORHNySXY2YlpNdFZ6MTRZT3Bka1FtSkR1UndPN25kSXNpakxpd1p2Ry1oM1BtdlBzaXE1U2xxNFFGcFFFUnB1ano2T1ZTNVRjRnVKbXc4V1drMkJCb05rVUNOT2xvamh4T2hiZXZVcWx0NnFOVTRnOXpRR2dLRzJCVnhxaTZ0RHFQaHFtR2tETW5ZYXl4WVJ2eEE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-02T03:46:04+00:00"
-          },
-          {
             "title": "রাস্তা পরিষ্কার রাখতে পুর-উদ্যোগ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjVoTDJzZU01a1duYlpFT2ROM1JHbU92QUJSWXdnU21tVmZ0Y3JJNTRUMUJBOFRUUzlVSFpmVlVxNXZDRFhnTzJmMUtydmdvYzRKY3E4NTVsS2hZNS1ObTgyeF9renJMVFlvcENRMWVBZ3N4UzdHLXA2ME5yQk5qZDhlUUxUdUdZZzhONzF0MGlkTktOV2NHM0NnaE5JY0h0anJTNUNaQ1JQaVhtcmxFYTJ5TmR6dFVyZzhxdzhtNlo1OWFfZ0E?oc=5",
             "source": "Anandabazar Patrika",
@@ -1508,6 +1494,20 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-02T03:03:29+00:00"
+          },
+          {
+            "title": "মুড়িকাটা পেঁয়াজ নিয়ে কৃষকদের আগ্রহ কেন, এটি কেমন পেঁয়াজ",
+            "link": "https://www.bbc.com/bengali/articles/cvp8g5eyk4dzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-02T02:45:32+00:00"
+          },
+          {
+            "title": "উপায় না-থাকায় মানুষের বিজেপিকে ভোট, সরব মীনাক্ষী - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWVQTUktdXdlTV9TUENERDZPWlZla2w3YWRJdkE4WWp0VzBPV29jZUZEVXBJODhka3piVU9YNmZXRnZmdGN4bnVscndYeXp0MnoyUnpIaWUzSmxHMHFRdkFCMTBZeldJOU9Mb0FBVjZtMjJTUFNraW5TYjNoWEI0MlVRQTF1bkRBSUh0VmE3XzNCVlpVN3JnRTd2a2NGblo0UkhTQjFMMjFqNUJu?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-02T02:34:54+00:00"
           }
         ]
       }
