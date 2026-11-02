@@ -1,196 +1,245 @@
 {
-  "updated_at": "2026-11-02T17:31:20.418249+00:00",
+  "updated_at": "2026-11-02T18:01:39.107964+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Rahul Gandhi dares PM Modi to open debate after Amit Shah's challenge to discuss SIR in Parliament",
-            "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-dares-pm-modi-to-open-debate-after-amit-shahs-challenge-to-discuss-sir-in-parliament-101793636406645.html",
+            "title": "Man escaped from Coimbatore District Police custody arrested",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-escaped-from-coimbatore-district-police-custody-arrested/article71658193.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:23:33+05:30"
+          },
+          {
+            "title": "Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked",
+            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece",
+            "source": "The Hindu",
+            "summary": "AQI of Delhi stood at 324 (very poor) at 4 p.m. on November 2, up from 261 (poor) a day earlier; NCR State governments to enhance vehicle parking fees to discourage use of private vehicles, staggered timings to be introduced for public offices and municipal bodies; Delhi Metro to run 20 more trips on weekdays",
+            "published": "2026-11-02T23:17:57+05:30"
+          },
+          {
+            "title": "Rahul Gandhi challenges PM Modi to open debate on 'foreign help'",
+            "link": "https://www.thehindu.com/news/national/rahul-gandhi-challenges-pm-modi-to-open-debate-on-foreign-help/article71657690.ece",
+            "source": "The Hindu",
+            "summary": "Congress leader alleges that it was with ‘foreign help’ that Modi became PM; this comes after the Prime Minister accused the Opposition of taking foreign help to destabilise the country",
+            "published": "2026-11-02T23:13:23+05:30"
+          },
+          {
+            "title": "Amit Shah backs SIR, alleges three crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
+            "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:11:39+05:30"
+          },
+          {
+            "title": "Rural local body polls announcement likely around December 15, says Satish Jarkiholi",
+            "link": "https://www.thehindu.com/news/national/karnataka/rural-local-body-polls-announcement-likely-around-december-15-says-satish-jarkiholi/article71656772.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:10:55+05:30"
+          },
+          {
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "published": "2026-11-02T17:38:11+00:00"
+          },
+          {
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "published": "2026-11-02T17:34:58+00:00"
+          },
+          {
+            "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+            "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+            "published": "2026-11-02T17:33:19+00:00"
+          },
+          {
+            "title": "Three AAP leaders join BJP ahead of Punjab Assembly election",
+            "link": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece",
+            "source": "The Hindu",
+            "summary": "Amritsar North MLA Kunwar Vijay Pratap, Sanour MLA Harmeet Singh Pathanmajra and Samana MLA Chetan Singh Jauramajra join the BJP in Delhi; State BJP president Kewal Singh Dhillon says it indicates the impending end of the party’s regime in Punjab",
+            "published": "2026-11-02T23:01:06+05:30"
+          },
+          {
+            "title": "Experts call for cross-sector collaboration to implement One Health initiative in Karnataka",
+            "link": "https://www.thehindu.com/news/national/karnataka/experts-call-for-cross-sector-collaboration-to-implement-one-health-initiative-in-karnataka/article71656268.ece",
+            "source": "The Hindu",
+            "summary": "The discussions focused on the interconnectedness of human, animal and environmental health, and the need to move beyond fragmented responses towards coordinated action involving communities, government institutions and multiple sectors",
+            "published": "2026-11-02T23:00:57+05:30"
+          },
+          {
+            "title": "Dutch police offer record €2m reward in hunt for drug lord",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+            "published": "2026-11-02T17:29:49+00:00"
+          },
+          {
+            "title": "Major fire breaks out at Hindustan Petroleum's refinery in Visakhapatnam; explosion suspected",
+            "link": "https://www.hindustantimes.com/india-news/explosion-at-hindustan-petroleum-refinery-in-vishakhapatnam-dead-injured-casualties-fire-smoke-police-101793640365382.html",
             "source": "Hindustan Times",
-            "summary": "The Opposition leader's open challenge came in response to PM Modi's claims of ‘certain forces trying to divide the country.’",
-            "published": "2026-11-02T22:55:01+05:30"
+            "summary": "According to an HPCL employee, the blaze is believed to have erupted within the refinery's premises. Firefighting operations are underway.",
+            "published": "2026-11-02T22:59:18+05:30"
           },
           {
-            "title": "Cyclone Murasu Live updates: Cyclone Murasu nears A.P. coast, heavy rain alert issued",
-            "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-            "source": "The Hindu",
-            "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
-            "published": "2026-11-02T22:54:08+05:30"
-          },
-          {
-            "title": "'Cannot spill out in public': Sitharaman urges Tata Sons, Tata Trusts to settle dispute",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/cannot-spill-out-in-public-sitharaman-urges-tata-sons-tata-trusts-to-settle-dispute-soon/articleshow/135468845.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-02T22:53:17+05:30"
-          },
-          {
-            "title": "Village guard, wife die of bullet wounds in Jammu’s Reasi",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/village-guard-wife-die-of-bullet-wounds-in-jammus-reasi/article71657868.ece",
-            "source": "The Hindu",
-            "summary": "This is the third such incident in the past two years in the Jammu region",
-            "published": "2026-11-02T22:53:09+05:30"
-          },
-          {
-            "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-            "link": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
-            "published": "2026-11-02T17:22:50+00:00"
-          },
-          {
-            "title": "Independent thinking, subject mastery key for judicial service, says former A.P. High Court judge",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/independent-thinking-subject-mastery-key-for-judicial-service-says-former-ap-high-court-judge/article71657510.ece",
+            "title": "Private bus strike in Keralam called off",
+            "link": "https://www.thehindu.com/news/national/kerala/private-bus-strike-in-keralam-called-off/article71658230.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-02T22:51:24+05:30"
+            "published": "2026-11-02T22:59:02+05:30"
           },
           {
-            "title": "Pawan Kalyan tells officials to stay alert as Cyclone Murasu nears Nellore coast",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-tells-officials-to-stay-alert-as-cyclone-murasu-nears-nellore-coast/article71655340.ece",
+            "title": "Keralam government transfers 35 officers in major IAS reshuffle",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-transfers-35-officers-in-major-ias-reshufle/article71656361.ece",
             "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-02T22:49:50+05:30"
-          },
-          {
-            "title": "17-year-old student found murdered in Thiruvananthapuram; three taken into police custody",
-            "link": "https://www.thehindu.com/news/national/kerala/17-year-old-student-found-murdered-in-thiruvananthapuram-three-taken-into-police-custody/article71658147.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-02T22:49:38+05:30"
-          },
-          {
-            "title": "Mahadev scam accused’s extradition will expose who took protection money: Chhattisgarh CM",
-            "link": "https://www.thehindu.com/news/national/chhattisgarh/mahadev-scam-accuseds-extradition-will-expose-who-took-protection-money-chhattisgarh-cm/article71658065.ece",
-            "source": "The Hindu",
-            "summary": "Alleged kingpin Sourabh Chandrakar extradited from Oman, remanded to two days CBI custody on Monday; former Congress CM Bhupesh Baghel had been named as a co-accused in 2024 FIR",
-            "published": "2026-11-02T22:49:22+05:30"
-          },
-          {
-            "title": "In first high-level visit after new government’s arrival, Foreign Secretary Misri to visit Nepal on November 4-5",
-            "link": "https://www.thehindu.com/news/national/in-first-high-level-visit-after-new-governments-arrival-foreign-secretary-misri-to-visit-nepal-on-november-4-5/article71657751.ece",
-            "source": "The Hindu",
-            "summary": "Misri’s visit to include discussions on Prime Minister Balendra Shah’s visit to India; appointment of Nepal’s new Ambassador to India and disaster assistance following the flash floods are also expected to be on the agenda",
-            "published": "2026-11-02T22:48:45+05:30"
-          },
-          {
-            "title": "SSUS Syndicate decides on conditional withdrawal of suspension of 12 SFI activists",
-            "link": "https://www.thehindu.com/news/national/kerala/ssus-syndicate-decides-on-conditional-withdrawal-of-suspension-of-12-sfi-activists/article71656980.ece",
-            "source": "The Hindu",
-            "summary": "The revocation of their suspension will be subject to the submission of an unconditional apology stating that they will not breach the disciplinary norms in the future.",
-            "published": "2026-11-02T22:48:18+05:30"
-          },
-          {
-            "title": "Nobody has the guts, says HDK, dares police to take action against him",
-            "link": "https://www.thehindu.com/news/national/karnataka/hdk-accuses-dks-of-meeting-and-conspiring-with-accused-in-hassan-sleaze-cd-distribution/article71658066.ece",
-            "source": "The Hindu",
-            "summary": "Kumaraswamy accuses Shivakumar of conspiring to distribute ‘sleaze’ videos of Prajwal Revanna; he accuses the Bengaluru Police Commissioner of acting at the behest of the Chief Minister and questions the objectivity of the probe in the sting video case",
-            "published": "2026-11-02T22:48:03+05:30"
-          },
-          {
-            "title": "Doval meets Vietnam Defence Minister, agrees to deepen bilateral defence cooperation",
-            "link": "https://www.thehindu.com/news/national/doval-meets-vietnam-defence-minister-agrees-to-deepen-bilateral-defence-cooperation/article71655993.ece",
-            "source": "The Hindu",
-            "summary": "The meeting was part of Mr. Doval’s two-day official visit to Vietnam; it follows the fourth India-Vietnam Security Dialogue held in October",
-            "published": "2026-11-02T22:47:54+05:30"
-          },
-          {
-            "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
-            "published": "2026-11-02T16:56:41+00:00"
+            "summary": "Prasanth N. has been posted as chairman and managing director, Kerala State Electricity Board, and T.V. Anupama as Secretary, Finance (Expenditure) department",
+            "published": "2026-11-02T22:58:27+05:30"
           }
         ],
         "India": [
           {
-            "title": "Rahul Gandhi dares PM Modi to open debate after Amit Shah's challenge to discuss SIR in Parliament",
-            "link": "https://www.hindustantimes.com/india-news/rahul-gandhi-dares-pm-modi-to-open-debate-after-amit-shahs-challenge-to-discuss-sir-in-parliament-101793636406645.html",
+            "title": "Man escaped from Coimbatore District Police custody arrested",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/man-escaped-from-coimbatore-district-police-custody-arrested/article71658193.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:23:33+05:30"
+          },
+          {
+            "title": "Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked",
+            "link": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece",
+            "source": "The Hindu",
+            "summary": "AQI of Delhi stood at 324 (very poor) at 4 p.m. on November 2, up from 261 (poor) a day earlier; NCR State governments to enhance vehicle parking fees to discourage use of private vehicles, staggered timings to be introduced for public offices and municipal bodies; Delhi Metro to run 20 more trips on weekdays",
+            "published": "2026-11-02T23:17:57+05:30"
+          },
+          {
+            "title": "Rahul Gandhi challenges PM Modi to open debate on 'foreign help'",
+            "link": "https://www.thehindu.com/news/national/rahul-gandhi-challenges-pm-modi-to-open-debate-on-foreign-help/article71657690.ece",
+            "source": "The Hindu",
+            "summary": "Congress leader alleges that it was with ‘foreign help’ that Modi became PM; this comes after the Prime Minister accused the Opposition of taking foreign help to destabilise the country",
+            "published": "2026-11-02T23:13:23+05:30"
+          },
+          {
+            "title": "Amit Shah backs SIR, alleges three crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
+            "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:11:39+05:30"
+          },
+          {
+            "title": "Rural local body polls announcement likely around December 15, says Satish Jarkiholi",
+            "link": "https://www.thehindu.com/news/national/karnataka/rural-local-body-polls-announcement-likely-around-december-15-says-satish-jarkiholi/article71656772.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T23:10:55+05:30"
+          },
+          {
+            "title": "Three AAP leaders join BJP ahead of Punjab Assembly election",
+            "link": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece",
+            "source": "The Hindu",
+            "summary": "Amritsar North MLA Kunwar Vijay Pratap, Sanour MLA Harmeet Singh Pathanmajra and Samana MLA Chetan Singh Jauramajra join the BJP in Delhi; State BJP president Kewal Singh Dhillon says it indicates the impending end of the party’s regime in Punjab",
+            "published": "2026-11-02T23:01:06+05:30"
+          },
+          {
+            "title": "Experts call for cross-sector collaboration to implement One Health initiative in Karnataka",
+            "link": "https://www.thehindu.com/news/national/karnataka/experts-call-for-cross-sector-collaboration-to-implement-one-health-initiative-in-karnataka/article71656268.ece",
+            "source": "The Hindu",
+            "summary": "The discussions focused on the interconnectedness of human, animal and environmental health, and the need to move beyond fragmented responses towards coordinated action involving communities, government institutions and multiple sectors",
+            "published": "2026-11-02T23:00:57+05:30"
+          },
+          {
+            "title": "Major fire breaks out at Hindustan Petroleum's refinery in Visakhapatnam; explosion suspected",
+            "link": "https://www.hindustantimes.com/india-news/explosion-at-hindustan-petroleum-refinery-in-vishakhapatnam-dead-injured-casualties-fire-smoke-police-101793640365382.html",
             "source": "Hindustan Times",
-            "summary": "The Opposition leader's open challenge came in response to PM Modi's claims of ‘certain forces trying to divide the country.’",
-            "published": "2026-11-02T22:55:01+05:30"
+            "summary": "According to an HPCL employee, the blaze is believed to have erupted within the refinery's premises. Firefighting operations are underway.",
+            "published": "2026-11-02T22:59:18+05:30"
+          },
+          {
+            "title": "Private bus strike in Keralam called off",
+            "link": "https://www.thehindu.com/news/national/kerala/private-bus-strike-in-keralam-called-off/article71658230.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-02T22:59:02+05:30"
+          },
+          {
+            "title": "Keralam government transfers 35 officers in major IAS reshuffle",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-transfers-35-officers-in-major-ias-reshufle/article71656361.ece",
+            "source": "The Hindu",
+            "summary": "Prasanth N. has been posted as chairman and managing director, Kerala State Electricity Board, and T.V. Anupama as Secretary, Finance (Expenditure) department",
+            "published": "2026-11-02T22:58:27+05:30"
           },
           {
             "title": "Cyclone Murasu Live updates: Cyclone Murasu nears A.P. coast, heavy rain alert issued",
             "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
             "source": "The Hindu",
             "summary": "Chennai, northern T.N. brace for heavy rain as cyclone Murasu intensifies; at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports",
-            "published": "2026-11-02T22:54:08+05:30"
-          },
-          {
-            "title": "'Cannot spill out in public': Sitharaman urges Tata Sons, Tata Trusts to settle dispute",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/cannot-spill-out-in-public-sitharaman-urges-tata-sons-tata-trusts-to-settle-dispute-soon/articleshow/135468845.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-02T22:53:17+05:30"
+            "published": "2026-11-02T22:57:05+05:30"
           },
           {
             "title": "Village guard, wife die of bullet wounds in Jammu’s Reasi",
             "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/village-guard-wife-die-of-bullet-wounds-in-jammus-reasi/article71657868.ece",
             "source": "The Hindu",
             "summary": "This is the third such incident in the past two years in the Jammu region",
-            "published": "2026-11-02T22:53:09+05:30"
-          },
-          {
-            "title": "Independent thinking, subject mastery key for judicial service, says former A.P. High Court judge",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/independent-thinking-subject-mastery-key-for-judicial-service-says-former-ap-high-court-judge/article71657510.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-02T22:51:24+05:30"
-          },
-          {
-            "title": "Pawan Kalyan tells officials to stay alert as Cyclone Murasu nears Nellore coast",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-kalyan-tells-officials-to-stay-alert-as-cyclone-murasu-nears-nellore-coast/article71655340.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-02T22:49:50+05:30"
-          },
-          {
-            "title": "17-year-old student found murdered in Thiruvananthapuram; three taken into police custody",
-            "link": "https://www.thehindu.com/news/national/kerala/17-year-old-student-found-murdered-in-thiruvananthapuram-three-taken-into-police-custody/article71658147.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-02T22:49:38+05:30"
-          },
-          {
-            "title": "Mahadev scam accused’s extradition will expose who took protection money: Chhattisgarh CM",
-            "link": "https://www.thehindu.com/news/national/chhattisgarh/mahadev-scam-accuseds-extradition-will-expose-who-took-protection-money-chhattisgarh-cm/article71658065.ece",
-            "source": "The Hindu",
-            "summary": "Alleged kingpin Sourabh Chandrakar extradited from Oman, remanded to two days CBI custody on Monday; former Congress CM Bhupesh Baghel had been named as a co-accused in 2024 FIR",
-            "published": "2026-11-02T22:49:22+05:30"
-          },
-          {
-            "title": "In first high-level visit after new government’s arrival, Foreign Secretary Misri to visit Nepal on November 4-5",
-            "link": "https://www.thehindu.com/news/national/in-first-high-level-visit-after-new-governments-arrival-foreign-secretary-misri-to-visit-nepal-on-november-4-5/article71657751.ece",
-            "source": "The Hindu",
-            "summary": "Misri’s visit to include discussions on Prime Minister Balendra Shah’s visit to India; appointment of Nepal’s new Ambassador to India and disaster assistance following the flash floods are also expected to be on the agenda",
-            "published": "2026-11-02T22:48:45+05:30"
-          },
-          {
-            "title": "SSUS Syndicate decides on conditional withdrawal of suspension of 12 SFI activists",
-            "link": "https://www.thehindu.com/news/national/kerala/ssus-syndicate-decides-on-conditional-withdrawal-of-suspension-of-12-sfi-activists/article71656980.ece",
-            "source": "The Hindu",
-            "summary": "The revocation of their suspension will be subject to the submission of an unconditional apology stating that they will not breach the disciplinary norms in the future.",
-            "published": "2026-11-02T22:48:18+05:30"
-          },
-          {
-            "title": "Nobody has the guts, says HDK, dares police to take action against him",
-            "link": "https://www.thehindu.com/news/national/karnataka/hdk-accuses-dks-of-meeting-and-conspiring-with-accused-in-hassan-sleaze-cd-distribution/article71658066.ece",
-            "source": "The Hindu",
-            "summary": "Kumaraswamy accuses Shivakumar of conspiring to distribute ‘sleaze’ videos of Prajwal Revanna; he accuses the Bengaluru Police Commissioner of acting at the behest of the Chief Minister and questions the objectivity of the probe in the sting video case",
-            "published": "2026-11-02T22:48:03+05:30"
-          },
-          {
-            "title": "Doval meets Vietnam Defence Minister, agrees to deepen bilateral defence cooperation",
-            "link": "https://www.thehindu.com/news/national/doval-meets-vietnam-defence-minister-agrees-to-deepen-bilateral-defence-cooperation/article71655993.ece",
-            "source": "The Hindu",
-            "summary": "The meeting was part of Mr. Doval’s two-day official visit to Vietnam; it follows the fourth India-Vietnam Security Dialogue held in October",
-            "published": "2026-11-02T22:47:54+05:30"
+            "published": "2026-11-02T22:56:00+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "published": "2026-11-02T17:38:11+00:00"
+          },
+          {
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "published": "2026-11-02T17:34:58+00:00"
+          },
+          {
+            "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+            "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+            "published": "2026-11-02T17:33:19+00:00"
+          },
+          {
+            "title": "Dutch police offer record €2m reward in hunt for drug lord",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+            "published": "2026-11-02T17:29:49+00:00"
+          },
+          {
+            "title": "Drone attacks extend campaign targeting Sudan’s power system",
+            "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF.",
+            "published": "2026-11-02T17:26:32+00:00"
+          },
+          {
+            "title": "Real Madrid matches still banned in China despite Mbappe apology",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "",
+            "published": "2026-11-02T17:08:25+00:00"
+          },
+          {
+            "title": "Trump, Vance and candidates campaign on last day before US midterms",
+            "link": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race.",
+            "published": "2026-11-02T17:07:14+00:00"
+          },
           {
             "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
@@ -225,55 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine&#039;s economy.",
             "published": "2026-11-02T15:54:53+00:00"
-          },
-          {
-            "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-            "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
-            "published": "2026-11-02T15:43:00+00:00"
-          },
-          {
-            "title": "Carrick not distracted by speculation over United future",
-            "link": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Manchester United coach says his players remain committed to the cause despite nine-match winless run",
-            "published": "2026-11-02T15:31:07+00:00"
-          },
-          {
-            "title": "Jake Paul to fight MMA star Cedric Doumbe",
-            "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
-            "published": "2026-11-02T15:13:13+00:00"
-          },
-          {
-            "title": "Shop freezers in seven European countries hit by cyber-attack",
-            "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-            "published": "2026-11-02T15:12:22+00:00"
-          },
-          {
-            "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-            "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Network calls move &#039;assault&#039; on press freedom, warns of &#039;dangerous pattern&#039; that undermines ability to report facts.",
-            "published": "2026-11-02T15:09:49+00:00"
-          },
-          {
-            "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-            "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
-            "published": "2026-11-02T15:00:08+00:00"
-          },
-          {
-            "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
-            "link": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Aston Villa, second in the UEFA Champions League table after three wins from three, head to Barcelona, three points back",
-            "published": "2026-11-02T14:57:01+00:00"
           }
         ],
         "Business": [
@@ -282,7 +282,14 @@
             "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-            "published": "2026-11-02T15:12:22+00:00"
+            "published": "2026-11-02T17:38:11+00:00"
+          },
+          {
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "published": "2026-11-02T17:34:58+00:00"
           },
           {
             "title": "High-yield US stocks: 10 companies offering dividend yields of up to 16.65%",
@@ -353,22 +360,36 @@
             "source": "Economic Times",
             "summary": "Motherson Sumi Wiring shares surged after the auto ancillary company reported a 35% year-on-year rise in Q2 FY27 net profit and 47% revenue growth. Premiumisation, higher content per vehicle and new model wins supported the performance.",
             "published": "2026-11-02T10:26:12+05:30"
-          },
-          {
-            "title": "FII retreat deepens: Almost every second Nifty stock sees stake cuts in all 3 quarters of 2026",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-retreat-deepens-almost-every-second-nifty-stock-sees-stake-cuts-in-all-3-quarters-of-2026/articleshow/135445018.cms",
-            "source": "Economic Times",
-            "summary": "This year has seen Foreign Institutional Investors (FIIs) divest nearly ₹3 lakh crore in Indian equities, causing a significant reduction in their stakes. As a result, FII ownership has declined in about half of the Nifty stocks over the past three quarters. Meanwhile, Domestic Institutional Investors (DIIs) have increased their equity holdings, reflecting a change in market dynamics amidst frequent foreign…",
-            "published": "2026-11-02T09:49:32+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "Khushbu Darjada Scripts History, Wins India's Second-Ever Youth Olympics Judo Silver",
+            "link": "https://sports.ndtv.com/judo/khushbu-rajakbhai-darjada-scripts-history-wins-silver-in-judo-at-youth-olympics-12273139#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Khushbu Rajakbhai Darjada wins silver in women's 63kg judo event at Youth Olympics",
+            "published": "2026-11-02T22:49:07+05:30"
+          },
           {
             "title": "McCullum puts focus on ODI preparation as England return to scene of Ashes calamity",
             "link": "https://www.cricinfo.com/ci/content/story/1561160.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Head coach wants to use build-up to first ODI at Optus Stadium to focus on squad's fitness",
             "published": "2026-11-02T16:50:33+00:00"
+          },
+          {
+            "title": "Bowled Through The Gate: Mohammed Shami Cleans Up Prithvi Shaw In Ranji Trophy Faceoff",
+            "link": "https://sports.ndtv.com/ranji-trophy/bowled-through-the-gate-mohammed-shami-cleans-up-prithvi-shaw-in-ranji-trophy-faceoff-12272082#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Veteran India pacer Mohammed Shami got the better of Prithvi Shaw in Bengal's match against Maharashtra in the Ranji Trophy.",
+            "published": "2026-11-02T22:19:10+05:30"
+          },
+          {
+            "title": "\"Grateful To Everyone Who Believed In Me\": Lakshya Sen After Second Hylo Open Triumph",
+            "link": "https://sports.ndtv.com/badminton/grateful-to-everyone-who-believed-in-me-lakshya-sen-after-second-hylo-open-triumph-12272741#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Indian shuttler Lakshya Sen expressed happiness at winning the Hylo Open men's singles title, saying that he is happy that his hard work translated to a title and his approach will stay the same: Putting in effort, improving his game and giving his best in every match.",
+            "published": "2026-11-02T22:09:35+05:30"
           },
           {
             "title": "Judoka Khushbu Rajakbhai Enters Youth Olympics Final, One Win Away From Gold",
@@ -425,27 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Bam Adebayo’s mother, Marilyn Blount, made difficult choices to give him a safer childhood.",
             "published": "2026-11-02T21:44:12+05:30"
-          },
-          {
-            "title": "Valkyrae Deletes Her CS2 VODs After Fans Criticise Her For Choosing CS2 Over GTA RP During Her Grind",
-            "link": "https://sports.ndtv.com/us/us-streamers/valkyrae-deletes-her-cs2-vods-after-fans-criticize-her-for-choosing-cs2-over-gta-rp-during-her-grind-12272344#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Valkyrae has called out viewers demanding GTA RP instead of Counter-Strike 2 as she tries to complete her 16K Premier rating bet. The streamer later deleted her VOD and admitted that the constant complaints are making her CS2 grind difficult.",
-            "published": "2026-11-02T21:43:55+05:30"
-          },
-          {
-            "title": "Sheamus Has A Surprising Response To AEW Questions After Officially Becoming A WWE Free Agent",
-            "link": "https://sports.ndtv.com/us/wwe/sheamus-has-a-surprising-response-to-aew-questions-after-officially-becoming-a-wwe-free-agent-12272287#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Sheamus has addressed the possibility of joining AEW after becoming a free agent following his WWE departure. The former champion also shared why he is enjoying his time away from wrestling and who makes his career decisions.",
-            "published": "2026-11-02T21:43:17+05:30"
-          },
-          {
-            "title": "Why WWE Is Loading Up NXT With Major Stars Ahead Of Its AEW Showdown",
-            "link": "https://sports.ndtv.com/us/wwe/why-wwe-is-loading-up-nxt-with-major-stars-ahead-of-its-aew-showdown-12272190#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "WWE is loading up NXT with John Cena, Cody Rhodes and CM Punk ahead of its clash with AEW Dynamite. Dave Meltzer explains why the company is more concerned about avoiding an embarrassing ratings defeat than actually winning the battle.",
-            "published": "2026-11-02T21:41:01+05:30"
           }
         ],
         "Technology": [
@@ -627,6 +627,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Pollution बढ़ते ही Delhi Metro का बड़ा फैसला: GRAP-2 के तहत अब रोजाना चलेंगी 20 एक्स्ट्रा ट्रिप",
+            "link": "https://hindi.oneindia.com/news/delhi/delhi-metro-20-additional-trips-daily-after-imposed-grap-2-rising-air-pollution-news-hindi-1677387.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-02T23:16:23+05:30"
+          },
+          {
+            "title": "Adani Group के मुरीद हुए Jeffrey Sachs, फैमिली बिजनेस की सामाजिक जिम्मेदारी पर दिया जोर",
+            "link": "https://hindi.oneindia.com/news/india/jeffrey-sachs-praises-adani-group-india-infrastructure-growth-family-business-social-responsibility-1677367.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-02T23:06:51+05:30"
+          },
+          {
+            "title": "Bihar News: प्रधानमंत्री मोदी ने किया भारत नवीकरणीय ऊर्जा शिखर सम्मेलन-2026 का उद्घाटन, बिहार के CM सम्राट चौधरी भी हुए शामिल",
+            "link": "https://hindi.oneindia.com/news/india/india-renewable-energy-summit-expo-2026-investment-innovation-012-1677363.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-02T23:01:09+05:30"
+          },
+          {
             "title": "Ancient Wisdom World Symposium: डॉ. प्रीति अदाणी बोलीं- प्राचीन ज्ञान से दूर होगा दुख और असमानता",
             "link": "https://hindi.oneindia.com/news/india/varanasi-world-symposium-dr-preeti-adani-ancient-wisdom-modern-problems-suffering-inequality-reducti-1677357.html",
             "source": "Oneindia Hindi",
@@ -634,7 +655,7 @@
             "published": "2026-11-02T22:56:52+05:30"
           },
           {
-            "title": "विशाखापट्टनम की तेल रिफाइनरी में धमाका:ऊंची लपटें दूर तक दिखीं, अलार्म बजते ही रिहायशी इलाका खाली किया गया",
+            "title": "विशाखापट्टनम की तेल रिफाइनरी में धमाका:ऊंची लपटें दूर तक दिखीं, अलार्म बजते ही रिहायशी इलाका खाली कराया गया",
             "link": "https://www.bhaskar.com/national/news/visakhapatnam-oil-refinery-explosion-fire-accident-live-update-139572977.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-02T21:01:08+05:30"
-          },
-          {
-            "title": "महादेव ऐप: ओमान से लाए गए मुख्य अभियुक्त सौरभ चंद्राकर ट्रांज़िट रिमांड पर, जानें पूरा केस",
-            "link": "https://www.bbc.com/hindi/articles/ck98zv3q474lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-02T15:25:05+00:00"
-          },
-          {
-            "title": "विपक्ष की रैलियों और एसआईआर विवाद के बीच क्या है बीजेपी की चुनौती और पलटवार की रणनीति",
-            "link": "https://www.bbc.com/hindi/articles/c6p3gx3jd881o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-02T14:40:53+00:00"
-          },
-          {
-            "title": "Delhi-NCR Pollution: दिवाली पर पटाखों की छूट से 6 दिन पहले दिल्ली की हवा हुई जहरीली! AQI 325, GRAP-2 लागू",
-            "link": "https://hindi.oneindia.com/news/delhi/delhi-ncr-pollution-aqi-hits-325-grap-2-restrictions-imposed-6-days-before-diwali-news-hindi-1677197.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-02T19:51:25+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Cyclone Murasu: మురసు తుపాను బీభత్సం.. అత్యంత భారీ వర్షాలు.. ఏపీ, తెలంగాణకు రెడ్ అలర్ట్",
+            "link": "https://telugu.oneindia.com/news/telangana/cyclonemurasu-havoc-caused-extremely-heavy-rainfall-red-alert-for-andhra-pradesh-and-telangana-513315.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-02T23:22:12+05:30"
+          },
+          {
             "title": "పాకిస్థాన్ సైన్యం మాస్టర్ ప్లాన్.. అమెరికా అండతో.. భారత్ కు బిగ్ అలర్ట్..!",
             "link": "https://telugu.oneindia.com/news/international/pakistan-moving-closer-to-us-distancing-from-china-remarks-by-opposition-leader-maulanafazlurrehman-513313.html",
             "source": "Oneindia Telugu",
@@ -1121,11 +1128,11 @@
             "published": "2026-11-02T14:40:57+00:00"
           },
           {
-            "title": "Karbonn smartphones: కార్బన్‌ రీ ఎంట్రీ.. మార్కెట్‌లోకి వచ్చేసిన కొత్త స్మార్ట్‌ఫోన్స్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzFkNmxKdzhtN2MwbkFSOGxTRTByN1F4OE45LUttMTdPX1lRZE42OElYU0xMYnFPcTUtX0U3S0NsM0dlcEFKUHpzLWtBM25DbHdxdC1wVGxaM2VfSjhkSlZ2Snh4bDFUZHhxcTNqeENJa0ZadTBMWTVQR2hUeTh5QTJZakNFbTNPZ3dvZ1NiQ3lwa0NsdzJ0NzNkRnRuYUNlYnhWalZzNNIBpwFBVV95cUxPUzFkNmxKdzhtN2MwbkFSOGxTRTByN1F4OE45LUttMTdPX1lRZE42OElYU0xMYnFPcTUtX0U3S0NsM0dlcEFKUHpzLWtBM25DbHdxdC1wVGxaM2VfSjhkSlZ2Snh4bDFUZHhxcTNqeENJa0ZadTBMWTVQR2hUeTh5QTJZakNFbTNPZ3dvZ1NiQ3lwa0NsdzJ0NzNkRnRuYUNlYnhWalZzNA?oc=5",
+            "title": "పాఠశాలకు సామగ్రి వితరణ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lSbVlTVG9IYVNyZFg2SDlKc0dSdGIzWTFJQnhnNWxyalZRdm5xSmtwdjd4amRzM3FhY3hoTVJXNndnTDFCTktZREEteHc4VVdpUkZmenpEbjRvVGZLZFJ1Y3NSNnRGbVZTWHM4NkVoRmIyUUVFN1llMWZUNGlSeQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-02T14:28:00+00:00"
+            "published": "2026-11-02T14:29:25+00:00"
           },
           {
             "title": "పులివెందులలో కౌంటింగ్ ఉందా లేదా ? హైకోర్టు తీర్పుపై ఉత్కంఠ..!",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-02T19:19:03+05:30"
-          },
-          {
-            "title": "Mysaa: రష్మిక ఉగ్రరూపం.. ‘ఓ మైసా’ సాంగ్‌ చూశారా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbG5HcFJlVzZSUVptSk1nd1B5RnFscWFBaTUycjVVbDNlYWcxcTloNTZCQlI2RUhVTllRQUJXeWdoYzRTZW80bUJUdFpNRFRnSUszNEZBSXVHZlpoVFY3RGExX1o0cUdEaHlOM1VTTC1sWWI1ZmxzWno2d1hPQmpiWTJpeVnSAYQBQVVfeXFMTWxuR3BSZVc2UlFabUpNZ3dQeUZxbHFhQWk1MnI1VWwzZWFnMXE5aDU2QkJSNkVIVU5ZUUFCV3lnaGM0U2VvNG1CVHRaTURUZ0lLMzRGQUl1R2ZaaFRWN0RhMV9aNHFHRGh5TjNVU0wtbFliNWZsc1p6NndYT0JqYlkyaXlZ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-02T13:44:24+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ভর্তিই হননি প্রসূতি, অথচ অ্যাম্বুল্যান্সের বিল লক্ষ লক্ষ টাকা! কল্যাণীর জেএনএম হাসপাতালে অনিয়মের অভিযোগ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaVFqVlQ1TThwOE1leXVZbDUyMGVNZzZ0SGhtcjZrMmVZOEZkY202VlNMVzVGZVdPRFRGWEFsYVh2anJJLUJQTnRyVmxDY3kwYXFkbEg0SGlEeXVUSFZJNUNhbTlBM0FTSGxJVTBkMlpqZ09wdGp4VFpPYWpWaFRCV2VUaklFWjN1dzlkRDBEX25WN2FuUWE2OVp0OVUtMUNTWVpTbExZaFFkQVBrcm1LclFCT1RrZTFyVXN0cnZpbE5Rcm94Vkd0bUtQaTJlaV9PcVBOOG42WUlKLXdmdzE4U0JPWEVTOXBTM1VyRkJGa3hoSko5RGRjZTZnTdIB-wFBVV95cUxQaVFqVlQ1TThwOE1leXVZbDUyMGVNZzZ0SGhtcjZrMmVZOEZkY202VlNMVzVGZVdPRFRGWEFsYVh2anJJLUJQTnRyVmxDY3kwYXFkbEg0SGlEeXVUSFZJNUNhbTlBM0FTSGxJVTBkMlpqZ09wdGp4VFpPYWpWaFRCV2VUaklFWjN1dzlkRDBEX25WN2FuUWE2OVp0OVUtMUNTWVpTbExZaFFkQVBrcm1LclFCT1RrZTFyVXN0cnZpbE5Rcm94Vkd0bUtQaTJlaV9PcVBOOG42WUlKLXdmdzE4U0JPWEVTOXBTM1VyRkJGa3hoSko5RGRjZTZnTQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-02T17:49:15+00:00"
+          },
+          {
             "title": "প্রণাম না করে এগোয় না গাড়ি! ধস নামা তিস্তার বাঁকে অতন্দ্র প্রহরী কে এই সেবকেশ্বরী? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUE4MUJnNHA1eEo2R3hxMjBxcFd2N3N6eG9OVG1xTjVlRGZNeDNVVVB6emZCRjB4U1AzY25CQkNUVU01X0RrajAtYkFCUmNhUDdPcldCcUhOYWxGb1VEQXJ4SXM0STNoY1BicEpETU1PYmRvOThoQW9IWFV4Z0tZR0JDVUZkbDNVbnFldjlMWVYzS3AxeXRENEJVUnRaTTlpUE1TR2hyc2Q3TUt6ZmRuaHVTcFZIRTdDY1VhMG5NRmVxR2IweWxMSE9vbUdDUWx1N0HSAdIBQVVfeXFMUGFBODFCZzRwNXhKNkd4cTIwcXBXdjdzenhvTlRtcU41ZURmTXgzVVVQenpmQkYweFNQM2NuQkJDVFVNNV9Ea2owLWJBQlJjYVA3T3JXQnFITmFsRm9VREFyeElzNEkzaGNQYnBKRE1NT2Jkbzk4aEFvSFhVeGdLWUdCQ1VGZGwzVW5xZXY5TFlWM0twMXl0RDRCVVJ0Wk05aVBNU0docnNkN01LemZkbmh1U3BWSEU3Q2NVYTBuTUZlcUdiMHlsTEhPb21HQ1FsdTdB?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-02T15:16:23+00:00"
-          },
-          {
-            "title": "হিমালয়ে বড় বিপর্যয়ের আশঙ্কা, ঝুঁকিতে তিন লক্ষেরও বেশি মানুষ",
-            "link": "https://www.bbc.com/bengali/articles/ckvgdmglqnz9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-02T15:13:24+00:00"
           }
         ]
       }
