@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T21:31:21.644716+00:00",
+  "updated_at": "2026-11-03T22:01:35.911254+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+            "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+            "published": "2026-11-03T21:53:38+00:00"
+          },
+          {
             "title": "Spanish transport minister resigns days after deadly train crash",
             "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-            "published": "2026-11-03T21:19:57+00:00"
+            "published": "2026-11-03T21:40:42+00:00"
           },
           {
             "title": "Netanyahu’s eight-seat problem",
@@ -46,6 +53,13 @@
             "source": "Al Jazeera",
             "summary": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.",
             "published": "2026-11-03T21:03:24+00:00"
+          },
+          {
+            "title": "A British rescuer saved a sick fox, and 9 years later, it still hugs her daily",
+            "link": "https://timesofindia.indiatimes.com/world/uk/a-british-wildlife-rescuer-nursed-a-severely-ill-fox-back-to-health-seven-years-later-she-still-seeks-him-out-for-a-hug-every-day/articleshow/135494307.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-04T02:30:00+05:30"
           },
           {
             "title": "Kyiv protest raises suspicions of possible Russian orchestration",
@@ -88,20 +102,6 @@
             "source": "The Hindu",
             "summary": "On September 22, Gitanjali Angmo, wife of Mr. Wangchuk, requested the Deputy Commissioner, Leh, for the issuance of a No Objection Certificate and clearance for the proposed members of the Managing Committee of the school",
             "published": "2026-11-04T02:04:47+05:30"
-          },
-          {
-            "title": "SIT report says charges against KSU activists in Veena George case cannot be sustained",
-            "link": "https://www.thehindu.com/news/national/kerala/sit-report-says-charges-against-ksu-activists-in-veena-george-case-cannot-be-sustained/article71659949.ece",
-            "source": "The Hindu",
-            "summary": "SIT finds no grounds to sustain charges of rioting, wrongful restraint and trespass; says black flag protest is not a criminal offence; final report says KSU activists did not obstruct police or wrongfully restrain former Health Minister",
-            "published": "2026-11-04T02:02:38+05:30"
-          },
-          {
-            "title": "Tech Life",
-            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-            "published": "2026-11-03T20:30:00+00:00"
           }
         ],
         "India": [
@@ -118,6 +118,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-04T02:41:29+05:30"
+          },
+          {
+            "title": "A British rescuer saved a sick fox, and 9 years later, it still hugs her daily",
+            "link": "https://timesofindia.indiatimes.com/world/uk/a-british-wildlife-rescuer-nursed-a-severely-ill-fox-back-to-health-seven-years-later-she-still-seeks-him-out-for-a-hug-every-day/articleshow/135494307.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-04T02:30:00+05:30"
           },
           {
             "title": "Iranian woman moves Madras High Court wanting to know procedure for obtaining X-Miscellaneous visa",
@@ -162,13 +169,6 @@
             "published": "2026-11-04T01:55:00+05:30"
           },
           {
-            "title": "Privy Council halts demolition of daughter's house in family land dispute",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-father-left-4-75-acres-of-mostly-swampy-land-to-his-12-children-in-1995-one-daughter-said-he-had-promised-her-the-hill-section-and-the-privy-council-set-aside-an-order-to-demolish-her-nearly-completed-house/articleshow/135494213.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-04T01:55:00+05:30"
-          },
-          {
             "title": "BJP leaders criticise Mamata-Congress bonhomie",
             "link": "https://www.thehindu.com/news/national/west-bengal/bjp-leaders-criticise-mamata-congress-bonhomie/article71662190.ece",
             "source": "The Hindu",
@@ -192,11 +192,18 @@
         ],
         "World": [
           {
+            "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+            "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+            "published": "2026-11-03T21:53:38+00:00"
+          },
+          {
             "title": "Spanish transport minister resigns days after deadly train crash",
             "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-            "published": "2026-11-03T21:19:57+00:00"
+            "published": "2026-11-03T21:40:42+00:00"
           },
           {
             "title": "Netanyahu’s eight-seat problem",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
             "published": "2026-11-03T18:38:50+00:00"
-          },
-          {
-            "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
-            "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
-            "published": "2026-11-03T18:32:46+00:00"
           }
         ],
         "Business": [
@@ -451,7 +451,7 @@
         "Technology": [
           {
             "title": "Tech Life",
-            "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
             "published": "2026-11-03T20:30:00+00:00"
@@ -648,6 +648,13 @@
             "published": "2026-11-04T12:01:21+05:30"
           },
           {
+            "title": "देश भर में 30% मौतें सरकारी रिकॉर्ड से बाहर:122 जिलों में महिला मृत्यु पंजीकरण 40% से कम; गांवों में हर तीसरी मौत का डेटा गायब",
+            "link": "https://www.bhaskar.com/national/news/india-women-death-registration-report-missing-data-list-139585702.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-03T21:42:58+00:00"
+          },
+          {
             "title": "US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज",
             "link": "https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-03T23:00:49+05:30"
-          },
-          {
-            "title": "चुनाव लड़ेंगी मनु भाकर! जीतकर बनेंगी 2026-30 कार्यकाल के लिए ISSF एथलीट कमेटी की सदस्य",
-            "link": "https://hindi.oneindia.com/news/sports/more-sports/manu-bhakar-to-fight-election-to-become-issf-athlete-committee-2026-member-1678069.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-03T22:37:16+05:30"
           }
         ],
         "Entertainment": [
@@ -1114,7 +1114,7 @@
             "published": "2026-11-03T18:30:23+00:00"
           },
           {
-            "title": "Cyclone Murasu: తుపాను నేపథ్యంలో విజయవాడ డివిజన్‌లో భారీగా రైళ్ల రద్దు - Eenadu",
+            "title": "Cyclone Murasu: తుపాను నేపథ్యంలో విజయవాడ డివిజన్‌లో పలు రైళ్లు రద్దు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2x2MlhabWI5NFRiWWlwZFVGRnVScUg4bDEwVUc5dEp4ekNEclhjYjg3RldwbVNOZk8xcUR2cWJyWS0wNU45aDZnMVI1WHo2UVZnRnY5dl9YVG1xTWRvdENLTzdGS1cwcHp4RkwxQUlzV3ItVDFKMjVmZFZET1ZzV01xQjR0N1pxbk15VzFMNzJQb1dfblVsaV9zRzJENVRrT0xJY2FmOWtuN2RFWUxvT0l4VnRfY25RaG9uRzlzUVJrenfSAcMBQVVfeXFMTU9sdjJYWm1iOTRUYllpcGRVRkZ1UnFIOGwxMFVHOXRKeHpDRHJYY2I4N0ZXcG1TTmZPMXFEdnFiclktMDVOOWg2ZzFSNVh6NlFWZ0Z2OXZfWFRtcU1kb3RDS083RktXMHB6eEZMMUFJc1dyLVQxSjI1ZmRWRE9Wc1dNcUI0dDdacW5NeVcxTDcyUG9XX25VbGlfc0cyRDVUa09MSWNhZjlrbjdkRVlMb09JeFZ0X2NuUWhvbkc5c1FSa3p3?oc=5",
             "source": "Eenadu",
             "summary": "",
