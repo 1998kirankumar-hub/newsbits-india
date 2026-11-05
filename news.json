@@ -1,111 +1,167 @@
 {
-  "updated_at": "2026-11-05T20:01:15.978087+00:00",
+  "updated_at": "2026-11-05T20:31:07.498854+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "California governor commutes death sentences for all 548 people on death row",
+            "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "California has historically had the largest population of death row inmates in the US.",
+            "published": "2026-11-05T20:28:38+00:00"
+          },
+          {
+            "title": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
+            "link": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+            "source": "The Hindu",
+            "summary": "Hemant Soren said that collective participation and mutual cooperation are essential for the holistic development of the tribal society",
+            "published": "2026-11-06T01:52:46+05:30"
+          },
+          {
+            "title": "Mass protests in France driven by nationwide strike action",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+            "published": "2026-11-05T20:11:37+00:00"
+          },
+          {
+            "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+            "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+            "published": "2026-11-05T20:07:04+00:00"
+          },
+          {
+            "title": "Danger in the sewer: On India’s sewer cleaning deaths",
+            "link": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+            "source": "The Hindu",
+            "summary": "India must eliminate situations that lead to sewer cleaning deaths",
+            "published": "2026-11-06T01:36:26+05:30"
+          },
+          {
+            "title": "119 warships &amp; counting: Kolkata-based GRSE delivers fifth submarine-hunter to Navy",
+            "link": "https://timesofindia.indiatimes.com/defence/news/119-warships-and-counting-kolkata-based-grse-delivers-fifth-submarine-hunter-amini-to-navy/articleshow/135585903.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-06T01:35:20+05:30"
+          },
+          {
+            "title": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+            "source": "The Hindu",
+            "summary": "Sources said that in the meeting, JD(U) levelled charges against the alliance partner for failing to cooperate and also tried to sabotage their candidate.",
+            "published": "2026-11-06T01:32:52+05:30"
+          },
+          {
+            "title": "Who could be behind hoax bomb threats to European air travel?",
+            "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+            "published": "2026-11-05T19:58:40+00:00"
+          },
+          {
+            "title": "Paraguay president quits amid banking scandal as lawmakers move to impeach him",
+            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paraguay-president-santiago-pea-resigns-amid-ueno-bank-collapse-faces-impeachment/articleshow/135585738.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-06T01:26:59+05:30"
+          },
+          {
+            "title": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+            "link": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+            "source": "The Hindu",
+            "summary": "Odisha political parties accuse A.P. of bribing people to secure their votes in MPTC and ZPTC elections",
+            "published": "2026-11-06T01:24:48+05:30"
+          },
+          {
+            "title": "Kochi police yet to complete verification of private bus employees",
+            "link": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+            "source": "The Hindu",
+            "summary": "The police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew",
+            "published": "2026-11-06T01:22:39+05:30"
+          },
+          {
+            "title": "Top US civil rights official resigns",
+            "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "New Democratic Congress expected to probe Trump Justice Department office&#039;s handling of Epstein files and ICE killings.",
+            "published": "2026-11-05T19:48:00+00:00"
+          },
+          {
+            "title": "Tanvi becomes first Indian woman to win Youth Olympics badminton medal",
+            "link": "https://timesofindia.indiatimes.com/sports/badminton/15-year-old-tanvi-patri-scripts-history-becomes-first-indian-woman-to-win-youth-olympics-badminton-medal/articleshow/135585521.cms",
+            "source": "Times of India",
+            "summary": "In a remarkable achievement at the Youth Olympic Games, Tanvi Patri has secured a historic silver medal in badminton, becoming the first Indian woman to earn a medal at the event. Competing fiercely, she reached the finals, facing off against China's Zhang Yi Xin. Although she narrowly missed out on victory, her unwavering spirit and determination shone through, amplifying India's growing reputation in the badminton…",
+            "published": "2026-11-06T01:07:21+05:30"
+          },
+          {
             "title": "Eight killed in series of shootings in western Turkey",
             "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
             "published": "2026-11-05T19:32:54+00:00"
-          },
-          {
-            "title": "Grandfather denied $17,193 legal fees after fight for visits with granddaughter",
-            "link": "https://timesofindia.indiatimes.com/world/us/california-grandfather-cared-for-his-granddaughter-nearly-two-years-then-sought-visits-after-her-mother-regained-custody-court-allowed-a-five-minute-monthly-call-and-appeal-upheld-denial-of-17193-in-legal-fees/articleshow/135530132.cms",
-            "source": "Times of India",
-            "summary": "Timothy S sought court-ordered visitation with his granddaughter after Sarah H regained custody of the children. He had raised the older child for nearly two years prior to this change in custody. The trial court allowed only a brief monthly telephone call while denying Sarah's request for legal fees tied to the case. California's Court of Appeal upheld this decision, affirming the lower court's interpretation of…",
-            "published": "2026-11-06T00:58:00+05:30"
-          },
-          {
-            "title": "Jen Lilley revives Christmas toy drive with goal of 20,000 gifts",
-            "link": "https://timesofindia.indiatimes.com/world/us/jen-lilley-is-bringing-back-the-christmas-is-not-cancelled-toy-drive-she-started-during-the-covid-19-pandemic-with-a-goal-of-20000-presents-and-a-30000-donation-from-shawn-ryan/articleshow/135543844.cms",
-            "source": "Times of India",
-            "summary": "Jen Lilley, the acclaimed actress, has relaunched her Christmas Is Not Cancelled campaign to aid children in need, setting a goal of delivering 20,000 gifts to underprivileged youth this Christmas. By letting parents select the gifts, the initiative preserves their dignity. Furthermore, podcaster Shawn Ryan's generous $30,000 donation will provide bikes and scooters. The campaign is now a nonprofit, making financial…",
-            "published": "2026-11-06T00:56:00+05:30"
-          },
-          {
-            "title": "NASA's Hubble probes mystery of missing oxygen in dwarf galaxies",
-            "link": "https://timesofindia.indiatimes.com/science/space/nasas-hubble-uncovers-mystery-of-missing-oxygen-in-dwarf-galaxies/articleshow/135558760.cms",
-            "source": "Times of India",
-            "summary": "A recent investigation revealed that dwarf galaxies only retain an average of 11% of the oxygen generated by their stars. The remaining oxygen likely escapes into space during powerful supernova explosions. This finding indicates that smaller galaxies have greater difficulty retaining their materials than previously believed. Researchers plan to conduct further studies to examine where this missing oxygen ultimately…",
-            "published": "2026-11-06T00:52:00+05:30"
-          },
-          {
-            "title": "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/opposition-trying-to-destabilise-tvk-led-government-says-manickam-tagore/article71670045.ece",
-            "source": "The Hindu",
-            "summary": "He accuses the Opposition of attempting to create uncertainty and undermining the State’s development",
-            "published": "2026-11-06T00:47:12+05:30"
-          },
-          {
-            "title": "Omar set to meet NC’s rebel MLAs today",
-            "link": "https://timesofindia.indiatimes.com/india/omar-set-to-meet-ncs-rebel-mlas-today/articleshow/135585273.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:45:14+05:30"
-          },
-          {
-            "title": "Kashmir has 1 active local terrorist, says IG",
-            "link": "https://timesofindia.indiatimes.com/india/kashmir-has-1-active-local-terrorist-says-ig/articleshow/135585174.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:42:25+05:30"
-          },
-          {
-            "title": "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/bodies-of-four-fishermen-from-tn-found-near-kothapatnam-beach-in-ap/article71670219.ece",
-            "source": "The Hindu",
-            "summary": "Indian Coast Guard staff on search for four other missing fishermen who were sailing on the same boat which sank 2 km off the shore",
-            "published": "2026-11-06T00:40:39+05:30"
-          },
-          {
-            "title": "Tamil Nadu Road Development Company Limited gets new Managing Director",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-road-development-company-limited-gets-new-managing-director/article71669441.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-06T00:39:09+05:30"
-          },
-          {
-            "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-            "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-            "published": "2026-11-05T19:08:08+00:00"
-          },
-          {
-            "title": "School excursion row: UDF leaders release CCTV footage in support of their claims",
-            "link": "https://www.thehindu.com/news/national/kerala/school-excursion-row-udf-leaders-release-cctv-footage-in-support-of-their-claims/article71669881.ece",
-            "source": "The Hindu",
-            "summary": "The leadership claimed that the visuals showed the principal and the PTA president entering and leaving the establishment, alleging that a bill of ₹1,100 for alcoholic beverages was settled using the PTA president’s personal ATM card.",
-            "published": "2026-11-06T00:36:20+05:30"
-          },
-          {
-            "title": "Iraq airspace reopens, Air India restores nonstop US flights, cuts Rome detours",
-            "link": "https://timesofindia.indiatimes.com/india/iraq-airspace-available-again-air-india-flights-between-delhi-mumbai-and-new-york-become-nonstop-shave-4-hours-off-from-rome-one-stops/articleshow/135584953.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:35:16+05:30"
-          },
-          {
-            "title": "Telangana climate conclave to be special feature of global summit",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-climate-conclave-to-be-special-feature-of-global-summit/article71670587.ece",
-            "source": "The Hindu",
-            "summary": "Scientists and experts to deliberate on tackling climate change and drought proofing agriculture",
-            "published": "2026-11-06T00:33:50+05:30"
-          },
-          {
-            "title": "CM directs officials to begin Kaleshwaram barrage restoration works in December",
-            "link": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-begin-kaleshwaram-barrage-restoration-works-in-december/article71670959.ece",
-            "source": "The Hindu",
-            "summary": "Final approvals to be secured by month-end; ₹4,193 crore estimated for repairs and restoration",
-            "published": "2026-11-06T00:32:07+05:30"
           }
         ],
         "India": [
           {
+            "title": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
+            "link": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+            "source": "The Hindu",
+            "summary": "Hemant Soren said that collective participation and mutual cooperation are essential for the holistic development of the tribal society",
+            "published": "2026-11-06T01:52:46+05:30"
+          },
+          {
+            "title": "Danger in the sewer: On India’s sewer cleaning deaths",
+            "link": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+            "source": "The Hindu",
+            "summary": "India must eliminate situations that lead to sewer cleaning deaths",
+            "published": "2026-11-06T01:36:26+05:30"
+          },
+          {
+            "title": "119 warships &amp; counting: Kolkata-based GRSE delivers fifth submarine-hunter to Navy",
+            "link": "https://timesofindia.indiatimes.com/defence/news/119-warships-and-counting-kolkata-based-grse-delivers-fifth-submarine-hunter-amini-to-navy/articleshow/135585903.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-06T01:35:20+05:30"
+          },
+          {
+            "title": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+            "source": "The Hindu",
+            "summary": "Sources said that in the meeting, JD(U) levelled charges against the alliance partner for failing to cooperate and also tried to sabotage their candidate.",
+            "published": "2026-11-06T01:32:52+05:30"
+          },
+          {
+            "title": "Paraguay president quits amid banking scandal as lawmakers move to impeach him",
+            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paraguay-president-santiago-pea-resigns-amid-ueno-bank-collapse-faces-impeachment/articleshow/135585738.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-06T01:26:59+05:30"
+          },
+          {
+            "title": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+            "link": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+            "source": "The Hindu",
+            "summary": "Odisha political parties accuse A.P. of bribing people to secure their votes in MPTC and ZPTC elections",
+            "published": "2026-11-06T01:24:48+05:30"
+          },
+          {
+            "title": "Kochi police yet to complete verification of private bus employees",
+            "link": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+            "source": "The Hindu",
+            "summary": "The police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew",
+            "published": "2026-11-06T01:22:39+05:30"
+          },
+          {
+            "title": "Tanvi becomes first Indian woman to win Youth Olympics badminton medal",
+            "link": "https://timesofindia.indiatimes.com/sports/badminton/15-year-old-tanvi-patri-scripts-history-becomes-first-indian-woman-to-win-youth-olympics-badminton-medal/articleshow/135585521.cms",
+            "source": "Times of India",
+            "summary": "In a remarkable achievement at the Youth Olympic Games, Tanvi Patri has secured a historic silver medal in badminton, becoming the first Indian woman to earn a medal at the event. Competing fiercely, she reached the finals, facing off against China's Zhang Yi Xin. Although she narrowly missed out on victory, her unwavering spirit and determination shone through, amplifying India's growing reputation in the badminton…",
+            "published": "2026-11-06T01:07:21+05:30"
+          },
+          {
             "title": "Grandfather denied $17,193 legal fees after fight for visits with granddaughter",
             "link": "https://timesofindia.indiatimes.com/world/us/california-grandfather-cared-for-his-granddaughter-nearly-two-years-then-sought-visits-after-her-mother-regained-custody-court-allowed-a-five-minute-monthly-call-and-appeal-upheld-denial-of-17193-in-legal-fees/articleshow/135530132.cms",
             "source": "Times of India",
@@ -132,71 +188,57 @@
             "source": "The Hindu",
             "summary": "He accuses the Opposition of attempting to create uncertainty and undermining the State’s development",
             "published": "2026-11-06T00:47:12+05:30"
-          },
-          {
-            "title": "Omar set to meet NC’s rebel MLAs today",
-            "link": "https://timesofindia.indiatimes.com/india/omar-set-to-meet-ncs-rebel-mlas-today/articleshow/135585273.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:45:14+05:30"
-          },
-          {
-            "title": "Kashmir has 1 active local terrorist, says IG",
-            "link": "https://timesofindia.indiatimes.com/india/kashmir-has-1-active-local-terrorist-says-ig/articleshow/135585174.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:42:25+05:30"
-          },
-          {
-            "title": "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/bodies-of-four-fishermen-from-tn-found-near-kothapatnam-beach-in-ap/article71670219.ece",
-            "source": "The Hindu",
-            "summary": "Indian Coast Guard staff on search for four other missing fishermen who were sailing on the same boat which sank 2 km off the shore",
-            "published": "2026-11-06T00:40:39+05:30"
-          },
-          {
-            "title": "Tamil Nadu Road Development Company Limited gets new Managing Director",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-road-development-company-limited-gets-new-managing-director/article71669441.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-06T00:39:09+05:30"
-          },
-          {
-            "title": "School excursion row: UDF leaders release CCTV footage in support of their claims",
-            "link": "https://www.thehindu.com/news/national/kerala/school-excursion-row-udf-leaders-release-cctv-footage-in-support-of-their-claims/article71669881.ece",
-            "source": "The Hindu",
-            "summary": "The leadership claimed that the visuals showed the principal and the PTA president entering and leaving the establishment, alleging that a bill of ₹1,100 for alcoholic beverages was settled using the PTA president’s personal ATM card.",
-            "published": "2026-11-06T00:36:20+05:30"
-          },
-          {
-            "title": "Iraq airspace reopens, Air India restores nonstop US flights, cuts Rome detours",
-            "link": "https://timesofindia.indiatimes.com/india/iraq-airspace-available-again-air-india-flights-between-delhi-mumbai-and-new-york-become-nonstop-shave-4-hours-off-from-rome-one-stops/articleshow/135584953.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-06T00:35:16+05:30"
-          },
-          {
-            "title": "Telangana climate conclave to be special feature of global summit",
-            "link": "https://www.thehindu.com/news/national/telangana/telangana-climate-conclave-to-be-special-feature-of-global-summit/article71670587.ece",
-            "source": "The Hindu",
-            "summary": "Scientists and experts to deliberate on tackling climate change and drought proofing agriculture",
-            "published": "2026-11-06T00:33:50+05:30"
-          },
-          {
-            "title": "CM directs officials to begin Kaleshwaram barrage restoration works in December",
-            "link": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-begin-kaleshwaram-barrage-restoration-works-in-december/article71670959.ece",
-            "source": "The Hindu",
-            "summary": "Final approvals to be secured by month-end; ₹4,193 crore estimated for repairs and restoration",
-            "published": "2026-11-06T00:32:07+05:30"
           }
         ],
         "World": [
+          {
+            "title": "California governor commutes death sentences for all 548 people on death row",
+            "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "California has historically had the largest population of death row inmates in the US.",
+            "published": "2026-11-05T20:28:38+00:00"
+          },
+          {
+            "title": "Mass protests in France driven by nationwide strike action",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+            "published": "2026-11-05T20:11:37+00:00"
+          },
+          {
+            "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+            "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+            "published": "2026-11-05T20:07:04+00:00"
+          },
+          {
+            "title": "Who could be behind hoax bomb threats to European air travel?",
+            "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+            "published": "2026-11-05T19:58:40+00:00"
+          },
+          {
+            "title": "Top US civil rights official resigns",
+            "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "New Democratic Congress expected to probe Trump Justice Department office&#039;s handling of Epstein files and ICE killings.",
+            "published": "2026-11-05T19:48:00+00:00"
+          },
           {
             "title": "Eight killed in series of shootings in western Turkey",
             "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
             "published": "2026-11-05T19:32:54+00:00"
+          },
+          {
+            "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+            "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
+            "published": "2026-11-05T19:31:28+00:00"
           },
           {
             "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
@@ -232,48 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Could football change after the death of Jesus de Miguel?",
             "published": "2026-11-05T18:22:16+00:00"
-          },
-          {
-            "title": "French protests see numbers surge as unions join strikes over high cost of living",
-            "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-            "published": "2026-11-05T17:59:53+00:00"
-          },
-          {
-            "title": "AI stocks plunge after US election, driving down markets",
-            "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-            "published": "2026-11-05T17:56:17+00:00"
-          },
-          {
-            "title": "Paraguay President Santiago Peña resigns after bank collapse",
-            "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-            "published": "2026-11-05T17:40:40+00:00"
-          },
-          {
-            "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-            "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-            "published": "2026-11-05T17:39:48+00:00"
-          },
-          {
-            "title": "Jordanian officer killed in stabbing attack in Amman",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
-            "published": "2026-11-05T17:08:45+00:00"
-          },
-          {
-            "title": "Paraguay President Pena resigns in wake of bank collapse",
-            "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
-            "published": "2026-11-05T17:08:19+00:00"
           }
         ],
         "Business": [
@@ -648,6 +648,13 @@
             "published": "2026-11-06T12:08:08+05:30"
           },
           {
+            "title": "धनतेरस पर मुरैना में संपत्ति रजिस्ट्री अभियान में शामिल होंगे CM मोहन यादव, 15 नवंबर तक 20 लाख रजिस्ट्रियों का लक्ष्य",
+            "link": "https://hindi.oneindia.com/news/india/cm-registry-scheme-drives-property-ownership-dhanteras-mp-012-1679569.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-06T01:31:12+05:30"
+          },
+          {
             "title": "मध्य प्रदेश में ₹63,296 करोड़ की लागत से बनेंगे 5 ग्रीनफील्ड कॉरिडोर, 1,398 किमी लंबा होगा नेटवर्क",
             "link": "https://hindi.oneindia.com/news/india/five-greenfield-corridors-madhya-pradesh-dpr-progress-012-1679563.html",
             "source": "Oneindia Hindi",
@@ -702,13 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-11-05T15:46:08+00:00"
-          },
-          {
-            "title": "बिहार SDRF ने राष्ट्रीय CBRN प्रतियोगिता में हासिल किया तीसरा स्थान, टीम को मिला कांस्य पदक और 50 हजार रुपये का पुरस्कार",
-            "link": "https://hindi.oneindia.com/news/india/bihar-sdrf-wins-bronze-national-cbrn-competition-2026-012-1679423.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-05T21:01:11+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,39 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "శరద్‌ పవార్‌ ఆరోగ్యం నిలకడగా ఉంది: వైద్యులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUGl2TEJaYkhOZGl1VnY3SjhJZll2dUl5SjBmSHd6Vm95SjN2LVlKellZZlBnRGt1RElsNXVPT0xNS0dTTEVfbG45NkF0STcwSlg0UnBMOWgzdjVGUEk4WE5Zb2thbmhKLVQ3YjcyVUpzNjNWcGxTbFN3?oc=5",
+            "title": "జనరల్‌ స్టడీస్‌ - భారతదేశ చరిత్ర - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NFZjTU9XQzZNaWxNSWw3RkxrbGNvM084YkVZRE5Pa0dFYVU3ZDU0WG5JY0ZzNWprZWpMZzJYckswdnVFc1dWR1RITnFTNG9CcHRoNGdnY3RMVm1nRTdIa1dVdERwcGZfN3ZTQ18xVkxSQkQ5dEpZMnBn0gF6QVVfeXFMUDk0VmNNT1dDNk1pbE1JbDdGTGtsY28zTzhiRVlETk9rR0VhVTdkNTRYbkljRnM1amtlakxnMlhySzB2dUVzV1ZHVEhOcVM0b0JwdGg0Z2djdExWbWdFN0hrV1V0RHBwZl83dlNDXzFWTFJCRDl0SlkycGc?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-05T19:54:27+00:00"
+            "published": "2026-11-05T20:19:17+00:00"
+          },
+          {
+            "title": "క్షీణించిన గాలి నాణ్యత.. 367కు చేరిన ఏక్యూఐ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zVkJ0cFBJdUF1LXlJX1hVUEhZVHhPdXAyQTNwcnNYU0ppWnFGWm5WMXQ4NDIyOXJJeWpvSTVUNnhHSGwwY2tnb1JSQ0ZmSmdQNDllVGc1Y2tTR0FLN3dyQnRlNnFNQzEyWWF4WlBzbzdad2x3WkJMaA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-05T20:17:04+00:00"
+          },
+          {
+            "title": "కేంద్ర మంత్రులతో బండారు దత్తాత్రేయ భేటీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ydnpCS19UeHBvZkZJNmQwZDQtQW9TN3ZjZTFpcTQtS2oyYUVwSzR5UTc2b01uNGpiQlplWE1LbGJ5djNDSXJqRF9aUWUyTlhfUk14YVdTbVU0a0xpbTBOLTZyMWZHMGRkNFItdmpldzc2ekM3YldyWA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-05T20:15:48+00:00"
+          },
+          {
+            "title": "దిల్లీ కాలుష్యానికి పంజాబ్‌ పొగే కారణం: మంత్రి సిర్సా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xd1JTZXppNmI5LWdJZ3QyeEtrbG1VRGR3TFkxaHVIQmt0Vl9zMkZ1N0ZSd0N5QUZtaU42SFhTZlBfQzZJS0JRaGxJV1ItV3VESGVHVmY4SHlNNi1hQU1oaEVwU1pDUUNLd3V3ajNMQjZEX294TVc3Sg?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-05T20:13:26+00:00"
+          },
+          {
+            "title": "పదాలేవి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xbUpTVUZSazgxWE5WdzE3cTgwNXlkbmhJMUxiRVRCY2kxc3hiN29OS09tdHFzbC1qVm5vNVUwbGhkWE5UaU0zVzFJeGpaSE5YZ3QwTHA5S3hYNFNvX3dEUkQzd0tHOEJmYm9fVnFpa3RnQ2s5Qlp6YU5HSW1jd9IBfkFVX3lxTE5xbUpTVUZSazgxWE5WdzE3cTgwNXlkbmhJMUxiRVRCY2kxc3hiN29OS09tdHFzbC1qVm5vNVUwbGhkWE5UaU0zVzFJeGpaSE5YZ3QwTHA5S3hYNFNvX3dEUkQzd0tHOEJmYm9fVnFpa3RnQ2s5Qlp6YU5HSW1jdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-05T19:49:33+00:00"
           },
           {
             "title": "Sai Durgha Tej Engagement: ఘనంగా సాయి దుర్గా తేజ్‌ నిశ్చితార్థం.. వివాహం ఎప్పుడంటే? - Eenadu",
@@ -1107,13 +1135,6 @@
             "published": "2026-11-05T23:45:27+05:30"
           },
           {
-            "title": "Hyderabad: బాచుపల్లిలో భవనం పైనుంచి దూకి బీటెక్‌ విద్యార్థిని ఆత్మహత్య - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWHNfSVhKYWt2aDc1R2NPUDNHaFRKZDIyREsxU2JsdXFKeHFPQUFoMHMyRFBmUkxSVjFYb29hRlhxbURrdjRhSWFVdWRwYXQ1S0c0YjNaaC1tLV9SSG5UTi1JUE9zRjRCZW85RXRoTzRhUzdJZUFDYVhhZzZfQzZaaUFBRDdkY0VPQUhTOV90RVdxVzlLQ29KakNPTGRyeXJzRHFXWkRWOHdxRzIzYWpwaVFHVENJWlRaUmIyMGxEUGk?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-05T18:11:12+00:00"
-          },
-          {
             "title": "ఒకే వేదికపై జగన్, సీఎం విజయ్, కేటీఆర్.. సోషల్ మీడియా షేక్.. ఎందుకో తెలుసా..?",
             "link": "https://telugu.oneindia.com/news/telangana/jagan-cm-vijay-ktr-on-the-same-platform-attend-the-wedding-ceremony-of-ys-anil-daughter-in-chennai-513713.html",
             "source": "Oneindia Telugu",
@@ -1121,39 +1142,18 @@
             "published": "2026-11-05T22:59:56+05:30"
           },
           {
+            "title": "Paraguay Bank Crisis: బ్యాంక్‌ పతనం.. 30 లక్షల మంది కస్టమర్ల గగ్గోలు.. అధ్యక్షుడి రాజీనామా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVdtLWRKQTRuU0lha0tZWWVRSll6Y01ZeGNPNEMyTGI4TDF0WjVINUxhSEU1Y3p5M1pHNGs2MDNtcDloNXJJQ3E3VWcwUHVNR1JxWmpDeTh3YUNfSzNVNko3UEhsZ3h0b3U0U1NlTU1JdFhvaE5ETkM1Ym9FQU5heUdvb0dPZnJrSTJ3TmVwNFFRaHBPNnNjOEN0Zi1fSWZXbktzbFd3eGRSb3lMV3Vkc3p6Nmowcm1wVlJLdjlzaUNzRE9VQnBTZ25RNzlfaGIwN2t2eDhMVjUxM3dRdzFjT9IB4AFBVV95cUxQdVdtLWRKQTRuU0lha0tZWWVRSll6Y01ZeGNPNEMyTGI4TDF0WjVINUxhSEU1Y3p5M1pHNGs2MDNtcDloNXJJQ3E3VWcwUHVNR1JxWmpDeTh3YUNfSzNVNko3UEhsZ3h0b3U0U1NlTU1JdFhvaE5ETkM1Ym9FQU5heUdvb0dPZnJrSTJ3TmVwNFFRaHBPNnNjOEN0Zi1fSWZXbktzbFd3eGRSb3lMV3Vkc3p6Nmowcm1wVlJLdjlzaUNzRE9VQnBTZ25RNzlfaGIwN2t2eDhMVjUxM3dRdzFjTw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-05T16:50:31+00:00"
+          },
+          {
             "title": "పోర్చుగల్ ఫుట్‌బాల్‌ ముఖచిత్రంగా మారిన క్రిస్టియానో రోనాల్డో రిటైర్మెంట్ నిర్ణయం వెనుక కారణాలేంటి?",
             "link": "https://www.bbc.com/telugu/articles/cmgel4ed5z3no?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-11-05T16:24:05+00:00"
-          },
-          {
-            "title": "పాకిస్థాన్ కు గుడ్ న్యూస్ చెప్పిన భారత్.. వారికి ప్రత్యేకమైన మినహాయింపు",
-            "link": "https://telugu.oneindia.com/news/international/india-introduces-passport-and-visa-rules-special-exemptions-granted-to-those-arriving-from-pakistan-513709.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-05T21:46:20+05:30"
-          },
-          {
-            "title": "Zomato Delivery: జొమాటోలో 40 కిలోమీటర్ల దూరం నుంచీ ఫుడ్‌ ఆర్డర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd0dVVTJUSzllTGhhWkF1QmtFc3JaSnJRTU9UTUNZRDlUQkZEVkZQS25NUElFamtWRGdzS2dmTmR1M1M1emg2aTRjaTREaTNyb29jOXQtckJWdVRZRHAxbmk0OEROa0hYSjJ5NFFQdG9SREFsaU45OXA1YklMUGlWY18tNHl2TFlidVM0WW9PN0w5TUZ6bW02cFdIekZJSDI0TjRScVJXeVozU0pOaUljMjVXZFZBX0FCVV9aTWxUOU15SUJlbU1hVER0STZpM1RtRHBvMWw5Yk1ZaXJncm9pZdIB4AFBVV95cUxQd0dVVTJUSzllTGhhWkF1QmtFc3JaSnJRTU9UTUNZRDlUQkZEVkZQS25NUElFamtWRGdzS2dmTmR1M1M1emg2aTRjaTREaTNyb29jOXQtckJWdVRZRHAxbmk0OEROa0hYSjJ5NFFQdG9SREFsaU45OXA1YklMUGlWY18tNHl2TFlidVM0WW9PN0w5TUZ6bW02cFdIekZJSDI0TjRScVJXeVozU0pOaUljMjVXZFZBX0FCVV9aTWxUOU15SUJlbU1hVER0STZpM1RtRHBvMWw5Yk1ZaXJncm9pZQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-05T16:08:10+00:00"
-          },
-          {
-            "title": "విశాఖ తీరంలో అధునాతన హోవర్‌క్రాఫ్ట్‌ వాహనాల సందడి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnNGR2xIbHQ4czYzZjZ1WHktMm9WUXByUElFQk52bEtIVG5uUGtCTzZmQkx4V3lTMlJEYWxkeVI2cHF0WDRIeVFSM05BOWRhYXZyRENNUTd4R3V5Zzg0SEpxMHJ5RVZONUVtcHU0MmFWNm5iSy1SaGtyd2xLTnVOTDdn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-05T16:06:02+00:00"
-          },
-          {
-            "title": "Asian Champions Trophy: ఆరోసారి ఆసియా ఛాంపియన్‌గా భారత్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmYxVk9rOXdqM3VKbkctUEdzdVhRdzZFZFpCWEpubW5ZQ1VtVTBiU1pyU2JZTlBZdTVsUnRuNGdPMTF3WmRESjVGc1FDa012bFU2ZXlFVjlLaEhwZk13Nnk2UG1yeEhIUDhaZWd1aXViSnR3dHZVY0F6QlVLcjgyWGZQRUlRSHVmTG1hN00zM3ZBRFNpeTUyelkxdFdzR3lGb1dfUTVkbVZhd9IBqgFBVV95cUxOdmYxVk9rOXdqM3VKbkctUEdzdVhRdzZFZFpCWEpubW5ZQ1VtVTBiU1pyU2JZTlBZdTVsUnRuNGdPMTF3WmRESjVGc1FDa012bFU2ZXlFVjlLaEhwZk13Nnk2UG1yeEhIUDhaZWd1aXViSnR3dHZVY0F6QlVLcjgyWGZQRUlRSHVmTG1hN00zM3ZBRFNpeTUyelkxdFdzR3lGb1dfUTVkbVZhdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-05T15:59:51+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,13 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ভারত ‘এ’ দলের ম্যাচে খেলবেন বুমরাহ, দলে যোগ দিলেন জাডেজা, প্রসিদ্ধও, পন্থের বিকল্পের নাম জানিয়ে দিল বোর্ড - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORHd0NHFpcjg5NVEyWi03NjllSTdDQ2dnbXhMbUM0bnVvN3hXMUVLaFJOR1NaUjJvX3FaX19zLU04cUZWUUc3YWFSelVnWXh3cTJrV3JHeHlydWtIeEFLbmZHUmh5akMxSlBCNnQyNEV0R1pOR1BDNlQwMUwzRk5fSXNuRFZwZk1XVEg2eERmbVNLcnU0TmpoQzhod1AzMlBBXzRPeWV6RmxGYlBqZGpJWU5JNmZHeTgtM1AtVGhTbEVzV1pBUXJIeXI1VlN0QdIB0wFBVV95cUxNdFZEbnIwX2x4RVNVQ1puN2ZKbWJUcVh1Qlpqc2YwcEJmZ2tRcFlic181SUd2MkFONFhMdlB1T2J2NHhHWERISXNORXd3TU96cFNULThQQVEtN0hoNXA2d0d5aS1sZ2cxTEl3dlJCS3Q1Mm5iWVJKajc1U2FBMGdhZFBhejFISV9naXRwVUY5MlQ0M0o4YUZNdkxQWno2NUhpUl9TZFRrRzlHamVaeUVvZDJGMVhmS2tpUzlPMmZaY2RvTFlKZW9MYktNb0RaenBKQmpz?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-05T17:05:35+00:00"
-          },
-          {
             "title": "কৃষ্ণাঙ্গ গভর্নর, সমকামী থেকে মুসলিম সেনেটর, মার্কিন মিডটার্ম ভোটে পালাবদল করলেন যাঁরা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUxfc051S3JlanpWUjBaRWpmMDRPZ04tbHJZX2U2cmE4anQ0VDFHZF9mbTFoVkRaU1J0SmRKdlB1SmE3ckMzMktJUndmWnNTX3ZaRmNpLXhUZEVRaWQyT2hyVUxWSkVqTGtQZE1oSnF3MzFXOFlMbFlIS1JYcDgwYW9rVFhBcGxLZURjSk1fbXNiRTY4VzNUejRNejdOZkMzaFZuZi1PMDUxNTNERWMtaFJkWmY1MG8xTzhIXy12MVZ0RS1SdmhJOXRkU1Nhdw?oc=5",
             "source": "Anandabazar Patrika",
@@ -1445,6 +1438,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-05T15:42:48+00:00"
+          },
+          {
+            "title": "পাকিস্তান থেকে আসা শরণার্থীদের জন্য বিশেষ ছাড় দিয়ে নীতি সংশোধন কেন্দ্রের! নেপাল, ভুটান ভ্রমণের ক্ষেত্রেও নতুন নিয়ম - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlVaemZQZ2tHSzhHb2pSbTFvWWxtOWIweG9neVJTWjk2SDFSRXlqN2IwUzEtSDBLU1BRTExXWjJHOEMySW5IVnlDMzZWNkZmSDNrLUhRRjliTVY2Vk9XNEpXbm0xYW5PTGdVNXFaM0JsLTIwTlpSSjR4ZGVIcWFpZzNpWGpNZUxnOERlbmExSjZscHdpbEx6YW8taTZhUdIBowFBVV95cUxQNHY0ZTFxbGVIZ2RRN2d6cUhwQTM1SlZON2g3MHR1ckFfMXpVa2gzMlFURTR4Y19Da2FJTnJQQ01RZ2ZYWHF4cGxrTnRzMGloTE1kMnhoaWg3NFVOVnZ5cURvczFwYWtMcTUyWXB2cFZxa3MxWldXQmFDSzZKRWpFazU2ckNhY2lMOVYtXy0zYWlpaF9PRExTSUIzUmEzSHNZRTdz?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-05T15:21:53+00:00"
           },
           {
             "title": "নবাবি মুলুকে আজও ঘোরে অশরীরীর দল, ইতিহাসের মুর্শিদাবাদে ভূতের খোঁজ - Anandabazar Patrika",
