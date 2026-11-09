@@ -1,196 +1,203 @@
 {
-  "updated_at": "2026-11-09T11:01:22.417280+00:00",
+  "updated_at": "2026-11-09T11:31:13.074077+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
+            "link": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
+            "source": "The Hindu",
+            "summary": "Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
+            "published": "2026-11-09T16:57:02+05:30"
+          },
+          {
+            "title": "Delay in proroguing Lok Sabha gives Home Minister time to muster numbers for Delimitation Bills: Congress",
+            "link": "https://www.thehindu.com/news/national/prorogation-record-set-to-give-time-to-shah-to-manipulate-super-tainted-23rd-majority-congress/article71682029.ece",
+            "source": "The Hindu",
+            "summary": "Congress’s Jairam Ramesh cites the eighth edition of the Practice and Procedure of Parliament as giving the interval between the adjournment sine die of the Lok Sabha and its prorogation is generally two to four days; a footnote records the longest gap as 28 days during the monsoon session of 2015",
+            "published": "2026-11-09T16:56:00+05:30"
+          },
+          {
+            "title": "Chennai’s air quality deteriorates to ‘poor’ the morning after Deepavali",
+            "link": "https://www.thehindu.com/news/cities/chennai/chennais-air-quality-deteriorates-to-poor-the-morning-after-deepavali/article71681457.ece",
+            "source": "The Hindu",
+            "summary": "Manali Village recorded the highest AQI at 296, followed by Arumbakkam at 265, Kodungaiyur at 215, Royapuram at 184 and Velachery Residential Area at 142",
+            "published": "2026-11-09T16:54:53+05:30"
+          },
+          {
+            "title": "Man 'detained' in Russia, pressured to join war, alleges family; second Chhattisgarh case",
+            "link": "https://www.thehindu.com/news/national/man-detained-in-russia-pressured-to-join-war-alleges-family-second-chhattisgarh-case/article71682320.ece",
+            "source": "The Hindu",
+            "summary": "A similar case surfaced last month in Chhattisgarh, where a 21-year-old man from Bilaspur district was allegedly detained in Russia and tortured to compel him to join the war",
+            "published": "2026-11-09T16:54:47+05:30"
+          },
+          {
+            "title": "578 caught driving under influence in two-day Hyderabad traffic police drive",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/578-caught-driving-under-influence-in-two-day-hyderabad-traffic-police-drive/article71682209.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-09T16:53:24+05:30"
+          },
+          {
+            "title": "Hassan DC’s personal assistant files complaint with district police",
+            "link": "https://www.thehindu.com/news/national/karnataka/hassan-dcs-personal-assistant-files-complaint-with-district-police/article71682308.ece",
+            "source": "The Hindu",
+            "summary": "Union Minister H.D. Kumaraswamy released screenshots of WhatsApp conversation during his visit to Hassan on Sunday",
+            "published": "2026-11-09T16:50:36+05:30"
+          },
+          {
+            "title": "Rahul Gandhi repeats debate dare after PM Modi's 'Dimagi Naxal' jibe",
+            "link": "https://www.thehindu.com/news/national/rahul-gandhi-repeats-debate-dare-after-pm-modis-dimagi-naxal-jibe/article71682318.ece",
+            "source": "The Hindu",
+            "summary": "‘He called us Naxals. My challenge stands. Let him debate me on who is anti-national and who is controlled by foreign forces. Any time, any place. My guarantee: after the debate, the PM won’t have the guts to stand in front of a single jawan again,’ says Gandhi",
+            "published": "2026-11-09T16:50:31+05:30"
+          },
+          {
+            "title": "Paraguay former president’s mansion raided in ongoing investigation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A hidden vault was found in Paraguay&#039;s former president&#039;s mansion amid ongoing banking scandal investigation.",
+            "published": "2026-11-09T11:19:45+00:00"
+          },
+          {
+            "title": "Post-Deepavali smog envelopes cities as air quality plummets to 'severe' | In pictures",
+            "link": "https://www.thehindu.com/news/national/in-pictures-india-air-pollution-deepavali-2026-smog-delhi-mumbai-chennai-hyderabad/article71681680.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-09T16:48:23+05:30"
+          },
+          {
+            "title": "UDF govt’s move to ease norms for self-financing courses, seat expansion in autonomous colleges sparks row in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/udf-govts-move-to-ease-norms-for-self-financing-courses-seat-expansion-in-autonomous-colleges-sparks-row-in-keralam/article71682274.ece",
+            "source": "The Hindu",
+            "summary": "Opposition accuses government of facilitating commercialisation of higher education, while State government defends move as a measure to promote academic autonomy and eliminate bureaucratic delays",
+            "published": "2026-11-09T16:43:20+05:30"
+          },
+          {
+            "title": "BMC bans rockets, aerial firecrackers across Mumbai till Nov 25 after multiple fires",
+            "link": "https://www.hindustantimes.com/india-news/bmc-bans-rockets-aerial-firecrackers-across-mumbai-till-nov-25-after-multiple-fires-101794222662446.html",
+            "source": "Hindustan Times",
+            "summary": "The decision comes after major fire incidents occurred due to bursting of firecrackers at different locations",
+            "published": "2026-11-09T16:41:02+05:30"
+          },
+          {
+            "title": "Bodies of 2 remaining family members of Bengaluru cab driver found as search across 2 states ends",
+            "link": "https://www.hindustantimes.com/india-news/bodies-of-2-remaining-family-members-of-bengaluru-cab-driver-found-as-search-across-2-states-ends-101794222603212.html",
+            "source": "Hindustan Times",
+            "summary": "Indushekar, the cab driver, allegedly killed his wife and he relatives and dumped their bodies at separate places",
+            "published": "2026-11-09T16:40:02+05:30"
+          },
+          {
+            "title": "Quarrel over bursting Deepavali crackers ends in youth’s murder in Tiruchi district",
+            "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/quarrel-over-bursting-crackers-ends-up-in-youths-murder-in-tiruchi-district/article71681845.ece",
+            "source": "The Hindu",
+            "summary": "The 20-year-old victim was stabbed on his chest with a tester screwdriver.",
+            "published": "2026-11-09T16:38:39+05:30"
+          },
+          {
             "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
             "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
             "published": "2026-11-09T10:59:26+00:00"
-          },
-          {
-            "title": "Excess ethanol in E20 petrol: Samples collected from Kannur fuel pumps for testing",
-            "link": "https://www.thehindu.com/news/national/kerala/excess-ethanol-in-e20-petrol-samples-collected-from-kannur-fuel-pumps-for-testing/article71682142.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-09T16:21:22+05:30"
-          },
-          {
-            "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-            "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
-            "published": "2026-11-09T10:50:49+00:00"
-          },
-          {
-            "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-            "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker&#039;s shares falling more than 4 percent.",
-            "published": "2026-11-09T10:49:02+00:00"
-          },
-          {
-            "title": "Deepavali pollution spike: How does it affect lung function and respiratory health? | Explainer",
-            "link": "https://www.thehindu.com/sci-tech/health/deepavali-pollution-spike-how-does-it-affect-lung-function-and-respiratory-health/article71682011.ece",
-            "source": "The Hindu",
-            "summary": "Firecracker smoke releases fine particles and harmful gases that irritate the airways and affect lung health. Experts explain the short- and long-term effects of exposure and whether the damage persists after air quality improves",
-            "published": "2026-11-09T16:16:37+05:30"
-          },
-          {
-            "title": "Plea in SC to ensure hygienic drinking water, medical facilities at railway stations",
-            "link": "https://www.hindustantimes.com/india-news/plea-in-sc-to-ensure-hygienic-drinking-water-medical-facilities-at-railway-stations-101794221169614.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-11-09T16:16:09+05:30"
-          },
-          {
-            "title": "Andhra Pradesh tightens fireworks safety rules after fatal blasts",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tightens-fireworks-safety-rules-after-fatal-blasts/article71681772.ece",
-            "source": "The Hindu",
-            "summary": "New nodal authorities, dedicated safety cell and digital monitoring portal planned; officials to face accountability for lapses",
-            "published": "2026-11-09T16:14:18+05:30"
-          },
-          {
-            "title": "TDB flags ghee shortage ahead of Sabarimala pilgrimage season",
-            "link": "https://www.hindustantimes.com/india-news/tdb-flags-ghee-shortage-ahead-of-sabarimala-pilgrimage-season-101794220980222.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-11-09T16:12:59+05:30"
-          },
-          {
-            "title": "800-year-old Nandi sculpture lies neglected in Telangana’s Narayanapet",
-            "link": "https://www.thehindu.com/news/national/telangana/800-year-old-nandi-sculpture-lies-neglected-in-telanganas-narayanapet/article71682186.ece",
-            "source": "The Hindu",
-            "summary": "Archaeologist Sivanagireddy found the Kakatiya-era sculpture broken into two pieces",
-            "published": "2026-11-09T16:12:30+05:30"
-          },
-          {
-            "title": "Mumbai Bans Rockets, Aerial Crackers Till November 25 After Diwali Fires",
-            "link": "https://www.ndtv.com/india-news/mumbai-bans-rockets-aerial-crackers-till-november-25-after-diwali-fires-12303216#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Three major fires were reported in different parts of the city on Diwali night alone, gutting several huts, shops, a garage, and parts of a commercial building.",
-            "published": "2026-11-09T16:11:15+05:30"
-          },
-          {
-            "title": "Hridoy ensures draw in Sylhet; WI beat Bangladesh 1-0 in series",
-            "link": "https://www.cricinfo.com/ci/content/story/1561938.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Hridoy scored 324 runs in the Test, across both innings, while Warrican claimed a four-for and a three-wicket haul",
-            "published": "2026-11-09T10:38:58+00:00"
-          },
-          {
-            "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-            "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "&#039;We&#039;re not here to point fingers and we&#039;re not opening old wounds,&#039; Australia&#039;s Warner said of himself and Khawaja.",
-            "published": "2026-11-09T10:38:10+00:00"
-          },
-          {
-            "title": "Trump seeks exit, Iran defiant: Key issues holding up peace deal as Qatar brokers talks",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-seeks-exit-iran-defiant-key-issues-holding-up-peace-deal-as-qatar-brokers-talks/articleshow/135679043.cms",
-            "source": "Times of India",
-            "summary": "Negotiations between the United States and Iran are being facilitated by Qatar amidst ongoing conflict. Washington seeks to regulate Iran's nuclear capabilities and ensure access to the Strait of Hormuz. Iran demands the lifting of sanctions and recognition of its strategic interests in any agreement. Despite diplomatic efforts, significant divisions remain regarding nuclear concessions and economic relief. Both…",
-            "published": "2026-11-09T16:06:29+05:30"
-          },
-          {
-            "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Secretary of State Marco Rubio has ordered Ibrahim Charara, Lebanon’s consul general in Detroit, to leave the country",
-            "published": "2026-11-09T10:35:53+00:00"
           }
         ],
         "India": [
           {
-            "title": "Excess ethanol in E20 petrol: Samples collected from Kannur fuel pumps for testing",
-            "link": "https://www.thehindu.com/news/national/kerala/excess-ethanol-in-e20-petrol-samples-collected-from-kannur-fuel-pumps-for-testing/article71682142.ece",
+            "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
+            "link": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
+            "source": "The Hindu",
+            "summary": "Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
+            "published": "2026-11-09T16:57:02+05:30"
+          },
+          {
+            "title": "Delay in proroguing Lok Sabha gives Home Minister time to muster numbers for Delimitation Bills: Congress",
+            "link": "https://www.thehindu.com/news/national/prorogation-record-set-to-give-time-to-shah-to-manipulate-super-tainted-23rd-majority-congress/article71682029.ece",
+            "source": "The Hindu",
+            "summary": "Congress’s Jairam Ramesh cites the eighth edition of the Practice and Procedure of Parliament as giving the interval between the adjournment sine die of the Lok Sabha and its prorogation is generally two to four days; a footnote records the longest gap as 28 days during the monsoon session of 2015",
+            "published": "2026-11-09T16:56:00+05:30"
+          },
+          {
+            "title": "Chennai’s air quality deteriorates to ‘poor’ the morning after Deepavali",
+            "link": "https://www.thehindu.com/news/cities/chennai/chennais-air-quality-deteriorates-to-poor-the-morning-after-deepavali/article71681457.ece",
+            "source": "The Hindu",
+            "summary": "Manali Village recorded the highest AQI at 296, followed by Arumbakkam at 265, Kodungaiyur at 215, Royapuram at 184 and Velachery Residential Area at 142",
+            "published": "2026-11-09T16:54:53+05:30"
+          },
+          {
+            "title": "Man 'detained' in Russia, pressured to join war, alleges family; second Chhattisgarh case",
+            "link": "https://www.thehindu.com/news/national/man-detained-in-russia-pressured-to-join-war-alleges-family-second-chhattisgarh-case/article71682320.ece",
+            "source": "The Hindu",
+            "summary": "A similar case surfaced last month in Chhattisgarh, where a 21-year-old man from Bilaspur district was allegedly detained in Russia and tortured to compel him to join the war",
+            "published": "2026-11-09T16:54:47+05:30"
+          },
+          {
+            "title": "578 caught driving under influence in two-day Hyderabad traffic police drive",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/578-caught-driving-under-influence-in-two-day-hyderabad-traffic-police-drive/article71682209.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-09T16:21:22+05:30"
+            "published": "2026-11-09T16:53:24+05:30"
           },
           {
-            "title": "Deepavali pollution spike: How does it affect lung function and respiratory health? | Explainer",
-            "link": "https://www.thehindu.com/sci-tech/health/deepavali-pollution-spike-how-does-it-affect-lung-function-and-respiratory-health/article71682011.ece",
+            "title": "Hassan DC’s personal assistant files complaint with district police",
+            "link": "https://www.thehindu.com/news/national/karnataka/hassan-dcs-personal-assistant-files-complaint-with-district-police/article71682308.ece",
             "source": "The Hindu",
-            "summary": "Firecracker smoke releases fine particles and harmful gases that irritate the airways and affect lung health. Experts explain the short- and long-term effects of exposure and whether the damage persists after air quality improves",
-            "published": "2026-11-09T16:16:37+05:30"
+            "summary": "Union Minister H.D. Kumaraswamy released screenshots of WhatsApp conversation during his visit to Hassan on Sunday",
+            "published": "2026-11-09T16:50:36+05:30"
           },
           {
-            "title": "Plea in SC to ensure hygienic drinking water, medical facilities at railway stations",
-            "link": "https://www.hindustantimes.com/india-news/plea-in-sc-to-ensure-hygienic-drinking-water-medical-facilities-at-railway-stations-101794221169614.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-11-09T16:16:09+05:30"
-          },
-          {
-            "title": "Andhra Pradesh tightens fireworks safety rules after fatal blasts",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tightens-fireworks-safety-rules-after-fatal-blasts/article71681772.ece",
+            "title": "Rahul Gandhi repeats debate dare after PM Modi's 'Dimagi Naxal' jibe",
+            "link": "https://www.thehindu.com/news/national/rahul-gandhi-repeats-debate-dare-after-pm-modis-dimagi-naxal-jibe/article71682318.ece",
             "source": "The Hindu",
-            "summary": "New nodal authorities, dedicated safety cell and digital monitoring portal planned; officials to face accountability for lapses",
-            "published": "2026-11-09T16:14:18+05:30"
+            "summary": "‘He called us Naxals. My challenge stands. Let him debate me on who is anti-national and who is controlled by foreign forces. Any time, any place. My guarantee: after the debate, the PM won’t have the guts to stand in front of a single jawan again,’ says Gandhi",
+            "published": "2026-11-09T16:50:31+05:30"
           },
           {
-            "title": "TDB flags ghee shortage ahead of Sabarimala pilgrimage season",
-            "link": "https://www.hindustantimes.com/india-news/tdb-flags-ghee-shortage-ahead-of-sabarimala-pilgrimage-season-101794220980222.html",
-            "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-11-09T16:12:59+05:30"
-          },
-          {
-            "title": "800-year-old Nandi sculpture lies neglected in Telangana’s Narayanapet",
-            "link": "https://www.thehindu.com/news/national/telangana/800-year-old-nandi-sculpture-lies-neglected-in-telanganas-narayanapet/article71682186.ece",
-            "source": "The Hindu",
-            "summary": "Archaeologist Sivanagireddy found the Kakatiya-era sculpture broken into two pieces",
-            "published": "2026-11-09T16:12:30+05:30"
-          },
-          {
-            "title": "Mumbai Bans Rockets, Aerial Crackers Till November 25 After Diwali Fires",
-            "link": "https://www.ndtv.com/india-news/mumbai-bans-rockets-aerial-crackers-till-november-25-after-diwali-fires-12303216#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Three major fires were reported in different parts of the city on Diwali night alone, gutting several huts, shops, a garage, and parts of a commercial building.",
-            "published": "2026-11-09T16:11:15+05:30"
-          },
-          {
-            "title": "Trump seeks exit, Iran defiant: Key issues holding up peace deal as Qatar brokers talks",
-            "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-seeks-exit-iran-defiant-key-issues-holding-up-peace-deal-as-qatar-brokers-talks/articleshow/135679043.cms",
-            "source": "Times of India",
-            "summary": "Negotiations between the United States and Iran are being facilitated by Qatar amidst ongoing conflict. Washington seeks to regulate Iran's nuclear capabilities and ensure access to the Strait of Hormuz. Iran demands the lifting of sanctions and recognition of its strategic interests in any agreement. Despite diplomatic efforts, significant divisions remain regarding nuclear concessions and economic relief. Both…",
-            "published": "2026-11-09T16:06:29+05:30"
-          },
-          {
-            "title": "Fire breaks out in two shops; LPG blast in Krishna district house, no casualties reported",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/fire-breaks-out-in-two-shops-lpg-blast-in-krishna-district-house-no-casualties-reported/article71681614.ece",
-            "source": "The Hindu",
-            "summary": "The reasons for the mishap were not known immediately, and valuable material was damaged in the fire, says locals",
-            "published": "2026-11-09T16:05:02+05:30"
-          },
-          {
-            "title": "In pictures: Smog blankets Indian cities after Deepavali as firecrackers push air quality to ‘severe’",
+            "title": "Post-Deepavali smog envelopes cities as air quality plummets to 'severe' | In pictures",
             "link": "https://www.thehindu.com/news/national/in-pictures-india-air-pollution-deepavali-2026-smog-delhi-mumbai-chennai-hyderabad/article71681680.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-09T16:04:46+05:30"
+            "published": "2026-11-09T16:48:23+05:30"
           },
           {
-            "title": "Man 'detained' in Russia, pressured to join war, alleges family; 2nd such case in Chhattisgarh",
-            "link": "https://www.hindustantimes.com/india-news/man-detained-in-russia-pressured-to-join-war-alleges-family-2nd-such-case-in-chhattisgarh-101794220408167.html",
+            "title": "UDF govt’s move to ease norms for self-financing courses, seat expansion in autonomous colleges sparks row in Keralam",
+            "link": "https://www.thehindu.com/news/national/kerala/udf-govts-move-to-ease-norms-for-self-financing-courses-seat-expansion-in-autonomous-colleges-sparks-row-in-keralam/article71682274.ece",
+            "source": "The Hindu",
+            "summary": "Opposition accuses government of facilitating commercialisation of higher education, while State government defends move as a measure to promote academic autonomy and eliminate bureaucratic delays",
+            "published": "2026-11-09T16:43:20+05:30"
+          },
+          {
+            "title": "BMC bans rockets, aerial firecrackers across Mumbai till Nov 25 after multiple fires",
+            "link": "https://www.hindustantimes.com/india-news/bmc-bans-rockets-aerial-firecrackers-across-mumbai-till-nov-25-after-multiple-fires-101794222662446.html",
             "source": "Hindustan Times",
-            "summary": "",
-            "published": "2026-11-09T16:03:27+05:30"
+            "summary": "The decision comes after major fire incidents occurred due to bursting of firecrackers at different locations",
+            "published": "2026-11-09T16:41:02+05:30"
           },
           {
-            "title": "China Dismisses Claims Of Spy Plot Targeting Nvidia Boss Jensen Huang",
-            "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-china-dismisses-claims-of-spy-plot-targeting-nvidia-boss-jensen-huang-12303240#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Huang has acknowledged to the Nvidia board that he had been intimate with a business executive who U.S. intelligence determined was gathering information for Beijing, according to The New York Times.",
-            "published": "2026-11-09T16:03:08+05:30"
+            "title": "Bodies of 2 remaining family members of Bengaluru cab driver found as search across 2 states ends",
+            "link": "https://www.hindustantimes.com/india-news/bodies-of-2-remaining-family-members-of-bengaluru-cab-driver-found-as-search-across-2-states-ends-101794222603212.html",
+            "source": "Hindustan Times",
+            "summary": "Indushekar, the cab driver, allegedly killed his wife and he relatives and dumped their bodies at separate places",
+            "published": "2026-11-09T16:40:02+05:30"
+          },
+          {
+            "title": "Quarrel over bursting Deepavali crackers ends in youth’s murder in Tiruchi district",
+            "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/quarrel-over-bursting-crackers-ends-up-in-youths-murder-in-tiruchi-district/article71681845.ece",
+            "source": "The Hindu",
+            "summary": "The 20-year-old victim was stabbed on his chest with a tester screwdriver.",
+            "published": "2026-11-09T16:38:39+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Paraguay former president’s mansion raided in ongoing investigation",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "A hidden vault was found in Paraguay&#039;s former president&#039;s mansion amid ongoing banking scandal investigation.",
+            "published": "2026-11-09T11:19:45+00:00"
+          },
           {
             "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
             "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
@@ -227,7 +234,7 @@
             "published": "2026-11-09T10:35:53+00:00"
           },
           {
-            "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
+            "title": "At least four killed as Russia and Ukraine trade strikes overnight",
             "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Russia&#039;s second-largest oil refinery was set on fire by drones, while Russian strikes targeted Ukrainian energy sites.",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Trump concedes some voters were unhappy with his administration&#039;s controversial deportation drive.",
             "published": "2026-11-09T08:35:05+00:00"
-          },
-          {
-            "title": "US top Democrat backs impeachment of Pete Hegseth",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "‘Hegseth has got to go’.",
-            "published": "2026-11-09T08:26:50+00:00"
           }
         ],
         "Business": [
@@ -327,6 +327,13 @@
             "published": "2026-11-09T12:09:56+05:30"
           },
           {
+            "title": "Hut owner wins battle to keep living in off-grid home he built",
+            "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
+            "published": "2026-11-09T06:13:11+00:00"
+          },
+          {
             "title": "How you can get council's £250 cost of living help",
             "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -353,13 +360,6 @@
             "source": "Economic Times",
             "summary": "Honasa Consumer, the firm behind Mamaearth, saw a remarkable boost in its shares after revealing impressive quarterly earnings. The company recorded a nearly 87% increase in consolidated net profit for the September quarter compared to the same period last year. This surge in revenues marked the greatest growth since Honasa’s market debut. Jefferies has also upgraded its target price for the company, citing strong…",
             "published": "2026-11-09T11:09:02+05:30"
-          },
-          {
-            "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-            "source": "Economic Times",
-            "summary": "Citi Research projects that India's benchmark Nifty 50 index could hit 28,000 points by the end of 2027. This forecast is based on strong earnings prospects and falling oil prices. Recent foreign portfolio investor activity has contributed significantly to the positive sentiment in the equity market. Additionally, lower oil prices could improve macroeconomic conditions and reduce inflation rates in India.",
-            "published": "2026-11-09T10:15:45+05:30"
           }
         ],
         "Sports": [
@@ -627,6 +627,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "UP में आंगनबाड़ी में निकली बंपर भर्ती! देखें ऑनलाइन फॉर्म भरने का तरीका? किन डॉक्यूमेंट्स की पड़ेगी जरूरत?",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/up-anganwadi-recruitment-2026-hardoi-662-posts-eligibility-merit-list-and-online-application-process-1681433.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T16:59:16+05:30"
+          },
+          {
+            "title": "'मुझे गलत तरीके से छुआ', औरत बने काजी तौकीर ने ये क्या कह दिया? बिग बॉस 20 में मनीष से भिड़े, क्या हुआ बात?",
+            "link": "https://hindi.oneindia.com/news/entertainment/qazi-touqeer-bigg-boss-20-said-manish-touched-me-inappropriately-disguised-as-woman-what-happened-1681431.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T16:56:36+05:30"
+          },
+          {
+            "title": "IPL 2027: 3 खिलाड़ी मुंबई इंडियंस से होंगे बाहर? रिलीज या ट्रेड के जरिए हो सकती है छुट्टी",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/ipl-2027-3-mumbai-indians-players-who-could-be-released-hardik-pandya-included-1681409.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T16:31:26+05:30"
+          },
+          {
+            "title": "Election Date: UP से पंजाब तक कब होगा 5 राज्यों के विधानसभा चुनाव का ऐलान? वोटिंग पर जानें लेटेस्ट अपडेट",
+            "link": "https://hindi.oneindia.com/news/india/when-will-eci-election-be-announced-in-5-states-from-up-to-punjab-know-latest-update-1681403.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T16:25:17+05:30"
+          },
+          {
             "title": "Diwali Death: हाथ में फटा अनार, 10 साल के बच्चे की मौत, भाई बोला- 'धमाके ने सीना फाड़ा,अस्पताल ने लापरवाही की'",
             "link": "https://hindi.oneindia.com/news/delhi/delhi-diwali-boy-death-10-year-old-boy-dies-after-firecracker-explodes-brother-reveal-story-narela-1681385.html",
             "source": "Oneindia Hindi",
@@ -656,7 +684,7 @@
           },
           {
             "title": "राहुल बोले-पीएम ने हमें नक्सली कहा, मुझसे बहस करें:उसके बाद किसी जवान के सामने खड़े नहीं हो पाएंगे; 8 दिन में छठी बार चुनौती",
-            "link": "https://www.bhaskar.com/national/news/rahul-gandhi-challenges-pm-modi-public-debate-crpf-statement-139637101.html",
+            "link": "https://www.bhaskar.com/g/national/news/rahul-gandhi-challenges-pm-modi-public-debate-crpf-statement-139637101.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-09T10:20:34+00:00"
@@ -681,37 +709,16 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-09T15:25:16+05:30"
-          },
-          {
-            "title": "बॉल टेम्परिंग मामले में फिर से हुआ बवाल, डेविड वॉर्नर ने किया उस्मान ख्वाजा का समर्थन, जांच पर खुलकर उठाए सवाल",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/david-warner-breaks-silence-on-2018-ball-tampering-scandal-backs-usman-khawajas-explosive-claims-1681303.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-09T14:09:40+05:30"
-          },
-          {
-            "title": "'बिग बॉस के बाद जिंदगी बर्बाद हो गई थी, दिन-रात शराब पीती थी', 48 साल की फेमस एक्ट्रेस के साथ क्या हुआ था?",
-            "link": "https://hindi.oneindia.com/news/entertainment/payal-rohatgi-life-ruined-after-bigg-boss-drink-alcohol-day-and-night-what-happened-48-age-actress-1681291.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-09T13:38:04+05:30"
-          },
-          {
-            "title": "भागवत बोले-1930 में RSS पर बैन लगाने की कोशिश हुई:तब इब्राहिम ने इसका विरोध किया था, किसी स्वयंसेवक ने नहीं",
-            "link": "https://www.bhaskar.com/g/national/news/mohan-bhagwat-rss-history-ibrahim-statement-hindu-rashtra-controversy-139636026.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-09T08:04:21+00:00"
-          },
-          {
-            "title": "इसराइल में गादी आइज़नकोट के सामने आठ चुनौतियां",
-            "link": "https://www.bbc.com/hindi/articles/cm74p48e22ndo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "इसराइल के राष्ट्रपति आइज़ैक हर्ज़ोग ने गादी आइज़नकोट को देश में नई सरकार बनाने का औपचारिक निमंत्रण दिया है, जो इसराइल की वर्तमान राजनीतिक स्थिति में एक महत्वपूर्ण मोड़ है। गादी आइज़नकोट के लिए यह चुनौती इसलिए बड़ी है क्योंकि वे राजनीति के क्षेत्र में बिल्कुल नए हैं और उन्हें शासन चलाने का पुराना अनुभव नहीं है। इसराइल में लंबे समय से चल रही राजनीतिक अस्थिरता के बीच, एक नई और स्थिर सरकार का गठन करना किसी बड़ी परीक्षा से कम नहीं है। वर्तमान परिस्थितियों को देखते हुए, उन्हें विभिन्न राजनीतिक दलों के बीच तालमेल बिठाने और सरकार को सुचारू रूप से चलाने में भारी कठिनाइयों का सामना करना पड़ सकता है। आइज़नकोट के सामने कुल आठ मुख्य चुनौतियां हैं जो उनके कार्यकाल की दिशा तय करेंगी। यह घटनाक्रम न केवल उनके करियर के लिए बल्कि इसराइल की आंतरिक सुरक्षा और सामाजिक एकजुटता के लिए भी बेहद महत्वपूर्ण माना जा रहा है। देश की जनता अब यह देख रही है कि बिना किसी राजनीतिक पृष्ठभूमि वाले आइज़नकोट अपनी इन जिम्मेदारियों को किस तरह से निभाते हैं और क्या वे देश को नई दिशा देने में सफल हो पाते हैं।",
-            "published": "2026-11-09T07:59:10+00:00"
           }
         ],
         "Entertainment": [
+          {
+            "title": "'मुझे गलत तरीके से छुआ', औरत बने काजी तौकीर ने ये क्या कह दिया? बिग बॉस 20 में मनीष से भिड़े, क्या हुआ बात?",
+            "link": "https://hindi.oneindia.com/news/entertainment/qazi-touqeer-bigg-boss-20-said-manish-touched-me-inappropriately-disguised-as-woman-what-happened-1681431.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T16:56:36+05:30"
+          },
           {
             "title": "मुंबई एयरपोर्ट पर Adnan Sami का क्यों फूटा गुस्सा? 5 घंटे लेट हुई फ्लाइट, महिला स्टाफ के बर्ताव पर उठाए सवाल",
             "link": "https://hindi.oneindia.com/news/entertainment/adnan-sami-why-singer-angry-at-mumbai-airport-flight-delayed-by-5-hours-rude-behavior-female-staff-1681367.html",
@@ -788,13 +795,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-07T13:52:01+05:30"
-          },
-          {
-            "title": "'मैं टी-सीरीज के एम्प्लॉयमेंट वीजा पर इंडिया आई', Nora Fatehi का कोर्ट में सुकेश चंद्रशेखर केस में बड़ा खुलासा",
-            "link": "https://hindi.oneindia.com/news/entertainment/nora-fatehi-in-court-on-sukesh-chandrashekhar-case-said-came-to-india-on-t-series-employment-visa-1680317.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-07T10:42:28+05:30"
           }
         ]
       }
@@ -803,6 +803,13 @@
       "label": "ગુજરાતી",
       "categories": {
         "Top Stories": [
+          {
+            "title": "રાહુલે કહ્યું- પીએમએ અમને નક્સલી કહ્યા, મારી સાથે ચર્ચા કરે:તે પછી કોઈ જવાનની સામે ઊભા રહી શકશો નહીં; 8 દિવસમાં છઠ્ઠી વખત પડકાર",
+            "link": "https://www.divyabhaskar.co.in/national/news/rahul-gandhi-challenges-pm-modi-open-debate-crpf-jawan-controversy-139637605.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-09T11:19:44+00:00"
+          },
           {
             "title": "વિયેતનામ એરપોર્ટ પર ભારતીયોએ જમાવી મહેફિલ:જમીન પર પલોઠી વાળીને જમવા લાગ્યા, યુઝર્સે કહ્યું- 'આપણે ક્યારે સુધરીશું?'; VIDEO વાઇરલ",
             "link": "https://www.divyabhaskar.co.in/national/news/vietnam-airport-viral-video-indians-eating-floor-harsh-goenka-139637397.html",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "ઉત્તર પ્રદેશના મુઝફ્ફરનગરમાં સોમવારે સવારે એક ખૂબ જ કરુણ અને હૃદયદ્રાવક અકસ્માત સર્જાયો હતો. હરિયાણાના જીંદના રહેવાસી 6 લોકો પોતાની કારમાં હરિદ્વારની મુલાકાતે જઈ રહ્યા હતા ત્યારે આ દુર્ઘટના ઘટી હતી. પ્રાથમિક અહેવાલો મુજબ, કાર ખૂબ જ ઝડપથી, એટલે કે લગભગ 120 કિમીની ગતિએ દોડી રહી હતી. હાઇવે પર અચાનક અનિયંત્રિત બનેલી ઓરા કાર સૌપ્રથમ વીજળીના થાંભલા સાથે અથડાઈ હતી, જેના કારણે થાંભલાના બે ટુકડા થઈ ગયા હતા. ત્યારબાદ કાર ડિવાઇડર તોડીને બીજી લેનમાં ફેંકાઈ ગઈ અને પલટી મારી ગઈ. આ ભયાનક અકસ્માત બાદ કારમાં આગ લાગી ગઈ હતી, જેના પરિણામે અંદર સવાર એક મહિલા સહિત તમામ 6 મુસાફરો જીવતા ભડથું થઈ ગયા હતા. આ ઘટનાએ હાઈવે પર સુરક્ષા અને સ્પીડ લિમિટના નિયમોનું પાલન ન થતું હોવા અંગે ગંભીર સવાલો ઉભા કર્યા છે. પોલીસે ઘટનાસ્થળે પહોંચી તપાસ હાથ ધરી છે, પરંતુ આ અકસ્માતે એક આખા પરિવારને કાયમ માટે ખતમ કરી નાખ્યો છે, જે સમગ્ર પંથકમાં ચર્ચાનો વિષય બન્યો છે.",
             "published": "2026-11-09T04:02:35+00:00"
-          },
-          {
-            "title": "દિલ્હી-NCRમાં ફટાકડાંથી હવા ખતરનાક સ્તરે, AQI 418:પ્રયાગરાજમાં AQI 500ને પાર; ઉત્તર પ્રદેશમાં ઠંડી વધી, રાજસ્થાનમાં ગરમીએ રેકોર્ડ તોડ્યો",
-            "link": "https://www.divyabhaskar.co.in/national/news/prayagraj-delhi-ncr-air-pollution-aqi-weather-update-139634235.html",
-            "source": "Divya Bhaskar",
-            "summary": "દિવાળીના તહેવાર બાદ દિલ્હી અને તેની આસપાસના વિસ્તારોમાં હવાની ગુણવત્તા અત્યંત ખતરનાક સ્તરે પહોંચી ગઈ છે. કેન્દ્રીય પ્રદૂષણ નિયંત્રણ બોર્ડ (CPCB) ના તાજા આંકડાઓ મુજબ, દિલ્હી-NCRમાં સરેરાશ AQI 418 નોંધાયો છે, જે 'ગંભીર' શ્રેણીમાં આવે છે. દિવાળીની રાત્રે મોટા પાયે ફોડવામાં આવેલા ફટાકડાને કારણે હવામાં પ્રદૂષણનું પ્રમાણ આસમાને પહોંચ્યું છે, જેના કારણે સોમવારે સવારે અનેક વિસ્તારોમાં વિઝિબિલિટી પણ ખૂબ ઓછી જોવા મળી હતી. પટપડગંજ, ITO અને રાજીવ ચોક જેવા વિસ્તારોમાં AQI નું સ્તર લોકોના સ્વાસ્થ્ય માટે ચિંતાજનક બની ગયું છે. એટલું જ નહીં, પ્રયાગરાજમાં AQI 500 ને પાર કરી ગયો છે, જે શ્વાસ લેવા માટે પણ અત્યંત જોખમી માનવામાં આવે છે. એક તરફ ઉત્તર ભારતમાં ઠંડીની શરૂઆત થઈ રહી છે, તો બીજી તરફ રાજસ્થાનમાં ગરમીએ રેકોર્ડ તોડ્યા છે, જે બદલાતા હવામાન અને પ્રદૂષણની આ ગંભીર સમસ્યા વચ્ચે માનવ જીવનને વધુ કષ્ટદાયક બનાવી રહ્યા છે. બાળકો અને વૃદ્ધો માટે આ ઝેરી હવા જીવલેણ સાબિત થઈ શકે છે.",
-            "published": "2026-11-09T03:59:16+00:00"
           }
         ]
       }
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Cancer: క్యాన్సర్ రోగులకు బిగ్ రిలీఫ్- 1364 మందుల రేట్ల తగ్గింపు-3540 కోట్ల ఆదా..!",
+            "link": "https://telugu.oneindia.com/news/india/big-relief-for-cancer-patients-as-prices-of-1-364-anti-cancer-drug-formulations-are-revised-514177.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-09T16:53:30+05:30"
+          },
+          {
             "title": "కేసీఆర్ బిగ్ స్కెచ్ - హరీష్, కేటీఆర్ కు కొత్త బాధ్యతలు..!!",
             "link": "https://telugu.oneindia.com/news/telangana/brs-plans-major-overhaul-in-political-strategy-set-to-revamp-its-approach-here-the-details-514171.html",
             "source": "Oneindia Telugu",
@@ -1147,16 +1154,16 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-09T13:59:04+05:30"
-          },
-          {
-            "title": "భాగ్యలక్ష్మి ఆలయంలో నాణేల పంపిణీ..పోటెత్తిన భక్తులు; ఈ పంపిణీ వెనుక!",
-            "link": "https://telugu.oneindia.com/news/telangana/diwali-coin-distribution-huge-rush-of-devotees-at-charminar-bhagyalakshmi-temple-for-diwali-coin-d-514143.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-09T13:55:06+05:30"
           }
         ],
         "Entertainment": [
+          {
+            "title": "ఓటీటీలోకి లేటెస్ట్ తెలుగు బ్లాక్ బస్టర్ మూవీ.. ఎందులో చూడాలంటే..?",
+            "link": "https://telugu.oneindia.com/entertainment/ranabaali-vijay-deverakonda-and-rashmika-latest-blockbuster-streaming-on-netflix-from-november-13-514175.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-09T16:52:40+05:30"
+          },
           {
             "title": "గంటకు లక్షన్నర టికెట్లు ఖతం.. ఉద్యమంలా తరలివస్తున్న ప్రేక్షకులు..!",
             "link": "https://telugu.oneindia.com/entertainment/ramayana-movie-on-the-bookmyshow-app-rare-record-created-one-that-no-one-else-will-be-able-to-touch-514165.html",
@@ -1233,13 +1240,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-08T15:42:44+05:30"
-          },
-          {
-            "title": "యావరేజ్ టాక్ తో 100 డేస్ కంప్లీట్.. తొలి సినిమాతోనే ఘట్టమనేని హీరో సంచలనం..",
-            "link": "https://telugu.oneindia.com/entertainment/srinivasamangapuram-starring-ghattamaneni-jayakrishna-now-completed-a-100-day-run-at-the-box-office-514037.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-08T15:07:11+05:30"
           }
         ]
       }
@@ -1248,6 +1248,20 @@
       "label": "ಕನ್ನಡ",
       "categories": {
         "Top Stories": [
+          {
+            "title": "ದೇವರಿಗೆ ಹೂವುಗಳನ್ನ ಭಕ್ತಿಯಿಂದ ಅರ್ಪಿಸಬೇಕು, ಎಸೆಯಬಾರದು: ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಕಾಳಿ ಪೂಜೆ ವಿಡಿಯೋ ವೈರಲ್, ಬಿಜೆಪಿ ವಾಗ್ದಾಳಿ",
+            "link": "https://kannada.oneindia.com/news/india/flowers-are-offered-not-thrown-bjp-strongly-criticizedmamata-banerjee-over-viral-kali-puja-video-473961.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-09T16:49:59+05:30"
+          },
+          {
+            "title": "E20 ಪೆಟ್ರೋಲ್ ವಿಚಾರ: ಮಹತ್ವದ ಮಾಹಿತಿ ರಿವೀಲ್ ಮಾಡಿದ ಸಚಿವ ರಿಜ್ವಾನ್ ಅರ್ಷದ್, ಕೇಂದ್ರ ಸರ್ಕಾರಕ್ಕೆ ಹೇಳಿದ್ದೇನು",
+            "link": "https://kannada.oneindia.com/news/karnataka/e20-petrol-rizwan-arshad-seeks-independent-testing-raises-questions-over-fuel-quality-at-centre-l-473959.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-09T16:32:03+05:30"
+          },
           {
             "title": "ಲಕ್ಕುಂಡಿಯಲ್ಲಿ ಚಿನ್ನದ ನಿಧಿ ಪತ್ತೆ ಬೆನ್ನಲ್ಲೇ ಮತ್ತೊಂದು ಅಚ್ಚರಿ; ಈ ಪ್ರದೇಶದಲ್ಲಿ 6,500 ವರ್ಷಗಳ ಹಿಂದಿನ ಬಂಗಾರದ ಭಂಡಾರ ಪತ್ತ",
             "link": "https://kannada.oneindia.com/news/international/lakkundi-gold-discovery-another-surprise-as-6-500-year-old-gold-treasure-unearthed-bulgaria-473957.html",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಮಲ್ಲಿಕಾ ಅಯ್ಯರ್ ಅವರ ಕಥೆ ಅಸಾಧಾರಣ ಛಲ ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸದ ಸಂಕೇತವಾಗಿದೆ. ತಮ್ಮ 13ನೇ ವಯಸ್ಸಿನಲ್ಲಿ ಸಂಭವಿಸಿದ ದುರದೃಷ್ಟಕರ ಗ್ರೆನೇಡ್ ಸ್ಫೋಟದಲ್ಲಿ ಮಲ್ಲಿಕಾ ಅವರು ತಮ್ಮ ಎರಡೂ ಕೈಗಳನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರು. ಆದರೆ ದೈಹಿಕ ಅಂಗವೈಕಲ್ಯವು ಅವರ ಕಲಿಕೆಯ ಹಾದಿಗೆ ಎಂದಿಗೂ ಅಡ್ಡಿಯಾಗಲಿಲ್ಲ. ಮಲ್ಲಿಕಾ ಅವರು ತೋಳಿನ ಮೂಳೆಯ ಸಹಾಯದಿಂದಲೇ ಪಿಎಚ್‌ಡಿ ಪ್ರಬಂಧವನ್ನು ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ಜಗತ್ತಿಗೆ ಮಾದರಿಯಾಗಿದ್ದಾರೆ. ಕಠಿಣ ಪರಿಶ್ರಮ ಮತ್ತು ಎದೆಗುಂದದ ಮನೋಭಾವದ ಫಲವಾಗಿ ಅವರು ನಾರಿ ಶಕ್ತಿ ಪುರಸ್ಕಾರಕ್ಕೂ ಭಾಜನರಾಗಿದ್ದಾರೆ. ಇವರ ಸಾಧನೆಯು ಕೇವಲ ಶೈಕ್ಷಣಿಕ ವಲಯದಲ್ಲಿ ಮಾತ್ರವಲ್ಲದೆ, ಕಷ್ಟಗಳನ್ನು ಎದುರಿಸುತ್ತಿರುವ ಅಸಂಖ್ಯಾತ ಜನರಿಗೆ ದೊಡ್ಡ ಸ್ಫೂರ್ತಿಯಾಗಿದೆ. ಅಸಾಧ್ಯವೆಂದು ಭಾವಿಸುವ ಕೆಲಸಗಳನ್ನು ಸಹ ಸತತ ಪ್ರಯತ್ನದ ಮೂಲಕ ಸಾಧಿಸಬಹುದು ಎಂಬುದನ್ನು ಅವರು ತೋರಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ. ಇವರ ಜೀವನ ಪಯಣವು ಸಂಕಷ್ಟಗಳೇ ಜೀವನದ ಅಂತಿಮವಲ್ಲ, ಬದಲಿಗೆ ಅವುಗಳನ್ನು ದಾಟಿ ಮುನ್ನಡೆಯುವುದೇ ನಿಜವಾದ ಯಶಸ್ಸು ಎನ್ನುವ ಪಾಠವನ್ನು ಕಲಿಸುತ್ತದೆ. ಇಂದು ಅವರು ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮಾತ್ರವಲ್ಲದೆ, ಜೀವನೋತ್ಸಾಹದ ಸಂಕೇತವಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ. ಮಲ್ಲಿಕಾ ಅವರ ಈ ಸಾಧನೆ ಪ್ರತಿಯೊಬ್ಬ ಭಾರತೀಯರಿಗೂ ಹೆಮ್ಮೆಯ ವಿಷಯವಾಗಿದ್ದು, ಅಂಗವೈಕಲ್ಯವನ್ನು ಮೀರಿ ನಿಂತ ಅವರ ಬದ್ಧತೆ ಅಭಿನಂದನೀಯವಾಗಿದೆ.",
             "published": "2026-11-09T12:40:39+05:30"
-          },
-          {
-            "title": "Loan Guarantor: ಸ್ನೇಹಿತರು, ಸಂಬಂಧಿಕರ ಸಾಲಕ್ಕೆ ಗ್ಯಾರಂಟಿ ಸಹಿ ಹಾಕುತ್ತಿದ್ದೀರಾ? ಹುಷಾರಾಗಿರಿ!",
-            "link": "https://kannada.oneindia.com/news/business/loan-guarantor-for-friend-or-relative-what-5-financial-risks-you-should-know-before-signing-473913.html",
-            "source": "Oneindia Kannada",
-            "summary": "ಸಾಲದ ವಿಷಯದಲ್ಲಿ ಆರ್ಥಿಕವಾಗಿ ಜಾಗರೂಕರಾಗಿರುವುದು ಇಂದಿನ ದಿನಗಳಲ್ಲಿ ಬಹಳ ಮುಖ್ಯ. ಸ್ನೇಹಿತರು ಅಥವಾ ಸಂಬಂಧಿಕರ ಸಾಲಕ್ಕೆ ಗ್ಯಾರಂಟಿ ಸಹಿ ಹಾಕುವ ಮೊದಲು ನೀವು ಐದು ಪ್ರಮುಖ ಆರ್ಥಿಕ ಅಪಾಯಗಳನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲೇಬೇಕು. ಗ್ಯಾರಂಟರ್ ಆಗಿ ನೀವು ಸಹಿ ಹಾಕಿದಾಗ, ಸಾಲಗಾರನು ಮರುಪಾವತಿಸಲು ವಿಫಲವಾದರೆ ಆ ಸಂಪೂರ್ಣ ಸಾಲದ ಹೊಣೆಗಾರಿಕೆ ನಿಮ್ಮ ಮೇಲೇ ಬೀಳುತ್ತದೆ. ಇದರಿಂದ ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಸ್ಕೋರ್ ಮೇಲೆ ನೇರ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ, ಇದು ಭವಿಷ್ಯದಲ್ಲಿ ನೀವು ಸ್ವಂತವಾಗಿ ಯಾವುದೇ ಸಾಲ ಪಡೆಯಲು ಹೋದಾಗ ಅಡೆತಡೆಗಳನ್ನು ಉಂಟುಮಾಡಬಹುದು. ಬ್ಯಾಂಕ್‌ಗಳು ಸಾಲ ವಸೂಲಾತಿಗಾಗಿ ನೇರವಾಗಿ ನಿಮ್ಮ ಆಸ್ತಿಪಾಸ್ತಿಗಳನ್ನು ಮುಟ್ಟುಗೋಲು ಹಾಕಿಕೊಳ್ಳುವ ಅಥವಾ ನೋಟಿಸ್ ಕಳುಹಿಸುವ ಅಧಿಕಾರವನ್ನು ಹೊಂದಿರುತ್ತವೆ. ಯಾವುದೇ ಭಾವನಾತ್ಮಕ ಒತ್ತಡಕ್ಕೆ ಬಲಿಯಾಗಿ ಆತುರದಲ್ಲಿ ಸಹಿ ಹಾಕುವ ಮುನ್ನ, ಸಾಲಗಾರನ ಆರ್ಥಿಕ ಸ್ಥಿತಿಗತಿ ಮತ್ತು ಮರುಪಾವತಿಯ ಸಾಮರ್ಥ್ಯವನ್ನು ಕೂಲಂಕಷವಾಗಿ ಪರಿಶೀಲಿಸುವುದು ಅತ್ಯಗತ್ಯ. ನಿಮ್ಮ ಹಣಕಾಸಿನ ಭದ್ರತೆಯ ದೃಷ್ಟಿಯಿಂದ, ಸಾಲದ ಗ್ಯಾರಂಟಿ ನೀಡುವ ನಿರ್ಧಾರವನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಬೇಕು. ಅಲ್ಪಾವಧಿಯ ಸಹಾಯವು ದೀರ್ಘಾವಧಿಯಲ್ಲಿ ನಿಮ್ಮ ಹಣಕಾಸಿನ ಭವಿಷ್ಯವನ್ನು ಅಪಾಯಕ್ಕೆ ತಳ್ಳಬಹುದು ಎಂಬುದನ್ನು ಮರೆಯಬಾರದು.",
-            "published": "2026-11-09T12:32:20+05:30"
-          },
-          {
-            "title": "IMD Weather Alert: ಒಂದೆಡೆ ಭಾರಿ ಮಳೆ, ಮತ್ತೊಂದೆಡೆ ಹಿಮಪಾತ; ಈ ರಾಜ್ಯಗಳಿಗೆ IMDಯಿಂದ ಬಿಗ್ ಅಲರ್ಟ್!",
-            "link": "https://kannada.oneindia.com/news/india/imd-weather-alert-heavy-rain-in-south-india-snowfall-forecast-in-kashmir-several-states-on-aler-473931.html",
-            "source": "Oneindia Kannada",
-            "summary": "ನವೆಂಬರ್ 8 ರಿಂದ 14 ರವರೆಗೆ ದೇಶದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಹವಾಮಾನದ ತೀವ್ರ ಬದಲಾವಣೆಗಳು ಸಂಭವಿಸಲಿದ್ದು, ಭಾರತೀಯ ಹವಾಮಾನ ಇಲಾಖೆ (IMD) ಈ ಸಂಬಂಧ ಎಚ್ಚರಿಕೆಯನ್ನು ನೀಡಿದೆ. ದಕ್ಷಿಣ ಭಾರತದ ತಮಿಳುನಾಡು ಮತ್ತು ಕೇರಳ ಸೇರಿದಂತೆ ವಿವಿಧ ರಾಜ್ಯಗಳಲ್ಲಿ ಮುಂದಿನ ಕೆಲ ದಿನಗಳ ಕಾಲ ಭಾರಿ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ ಎಂದು ಮುನ್ಸೂಚನೆ ನೀಡಲಾಗಿದೆ. ಇದರೊಂದಿಗೆ ಗುಡುಗು, ಸಿಡಿಲು ಮತ್ತು ವೇಗವಾಗಿ ಬೀಸುವ ಗಾಳಿಯ ಬಗ್ಗೆಯೂ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗಿದೆ. ಮತ್ತೊಂದೆಡೆ, ಕಾಶ್ಮೀರದಂತಹ ಉತ್ತರದ ಭಾಗಗಳಲ್ಲಿ ಹಿಮಪಾತದ ಮುನ್ಸೂಚನೆಯನ್ನು ಇಲಾಖೆ ನೀಡಿದ್ದು, ಹವಾಮಾನದ ಈ ವೈಪರೀತ್ಯವು ಜನಜೀವನದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಲಿದೆ. ಜನರು ಪ್ರಯಾಣ ಮಾಡುವಾಗ ಮತ್ತು ದೈನಂದಿನ ಕೆಲಸಗಳನ್ನು ಮಾಡುವಾಗ ಹವಾಮಾನ ವರದಿಗಳನ್ನು ಗಮನಿಸುತ್ತಿರಬೇಕು ಎಂದು ತಿಳಿಸಲಾಗಿದೆ. ಚಂಡಮಾರುತ ಅಥವಾ ಭಾರಿ ಮಳೆಯ ಸಮಯದಲ್ಲಿ ತಗ್ಗು ಪ್ರದೇಶಗಳಲ್ಲಿರುವ ಜನರು ಹೆಚ್ಚಿನ ಎಚ್ಚರ ವಹಿಸಬೇಕು. ಈ ಹವಾಮಾನ ಬದಲಾವಣೆಗಳು ಒಟ್ಟಾರೆ ದೇಶದ ಕೃಷಿ ಮತ್ತು ಸಾರಿಗೆ ವ್ಯವಸ್ಥೆಯ ಮೇಲೆ ಗಮನಾರ್ಹ ಪರಿಣಾಮ ಬೀರಬಹುದು. ಇಲಾಖೆಯು ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ನಿರಂತರವಾಗಿ ನೀಡುತ್ತಿದ್ದು, ನಾಗರಿಕರು ಸ್ಥಳೀಯ ಆಡಳಿತದ ಸೂಚನೆಗಳನ್ನು ಪಾಲಿಸುವುದು ಸೂಕ್ತವಾಗಿದೆ.",
-            "published": "2026-11-09T11:33:13+05:30"
           }
         ],
         "Entertainment": [
@@ -1433,6 +1433,13 @@
             "published": "2026-11-09T10:37:02+00:00"
           },
           {
+            "title": "হলিউডের শহরের ভারতীয় মেয়র, ঐতিহাসিক জয়ের পর প্রতিশ্রুতি রাখার চ্যালেঞ্জ নিত্যার - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYjJMM0s0VW1BTDF1Rjg1S2N4QUg2ZnJMNzgyYXk5eG9WM1FHV2NNVm53OGpDekw1b2Zpc3p0cjBJLWlFa2hmYldwRTk2d2cyX0VNSVpmc05URjRWWEcySEthbnBINXVZRmpRWGdIOHJCVEhOZXZNVDZTQVhpdy1qSFY1NG5XSy1TejQzMHRjM1V0SUtxR2lvdS0ybVprYk5scHpkOFh1ODkydVM3NmlSUUNsREoyY0ZnUk82TVlQMzVtTklNNW82TlFR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T10:32:00+00:00"
+          },
+          {
             "title": "হোয়াট্‌সঅ্যাপে নির্বাচনের প্রচার! বাঙালি তিরন্দাজ দোলার বিরুদ্ধে অভিযোগ অলিম্পিক্স সংস্থার প্রধান পিটি ঊষার - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTGJNcmw5elVHTzhZQUFpLWowNXBzQjJEZ1lsWmtlcE1WQnRfVzNvdno5aHY3ajI1SXJUTm9NY0dyYUkxMnhCd2VOcVBib25YMmE2VDJmUHJzZWFMakZTemFXSWF0TGZHcTRDcHVOUWtlWV9Ka2s3NnZyNGJ4MVBsTmZ2R3ZKRmFxWUVQUmNHVjRwM0dnYXR4eVZZUWtQcVhkaW5rY0ZVVHhSZ1lmTDFha3hmM1hidEpoY1htcXBGMnhqdm9HSTlCamljbkhVcFUtRVRUYVpaNFBJRUFtNHdaMkMtMG9leDQx0gHoAUFVX3lxTE5MYk1ybDl6VUdPOFlBQWktajA1cHNCMkRnWWxaa2VwTVZCdF9XM292ejlodjdqMjVJclROb01jR3JhSTEyeEJ3ZU5xUGJvblgyYTZUMmZQcnNlYUxqRlN6YVdJYXRMZkdxNENwdU5Ra2VZX0prazc2dnI0YngxUGxOZnZHdkpGYXFZRVBSY0dWNHAzR2dhdHh5VllRa1BxWGRpbmtjRlVUeFJnWWZMMWFreGYzWGJ0SmhjWG1xcEYyeGp2b0dJOUJqaWNuSFVwVS1FVFRhWlo0UElFQW00d1oyQy0wb2V4NDE?oc=5",
             "source": "Anandabazar Patrika",
@@ -1452,13 +1459,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T08:46:12+00:00"
-          },
-          {
-            "title": "নির্যাতন করছে পুলিশ, টাকা উদ্ধারের ঘটনাও সাজানো! হাই কোর্টের দ্বারস্থ সুমিত রায়ের স্ত্রী, সিবিআই তদন্তের আবেদন - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdlVMNTlSaXZ4Z3lkVGJsUE9MMGd6ZmtMYnNYTjNyOUJ3ZnA1RzBLQ1NKekp2OEtVbkFmZnppWmlKZmRPZ3VVYmJhRlIyUl9PaTVtQ29GOWg1ekFHcGFLWHdqOENPWTRLZjNLaU9sd2FwRGZKRDlKeHE1Qy02VWZ6UTc4VldoTmxib3YzbnZvcnlIQ3lnRWFhamltMjFxWDFFV1lvNUxkaHdIUTdRZnRxNnpDUkZXcXhmT3AzTmxlTEhtTVRCYUV2M0JaWFU1Rm5NWGpCN2Z4MVdNd2ZweFVN0gHfAUFVX3lxTE12VUw1OVJpdnhneWRUYmxQT0wwZ3pma0xic1hOM3I5QndmcDVHMEtDU0p6SnY4S1VuQWZmemlaaUpmZE9ndVViYmFGUjJSX09pNW1Db0Y5aDV6QUdwYUtYd2o4Q09ZNEtmM0tpT2x3YXBEZkpEOUp4cTVDLTZVZnpRNzhWV2hObGJvdjNudm9yeUhDeWdFYWFqaW0yMXFYMUVXWW81TGRod0hRN1FmdHE2ekNSRldxeGZPcDNObGVMSG1NVEJhRXYzQlpYVTVGbk1YakI3ZngxV013ZnB4VU0?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-09T08:43:39+00:00"
           },
           {
             "title": "সরশুনায় কালীপুজোর রাতে বচসার সময় শূন্যে গুলি ছুড়ল যুবক! কাদের পুজো বেশি ভাল, সেই নিয়ে তর্ক - Anandabazar Patrika",
@@ -1496,18 +1496,18 @@
             "published": "2026-11-09T07:00:05+00:00"
           },
           {
+            "title": "বিগ বসের ঘরে বিবাদ ছিল মেয়েদের, এ বার মুখোমুখি দুই মা! নাম না করে নন্দিনীকে কটাক্ষ সোহিনীর মায়ের? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdUtnWGdzQ2lKaENxWWpJMDlCRzZvaFpTd1VOY3c2amtVeWdBT3NBLTdMeXVpZ1R2YmRUcFhvX3VoYUxSQ0NMcmx2UGxCT3I4YjBHQWQ1bXM2ZDlpNVFsUnVhZ3FKV08tVnFyVVlRMWw4bXAwUkV4d2dQY2h6LXkwV3R0SHNKT0JlQnQ5ZGdGbll0R0pqVnBPQ3c3ZHUzWmZUOHlZRm41NjdUWFVBYUVlVU9fMGEzdmFwbHd2UlZKSDVpRFBiQndZWnA2SHlaeEs0eTdTdzJPdWhrb3A5ajdYamwwVF8tLUdLaGVHQ0FHSHZKc0Uy0gH6AUFVX3lxTE8wcnJMdExtX2ZJZ0lPckU0QU9FOHN6UmdTTFVvQjFseU44Q1Y4S28yRU05TmZhOS1HTVBIVDJyTkp4ZHFwbFJQRU5nM1R4U3ZlbmRheU15b1Vmd3c0aVZZUzRTRkZwVWhMMUhUcmpXSTg1ZndtQl9BQ2RnQ0xGZlRRQm9YYjN1YVlBS3JDZmVXVDBRMFlXZWpOb3JKS0NkTW9JYlBqR205Y2V1VkN2V25XVlNxZEdmTWR5S2RBZVhFOGpPa1hmSDBING1QWFVGdDhzSmdNOS1lX1VtamNkR2lTWUs2dmdPM1FpTjgzS0xJaExoMjlLR19rcWc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T06:20:11+00:00"
+          },
+          {
             "title": "দুই বোনের সম্পর্কে অবশেষে বরফ গলল? নিন্দকদের বুড়োআঙুল! কালীপুজোয় এক ফ্রেমে শুভশ্রী-দেবশ্রী, নিমেষে ছড়িয়ে পড়ল ছবি - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQ3NwQU1BWWQ0OHoyOUljNk5PMGR0X3NrWHZhMHh0S2h4NFhQcGE1alVvUThHQXZHNHFhSW1nZk9JbkRLMHhRTG5XYVlSRFkxTlZmNU02WVVpQ1NKd25kRFVRakpGWU8wS1NmOWwtTFhLcDhkakVfa2txNm1KX0lQSFhRNVVQd2ZZX1FFaklvUmpfOGtjcEVwQ09GazlsaG1uWE96M2NYVWZBU1VHWnlZRTZscmY3NVdlU0tMRE5LNGZnZDFLWi1iSWNEOE9UazNZV1BoYWtNc3lQZFFTaV9fS3hDYTBkT3NWYXhZRmZRckljUC15aW82YndheFhRLUw1S3ZVejdYMUpJa0RzNy14YzlWMlZWMHVIZllQNlJWdmJqSHltendHX3BLVklPWjRSWEZoQnBncm1paEVyb2ZZR2ttcndWZ9IBxgJBVV95cUxOQ3NwQU1BWWQ0OHoyOUljNk5PMGR0X3NrWHZhMHh0S2h4NFhQcGE1alVvUThHQXZHNHFhSW1nZk9JbkRLMHhRTG5XYVlSRFkxTlZmNU02WVVpQ1NKd25kRFVRakpGWU8wS1NmOWwtTFhLcDhkakVfa2txNm1KX0lQSFhRNVVQd2ZZX1FFaklvUmpfOGtjcEVwQ09GazlsaG1uWE96M2NYVWZBU1VHWnlZRTZscmY3NVdlU0tMRE5LNGZnZDFLWi1iSWNEOE9UazNZV1BoYWtNc3lQZFFTaV9fS3hDYTBkT3NWYXhZRmZRckljUC15aW82YndheFhRLUw1S3ZVejdYMUpJa0RzNy14YzlWMlZWMHVIZllQNlJWdmJqSHltendHX3BLVklPWjRSWEZoQnBncm1paEVyb2ZZR2ttcndWZw?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T06:07:27+00:00"
-          },
-          {
-            "title": "দেশে ফিরতে দিল্লিতে পাসপোর্ট ও এনআইডির জন্য শেখ হাসিনার আবেদন",
-            "link": "https://www.bbc.com/bengali/articles/c6ly0y32l51eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "ভারতের রাজধানী দিল্লিতে অবস্থানরত বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফেরার প্রক্রিয়া শুরু করেছেন। খবর অনুযায়ী, তিনি বর্তমানে নতুন পাসপোর্ট এবং জাতীয় পরিচয়পত্র বা এনআইডির জন্য দিল্লিতে অবস্থিত বাংলাদেশ হাই কমিশনে আবেদন করেছেন। এই খবরটি নিশ্চিত করেছেন আওয়ামী লীগের একাধিক জ্যেষ্ঠ নেতা। দীর্ঘদিন ক্ষমতার বাইরে থাকা এবং পরিবর্তিত রাজনৈতিক পরিস্থিতিতে দেশে ফেরার জন্য বৈধ নথিপত্র অত্যন্ত জরুরি হয়ে পড়েছে। পাসপোর্টের মেয়াদ শেষ হয়ে যাওয়া বা নতুন করে আবেদনের প্রয়োজনীয়তা থেকেই তিনি এই উদ্যোগ নিয়েছেন বলে ধারণা করা হচ্ছে। দেশে ফেরা বা আইনি প্রক্রিয়ার সাথে যুক্ত হওয়ার জন্য এনআইডি এবং পাসপোর্ট থাকা যেকোনো নাগরিকের মৌলিক অধিকার। তবে শেখ হাসিনার বর্তমান আইনি জটিলতা এবং বাংলাদেশের অভ্যন্তরীণ রাজনৈতিক পরিস্থিতির কারণে তার এই আবেদনের বিষয়টি অত্যন্ত গুরুত্বপূর্ণ ও সংবেদনশীল হিসেবে বিবেচিত হচ্ছে। এটি কোনো স্বাভাবিক কূটনৈতিক প্রক্রিয়া নাকি এর পেছনে কোনো বৃহত্তর রাজনৈতিক পরিকল্পনা রয়েছে, তা নিয়ে বিভিন্ন মহলে জল্পনা চলছে। বাংলাদেশ সরকারের পক্ষ থেকে এই আবেদনের প্রেক্ষিতে কোনো আনুষ্ঠানিক প্রতিক্রিয়া এখনো পাওয়া যায়নি। তবে ভারত ও বাংলাদেশের মধ্যকার কূটনৈতিক সম্পর্কের প্রেক্ষাপটে শেখ হাসিনার এই নথিপত্র সংগ্রহের প্রচেষ্টা রাজনৈতিক পর্যবেক্ষকদের নজর কেড়েছে।",
-            "published": "2026-11-09T06:02:59+00:00"
           }
         ]
       }
