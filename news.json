@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-09T19:31:06.598487+00:00",
+  "updated_at": "2026-11-09T20:01:22.286319+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Policeman beaten to death in Theni over Deepavali celebration dispute",
-            "link": "https://www.thehindu.com/news/cities/Madurai/special-sub-inspector-of-police-beaten-to-death-in-theni/article71681282.ece",
-            "source": "The Hindu",
-            "summary": "Special Police Sub-Inspector Senthilkumar was killed while questioning a gang who were filming reels about bursting firecrackers on the road on November 8 night.",
-            "published": "2026-11-10T00:58:02+05:30"
+            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+            "published": "2026-11-09T19:58:01+00:00"
+          },
+          {
+            "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+            "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+            "published": "2026-11-09T19:39:33+00:00"
+          },
+          {
+            "title": "'Unusual, disturbing': Lawyers' boycott makes man stay in jail despite bail",
+            "link": "https://timesofindia.indiatimes.com/india/lawyers-boycott-makes-man-stay-in-jail-despite-bail/articleshow/135692313.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-10T01:04:14+05:30"
           },
           {
             "title": "Building over Srinagar’s future",
@@ -32,6 +46,13 @@
             "source": "The Hindu",
             "summary": "The award, instituted in memory of Kamarudeen, a noted environmentalist and former Reader in the Department of Botany at the University of Kerala, carries a cash prize of ₹25,000, a citation, and a plaque.",
             "published": "2026-11-10T00:43:39+05:30"
+          },
+          {
+            "title": "Citi downgrades US stocks to 'neutral' as AI sell-off, regulatory risks mount",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/citi-downgrades-us-stocks-to-neutral-as-ai-sell-off-regulatory-risks-mount/articleshow/135691943.cms",
+            "source": "Economic Times",
+            "summary": "Citigroup strategists have downgraded US equities to neutral due to ongoing market volatility and regulatory concerns. This decision follows a significant sell-off that erased $3 trillion from the market value of S&P 500 companies. The strategists expressed worries about the potential for key indices like Nasdaq to shift into net-short territory. They also adjusted global and European technology sector ratings to…",
+            "published": "2026-11-10T00:42:29+05:30"
           },
           {
             "title": "US agencies unite to combat rogue drone threats nationwide",
@@ -81,36 +102,15 @@
             "source": "BBC Business",
             "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
             "published": "2026-11-09T19:00:43+00:00"
-          },
-          {
-            "title": "Two security breaches near White House prompt brief lockdown",
-            "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
-            "published": "2026-11-09T18:57:01+00:00"
-          },
-          {
-            "title": "Laurie Evans: 'My world was turned upside-down' during four-year fight against doping ban",
-            "link": "https://www.cricinfo.com/ci/content/story/1562056.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Batter experienced 'suicidal thoughts' after testing positive for ostarine during routine test in 2022",
-            "published": "2026-11-09T18:56:11+00:00"
-          },
-          {
-            "title": "Boeing To Cut 5% Of Commercial Plane Staff On Slower Ramp-Up Plans",
-            "link": "https://www.ndtv.com/world-news/boeing-to-cut-5-of-commercial-plane-staff-on-slower-ramp-up-plans-12305284#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The company will eliminate the posts through a mix of layoffs and attrition because of a slower ramp-up to \"provide our factories and supply chain partners additional time to achieve stability.\"",
-            "published": "2026-11-10T00:23:35+05:30"
           }
         ],
         "India": [
           {
-            "title": "Policeman beaten to death in Theni over Deepavali celebration dispute",
-            "link": "https://www.thehindu.com/news/cities/Madurai/special-sub-inspector-of-police-beaten-to-death-in-theni/article71681282.ece",
-            "source": "The Hindu",
-            "summary": "Special Police Sub-Inspector Senthilkumar was killed while questioning a gang who were filming reels about bursting firecrackers on the road on November 8 night.",
-            "published": "2026-11-10T00:58:02+05:30"
+            "title": "'Unusual, disturbing': Lawyers' boycott makes man stay in jail despite bail",
+            "link": "https://timesofindia.indiatimes.com/india/lawyers-boycott-makes-man-stay-in-jail-despite-bail/articleshow/135692313.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-10T01:04:14+05:30"
           },
           {
             "title": "Building over Srinagar’s future",
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+            "published": "2026-11-09T19:58:01+00:00"
+          },
+          {
+            "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+            "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+            "published": "2026-11-09T19:39:33+00:00"
+          },
+          {
             "title": "US agencies unite to combat rogue drone threats nationwide",
             "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
             "source": "Al Jazeera",
@@ -248,25 +262,11 @@
             "published": "2026-11-09T18:21:38+00:00"
           },
           {
-            "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-            "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-            "published": "2026-11-09T18:19:19+00:00"
-          },
-          {
             "title": "Krakow shooting suspect dies as Poland mourns six victims",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.",
             "published": "2026-11-09T18:12:46+00:00"
-          },
-          {
-            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "published": "2026-11-09T18:11:11+00:00"
           },
           {
             "title": "Meta rolls out automated age checks for teens globally",
@@ -277,6 +277,20 @@
           }
         ],
         "Business": [
+          {
+            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+            "published": "2026-11-09T19:58:01+00:00"
+          },
+          {
+            "title": "Citi downgrades US stocks to 'neutral' as AI sell-off, regulatory risks mount",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/citi-downgrades-us-stocks-to-neutral-as-ai-sell-off-regulatory-risks-mount/articleshow/135691943.cms",
+            "source": "Economic Times",
+            "summary": "Citigroup strategists have downgraded US equities to neutral due to ongoing market volatility and regulatory concerns. This decision follows a significant sell-off that erased $3 trillion from the market value of S&P 500 companies. The strategists expressed worries about the potential for key indices like Nasdaq to shift into net-short territory. They also adjusted global and European technology sector ratings to…",
+            "published": "2026-11-10T00:42:29+05:30"
+          },
           {
             "title": "The facial recognition technology stopping shoplifters",
             "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
@@ -290,13 +304,6 @@
             "source": "BBC Business",
             "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
             "published": "2026-11-09T18:40:31+00:00"
-          },
-          {
-            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "published": "2026-11-09T18:11:11+00:00"
           },
           {
             "title": "Civil servant who secretly held five jobs found guilty of fraud",
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
             "published": "2026-11-09T12:06:22+00:00"
-          },
-          {
-            "title": "US market remains tied to tech stocks despite sharp AI sell-off",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
-            "source": "Economic Times",
-            "summary": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by…",
-            "published": "2026-11-09T16:46:25+05:30"
           }
         ],
         "Sports": [
@@ -454,7 +454,7 @@
             "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "published": "2026-11-09T18:11:11+00:00"
+            "published": "2026-11-09T19:58:01+00:00"
           },
           {
             "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -634,6 +634,27 @@
             "published": "2026-11-10T12:18:53+05:30"
           },
           {
+            "title": "भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी",
+            "link": "https://www.amarujala.com/world/saba-haider-tells-about-politics-family-ghaziabad-origin-and-on-us-midterm-election-2026-11-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-10T12:08:12+05:30"
+          },
+          {
+            "title": "एनवीडिया के शेयरों में गिरावट: सीईओ हुआंग के अफेयर की खबर का असर, चीनी जासूस एलिस मामले की जांच में क्या मिला?",
+            "link": "https://www.amarujala.com/business/business-diary/honeytrap-nvidia-shares-price-drop-ceo-huang-affair-reports-chinese-suspect-spy-alice-stock-market-update-2026-11-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-10T01:18:14+05:30"
+          },
+          {
+            "title": "तुर्किये: स्टील प्लांट में भीषण धमाका, 16 लोगों की मौत और 13 घायल; क्या सुरक्षा में हुई लापरवाही? जांच के आदेश",
+            "link": "https://www.amarujala.com/world/turkey-massive-explosion-at-steel-plant-kills-16-injures-13-was-safety-negligence-behind-blast-probe-order-2026-11-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-10T01:06:36+05:30"
+          },
+          {
             "title": "अजित पवार की मौत में तटकरे की भूमिका पर संदेह:शिवसेना नेता कदम का दावा, बोले- वे डिप्टी CM बनना चाहते थे; NCP सांसद बोले- कानूनी नोटिस भेजूंगा",
             "link": "https://www.bhaskar.com/national/news/mumbai-shiv-sena-ramdas-kadam-ncp-sunil-tatkare-controversy-statement-139639874.html",
             "source": "Dainik Bhaskar",
@@ -688,27 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-09T20:50:45+05:30"
-          },
-          {
-            "title": "यहां पेड़ों पर क्यों चढ़ते हैं जंगल के राजा?",
-            "link": "https://www.bbc.com/hindi/articles/c9kgjm7yxp0eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-09T14:48:48+00:00"
-          },
-          {
-            "title": "बिहार में किसानों को मिलेगी बीज, खाद और कीटनाशकों की होम डिलीवरी, कृषि विभाग ने डाक विभाग से किया MoU",
-            "link": "https://hindi.oneindia.com/news/india/bihar-agriculture-postal-sample-testing-mou-agreement-012-1681603.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-09T20:01:14+05:30"
-          },
-          {
-            "title": "टेस्ट डेब्यू में ही इस 20 साल के पाकिस्तानी खिलाड़ी ने रचा इतिहास, तेजतर्रार अर्धशतक से दुनिया को चौंकाया",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/pakistans-tayyab-arif-creates-history-on-test-debut-smashes-46-ball-fifty-against-sri-lanka-1681527.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-09T20:00:25+05:30"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "பவன் கல்யாண் விவாகரத்து.. 3வது மனைவி அன்னா லெஷ்னேவாவை பிரிய முடிவெடுத்துள்ளதாக அறிவிப்பு!",
+            "link": "https://tamil.oneindia.com/news/india/andhra-deputy-cm-pawan-kalyan-and-anna-konidela-announce-divorce-after-13-years-of-marriage-844201.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-11-10T01:01:13+05:30"
+          },
+          {
             "title": "“அமெரிக்க இடைத்தேர்தல் நேர்மையாக நடந்ததா?” - டிரம்ப் கிளப்பிய சந்தேகம்.. நிலைப்பாட்டில் ட்விஸ்ட்!",
             "link": "https://tamil.oneindia.com/news/international/anybody-believe-this-was-honest-trump-flips-stance-on-midterms-result-844195.html",
             "source": "Oneindia Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-11-09T08:00:18+00:00"
-          },
-          {
-            "title": "உலக சந்தையை திரும்பி பார்க்க வைக்கும் இந்திய ரூபாய்.. 7 மாதங்களில் இல்லாத உச்சம்.. எல்லாமே மாறுதே!",
-            "link": "https://tamil.oneindia.com/news/business/indian-rupee-value-hits-7-month-high-at-93-70-against-us-dollar-what-are-the-3-key-reasons-844057.html",
-            "source": "Oneindia Tamil",
-            "summary": "இந்திய ரூபாய் மதிப்பு சர்வதேச சந்தையில் குறிப்பிடத்தக்க முன்னேற்றத்தைச் சந்தித்துள்ளது, இது கடந்த ஏழு மாதங்களில் இல்லாத அளவிற்கு வலுவான நிலையை எட்டியுள்ளது. அமெரிக்க டாலருக்கு எதிராக இந்திய ரூபாய் 22 பைசாக்கள் உயர்ந்து 93.70 என்ற புள்ளியை அடைந்திருப்பது வர்த்தக உலகில் பெரும் ஆச்சரியத்தை ஏற்படுத்தியுள்ளது. கடந்த சில மாதங்களாகப் பல்வேறு பொருளாதார காரணிகளால் ரூபாய் மதிப்பு சரிவைச் சந்தித்து வந்த நிலையில், தற்போது ஏற்பட்டுள்ள இந்த திடீர் முன்னேற்றம் இந்தியப் பொருளாதாரத்திற்கு நம்பிக்கையளிக்கும் வகையில் உள்ளது. இந்த மாற்றம் சர்வதேச சந்தையில் இந்திய முதலீடுகளின் மீதான ஆர்வத்தை அதிகரிக்கும் என்று எதிர்பார்க்கப்படுகிறது. ரூபாய் வலுவடைவது இறக்குமதி செய்யப்படும் பொருட்களின் விலையைக் குறைக்க உதவும், இது நாட்டின் பணவீக்கத்தைக் கட்டுப்படுத்தவும் ஒரு முக்கிய காரணியாக இருக்கும். நிதி வல்லுநர்கள் இந்த வளர்ச்சியை உன்னிப்பாகக் கவனித்து வருகின்றனர், ஏனெனில் இது உலகளாவிய சந்தை மாற்றங்கள் மற்றும் இந்தியாவின் தற்போதைய நிதி நிலையைத் தெளிவாகப் பிரதிபலிக்கிறது. ஒட்டுமொத்தமாக, இந்திய ரூபாயின் இந்த புதிய ஏற்றம் அந்நிய முதலீட்டாளர்கள் மற்றும் வர்த்தகர்களுக்கு ஒரு சாதகமான சூழலை உருவாக்கித் தந்துள்ளது.",
-            "published": "2026-11-09T12:32:06+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,14 +1072,56 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "పవన్ కల్యాణ్,అన్నా కొణిదెల విడిపోతున్నారా..?",
+            "title": "Mental Health: విషాద జ్ఞాపకాలకూ హిప్పోక్యాంపస్‌కూ లంకె - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHBHb2kwWENXcnotS2JjQkZLYV9JSVZTSVlkb28yYWdvV080ZGttLW1WOFJVbWRiNHBlenN1RFRQV2VlejhiN1ZtQldsQU0yZU9XeTg5cGd0YmFOMmhJc1psY3E5X2dYSEJlX1RrbEhBNHlFc2N1U3hRU3J6WU0zNUFpcm9wMXUyQzdYYVBwUWpSU3E3TjJacGdpa1hGSWNnT1NxTXBkbkt6ekFKSXBENk1fZktsZ9IBtgFBVV95cUxNWHBHb2kwWENXcnotS2JjQkZLYV9JSVZTSVlkb28yYWdvV080ZGttLW1WOFJVbWRiNHBlenN1RFRQV2VlejhiN1ZtQldsQU0yZU9XeTg5cGd0YmFOMmhJc1psY3E5X2dYSEJlX1RrbEhBNHlFc2N1U3hRU3J6WU0zNUFpcm9wMXUyQzdYYVBwUWpSU3E3TjJacGdpa1hGSWNnT1NxTXBkbkt6ekFKSXBENk1fZktsZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:56:00+00:00"
+          },
+          {
+            "title": "విమానాశ్రయంలో రూ.2.30 కోట్ల విలువైన బంగారం స్వాధీనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nUHlad3ZLb2kwampNMEpGY2dCeExLQjl4SXg2VnNJRWw4cEhmSzJPdDBKYXlSMnJYby1INzBRSkU0ZExmQnlzUzlRQjFJVm12Y0oycWRtbE5KdlBZVGhvZ1pCUjhRajRDTDhNaTZsVW1NM1JjRTFxNWc2MDBqdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:55:11+00:00"
+          },
+          {
+            "title": "కళాశాల విద్యార్థుల పేరిట రుణం తీసుకొని మోసానికి పాల్పడిన ముఠా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjSmM4MlNzaXVGU1RrWkVTV3NROTdJZkJOZGp0d29fajNFSTZzWm5XQ1NJNW80TEZCeVhvdlkyQU5mOGlPM2MxRnpJM0VYb1RkeFZTU2ppZkttbFFjQkxuM09helJGUEhiZm5waWw4QjlIS0kwQ1hMQnJOQm9LQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:39:28+00:00"
+          },
+          {
+            "title": "తోటి ఉద్యోగిని ఫొటోలు అశ్లీలంగా చిత్రీకరణ ఇద్దరు ఉపాధ్యాయులపై కేసు నమోదు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lY2NpbVJuNW1EUlN6b3Y0YmhYT1hla0xvX2Nva2hXRTcxdUVlSkFYeXpyZV9RWU1WRGRrTEtCX21Pa0tjWS14OWFCZW9WbWcxa2t0M0lLVDNqSWYxdnN6cDUxeUFSOTctbWZaMmlCRGlRRWZTV1FUZElqbm5CQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:37:55+00:00"
+          },
+          {
+            "title": "దోపిడీకి యత్నించిన ఐటీ ఉద్యోగికి దేహశుద్ధి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Y0VRR2F1ZnFfdW1MNzZyUmh5Q0d6TTBSVVR0U3ViRjdmNU5Wa2dwQUFfaUpoMkk0aWpvZG9kU2F0SW1BYU5yUGd3Mk9fcHFPdlpaR0ZNdUFlcXc4T1RhbnRnZFRyRVk0ZWx1SFBWTVNZb3BQbU9UQk8tQnZNQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:36:02+00:00"
+          },
+          {
+            "title": "Pawan Kalyan - Anna lezhneva Divorce: పవన్ కల్యాణ్,అన్నా కొణిదెల విడాకులు..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-deputy-cm-pawan-kalyan-anna-konidela-parting-ways-heres-what-reports-say-514213.html",
             "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-10T00:55:40+05:30"
+            "published": "2026-11-10T01:02:59+05:30"
           },
           {
-            "title": "Pawan-Anna Konidela: పరస్పర అంగీకారంతో విడిపోతున్నాం: పవన్-అనా కొణిదెల సంయుక్త ప్రకటన - Eenadu",
+            "title": "Kothagudem: పెద్దలను ఎదిరించి పెళ్లి.. కొన్నాళ్లకే భార్య మాయం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSThzSjNoMmt5N0YwaVNMUW1IaS1PRzJqLVJ4azh0QlhhWWhkZXBSV0NpYVV4QmxJN1U2NGx0MFg2RHpiS0hqcnVkVm0wU2dQSDJPdjJybUs3YWVKbnJLUnNJY2YwSWlDQ0ZWQU1jZjVIbENZWHB0M2pMMWRZY2NTcGR30gGCAUFVX3lxTE9JOHNKM2gya3k3RjBpU0xRbUhpLU9HMmotUnhrOHRCWGFZaGRlcFJXQ2lhVXhCbEk3VTY0bHQwWDZEemJLSGpydWRWbTBTZ1BIMk92MnJtSzdhZUpucktSc0ljZjBJaUNDRlZBTWNmNUhsQ1lYcHQzakwxZFljY1NwZHc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T19:31:58+00:00"
+          },
+          {
+            "title": "Pawan-Anna Konidela: పరస్పర అంగీకారంతో విడిపోతున్నాం: పవన్‌ కల్యాణ్, అనా కొణిదెల - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcUloM3RQRk9DX1lsV0V5S21aTVZwQlJkNE1UOUc0c3ZQQklCUUdHb2ZIbExQZWx3WlltTXZ2VXZ1VldJWWZhMTNsN2paUERxNjBOLXpJNnQwTWdLY0k0LTRUZFZDRWw1YmxGbkhjb29iajZWSGxMRUxaQ3U2QktsVEthY2lDckYwT3hUSFhCai1mc29lWTBycTFMWWpudmpsYmlfS05qU3FtZENsWkIycDFTblhmeEZlajRBVTFyMURzcFcwZVlSMnk5WFpmbkdPOF9aUjJIcVI3X2h0aFJLcHI1dldrd1pT0gHoAUFVX3lxTFBxSWgzdFBGT0NfWWxXRXlLbVpNVnBCUmQ0TVQ5RzRzdlBCSUJRR0dvZkhsTFBlbHdaWW1NdnZVdnVWV0lZZmExM2w3alpQRHE2ME4tekk2dDBNZ0tjSTQtNFRkVkNFbDVibEZuSGNvb2JqNlZIbExFTFpDdTZCS2xUS2FjaUNyRjBPeFRIWEJqLWZzb2VZMHJxMUxZam52amxiaV9LTmpTcW1kQ2xaQjJwMVNuWGZ4RmVqNEFVMXIxRHNwVzBlWVIyeTlYWmZuR084X1pSMkhxUjdfaHRoUktwcjV2V2t3WlM?oc=5",
             "source": "Eenadu",
             "summary": "",
@@ -1112,48 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-09T23:01:55+05:30"
-          },
-          {
-            "title": "పాకిస్థాన్ లో కుప్పకూలిన డ్యామ్.. ఉప్పొంగిన వరదలు.. చైనా కంపెనీను నమ్ముకుంటే..!",
-            "link": "https://telugu.oneindia.com/news/international/pakistan-a-dam-under-construction-collapsed-turbela-dam-questions-on-the-chinese-construction-firm-514205.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-09T22:28:30+05:30"
-          },
-          {
-            "title": "తెలంగాణలో జనగణన షెడ్యూల్ ఫిక్స్.. నోటిఫికేషన్‌ జారీ.. తేదీలు ఇవే..",
-            "link": "https://telugu.oneindia.com/news/telangana/telangana-census-schedule-finalized-these-are-the-dates-key-bio-issued-telangana-census-latest-514203.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-09T21:37:21+05:30"
-          },
-          {
-            "title": "రహదారిపై కారు దగ్ధం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEJDQl9hVF85R3NKQ0hUempQTzFORUd6dzAweDBuVjhsdW5wR2QyTVVFS3o4QmVBSUpBYW1NUnVsdlJ4TkVyaXY4ajJmYXkyZjZHbE1YRDNPQk05QTBGUGh1Rmd5QklzajJPM2VzNGt3aDdVUnVsaVBFQ1dldUY4Qw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-09T16:04:20+00:00"
-          },
-          {
-            "title": "ప్రధాని మోదీకి జెలెన్ స్కీ సడెన్ ఫోన్ కాల్.. ఏం మాట్లాడారంటే..",
-            "link": "https://telugu.oneindia.com/news/international/pmmodi-news-prime-minister-modi-spoke-to-zelensky-on-the-phone-discussion-on-russia-ukraine-war-514201.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-09T20:48:17+05:30"
-          },
-          {
-            "title": "కళ్లజోడు మచ్చలు తగ్గాలంటే.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXQ0X3lHeFRraU5idjFfWTlCZ0dieGN3OXJISnJVRkZTTnYxaURrQzNmQmY3TWFCVzVldFM5Ukx1UVlLM2hPcXdlZTVnWEdvdjIzNW83S0h1QUpvdGlaNVJKSGhfMThoakJ2a0JsWnRZTXBUSHFrUUxSRGlhcENSZmoxZ3ZwQ1N5aVd3RXB2bDg4TjBtX0dnUUpXOXN1d2h0cjhRZnh6TWR4b2cx0gGsAUFVX3lxTFA1dDRfeUd4VGtpTmJ2MV9ZOUJnR2J4Y3c5ckhKclVGRlNOdjFpRGtDM2ZCZjdNYUJXNWV0UzlSTHVRWUszaE9xd2VlNWdYR292MjM1bzdLSHVBSm90aVo1UkpIaF8xOGhqQnZrQmxadFlNcFRIcWtRTFJEaWFwQ1JmajFndnBDU3lpV3dFcHZsODhOMG1fR2dRSlc5c3V3aHRyOFFmeHpNZHhvZzE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-09T14:45:16+00:00"
-          },
-          {
-            "title": "వాహనదారులకు హైదరాబాద్ పోలీసులు బిగ్ షాక్.. ఈ లిస్టులో మీ బండి ఉందా..? ఇలా చెక్ చేసుకోండి..!",
-            "link": "https://telugu.oneindia.com/news/telangana/police-notice-for-auction-of-510-vehicles-in-hyderabad-check-if-your-vehicle-is-in-the-list-or-not-514197.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-09T19:51:41+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,8 +1426,29 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "আজকের দিন সিংহ রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzZ2amF0MEpVbGtZdGxZV3F5ZW54ZlhzRF9CdTUwbXRlaWZZXy05eUpfV3hIVlV1YTB1UGRibU03aWhMS1RJUzByUElBT1N5VzkyYThNVDRWelZxZjRmbUNzWHpRenRGekZzVkhJVzdSZEJvWldCSTVLRG1sX3VGZTJjZms5WTkzamw1NE9kUGtULWZVOGlxZ21HMzZsUXotZW9ETmNpeVZMN0Iz0gGyAUFVX3lxTE9OVGhFaE9KdHZNb0dRNXNrTmVWTFFvSlM0NWZKclBEYkUyX2ViRWJpZzB3ZVVfaFhXZm1Od2JmYUw2Q1F3TUtsTTJYSkNVRnAxSHdxTC1pNmZHSHJrYjczbHNPQk9JNDJKbmlGR3JTVXlTTjRLYmh1OVRQbU9ReHZmLTJzZmxtTGNpQkE5NkwzSE42UzVUYlRaSkdnZVlwRWdmUVBsVms4cmdVX3NqcFM4clE?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T18:58:46+00:00"
+          },
+          {
+            "title": "আজকের দিন মীন রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2Y1OG53NUsxUjZicVhVRms1T290X0g3andLcDU5ZV96MVJEdHZ4Z19hMGVoV0FSVnpGMHVtNE9VZzZsOURSWm1NT29NMlAzbkV3NW1hNDI0ZEQzeENEdDYxcFRpZ19fVjVyaHNRdGt4Q1FFb0tlb2lqZEVrbllac1ZONFNSZ1RGWXd5RmtOZE0wMm9JMjJlRTBLVWlFc1lqNnpHbzU4NkJVSUMwWkHSAbMBQVVfeXFMT1kxSl9rLXpXMFNFLVJGUGlVSWlFb1NwZTZkMkgxSEQ4djE5MHpMRU8tRF93Mi1Objd3b2VlQzYxSmYydFhzWnJyYXViTUJCQXQwbU52QTktSWlpZG1hYVlnR3ctbTRlcVFrU21PbE1US0NZZzlLSTJPUlNvTG91QmJEM2J6ZjhJbG1MUURQOThGamVMTlN5VVVZZ29kMWszWVU3TlFNY0RzVVV0NlNaME5NbTA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T18:58:46+00:00"
+          },
+          {
             "title": "আজকের দিন কুম্ভ রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekxILTNuT3Z3SHRTdmdMeDY1ZjRvcnAwSXlWbTNtUnlvbXU1MFBDaC12SzhVNUdOTDIwZHh1cjZMRHZhdHkwMGZGRVN3bUItSmNwanBab3NaUUllRjBKUEpWdlBFRmJHdTBMT1ZDc1ZGcWZWeDFkdWYzcnd5bE5HRU5XNF95bGF0QTY1NTFrcjl0OV91WGpLY2dpNGQxQ0d0aHgtWFhGdExMQ3djSnpIZ2F30gG3AUFVX3lxTE9iWEh6R1J6YlN6TnhBUkc2MXY4d2Vub0xyS0Q0UUVRbGQ5S3dZXzZIenpyODAzOUVQNjc5V09aTG4yTkYzbTN4YVNTWUp5ZXRQeGVoeGZSVElWRmZfdG05SUVNU00wcnJKbHVYSjloeXZmeXhQYW9iU0R1SXVtalg5Mk5Kd3BCTmVmMGxMQWxtT0p0bXBFVU9CaS1VN0VYYWgybkV1ZkNHTlJPLXU2eFdtQzBYQnhDUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T18:58:46+00:00"
+          },
+          {
+            "title": "আজকের দিন তুলা রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZZUkhYSnpMZjNWNmVTM3ZMUWJvRkh5dGtzSXZCVTZjWV9ENGx2MlBjUVhWTUU3Y0N4aURWN3lhXzdkRHlYZjhQWlBncXhqZHI1UTRFUEt3dFU4bEsyYnlOR0dHdVZFcE9rRVo0UnJ1eVY3Q0dBdUZaQWgzVTFDSTFRdTlaWGlvVi10OGctNlNfNzVWdXJiVEFqZkNvYUdmUlBSQWpkZGctcTA00gGyAUFVX3lxTE1TNl9nbEhfaXVteGJOaHJkbnNXMVQxOEI3WUZucEVzcjJLQWhIMUVRVXhJSmpwMkg1UkF3UE9JNGFZNHAwbzVyRGRIMEZ1N1c2d2ZybUJZXzl3bWtBdmpwcExSVzlhMmotRDF6U3ZHa0Jma3BWZDFWUVQyLU9BbUNmNnp1SmM4OTQ4LXpQcHdPTzFNUEJtMUJGTEwzaE91SFB6WllqRDBiVDVwMmlMTFZ5cGc?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T18:58:46+00:00"
@@ -1447,13 +1468,6 @@
             "published": "2026-11-09T18:56:13+00:00"
           },
           {
-            "title": "আজকের দিন তুলা রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZZUkhYSnpMZjNWNmVTM3ZMUWJvRkh5dGtzSXZCVTZjWV9ENGx2MlBjUVhWTUU3Y0N4aURWN3lhXzdkRHlYZjhQWlBncXhqZHI1UTRFUEt3dFU4bEsyYnlOR0dHdVZFcE9rRVo0UnJ1eVY3Q0dBdUZaQWgzVTFDSTFRdTlaWGlvVi10OGctNlNfNzVWdXJiVEFqZkNvYUdmUlBSQWpkZGctcTA00gGyAUFVX3lxTE1TNl9nbEhfaXVteGJOaHJkbnNXMVQxOEI3WUZucEVzcjJLQWhIMUVRVXhJSmpwMkg1UkF3UE9JNGFZNHAwbzVyRGRIMEZ1N1c2d2ZybUJZXzl3bWtBdmpwcExSVzlhMmotRDF6U3ZHa0Jma3BWZDFWUVQyLU9BbUNmNnp1SmM4OTQ4LXpQcHdPTzFNUEJtMUJGTEwzaE91SFB6WllqRDBiVDVwMmlMTFZ5cGc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-09T18:46:48+00:00"
-          },
-          {
             "title": "আজকের দিন কন্যা রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWpxZmlmVmJlX1lJWWlqeTY4TzB2TW1acnlLY2dFcXh5elE5Mm50eWVqUkQ4Vl9ZMFFnUHhEUWVpaGZ1eEE1aE1NeW53aVF2V2Y0ZlpXbTRhODNTMDdnZHFtR09GWEJqVFVZWVVHX1BkZEVvNDBiR3BNYWRiWGFNV0l5OGVrbF9uN251alhOUVk0ckY5WVFwaHBBdlhXSHBPbnQyQVExN3VYUWI2TnfSAbMBQVVfeXFMTjZnV0dENUtOSWt0MG8wME0zNXVDY24xWTl1TXJHVlRLSTF5cmd3Tmd3N1lvcHZzZzBhYUJ4ZTBidXB4Tzk5eUlYNDhIWGNJdVJtR2ZiQ2pldVQ2cG5rRkx2WjR0ZmhvSElWclJ4d0NWMnlzNTY5R0w2SEtGc3lqZnpzMW9rY2dGT2hpMjNHUnlIaGU0dlpaOUdMWUFOSWE0aWl5YWpLWmFWUTFmVmRObmpwNHM?oc=5",
             "source": "Anandabazar Patrika",
@@ -1466,13 +1480,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T18:35:27+00:00"
-          },
-          {
-            "title": "আজকের দিন সিংহ রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzZ2amF0MEpVbGtZdGxZV3F5ZW54ZlhzRF9CdTUwbXRlaWZZXy05eUpfV3hIVlV1YTB1UGRibU03aWhMS1RJUzByUElBT1N5VzkyYThNVDRWelZxZjRmbUNzWHpRenRGekZzVkhJVzdSZEJvWldCSTVLRG1sX3VGZTJjZms5WTkzamw1NE9kUGtULWZVOGlxZ21HMzZsUXotZW9ETmNpeVZMN0Iz0gGyAUFVX3lxTE9OVGhFaE9KdHZNb0dRNXNrTmVWTFFvSlM0NWZKclBEYkUyX2ViRWJpZzB3ZVVfaFhXZm1Od2JmYUw2Q1F3TUtsTTJYSkNVRnAxSHdxTC1pNmZHSHJrYjczbHNPQk9JNDJKbmlGR3JTVXlTTjRLYmh1OVRQbU9ReHZmLTJzZmxtTGNpQkE5NkwzSE42UzVUYlRaSkdnZVlwRWdmUVBsVms4cmdVX3NqcFM4clE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-09T18:33:45+00:00"
           },
           {
             "title": "আজকের দিন মকর রাশি- ১০ নভেম্বর, ২০২৬ - Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T17:11:18+00:00"
-          },
-          {
-            "title": "ক্রয়ডনের কালীপুজো! আলোর উৎসবে প্রবাসেও বাঙালিয়ানার আলো - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkdRYUhQMW1kVmc1bVZfX2M3dGZDRHdyQWFxYUFKNnlhLVZwQUs2NnozYXZVSzN0WldXVjdXSkJhY2wwQjlLaUpWdUNhaGFJcGpTcnZNc0lSWHJIVFpfNFR3ZDBqc1E4OHpqYVo4eFZ4Y2JNZlpGVllnek1sU1VSbW5UcE41UVpYUm9DRmZWa2JRUHgwNWluQ1NleW9CNm5zU25pMTdXRThJS1dqbUpId2lnb0NWcGIzSFdqYlpHYm9qeWtyWXp1cUJFbUc4akJ4ODF1YWUwNE5VdXhHckxfY2dYc3BNaXdHVzZJSlJ6T2lnd1BBcEpBLdIB-AFBVV95cUxPNkdRYUhQMW1kVmc1bVZfX2M3dGZDRHdyQWFxYUFKNnlhLVZwQUs2NnozYXZVSzN0WldXVjdXSkJhY2wwQjlLaUpWdUNhaGFJcGpTcnZNc0lSWHJIVFpfNFR3ZDBqc1E4OHpqYVo4eFZ4Y2JNZlpGVllnek1sU1VSbW5UcE41UVpYUm9DRmZWa2JRUHgwNWluQ1NleW9CNm5zU25pMTdXRThJS1dqbUpId2lnb0NWcGIzSFdqYlpHYm9qeWtyWXp1cUJFbUc4akJ4ODF1YWUwNE5VdXhHckxfY2dYc3BNaXdHVzZJSlJ6T2lnd1BBcEpBLQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-09T17:09:47+00:00"
           }
         ]
       }
