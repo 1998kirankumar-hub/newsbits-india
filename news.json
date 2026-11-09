@@ -1,23 +1,72 @@
 {
-  "updated_at": "2026-11-09T04:01:17.309186+00:00",
+  "updated_at": "2026-11-09T04:31:07.697689+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "In Pictures: From homes to markets, India celebrates the festival of lights",
+            "link": "https://www.thehindu.com/news/national/in-pictures-celebration-of-deepavali/article71681165.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-09T09:52:20+05:30"
+          },
+          {
+            "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
+            "link": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
+            "source": "The Hindu",
+            "summary": "Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
+            "published": "2026-11-09T09:50:28+05:30"
+          },
+          {
+            "title": "Air pollution over 60 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+            "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
+            "source": "The Hindu",
+            "summary": "Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9",
+            "published": "2026-11-09T09:45:50+05:30"
+          },
+          {
+            "title": "Another ‘encounter’ in West Bengal: Rape-murder accused killed in Raiganj",
+            "link": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece",
+            "source": "The Hindu",
+            "summary": "This is the fourth such incident in the State since the BJP came to power. Earlier, two rape suspects in Gaighata and Baruipur and a murder suspect in Dhulian were shot dead by police",
+            "published": "2026-11-09T09:44:32+05:30"
+          },
+          {
+            "title": "Andhra local body elections: TDP-led coalition wins two-third of zilla parishad seats",
+            "link": "https://www.hindustantimes.com/india-news/andhra-local-body-elections-tdp-led-coalition-wins-two-third-of-zilla-parishad-seats-101794197397243.html",
+            "source": "Hindustan Times",
+            "summary": "The combined performance of the TDP, JSP, and BJP has cemented the ruling coalition’s control over rural local governance in Andhra Pradesh.",
+            "published": "2026-11-09T09:39:56+05:30"
+          },
+          {
+            "title": "Asian stock markets climb after earlier tech rout",
+            "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
+            "published": "2026-11-09T04:03:02+00:00"
+          },
+          {
+            "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+            "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
+            "published": "2026-11-09T04:02:18+00:00"
+          },
+          {
+            "title": "\"He's A Fine Person, But You Never Know\": Trump On Nvidia CEO's Affair",
+            "link": "https://www.ndtv.com/world-news/donald-trump-on-nvidia-ceo-jensen-huangs-affair-hes-a-fine-person-but-you-never-know-12301420#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "US President Donald Trump on Sunday called Nvidia CEO Jensen Huang an honorable person and praised his contributions to the United States, but said he had not spoken to him",
+            "published": "2026-11-09T09:31:23+05:30"
+          },
+          {
             "title": "Smith sees specialist in New York, in line for Sheffield Shield return",
             "link": "https://www.cricinfo.com/ci/content/story/1561926.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Steven Smith has had further investigation of the neck problem which ruled him out of the final Test in South Africa",
             "published": "2026-11-09T04:00:25+00:00"
-          },
-          {
-            "title": "Rape-murder accused killed in police encounter; fourth case in West Bengal since BJP came to power",
-            "link": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece",
-            "source": "The Hindu",
-            "summary": "Police had been on the lookout for Dilip Roy for four days following the recovery of the girl’s decomposed, unclothed body from a forest near the Kulik river",
-            "published": "2026-11-09T09:26:47+05:30"
           },
           {
             "title": "Gambhir & Co to split up after third ODI to get Test series preps underway",
@@ -27,170 +76,142 @@
             "published": "2026-11-09T03:56:47+00:00"
           },
           {
-            "title": "Apple Plans to Bring Autonomous Capabilities to Siri AI, Overhaul iOS 28 Approach: Report",
-            "link": "https://www.gadgets360.com/ai/news/apple-siri-ai-autonomous-agent-plan-timeline-ios-28-macos-ipados-development-report-12301789",
-            "source": "Gadgets 360",
-            "summary": "Apple plans to turn Siri AI into an autonomous agent that will be able to take more actions on a user's behalf. The iPhone maker reportedly wants to bring similar capabilities to the AI assistant as OpenAI’s Dots, Meta’s Muse, and Grok from Elon Musk’s SpaceXSI. OpenAI, Meta, and AI labs position their respective AI agents as an “AI companion” that can run in the background and take actions for the user when…",
-            "published": "2026-11-09T09:14:52+05:30"
-          },
-          {
-            "title": "Series of fire incidents at firecracker shops, godowns mar Deepavali in Hyderabad",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/series-of-fire-incidents-at-firecracker-shops-godowns-mar-deepavali-in-hyderabad/article71681217.ece",
-            "source": "The Hindu",
-            "summary": "A fire broke out at a plastic manufacturing unit in Katedan Industrial Area and subsequently spread to a neighbouring plywood unit, prompting the deployment of three fire engines",
-            "published": "2026-11-09T09:11:19+05:30"
-          },
-          {
-            "title": "Pakistan vs Sri Lanka, 1st Test Day 1, Live Score Updates",
-            "link": "https://sports.ndtv.com/cricket/pakistan-vs-sri-lanka-1st-test-day-1-live-score-updates-12301549#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Pakistan vs Sri Lanka, 1st Test Day 1, Live Updates: Pakistan will be squaring off against Sri Lanka in the first Test of the two-match series on Monday at the Rawalpindi Cricket Stadium, Rawalpindi.",
-            "published": "2026-11-09T09:10:37+05:30"
-          },
-          {
-            "title": "Pakistan vs Sri Lanka Live Streaming, 1st Test Live Telecast: When And Where To Watch",
-            "link": "https://sports.ndtv.com/cricket/pakistan-vs-sri-lanka-live-streaming-1st-test-live-telecast-when-and-where-to-watch-12301519#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Pakistan vs Sri Lanka Live Streaming, 1st Test: The two-match series will be Pakistan's first assignment since a 3-0 whitewash in England, where seven players were sent home after the second Test.",
-            "published": "2026-11-09T09:04:54+05:30"
-          },
-          {
-            "title": "\"I Don’t Need Much\": Israel Adesanya Weighs In On UFC Saudi Arabia Headliner As Major Matchup Announcement Grabs His Attention",
-            "link": "https://sports.ndtv.com/us/mma/i-don-t-need-much-israel-adesanya-weighs-in-on-ufc-saudi-arabia-headliner-as-major-matchup-announcement-grabs-his-attention-12301718#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "desanya will headline UFC Saudi Arabia on Saturday, Dec. 5, in Riyadh against Magomedov in a five-round fight. He has lost four in a row and posted a bold Instagram message after the booking.",
-            "published": "2026-11-09T09:03:04+05:30"
-          },
-          {
-            "title": "Parliament’s Monsoon session remains unprorogued for record 88 days",
-            "link": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
-            "source": "The Hindu",
-            "summary": "As of November 9, 2026 morning, neither the Lok Sabha nor the Rajya Sabha had been formally prorogued, keeping open the possibility of convening an extended sitting of the existing session",
-            "published": "2026-11-09T09:01:40+05:30"
-          },
-          {
-            "title": "Delhi struggles with enforcement, violations of time, ‘green’ firecracker curbs worsen pollution",
-            "link": "https://www.hindustantimes.com/india-news/delhi-struggles-with-enforcement-violations-of-time-green-firecracker-curbs-worsen-pollution-101794195057703.html",
+            "title": "Delhi records 3rd worst Diwali pollution since '21, data gaps cloud full picture",
+            "link": "https://www.hindustantimes.com/india-news/delhi-records-3rd-worst-diwali-pollution-since-21-data-gaps-cloud-full-picture-101794196053430.html",
             "source": "Hindustan Times",
-            "summary": "Even if green firecrackers produce relatively lower emissions than conventional ones, they are not pollution free",
-            "published": "2026-11-09T09:00:57+05:30"
+            "summary": "&nbsp;More than half the air quality stations in the national Capital stopped reporting air quality data around midnight.",
+            "published": "2026-11-09T09:26:16+05:30"
           },
           {
-            "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
-            "published": "2026-11-09T03:26:21+00:00"
-          },
-          {
-            "title": "Air of Deepavali celebrations lingers in Hyderabad with AQI remaining at hazardous levels",
-            "link": "https://www.thehindu.com/news/national/telangana/air-of-deepavali-celebrations-lingers-in-hyderabad-with-aqi-remaining-at-hazardous-levels/article71681358.ece",
-            "source": "The Hindu",
-            "summary": "The air quality in Hyderabad deteriorated in the night itself with particulate matter 2.5 reaching 392 micrograms per cubic meter (μg/m³) at 9.30 p.m. and the Air Quality Index averaged 509",
-            "published": "2026-11-09T08:55:06+05:30"
-          },
-          {
-            "title": "AQI 1,556 Sees Chennai Open Decider Postponed, Finalist Says Organisers Wanted Match To Go Ahead",
-            "link": "https://sports.ndtv.com/tennis/aqi-1-556-sees-chennai-open-decider-postponed-finalist-says-organisers-wanted-match-to-go-ahead-12301717#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Hazardous Diwali smog pushed AQI past 1,500, forcing the postponement of the Chennai Open final, with player Janice Tjen claiming organisers initially pushed to play through the severe pollution.",
-            "published": "2026-11-09T08:45:36+05:30"
-          },
-          {
-            "title": "Clarke added as cover with Tickner following stand-down protocols",
-            "link": "https://www.cricinfo.com/ci/content/story/1561927.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Lockie Ferguson has been ruled out of the fourth and fifth ODIs against India as he recovers from a calf tear, and Matt Henry has been cleared to return for the fourth ODI",
-            "published": "2026-11-09T03:15:20+00:00"
-          }
-        ],
-        "India": [
-          {
-            "title": "Rape-murder accused killed in police encounter; fourth case in West Bengal since BJP came to power",
-            "link": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece",
-            "source": "The Hindu",
-            "summary": "Police had been on the lookout for Dilip Roy for four days following the recovery of the girl’s decomposed, unclothed body from a forest near the Kulik river",
-            "published": "2026-11-09T09:26:47+05:30"
-          },
-          {
-            "title": "Series of fire incidents at firecracker shops, godowns mar Deepavali in Hyderabad",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/series-of-fire-incidents-at-firecracker-shops-godowns-mar-deepavali-in-hyderabad/article71681217.ece",
-            "source": "The Hindu",
-            "summary": "A fire broke out at a plastic manufacturing unit in Katedan Industrial Area and subsequently spread to a neighbouring plywood unit, prompting the deployment of three fire engines",
-            "published": "2026-11-09T09:11:19+05:30"
-          },
-          {
-            "title": "Parliament’s Monsoon session remains unprorogued for record 88 days",
-            "link": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
-            "source": "The Hindu",
-            "summary": "As of November 9, 2026 morning, neither the Lok Sabha nor the Rajya Sabha had been formally prorogued, keeping open the possibility of convening an extended sitting of the existing session",
-            "published": "2026-11-09T09:01:40+05:30"
-          },
-          {
-            "title": "Delhi struggles with enforcement, violations of time, ‘green’ firecracker curbs worsen pollution",
-            "link": "https://www.hindustantimes.com/india-news/delhi-struggles-with-enforcement-violations-of-time-green-firecracker-curbs-worsen-pollution-101794195057703.html",
+            "title": "HT morning brief Nov 9: Delhi wakes up to 'very poor' AQI after Diwali; Nvidia CEO acknowledges affair with alleged Chinese spy",
+            "link": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-9-delhi-aqi-diwali-nvidia-ceo-jensen-huang-affair-trump-us-iran-war-vinod-kapri-youth-olympics-101794193526397.html",
             "source": "Hindustan Times",
-            "summary": "Even if green firecrackers produce relatively lower emissions than conventional ones, they are not pollution free",
-            "published": "2026-11-09T09:00:57+05:30"
-          },
-          {
-            "title": "Air of Deepavali celebrations lingers in Hyderabad with AQI remaining at hazardous levels",
-            "link": "https://www.thehindu.com/news/national/telangana/air-of-deepavali-celebrations-lingers-in-hyderabad-with-aqi-remaining-at-hazardous-levels/article71681358.ece",
-            "source": "The Hindu",
-            "summary": "The air quality in Hyderabad deteriorated in the night itself with particulate matter 2.5 reaching 392 micrograms per cubic meter (μg/m³) at 9.30 p.m. and the Air Quality Index averaged 509",
-            "published": "2026-11-09T08:55:06+05:30"
-          },
-          {
-            "title": "Chancellor Merz backs Ilse Aigner as Germany's first female President",
-            "link": "https://timesofindia.indiatimes.com/world/europe/chancellor-merz-backs-ilse-aigner-as-germanys-first-female-president/articleshow/135669055.cms",
-            "source": "Times of India",
-            "summary": "German Chancellor Friedrich Merz has endorsed Ilse Aigner for the upcoming presidential election in Germany. Aigner, if elected, would be the first woman to hold this position. Supported by the Christian Democratic Union and the Christian Social Union, she has backing from various political parties. She could succeed Frank-Walter Steinmeier, whose presidency ends on March 18. Aigner has previous government…",
-            "published": "2026-11-09T08:37:21+05:30"
-          },
-          {
-            "title": "Shourya Ambure wins India's first track and field medal at Dakar Youth Olympics",
-            "link": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/shourya-ambure-wins-historic-bronze-indias-first-track-and-field-medal-at-dakar-youth-olympics/articleshow/135669167.cms",
-            "source": "Times of India",
-            "summary": "Shourya Ambure secured a bronze medal in the women's 100m hurdles at the Dakar 2026 Youth Olympic Games. This marked India's first track and field medal at the current Youth Olympics edition, showcasing her talent. Ambure set a personal best of 13.59 seconds during the final, improving upon her earlier semi-final time. Her achievement contributes to India's overall medal tally, which now stands at eight.",
-            "published": "2026-11-09T08:37:17+05:30"
-          },
-          {
-            "title": "NDA seals YSRCP’s fate in rural local body polls by winning 499 ZPTC and 5,861 MPTC seats",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-seals-ysrcps-fate-in-rural-local-body-polls-by-winning-499-zptc-and-5861-mptc-seats/article71681314.ece",
-            "source": "The Hindu",
-            "summary": "State Election Commission set the stage for elections to Gram Panchayats in three phases i.e on November 26 and 29 and December 2, for which the Commission will issue notifications on November 13, 16 and 19",
-            "published": "2026-11-09T08:27:31+05:30"
-          },
-          {
-            "title": "Who Is Alice Huang, Chinese Woman Linked To Nvidia CEO Jensen Huang",
-            "link": "https://www.ndtv.com/world-news/who-is-alice-huang-chinese-woman-linked-to-nvidia-ceo-jensen-huang-12301631#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Alice Huang also goes by the name Huang Le. She is a Chinese citizen and has served as a top executive at Singapore-based Megaspeed.",
-            "published": "2026-11-09T08:23:12+05:30"
-          },
-          {
-            "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
-            "link": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
-            "source": "The Hindu",
-            "summary": "The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR",
-            "published": "2026-11-09T08:21:55+05:30"
-          },
-          {
-            "title": "As Magnus Carlsen and 23 others await, Total Chess chief defends fast classical stage",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/as-magnus-carlsen-and-23-others-await-total-chess-chief-defends-fast-classical-only-group-stage-good-way-to-do-it-exclusive/articleshow/135668698.cms",
-            "source": "Times of India",
-            "summary": "Total Chess chief Kjell Madland has defended the pilot tournament’s fast classical-only group stage, insisting all 24 players will compete across formats until the final day. The Budapest event opens with a nine-round blitz tournament, followed by a fast classical group stage that decides the four semi-finalists, with all three formats used in the knockouts. Madland said the format aims to modernise chess and…",
-            "published": "2026-11-09T08:10:58+05:30"
+            "summary": "Catch up on today's top headlines across politics, national and global events, sports, and entertainment.",
+            "published": "2026-11-09T09:23:00+05:30"
           },
           {
             "title": "3 Risks Investors Face As Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
             "link": "https://www.ndtv.com/business-news/nvidia-stock-in-focus-3-risks-investors-face-as-nvidia-ceo-jensen-huangs-faces-probe-into-affair-with-suspected-chinese-spy-12301565#publisher=newsstand",
             "source": "NDTV",
             "summary": "Nvidia's Chief Executive Officer Jensen Huang has agreed to cooperate with the investigation and will continue to lead the company.",
-            "published": "2026-11-09T08:04:47+05:30"
+            "published": "2026-11-09T09:22:39+05:30"
+          },
+          {
+            "title": "Delhi Air Quality Spikes To 'Severe' Levels Post-Diwali Despite GRAP-III Curbs",
+            "link": "https://www.ndtv.com/delhi-news/delhi-air-quality-spikes-to-severe-levels-post-diwali-despite-grap-iii-curbs-12301814#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The post-Diwali spike occurred despite the authorities invoking Stage III of GRAP on Friday",
+            "published": "2026-11-09T09:22:38+05:30"
+          }
+        ],
+        "India": [
+          {
+            "title": "In Pictures: From homes to markets, India celebrates the festival of lights",
+            "link": "https://www.thehindu.com/news/national/in-pictures-celebration-of-deepavali/article71681165.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-09T09:52:20+05:30"
+          },
+          {
+            "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
+            "link": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
+            "source": "The Hindu",
+            "summary": "Delhi’s air quality plunged to the edge of the “severe” category on Monday as post-Deepavali pollution surged, with AQI readings above 400 across the capital and smog spreading to Mumbai, Lucknow and other major cities.",
+            "published": "2026-11-09T09:50:28+05:30"
+          },
+          {
+            "title": "Air pollution over 60 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+            "link": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
+            "source": "The Hindu",
+            "summary": "Data on air pollution missing from several monitoring stations of the Delhi Government at the peak of air pollution during the intervening night of November 8 and 9",
+            "published": "2026-11-09T09:45:50+05:30"
+          },
+          {
+            "title": "Another ‘encounter’ in West Bengal: Rape-murder accused killed in Raiganj",
+            "link": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece",
+            "source": "The Hindu",
+            "summary": "This is the fourth such incident in the State since the BJP came to power. Earlier, two rape suspects in Gaighata and Baruipur and a murder suspect in Dhulian were shot dead by police",
+            "published": "2026-11-09T09:44:32+05:30"
+          },
+          {
+            "title": "Andhra local body elections: TDP-led coalition wins two-third of zilla parishad seats",
+            "link": "https://www.hindustantimes.com/india-news/andhra-local-body-elections-tdp-led-coalition-wins-two-third-of-zilla-parishad-seats-101794197397243.html",
+            "source": "Hindustan Times",
+            "summary": "The combined performance of the TDP, JSP, and BJP has cemented the ruling coalition’s control over rural local governance in Andhra Pradesh.",
+            "published": "2026-11-09T09:39:56+05:30"
+          },
+          {
+            "title": "\"He's A Fine Person, But You Never Know\": Trump On Nvidia CEO's Affair",
+            "link": "https://www.ndtv.com/world-news/donald-trump-on-nvidia-ceo-jensen-huangs-affair-hes-a-fine-person-but-you-never-know-12301420#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "US President Donald Trump on Sunday called Nvidia CEO Jensen Huang an honorable person and praised his contributions to the United States, but said he had not spoken to him",
+            "published": "2026-11-09T09:31:23+05:30"
+          },
+          {
+            "title": "Delhi records 3rd worst Diwali pollution since '21, data gaps cloud full picture",
+            "link": "https://www.hindustantimes.com/india-news/delhi-records-3rd-worst-diwali-pollution-since-21-data-gaps-cloud-full-picture-101794196053430.html",
+            "source": "Hindustan Times",
+            "summary": "&nbsp;More than half the air quality stations in the national Capital stopped reporting air quality data around midnight.",
+            "published": "2026-11-09T09:26:16+05:30"
+          },
+          {
+            "title": "HT morning brief Nov 9: Delhi wakes up to 'very poor' AQI after Diwali; Nvidia CEO acknowledges affair with alleged Chinese spy",
+            "link": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-9-delhi-aqi-diwali-nvidia-ceo-jensen-huang-affair-trump-us-iran-war-vinod-kapri-youth-olympics-101794193526397.html",
+            "source": "Hindustan Times",
+            "summary": "Catch up on today's top headlines across politics, national and global events, sports, and entertainment.",
+            "published": "2026-11-09T09:23:00+05:30"
+          },
+          {
+            "title": "3 Risks Investors Face As Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
+            "link": "https://www.ndtv.com/business-news/nvidia-stock-in-focus-3-risks-investors-face-as-nvidia-ceo-jensen-huangs-faces-probe-into-affair-with-suspected-chinese-spy-12301565#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Nvidia's Chief Executive Officer Jensen Huang has agreed to cooperate with the investigation and will continue to lead the company.",
+            "published": "2026-11-09T09:22:39+05:30"
+          },
+          {
+            "title": "Delhi Air Quality Spikes To 'Severe' Levels Post-Diwali Despite GRAP-III Curbs",
+            "link": "https://www.ndtv.com/delhi-news/delhi-air-quality-spikes-to-severe-levels-post-diwali-despite-grap-iii-curbs-12301814#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The post-Diwali spike occurred despite the authorities invoking Stage III of GRAP on Friday",
+            "published": "2026-11-09T09:22:38+05:30"
+          },
+          {
+            "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 130 Points Lower, Asian Markets Rebound",
+            "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-9-november-us-iran-war-oil-price-12301701#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Stock Market, Sensex, Share Market, Nifty LIVE Updates: Brent Falls Below $98 After Biggest Weekly Drop Since 2020.",
+            "published": "2026-11-09T09:18:13+05:30"
+          },
+          {
+            "title": "Why Delhi's Major Air Quality Stations Stopped Showing Data On Diwali Evening",
+            "link": "https://www.ndtv.com/delhi-news/why-delhis-major-air-quality-stations-stopped-showing-data-on-diwali-evening-12301621#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Sudden discontinuation of online data is not surprising for those who follow the website on Diwali evening regularly.",
+            "published": "2026-11-09T09:13:17+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Asian stock markets climb after earlier tech rout",
+            "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
+            "published": "2026-11-09T04:03:02+00:00"
+          },
+          {
+            "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+            "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
+            "published": "2026-11-09T04:02:18+00:00"
+          },
+          {
+            "title": "Mexico arrests alleged major leader of Jalisco cartel",
+            "link": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Rafael Alvarez, alias &#039;R2&#039;, was captured with intelligence shared by the ⁠US Drug Enforcement Administration.",
+            "published": "2026-11-09T03:42:57+00:00"
+          },
           {
             "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
@@ -253,27 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Trump says Iran land blockade is now in effect, as Tehran threatens to &#039;rain down hell&#039; if US resumes attacks.",
             "published": "2026-11-09T00:00:34+00:00"
-          },
-          {
-            "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-            "published": "2026-11-08T23:58:53+00:00"
-          },
-          {
-            "title": "Mexican mayor found alive after hours-long abduction",
-            "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-            "published": "2026-11-08T23:55:37+00:00"
-          },
-          {
-            "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-            "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-            "published": "2026-11-08T23:39:47+00:00"
           }
         ],
         "Business": [
@@ -627,25 +627,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "आज का राशिफल 9 नवंबर: कर्क, सिंह और मकर राशि के जातकों को मिल सकता है भाग्य का साथ, जानें 12 राशियों का हाल",
-            "link": "https://www.amarujala.com/photo-gallery/astrology/predictions/aaj-ka-rashifal-09-november-2026-daily-horoscope-prediction-in-hindi-mesh-kark-singh-kanya-kumbh-makar-2026-11-08",
+            "title": "दिवाली 2026: रणबीर-आलिया ने नए घर में मनाई पहली दिवाली, विक्की-कैट ने दिखाया बेटे का चेहरा; देखें तस्वीरें",
+            "link": "https://www.amarujala.com/entertainment/bollywood/ranbir-alia-celebrate-first-diwali-at-new-home-vicky-katrina-reveal-son-face-see-celebrities-diwali-photos-2026-11-09",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-09T09:19:47+05:30"
+            "published": "2026-11-09T09:39:09+05:30"
+          },
+          {
+            "title": "यूपी के चित्रकूट में बड़ा हादसा: हाईवे पर बेकाबू होकर पलटी ट्रैक्टर ट्रॉली, चार श्रद्धालुओं की मौत, 12 घायल",
+            "link": "https://www.amarujala.com/uttar-pradesh/kanpur/chitrakoot-accident-tractor-trolley-overturns-on-highway-4-devotees-killed-and-12-injured-in-up-2026-11-09",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-09T09:34:22+05:30"
+          },
+          {
+            "title": "मुजफ्फरनगर में मौत का तांडव! डिवाइडर से टकराकर पलटी कार में लगी आग, 6 लोग जिंदा जले",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/muzaffarnagar-road-accident-car-fire-six-people-burnt-alive-titawi-1681165.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-09T09:32:37+05:30"
           },
           {
             "title": "यूपी: मथुरा में कब है गोवर्धन पूजा? जानें तारीख, शुभ मुहूर्त, पूजा विधि, अन्नकूट का महत्व और श्रीकृष्ण की कथा",
             "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/agra/govardhan-puja-2026-know-the-date-auspicious-timings-puja-vidhi-and-the-story-of-lord-krishna-2026-11-09",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-09T09:09:16+05:30"
+            "published": "2026-11-09T09:30:54+05:30"
           },
           {
-            "title": "सिवनी में भीषण अग्निकांड: सर्राफा व्यापारी के मकान में आग लगने से छह लोगों की दर्दनाक मौत, इलाके में मातम",
-            "link": "https://www.amarujala.com/madhya-pradesh/seoni/major-fire-in-seoni-6-people-die-a-tragic-death-after-a-blaze-breaks-out-at-a-bullion-traders-house-mourning-in-the-area-seoni-news-c-1-1-noi1553-4918188-2026-11-09",
+            "title": "एमपी में काल बनी अमावस की रात: सिवनी और कटनी में दो घरों में आग लगने से 12 की मौत, पटाखों के शोर में दबी चीखें",
+            "link": "https://www.amarujala.com/photo-gallery/madhya-pradesh/mp-diwali-amavasya-night-fire-seoni-katni-many-people-killed-2026-11-09",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-09T09:07:25+05:30"
+            "published": "2026-11-09T09:27:57+05:30"
+          },
+          {
+            "title": "दिवाली के अगले दिन क्या बैंक बंद रहेंगे? ब्रांच जाने से पहले यहां चेक करें अपने शहर की छुट्टियों की लिस्ट",
+            "link": "https://www.amarujala.com/photo-gallery/utility/will-banks-be-closed-on-the-day-after-diwali-check-your-city-s-holiday-list-here-before-visiting-the-branch-2026-11-09",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-09T09:02:54+05:30"
           },
           {
             "title": "कौन हैं वो चीनी महिला जासूस? जिसके साथ था Nvidia CEO Jensen Huang का अफेयर, खुलासे के बाद क्यों बढ़ी परेशानी",
@@ -653,13 +674,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-09T08:59:58+05:30"
-          },
-          {
-            "title": "लखनऊ: आगरा एक्सप्रेसवे पर तेज रफ्तार बस खंती में पलटी, कई लोगों की मौत की आशंका, 22 घायल",
-            "link": "https://www.amarujala.com/lucknow/lucknow-high-speed-bus-overturns-into-ditch-on-agra-expressway-several-feared-dead-22-injured-2026-11-09",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-09T08:57:33+05:30"
           },
           {
             "title": "इसराइल में सरकार बनाने की चुनौती, आइज़नकोट पर क्या बोला अरब मीडिया?",
@@ -695,20 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-11-09T08:31:06+05:30"
-          },
-          {
-            "title": "आईपीएल 2027 ट्रेड: आठ खिलाड़ियों की अदला-बदली ने चौंकाया; जानें कौन छोड़ेंगे पुरानी टीम और किसके लिए खेलेंगे?",
-            "link": "https://www.amarujala.com/cricket/ipl-2027-trade-from-rishabh-pant-to-liam-livingstone-8-players-who-changed-teams-ft-hardik-pandya-arsheep-2026-11-09",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-09T08:30:44+05:30"
-          },
-          {
-            "title": "दिवाली पर देशभर में पटाखों से आग हादसे,3 की मौत:जम्मू में 12 दुकानें जलीं, नागपुर में बाइक शोरूम में आग, पुणे में 63 घटनाएं",
-            "link": "https://www.bhaskar.com/g/national/news/diwali-fire-accidents-jammu-nagpur-pune-delhi-mumbai-casualties-139633830.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-09T02:45:48+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,27 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "IAS પતિ અને IPS પત્ની પર 40 બંગલા-કૉટેજ ખરીદ્યાંનો આરોપ, વિપક્ષે ગણાવ્યો - 'મોટો ગોટાળો'",
+            "link": "https://www.bbc.com/gujarati/articles/cr93z0vd8qglo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-11-09T04:24:43+00:00"
+          },
+          {
+            "title": "ટ્રમ્પે કબૂલ્યું- ઇમિગ્રેશન પર જરૂર કરતાં વધુ કડકાઈ થઈ ગઈ - ન્યૂઝ અપડેટ",
+            "link": "https://www.bbc.com/gujarati/articles/cmn9r09gryz2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-11-09T04:05:20+00:00"
+          },
+          {
+            "title": "કારમાં આગ લાગવાથી એક મહિલા સહિત 6 લોકો જીવતા ભડથું:ડિવાઈડર તોડી 120 કિમીની સ્પીડે થાંભલા સાથે અથડાઈ, હરિયાણાના મુસાફરો હરિદ્વાર જઈ રહ્યા હતા",
+            "link": "https://www.divyabhaskar.co.in/national/news/muzaffarnagar-car-accident-highway-collision-fire-death-139634260.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-09T04:02:35+00:00"
+          },
+          {
             "title": "દિલ્હી-NCRમાં ફટાકડાંથી હવા ખતરનાક સ્તરે, AQI 418:પ્રયાગરાજમાં AQI 500ને પાર; ઉત્તર પ્રદેશમાં ઠંડી વધી, રાજસ્થાનમાં ગરમીએ રેકોર્ડ તોડ્યો",
             "link": "https://www.divyabhaskar.co.in/national/news/prayagraj-delhi-ncr-air-pollution-aqi-weather-update-139634235.html",
             "source": "Divya Bhaskar",
@@ -811,18 +832,11 @@
             "published": "2026-11-09T03:59:16+00:00"
           },
           {
-            "title": "દિવાળીએ દેશભરમાં ફટાકડાથી આગની અનેક દુર્ઘટનાઓ, 3નાં મોત:જમ્મુમાં 12 દુકાનો સળગી, નાગપુરમાં બાઈક શોરૂમમાં આગ, પુણેમાં 63 ઘટનાઓ",
+            "title": "દિવાળીની રાત્રે દેશભરમાં આગથી 16 લોકોનાં મોત:MPમાં જ 12 લોકોએ જીવ ગુમાવ્યા, જમ્મુમાં 12 દુકાનોમાં અને નાગપુરમાં એક બાઈક શોરૂમમાં આગ; પુણેમાં આગની 63 ઘટનાઓ",
             "link": "https://www.divyabhaskar.co.in/national/news/diwali-fire-accidents-jammu-nagpur-pune-rajasthan-delhi-news-139634104.html",
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-11-09T03:39:10+00:00"
-          },
-          {
-            "title": "દિલ્હીમાં AQI 400 પાર પહોંચ્યો, પ્રદૂષણની ગંભીર સ્થિતિ - ન્યૂઝ અપડેટ",
-            "link": "https://www.bbc.com/gujarati/articles/cmn9r09gryz2o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-09T02:53:27+00:00"
           },
           {
             "title": "એ દૃષ્ટિહીન લોકો જે બીજાના જીવનમાં પ્રકાશ રેલાવે છે",
@@ -872,20 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-11-08T12:22:20+00:00"
-          },
-          {
-            "title": "કૉંગ્રેસનો ખજાનો ખાલી, એક વર્ષમાં દાન 75% ઘટ્યું:2025-26માં ₹130.69 કરોડ મળ્યા; 10 વર્ષમાં સૌથી મોટો ઘટાડો",
-            "link": "https://www.divyabhaskar.co.in/national/news/congress-donation-drop-financial-crisis-india-election-funding-139630859.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-11-08T10:21:50+00:00"
-          },
-          {
-            "title": "'ઉત્તરમાં શાકાહારી, દક્ષિણમાં માંસાહારી' - ભારતના વિવિધ ભાગોમાં દિવાળી કેવી રીતે ઉજવવામાં આવે છે?",
-            "link": "https://www.bbc.com/gujarati/articles/ckqxn5g8yvj9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-08T10:19:29+00:00"
           }
         ]
       }
@@ -894,6 +894,20 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "இன்ஸ்டாகிராம் காதல்! மாற்றுத் திறனாளி பெண்ணை திருமணம் செய்து ஏமாற்றிய நபர்! போலீஸ் ஆக்ஷன்!",
+            "link": "https://tamil.oneindia.com/news/tamilnadu/physically-disabled-woman-was-cheated-by-youth-in-ambur-844005.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-11-09T09:37:57+05:30"
+          },
+          {
+            "title": "நெதன்யாகுவை போலவே கடுமையான கொள்கைகள் கொண்ட ஐசென்கோட்டை அரபு கட்சிகள் ஆதரித்தது ஏன்?",
+            "link": "https://www.bbc.com/tamil/articles/crd93190wg90o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-11-09T04:07:13+00:00"
+          },
           {
             "title": "சிறுநீர் கழிக்கும்போது எரிச்சலா? சிறுநீர் பாதை தொற்றின் அறிகுறிகளும் 8 முன்னெச்சரிக்கைகளும்",
             "link": "https://www.bbc.com/tamil/articles/cmy4x9q0vxqlo?at_medium=RSS&at_campaign=rss",
@@ -963,20 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-11-08T10:16:06+00:00"
-          },
-          {
-            "title": "காணொளி: வெற்றிப் பயணத் திட்டத்தால் தனியார் பேருந்துகளுக்கு பாதிப்பா? பிபிசி கள ஆய்வு",
-            "link": "https://www.bbc.com/tamil/watch/cx4g1n5d9r0ro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-11-08T09:09:47+00:00"
-          },
-          {
-            "title": "\"டார்கெட் லாக்..\" சவுதியை காலி செய்ய ஹவுதி நடத்திய தாக்குதல்.. எண்ணெய் நிறுவனங்கள், ஏர்போர்ட் குறி",
-            "link": "https://tamil.oneindia.com/news/international/houthis-attack-on-saudi-targeting-riyadh-airport-aramco-oil-facilities-and-military-bases-843919.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-11-08T14:34:12+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "సొంత చెల్లినే గెంటేసిన మీరు మహిళా సంక్షేమం చేస్తారా? కేటీఆర్‌పై సీఎం రేవంత్ ఫైర్!",
+            "link": "https://telugu.oneindia.com/news/telangana/cm-revanth-reddy-attacks-ktr-over-sister-kavitha-dispute-slams-ktr-over-women-welfare-comments-514095.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-09T09:31:17+05:30"
+          },
+          {
+            "title": "ముంచుకొస్తున్న మరో అల్పపీడనం, మళ్లీ భారీ వర్షాలు- ఈ జిల్లాలకు తాజా హెచ్చరిక..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/imd-predicts-low-pressure-area-in-bay-of-bengal-on-november-13-rain-alert-for-ap-and-telangana-514093.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-09T09:27:12+05:30"
+          },
+          {
             "title": "తిరుమలలో వైభవంగా దీపావళి ఆస్థానం, ఈ సారి ప్రత్యేకంగా..!!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-observes-traditional-deepavali-asthanam-at-tirumala-temple-here-the-details-514091.html",
             "source": "Oneindia Telugu",
@@ -1121,6 +1135,13 @@
             "published": "2026-11-09T01:11:00+00:00"
           },
           {
+            "title": "Fire Accident: కూకట్‌పల్లిలో భారీ అగ్నిప్రమాదం.. గోదాముల్లో ఎగిసిపడ్డ మంటలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjFyV2lFUUZkZzE1VGFteTMxWU1TY2lMb19ZWXVnVXF5RFVzWWVyendPUXFzTFhvNks5Y25qM2h2aVZHeXByZXdQbk4za19xTjQweWpHMF9pTjBnbV84eGlQVHJJTFFIdTRCeFlQQ0xwN25qN0t2SjhuWUNId0h1U1FEckUwS3RyR3M0dmUxcU1IRmVRTThUWnRFSWU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-09T00:37:04+00:00"
+          },
+          {
             "title": "Jensen Huang: ఆమెతో వివాహేతర సంబంధం నిజమే: ఎన్విడియా సీఈఓ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONW5fSmg3bFdpN096UGNUbXN0NzBsQjlwbGhxcHZFUnZmcnJJWXNmNFBTRnlmOE5rNmtid016UExZRTNLdlRIbDRFTkFhRFFtQjBSV0ZuRGptdGZUWVY1dWxJUnNYbE01d2dfOHNRSkNFZ2FweGJTNzlvRUpwVkJVUFZ1eGppNlA2cUtsdFMwbkxpdVFTNE9mWmlHUUVUVTZJakRXWHAtNkhaaTZ5LUkxWE9nejJFNk0wYjlNb1laYk9kOWpEVUNmM1drOFNEc0hrVXfSAdIBQVVfeXFMTjVuX0poN2xXaTdPelBjVG1zdDcwbEI5cGxocXB2RVJ2ZnJySVlzZjRQU0Z5ZjhOazZrYndNelBMWUUzS3ZUSGw0RU5BYURRbUIwUldGbkRqbXRmVFlWNXVsSVJzWGxNNXdnXzhzUUpDRWdhcHhiUzc5b0VKcFZCVVBWdXhqaTZQNnFLbHRTMG5MaXVRUzRPZlppR1FFVFU2SWpEV1hwLTZIWmk2eS1JMVhPZ3oyRTZNMGI5TW9ZWmJPZDlqRFVDZjNXazhTRHNIa1V3?oc=5",
             "source": "Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-08T22:00:00+00:00"
-          },
-          {
-            "title": "SS United States: టైటానిక్‌ కన్నా పెద్ద నౌకను ముంచేయనున్నారు.. ఎందుకంటే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS01OdDZ3UWJCakVTN000OVhQb29lZGJWbXVSMEtPMmtyTDRJT0pkVzZTVnRSMjd4WGZJNTZtNjJ4cGE2Q0M4LW1rVklFWTlvUGJHdkh3Vm5zQ2VTYlZPUkJKdmNSUkgzSjBRZURheDhRQ2FpLS1TQ3dfbXFFamVyWXNPcTFvNUx5WnprbEoySkVUVl96XzRfLWwycmlyMURwQmF0cGtNUndKbkowOXZTSzhiLUFMR3dKTEVDenRKNDJUeTVhRnZVYUwwWTh3eExO0gHQAUFVX3lxTFBLTU50NndRYkJqRVM3TTQ5WFBvb2VkYlZtdVIwS08ya3JMNElPSmRXNlNWdFIyN3hYZkk1Nm02MnhwYTZDQzgtbWtWSUVZOW9QYkd2SHdWbnNDZVNiVk9SQkp2Y1JSSDNKMFFlRGF4OFFDYWktLVNDd19tcUVqZXJZc09xMW81THlaemtsSjJKRVRWX3pfNF8tbDJyaXIxRHBCYXRwa01Sd0puSjA5dlNLOGItQUxHd0pMRUN6dEo0MlR5NWFGdlVhTDBZOHd4TE4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-08T21:23:51+00:00"
-          },
-          {
-            "title": "Nalgonda: ఫేక్‌ డెత్‌ సర్టిఫికెట్‌ సృష్టించి కారుణ్య నియామకం.. 14 మంది అరెస్టు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHdLRzQydEk5TkFKR0ZjWl8xOUdFVjgxakRtVjBPT183bU1kX3cwZnFrT3dKVDZILWpmcmctWDJDZHNTbExXenBkOGRjRmVuMk1WQ1ZpWEpRb1h3YUhmd05zVFpxb1dZZ2g4SVRiUExUNFowa0VWWGx1d0trZHFXcXBNT1hha2UzRXVtajVyb2VPWTQyZWtyakQ4eTNyV01UeHpNRTQyWjlBc1RYX1J1SXhB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-08T20:46:00+00:00"
-          },
-          {
-            "title": "Israel: ఇరాన్‌పై ‘మిషన్‌’ పూర్తికాలేదు - ఇజ్రాయెల్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeEg1TjA1MXBxdjFQMEpWUUNuMlNCcHdzajlaZ2EzNDFoVjBEVDJHa1htUndkVnFta3BKWHBQY20wZGFTWEJxNklXN0ppSmRzcjFwR0YyQW5fNGlnTGZGM3ZnZDMyM3NVdDQ2SnZYbVRuMVVxZTgxTU9tTjBaQ2NRTlV0Sm9QSWNMeC1kdGFlS0xURzk1cmp6a2o4eERBQ0pwNGdzaUJfemRhbVpWdHfSAa4BQVVfeXFMT3hINU4wNTFwcXYxUDBKVlFDbjJTQnB3c2o5WmdhMzQxaFYwRFQyR2tYbVJ3ZFZxbWtwSlhwUGNtMGRhU1hCcTZJVzdKaUpkc3IxcEdGMkFuXzRpZ0xmRjN2Z2QzMjNzVXQ0Nkp2WG1UbjFVcWU4MU1PbU4wWkNjUU5VdEpvUEljTHgtZHRhZUtMVEc5NXJqemtqOHhEQUNKcDRnc2lCX3pkYW1aVnR3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-08T20:25:00+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಚಾಮುಂಡಿ ದರ್ಶನಕ್ಕೆ ಆನ್‌ಲೈನ್ ಟಿಕೆಟ್: ಇನ್ಮುಂದೆ ಕ್ಯೂನಲ್ಲಿ ನಿಲ್ಲುವಂತಿಲ್ಲ, ಕುಳಿತಲ್ಲಿಯೇ ಆನ್‌ಲೈನ್ ಮೂಲಕ ಪೂಜೆ",
+            "link": "https://kannada.oneindia.com/news/karnataka/chamundeshwari-temple-mysuru-introduces-digital-online-ticket-booking-for-darshan-and-sevas-473925.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-09T09:49:24+05:30"
+          },
+          {
+            "title": "ಹಾಸನ ಜಿಲ್ಲಾಧಿಕಾರಿ ಕಚೇರಿಯಿಂದ ಹಣ ಸುಲಿಗೆ; ಆ ಸಚಿವರು ಶಾಮೀಲು: ದಾಖಲೆ ಬಿಡುಗಡೆ ಮಾಡಿ ಹೆಚ್.ಡಿ. ಕುಮಾರಸ್ವಾಮಿ",
+            "link": "https://kannada.oneindia.com/news/karnataka/corruption-allegations-money-extortion-allegations-at-hassan-dc-office-hd-kumaraswamy-releases-doc-473923.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-09T09:32:15+05:30"
+          },
+          {
             "title": "ವಿದೇಶಿ ಏರ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿ ನೆಲದ ಮೇಲೆ ಕುಳಿತು ಊಟ ಮಾಡಿದ ಭಾರತೀಯರು: ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡ ಹರ್ಷ ಗೋಯೆಂಕಾ",
             "link": "https://kannada.oneindia.com/news/india/industrialist-harsh-goenka-slams-indian-tourists-for-eating-on-airport-floor-in-vietnam-in-viral-vid-473921.html",
             "source": "Oneindia Kannada",
@@ -1317,20 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-11-08T19:55:03+05:30"
-          },
-          {
-            "title": "Ethanol 20: ಎಥೆನಾಲ್ ಗೊಂದಲಕ್ಕೆ ಕೇಂದ್ರವೇ ಕಾರಣ; ಬಿಜೆಪಿ ಸರ್ಕಾರದ ವಿರುದ್ಧ ಎಂ.ಬಿ. ಪಾಟೀಲ ಗಂಭೀರ ಆರೋಪ!",
-            "link": "https://kannada.oneindia.com/news/karnataka/ethanol-20-crisis-what-mb-patil-blames-centre-accuses-bjp-government-policy-failures-473891.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-08T19:00:07+05:30"
-          },
-          {
-            "title": "RCB: ಆರ್‌ಸಿಬಿ ಸ್ಟಾರ್ ರಜತ್ ಪಾಟೀದಾರ್ ಟೀಮ್ ಇಂಡಿಯಾದಿಂದ ಔಟ್‌..",
-            "link": "https://kannada.oneindia.com/news/sports/rcb-star-rajat-patidar-withdraws-from-india-a-squad-for-rising-stars-asia-cup-2026-know-details-473889.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-08T18:38:42+05:30"
           }
         ],
         "Entertainment": [
@@ -1433,6 +1433,13 @@
             "published": "2026-11-09T03:37:27+00:00"
           },
           {
+            "title": "পারিবারিক বিবাদে যুবককে খুন, আটক তিন - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzM5ckprLW8zdHkwNjllX2R0ZXdRdTIwTlU1ZEhfVlNxemROeml3ZUl3WlNldWpXSF83WDBmUFZ0UVM2NDJDdlRSNzQ3Z3piaFR3Nl9pTWRxX2JwLTJTN2ItVk9VSWlFNU1fVy01M21ueHlqUi1UTnc1ZFRLSkdaSHFiRkZXMXJveFNMWTZUdjBya3V0Y2JEcFIzdw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-09T03:33:59+00:00"
+          },
+          {
             "title": "কালীঘাটে পুলিশের সামনেই দিনভর আইন ভাঙার চেষ্টা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONS1oM2JNUjBOTTZjOXdkNzhHQWJUNUtrbFJ3akFhUHF6WHpxQ1QzanFnZ2NydUNpRk1SVTgxdHhrcWd4bV9oNlcxQTFZODQ4SnFEdnVfYnZWT2M0Q2lDRFVsWGwwS0xxaGgyZXUwREFiY3Boa3RBTTBOSC13c2RsZm1XVGpxMlJ1el9zZjRNWXI0TzJiTTlWdGEtazdCazV5cWFZQlpUYkczQnJuYVRVRjd3?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T01:46:02+00:00"
-          },
-          {
-            "title": "আজকের দিন কর্কট রাশি- ০৯ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcl92SENrcl9xdDYxWW5IbHl5b09KM0I0bjFwQnRzRzU4ZG52Sy0zYmd6Ujc2b0VlOTNzMWZqUi1tOFB4Y1RSZDhXbVRZckUzZkhBMmdwaGpld2RVakg2SnJReTJBLUZ4MnBrclRYUnFaSWhqaFBqU1ptVE5RQmpvRU1JTUYzMHJ3YTZEcFd3T1BKdTAzclpwVktVVTBPUktPanM4TWJaTjh5VmV1OGlkbtIBtgFBVV95cUxPMXQ3VW41aUdXSjVnSDQxaWZ1OUdYMkxnOHlDMjlIaHhGUUthcHhkTXB1cXNrQlFNZGhFdmVTTFRtWGJQc3RUYW1VQmtoX2ZoR2hhZDdjQjRhcVhUdUc4RXBEdmxsa3poaE05Rks4VzRMVG92RlA3UEc1cy1ONHJHajVWc2EzMnR2QzZYY3RfVG9UdXJUWHI5ZHd2NXFFVkRtaEJwbGVPRFM0N2x2MDc2bkZkdDdsZw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-08T20:04:46+00:00"
           }
         ]
       }
