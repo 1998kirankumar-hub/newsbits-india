@@ -1,116 +1,165 @@
 {
-  "updated_at": "2026-11-10T06:01:18.079799+00:00",
+  "updated_at": "2026-11-10T06:31:05.688809+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Independent bookshop closing after rise in bills",
+            "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
+            "published": "2026-11-10T06:22:52+00:00"
+          },
+          {
+            "title": "Holiday hunger bill to face final Stormont hurdle",
+            "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The new law would would help poorer families with food costs during school holidays.",
+            "published": "2026-11-10T06:21:02+00:00"
+          },
+          {
+            "title": "Three-year-old girl sexually assaulted in Goa, hospitalised; minister blames outsiders for 90% of such crimes",
+            "link": "https://www.thehindu.com/news/national/goa/three-year-old-girl-sexually-assaulted-in-goa-hospitalised-minister-blames-outsiders-for-90-of-such-crimes/article71685104.ece",
+            "source": "The Hindu",
+            "summary": "The survivor was initially rushed to the Mapusa District Hospital in a critical condition and later shifted to the Goa Medical College and Hospital in Panaji for further treatment, says police spokesperson",
+            "published": "2026-11-10T11:45:50+05:30"
+          },
+          {
+            "title": "Bihar to host convention in January to draw up roadmap for state's development",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-states-development/article71685131.ece",
+            "source": "The Hindu",
+            "summary": "The 'Global Convention on Transforming Bihar 2027' will be held on January 12 and 13 in Patna",
+            "published": "2026-11-10T11:43:55+05:30"
+          },
+          {
+            "title": "Open letter raises objections to proposed reduction of lake, stormwater drain buffers across Karnataka",
+            "link": "https://www.thehindu.com/news/cities/bangalore/open-letter-raises-objections-to-proposed-reduction-of-lake-stormwater-drain-buffers-across-karnataka/article71682558.ece",
+            "source": "The Hindu",
+            "summary": "The proposed reductions are driven by real estate interests, disregarding the CPHEEO’s technical guidelines on drainage planning and existing judicial directions on lakes, reads the letter",
+            "published": "2026-11-10T11:41:59+05:30"
+          },
+          {
+            "title": "India hold on to series lead after washout as New Zealand's winning streak ends",
+            "link": "https://www.cricinfo.com/ci/content/story/1562092.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "There was a small window amid the rain for the toss, which India won and chose to field, but there was no chance of any actual play taking place in Hamilton",
+            "published": "2026-11-10T06:09:48+00:00"
+          },
+          {
+            "title": "New chief outlines main issues facing Isle of Man",
+            "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The chief minister says connectivity and food storage were among his top government priorities.",
+            "published": "2026-11-10T06:09:01+00:00"
+          },
+          {
+            "title": "Can the Republican Party survive Trump?",
+            "link": "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The party faces a battle for its future after the midterms, but Democrats may ultimately determine whether it recovers.",
+            "published": "2026-11-10T06:08:54+00:00"
+          },
+          {
+            "title": "India, Oman begin naval exercise as Arabian Sea security takes centre stage",
+            "link": "https://timesofindia.indiatimes.com/defence/news/india-oman-begin-naval-exercise-as-arabian-sea-security-takes-centre-stage/articleshow/135701250.cms",
+            "source": "Times of India",
+            "summary": "INS Surat arrived in Muscat to join the 15th edition of Naseem Al Bahr and conduct joint patrols. The exercise fosters interoperability and strengthens cooperation between the Indian Navy and the Royal Navy of Oman. India maintains a presence in crucial maritime areas to ensure energy security and counter piracy threats. Recent operations showcased multi-national training initiatives and successful piracy rescues…",
+            "published": "2026-11-10T11:38:29+05:30"
+          },
+          {
+            "title": "CRPF to acquire loitering munitions combining drone surveillance, guided missile strike capabilities",
+            "link": "https://www.hindustantimes.com/india-news/crpf-to-acquire-loitering-munitions-combining-drone-surveillance-guided-missile-strike-capabilities-101794290658317.html",
+            "source": "Hindustan Times",
+            "summary": "The Central Reserve Police Force has sought information by November end from vendors what they can supply",
+            "published": "2026-11-10T11:34:17+05:30"
+          },
+          {
+            "title": "3 workers die of suspected toxic gas inhalation at Tamil Nadu factory",
+            "link": "https://www.hindustantimes.com/india-news/3-workers-die-of-suspected-toxic-gas-inhalation-at-tamil-nadu-hosur-factory-101794289746224.html",
+            "source": "Hindustan Times",
+            "summary": "The state government said it would investigate the incident and take appropriate action.&nbsp;",
+            "published": "2026-11-10T11:34:11+05:30"
+          },
+          {
+            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "published": "2026-11-10T06:01:44+00:00"
+          },
+          {
+            "title": "New Vice-Chancellor appointed for Indian Maritime University",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/new-vice-chancellor-appointed-for-indian-maritime-university/article71682788.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T11:29:59+05:30"
+          },
+          {
             "title": "DMK MP Jagathrakshakan, son Sundeep Anand of TVK move Madras High Court over ₹161.12-crore FEMA case",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-jagathrakshakan-son-sundeep-anand-of-tvk-move-madras-high-court-over-16112-crore-fema-case/article71685047.ece",
             "source": "The Hindu",
             "summary": "They have challenged seizure of properties worth ₹45.34 crore in India in connection with a company incorporated in Singapore",
-            "published": "2026-11-10T11:25:24+05:30"
-          },
-          {
-            "title": "John Cena's Holiday Plans Look Very Different After WWE Retirement",
-            "link": "https://sports.ndtv.com/us/wwe/john-cenas-holiday-plans-look-very-different-after-wwe-retirement-12306361#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "John Cena says years of WWE commitments left him with very little holiday downtime. After retiring from in-ring competition, he is enjoying a changed schedule while sharing Chime's holiday campaign and his rule for meaningful gifts this season.",
-            "published": "2026-11-10T11:23:27+05:30"
-          },
-          {
-            "title": "Luka Doncic Makes It Special For NBA Rookie Cameron Carr With His First Ever Bucket",
-            "link": "https://sports.ndtv.com/us/nba/luka-doncic-makes-it-special-for-nba-rookie-cameron-carr-with-his-first-ever-bucket-12306403#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Luka Doncic made sure Lakers rookie Cameron Carr got his first NBA bucket in the win over the Hawks. “You always want to remember your first bucket,” Luka said, calling Carr “really good” in his debut.",
-            "published": "2026-11-10T11:23:18+05:30"
-          },
-          {
-            "title": "Road Dogg Was Not Fired From WWE Over Chelsea Green, New Report Claims",
-            "link": "https://sports.ndtv.com/us/wwe/road-dogg-was-not-fired-from-wwe-over-chelsea-green-new-report-claims-12306430#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Fightful Select has shared a fresh update on Road Dogg’s WWE departure, disputing claims that he was fired for supporting Chelsea Green. Six sources reportedly told the outlet that the WWE legend resigned.",
-            "published": "2026-11-10T11:23:13+05:30"
-          },
-          {
-            "title": "DeenTheGreat Reveals Why He Really Dissed Kai Cenat On The Breakfast Club",
-            "link": "https://sports.ndtv.com/us/us-streamers/deenthegreat-reveals-why-he-really-dissed-kai-cenat-on-the-breakfast-club-12306433#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "DeenTheGreat doubled down on his Kai Cenat diss on The Breakfast Club, claiming Kai walked away from him at his store and admitting he made the track to make money.",
-            "published": "2026-11-10T11:23:11+05:30"
-          },
-          {
-            "title": "Former Cleveland Browns Star Criticizes Todd Monken Over Shedeur Sanders' Situation",
-            "link": "https://sports.ndtv.com/us/nfl/former-cleveland-browns-star-criticizes-todd-monken-over-shedeur-sanders-situation-12306513#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former Browns star Jarvis Landry criticizes Todd Monken's overtime decision as Shedeur Sanders' performance raises questions about Cleveland's starting quarterback for Week 10.",
-            "published": "2026-11-10T11:22:53+05:30"
-          },
-          {
-            "title": "Keith Tkachuk Calls Fatherhood His \"Greatest Title\" During Emotional Hall Of Fame Speech",
-            "link": "https://sports.ndtv.com/us/nhl/keith-tkachuk-calls-fatherhood-his-greatest-title-during-emotional-hall-of-fame-speech-12306481#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Keith Tkachuk honored his children during his Hockey Hall of Fame induction speech, while Matthew and Brady reflected on the legacy their father built throughout his NHL career.",
-            "published": "2026-11-10T11:22:43+05:30"
-          },
-          {
-            "title": "Why Gunther vs. Finn Balor Was Left Off WWE Crown Jewel’s Final Match Card",
-            "link": "https://sports.ndtv.com/us/wwe/why-gunther-vs-finn-balor-was-left-off-wwe-crown-jewel-s-final-match-card-12306487#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Dave Meltzer reports that Gunther chose not to travel to Saudi Arabia, leaving his planned Crown Jewel match with Finn Balor off the card. Another report offers a different reason, while WWE has yet to confirm either account as of November 10.",
-            "published": "2026-11-10T11:22:39+05:30"
-          },
-          {
-            "title": "WWE Books Title Match And John Cena Appearance For Raw As Liv Morgan Gets Survivor Series Challenger",
-            "link": "https://sports.ndtv.com/us/wwe/wwe-books-title-match-and-john-cena-appearance-for-raw-as-liv-morgan-gets-survivor-series-challenger-12306498#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "WWE has booked Raquel Rodriguez vs. IYO SKY for the November 16 Raw, where John Cena is also advertised. Liv Morgan will defend her Women’s World Title against Becky Lynch at Survivor Series, alongside a traditional Team USA vs. Team Mexico match.",
-            "published": "2026-11-10T11:22:36+05:30"
-          },
-          {
-            "title": "CSIR-CCMB team identifies potential new targets to fight Tuberculosis",
-            "link": "https://www.thehindu.com/sci-tech/health/csir-ccmb-team-identifies-potential-new-targets-to-fight-tuberculosis/article71682790.ece",
-            "source": "The Hindu",
-            "summary": "Tuberculosis remains a major public health challenge, as treatment requires a combination of antibiotics taken over several months and is becoming increasingly difficult due to the emergence of resistant strains",
-            "published": "2026-11-10T11:21:53+05:30"
-          },
-          {
-            "title": "Popular cinematographer Shaji Kumar passes away",
-            "link": "https://www.thehindu.com/news/national/kerala/popular-cinematographer-shaji-kumar-passes-away/article71684799.ece",
-            "source": "The Hindu",
-            "summary": "Shaji Kumar dies in Kochi at 57 after cardiac failure",
-            "published": "2026-11-10T11:20:02+05:30"
-          },
-          {
-            "title": "India vs New Zealand 3rd ODI Highlights, IND vs NZ Match: Rain Plays Spoilsport As Match Called Off; India Take Unassilable Lead",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-3rd-odi-live-score-ind-vs-nz-live-updates-match-today-virat-kohli-shubman-gill-rohit-sharma-12305072#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs New Zealand 3rd ODI Highlights, IND vs NZ Match Today: Third ODI between India and New Zealand in Hamilton called off without any play due to persistent rain.",
-            "published": "2026-11-10T11:20:01+05:30"
-          },
-          {
-            "title": "Odisha Cabinet approves free Wi-Fi scheme for colleges, lifts civil services exam attempt cap",
-            "link": "https://www.hindustantimes.com/india-news/odisha-cabinet-approves-free-wi-fi-scheme-for-colleges-lifts-civil-services-exam-attempt-cap-101794289463357.html",
-            "source": "Hindustan Times",
-            "summary": "Student will be entitled to use up to 1 GB of free internet data daily within campuses for academic purposes",
-            "published": "2026-11-10T11:14:22+05:30"
-          },
-          {
-            "title": "Five injured as bus rams into two cars at Wadala traffic signal",
-            "link": "https://www.thehindu.com/news/national/maharashtra/best-bus-crashes-into-two-cars-wadala-lodha-junciton/article71684842.ece",
-            "source": "The Hindu",
-            "summary": "Police moved the damaged vehicles to the roadside to restore normal flow of traffic at the junction",
-            "published": "2026-11-10T11:12:47+05:30"
+            "published": "2026-11-10T11:28:00+05:30"
           }
         ],
         "India": [
           {
+            "title": "Three-year-old girl sexually assaulted in Goa, hospitalised; minister blames outsiders for 90% of such crimes",
+            "link": "https://www.thehindu.com/news/national/goa/three-year-old-girl-sexually-assaulted-in-goa-hospitalised-minister-blames-outsiders-for-90-of-such-crimes/article71685104.ece",
+            "source": "The Hindu",
+            "summary": "The survivor was initially rushed to the Mapusa District Hospital in a critical condition and later shifted to the Goa Medical College and Hospital in Panaji for further treatment, says police spokesperson",
+            "published": "2026-11-10T11:45:50+05:30"
+          },
+          {
+            "title": "Bihar to host convention in January to draw up roadmap for state's development",
+            "link": "https://www.thehindu.com/news/national/bihar/bihar-to-host-convention-in-january-to-draw-up-roadmap-for-states-development/article71685131.ece",
+            "source": "The Hindu",
+            "summary": "The 'Global Convention on Transforming Bihar 2027' will be held on January 12 and 13 in Patna",
+            "published": "2026-11-10T11:43:55+05:30"
+          },
+          {
+            "title": "Open letter raises objections to proposed reduction of lake, stormwater drain buffers across Karnataka",
+            "link": "https://www.thehindu.com/news/cities/bangalore/open-letter-raises-objections-to-proposed-reduction-of-lake-stormwater-drain-buffers-across-karnataka/article71682558.ece",
+            "source": "The Hindu",
+            "summary": "The proposed reductions are driven by real estate interests, disregarding the CPHEEO’s technical guidelines on drainage planning and existing judicial directions on lakes, reads the letter",
+            "published": "2026-11-10T11:41:59+05:30"
+          },
+          {
+            "title": "India, Oman begin naval exercise as Arabian Sea security takes centre stage",
+            "link": "https://timesofindia.indiatimes.com/defence/news/india-oman-begin-naval-exercise-as-arabian-sea-security-takes-centre-stage/articleshow/135701250.cms",
+            "source": "Times of India",
+            "summary": "INS Surat arrived in Muscat to join the 15th edition of Naseem Al Bahr and conduct joint patrols. The exercise fosters interoperability and strengthens cooperation between the Indian Navy and the Royal Navy of Oman. India maintains a presence in crucial maritime areas to ensure energy security and counter piracy threats. Recent operations showcased multi-national training initiatives and successful piracy rescues…",
+            "published": "2026-11-10T11:38:29+05:30"
+          },
+          {
+            "title": "CRPF to acquire loitering munitions combining drone surveillance, guided missile strike capabilities",
+            "link": "https://www.hindustantimes.com/india-news/crpf-to-acquire-loitering-munitions-combining-drone-surveillance-guided-missile-strike-capabilities-101794290658317.html",
+            "source": "Hindustan Times",
+            "summary": "The Central Reserve Police Force has sought information by November end from vendors what they can supply",
+            "published": "2026-11-10T11:34:17+05:30"
+          },
+          {
+            "title": "3 workers die of suspected toxic gas inhalation at Tamil Nadu factory",
+            "link": "https://www.hindustantimes.com/india-news/3-workers-die-of-suspected-toxic-gas-inhalation-at-tamil-nadu-hosur-factory-101794289746224.html",
+            "source": "Hindustan Times",
+            "summary": "The state government said it would investigate the incident and take appropriate action.&nbsp;",
+            "published": "2026-11-10T11:34:11+05:30"
+          },
+          {
+            "title": "New Vice-Chancellor appointed for Indian Maritime University",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/new-vice-chancellor-appointed-for-indian-maritime-university/article71682788.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T11:29:59+05:30"
+          },
+          {
             "title": "DMK MP Jagathrakshakan, son Sundeep Anand of TVK move Madras High Court over ₹161.12-crore FEMA case",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-jagathrakshakan-son-sundeep-anand-of-tvk-move-madras-high-court-over-16112-crore-fema-case/article71685047.ece",
             "source": "The Hindu",
             "summary": "They have challenged seizure of properties worth ₹45.34 crore in India in connection with a company incorporated in Singapore",
-            "published": "2026-11-10T11:25:24+05:30"
+            "published": "2026-11-10T11:28:00+05:30"
           },
           {
             "title": "CSIR-CCMB team identifies potential new targets to fight Tuberculosis",
@@ -120,77 +169,35 @@
             "published": "2026-11-10T11:21:53+05:30"
           },
           {
+            "title": "Asian stocks rally as Wall Street rebounds, oil prices ease",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rally-as-wall-street-rebounds-oil-prices-ease-on-iran-de-escalation-hopes/articleshow/135700659.cms",
+            "source": "Times of India",
+            "summary": "Asian stock markets rallied on Tuesday as US stocks experienced a significant rebound on the previous day. Notably, Japan's Nikkei 225 saw a 2.6% rise while South Korea's Kospi climbed 4%. Technology stocks led the gains with SoftBank Group shares jumping ahead of its earnings announcement. Concurrently, oil prices declined due to reduced military tensions regarding Iran's conflict situation.",
+            "published": "2026-11-10T11:21:27+05:30"
+          },
+          {
+            "title": "Kerala checks petrol pumps for excess ethanol blending after Karnataka irregularities report",
+            "link": "https://www.hindustantimes.com/india-news/kerala-checks-petrol-pumps-for-excess-ethanol-blending-after-karnataka-irregularities-report-101794282242559.html",
+            "source": "Hindustan Times",
+            "summary": "Kerala has sampled petrol from nine pumps in four districts to test for excess ethanol. Results are due in 10 days; no violation is confirmed yet.",
+            "published": "2026-11-10T11:20:42+05:30"
+          },
+          {
             "title": "Popular cinematographer Shaji Kumar passes away",
             "link": "https://www.thehindu.com/news/national/kerala/popular-cinematographer-shaji-kumar-passes-away/article71684799.ece",
             "source": "The Hindu",
             "summary": "Shaji Kumar dies in Kochi at 57 after cardiac failure",
             "published": "2026-11-10T11:20:02+05:30"
-          },
-          {
-            "title": "Odisha Cabinet approves free Wi-Fi scheme for colleges, lifts civil services exam attempt cap",
-            "link": "https://www.hindustantimes.com/india-news/odisha-cabinet-approves-free-wi-fi-scheme-for-colleges-lifts-civil-services-exam-attempt-cap-101794289463357.html",
-            "source": "Hindustan Times",
-            "summary": "Student will be entitled to use up to 1 GB of free internet data daily within campuses for academic purposes",
-            "published": "2026-11-10T11:14:22+05:30"
-          },
-          {
-            "title": "Five injured as bus rams into two cars at Wadala traffic signal",
-            "link": "https://www.thehindu.com/news/national/maharashtra/best-bus-crashes-into-two-cars-wadala-lodha-junciton/article71684842.ece",
-            "source": "The Hindu",
-            "summary": "Police moved the damaged vehicles to the roadside to restore normal flow of traffic at the junction",
-            "published": "2026-11-10T11:12:47+05:30"
-          },
-          {
-            "title": "Tool developed to test teachers’ knowledge of inclusive education",
-            "link": "https://www.thehindu.com/news/national/nagaland/tool-developed-to-test-teachers-knowledge-of-inclusive-education/article71682867.ece",
-            "source": "The Hindu",
-            "summary": "Nagaland University researchers say the 50-item achievement test is designed to improve teaching practices for children with learning needs",
-            "published": "2026-11-10T11:12:08+05:30"
-          },
-          {
-            "title": "Anshul Kamboj explains why NZ feels like Haryana: 'Similar weather and wickets'",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/anshul-kamboj-explains-why-new-zealand-feels-like-haryana-similar-weather-and-wickets/articleshow/135700801.cms",
-            "source": "Times of India",
-            "summary": "Anshul Kamboj is experiencing his first tour in New Zealand and finding the conditions familiar. He has made a strong impact in his ODI performances, returning excellent bowling figures. Kamboj credits his success to accuracy and adapting to the pitch conditions. His time with Chennai Super Kings helped him develop further as a cricketer.",
-            "published": "2026-11-10T11:12:02+05:30"
-          },
-          {
-            "title": "Social activist Sanjit Bunker Roy dies",
-            "link": "https://www.thehindu.com/news/national/social-activist-sanjit-bunker-roy-dies/article71685040.ece",
-            "source": "The Hindu",
-            "summary": "Roy founded the Social Work and Research Centre, popularly known as Barefoot College, in Tilonia in 1972",
-            "published": "2026-11-10T11:09:26+05:30"
-          },
-          {
-            "title": "16-year-old boy dies as firecracker explosion causes fire in a shop in Mumbai",
-            "link": "https://www.hindustantimes.com/india-news/16yearold-boy-dies-as-firecracker-explosion-causes-fire-in-a-shop-in-mumbai-101794288061885.html",
-            "source": "Hindustan Times",
-            "summary": "The incident came amid a spate of fires across Mumbai during Diwali, with the MFB receiving 200+ firecracker-related fire calls between November 6 and 9.",
-            "published": "2026-11-10T11:07:44+05:30"
-          },
-          {
-            "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
-            "source": "The Hindu",
-            "summary": "In a joint statement, the couple said that, after sharing a significant part of their lives together, they had decided to separate",
-            "published": "2026-11-10T11:07:30+05:30"
-          },
-          {
-            "title": "Odisha: 4 held for 'scuffle' with police personnel during Diwali celebrations in Cuttack",
-            "link": "https://www.thehindu.com/news/national/odisha/odisha-4-held-for-scuffle-with-police-personnel-during-diwali-celebrations-in-cuttack/article71685059.ece",
-            "source": "The Hindu",
-            "summary": "The incident took place when a group of people were bursting firecrackers in Nayasadak area",
-            "published": "2026-11-10T11:07:26+05:30"
-          },
-          {
-            "title": "London issues high air pollution alert as PM2.5 levels cross WHO limit by 8 times",
-            "link": "https://timesofindia.indiatimes.com/world/uk/london-issues-high-air-pollution-alert-as-pm2-5-levels-cross-who-limit-by-8-times/articleshow/135700555.cms",
-            "source": "Times of India",
-            "summary": "London Mayor Sadiq Khan issued a high air pollution alert for the capital urging residents to take precautions. Vulnerable groups were particularly advised to minimize their exposure to polluted air, following high pollution levels. Government monitoring indicated that numerous locations exceeded healthy particulate matter levels due to weather conditions and celebrations. Experts suggested that domestic burning and…",
-            "published": "2026-11-10T11:05:25+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Can the Republican Party survive Trump?",
+            "link": "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The party faces a battle for its future after the midterms, but Democrats may ultimately determine whether it recovers.",
+            "published": "2026-11-10T06:08:54+00:00"
+          },
           {
             "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
             "link": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
@@ -267,16 +274,44 @@
             "source": "BBC World",
             "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
             "published": "2026-11-10T03:58:13+00:00"
-          },
-          {
-            "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-            "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-            "published": "2026-11-10T03:17:51+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Independent bookshop closing after rise in bills",
+            "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
+            "published": "2026-11-10T06:22:52+00:00"
+          },
+          {
+            "title": "Holiday hunger bill to face final Stormont hurdle",
+            "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The new law would would help poorer families with food costs during school holidays.",
+            "published": "2026-11-10T06:21:02+00:00"
+          },
+          {
+            "title": "New chief outlines main issues facing Isle of Man",
+            "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The chief minister says connectivity and food storage were among his top government priorities.",
+            "published": "2026-11-10T06:09:01+00:00"
+          },
+          {
+            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "published": "2026-11-10T06:01:44+00:00"
+          },
+          {
+            "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+            "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+            "published": "2026-11-10T05:22:39+00:00"
+          },
           {
             "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
             "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -325,44 +360,16 @@
             "source": "Economic Times",
             "summary": "Foreign portfolio investors have favored 83 companies, including LIC, ONGC, and Indian Bank, over the past four quarters. Despite foreign investors selling nearly $28 billion of Indian stocks, some companies saw increased holdings. Large-cap firms like Lupin and SAIL attracted more interest from FPIs during this period. Recent concerns over crude oil prices and inflation impacted the sentiment of foreign investors…",
             "published": "2026-11-10T06:21:53+05:30"
-          },
-          {
-            "title": "Global brokerages turn bullish on Indian equities as market rebounds",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-turn-bullish-on-india-as-inflows-fuel-rally/articleshow/135696007.cms",
-            "source": "Economic Times",
-            "summary": "Global brokerages HSBC, Citigroup, and Jefferies have upgraded their outlook on Indian equities. They cite improving earnings prospects and attractive valuations as key factors for this optimism. Recent foreign fund inflows and reduced oil prices further support this positive sentiment. Citigroup anticipates significant growth in the Nifty 50 by the end of 2027. Overall, Indian equities are poised for a sharp…",
-            "published": "2026-11-10T06:15:55+05:30"
-          },
-          {
-            "title": "Headteachers say families will struggle after another rise in school dinner prices",
-            "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-            "published": "2026-11-10T00:00:22+00:00"
-          },
-          {
-            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-            "published": "2026-11-09T23:51:22+00:00"
-          },
-          {
-            "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-            "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-            "published": "2026-11-09T21:52:28+00:00"
-          },
-          {
-            "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-            "published": "2026-11-09T19:58:01+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "India hold on to series lead after washout as New Zealand's winning streak ends",
+            "link": "https://www.cricinfo.com/ci/content/story/1562092.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "There was a small window amid the rain for the toss, which India won and chose to field, but there was no chance of any actual play taking place in Hamilton",
+            "published": "2026-11-10T06:09:48+00:00"
+          },
           {
             "title": "John Cena's Holiday Plans Look Very Different After WWE Retirement",
             "link": "https://sports.ndtv.com/us/wwe/john-cenas-holiday-plans-look-very-different-after-wwe-retirement-12306361#publisher=newsstand",
@@ -439,16 +446,16 @@
             "source": "NDTV Sports",
             "summary": "Arshdeep Singh's father, Darshan Singh, has confirmed that the pacer has been traded from Punjab Kings to Mumbai Indians. But, he didn't confirm if Hardik Pandya is part of the deal.",
             "published": "2026-11-10T11:06:29+05:30"
-          },
-          {
-            "title": "Shanto: Bangladesh failed to make use of home conditions",
-            "link": "https://www.cricinfo.com/ci/content/story/1562052.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "\"Looking at the Test match as a whole, neither our batters nor our bowlers performed well; the responsibility lies with us\"",
-            "published": "2026-11-10T05:32:10+00:00"
           }
         ],
         "Technology": [
+          {
+            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+            "published": "2026-11-10T06:01:44+00:00"
+          },
           {
             "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
             "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "Vivo's latest budget 5G smartphone brings a high-refresh-rate display and a large battery to the entry-level segment. The Y6k is equipped with a MediaTek Dimensity 6300 chipset, 6GB of RAM and 128GB of onboard storage. It also offers a 13-megapixel rear camera, a 5-megapixel selfie shooter and 15W charging. Other features include an IP65 rating, SGS five-star drop-resistance certification, a side-mounted fingerprint…",
             "published": "2026-11-09T19:20:20+05:30"
-          },
-          {
-            "title": "Amazon Great Indian Festival Diwali Edition Sale: Best Deals on Projectors From BenQ, XGIMI, WZATCO and More",
-            "link": "https://www.gadgets360.com/smart-home/news/amazon-great-indian-festival-diwali-edition-sale-best-deals-projectors-benq-xgimi-wzatco-12303785",
-            "source": "Gadgets 360",
-            "summary": "Amazon Great Indian Festival Diwali Edition Sale is now live in India. The ongoing sale offers up to 65 percent off on select projector models from brands such as BenQ, XGIMI, WZATCO, Lumio and E GATE. Buyers can also avail of additional savings through eligible bank offers, exchange deals and No Cost EMI options.",
-            "published": "2026-11-09T19:19:59+05:30"
           }
         ],
         "Entertainment": [
@@ -627,11 +627,32 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "IND vs NZ Highlights: बारिश की भेंट चढ़ा तीसरा वनडे, बिना एक भी गेंद डाले रद्द, सीरीज में आगे भारत",
-            "link": "https://www.amarujala.com/live/cricket/cricket-news/ind-vs-nz-live-cricket-score-india-vs-new-zealand-3rd-odi-2026-match-at-seddon-stadium-news-in-hindi-2026-11-10",
+            "title": "IND vs NZ: बारिश ने फिर छीना क्रिकेट का रोमांच, बिना एक भी गेंद फेंके रद्द हुआ मुकाबला",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/ind-vs-nz-3rd-odi-abandoned-due-to-rain-india-maintain-2-0-series-lead-1681891.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-10T11:49:25+05:30"
+          },
+          {
+            "title": "स्पेन में खुलेआम 'किस' करना क्यों है इतना आम?",
+            "link": "https://www.bbc.com/hindi/articles/cxe8r8n310vlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-11-10T06:19:09+00:00"
+          },
+          {
+            "title": "हैमिल्टन में बारिश बनी विलेन: भारत-न्यूजीलैंड के बीच तीसरा वनडे रद्द, टीम इंडिया का सीरीज जीतने का इंतजार बढ़ा",
+            "link": "https://www.amarujala.com/cricket/cricket-news/ind-vs-nz-3rd-odi-highlights-2026-india-vs-new-zealand-today-match-result-scorecard-analysis-record-2026-11-10",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-10T11:16:55+05:30"
+            "published": "2026-11-10T11:42:09+05:30"
+          },
+          {
+            "title": "सोनिया की किताब में खुलासा: राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र",
+            "link": "https://www.amarujala.com/india-news/sonia-gandhi-memoir-rahul-rajiv-gandhi-assassination-indira-gandhi-temper-2026-11-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-10T11:30:44+05:30"
           },
           {
             "title": "पत्नी से बेवफाई करने वाले CEO जेनसेन हुआंग कितनी संपत्ति के मालिक? अगर ऐसा हुआ तो गंवानी पड़ेगी आधी प्रोपर्टी",
@@ -662,6 +683,13 @@
             "published": "2026-11-10T10:51:11+05:30"
           },
           {
+            "title": "छह की मौत: जगमगा रहा था राखी गढ़ी, हाईवे पर बुझे चिराग; भैया दूज पर बहन के घर ले जानी पड़ेगी भांजे की लाश",
+            "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/meerut/up-tragedy-six-friends-die-in-car-crash-families-mourn-as-bhai-dooj-turns-into-day-of-grief-2026-11-10",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-10T10:48:04+05:30"
+          },
+          {
             "title": "रिंकू सिंह की शादी: क्रिकेटर की बरात में शामिल होंगे खास मेहमान; 4 को लखनऊ में सांसद प्रिया संग लेंगे सात फेरे",
             "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/aligarh/rinku-singh-priya-saroj-wedding-cricketer-60-special-guests-to-join-baraat-in-lucknow-on-december-4-2026-11-10",
             "source": "Amar Ujala",
@@ -681,34 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-11-10T10:42:30+05:30"
-          },
-          {
-            "title": "नेहा पच्चीसिया: निलंबित सीएसपी के इंस्टाग्राम पर पाकिस्तानी ने जारी किया वीडियो; करी ये मांग",
-            "link": "https://www.amarujala.com/madhya-pradesh/bhopal/bhopal-pakistani-man-s-video-on-absconding-csp-neha-pachisia-s-instagram-raises-security-questions-2026-11-10",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-10T10:35:38+05:30"
-          },
-          {
-            "title": "जेन्सेन हुआंग: बचपन में झेली बुलिंग, 30 की उम्र में बनाई चिप कंपनी; आज 4.5 ट्रिलियन डॉलर की NVIDIA के हैं बॉस",
-            "link": "https://www.amarujala.com/technology/tech-diary/jensen-huang-nvidia-ceo-success-story-ai-empire-and-controversy-wife-details-2026-11-10",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-10T10:34:48+05:30"
-          },
-          {
-            "title": "सोनिया गांधी की किताब में पीएम मोदी का भी जिक्र: कहा- आमने-सामने आने पर नहीं मिलाते हैं आंखें; और क्या दावा?",
-            "link": "https://www.amarujala.com/india-news/sonia-gandhi-in-memoir-belonging-a-journey-of-love-pm-modi-no-real-contact-avoids-eye-contact-2026-11-10",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-10T10:23:22+05:30"
-          },
-          {
-            "title": "वाई पूरण की बेटी को नौकरी नहीं: अब आईएएस पत्नी को मिलेगी सात साल तक आर्थिक सहायता, इसलिए लिया गया ये फैसला",
-            "link": "https://www.amarujala.com/photo-gallery/haryana/chandigarh-haryana/haryana-late-ips-officer-y-puran-kumar-ias-wife-to-get-7-year-financial-assistance-instead-of-job-2026-11-10",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-10T09:53:50+05:30"
           }
         ],
         "Entertainment": [
@@ -811,7 +811,7 @@
             "published": "2026-11-10T05:52:50+00:00"
           },
           {
-            "title": "સોનિયા ગાંધીનું પુસ્તક 'બિલોન્ગિંગ-અ જર્ની ઓફ લવ' લોન્ચ:કોઈપણ ઈવેન્ટ વગર દુકાનોમાં વેચાણ શરૂ; રાજીવ સાથે પહેલી મુલાકાત, PM પદ ઠુકરાવવાની કહાની",
+            "title": "સોનિયા ગાંધીનું પુસ્તક લોન્ચ, કોઈપણ ઈવેન્ટ વગર દુકાનોમાં વેચાણ શરૂ:રાજીવ સાથે પહેલી મુલાકાત, PM પદ ઠુકરાવવાની કહાની; એક પેજ પર ઋગ્વેદની ઋચા",
             "link": "https://www.divyabhaskar.co.in/national/news/sonia-gandhi-book-launch-belonging-journey-love-memoir-139643152.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "బాలయ్యకు ఆమె అంటే చాలా భయం - సీక్రెట్ రివీల్ చేసిన మంత్రి లోకేష్..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/nara-lokesh-opens-up-about-his-family-political-journey-and-life-in-us-on-jagapathi-babu-talk-show-514249.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-10T11:39:44+05:30"
+          },
+          {
+            "title": "Anna Lezhneva: రష్యా, సింగపూర్‌లలో అన్నా మైండ్ బ్లాకింగ్ బిజినెస్ డీటైల్స్!",
+            "link": "https://telugu.oneindia.com/news/business/who-is-anna-lezhneva-inside-pawan-kalyans-ex-wifes-business-empire-net-worth-and-singapore-vent-514247.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-10T11:36:46+05:30"
+          },
+          {
             "title": "ముగ్గురి పోరులో 76 చోట్ల గెలిచిన వైసీపీ..! బయటపడుతున్న షాకింగ్ లెక్కలు..!",
             "link": "https://telugu.oneindia.com/news/andhra-pradesh/how-nda-allies-infighting-helped-ysrcp-make-gains-in-ap-s-mptc-zptc-polls-514245.html",
             "source": "Oneindia Telugu",
@@ -1093,7 +1107,7 @@
             "published": "2026-11-10T11:07:30+05:30"
           },
           {
-            "title": "పాకిస్తాన్‌లో టీవీ యాంకర్ మృతి: ‘భర్త బట్టలు సర్దుతుండగా ఆయన చేతిలో తుపాకీ పేలి చనియింది’ అని కుటుంబ సభ్యులు ఎందుకు చెప్పారు?",
+            "title": "పాకిస్తాన్‌లో టీవీ యాంకర్ మృతి: ‘భర్త బట్టలు సర్దుతుండగా ఆయన చేతిలో తుపాకీ పేలి చనిపోయింది’ అని కుటుంబ సభ్యులు ఎందుకు చెప్పారు?",
             "link": "https://www.bbc.com/telugu/articles/cwg5j5g82dj3o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Telugu",
             "summary": "",
@@ -1140,20 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-10T04:48:33+00:00"
-          },
-          {
-            "title": "ఉరి వేసుకుని ఇంటర్మీడియట్ విద్యార్థి ఆత్మహత్య - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EX1dRTVNhR2VQei1nT3ZwTFd1dkZIbEp6U2ZFX2o0cFZiSWR6b1VpanBWaElVMFdpbU1veWhLbnQ5cm16Y2NJc1RjSW5hS2JDVG81amF1SFdkY044ZFgxVzRjbGN4Vmg2cFlwTURKbE1oaFExV0xqNktjTm8?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-10T04:43:32+00:00"
-          },
-          {
-            "title": "కేబినెట్ భేటీ: TTD లో కీలక నియామకాలు- మంత్రులకు బిగ్ టాస్క్, విశాఖ కేంద్రంగా..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-cabinet-meeting-today-investment-summit-preparations-and-local-body-elections-to-be-key-agenda-514231.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-10T10:08:46+05:30"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಪಟಾಕಿ ಹೊಡೆದ್ರೆ ರೋಗಗಳು ವಾಸಿಯಾಗುತ್ತೆ: ಟ್ರೋಲ್ ಆಗುತ್ತಿದ್ದಂತೆ ಕ್ಷಮೆ ಕೇಳಿದ ಬಿಜೆಪಿ ಶಾಸಕಿ ಪಾಪಿಯಾ",
+            "link": "https://kannada.oneindia.com/news/india/bjp-mla-papiya-adhikari-apologises-for-her-firecrackers-cure-illness-remark-after-backlash-474019.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-10T11:50:49+05:30"
+          },
+          {
             "title": "Karnataka Weather: ರಾಜ್ಯದ ಹಲವೆಡೆ ಹವಾಮಾನ ಬದಲಾವಣೆ; ಈ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಮಾತ್ರ ಮಳೆ ಸಾಧ್ಯತೆ!",
             "link": "https://kannada.oneindia.com/news/karnataka/karnataka-weather-karnataka-rain-alert-for-these-districts-what-about-bengaluru-check-imd-forecas-474017.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-11-09T21:27:36+05:30"
-          },
-          {
-            "title": "Rohini Sindhuri: ಹಾಸನಾಂಬೆ ದರ್ಶನ ಪಡೆದ ಮಾಜಿ ಡಿಸಿ ರೋಹಿಣಿ ಸಿಂಧೂರಿ, \"ಯಾಕೋ ಮ್ಯಾಮ್ ಡಲ್' ಎಂದ ನೆಟ್ಟಿಗರು",
-            "link": "https://kannada.oneindia.com/news/karnataka/rohini-sindhuri-visits-hassan-after-years-offers-prayers-at-hasanamba-temple-netizens-react-473975.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-09T18:38:29+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "বৃষ্টিতে ভেস্তে গেল ভারত-নিউ জ়িল্য়ান্ড তৃতীয় এক দিনের ম্যাচ! ৫০ ওভারের সিরিজ়ও আর হারার সম্ভাবনা নেই গম্ভীরদের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHktOHdyaEhpaFk1Q2RXanRaalo0WHcwVkdSYVEwNzhqWXNtajZ5dmJFWVRSNkd3SXZrNWxHSmxDSVpBMDllSmVPZEQ3dGk0UzE1OUVIaGZMYmZfT21xNHZNSXNMU0FUM0I4aXBkd2t4bDgxa0pGakRueWw5cWFrNldSd2t0TzJFV2FDNVc1RVZaOXg4SzFGbG9nY1VBZ3N5M1VEYzExNnFWMDVaX2IyVS0wcHdxd9IBuwFBVV95cUxQdGw5QTdGTU11TXA4RDlWN3RjQW04ZFo1QVFFZFZPd1QzVGZjY0ZTcHFlTHBwS2pkNm5PRTZIQTg3T1c2NXBob09saEVzVlA2VXpSenpyUzRaU196WTB6dFpuWnNOMl9ERVcxSnlrN3FHUlNRaVN3UVV6TEJzVUZFWl8ydzNURXFXdXRjQnRtLWptV3BRTzBGRVg2WFQ0akxuYzY3bHM5SzdXUnBpQnQyY2xiSGhTRmJvRWRN?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-10T06:07:38+00:00"
+          },
+          {
+            "title": "ধর্ষণের অভিযোগে ধৃত পরেশের কাছ থেকে ২ লক্ষ টাকা ও ৬টি মোবাইল বাজেয়াপ্ত, পুলিশের তথ্যপাচার সন্দেহে আটক সিভিক - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWjlMdkg3Vml4MWRMaXZmWTBnRzhKMkYtUERhaTlSbTJEaDJqc1p6RXB6UXJFSjF0dkdDck12YWUtTWpSWnRIcUdhQ1RLNGJ4Wk51OHJ4anl0UzRjSEE4UnB1OGFUR0E4MzhqMlQ1VTFVV0xzTUlHV0E5NzZzQmlMS084Wk5mOFc3clhUaGJxb1VadzdrT0d2bkFWTXUwRzdXRktzb29DbzNZVjNoM0kyVnR6N2RsVmw2TERlbFFzc1gyaEpxNU8wTGRHRTg5MjdtVHRBLTNvVWdtQnpKX3lMRXd6XzNEZ0JFcmRWZFR6UmFqOWhIUURPem1zTlFEM0VtRTRSRENHRE4xY3VKOVdpbDhNMkxCMjJFS0pGVDJNY183UjlzaUZINl8zVmpwTEliVXJ2SWg4TTZYYWY5TWxPcTVzZEZPc05t0gHOAkFVX3lxTE53R01QcDdlWElzOE5UTzI4Z2pSMGVzNkNHdEg1Z01iV0pzMjZLOWdZRlFwalBMVDRCTTdiY0xaTmVrT0w4ZXc4cEoxMXlmRGtTcHlJdC13ajhOQU4yR3lBeEFmTDhzRVR6RXFvRTd5SVFqZFdpbl90UVZKRFZoZjlrd1BJbjA0c21wMEk3UElmQ1RCZFN3dXlrczgxTHY1N1V0N1hhVklpUXZSak8ydFhVbUFGMjZ6MEx3QXNLZjAxYnpTTlZ4dF9ibVVaRjlOTGlXRzYxQWlrOG5kR09DY3YwR3hhaF9rM2JETzBiNHktdndBUnVXUDZnV0NzNk9zczVnZXdSeW9ncWNnVE9QVzl2Yk1RUS15YTBNTkE5SUtwNnRkSlVhV2JzTG9FR3lGelVOS2U5cGtkY1NpQ0FqOXR3N21Ld21vb0oydkY4QWc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-10T06:04:28+00:00"
+          },
+          {
             "title": "ভাইফোঁটা দেওয়ার সময় ভাই-বোনের মুখ থাকে নির্দিষ্ট দিকে! ইচ্ছেমতো বসলেই কি বিফলে যাবে মঙ্গলকামনা? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSUFuSWk3WWNYYTFvOUtIVnN2eGtRY1NMU2tGZVJfN3JIQ0NHQ3A1djFzVk5FUXpiSVhEdENpYVVFXzI2R0lnRVctYzVQMEVFOTdHd3EyTXdRVlNKdTEzSl9jOVZZR2Z4U0JJc3B5MmFQdnVUcXR0VTdqZHVGNG1xTm5kQTN3Z3p2ZldJRjZhY1haTW5EMVdrQk14MVBISzZ6dmVBWUJoeWEtUnM3YTNhdUhXNmR6WERlOW1fYVZKRWtwOVY5Y0drcmlpdmRXaWl0dlFaYzh6NnBWSUN1MVRZNHNPa1NreFliN0ZYc1Z4UmUtc2sxbGgxMDMxU1lHVnoxdzhuTEpR?oc=5",
             "source": "Anandabazar Patrika",
@@ -1461,13 +1475,6 @@
             "published": "2026-11-10T03:45:23+00:00"
           },
           {
-            "title": "অবমাননার মামলা, নিয়োগ ৭৯ জনকে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWHAtQmVfSklBUVRaQktNSHBIaXBiOXlFYXUyM011VlExc3ZmMGFac3RRTGxBQ29VQzFTanRMSVdURVhQeFAxd0dZdFlWMU9IMjhsdlpPX2VFTS10WlVFbzdnbEFXbXBMSE5WZjZnbXZpUDRJWnhtWWwyWW1hSFF3eWtZaTM0bWtwTGVWX3BVZWg1NmlMSXo1TnRDLVdWR0xYbGJLREZrZ2lEd3dKYU1EbUoxcEh3eGhhRUtPS3BJYVpHX2hNRWVhdzUyYklPS2VSZGQxVmlpUDdRVmMwUVc4Q3JabF83RTVaZUNVaUdUOU5XLVhLX0E?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-10T03:26:17+00:00"
-          },
-          {
             "title": "পত্রিকা: 'ডিসেম্বরেই শেখ হাসিনার ফেরার ব্যাপারে এখনো অনড় আওয়ামী লীগ'",
             "link": "https://www.bbc.com/bengali/articles/cw1m4m8k4y41o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-09T21:41:49+00:00"
-          },
-          {
-            "title": "মণ্ডপে, মন্দিরে ঘুরছেন ‘জীবন্ত মা কালী’! লোকসংস্কৃতি ও ঐতিহ্যের মেলবন্ধন ঘটাতে ব্যতিক্রমী ভাবনা আউশগ্রামের জঙ্গলমহলে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNSzQ4OGpNZXJ3bjFXQTl1RVJENHhnLVN6WDNUQWtRR0hmeklfUW9HaElOQjRIVGpuY0Q3aW5LLWxpaGhrbFdkTnBxTjQ2TU1PdWwtNTg2bXdxTWZRX3JxU0d5a05VSUxuT1k4TWFQXzIzUTk5cjV0S0NCTVBwX3Z0ZHppcVJGWkRNbFhQMTlBc0ZQZWUtVDVTbkFON0Uxd2FiczRiM2JJbXI2OXlLSE1SMEl5cVJmalowSzMwT0NfX1VyU2R3cTJnVFdTX2xvcDQyZ1dBSGdkTGVoUlFFNEZGNl9mSTlVVFBpZHFvLU43S041YlVwUFh2VWtyN0VxbWZLTVUtMmVJNlNnX1VtQmRZdEpJTDJkVzhKNUhabjgwS1BNN3Z3QWtpbFA4SUNIa0M40gGwAkFVX3lxTE1LNDg4ak1lcnduMVdBOXVFUkQ0eGctU3pYM1RBa1FHSGZ6SV9Rb0doSU5CNEhUam5jRDdpbkstbGloaGtsV2ROcHFONDZNTU91bC01ODZtd3FNZlFfcnFTR3lrTlVJTG5PWThNYVBfMjNROTlyNXRLQ0JNUHBfdnRkemlxUkZaRE1sWFAxOUFzRlBlZS1UNVNuQU43RTF3YWJzNGIzYkltcjY5eUtITVIwSXlxUmZqWjBLMzBPQ19fVXJTZHdxMmdUV1NfbG9wNDJnV0FIZ2RMZWhSUUU0RkY2X2ZJOVVUUGlkcW8tTjdLTjViVXBQWHZVa3I3RXFtZktNVS0yZUk2U2dfVW1CZFl0SklMMmRXOEo1SFpuODBLUE03dndBa2lsUDhJQ0hrQzg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-09T21:02:40+00:00"
           }
         ]
       }
