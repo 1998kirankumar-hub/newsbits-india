@@ -1,111 +1,153 @@
 {
-  "updated_at": "2026-11-10T20:31:09.188881+00:00",
+  "updated_at": "2026-11-10T21:01:26.726146+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+            "published": "2026-11-10T20:53:33+00:00"
+          },
+          {
+            "title": "US soldier arrested in UK on suspicion of spying for Russia",
+            "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
+            "published": "2026-11-10T20:41:53+00:00"
+          },
+          {
+            "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+            "published": "2026-11-10T20:40:13+00:00"
+          },
+          {
+            "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "",
+            "published": "2026-11-10T20:39:46+00:00"
+          },
+          {
+            "title": "US federal authorities could have prevented Epstein crimes, report finds",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+            "published": "2026-11-10T20:36:58+00:00"
+          },
+          {
+            "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-11T02:04:46+05:30"
+          },
+          {
+            "title": "For the first time, Sonia confirms battle with cancer in memoirs",
+            "link": "https://timesofindia.indiatimes.com/india/for-the-first-time-sonia-confirms-battle-with-cancer-in-memoirs/articleshow/135719721.cms",
+            "source": "Times of India",
+            "summary": "'Saw Rajiv smiling', P 13",
+            "published": "2026-11-11T02:04:29+05:30"
+          },
+          {
+            "title": "Raising Cane's stake bought before marriage excluded from ex-wife's claim",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-man-acquired-an-early-stake-linked-to-raising-canes-before-marrying-in-2001-after-their-2007-divorce-settlement-his-former-wife-sought-a-share-of-the-interests-but-a-2026-appeals-court-rejected-her-claim/articleshow/135672349.cms",
+            "source": "Times of India",
+            "summary": "Anne McQueen sought to claim business interests from her ex-husband years after their divorce settlement agreement. The Louisiana Court of Appeal upheld the prior ruling, stating property division was already settled in 2007. John's business interests, acquired before marriage, were deemed allocated to him under their consent judgment. The court emphasized that the 2007 agreement waived further claims about…",
+            "published": "2026-11-11T02:00:00+05:30"
+          },
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+            "published": "2026-11-10T20:30:00+00:00"
+          },
+          {
+            "title": "MEA slams US court summons to Doval, RAW ex-chief Goel",
+            "link": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms",
+            "source": "Times of India",
+            "summary": "'Pannun's Lawsuit Frivolous, His Claims Fabricated'",
+            "published": "2026-11-11T01:55:58+05:30"
+          },
+          {
+            "title": "South Carolina developer drops 200-home plan; 229 acres to be protected",
+            "link": "https://timesofindia.indiatimes.com/science/nature/in-2006-a-developer-planned-more-than-200-homes-on-a-229-acre-south-carolina-tract-bordering-a-wildlife-refuge-after-20-years-of-opposition-it-has-agreed-to-sell-the-land-for-permanent-conservation/articleshow/135677793.cms",
+            "source": "Times of India",
+            "summary": "In a remarkable show of environmental cooperation, a 229-acre tract in South Carolina will transition to permanent conservation after development plans were challenged. Concerns over wetlands, wildlife, and water quality catalyzed a settlement enabling the Open Space Institute to acquire land adjacent to the Cape Romain National Wildlife Refuge. This outcome is a triumph for conservation advocates who have dedicated…",
+            "published": "2026-11-11T01:55:00+05:30"
+          },
+          {
+            "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+            "published": "2026-11-10T20:23:03+00:00"
+          },
+          {
+            "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+            "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
+            "published": "2026-11-10T20:22:21+00:00"
+          },
+          {
             "title": "David Walliams accused of sexual misconduct after losing injunction bid",
             "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
             "published": "2026-11-10T20:20:11+00:00"
-          },
-          {
-            "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
-            "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-11T01:38:28+05:30"
-          },
-          {
-            "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
-            "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-            "published": "2026-11-10T20:07:01+00:00"
-          },
-          {
-            "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "published": "2026-11-10T20:03:41+00:00"
-          },
-          {
-            "title": "Trump administration seeks to cut food aid for more than six million people",
-            "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
-            "published": "2026-11-10T20:00:18+00:00"
-          },
-          {
-            "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-11T01:26:07+05:30"
-          },
-          {
-            "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-11-10T19:55:13+00:00"
-          },
-          {
-            "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-            "link": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-            "published": "2026-11-10T19:54:46+00:00"
-          },
-          {
-            "title": "Indian Army’s four-legged robots give a new edge to border surveillance in J&amp;K",
-            "link": "https://timesofindia.indiatimes.com/defence/news/indian-armys-four-legged-robots-give-a-new-edge-to-border-surveillance-in-jk/articleshow/135719501.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-11T01:19:03+05:30"
-          },
-          {
-            "title": "'IPL has earned the right to influence the calendar' - KKR co-owner wants shift to January",
-            "link": "https://www.cricinfo.com/ci/content/story/1562111.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Lalit Modi proposes moving the IPL to \"a January start or a carefully structured October-April competition calendar\"",
-            "published": "2026-11-10T19:44:38+00:00"
-          },
-          {
-            "title": "400+ MBBS seats find no takers even after special vacancy round",
-            "link": "https://timesofindia.indiatimes.com/india/400-mbbs-seats-find-no-takers-even-after-special-vacancy-round/articleshow/135719389.cms",
-            "source": "Times of India",
-            "summary": "Steep Fees At Private Colleges Likely Deterrent",
-            "published": "2026-11-11T01:13:15+05:30"
-          },
-          {
-            "title": "Rubio says no need for major combat operations against Iran",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-            "published": "2026-11-10T19:34:13+00:00"
-          },
-          {
-            "title": "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-11T01:03:58+05:30"
-          },
-          {
-            "title": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
-            "link": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
-            "source": "The Hindu",
-            "summary": "India’s federal structure could have benefited from the Kurian Committee",
-            "published": "2026-11-11T01:02:37+05:30"
           }
         ],
         "India": [
           {
+            "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+            "link": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-11T02:04:46+05:30"
+          },
+          {
+            "title": "For the first time, Sonia confirms battle with cancer in memoirs",
+            "link": "https://timesofindia.indiatimes.com/india/for-the-first-time-sonia-confirms-battle-with-cancer-in-memoirs/articleshow/135719721.cms",
+            "source": "Times of India",
+            "summary": "'Saw Rajiv smiling', P 13",
+            "published": "2026-11-11T02:04:29+05:30"
+          },
+          {
+            "title": "Raising Cane's stake bought before marriage excluded from ex-wife's claim",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-man-acquired-an-early-stake-linked-to-raising-canes-before-marrying-in-2001-after-their-2007-divorce-settlement-his-former-wife-sought-a-share-of-the-interests-but-a-2026-appeals-court-rejected-her-claim/articleshow/135672349.cms",
+            "source": "Times of India",
+            "summary": "Anne McQueen sought to claim business interests from her ex-husband years after their divorce settlement agreement. The Louisiana Court of Appeal upheld the prior ruling, stating property division was already settled in 2007. John's business interests, acquired before marriage, were deemed allocated to him under their consent judgment. The court emphasized that the 2007 agreement waived further claims about…",
+            "published": "2026-11-11T02:00:00+05:30"
+          },
+          {
+            "title": "MEA slams US court summons to Doval, RAW ex-chief Goel",
+            "link": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms",
+            "source": "Times of India",
+            "summary": "'Pannun's Lawsuit Frivolous, His Claims Fabricated'",
+            "published": "2026-11-11T01:55:58+05:30"
+          },
+          {
+            "title": "South Carolina developer drops 200-home plan; 229 acres to be protected",
+            "link": "https://timesofindia.indiatimes.com/science/nature/in-2006-a-developer-planned-more-than-200-homes-on-a-229-acre-south-carolina-tract-bordering-a-wildlife-refuge-after-20-years-of-opposition-it-has-agreed-to-sell-the-land-for-permanent-conservation/articleshow/135677793.cms",
+            "source": "Times of India",
+            "summary": "In a remarkable show of environmental cooperation, a 229-acre tract in South Carolina will transition to permanent conservation after development plans were challenged. Concerns over wetlands, wildlife, and water quality catalyzed a settlement enabling the Open Space Institute to acquire land adjacent to the Cape Romain National Wildlife Refuge. This outcome is a triumph for conservation advocates who have dedicated…",
+            "published": "2026-11-11T01:55:00+05:30"
+          },
+          {
+            "title": "3,000-year-old Spanish treasure may contain iron from meteorites: Study",
+            "link": "https://timesofindia.indiatimes.com/science/discovery/a-3000-year-old-spanish-treasure-contains-two-unusual-iron-objects-chemical-tests-suggest-they-may-have-been-crafted-from-metal-that-fell-to-earth-in-meteorites/articleshow/135706888.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-11T01:50:00+05:30"
+          },
+          {
             "title": "Jim Jordan elected House Republican leader after party's midterm defeat",
             "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
             "source": "Times of India",
@@ -146,64 +188,71 @@
             "source": "The Hindu",
             "summary": "India’s federal structure could have benefited from the Kurian Committee",
             "published": "2026-11-11T01:02:37+05:30"
-          },
-          {
-            "title": "Florida wedding venue's gunfire and chainsaw ban against neighbours overturned",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-florida-wedding-venue-accused-neighbours-of-disrupting-ceremonies-with-gunfire-chainsaws-and-revving-airboats-and-won-a-court-order-to-stop-them-in-october-2026-an-appeals-court-overturned-the-temporary-ban/articleshow/135676885.cms",
-            "source": "Times of India",
-            "summary": "Sydonie Mansion in Florida is currently embroiled in a legal dispute concerning disturbances during weddings. Neighbors Brad and Audrey Hatcher face allegations of making excessive noise and having uncontrolled dogs. In a recent ruling, a Florida appeals court overturned a lower court’s injunction due to a lack of evidence demonstrating irreparable harm, while the lawsuit over the nuisance claims continues to await…",
-            "published": "2026-11-11T00:59:00+05:30"
-          },
-          {
-            "title": "Worker buys abandoned lottery ticket worth $12.8m; court allows ownership fight",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-circle-k-worker-found-a-customers-abandoned-arizona-lottery-ticket-clocked-out-and-bought-it-himself-it-turned-out-to-be-worth-12-8-million-and-now-a-judge-says-the-fight-over-who-owns-it-can-go-ahead/articleshow/135677193.cms",
-            "source": "Times of India",
-            "summary": "Robert Gawlitza, a former Circle K manager, found himself in a legal battle after purchasing a winning lottery ticket worth nearly $12.8 million, which was supposedly left unpaid by a customer. Circle K argues that the ticket should never have been sold, while Gawlitza claims he adhered to store procedures. This ongoing case aims to clarify who rightfully owns the lucky ticket.",
-            "published": "2026-11-11T00:56:00+05:30"
-          },
-          {
-            "title": "Man dressed as Batman chases thief, scales cathedral wall to recover handbag",
-            "link": "https://timesofindia.indiatimes.com/world/uk/a-man-dressed-as-batman-chased-a-suspected-handbag-thief-through-norwich-then-scaled-a-high-cathedral-wall-to-retrieve-the-abandoned-bag-and-return-it-with-every-item-intact/articleshow/135706733.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-11T00:53:00+05:30"
-          },
-          {
-            "title": "World Wars and India’s sacrifice",
-            "link": "https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece",
-            "source": "The Hindu",
-            "summary": "We owe it to ourselves to be honest with our past, just as we owe it to our armed forces to honour the sacrifices of those who went before them",
-            "published": "2026-11-11T00:50:55+05:30"
-          },
-          {
-            "title": "Suvendu Adhikari Visits Kali Puja Of Mamata Banerjee's Estranged brother",
-            "link": "https://www.ndtv.com/india-news/suvendu-adhikari-visits-kali-puja-of-mamata-banerjees-estranged-brother-12309736#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Since the political shift in Bengal, Babun Banerjee has consistently maintained that he remains aligned with the BJP.",
-            "published": "2026-11-11T00:49:16+05:30"
-          },
-          {
-            "title": "Unesco: Women ahead in higher education, but rural-urban gap hits schoolgirls",
-            "link": "https://timesofindia.indiatimes.com/india/unesco-women-ahead-in-higher-edu-but-rural-urban-gap-hits-schoolgirls/articleshow/135719140.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-11T00:48:52+05:30"
           }
         ],
         "World": [
           {
-            "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
-            "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+            "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+            "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+            "published": "2026-11-10T20:53:33+00:00"
+          },
+          {
+            "title": "US soldier arrested in UK on suspicion of spying for Russia",
+            "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-            "published": "2026-11-10T20:07:01+00:00"
+            "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
+            "published": "2026-11-10T20:41:53+00:00"
           },
           {
             "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
             "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "published": "2026-11-10T20:03:41+00:00"
+            "published": "2026-11-10T20:40:13+00:00"
+          },
+          {
+            "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "",
+            "published": "2026-11-10T20:39:46+00:00"
+          },
+          {
+            "title": "US federal authorities could have prevented Epstein crimes, report finds",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+            "published": "2026-11-10T20:36:58+00:00"
+          },
+          {
+            "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+            "published": "2026-11-10T20:23:03+00:00"
+          },
+          {
+            "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+            "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
+            "published": "2026-11-10T20:22:21+00:00"
+          },
+          {
+            "title": "F1 champion Lewis Hamilton visits Gaza border",
+            "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+            "published": "2026-11-10T20:14:34+00:00"
+          },
+          {
+            "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+            "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+            "published": "2026-11-10T20:07:01+00:00"
           },
           {
             "title": "Trump administration seeks to cut food aid for more than six million people",
@@ -225,55 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
             "published": "2026-11-10T19:54:46+00:00"
-          },
-          {
-            "title": "Rubio says no need for major combat operations against Iran",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-            "published": "2026-11-10T19:34:13+00:00"
-          },
-          {
-            "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-            "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-            "published": "2026-11-10T19:26:42+00:00"
-          },
-          {
-            "title": "US Senate advances major bill boosting energy infrastructure",
-            "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-            "published": "2026-11-10T19:09:12+00:00"
-          },
-          {
-            "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
-            "published": "2026-11-10T18:58:05+00:00"
-          },
-          {
-            "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-            "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
-            "published": "2026-11-10T18:43:04+00:00"
-          },
-          {
-            "title": "UK children’s author David Walliams accused of grooming minors",
-            "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
-            "published": "2026-11-10T18:42:14+00:00"
-          },
-          {
-            "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-            "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-            "published": "2026-11-10T18:35:35+00:00"
           }
         ],
         "Business": [
@@ -282,7 +282,7 @@
             "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "published": "2026-11-10T20:03:41+00:00"
+            "published": "2026-11-10T20:40:13+00:00"
           },
           {
             "title": "Fed’s Christopher Waller opens door to 50-basis-point December rate hike after hot CPI",
@@ -454,7 +454,14 @@
             "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-            "published": "2026-11-10T20:03:41+00:00"
+            "published": "2026-11-10T20:40:13+00:00"
+          },
+          {
+            "title": "Tech Life",
+            "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+            "published": "2026-11-10T20:30:00+00:00"
           },
           {
             "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
@@ -525,13 +532,6 @@
             "source": "Gadgets 360",
             "summary": "WhatsApp has started testing a new Contacts tab for iOS, according to a report. The feature was spotted being tested in the WhatsApp beta for iOS 26.44.10.70 update. The beta version is currently accessible via TestFlight. The report also highlights details about the upcoming feature. The new WhatsApp Contacts tab for iOS will reportedly list the favourite contacts, along with the list of other saved contacts. The…",
             "published": "2026-11-10T17:30:53+05:30"
-          },
-          {
-            "title": "Tecno Camon 60 Pro 5G, Infinix Smart 30e 5G Reportedly Spotted on EEC Website; May Launch Soon",
-            "link": "https://www.gadgets360.com/mobiles/news/tecno-camon-60-pro-infinix-smart-30e-5g-eec-database-listing-model-number-leak-12307831",
-            "source": "Gadgets 360",
-            "summary": "Infinix Smart 30e 5G and Tecno Camon 60 Pro surfaced on the EEC Website. The Infinix Smart 30e 5G carries the model number X6864B, while the Tecno Camon 60 Pro 5G has the model number CO7. The certification listing does not reveal the specifications of either smartphone. However, the appearance of the devices in the database suggests that they could soon launch in global markets.",
-            "published": "2026-11-10T17:26:02+05:30"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "नेतन्याहू की नीतियां पलटने का एलान: इस्राइल में गादी आइजेनकोट ने कसी कमर, नई सरकार पर बवाल क्यों?",
+            "link": "https://www.amarujala.com/world/eisenkot-unveils-agenda-to-reverse-netanyahu-policies-2026-11-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-11T12:45:31+05:30"
+          },
+          {
             "title": "सॉफ्टवेयर इंजीनियर का जुनून: जर्मनी की ठुकराई नौकरी, भारत के 100वें ग्रैंडमास्टर बने अनुज; ऐसे पाई सफलता",
             "link": "https://www.amarujala.com/uttar-pradesh/agra/software-engineer-chess-grandmaster-anuj-becomes-india-s-100th-grandmaster-at-22-2026-11-10",
             "source": "Amar Ujala",
@@ -639,6 +646,27 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-11-11T12:04:20+05:30"
+          },
+          {
+            "title": "दो साल से पाकिस्तान में नहीं था अमेरिकी राजदूत: ट्रंप ने नताली बेकर का नाम आगे बढ़ाया, कौन हैं ये राजनयिक?",
+            "link": "https://www.amarujala.com/world/donald-trump-nominates-natalie-baker-us-ambassador-pakistan-2026-11-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-11T02:02:25+05:30"
+          },
+          {
+            "title": "बाहरी दिल्ली: सीवर में गिरा चार साल का बच्चा, रेस्क्यू के लिए कई टीमों ने मिलकर चलाया अभियान; तलाश तेज",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-a-rescue-operation-is-underway-after-a-4-year-old-boy-fell-into-a-sewer-near-dass-garden-colony-2026-11-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-11T01:59:38+05:30"
+          },
+          {
+            "title": "तमिलनाडु में लाइब्रेरी की किताबों की खरीद में घोटाला: हाईकोर्ट ने एफआईआर का दिया आदेश, क्या है पूरा मामला?",
+            "link": "https://www.amarujala.com/india-news/tamil-nadu-library-book-purchase-scam-madras-hc-orders-fir-2026-11-11",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-11T01:04:40+05:30"
           },
           {
             "title": "NCP के दोनों गुटों के विलय पर फिर अड़चन:सुनेत्रा और पार्थ पवार की सहमति नहीं; नेतृत्व और NDA में जाने पर भी मतभेद",
@@ -681,34 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-10T22:25:56+05:30"
-          },
-          {
-            "title": "सूखे की मार झेल रहे इस गांव में पलायन को मजबूर हुए किसान और मजदूर- ग्राउंड रिपोर्ट",
-            "link": "https://www.bbc.com/hindi/watch/ckqxnxnz4w81o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-10T16:15:45+00:00"
-          },
-          {
-            "title": "प्रदूषण के असर से बचने के लिए क्या करना चाहिए, सुनिए डॉक्टर ने क्या बताया?",
-            "link": "https://www.bbc.com/hindi/watch/cx4g1g1ez609o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-10T16:14:38+00:00"
-          },
-          {
-            "title": "पाकिस्तान के कराची में मोहट्टा पैलेस, जिसे एक हिंदू कारोबारी ने पत्नी के लिए बनवाया था",
-            "link": "https://www.bbc.com/hindi/watch/c5x2v2vkxr72o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-10T16:12:43+00:00"
-          },
-          {
-            "title": "चीनी व्लॉगर्स पर ढाका की झुग्गियों को दिल्ली का बताने का आरोप, भारत ने जताई कड़ी नाराज़गी",
-            "link": "https://www.bbc.com/hindi/articles/c6pqgq08805go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-10T15:51:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1114,11 +1114,11 @@
             "published": "2026-11-10T19:00:00+00:00"
           },
           {
-            "title": "Gold and Silver Prices Today: తెలుగు రాష్ట్రాల్లోని ప్రధాన నగరాల్లో బంగారం, వెండి ధరలు ఇలా.. (10/11/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEZvUXV0UFJTMGhvTW9NWUFMLTBHdjk2aTdwQ1lYSkp2czdoeV9zWDczUV9FWWV0UkZjQ3o5d3lUQ1d3cE92X2NhWFJXY2ZwQVoyMGpYNFRpb2JaUzd1WDY0YVdPY29GRm8tMTE1b1BsU0V3Y21tRGsxV1ZINUlyeVJXUVVXOFVJZHR4aVFhUXFVVXluRU1YZGdBVjVNZ3BRdHVneDhkWWowMTFEcVNGSE9yUDRZWVVxS2xqVWdZMVdraEJPMUFMRFd1QjRhaElKRWFTVms2c2VpVXdSMmdz0gHfAUFVX3lxTE5YRm9RdXRQUlMwaG9Nb01ZQUwtMEd2OTZpN3BDWVhKSnZzN2h5X3NYNzNRX0VZZXRSRmNDejl3eVRDV3dwT3ZfY2FYUldjZnBBWjIwalg0VGlvYlpTN3VYNjRhV09jb0ZGby0xMTVvUGxTRXdjbW1EazFXVkg1SXJ5UldRVVc4VUlkdHhpUWFRcVVVeW5FTVhkZ0FWNU1ncFF0dWd4OGRZajAxMURxU0ZIT3JQNFlZVXFLbGpVZ1kxV2toQk8xQUxEV3VCNGFoSUpFYVNWazZzZWlVd1IyZ3M?oc=5",
+            "title": "Visakhapatnam: 20 లక్షల ఉద్యోగాల కల్పనే లక్ష్యంగా ముందుకెళ్తోన్న ప్రభుత్వం: ఎమ్మెల్యే గంటా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXI2ZGVheWx0Y2RXbEhpcUpJal9XSVJPN1d2d3ZKc0ZfdGZrWWlQdzlCdXBYUFpyT20wYkFLUmpNd2dKemhqYzRRZGx5RW1IcF9pcUxUdm1YNkJRRzdIcU5YaE95TDExWF9DMWNRUXNpUl9aWThBUVRnV1VtaHNXQ3RUMlZYMWZCaXZHNlBIMUVMaHlxdHJsanllb2xKbzZqVnp1UENFZnZWQVF6X2xhRmlKQ3FSejdWTjRHVHJndGJEYTlueFllUnYxZDF5SUo0WDZj0gHTAUFVX3lxTE81cjZkZWF5bHRjZFdsSGlxSklqX1dJUk83V3Z3dkpzRl90ZmtZaVB3OUJ1cFhQWnJPbTBiQUtSak13Z0p6aGpjNFFkbHlFbUhwX2lxTFR2bVg2QlFHN0hxTlhoT3lMMTFYX0MxY1FRc2lSX1pZOEFRVGdXVW1oc1dDdFQyVlgxZkJpdkc2UEgxRUxoeXF0cmxqeWVvbEpvNmpWenVQQ0VmdlZBUXpfbGFGaUpDcVJ6N1ZONEdUcmd0YkRhOW54WWVSdjFkMXlJSjRYNmM?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-10T18:45:03+00:00"
+            "published": "2026-11-10T18:31:36+00:00"
           },
           {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (11/11/2026) - Eenadu",
