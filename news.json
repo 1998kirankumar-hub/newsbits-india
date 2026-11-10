@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-11-10T18:01:21.424548+00:00",
+  "updated_at": "2026-11-10T18:31:09.029843+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Around 150 persons treated for cracker-related burns in Vellore, nearby districts",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/around-150-persons-treated-for-cracker-related-burns-in-vellore-nearby-districts/article71686216.ece",
+            "source": "The Hindu",
+            "summary": "A large volume of cracker waste was also generated in these districts",
+            "published": "2026-11-10T23:55:24+05:30"
+          },
+          {
+            "title": "Two persons killed in separate road incidents",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-killed-in-separate-road-incidents/article71686206.ece",
+            "source": "The Hindu",
+            "summary": "Special teams were formed to nab a car driver involved in the incident",
+            "published": "2026-11-10T23:48:01+05:30"
+          },
+          {
+            "title": "Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+            "source": "The Hindu",
+            "summary": "The collective has announced a rally on Anna Salai on November 26, as part of a nationwide day of action against the Special Intensive Revision of electoral rolls",
+            "published": "2026-11-10T23:45:20+05:30"
+          },
+          {
+            "title": "Fed’s Christopher Waller opens door to 50-basis-point December rate hike after hot CPI",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-christopher-waller-opens-door-to-50-basis-point-december-rate-hike-after-hot-cpi/articleshow/135718143.cms",
+            "source": "Economic Times",
+            "summary": "Federal Reserve Governor Christopher Waller has raised the possibility of a 50-basis-point December rate hike after US core inflation rose 0.3% in October. Persistent price pressures have intensified debate over tighter monetary policy and the Fed's inflation-fighting credibility.",
+            "published": "2026-11-10T23:42:40+05:30"
+          },
+          {
+            "title": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:36:25+05:30"
+          },
+          {
+            "title": "Woman, son die after being found injured at home in Mattannur",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-son-die-after-being-found-injured-at-home-in-mattannur/article71686225.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:34:56+05:30"
+          },
+          {
+            "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+            "published": "2026-11-10T18:04:18+00:00"
+          },
+          {
+            "title": "Why are these purple flowers shutting down streets in Sydney?",
+            "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+            "published": "2026-11-10T18:03:52+00:00"
+          },
+          {
+            "title": "Myanmar summons German envoy over controversial video",
+            "link": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Mathias Licharz calls for the &#039;unconditional&#039; release of ousted politicians, including former leader Aung San Suu Kyi.",
+            "published": "2026-11-10T18:03:06+00:00"
+          },
+          {
+            "title": "\"Significant Losses And Damages\": Nvidia, Jensen Huang Sued By Investor",
+            "link": "https://www.ndtv.com/world-news/nvidia-jensen-huang-sued-for-misleading-investors-over-ceos-affair-12309719#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The lawsuit, filed on Monday at a California court, claims that Nvidia and Jensen Huang failed to disclose information to shareholders about his links to the woman who allegedly passed on critical information to Beijing.",
+            "published": "2026-11-10T23:32:09+05:30"
+          },
+          {
+            "title": "Woman says she spent $80,000 in marriage; court upholds $1,000 monthly support",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-said-she-used-80000-in-savings-during-marriage-including-to-improve-her-husbands-house-after-five-years-of-temporary-support-an-appeals-court-upheld-another-1000-a-month-for-three-years/articleshow/135718099.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-10T23:30:18+05:30"
+          },
+          {
+            "title": "CID unearth webland scam, four arrested",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cid-unearth-webland-scam-four-arrested/article71687260.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:29:03+05:30"
+          },
+          {
+            "title": "US federal authorities could have prevented Epstein crimes, report finds",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+            "published": "2026-11-10T17:59:02+00:00"
+          },
+          {
             "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
             "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
             "published": "2026-11-10T17:56:12+00:00"
-          },
-          {
-            "title": "T.N. government invites tenders for coverage of Assembly proceedings for two years",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-invites-tenders-for-coverage-of-assembly-proceedings-for-two-years/article71685768.ece",
-            "source": "The Hindu",
-            "summary": "The work includes recording the entire session using a multi-camera setup, editing and other post-production work, and handing over the footage to the Assembly authorities for immediate telecast on satellite television channels",
-            "published": "2026-11-10T23:12:04+05:30"
-          },
-          {
-            "title": "US petrol prices are down, but elevated inflation continues",
-            "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
-            "published": "2026-11-10T17:40:35+00:00"
-          },
-          {
-            "title": "AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year",
-            "link": "https://www.hindustantimes.com/india-news/ar-rahmans-gurugram-concert-postponed-over-unforeseen-circumstances-rescheduled-for-next-year-101794329922094.html",
-            "source": "Hindustan Times",
-            "summary": "The concert was originally scheduled for next week on November 21, and was to take place at 7 pm at Backyard Sports Club in Gurugram.",
-            "published": "2026-11-10T23:05:42+05:30"
-          },
-          {
-            "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-            "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
-            "published": "2026-11-10T17:35:07+00:00"
-          },
-          {
-            "title": "Builder withheld Rs 88L after redevelopment deal; landowners win over Rs 1.22 crore",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/they-gave-redevelopment-rights-for-a-1395-sq-ft-flat-but-builder-withheld-rs-88-lakh-compensation-and-demanded-rs-30-26-lakh-consumer-commission-orders-over-rs-1-22-crore-relief-to-landowners/articleshow/135715327.cms",
-            "source": "Times of India",
-            "summary": "The dispute originated in 2010, when two landowners, along with their late mother, transferred their development rights to a builder for redevelopment. They held a one-third undivided share in a property in Mumbai, and executed an Agreement to Assign for the redevelopment. Subsequently, they also entered into a Supplementary Agreement dated February 18, 2015, and an Agreement to Offer Permanent Alternate…",
-            "published": "2026-11-10T22:59:42+05:30"
-          },
-          {
-            "title": "First day of Ukraine peace talks constructive, Zelensky says",
-            "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-            "published": "2026-11-10T17:29:36+00:00"
-          },
-          {
-            "title": "The Siang dam and a threatened homeland",
-            "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
-            "source": "The Hindu",
-            "summary": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay Lakshman reports on…",
-            "published": "2026-11-10T22:59:35+05:30"
-          },
-          {
-            "title": "Woman says ex tracked spending and Alexa; court upholds 5-year protection order",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-washington-woman-says-her-ex-husband-tracked-her-spending-accessed-her-homes-alexa-system-and-repeatedly-stalked-her-despite-a-no-contact-order-an-appeals-court-upheld-a-five-year-domestic-violence-protection-order/articleshow/135714976.cms",
-            "source": "Times of India",
-            "summary": "A Washington woman applied for a domestic violence protection order after her ex-husband's alarming actions. He allegedly accessed her devices and tracked her credit card spending, despite a no-contact order. Following his violent behavior, the court issued a five-year protection order, which he challenged unsuccessfully. The Washington Court of Appeals confirmed the protection order, citing his continued violations…",
-            "published": "2026-11-10T22:58:55+05:30"
-          },
-          {
-            "title": "Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown",
-            "link": "https://www.hindustantimes.com/india-news/gurugram-traffic-staff-to-be-transferred-every-60-days-after-diwali-gift-demand-leads-to-crackdown-101794329943350.html",
-            "source": "Hindustan Times",
-            "summary": "Traffic personnel will be transferred through an automated system, zonal officers and traffic inspectors will be held accountable for staff's corrupt practices.",
-            "published": "2026-11-10T22:52:24+05:30"
-          },
-          {
-            "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-            "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-            "published": "2026-11-10T17:21:58+00:00"
-          },
-          {
-            "title": "India, US discuss customs and trade facilitation as both sides push for early bilateral deal",
-            "link": "https://www.hindustantimes.com/india-news/india-us-discuss-customs-and-trade-facilitation-as-both-sides-push-for-early-bilateral-deal-101794329408219.html",
-            "source": "Hindustan Times",
-            "summary": "Indian officials are positive about the proposed mutually beneficial deal, and ruled out any interruption in talks.",
-            "published": "2026-11-10T22:50:49+05:30"
-          },
-          {
-            "title": "Cheating case accused alleges custodial torture, OU police deny allegations",
-            "link": "https://www.thehindu.com/news/national/telangana/cheating-case-accused-alleges-custodial-torture-ou-police-deny-allegations/article71687238.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-10T22:49:49+05:30"
-          },
-          {
-            "title": "Israeli president warns against repeat election in new Knesset session",
-            "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-            "published": "2026-11-10T17:16:15+00:00"
           }
         ],
         "India": [
           {
-            "title": "T.N. government invites tenders for coverage of Assembly proceedings for two years",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-invites-tenders-for-coverage-of-assembly-proceedings-for-two-years/article71685768.ece",
+            "title": "Around 150 persons treated for cracker-related burns in Vellore, nearby districts",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/around-150-persons-treated-for-cracker-related-burns-in-vellore-nearby-districts/article71686216.ece",
             "source": "The Hindu",
-            "summary": "The work includes recording the entire session using a multi-camera setup, editing and other post-production work, and handing over the footage to the Assembly authorities for immediate telecast on satellite television channels",
-            "published": "2026-11-10T23:12:04+05:30"
+            "summary": "A large volume of cracker waste was also generated in these districts",
+            "published": "2026-11-10T23:55:24+05:30"
           },
           {
-            "title": "AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year",
-            "link": "https://www.hindustantimes.com/india-news/ar-rahmans-gurugram-concert-postponed-over-unforeseen-circumstances-rescheduled-for-next-year-101794329922094.html",
-            "source": "Hindustan Times",
-            "summary": "The concert was originally scheduled for next week on November 21, and was to take place at 7 pm at Backyard Sports Club in Gurugram.",
-            "published": "2026-11-10T23:05:42+05:30"
-          },
-          {
-            "title": "Builder withheld Rs 88L after redevelopment deal; landowners win over Rs 1.22 crore",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/they-gave-redevelopment-rights-for-a-1395-sq-ft-flat-but-builder-withheld-rs-88-lakh-compensation-and-demanded-rs-30-26-lakh-consumer-commission-orders-over-rs-1-22-crore-relief-to-landowners/articleshow/135715327.cms",
-            "source": "Times of India",
-            "summary": "The dispute originated in 2010, when two landowners, along with their late mother, transferred their development rights to a builder for redevelopment. They held a one-third undivided share in a property in Mumbai, and executed an Agreement to Assign for the redevelopment. Subsequently, they also entered into a Supplementary Agreement dated February 18, 2015, and an Agreement to Offer Permanent Alternate…",
-            "published": "2026-11-10T22:59:42+05:30"
-          },
-          {
-            "title": "The Siang dam and a threatened homeland",
-            "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+            "title": "Two persons killed in separate road incidents",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-killed-in-separate-road-incidents/article71686206.ece",
             "source": "The Hindu",
-            "summary": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay Lakshman reports on…",
-            "published": "2026-11-10T22:59:35+05:30"
+            "summary": "Special teams were formed to nab a car driver involved in the incident",
+            "published": "2026-11-10T23:48:01+05:30"
           },
           {
-            "title": "Woman says ex tracked spending and Alexa; court upholds 5-year protection order",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-washington-woman-says-her-ex-husband-tracked-her-spending-accessed-her-homes-alexa-system-and-repeatedly-stalked-her-despite-a-no-contact-order-an-appeals-court-upheld-a-five-year-domestic-violence-protection-order/articleshow/135714976.cms",
-            "source": "Times of India",
-            "summary": "A Washington woman applied for a domestic violence protection order after her ex-husband's alarming actions. He allegedly accessed her devices and tracked her credit card spending, despite a no-contact order. Following his violent behavior, the court issued a five-year protection order, which he challenged unsuccessfully. The Washington Court of Appeals confirmed the protection order, citing his continued violations…",
-            "published": "2026-11-10T22:58:55+05:30"
+            "title": "Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/over-74-lakh-voters-missing-from-tamil-nadu-electoral-rolls-says-citizens-collective/article71685695.ece",
+            "source": "The Hindu",
+            "summary": "The collective has announced a rally on Anna Salai on November 26, as part of a nationwide day of action against the Special Intensive Revision of electoral rolls",
+            "published": "2026-11-10T23:45:20+05:30"
           },
           {
-            "title": "Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown",
-            "link": "https://www.hindustantimes.com/india-news/gurugram-traffic-staff-to-be-transferred-every-60-days-after-diwali-gift-demand-leads-to-crackdown-101794329943350.html",
-            "source": "Hindustan Times",
-            "summary": "Traffic personnel will be transferred through an automated system, zonal officers and traffic inspectors will be held accountable for staff's corrupt practices.",
-            "published": "2026-11-10T22:52:24+05:30"
-          },
-          {
-            "title": "India, US discuss customs and trade facilitation as both sides push for early bilateral deal",
-            "link": "https://www.hindustantimes.com/india-news/india-us-discuss-customs-and-trade-facilitation-as-both-sides-push-for-early-bilateral-deal-101794329408219.html",
-            "source": "Hindustan Times",
-            "summary": "Indian officials are positive about the proposed mutually beneficial deal, and ruled out any interruption in talks.",
-            "published": "2026-11-10T22:50:49+05:30"
-          },
-          {
-            "title": "Cheating case accused alleges custodial torture, OU police deny allegations",
-            "link": "https://www.thehindu.com/news/national/telangana/cheating-case-accused-alleges-custodial-torture-ou-police-deny-allegations/article71687238.ece",
+            "title": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-10T22:49:49+05:30"
+            "published": "2026-11-10T23:36:25+05:30"
           },
           {
-            "title": "Cyclone-hit villages in Prakasam district remain without electricity",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
+            "title": "Woman, son die after being found injured at home in Mattannur",
+            "link": "https://www.thehindu.com/news/national/kerala/woman-son-die-after-being-found-injured-at-home-in-mattannur/article71686225.ece",
             "source": "The Hindu",
-            "summary": "The villagers are going to the nearest urban centre to charge their mobile phones at a cost of ₹10 per charge and are facing difficulties in meeting their daily needs, including access to drinking water and arranging fuel for generators, sources say",
-            "published": "2026-11-10T22:40:14+05:30"
+            "summary": "",
+            "published": "2026-11-10T23:34:56+05:30"
           },
           {
-            "title": "National Conference plans advisory councils of MLAs to address internal dissent",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/national-conference-plans-advisorycouncilsof-mlas-to-address-internal-dissent/article71687131.ece",
-            "source": "The Hindu",
-            "summary": "Farooq Abdullah reaches out to legislators after 17 MLAs raise demands following Cabinet expansion; councils to work with Ministers on policy and departmental functioning",
-            "published": "2026-11-10T22:39:11+05:30"
+            "title": "\"Significant Losses And Damages\": Nvidia, Jensen Huang Sued By Investor",
+            "link": "https://www.ndtv.com/world-news/nvidia-jensen-huang-sued-for-misleading-investors-over-ceos-affair-12309719#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The lawsuit, filed on Monday at a California court, claims that Nvidia and Jensen Huang failed to disclose information to shareholders about his links to the woman who allegedly passed on critical information to Beijing.",
+            "published": "2026-11-10T23:32:09+05:30"
           },
           {
-            "title": "Ladakh announces hill council elections, but fails to assuage protesting civil society groups",
-            "link": "https://www.thehindu.com/news/national/ladakh/schedule-for-eight-ladakh-hill-council-elections-announced-polling-on-december-4/article71685727.ece",
-            "source": "The Hindu",
-            "summary": "Hill council seats increased to 100, with 36 reserved for women for the first time; civil society groups oppose unilateral decision to hold polls now despite concerns about delimitation, voting in winter",
-            "published": "2026-11-10T22:38:47+05:30"
-          },
-          {
-            "title": "Trump puts his chips on Huang as China spy storm gathers force",
-            "link": "https://timesofindia.indiatimes.com/world/us/trump-puts-his-chips-on-huang-as-china-spy-storm-gathers-force/articleshow/135717035.cms",
+            "title": "Woman says she spent $80,000 in marriage; court upholds $1,000 monthly support",
+            "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-said-she-used-80000-in-savings-during-marriage-including-to-improve-her-husbands-house-after-five-years-of-temporary-support-an-appeals-court-upheld-another-1000-a-month-for-three-years/articleshow/135718099.cms",
             "source": "Times of India",
             "summary": "",
-            "published": "2026-11-10T22:37:54+05:30"
+            "published": "2026-11-10T23:30:18+05:30"
+          },
+          {
+            "title": "CID unearth webland scam, four arrested",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/cid-unearth-webland-scam-four-arrested/article71687260.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:29:03+05:30"
+          },
+          {
+            "title": "Suspension of senior IPS officer extended to March 2027",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/suspension-of-senior-ips-officer-extended-to-march-2027/article71687242.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:24:44+05:30"
+          },
+          {
+            "title": "Andhra Pradesh weighs making father’s name optional in official documents",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
+            "source": "The Hindu",
+            "summary": "State consultation calls for a child-friendly policy to ensure that children of single parents, sex workers, divorced couples and orphans are not denied education, identity documents or welfare benefits",
+            "published": "2026-11-10T23:20:48+05:30"
+          },
+          {
+            "title": "Gadi Eisenkot Wants To Probe Failures That Allowed October 7 Hamas Attack",
+            "link": "https://www.ndtv.com/world-news/gadi-eisenkot-wants-to-probe-failures-that-allowed-october-7-hamas-attack-12309817#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Eisenkot's Yashar party, empowered in the new parliament sworn in on Tuesday, also said it was proposing a mass repeal of Netanyahu's controversial overhaul of the judiciary",
+            "published": "2026-11-10T23:17:14+05:30"
+          },
+          {
+            "title": "TDP-led NDA dominates Tirupati district in ZPTC/MPTC elections",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-nda-dominates-tirupati-district-in-zptcmptc-elctions/article71686572.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-10T23:16:50+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+            "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+            "published": "2026-11-10T18:04:18+00:00"
+          },
+          {
+            "title": "Why are these purple flowers shutting down streets in Sydney?",
+            "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+            "published": "2026-11-10T18:03:52+00:00"
+          },
+          {
+            "title": "Myanmar summons German envoy over controversial video",
+            "link": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Mathias Licharz calls for the &#039;unconditional&#039; release of ousted politicians, including former leader Aung San Suu Kyi.",
+            "published": "2026-11-10T18:03:06+00:00"
+          },
+          {
+            "title": "US federal authorities could have prevented Epstein crimes, report finds",
+            "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+            "published": "2026-11-10T17:59:02+00:00"
+          },
+          {
+            "title": "Photos: Crowds greet Pope Leo in Argentina after 40-year wait",
+            "link": "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Pope Leo XIV urges Argentinians to emulate their saints during his landmark visit, drawing crowds not seen for decades.",
+            "published": "2026-11-10T17:48:27+00:00"
+          },
           {
             "title": "US petrol prices are down, but elevated inflation continues",
             "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
@@ -239,50 +274,29 @@
             "source": "Al Jazeera",
             "summary": "Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.",
             "published": "2026-11-10T17:02:23+00:00"
-          },
-          {
-            "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-            "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-            "published": "2026-11-10T17:00:11+00:00"
-          },
-          {
-            "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-            "published": "2026-11-10T16:39:25+00:00"
-          },
-          {
-            "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Did Fox News&#039; fixation on Hasan Piker backfire?",
-            "published": "2026-11-10T16:26:08+00:00"
-          },
-          {
-            "title": "At least 12 people killed in Bulgaria motorway pile-up",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
-            "published": "2026-11-10T16:20:12+00:00"
-          },
-          {
-            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-            "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-            "published": "2026-11-10T16:19:48+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Fed’s Christopher Waller opens door to 50-basis-point December rate hike after hot CPI",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-christopher-waller-opens-door-to-50-basis-point-december-rate-hike-after-hot-cpi/articleshow/135718143.cms",
+            "source": "Economic Times",
+            "summary": "Federal Reserve Governor Christopher Waller has raised the possibility of a 50-basis-point December rate hike after US core inflation rose 0.3% in October. Persistent price pressures have intensified debate over tighter monetary policy and the Fed's inflation-fighting credibility.",
+            "published": "2026-11-10T23:42:40+05:30"
+          },
           {
             "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
             "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
             "published": "2026-11-10T17:56:12+00:00"
+          },
+          {
+            "title": "Microsoft market cap beats Nvidia's for first time since June 2025",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-market-cap-beats-nvidias-for-first-time-since-june-2025/articleshow/135717250.cms",
+            "source": "Economic Times",
+            "summary": "Microsoft overtook Nvidia as the world's most valuable company on Tuesday, as the chip giant's shares fell on uncertainty over the outlook for AI and an investigation into whether",
+            "published": "2026-11-10T22:44:49+05:30"
           },
           {
             "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
@@ -320,6 +334,13 @@
             "published": "2026-11-10T15:10:20+00:00"
           },
           {
+            "title": "Anthropic's potential mega IPO joins ranks of world's biggest stock market listings",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
+            "source": "Economic Times",
+            "summary": "Anthropic has kicked off its U.S. IPO roadshow, seeking to raise up to $64.4 billion by offering 825 million shares. This latest valuation stands at roughly $1.4 trillion, representing a drop from earlier estimations of $2 trillion. Notably, tech giants like Alphabet and Microsoft are set to invest $26 billion in a private placement.",
+            "published": "2026-11-10T20:25:20+05:30"
+          },
+          {
             "title": "US inflation higher than expected in October - here's what is happening with prices",
             "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -327,39 +348,18 @@
             "published": "2026-11-10T14:45:46+00:00"
           },
           {
+            "title": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO, targets up to $90.4 billion in fundraising",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo-targets-up-to-90-4-billion-in-fundraising/articleshow/135712951.cms",
+            "source": "Economic Times",
+            "summary": "Anthropic is targeting a fully diluted $1.4 trillion valuation through its proposed IPO, seeking up to $64.35 billion. Combined with a $26 billion private placement, fundraising could reach $90.4 billion amid rising infrastructure costs and competition.",
+            "published": "2026-11-10T19:34:39+05:30"
+          },
+          {
             "title": "New regulation for heating oil market, but no price controls",
             "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
             "published": "2026-11-10T13:42:29+00:00"
-          },
-          {
-            "title": "Civil servant who secretly held five jobs found guilty of fraud",
-            "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-            "published": "2026-11-10T13:39:28+00:00"
-          },
-          {
-            "title": "Holiday hunger bill to face final Stormont hurdle",
-            "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The new law would would help poorer families with food costs during school holidays.",
-            "published": "2026-11-10T09:35:03+00:00"
-          },
-          {
-            "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-            "published": "2026-11-10T09:23:55+00:00"
-          },
-          {
-            "title": "Warren Buffett’s 7 golden rules for young investors trying to manage finances",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-7-golden-rules-for-young-investors-trying-to-manage-finances/articleshow/135705917.cms",
-            "source": "Economic Times",
-            "summary": "Warren Buffett shares seven essential financial lessons for young investors, emphasising frugal living, eliminating high-interest debt, long-term investing, understanding businesses, maintaining cash reserves and portfolio diversification through his 90/10 rule. He also reminds investors that financial wealth matters less than happiness, relationships and unconditional love.",
-            "published": "2026-11-10T14:44:31+05:30"
           }
         ],
         "Sports": [
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Diwali पर पटाखे जलाने को लेकर विवाद, राष्ट्रपति अंगरक्षक के जवान सौरभ तोमर के सिर में लगी गोली, हालत गंभीर",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/diwali-firecracker-dispute-president-bodyguard-saurabh-tomar-shot-in-head-condition-critical-1682391.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-10T23:56:13+05:30"
+          },
+          {
+            "title": "Nisha Kumari Bhagat Death Case की CBI जांच के CM सोरेन के निर्देश, SHO हटाए गए, 2 के खिलाफ FIR",
+            "link": "https://hindi.oneindia.com/news/jharkhand/nisha-kumari-bhagat-death-case-cm-soren-orders-cbi-probe-sho-removed-fir-against-two-1682383.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-10T23:33:45+05:30"
+          },
+          {
             "title": "Ganderbal Accident: गांदरबल में बड़ा हादसा! सड़क से फिसला टेम्पो ट्रैवलर, गुजरात-बंगाल के 8 पर्यटक SKIMS रेफर",
             "link": "https://hindi.oneindia.com/news/india/ganderbal-accident-8-tourists-from-gujarat-and-bengal-referred-to-skims-jammu-kashmir-news-hindi-1682375.html",
             "source": "Oneindia Hindi",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-10T20:27:56+05:30"
-          },
-          {
-            "title": "Ladakh Hill Council Election 4 दिसंबर को, 8 दिसंबर तक पूरी होगी मतगणना, पंचायत चुनाव कब होंगे?",
-            "link": "https://hindi.oneindia.com/news/india/ladakh-hill-council-election-2026-on-4-december-counting-by-8-december-panchayat-elections-1682235.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-10T19:47:09+05:30"
-          },
-          {
-            "title": "पराली जलाने के मामलों में 95 फीसदी तक कमी का दावा, भाजपा पर बरसे अमन अरोड़ा",
-            "link": "https://hindi.oneindia.com/news/india/parali-management-punjab-95-percent-reduction-012-1682221.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-10T19:31:15+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "తెలంగాణలో అండాల సేకరణ దందా.. 7 ఐవీఎఫ్ కేంద్రాలకు షోకాజ్ నోటీసులు",
+            "link": "https://telugu.oneindia.com/news/telangana/telangana-ivf-center-raids-egg-procurement-racket-busted-show-cause-notices-issued-to-7-ivf-centers-514361.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-10T23:45:10+05:30"
+          },
+          {
             "title": "విజృంభిస్తున్న కరోనా కొత్త వేరియంట్.. ఈ లక్షణాలు ఉంటే డేంజర్ లో పడినట్టే..!",
             "link": "https://telugu.oneindia.com/news/international/covid19-new-variant-pj-2-1-rapidly-spreading-if-you-have-these-symptoms-you-could-be-in-danger-514359.html",
             "source": "Oneindia Telugu",
@@ -1126,13 +1133,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-10T20:14:55+05:30"
-          },
-          {
-            "title": "Vijayawada: డిసెంబరు 10 నుంచి బులుసు అపర్ణ సహస్రావధానం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkpwcFVMQk5lS2JSVnZzMzVfeG1va0F6bVZXWTk3VEtiaS03Q0JvUU5WNWdiZ1RjU24yQVlVQUllOVJSMVF2cXkwamxUQmVhY0s3ZzZ0dktQNk9Pb2dUQWktQmRnMTB5TGNjdEx6Yi1VbkZXVXZDdjg1R1oyOTl0Nm12NkZsNVNrWGMzbWRlM2huMi1tMWdnRFh6SlJoRGlsZjJnS3dXSEhtellneVl1WXl4VXltWFFHRGw1aA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-10T14:38:31+00:00"
           },
           {
             "title": "సికింద్రాబాద్ నుంచి సప్త జ్యోతిర్లింగాలకు కార్తీకమాసం స్పెషల్ ట్రైన్.. హాల్ట్ స్టేషన్లు !!",
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "দেবীর স্বপ্নাদেশে শুরু চিন্ময়ী কালীপুজো, বাঁকুড়ায় আজও পুজো পান সাঁতরাদের বড় বৌ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEtCRDBuWWVQMHJ6UnZDd1Zsb2FpZ3JSY0dCSHh5OURBVW42NTdraF9WcGhrSzRsZHZqUEdSSGRtUWlJQXB1dEhMRFMzYWl1ZWxmVnZnd181dW1PMV9uRGlhYjcyUTgyOFl5R0lpX2l6UE0yNmFienJuMjBuQThOaXBEMGhzNkhNbERNSExYdnFUTjlraDRGZnN0R1R3emVLbkp6bC00ak1KNTl5OFVoYVBHbXNfa0Z0eHpGUjdRZmRhbmlkR1AxMVkwdTdaQWpFcXNCX2FkSlLSAd4BQVVfeXFMTkc3YWxIbWdMM2JoQVFfcUdKQy03QldGeHIzaG4xN2JSdkJ2eHg4dk0yUmJna1dsbmlDTUNtdndyR1pQSnpKbUFOVnVrQnpmZEE0Mm83S29jSmZjcG5ROG5PUTJxanpNSm5NVnczOFFHN2VldlhmZjlQT3cwX1dBMkk3QmVsMnQyUFpJTF81ZHM3STRmNjdzMm5mTFlFTWtHVGdOQmh2dW85Ulp3ZjRvU0xHd2JOVjU2dXlja0UteTRhNWJLRDB3UG5Nd0tHUl9QdThLVEhLZmRFR1JHRkJR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-10T18:08:01+00:00"
+          },
+          {
+            "title": "বিজয়ার পরে এ বার ভাইফোঁটাতেও ‘না’ মমতার, ‘তৃণমূল কর্মীদের উপর হামলা এবং পুলিশি জুলুমের প্রতিবাদে’ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0F2ZEdtdTVWWk1acFNuc1o1SGVGWFFvMkowSkNPLXBSQmROMTFuOUZVakpmY2pnbXNGREZ0V08wM1MxSmFMQlRrb1d5anVkSk9ZaTQwZ05xZVQtY3pNbUlSclBCMXhjVG5QOURseTQ5TVo4UzNoanJXZXJrdmp2cUljQXFwWjExbjhPZmtqTldkYlRYZ0NqSzNNUElEWFRHZmpFbmNQNTk3M0pFRktOcVpqTm5fcWMxRS1CaWp3Njh1SmhzMDdaQ2w1YTBoMVUzMlNzWTd4NDFhejDSAeABQVVfeXFMT2s2QUVVZ1A1T0NsZVAzc0xleUp6NlpQcENoRHJ3Q1F2Ti0wUkszcF9reHFZZFVzekFKeWxMaDhDcHM1Y2dpR0lGQjR0eDhzSVdacmN5UVBDaHRKRzZJZ0l5M2RkNmZXZnA0NU1Xb29HMThMRGpVbzVMMGFDZDU2UEdSYlRDMUxpUm04anNSNnpVZ292bmRoeGJzOXdjcy1HOWhlOUtiSkVWQk5TMEhQQ2JmMGF0VktlV2g2bFgxWUxtc3VoLUZuc0dneTI0aWZ1X2k0OTg0eUViU2JHa2VyUkg?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-10T17:55:41+00:00"
+          },
+          {
             "title": "ভাইফোঁটার দিন আমি আর দাদা এখনও দিদিকে সাষ্টাঙ্গে প্রণাম করি, এটাও এখন আমাদের ভাইফোঁটার রীতি: উন্মেষ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOX09DeVh1S2hwYi14Ukh1eVZzTzF5c3gtU3N6N0RRd0R5eGt1WDVreVdiWGQ2V2lTWEVRNlBQTm1xN3JuSERTX3g3S1NfOGdJdTRCNURYQm52RGtuYmJxUlVIVW1Wa0h0clg0MUpsZEdEX1dYcGNGRkFqclZqSFlVLXlFOWFlZzhqcjhyR2M5XzdtNk9xck9xeWtIWGNNblk0RWN4NEg4ZnRieHBXaFdROERCLTVuTm9yWjd4aUJya29taS02X0c3eGFWSGxFUVZBaC1LS0pxSHV1NlhRb1ExNTd0eXhUd2VMdHZEQ0pYZE1uU2VOYmFxQzlreDZ2d1lUUGRxWHRTa2ZRODN6ZHBRdnNKdHZJQTVNNldBUE5LMDhuQTEtWEduRTBldmpySXhFSEFuUGNPaGNiemFjSWFBOFBkT3daci1a0gHIAkFVX3lxTE5fT0N5WHVLaHBiLXhSSHV5VnNPMXlzeC1Tc3o3RFF3RHl4a3VYNWt5V2JYZDZXaVNYRVE2UFBObXE3cm5IRFNfeDdLU184Z0l1NEI1RFhCbnZEa25iYnFSVUhVbVZrSHRyWDQxSmxkR0RfV1hwY0ZGQWpyVmpIWVUteUU5YWVnOGpyOHJHYzlfN202T3FyT3F5a0hYY01uWTRFY3g0SDhmdGJ4cFdoV1E4REItNW5Ob3JaN3hpQnJrb21pLTZfRzd4YVZIbEVRVkFoLUtLSnFIdXU2WFFvUTE1N3R5eFR3ZUx0dkRDSlhkTW5TZU5iYXFDOWt4NnZ3WVRQZHFYdFNrZlE4M3pkcFF2c0p0dklBNU02V0FQTkswOG5BMS1YR25FMGV2anJJeEVIQW5QY09oY2J6YWNJYUE4UGRPd1pyLVo?oc=5",
             "source": "Anandabazar Patrika",
@@ -1452,6 +1466,13 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-10T17:05:57+00:00"
+          },
+          {
+            "title": "বিরোধীদের সঙ্গে সমঝোতা হয়েছে! জানিয়ে ইজ়রায়েলের স্পিকারের নাম ঘোষণা করলেন আইজ়েনকট - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY3cxN2pzdlBRQ3pLZUNRWURXalpFX2RIYmd1bTRTMmZSVEtzWjE2NF8yeUM1LTJQY0VpNmdBRlp4ZDJ6bHZHcE50TlQxTU42Mk1KSFY2WGFwVGxOUjllOFgyUFJkQm9aNzh4MnpoVHlTZHVnNEJ4MjgxTDVYdXREMU10SE1XWHh4UFNncm5OUklfNDZtMWg1ODJNVUZtQUVoazdmNFkxalRuaXZBMDhHZC1Ta28xUmNzZThBUDJ6Mkg2bXVnbGVEbDBvV0_SAdIBQVVfeXFMUG9nU0RNVTZRWnlKT05Uay1oSGVmSURtQk85QXBXYkZKUHBOcVJCdFBJZ3NNZk1iYWNlUzl5Y3l4a1JuVHpnNkU0UkZ4dl8yaFRlbDlVQ0ZacjB5N1VQY1hZLTlYeHhiUkdMSWk3TG9sOUVtZkJ5bGxBcE95VlZkeFZEb3NoTFpURGpHR3FQZWhvajRQVlBLelZpREJsVmRtMDYxUzJieUJSTDdGU2JRNGJyYWhEXzVKMGRvQ2RoOWtMU0xJRGppbjNNRHVSQm9uMHZB?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-10T16:50:52+00:00"
           },
           {
             "title": "‘এ তো সময়ের খেলা’, আসেনি আমন্ত্রণ! অরূপকে ফোঁটা দেওয়া নিয়ে কী বলছেন অপরাজিতা? - Anandabazar Patrika",
@@ -1482,32 +1503,11 @@
             "published": "2026-11-10T15:36:43+00:00"
           },
           {
-            "title": "শাক ধোয়ার পরে একটি কাজ ভুলেও করবেন না! পেটের গন্ডোগোল এড়াতে চাইলে সতর্ক থাকুন - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFNnZkNsRVVNemRxQndsYUZNYmlHei1YSDdsbzZfaS1tX3JaaER5b1ZkYmRLWE1HbGdMa0V6c255b3puSFc0bnhLOEJGOXBJQzhZeWRyOHBiSnd2MXdJeWQzV1NkRmhCOTlHOUFUZVZSeWdHNWlQdThqbkU1bTl5S0UzVExpdVpzM2RnVVhuRHRkR0JWSmFDOGpXb3NYcENpMF8zcjFfRER0YmpodkdMY2h4NE9UZ9IBtgFBVV95cUxNeFNnZkNsRVVNemRxQndsYUZNYmlHei1YSDdsbzZfaS1tX3JaaER5b1ZkYmRLWE1HbGdMa0V6c255b3puSFc0bnhLOEJGOXBJQzhZeWRyOHBiSnd2MXdJeWQzV1NkRmhCOTlHOUFUZVZSeWdHNWlQdThqbkU1bTl5S0UzVExpdVpzM2RnVVhuRHRkR0JWSmFDOGpXb3NYcENpMF8zcjFfRER0YmpodkdMY2h4NE9UZw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-10T15:16:28+00:00"
-          },
-          {
             "title": "শেখ হাসিনার এনআইডি কি বাতিল হয়েছিল?",
             "link": "https://www.bbc.com/bengali/articles/c680z04rr8xlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-10T14:39:22+00:00"
-          },
-          {
-            "title": "শিবির বদল করতেই সক্রিয় পুলিশ, বিধায়ক পরেশরামের গ্রেফতারি ঘিরে রাজনৈতিক চাপানউতর - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXFIYy13bzJUWFYxeWVOenlpMHdOeHdjcU8wc3piS0tGRk9CaXBEdVFHS21MRklfUDRnbEJtTVNKRG9CbDdXdmlWVF9SZjdRaGxOamd1MFp4d3I2Tk14Ymc5bkRGX2RUU2lPejB1VDNKNnFNcjRmc044RzZ5SlFiTXVmamptelBOSnh3d25KdlJKUlMxUHRiRkswZ0VzVUVqOEdySXZlR3ppWXl0NmNNT3VXNTY2OVBjS2NCTTh2X1NaSTU1d3c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-10T14:33:00+00:00"
-          },
-          {
-            "title": "নজির গড়ল রণবীরের ‘রামায়ণ’? ‘ধুরন্ধর ২’ ও ‘পুষ্পা ২’-কে কি ছাপিয়ে যেতে পারল নীতেশ তিওয়ারীর ছবি? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE01cTR2NEE4MDRRZzh3QnNOcmI5RlNhUmdrQ0dQZUgwbnE2cjlmeW4tVjlrUXFWRUt0M282Z1dvaHdvUUhpVk1RU041ZS10X0NCTGE2TmpnalVTeUpueVpMWVJCNmhid0NhZWUySmdoajJkalAxYVVIQi1SVll1d2lzLTZEYVpQSWhtcHV3MS1YbTBPVlJVVkpfYnFlZDZxeWxRZFNqYUZKa1ZBQXZv0gG0AUFVX3lxTE1nR2dQdmVtU3A3M2lQd2lSNERVc3laRjdrS0ppRV9pOGNfcDVTdlkyOWtXQ1lyWUV1aHBHQ0haUGhDZExsX0xFa1VUTzZKNE9ZWjlsaU9hSU1obUQtZEZTUlFtekQ1UmM0ZTlnU3ZObnM0TlBEVDJ0ZGMtWUlrak9HbFEyYTJ2cmY5Y29HME1RNy1Nb1lIQk80NVlfU3BmeU9kVmJDQlFveURfQXBiVjFKanRSeQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-10T14:31:32+00:00"
           }
         ]
       }
