@@ -1,12 +1,47 @@
 {
-  "updated_at": "2026-11-11T21:01:16.709674+00:00",
+  "updated_at": "2026-11-11T21:32:53.718360+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+            "title": "US stocks: S&amp;P, Nasdaq end over 1% higher as AI-fueled optimism weighs",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-nasdaq-end-over-1-higher-as-ai-fueled-optimism-weighs/articleshow/135747759.cms",
+            "source": "Economic Times",
+            "summary": "CoreWeave reported strong earnings, easing investor concerns about spending on AI infrastructure and boosting stock prices. Both the S&P 500 and Nasdaq witnessed gains following these positive results in the tech sector. Nvidia also recovered, overcoming previous losses related to CEO controversies and market fluctuations. Meanwhile, inflation data raised expectations for an interest rate hike by the Federal Reserve…",
+            "published": "2026-11-12T02:45:24+05:30"
+          },
+          {
+            "title": "SC: Indians married here can't get divorced abroad",
+            "link": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms",
+            "source": "Times of India",
+            "summary": "In a landmark decision, the Supreme Court declared that divorces executed overseas, based on grounds not acknowledged under Indian law, are invalid. This ruling implies that individuals who remarry after such foreign divorces may risk prosecution for bigamy. The court also affirmed that marriages conducted according to Indian traditions hold validity, irrespective of any foreign citizenship.",
+            "published": "2026-11-12T02:38:33+05:30"
+          },
+          {
+            "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+            "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+            "published": "2026-11-11T21:03:40+00:00"
+          },
+          {
+            "title": "Thousands march to mark Poland’s Independence Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march",
+            "published": "2026-11-11T21:02:02+00:00"
+          },
+          {
+            "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
+            "published": "2026-11-11T21:01:42+00:00"
+          },
+          {
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
             "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
@@ -67,44 +102,16 @@
             "source": "NDTV",
             "summary": "Volodymyr Zelensky said Wednesday there could be a \"window of opportunity\" to reach a breakthrough in talks to end the war with Russia before 2027, as he arrived in Ireland, where he is due to meet US envoys.",
             "published": "2026-11-12T02:10:38+05:30"
-          },
-          {
-            "title": "Daughter of Cheranalloor accident victim files review petition before Kerala High Court",
-            "link": "https://www.thehindu.com/news/national/kerala/daughter-of-cheranalloor-accident-victim-files-review-petition-before-kerala-high-court/article71690911.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-12T02:10:25+05:30"
-          },
-          {
-            "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-            "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
-            "published": "2026-11-11T20:39:50+00:00"
-          },
-          {
-            "title": "Cochin shipyard, SFO Technologies jointly develop sophisticated laser arc welding technology",
-            "link": "https://www.thehindu.com/news/national/kerala/cochin-shipyard-sfo-technologies-jointly-develop-sophisticated-laser-arc-welding-technology/article71690473.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-12T02:03:35+05:30"
-          },
-          {
-            "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Palestinian families have returned to the Sabra neighbourhood of Gaza City after an Israeli strike killed three people.",
-            "published": "2026-11-11T20:33:35+00:00"
-          },
-          {
-            "title": "Complete data could've raised average Diwali pollution level 49%",
-            "link": "https://timesofindia.indiatimes.com/india/complete-data-couldve-raised-average-diwali-pollution-level-49/articleshow/135748336.cms",
-            "source": "Times of India",
-            "summary": "On Diwali night, the absence of PM2.5 data from monitoring stations led to distorted pollution readings in Delhi. Research by the Centre for Research on Energy and Clean Air indicated that pollution levels might have increased by as much as 49%. While the Central Pollution Control Board pointed out calibration limitations, readings from the Delhi Pollution Control Committee were inconsistent.",
-            "published": "2026-11-12T02:03:33+05:30"
           }
         ],
         "India": [
+          {
+            "title": "SC: Indians married here can't get divorced abroad",
+            "link": "https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms",
+            "source": "Times of India",
+            "summary": "In a landmark decision, the Supreme Court declared that divorces executed overseas, based on grounds not acknowledged under Indian law, are invalid. This ruling implies that individuals who remarry after such foreign divorces may risk prosecution for bigamy. The court also affirmed that marriages conducted according to Indian traditions hold validity, irrespective of any foreign citizenship.",
+            "published": "2026-11-12T02:38:33+05:30"
+          },
           {
             "title": "'America did not start this': Trump defends war with Iran",
             "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
@@ -181,18 +188,32 @@
             "source": "The Hindu",
             "summary": "",
             "published": "2026-11-12T01:59:12+05:30"
-          },
-          {
-            "title": "\"America Did Not Start Iran War\": Trump Says Wants To Have \"Total Victory\"",
-            "link": "https://www.ndtv.com/world-news/america-did-not-start-iran-war-donald-trump-says-wants-to-have-total-victory-12314610#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Speaking during the 2026 National Veterans Day Ceremony at Arlington National Cemetery, Trump said the United States had fought back against Iran and claimed that American military operations had significantly damaged the country's capabilities.",
-            "published": "2026-11-12T01:58:49+05:30"
           }
         ],
         "World": [
           {
-            "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+            "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+            "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+            "published": "2026-11-11T21:03:40+00:00"
+          },
+          {
+            "title": "Thousands march to mark Poland’s Independence Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march",
+            "published": "2026-11-11T21:02:02+00:00"
+          },
+          {
+            "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
+            "published": "2026-11-11T21:01:42+00:00"
+          },
+          {
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
             "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
@@ -253,32 +274,18 @@
             "source": "Al Jazeera",
             "summary": "",
             "published": "2026-11-11T20:03:45+00:00"
-          },
-          {
-            "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-            "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-            "published": "2026-11-11T20:00:54+00:00"
-          },
-          {
-            "title": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/how-much-did-pro-israel-groups-spend-against-hasan-piker-at-midterms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-11-11T19:51:58+00:00"
-          },
-          {
-            "title": "Which key races remain undecided one week after the US midterms?",
-            "link": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
-            "published": "2026-11-11T19:14:29+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
+            "title": "US stocks: S&amp;P, Nasdaq end over 1% higher as AI-fueled optimism weighs",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-nasdaq-end-over-1-higher-as-ai-fueled-optimism-weighs/articleshow/135747759.cms",
+            "source": "Economic Times",
+            "summary": "CoreWeave reported strong earnings, easing investor concerns about spending on AI infrastructure and boosting stock prices. Both the S&P 500 and Nasdaq witnessed gains following these positive results in the tech sector. Nvidia also recovered, overcoming previous losses related to CEO controversies and market fluctuations. Meanwhile, inflation data raised expectations for an interest rate hike by the Federal Reserve…",
+            "published": "2026-11-12T02:45:24+05:30"
+          },
+          {
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
             "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
@@ -353,16 +360,23 @@
             "source": "Economic Times",
             "summary": "Electric mobility stocks rallied on Wednesday after the Centre made EVs the default choice for government staff-car procurement and doubled the price ceiling for electric cars to Rs 20 lakh. M&M led the gains, followed by Ola Electric, Hyundai Motor India and TVS Motor Company.",
             "published": "2026-11-11T14:37:33+05:30"
-          },
-          {
-            "title": "Christmas toy rush being driven by squishies and building sets",
-            "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-            "published": "2026-11-11T07:52:05+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Ciryl Gane And Josh Hokit Address Media Before UFC 334 Heavyweight Championship Fight",
+            "link": "https://sports.ndtv.com/us/mma/ciryl-gane-and-josh-hokit-address-media-before-ufc-334-heavyweight-championship-fight-12314587#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Ciryl Gane prepares for his first heavyweight title defense against Josh Hokit at Madison Square Garden, with Harrison-Nunes adding a second championship fight to UFC 334.",
+            "published": "2026-11-12T01:29:53+05:30"
+          },
+          {
+            "title": "'I Agree With Rory McIlroy’: Frank Kennedy Responds After DP World Tour Upholds His Q-School Disqualification",
+            "link": "https://sports.ndtv.com/us/golf/i-agree-with-rory-mcilroy-frank-kennedy-responds-after-dp-world-tour-upholds-his-q-school-disqualification-12314585#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Frank Kennedy has responded after the DP World Tour refused to overturn his disqualification at Q-School. The young golfer also backed Rory McIlroy's comments on the controversial decision.",
+            "published": "2026-11-12T01:24:43+05:30"
+          },
           {
             "title": "Can You Hide… Shaq? Shaquille O'Neal's New Reality Show Puts Contestants In A Nearly Impossible Challenge",
             "link": "https://sports.ndtv.com/us/nba/can-you-hide-shaq-shaquille-oneals-new-reality-show-puts-contestants-in-a-nearly-impossible-challenge-12314569#publisher=newsstand",
@@ -432,20 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Rex Ryan told the “Bussin’ With the Boys” podcast that he was ready to punch Bill Belichick before the Jets’ 2010 playoff game, but he never followed through. The threat was meant to shift pressure off his locker room after a 45-3 loss.",
             "published": "2026-11-11T23:34:43+05:30"
-          },
-          {
-            "title": "Merab Dvalishvili Left Bloodied After Alleged Attack By Usman Nurmagomedov’s Team Ahead Of RAF Abu Dhabi",
-            "link": "https://sports.ndtv.com/us/mma/merab-dvalishvili-left-bloodied-after-alleged-attack-by-usman-nurmagomedov-s-team-ahead-of-raf-abu-dhabi-12314236#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Merab Dvalishvili says Usman Nurmagomedov and his team attacked him during RAF Abu Dhabi media duties. He posted footage showing blood from his nose and severe swelling around his left eye.",
-            "published": "2026-11-11T23:34:32+05:30"
-          },
-          {
-            "title": "Will Borgen’s Surprising NHL Ranking Highlights Boston Bruins’ Defensive Strength",
-            "link": "https://sports.ndtv.com/us/nhl/will-borgen-s-surprising-nhl-ranking-highlights-boston-bruins-defensive-strength-12314224#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Will Borgen’s plus-18 ranks fifth in the NHL through 18 games, the highest mark outside the Oilers. Here’s what his numbers reveal about the Boston Bruins’ defensive strength in the 2026-27 season.",
-            "published": "2026-11-11T23:34:18+05:30"
           }
         ],
         "Technology": [
@@ -648,6 +648,20 @@
             "published": "2026-11-12T12:07:44+05:30"
           },
           {
+            "title": "देश के 13 राज्यों, 3 UT में आज से SSR:करीब 6 करोड़ वोटर्स के पास दोबारा नाम जुड़वाने का मौका, यूपी में 5 दिन बाद से",
+            "link": "https://www.bhaskar.com/national/news/voter-list-special-summary-revision-ssr-up-india-election-commission-139659812.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-11T21:25:06+00:00"
+          },
+          {
+            "title": "कभी खुद के नाम से जोड़ा 250 फीट का आर्च: अब पूर्व सैनिकों के सम्मान का हवाला; ट्रंप की योजना पर संकट क्यों?",
+            "link": "https://www.amarujala.com/world/donald-trump-washington-military-triumphal-arch-veterans-controversy-2026-11-12",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-12T02:07:57+05:30"
+          },
+          {
             "title": "पाकिस्तान में पुलिस टीम पर आतंकी हमला: 18 हमलावर ढेर, 11 सुरक्षाकर्मियों की मौत; अवैध खनन बना हमले की वजह?",
             "link": "https://www.amarujala.com/world/pakistan-khyber-pakhtunkhwa-terror-attack-18-killed-2026-11-12",
             "source": "Amar Ujala",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-11T23:12:56+05:30"
-          },
-          {
-            "title": "Manipur Congress Committee List: मणिपुर चुनाव के लिए कांग्रेस ने बनाई 5 समितियां, Okram Ibobi समेत कौन-कौन?",
-            "link": "https://hindi.oneindia.com/news/india/manipur-congress-committee-list-forms-5-committees-for-assembly-elections-who-is-okram-ibobi-singh-1682937.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-11T22:58:16+05:30"
-          },
-          {
-            "title": "Italy School Bomb Threats: इटली के 6000 स्कूलों को बम से उड़ाने की धमकी, 312 खाली कराए गए, UK-आयरलैंड खतरे में",
-            "link": "https://hindi.oneindia.com/news/international/italy-school-bomb-threats-6000-schools-targeted-312-evacuated-britain-ireland-at-risk-news-hindi-1682915.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-11T22:04:20+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Qualcomm: క్వాల్‌కామ్‌లో 3వేలకుపైగా ఉద్యోగులపై వేటు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjN4dkNRS0taQnhIQm9BUjNUaU5NWXBpd05hbmJabmdHbjhYc3ljWTZFeG16Ujk1M1NNZjZ2V1NpTzJjNFB4a2dLY19SdDR3UGpLVm1WUWVveFZ1OExUc2xvWDEzQ1F3MHc0MW5pWjctNXBlSjJVLU5XVVA5UEZfZFJLQ0sxaHRoZDJxV1FfV1NPcDIzVFE5eDlwRFBaakhp0gGgAUFVX3lxTE5yM3h2Q1FLS1pCeEhCb0FSM1RpTk1ZcGl3TmFuYlpuZ0duOFhzeWNZNkV4bXpSOTUzU01mNnZXU2lPMmM0UHhrZ0tjX1J0NHdQaktWbVZRZW94VnU4TFRzbG9YMTNDUXcwdzQxbmlaNy01cGVKMlUtTldVUDlQRl9kUktDSzFodGhkMnFXUV9XU09wMjNUUTl4OXBEUFpqSGk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-11T21:09:11+00:00"
+          },
+          {
+            "title": "టెలికాం, విద్యుత్‌ నెట్‌వర్క్‌ సేవల్లోకి సైయెంట్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuaTdobjl1LXp3Nm5nc0lDRFlfdS0wOWRCazRRbzdTbmhEbjN5dVZxNjJuSVZvX0hYR2VVbjI5aE5Nc1BWZzcwSWhmR1l3aFVpTElmRHlZUC1QV2tqV1dFWlFGU3NpUzZWZ09vTEFINnl6dEdx0gF0QVVfeXFMUG5pN2huOXUtenc2bmdzSUNEWV91LTA5ZEJrNFFvN1NuaERuM3l1VnE2Mm5JVm9fSFhHZVVuMjloTk1zUFZnNzBJaGZHWXdoVWlMSWZEeVlQLVBXa2pXV0VaUUZTc2lTNlZnT29MQUg2eXp0R3E?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-11T21:02:52+00:00"
+          },
+          {
             "title": "డిసెంబరు 12న జాతీయ లోక్‌అదాలత్‌ - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VX1Z2YjRnOE1ZcnBaYk51Q1RMbWdFTDk4N0F5bjh3bVg1WDhWSTNfbGtxeXNOTnI4MTdGS0JrWkpJVWFZM3QyVzI5QmhOOENtVDdrWHlVcWpPbFRnbGZpRnJBOTJmaVRYVnBYdG9GM3pNbGgwT3dGQnFhS0NoZw?oc=5",
             "source": "Eenadu",
@@ -1098,6 +1112,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-11T20:17:31+00:00"
+          },
+          {
+            "title": "దేశ విద్యావ్యవస్థకు మౌలానా కృషి చిరస్మరణీయం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93WkRNdHl0YWhrZVdNckRaUFh6Zm1ZMVlqbUY0d3FOS29DQW0zdXVQM2FoRHdQZV96MHZYM085ZjVCV2sxaU5wVHh6dFJJekxjeFdjOXZLSy1sZkt5aERiYmlrWGxrZFZ3RWVUbWdzRHJxLXVmY2RsZA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-11T20:09:50+00:00"
           },
           {
             "title": "దేశంలోనే నంబర్‌ వన్‌.. నవీ ముంబయి - Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-11T19:53:06+00:00"
-          },
-          {
-            "title": "గోకుల్‌ డెయిరీ పీఠం మహాయుతి కైవసం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tTll4cy1vT3RNemFlV3pJSXBtZU1VYmxKWUppZ1pOWlQzTm1lS0tWRnNTYUNUSDdwZUZuR0FBaEc5WFhPQzd3aW9uWk1zUDA2dVdkTkMweGJ5b1JvdVY5cEVqcFg1ek40R3hHU3lIak5rd1BaYUVOWVN3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-11T19:52:06+00:00"
-          },
-          {
-            "title": "పని... పలు కోణాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxcEp5dWtVOW4zRmpkSmhSdlNkS1NKZDc2NHFtN1dtbXlnZUF5cWNfS0F6ejYwcURFblUzNmktWU5fNTZYQWRpV1pPb084ME9GbE0tQUFUalVPU0NIVnBKcGYtWHRYTDFyRmZURkw4X2J2djlHelHSAXZBVV95cUxQcXBKeXVrVTluM0ZqZEpoUnZTZEtTSmQ3NjRxbTdXbW15Z2VBeXFjX0tBeno2MHFERW5VMzZpLVlOXzU2WEFkaVdaT29PODBPRmxNLUFBVGpVT1NDSFZwSnBmLVh0WEwxckZmVEZMOF9idnY5R3pR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-11T19:49:19+00:00"
-          },
-          {
-            "title": "అమెరికాలో ఏఐ రాజకీయాలు.. భారత్‌కు కొత్త అవకాశాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MU0ZlMWx1MTZJNG1WVVI0WUhYdzN5dm9vd0hCZ3NGZTJ3T3FNdzlaS0N6UWJVZ2Vsa1dkeUJsM2JQeVVTdG9GQzUwVXE5SmgyaUplOEstMzZUMXY1TjA3dDJ6Tnd0NUpHanVlQkVtaHQya0tfM0HSAXZBVV95cUxOTFNGZTFsdTE2STRtVlVSNFlIWHczeXZvb3dIQmdzRmUyd09xTXc5WktDelFiVWdlbGtXZHlCbDNiUHlVU3RvRkM1MFVxOUpoMmlKZThLLTM2VDF2NU4wN3Qyek53dDVKR2p1ZUJFbWh0MmtLXzNB?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-11T19:48:23+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,18 +1426,18 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ভাইফোঁটায় মাতল রাজনৈতিক মহল, দিনভর উদযাপনে সব দলের নেতা-নেত্রীরাই, রইল ছবি - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMm43TmVHZS1id3RJRlRDVE1ZaklURzBneW92bTEwbm5ycEd6TUFKSjRvWm8tREYzVWp1RTNGTGFfNFZJLXFGTWhCRTNjZ2g2MTZxLUtPSG5KSjRlWXlZTUY3SG5LeW9Ec1FBcW9QOWxYWFJTWmcyNi1rc195UG1kTTBpc2lQeWI5bUlockY0ZzM1NEdRdW1ib2JMamlMYWxPYzJUenpZQjg1eUJTcWF1Z3VGUTlDOV9PTlRFeF94bXkwdDNVOEVPcnpVTWhxN2RKbVVRUHJ4UlhtZVNZalBSUklKLVR0MWZyLW14N2VVTnJwT1pHOVJRSHFqV1VJeUpqWHRVVGdFeHNaWUHSAYsCQVVfeXFMTjJuN05lR2UtYnd0SUZUQ1RNWWpJVEcwZ3lvdm0xMG5ucnBHek1BSko0b1pvLURGM1VqdUUzRkxhXzRWSS1xRk1oQkUzY2doNjE2cS1LT0huSko0ZVl5WU1GN0huS3lvRHNRQXFvUDlsWFhSU1pnMjYta3NfeVBtZE0waXNpUHliOW1JaHJGNGczNTRHUXVtYm9iTGppTGFsT2MyVHp6WUI4NXlCU3FhdWd1RlE5QzlfT05URXhfeG15MHQzVThFT3J6VU1ocTdkSm1VUVByeFJYbWVTWWpQUlJJSi1UdDFmci1teDdlVU5ycE9aRzlSUUhxaldVSXlKalh0VVRnRXhzWllB?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-11T19:37:01+00:00"
-          },
-          {
             "title": "‘আকস্মিক মৃত্যু’ আমেরিকায় নিযুক্ত রাশিয়ার রাষ্ট্রদূতের! শোকপ্রকাশ রুশ বিদেশ মন্ত্রকের, কী ভাবে প্রয়াত? এখনও স্পষ্ট নয় - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1laczhaNUFLaTVET1g5eWx5X0ViVFRIWEt0c1FGZ3FkQjZoLUsxYTk1VDlGR2FuR3hkcWhmR2dUNnpnUzZTLXpvRkNqUTJxcUJzTFltTm03eFk0OGtkYWk4bHBqam9MUHhHWjByZnpGU3JzaGZoY2MydzgzV2IzZkRGbUJIZHFUT1BLSXQ5eFhkQUnSAZgBQVVfeXFMUEZWUUF2UG0xY3pSVXV6eV8tX1otbmZaeTVGUDlkRVVMcWFIOU9TS1lKVjh0bjZsU04zQnBPMUFnalZmaUxPcW9MbFJUNmMyWFkweXRZdF9NUUd4YlRSYktCVVhqSTNfblY1a1hwM0JySmw0cDlOUnVjeTd1QURlTXUxRC1FdS00N29YQzIwUy1KRW9MRS10ZWM?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-11T19:01:40+00:00"
+          },
+          {
+            "title": "তুমুল শিলাবৃষ্টির জেরে কাঠমান্ডুতে নামতে পারল না যাত্রিবাহী বিমান, ১৬১ জন যাত্রী নিয়ে জরুরি অবতরণ করল লখনউতে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkN0UG5CbURYcmpNZEI4ZXNXR2xpQTBWLWJ6S21SMXBwN2dBRDNWSk54emZSMmJyOFdJeGc5ZUpiaFNxZFhYZW0tZVMxVXpsM21BeU1Nb0hlYnNKbjY3dzMxWDdyb3BmVkhyTUt0VDhlTVJ6Q0ZOWWpGU3BuSVhidlA2XzZIblBtcmVTZU82VFNaZWZyNEFzUXNmQUlUWW45NmZQTV9aUGwwclRqazFkQXhHVS1mdW5ESE5jX1kyVF8yZFBBVDR3ZFJkOXYtWjZoYjRSQUpQX1lNMWVlUkR3dtIB5gFBVV95cUxNdHFxajFxTS1pdVFDWk1wbHF3NXExVGRsSTZjbWtmZG53ZmxSd09yZGowNWNfQXNxbzJ5OEtCcTg1YmNERVlreWJYcmozUUYyb1BNM1haY3RUUHcyOS1RMnF4MGplUHkzcmhxTGI3YzQzMDVCNUhyX3dwbWl2ZUI4bzlGU1U2Ry1DUTVlVXdSSDgxOGtXTEk2MEJIRFBQYVI0UDNBM3V4bXVhVmg1VWpndTh5cjlVeHY0VXNRd2xJWVp5Zlh3R1ZxSjd6d3ZzRGtNblQ4YUlIaFMtd3hoS0RITWh0aVI0Zw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-11T18:50:44+00:00"
           },
           {
             "title": "আজকের দিন কুম্ভ রাশি- ১২ নভেম্বর, ২০২৬ - Anandabazar Patrika",
