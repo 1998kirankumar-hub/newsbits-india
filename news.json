@@ -1,196 +1,203 @@
 {
-  "updated_at": "2026-11-12T19:31:05.312797+00:00",
+  "updated_at": "2026-11-12T20:01:28.429337+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Kin convicted for raping minor",
+            "link": "https://www.thehindu.com/news/cities/Kochi/kin-convicted-for-raping-minor/article71694222.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:27:02+05:30"
+          },
+          {
+            "title": "Eye donation awareness programme organised at Ernakulam MCH",
+            "link": "https://www.thehindu.com/news/national/kerala/eye-donation-awareness-programme-organised-at-ernakulam-mch/article71694719.ece",
+            "source": "The Hindu",
+            "summary": "The event was held ahead of the hospital’s application for a licence to perform corneal transplantation",
+            "published": "2026-11-13T01:20:44+05:30"
+          },
+          {
+            "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+            "link": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+            "source": "The Hindu",
+            "summary": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence",
+            "published": "2026-11-13T01:16:14+05:30"
+          },
+          {
+            "title": "Palaniswami rejects speculation of Dhinakaran, Sasikala being readmitted into AIADMK",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-speculation-of-dhinakaran-sasikala-being-readmitted-into-aiadmk/article71694996.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:14:37+05:30"
+          },
+          {
+            "title": "No government school will be closed due to low enrolment: Minister Rajmohan",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/no-government-school-will-be-closed-due-to-low-enrolment-minister-rajmohan/article71694175.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:13:53+05:30"
+          },
+          {
+            "title": "Gang held for possession of 500 kg red sanders near Sholinghur in Ranipet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/gang-held-for-possession-of-500-kg-red-sanders-near-sholinghur-in-ranipet/article71692863.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:12:46+05:30"
+          },
+          {
+            "title": "Dhinakaran urges quality checks on Children’s Day cakes",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-urges-quality-checks-on-childrens-day-cakes/article71692810.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:11:20+05:30"
+          },
+          {
+            "title": "CMC to organise exhibition, poster competition to mark World Diabetes Day",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-exhibition-poster-competition-to-mark-world-diabetes-day/article71693998.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:07:22+05:30"
+          },
+          {
+            "title": "Exclusive | Affordablity Is Key To AI Success In India: Peak XV's Rajan Anandan",
+            "link": "https://www.ndtv.com/india-news/walk-the-talk-affordablity-is-key-to-ai-success-in-india-peak-xvs-rajan-anandan-12319682#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"At the end of 2025, India had less than 10,000 active GPUs. But over the last 8-9 months, we have seen a 10-fold increase,\" Peak XV Managing Director Rajan Anandan told NDTV",
+            "published": "2026-11-13T01:06:27+05:30"
+          },
+          {
+            "title": "Encroachments demolished on Ismalaiya College Road in Vaniyambadi to provide easy access for students",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/encroachments-demolished-on-ismalaiya-college-road-in-vaniyambadi-to-provide-easy-access-for-students/article71693860.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:04:51+05:30"
+          },
+          {
+            "title": "Jensen Huang has resigned, what's next for Nvidia?",
+            "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+            "published": "2026-11-12T19:33:37+00:00"
+          },
+          {
+            "title": "Five e-scooters catch fire in Ranipet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/five-e-scooters-catch-fire-in-ranipet/article71693876.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:02:42+05:30"
+          },
+          {
+            "title": "SIR: Draft electoral roll released in Vellore, nearby districts",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/sir-draft-electoral-roll-released-in-vellore-nearby-districts/article71693854.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:01:35+05:30"
+          },
+          {
             "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
             "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
             "published": "2026-11-12T19:23:02+00:00"
-          },
-          {
-            "title": "Integrated draft electoral rolls released in Cuddalore, Villupuram and Kallakurichi",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/integrated-draft-electoral-rolls-released-in-cuddalore-villupuram-and-kallakurichi/article71692628.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:36:35+05:30"
-          },
-          {
-            "title": "Veeramani chargesheet was based on plaint lodged by minor girl",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/veeramani-chargesheet-was-based-on-plaint-lodged-by-minor-girl/article71695362.ece",
-            "source": "The Hindu",
-            "summary": "The survivor alleged in her complaint that she was sexually exploited by Veeramani",
-            "published": "2026-11-13T00:36:15+05:30"
-          },
-          {
-            "title": "CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram",
-            "link": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-rajeeve-flays-police-action-against-protesters-in-keralams-thiruvananthapuram/article71694561.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:30:46+05:30"
-          },
-          {
-            "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-            "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-            "published": "2026-11-12T18:58:49+00:00"
-          },
-          {
-            "title": "AU signs MoU with Boston Architectural College",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/au-signs-mou-with-boston-architectural-college/article71693444.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:27:34+05:30"
-          },
-          {
-            "title": "Special camps for electoral roll revision on November 21, 22 and 29",
-            "link": "https://www.thehindu.com/news/national/special-camps-for-electoral-roll-revision-on-november-21-22-and-29/article71695162.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:26:40+05:30"
-          },
-          {
-            "title": "SFI activists booked for protesting against Minister at Maharaja’s College in Keralam’s Kochi granted anticipatory bail",
-            "link": "https://www.thehindu.com/news/national/kerala/sfi-activists-booked-for-protesting-against-minister-at-maharajas-college-in-keralams-kochi-granted-anticipatory-bail/article71695062.ece",
-            "source": "The Hindu",
-            "summary": "The bail was granted on condition that they cooperate with the investigation and appear whenever asked by the investigation officer",
-            "published": "2026-11-13T00:26:16+05:30"
-          },
-          {
-            "title": "A2B sells majority stake to Bodhi Tree in $180-million deal",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/a2b-secures-180-million-investment-from-james-murdoch-uday-shankar-backed-bodhi-tree/article71694799.ece",
-            "source": "The Hindu",
-            "summary": "The deal values A2B at $350 million, says a source",
-            "published": "2026-11-13T00:24:46+05:30"
-          },
-          {
-            "title": "Women in tech meet discusses operational hurdles in entrepreneurship",
-            "link": "https://www.thehindu.com/news/national/karnataka/women-in-tech-meet-discusses-operational-hurdles-in-entrepreneurship/article71694578.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:20:14+05:30"
-          },
-          {
-            "title": "Wangchuk under ‘house arrest’ as Ladakh rallies against hill council polls in winter",
-            "link": "https://timesofindia.indiatimes.com/india/wangchuk-under-house-arrest-as-ladakh-rallies-against-hill-council-polls-in-winter/articleshow/135780924.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-13T00:19:14+05:30"
-          },
-          {
-            "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-            "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
-            "published": "2026-11-12T18:47:35+00:00"
-          },
-          {
-            "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
-            "link": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "James &#039;Fergie&#039; Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
-            "published": "2026-11-12T18:41:40+00:00"
-          },
-          {
-            "title": "SIT probing Veeramani case arraigns seven police officers as accused",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/sit-probing-veeramani-case-arraigns-seven-police-officers-as-accused/article71695186.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:09:21+05:30"
           }
         ],
         "India": [
           {
-            "title": "Integrated draft electoral rolls released in Cuddalore, Villupuram and Kallakurichi",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/integrated-draft-electoral-rolls-released-in-cuddalore-villupuram-and-kallakurichi/article71692628.ece",
+            "title": "Kin convicted for raping minor",
+            "link": "https://www.thehindu.com/news/cities/Kochi/kin-convicted-for-raping-minor/article71694222.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T00:36:35+05:30"
+            "published": "2026-11-13T01:27:02+05:30"
           },
           {
-            "title": "Veeramani chargesheet was based on plaint lodged by minor girl",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/veeramani-chargesheet-was-based-on-plaint-lodged-by-minor-girl/article71695362.ece",
+            "title": "Eye donation awareness programme organised at Ernakulam MCH",
+            "link": "https://www.thehindu.com/news/national/kerala/eye-donation-awareness-programme-organised-at-ernakulam-mch/article71694719.ece",
             "source": "The Hindu",
-            "summary": "The survivor alleged in her complaint that she was sexually exploited by Veeramani",
-            "published": "2026-11-13T00:36:15+05:30"
+            "summary": "The event was held ahead of the hospital’s application for a licence to perform corneal transplantation",
+            "published": "2026-11-13T01:20:44+05:30"
           },
           {
-            "title": "CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram",
-            "link": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-rajeeve-flays-police-action-against-protesters-in-keralams-thiruvananthapuram/article71694561.ece",
+            "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+            "link": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
             "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:30:46+05:30"
+            "summary": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence",
+            "published": "2026-11-13T01:16:14+05:30"
           },
           {
-            "title": "AU signs MoU with Boston Architectural College",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/au-signs-mou-with-boston-architectural-college/article71693444.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T00:27:34+05:30"
-          },
-          {
-            "title": "Special camps for electoral roll revision on November 21, 22 and 29",
-            "link": "https://www.thehindu.com/news/national/special-camps-for-electoral-roll-revision-on-november-21-22-and-29/article71695162.ece",
+            "title": "Palaniswami rejects speculation of Dhinakaran, Sasikala being readmitted into AIADMK",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-speculation-of-dhinakaran-sasikala-being-readmitted-into-aiadmk/article71694996.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T00:26:40+05:30"
+            "published": "2026-11-13T01:14:37+05:30"
           },
           {
-            "title": "SFI activists booked for protesting against Minister at Maharaja’s College in Keralam’s Kochi granted anticipatory bail",
-            "link": "https://www.thehindu.com/news/national/kerala/sfi-activists-booked-for-protesting-against-minister-at-maharajas-college-in-keralams-kochi-granted-anticipatory-bail/article71695062.ece",
-            "source": "The Hindu",
-            "summary": "The bail was granted on condition that they cooperate with the investigation and appear whenever asked by the investigation officer",
-            "published": "2026-11-13T00:26:16+05:30"
-          },
-          {
-            "title": "A2B sells majority stake to Bodhi Tree in $180-million deal",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/a2b-secures-180-million-investment-from-james-murdoch-uday-shankar-backed-bodhi-tree/article71694799.ece",
-            "source": "The Hindu",
-            "summary": "The deal values A2B at $350 million, says a source",
-            "published": "2026-11-13T00:24:46+05:30"
-          },
-          {
-            "title": "Women in tech meet discusses operational hurdles in entrepreneurship",
-            "link": "https://www.thehindu.com/news/national/karnataka/women-in-tech-meet-discusses-operational-hurdles-in-entrepreneurship/article71694578.ece",
+            "title": "No government school will be closed due to low enrolment: Minister Rajmohan",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/no-government-school-will-be-closed-due-to-low-enrolment-minister-rajmohan/article71694175.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T00:20:14+05:30"
+            "published": "2026-11-13T01:13:53+05:30"
           },
           {
-            "title": "Wangchuk under ‘house arrest’ as Ladakh rallies against hill council polls in winter",
-            "link": "https://timesofindia.indiatimes.com/india/wangchuk-under-house-arrest-as-ladakh-rallies-against-hill-council-polls-in-winter/articleshow/135780924.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-13T00:19:14+05:30"
-          },
-          {
-            "title": "SIT probing Veeramani case arraigns seven police officers as accused",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/sit-probing-veeramani-case-arraigns-seven-police-officers-as-accused/article71695186.ece",
+            "title": "Gang held for possession of 500 kg red sanders near Sholinghur in Ranipet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/gang-held-for-possession-of-500-kg-red-sanders-near-sholinghur-in-ranipet/article71692863.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T00:09:21+05:30"
+            "published": "2026-11-13T01:12:46+05:30"
           },
           {
-            "title": "State to file fresh affidavit in Kerala High Court on bar licences: Excise Minister",
-            "link": "https://www.thehindu.com/news/national/kerala/state-to-file-fresh-affidavit-in-kerala-high-court-on-bar-licences-excise-minister/article71695324.ece",
+            "title": "Dhinakaran urges quality checks on Children’s Day cakes",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-urges-quality-checks-on-childrens-day-cakes/article71692810.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T00:05:52+05:30"
+            "published": "2026-11-13T01:11:20+05:30"
           },
           {
-            "title": "Major gold heist at Tanishq jewellery showroom in Madurai",
-            "link": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
+            "title": "CMC to organise exhibition, poster competition to mark World Diabetes Day",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-exhibition-poster-competition-to-mark-world-diabetes-day/article71693998.ece",
             "source": "The Hindu",
-            "summary": "The heist occurred on Wednesday night at the recently opened TATA Tanishq showroom on Bypass Road",
-            "published": "2026-11-13T00:02:43+05:30"
+            "summary": "",
+            "published": "2026-11-13T01:07:22+05:30"
+          },
+          {
+            "title": "Exclusive | Affordablity Is Key To AI Success In India: Peak XV's Rajan Anandan",
+            "link": "https://www.ndtv.com/india-news/walk-the-talk-affordablity-is-key-to-ai-success-in-india-peak-xvs-rajan-anandan-12319682#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"At the end of 2025, India had less than 10,000 active GPUs. But over the last 8-9 months, we have seen a 10-fold increase,\" Peak XV Managing Director Rajan Anandan told NDTV",
+            "published": "2026-11-13T01:06:27+05:30"
+          },
+          {
+            "title": "Encroachments demolished on Ismalaiya College Road in Vaniyambadi to provide easy access for students",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/encroachments-demolished-on-ismalaiya-college-road-in-vaniyambadi-to-provide-easy-access-for-students/article71693860.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:04:51+05:30"
+          },
+          {
+            "title": "Five e-scooters catch fire in Ranipet",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/five-e-scooters-catch-fire-in-ranipet/article71693876.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:02:42+05:30"
+          },
+          {
+            "title": "SIR: Draft electoral roll released in Vellore, nearby districts",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/sir-draft-electoral-roll-released-in-vellore-nearby-districts/article71693854.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T01:01:35+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Jensen Huang has resigned, what's next for Nvidia?",
+            "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+            "published": "2026-11-12T19:33:37+00:00"
+          },
           {
             "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
             "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
             "published": "2026-11-12T17:18:13+00:00"
-          },
-          {
-            "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-            "published": "2026-11-12T17:11:48+00:00"
           }
         ],
         "Business": [
@@ -364,6 +364,20 @@
         ],
         "Sports": [
           {
+            "title": "'That Decision Hurt Him': Hardik Pandya Gets Blunt Verdict On Mumbai Indians Move From Gujarat Titans",
+            "link": "https://sports.ndtv.com/ipl-2027/that-decision-hurt-him-hardik-pandya-gets-blunt-verdict-on-mumbai-indians-move-from-gujarat-titans-12319268#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Hardik Pandya has been making headlines over the last month as the IPL 2027 retention deadline nears. On Wednesday, Pandya was roped in by Punjab Kings from Mumbai Indians",
+            "published": "2026-11-13T00:28:56+05:30"
+          },
+          {
+            "title": "Youth Olympics: Boxers L Ambekar Meetei And Gunjan Clinch Gold For India, Make History",
+            "link": "https://sports.ndtv.com/boxing/youth-olympics-boxers-l-ambekar-meetei-and-gunjan-clinch-gold-for-india-make-history-ld-12319514#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "In a fitting conclusion to a sensational campaign, Indian boxers made history in the 2026 Youth Olympic Games in Dakar, Senegal, on Thursday as Gunjan (women's 48kg) and L Ambekar Meetei clinched the gold medals in their respective weight categories",
+            "published": "2026-11-12T23:47:02+05:30"
+          },
+          {
             "title": "Carlos Alcaraz Drawn With Daniil Medvedev, Alexander Zverev To Face Ben Shelton At ATP Finals",
             "link": "https://sports.ndtv.com/tennis/carlos-alcaraz-drawn-with-daniil-medvedev-alexander-zverev-to-face-ben-shelton-at-atp-finals-12319254#publisher=newsstand",
             "source": "NDTV Sports",
@@ -432,20 +446,6 @@
             "source": "NDTV Sports",
             "summary": "Abhinav Mukund has urged DC to reconsider their batting order following Rishabh Pant's return to the franchise, suggesting that the wicketkeeper-batter could partner KL Rahul at the top of the order in the upcoming IPL season.",
             "published": "2026-11-12T22:23:59+05:30"
-          },
-          {
-            "title": "'That Decision Hurt Him': Hardik Pandya Gets Blunt Verdict On Mumbai Indians Move From Gujarat Titans",
-            "link": "https://sports.ndtv.com/ipl-2027/that-decision-hurt-him-hardik-pandya-gets-blunt-verdict-on-mumbai-indians-move-from-gujarat-titans-12319268#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Hardik Pandya has been making headlines over the last month as the IPL 2027 retention deadline nears. On Wednesday, Pandya was roped in by Punjab Kings from Mumbai Indians",
-            "published": "2026-11-12T22:22:38+05:30"
-          },
-          {
-            "title": "Ron Artest’s Son Reveals Death Threats And Police Protection After Malice At The Palace",
-            "link": "https://sports.ndtv.com/us/nba/ron-artest-s-son-reveals-death-threats-and-police-protection-after-malice-at-the-palace-12319178#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Ron Artest III recalls how the Malice at the Palace led to death threats, police protection and bullying at school, while his father considered retiring.",
-            "published": "2026-11-12T22:04:04+05:30"
           }
         ],
         "Technology": [
@@ -634,6 +634,13 @@
             "published": "2026-11-13T12:23:51+05:30"
           },
           {
+            "title": "सोनम वांगचुक का दावा- मुझे घर में नजरबंद किया:बाहर फोर्स तैनात; चुनाव के खिलाफ लद्दाख में प्रदर्शन करने वाले थे",
+            "link": "https://www.bhaskar.com/national/news/ladakh-sonam-wangchuk-house-arrest-protest-video-statement-139668903.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-12T19:59:23+00:00"
+          },
+          {
             "title": "Azam Khan डासना जेल से रात 10 बजे दिल्ली लाए गए, 4 दिन ED रिमांड पर, Akhilesh बोले- 'कोई भी लापरवाही न हो'",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/azam-khan-brought-delhi-from-dasna-jail-ed-custody-for-4-days-akhilesh-yadav-says-no-negligence-1683653.html",
             "source": "Oneindia Hindi",
@@ -702,13 +709,6 @@
             "source": "BBC Hindi",
             "summary": "",
             "published": "2026-11-12T14:37:52+00:00"
-          },
-          {
-            "title": "Punjab Chunav 2027 Survey: भगवंत मान या चन्नी, CM की पहली पसंद कौन? AAP-BJP को कितने % वोट? कांग्रेस का क्या?",
-            "link": "https://hindi.oneindia.com/news/punjab/punjab-chunav-2027-survey-bhagwant-mann-vs-channi-who-is-preferred-cm-aap-bjp-congress-vote-share-1683471.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-12T19:46:50+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "పదాలేవి? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yVzlEeC1qZmVrS09HTmtlb0Z5emZvZl9CYlhhSkRDQUc4ODdhZl9lNDRPNWFGNGV4MFV3N0wzT1cyUEtmOWxrWGc5TFl1d2lPNHRLRUVBX1Y1czd0eG10Q1BLSTJmcUhQTmtEMjhPVkNHU2tEMll3a1BUbnFBd9IBfkFVX3lxTE1yVzlEeC1qZmVrS09HTmtlb0Z5emZvZl9CYlhhSkRDQUc4ODdhZl9lNDRPNWFGNGV4MFV3N0wzT1cyUEtmOWxrWGc5TFl1d2lPNHRLRUVBX1Y1czd0eG10Q1BLSTJmcUhQTmtEMjhPVkNHU2tEMll3a1BUbnFBdw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-12T19:19:18+00:00"
+          },
+          {
             "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (13/11/2026) - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmVXMkVKbC1KSlBpZmtldHJaQVM1Vkt4czRUdWY0U3c3VDBhRDR6UFdSc0ROcHVfSTZmOWZOaDBBRVZ6VE9KM1d2dGRXN1pydlBoRU9GYkFqcUg4NFNWTlZuU3BKXy1aU0lDbUhQanc1M1NrOS1Gb2NZczJuRzRPcmRLMVdHRVZ6NnpCbnB3Wlg1WGFMWkM4TUZUNWlMTkt1UVJybUF4aVUydzk4aVpER9IBsAFBVV95cUxNdmVXMkVKbC1KSlBpZmtldHJaQVM1Vkt4czRUdWY0U3c3VDBhRDR6UFdSc0ROcHVfSTZmOWZOaDBBRVZ6VE9KM1d2dGRXN1pydlBoRU9GYkFqcUg4NFNWTlZuU3BKXy1aU0lDbUhQanc1M1NrOS1Gb2NZczJuRzRPcmRLMVdHRVZ6NnpCbnB3Wlg1WGFMWkM4TUZUNWlMTkt1UVJybUF4aVUydzk4aVpERw?oc=5",
             "source": "Eenadu",
@@ -1098,6 +1105,13 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-12T23:08:42+05:30"
+          },
+          {
+            "title": "Revanth Reddy: ఏడాదిలోగా పీఆర్‌టీఎస్‌ లైన్‌ పూర్తి చేయాలి: సీఎం రేవంత్‌రెడ్డి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDJTR1VmaEoteFlGb2J0N2dWYkRYSDBCYmM5d3BnU0ViUmxFdEFyLWQ0Q2VXaVZKS0RlOUQwLTZMMGhZSW4tNXZ6WDdhVU1WRExMZnVseTk0WnV1R19FMjB2djNLUkRRaWpWS0tITHhiNkFZYVhnMzI3RWl3TmFmUjR4OFBDNDBfRzRoS1NMeUtlXzF3WkFXVmx6MDNUckM0VXJmdGF6a9IBpwFBVV95cUxQaDJTR1VmaEoteFlGb2J0N2dWYkRYSDBCYmM5d3BnU0ViUmxFdEFyLWQ0Q2VXaVZKS0RlOUQwLTZMMGhZSW4tNXZ6WDdhVU1WRExMZnVseTk0WnV1R19FMjB2djNLUkRRaWpWS0tITHhiNkFZYVhnMzI3RWl3TmFmUjR4OFBDNDBfRzRoS1NMeUtlXzF3WkFXVmx6MDNUckM0VXJmdGF6aw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-12T17:33:19+00:00"
           },
           {
             "title": "ఆడబిడ్డ పుట్టిందని చీదరించుకున్నారు.. కట్ చేస్తే.. 24 గంటల్లోనే తండ్రి కోటీశ్వరుడయ్యాడు..",
@@ -1140,20 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-12T20:37:20+05:30"
-          },
-          {
-            "title": "Reality Movie: చిన్ని చిన్ని కళ్లలోనా.. ‘రియాలిటీ’ నుంచి మరో సాంగ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWlXb1RZVnc5WkFoMHNoQnItbTVyZGpZYXp2RDRGVnlpWHFlZHhrVE1XVFdkcnlnVzJrRHNYQXQ3VWF1di12Mm1kZC04UEdPczduUWpIT0dkMHBLU09QdGlyVjNmdk1xMVR1a0VBcEVBVTRCd2xMOFU5ZWluakVCa19PLWxkR1hqbzVUU0szWnHSAZABQVVfeXFMUElpV29UWVZ3OVpBaDBzaEJyLW01cmRqWWF6dkQ0RlZ5aVhxZWR4a1RNV1RXZHJ5Z1cya0RzWEF0N1VhdXYtdjJtZGQtOFBHT3M3blFqSE9HZDBwS1NPUHRpclYzZnZNcTFUdWtFQXBFQVU0QndsTDhVOWVpbmpFQmtfTy1sZEdYam81VFNLM1px?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-12T15:01:28+00:00"
-          },
-          {
-            "title": "Health news: చర్మ వ్యాధులు, ఫంగల్ ఇన్ఫెక్షన్లకు ఆయుర్వేదంతో చెక్ పెట్టండిలా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmd2QTBQV1Azb0hFX1ZhSEp2QmlRaUVueEJfb1ZBX1R6UHBqb3MwVlMzYzRHdmFGVmJNeG1XeUtfTk5wYlhEQ19YQTEzeXpRTzBZYlFIU1hHYzJvbjJGTGJlZ2tnLWpQTlRYUGNQOTIxclRMYW5oZDQzYVJvUWlVNXVmYVFnR0E1cDNCdVVBa0wtdEE5dzVva3RfVExIRU1RQVhvM2NHbmtUSHBzbVHSAa4BQVVfeXFMT3ZndkEwUFdQM29IRV9WYUhKdkJpUWlFbnhCX29WQV9UelBwam9zMFZTM2M0R3ZhRlZiTXhtV3lLX05OcGJYRENfWEExM3l6UU8wWWJRSFNYR2Myb24yRkxiZWdrZy1qUE5UWFBjUDkyMXJUTGFuaGQ0M2FSb1FpVTV1ZmFRZ0dBNXAzQnVVQWtMLXRBOXc1b2t0X1RMSEVNUUFYbzNjR25rVEhwc21R?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-12T15:00:19+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "লঝঝড়ে সত্যজিৎ রায় ভবন, সংস্কারের দাবি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3VvYkF0eVNwd0VXMklvX0xNMW1MU0t3UFdfdHNqeGgzUkRDVzdrWEJwWDJPTmxUeFR1TTJ3dG02T2gzdUM5WHR3aVBLNm1CSFNjejktX05ZVE9CUzdndnpGNGNIWk5XeXUzbGppUVZod25oZ1RwWmZ0UkNZN3ZBQlZ5SU1JTXluR0x3NkFLcS1VcnYwSG1xdkpUWE5UNFM1RVZXZENHSlpPYmlZajRMazA4S0RZdUpWV3p5SmpEMkpmWmlNdzVyTHk4UnZaRE12X3BjOS02Y1YxNzFXRVZ6X2pR?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-12T19:37:46+00:00"
+          },
+          {
+            "title": "ভাইফোঁটার আনন্দে শামিল হোমের আবাসিকেরা - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUZIcEFKNFJZaTdxQUVIWHJQU3g3NzUzQ3ZsNGVXN2l6STRNbVFnVXJ5YkkxUjFhZXBRYU9FcVBTQVNrS1JWbFBzZFVWX21ENEloSEtCQW9HWHlnSk9udVI1ODg0VUpweldPSnc1cnJyaTMxVkM4M214UnpzX29uekdndmdzSlVldDVyWkRFSXVmM3dSdy1BNVI3TE1CTWZfak5xYk1sQmRXSUpRMXRpSWhZUXp3dw?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-12T19:27:45+00:00"
+          },
+          {
             "title": "স্থগিত হয়ে গেল ভারত-বাংলাদেশ কনসুলার বৈঠক! ঘটনাচক্রে, তারেক সরকার হাসিনার পাসপোর্টের আবেদন খারিজ করার পরেই - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGdJQ21uNjRzRHVHQUkyUjNfd2cycFFWTE1mamlxampVd1duVmFDblB0Y2NoTC1oU0FfZVQwZHRxRDBnNER4SmhjRUhsNlJyOU9WelJhX3h3Wnhjb0YtN3F1WGI5TDVhdkgwZlBPYWxBLVhtbmhUeVFxb0VOamFpbTRlbE5oUE1hTmtGN1lvVzRaMXRVLW9CandLUdIBoAFBVV95cUxQVHRDcHFPSDJmdTlId1BCdy1NN0M2X2ZOUmM2cUl2Q3ZYV0JaclZhZUMzWTZaTi12Tm4xNjBieFVlcEZEODBtYkhRbm1RVjdlN0lZUXNkOWp4TW9GeE5jMkJxNmRQZlRxVkJjR1NDTGRCTEpyU3FuUXJ2R2FKQ1dTazU2elRoVTJZMnJkZXd2OFVRcWh0bUh2dzItZTFlOHl1?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-12T13:30:57+00:00"
-          },
-          {
-            "title": "আজকের দিন কুম্ভ রাশি- ১৩ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVNidnh2d2prSnYtdmZ1ZXNiLThISDBsNDNuRVhKRmcyekdKaGNTVnhhWTdOMjlwQjBscVA2a0RNdFFSam5zZ2F1QTdCYzdoUm96a1REdGdkSlJTT2JwLWpTMjdGM0tBclVKbFNZVHN6VHh1Wk1ubFNfNHRJb1NvSVhZb3hiV2xaMWxsZ2pRbUdoWFRoYWtFN0xOWTFBazBnTHBGdjgzenluUFNSOWFERlF30gG3AUFVX3lxTFB1cm80ZFVoN0dtV3hjRkxVeXpPX0hPVEpGdXVxUHlxR1c2WnBMWHk3ZGxWdmt5WVRKdEFUczJzTGU5SldKaWNVazJtX0owaHZmX2VoVzJpaU1BYzNYc08zLTljeW1JUWt6clR5RS1jc2FMdFFBNHplYUR5UHNLNmUxVWdYMDBZWkQ1SDJLR1dyY0VnSTRtVEJqaVpENndKSkIyZGZjMk1Va1NkWnZxaFY1UElFVzRKVQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-12T13:29:06+00:00"
-          },
-          {
-            "title": "আজকের দিন মকর রাশি- ১৩ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG1GMEdFR1o1M1NBZTFGU0pTcWtZOXZrbzlHXzlSRk9CZVJKSFVBallkZGJpOXI1OEhnQUwwcXM0RUtBUFBsRVlESnBsRHA4OVVDM0V4cGdCQUhHeXZMeDVOS19qWmU3QmRrWmttOWZ5dzJtcW5vcWE2N2M1NHpLOXprYVRCQ05Vdmw1bHZfUE5Scnk1SHdLWHNPUmd6bTY0ZHIwRTBWV18wNTAzTE5sb1ZIONIBuAFBVV95cUxQUVlITFVDMm1TVzdWYTk3cno1aGxuc0hxc2xVQWVXSnE0UlJoV3JVTmozTGpIRnZHOUlfTEM5YXpVN0I1dnhoSloycVQxYURzcGVQSmltT1NVZUlTdG5vZWU2U3JteF92NUVBSjIzc3p3V2VqYWo3STl2dkVlNWE3bEdidVl2NU1hQmZ5cGJYZWRRMGwwQ3FmV20xdlFMS1Zla1pUc0EzTV9YcHVHdFY0N0dtZDdUYjFZ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-12T13:27:48+00:00"
           }
         ]
       }
