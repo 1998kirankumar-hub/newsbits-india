@@ -1,196 +1,217 @@
 {
-  "updated_at": "2026-11-13T18:01:23.805448+00:00",
+  "updated_at": "2026-11-13T18:31:13.292562+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Traffic restrictions in Madhapur for Rahul Gandhi’s rally",
+            "link": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-madhapur-for-rahul-gandhis-rally/article71698315.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:57:06+05:30"
+          },
+          {
+            "title": "Koti Deepotsavam begins today, continues till November 30",
+            "link": "https://www.thehindu.com/news/national/telangana/koti-deepotsavam-begins-today-continues-till-november-30/article71699022.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:54:52+05:30"
+          },
+          {
+            "title": "‘Vartalap’: Development push in remote, erstwhile LWE-affected areas highlighted",
+            "link": "https://www.thehindu.com/news/national/telangana/vartalap-development-push-in-remote-erstwhile-lwe-affected-areas-highlighted/article71698861.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:53:28+05:30"
+          },
+          {
+            "title": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:50:57+05:30"
+          },
+          {
+            "title": "ICFAI honours undergraduate toppers at 16th graduation ceremony",
+            "link": "https://www.thehindu.com/news/national/telangana/icfai-honours-undergraduate-toppers-at-16th-graduation-ceremony/article71699323.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:49:17+05:30"
+          },
+          {
+            "title": "TVK Karamadai union secretary booked on sexual harassment charge",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-karamadai-union-secretary-booked-on-sexual-harassment-charge/article71698486.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:44:18+05:30"
+          },
+          {
+            "title": "Navy, security agencies hold coastal defence drills off Visakhapatnam",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/navy-security-agencies-hold-coastal-defence-drills-off-visakhapatnam/article71699008.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:44:09+05:30"
+          },
+          {
+            "title": "Andhra Pradesh emerges as a leader in India’s rooftop solar push: Union Minister",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
+            "source": "The Hindu",
+            "summary": "Pralhad Joshi says 7.86 lakh households in the State have adopted rooftop solar as India meets peak power demand of 270 GW without interruption; solar capacity rises to 175 GW",
+            "published": "2026-11-13T23:39:47+05:30"
+          },
+          {
+            "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+            "published": "2026-11-13T18:09:05+00:00"
+          },
+          {
+            "title": "Walk-in interviews in Hubballi on Monday",
+            "link": "https://www.thehindu.com/news/national/karnataka/walk-in-interviews-in-hubballi-on-monday/article71698307.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:35:45+05:30"
+          },
+          {
+            "title": "Technical Issue, Not Due To AI: Microsoft Reveals What Caused Global Outage",
+            "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The IT company behind some of the world's most popular office software apologised for the disruption that impacted critical services in dozens of countries.",
+            "published": "2026-11-13T23:35:14+05:30"
+          },
+          {
+            "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+            "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
+            "published": "2026-11-13T18:04:22+00:00"
+          },
+          {
+            "title": "Keralam Home Minister’s office gets new digital system",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-home-ministers-office-goes-digital/article71699065.ece",
+            "source": "The Hindu",
+            "summary": "To coordinate the functioning of the office of Home Minister Ramesh Chennithala with the day-to-day operations of the Kerala Police",
+            "published": "2026-11-13T23:33:57+05:30"
+          },
+          {
             "title": "Are board games making a comeback this Christmas?",
             "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "",
             "published": "2026-11-13T18:00:40+00:00"
-          },
-          {
-            "title": "3 police officers involved in 2025’s Veeramani probe shifted to vacancy reserve",
-            "link": "https://www.thehindu.com/news/cities/chennai/3-police-officers-involved-in-2025s-veeramani-probe-shifted-to-vacancy-reserve/article71699473.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T23:16:47+05:30"
-          },
-          {
-            "title": "Keralam CPI(M) suspends Elappully local secretary",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-cpim-suspends-elappully-local-secretary-over-alleged-extramarital-affair/article71698194.ece",
-            "source": "The Hindu",
-            "summary": "Party suspends him for six months following allegations of an extramarital relationship",
-            "published": "2026-11-13T23:16:41+05:30"
-          },
-          {
-            "title": "1.43 lakh farmers to be enrolled on Agri Stack in Konaseema",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/143-lakh-farmers-to-be-enrolled-on-agri-stack-in-konaseema/article71698349.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-13T23:14:14+05:30"
-          },
-          {
-            "title": "Trump’s visa curbs force 2 African contestants to withdraw from Miss Universe",
-            "link": "https://timesofindia.indiatimes.com/world/us/trumps-visa-restrictions-hit-miss-universe-2-african-contestants-withdraw-2-others-face-uncertainty/articleshow/135812356.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-13T23:14:02+05:30"
-          },
-          {
-            "title": "Manipur probe panel gets sixth extension, no sign of report yet",
-            "link": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece",
-            "source": "The Hindu",
-            "summary": "The Commission of Inquiry is mandated to probe the causes, extent of the violence and riots targeting members of different communities, the sequence of events and whether there were any lapses or dereliction of duty in this regard on the part of any of the responsible authorities and individuals",
-            "published": "2026-11-13T23:10:21+05:30"
-          },
-          {
-            "title": "TAS conference urges BRICS countries to join hands to tackle mental health stigma",
-            "link": "https://www.thehindu.com/news/national/tas-conference-urges-brics-countries-to-join-hands-to-tackle-mental-health-stigma/article71699084.ece",
-            "source": "The Hindu",
-            "summary": "Panelists at the conference identified youth participation, school-based interventions, community mental healthcare and evidence-based policy reforms as key priorities",
-            "published": "2026-11-13T23:09:43+05:30"
-          },
-          {
-            "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-            "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-            "published": "2026-11-13T17:38:19+00:00"
-          },
-          {
-            "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
-            "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
-            "source": "Hindustan Times",
-            "summary": "The truck's dashcam footage, which has emerged following the accident, has captured the final moments before the collision.",
-            "published": "2026-11-13T23:07:56+05:30"
-          },
-          {
-            "title": "Congress launches website to help voters check SIR deletions, seek restoration",
-            "link": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece",
-            "source": "The Hindu",
-            "summary": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website, Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for restoration",
-            "published": "2026-11-13T23:07:03+05:30"
-          },
-          {
-            "title": "Technical resignation is a bridge, not a guillotine, says Karnataka High Court",
-            "link": "https://www.thehindu.com/news/national/karnataka/technical-resignation-is-a-bridge-not-a-guillotine-says-karnataka-high-court/article71698648.ece",
-            "source": "The Hindu",
-            "summary": "Pulls up State government for not paying pension to retired university professor for two years over erroneous interpretation of norms",
-            "published": "2026-11-13T23:05:08+05:30"
-          },
-          {
-            "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-            "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-            "published": "2026-11-13T17:34:58+00:00"
-          },
-          {
-            "title": "Plea by suspended Sanskrit varsity students may be amended",
-            "link": "https://www.thehindu.com/news/national/kerala/plea-by-suspended-sanskrit-varsity-students-may-be-amended/article71699255.ece",
-            "source": "The Hindu",
-            "summary": "The matter will be considered again on November 16",
-            "published": "2026-11-13T22:57:25+05:30"
-          },
-          {
-            "title": "$3 Billion In Chinese AI Projects At Risk After Nvidia CEO Resigns",
-            "link": "https://www.ndtv.com/world-news/3-billion-in-chinese-ai-projects-at-risk-after-nvidia-ceo-jensen-huang-resigns-12324063#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The projects, stretching from China's wealthy coastal technology hubs to remote western provinces, reveal the scale of continuing demand for Nvidia hardware.",
-            "published": "2026-11-13T22:57:05+05:30"
           }
         ],
         "India": [
           {
-            "title": "3 police officers involved in 2025’s Veeramani probe shifted to vacancy reserve",
-            "link": "https://www.thehindu.com/news/cities/chennai/3-police-officers-involved-in-2025s-veeramani-probe-shifted-to-vacancy-reserve/article71699473.ece",
+            "title": "Traffic restrictions in Madhapur for Rahul Gandhi’s rally",
+            "link": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-madhapur-for-rahul-gandhis-rally/article71698315.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T23:16:47+05:30"
+            "published": "2026-11-13T23:57:06+05:30"
           },
           {
-            "title": "Keralam CPI(M) suspends Elappully local secretary",
-            "link": "https://www.thehindu.com/news/national/kerala/keralam-cpim-suspends-elappully-local-secretary-over-alleged-extramarital-affair/article71698194.ece",
-            "source": "The Hindu",
-            "summary": "Party suspends him for six months following allegations of an extramarital relationship",
-            "published": "2026-11-13T23:16:41+05:30"
-          },
-          {
-            "title": "1.43 lakh farmers to be enrolled on Agri Stack in Konaseema",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/143-lakh-farmers-to-be-enrolled-on-agri-stack-in-konaseema/article71698349.ece",
+            "title": "Koti Deepotsavam begins today, continues till November 30",
+            "link": "https://www.thehindu.com/news/national/telangana/koti-deepotsavam-begins-today-continues-till-november-30/article71699022.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T23:14:14+05:30"
+            "published": "2026-11-13T23:54:52+05:30"
           },
           {
-            "title": "Trump’s visa curbs force 2 African contestants to withdraw from Miss Universe",
-            "link": "https://timesofindia.indiatimes.com/world/us/trumps-visa-restrictions-hit-miss-universe-2-african-contestants-withdraw-2-others-face-uncertainty/articleshow/135812356.cms",
-            "source": "Times of India",
+            "title": "‘Vartalap’: Development push in remote, erstwhile LWE-affected areas highlighted",
+            "link": "https://www.thehindu.com/news/national/telangana/vartalap-development-push-in-remote-erstwhile-lwe-affected-areas-highlighted/article71698861.ece",
+            "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-13T23:14:02+05:30"
+            "published": "2026-11-13T23:53:28+05:30"
           },
           {
-            "title": "Manipur probe panel gets sixth extension, no sign of report yet",
-            "link": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece",
+            "title": "Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
             "source": "The Hindu",
-            "summary": "The Commission of Inquiry is mandated to probe the causes, extent of the violence and riots targeting members of different communities, the sequence of events and whether there were any lapses or dereliction of duty in this regard on the part of any of the responsible authorities and individuals",
-            "published": "2026-11-13T23:10:21+05:30"
+            "summary": "",
+            "published": "2026-11-13T23:50:57+05:30"
           },
           {
-            "title": "TAS conference urges BRICS countries to join hands to tackle mental health stigma",
-            "link": "https://www.thehindu.com/news/national/tas-conference-urges-brics-countries-to-join-hands-to-tackle-mental-health-stigma/article71699084.ece",
+            "title": "ICFAI honours undergraduate toppers at 16th graduation ceremony",
+            "link": "https://www.thehindu.com/news/national/telangana/icfai-honours-undergraduate-toppers-at-16th-graduation-ceremony/article71699323.ece",
             "source": "The Hindu",
-            "summary": "Panelists at the conference identified youth participation, school-based interventions, community mental healthcare and evidence-based policy reforms as key priorities",
-            "published": "2026-11-13T23:09:43+05:30"
+            "summary": "",
+            "published": "2026-11-13T23:49:17+05:30"
           },
           {
-            "title": "‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam",
-            "link": "https://www.hindustantimes.com/india-news/vehicle-overloaded-running-at-100-km-h-crossed-into-wrong-lane-survivors-of-deadly-bus-truck-collision-in-assam-101794587976981.html",
-            "source": "Hindustan Times",
-            "summary": "The truck's dashcam footage, which has emerged following the accident, has captured the final moments before the collision.",
-            "published": "2026-11-13T23:07:56+05:30"
-          },
-          {
-            "title": "Congress launches website to help voters check SIR deletions, seek restoration",
-            "link": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece",
+            "title": "TVK Karamadai union secretary booked on sexual harassment charge",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-karamadai-union-secretary-booked-on-sexual-harassment-charge/article71698486.ece",
             "source": "The Hindu",
-            "summary": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website, Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for restoration",
-            "published": "2026-11-13T23:07:03+05:30"
+            "summary": "",
+            "published": "2026-11-13T23:44:18+05:30"
           },
           {
-            "title": "Technical resignation is a bridge, not a guillotine, says Karnataka High Court",
-            "link": "https://www.thehindu.com/news/national/karnataka/technical-resignation-is-a-bridge-not-a-guillotine-says-karnataka-high-court/article71698648.ece",
+            "title": "Navy, security agencies hold coastal defence drills off Visakhapatnam",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/navy-security-agencies-hold-coastal-defence-drills-off-visakhapatnam/article71699008.ece",
             "source": "The Hindu",
-            "summary": "Pulls up State government for not paying pension to retired university professor for two years over erroneous interpretation of norms",
-            "published": "2026-11-13T23:05:08+05:30"
+            "summary": "",
+            "published": "2026-11-13T23:44:09+05:30"
           },
           {
-            "title": "Plea by suspended Sanskrit varsity students may be amended",
-            "link": "https://www.thehindu.com/news/national/kerala/plea-by-suspended-sanskrit-varsity-students-may-be-amended/article71699255.ece",
+            "title": "Andhra Pradesh emerges as a leader in India’s rooftop solar push: Union Minister",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
             "source": "The Hindu",
-            "summary": "The matter will be considered again on November 16",
-            "published": "2026-11-13T22:57:25+05:30"
+            "summary": "Pralhad Joshi says 7.86 lakh households in the State have adopted rooftop solar as India meets peak power demand of 270 GW without interruption; solar capacity rises to 175 GW",
+            "published": "2026-11-13T23:39:47+05:30"
           },
           {
-            "title": "$3 Billion In Chinese AI Projects At Risk After Nvidia CEO Resigns",
-            "link": "https://www.ndtv.com/world-news/3-billion-in-chinese-ai-projects-at-risk-after-nvidia-ceo-jensen-huang-resigns-12324063#publisher=newsstand",
+            "title": "Walk-in interviews in Hubballi on Monday",
+            "link": "https://www.thehindu.com/news/national/karnataka/walk-in-interviews-in-hubballi-on-monday/article71698307.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T23:35:45+05:30"
+          },
+          {
+            "title": "Technical Issue, Not Due To AI: Microsoft Reveals What Caused Global Outage",
+            "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand",
             "source": "NDTV",
-            "summary": "The projects, stretching from China's wealthy coastal technology hubs to remote western provinces, reveal the scale of continuing demand for Nvidia hardware.",
-            "published": "2026-11-13T22:57:05+05:30"
+            "summary": "The IT company behind some of the world's most popular office software apologised for the disruption that impacted critical services in dozens of countries.",
+            "published": "2026-11-13T23:35:14+05:30"
           },
           {
-            "title": "Florida brothers, 17 and 15, rescue mother, son and 3 dogs from floodwaters",
-            "link": "https://timesofindia.indiatimes.com/world/us/meet-lucas-marshall-17-and-jonah-marshall-15-of-palm-bay-florida-who-used-a-paddleboard-and-kayak-after-911-could-not-reach-their-flooded-neighbours-rescuing-a-mother-her-11-year-old-son-and-3-dogs/articleshow/135810967.cms",
+            "title": "Keralam Home Minister’s office gets new digital system",
+            "link": "https://www.thehindu.com/news/national/kerala/keralam-home-ministers-office-goes-digital/article71699065.ece",
+            "source": "The Hindu",
+            "summary": "To coordinate the functioning of the office of Home Minister Ramesh Chennithala with the day-to-day operations of the Kerala Police",
+            "published": "2026-11-13T23:33:57+05:30"
+          },
+          {
+            "title": "Microsoft apologises and explains what is causing Outlook, Teams outage",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-apologises-and-explains-what-is-causing-outlook-teams-outage-says-not-related-to-cyber-or-ai/articleshow/135813059.cms",
             "source": "Times of India",
-            "summary": "In the face of severe flooding in Palm Bay, Brittany Grant and her son Nikoa found themselves trapped in their home. Seeking assistance online, their neighbor Stephanie Fanguy mobilized a rescue, with her sons, Lucas and Jonah, using a kayak and paddleboard to reach them. Remarkably, they also evacuated the family's three dogs. This incident serves as a testament to the power of community solidarity during crises.",
-            "published": "2026-11-13T22:54:54+05:30"
+            "summary": "Microsoft has apologised for the global Microsoft 365 outage that left millions unable to use Outlook, Teams and Copilot for nearly 24 hours. The company says the disruption was a technical issue \"not related to cyber or AI.\" It was caused by a flaw from an earlier network capacity upgrade that surfaced after a recent network change. Outlook and Teams are now recovering worldwide, and a full post-incident report…",
+            "published": "2026-11-13T23:30:27+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+            "published": "2026-11-13T18:09:05+00:00"
+          },
+          {
+            "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+            "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
+            "published": "2026-11-13T18:04:22+00:00"
+          },
+          {
+            "title": "No emails, no problem? Workers joke about Microsoft outage",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+            "published": "2026-11-13T17:55:05+00:00"
+          },
           {
             "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
             "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
@@ -251,29 +272,8 @@
             "title": "Turkiye and Qatar sign mutual defence agreement",
             "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
             "source": "Al Jazeera",
-            "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
+            "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
             "published": "2026-11-13T15:49:51+00:00"
-          },
-          {
-            "title": "Democratic Senate leader Schumer set to face leadership challenge",
-            "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-            "published": "2026-11-13T15:48:07+00:00"
-          },
-          {
-            "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-            "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
-            "published": "2026-11-13T15:43:39+00:00"
-          },
-          {
-            "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-            "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-            "published": "2026-11-13T15:42:52+00:00"
           }
         ],
         "Business": [
@@ -365,10 +365,31 @@
         "Sports": [
           {
             "title": "A Board, A Bunker, A Missing Friend: Ukrainians Playing Chess Through A War",
-            "link": "https://sports.ndtv.com/chess/a-board-a-bunker-a-missing-friend-ukrainians-playing-chess-through-a-war-12323558#publisher=newsstand",
+            "link": "https://sports.ndtv.com/total-chess-world-championship-tour-2026/a-board-a-bunker-a-missing-friend-ukrainians-playing-chess-through-a-war-12323558#publisher=newsstand",
             "source": "NDTV Sports",
             "summary": "Angelika says, around 50 Ukrainian chess players have been killed. She believes the real figure is higher.",
-            "published": "2026-11-13T22:45:03+05:30"
+            "published": "2026-11-13T23:19:26+05:30"
+          },
+          {
+            "title": "What Makes Travis Kelce Different? Kansas City Chiefs Coach Explains How The Star Tight End Continues To Beat Father Time",
+            "link": "https://sports.ndtv.com/us/nfl/what-makes-travis-kelce-different-kansas-city-chiefs-coach-explains-how-the-star-tight-end-continues-to-beat-father-time-12324018#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Chiefs offensive coordinator Eric Bieniemy credits Travis Kelce’s will to win, energy and leadership for his steady production at 37. Kelce has 33 catches for 482 yards for the 6-2 Chiefs, with a career-high 14.6 yards per catch.",
+            "published": "2026-11-13T23:14:54+05:30"
+          },
+          {
+            "title": "Kenny Brooks Defends Ajsa Sivka As Kentucky Eligibility Debate Grows After 32-Point Game",
+            "link": "https://sports.ndtv.com/us/nba/kenny-brooks-defends-ajsa-sivka-as-kentucky-eligibility-debate-grows-after-32-point-game-12324006#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Kenny Brooks defended Ajsa Sivka after questions emerged about her Kentucky eligibility. The coach explained why her path as an international player differs from that of American prospects",
+            "published": "2026-11-13T23:13:55+05:30"
+          },
+          {
+            "title": "Carey Price’s Wife Angela Shares Heartfelt Message After Montreal Canadiens’ Ring Of Honour Tribute",
+            "link": "https://sports.ndtv.com/us/nhl/carey-price-s-wife-angela-shares-heartfelt-message-after-montreal-canadiens-ring-of-honour-tribute-12323985#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Angela Price thanked Montreal after Carey Price’s Ring of Honour ceremony, where the former Canadiens goaltender received a four-minute ovation at the Bell Centre.",
+            "published": "2026-11-13T23:13:13+05:30"
           },
           {
             "title": "Raheem Ahmed signs Leicestershire deal to play alongside brother Rehan",
@@ -425,27 +446,6 @@
             "source": "ESPN Cricinfo",
             "summary": "Series against Bangladesh begins on Sunday, and Rabada hopes \"some exciting cricket\" shows \"how healthy cricket is\" in SA",
             "published": "2026-11-13T16:22:51+00:00"
-          },
-          {
-            "title": "Darius Acuff Jr. Warns Richard Jefferson About The Challenge Of Guarding Luka Doncic",
-            "link": "https://sports.ndtv.com/us/nba/darius-acuff-jr-warns-richard-jefferson-about-the-challenge-of-guarding-luka-doncic-12323694#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Darius Acuff Jr. explained why guarding Luka Doncic is difficult after Richard Jefferson expressed interest in facing the Lakers star. The Kings rookie also praised Doncic's ability.",
-            "published": "2026-11-13T21:52:39+05:30"
-          },
-          {
-            "title": "Matvei Michkov’s Philadelphia Flyers Future In Doubt After Former Agent’s Troubling Comments",
-            "link": "https://sports.ndtv.com/us/nhl/matvei-michkov-s-philadelphia-flyers-future-in-doubt-after-former-agent-s-troubling-comments-12323700#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Matvei Michkov’s future with the Philadelphia Flyers is in question after his former agent claimed on Russian TV that the winger is pushing for a trade, one day after GM Danny Briere publicly denied the reports.",
-            "published": "2026-11-13T21:52:28+05:30"
-          },
-          {
-            "title": "Ron Harper Rejects Milwaukee Bucks Trade Proposal Involving Son Dylan Harper And San Antonio Spurs Teammates",
-            "link": "https://sports.ndtv.com/us/nba/ron-harper-rejects-milwaukee-bucks-trade-proposal-involving-son-dylan-harper-and-san-antonio-spurs-teammates-12323715#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Ron Harper dismissed a fan’s trade idea involving Dylan Harper and the Milwaukee Bucks. The proposal would send several Spurs players and three first-round picks to Milwaukee.",
-            "published": "2026-11-13T21:52:18+05:30"
           }
         ],
         "Technology": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
+            "link": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
+            "published": "2026-11-13T17:59:54+00:00"
+          },
+          {
             "title": "Police investigating David Walliams over reports alleging serious sexual offences",
             "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\".",
             "published": "2026-11-12T19:00:15+00:00"
-          },
-          {
-            "title": "How much art does your council own and is it locked away or on display?",
-            "link": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "More than 500,000 pieces of art are owned by 225 councils, the BBC finds, but most of it is storage.",
-            "published": "2026-11-12T14:43:38+00:00"
           }
         ]
       }
@@ -626,6 +626,20 @@
       "label": "हिन्दी",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Microsoft Outage: 18 घंटे बाद लौटीं सेवाएं, फिर भी Outlook में अटक सकते हैं ईमेल, क्या यह कोई साइबर हमला था?",
+            "link": "https://hindi.oneindia.com/news/international/microsoft-365-outage-18-hours-later-outlook-email-delay-74-countries-global-impact-india-1684329.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-13T23:49:58+05:30"
+          },
+          {
+            "title": "Cricketer Death: 17 साल की क्रिकेटर की खौफनाक मौत, 2 युवकों पर गंभीर आरोप, BCCI की अंडर-19 टीम में हुआ था चयन!",
+            "link": "https://hindi.oneindia.com/news/india/telangana-vikarabad-cricketer-death-17-year-old-u-19-player-dies-2-youths-face-serious-allegations-1684327.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-13T23:45:35+05:30"
+          },
           {
             "title": "Gataru Gang: जम्मू-कश्मीर, पंजाब और UP में नशे-हथियारों के रैकेट का भंडाफोड़, 10 अरेस्ट, कौन है सरगना?",
             "link": "https://hindi.oneindia.com/news/india/gataru-gang-busted-who-is-mastermind-10-arrested-drug-arms-racket-across-jammu-kashmir-punjab-up-1684319.html",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-13T21:01:01+05:30"
-          },
-          {
-            "title": "मोदी गुजरात पहुंचे, आज मंत्रियों के साथ मीटिंग करेंगे:कल संस्कार धाम ट्रस्ट की बैठक में हिस्सा लेंगे; अगले साल राज्य में विधानसभा चुनाव हैं",
-            "link": "https://www.bhaskar.com/national/news/pm-modi-ahmedabad-visit-gujarat-assembly-election-meeting-update-139676751.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-13T15:14:00+00:00"
-          },
-          {
-            "title": "मध्य प्रदेश की 1.24 करोड़ लाड़ली बहनों के खातों में 1,831 करोड़ रुपये से अधिक ट्रांसफर, CM मोहन यादव ने जारी की 42वीं किस्त",
-            "link": "https://hindi.oneindia.com/news/india/ladli-bahna-scheme-mp-benefits-2026-pichor-012-1684165.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-13T20:31:06+05:30"
           }
         ],
         "Entertainment": [
@@ -895,6 +895,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ஜெய்ஸ்வாலை டிரேட் செய்யும் ராஜஸ்தான் அணி? பின்னணியில் இப்படியொரு காரணமா.. சங்கக்காரா முடிவு!",
+            "link": "https://tamil.oneindia.com/news/sports/cricket/with-yashasvi-jaiswal-set-to-leave-rajasthan-royals-why-is-the-franchise-parting-ways-with-an-india-845179.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-11-13T23:31:19+05:30"
+          },
+          {
             "title": "தந்தையால் மண்ணில் புதைக்கப்பட்ட 11 மாத குழந்தை உயிருடன் மீட்பு - என்ன நடந்தது?",
             "link": "https://www.bbc.com/tamil/articles/cqy809gm98rko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Tamil",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-11-13T10:50:27+00:00"
-          },
-          {
-            "title": "பல் துலக்கிய போது தவறுதலாக முழு பிரஷ்ஷையும் விழுங்கிய நபர் - என்ன ஆனது?",
-            "link": "https://www.bbc.com/tamil/articles/cm62pg9w634no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "மகாராஷ்டிராவில் மிகவும் விசித்திரமான மற்றும் அதிர்ச்சிகரமான மருத்துவ சம்பவம் ஒன்று அரங்கேறியுள்ளது. நபர் ஒருவர் பல் துலக்கிக் கொண்டிருந்தபோது, கவனக்குறைவாக 19 சென்டிமீட்டர் நீளம் கொண்ட முழு டூத் பிரஷ்ஷையும் விழுங்கியுள்ளார். இது அவரது தொண்டைப் பகுதியில் சிக்கிக்கொண்டு அவருக்கு பெரும் இன்னல்களை ஏற்படுத்தியது. உடனடியாக அவர் மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டார். வழக்கமாக இதுபோன்ற சமயங்களில் பெரிய அளவிலான அறுவை சிகிச்சைகள் தேவைப்படும் என்ற அச்சம் இருந்த நிலையில், மருத்துவர்கள் நவீன மருத்துவத் தொழில்நுட்பத்தைப் பயன்படுத்தி அசத்தலான காரியத்தைச் செய்துள்ளனர். எண்டோஸ்கோப்பி என்ற சிறிய கருவியின் உதவியுடன், எவ்வித அறுவை சிகிச்சையும் இன்றி, பாதுகாப்பான முறையில் அந்த டூத் பிரஷ்ஷை மருத்துவர்கள் வெற்றிகரமாக அகற்றியுள்ளனர். இந்த நிகழ்வு பலரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளதுடன், பல் துலக்கும்போது கவனமாக இருக்க வேண்டியதன் அவசியத்தையும் உணர்த்தியுள்ளது. பாதிக்கப்பட்ட நபர் தற்போது நலமுடன் இருப்பதாகத் தகவல்கள் தெரிவிக்கின்றன. மருத்துவர்களின் துரிதமான செயல்பாடும், நவீன மருத்துவ உபகரணங்களின் பயன்பாடும் பெரிய ஆபத்து ஏற்படாமல் தடுத்தது அனைவராலும் பாராட்டப்படுகிறது. கவனக்குறைவாகச் செய்யப்படும் சிறிய செயல்கள் கூட உயிருக்கு ஆபத்தான விளைவுகளை ஏற்படுத்தும் என்பதற்கு இந்தச் சம்பவம் ஒரு சிறந்த எச்சரிக்கையாக அமைந்துள்ளது.",
-            "published": "2026-11-13T10:39:12+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Vijayawada: కాబోయే భార్యతో ఇన్‌స్టా వార్.. ఆ మెసేజ్‌ల వెనుక ఎవరున్నారు? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnN0YzNMRFhsdTdFV0NPTFNkTm1fWFhVY2VUa0tRb2N2dkZLNUtrN3l5b2xWaFNqb2RMckFxek5nNmJXdEt0MVVVZmdsRzhvN1lsZmN2WmkyUWJmS1ZIQm94WE5MWjdmam9TV0dTNERmT1o3WFFSRXZEcWZ0UllONmpFbmNVYXhfanBsT3d1Uk5fSmVGd2c1TnVYVEo2c2VHd2FIbDcwMGRJc1lWTmfSAa4BQVVfeXFMT2ZzdGMzTERYbHU3RVdDT0xTZE5tX1hYVWNlVGtLUW9jdnZGSzVLazd5eW9sVmhTam9kTHJBcXpOZzZiV3RLdDFVVWZnbEc4bzdZbGZjdlppMlFiZktWSEJveFhOTFo3ZmpvU1dHUzREZk9aN1hRUkV2RHFmdFJZTjZqRW5jVWF4X2pwbE93dVJOX0plRndnNU51WFRKNnNlR3dhSGw3MDBkSXNZVk5n?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T18:00:46+00:00"
+          },
+          {
             "title": "CURRENT AFFAIRS - eenadu pratibha",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEhNOUJEaDR6dU9xMl9YNV9LVGtrcnFMZ1lJcWxCNHY1VUtrX3ltM2VvcEpWN0s0WmFwR0dIdTh2WTEwUWpLb0NtQmpibklGRkhkTjVfRE5fNm9mMmNacTR1SWdmMEpBYldTZG90cFVSQXAwWXAyTmJleGhSVTVKdkcyX3c0aFN1Y0VQOEw5VkhSYzFfTEdoZ0NYRzhrMndHanVjSlA1UkY2NU9jUnhURHR4ZkE?oc=5",
             "source": "Eenadu",
@@ -1098,20 +1105,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-13T16:36:07+00:00"
-          },
-          {
-            "title": "crime News: అండర్‌ -19 క్రికెట్‌ జట్టుకు ఎంపికైన యువతి ఆత్మహత్య - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMnVmdGt4bUtzeWlUYVpIUEJJVTBxUEtoelZoVmJGWUo0LUtDTHp5YXVObXJiSkw0QjZDOWt2amVjaEpJTE9VeGdTU1pMQU5lOE1sUDNobTRZV1NNY0tfU0NHQUV4V2c2RVJDMHlfUVYtdHVIaV9nVVc2WjZpOW1WUEZkaHZQT1VyZ0xncTVMdTVyVWhnb0NnOEtlamtGaFFYOTNDUmhLaDJmRUlNMGhEOVcxT094T0FuT3E3MmtGWDEtWmdIalVYdkdn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T16:02:43+00:00"
-          },
-          {
-            "title": "అందుకే వీళ్ల పెళ్లిళ్లు ప్రత్యేకం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUVJMdnFrbmVFRk84N1VLQnRxRnc4RkE1ZmtGLU5DWUF1bUhYSzlSSmJNV2NncmFtb0RKaG1XZFhYeE5HTXNwb3o5cS15bTVyLXB2WE94SFVxTDgtUVFManFTQ1QyQ0NhbF9idHM5M2V3alRaa0h2R1hmaTFPYzR0eTNlQmdvTmIzZE9kMVB2Zlo4dk1YNk5VbzZlTXNBU1lwbm8yeUpFTUVYbFlSWmxOYkowYlBnTEFOOWxqN2Rod21DOFFjQ1lleFVBRmFXUnhEOFRkWVd2R1XSAdgBQVVfeXFMT1FSTHZxa25lRUZPODdVS0J0cUZ3OEZBNWZrRi1OQ1lBdW1IWEs5UkpiTVdjZ3JhbW9ESmhtV2RYWHhOR01zcG96OXEteW01ci1wdlhPeEhVcUw4LVFRTGpxU0NUMkNDYWxfYnRzOTNld2pUWmtIdkdYZmkxT2M0dHkzZUJnb05iM2RPZDFQdmZaOHZNWDZOVW82ZU1zQVNZcG5vMnlKRU1FWGxZUlpsTmJKMGJQZ0xBTjlsajdkaHdtQzhRY0NZZXhVQUZhV1J4RDhUZFlXdkdV?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T15:38:00+00:00"
           },
           {
             "title": "'భారత్ సమ్మిట్' లో గిగ్ వర్కర్స్ పాలసీ ఆవిష్కరణకు రాహుల్ గాంధీ: సీఎం రేవంత్ రెడ్డి",
@@ -1154,6 +1147,13 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-13T14:28:55+00:00"
+          },
+          {
+            "title": "Visakhapatnam: విశాఖలో రెండోరోజు సీఐఐ భాగస్వామ్య సదస్సు.. ఫొటోలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUVfQk9penl3QldJaFAtYTdQWG4tM0ItNmo3aU9oNjV4cGV4NjJOSndmcWRrdXlKcElnblMwQVFabkswNW45ZkR4Y3JNaHN2eEJnYTFkUmlIVEVpdTg0OHFkX3Jza200OXBKR0JDbXV0dWdCU0lQT19QUmZHcldrMHdsa2Y1Tk5LUUVXemwxM3JhbmRlRzNFT3p1UXdxZ1k20gGgAUFVX3lxTE1BRV9CT2l6eXdCV0loUC1hN1BYbi0zQi02ajdpT2g2NXhwZXg2Mk5Kd2ZxZGt1eUpwSWduUzBBUVpuSzA1bjlmRHhjck1oc3Z4QmdhMWRSaUhURWl1ODQ4cWRfcnNrbTQ5cEpHQkNtdXR1Z0JTSVBPX1BSZkdyV2swd2xrZjVOTktRRVd6bDEzcmFuZGVHM0VPenVRd3FnWTY?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T14:15:01+00:00"
           }
         ],
         "Entertainment": [
