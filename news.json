@@ -1,196 +1,203 @@
 {
-  "updated_at": "2026-11-13T01:01:33.708784+00:00",
+  "updated_at": "2026-11-13T01:31:05.442797+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "'My window faces a brick wall': What's your rent in NYC?",
+            "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "We ask people in New York City how much they pay for their homes.",
+            "published": "2026-11-13T01:30:31+00:00"
+          },
+          {
+            "title": "Shift Focus From Iran War, Look At Home: Trump Tells JD Vance After Midterm Rout",
+            "link": "https://www.ndtv.com/world-news/trump-bluntly-tells-jd-vance-to-shift-focus-from-iran-to-targeting-corruption-and-crime-at-home-12319830#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "But Trump brusquely told the vice president in a social media post on Thursday to shift his energies away from the Iran war to what he argues is a more pressing — and perhaps more politically salient — issue after Republicans were trounced at the polls.",
+            "published": "2026-11-13T06:54:04+05:30"
+          },
+          {
+            "title": "CSIR-IICT hands over indigenous ETP to Siripuram village",
+            "link": "https://www.thehindu.com/news/national/telangana/csir-iict-hands-over-indigenous-etp-to-siripuram-village/article71257404.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T06:51:03+05:30"
+          },
+          {
+            "title": "Gig and platform workers’ plan major rally",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/gig-and-platform-workers-plan-major-rally/article71693845.ece",
+            "source": "The Hindu",
+            "summary": "TGPWU office-bearer Shaik Salauddin said on Thursday that Leader of Opposition in the Lok Sabha Rahul Gandhi has been invited to join the rally",
+            "published": "2026-11-13T06:50:56+05:30"
+          },
+          {
+            "title": "UP Gave A Chance To BJP, Opposition, Needs New Option: Chandrashekhar Azad",
+            "link": "https://www.ndtv.com/india-news/up-gave-a-chance-to-bjp-opposition-needs-new-option-chandrashekhar-azad-12319694#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"The public has seen the BJP's 9.5-year tenure: how paper leaks happened, how there were scams in the recruitment of 68,579 teachers, how there were scams in police recruitment. The public has seen that and the injustice,\" Chandrasekhar Azad said.",
+            "published": "2026-11-13T06:50:13+05:30"
+          },
+          {
+            "title": "‘Every role in IT is getting its AI-powered version’",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/every-role-in-it-is-getting-its-ai-powered-version/article71694371.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T06:49:17+05:30"
+          },
+          {
+            "title": "Bengal Church attacks: Choosing faith over fear",
+            "link": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
+            "source": "The Hindu",
+            "summary": "West Bengal has witnessed a sudden, rapid spike in attacks on Christian home fellowships and churches since the summer of 2026, when the BJP government came to power in the State. Senjuti Sengupta and Shiv Sahay Singh report on the fear of the community that is less than 1% of the population in West Bengal",
+            "published": "2026-11-13T06:46:05+05:30"
+          },
+          {
+            "title": "Mind the gap: Partial opening of Namma Metro Pink Line leaves commuters wanting",
+            "link": "https://www.thehindu.com/news/national/karnataka/mind-the-gap-partial-opening-of-namma-metro-pink-line-leaves-commuters-wanting/article71688228.ece",
+            "source": "The Hindu",
+            "summary": "The opening of the elevated section of the Pink Line is expected to offer only minor relief to the city’s gridlock, with the crucial underground section connecting the Central Business District to north Bengaluru awaiting completion, writes Darshan Devaiah B.P.",
+            "published": "2026-11-13T06:44:10+05:30"
+          },
+          {
+            "title": "Jensen Huang forfeits $108 million in unvested Nvidia equity",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jensen-huang-forfeits-108-million-in-unvested-nvidia-equity/articleshow/135785775.cms",
+            "source": "Economic Times",
+            "summary": "The relinquished awards represent roughly 0.08% of his net worth, according to the Bloomberg Billionaires Index, which puts his fortune at $138.4 billion.",
+            "published": "2026-11-13T06:35:44+05:30"
+          },
+          {
+            "title": "Blackstone lines up $200 million loan to refinance ASK credit line",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackstone-lines-up-200-million-loan-to-refinance-ask-credit-line/articleshow/135785757.cms",
+            "source": "Economic Times",
+            "summary": "Blackstone is in the process of arranging a $200 million loan for ASK Investment Managers. This loan aims to refinance an existing sponsor-financing facility that matures in 2027. Four banks are leading this transaction, which is currently being syndicated among international lenders. The refinancing effort reflects private equity investors' strategy to manage acquisition-related debt maturities.",
+            "published": "2026-11-13T06:34:38+05:30"
+          },
+          {
+            "title": "Sriperumbudur toll plaza gets MLFF",
+            "link": "https://www.thehindu.com/news/cities/chennai/sriperumbudur-toll-plaza-gets-mlff/article71691119.ece",
+            "source": "The Hindu",
+            "summary": "The scanners will read FASTag cards and number plates, and the system will automatically collect the amount due at the toll",
+            "published": "2026-11-13T06:34:12+05:30"
+          },
+          {
+            "title": "Australian footballers will not be charged after hotel incident, police say",
+            "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+            "published": "2026-11-13T01:03:59+00:00"
+          },
+          {
             "title": "Cummins: Khawaja's allegations 'complete and utter nonsense'",
             "link": "https://www.cricinfo.com/ci/content/story/1562419.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Australia captain says Khawaja's suggestion that the entire 2018 Cape Town XI knew that sandpaper was being used on the field is '100% wrong'",
-            "published": "2026-11-13T00:56:20+00:00"
+            "published": "2026-11-13T01:00:58+00:00"
           },
           {
-            "title": "Rupee streak trips on dollar demand, falls 35 paise to 94.04",
-            "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-streak-trips-on-dollar-demand-falls-35-paise-to-94-04/articleshow/135785666.cms",
+            "title": "Kalyan Jewellers hits 52-week high on 64% profit growth",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kalyan-jewellers-hits-52-week-high-on-64-profit-growth/articleshow/135785714.cms",
             "source": "Economic Times",
-            "summary": "The Indian rupee faltered on Thursday, settling at 94.04 per US dollar after shedding 35 paise from its previous value. The surge in dollar demand from nationalised banks and importers outweighed the early strengthening of the rupee. This push for dollars was influenced by unexpected inflation data from the US and upward trends in US treasury yields. Interestingly, foreign portfolio investors continued their buying…",
-            "published": "2026-11-13T06:20:24+05:30"
-          },
-          {
-            "title": "Global Market Today: Asian stocks gain after Nvidia shakeup, oil steady",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-after-nvidia-shakeup-oil-steady/articleshow/135785602.cms",
-            "source": "Economic Times",
-            "summary": "The MSCI Asia Pacific Index rose 0.3%, led by gains in South Korea. US equity futures also advanced, with Nasdaq 100 contracts up 0.6% and those for the S&P 500 gaining 0.4% after both underlying benchmarks fell Thursday. Nvidia, the company at the heart of the AI boom, dropped 4.3% after Chief Executive Officer Jensen Huang was ousted.",
-            "published": "2026-11-13T06:15:37+05:30"
-          },
-          {
-            "title": "Sensex, Nifty mark 2-week winning run on FPI inflows",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-mark-2-week-winning-run-on-fpi-inflows/articleshow/135785557.cms",
-            "source": "Economic Times",
-            "summary": "Indian equity benchmarks in Mumbai have seen a two-week winning streak with significant foreign investment. Foreign Portfolio Investors have invested over ₹75,000 crore in November, while domestic institutional investors have sold shares worth around ₹46,835 crore. The BSE Sensex and NSE Nifty both experienced mild increases despite profit booking by domestic investors. Brent crude oil prices have declined…",
-            "published": "2026-11-13T06:13:52+05:30"
-          },
-          {
-            "title": "India vs New Zealand LIVE Score, 4th ODI: Shreyas Iyer To Lead As India Aim To Seal Series Against New Zealand",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-ind-vs-nz-4th-odi-live-updates-scorecard-live-commentary-match-today-rohit-sharma-ishan-kishan-12319335#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs New Zealand LIVE Score, 4th ODI: India went 2-0 up in the series before the third game was washed out due to rain.",
-            "published": "2026-11-13T06:12:12+05:30"
-          },
-          {
-            "title": "India vs New Zealand Live Streaming, 4th ODI Live Telecast: When And Where To Watch",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-streaming-4th-odi-live-telecast-when-and-where-to-watch-12319408#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "",
-            "published": "2026-11-13T06:10:51+05:30"
-          },
-          {
-            "title": "'Well done, specialist': Hegseth honours soldier who scolded his team at war memorial",
-            "link": "https://timesofindia.indiatimes.com/world/us/well-done-specialist-pete-hegseth-awards-medal-to-soldier-who-scolded-his-team-at-war-memorial/articleshow/135785477.cms",
-            "source": "Times of India",
-            "summary": "US Defence Secretary Pete Hegseth presented Specialist Thomas Iglesias with the Joint Service Commendation Medal for his actions. This award was given for reminding officials to maintain silence and respect at the Tomb of the Unknown Soldier on Veterans Day. Iglesias's reprimand of Hegseth and aides was captured in a video widely shared on social media.",
-            "published": "2026-11-13T06:09:38+05:30"
-          },
-          {
-            "title": "Draft electoral rolls for SSR published in 13 states, 3 UTs; UP to release on Nov 17",
-            "link": "https://www.hindustantimes.com/india-news/draft-electoral-rolls-for-ssr-published-in-13-states-3-uts-up-to-release-on-nov-17-101794529249169.html",
-            "source": "Hindustan Times",
-            "summary": "Bihar’s list adds about 1.3 million electors over its post-SIR roll, while Tamil Nadu’s count rises to 57.7 million but remains below its pre-revision total.",
-            "published": "2026-11-13T05:59:35+05:30"
-          },
-          {
-            "title": "DIIs book profits in longest selling streak in 4 years",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/diis-book-profits-in-longest-selling-streak-in-4-years/articleshow/135785389.cms",
-            "source": "Economic Times",
-            "summary": "Domestic institutional investors have recently unloaded more than ₹47,662 crore worth of equities amidst a market upswing. This shift showcases their tendency to lock in profits following substantial input into Indian stocks. Conversely, foreign portfolio investors have returned vigorously, investing about $8 billion since mid-October. This marks a notable change in market behavior, as local investors experience…",
-            "published": "2026-11-13T05:57:12+05:30"
-          },
-          {
-            "title": "Choosing faith over fear",
-            "link": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
-            "source": "The Hindu",
-            "summary": "West Bengal has witnessed a sudden, rapid spike in attacks on Christian home fellowships and churches since the summer of 2026, when the BJP government came to power in the State. Senjuti Sengupta and Shiv Sahay Singh report on the fear of the community that is less than 1% of the population in West Bengal",
-            "published": "2026-11-13T05:56:05+05:30"
-          },
-          {
-            "title": "Chhattisgarh liquor case key accused held in UAE",
-            "link": "https://www.hindustantimes.com/india-news/chhattisgarh-liquor-case-key-accused-held-in-uae-ed-enforcement-directorate-vikas-agrawal-101794528978556.html",
-            "source": "Hindustan Times",
-            "summary": "The alleged irregularities pertain to the illegal sale of unaccounted and duty-evaded liquor through state-run liquor outlets.",
-            "published": "2026-11-13T05:53:46+05:30"
-          },
-          {
-            "title": "US Congress Steps Up Scrutiny Of Trump, Jensen Huang Over National Security",
-            "link": "https://www.ndtv.com/world-news/us-congress-steps-up-scrutiny-of-trump-nvidia-after-huang-exit-12319783#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Huang, a co-founder of the AI chip giant, on Sunday acknowledged an affair with Alice Huang, a former executive at Singapore-based data center company Megaspeed. The two are not related.",
-            "published": "2026-11-13T05:50:28+05:30"
-          },
-          {
-            "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-            "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-            "published": "2026-11-13T00:20:24+00:00"
-          },
-          {
-            "title": "Global bond yields surge to multi-year highs as inflation, borrowing concerns mount",
-            "link": "https://economictimes.indiatimes.com/markets/bonds/global-bond-yields-on-the-rise-with-inflation-govt-borrowing/articleshow/135785268.cms",
-            "source": "Economic Times",
-            "summary": "Government bond yields globally rose to multi-decade highs recently due to sell-offs in sovereign debt. Investors demanded higher returns amid persistent inflation and uncertainty regarding interest rates. India's benchmark 10-year bond yield peaked at 7.50% before slightly declining to 7.24%. Recent easing geopolitical tensions and declining crude prices have supported bond market recovery. Nonetheless, the outlook…",
-            "published": "2026-11-13T05:47:51+05:30"
+            "summary": "In a bold move, Kalyan Jewellers India announced a significant 31% rise in revenue and a notable 64% boost in net profit. Plans include launching 84 new Kalyan stores along with expanding the Candere and Akshaya Thanga Maligai outlets. Analysts have expressed optimism, issuing 'Buy' ratings based on the growth from non-South markets, which climbed by 21%, positioning the company favorably against unorganized…",
+            "published": "2026-11-13T06:29:40+05:30"
           }
         ],
         "India": [
           {
-            "title": "'Well done, specialist': Hegseth honours soldier who scolded his team at war memorial",
-            "link": "https://timesofindia.indiatimes.com/world/us/well-done-specialist-pete-hegseth-awards-medal-to-soldier-who-scolded-his-team-at-war-memorial/articleshow/135785477.cms",
-            "source": "Times of India",
-            "summary": "US Defence Secretary Pete Hegseth presented Specialist Thomas Iglesias with the Joint Service Commendation Medal for his actions. This award was given for reminding officials to maintain silence and respect at the Tomb of the Unknown Soldier on Veterans Day. Iglesias's reprimand of Hegseth and aides was captured in a video widely shared on social media.",
-            "published": "2026-11-13T06:09:38+05:30"
+            "title": "Shift Focus From Iran War, Look At Home: Trump Tells JD Vance After Midterm Rout",
+            "link": "https://www.ndtv.com/world-news/trump-bluntly-tells-jd-vance-to-shift-focus-from-iran-to-targeting-corruption-and-crime-at-home-12319830#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "But Trump brusquely told the vice president in a social media post on Thursday to shift his energies away from the Iran war to what he argues is a more pressing — and perhaps more politically salient — issue after Republicans were trounced at the polls.",
+            "published": "2026-11-13T06:54:04+05:30"
           },
           {
-            "title": "Draft electoral rolls for SSR published in 13 states, 3 UTs; UP to release on Nov 17",
-            "link": "https://www.hindustantimes.com/india-news/draft-electoral-rolls-for-ssr-published-in-13-states-3-uts-up-to-release-on-nov-17-101794529249169.html",
-            "source": "Hindustan Times",
-            "summary": "Bihar’s list adds about 1.3 million electors over its post-SIR roll, while Tamil Nadu’s count rises to 57.7 million but remains below its pre-revision total.",
-            "published": "2026-11-13T05:59:35+05:30"
+            "title": "CSIR-IICT hands over indigenous ETP to Siripuram village",
+            "link": "https://www.thehindu.com/news/national/telangana/csir-iict-hands-over-indigenous-etp-to-siripuram-village/article71257404.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T06:51:03+05:30"
           },
           {
-            "title": "Choosing faith over fear",
+            "title": "Gig and platform workers’ plan major rally",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/gig-and-platform-workers-plan-major-rally/article71693845.ece",
+            "source": "The Hindu",
+            "summary": "TGPWU office-bearer Shaik Salauddin said on Thursday that Leader of Opposition in the Lok Sabha Rahul Gandhi has been invited to join the rally",
+            "published": "2026-11-13T06:50:56+05:30"
+          },
+          {
+            "title": "UP Gave A Chance To BJP, Opposition, Needs New Option: Chandrashekhar Azad",
+            "link": "https://www.ndtv.com/india-news/up-gave-a-chance-to-bjp-opposition-needs-new-option-chandrashekhar-azad-12319694#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "\"The public has seen the BJP's 9.5-year tenure: how paper leaks happened, how there were scams in the recruitment of 68,579 teachers, how there were scams in police recruitment. The public has seen that and the injustice,\" Chandrasekhar Azad said.",
+            "published": "2026-11-13T06:50:13+05:30"
+          },
+          {
+            "title": "‘Every role in IT is getting its AI-powered version’",
+            "link": "https://www.thehindu.com/news/cities/Hyderabad/every-role-in-it-is-getting-its-ai-powered-version/article71694371.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-13T06:49:17+05:30"
+          },
+          {
+            "title": "Bengal Church attacks: Choosing faith over fear",
             "link": "https://www.thehindu.com/news/national/west-bengal/choosing-faith-over-fear/article71693306.ece",
             "source": "The Hindu",
             "summary": "West Bengal has witnessed a sudden, rapid spike in attacks on Christian home fellowships and churches since the summer of 2026, when the BJP government came to power in the State. Senjuti Sengupta and Shiv Sahay Singh report on the fear of the community that is less than 1% of the population in West Bengal",
-            "published": "2026-11-13T05:56:05+05:30"
+            "published": "2026-11-13T06:46:05+05:30"
           },
           {
-            "title": "Chhattisgarh liquor case key accused held in UAE",
-            "link": "https://www.hindustantimes.com/india-news/chhattisgarh-liquor-case-key-accused-held-in-uae-ed-enforcement-directorate-vikas-agrawal-101794528978556.html",
-            "source": "Hindustan Times",
-            "summary": "The alleged irregularities pertain to the illegal sale of unaccounted and duty-evaded liquor through state-run liquor outlets.",
-            "published": "2026-11-13T05:53:46+05:30"
+            "title": "Mind the gap: Partial opening of Namma Metro Pink Line leaves commuters wanting",
+            "link": "https://www.thehindu.com/news/national/karnataka/mind-the-gap-partial-opening-of-namma-metro-pink-line-leaves-commuters-wanting/article71688228.ece",
+            "source": "The Hindu",
+            "summary": "The opening of the elevated section of the Pink Line is expected to offer only minor relief to the city’s gridlock, with the crucial underground section connecting the Central Business District to north Bengaluru awaiting completion, writes Darshan Devaiah B.P.",
+            "published": "2026-11-13T06:44:10+05:30"
           },
           {
-            "title": "US Congress Steps Up Scrutiny Of Trump, Jensen Huang Over National Security",
-            "link": "https://www.ndtv.com/world-news/us-congress-steps-up-scrutiny-of-trump-nvidia-after-huang-exit-12319783#publisher=newsstand",
+            "title": "Sriperumbudur toll plaza gets MLFF",
+            "link": "https://www.thehindu.com/news/cities/chennai/sriperumbudur-toll-plaza-gets-mlff/article71691119.ece",
+            "source": "The Hindu",
+            "summary": "The scanners will read FASTag cards and number plates, and the system will automatically collect the amount due at the toll",
+            "published": "2026-11-13T06:34:12+05:30"
+          },
+          {
+            "title": "North Korean Hackers Steal More Than $400 Million Using Video Images: FBI",
+            "link": "https://www.ndtv.com/world-news/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-12319874#publisher=newsstand",
             "source": "NDTV",
-            "summary": "Huang, a co-founder of the AI chip giant, on Sunday acknowledged an affair with Alice Huang, a former executive at Singapore-based data center company Megaspeed. The two are not related.",
-            "published": "2026-11-13T05:50:28+05:30"
+            "summary": "The targets are issued invitations from genuine contacts they have previously interacted with, but whose social media and communication accounts have been compromised and whose images have been secretly recorded.",
+            "published": "2026-11-13T06:28:50+05:30"
           },
           {
-            "title": "Inflation tops RBI’s 6% ceiling, raises December rate hike prospects",
-            "link": "https://www.hindustantimes.com/india-news/inflation-tops-rbi-s-6-ceiling-raises-december-rate-hike-prospects-101794527823707.html",
-            "source": "Hindustan Times",
-            "summary": "Food inflation accelerated, prices rose across 11 of the 12 major CPI categories, prompting economists to forecast a 25-basis-point rate hike in December.",
-            "published": "2026-11-13T05:42:03+05:30"
-          },
-          {
-            "title": "2 missing SPOs found shot dead in Jammu and Kashmir's Kishtwar",
-            "link": "https://www.hindustantimes.com/india-news/2-missing-spos-found-shot-dead-in-jammu-and-kashmirs-kishtwar-101794527922270.html",
-            "source": "Hindustan Times",
-            "summary": "A court has sought data from the home department, while roughly 2,300 affected personnel say their pay has been stalled during the proceedings.",
-            "published": "2026-11-13T05:33:33+05:30"
-          },
-          {
-            "title": "Canada trade talks include movement of professionals",
-            "link": "https://www.hindustantimes.com/india-news/canada-trade-talks-include-movement-of-professionals-101794526858989.html",
-            "source": "Hindustan Times",
-            "summary": "The sixth round of CEPA negotiations is underway, with both countries aiming to resolve outstanding issues by November and conclude the deal.",
-            "published": "2026-11-13T05:24:09+05:30"
-          },
-          {
-            "title": "FBI Says US Seized $1.2 Billion In Crypto Stolen From Binance",
-            "link": "https://www.ndtv.com/world-news/fbi-says-us-has-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance-12320002#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The FBI said Thursday that it had seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest crypto exchange.",
-            "published": "2026-11-13T05:16:12+05:30"
-          },
-          {
-            "title": "Trump unsure woman linked to Jensen Huang was a spy; report alleges 3rd affair of ex-Nvidia CEO",
-            "link": "https://timesofindia.indiatimes.com/world/us/trump-says-unsure-if-woman-linked-to-jensen-huang-was-a-spy-confirms-speaking-to-nvidia-chief/articleshow/135785044.cms",
+            "title": "Microsoft begins restoring services after global outage hits 365 suite",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/servers-remain-stable-so-far-microsoft-begins-restoring-services-after-global-outage-hits-365-suite/articleshow/135785698.cms",
             "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-13T05:13:25+05:30"
+            "summary": "Microsoft has begun restoring services following a major global outage that affected its Microsoft 365 applications. Almost 130,000 users globally reported problems with accessing services like Outlook, Teams, and OneDrive. The company identified elevated load on servers as a key issue and is working to rectify the situation. Users experienced difficulties in sending emails and accessing other applications across…",
+            "published": "2026-11-13T06:28:43+05:30"
           },
           {
-            "title": "Trump Calls Nvidia Spy Scandal \"Horrible Thing\" After Jensen Huang Resigns",
-            "link": "https://www.ndtv.com/world-news/trump-calls-jensen-huang-chinese-spy-affair-scandal-horrible-thing-says-it-is-so-sad-to-see-happen-12319960#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "During an interview, Trump brought up Huang while discussing Chinese espionage and the growing significance of artificial intelligence, expressing regret over the controversy involving the prominent technology executive.",
-            "published": "2026-11-13T05:02:40+05:30"
-          },
-          {
-            "title": "Montana father's custody appeal rejected over 10 extra miles of driving",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-montana-father-sought-to-change-his-parenting-plan-after-his-former-wife-moved-arguing-it-made-visits-harder-the-state-supreme-court-ruled-that-10-extra-driving-miles-were-not-enough-to-reopen-the-arrangement/articleshow/135743986.cms",
+            "title": "'Utter nonsense': Cummins breaks silence on Khawaja's sandpaper scandal claims",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/utter-nonsense-pat-cummins-breaks-silence-on-usman-khawajas-2018-sandpaper-scandal-claims/articleshow/135785693.cms",
             "source": "Times of India",
-            "summary": "The Montana Supreme Court has reaffirmed a previous ruling on a parenting plan modification initiated by Justin Aikins, who sought changes after his ex-wife moved a mere 10 miles away. The court concluded that minor increases in distance do not justify altering existing custody arrangements. Attempts at mediation were unsuccessful, and this decision establishes an important precedent regarding relocations and shared…",
-            "published": "2026-11-13T05:00:00+05:30"
+            "summary": "Australia captain Pat Cummins has strongly denied claims made by Usman Khawaja regarding the 2018 ball-tampering scandal. Cummins asserted that he did not know about the plan and has consistently maintained that stance over the years. Khawaja's autobiography brought renewed attention to the incident, prompting severe reactions from Cummins. Despite the allegations, Cummins has decided against taking legal action and…",
+            "published": "2026-11-13T06:26:17+05:30"
+          },
+          {
+            "title": "Nvidia Ex-CEO Jensen Huang Had Affair With One More Employee: Report",
+            "link": "https://www.ndtv.com/world-news/exclusive-former-nvidia-ceo-huang-had-a-relationship-with-a-second-employee-sources-say-12319696#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Ousted Nvidia CEO Jensen Huang had an intimate relationship with a second employee, according to two people familiar with the matter, Reuters has learned.",
+            "published": "2026-11-13T06:12:07+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Australian footballers will not be charged after hotel incident, police say",
+            "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+            "published": "2026-11-13T01:03:59+00:00"
+          },
           {
             "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
             "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
@@ -211,6 +218,13 @@
             "source": "Al Jazeera",
             "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
             "published": "2026-11-12T23:52:38+00:00"
+          },
+          {
+            "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+            "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+            "published": "2026-11-12T23:42:52+00:00"
           },
           {
             "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
@@ -260,43 +274,36 @@
             "source": "BBC World",
             "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
             "published": "2026-11-12T21:00:42+00:00"
-          },
-          {
-            "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
-            "published": "2026-11-12T20:59:53+00:00"
-          },
-          {
-            "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-            "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The report seeks to address concerns about the Trump administration&#039;s handling of revenue held in trust for Venezuela.",
-            "published": "2026-11-12T20:49:36+00:00"
           }
         ],
         "Business": [
           {
-            "title": "Rupee streak trips on dollar demand, falls 35 paise to 94.04",
-            "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-streak-trips-on-dollar-demand-falls-35-paise-to-94-04/articleshow/135785666.cms",
-            "source": "Economic Times",
-            "summary": "The Indian rupee faltered on Thursday, settling at 94.04 per US dollar after shedding 35 paise from its previous value. The surge in dollar demand from nationalised banks and importers outweighed the early strengthening of the rupee. This push for dollars was influenced by unexpected inflation data from the US and upward trends in US treasury yields. Interestingly, foreign portfolio investors continued their buying…",
-            "published": "2026-11-13T06:20:24+05:30"
+            "title": "'My window faces a brick wall': What's your rent in NYC?",
+            "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "We ask people in New York City how much they pay for their homes.",
+            "published": "2026-11-13T01:30:31+00:00"
           },
           {
-            "title": "Global Market Today: Asian stocks gain after Nvidia shakeup, oil steady",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-after-nvidia-shakeup-oil-steady/articleshow/135785602.cms",
+            "title": "Jensen Huang forfeits $108 million in unvested Nvidia equity",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jensen-huang-forfeits-108-million-in-unvested-nvidia-equity/articleshow/135785775.cms",
             "source": "Economic Times",
-            "summary": "The MSCI Asia Pacific Index rose 0.3%, led by gains in South Korea. US equity futures also advanced, with Nasdaq 100 contracts up 0.6% and those for the S&P 500 gaining 0.4% after both underlying benchmarks fell Thursday. Nvidia, the company at the heart of the AI boom, dropped 4.3% after Chief Executive Officer Jensen Huang was ousted.",
-            "published": "2026-11-13T06:15:37+05:30"
+            "summary": "The relinquished awards represent roughly 0.08% of his net worth, according to the Bloomberg Billionaires Index, which puts his fortune at $138.4 billion.",
+            "published": "2026-11-13T06:35:44+05:30"
           },
           {
-            "title": "Sensex, Nifty mark 2-week winning run on FPI inflows",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-mark-2-week-winning-run-on-fpi-inflows/articleshow/135785557.cms",
+            "title": "Blackstone lines up $200 million loan to refinance ASK credit line",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackstone-lines-up-200-million-loan-to-refinance-ask-credit-line/articleshow/135785757.cms",
             "source": "Economic Times",
-            "summary": "Indian equity benchmarks in Mumbai have seen a two-week winning streak with significant foreign investment. Foreign Portfolio Investors have invested over ₹75,000 crore in November, while domestic institutional investors have sold shares worth around ₹46,835 crore. The BSE Sensex and NSE Nifty both experienced mild increases despite profit booking by domestic investors. Brent crude oil prices have declined…",
-            "published": "2026-11-13T06:13:52+05:30"
+            "summary": "Blackstone is in the process of arranging a $200 million loan for ASK Investment Managers. This loan aims to refinance an existing sponsor-financing facility that matures in 2027. Four banks are leading this transaction, which is currently being syndicated among international lenders. The refinancing effort reflects private equity investors' strategy to manage acquisition-related debt maturities.",
+            "published": "2026-11-13T06:34:38+05:30"
+          },
+          {
+            "title": "Kalyan Jewellers hits 52-week high on 64% profit growth",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kalyan-jewellers-hits-52-week-high-on-64-profit-growth/articleshow/135785714.cms",
+            "source": "Economic Times",
+            "summary": "In a bold move, Kalyan Jewellers India announced a significant 31% rise in revenue and a notable 64% boost in net profit. Plans include launching 84 new Kalyan stores along with expanding the Candere and Akshaya Thanga Maligai outlets. Analysts have expressed optimism, issuing 'Buy' ratings based on the growth from non-South markets, which climbed by 21%, positioning the company favorably against unorganized…",
+            "published": "2026-11-13T06:29:40+05:30"
           },
           {
             "title": "DIIs book profits in longest selling streak in 4 years",
@@ -341,10 +348,10 @@
             "published": "2026-11-12T22:51:18+00:00"
           },
           {
-            "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+            "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
             "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
-            "summary": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
+            "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
             "published": "2026-11-12T20:25:29+00:00"
           },
           {
@@ -353,13 +360,6 @@
             "source": "BBC Business",
             "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
             "published": "2026-11-12T20:21:03+00:00"
-          },
-          {
-            "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-            "published": "2026-11-12T17:11:48+00:00"
           }
         ],
         "Sports": [
@@ -368,7 +368,7 @@
             "link": "https://www.cricinfo.com/ci/content/story/1562419.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "Australia captain says Khawaja's suggestion that the entire 2018 Cape Town XI knew that sandpaper was being used on the field is '100% wrong'",
-            "published": "2026-11-13T00:56:20+00:00"
+            "published": "2026-11-13T01:00:58+00:00"
           },
           {
             "title": "India vs New Zealand LIVE Score, 4th ODI: Shreyas Iyer To Lead As India Aim To Seal Series Against New Zealand",
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "IND vs NZ Live Score: सीरीज में अजेय बढ़त हासिल करने उतरेगा भारत, क्या बारिश फिर बनेगी विलेन?",
+            "link": "https://www.amarujala.com/live/cricket/new-zealand-vs-india-4th-odi-live-score-ball-by-ball-commentary-latest-updates-and-match-highlights-2026-11-13",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-13T06:58:12+05:30"
+          },
+          {
             "title": "आईपीएल 2027 से पहले दिल्ली कैपिटल्स का बढ़ा सिरदर्द: कप्तानी को लेकर क्यों तेज हुई चर्चा? अक्षर छोड़ेंगे कमान!",
             "link": "https://www.amarujala.com/cricket/cricket-news/delhi-capitals-captain-discussion-ahead-of-ipl-2027-know-all-details-and-contenders-rishabh-pant-axar-patel-2026-11-12",
             "source": "Amar Ujala",
@@ -676,15 +683,15 @@
             "published": "2026-11-13T05:40:51+05:30"
           },
           {
-            "title": "आज पीएम मोदी का कर्नाटक दौरा:15,600 करोड़ की विकास परियोजनाओं का शिलान्यास-उद्घाटन करेंगे",
+            "title": "पीएम मोदी का आज कर्नाटक दौरा:15,600 करोड़ की विकास परियोजनाओं का शिलान्यास-उद्घाटन करेंगे",
             "link": "https://www.bhaskar.com/g/national/news/pm-modi-karnataka-visit-bengaluru-metro-inauguration-development-project-139667725.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-13T00:00:00+00:00"
           },
           {
-            "title": "खबर हटके- मगरमच्छ की पीठ पर पुशअप्स:हेलिकॉप्टर से ससुराल पहुंची दुल्हन; मजदूर को मिला ₹99 करोड़ का सोना",
-            "link": "https://www.bhaskar.com/bhaskar-khaas/khabar-hatke/news/trending-news-gold-discovery-bride-helicopter-crocodile-pushups-139667366.html",
+            "title": "छठ महापर्व आज से, दावा- 40 लाख लोग बिहार लौटे:दिल्ली में 11 किमी लंबा घाट, यूपी में 15 और 16 नवंबर को छुट्टी",
+            "link": "https://www.bhaskar.com/g/national/news/chhath-puja-2026-nahay-khay-shuru-bihar-jharkhand-up-sun-worship-139666107.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-12T23:35:00+00:00"
@@ -697,18 +704,11 @@
             "published": "2026-11-12T23:35:00+00:00"
           },
           {
-            "title": "छठ महापर्व आज से, 40 लाख लोग बिहार लौट रहे:दिल्ली में बना 11 किमी लंबा घाट, यूपी में 15 और 16 नवंबर को छुट्टी",
-            "link": "https://www.bhaskar.com/g/national/news/chhath-puja-2026-nahay-khay-shuru-bihar-jharkhand-up-sun-worship-139666107.html",
+            "title": "खबर हटके- मगरमच्छ की पीठ पर पुशअप्स:हेलिकॉप्टर से ससुराल पहुंची दुल्हन; मजदूर को मिला ₹99 करोड़ का सोना",
+            "link": "https://www.bhaskar.com/bhaskar-khaas/khabar-hatke/news/trending-news-gold-discovery-bride-helicopter-crocodile-pushups-139667366.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-12T23:35:00+00:00"
-          },
-          {
-            "title": "हैदराबाद में आज से कांग्रेस की भारत समिट:70 देशों से लोग आ रहे, वैश्विक चुनौतियों और मुद्दों पर चर्चा; राहुल 14 नवंबर को शामिल होंगे",
-            "link": "https://www.bhaskar.com/g/national/news/hyderabad-bharat-summit-rahul-gandhi-global-challenges-investment-139666437.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-12T23:30:00+00:00"
           }
         ],
         "Entertainment": [
@@ -804,7 +804,14 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:પંજાબમાં ધારાસભ્ય-મંત્રીઓની ટિકિટ કપાઈ, UPમાં ઓવૈસી-ચંદ્રશેખરનું ગઠબંધન; એનવીડિયા CEOનું રાજીનામું; ધનતેરસ પર 30% વધુ સોનું વેચાયું",
+            "title": "સોનમ વાંગચુકનો દાવો- ઘરમાં નજરકેદ કરવામાં આવ્યા:બહાર સશસ્ત્ર જવાનો તૈનાત; લદ્દાખ પરિષદની ચૂંટણી વિરુદ્ધ પ્રદર્શન કરવાના હતા",
+            "link": "https://www.divyabhaskar.co.in/national/news/sonam-wangchuk-ladakh-house-arrest-controversy-protest-139670478.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-13T01:15:52+00:00"
+          },
+          {
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:ટ્રમ્પ અને નેતન્યાહૂ બૂમો પાડી પાડીને બાખડ્યા, મુંબઇ લોકલમાં છેડતી પછી યુવતીને ધક્કો મારી દીધો, યુક્રેન મોરબીના સાહિલને છોડવા તૈયાર હોવાનો દાવો",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-nvidia-ceo-jensen-resigns-sahil-majothi-ukraine-detention-139666936.html",
             "source": "Divya Bhaskar",
             "summary": "",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-11-12T10:42:51+00:00"
-          },
-          {
-            "title": "પાકિસ્તાનમાં ટીવી ઍન્કરનું મૃત્યુ : પતિ પર હત્યાનો આરોપ, પણ મહિલાના પરિવારે જ કેસ પાછો ખેંચવાનો નિર્ણય કેમ કર્યો?",
-            "link": "https://www.bbc.com/gujarati/articles/c9ly4n6057l8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-12T09:50:36+00:00"
           }
         ]
       }
@@ -894,6 +894,13 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "உணவுகள் மூலம் சருமம் முதுமையடையாமல் தடுக்க முடியுமா? கடைபிடிக்க வேண்டிய 6 பழக்கங்கள்",
+            "link": "https://www.bbc.com/tamil/articles/cw5y151y5d1vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-11-13T01:26:39+00:00"
+          },
           {
             "title": "‘லே' பகுதிக்குள் 60 நாள் நடமாடக்கூடாது.. நள்ளிரவில் சோனம் வாங்சுக் திடீர் வீடியோ.. வீட்டு காவலில் அடைப்பு?",
             "link": "https://tamil.oneindia.com/news/india/i-am-under-house-arrest-sonam-wangchuk-released-video-after-restriction-for-leh-movement-844941.html",
@@ -970,13 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-11-12T11:11:01+00:00"
-          },
-          {
-            "title": "தவெக எம்எல்ஏ - கலெக்டர் சர்ச்சையை முடிவுக்குக் கொண்டு வர முயற்சி? பேச்சுவார்த்தை நடத்தும் வன்னியரசு!",
-            "link": "https://tamil.oneindia.com/news/tamilnadu/behind-the-scenes-effort-to-defuse-kallakurichi-collector-row-vck-minister-vanniyarasu-steps-in-844839.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-11-12T16:28:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,39 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "నేతన్న సేవలో.. చేతివాటం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rV1dGYnFIcjJzOFNnXzF1V1ZkNTVIYW14c3NXUndxSjdDUTN3cWlGTVF6S2EwZTlKdzVBcUpldmRQRWE1RS1HbWFud3FOWDZWQkRnMFpwRDZBN3BndV83N1VLSmdydVVCOG5IbDMxUk9TQWx2dlU1QnZrYw?oc=5",
+            "title": "విజయం సాధించాక అహంకారం తగదు: భాగవత్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jOWI4dUdVU1pjZW9QNl9meXV2OFJ0TGsyR0ZIVmNjQUhScTdXZkRZV3ZUMm1xN2k2d2FuS0k1MkVfcGw1bFJSb0xEVGVMa0VLcnl1ZE1ZUnNnZGR2SDBEQU9MMm1jOFBObW5aQnNYcWPSAXBBVV95cUxNYzliOHVHVVNaY2VvUDZfZnl1djhSdExrMkdGSFZjY0FIUnE3V2ZEWVd2VDJtcTdpNndhbktJNTJFX3BsNWxSUm9MRFRlTGtFS3J5dWRNWVJzZ2RkdkgwREFPTDJtYzhQTm1uWkJzWHFj?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-13T00:56:41+00:00"
+            "published": "2026-11-13T01:09:32+00:00"
+          },
+          {
+            "title": "బుల్‌డోజర్‌ మా రాష్ట్ర బ్రాండ్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sUExVMmZOdjhPWXFOellDVG9CLXhsZXBaUUIta0xuOVBacFR2eHRXWmEzOFhFQzdZUDBvbnpsTkZHWEl2eXVCS1JHTDVySEJIX1p6UTJpTlVyN2hrT1NmOE5nZkdrZ3lVUmloVk9qRGXSAXBBVV95cUxObFBMVTJmTnY4T1lxTnpZQ1RvQi14bGVwWlFCLWtMbjlQWnBUdnh0V1phMzhYRUM3WVAwb256bE5GR1hJdnl1QktSR0w1ckhCSF9aelEyaU5Vcjdoa09TZjhOZ2ZHa2d5VVJpaFZPakRl?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T00:57:37+00:00"
+          },
+          {
+            "title": "చైనా ముందు మోకరిల్లిన మోదీ సర్కారు: కాంగ్రెస్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQTAtdldPakdzYjZhcWNKTTlLcnlFbmMyY3FhVlNmM1VxajdJNkppOXFrMVd2dGd6aF9NM1JqcnVCcW51MGhKVnAtTktrZVUwRnZWMTRxWVNSeTZUcm40WlBvcmJIZmxvencwMjFUSVfSAXBBVV95cUxNLUEwLXZXT2pHc2I2YXFjSk05S3J5RW5jMmNxYVZTZjNVcWo3STZKaTlxazFXdnRnemhfTTNSanJ1QnFudTBoSlZwLU5La2VVMEZ2VjE0cVlTUnk2VHJuNFpQb3JiSGZsb3p3MDIxVElX?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T00:56:09+00:00"
+          },
+          {
+            "title": "పారిస్‌ నగల దుకాణంలో పట్టపగలు దోపిడీ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xUzNYSjFWWVBkSkIzT0RabXIwTXY3VmhUMlhXZ3E5Zm1ZVFRGSk1yVGI0Y3FPME1MaFdpUTZ1VXdmWGJMSFQxM1c1NmVfelhGNUZRT2NXZDRzMEt4U1NqUmR5N1dEWGVnQmVIU2VxYkPSAXBBVV95cUxOcVMzWEoxVllQZEpCM09EWm1yME12N1ZoVDJYV2dxOWZtWVRURkpNclRiNGNxTzBNTGhXaVE2dVV3ZlhiTEhUMTNXNTZlX3pYRjVGUU9jV2Q0czBLeFNTalJkeTdXRFhlZ0JlSFNlcWJD?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T00:50:11+00:00"
+          },
+          {
+            "title": "కశ్మీర్‌లో శవాలై తేలిన ఇద్దరు గస్తీ పోలీసులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WTW5oM1A1aWRxWEhJNFpiQnRLd0Rvbmw2QjlaRU1fX3RJZlpWVVZxd3U5SXFFbmxsNDhVUHpvRnFkSWZ6SVJ4VnNOeHNtbFN3Sk9XT2tXeGFaQ2wzRDd2RGxUX0o4d0dnQXN4Z0p5M2HSAXBBVV95cUxNVk1uaDNQNWlkcVhISTRaYkJ0S3dEb25sNkI5WkVNX190SWZaVlVWcXd1OUlxRW5sbDQ4VVB6b0ZxZElmeklSeFZzTnhzbWxTd0pPV09rV3hhWkNsM0Q3dkRsVF9KOHdHZ0FzeGdKeTNh?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-13T00:47:52+00:00"
           },
           {
             "title": "నేను స్వర్గానికే వెళ్తా: ట్రంప్‌ - Eenadu",
@@ -1086,18 +1114,11 @@
             "published": "2026-11-13T00:45:45+00:00"
           },
           {
-            "title": "ధైర్యలక్ష్మికి రూ.3 లక్షల చెక్కు అందజేత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTdUpLbm5RTnRnemwzUTFmOVZuYTVldm5lUFZhSFNEN19EalhWNUZpdS11dmhHSW5ST2dWZW9HdlF5bkxCX3dERkNFWXBzODZndGk2cEJyU0JJVUUwamJHdUhyVmtlNkE2VGRFUlJ3YnRiV0doRXQybmhuOA?oc=5",
+            "title": "విదేశీ పెట్టుబడులకు ఏపీ నమ్మకమైన భాగస్వామి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96RXpvanBZc0tOM2tPTjlyN0tMcThwM01JRW9GT2xHREZFQkFtWFphNFA1UE5LTjg2cFF0UkNqNkprWkFiazREV2dyMndqdXptS3FfcXE1bm9sWWNPem40LWJzeThfZHdNMUxYSzNsaDZ2WnlHLU9Bd1Y2Z2HSAXxBVV95cUxPekV6b2pwWXNLTjNrT045cjdLTHE4cDNNSUVvRk9sR0RGRUJBbVhaYTRQNVBOS044NnBRdFJDajZKa1pBYms0RFdncjJ3anV6bUtxX3FxNW5vbFljT3puNC1ic3k4X2R3TTFMWEszbGg2dlp5Ry1PQXdWNmdh?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-13T00:38:51+00:00"
-          },
-          {
-            "title": "Pawan Kalyan: అండగా ఉంటాం రండి... రాష్ట్ర భవిష్యత్తును నిర్మిద్దాం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXdMSWR2Q042bVlRMkZHbmVmQV8zTEhReHIyZEliXzU0ZGxyUVNQSkJGWmVnOE5ZNDJ2R2ktRVJsUjBRYS1KMUFVeTRZbTIwNzNGcUFqcHV3QTk2RjFuY19OVHhiWGtEbmpUOEJsTEJQWDFXd0t5dzVpSUpheWtkdE5EOExtdDBZR1hiUkFXcndGb1JObkdWYXB0THNkdWpQSERqMNIBpAFBVV95cUxQSXdMSWR2Q042bVlRMkZHbmVmQV8zTEhReHIyZEliXzU0ZGxyUVNQSkJGWmVnOE5ZNDJ2R2ktRVJsUjBRYS1KMUFVeTRZbTIwNzNGcUFqcHV3QTk2RjFuY19OVHhiWGtEbmpUOEJsTEJQWDFXd0t5dzVpSUpheWtkdE5EOExtdDBZR1hiUkFXcndGb1JObkdWYXB0THNkdWpQSERqMA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T00:38:34+00:00"
+            "published": "2026-11-13T00:39:30+00:00"
           },
           {
             "title": "స్వచ్ఛ సర్వేక్షణ్‌ అవార్డులు పొందిన నగరపాలక సంస్థలకు గవర్నర్‌ అభినందన - Eenadu",
@@ -1114,18 +1135,18 @@
             "published": "2026-11-13T00:35:12+00:00"
           },
           {
-            "title": "నిర్జీవ మిషన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFNBTTdjYng4d1MyaFU3d05rN0ZHTXYxakZQNnhleGxmc0xRdUI3V0pwN3dEYVEtVlJlSVNOck1ZemY2Y283QmVkWEtiR1FtLVhERmlia0Jvamg4clFKeWdyV0Z6X1VPZnJLT1JYWXJWamxYZVdJZVJBSWlqTGFVaA?oc=5",
+            "title": "మరో రెండు భారీ ప్రాజెక్టులకు రెన్యూ ఒప్పందం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ybVloNWY4Q2s4eTdLU3dTdmtSNEJRMFItbzI0LWNRODNrY2RMNnFRYjBmcHdSeGxobWlVZnN0eTdoZ0FMa09XaURFYjREOXRGTVY4TWZEeGNBcnFKdkRDUUxBLU5ONzJuTnpOemIxTTFZV3dqNXhlSHZvX0_SAXxBVV95cUxOcm1ZaDVmOENrOHk3S1N3U3ZrUjRCUTBSLW8yNC1jUTgza2NkTDZxUWIwZnB3UnhsaG1pVWZzdHk3aGdBTGtPV2lERWI0RDl0Rk1WOE1mRHhjQXJxSnZEQ1FMQS1OTjcybk56TnpiMU0xWVd3ajV4ZUh2b19P?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-13T00:31:59+00:00"
+            "published": "2026-11-13T00:30:46+00:00"
           },
           {
-            "title": "2028 నాటికి ఏపీలో విద్యుత్‌ వినియోగం రెట్టింపు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybEtTRm04aTBud3NEUUMwZm5NWVhodzR1S3VWWUFFODQ0UnoybmRKR3ZwSWh3S1hDTzFGQkFqOVowc2F3UkJnODhfY2dHMUlETUFnZEpocmp4dEJ6d2hMMWU0dUd5WnMzY2V3aFYzSHJsUjhjVVNVVWlaWlDSAXxBVV95cUxQcmxLU0ZtOGkwbndzRFFDMGZuTVlYaHc0dUt1VllBRTg0NFJ6Mm5kSkd2cElod0tYQ08xRkJBajlaMHNhd1JCZzg4X2NnRzFJRE1BZ2RKaHJqeHRCendoTDFlNHVHeVpzM2Nld2hWM0hybFI4Y1VTVVVpWlpQ?oc=5",
+            "title": "నగరంలో వేడెక్కిన రాజకీయం.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbkVsWW41TVQwLXJjbDg4WFZrODBCS1NTdkc5cTl1STRvWlFWaThJQ0lqckNqaUszMXhQTVBUdVpzT3RzNzk5NEJLUEJDVDRYQXhmZ1lqYlYxRkRyeU9QY3FHcjVwWWdnSkptbjlDWl9JMTZmRzJ0ekgyS2g3a25kdQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-13T00:27:41+00:00"
+            "published": "2026-11-13T00:27:33+00:00"
           },
           {
             "title": "22న 5 జిల్లాల్లో పల్స్‌ పోలియో - Eenadu",
@@ -1133,27 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-13T00:25:26+00:00"
-          },
-          {
-            "title": "భారాస, కాంగ్రెస్‌లది చీకటి ఒప్పందం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UVWNUbnZsVmRjMjBLcjc2NzhaMnlJYW14aTNyRHRuOFk5VkF6NTIzTXMyb3Y2WEQ4Y2tPZ21NUkgtMlI4WVN3YkJsVHZUY3NxY1N3NV9NTHdnd1VKeXZXZW56TlphbmUxV1BCTWU0VUFzYmNMa2fSAXZBVV95cUxNVFVjVG52bFZkYzIwS3I3Njc4WjJ5SWFteGkzckR0bjhZOVZBejUyM01zMm92NlhEOGNrT2dtTVJILTJSOFlTd2JCbFR2VGNzcWNTdzVfTUx3Z3dVSnl2V2Vuek5aYW5lMVdQQk1lNFVBc2JjTGtn?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T00:24:56+00:00"
-          },
-          {
-            "title": "Amaravati: 23 పట్టణ స్థానిక సంస్థల్లో 26న పోలింగ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3NRcmFZcS03bUxQRnZzaUVqcWRnMzd5cV9oTndWOHBQN2NKQk8td3FvTlBXQTI2LWVJdVBCTXJDQWZBaUd6am1BUlVUczdRRDFrcFhNenRuZ2cwbkgxQThHaXpna0J2b0pBb3IzVDlabjhRTkhoMDlsbHhhTklFQk9fQ2llazlKR25PR1BZSkFjbkpsUkNGMkZQR0l4cTRNRU1GN3JmUlVYZzFSbWJ5OWNRLTRKS1RCQWwzMFpZSdIBvwFBVV95cUxQX3NRcmFZcS03bUxQRnZzaUVqcWRnMzd5cV9oTndWOHBQN2NKQk8td3FvTlBXQTI2LWVJdVBCTXJDQWZBaUd6am1BUlVUczdRRDFrcFhNenRuZ2cwbkgxQThHaXpna0J2b0pBb3IzVDlabjhRTkhoMDlsbHhhTklFQk9fQ2llazlKR25PR1BZSkFjbkpsUkNGMkZQR0l4cTRNRU1GN3JmUlVYZzFSbWJ5OWNRLTRKS1RCQWwzMFpZSQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T00:21:57+00:00"
-          },
-          {
-            "title": "6% దాటిన ద్రవ్యోల్బణం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFItcTFERnY4czZnUWNabjliQnYtRUZVd3ZuVjFWMjYxcHVxNXBOOTg4cnNmS1Z1MzZaNkItRjhDczg1TXpTZ29hQXhJSFpFVUZJc3NOYzk2S19NYkY1SFlzTjdTYUxrMWFZOUZudTBFa3NUNG84VU1Md2RnOVU1d3BINFlGcDJwQW1Nc3NlQ1A1OW1xMVg00gGXAUFVX3lxTFBoUi1xMURGdjhzNmdRY1puOWJCdi1FRlV3dm5WMVYyNjFwdXE1cE45ODhyc2ZLVnUzNlo2Qi1GOENzODVNelNnb2FBeElIWkVVRklzc05jOTZLX01iRjVIWXNON1NhTGsxYVk5Rm51MEVrc1Q0bzhVTUx3ZGc5VTV3cEg0WUZwMnBBbU1zc2VDUDU5bXExWDQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-13T00:19:53+00:00"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "অস্ত্র দেখিয়ে লুট টাকা, ফোন - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQemxlYkl0c25qUHBlVy1jN2tNYzVRZ3FONjBaUk9qbWpkOVdkc0JlS3dYWnZfNmh2NTBrYmtjMS1MM1h1MmpINklBcFVWMlQ4eVlNQ056UzNpVFFGdFpRX0tIckVlQkJ5NEwyWEFDVGpkbmhlejhRdzNORlZtNk11SE5vQ1Q5cDBYXzdHQ3VhMGlHcHpPUlE?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-13T00:43:39+00:00"
+          },
+          {
             "title": "বাসিন্দারাও যোগ দেবেন পরিবেশের পরিচ্ছন্নতায় - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQVlpJSlZzN20tYlRVb2JzY2RaTm44YTkxY2I0Mk9zUVVQZDlfQ3QtbHZKWTJVcGRpSGdsTURsZ1RDQnl6Q1lIenRSUlhEbDlVbXpoSk9VYTZBMjVkVlNqaURnY2czMDVqU1g2a0YyRXpvdzJfdDQ2NFhFSHlVNjVXRHl4ejNzSjdTZ0ZCS3N4RmhLQXEwaGhaWjdNQ3N4aGx5MDJ3b1NvNzRDYndYWnJJRDJDSkpyUGF4TzhMNkRTYmNteEdBU0poWUZOaFJ6bFlyNXNwcGk5cWFVVlNWaE50R1ZYV3Jscmd6NEJiU0Zzc3VUT3hlV2Fud3NlalRldzNBWU0xUWhWcFF5N1NVRXl0a3lpd3dYaXMxVnhOb3lCUjJXdzZhVnNsOGNR0gGqAkFVX3lxTFBWWklKVnM3bS1iVFVvYnNjZFpObjhhOTFjYjQyT3NRVVBkOV9DdC1sdkpZMlVwZGlIZ2xNRGxnVENCeXpDWUh6dFJSWERsOVVtemhKT1VhNkEyNWRWU2ppRGdjZzMwNWpTWDZrRjJFem93Ml90NDY0WEVIeVU2NVdEeXh6M3NKN1NnRkJLc3hGaEtBcTBoaFpaN01Dc3hobHkwMndvU283NENid1hacklEMkNKSnJQYXhPOEw2RFNiY214R0FTSmhZRk5oUnpsWXI1c3BwaTlxYVVWU1ZoTnRHVlhXcmxyZ3o0QmJTRnNzdVRPeGVXYW53c2VqVGV3M0FZTTFRaFZwUXk3U1VFeXRreWl3d1hpczFWeE5veUJSMld3NmFWc2w4Y1E?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-12T14:27:03+00:00"
-          },
-          {
-            "title": "‘রাজনৈতিক ষড়যন্ত্রের চাপেই মৃত্যু!’ উজ্জ্বল বিশ্বাসের শেষযাত্রায় ক্ষোভ অনুগামীদের, নবদ্বীপে শেষকৃত্য - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemZVeWY3UHh2R0ZmamxOMmlzeE96ZWRjcWY1WHdZTlhjUmZwak5mRVFhVmx2Qjg2UUxhRnZ4VzdZRl81MjNyNTRxSDRIY1Z4TUQyNVI1ZUhoZGEzSUNRb0w3cXQxb0dDNUQwTkxHd0xuMjFFU2h5LUs0T3pZb1pKbFdJRnJ5MDVpLUZkRFJXTFV4OEhwRXRxNDVZTmxNaVNzTnF3M3ZJY2FkYlRWem9STm5BSzVLZjVkUUJzbG1SX0dING1Td0VsaV9vNmdTeGViS1HSAdIBQVVfeXFMUHpmVXlmN1B4dkdGZmpsTjJpc3hPemVkY3FmNVh3WU5YY1JmcGpOZkVRYVZsdkI4NlFMYUZ2eFc3WUZfNTIzcjU0cUg0SGNWeE1EMjVSNWVIaGRhM0lDUW9MN3F0MW9HQzVEME5MR3dMbjIxRVNoeS1LNE96WW9aSmxXSUZyeTA1aS1GZERSV0xVeDhIcEV0cTQ1WU5sTWlTc05xdzN2SWNhZGJUVnpvUk5uQUs1S2Y1ZFFCc2xtUl9HSDRtU3dFbGlfbzZnU3hlYktR?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-12T14:25:30+00:00"
           }
         ]
       }
