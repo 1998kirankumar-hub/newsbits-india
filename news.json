@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-11-16T21:31:07.046668+00:00",
+  "updated_at": "2026-11-16T22:01:19.557286+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+            "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+            "published": "2026-11-16T21:40:07+00:00"
+          },
+          {
+            "title": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+            "link": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "source": "The Hindu",
+            "summary": "Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India",
+            "published": "2026-11-17T03:06:56+05:30"
+          },
+          {
+            "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+            "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.",
+            "published": "2026-11-16T21:35:51+00:00"
+          },
+          {
+            "title": "Gold price slides to one-year low, heads for worst year since 2015",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-price-slides-to-one-year-low-heads-for-worst-year-since-2015/articleshow/135902147.cms",
+            "source": "Economic Times",
+            "summary": "Gold prices have been declining due to increased Treasury yields and a stronger dollar affecting demand. The market anticipates tighter monetary policy, which is influencing gold’s performance negatively. Central banks initially showed strong demand for gold, but this may weaken now, particularly from Poland. While gold remained above $3,800 an ounce, volatility in equities has pressured investors.",
+            "published": "2026-11-17T02:57:41+05:30"
+          },
           {
             "title": "Voter or candidate has no right to get a seat reserved, says SC",
             "link": "https://timesofindia.indiatimes.com/india/voter-or-candidate-has-no-right-to-get-a-seat-reserved-says-sc/articleshow/135902149.cms",
@@ -74,37 +102,16 @@
             "source": "Al Jazeera",
             "summary": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
             "published": "2026-11-16T20:36:25+00:00"
-          },
-          {
-            "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
-            "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-            "published": "2026-11-16T20:33:57+00:00"
-          },
-          {
-            "title": "Major US Banks Face Widespread Service Outages: Report",
-            "link": "https://www.ndtv.com/world-news/major-us-banks-face-widespread-service-outages-report-12335941#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users as down or experiencing issues, according to the website downdetector.com.",
-            "published": "2026-11-17T02:03:22+05:30"
-          },
-          {
-            "title": "Farmer cuts 2,000ft row of neighbour's trees; Canadian court awards over $213k",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-farmer-cut-down-a-2000-foot-line-of-mature-trees-on-his-neighbours-40-acre-property-and-filled-a-drainage-ditch-a-court-ordered-him-to-pay-more-than-213000/articleshow/135878787.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-17T02:00:00+05:30"
-          },
-          {
-            "title": "Illinois couple's $7.5m award over baby's death in childbirth upheld on appeal",
-            "link": "https://timesofindia.indiatimes.com/world/us/an-illinois-couple-lost-their-baby-during-childbirth-in-2018-and-won-a-7-5-million-malpractice-verdict-against-a-hospital-and-medical-staff-on-november-13-appeals-judges-upheld-the-award-after-a-jury-dispute/articleshow/135857755.cms",
-            "source": "Times of India",
-            "summary": "In a significant ruling, an Illinois appeals court upheld a $7.5 million wrongful-death verdict for the Flores family, stemming from medical negligence during childbirth at Advocate Illinois Masonic Medical Center. The court confirmed that juror consensus on negligence and its consequences was sufficient, thus clarifying standards in medical negligence cases. This judgement offers solace to the Flores family and…",
-            "published": "2026-11-17T01:55:00+05:30"
           }
         ],
         "India": [
+          {
+            "title": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+            "link": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "source": "The Hindu",
+            "summary": "Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India",
+            "published": "2026-11-17T03:06:56+05:30"
+          },
           {
             "title": "Voter or candidate has no right to get a seat reserved, says SC",
             "link": "https://timesofindia.indiatimes.com/india/voter-or-candidate-has-no-right-to-get-a-seat-reserved-says-sc/articleshow/135902149.cms",
@@ -181,16 +188,23 @@
             "source": "The Hindu",
             "summary": "High Court Registry directed to place the matter before the Chief Justice to decide whether the case would be considered by the court trying MP/MLA cases, Prevention of Corruption Act, or as a PIL",
             "published": "2026-11-17T01:48:23+05:30"
-          },
-          {
-            "title": "3 US Aircraft Carriers Operating In Middle East",
-            "link": "https://www.ndtv.com/world-news/3-us-aircraft-carriers-operating-in-middle-east-12335914#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "The USS Theodore Roosevelt is operating in the Middle East, the US military said on Monday, bringing the number of American carrier strike groups in the region to three.",
-            "published": "2026-11-17T01:41:02+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+            "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+            "published": "2026-11-16T21:40:07+00:00"
+          },
+          {
+            "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+            "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.",
+            "published": "2026-11-16T21:35:51+00:00"
+          },
           {
             "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
@@ -227,7 +241,7 @@
             "published": "2026-11-16T20:36:25+00:00"
           },
           {
-            "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+            "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
             "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
             "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
@@ -260,23 +274,16 @@
             "source": "Al Jazeera",
             "summary": "Rivals call for investigation into reports that PM&#039;s office tried to frame Arab parties.",
             "published": "2026-11-16T20:00:07+00:00"
-          },
-          {
-            "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-            "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-            "published": "2026-11-16T19:30:30+00:00"
-          },
-          {
-            "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-            "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
-            "published": "2026-11-16T19:26:40+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Gold price slides to one-year low, heads for worst year since 2015",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-price-slides-to-one-year-low-heads-for-worst-year-since-2015/articleshow/135902147.cms",
+            "source": "Economic Times",
+            "summary": "Gold prices have been declining due to increased Treasury yields and a stronger dollar affecting demand. The market anticipates tighter monetary policy, which is influencing gold’s performance negatively. Central banks initially showed strong demand for gold, but this may weaken now, particularly from Poland. While gold remained above $3,800 an ounce, volatility in equities has pressured investors.",
+            "published": "2026-11-17T02:57:41+05:30"
+          },
           {
             "title": "Dow sinks 700 pts, Nasdaq over 2% as Huang exit fuels tech rout ahead of Nvidia Q3 earnings",
             "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sinks-700-pts-nasdaq-over-2-as-huang-exit-fuels-tech-rout-ahead-of-nvidia-q3-earnings/articleshow/135902033.cms",
@@ -311,13 +318,6 @@
             "source": "BBC Business",
             "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
             "published": "2026-11-16T15:40:16+00:00"
-          },
-          {
-            "title": "Sebi sets up panel to review key ICDR provisions covering IPOs, FPOs, QIPs",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-panel-to-review-key-icdr-provisions-covering-ipos-fpos-qips/articleshow/135893002.cms",
-            "source": "Economic Times",
-            "summary": "Sebi has formed an Ashish Chauhan-led sub-group to review IPO and fundraising regulations under the ICDR framework. The panel will simplify disclosures, rationalise procedures and improve capital market access while safeguarding investor protection and market integrity.",
-            "published": "2026-11-16T20:08:10+05:30"
           },
           {
             "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
@@ -550,11 +550,18 @@
             "published": "2026-11-16T18:22:22+00:00"
           },
           {
-            "title": "Emma Barnett to leave Radio 4's Today for new BBC Show",
+            "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
             "link": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
             "published": "2026-11-16T17:46:12+00:00"
+          },
+          {
+            "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
+            "link": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
+            "published": "2026-11-16T17:17:40+00:00"
           },
           {
             "title": "James Bond: What we know so far about the next 007 film",
@@ -611,13 +618,6 @@
             "source": "BBC Entertainment",
             "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
             "published": "2026-11-16T10:03:24+00:00"
-          },
-          {
-            "title": "Harry Potter films at 25: Behind-the-scenes quiz",
-            "link": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
-            "published": "2026-11-16T06:11:10+00:00"
           }
         ]
       }
@@ -1072,11 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Tamilanadu: రైళ్లలోంచి దూకిన ఇద్దరు ప్రయాణికులు.. ఒకరి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVB3NFRaR09IaGt3NWNxVTU5cjVGMHpTUC16Wl9tQV8xcjBkcGhKSmRzb09ZTlNiQnZ0WXVweUFRSV90SGZEVlpJcjQ3blZ6bC1jTXdEYXN0Vl9wQzdtNUpxNXRIX3J6SmQxQl93WFNLNlE1MWoxR2NTaDB3d1IyZ0pVTEo5VGhKd3lHNHA1V2JsS3RDcU1fdURsbDdWVU1XN2VRSA?oc=5",
+            "title": "ఛఠ్‌ భక్తుల కోసం మెట్రో సేవలు ముందుగానే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jWTU4V2Y3NlZFZU1XbWtVT28tWDNDQkt4YmFsMUJfeTlTLXNkNU5VOWlrdVJaSnNZeVI1UDJzTzlkelhTNEhSQjNObUtwQnNxZTZZZUl6blJaYjR6eWJzXzZvTFpKVGVCYlFUeExDR3A4VTB3X3J4aQ?oc=5",
             "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-16T20:34:33+00:00"
+            "published": "2026-11-16T21:08:30+00:00"
           },
           {
             "title": "పుస్తకానికీ ఒక అడ్రస్‌ - Eenadu",
@@ -1135,6 +1135,13 @@
             "published": "2026-11-16T19:18:30+00:00"
           },
           {
+            "title": "టెక్నికల్‌ అసిస్టెంట్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zQ0huX0Q2Ukdua28xOUlKekpuOEtJenVINUlOMW14dVgxWEl3QThnTk9TYVRXU1NjbWdOclU5cDg3MnFHRmpoOVhlWGRfUkVfOUV5QTJ6YWU2VFREUnNPYWxhemV2UlVybXhSZm05MTBqcjNXdjltRUlR0gF6QVVfeXFMTTNDSG5fRDZSR25rbzE5SUp6Sm44S0l6dUg1SU4xbXh1WDFYSXdBOGdOT1NhVFdTU2NtZ05yVTlwODcycUdGamg5WGVYZF9SRV85RXlBMnphZTZUVERSc09hbGF6ZXZSVXJteFJmbTkxMGpyM1d2OW1FSVE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-16T19:17:07+00:00"
+          },
+          {
             "title": "కంటి చుక్కల మందు నెలలోపేనా? - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSGNBUm5XZjZQcE9kdGN1YXFaVW5NNG0wV1F4NTB1clVsRm9yVE52Z0dPVzJxWEFVel9QdG11VFNmNVVWc25zbGhsS2pJUlRHZGNkRmw0MkY4SUt3X1Bvd2tfM0VkdmU0RnVnM0d2bGZpZHRJNWfSAXZBVV95cUxQRkhjQVJuV2Y2UHBPZHRjdWFxWlVuTTRtMFdReDUwdXJVbEZvclROdmdHT1cycVhBVXpfUHRtdVRTZjVVVnNuc2xobEtqSVJUR2RjZEZsNDJGOElLd19Qb3drXzNFZHZlNEZ1ZzNHdmxmaWR0STVn?oc=5",
             "source": "Eenadu",
@@ -1147,13 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-16T18:59:00+00:00"
-          },
-          {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (17/11/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDF5WGFUVlJrekpRdkdEVjVxc04wcklSeXREOHpycEZSNHpBWFVhbzYtV054aXhSNi1yQW8ycEt2V2ItaDZlV1lETWNLUmc1eF9rTWFIZzY4TjVCV0U0cHQzRm9DZmhYSWpIV2ZfaWcwbWVLY0ljZjRXSDlJRV9ad2RFUDI1VUlfaEpzOEJoNlV2VTNlc3l0OC04b19NSXV2bmx0SGZhSkNzTXhBNkJCYXR30gGyAUFVX3lxTE10MXlYYVRWUmt6SlF2R0RWNXFzTjBySVJ5dEQ4enJwRlI0ekFYVWFvNi1XTnhpeFI2LXJBbzJwS3ZXYi1oNmVXWURNY0tSZzV4X2tNYUhnNjhONUJXRTRwdDNGb0NmaFhJakhXZl9pZzBtZUtjSWNmNFdIOUlFX1p3ZEVQMjVVSV9oSnM4Qmg2VXZVM2VzeXQ4LThvX01JdXZubHRIZmFKQ3NNeEE2QkJhdHc?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-16T18:32:12+00:00"
           }
         ],
         "Entertainment": [
@@ -1461,11 +1461,25 @@
             "published": "2026-11-16T12:50:32+00:00"
           },
           {
+            "title": "শাহরুখ-কাজলের সুপারহিট ছবির গানে মাতলেন ভিন্‌দেশি ঠাকুরদা-নাতনি! মন ভাল করা ভিডিয়ো ভাইরাল - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVFFV05IOTZyb0dYLTBKemxLSkctNXhrbnRFSDh2R2syQVlCSThrSU5tQU51Mjd1MzBid1o5XzJ4S3pud2VrV2pVRFl3enJleFhKT3c3NHE1VlBVQUlfVHBKMm0zc21hUUl3V0RMVVY5bmdMU3VfNzhmeEJnVnhWLXhIdi14a2M1VlBCaWMzc0xjQnFURk1uSDBrSTZYQVhMWTdURS1jREJnbUlDZWlSSDF0dlZ6WC1QcjVqTHFFaDJfWEJOb013Smc1a9IB0AFBVV95cUxNcU5jV0RYcFZHS1dmY29fWXdhWVJQeEJQZ3kxeUxycWhBUnhKVnYyTUtXY0w0dVMxRm1Yc3puaGJ3SWRCWHN2ckFhV3psU1M2RkNod2wyUWNTVVY0WlU2UE1QQzl2cUpvX19zQ2dLSWItT3RVYVlUY1E4UzFwMnd2bjV3QXZ2Q1g5RlZfQlJVb283a1R2ZnBCNmctR3VFbXNzQS1VR3FDSkpIMHU4dGdCX2d1WkQ4dDRPQUd2SGxRVzFpS1JNeWRjS1ByZzIxdEJZ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T12:21:45+00:00"
+          },
+          {
             "title": "ম্যাচ সরিয়ে দিলজীতের কনসার্ট যুবভারতীতে, ‘ফুটবল নিয়ে আপস করা হল’, বলছেন সমর্থকেরা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFR2aXRfZUlmYV9SdElvNmxULWxvdXNYWlhzRXlBRlNUSm04MzdRQUp3bGtIeW1hYnR1WXZZaG0wcFh2WUxKaFlYRzBocVpYaDBzdkIyb2VkWFk4TUh6VDFTOVVmTF91bkYtem53X2xDOW5BVzFkUWhWUjFhLTBweDl3Z1VmWDRTeUNkQldFSzJZc2V6QU0xTzNKMXpQME9FeWxjaThkUm1FUmFpcVU2ZEdTWEhqcWU2U1NnRzAyd1poX2xFZW9yYS1wN2d6QVE?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-16T12:03:00+00:00"
+          },
+          {
+            "title": "২৯ বলে ৮২! কলকাতায় মুস্তাক আলিতে ফের দাপট সূর্যের, আইপিএল রিটেনশনের আগের দিন ১৩ ছক্কায় দাপট পাটীদারের, খেলল না বৈভব - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHdVM05fUUg2bjBUWlpEcTY0Nng0OHRFS1BuWWhKQ1lWU1VwaXZUcWpfVEluNlpYVjIzUV9oWWk0eTJQVGhaUllzbVg0ZTJKWVgwX0RaRTR4UXdGU1RJMnJweTAtSERQNlJNQzIyMVNnQVFjaFVLS3FnbTk4eUIxM2N5UVRYWjNIRnhSNVV6V1hhWnlFMUs3eGVKRENlM3JKQzRQdWpYYy10d01jc2tSQXhnX3Y5YVE2ZFR4VjBBSkxvLXIwbFlIN3ZaMFVyelHSAdQBQVVfeXFMUC1oREhlYXRCOHYzM09aMHRRSEd3eXFNZmtmVkM2ZHNqMElEVzdDMGdvd24wTklXellLX1V6M0xpMkNrUE1TZlRqUk1OT0JQeE5OUmlocEVCell5ZlctRzlDVTRjZVlPbXhjc21DRFZDcTh2VzdCOWdwcl80V3pvU3ZfMjZENUx1NTAwRFprT0F4NzBna3hwdnZzRDNRUDdlMHBnN1ZTTURZWnJ6cFJuSl9xYzQ1bGxfWVh5MTJDT2IxSXFma25ZekgyZ3VWLWI4SXRpMTY?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T11:45:14+00:00"
           },
           {
             "title": "গোপালগঞ্জে পরিস্থিতি থমথমে, জনমনে আতঙ্ক",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-16T07:29:49+00:00"
-          },
-          {
-            "title": "নভেম্বর রেইন: তিন দশক পরও জনপ্রিয় যে গান, কীভাবে তৈরি হয়েছিল এটি?",
-            "link": "https://www.bbc.com/bengali/articles/c5742lkl0r83o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-16T06:54:37+00:00"
-          },
-          {
-            "title": "আবার আইসিসি-র চেয়ারম্যান জয় শাহ, বিনা প্রতিদ্বন্দ্বিতায় দ্বিতীয় বার ক্রিকেটের শীর্ষপদে ভারতীয় প্রশাসক - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUQzdm1YVWl5Mi1HR25lek80dTBMSHNPSDUwQWo1RXhxT011eTl5dktkOFF3c0NUbmNfdWQ1ZmFfdjkxamNqbUJyMDZ1MmtUWF8yWGRCM0g1bkw4aHBNd1FfcDQ2Y3dhWi1SLTJ3UGtiQTdEWWVoUmxmYzZiVlNmM0kwaEYtdk96Z3NJMjRpRXlpVDVadkJvSUthbDh6UERoNHZGcnhxMUjSAa4BQVVfeXFMTVU0WGpOMWdiZHZNTFZqMDRHYWpLc3JCSENjZTJ3WUJRbk5sMmZ3bmt5Zm9XVTJsRk5BRTFZNTRaQ3RnX3FJZ2EzN293cDVhRl9ES2ZZNnF6aEZZUkFST2pOZl9PWEtCOUsyaFpaTTJUUlFMcV9VdWl4WFhKYmJNcHJ5cFFSX2hBakpndGxEOFNnYUt5UFZSVlpzanhYbEtwaGY5TFdnWlF4RmtRak5B?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-16T06:07:05+00:00"
           }
         ]
       }
