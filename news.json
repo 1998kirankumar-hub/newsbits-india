@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-11-16T01:01:25.974738+00:00",
+  "updated_at": "2026-11-16T01:31:05.428998+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+            "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+            "published": "2026-11-16T01:05:44+00:00"
+          },
+          {
+            "title": "Amazon loses 40 Leo satellites as ULA's Vulcan rocket fails minutes after launch",
+            "link": "https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms",
+            "source": "Times of India",
+            "summary": "Amazon's planned launch of 40 satellites for its Leo internet network failed after the Vulcan rocket malfunctioned. The Vulcan rocket, operated by United Launch Alliance, experienced an anomaly 10 minutes after liftoff. This failure poses a setback for Amazon's satellite internet plans, which aim to compete with Elon Musk's Starlink. Amazon has also invested in other launch options including Blue Origin's New Glenn…",
+            "published": "2026-11-16T06:35:24+05:30"
+          },
+          {
+            "title": "Banks propose alternative plan to soften bond revaluation blow",
+            "link": "https://economictimes.indiatimes.com/markets/bonds/banks-propose-alternative-plan-to-soften-bond-revaluation-blow/articleshow/135869033.cms",
+            "source": "Economic Times",
+            "summary": "In an effort to adapt to shifting market dynamics, several banks in India are considering a yield-based accounting approach for held to maturity bonds. This strategy, proposed by FIMMDA, seeks to counteract potential valuation rule impacts and prevent immediate balance sheet losses that could adversely affect lending capacity. Traditional straight-line accounting methods would risk bank reserves, prompting ongoing…",
+            "published": "2026-11-16T06:32:48+05:30"
+          },
+          {
+            "title": "'I should've never bought': Faf reveals why Kohli is his most expensive relationship",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-should-have-never-ever-bought-faf-du-plessis-reveals-why-virat-kohli-is-the-most-expensive-relationship-of-his-life/articleshow/135868931.cms",
+            "source": "Times of India",
+            "summary": "Faf du Plessis revealed how Virat Kohli backed him unconditionally during his three-year stint as RCB captain from 2022 to 2024, despite the pressure of succeeding the Indian star. The two developed a close friendship, but Kohli also introduced du Plessis to luxury watches, prompting him to joke that Kohli was the “most expensive relationship” of his life.",
+            "published": "2026-11-16T06:30:46+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks subdued as US futures gain; Nvidia earnings, Fed minutes in focus",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-subdued-as-us-futures-gain-nvidia-earnings-fed-minutes-in-focus/articleshow/135868964.cms",
+            "source": "Economic Times",
+            "summary": "Contracts for the Nasdaq 100 rose 0.5%, while S&P 500 futures gained 0.2% after both underlying benchmarks capped a second straight day of losses on Friday. MSCI Inc.’s gauge of Asian shares inched lower. Global benchmark Brent crude traded around $95.50 a barrel after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
+            "published": "2026-11-16T06:27:35+05:30"
+          },
+          {
+            "title": "Tata Motors PV's domestic business shines, but JLR weakness clouds growth outlook",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-posts-record-q2-volumes-but-margins-remain-under-pressure/articleshow/135868942.cms",
+            "source": "Economic Times",
+            "summary": "Tata Motors Passenger Vehicles achieved record volumes and revenue in the September 2026 quarter. Electric vehicle demand surged 90% year-on-year, driving strong sales growth, despite profitability pressures. Analysts have downgraded the stock due to increased commodity costs and margin issues in the UK business. The company's Jaguar Land Rover faces challenges amid weak demand in China, impacting its operating…",
+            "published": "2026-11-16T06:25:34+05:30"
+          },
+          {
+            "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+            "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+            "published": "2026-11-16T00:51:23+00:00"
+          },
+          {
             "title": "Black Friday and tax return scams - don't fall for these",
             "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
             "published": "2026-11-16T00:50:39+00:00"
+          },
+          {
+            "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+            "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+            "published": "2026-11-16T00:45:48+00:00"
           },
           {
             "title": "'Not Cuba or Venezuela': Iran warns it will not wait for US attack before responding",
@@ -46,65 +102,23 @@
             "source": "Al Jazeera",
             "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
             "published": "2026-11-16T00:26:32+00:00"
-          },
-          {
-            "title": "Nifty may consolidate before next leg of rally: Analysts",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rally-running-out-of-steam-analysts-decode-key-levels/articleshow/135868792.cms",
-            "source": "Economic Times",
-            "summary": "Nifty is displaying potential exhaustion following a significant rally which may lead to consolidation. Analysts highlight key resistance and support levels which may influence buying opportunities. Recommended strategies include cautious positions and purchasing on dips near critical support zones. Key stocks such as Indus Towers and APL Apollo are also suggested for investment. Observing market movements and…",
-            "published": "2026-11-16T05:54:02+05:30"
-          },
-          {
-            "title": "Russia's mega-rich are already imagining a future after Putin",
-            "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-            "published": "2026-11-16T00:13:14+00:00"
-          },
-          {
-            "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
-            "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
-            "published": "2026-11-16T00:04:28+00:00"
-          },
-          {
-            "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-            "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-            "published": "2026-11-16T00:03:29+00:00"
-          },
-          {
-            "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
-            "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM&#039;s office.",
-            "published": "2026-11-16T00:01:45+00:00"
-          },
-          {
-            "title": "Iran war live: Tehran warns it may strike first before another US attack",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
-            "published": "2026-11-16T00:00:00+00:00"
-          },
-          {
-            "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-            "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-            "published": "2026-11-15T23:52:10+00:00"
-          },
-          {
-            "title": "Brawl erupts in Brazil’s Women’s League final",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A fist fight erupted between opposing players during the final of Brazil&#039;s under-20 Women’s League.",
-            "published": "2026-11-15T23:46:37+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Amazon loses 40 Leo satellites as ULA's Vulcan rocket fails minutes after launch",
+            "link": "https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms",
+            "source": "Times of India",
+            "summary": "Amazon's planned launch of 40 satellites for its Leo internet network failed after the Vulcan rocket malfunctioned. The Vulcan rocket, operated by United Launch Alliance, experienced an anomaly 10 minutes after liftoff. This failure poses a setback for Amazon's satellite internet plans, which aim to compete with Elon Musk's Starlink. Amazon has also invested in other launch options including Blue Origin's New Glenn…",
+            "published": "2026-11-16T06:35:24+05:30"
+          },
+          {
+            "title": "'I should've never bought': Faf reveals why Kohli is his most expensive relationship",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-should-have-never-ever-bought-faf-du-plessis-reveals-why-virat-kohli-is-the-most-expensive-relationship-of-his-life/articleshow/135868931.cms",
+            "source": "Times of India",
+            "summary": "Faf du Plessis revealed how Virat Kohli backed him unconditionally during his three-year stint as RCB captain from 2022 to 2024, despite the pressure of succeeding the Indian star. The two developed a close friendship, but Kohli also introduced du Plessis to luxury watches, prompting him to joke that Kohli was the “most expensive relationship” of his life.",
+            "published": "2026-11-16T06:30:46+05:30"
+          },
           {
             "title": "'Not Cuba or Venezuela': Iran warns it will not wait for US attack before responding",
             "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-is-not-cuba-or-venezuela-tehran-warns-it-will-not-wait-for-us-attack-before-responding/articleshow/135868860.cms",
@@ -174,23 +188,30 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-16T03:05:43+05:30"
-          },
-          {
-            "title": "Ed Kelce backed sons’ sports dreams; sacrifices helped them reach NFL",
-            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/ed-kelces-love-and-sacrifices-shaped-jason-and-travis-kelces-nfl-journey-but-his-greatest-legacy-lies-in-the-love-that-held-their-family-together/articleshow/135864841.cms",
-            "source": "Times of India",
-            "summary": "Ed Kelce supported Jason and Travis from their childhood sporting days to their NFL careers. He coached them, helped manage their busy schedules and made sacrifices alongside Donna. Even when his marriage faced difficulties, he continued putting his sons first. His support remained strong after their success, including when the brothers faced each other in Super Bowl LVII.",
-            "published": "2026-11-16T03:00:00+05:30"
-          },
-          {
-            "title": "Prince William, Princess Kate to meet PM Modi in New Delhi this week",
-            "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece",
-            "source": "The Hindu",
-            "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize ceremony; the visit will include an event focused on gully cricket and an engagement with the film industry",
-            "published": "2026-11-16T02:40:22+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+            "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+            "published": "2026-11-16T01:05:44+00:00"
+          },
+          {
+            "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+            "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+            "published": "2026-11-16T00:51:23+00:00"
+          },
+          {
+            "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+            "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+            "published": "2026-11-16T00:45:48+00:00"
+          },
           {
             "title": "Czechs rally against gov’t threat to media independence",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
@@ -253,30 +274,30 @@
             "source": "BBC World",
             "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
             "published": "2026-11-15T22:57:27+00:00"
-          },
-          {
-            "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
-            "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
-            "published": "2026-11-15T22:40:01+00:00"
-          },
-          {
-            "title": "Police ban protests near 10 schools and five universities in Paris",
-            "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-            "published": "2026-11-15T22:28:54+00:00"
-          },
-          {
-            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-            "published": "2026-11-15T22:24:20+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Banks propose alternative plan to soften bond revaluation blow",
+            "link": "https://economictimes.indiatimes.com/markets/bonds/banks-propose-alternative-plan-to-soften-bond-revaluation-blow/articleshow/135869033.cms",
+            "source": "Economic Times",
+            "summary": "In an effort to adapt to shifting market dynamics, several banks in India are considering a yield-based accounting approach for held to maturity bonds. This strategy, proposed by FIMMDA, seeks to counteract potential valuation rule impacts and prevent immediate balance sheet losses that could adversely affect lending capacity. Traditional straight-line accounting methods would risk bank reserves, prompting ongoing…",
+            "published": "2026-11-16T06:32:48+05:30"
+          },
+          {
+            "title": "Global Market Today: Asian stocks subdued as US futures gain; Nvidia earnings, Fed minutes in focus",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-subdued-as-us-futures-gain-nvidia-earnings-fed-minutes-in-focus/articleshow/135868964.cms",
+            "source": "Economic Times",
+            "summary": "Contracts for the Nasdaq 100 rose 0.5%, while S&P 500 futures gained 0.2% after both underlying benchmarks capped a second straight day of losses on Friday. MSCI Inc.’s gauge of Asian shares inched lower. Global benchmark Brent crude traded around $95.50 a barrel after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
+            "published": "2026-11-16T06:27:35+05:30"
+          },
+          {
+            "title": "Tata Motors PV's domestic business shines, but JLR weakness clouds growth outlook",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-posts-record-q2-volumes-but-margins-remain-under-pressure/articleshow/135868942.cms",
+            "source": "Economic Times",
+            "summary": "Tata Motors Passenger Vehicles achieved record volumes and revenue in the September 2026 quarter. Electric vehicle demand surged 90% year-on-year, driving strong sales growth, despite profitability pressures. Analysts have downgraded the stock due to increased commodity costs and margin issues in the UK business. The company's Jaguar Land Rover faces challenges amid weak demand in China, impacting its operating…",
+            "published": "2026-11-16T06:25:34+05:30"
+          },
           {
             "title": "Black Friday and tax return scams - don't fall for these",
             "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
@@ -320,13 +341,6 @@
             "published": "2026-11-15T22:00:24+00:00"
           },
           {
-            "title": "Peak repo rate pegged lower at 6%, December hike on",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/peak-repo-rate-pegged-lower-at-6-december-hike-on/articleshow/135868929.cms",
-            "source": "Economic Times",
-            "summary": "Most economists expect the terminal, or peak, repo rate at 6%, reversing earlier projections of 6.25%. While some still see the possibility of the policy rate rising to 6.25%, they consider it a low-probability outcome that would depend entirely on incoming data.",
-            "published": "2026-11-16T00:30:02+05:30"
-          },
-          {
             "title": "Minister backs legal right to job support for young people",
             "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -334,25 +348,11 @@
             "published": "2026-11-15T13:06:15+00:00"
           },
           {
-            "title": "Crypto’s slow-motion selloff leaves traders weary and hopeless",
-            "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-slow-motion-selloff-leaves-traders-weary-and-hopeless/articleshow/135852690.cms",
+            "title": "IPO-bound Muthoot Fincorp doubles Q2 profit to Rs 779 crore, bucks trend of rising bad loans",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ipo-bound-muthoot-fincorp-doubles-q2-profit-to-rs-779-crore-bucks-trend-of-rising-bad-loans/articleshow/135869162.cms",
             "source": "Economic Times",
-            "summary": "Bitcoin's prolonged selloff is testing investor confidence as ETF outflows, rising Treasury yields, a stronger dollar and crypto-specific setbacks weigh on demand. Competition from AI investments and Anthropic's upcoming IPO is adding to pressure, leaving the near-term outlook uncertain.",
-            "published": "2026-11-15T15:33:53+05:30"
-          },
-          {
-            "title": "IPO Calendar: 3 issues to raise over Rs 10,000 crore",
-            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-mahanadi-coalfields-among-3-companies-to-raise-over-rs-10000-cr-in-busy-week-for-primary-market/articleshow/135848817.cms",
-            "source": "Economic Times",
-            "summary": "The primary market is gearing up for a busy week, with two mainboard IPOs and one SME issue set to open between November 18 and 19. Together, the three offerings are looking to raise over Rs 10,000 crore.",
-            "published": "2026-11-15T12:00:59+05:30"
-          },
-          {
-            "title": "9 new funds to launch for subscription this week",
-            "link": "https://economictimes.indiatimes.com/mf/analysis/mutual-fund-nfos-9-new-funds-will-open-for-subscription-this-week-7-open-on-monday/slideshow/135848397.cms",
-            "source": "Economic Times",
-            "summary": "Nine new fund offerings are set to open for subscription this week, including eight mutual funds and one specialised investment fund (SIF). The launches span passive, thematic, contra and hybrid strategies, with minimum investments starting at Rs 100.",
-            "published": "2026-11-15T11:04:12+05:30"
+            "summary": "Muthoot Fincorp doubled its second-quarter net profit to Rs 779 crore from Rs 388 crore a year earlier, while its gross bad-loan ratio improved to 1.07% despite rising stress across the sector. The gold loan lender, which filed for a Rs 3,000 crore IPO in August, also raised provisions during the quarter to cover credit risks.",
+            "published": "2026-11-15T14:19:27+05:30"
           },
           {
             "title": "Beauty advent calendars can cost hundreds but are they value for money?",
@@ -669,7 +669,7 @@
             "published": "2026-11-16T05:14:00+05:30"
           },
           {
-            "title": "उगते सूर्य को अर्घ्य पूरा हुआ छठ पर्व:मोतिहारी जेल में 140 कैदियों के लिए बना छठ घाट; वॉशिंगटन में पोटोमैक नदी किनारे हुआ पूजन",
+            "title": "उगते सूर्य को अर्घ्य, पूरा हुआ छठ पर्व:मोतिहारी जेल में 140 कैदियों के लिए बना विशेष घाट; वॉशिंगटन में पोटोमैक नदी किनारे हुआ पूजन",
             "link": "https://www.bhaskar.com/g/national/news/chhath-puja-live-delhi-up-bihar-usa-ghat-sun-arghya-celebration-139700701.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -1072,25 +1072,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Air purifiers: నగరాల్లో ఎయిర్‌ ప్యూరిఫైయర్లకు గిరాకీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUFja3MyUWhhQm8xaUZRSkdDTmNYd21jbDljMG9HdmRCU3duX1hDUnNrZnhNNUQ2NlNGb1pJcEV3QW9HN2ZscXVjaEFxZHBvTFg3Nk9hckRNeTRNRFEzeHJici1NdHJ2SEhpUjBrbjQ5azVRTk5faUlJc1JHS3NzWmU4bG5IaDJNZDhCZ2RRNko4RFczS3dmWNIBmAFBVV95cUxPQUFja3MyUWhhQm8xaUZRSkdDTmNYd21jbDljMG9HdmRCU3duX1hDUnNrZnhNNUQ2NlNGb1pJcEV3QW9HN2ZscXVjaEFxZHBvTFg3Nk9hckRNeTRNRFEzeHJici1NdHJ2SEhpUjBrbjQ5azVRTk5faUlJc1JHS3NzWmU4bG5IaDJNZDhCZ2RRNko4RFczS3dmWA?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-16T00:49:58+00:00"
-          },
-          {
             "title": "బ్రేకుల్లో లోపంతోనే రైలు 463 కి.మీ. పరుగు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92eVptZkRxVUtadW9ETUsxN0tEWE5ySkpDV2pVSzFrMEZJSHM1NTFzTFQ4bFlZU2xtbkRtQy1QVE1GRGhhbVpOdENnY0p6SGFJRGtYZHN3Q2ZuNktRWEpLeUhkRzNLREJmWFBadzJsX1DSAXBBVV95cUxPdnlabWZEcVVLWnVvRE1LMTdLRFhOckpKQ1dqVUsxazBGSUhzNTUxc0xUOGxZWVNsbW5EbUMtUFRNRkRoYW1aTnRDZ2NKekhhSURrWGRzd0NmbjZLUVhKS3lIZEczS0RCZlhQWncybF9Q?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-16T00:48:05+00:00"
-          },
-          {
-            "title": "‘ఫలిస్తున్న’ ఉత్పత్తి ఆధారిత ప్రోత్సాహక పథకం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUXZ3Ukp2Q0lnVFZsWnlaQjJEM3JpRFNJUnVvX19lOXlidGJ5alVlb3ppN2lvOGFvWUs4SzJsNTFqa2s1b05WTFhvdkkxQ3FrVHFkTmZxR1dqRXVRa01LcFRweE9wZWlDeDhZQW1pRETSAXBBVV95cUxQQ1F2d1JKdkNJZ1RWbFp5WkIyRDNyaURTSVJ1b19fZTl5YnRieWpVZW96aTdpbzhhb1lLOEsybDUxamtrNW9OVkxYb3ZJMUNxa1RxZE5mcUdXakV1UWtNS3BUcHhPcGVpQ3g4WUFtaURE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-16T00:47:37+00:00"
           },
           {
             "title": "Haryana: డేటింగ్‌ యాప్‌లో లవ్వు.. నిజం తెలిసి కెవ్వు - Eenadu",
@@ -1154,6 +1140,20 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-16T00:18:03+00:00"
+          },
+          {
+            "title": "తొలిరోజు 590 నామినేషన్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZTM3QTJnMzhxajFLQlQ1UWFoUmZha29naV9pbV81dklCZGU0MU5LUVV5SE5YVzZrdkt3NWV6dGdjbVJpMlE2Zlo2bkREVFZONmsyRF9mVmtiaFlXZXc1a0EyWk0wanB1UWRzc2hsMXhfLVk5X0dlbXZQQQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-15T23:53:09+00:00"
+          },
+          {
+            "title": "దోమలకు పొగబెట్టే.. మినీ గన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSzJjNzktcHM3ODZHQUoyVlNXNUF3cnZ4UmJPbXpweVdvVUJTb1J2T3J4WlBNd016RXBYUmFqdWtuYlBFY0ttQ0hvOFJ4ckxnb3FtQXVuNFYxYWhwOHlVeDFFazZMcWE2T1duRXFseWpSYTlhT1HSAXZBVV95cUxOQUsyYzc5LXBzNzg2R0FKMlZTVzVBd3J2eFJiT216cHlXb1VCU29Sdk9yeFpQTXdNekVwWFJhanVrbmJQRWNLbUNIbzhSeHJMZ29xbUF1bjRWMWFocDh5VXgxRWs2THFhNk9XbkVxbHlqUmE5YU9R?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-15T23:50:06+00:00"
           }
         ],
         "Entertainment": [
@@ -1475,6 +1475,13 @@
             "published": "2026-11-15T19:28:39+00:00"
           },
           {
+            "title": "শিলাবৃষ্টিতে ফসলের ক্ষতি হলে ক্ষতিপূরণ পেতে জানাতে হবে ৭২ ঘণ্টার মধ্যে, নির্দেশ কৃষি দফতরের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOXliSkg5empaNjJsVVJZS3dZdmQwM0xUTlpkTVAzM1l1aHR4Qi0wc1FvdGkwM3FvbDhQS1VlelpWWUhXbG9qN1JGcHhPbU4xVU1oWDRLLTIwUTg3ZkN2d1Rxa0hkOXItMi1zcnRfb1E5ZFh5MW9HZEZldGJwbDlXN3FFZGVJYkd3Vm1EYVo1RkVpb3NSS1VhNW1BVFdEOWpfODIxWGpwT3owMDNSOVJaTTUtY2k0Q3VKS3hiV3hWUkpXOE85VHN0eHExeXpPVmUyVGU5NFRSbVJoNk1UNl82U2drSUFjdXR4SXNaR3RWTmFJeldjdFNrUTc0NEt4Rmcy0gGGAkFVX3lxTE0tNTROUGhjTG5VbXNCdVRkZG8xaFRBempYVWgtalRGS2tYX3BnQTN1TklUMlB0eTdBckRNY1B5NWo1bDk2WDh1eW5rSFZZRUN6bGU4NGROVDVBUGZXMmJGeEs5MUh0bXN0REV5S1dUTVl3NWhPVm5GRnFETEV1SnpCT01STGZNUm12M2xWM3lNYXZISlZ0cDZ1UTdLSEFtb1U1bnA4MEpyMFRLUVhYcmZYc1BiUHFsaXRKcjNDRldNeUQ3VG5DdXJmQWpsZEhlWWpPOU0ySEJYaEdIcFF5cWZ4TnBBM1hjRFhTelFmNlF2QWhpZXptQm9JSjd3ek9haFNCeE02UHc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-15T19:10:44+00:00"
+          },
+          {
             "title": "ক্রিকেটে আবার তালিবানি ফতোয়া, আফগানিস্তানে বন্ধ করে দেওয়া হল রেডিয়োয় ম্যাচের ধারাভাষ্য - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzc4djBZZGVtdHNheFZ6UklHeVJERkowQWk3Vnp3c01zUTgtcmZvZEV3R3JpTzllMEkxbW5VNWlqdkgyQUE4cmFKaS1aTXhOMk5PS1lLSXY5TlZaZU9GdG1RYmltV2k3a0Nkb20xb0RDeUhwZGh4Ym1zcVdMMmh0NFlOYzA1WHlSYS1feHJDZHBhU2VYYmlXYUd3QXUzR2phcnBXb3FCMDR3OHpobXdNVkhn0gG3AUFVX3lxTE8tYnEwODBCSXV4VHZKZDlYbzVPQlg0TGlsYTVtam9ZRjBjMF9waGczUmZSaHRiQXpfY3RWMHkxNlJIYzg0RnA4aDdjOVhkWlVkZFg3SEtmSWw2SUNMRmtoZ1hQTlU0MFRMMlg5TmFQTlFRUkhIZ0hZX2RMSU0xSjRRMm1mR2JsSExXYU0teEpFZHlzLVhtS2JkaU5GbGx3S1AtSjQ0dzExNEJBMEk0VFpMcGpLbHJaUQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1489,25 +1496,18 @@
             "published": "2026-11-15T14:40:06+00:00"
           },
           {
+            "title": "আবার গম্ভীরের উল্টো কথা শ্রেয়সের মুখে! নিউ জ়িল্যান্ডের পরিবেশ সাউথ আফ্রিকার মতো নয়, সাফ জবাব ভারত অধিনায়কের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHpQTnRhX0FCY1BmeUxZZGZXdnJiQmFaWU5Xd1d0WVA1b1A4N0g1V3pSV0E4R2N0bUI4bzdTNzhGSkk1M3VEVWk4N0xYbEVOcnI5OGFxM2lSUDQ3azAwa001ZGFER3pSSDQ2bXZaN3hsWnAtaV9MU2xIRWl3Um82MHJJYzdmZFpQck85QWM5NlU2NmdCU3BtMzVuaGtOQ0RfemVNUklnZWVFQXAwM1dSc1RoYnB4cmxlb2hycdIBvAFBVV95cUxQeHpQTnRhX0FCY1BmeUxZZGZXdnJiQmFaWU5Xd1d0WVA1b1A4N0g1V3pSV0E4R2N0bUI4bzdTNzhGSkk1M3VEVWk4N0xYbEVOcnI5OGFxM2lSUDQ3azAwa001ZGFER3pSSDQ2bXZaN3hsWnAtaV9MU2xIRWl3Um82MHJJYzdmZFpQck85QWM5NlU2NmdCU3BtMzVuaGtOQ0RfemVNUklnZWVFQXAwM1dSc1RoYnB4cmxlb2hycQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-15T14:32:08+00:00"
+          },
+          {
             "title": "আওয়ামী লীগের বিক্ষোভে উত্তাল গোপালগঞ্জ, সরিয়ে দেওয়া হলো ডিসি-এসপিকে",
             "link": "https://www.bbc.com/bengali/articles/c6vg2xz2wn70o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-15T13:37:38+00:00"
-          },
-          {
-            "title": "অবসরের পর ব্যবসায় মন রোনাল্ডোর! প্যারিসে ৬২৩ কোটি টাকা খরচ করে হোটেল খুলছেন পর্তুগালের প্রাক্তন অধিনায়ক - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0FOdFUzQ1M2WG9sMl95MUVrNHZ1SW9GWENlTWpKN2h2ZEx2ZTNZSGU5TW1ta2xtN292WFYyc3NJV3dZV2xzeF9iQzNrdHpIZmZVNmhzWWFpc3Rrd25yS2pSaGZ2cWhkalpiTnFleXFZYW5laUIwczk5WENvaEZQdnhxdmFEU2xDTkJUb01NeFFaRFRXYVRET0R2M3d5cTNDVG9LcTdlTmw0bGNPMmdlNjgyUlAtTkdGUWFlb2c5WjdBZkpNd1HSAcYBQVVfeXFMUE9BTnRVM0NTNlhvbDJfeTFFazR2dUlvRlhDZU1qSjdodmRMdmUzWUhlOU1tbWtsbTdvdlhWMnNzSVd3WVdsc3hfYkMza3R6SGZmVTZoc1lhaXN0a3ducktqUmhmdnFoZGpaYk5xZXlxWWFuZWlCMHM5OVhDb2hGUHZ4cXZhRFNsQ05CVG9NTXhRWkRUV2FURE9EdjN3eXEzQ1RvS3E3ZU5sNGxjTzJnZTY4MlJQLU5HRlFhZW9nOVo3QWZKTXdR?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-15T13:32:16+00:00"
-          },
-          {
-            "title": "আজকের দিন মীন রাশি- ১৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHFxdzQ0YzVNRVJfRWRoeEJkVlNweV9SQTFYaHRGQVhpdUtKM3MwX2lwUGp0d1BNSnl2YzNhQlZLcnFVdWRVdnFqSVhZQkVadDRPRTJpWUxvYmxpWmNUS0REWHRDc1I0ekhiN05YX3czUHVxSm8wbkRhdUlHNFBJOTZLalFDbVZyT19RZlM2RzV0UHpGT3ZwSHZnNmpPcURQeUMtRUc2SDNxWVNwYkHSAbMBQVVfeXFMUEh6allHWnk3Y3U3R3Q4em80Nmt2VWYtbFEyZHN2d0xzVUxtQ1RGVE5LRW1hS1BIc0lKTndNMndDR2dBZFNsN3ptU2kwUWJRRUtIX2JVdktNTkdBWHB5NzllWkJQRVdpWkhhRFlBVEhrdVRuQWdpLVg0OWxVV1JwOEo4aVMyYjV6SnZndEZqOVVDX1RpY2Q5N1ljb05RUm8ybXBHdEVHRnBCMi1iMmRRZ3YydTg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-15T12:31:34+00:00"
           }
         ]
       }
