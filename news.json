@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-11-17T00:01:18.552336+00:00",
+  "updated_at": "2026-11-17T00:31:06.278098+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Customers report service outages at major US banks",
+            "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+            "published": "2026-11-17T00:18:01+00:00"
+          },
+          {
+            "title": "Ties with Asean crucial for India's Act East Policy: PM",
+            "link": "https://timesofindia.indiatimes.com/india/ties-with-asean-crucial-for-indias-act-east-policy-pm/articleshow/135905979.cms",
+            "source": "Times of India",
+            "summary": "The meeting that will likely draw maximum attention in India and possibly Japan is the Quad leaders' summit - the first such meeting since Trump returned to the White House.",
+            "published": "2026-11-17T05:38:10+05:30"
+          },
+          {
+            "title": "3 Killed, 2 Injured As Car Falls Into Gorge In Himachal Pradesh",
+            "link": "https://www.ndtv.com/india-news/3-killed-2-injured-as-car-falls-into-gorge-in-himachal-pradeshs-rampur-12336167#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The incident occurred on Monday morning around 3 am when the driver lost control of the vehicle, causing it to fall into the gorge, according to preliminary reports.",
+            "published": "2026-11-17T05:33:40+05:30"
+          },
+          {
+            "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "published": "2026-11-17T00:00:03+00:00"
+          },
+          {
+            "title": "We couldn't afford a house alone, so we bought one with strangers",
+            "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+            "published": "2026-11-17T00:00:02+00:00"
+          },
+          {
+            "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+            "published": "2026-11-16T23:57:49+00:00"
+          },
+          {
+            "title": "United Airlines Resolves Technology Issue After Widespread Outage",
+            "link": "https://www.ndtv.com/world-news/united-airlines-resolves-technology-issue-after-widespread-outage-12336157#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Chicago-based United said in a statement that while some flights were delayed because of the issue Monday afternoon, flights that were in the air and flights on its United Express regional network were not impacted.",
+            "published": "2026-11-17T05:20:24+05:30"
+          },
+          {
             "title": "Tata Sons facing 'back-door takeover', warns Jimmy Tata",
             "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-facing-back-door-takeover-warns-jimmy-tata/articleshow/135905376.cms",
             "source": "Times of India",
             "summary": "Breaking his silence, Jimmy Tata, Ratan Tata's younger brother, has questioned developments that, in his view, could concentrate influence within a narrower group of trustees.",
             "published": "2026-11-17T05:17:13+05:30"
+          },
+          {
+            "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+            "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+            "published": "2026-11-16T23:44:32+00:00"
           },
           {
             "title": "Trump departs for ASEAN on summit with Xi and Putin",
@@ -20,7 +76,14 @@
             "published": "2026-11-16T23:42:03+00:00"
           },
           {
-            "title": "IBM in talks for 2 large projects in India: CEO Krishna",
+            "title": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being Hit By Firecracker",
+            "link": "https://www.ndtv.com/delhi-news/12-year-old-delhi-girl-loses-vision-in-one-eye-after-firecracker-hit-during-diwali-12336148#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The incident took place around 10.30 pm on November 8 in lane number 3 of Mukesh Nagar, when Jhanvi, a Class 7 student, was on her way to a grocery shop to buy household items, according to her family.",
+            "published": "2026-11-17T05:10:47+05:30"
+          },
+          {
+            "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
             "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
             "source": "Times of India",
             "summary": "IBM CEO Arvind Krishna remained upbeat on India, saying the company is expanding its footprint in the country and is hiring more.",
@@ -39,72 +102,30 @@
             "source": "The Hindu",
             "summary": "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach",
             "published": "2026-11-17T04:57:22+05:30"
-          },
-          {
-            "title": "Older ant colonies less likely to die, more likely to reproduce: 34-year study",
-            "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-tracked-3285-harvester-ant-colonies-for-34-years-and-found-the-opposite-of-ordinary-aging-older-colonies-were-less-likely-to-die-and-more-likely-to-reproduce-with-some-surviving-over-40-years/articleshow/135841726.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-17T04:56:00+05:30"
-          },
-          {
-            "title": "The AI start-ups fixing India's broken roads and messy land records",
-            "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-            "published": "2026-11-16T23:25:53+00:00"
-          },
-          {
-            "title": "Thieves steal Kansas teen's $20k lawn-care gear; strangers raise over $36k",
-            "link": "https://timesofindia.indiatimes.com/world/us/meet-sonny-gallardo-14-who-built-a-five-person-lawn-care-business-in-kansas-after-starting-at-age-10-thieves-stole-20000-in-equipment-but-strangers-raised-over-36000-to-help-him-rebuild/articleshow/135858161.cms",
-            "source": "Times of India",
-            "summary": "Sonny Gallardo, a resourceful 14-year-old from Prairie Village, Kansas, founded a thriving lawn care business over time. However, he faced a major setback when equipment valued at around $20,000 was stolen. In a heartwarming response, his community rallied together, raising over $36,000 via a GoFundMe campaign to help him recover.",
-            "published": "2026-11-17T04:54:00+05:30"
-          },
-          {
-            "title": "Census Phase-II starts in 4 poll-bound states, postponed in Manipur",
-            "link": "https://timesofindia.indiatimes.com/india/census-phase-ii-starts-in-4-poll-bound-states-postponed-in-manipur/articleshow/135905253.cms",
-            "source": "Times of India",
-            "summary": "The second phase will run till November 30, followed by house-to-house enumeration from Dec 1. The exercise will collect data across 40 fields, including caste",
-            "published": "2026-11-17T04:53:35+05:30"
-          },
-          {
-            "title": "Five EU countries announce migrant deportation centre in Rwanda",
-            "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-            "published": "2026-11-16T23:20:45+00:00"
-          },
-          {
-            "title": "Customers report service outages at major US banks",
-            "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-            "published": "2026-11-16T23:15:21+00:00"
-          },
-          {
-            "title": "California sues OpenAI over Hugging Face attack",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
-            "published": "2026-11-16T23:12:24+00:00"
-          },
-          {
-            "title": "At Sonia's book launch, Gandhis open up about love, loss, and bad chicken",
-            "link": "https://timesofindia.indiatimes.com/india/at-sonias-book-launch-gandhis-open-up-about-love-loss-and-bad-chicken/articleshow/135905161.cms",
-            "source": "Times of India",
-            "summary": "Congress leader Sonia Gandhi and her family were joined by several opposition leaders at the launch event of her memoir in Delhi.",
-            "published": "2026-11-17T04:39:28+05:30"
-          },
-          {
-            "title": "EU agrees to resurrect cooperation deal with Syria",
-            "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
-            "published": "2026-11-16T23:00:36+00:00"
           }
         ],
         "India": [
+          {
+            "title": "Ties with Asean crucial for India's Act East Policy: PM",
+            "link": "https://timesofindia.indiatimes.com/india/ties-with-asean-crucial-for-indias-act-east-policy-pm/articleshow/135905979.cms",
+            "source": "Times of India",
+            "summary": "The meeting that will likely draw maximum attention in India and possibly Japan is the Quad leaders' summit - the first such meeting since Trump returned to the White House.",
+            "published": "2026-11-17T05:38:10+05:30"
+          },
+          {
+            "title": "3 Killed, 2 Injured As Car Falls Into Gorge In Himachal Pradesh",
+            "link": "https://www.ndtv.com/india-news/3-killed-2-injured-as-car-falls-into-gorge-in-himachal-pradeshs-rampur-12336167#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The incident occurred on Monday morning around 3 am when the driver lost control of the vehicle, causing it to fall into the gorge, according to preliminary reports.",
+            "published": "2026-11-17T05:33:40+05:30"
+          },
+          {
+            "title": "United Airlines Resolves Technology Issue After Widespread Outage",
+            "link": "https://www.ndtv.com/world-news/united-airlines-resolves-technology-issue-after-widespread-outage-12336157#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Chicago-based United said in a statement that while some flights were delayed because of the issue Monday afternoon, flights that were in the air and flights on its United Express regional network were not impacted.",
+            "published": "2026-11-17T05:20:24+05:30"
+          },
           {
             "title": "Tata Sons facing 'back-door takeover', warns Jimmy Tata",
             "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-facing-back-door-takeover-warns-jimmy-tata/articleshow/135905376.cms",
@@ -113,7 +134,14 @@
             "published": "2026-11-17T05:17:13+05:30"
           },
           {
-            "title": "IBM in talks for 2 large projects in India: CEO Krishna",
+            "title": "12-Year-Old Delhi Girl Loses Vision In One Eye After Being Hit By Firecracker",
+            "link": "https://www.ndtv.com/delhi-news/12-year-old-delhi-girl-loses-vision-in-one-eye-after-firecracker-hit-during-diwali-12336148#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The incident took place around 10.30 pm on November 8 in lane number 3 of Mukesh Nagar, when Jhanvi, a Class 7 student, was on her way to a grocery shop to buy household items, according to her family.",
+            "published": "2026-11-17T05:10:47+05:30"
+          },
+          {
+            "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
             "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
             "source": "Times of India",
             "summary": "IBM CEO Arvind Krishna remained upbeat on India, saying the company is expanding its footprint in the country and is hiring more.",
@@ -155,42 +183,28 @@
             "published": "2026-11-17T04:53:35+05:30"
           },
           {
-            "title": "At Sonia's book launch, Gandhis open up about love, loss, and bad chicken",
-            "link": "https://timesofindia.indiatimes.com/india/at-sonias-book-launch-gandhis-open-up-about-love-loss-and-bad-chicken/articleshow/135905161.cms",
-            "source": "Times of India",
-            "summary": "Congress leader Sonia Gandhi and her family were joined by several opposition leaders at the launch event of her memoir in Delhi.",
-            "published": "2026-11-17T04:39:28+05:30"
-          },
-          {
-            "title": "Nvidia board rules out Jensen Huang’s return: Report",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-board-not-considering-jensen-huangs-return-report/articleshow/135903984.cms",
-            "source": "Times of India",
-            "summary": "Huang has received growing support from employees, fellow executives such as Elon Musk and even US President Donald Trump.",
-            "published": "2026-11-17T04:28:39+05:30"
-          },
-          {
-            "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
-            "link": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
-            "source": "The Hindu",
-            "summary": "The Chief Minister said his government is working to build the progressive Punjab they envision",
-            "published": "2026-11-17T04:27:18+05:30"
-          },
-          {
-            "title": "Miffed lawyer questions CJI's 'integrity', advocates seek action against him",
-            "link": "https://timesofindia.indiatimes.com/india/miffed-lawyer-questions-cjis-integrity-advocates-seek-action-against-him/articleshow/135902674.cms",
-            "source": "Times of India",
-            "summary": "The lawyer was angry because a petition filed by him was yet listed despite intimation being given to CJI' Surya Kant's office. Some bar members later met the CJI requesting him to initiate contempt proceedings against the lawyer.",
-            "published": "2026-11-17T03:48:03+05:30"
-          },
-          {
-            "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
-            "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
-            "source": "The Hindu",
-            "summary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to security forces”",
-            "published": "2026-11-17T03:36:43+05:30"
+            "title": "JPMorgan Says Software Bug Slows Its Transactions Amid Outage Reports",
+            "link": "https://www.ndtv.com/world-news/jpmorgan-says-software-bug-slows-its-transactions-amid-outage-reports-12336135#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "JPMorgan said that it has experienced a temporary issue related to a software bug in on-premise hardware systems there is no evidence it is cyber-related.",
+            "published": "2026-11-17T04:52:30+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+            "published": "2026-11-16T23:57:49+00:00"
+          },
+          {
+            "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+            "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+            "published": "2026-11-16T23:44:32+00:00"
+          },
           {
             "title": "Trump departs for ASEAN on summit with Xi and Putin",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "&#039;Preliminary monitoring&#039; shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
             "published": "2026-11-16T21:06:19+00:00"
-          },
-          {
-            "title": "Manchester United’s Endless Loop",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
-            "published": "2026-11-16T21:00:22+00:00"
-          },
-          {
-            "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-            "link": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US&#039;s California coast.",
-            "published": "2026-11-16T20:42:18+00:00"
           }
         ],
         "Business": [
@@ -282,7 +282,21 @@
             "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-            "published": "2026-11-16T23:15:21+00:00"
+            "published": "2026-11-17T00:18:01+00:00"
+          },
+          {
+            "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "published": "2026-11-17T00:00:03+00:00"
+          },
+          {
+            "title": "We couldn't afford a house alone, so we bought one with strangers",
+            "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+            "published": "2026-11-17T00:00:02+00:00"
           },
           {
             "title": "California sues OpenAI over Hugging Face attack",
@@ -346,20 +360,6 @@
             "source": "Economic Times",
             "summary": "Economists recently met with Finance Minister Nirmala Sitharaman to discuss the upcoming Union Budget for 2027-28. They recommended keeping the capital gains tax on equities, opposing industry requests for its abolition. Meeting discussions highlighted the economic improvements and private investment growth, emphasizing the importance of fiscal prudence. Additionally, they suggested boosting the MSME and…",
             "published": "2026-11-16T18:35:46+05:30"
-          },
-          {
-            "title": "Indian equities ride global AI trade unwind: Is D-Street back on foreign investors' radar? BNP Paribas answers",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-ride-global-ai-trade-unwind-is-d-street-back-on-foreign-investors-radar-bnp-paribas-answers/articleshow/135889978.cms",
-            "source": "Economic Times",
-            "summary": "Foreign institutional investors have poured nearly $8 billion into Indian equities in 15 trading sessions, reversing foreign outflows amid global AI stock concerns. BNP Paribas sees largecaps benefiting from renewed overseas buying and supportive domestic investor flows.",
-            "published": "2026-11-16T18:23:51+05:30"
-          },
-          {
-            "title": "India's investments in US Treasuries jump USD 38.4 bn in Jun-Aug amid FCNR flows",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-investments-in-us-treasuries-jump-usd-38-4-bn-in-jun-aug-amid-fcnr-flows/articleshow/135888824.cms",
-            "source": "Economic Times",
-            "summary": "India's investment in US Treasury securities increased by USD 38.4 billion due to FCNR(B) deposits during three months. The Reserve Bank of India introduced a special facility to encourage these foreign currency deposits. This facility led to significant inflows, improving India's foreign exchange reserves substantially. Experts suggest that investment in US Treasuries may slow down due to the closure of the FCNR(B)…",
-            "published": "2026-11-16T17:47:29+05:30"
           }
         ],
         "Sports": [
@@ -627,11 +627,46 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "सोनिया गांधी की यादें: इंडिया गेट पर आइसक्रीम और रोजाना प्रेम पत्र, किताब में बताया कैसे शुरू हुई प्रेम कहानी?",
-            "link": "https://www.amarujala.com/india-news/sonia-gandhi-rajiv-gandhi-love-marriage-story-new-book-belonging-a-journey-of-love-cambridge-days-2026-11-17",
+            "title": "सुर्खियां: भारत खरीदेगा 1000 विमान; ट्रंप ने मैक्सिको को टैरिफ की धमकी दी; दिल्ली आ सकते हैं नेपाल के पीएम",
+            "link": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-17-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-17",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-17T12:07:04+05:30"
+            "published": "2026-11-17T05:51:44+05:30"
+          },
+          {
+            "title": "देश में बन रहा छठी पीढ़ी का फाइटर जेट:यह अमेरिकी F-35 से भी बेहतर; पहली उड़ान 2030 तक संभव; ऐसा करने वाला भारत छठा देश",
+            "link": "https://www.bhaskar.com/g/national/news/india-sixth-generation-fighter-jet-development-2030-flight-update-139711152.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-17T00:16:00+00:00"
+          },
+          {
+            "title": "बदलता भविष्य: पहली बार पायलट के साथ उड़ा चीन का इलेक्ट्रिक विमान, आखिर क्या है बैटरी वाले हवाई जहाज की तकनीक?",
+            "link": "https://www.amarujala.com/india-news/china-s-19-seater-electric-plane-completes-first-pilot-flight-know-how-does-it-work-2026-11-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-17T05:39:21+05:30"
+          },
+          {
+            "title": "आज के दिन: पीएम मोदी आसियान-भारत शिखर सम्मेलन में होंगे शामिल, एसआईआर मामले में सुप्रीम कोर्ट में सुनवाई",
+            "link": "https://www.amarujala.com/india-news/17-november-2026-major-event-2026-11-16",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-17T05:39:03+05:30"
+          },
+          {
+            "title": "दिल्ली हाईकोर्ट का रेलवे को आदेश: बड़े आयोजनों से पहले नियुक्त करें समन्वय अधिकारी, रखें व्यवस्थाओं का रिकॉर्ड",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-high-court-directs-railways-appoint-coordination-officers-before-major-events-maintain-a-record-of-arran-2026-11-17",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-17T05:34:07+05:30"
+          },
+          {
+            "title": "सुप्रीम कोर्ट: 'सबूत नहीं तो आरोपी बरी, लेकिन पीड़ित परिवार का क्या?' आर्थिक मदद को लेकर अदालत ने क्या कहा?",
+            "link": "https://www.amarujala.com/india-news/supreme-court-proposes-compensation-for-murder-victims-families-even-if-accused-is-acquitted-2026-11-17",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-17T05:21:25+05:30"
           },
           {
             "title": "3 बार बेहोश किया, 2 बार भागी…फिर भी नहीं छोड़ा:बिहार से बंगाल गई बाघिन का गर्भपात, 3 भ्रूण खत्म; क्या जल्दबाजी में हुई लापरवाही",
@@ -649,66 +684,31 @@
           },
           {
             "title": "एमपी के 16 शहरों में पारा 15°C से नीचे:यूपी के 10 शहरों में AQI 200 पार, उत्तराखंड में शीतलहर का अलर्ट",
-            "link": "https://www.bhaskar.com/national/news/up-air-quality-aqi-uttarakhand-cold-wave-mp-weather-update-139708244.html",
+            "link": "https://www.bhaskar.com/g/national/news/up-air-quality-aqi-uttarakhand-cold-wave-mp-weather-update-139708244.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-16T23:35:00+00:00"
           },
           {
             "title": "सुप्रीम कोर्ट में आज SIR से जुड़ी याचिकाओं पर सुनवाई:विपक्ष की दो अर्जियां, कल चुनाव आयुक्तों से 48 सवाल पूछने की इजाजत मांगी",
-            "link": "https://www.bhaskar.com/national/news/supreme-court-election-commission-sir-revision-india-block-petition-139707988.html",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-election-commission-sir-revision-india-block-petition-139707988.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-16T23:30:00+00:00"
           },
           {
+            "title": "तीन देशों में गोपनीय अभियान: इस्राइल ने 40 साल तक खोजा अपना पायलट, ईरानी जनरल का अपहरण कर की हत्या",
+            "link": "https://www.amarujala.com/world/israel-secret-operations-across-three-countries-to-find-missing-pilot-ron-arad-two-iranian-generals-kidnapped-2026-11-17",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-17T04:58:13+05:30"
+          },
+          {
             "title": "राहुल गांधी गर्लफ्रेंड को कैंब्रिज के रेस्टॉरेंट ले गए थे:देखना चाहते थे पेरेंट्स कहां मिले; जब पूछा- अब 'वो' किधर है, तो बोले- दोस्त है",
-            "link": "https://www.bhaskar.com/national/news/rahul-gandhi-cambridge-restaurant-visit-sonia-gandhi-book-launch-139710509.html",
+            "link": "https://www.bhaskar.com/g/national/news/rahul-gandhi-cambridge-restaurant-visit-sonia-gandhi-book-launch-139710509.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-16T23:10:43+00:00"
-          },
-          {
-            "title": "मॉर्निंग न्यूज ब्रीफ:बुक लॉन्चिंग में सोनिया रोईं; कांग्रेस ने पूछा- SIR का आदेश किसने दिया; चांदी 11 महीने में सबसे सस्ती",
-            "link": "https://www.bhaskar.com/national/news/morning-news-brief-2026-latest-update-hindi-samachar-139705625.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-16T23:00:00+00:00"
-          },
-          {
-            "title": "रूस के साथ जंग: जेलेंस्की ने पश्चिम से मांगे हथियार, ट्रंप बोले- यूक्रेन युद्ध पसंदीदा विषय; कब थमेगा टकराव?",
-            "link": "https://www.amarujala.com/world/russia-conflict-zelenskyy-seeks-comparable-weapons-from-west-us-prez-trump-calls-ukraine-war-favorite-topic-2026-11-17",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-17T02:44:55+05:30"
-          },
-          {
-            "title": "'ईरान ने मुझे निशाना बनाया तो तुम भी नहीं बचोगे': ट्रंप ने पत्रकार को दी चेतावनी, बोले- ज्यादातर हमले नाकाम",
-            "link": "https://www.amarujala.com/world/trump-warns-reporter-claims-us-has-foiled-most-iranian-attacks-says-if-iran-targets-me-you-are-gone-too-2026-11-17",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-17T02:12:39+05:30"
-          },
-          {
-            "title": "चारधाम यात्रा संपन्न: तीर्थयात्रियों की संख्या ने बनाया रिकॉर्ड, पहली बार 65.55 लाख से अधिक श्रद्धालु पहुंचे",
-            "link": "https://www.amarujala.com/dehradun/char-dham-yatra-2026-concludes-record-over-65-lakh-devotees-arrive-for-first-time-2026-11-17",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-17T01:54:39+05:30"
-          },
-          {
-            "title": "कुलगाम हमले का बदला: मुठभेड़ में लश्कर आतंकी उमर नासिर ढेर, कमांडर लतीफ भट घिरा, डीजीपी-आईजीपी ने संभाली कमान",
-            "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/retaliation-for-kulgam-attack-lashkar-terrorist-umar-nasir-killed-in-an-encounter-commander-latif-bhat-cornere-2026-11-17",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-17T01:48:21+05:30"
-          },
-          {
-            "title": "न्यूयॉर्क के अपार्टमेंट कॉम्प्लेक्स में गोलीबारी: दो सुरक्षा अधिकारी घायल; हमलावर ने खुद को भी मारी गोली",
-            "link": "https://www.amarujala.com/world/america-new-york-apartment-shooting-bronx-co-op-city-two-security-officers-shot-gunman-dead-2026-11-17",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-17T01:33:57+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "రాగసుధలు చిలికిన.. రామోజీ స్మృతులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15dEVZbUJab0lOeHBwWlJsXzd2TDBYaE9nclpSMlFWUG1DTTA4TEpTZHJyeVFuOFNDYXRwS3FTOEp6Mmt1SzRzS3NjMFFuSDJNR2tPc3Q4RVJLVHAzb1daSXBLaG4tTVdsVWRCTWF5NkhFX3VkWXc1dDVGVXTSAXxBVV95cUxNeXRFWW1CWm9JTnhwcFpSbF83dkwwWGhPZ3JaUjJRVlBtQ00wOExKU2RycnlRbjhTQ2F0cEtxUzhKejJrdUs0c0tzYzBRbkgyTUdrT3N0OEVSS1RwM29XWklwS2huLU1XbFVkQk1heTZIRV91ZFl3NXQ1RlV0?oc=5",
-            "source": "Eenadu",
+            "title": "బంగాళాఖాతంలో అక్వాన్ తుపాను వార్నింగ్.. తెలంగాణలో 3 రోజుల పాటు భారీ వర్షాలు",
+            "link": "https://telugu.oneindia.com/news/telangana/akwan-cyclone-warning-in-the-bay-of-bengal-heavy-rains-expected-in-telangana-for-3-days-latest-imd-515261.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:56:24+00:00"
+            "published": "2026-11-16T23:45:18+05:30"
           },
           {
-            "title": "Cherukuri Purna Sujay: వారసత్వ బాధ్యతను గర్వంగా స్వీకరిస్తున్నాం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY29Yd3hEcHlyNzNNWlBZNUNzek1rZ1kwcWVXd1RkaGJGdGY5ZWxjMUFnM25jWjBORlVnbjM5WXdMbkZTZFVZZlUtUklabWZrOU1YQllmam9TVUhVUXplQTdqQmN0TG1rTm1uWWlkM0dtcFBVam5WZXFrV1JsZzVYcFpPOHdzRXljSG5xT3EyVWNXLWJOUXpuZnloRmRLM0R1WjNFZDg3VUUtZ1ZBaGhMd0VNWHJWQXlyeWdSVTQyVVZLUdIBwgFBVV95cUxOY29Yd3hEcHlyNzNNWlBZNUNzek1rZ1kwcWVXd1RkaGJGdGY5ZWxjMUFnM25jWjBORlVnbjM5WXdMbkZTZFVZZlUtUklabWZrOU1YQllmam9TVUhVUXplQTdqQmN0TG1rTm1uWWlkM0dtcFBVam5WZXFrV1JsZzVYcFpPOHdzRXljSG5xT3EyVWNXLWJOUXpuZnloRmRLM0R1WjNFZDg3VUUtZ1ZBaGhMd0VNWHJWQXlyeWdSVTQyVVZLUQ?oc=5",
-            "source": "Eenadu",
+            "title": "భారత్ ను తిట్టిన వ్యక్తిని దిల్లీకి పంపించనున్న పాకిస్థాన్.. సర్వత్రా ఉత్కంఠ..!",
+            "link": "https://telugu.oneindia.com/news/international/pakistan-minister-for-climate-change-musadik-masood-malik-to-visit-india-to-attend-the-sco-meeting-515259.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:55:09+00:00"
+            "published": "2026-11-16T23:14:23+05:30"
           },
           {
-            "title": "పాడి కౌశిక్‌రెడ్డికి హైకోర్టులో చుక్కెదురు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QYUtxSDZUSEV0RlRIaE54SjdjZi1VUG1Bcl8zWk4xbklWZ085MEF2WTJOMlA4UjRMdTA2Tjk2ZVlfYURQQkZnbU4yYWZKRGNTQWpqa2hmRHpxU2pJeE9ad2VqVWNvNkdQbDdMSE5WOEJNRXdZb0HSAXZBVV95cUxPUGFLcUg2VEhFdEZUSGhOeEo3Y2YtVVBtQXJfM1pOMW5JVmdPOTBBdlkyTjJQOFI0THUwNk45NmVZX2FEUEJGZ21OMmFmSkRjU0FqamtoZkR6cVNqSXhPWndlalVjbzZHUGw3TEhOVjhCTUV3WW9B?oc=5",
-            "source": "Eenadu",
+            "title": "రాష్ట్ర పండుగగా రామోజీరావు జయంతి: సీఎం చంద్రబాబు",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/chandrababu-on-ramoji-rao-ramoji-rao-s-birth-anniversary-to-be-a-state-festival-cm-chandrababu-515257.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:52:56+00:00"
+            "published": "2026-11-16T22:47:00+05:30"
           },
           {
-            "title": "అయ్యప్ప భక్తుల కోసం ప్రత్యేక రైళ్లు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZWJSWWl4bmpzUE1salBDWnlmeE1mblNEVW12bDFLWlR4eC12amxpMVozb3ZneElaQTQ5Q0piNWpocmpkWktjSUpYSHdZdTJITDFySWdxNHIyRnJvVk5mWlBNMDllOU8zU1FxZUhMRUFNWVA5eEHSAXZBVV95cUxPMmViUllpeG5qc1BNbGpQQ1p5ZnhNZm5TRFVtdmwxS1pUeHgtdmpsaTFaM292Z3hJWkE0OUNKYjVqaHJqZFpLY0lKWEh3WXUySEwxcklncTRyMkZyb1ZOZlpQTTA5ZTlPM1NRcWVITEVBTVlQOXhB?oc=5",
-            "source": "Eenadu",
+            "title": "ఎలాంటి యుద్ధానికైనా భారత్ సిద్దం.. పాక్ చేతికి లక్ష డ్రోన్ల వేళ.. ఇండియన్ నేవీ సంచలన ప్రకటన",
+            "link": "https://telugu.oneindia.com/news/india/india-is-prepared-for-any-kind-of-war-indian-navy-chief-admiral-krishna-swaminathan-comments-viral-515255.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:51:02+00:00"
+            "published": "2026-11-16T22:22:38+05:30"
           },
           {
-            "title": "మరింతగా చలి.. మెదక్‌లో 11.6 డిగ్రీలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qVXlyRmJFSXcySlhUYlk0RGxxX2JkeEw3NU9KdkdxeU5URy1jUUZsVlV3dlVZUE8tejhNckVGa25GYXVFSDA0ams5OWxYSkdPTk1rLUFMTUc5Nm1QWEZuR2pnWmVpNExxN1hobi05Q0tlMll4bmfSAXZBVV95cUxOalV5ckZiRUl3MkpYVGJZNERscV9iZHhMNzVPSnZHcXlOVEctY1FGbFZVd3ZVWVBPLXo4TXJFRmtuRmF1RUgwNGprOTlsWEpHT05Nay1BTE1HOTZtUFhGbkdqZ1plaTRMcTdYaG4tOUNLZTJZeG5n?oc=5",
-            "source": "Eenadu",
+            "title": "రష్యాపై ఉక్రెయిన్ అతిపెద్ద వైమానిక దాడి.. 1,300 కుపైగా డ్రోన్లతో విధ్వంసం..",
+            "link": "https://telugu.oneindia.com/news/international/ukraine-launches-fierce-attacks-on-russia-destruction-with-over-1-300-drones-massive-aerial-assault-515251.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:49:42+00:00"
+            "published": "2026-11-16T21:07:25+05:30"
           },
           {
-            "title": "హైకోర్టుకు హాజరైన హైడ్రా కమిషనర్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rOUZRd1JmTkFzblJsNXFlTUVnQldUMTJtX1JiSndabzBEcDVjcFRFWXpaaC0tcDhFSkdCN1lQejlsdUg2bDY0YlZ4WUR0ck9mcHhJb1dGaGVJNDdKQ203bmctaW9waFVYbkdWTUVsSFdQMmlaNmfSAXZBVV95cUxNazlGUXdSZk5Bc25SbDVxZU1FZ0JXVDEybV9SYkp3Wm8wRHA1Y3BURVl6WmgtLXA4RUpHQjdZUHo5bHVINmw2NGJWeFlEdHJPZnB4SW9XRmhlSTQ3SkNtN25nLWlvcGhVWG5HVk1FbEhXUDJpWjZn?oc=5",
-            "source": "Eenadu",
+            "title": "అదానీ: రూ.5,675 కోట్ల ప్రాజెక్ట్ రూ.56.75 కోట్లకు ఎలా తగ్గింది? ఈ ఆరోపణపై కంపెనీ ఏమంటోంది?",
+            "link": "https://www.bbc.com/telugu/articles/ckq6e27dlze5o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-11-16T23:49:00+00:00"
+            "published": "2026-11-16T15:23:02+00:00"
           },
           {
-            "title": "Hyderabad: నకిలీ ‘గే’.. నమ్మితే దోపిడీయే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3RMdnNaczNjZ0VNLXNvR0czR1oxVUpkOFRrZzNONE8yeGdnOVducUltczRHSmVaMnNBRjhKU1VPWWNSdTlDYWNtekMtZTYtODVKdTdGSGZQSGtYSG8wVURKTHEzQzVMNGJOWFpVTmpsWVBRZFVSWUJqVXVJVllGQ2Z0SThKU3FkRzNVaERNNlhDcHJtVVdaakctMTdoYjdZSTJDQklxcVROTC03elHSAa4BQVVfeXFMT290THZzWnMzY2dFTS1zb0dHM0daMVVKZDhUa2czTjRPMnhnZzlXbnFJbXM0R0plWjJzQUY4SlNVT1ljUnU5Q2FjbXpDLWU2LTg1SnU3RkhmUEhrWEhvMFVESkxxM0M1TDRiTlhaVU5qbFlQUWRVUllCalV1SVZZRkNmdEk4SlNxZEczVWhETTZYQ3BybVVXWmpHLTE3aGI3WUkyQ0JJcXFUTkwtN3pR?oc=5",
-            "source": "Eenadu",
+            "title": "Sonia Gandhi: ఆత్మకథ అందుకే రాశా..! బుక్ రిలీజ్ వేళ అసలు కారణం చెప్పిన సోనియా..!",
+            "link": "https://telugu.oneindia.com/news/india/sonia-gandhi-opens-up-on-memoir-says-hurtful-stories-about-family-inspired-her-to-write-515247.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:45:00+00:00"
+            "published": "2026-11-16T20:22:26+05:30"
           },
           {
-            "title": "శ్రీగిరిపై లక్ష కాంతులు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EUXcyeFNCYmdQZGpXU1UxTnd4THZibVhBVjc0X2gzaXZjZzdqUDl6RUVsV1BLLUdvZ2FOOEZ0NWR4U1Q5d0MyNG5HTlhsUGVyVUlFM0JWV09XY2gzWW5velZhWFQ1anBPekQzbFpva0tzMzFYU09LeTJqSEPSAXxBVV95cUxPRFF3MnhTQmJnUGRqV1NVMU53eEx2Ym1YQVY3NF9oM2l2Y2c3alA5ekVFbFdQSy1Hb2dhTjhGdDVkeFNUOXdDMjRuR05YbFBlclVJRTNCVldPV2NoM1lub3pWYVhUNWpwT3pEM2xab2tLczMxWFNPS3kyakhD?oc=5",
-            "source": "Eenadu",
+            "title": "Shocking Video: చర్లపల్లి రైల్వే స్టేషన్‌ లో భారీ అగ్ని ప్రమాదం.. తగలబడుతున్న బోగీలు..",
+            "link": "https://telugu.oneindia.com/news/telangana/cherlapally-major-fire-at-cherlapally-railway-station-flames-erupt-suddenly-in-a-stationary-train-515245.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:44:52+00:00"
+            "published": "2026-11-16T20:18:04+05:30"
           },
           {
-            "title": "మీ వెయ్యి రూపాయలు మీరే తీసుకోండి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tZmlRM2lTNjRZMnZ0bnU1RVNBb04wempfbktmQlNwTnFpQVpuZU44TUQ2WHUwcWR6LVY4VjR1R0RBUmJNaGJ5WkJISjM5MlZrb3R3VUI5RlVhZjFsM3JaLWRZTkJURGd4bjg5RTJPcVBuM1hmUC1NRERYalTSAXxBVV95cUxNbWZpUTNpUzY0WTJ2dG51NUVTQW9OMHpqX25LZkJTcE5xaUFabmVOOE1ENlh1MHFkei1WOFY0dUdEQVJiTWhieVpCSEozOTJWa290d1VCOUZVYWYxbDNyWi1kWU5CVERneG44OUUyT3FQbjNYZlAtTUREWGpU?oc=5",
-            "source": "Eenadu",
+            "title": "ఇళ్ల పథకాల లబ్దిదారులకు రేవంత్ గుడ్ న్యూస్-7 లక్షల మంది తనఖా పట్టాలు వెనక్కి..!",
+            "link": "https://telugu.oneindia.com/news/telangana/telangana-govt-to-restore-house-title-deeds-position-certificates-to-7-lakh-beneficiaries-515239.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:44:09+00:00"
+            "published": "2026-11-16T19:48:26+05:30"
           },
           {
-            "title": "ఆ మట్టిలో ఏముందో.. ఎందుకంత మక్కువో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OLUpCUEoyblJYLTBLNFItTTFhaXRDdzd4VTBlOGNxOHlnZE44cGRVLTZ6VlczOE96XzUtMmVHYW9YM3RucXlGaEtQZjc5UWMxSnhhU09EUUlmdHpyWUNJSW1acDJ1ckFLWEVQOFdJUUw2SWNqOEV3bG56bjPSAXxBVV95cUxOTi1KQlBKMm5SWC0wSzRSLU0xYWl0Q3c3eFUwZThjcTh5Z2ROOHBkVS02elZXMzhPel81LTJlR2FvWDN0bnF5RmhLUGY3OVFjMUp4YVNPRFFJZnR6cllDSUltWnAydXJBS1hFUDhXSVFMNkljajhFd2xuem4z?oc=5",
-            "source": "Eenadu",
+            "title": "ట్రంప్, పుతిన్, జిన్‌పింగ్‌ల సమావేశం ఎప్పుడు? దీని గురించి యూరప్ ఎందుకు ఆందోళనగా ఉంది?",
+            "link": "https://www.bbc.com/telugu/articles/c6x29y72w4dko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-11-16T23:43:39+00:00"
+            "published": "2026-11-16T14:15:17+00:00"
           },
           {
-            "title": "పుష్పం సమర్పయామి.. దోషం నివారించు స్వామీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wUGdDNVcwdDlnbFBIYjAzTkRDZEdraDlIRXV0Nm55bVhyNnlrZ1poSUJEQnQ1dHExQUJER0U5OTg0Qm1wVHlsVWF6TFkzZU5KcGJJQW9GUmw4eXZIV05OY1pSQ3V3dk9uc0ZGMWZSWEdBSnkxcko4bzZKaF_SAXxBVV95cUxOcFBnQzVXMHQ5Z2xQSGIwM05EQ2RHa2g5SEV1dDZueW1YcjZ5a2daaElCREJ0NXRxMUFCREdFOTk4NEJtcFR5bFVhekxZM2VOSnBiSUFvRlJsOHl2SFdOTmNaUkN1d3ZPbnNGRjFmUlhHQUp5MXJKOG82Smhf?oc=5",
-            "source": "Eenadu",
+            "title": "మజ్జి సిరికి మరోసారి హైకోర్టు షాక్- కీలక ఉత్తర్వులు..! ఇప్పటికే ఓ ట్విస్ట్..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/setback-for-tdp-leader-majji-siri-sahasra-as-ap-high-court-dismisses-her-plea-in-bc-certificate-case-515235.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:43:21+00:00"
+            "published": "2026-11-16T19:13:00+05:30"
           },
           {
-            "title": "వైద్య ఖర్చు భారమై... కన్నతల్లి ప్రాణం తీసిన కుమారుడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByV3ZjanRLUlE3Ty1COUFRWjVianpROU9mQl9YTGN3eE5wX0tkZy0ycFR5ZTlLcWo5S2hFNjh6V3AzUFdvRW8xTVo1ZEFfSWNXekxFMElCMFVuN09CY1lFTi1HQlhBdHc0QjRQNVRxcW_SAXBBVV95cUxQcld2Y2p0S1JRN08tQjlBUVo1Ymp6UTlPZkJfWExjd3hOcF9LZGctMnBUeWU5S3FqOUtoRTY4eldwM1BXb0VvMU1aNWRBX0ljV3pMRTBJQjBVbjdPQmNZRU4tR0JYQXR3NEI0UDVUcXFv?oc=5",
-            "source": "Eenadu",
+            "title": "'ప్రాణాలతో తిరిగొస్తానో లేదో తెలియదు'.. న్యాయమూర్తులకు ఇమ్రాన్ ఖాన్ సంచలన లేఖ!",
+            "link": "https://telugu.oneindia.com/news/international/may-not-return-alive-imran-khan-writes-open-letter-to-pak-judges-seeking-medical-aid-details-515233.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-16T23:42:09+00:00"
+            "published": "2026-11-16T18:57:01+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,20 +1426,6 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "কাটমানি নেওয়ার অভিযোগে গ্রেফতার উপ-প্রধান - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTF0M2YyX2p1ZXB2cHgweXZiaHBpNDd6bFhIU25sLWZLaTRocTZWNnV0RXRFT3NPWVUwR2NiekExemRIYS1xS0VkQktocGh5ZjJEOXBaQjNEeEVVSEhxcW9aRlpUQThvWDBWMmc1c1NaSXo2bmc2RVJzSHdycE04VVl6RWtGdno0UWdrelBwVnJNc3JRWWtHTUMzVjMyek04empseTlIbkhKemhic2cxU2dYYU9xbjFDYUhJT1JqNklQMmRWbGhCMkVCSHNYX3YtUTB2ZVZOaG1sVXRCVjMyaWlB0gHiAUFVX3lxTE5pMXQzZjJfanVlcHZweDB5dmJocGk0N3psWEhTbmwtZktpNGhxNlY2dXRFdEVPc09ZVTBHY2J6QTF6ZEhhLXFLRWRCS2hwaHlmMkQ5cFpCM0R4RVVISHFxb1pGWlRBOG9YMFYyZzVzU1pJejZuZzZFUnNId3JwTThVWXpFa0Z2ejRRZ2t6UHBWck1zclFZa0dNQzNWMzJ6TTh6amx5OUhuSEp6aGJzZzFTZ1hhT3FuMUNhSElPUmo2SVAyZFZsaEIyRUJIc1hfdi1RMHZlVk5obWxVdEJWMzJpaUE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-16T23:51:20+00:00"
-          },
-          {
-            "title": "আজকের দিন কন্যা রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekhLdVliR3pLbnhRVlVPYm90b0VWTnh0ajFEa290a0Z5bTlwRWRrVHZTWlYzaEt6MldhYk5qTjhuQ243LTZLd2N2U0xreDVZOWhRc1pMa0hEOC1HNzM4MDk5WlB2M0RXTXNiYXZhcUVyajhlUkJEVGFRZkNDMUtZQmZVZFBkS01JY1RkaUx4MWVjd2wtZFpmbEphTlV0Y2FiUmRqNHRrUEdtQy1fbVHSAbMBQVVfeXFMTWREbG1EcXYwT2lBeEdVUV9TOTJkV2E1UWhfbXNHenJiS2xFaEdMQklubXpEWVV6YmJMcUFBM0JJUlpXR1daLVpOc25BdHlMSTVvMFZRWjdxRVNySmlyQTRlczVtUlFzb3ppNWpicjVraXVwalVaWWdVRDdHR0hxSVBfb29mVTd5X2J3dnpyS0h6RHJaMUU5OHpETFZiRnB1dXg5QXdnb2xJTTZCbFY4Smx3b3c?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-16T20:04:45+00:00"
-          },
-          {
             "title": "আজকের দিন কুম্ভ রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0g3cXJxQjF4YVI4RWJiT21rMGZkLVpiS3lxT3ppaHQwb3hJemJqQnU5dFZnR1ZVNWI2SlBzV1ZWSmtxLWhNOFAzYWpsYkJuUTZ5SHRaS2JGV3l4NG5QLThvLXVvc3Bjb1pPODlfQ1YtM2w4b0xDak5DWXFsZHE0V1h4OFctc19WNXZpWmV3YjJtYjZDMmFKUWprUmM0QVpVdWZ3dGkwRjJvV1EtRl9uTkhR0gG3AUFVX3lxTE5fcE5IeWNSSGFjYkxoSVpkcXJtRzNqaFNWYjNJaEtWelBWcEw2NjJKMGZGXy1kdUNHcE1DWVhaQkpERmE3MFZmaWN2dlpNZi1UYmFUX2ZFWHFDS2VpUGtBQUxkeVRDNWJyb0dFeEZqdjRYWGQ0SmRIUkpvbVBjUVRGOG9TQ1NtNVdWc0RSNnhxVnF5dGN2NGpkZDRXMEFTZjExZGF0aWt3WU44LS1feVJfaGF5N2NHRQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1447,15 +1433,8 @@
             "published": "2026-11-16T20:04:45+00:00"
           },
           {
-            "title": "আজকের দিন মীন রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVNMYjNNSGdxc21COWEzRUxpYXNxUHV1aV9qaUZYYTFvRWNUZFNsWjN1WVV0UGxNYzNpSU8yTUV3TjN2TjhhX2s0OE1TQ1lIdFV2ZXQ0Y1BZeFBzaDRZMVZzQXR3N0dldk5lTm90bHc1UWpwVHBtX09xOUd1WTZfblFzUUpnd2puV1djTncxejJNUnFoeWhhb0NsSF9CRE5TSjMzVllGUVZyR1NIMlHSAbMBQVVfeXFMTmM3SEF0U0Rqd2s0bXBZcDZKei1ONFdCWTRHSXRSMm5FZzFfa0szSmw5NnFvMWhYaGVnQXJhT3ktNTVkdVNvMVh1NzNTSW1JTnd4ZldkX2hIUndOSGNrb29keXU3bkcyd0Z1Z1kzM0lCZXdoRzdsNXNITVZrSWQyNzM1aXJ6UzdVUmxYSkoxS3RSN2RiWDJGaVg1MmF4OXhLWUJYanVPVkNuUFptenUtR05PalU?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-16T20:04:45+00:00"
-          },
-          {
-            "title": "আজকের দিন বৃশ্চিক রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBjQk5XS0FON0JlT3lySGVNSlVuWnFxWVppMklETzJOY3pWR0FDYWtVdUI3LTJhRzVYaTVnSVhIY3RiM043OUFMRF9aS05XNHo0aTNmOGdrYnpfN0FVdVVWRkRjQ1Zib29CQ1pXSjJrRTBUalFaYnJZdzZUdEVBRnlndHI1SjRtelp1N1BDenBnaUtSUHVrUTgwS2pSWHk5MEdKdkZEd01sUGxzektYVHpxWGhid9IBuwFBVV95cUxQOTNMajlRWUxJRmJEbmtlUnJ5YmZoTHJCNlBrMy1jTmIzZkRpbGNkYjlPajJlcC1FcFF4aWxZdHkwZndKbENFWnZhOVZwZTJsWW5TbHR2ckZTSmd2TWdMYnRPclREa2FfSlZiYVROYzBnM1BWdjhfSjMyMlhfWTRMMmN3ZWt1Rm82dVNERU1oNW1LQmxuSXFNSkRvYXhfQ2VfWlh1MWFjRnI2b3lpY1VYejQ2V0RYSFZVZlZN?oc=5",
+            "title": "আজকের দিন কন্যা রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekhLdVliR3pLbnhRVlVPYm90b0VWTnh0ajFEa290a0Z5bTlwRWRrVHZTWlYzaEt6MldhYk5qTjhuQ243LTZLd2N2U0xreDVZOWhRc1pMa0hEOC1HNzM4MDk5WlB2M0RXTXNiYXZhcUVyajhlUkJEVGFRZkNDMUtZQmZVZFBkS01JY1RkaUx4MWVjd2wtZFpmbEphTlV0Y2FiUmRqNHRrUEdtQy1fbVHSAbMBQVVfeXFMTWREbG1EcXYwT2lBeEdVUV9TOTJkV2E1UWhfbXNHenJiS2xFaEdMQklubXpEWVV6YmJMcUFBM0JJUlpXR1daLVpOc25BdHlMSTVvMFZRWjdxRVNySmlyQTRlczVtUlFzb3ppNWpicjVraXVwalVaWWdVRDdHR0hxSVBfb29mVTd5X2J3dnpyS0h6RHJaMUU5OHpETFZiRnB1dXg5QXdnb2xJTTZCbFY4Smx3b3c?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-16T20:04:45+00:00"
@@ -1468,8 +1447,36 @@
             "published": "2026-11-16T20:04:45+00:00"
           },
           {
+            "title": "আজকের দিন সিংহ রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUZYelV3LUg1enJiS282aFpncXlXODc2TWlqbmxObHVPbDByek9aSjhaY3BVUldBT21kajJKZjM3aVU4YUR5M0NybUJGU05hQ05DeFRKTUl3X2l0WWJmWXg0bm9HRWIzYTBpS21SazExWnRqWjJQVF9mTjg2V2lXRzFJMTdhSFg5SjFHbHFPWHVGcjhmLUtjMWVoTjJnMFhSdWNJRGZZWUp3LXJt0gGyAUFVX3lxTE9GUTFKSnJBSDEwRVA1RDhDMkQ5YzY2TjJyM0pvcDMybGF0SlM2UUk1NWhycFhCLWY4MzQzTTFnWFo3YXlkYmhVQ1FXdTkxZ3l4YUtvQ0NNWXR0bnNsQTcwamZQOUNNb1B0bll2S2R6UmZPT0ZldXhmNzJuY1cxaEpHODhPSzR0bFY0bFp5WUY4amhJb01yR3BvdUdJSWdwS3JIZGJNSnpJb3ZtWGhfd05QS3c?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T20:04:45+00:00"
+          },
+          {
+            "title": "আজকের দিন মীন রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVNMYjNNSGdxc21COWEzRUxpYXNxUHV1aV9qaUZYYTFvRWNUZFNsWjN1WVV0UGxNYzNpSU8yTUV3TjN2TjhhX2s0OE1TQ1lIdFV2ZXQ0Y1BZeFBzaDRZMVZzQXR3N0dldk5lTm90bHc1UWpwVHBtX09xOUd1WTZfblFzUUpnd2puV1djTncxejJNUnFoeWhhb0NsSF9CRE5TSjMzVllGUVZyR1NIMlHSAbMBQVVfeXFMTmM3SEF0U0Rqd2s0bXBZcDZKei1ONFdCWTRHSXRSMm5FZzFfa0szSmw5NnFvMWhYaGVnQXJhT3ktNTVkdVNvMVh1NzNTSW1JTnd4ZldkX2hIUndOSGNrb29keXU3bkcyd0Z1Z1kzM0lCZXdoRzdsNXNITVZrSWQyNzM1aXJ6UzdVUmxYSkoxS3RSN2RiWDJGaVg1MmF4OXhLWUJYanVPVkNuUFptenUtR05PalU?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T20:04:45+00:00"
+          },
+          {
+            "title": "আজকের দিন মেষ রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGRUS0tEUFdabUtERDhoQU5fbVRVc0NSUEtJRGdxanZicEdNdXROeXdvZG40ZmJZRzFrTFZHSXpBcVNTc212dGdwOURQWlpSUi13Z2VrRVNQQnFNQUhRaG9KWVZOOHNFVWd4dnFXNGl4Rnllc1JCdGdKVUNzMkFYaGpadDRZeTltVURCUXVQd3M4aW5wblh6VnAyWmIydWZ0SnpIRDEtendnQXpl0gGyAUFVX3lxTE5qaDB3WUZCN1pENGx1TG9LTUhYX2h4YnZpUlpOTkF4RllWWXF0R252NkZUb2pGVG9lRmFNWlpPemUyUmZHYms4MkRBM2U4T1RBU190dU1zTmRpSmszeUZtZVp4Sks4dUlBdzgzbXR6UkZGQ1hKS1NDWHhWNEFFTFA0V3YxTk4xY19xNGhEd2I4cEc1eExzTjVhT18tX3dCeXIwX2VDU1RRbXB0UnJDVTlUQ2c?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T19:29:11+00:00"
+          },
+          {
             "title": "আজকের দিন কন্যা রাশি- ১৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWdNTTRfQXV3UFR0MzlnbUpVNzBIdHoyTFlCdHIxODZ4MXhqU3Z5NVd5YUZ0ZGxVUkV4TWU5OS02c2VTWDF0WnNBR3RMNkVOdGhqWHhjV0RjYU1MLTlXN1NZV2c2MmVKX29Kem1SemtTdXcwT1dRaTZpR3Q3TnhuZU5ZdjlWMW9UM3ZfUmVod0d2S2hLeUN4QS13aDRlRng4a1djNDN2WFNXcE5OdlHSAbMBQVVfeXFMTk5rQ21Od0Y0ZlZMUkxUM0xtank2eHQ1cVZwNlJZSTdDQlhBa3RaQ3dxWkQzdnpPUTlyTE9uTXJYRENUVXpEMk5iRTViN3RXLTVlT3M4Si1sUVNQTGxCTEV5c21YSFBXOHlPX09teTFYdDgxdXZqUzlVVGkzN0o4NG9WZEtRWFNYOVlHdU5WWEhOUkRpZ2kzSWs1RnFKbWJ5UWZmMUszdUJkRWU3ZEtNTWJJTGc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-16T19:20:44+00:00"
+          },
+          {
+            "title": "আজকের দিন মিথুন রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ09ZSktfUUlncjRlY2lRV2hWOGVLUTMteEdlbHhjcDY1ekFEVWpHa0s5M2tPNTd5UDEwbzRPTXc2dzhyYWpiNGFqR1gxM2NvaWNKRkpUcUZvYkJha2RDUUpIOUtFSERTdmctbnd2bEwyZHVPSDV3dldELTZYQzdKRXFLMVZRSHRIMGFpQlNITnVvT29aTUVDUnJtWW5ZbnFsRjBSQ3c1NERtaUJKMlZOa9IBtgFBVV95cUxPZGQ1T1RfNlpmOWV4RTJfU3J1cXlHNFNmemZXMUJXS1I5UjJtOGdZSWJvWW5KcW1najBQZENwX0wtRmFqNGx1emlWX0NGVlVmekE1bDdVVUFjRDBJTTJhbUVZSlRDRDUwRDAxNjI0T2tNRmdlVzRYdG1RVTNtV1FIX0dpYV93OWUyOTM1d25TSjFrR2oxaDNmeEk2Zm5QUUYwMms0VlJVMFdlWS04TlJyQkRkV2VmUQ?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-16T19:20:44+00:00"
@@ -1501,13 +1508,6 @@
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-16T12:50:32+00:00"
-          },
-          {
-            "title": "ম্যাচ সরিয়ে দিলজীতের কনসার্ট যুবভারতীতে, ‘ফুটবল নিয়ে আপস করা হল’, বলছেন সমর্থকেরা - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFR2aXRfZUlmYV9SdElvNmxULWxvdXNYWlhzRXlBRlNUSm04MzdRQUp3bGtIeW1hYnR1WXZZaG0wcFh2WUxKaFlYRzBocVpYaDBzdkIyb2VkWFk4TUh6VDFTOVVmTF91bkYtem53X2xDOW5BVzFkUWhWUjFhLTBweDl3Z1VmWDRTeUNkQldFSzJZc2V6QU0xTzNKMXpQME9FeWxjaThkUm1FUmFpcVU2ZEdTWEhqcWU2U1NnRzAyd1poX2xFZW9yYS1wN2d6QVE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-16T12:03:00+00:00"
           }
         ]
       }
