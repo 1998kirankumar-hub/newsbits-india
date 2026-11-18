@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-11-17T23:31:06.530171+00:00",
+  "updated_at": "2026-11-18T00:01:20.063168+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Europe plans to catch the next computer chip wave",
+            "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+            "published": "2026-11-18T00:00:24+00:00"
+          },
+          {
+            "title": "Indiana farmer not liable for drone hitting worker; court says he had no control",
+            "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-farm-drone-allegedly-lost-control-and-struck-lonnie-howards-arm-during-a-2024-crop-spraying-job-on-november-16-appeals-judges-ruled-the-farmer-was-not-liable-because-he-did-not-control-the-drone/articleshow/135920951.cms",
+            "source": "Times of India",
+            "summary": "An incident involving an agricultural drone on a farm in Indiana led to a significant legal dispute. Lonnie Howard claimed injuries when the drone collided with his arm during a spraying operation. However, farmer Mark D Rose was deemed not liable, as he lacked control over the spraying process and did not supervise his son.",
+            "published": "2026-11-18T04:58:00+05:30"
+          },
+          {
             "title": "Top spy agency suffers network outage, the latest US technical failure",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
             "published": "2026-11-17T23:19:12+00:00"
+          },
+          {
+            "title": "At 10, Ira Aditya Raut becomes youngest qualified scuba diver, sets 6 records",
+            "link": "https://timesofindia.indiatimes.com/life-style/people/at-10-years-17-hours-and-35-minutes-old-ira-aditya-raut-became-the-worlds-youngest-qualified-scuba-diver-and-set-six-records-in-one-day-at-shaheed-dweep-including-underwater-distance-and-marine-species-identification/articleshow/135917243.cms",
+            "source": "Times of India",
+            "summary": "In October 2026, Ira Aditya Raut made waves as the youngest qualified scuba diver, notably achieving six records during her underwater adventures in the Andaman Sea. Her feats included identifying diverse marine species and mastering time-sensitive tasks. With a family legacy tied to the Indian Navy, Ira aspires to deepen her understanding of marine life and further hone her diving skills.",
+            "published": "2026-11-18T04:48:00+05:30"
           },
           {
             "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
@@ -20,7 +41,7 @@
             "published": "2026-11-17T23:09:00+00:00"
           },
           {
-            "title": "Nvidia chairman Harvey Jones rules out former CEO Jensen Huang's return",
+            "title": "'Board accepted his resignation': Nvidia chairman rules out Jensen Huang's return",
             "link": "https://timesofindia.indiatimes.com/business/international-business/board-has-no-plans-to-reinstate-him-as-ceo-nvidia-chairman-rules-out-jensen-huangs-return/articleshow/135943448.cms",
             "source": "Times of India",
             "summary": "Nvidia chairman Harvey Jones' statement came hours after Huang said he would return if invited.",
@@ -39,6 +60,13 @@
             "source": "BBC World",
             "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
             "published": "2026-11-17T23:03:39+00:00"
+          },
+          {
+            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+            "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+            "published": "2026-11-17T23:02:12+00:00"
           },
           {
             "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -74,39 +102,25 @@
             "source": "The Hindu",
             "summary": "Jharkhand CEO K Ravi Kumar appeals to all eligible Indian citizens in the state to ensure their names are included in the electoral roll by taking part in Ek Aur Avsar (One More Opportunity) camps",
             "published": "2026-11-18T03:52:22+05:30"
-          },
-          {
-            "title": "Russian military plane crash in Siberia kills 19",
-            "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Russia&#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.",
-            "published": "2026-11-17T22:21:16+00:00"
-          },
-          {
-            "title": "Chandrayaan-3 finds 3 distinct layers in Moon’s soil",
-            "link": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms",
-            "source": "Times of India",
-            "summary": "‘Findings could guide water-ice exploration, lunar habitat construction’",
-            "published": "2026-11-18T03:48:27+05:30"
-          },
-          {
-            "title": "Israel Parliament Elects Gadi Eisenkot Ally As Speaker In Blow For Netanyahu",
-            "link": "https://www.ndtv.com/world-news/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-speaker-in-blow-for-netanyahu-12341395#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Matan Kahana is expected as soon as Wednesday to start the process of undoing much of the agenda of Netanyahu, Israel's longest serving prime minister who has been in and out of office for three decades.",
-            "published": "2026-11-18T03:44:12+05:30"
-          },
-          {
-            "title": "'Real life ghost story' inspires new TV drama in Welsh countryside",
-            "link": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "The \"real-life ghost story\" of a family who experienced \"inexplicable\" things is turned into TV drama.",
-            "published": "2026-11-17T22:08:39+00:00"
           }
         ],
         "India": [
           {
-            "title": "Nvidia chairman Harvey Jones rules out former CEO Jensen Huang's return",
+            "title": "Indiana farmer not liable for drone hitting worker; court says he had no control",
+            "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-farm-drone-allegedly-lost-control-and-struck-lonnie-howards-arm-during-a-2024-crop-spraying-job-on-november-16-appeals-judges-ruled-the-farmer-was-not-liable-because-he-did-not-control-the-drone/articleshow/135920951.cms",
+            "source": "Times of India",
+            "summary": "An incident involving an agricultural drone on a farm in Indiana led to a significant legal dispute. Lonnie Howard claimed injuries when the drone collided with his arm during a spraying operation. However, farmer Mark D Rose was deemed not liable, as he lacked control over the spraying process and did not supervise his son.",
+            "published": "2026-11-18T04:58:00+05:30"
+          },
+          {
+            "title": "At 10, Ira Aditya Raut becomes youngest qualified scuba diver, sets 6 records",
+            "link": "https://timesofindia.indiatimes.com/life-style/people/at-10-years-17-hours-and-35-minutes-old-ira-aditya-raut-became-the-worlds-youngest-qualified-scuba-diver-and-set-six-records-in-one-day-at-shaheed-dweep-including-underwater-distance-and-marine-species-identification/articleshow/135917243.cms",
+            "source": "Times of India",
+            "summary": "In October 2026, Ira Aditya Raut made waves as the youngest qualified scuba diver, notably achieving six records during her underwater adventures in the Andaman Sea. Her feats included identifying diverse marine species and mastering time-sensitive tasks. With a family legacy tied to the Indian Navy, Ira aspires to deepen her understanding of marine life and further hone her diving skills.",
+            "published": "2026-11-18T04:48:00+05:30"
+          },
+          {
+            "title": "'Board accepted his resignation': Nvidia chairman rules out Jensen Huang's return",
             "link": "https://timesofindia.indiatimes.com/business/international-business/board-has-no-plans-to-reinstate-him-as-ceo-nvidia-chairman-rules-out-jensen-huangs-return/articleshow/135943448.cms",
             "source": "Times of India",
             "summary": "Nvidia chairman Harvey Jones' statement came hours after Huang said he would return if invited.",
@@ -174,20 +188,6 @@
             "source": "Times of India",
             "summary": "The Supreme Court said all three were on the \"same footing\" and questioned the Allahabad high court for \"discriminating\" among them.",
             "published": "2026-11-18T03:09:34+05:30"
-          },
-          {
-            "title": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
-            "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece",
-            "source": "The Hindu",
-            "summary": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
-            "published": "2026-11-18T03:00:56+05:30"
-          },
-          {
-            "title": "Alabama man wins $126k over stormwater damage, loses latest bid to collect award",
-            "link": "https://timesofindia.indiatimes.com/world/us/an-alabama-man-won-a-126504-64-judgment-after-stormwater-from-a-neighbouring-subdivision-damaged-his-land-but-struggled-to-collect-it-in-november-2026-the-states-highest-court-dismissed-his-latest-appeal/articleshow/135913787.cms",
-            "source": "Times of India",
-            "summary": "William D. Carpenter triumphed in court, securing a judgment of $126,504.64 for stormwater damage in Alabama. However, challenges arose when he tried to enforce this judgment, prompting him to initiate a new lawsuit against both the homeowners' association and the homeowners. The Alabama Supreme Court dismissed his appeal over procedural technicalities, leaving the original claims of negligence and trespass…",
-            "published": "2026-11-18T03:00:00+05:30"
           }
         ],
         "World": [
@@ -211,6 +211,13 @@
             "source": "BBC World",
             "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
             "published": "2026-11-17T23:03:39+00:00"
+          },
+          {
+            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+            "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+            "published": "2026-11-17T23:02:12+00:00"
           },
           {
             "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
             "published": "2026-11-17T21:25:43+00:00"
-          },
-          {
-            "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-            "published": "2026-11-17T21:24:35+00:00"
           }
         ],
         "Business": [
@@ -450,6 +450,13 @@
         ],
         "Technology": [
           {
+            "title": "Europe plans to catch the next computer chip wave",
+            "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+            "published": "2026-11-18T00:00:24+00:00"
+          },
+          {
             "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
             "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
@@ -525,13 +532,6 @@
             "source": "BBC Technology",
             "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
             "published": "2026-11-17T12:00:12+00:00"
-          },
-          {
-            "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-            "published": "2026-11-17T11:49:01+00:00"
           }
         ],
         "Entertainment": [
@@ -627,6 +627,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "खबर हटके- समुद्र किनारे दौड़ रहे लाखों केकड़े:14 दिन कीचड़ का पानी पीकर जिंदा रहा शख्स; 15 हजार लोगों का एकसाथ डांस, वर्ल्ड रिकॉर्ड बना",
+            "link": "https://www.bhaskar.com/national/news/odisha-survival-assam-dance-record-australia-crab-migration-news-139717695.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-17T23:35:00+00:00"
+          },
+          {
+            "title": "चक्रवात अकवान आंध्र प्रदेश की ओर बढ़ा:तीन राज्यों में बारिश का अलर्ट, बद्रीनाथ में नदी जमी, दिल्ली में AQI 333 तक पहुंचा",
+            "link": "https://www.bhaskar.com/national/news/weather-alert-cyclone-akwan-andhra-pradesh-badrinath-delhi-pollution-139718177.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-17T23:35:00+00:00"
+          },
+          {
             "title": "एनवीडिया में जेनसन हुआंग की वापसी मुश्किल: बोर्ड के चेयरमैन ने किया साफ, कहा- ऐसा करने का कोई इरादा नहीं",
             "link": "https://www.amarujala.com/world/nvidia-board-chairman-rejects-jensen-huang-return-ceo-q3-earnings-2026-11-18",
             "source": "Amar Ujala",
@@ -695,20 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-11-18T01:37:04+05:30"
-          },
-          {
-            "title": "भास्कर अपडेट्स:मनीला में 49वें आसियान शिखर सम्मेलन में भाग लेने के बाद पीएम मोदी नई दिल्ली लौटे, आज प्रिंस विलियम से मुलाकात",
-            "link": "https://www.bhaskar.com/national/news/breaking-news-live-updates-headlines-18-november-mp-rajasthan-cg-delhi-uttar-pradesh-maharashtra-mumbai-139718785.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-17T18:31:00+00:00"
-          },
-          {
-            "title": "Javed Akhtar पर भगवान राम को लेकर भड़के मौलाना रशीदी, क्यों कहा- राम पाल नाम रखें, जिस्म-किडनियां तक बेच डाले",
-            "link": "https://hindi.oneindia.com/news/entertainment/javed-akhtar-vs-maulana-sajid-rashidi-row-over-lord-ram-remark-explained-1686613.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-17T23:33:26+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:ટ્રમ્પે કહ્યું - મોદી ટફ માણસ; ધોનીની IPL નિવૃત્તિ; મોદીની મુલાકાત બાદ કોળી CMની માગ ઉઠતા પાટીદારો એલર્ટ",
+            "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-news-brief-ms-dhoni-retires-from-ipl-pm-modi-trump-quad-summit-139717281.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-17T23:30:00+00:00"
+          },
+          {
             "title": "'એક હજાર વર્ષમાં પેદા થયેલો એવો પ્રથમ ભારતીય શાસક જેણે અફઘાનો પર વળતો હુમલો કર્યો', રણજિતસિંહની કહાણી",
             "link": "https://www.bbc.com/gujarati/articles/ck9873jr27gyo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-11-17T08:17:33+00:00"
-          },
-          {
-            "title": "ટૂંક સમયમાં વિમાન ભાડું ઘટી શકે છે, ફ્લાઇટ્સની સંખ્યા વધશે:ભારત 1,000 વિમાન ખરીદશે; પીયૂષ ગોયલે કહ્યું- કુલ 2,000 વિમાનોની જરૂરિયાત, 1,200નો ઓર્ડર પહેલા આપ્યો",
-            "link": "https://www.divyabhaskar.co.in/national/news/india-civil-aviation-expansion-piyush-goyal-aircraft-order-plan-139713226.html",
-            "source": "Divya Bhaskar",
-            "summary": "ભારતમાં વધતી જતી હવાઈ મુસાફરીની માંગને જોતા કેન્દ્રીય વાણિજ્ય અને ઉદ્યોગ મંત્રી પીયૂષ ગોયલે એક અત્યંત મહત્વપૂર્ણ જાહેરાત કરી છે. તેમણે જણાવ્યું છે કે ભારત સરકાર આગામી સમયમાં વધુ 1,000 સિવિલ એરક્રાફ્ટ ખરીદવાની તૈયારી કરી રહી છે, જેથી દેશમાં વિમાનોની અછતને દૂર કરી શકાય. હાલમાં દેશને પોતાની જરૂરિયાતો પૂરી કરવા માટે કુલ 2,000થી વધુ વિમાનોની આવશ્યકતા છે, જેમાંથી 1,200 વિમાનોનો ઓર્ડર તો અગાઉ જ આપી દેવામાં આવ્યો છે. આ મોટા નિર્ણય પાછળનું મુખ્ય કારણ ફ્લાઇટ્સની સંખ્યામાં નોંધપાત્ર વધારો કરવાનો છે. નિષ્ણાતો માને છે કે જ્યારે આકાશમાં વિમાનોની સંખ્યા વધશે, ત્યારે સ્પર્ધા વધશે અને પરિણામે સામાન્ય મુસાફરો માટે વિમાનના ભાડામાં ઘટાડો જોવા મળી શકે છે. ભારતનું એવિએશન સેક્ટર અત્યારે ઝડપથી વિકાસ કરી રહ્યું છે અને આ પ્રકારના મોટા ઓર્ડર્સ વૈશ્વિક વિમાન ઉત્પાદક કંપનીઓ સાથેની વાતચીતને વેગ આપશે. આ વ્યૂહરચના દ્વારા માત્ર પ્રવાસ જ સરળ નહીં બને પરંતુ દેશની આર્થિક પ્રવૃત્તિઓ અને પરિવહન ક્ષેત્રને પણ મોટું બળ મળશે, જે ભારતને વૈશ્વિક સ્તરે મજબૂત બનાવશે.",
-            "published": "2026-11-17T07:30:51+00:00"
           }
         ]
       }
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "Andhra news: డ్రైవింగ్‌ లైసెన్స్, ఆర్సీ కార్డులకు మోక్షం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeGluT3ZYMVFCQU1NZWlDaFZJckF3RGZlY3lIbUluNXJzbVhBaEE0UUxOb1J6dXZ6SXp2Q1V2cFJnZmpIY0VLRGRSOU5EaXpPUHpBVjlGcVFTYV90dHA1Uk9Qb0dTeWFqN1hQQUZVMk50Y1BfTi1XNDFSaEYwWXFIR1JkTUtOUEFYZ2FyTzVSaHpOTEh4MVZ2MWRVZi1scG5CZTJoUmxYZzJ0dWRENG43TW9jUnRZdk1LRDFoMlVBWW9TQUI4RmF4VWd0NWVFOTd3a2t2NkgyS0JIQjRYb01sNlJB0gHiAUFVX3lxTE54aW5PdlgxUUJBTU1laUNoVklyQXdEZmVjeUhtSW41cnNtWEFoQTRRTE5vUnp1dnpJenZDVXZwUmdmakhjRUtEZFI5TkRpek9QekFWOUZxUVNhX3R0cDVST1BvR1N5YWo3WFBBRlUyTnRjUF9OLVc0MVJoRjBZcUhHUmRNS05QQVhnYXJPNVJoek5MSHgxVnYxZFVmLWxwbkJlMmhSbFhnMnR1ZEQ0bjdNb2NSdFl2TUtEMWgyVUFZb1NBQjhGYXhVZ3Q1ZUU5N3dra3Y2SDJLQkhCNFhvTWw2UkE?oc=5",
-            "source": "Eenadu",
+            "title": "నా తప్పులు తెలుసుకున్నా.. తిరిగి సీఈఓగా రావడానికి సిద్ధంగా ఉన్నా: జెన్సన్​ హువాంగ్ సంచలనం",
+            "link": "https://telugu.oneindia.com/news/international/jensenhuang-return-nvidia-ceo-jensen-huang-ready-to-return-as-nvidia-ceo-key-remarks-jensen-huang-515417.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:21:41+00:00"
+            "published": "2026-11-17T23:45:20+05:30"
           },
           {
-            "title": "కుమార్తె నామినేషన్‌ పత్రాలు చించిన తల్లి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53cGtZTnk0eWt4U1E5N1UyT3kwcXZaTFFsS0hDMWQ5R2h5UjdRbC1KdlRPOFFJQm5JX1dIa2NfZlNvV1liWXpwOGpHR2JBN3pIWW1qR3RFMGdRUF9PUWVLVlBVemFwVEhFclNqSm9sUmRZWDAzTGlTbjBuXy3SAXxBVV95cUxOd3BrWU55NHlreFNROTdVMk95MHF2WkxRbEtIQzFkOUdoeVI3UWwtSnZUTzhRSUJuSV9XSGtjX2ZTb1dZYll6cDhqR0diQTd6SFltakd0RTBnUVBfT1FlS1ZQVXphcFRIRXJTakpvbFJkWVgwM0xpU24wbl8t?oc=5",
-            "source": "Eenadu",
+            "title": "కుప్పకూలిన మిలిటరీ విమానం.. 17 మంది మృతి.. వీడియో వైరల్",
+            "link": "https://telugu.oneindia.com/news/international/russia-military-plane-crashes-in-siberia-russia-17-people-deadmilitary-plane-crashes-in-siberia-515415.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:20:52+00:00"
+            "published": "2026-11-17T22:58:59+05:30"
           },
           {
-            "title": "పొన్నూరు వైకాపా ఛైర్‌పర్సన్‌ అభ్యర్థి నామినేషన్‌ తిరస్కరణ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNUgxV25xdWpkWS1tZ2N3MzBOdzJGWVhuQjVSQW9WUjBRQkJpRTNlOHpFNDBHbUpNMFBwbTRHWE1JaEpUMldrdk53Yl9wU1FLR1gta3pPYzVlLVNEM0JKTUxXRmJiejd3Ui0zRlVoT19tVy1RZnRYcENTbkzSAXxBVV95cUxNMTVIMVducXVqZFktbWdjdzMwTncyRllYbkI1UkFvVlIwUUJCaUUzZTh6RTQwR21KTTBQcG00R1hNSWhKVDJXa3ZOd2JfcFNRS0dYLWt6T2M1ZS1TRDNCSk1MV0ZiYno3d1ItM0ZVaE9fbVctUWZ0WHBDU25M?oc=5",
-            "source": "Eenadu",
+            "title": "హైదరాబాద్ లో స్వీట్స్ తింటున్నారా..? అయితే మీ పని గోవిందా..!",
+            "link": "https://telugu.oneindia.com/news/telangana/sweets-aluminum-used-instead-of-silver-on-counterfeit-racket-busted-in-hyderabad-gang-arrested-515413.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:18:47+00:00"
+            "published": "2026-11-17T22:33:14+05:30"
           },
           {
-            "title": "ఉక్కు ఉత్పత్తి సామర్థ్యాన్ని పెంచుతాం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wWi1jU3BJaDJ5NWROVjhkZGU2TU9vUC0zTkxyYzN2OXcyUG5zNVhBUjNzSXhBQXpLS05IS3U1NzVabUxiTFU5LXpVR25sSmtMNWp2NlEyTElsNFdjMkg1Y25aclBfdXBHNzJ4cGJ0NThJbmIzQUZlY3k4OEPSAXxBVV95cUxPMFotY1NwSWgyeTVkTlY4ZGRlNk1Pb1AtM05McmMzdjl3MlBuczVYQVIzc0l4QUF6S0tOSEt1NTc1Wm1MYkxVOS16VUdubEprTDVqdjZRMkxJbDRXYzJINWNuWnJQX3VwRzcyeHBidDU4SW5iM0FGZWN5ODhD?oc=5",
-            "source": "Eenadu",
+            "title": "'వాళ్లు టెర్రరిస్టులను పంపిస్తే.. మీరు బిర్యానీ పెడతారా'..? పాక్ మంత్రి భారత్ పర్యటనపై కాంగ్రెస్ ఫైర్..",
+            "link": "https://telugu.oneindia.com/news/india/pakistan-minister-invite-and-serve-them-biryani-congress-lashes-out-at-the-centre-sco-summit-news-515411.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:16:17+00:00"
+            "published": "2026-11-17T21:56:11+05:30"
           },
           {
-            "title": "సొంత చెల్లెలిపై.. ఇంత దారుణమైన రాతలా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yVmhtSjljVnc1M0dTMEVVZFl2eTBjQzZsQzh3RmUtOGFPWG1UVlQxZlItcXBmVy13Rlo1SHpzNFI3cFdLbXh2SnpISS1JSTRLaGh4ckJJMmlEVGptYnJDTUotYkxDRXZfbTBySlJkZHExYzZlOWVUY0hWbVnSAXxBVV95cUxNclZobUo5Y1Z3NTNHUzBFVWRZdnkwY0M2bEM4d0ZlLThhT1htVFZUMWZSLXFwZlctd0ZaNUh6czRSN3BXS214dkp6SEktSUk0S2hoeHJCSTJpRFRqbWJyQ01KLWJMQ0V2X20wckpSZGRxMWM2ZTllVGNIVm1Z?oc=5",
-            "source": "Eenadu",
+            "title": "అక్వాన్ తుపాను: పలు జిల్లాల్లో రెడ్ అలర్ట్",
+            "link": "https://www.bbc.com/telugu/articles/c6rmgny0mdzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-11-17T23:15:31+00:00"
+            "published": "2026-11-17T16:02:40+00:00"
           },
           {
-            "title": "44 గంటల ముందు నుంచే మద్యం దుకాణాల మూత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtanFvOXpsV3RDdlJreGhnTENFMm1CU2Z0RjlLd0N1OHZuRlNvaXBHZ05hQW9NRVJSUWtnS3dzcVVQYzgzd094Vm5pelFWU21NRnV0VVNXQS1GOEZIQTM0TlJDcmlIWElSaW9jTnhLa05EaG0yMDkwNlNsT2HSAXxBVV95cUxQLWpxbzl6bFd0Q3ZSa3hoZ0xDRTJtQlNmdEY5S3dDdTh2bkZTb2lwR2dOYUFvTUVSUlFrZ0t3c3FVUGM4M3dPeFZuaXpRVlNtTUZ1dFVTV0EtRjhGSEEzNE5SQ3JpSFhJUmlvY054S2tORGhtMjA5MDZTbE9h?oc=5",
-            "source": "Eenadu",
+            "title": "రాత్రికి రాత్రే కోటీశ్వరుడైన టిప్పర్ డ్రైవర్.. రూ. 500 తో రూ. 12 కోట్ల జాక్ పాట్",
+            "link": "https://telugu.oneindia.com/news/india/lottery-rs-12-crore-win-for-a-rs-500-ticket-a-jackpot-for-a-tipper-truck-driver-in-punjab-news-515407.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:12:56+00:00"
+            "published": "2026-11-17T20:47:22+05:30"
           },
           {
-            "title": "కోనసీమలో బ్లోఅవుట్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hXzdRLVRhQXJHOE0ybHVDa3VJTTFXMWRFOU5PVWo3X1gxdW5CUU1nYkpNNVNycU5Db2w5U0d4VFVUMUo2Ykg4Q21ZNDlOamhmSmhjS2ZVMHA0Q3k0anpDTGxSWWp3bm5KWWhxY2ZNX3QwZGo3RzRSNFl2aFHSAXxBVV95cUxOYV83US1UYUFyRzhNMmx1Q2t1SU0xVzFkRTlOT1VqN19YMXVuQlFNZ2JKTTVTcnFOQ29sOVNHeFRVVDFKNmJIOENtWTQ5TmpoZkpoY0tmVTBwNEN5NGp6Q0xsUllqd25uSllocWNmTV90MGRqN0c0UjRZdmhR?oc=5",
-            "source": "Eenadu",
+            "title": "అక్వాన్ తుపాను ఎక్కడుంది... వరుసగా తుపాన్లు రావడానికి కారణమేంటి?",
+            "link": "https://www.bbc.com/telugu/articles/c9zr53dp11zro?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-11-17T23:12:08+00:00"
+            "published": "2026-11-17T15:04:35+00:00"
           },
           {
-            "title": "వికసిత్‌ భారత్‌ కల.. సూక్ష్మ పరిశ్రమలతో సాకారం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94WFZ3WGc0MUctcE9XUF81VEU4dzRTWGVqalJDbVJLMlZ3TUdnbDUxTV9QSEk1NW1lTnRYYllselQwYW9CMkdFWlNBVDBKV1NSbkFRbThWelY2NHp0ejJNUzRWbHpaRW02b1drcGlGRFZ5dUhEZ0xyUHN5bHHSAXxBVV95cUxPeFhWd1hnNDFHLXBPV1BfNVRFOHc0U1hlampSQ21SSzJWd01HZ2w1MU1fUEhJNTVtZU50WGJZbHpUMGFvQjJHRVpTQVQwSldTUm5BUW04VnpWNjR6dHoyTVM0Vmx6WkVtNm9Xa3BpRkRWeXVIRGdMclBzeWxx?oc=5",
-            "source": "Eenadu",
+            "title": "4నెలలుగా కనిపించకుండా పోయిన బాలిక, 2నెలల పసికందుతో దట్టమైన అడవిలో ఉన్నట్టు పోలీసులు ఎలా కనిపెట్టారు? అసలేం జరిగింది?",
+            "link": "https://www.bbc.com/telugu/articles/c63rgqe5yl2eo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Telugu",
             "summary": "",
-            "published": "2026-11-17T23:11:19+00:00"
+            "published": "2026-11-17T14:22:31+00:00"
           },
           {
-            "title": "మున్సిపల్‌ పోరులో 360 నామినేషన్ల తిరస్కరణ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03U1U4OGtKX2IyNUkwQ1JqbGFWZlFxdTh3Vm9oZnAtSGxYcjU2d2tWSE1LR2NKaTdSRmlURm0yOGhsSU8yWUtBM1NJeFNrNUVqeTUyb2x0dGJxWDRmNUVMVDRQU3J2ZUJvd2p5YkpFSy1WRXRCWHBuX1hSekjSAXxBVV95cUxNN1NVODhrSl9iMjVJMENSamxhVmZRcXU4d1ZvaGZwLUhsWHI1NndrVkhNS0djSmk3UkZpVEZtMjhobElPMllLQTNTSXhTazVFank1Mm9sdHRicVg0ZjVFTFQ0UFNydmVCb3dqeWJKRUstVkV0Qlhwbl9YUnpI?oc=5",
-            "source": "Eenadu",
+            "title": "ఇంటర్ బోర్డు రద్దు వెనుక అసలు కుట్ర ఇదేనా?.. కవిత సంచలన ఆరోపణలు!",
+            "link": "https://telugu.oneindia.com/news/telangana/kalvakuntla-kavitha-slams-cm-revanth-reddy-over-telangana-inter-board-abolition-warns-of-local-quot-515401.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:10:32+00:00"
+            "published": "2026-11-17T19:33:30+05:30"
           },
           {
-            "title": "ఆహారం కలుషితమై 40 మంది విద్యార్థినులకు అస్వస్థత - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uTGllTmdfYkY4b18ya3BqV3NiaUNRMG8ydlVvMWY5NW1raEFVS3NRTldDY1hQZlVLVHY2SVdzaXdBalE0YTkxOVd4YVc3NVVndzQyenVISjI0eUZDZVYtd2x6LVNmWlVKTEF6a3htcExPV3hsZjBtQVBOb3PSAXxBVV95cUxPbkxpZU5nX2JGOG9fMmtwaldzYmlDUTBvMnZVbzFmOTVta2hBVUtzUU5XQ2NYUGZVS1R2NklXc2l3QWpRNGE5MTlXeGFXNzVVZ3c0Mnp1SEoyNHlGQ2VWLXdsei1TZlpVSkxBemt4bXBMT1d4bGYwbUFQTm9z?oc=5",
-            "source": "Eenadu",
+            "title": "ఆ రెండు తుఫాన్లను మించిన ముప్పు-అక్వాన్ పై తేల్చేసిన పవన్..! రేపటి నుంచి..!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/pawan-kalyan-warns-officials-over-cyclone-akvan-says-impact-could-be-worse-than-arnab-and-murasu-515399.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:08:49+00:00"
+            "published": "2026-11-17T19:20:22+05:30"
           },
           {
-            "title": "రాష్ట్రపతి ఉత్తర్వులు-2025పై వ్యాజ్యాల్లో ప్రభుత్వ శాఖలకు కీలక ఆదేశాలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82OFY2d2ZFM3g0dDhoU1FSSTY0dnRsNWY5R1BjNGRfaHdUQ2NTSklvZDh6NEQyLXM4VXVJTnM4THJSV18zanl0bVItWlgxUjNLUGNtT0p2QzRrM0NmR3V2N1VtcDc0cHBIMzRnTnoxak96S05jMEFDcC1lZzHSAXxBVV95cUxPNjhWNndmRTN4NHQ4aFNRUkk2NHZ0bDVmOUdQYzRkX2h3VENjU0pJb2Q4ejREMi1zOFV1SU5zOExyUldfM2p5dG1SLVpYMVIzS1BjbU9KdkM0azNDZkd1djdVbXA3NHBwSDM0Z056MWpPektOYzBBQ3AtZWcx?oc=5",
-            "source": "Eenadu",
+            "title": "హైదరాబాద్ లోకి ఐమాక్స్ రీ ఎంట్రీ.. ఆ రోజే ముహూర్తం.. తొలి సినిమా ఇదే..",
+            "link": "https://telugu.oneindia.com/news/telangana/imax-makes-a-re-entry-in-hyderabad-the-date-is-set-and-this-will-be-the-first-film-imax-latest-515397.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:08:01+00:00"
+            "published": "2026-11-17T19:15:25+05:30"
           },
           {
-            "title": "Cyclone Akwan: నేడు తీవ్ర తుపానుగా అక్వాన్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkgtU0p4V1ZwaWFpVThKYXR1cGZSR3NLSUl0ek5yU015SE9NQzZnUVAxRWZnQkFXTFdlY0Q1SUdCUWNLY0FVRk41ZkV2MWdaTnY3X3d5NTI0MTdpcWRJWlRjaEc1WFJOSUtIaU1PRnppV2FaSEJfaEtUU2dwU2lrU0NubmpoS3FXSEJFNFdIODBmaTVfYzZWbm4wNXNzNWFISl9NZ0lBa3VzLWw3eWJ4UDZHX3I4QVVVbEHSAboBQVVfeXFMUFZILVNKeFdWcGlhaVU4SmF0dXBmUkdzS0lJdHpOclNNeUhPTUM2Z1FQMUVmZ0JBV0xXZWNENUlHQlFjS2NBVUZONWZFdjFnWk52N193eTUyNDE3aXFkSVpUY2hHNVhSTklLSGlNT0Z6aVdhWkhCX2hLVFNncFNpa1NDbm5qaEtxV0hCRTRXSDgwZmk1X2M2Vm5uMDVzczVhSEpfTWdJQWt1cy1sN3lieFA2R19yOEFVVWxB?oc=5",
-            "source": "Eenadu",
+            "title": "తెలుగు ప్రజల కోసం రంగంలోకి కేంద్రం.. తమిళనాడు సర్కారుకు షాక్!",
+            "link": "https://telugu.oneindia.com/news/india/centre-acts-on-tamil-nadu-telugu-people-grievances-directs-state-govt-for-immediate-action-515395.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-17T23:06:53+00:00"
+            "published": "2026-11-17T19:09:59+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "এইচআইটি সেতুর ফাটল পরিদর্শনে কেএমডিএ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQzFrTVUyYVlqeXpTRmxYSkhURVBRTEFaTmR6ZUFMVXJlMFIyWUVpa0ludURJQk5fcnlEbF9FYUZCVnVOZmQ1VzZDVVJkOHBBSFdsTk9FcEZ6QWJYenNpS1czYjZsdnpGeHlaLXNjelVrNXpjNk9POS0wV1VxNDF3WmQ2M3ZFTlNkNU56YTk1TUhMaVpwV2NBT1FGX3gteG1wRnZhcjNDOXl2cmZLVUdSdHhiM2VJQXRSeWN3ZU85b3NacUxiclRqMDYzWExXejF0NzNpWi1ra1VZRXBZeFFqQXRFZVBORUktSlpRWGdLQTAtYTVia2xsUVloSWkya3JSLW1mcDdEdE9pMVZJR0pSakh1YWxsTGJncUx3WnRYM18?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-17T23:56:50+00:00"
+          },
+          {
+            "title": "ওষুধের দাম তবু লাগামহীন - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjdleXlvMFVQdE95U1RBVnpVMVhqdUJkb0FwaTlZZ3FHQjM1WmgzVTdNT2JXaU5nbGpwamxuY3BzcU1sbW9OUm96SENRMjZGOUZtQzBldkJrTUlDWE1vWnNjVTljSGtTTlhjMzJta21JcUpST2lsWHdBZmRRVkY1NjFOTjlmYml0WV9hY05ZcThjOG1HQkF5RVA2YkpyRWkySHBfUXJUOG1aSEhEVjloMUtEV0c5QQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-17T23:43:06+00:00"
+          },
+          {
             "title": "আজকের দিন বৃশ্চিক রাশি- ১৭ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBjQk5XS0FON0JlT3lySGVNSlVuWnFxWVppMklETzJOY3pWR0FDYWtVdUI3LTJhRzVYaTVnSVhIY3RiM043OUFMRF9aS05XNHo0aTNmOGdrYnpfN0FVdVVWRkRjQ1Zib29CQ1pXSjJrRTBUalFaYnJZdzZUdEVBRnlndHI1SjRtelp1N1BDenBnaUtSUHVrUTgwS2pSWHk5MEdKdkZEd01sUGxzektYVHpxWGhid9IBuwFBVV95cUxQOTNMajlRWUxJRmJEbmtlUnJ5YmZoTHJCNlBrMy1jTmIzZkRpbGNkYjlPajJlcC1FcFF4aWxZdHkwZndKbENFWnZhOVZwZTJsWW5TbHR2ckZTSmd2TWdMYnRPclREa2FfSlZiYVROYzBnM1BWdjhfSjMyMlhfWTRMMmN3ZWt1Rm82dVNERU1oNW1LQmxuSXFNSkRvYXhfQ2VfWlh1MWFjRnI2b3lpY1VYejQ2V0RYSFZVZlZN?oc=5",
             "source": "Anandabazar Patrika",
@@ -1447,13 +1461,6 @@
             "published": "2026-11-17T21:19:12+00:00"
           },
           {
-            "title": "আজকের দিন তুলা রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazNNSDRUOXllYWRIMlE3Q0RYUmhENmRXMVo1MW81Z0NEaDZNQ3puUmMxSFZCQUcxLVJLODMzMUdjQ2VFa19BWG92dDN5c1FtVkZkVjY0bmNMTjIwUmFfUDU2cUNDNGZSZlJDeW1wRzZKWkRlSDh4Qnc4SnVlVUt0cDJiem1zVFdOOWN2RlBiZGE5R3F1STJ1SFBUbFRtT0ZxRlZ1RGkxc3ZoV20t0gGyAUFVX3lxTE5DSHZ4bU1NcXducEdLaTBpSEh5dVBsUjFzSHhoMXRVOHpPc1dlUG1DSXlMb0Q0NnBnYmI4bjZnVVVDZm5BR0FBcGVoMnNSSlpkbjZvQ3lNbkVUTzJWRWp4Rk9MQmpNbUdqX0dNazFCVS10bDlObEhlWnFTcS1wdDRBbm1KSTZtZ0xsZENYQ0NqRmM5MFd3b3RWV2RjeTd5ZEx3bUhvSWUyX3RXcFpSdlhUMHc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-17T21:19:12+00:00"
-          },
-          {
             "title": "আজকের দিন মকর রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamp1SWFVSnYzRm1XUWpHYkROWTdXWkEzR0d2Qk85TnFmbGc3N3RVUjZvMUItY1lzQlRuNjFYRzJFUEdlMnRtdU5PcWN6dGdqQUJEUFc4d1pjcWpWWWxyNGMxODRKbWJmSkxBMHMwMjB2MmI3VlQ4MWxCQmJtVHdoa1VLTnJCSFZ1VnVLYTYyd0FEdjZXdmRxS3BlVzU3dlJBWkh4QnVaQ2F3b2dqU1dmX3l3b9IBuAFBVV95cUxOZTQ2Q09vTXg1ZUd5VlhHTjJXNHBrX05yRnpneUViRHJ3OF96cTFXOFI2UnhmX2lpWHhtNzNMRkl6V0hPRGwyYjNEQWZmM3BFWTd1NVFleUl3OG4wd3FRSXk1bUhoSXRxbmpTaXE3RW5lc1VuZUtaUkQ3T0hNZDE2dkQ4SnE0NnFaTmNaN3hUWGVtNlRMdHBUWUFiOUVSakVmenktTmFVN19ZdjMtUUlOZktDY1dTaEpB?oc=5",
             "source": "Anandabazar Patrika",
@@ -1463,6 +1470,13 @@
           {
             "title": "আজকের দিন মীন রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamV4RTdBaWZrRjVOakdiRXVjQlJTc09jWEpYU0wzMmZqb045QmM2RG1Za2hLOXNLdzROSkNaUGpvemV3bFpYenpGeGdGNURqeDFsa0FoTTRhM3QyXzNZMzZiQ1I0YzFzNlpQakxpTnNBU3lnbDJHNUdzYXNkc0xWdjZSUjNkRDg4RTROS2NtWU9mZFpWQ0FPd0ZYa2NSMHJOU1ZGZm5EbWJuX2xIUUHSAbMBQVVfeXFMTnplOXBtNGM3Y3NiUV9yVXhaSjFxOXVZM2xxSHlkalIxRExfSTBWZnY0c0N5aUxSMTRiZFB2WlZXZEVHdmtTU1ZYcW9nQjhDNHMybm16YVpTNDl3aXEzdTJWeU9kZGo3d2F6eFozb3dDWFN4TFFaSzltaHp6RjZTeU1PckpZaTRERHR6cFRVZUhGVWNHaklPaXo4blFwUklwM0toWWJ4ZnJBVDZ4UGlWc0o0R2s?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-17T21:19:12+00:00"
+          },
+          {
+            "title": "আজকের দিন তুলা রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazNNSDRUOXllYWRIMlE3Q0RYUmhENmRXMVo1MW81Z0NEaDZNQ3puUmMxSFZCQUcxLVJLODMzMUdjQ2VFa19BWG92dDN5c1FtVkZkVjY0bmNMTjIwUmFfUDU2cUNDNGZSZlJDeW1wRzZKWkRlSDh4Qnc4SnVlVUt0cDJiem1zVFdOOWN2RlBiZGE5R3F1STJ1SFBUbFRtT0ZxRlZ1RGkxc3ZoV20t0gGyAUFVX3lxTE5DSHZ4bU1NcXducEdLaTBpSEh5dVBsUjFzSHhoMXRVOHpPc1dlUG1DSXlMb0Q0NnBnYmI4bjZnVVVDZm5BR0FBcGVoMnNSSlpkbjZvQ3lNbkVUTzJWRWp4Rk9MQmpNbUdqX0dNazFCVS10bDlObEhlWnFTcS1wdDRBbm1KSTZtZ0xsZENYQ0NqRmM5MFd3b3RWV2RjeTd5ZEx3bUhvSWUyX3RXcFpSdlhUMHc?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-17T21:19:12+00:00"
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-17T19:12:06+00:00"
-          },
-          {
-            "title": "আজকের দিন মেষ রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2ZZYXdJRklBSEhVVTZBMlJrYTJvczZmSmluVFdsTm1aNUsybzVDMWw1eGVxUlBsQlowWEtKbkFkWGxlQnBocWFVMk9hTkoyNFhfbFNvNy1wMFJfRjhsUGttN3l2dU5ZQlp3dXJvTnpRMEJCT3ZTMXhEYUNjb0ZXVWJGVy1fWUxIalNqNTgyZHhhN2RJdDBFaUVCSUpqTTA5bmFLTV9ZRDdEQVhZM2doVGxn0gGyAUFVX3lxTE53Zllhd0lGSUFISFVVNkEyUmthMm9zNmZKaW5UV2xObVo1SzJvNUMxbDV4ZXFSUGxCWjBYS0puQWRYbGVCcGhxYVUyT2FOSjI0WF9sU283LXAwUl9GOGxQa203eXZ1TllCWnd1cm9OelEwQkJPdlMxeERhQ2NvRldVYkZXLV9ZTEhqU2o1ODJkeGE3ZEl0MEVpRUJJSmpNMDluYUtNX1lEN0RBWFkzZ2hUbGc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-17T18:47:59+00:00"
-          },
-          {
-            "title": "আজকের দিন মিথুন রাশি- ১৮ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDEzWG5zSC10T0hXWkdLRDRjTjFicmUxUWJXQzF0VXRMUnZVMnhRTC1EcmZYNnNFMWRfc1lJSGwtWmlnUzZTWk5ma1BzM2VwN1ZhTEczUFBwUVRmVnhCOUFRNl8xSU05ejIydVlPeWdYa0lIQ21pYng5MjBSdXd4M1ZnU0ppNDh6MEUtNV9vQzlSTTJiT2trSU1sazA2RzVNeVY1WUh4THdzelRaSnFJTNIBtgFBVV95cUxPaXQyaXNuRnhsWTBaa3lLMWpkQ0ZtRU83TG42aUxTZmpobHk4dEFla1pNT2VTZjdXQlVzR00zaXhGM2otOHR2aGFITXNwNTlWbk9pVjAxZ2RYR0YwWE9Gd0tCVldzNmNfNy1tdFhrNTNEVFZQV2pVbElOTnFmczN1Z1RYUkdXS2xMMHh3RkppWG43RkFPR0V0TmYzRVM1NUhvWHZTRmxaeTlUODZnMElueGxyMzNWUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-17T18:47:56+00:00"
           }
         ]
       }
