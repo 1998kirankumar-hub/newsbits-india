@@ -1,123 +1,172 @@
 {
-  "updated_at": "2026-11-19T02:01:15.077546+00:00",
+  "updated_at": "2026-11-19T02:31:10.984680+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+            "published": "2026-11-19T02:20:15+00:00"
+          },
+          {
+            "title": "Jasprit Bumrah Produces Magic Ball To Dismiss New Zealand Captain For Duck. Video Viral",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/jasprit-bumrahs-unplayable-delivery-leaves-new-zealand-captain-tom-latham-stunned-in-1st-test-watch-12346629#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "New Zealand skipper Tom Latham shouldered arms, expecting the ball to travel with the angle, but it nipped back sufficiently to clip the off-bail.",
+            "published": "2026-11-19T07:38:14+05:30"
+          },
+          {
+            "title": "India imposes 162.5% tax on bulk Scotch imports amid UK trade pact standoff",
+            "link": "https://www.hindustantimes.com/india-news/india-imposes-162-5-tax-on-bulk-scotch-imports-amid-uk-trade-pact-standoff-101795053540525.html",
+            "source": "Hindustan Times",
+            "summary": "The India-UK trade agreement implemented in July halved tariff rates on Scotch to 75%.",
+            "published": "2026-11-19T07:37:03+05:30"
+          },
+          {
+            "title": "'Haven't heard she was a spy': Trump says Huang affair came up 'briefly' in Xi talks",
+            "link": "https://timesofindia.indiatimes.com/world/us/i-havent-heard-she-was-a-spy-trump-says-jensen-huang-affair-came-up-briefly-in-xi-talks/articleshow/135975327.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-19T07:34:16+05:30"
+          },
+          {
+            "title": "Why Did MS Dhoni Retire Ahead Of IPL 2027? Suresh Raina Makes Big Revelation",
+            "link": "https://sports.ndtv.com/cricket/why-did-ms-dhoni-retire-ahead-of-ipl-2027-suresh-raina-makes-big-revelation-12344794#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "MS Dhoni's recurring knee issues forced him to call time on his IPL playing career, said his longtime Chennai Super Kings (CSK) teammate Suresh Raina.",
+            "published": "2026-11-19T07:33:22+05:30"
+          },
+          {
+            "title": "SC seeks responses from parties on traders’ plea against Ramlila Maidan as protest venue",
+            "link": "https://www.hindustantimes.com/india-news/sc-seeks-responses-from-parties-on-traders-plea-against-ramlila-maidan-as-protest-venue-101795026056965.html",
+            "source": "Hindustan Times",
+            "summary": "The Supreme Court on Wednesday sought responses from political parties, including the Congress and the Aam Aadmi Party (AAP), and organisations such as the Cockroach Janata Party (CJP) and the All India Students Union (AISA), on a petition by market traders’ associations challenging the designation of Ramlila Maidan as a protest venue",
+            "published": "2026-11-19T07:33:20+05:30"
+          },
+          {
+            "title": "Musk Felt \"Pretty Foolish\" Spending Rs 4,700 Crore On US Midterms",
+            "link": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Elon Musk spent nearly half a billion dollars to back Republican candidates and keep Texas red - a state home to his automaker Tesla, rocket-to-AI company SpaceX and a planned chipmaking venture between the two.",
+            "published": "2026-11-19T07:31:52+05:30"
+          },
+          {
+            "title": "Green Bay Packers Fan Gets Ejected After Scattering Loved One's Ashes At Lambeau Field",
+            "link": "https://sports.ndtv.com/us/nfl/green-bay-packers-fan-gets-ejected-after-scattering-loved-ones-ashes-at-lambeau-field-12346749#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Moments after the Green Bay Packers fell to the Minnesota Vikings, a fan at Lambeau Field scattered a loved one's ashes onto the grass. Police ejected the fan, and the team is pointing families to its commemorative brick program instead.",
+            "published": "2026-11-19T07:30:39+05:30"
+          },
+          {
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 1: Shubman Gill Unhappy With Umpire As Huge Controversy Erupts; NZ 5 Down",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-1st-test-day-1-ind-vs-nz-live-updates-cricket-match-result-scorecard-shubman-gill-rishabh-pant-jasprit-bumrah-12346230#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India vs New Zealand 1st Test LIVE Score Updates: India captain Shubman Gill had a heated argument with the umpire after Glenn Phillips survived a close DRS call on Day 1 of the 1st Test in Wellington.",
+            "published": "2026-11-19T07:30:00+05:30"
+          },
+          {
             "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
             "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
+            "source": "BBC World",
             "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
             "published": "2026-11-19T01:56:28+00:00"
           },
           {
-            "title": "DGCA proposes separate registration system for prototype, production aircraft",
-            "link": "https://www.hindustantimes.com/india-news/dgca-proposes-separate-registration-system-for-prototype-production-aircraft-101795052401367.html",
-            "source": "Hindustan Times",
-            "summary": "Under the proposed framework, a common pool of registration marks will be created for production and prototype aircraft",
-            "published": "2026-11-19T07:10:00+05:30"
-          },
-          {
-            "title": "Food and Drug Administration seizes 20,085 litres of oil in Pune over violations of standards",
-            "link": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
-            "source": "The Hindu",
-            "summary": "Officers conducted the operation at a facility of Avenue Supermarts Limited located in Ambi village and took possession of the stock at the warehouse over a breach of the rules that govern the food sector",
-            "published": "2026-11-19T07:08:03+05:30"
-          },
-          {
-            "title": "'You don't kick Michael Jordan off a winning team': Musk backs Ex Nvidia CEO Huang",
-            "link": "https://timesofindia.indiatimes.com/world/us/you-dont-kick-michael-jordan-off-a-winning-team-musk-backs-jensen-huang-questions-nvidia-move/articleshow/135975040.cms",
+            "title": "US officials blame AI for outages at JPMorgan, Microsoft and NSA; brief Congress",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/a-week-of-grounded-flights-and-jpmorgan-chase-microsoft-outlook-and-nsa-network-outages-bank-ceos-us-spy-agency-brief-congress-officials-blames-ai-saying-these-models-are-/articleshow/135975260.cms",
             "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-19T07:07:05+05:30"
+            "summary": "Recent technical outages have disrupted flights, banking operations, and major software services across the U.S. Investigations suggest these issues stemmed from urgent security patches necessitated by vulnerabilities identified through artificial intelligence. Notably, the National Security Agency's network faced downtime following a PHP-related patch. Additionally, separate outages at Microsoft, the FAA, and Chase…",
+            "published": "2026-11-19T07:25:07+05:30"
           },
           {
-            "title": "Indian economy in dire straits, Rahul Gandhi says in US; BJP hits out",
-            "link": "https://www.hindustantimes.com/india-news/indian-economy-in-dire-straits-rahul-gandhi-says-in-us-bjp-hits-out-101795051292850.html",
-            "source": "Hindustan Times",
-            "summary": "Speaking at Columbia University, Rahul Gandhi said India faces severe unemployment and education challenges.",
-            "published": "2026-11-19T07:03:07+05:30"
+            "title": "What Comes Next For Brandon Aiyuk After The San Francisco 49ers Make Their Position Clear?",
+            "link": "https://sports.ndtv.com/us/nfl/what-comes-next-for-brandon-aiyuk-after-the-san-francisco-49ers-make-their-position-clear-12346725#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Brandon Aiyuk has a clean bill of health and a fast-closing deadline. With the San Francisco 49ers moving on, a reunion with Washington Commanders quarterback Jayden Daniels could be his next stop.",
+            "published": "2026-11-19T07:22:36+05:30"
           },
           {
-            "title": "Gukesh asked to distance himself from 'what people are saying' ahead of World Championship",
-            "link": "https://timesofindia.indiatimes.com/sports/chess/in-the-land-of-frankenstein-gukesh-asked-to-distance-himself-from-what-people-are-saying-ahead-of-world-chess-championship/articleshow/135974914.cms",
-            "source": "Times of India",
-            "summary": "Set against Cologny’s literary history, where Frankenstein and The Vampyre were conceived, the 2026 World Chess Championship pits reigning champion D Gukesh against Uzbekistan’s Javokhir Sindarov. Former challenger Peter Leko believes Gukesh must distance himself from expectations, as Sindarov now carries the favourite’s burden. He also welcomes the return of the demanding 14-game championship format.",
-            "published": "2026-11-19T07:01:43+05:30"
+            "title": "Did Dallas Cowboys Just Signal The End Of Christian Parker's Time As Defensive Coordinator?",
+            "link": "https://sports.ndtv.com/us/nfl/did-dallas-cowboys-just-signal-the-end-of-christian-parkers-time-as-defensive-coordinator-12346713#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Christian Parker is still the Dallas Cowboys' defensive coordinator, but he no longer calls the defense. Mike Pettine takes the call sheet against the Tennessee Titans on November 22, and Jesse Holley is asking who the players answer to.",
+            "published": "2026-11-19T07:22:24+05:30"
           },
           {
-            "title": "Denied gratuity for working less than 5 years; court orders payout with 10% interest",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/employee-worked-4-years-9-months-and-12-days-not-5-years-and-bengaluru-metro-denied-him-rs-1-75-lakh-gratuity-karnataka-high-court-orders-full-payment-with-10-interest-after-examining-the-240-day-rule/articleshow/135959082.cms",
-            "source": "Times of India",
-            "summary": "The man joined the Bengaluru Metro Rail Corporation (BMRCL) as an assistant engineer on July 6, 2017. He resigned on March 19, 2022, and was formally relieved of his duties on April 18, 2022. His total period of employment amounted to four years, nine months and 12 days. After leaving the corporation, he made several representations seeking payment of gratuity. He claimed Rs 1.85 lakh, calculating the amount on the…",
-            "published": "2026-11-19T06:59:00+05:30"
-          },
-          {
-            "title": "Gurdaspur man turns paddy stubble into fire-proof ceiling tiles after 8 years",
-            "link": "https://timesofindia.indiatimes.com/life-style/people/after-eight-years-of-experimenting-with-paddy-stubble-in-his-gurdaspur-garage-parminder-singh-has-developed-waterproof-fire-resistant-ceiling-tiles-that-could-turn-crop-waste-into-an-alternative-to-burning-residue-in-punjab/articleshow/135952201.cms",
-            "source": "Times of India",
-            "summary": "Parminder Singh has ingeniously turned paddy stubble into ceiling tiles, striving to confront environmental concerns. His startup, Agro Stubble Management, aspires to establish a marketplace for agricultural leftovers. Following years of research, these innovative tiles exhibit excellent insulation, waterproof capabilities, and fire resistance. Although they have received accolades, broader manufacturing and…",
-            "published": "2026-11-19T06:59:00+05:30"
-          },
-          {
-            "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
-            "link": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
-            "source": "The Hindu",
-            "summary": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
-            "published": "2026-11-19T06:57:12+05:30"
-          },
-          {
-            "title": "'Not ready to accept a non-democratic India': Rahul Gandhi's message from Chicago",
-            "link": "https://timesofindia.indiatimes.com/india/if-oppn-stops-participating-indian-democracy-would-end-rahul-gandhi-in-us-rules-out-poll-boycott/articleshow/135974730.cms",
-            "source": "Times of India",
-            "summary": "During his address at the University of Chicago, Rahul Gandhi emphasized the opposition's strong dedication to engaging in elections and dismissed the idea of a boycott, asserting it would significantly harm India's democratic integrity. He elaborated on troubling aspects of Indian democracy, pointed out escalating issues within the Election Commission, and highlighted serious economic challenges, like high…",
-            "published": "2026-11-19T06:54:25+05:30"
-          },
-          {
-            "title": "Who are the investors ready to jump on Anthropic?",
-            "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
-            "published": "2026-11-19T01:22:38+00:00"
-          },
-          {
-            "title": "Azam Khan out of jail; Supreme Court refuses to stay in interim bail in ED case",
-            "link": "https://www.hindustantimes.com/india-news/azam-khan-out-of-jail-supreme-court-refuses-to-stay-in-interim-bail-in-ed-case-101795048666552.html",
-            "source": "Hindustan Times",
-            "summary": "The ED had challenged the Allahabad High Court's interim bail order, questioning its findings on the circumstances surrounding Khan's arrest on October 31.",
-            "published": "2026-11-19T06:51:10+05:30"
-          },
-          {
-            "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-            "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
-            "published": "2026-11-19T01:17:08+00:00"
-          },
-          {
-            "title": "Settler rams into Palestinians at multiple locations in central Israel",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-            "published": "2026-11-19T01:13:45+00:00"
+            "title": "\"Most Of The Guys Are Thinking About GTA\": Deshaun Watson Reveals What's Distracting The Cleveland Browns",
+            "link": "https://sports.ndtv.com/us/nfl/most-of-the-guys-are-thinking-about-gta-deshaun-watson-reveals-whats-distracting-the-cleveland-browns-12346691#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Deshaun Watson says the Cleveland Browns are not talking playoffs, even at 6-4. Most of the locker room is busy counting down to GTA VI, while the Las Vegas Raiders loom on Nov. 29.",
+            "published": "2026-11-19T07:22:14+05:30"
           }
         ],
         "India": [
           {
+            "title": "India imposes 162.5% tax on bulk Scotch imports amid UK trade pact standoff",
+            "link": "https://www.hindustantimes.com/india-news/india-imposes-162-5-tax-on-bulk-scotch-imports-amid-uk-trade-pact-standoff-101795053540525.html",
+            "source": "Hindustan Times",
+            "summary": "The India-UK trade agreement implemented in July halved tariff rates on Scotch to 75%.",
+            "published": "2026-11-19T07:37:03+05:30"
+          },
+          {
+            "title": "'Haven't heard she was a spy': Trump says Huang affair came up 'briefly' in Xi talks",
+            "link": "https://timesofindia.indiatimes.com/world/us/i-havent-heard-she-was-a-spy-trump-says-jensen-huang-affair-came-up-briefly-in-xi-talks/articleshow/135975327.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-19T07:34:16+05:30"
+          },
+          {
+            "title": "SC seeks responses from parties on traders’ plea against Ramlila Maidan as protest venue",
+            "link": "https://www.hindustantimes.com/india-news/sc-seeks-responses-from-parties-on-traders-plea-against-ramlila-maidan-as-protest-venue-101795026056965.html",
+            "source": "Hindustan Times",
+            "summary": "The Supreme Court on Wednesday sought responses from political parties, including the Congress and the Aam Aadmi Party (AAP), and organisations such as the Cockroach Janata Party (CJP) and the All India Students Union (AISA), on a petition by market traders’ associations challenging the designation of Ramlila Maidan as a protest venue",
+            "published": "2026-11-19T07:33:20+05:30"
+          },
+          {
+            "title": "Musk Felt \"Pretty Foolish\" Spending Rs 4,700 Crore On US Midterms",
+            "link": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Elon Musk spent nearly half a billion dollars to back Republican candidates and keep Texas red - a state home to his automaker Tesla, rocket-to-AI company SpaceX and a planned chipmaking venture between the two.",
+            "published": "2026-11-19T07:31:52+05:30"
+          },
+          {
+            "title": "US officials blame AI for outages at JPMorgan, Microsoft and NSA; brief Congress",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/a-week-of-grounded-flights-and-jpmorgan-chase-microsoft-outlook-and-nsa-network-outages-bank-ceos-us-spy-agency-brief-congress-officials-blames-ai-saying-these-models-are-/articleshow/135975260.cms",
+            "source": "Times of India",
+            "summary": "Recent technical outages have disrupted flights, banking operations, and major software services across the U.S. Investigations suggest these issues stemmed from urgent security patches necessitated by vulnerabilities identified through artificial intelligence. Notably, the National Security Agency's network faced downtime following a PHP-related patch. Additionally, separate outages at Microsoft, the FAA, and Chase…",
+            "published": "2026-11-19T07:25:07+05:30"
+          },
+          {
+            "title": "Meta employees fear AI agent championed by Alexandr Wang, worry about ‘spying’",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/some-meta-employees-reportedly-scared-of-the-companys-muse-ai-agent-that-ai-head-alexandr-wang-champions-fears-include-spying-and-/articleshow/135975226.cms",
+            "source": "Times of India",
+            "summary": "Meta’s innovative AI agent, Muse, has sparked controversy due to its alarming access to users' private messages. Reports from employees testing the agent reveal unsettling incidents involving unintended financial disclosures. This raises significant privacy concerns, as it appears the AI may have synchronized sensitive data without explicit user consent. In response, Meta has labeled these as isolated instances and…",
+            "published": "2026-11-19T07:21:42+05:30"
+          },
+          {
+            "title": "Gujarat Cop Arrested For Accepting Rs 20,000 Bribe To Return Seized Phone",
+            "link": "https://www.ndtv.com/india-news/gujarat-cop-arrested-for-accepting-rs-20-000-bribe-to-return-seized-phone-12346737#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The officer, identified as Ekta Pandya, allegedly demanded the money from a complainant in exchange for returning his mobile phone, which she had seized during a prohibition case investigation.",
+            "published": "2026-11-19T07:20:28+05:30"
+          },
+          {
+            "title": "Elon Musk Was Asked If He Would Hire Jensen Huang. His Response",
+            "link": "https://www.ndtv.com/world-news/elon-musk-was-asked-if-he-would-hire-jensen-huang-his-response-12346727#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Elon Musk equated Huang being forced out of Nvidia to the Chicago Bulls dropping basketball great Michael Jordan in the middle of a winning streak.",
+            "published": "2026-11-19T07:10:59+05:30"
+          },
+          {
             "title": "DGCA proposes separate registration system for prototype, production aircraft",
             "link": "https://www.hindustantimes.com/india-news/dgca-proposes-separate-registration-system-for-prototype-production-aircraft-101795052401367.html",
             "source": "Hindustan Times",
             "summary": "Under the proposed framework, a common pool of registration marks will be created for production and prototype aircraft",
             "published": "2026-11-19T07:10:00+05:30"
-          },
-          {
-            "title": "Food and Drug Administration seizes 20,085 litres of oil in Pune over violations of standards",
-            "link": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
-            "source": "The Hindu",
-            "summary": "Officers conducted the operation at a facility of Avenue Supermarts Limited located in Ambi village and took possession of the stock at the warehouse over a breach of the rules that govern the food sector",
-            "published": "2026-11-19T07:08:03+05:30"
           },
           {
             "title": "'You don't kick Michael Jordan off a winning team': Musk backs Ex Nvidia CEO Huang",
@@ -139,58 +188,30 @@
             "source": "Times of India",
             "summary": "Set against Cologny’s literary history, where Frankenstein and The Vampyre were conceived, the 2026 World Chess Championship pits reigning champion D Gukesh against Uzbekistan’s Javokhir Sindarov. Former challenger Peter Leko believes Gukesh must distance himself from expectations, as Sindarov now carries the favourite’s burden. He also welcomes the return of the demanding 14-game championship format.",
             "published": "2026-11-19T07:01:43+05:30"
-          },
-          {
-            "title": "Denied gratuity for working less than 5 years; court orders payout with 10% interest",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/employee-worked-4-years-9-months-and-12-days-not-5-years-and-bengaluru-metro-denied-him-rs-1-75-lakh-gratuity-karnataka-high-court-orders-full-payment-with-10-interest-after-examining-the-240-day-rule/articleshow/135959082.cms",
-            "source": "Times of India",
-            "summary": "The man joined the Bengaluru Metro Rail Corporation (BMRCL) as an assistant engineer on July 6, 2017. He resigned on March 19, 2022, and was formally relieved of his duties on April 18, 2022. His total period of employment amounted to four years, nine months and 12 days. After leaving the corporation, he made several representations seeking payment of gratuity. He claimed Rs 1.85 lakh, calculating the amount on the…",
-            "published": "2026-11-19T06:59:00+05:30"
-          },
-          {
-            "title": "Gurdaspur man turns paddy stubble into fire-proof ceiling tiles after 8 years",
-            "link": "https://timesofindia.indiatimes.com/life-style/people/after-eight-years-of-experimenting-with-paddy-stubble-in-his-gurdaspur-garage-parminder-singh-has-developed-waterproof-fire-resistant-ceiling-tiles-that-could-turn-crop-waste-into-an-alternative-to-burning-residue-in-punjab/articleshow/135952201.cms",
-            "source": "Times of India",
-            "summary": "Parminder Singh has ingeniously turned paddy stubble into ceiling tiles, striving to confront environmental concerns. His startup, Agro Stubble Management, aspires to establish a marketplace for agricultural leftovers. Following years of research, these innovative tiles exhibit excellent insulation, waterproof capabilities, and fire resistance. Although they have received accolades, broader manufacturing and…",
-            "published": "2026-11-19T06:59:00+05:30"
-          },
-          {
-            "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
-            "link": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
-            "source": "The Hindu",
-            "summary": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
-            "published": "2026-11-19T06:57:12+05:30"
-          },
-          {
-            "title": "'Not ready to accept a non-democratic India': Rahul Gandhi's message from Chicago",
-            "link": "https://timesofindia.indiatimes.com/india/if-oppn-stops-participating-indian-democracy-would-end-rahul-gandhi-in-us-rules-out-poll-boycott/articleshow/135974730.cms",
-            "source": "Times of India",
-            "summary": "During his address at the University of Chicago, Rahul Gandhi emphasized the opposition's strong dedication to engaging in elections and dismissed the idea of a boycott, asserting it would significantly harm India's democratic integrity. He elaborated on troubling aspects of Indian democracy, pointed out escalating issues within the Election Commission, and highlighted serious economic challenges, like high…",
-            "published": "2026-11-19T06:54:25+05:30"
-          },
-          {
-            "title": "Azam Khan out of jail; Supreme Court refuses to stay in interim bail in ED case",
-            "link": "https://www.hindustantimes.com/india-news/azam-khan-out-of-jail-supreme-court-refuses-to-stay-in-interim-bail-in-ed-case-101795048666552.html",
-            "source": "Hindustan Times",
-            "summary": "The ED had challenged the Allahabad High Court's interim bail order, questioning its findings on the circumstances surrounding Khan's arrest on October 31.",
-            "published": "2026-11-19T06:51:10+05:30"
-          },
-          {
-            "title": "Kochi Corporation spends over ₹4 crore a year on nearly 2,000 defunct public taps",
-            "link": "https://www.thehindu.com/news/national/kerala/kochi-corporation-spends-over-4-crore-a-year-on-nearly-2000-defunct-public-taps/article71716185.ece",
-            "source": "The Hindu",
-            "summary": "Each public tap costs the Corporation ₹21,838 a year, irrespective of whether it is functional, taking the total annual expenditure to ₹11.70 crore",
-            "published": "2026-11-19T06:41:59+05:30"
-          },
-          {
-            "title": "Hyderabad explores 35-km personal rapid transit network",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-explores-35-km-personal-rapid-transit-network/article71716607.ece",
-            "source": "The Hindu",
-            "summary": "The proposal is under active consideration, with the first phase envisaged between Kukatpally and Knowledge City via Raidurgam and Biodiversity Park",
-            "published": "2026-11-19T06:38:08+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+            "published": "2026-11-19T02:20:15+00:00"
+          },
+          {
+            "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+            "published": "2026-11-19T01:56:28+00:00"
+          },
+          {
+            "title": "Hegseth unveils new US-Venezuela military deal",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+            "published": "2026-11-19T01:48:46+00:00"
+          },
           {
             "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
             "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
@@ -253,30 +274,23 @@
             "source": "Al Jazeera",
             "summary": "AI giant prices shares at $83 in blockbuster market debut.",
             "published": "2026-11-19T00:20:03+00:00"
-          },
-          {
-            "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-            "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
-            "published": "2026-11-19T00:14:40+00:00"
-          },
-          {
-            "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-            "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
-            "published": "2026-11-19T00:11:40+00:00"
-          },
-          {
-            "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
-            "published": "2026-11-19T00:01:02+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+            "published": "2026-11-19T02:20:15+00:00"
+          },
+          {
+            "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+            "published": "2026-11-19T01:56:28+00:00"
+          },
           {
             "title": "Who are the investors ready to jump on Anthropic?",
             "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
@@ -334,13 +348,6 @@
             "published": "2026-11-18T23:47:46+00:00"
           },
           {
-            "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-            "published": "2026-11-18T23:44:27+00:00"
-          },
-          {
             "title": "The seven Anthropic founders who are about to become multi-billionaires",
             "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
@@ -353,29 +360,64 @@
             "source": "BBC Business",
             "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
             "published": "2026-11-18T23:01:09+00:00"
-          },
-          {
-            "title": "Business Daily",
-            "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "We examine the business of the Claude chatbot maker as it starts selling shares",
-            "published": "2026-11-18T21:30:00+00:00"
           }
         ],
         "Sports": [
+          {
+            "title": "Jasprit Bumrah Produces Magic Ball To Dismiss New Zealand Captain For Duck. Video Viral",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/jasprit-bumrahs-unplayable-delivery-leaves-new-zealand-captain-tom-latham-stunned-in-1st-test-watch-12346629#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "New Zealand skipper Tom Latham shouldered arms, expecting the ball to travel with the angle, but it nipped back sufficiently to clip the off-bail.",
+            "published": "2026-11-19T07:38:14+05:30"
+          },
+          {
+            "title": "Why Did MS Dhoni Retire Ahead Of IPL 2027? Suresh Raina Makes Big Revelation",
+            "link": "https://sports.ndtv.com/cricket/why-did-ms-dhoni-retire-ahead-of-ipl-2027-suresh-raina-makes-big-revelation-12344794#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "MS Dhoni's recurring knee issues forced him to call time on his IPL playing career, said his longtime Chennai Super Kings (CSK) teammate Suresh Raina.",
+            "published": "2026-11-19T07:33:22+05:30"
+          },
+          {
+            "title": "Green Bay Packers Fan Gets Ejected After Scattering Loved One's Ashes At Lambeau Field",
+            "link": "https://sports.ndtv.com/us/nfl/green-bay-packers-fan-gets-ejected-after-scattering-loved-ones-ashes-at-lambeau-field-12346749#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Moments after the Green Bay Packers fell to the Minnesota Vikings, a fan at Lambeau Field scattered a loved one's ashes onto the grass. Police ejected the fan, and the team is pointing families to its commemorative brick program instead.",
+            "published": "2026-11-19T07:30:39+05:30"
+          },
+          {
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 1: Shubman Gill Unhappy With Umpire As Huge Controversy Erupts; NZ 5 Down",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-1st-test-day-1-ind-vs-nz-live-updates-cricket-match-result-scorecard-shubman-gill-rishabh-pant-jasprit-bumrah-12346230#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India vs New Zealand 1st Test LIVE Score Updates: India captain Shubman Gill had a heated argument with the umpire after Glenn Phillips survived a close DRS call on Day 1 of the 1st Test in Wellington.",
+            "published": "2026-11-19T07:30:00+05:30"
+          },
+          {
+            "title": "What Comes Next For Brandon Aiyuk After The San Francisco 49ers Make Their Position Clear?",
+            "link": "https://sports.ndtv.com/us/nfl/what-comes-next-for-brandon-aiyuk-after-the-san-francisco-49ers-make-their-position-clear-12346725#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Brandon Aiyuk has a clean bill of health and a fast-closing deadline. With the San Francisco 49ers moving on, a reunion with Washington Commanders quarterback Jayden Daniels could be his next stop.",
+            "published": "2026-11-19T07:22:36+05:30"
+          },
+          {
+            "title": "Did Dallas Cowboys Just Signal The End Of Christian Parker's Time As Defensive Coordinator?",
+            "link": "https://sports.ndtv.com/us/nfl/did-dallas-cowboys-just-signal-the-end-of-christian-parkers-time-as-defensive-coordinator-12346713#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Christian Parker is still the Dallas Cowboys' defensive coordinator, but he no longer calls the defense. Mike Pettine takes the call sheet against the Tennessee Titans on November 22, and Jesse Holley is asking who the players answer to.",
+            "published": "2026-11-19T07:22:24+05:30"
+          },
+          {
+            "title": "\"Most Of The Guys Are Thinking About GTA\": Deshaun Watson Reveals What's Distracting The Cleveland Browns",
+            "link": "https://sports.ndtv.com/us/nfl/most-of-the-guys-are-thinking-about-gta-deshaun-watson-reveals-whats-distracting-the-cleveland-browns-12346691#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Deshaun Watson says the Cleveland Browns are not talking playoffs, even at 6-4. Most of the locker room is busy counting down to GTA VI, while the Las Vegas Raiders loom on Nov. 29.",
+            "published": "2026-11-19T07:22:14+05:30"
+          },
           {
             "title": "Marcus Morris Says Boston Celtics' Treatment of Jayson Tatum Created Jaylen Brown Rift",
             "link": "https://sports.ndtv.com/us/nba/marcus-morris-says-boston-celtics-treatment-of-jayson-tatum-created-jaylen-brown-rift-12346454#publisher=newsstand",
             "source": "NDTV Sports",
             "summary": "Marcus Morris claims the Boston Celtics' preferential treatment of Jayson Tatum contributed to tension with Jaylen Brown, dating back to their early years as teammates.",
             "published": "2026-11-19T06:40:37+05:30"
-          },
-          {
-            "title": "India vs New Zealand LIVE Score, 1st Test Day 1: Jasprit Bumrah On Fire As India Clean Up New Zealand's Top Order",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-1st-test-day-1-ind-vs-nz-live-updates-cricket-match-result-scorecard-shubman-gill-rishabh-pant-jasprit-bumrah-12346230#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs New Zealand 1st Test LIVE Score Updates: India will be eyeing more wickets in the second session after putting New Zealand to the sword on Day 1 of the first Test in Wellington.",
-            "published": "2026-11-19T06:39:29+05:30"
           },
           {
             "title": "Is Cam Skattebo Done With His Famous Backflip Celebration After Aidan Hutchinson's Injury?",
@@ -392,20 +434,6 @@
             "published": "2026-11-19T06:38:47+05:30"
           },
           {
-            "title": "\"Most Of The Guys Are Thinking About GTA\": Deshaun Watson Reveals What's Distracting The Cleveland Browns",
-            "link": "https://sports.ndtv.com/us/nfl/most-of-the-guys-are-thinking-about-gta-deshaun-watson-reveals-whats-distracting-the-cleveland-browns-12346675#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Deshaun Watson says the Cleveland Browns are not talking playoffs, even at 6-4. Most of the locker room is busy counting down to GTA VI, while the Las Vegas Raiders loom on Nov. 29.",
-            "published": "2026-11-19T06:38:15+05:30"
-          },
-          {
-            "title": "Watch: Jasprit Bumrah's Unplayable Delivery Leaves New Zealand Captain Stunned In 1st Test",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/jasprit-bumrahs-unplayable-delivery-leaves-new-zealand-captain-tom-latham-stunned-in-1st-test-watch-12346629#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "New Zealand skipper Tom Latham shouldered arms, expecting the ball to travel with the angle, but it nipped back sufficiently to clip the off-bail.",
-            "published": "2026-11-19T06:25:03+05:30"
-          },
-          {
             "title": "Pakistan Coach Fumes Over Journalist's 'Babar Azam' Question: \"I've Had Enough\"",
             "link": "https://sports.ndtv.com/cricket/pakistan-coach-fumes-over-journalists-babar-azam-question-ive-had-enough-12345860#publisher=newsstand",
             "source": "NDTV Sports",
@@ -418,50 +446,22 @@
             "source": "NDTV Sports",
             "summary": "Mohammed Siraj was overlooked for a four-man pace attack comprising Jasprit Bumrah, Anshul Kamboj, Akash Deep and Prasidh Krishna for the series opener at the Basin Reserve.",
             "published": "2026-11-19T05:46:20+05:30"
-          },
-          {
-            "title": "'Consistent and adamant' - Cummins stands by sandpaper denials",
-            "link": "https://www.cricinfo.com/ci/content/story/1563151.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "The Australia captain's agent said 'there is nothing he hasn't answered' in the wake of Bancroft's revelations",
-            "published": "2026-11-18T23:39:18+00:00"
-          },
-          {
-            "title": "What Shubman Gill Said On Mohammed Siraj's Snub For 1st New Zealand Test",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/shubman-gills-honest-admission-on-mohammed-sirajs-snub-for-1st-test-against-new-zealand-12346457#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India made a shocking decision to go with Washington Sundar over Ravindra Jadeja, and Akash Deep and Anshul Kamboj over senior pacer Mohammed Siraj.",
-            "published": "2026-11-19T04:49:50+05:30"
-          },
-          {
-            "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
-            "link": "https://www.cricinfo.com/ci/content/story/1563144.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "India asked New Zealand to bat first on a green pitch",
-            "published": "2026-11-18T22:03:27+00:00"
-          },
-          {
-            "title": "New Zealand 'trying to be a little bit fluid' with fast bowlers' workloads",
-            "link": "https://www.cricinfo.com/ci/content/story/1563034.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "New Zealand have ten Tests lined up in quick succession, and captain Tom Latham hopes to look back at the end of it \"and say we had a pretty good time\"",
-            "published": "2026-11-18T21:35:03+00:00"
           }
         ],
         "Technology": [
+          {
+            "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+            "published": "2026-11-19T02:20:15+00:00"
+          },
           {
             "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
             "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
             "published": "2026-11-19T01:56:28+00:00"
-          },
-          {
-            "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-            "published": "2026-11-18T23:44:27+00:00"
           },
           {
             "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -627,14 +627,35 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "IND vs NZ Live Score: हेनरी निकोल्स का अर्धशतक, न्यूजीलैंड पांच विकेट पर 100 रन के पार; बुमराह को तीन सफलता",
+            "title": "IND vs NZ Live Score: न्यूजीलैंड पांच विकेट पर 120 के पार, हेनरी का अर्धशतक, फिलिप्स के साथ 50+ रन की साझेदारी",
             "link": "https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-live-score-india-vs-new-zealand-wellington-test-match-updates-2026-11-19",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-19T07:23:38+05:30"
+            "published": "2026-11-19T07:59:43+05:30"
           },
           {
-            "title": "13 साल बाद आए GTA 6 को बताया जा रहा है 'मास्टरपीस', इस गेम के लिए क्यों है इतनी दीवानगी?",
+            "title": "जेल से निकलने के बाद आज़म ख़ान का एलान, 'अब चुनाव नहीं, इंकलाब होगा'",
+            "link": "https://www.bbc.com/hindi/articles/c83vgp0kdgxno?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Hindi",
+            "summary": "",
+            "published": "2026-11-19T02:26:02+00:00"
+          },
+          {
+            "title": "बिहार में भीषण सड़क हादसा: नहर में गिरी स्कॉर्पियो, छह लोगों की मौत, एक गंभीर",
+            "link": "https://www.amarujala.com/bihar/purnea/araria-road-accident-scorpio-falls-canal-six-dead-supaul-2026-11-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-19T07:46:45+05:30"
+          },
+          {
+            "title": "Akvan Live: चक्रवात अकवान के दोपहर तक आंध्र-ओडिशा तट से टकराने की आशंका, कई राज्यों में भारी बारिश का अलर्ट",
+            "link": "https://www.amarujala.com/live/india-news/cyclone-akvan-live-updates-andhra-pradesh-and-odisha-coast-on-alert-three-trains-rescheduled-2026-11-19",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-19T07:24:16+05:30"
+          },
+          {
+            "title": "13 साल बाद आए जीटीए 6 को बताया जा रहा मास्टरपीस, भारत समेत दुनिया भर में क्यों है इसकी दीवानगी?",
             "link": "https://www.bbc.com/hindi/articles/cw80853zlxeeo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Hindi",
             "summary": "",
@@ -669,20 +690,6 @@
             "published": "2026-11-19T06:05:17+05:30"
           },
           {
-            "title": "आज के दिन: पीएम मोदी फिक्की के सम्मेलन का उद्घाटन करेंगे; अमेरिका, चीन, रूस के राष्ट्राध्यक्षों की होगी बैठक",
-            "link": "https://www.amarujala.com/india-news/aaj-ke-din-19-november-2026-days-biggest-happening-top-headlines-of-the-day-news-updates-2026-11-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-19T05:57:28+05:30"
-          },
-          {
-            "title": "युद्ध की आहट: ईरान-अमेरिका के बीच तनाव बढ़ा, होर्मुज में बारूदी सुरंगों से टकराए तीन तेल टैंकरों में लगी आग",
-            "link": "https://www.amarujala.com/world/us-tehran-tensions-iran-claims-three-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz-2026-11-19",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-19T05:52:36+05:30"
-          },
-          {
             "title": "सुर्खियां: अमेरिका में राहुल ने भारत की चुनाव प्रक्रिया पर उठाए सवाल; ट्रंप, पुतिन और जिनपिंग आज करेंगे बैठक",
             "link": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-19-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-19",
             "source": "Amar Ujala",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-18T23:35:00+00:00"
-          },
-          {
-            "title": "तूफान अकवान कल आंध्र-ओडिशा के बीच टकराएगा:ओडिशा के 6 जिलों के स्कूल 3 दिन बंद; 10 राज्यों में असर",
-            "link": "https://www.bhaskar.com/national/news/odisha-andhra-pradesh-cyclone-akwan-alert-schools-closed-139728553.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-18T23:30:00+00:00"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ગુજરાતમાં અત્યાર સુધી કોઈ કોળી મુખ્ય મંત્રીપદે નહીં, હવે માગ કેમ ઊઠી રહી છે?",
+            "link": "https://www.bbc.com/gujarati/articles/c6jeqxknz0vdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-11-19T02:21:41+00:00"
+          },
+          {
             "title": "2035 સુધીમાં ઇસ્લામ વિશ્વનો સૌથી મોટો ધર્મ બની જશે:દુનિયાની વસ્તીમાં મુસ્લિમોની સંખ્યા ઝડપથી વધશે, હિંદુઓનો હિસ્સો ઘટશે",
             "link": "https://www.divyabhaskar.co.in/national/news/global-religious-demography-report-muslim-population-growth-projections-139730744.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-11-18T11:56:50+00:00"
-          },
-          {
-            "title": "વંદે ભારત સ્લીપર ટ્રેનની ખાસિયતો : સામાન્ય ટ્રેનો કરતાં કેટલી અલગ છે આ નવી ટ્રેન? જુઓ અંદરની તસવીરો",
-            "link": "https://www.bbc.com/gujarati/articles/cvj6l5x580ypo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-18T11:50:13+00:00"
           }
         ]
       }
@@ -894,6 +894,27 @@
       "label": "தமிழ்",
       "categories": {
         "Top Stories": [
+          {
+            "title": "ஹனி ட்ராப்: காதல், உறவுகளை பயன்படுத்தி ரகசித தகவலைகளை பெறும் ஆயுதம் - வரலாற்றில் பதிவான சம்பவங்கள்",
+            "link": "https://www.bbc.com/tamil/articles/cmvg2e3zv7qjo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Tamil",
+            "summary": "",
+            "published": "2026-11-19T02:16:33+00:00"
+          },
+          {
+            "title": "டிரம்பிற்காக 50 ஆண்டு கால பழக்கத்தை கைவிட்ட ஜி ஜின்பிங்! இப்படி நடந்ததே இல்லை! வரவேற்பை கவனிச்சீங்களா",
+            "link": "https://tamil.oneindia.com/news/international/xi-jinping-welcomes-donald-trump-at-airport-it-is-the-first-time-in-about-50-years-of-china-846461.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-11-19T07:35:25+05:30"
+          },
+          {
+            "title": "விவாகரத்துக்கு தடபுடல் பார்ட்டி! திருமண விழா போல் கேக் வெட்டி கொண்டாடிய இளம்பெண்.. பின்னணி",
+            "link": "https://tamil.oneindia.com/news/international/south-korea-woman-celebrates-divorce-as-a-lavish-party-with-her-friends-846463.html",
+            "source": "Oneindia Tamil",
+            "summary": "",
+            "published": "2026-11-19T07:34:43+05:30"
+          },
           {
             "title": "மகாராஜா ரஞ்சித் சிங்: சிற்றரசின் வாரிசாக இருந்து ஆப்கானியர்களின் ஆதிக்கப் பகுதிகளுக்குள்ளேயே ஆட்சியை விரிவுபடுத்திய வரலாறு",
             "link": "https://www.bbc.com/tamil/articles/cr89470jxjv2o?at_medium=RSS&at_campaign=rss",
@@ -956,27 +977,6 @@
             "source": "BBC Tamil",
             "summary": "",
             "published": "2026-11-18T09:49:27+00:00"
-          },
-          {
-            "title": "அல்பேனியா மாரத்தான் போட்டியில் 3-வது இடம்.. ரொக்கப் பரிசு வென்று தமிழக வீரர் நியாஸ் கான் அசத்தல்!",
-            "link": "https://tamil.oneindia.com/news/international/tamil-nadu-origin-runner-niyas-khan-wins-third-place-at-tirana-marathon-2026-in-albania-846357.html",
-            "source": "Oneindia Tamil",
-            "summary": "",
-            "published": "2026-11-18T15:09:03+05:30"
-          },
-          {
-            "title": "தமிழகத்தில் கிறிஸ்தவர்களுக்கு வழங்கப்படும் இடஒதுக்கீட்டை விசாரிப்பதாக உயர் நீதிமன்றம் கூறியது ஏன்?",
-            "link": "https://www.bbc.com/tamil/articles/cwnv43mge995o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Tamil",
-            "summary": "",
-            "published": "2026-11-18T08:06:44+00:00"
-          },
-          {
-            "title": "ஜெய்ஸ்வால் டிரேட்.. லக்னோ, கேகேஆர் அணிகளுக்கு இடையில் நடக்கும் போட்டி? தலைவனின் தரமான முடிவு!",
-            "link": "https://tamil.oneindia.com/news/sports/cricket/yashasvi-jaiswal-trade-might-not-happen-for-kkr-and-lsg-due-to-ipl-mega-auction-2028-846315.html",
-            "source": "Oneindia Tamil",
-            "summary": "ஐபிஎல் தொடரில் இளம் வீரர் ஜெய்ஸ்வால் ஒரு மிகச்சிறந்த திறமைசாலி என்பதில் மாற்றுக் கருத்து இல்லை. இதனால் அவரை தங்கள் அணியில் இணைக்க கொல்கத்தா நைட் ரைடர்ஸ் மற்றும் லக்னோ சூப்பர் ஜெயண்ட்ஸ் ஆகிய அணிகள் பெரும் ஆர்வம் காட்டி வந்தன. எனினும், 2028-ம் ஆண்டு நடைபெறவுள்ள ஐபிஎல் மெகா ஏலத்தை கருத்தில் கொண்டு, இப்போதே அவரை டிரேடிங் முறையில் மற்ற அணிகளுக்கு மாற்றுவது கடினம் என்ற தகவல் வெளியாகியுள்ளது. ஒவ்வொரு அணியும் தங்கள் வீரர்களை தக்கவைத்துக் கொள்ளவும், புதிய வியூகங்களை வகுக்கவும் நீண்டகாலத் திட்டங்களை வைத்துள்ளது. இந்தச் சூழலில், ஜெய்ஸ்வால் போன்ற ஒரு முன்னணி வீரரை இப்போதே வெளியேற்ற அந்தந்த அணிகள் தயக்கம் காட்டுகின்றன. ஒரு அணியின் தலைவன் எடுக்கும் இத்தகைய முடிவுகள் அந்த அணியின் எதிர்கால வெற்றியை தீர்மானிக்கும் காரணியாக அமைகின்றன. தற்போதைய நிலையில், இந்த வர்த்தக முயற்சிகள் எதுவும் முழுமை பெற வாய்ப்பில்லை என்பதால், ரசிகர்கள் மற்றும் அணிகளின் நிர்வாகம் ஏலத்தின் மீதான தங்கள் கவனத்தை மாற்ற வேண்டிய சூழல் ஏற்பட்டுள்ளது. இது விளையாட்டுத் துறையில் வீரர்களின் மதிப்பு மற்றும் அணிகளின் வணிக உத்திகள் எவ்வாறு செயல்படுகின்றன என்பதை நமக்கு தெளிவாக உணர்த்துகிறது.",
-            "published": "2026-11-18T13:08:19+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "\"చేతులు నరుకుతాం\" అన్న పాక్ మంత్రి భారత్‌కు రాక.. ఢిల్లీలో ఏం జరగబోతోంది?",
-            "link": "https://telugu.oneindia.com/news/international/pakistan-minister-musadik-malik-visits-india-for-sco-meet-after-cut-hands-threat-over-indus-water-515579.html",
+            "title": "Bangladesh: యూనుస్ ఇంటికి నిప్పు.. దేశమంతటా హింస!",
+            "link": "https://www.sakshi.com/telugu-news/international/bangladesh-political-violence-muhammad-yunus-home-set-fire-2964868",
+            "source": "Sakshi",
+            "summary": "",
+            "published": "2026-11-19T02:25:29+00:00"
+          },
+          {
+            "title": "పిల్లల ఫీజు కట్టయ్య అంటే... వైఎస్ వివేకా కూతురుని తిప్పి తిప్పి.. పేర్ని నాని షాకింగ్ నిజాలు",
+            "link": "https://www.sakshi.com/video/news-videos/perni-nani-strong-counter-nara-lokesh-and-ys-viveka-daughter-sunith-2964867",
+            "source": "Sakshi",
+            "summary": "",
+            "published": "2026-11-19T02:21:48+00:00"
+          },
+          {
+            "title": "Tyson Naidu Teaser: ‘టైసన్‌ నాయుడు’ టీజర్‌ రిలీజ్‌.. - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUlxaDdJdlpKMGotX3dJa0tkWkE3alN4a1I4MlFxUWZvcDB4aFRLd2w2Z2FHY0R4WTBRbzBLWUZ0SWVKS21rVkVHMFBHU001Vm12eVIxeldFM2lmSjhGMVdhSWhkNmJTbWNpbkRpSHdzMHkyRW5BbHVxQWZWNC0tMnM0M1dXQnQtVUxhczZFeExrZ9IBkgFBVV95cUxQcUlxaDdJdlpKMGotX3dJa0tkWkE3alN4a1I4MlFxUWZvcDB4aFRLd2w2Z2FHY0R4WTBRbzBLWUZ0SWVKS21rVkVHMFBHU001Vm12eVIxeldFM2lmSjhGMVdhSWhkNmJTbWNpbkRpSHdzMHkyRW5BbHVxQWZWNC0tMnM0M1dXQnQtVUxhczZFeExrZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-19T02:21:18+00:00"
+          },
+          {
+            "title": "కొల్లేరులో శీతాకాలంలో విడిది పక్షుల సందడి (ఫోటోలు)",
+            "link": "https://www.sakshi.com/photos/news/foreign-birds-kolleru-hd-photos-2964866",
+            "source": "Sakshi",
+            "summary": "",
+            "published": "2026-11-19T02:19:15+00:00"
+          },
+          {
+            "title": "అమరావతి ఓఆర్ఆర్ పై మారిన నిర్ణయం - ఈ ప్రాంతాల మీదుగా, తాజా టెండర్లతో..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/nhai-invites-fresh-tenders-for-amaravati-outer-ring-road-construction-with-an-estimated-investment-515583.html",
             "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-19T06:57:34+05:30"
+            "published": "2026-11-19T07:47:21+05:30"
           },
           {
-            "title": "తుఫాను ముప్పు తప్పినా.. తీరం దాటేది అక్కడే- ఈ జిల్లాల్లో భారీ వర్షాలు.. తాజా అలర్ట్స్..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/cyclone-aqwan-andhra-pradesh-escapes-direct-threat-heavy-rains-forecast-in-north-andhra-515577.html",
+            "title": "1945లో యాల్టా.. ఇప్పుడు షెన్‌జెన్! ప్రపంచ చరిత్ర మళ్లీ తిరగరాయబోతున్నారా?",
+            "link": "https://telugu.oneindia.com/news/international/shenzhen-summit-donald-trump-xi-jinping-and-vladimir-putin-meet-amid-comparisons-to-1945-yalta-co-515581.html",
             "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-19T06:57:15+05:30"
+            "published": "2026-11-19T07:40:36+05:30"
           },
           {
-            "title": "దిశ మార్చుకున్న అక్వాన్ తుఫాన్, ఈ జిల్లాలో భారీ వర్షాలు- మూడు రోజులు బిగ్ అలర్ట్..!!",
-            "link": "https://telugu.oneindia.com/news/telangana/imd-warns-of-rainfall-in-telangana-due-to-cyclone-aqwan-likely-to-influence-weather-conditions-acro-515487.html",
-            "source": "Oneindia Telugu",
+            "title": "అనంతపురం జిల్లాలో బస్సు బోల్తా",
+            "link": "https://www.sakshi.com/telugu-news/andhra-pradesh/travels-bus-overturns-near-raptadu-anantapur-district-2964864",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T06:48:47+05:30"
+            "published": "2026-11-19T02:10:35+00:00"
           },
           {
-            "title": "మేయర్‌ అభ్యర్థి ఆకుల భవాని - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3lYbElWMmw5SWJmc3g0YUY1U2p3WnFKVE9rc1RVMlFIeV9nbGJhOTVsMDJMZXdzTGxreVh1NlRPMFREMzR2VzVRWE12ekhreVRuN3M4TV9QcUFZWm1hT1E4Rjc4RmpQY05KR2Jad1Z0aW5oaVNXSWQ0NWNDTlJVVQ?oc=5",
-            "source": "Eenadu",
+            "title": "ముగ్గురు పిల్లల పెంపకం.. భరణం కోసం బిలియనీర్ మాజీ భార్య పోరాటం!",
+            "link": "https://www.sakshi.com/telugu-news/business/ex-wife-russian-billionaire-seeks-rs-7382-crore-uks-biggest-divorce-trial",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T01:04:45+00:00"
+            "published": "2026-11-19T02:09:20+00:00"
           },
           {
-            "title": "అలిపిరి నడకమార్గంలో కేబుల్ బ్రిడ్జి - వైకుంఠ ద్వార ద‌ర్శ‌నం, టోకెన్లు జారీ ఇలా..!!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ttd-announces-key-decisions-to-ensure-vaikuntha-ekadasi-darshan-for-common-devotees-details-here-515575.html",
-            "source": "Oneindia Telugu",
+            "title": "జపాన్‌లో ఉన్న విజయ్‌కు.. స్టార్‌ హీరో ప్రాంక్‌ కాల్‌!",
+            "link": "https://www.sakshi.com/telugu-news/movies/dulquer-salmaan-pranks-vijay-deverakonda-over-phone-call-2964862",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T06:21:34+05:30"
+            "published": "2026-11-19T02:04:55+00:00"
           },
           {
-            "title": "MLC Balmoor Venkat: ఎమ్మెల్సీ బల్మూరి వెంకట్‌కు తప్పిన ప్రమాదం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc29RZy13aGt6VUxUaTJwMWhlX1lHVXQzMjg3bTZaVEFlT0dhYXcxYXRDNXFtT0ZlaFh4ak5ZdWx4THJHUVBfNjlnd2NpNG11YWNvOGd5Z3dDY21IR2hOdzJWUXY1N0lmQl9SNzJTS3p6b0VsYjdtUXdDdlFWNkxzX0hQUWp1Vm1jcVctTm5vNkxvcmFnWkg4ZmE3WDJDWVRpMndfLXJkTGU1dnlQUlRycloxX19DNVNaZ0HSAboBQVVfeXFMTXNvUWctd2hrelVMVGkycDFoZV9ZR1V0MzI4N202WlRBZU9HYWF3MWF0QzVxbU9GZWhYeGpOWXVseExyR1FQXzY5Z3djaTRtdWFjbzhneWd3Q2NtSEdoTncyVlF2NTdJZkJfUjcyU0t6em9FbGI3bVF3Q3ZRVjZMc19IUFFqdVZtY3FXLU5ubzZMb3JhZ1pIOGZhN1gyQ1lUaTJ3Xy1yZExlNXZ5UFJUcnJaMV9fQzVTWmdB?oc=5",
-            "source": "Eenadu",
+            "title": "అమెరికాపై ఇరాన్ కుట్రలు.. నిఘా చీఫ్ హెచ్చరిక!",
+            "link": "https://www.sakshi.com/telugu-news/international/iranian-threats-have-dramatically-increased-both-inside-and-outside-us",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T00:35:46+00:00"
+            "published": "2026-11-19T02:00:58+00:00"
           },
           {
-            "title": "Gautami: అలా క్యాన్సర్‌ను జయించా: నటి గౌతమి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTFMRWpIdjJheDlXMTRXSGxBaWFlMW84bGNPNURqLVZyZ0F3bk9sUDJxeVVxSFROcGFDN1F4T3EtX3pER3FidUcwXy1Eei00R19pd1AteFNXbG9tcVA3LXhFbVMzQmtlZ21QZ1pSVnEwOHk1a1lwVnUtQi1mV3NXVnNEZU40clJRZ0lBQWotX2F5TzRiT2RNX0ZTRnJRSEhXTmNFM9IBpAFBVV95cUxOLTFMRWpIdjJheDlXMTRXSGxBaWFlMW84bGNPNURqLVZyZ0F3bk9sUDJxeVVxSFROcGFDN1F4T3EtX3pER3FidUcwXy1Eei00R19pd1AteFNXbG9tcVA3LXhFbVMzQmtlZ21QZ1pSVnEwOHk1a1lwVnUtQi1mV3NXVnNEZU40clJRZ0lBQWotX2F5TzRiT2RNX0ZTRnJRSEhXTmNFMw?oc=5",
-            "source": "Eenadu",
+            "title": "తమిళనాట పొలిటికల్‌ ట్విస్ట్‌.. స్టాలిన్‌కు కొత్త దోస్తీ!",
+            "link": "https://www.sakshi.com/telugu-news/national/dmk-political-shift-murasoli-gives-prominence-bjp-leader-comments-2964860",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T00:14:59+00:00"
+            "published": "2026-11-19T01:57:59+00:00"
           },
           {
-            "title": "వదిలేద్దాం.. గెలిచేదెవరో చూద్దాం.. - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGZZYmY3enBnOFhjM1BvZ2tqdjdDSjk0NTBuMFQ2MHZfSExWZ0NVVHhmMzhRUjJuT3RfUXI2UVA4QTAtcUFibC0zRFduVGFmT1ZSYWRXQWQ4RmYxRW11YzlZcmZXdFppNVZBQk4zZk1lMTRHUWV0QVF2R0dVZ3J0T2VIMnZEUQ?oc=5",
-            "source": "Eenadu",
+            "title": "కదిరిలో టీడీపీకి బిగ్ షాక్.. YSRCPలోకి భారీ చేరికలు",
+            "link": "https://www.sakshi.com/video/news-videos/big-shock-chandrababu-tdp-families-join-ysrcp-kadiri-2964859",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-19T00:11:10+00:00"
-          },
-          {
-            "title": "మియాపూర్‌ భూములను ప్రజావసరాలకే వినియోగించాలి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51YlJvbU5XNzBFY29zVUloSHNuOGtHWHJjUXY2Y3NhZVk5SVAzUHNiM3I2QTZiRnlYbS13U2p4VjRoaTlqekV6bFdQdnQxQURLT3I5WkJrblJ6ZVNLLVJRcGZYaFhLbXczYWVYajE3U3B1NnhVYVHSAXZBVV95cUxOdWJSb21OVzcwRWNvc1VJaEhzbjhrR1hyY1F2NmNzYWVZOUlQM1BzYjNyNkE2YkZ5WG0td1NqeFY0aGk5anpFemxXUHZ0MUFES09yOVpCa25SemVTSy1SUXBmWGhYS213M2FlWGoxN1NwdTZ4VWFR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-19T00:06:19+00:00"
-          },
-          {
-            "title": "8.34 లక్షల మందికి వైకుంఠ ద్వార దర్శనం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51NGRIN2psX19JSXl2cTFQZ20tems1b09KR0JjV3VNTG5lNEdpY0FYZGdKMFFpcGJGTDh0TlI0NzNUUkJuaDNtMC1WVnVKQ2k3cEdjTEtYVmRuZ0RQTm5QRlRLV0VUZVpTTTNwU1pLTEptUUFpZ1ZvZ2U1Z1XSAXxBVV95cUxOdTRkSDdqbF9fSUl5dnExUGdtLXprNW9PSkdCY1d1TUxuZTRHaWNBWGRnSjBRaXBiRkw4dE5SNDczVFJCbmgzbTAtVlZ1SkNpN3BHY0xLWFZkbmdEUE5uUEZUS1dFVGVaU00zcFNaS0xKbVFBaWdWb2dlNWdV?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-19T00:02:12+00:00"
-          },
-          {
-            "title": "కరేడు.. ప్రత్యేకతలు బోలెడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QbEdNMThLR2FnZ0ZoVzczazRJLTBidlA1QWY4R2lTSWZ5ejN6ZzZGaGltUFYycTdRcy1kSnU3MlNIRnRhdkw1eTZEV0QzcFBmSlBCMDloSkJWYTE5ZE04RlpHUDBOOGhXLU9PM2ozSmItNl81d2dpU29xZnjSAXxBVV95cUxNUGxHTTE4S0dhZ2dGaFc3M2s0SS0wYnZQNUFmOEdpU0lmeXozemc2RmhpbVBWMnE3UXMtZEp1NzJTSEZ0YXZMNXk2RFdEM3BQZkpQQjA5aEpCVmExOWRNOEZaR1AwTjhoVy1PTzNqM0piLTZfNXdnaVNvcWZ4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-19T00:01:43+00:00"
-          },
-          {
-            "title": "పౌరసత్వానికి ముందే ఓటర్ల జాబితాలో సోనియా గాంధీని చేర్చడంపై ఫిర్యాదు వచ్చిందా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sSTJLbS1XMUVqQ3Z2ZHFxYjMwLXBSS1FsclAxRkJWaS1RN2ZhYjRPeUtGOUF3Yk16UkloUlV6Umg2aUc2X1Y1OW0xSWJ5QWkwZHdvMUxKbDk5Z192YjlPU1BVRVdDeUQxY00yNk1nX2jSAXBBVV95cUxPbEkyS20tVzFFakN2dmRxcWIzMC1wUktRbHJQMUZCVmktUTdmYWI0T3lLRjlBd2JNelJJaFJVelJoNmlHNl9WNTltMUlieUFpMGR3bzFMSmw5OWdfdmI5T1NQVUVXQ3lEMWNNMjZNZ19o?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-19T00:01:41+00:00"
+            "published": "2026-11-19T01:45:52+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ರಾಜ್ಯದಲ್ಲಿ ಹೊಸ ‘ಪ್ರಜಾಸೇವಾ ಆಯುಕ್ತಾಲಯ’ ಸ್ಥಾಪನೆಗೆ ಸರ್ಕಾರದ ಆದೇಶ; ಏನಿದು ಹೊಸ ವ್ಯವಸ್ಥೆ?",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-government-establishes-praja-seva-commissionerate-to-speed-up-public-services-grievance-474857.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-19T07:40:28+05:30"
+          },
+          {
             "title": "Video: ನಾಗರಹೊಳೆಯಲ್ಲಿ ಕಾಡಾನೆ ಮೇಲೆ ಕಲ್ಲು ತೂರಾಟ: ಬೈಕ್ ಸವಾರರ ಬಂಧನಕ್ಕೆ ರಾಮಲಿಂಗಾರೆಡ್ಡಿ ಖಡಕ್ ಸೂಚನೆ",
             "link": "https://kannada.oneindia.com/news/karnataka/minister-ramalinga-reddy-orders-strict-action-against-men-pelting-stones-at-elephant-nagarahole-fore-474849.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-11-18T15:48:51+05:30"
-          },
-          {
-            "title": "ನಿಮ್ಮ ಬಳಿ ಕಾರು, ಬೈಕ್ ಇದ್ಯಾ? ಡಿ. 15ರಿಂದ ಹೊಸ ಮೋಟಾರು ವಿಮೆ ನಿಯಮ ಜಾರಿ, ಇಲ್ಲಿದೆ ನೀವು ತಿಳಿಯಲೇಬೇಕಾದ ಮಾಹಿತಿ",
-            "link": "https://kannada.oneindia.com/news/india/irdai-new-motor-insurance-rules-from-december-15-what-car-bike-owners-need-to-know-474805.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-18T15:26:30+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "পাচার-কাণ্ডে লুকোনো ‘কালো হিরের’ হদিস - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHJDX1RxY2Q4NElXZXpOV0FGOG10RUZ1LXdZRHZRRUVLTzVIejVVR1JrNnZsUVRnT1VTTWhPTU5kV1hseXh1WmxvMXZnSU1vcGppTXBvc2NZRkRlUTdWekVRZHBicG4xUDlNSlZ0dlZ2aHE5OHAydDhGNlNBUFhORl9SZlRlaUZyYXp5VU83NExUZ0VTY3FLRmVJZjVuUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-19T02:20:01+00:00"
+          },
+          {
             "title": "ফের তালিকাভুক্ত বাদ পড়া একাধিক সংস্থা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3ExVXZYOWsydWhkNWdBejc5Q2JHcmNSN09sdEh0YTUzVVJJS1hjczRWRk5OT2dsNzFncUNIM2ctOTIwMTc2cGRvRHB0TWpkTmNRazVpMTcyT0lqQnYySjRlVXpQb0F5OXNGVVVRX3pBUUR3ZjZqV1lKTXduY3NZTDk5NUtmSm5vSkJDblpiYnI4YXBMMFh5ZE44TE8teW8xcGY1RmR4UHhuaEl5bUhkZmozMlEzUQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-18T20:11:17+00:00"
-          },
-          {
-            "title": "ধোনিকে অপমান করেছিলেন তাঁরই দলের ক্রিকেটার! আইপিএলের অজানা প্রকাশ্যে আনলেন প্রাক্তন ক্রিকেটার - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQURTUEhRNmQ0YU5IMk9WaTJIa0dmcjQ3bzBFdE15UlAzWF9Bd1B0UTVMaVhmdEVjNjZEQjltaUhBN05TY0c1WHgtZXVHUU9jejc3bTVadTVTaDRwRjVxdjBRSTUxTy13Q2oxcXBMeG9LejFvNk5GaDZUUU5SNVFzdUVMTmEwSUo2TEZCeHZuVTY2SWNQeGdLY1F6QnRySzVmY3Azb3JxQTU3dktTeFg4Y3dVNNIBuAFBVV95cUxOSGlxWFh4NnE4a3FDOF9JNktuRDROMV85ZWdPUUJZc1NTejR2bGQtU3dha0RNdEt2MTBGVzY0bWdkME1BOEJWRFpQd0VQR3JwLXJ1LVdjSWR6bUgtNnZmM09Sbi1BOWgtcjVyR0NBMnRvVWY2TVVXcHlUd2g1bGJGT0hPbmhfUjZDcXV4ZUdpSmRQeW5DTU9GY21uaUpTZmUzLUJUajRxMzN1QzJoSER1a1ZVNUh3Z3BW?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-18T17:36:55+00:00"
           }
         ]
       }
