@@ -1,111 +1,139 @@
 {
-  "updated_at": "2026-11-20T00:31:12.770811+00:00",
+  "updated_at": "2026-11-20T01:01:15.680983+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "Why Canada is embracing AI data centres while the US pushes back",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+            "title": "More climate money for Africa? Europe says use what's already pledged",
+            "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
-            "published": "2026-11-20T00:13:24+00:00"
+            "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+            "published": "2026-11-20T00:54:50+00:00"
           },
           {
-            "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-            "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+            "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
-            "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-            "published": "2026-11-20T00:13:21+00:00"
+            "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+            "published": "2026-11-20T00:50:24+00:00"
           },
           {
-            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-            "published": "2026-11-20T00:02:07+00:00"
+            "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
+            "source": "Economic Times",
+            "summary": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
+            "published": "2026-11-20T06:18:29+05:30"
           },
           {
-            "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
-            "published": "2026-11-19T23:58:40+00:00"
-          },
-          {
-            "title": "How did Anthropic's stock market debut unfold?",
-            "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
-            "published": "2026-11-19T23:52:25+00:00"
-          },
-          {
-            "title": "Trump posthumously pardons US baseball legend Pete Rose",
-            "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-            "published": "2026-11-19T23:51:50+00:00"
-          },
-          {
-            "title": "JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked",
-            "link": "https://timesofindia.indiatimes.com/business/international-business/jpmorgan-visa-mastercard-hit-by-cyber-incidents-data-of-thousands-of-customers-leaked/articleshow/136008003.cms",
-            "source": "Times of India",
-            "summary": "JPMorgan Chase, Visa, and Mastercard have encountered cyber incidents with third-party service providers, leading to the potential exposure of customer data. Fortunately, these breaches did not compromise any payment systems or card details. Investigations are currently underway, with affected customers being notified directly by their financial institutions. This situation amplifies concerns regarding the security…",
-            "published": "2026-11-20T05:21:33+05:30"
-          },
-          {
-            "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-            "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-            "source": "NDTV",
-            "summary": "Cyclone Akvan: Chief Minister Mohan Charan Majhi conducted another comprehensive review of the preparedness and response measures for the impending Cyclone 'Akvan'.",
-            "published": "2026-11-20T05:18:40+05:30"
-          },
-          {
-            "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
-            "link": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+            "title": "Cyclone Akvan: Landfall process begins",
+            "link": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
             "source": "The Hindu",
-            "summary": "In a letter circulated among MPs on November 19, Justice Varma stated that the proceedings directed toward his removal did not survive his resignation",
-            "published": "2026-11-20T05:14:00+05:30"
+            "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+            "published": "2026-11-20T06:06:05+05:30"
           },
           {
-            "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-            "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-            "published": "2026-11-19T23:40:29+00:00"
+            "title": "Rupee hits seven-month high amid foreign fund inflows and falling commodity prices",
+            "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-seven-month-high-amid-foreign-fund-inflows-and-falling-commodity-prices/articleshow/136009061.cms",
+            "source": "Economic Times",
+            "summary": "The rupee has climbed to a seven-month high due to substantial foreign fund inflows into India's local assets. This growth comes even as the dollar continues to gain strength. The drop in industrial commodity prices has alleviated worries about the import bill considerably. Analysts remark on the currency's rebound from historic lows and predict a wave of foreign investments in India's equity sector in November.",
+            "published": "2026-11-20T06:05:55+05:30"
           },
           {
-            "title": "Glenn Phillips Breaks Huge Record, Emulates Rohit Sharma For Rare Test Cricket Feat With Century In 1st Test",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/glenn-phillips-breaks-huge-record-emulates-rohit-sharma-for-rare-test-cricket-feat-with-century-in-1st-test-12351938#publisher=newsstand",
+            "title": "Yashasvi Jaiswal Wants To Leave Rajasthan Royals, But Multiple Trades Fell Through. Report Reveals Details",
+            "link": "https://sports.ndtv.com/ipl-2027/yashasvi-jaiswal-wants-to-leave-rajasthan-royals-but-multiple-trades-fell-through-report-reveals-details-12351385#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "New Zealand all-rounder Glenn Phillips entered the history books on Friday after slamming his second Test century on Day 2 of the Wellington Test against India.",
-            "published": "2026-11-20T05:06:03+05:30"
+            "summary": "Yashasvi Jaiswal is reportedly keen on leaving Rajasthan Royals (RR), but the 2008 IPL champions have not been able to agree a deal with another team yet.",
+            "published": "2026-11-20T06:05:30+05:30"
           },
           {
-            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-            "published": "2026-11-19T23:33:51+00:00"
+            "title": "4 UK Men Guilty Of Sexually Abusing Woman Drugged By Husband",
+            "link": "https://www.ndtv.com/world-news/4-uk-men-guilty-of-sexually-abusing-woman-drugged-by-husband-12351999#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Winchester Crown Court in southern England found Norman Macksoni, 48 and Richard Wilkins, 62, guilty of rape, while Connor Sanderson-Doyle, 32, and Mohammed Hassan, 38, were convicted of sexual assault.",
+            "published": "2026-11-20T06:02:19+05:30"
           },
           {
-            "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-            "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-            "published": "2026-11-19T23:29:00+00:00"
+            "title": "Haiti police say 34 gang members killed in capital raid",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+            "published": "2026-11-20T00:31:02+00:00"
           },
           {
-            "title": "Mother takes kids to California; Indiana court reverses 90-day jail order",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-mother-moved-her-three-children-from-indiana-to-california-after-her-husband-pleaded-guilty-to-domestic-battery-when-she-refused-to-return-them-she-faced-90-days-in-jail-until-a-november-17-appeals-reversal/articleshow/135962692.cms",
+            "title": "Anthropic surpasses SpaceX with record $81.3 billion IPO",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-raises-record-81-3-billion-at-1-5-trillion-valuation/articleshow/136008098.cms",
+            "source": "Economic Times",
+            "summary": "Anthropic, which was founded in 2021, recently had a successful IPO on Nasdaq. This IPO raised an unprecedented amount of $81.3 billion, setting a new record in the process. The company's valuation reached approximately $1.5 trillion, highlighting its significant market impact. This valuation exceeds the combined worth of India's ten most valuable listed companies. Thus, the financial achievement positions Anthropic…",
+            "published": "2026-11-20T05:58:37+05:30"
+          },
+          {
+            "title": "India turns net overweight among Asia-Pacific fund managers after 10 months",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms",
+            "source": "Economic Times",
+            "summary": "India has recently become a net overweight market for fund managers in Asia-Pacific, indicating reduced interest in North Asian equities. The Asia Fund Manager Survey revealed India's net overweight position at 5%, on par with South Korea. Japan continues to be the most favored market among investors, with a net overweight of 38%.",
+            "published": "2026-11-20T05:57:35+05:30"
+          },
+          {
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 2: Henry Nicholls Nears 150 As NZ Reach 317/6 At Lunch vs India",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-1st-test-live-score-day-2-ind-vs-nz-live-updates-scorecard-cricket-jasprit-bumrah-shubman-gill-kl-rahul-yashasvi-jaiswal-12351504#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 2: Henry Nicholls' 146 took New Zealand to 317/6 at Lunch on Day 2 of the 1st Test in Wellington.",
+            "published": "2026-11-20T05:55:47+05:30"
+          },
+          {
+            "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+            "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+            "published": "2026-11-20T00:22:02+00:00"
+          },
+          {
+            "title": "Wall Street's AI jitters return, S&amp;P500 logs longest losing streak in 2.5 years",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/wall-streets-ai-jitters-return-as-stocks-tumble-sp-500-logs-longest-losing-streak-in-2-5-years/articleshow/136008927.cms",
             "source": "Times of India",
-            "summary": "Following her husband's domestic battery conviction in Indiana, Rajpal Kaur made the decision to move with her children to California. In 2025, the Johnson Circuit Court created confusion by issuing conflicting custody orders. This prompted Singh to pursue contempt charges against Kaur for not returning the children, ultimately resulting in her incarceration.",
-            "published": "2026-11-20T04:58:00+05:30"
+            "summary": "On Thursday, US stocks faced a notable decline as investors moved away from AI-related shares, leading to worries about their profitability moving forward. The S&amp;P 500 dropped 2%, hitting a two and a half year losing streak. Although Anthropic debuted positively, overall market sentiment remained bleak due to climbing valuation concerns and increasing regulatory scrutiny.",
+            "published": "2026-11-20T05:51:29+05:30"
+          },
+          {
+            "title": "FPIs pump record Rs 84,291 crore into Indian stocks in first half of November",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pump-record-rs-84291-crore-into-indian-stocks-in-first-half-of-november/articleshow/136008392.cms",
+            "source": "Economic Times",
+            "summary": "In the first half of November, foreign portfolio investors significantly increased their investment in Indian equities. This surge reached ₹84,291 crore, emphasizing the appeal of banking and financial services. A shift in global preferences followed the US midterm elections, which limited investment in other Asian markets. Notably, the Bank Nifty reached lifetime highs, benefiting from this influx.",
+            "published": "2026-11-20T05:48:08+05:30"
           }
         ],
         "India": [
           {
+            "title": "Cyclone Akvan: Landfall process begins",
+            "link": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
+            "source": "The Hindu",
+            "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+            "published": "2026-11-20T06:06:05+05:30"
+          },
+          {
+            "title": "4 UK Men Guilty Of Sexually Abusing Woman Drugged By Husband",
+            "link": "https://www.ndtv.com/world-news/4-uk-men-guilty-of-sexually-abusing-woman-drugged-by-husband-12351999#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Winchester Crown Court in southern England found Norman Macksoni, 48 and Richard Wilkins, 62, guilty of rape, while Connor Sanderson-Doyle, 32, and Mohammed Hassan, 38, were convicted of sexual assault.",
+            "published": "2026-11-20T06:02:19+05:30"
+          },
+          {
+            "title": "Wall Street's AI jitters return, S&amp;P500 logs longest losing streak in 2.5 years",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/wall-streets-ai-jitters-return-as-stocks-tumble-sp-500-logs-longest-losing-streak-in-2-5-years/articleshow/136008927.cms",
+            "source": "Times of India",
+            "summary": "On Thursday, US stocks faced a notable decline as investors moved away from AI-related shares, leading to worries about their profitability moving forward. The S&amp;P 500 dropped 2%, hitting a two and a half year losing streak. Although Anthropic debuted positively, overall market sentiment remained bleak due to climbing valuation concerns and increasing regulatory scrutiny.",
+            "published": "2026-11-20T05:51:29+05:30"
+          },
+          {
+            "title": "California Summons Nvidia Over Concerns About Former CEO, China Ties",
+            "link": "https://www.ndtv.com/world-news/california-summons-nvidia-over-concerns-about-former-ceo-china-ties-12351970#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "California Attorney General Rob Bonta said on Thursday his office had served an investigative subpoena to Nvidia related to reports of former CEO Jensen Huang's alleged affair with a Chinese spy.",
+            "published": "2026-11-20T05:36:43+05:30"
+          },
+          {
             "title": "JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked",
             "link": "https://timesofindia.indiatimes.com/business/international-business/jpmorgan-visa-mastercard-hit-by-cyber-incidents-data-of-thousands-of-customers-leaked/articleshow/136008003.cms",
             "source": "Times of India",
@@ -125,13 +153,6 @@
             "source": "The Hindu",
             "summary": "In a letter circulated among MPs on November 19, Justice Varma stated that the proceedings directed toward his removal did not survive his resignation",
             "published": "2026-11-20T05:14:00+05:30"
-          },
-          {
-            "title": "Mother takes kids to California; Indiana court reverses 90-day jail order",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-mother-moved-her-three-children-from-indiana-to-california-after-her-husband-pleaded-guilty-to-domestic-battery-when-she-refused-to-return-them-she-faced-90-days-in-jail-until-a-november-17-appeals-reversal/articleshow/135962692.cms",
-            "source": "Times of India",
-            "summary": "Following her husband's domestic battery conviction in Indiana, Rajpal Kaur made the decision to move with her children to California. In 2025, the Johnson Circuit Court created confusion by issuing conflicting custody orders. This prompted Singh to pursue contempt charges against Kaur for not returning the children, ultimately resulting in her incarceration.",
-            "published": "2026-11-20T04:58:00+05:30"
           },
           {
             "title": "Anthropic's $1.5 Trillion Debut Rewrites Venture Capital's Playbook",
@@ -167,30 +188,37 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-20T04:43:35+05:30"
-          },
-          {
-            "title": "Mahua Moitra alleges attack on her convoy by BJP supporters",
-            "link": "https://www.thehindu.com/news/national/west-bengal/stones-eggs-hurled-at-my-car-by-bjp-supporters-in-bengals-nadia-tmc-mp-mahua-moitra/article71719304.ece",
-            "source": "The Hindu",
-            "summary": "BJP leaders said the alleged attack was Ms. Moitra’s attempt to gain attention and conduct self-promotion through social media live videos",
-            "published": "2026-11-20T04:39:14+05:30"
-          },
-          {
-            "title": "Trump, Xi agree on need for AI safety rules, US-China cooperation on regulations",
-            "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-agree-on-need-for-ai-safety-rules-us-china-cooperation-on-regulations/articleshow/136007578.cms",
-            "source": "Times of India",
-            "summary": "During their recent meeting in Shenzhen, US President Donald Trump and Chinese President Xi Jinping addressed vital international concerns. The leaders affirmed their commitment to forging regulations on artificial intelligence, prioritizing its secure progression. Key topics also spanned global trade, nuclear issues, and the strategic oil flow through the Strait of Hormuz.",
-            "published": "2026-11-20T04:32:21+05:30"
-          },
-          {
-            "title": "De Villiers calls Khawaja 'biggest traitor' as sandpaper row explodes",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-            "source": "Times of India",
-            "summary": "The controversy resurfaced after Cameron Bancroft released a 4,000-word statement in which he made claims about his former teammates, including Cummins.",
-            "published": "2026-11-20T04:29:49+05:30"
           }
         ],
         "World": [
+          {
+            "title": "More climate money for Africa? Europe says use what's already pledged",
+            "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+            "published": "2026-11-20T00:54:50+00:00"
+          },
+          {
+            "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+            "published": "2026-11-20T00:50:24+00:00"
+          },
+          {
+            "title": "Haiti police say 34 gang members killed in capital raid",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+            "published": "2026-11-20T00:31:02+00:00"
+          },
+          {
+            "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+            "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+            "published": "2026-11-20T00:22:02+00:00"
+          },
           {
             "title": "Why Canada is embracing AI data centres while the US pushes back",
             "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
@@ -204,6 +232,13 @@
             "source": "BBC World",
             "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
             "published": "2026-11-20T00:13:21+00:00"
+          },
+          {
+            "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+            "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
+            "published": "2026-11-20T00:10:04+00:00"
           },
           {
             "title": "Iran war live: Houthis escalate attacks on Saudi capital",
@@ -239,44 +274,72 @@
             "source": "BBC World",
             "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
             "published": "2026-11-19T23:33:51+00:00"
-          },
-          {
-            "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-            "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-            "published": "2026-11-19T23:29:00+00:00"
-          },
-          {
-            "title": "Six killed in suspected gas explosion at Georgia apartment building",
-            "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-            "published": "2026-11-19T23:09:48+00:00"
-          },
-          {
-            "title": "California targets Nvidia in China AI chip probe",
-            "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-            "published": "2026-11-19T23:04:30+00:00"
-          },
-          {
-            "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-            "published": "2026-11-19T22:58:48+00:00"
-          },
-          {
-            "title": "From premature baby to social media star - Famed hippo Fiona dies",
-            "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-            "published": "2026-11-19T22:54:03+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
+            "source": "Economic Times",
+            "summary": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
+            "published": "2026-11-20T06:18:29+05:30"
+          },
+          {
+            "title": "Rupee hits seven-month high amid foreign fund inflows and falling commodity prices",
+            "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-seven-month-high-amid-foreign-fund-inflows-and-falling-commodity-prices/articleshow/136009061.cms",
+            "source": "Economic Times",
+            "summary": "The rupee has climbed to a seven-month high due to substantial foreign fund inflows into India's local assets. This growth comes even as the dollar continues to gain strength. The drop in industrial commodity prices has alleviated worries about the import bill considerably. Analysts remark on the currency's rebound from historic lows and predict a wave of foreign investments in India's equity sector in November.",
+            "published": "2026-11-20T06:05:55+05:30"
+          },
+          {
+            "title": "Anthropic surpasses SpaceX with record $81.3 billion IPO",
+            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-raises-record-81-3-billion-at-1-5-trillion-valuation/articleshow/136008098.cms",
+            "source": "Economic Times",
+            "summary": "Anthropic, which was founded in 2021, recently had a successful IPO on Nasdaq. This IPO raised an unprecedented amount of $81.3 billion, setting a new record in the process. The company's valuation reached approximately $1.5 trillion, highlighting its significant market impact. This valuation exceeds the combined worth of India's ten most valuable listed companies. Thus, the financial achievement positions Anthropic…",
+            "published": "2026-11-20T05:58:37+05:30"
+          },
+          {
+            "title": "India turns net overweight among Asia-Pacific fund managers after 10 months",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms",
+            "source": "Economic Times",
+            "summary": "India has recently become a net overweight market for fund managers in Asia-Pacific, indicating reduced interest in North Asian equities. The Asia Fund Manager Survey revealed India's net overweight position at 5%, on par with South Korea. Japan continues to be the most favored market among investors, with a net overweight of 38%.",
+            "published": "2026-11-20T05:57:35+05:30"
+          },
+          {
+            "title": "FPIs pump record Rs 84,291 crore into Indian stocks in first half of November",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pump-record-rs-84291-crore-into-indian-stocks-in-first-half-of-november/articleshow/136008392.cms",
+            "source": "Economic Times",
+            "summary": "In the first half of November, foreign portfolio investors significantly increased their investment in Indian equities. This surge reached ₹84,291 crore, emphasizing the appeal of banking and financial services. A shift in global preferences followed the US midterm elections, which limited investment in other Asian markets. Notably, the Bank Nifty reached lifetime highs, benefiting from this influx.",
+            "published": "2026-11-20T05:48:08+05:30"
+          },
+          {
+            "title": "RBI flags suspicious off-market deals in state bonds",
+            "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-probes-suspicious-off-market-trades-in-illiquid-state-bonds/articleshow/136008880.cms",
+            "source": "Economic Times",
+            "summary": "The Reserve Bank of India is investigating suspicious trading activities involving illiquid state development loans in September. Some traders allegedly tried to manipulate prices to mitigate quarter-end mark-to-market losses for their banks. Transactions involved circular trading between banks to create artificial price support during rising bond yields. Concerns have also emerged regarding unusual trades in a…",
+            "published": "2026-11-20T05:46:37+05:30"
+          },
+          {
+            "title": "Airbnb's divisive new house rules come into force",
+            "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+            "published": "2026-11-20T00:12:28+00:00"
+          },
+          {
+            "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+            "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+            "published": "2026-11-20T00:08:37+00:00"
+          },
+          {
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "published": "2026-11-20T00:02:07+00:00"
+          },
           {
             "title": "How did Anthropic's stock market debut unfold?",
             "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
@@ -297,85 +360,43 @@
             "source": "BBC Business",
             "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
             "published": "2026-11-19T23:04:30+00:00"
-          },
-          {
-            "title": "Anthropic raises $81bn in record-breaking stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-            "published": "2026-11-19T15:58:58+00:00"
-          },
-          {
-            "title": "More support for households reliant on heating oil",
-            "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-            "published": "2026-11-19T15:22:31+00:00"
-          },
-          {
-            "title": "Crypto market update: Bitcoin struggles below $64,000 amid $306M ETF outflows and Fed fears; Ethereum reclaims $1,800",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crypto-market-update-bitcoin-struggles-below-64000-amid-306m-etf-outflows-and-fed-fears-ethereum-reclaims-1800/articleshow/135993732.cms",
-            "source": "Economic Times",
-            "summary": "Bitcoin remained under pressure near $64,000 amid institutional ETF outflows, Fed rate uncertainty and global market weakness. Ethereum recovered above $1,800, supported by institutional accumulation, whale buying and improving technical indicators despite broader cryptocurrency market volatility.",
-            "published": "2026-11-19T19:10:35+05:30"
-          },
-          {
-            "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-            "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-            "published": "2026-11-19T13:35:52+00:00"
-          },
-          {
-            "title": "Sebi looks to tighten monitoring of issue proceeds, shifts focus to fund utilisation beyond fundraising",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-looks-to-tighten-monitoring-of-issue-proceeds-shifts-focus-to-fund-utilisation-beyond-fundraising/articleshow/135991934.cms",
-            "source": "Economic Times",
-            "summary": "Sebi has proposed tighter monitoring of funds raised through public issues, including direct reporting by monitoring agencies to stock exchanges and extending oversight to issuances of all sizes, excluding OFS. Chairman Tuhin Kanta Pandey said the move aims to strengthen corporate governance, improve transparency and protect investor interests while easing business processes.",
-            "published": "2026-11-19T18:09:03+05:30"
-          },
-          {
-            "title": "NSE stock closes 5% higher amid renewed interest in large caps, 'buy' rating from brokerages; should you hold or sell?",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-stock-closes-5-higher-amid-renewed-interest-in-large-caps-buy-rating-from-brokerages-should-you-hold-or-sell/articleshow/135991380.cms",
-            "source": "Economic Times",
-            "summary": "NSE shares surged on Thursday to hit a fresh all-time high, extending their rally for a second consecutive session. The stock has gained 24% over its issue price, drawing renewed interest after brokerages initiated coverage with ‘buy’ ratings. Here are the key growth drivers and what investors should consider.",
-            "published": "2026-11-19T17:54:16+05:30"
-          },
-          {
-            "title": "Indian driver wins $1.3m in life-changing lottery prize",
-            "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-            "published": "2026-11-19T11:38:09+00:00"
-          },
-          {
-            "title": "US Fed warns of fin stability risks from AI boom and elevated asset valuations",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-flags-financial-stability-risks-from-ai-investment-boom-elevated-asset-valuations/articleshow/135985195.cms",
-            "source": "Economic Times",
-            "summary": "The US Federal Reserve has flagged financial stability risks from the AI investment boom, elevated asset valuations and rising hedge fund leverage. Policymakers warned that disappointing returns on AI investments, heavy borrowing and concentrated market exposure could trigger broader financial disruptions, even as banks and households remain relatively resilient.",
-            "published": "2026-11-19T15:25:40+05:30"
-          },
-          {
-            "title": "Reliance Industries share rebound is not over yet, says JPMorgan. Target price set at Rs 1,675",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-share-rebound-is-not-over-yet-says-jpmorgan-target-price-set-at-rs-1675/articleshow/135985119.cms",
-            "source": "Economic Times",
-            "summary": "JPMorgan sees nearly 23% upside in Reliance Industries to ₹1,675, saying the stock’s recent rally of over 13% in a month has yet to reflect its improving earnings outlook. The brokerage maintained its overweight rating, expecting strong year-on-year profit growth over the next few quarters, led by the oil-to-chemicals business.",
-            "published": "2026-11-19T15:09:00+05:30"
           }
         ],
         "Sports": [
+          {
+            "title": "Yashasvi Jaiswal Wants To Leave Rajasthan Royals, But Multiple Trades Fell Through. Report Reveals Details",
+            "link": "https://sports.ndtv.com/ipl-2027/yashasvi-jaiswal-wants-to-leave-rajasthan-royals-but-multiple-trades-fell-through-report-reveals-details-12351385#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Yashasvi Jaiswal is reportedly keen on leaving Rajasthan Royals (RR), but the 2008 IPL champions have not been able to agree a deal with another team yet.",
+            "published": "2026-11-20T06:05:30+05:30"
+          },
+          {
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 2: Henry Nicholls Nears 150 As NZ Reach 317/6 At Lunch vs India",
+            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-1st-test-live-score-day-2-ind-vs-nz-live-updates-scorecard-cricket-jasprit-bumrah-shubman-gill-kl-rahul-yashasvi-jaiswal-12351504#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 2: Henry Nicholls' 146 took New Zealand to 317/6 at Lunch on Day 2 of the 1st Test in Wellington.",
+            "published": "2026-11-20T05:55:47+05:30"
+          },
+          {
+            "title": "Mike Vrabel's Reputation Takes Another Hit Amid Dianna Russini Scandal And Alcohol Controversy",
+            "link": "https://sports.ndtv.com/us/nfl/mike-vrabels-reputation-takes-another-hit-amid-dianna-russini-scandal-and-alcohol-controversy-12351966#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Mike Vrabel faces mounting scrutiny as past controversies involving Dianna Russini and alcohol resurface amid the Patriots' recent struggles and growing questions about his leadership.",
+            "published": "2026-11-20T05:33:41+05:30"
+          },
+          {
+            "title": "Travis Kelce Reflects On Taylor Swift’s Arrowhead Stadium Impact With 'Lucky Man’ Confession",
+            "link": "https://sports.ndtv.com/us/nfl/travis-kelce-reflects-on-taylor-swift-s-arrowhead-stadium-impact-with-lucky-man-confession-12351957#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Travis Kelce feels ‘lucky’ as he praises Chiefs fans for making Taylor Swift and his guests feel welcome in his Arrowhead Stadium suite.",
+            "published": "2026-11-20T05:33:11+05:30"
+          },
           {
             "title": "Glenn Phillips Breaks Huge Record, Emulates Rohit Sharma For Rare Test Cricket Feat With Century In 1st Test",
             "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/glenn-phillips-breaks-huge-record-emulates-rohit-sharma-for-rare-test-cricket-feat-with-century-in-1st-test-12351938#publisher=newsstand",
             "source": "NDTV Sports",
             "summary": "New Zealand all-rounder Glenn Phillips entered the history books on Friday after slamming his second Test century on Day 2 of the Wellington Test against India.",
             "published": "2026-11-20T05:06:03+05:30"
-          },
-          {
-            "title": "India vs New Zealand LIVE Score, 1st Test Day 2: Shubman Gill Fumes At India Star As India Waste Another Review vs NZ",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-1st-test-live-score-day-2-ind-vs-nz-live-updates-scorecard-cricket-jasprit-bumrah-shubman-gill-kl-rahul-yashasvi-jaiswal-12351504#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 2: Akash Deep handed India a much-needed breakthrough on Day 2 of the 1st Test against New Zealand at the Basin Reserve in Wellington.",
-            "published": "2026-11-20T04:42:21+05:30"
           },
           {
             "title": "Kyle Kuzma Slams NFL Over Saquon Barkley’s Polymarket Exit",
@@ -425,27 +446,6 @@
             "source": "NDTV Sports",
             "summary": "A Las Vegas court dismissed felony charges against Floyd Mayweather Jr. on Wednesday at the request of prosecutors, following allegations the boxer wrote a bad check to purchase a watch, according to court records.",
             "published": "2026-11-20T00:07:48+05:30"
-          },
-          {
-            "title": "\"Need To Create Environment For Players To Perform\": Mauricio Pochettino After Taking Manchester United Job",
-            "link": "https://sports.ndtv.com/football/need-to-create-environment-for-players-to-perform-mauricio-pochettino-after-taking-manchester-united-job-12351335#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Mauricio Pochettino said he wants to ease the pressure on Manchester United's under-performing players as he prepares for a baptism of fire at Liverpool on Sunday.",
-            "published": "2026-11-20T00:01:08+05:30"
-          },
-          {
-            "title": "India vs New Zealand Free LIVE Telecast, 1st Test LIVE Streaming: When And Where To Watch IND vs NZ For Free",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-free-live-telecast-1st-test-live-streaming-when-and-where-to-watch-ind-vs-nz-for-free-12351465#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "",
-            "published": "2026-11-19T23:43:01+05:30"
-          },
-          {
-            "title": "Hockey India Elections Remain On Hold As Odisha High Court Rejects Plea To Vacate Stay",
-            "link": "https://sports.ndtv.com/hockey/hockey-india-elections-remain-on-hold-as-odisha-high-court-rejects-plea-to-vacate-stay-12351139#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Amidst the ongoing internal strife within Hockey India, the Orissa High Court has refused to vacate its interim stay on the Hockey India election process, observing that its bye-laws do not empower the secretary general to convene Executive Committee meetings without the orders of the president.",
-            "published": "2026-11-19T23:35:29+05:30"
           }
         ],
         "Technology": [
@@ -627,11 +627,25 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "IND vs NZ Live Score: दूसरे दिन लंच तक न्यूजीलैंड 317/6, निकोल्स 150 रन के करीब, फिलिप्स 118 बनाकर आउट",
+            "title": "IND vs NZ Live Score: 318 पर न्यूजीलैंड को सातवां झटका, फिलिप्स के बाद स्मिथ आउट; हेनरी निकोल्स ने जड़े 150 रन",
             "link": "https://www.amarujala.com/live/cricket/india-vs-new-zealand-1st-test-day-2-live-score-commentary-live-updates-in-hindi-wellington-full-scorecard-live-2026-11-20",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-20T05:37:16+05:30"
+            "published": "2026-11-20T06:26:22+05:30"
+          },
+          {
+            "title": "सुर्खियां: आज ओडिशा के तट से टकराएगा चक्रवात अकवान, कई जिलों में अलर्ट; अमेरिकी बैंक जेपी मॉर्गन पर साइबर हमला",
+            "link": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-20-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-20",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-20T05:54:12+05:30"
+          },
+          {
+            "title": "दिल्ली: डीयू का 103वां दीक्षांत समारोह आज, गृहमंत्री अमित शाह होंगे मुख्य अतिथि, इस साल खास है अलंकरण उत्सव",
+            "link": "https://www.amarujala.com/delhi-ncr/du-s-103rd-convocation-ceremony-today-home-minister-amit-shah-to-be-the-chief-guest-2026-11-20",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-20T05:52:53+05:30"
           },
           {
             "title": "अमेरिकी बैंक जेपी मॉर्गन पर साइबर हमला: 16 हजार ग्राहकों का डेटा लीक होने की आशंका, कौन सी सेवाएं बनी निशाना?",
@@ -656,38 +670,31 @@
           },
           {
             "title": "तूफान अकवान आज आंध्र-ओडिशा के बीच टकराएगा:हवा की रफ्तार 110kmph रहेगी; ओडिशा में 80 हजार लोगों की शिफ्टिंग, 10 राज्यों में असर",
-            "link": "https://www.bhaskar.com/national/news/akwan-cyclone-live-update-andhra-odisha-landfall-wind-speed-alert-139737562.html",
+            "link": "https://www.bhaskar.com/g/national/news/akwan-cyclone-live-update-andhra-odisha-landfall-wind-speed-alert-139737562.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-19T23:30:00+00:00"
           },
           {
             "title": "ऑपरेशन सिंदूर के बाद पहली बार भारत आएंगे पाकिस्तानी मंत्री:आज शंघाई सहयोग संगठन फोरम में लेंगे हिस्सा, मोदी करेंगे उद्घाटन; 25 देशों को न्योता",
-            "link": "https://www.bhaskar.com/national/news/sco-civilizational-dialogue-forum-delhi-pm-modi-inauguration-pakistan-139737692.html",
+            "link": "https://www.bhaskar.com/g/national/news/sco-civilizational-dialogue-forum-delhi-pm-modi-inauguration-pakistan-139737692.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-19T23:30:00+00:00"
           },
           {
             "title": "कश्मीर के शोपियां में माइनस 3.4°C तापमान:दिल्ली में पारा 10 डिग्री पहुंचा; 8 राज्यों में साइक्लोन अकवान का असर, MP-छत्तीसगढ़ में बारिश का अलर्ट",
-            "link": "https://www.bhaskar.com/national/news/delhi-weather-cyclone-akwan-alert-mp-chhattisgarh-rain-update-139738832.html",
+            "link": "https://www.bhaskar.com/g/national/news/delhi-weather-cyclone-akwan-alert-mp-chhattisgarh-rain-update-139738832.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-19T23:30:00+00:00"
           },
           {
             "title": "इतालवी नेता के बयान को सोशल-मीडिया से हटाने की मांग:सुप्रीम कोर्ट में आज सुनवाई, भारत समिट में बोले थे- वोट छोड़, गद्दी छोड़",
-            "link": "https://www.bhaskar.com/national/news/supreme-court-italy-leader-controversy-hearing-sit-probe-delhi-139737332.html",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-italy-leader-controversy-hearing-sit-probe-delhi-139737332.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-19T23:30:00+00:00"
-          },
-          {
-            "title": "दालों की जमाखोरी रोकने के लिए सरकार सख्त: नैफेड से खरीद की सीमा 80 फीसदी घटाई, कारोबारी ले सकेंगे कितना स्टॉक?",
-            "link": "https://www.amarujala.com/business/business-diary/union-government-reduces-nafed-pulses-stock-purchase-limit-to-curb-hoarding-2026-11-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-20T04:38:56+05:30"
           },
           {
             "title": "मॉर्निंग न्यूज ब्रीफ:PF से 90% तक रकम निकाल सकेंगे; अमेरिका में राहुल बोले- पाकिस्तान भारत में आतंकवाद बढ़ा रहा; आज आंध्र-ओडिशा से टकराएगा तूफान अकवान",
@@ -702,13 +709,6 @@
             "source": "Amar Ujala",
             "summary": "",
             "published": "2026-11-20T04:22:36+05:30"
-          },
-          {
-            "title": "उत्तर भारत के मैदानी इलाकों में घना कोहरा: ठंड ने भी दिखाए तेवर, आज ओडिशा के तट से टकराएगा तूफान अकवान",
-            "link": "https://www.amarujala.com/india-news/cyclone-akwan-odisha-landfall-trains-cancelled-north-india-dense-fog-weather-alert-2026-11-20",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-20T04:06:19+05:30"
           }
         ],
         "Entertainment": [
@@ -1072,6 +1072,55 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Live Updates: నేటి తాజా వార్తలు @ ఈనాడు.నెట్‌ (20/11/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSU80cWlnNWRnOFYxV2VidE5wa0ozR2Zwb21WbzBtX2o4NU1yVU1OeWQyVkNLN2lwaDROcmNwSjkxd1VudU44UnY0aFpUaWJFa1lVWlVoSWlKdVJsUy1BMklLOEhXSkViNy1zRlJiRUFMeWhzQWtRdWxnTUdlbV9SVVNTeEk5QVRnb21wZXJsdllNZW8?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-20T00:56:17+00:00"
+          },
+          {
+            "title": "Indira Gandhi Peace Prize: మొజాంబిక్‌ నాయకురాలికి ఇందిర శాంతి బహుమతి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFRwY1ZJZFc1LXA0ZzNxdUhqMThTSHZQVEM1VUpRSVZ2cVA4empqazJ0bG1GQmdwRGJnTl9iVHJQS0pDSlA1Vl9XZWhBbnBYbEJ1TzdRSXlsTDAzeDFSbkM0TU1EclRhVTNqUmZ0U0RMUF9BUXZ0US1HeGh1RzA3ZlBRRlZETlRDSlR2M3d2WEx4Ml9yTkU5RDhLWFF5YUhrRDA4cENRbWFTdWtlYzlxVTNzbG4tZ2gxYjluM3VXWFFZUdIBwgFBVV95cUxQaFRwY1ZJZFc1LXA0ZzNxdUhqMThTSHZQVEM1VUpRSVZ2cVA4empqazJ0bG1GQmdwRGJnTl9iVHJQS0pDSlA1Vl9XZWhBbnBYbEJ1TzdRSXlsTDAzeDFSbkM0TU1EclRhVTNqUmZ0U0RMUF9BUXZ0US1HeGh1RzA3ZlBRRlZETlRDSlR2M3d2WEx4Ml9yTkU5RDhLWFF5YUhrRDA4cENRbWFTdWtlYzlxVTNzbG4tZ2gxYjluM3VXWFFZUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-20T00:46:27+00:00"
+          },
+          {
+            "title": "జెడ్పీ ఛైర్మన్లుగా మజ్జిసిరి, పరిటాల శ్రీరామ్ - టీడీపి జాబితా ప్రకటన: బీజేపీ, జనసేనకు ఇలా..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/zp-chairperson-seats-finalised-in-alliance-tdp-announces-new-chairpersons-here-the-list-details-h-515709.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-20T06:08:11+05:30"
+          },
+          {
+            "title": "రోహింగ్యాలపై మయన్మార్‌ది మారణ హోమమే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hMTlWNWQ2ZjRaNFlPeXdpM3ludjEyZkNNYzVyQ0FKdDZOOEJxVGV3MnM3Mk9GaW9Pc1BPaGdPV1dpYnBHZXhxS21FMTlxQjZnZnM3MTlwdHlFNDRUcjV5cm5aR2ozTzlTM1ZUS0sxeWnSAXBBVV95cUxOYTE5VjVkNmY0WjRZT3l3aTN5bnYxMmZDTWM1ckNBSnQ2TjhCcVRldzJzNzJPRmlvT3NQT2hnT1dXaWJwR2V4cUttRTE5cUI2Z2ZzNzE5cHR5RTQ0VHI1eXJuWkdqM085UzNWVEtLMXlp?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-20T00:34:19+00:00"
+          },
+          {
+            "title": "ద్వారంపూడి అనుచరులకు జనసేన టికెట్లు, తెర వెనుక..!!",
+            "link": "https://telugu.oneindia.com/news/andhra-pradesh/janasena-tickets-to-former-ysrcp-mla-dwarampudi-s-supporters-in-kakinada-spark-controversy-515599.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-20T06:02:23+05:30"
+          },
+          {
+            "title": "NZvsIND: ఎట్టకేలకు వికెట్‌.. లంచ్‌బ్రేక్‌ సమయానికి కివీస్‌ స్కోర్‌ 317/6 - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFM1YzI2aE1xcEVwMDdHWWhXU0RqZDYxRV9wUjJyQU9vY3Nuak45emZ4N1pJenJ1VU42RFpHZ055bExwbXRIZUdjazVlS0xaNVJuSXJ6MlRLdnh1SDN1TEhrWUFoSTNTeGhhYVlKR3JnLVZqMGszMDBWNXRtMzBBa005ekRMOE03aDMxc2xHSm9YU085TXhMWGRHeEVkdVFjemZV0gGjAUFVX3lxTFAwUzVjMjZoTXFwRXAwN0dZaFdTRGpkNjFFX3BSMnJBT29jc25qTjl6Zng3Wkl6cnVVTjZEWkdnTnlsTHBtdEhlR2NrNWVLTFo1Um5JcnoyVEt2eHVIM3VMSGtZQWhJM1N4aGFhWUpHcmctVmowazMwMFY1dG0zMEFrTTl6REw4TTdoMzFzbEdKb1hTTzlNeExYZEd4RWR1UWN6ZlU?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-20T00:32:05+00:00"
+          },
+          {
+            "title": "బుల్డోజర్‌ కింద బాలుడి మృతి.. యూపీలో రాజకీయ దుమారం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvbllnTENHR1NLRWVxcXFHRlJkV1VMNUY4dXd1bUNmQ1ljeUYycW0zTzduWC1UazVKTVpoQU9ZSUFJUVItaWY3VV9SVkdnbHN6LW0yUEt4XzFkMm9oXzdkRmEwTDhsM3haZ1hDaEM0WHPSAXBBVV95cUxQb25ZZ0xDR0dTS0VlcXFxR0ZSZFdVTDVGOHV3dW1DZkNZY3lGMnFtM083blgtVGs1Sk1aaEFPWUlBSVFSLWlmN1VfUlZHZ2xzei1tMlBLeF8xZDJvaF83ZEZhMEw4bDN4WmdYQ2hDNFhz?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-20T00:30:56+00:00"
+          },
+          {
             "title": "KTR: పథకాలకు పాతర.. అవినీతి జాతర - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVNPdkV3UW5SNmpka3JwMGNuR0h6dFJMSUlxTGtmbER0dlN6MnpaX1ViWDczUmZ4d0VLc0NYdXQwclRPRnlsRmJHMVgtSWtvWFdWemNmQ1RnQW1xQUEyUVpRVEdIN0JKVFNFTFFSVzRVazFrRVZkWVFKT1lSNGZHWXFZRl9EMW16S1p1bVVGUktYVDZvODVtWlpSbGhmOUJSdllTaHlma1pwWTJhaTBzeUp30gGyAUFVX3lxTE05U092RXdRblI2amRrcnAwY25HSHp0UkxJSXFMa2ZsRHR2U3oyelpfVWJYNzNSZnh3RUtzQ1h1dDByVE9GeWxGYkcxWC1Ja29YV1Z6Y2ZDVGdBbXFBQTJRWlFUR0g3QkpUU0VMUVJXNFVrMWtFVmRZUUpPWVI0ZkdZcVlGX0QxbXpLWnVtVUZSS1hUNm84NW1aWlJsaGY5QlJ2WVNoeWZrWnBZMmFpMHN5Snc?oc=5",
             "source": "Eenadu",
@@ -1105,55 +1154,6 @@
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-20T00:24:26+00:00"
-          },
-          {
-            "title": "సంక్షిప్త వార్తలు ( 3) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qeEdma2dxbzl1VU5RTEJ1OElTazFfLS1IaVpoMmgyMmVINXVaRjlNVmhGWGYxZDhWNEt6TWU1NXU0YlhMbE1YZ2k3T2dVRnVzVkN3eEUxLUk5TXZhYVBYUEp1ZmtEdzlTTlNBbzBIVFDSAXBBVV95cUxNanhHZmtncW85dVVOUUxCdThJU2sxXy0tSGlaaDJoMjJlSDV1WkY5TVZoRlhmMWQ4VjRLek1lNTV1NGJYTGxNWGdpN09nVUZ1c1ZDd3hFMS1JOU12YWFQWFBKdWZrRHc5U05TQW8wSFRQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:23:30+00:00"
-          },
-          {
-            "title": "బంగ్లాదేశ్‌ అల్లర్లలో నలుగురి మృతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HWEszV1BUdlEycjVoUXc5eW9NUGNrbUpxSGJLdElDbkdTU0x6clUzTko3VGZNeDNmSDd4TzhiM0RwVC1CUkM2TEtWVnVEQWFpWlprMnhkV1AxeEJYSnluVVoxWUNObHVFS0R1Y1d2VlPSAXBBVV95cUxNR1hLM1dQVHZRMnI1aFF3OXlvTVBja21KcUhiS3RJQ25HU1NMenJVM05KN1RmTXgzZkg3eE84YjNEcFQtQlJDNkxLVlZ1REFhaVpaazJ4ZFdQMXhCWEp5blVaMVlDTmx1RUtEdWNXdlZT?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:22:52+00:00"
-          },
-          {
-            "title": "ఉద్యోగుల సమస్యలపై డిసెంబరు 12న చలో దిల్లీ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xSGx2WUpJOUVtWFl1VWVVUW5ZeUpUb0xmRUdnSXh1dHg0dmhJUHFxQm9tUV9GOEpLX0VpRnE1dmJUZnhxOVI1RXdBUm9CTmZpSGc1dG8ydUJGMTR2VFFiZW9GbXd5U2tsdHJRN2E1d3ZYU3lpZ1c5dzkyY1HSAXxBVV95cUxOcUhsdllKSTlFbVhZdVVlVVFuWXlKVG9MZkVHZ0l4dXR4NHZoSVBxcUJvbVFfRjhKS19FaUZxNXZiVGZ4cTlSNUV3QVJvQk5maUhnNXRvMnVCRjE0dlRRYmVvRm13eVNrbHRyUTdhNXd2WFN5aWdXOXc5MmNR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:17:01+00:00"
-          },
-          {
-            "title": "తెదేపా కార్యకర్తలపై వైకాపా వర్గీయుల దాడి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRU9XQk5uSzZaLTlqaUJUdlV6VEdKSUx1TjN6S1V2eXVBTFlZaWZtekpQUnM1ejRzQ1ZOWlZkZGFBX29zaW1Fd091R1ZHc0FKbE1ERU5MaGd6T2E0dFc0WGE3RUh2eDFBaVNzZmVZMFE2OWZfb1VyR1llcG3SAXxBVV95cUxPUEVPV0JObks2Wi05amlCVHZVelRHSklMdU4zektVdnl1QUxZWWlmbXpKUFJzNXo0c0NWTlpWZGRhQV9vc2ltRXdPdUdWR3NBSmxNREVOTGhnek9hNHRXNFhhN0VIdngxQWlTc2ZlWTBRNjlmX29VckdZZXBt?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:15:39+00:00"
-          },
-          {
-            "title": "భర్త ఎంపీపీ.. భార్య సర్పంచి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUFFtMVhkanNXM0FwaDNQRHVxWHRKZ2NSM2o1VlFURXJpc3pNTFNYdGkzU3FsT0Jnemw0YjVSZWsyQ3lmZk5zLWRNeXVhRlMwQS1rekJWN1pZSGY1dDRfU1kwdEt1eVJwRGhIWFFnb2dfd2dMQUQySXBudknSAXxBVV95cUxOV1BRbTFYZGpzVzNBcGgzUER1cVh0SmdjUjNqNVZRVEVyaXN6TUxTWHRpM1NxbE9CZ3psNGI1UmVrMkN5ZmZOcy1kTXl1YUZTMEEta3pCVjdaWUhmNXQ0X1NZMHRLdXlScERoSFhRZ29nX3dnTEFEMklwbnZJ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:15:21+00:00"
-          },
-          {
-            "title": "లైట్‌ డే దూరం నుంచి వాయేజర్‌-1 ఫోన్‌కాల్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUXVvWTloT3l2QTBmbnk0cF9FS19QVmxPbm1ZSXBLbDNNb1pMWGM1N0hPV0tRMVFXR3ZhMEhhUFZESllkM0xJa2RqTWx5RzdkQUJueEZxZUhaQXJMaEZZUG1abFFzVm5LcllIcUpORmTSAXBBVV95cUxNVFF1b1k5aE95dkEwZm55NHBfRUtfUFZsT25tWUlwS2wzTW9aTFhjNTdIT1dLUTFRV0d2YTBIYVBWREpZZDNMSWtkak1seUc3ZEFCbnhGcWVIWkFyTGhGWVBtWmxRc1ZuS3JZSHFKTkZk?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:14:42+00:00"
-          },
-          {
-            "title": "కృష్ణా, గోదావరి జలాలపై రాజీలేని పోరాటం: ఉత్తమ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcEdmWF9kcnJiMHE0MjNDSndpN2NfYjdMUVVOV2Ytd2lQRFlaQVQ1YlNXM0VuMWRTeVIwNG5rbUtyTXZTZEk5S3BTWWJ0Q3hNb0tJaHZ3OFZHbVBXQkxaVTNVZnQzUkEyOUtMQU1nRzZ3S1U2VXfSAXZBVV95cUxPV3BHZlhfZHJyYjBxNDIzQ0p3aTdjX2I3TFFVTldmLXdpUERZWkFUNWJTVzNFbjFkU3lSMDRua21Lck12U2RJOUtwU1lidEN4TW9LSWh2dzhWR21QV0JMWlUzVWZ0M1JBMjlLTEFNZ0c2d0tVNlV3?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-20T00:08:08+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ಕರ್ನಾಟಕ ಏರೋಸ್ಪೇಸ್ ಕ್ಷೇತ್ರದಲ್ಲಿ ಶೇ.75 ಹೂಡಿಕೆ ಗುರಿ: ಹೂಡಿಕೆದಾರರಿಗೆ ಸರ್ಕಾರ ಮುಕ್ತ ಆಹ್ವಾನ",
+            "link": "https://kannada.oneindia.com/news/karnataka/karnataka-aims-to-increase-its-share-of-the-aerospace-sector-to-75pc-invited-investors-says-m-b-pa-474965.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-20T06:21:59+05:30"
+          },
+          {
             "title": "ಮೊಹಮ್ಮದ್ ಸಿರಾಜ್ ಎಲ್ಲಿ?: ಟೀಮ್ ಇಂಡಿಯಾ ಮ್ಯಾನೇಜ್‌ಮೆಂಟ್‌ಗೆ ಸುನಿಲ್ ಗವಾಸ್ಕರ್, ರವಿಶಾಸ್ತ್ರಿ ಕ್ಲಾಸ್",
             "link": "https://kannada.oneindia.com/news/sports/sunil-gavaskar-and-ravi-shastri-slam-team-india-for-dropping-star-mohammed-siraj-from-playing-xi-474955.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "ಕನ್ನಡ ಚಿತ್ರರಂಗದ ಖ್ಯಾತ ನಿರ್ದೇಶಕ ನಾಗತಿಹಳ್ಳಿ ಚಂದ್ರಶೇಖರ್ ಅವರು ತಮ್ಮ ನಿರ್ದೇಶನದ 'ಪ್ರೇಮದ ಊರಲಿ' ಸಿನಿಮಾದ ಕುರಿತಾಗಿ ಸಾಮಾಜಿಕ ಜಾಲತಾಣದಲ್ಲಿ ಹಂಚಿಕೊಂಡಿರುವ ಒಂದು ಪೋಸ್ಟ್ ಇದೀಗ ಭಾರೀ ಚರ್ಚೆಗೆ ಗ್ರಾಸವಾಗಿದೆ. ತಮ್ಮ ವಿಶಿಷ್ಟ ಶೈಲಿಯ ಕಥಾನಕಗಳ ಮೂಲಕವೇ ಕನ್ನಡಿಗರ ಮನ ಗೆದ್ದಿರುವ ನಾಗತಿಹಳ್ಳಿ ಅವರು, ಈ ಸಿನಿಮಾದ ಬಗ್ಗೆ ನೀಡಿರುವ ಅಚ್ಚರಿಯ ಹೇಳಿಕೆಯು ಸಿನಿಪ್ರಿಯರಲ್ಲಿ ಕುತೂಹಲವನ್ನು ಕೆರಳಿಸಿದೆ. ನಿರ್ದೇಶಕರು ಈ ಪೋಸ್ಟ್‌ನಲ್ಲಿ ಏನು ಹೇಳಿರಬಹುದು ಮತ್ತು ಅದಕ್ಕೆ ಪ್ರೇಕ್ಷಕರು ಯಾವ ರೀತಿಯ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿದ್ದಾರೆ ಎಂಬುದು ಈಗ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾದಲ್ಲಿ ವೈರಲ್ ಆಗಿದೆ. ಸಾಮಾನ್ಯವಾಗಿ ನಾಗತಿಹಳ್ಳಿ ಅವರ ಸಿನಿಮಾಗಳು ಬದುಕಿನ ಮೌಲ್ಯಗಳನ್ನು ಮತ್ತು ಪ್ರೀತಿಯನ್ನು ಸುಂದರವಾಗಿ ಕಟ್ಟಿಕೊಡುತ್ತವೆ, ಹೀಗಾಗಿ ಈ ಹೊಸ ಸಿನಿಮಾದ ಮೇಲೆಯೂ ಸಾಕಷ್ಟು ನಿರೀಕ್ಷೆಗಳಿವೆ. ತಮ್ಮ ನೆಚ್ಚಿನ ನಿರ್ದೇಶಕರ ಪೋಸ್ಟ್ ಅನ್ನು ನೋಡಿದ ಕನ್ನಡಿಗರು, ಕಾಮೆಂಟ್ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಪರ-ವಿರೋಧದ ಅಭಿಪ್ರಾಯಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತಿದ್ದಾರೆ. ಹಲವರು ಹೊಸ ಪ್ರಯೋಗಕ್ಕೆ ಶುಭ ಹಾರೈಸಿದರೆ, ಇನ್ನು ಕೆಲವರು ಸಿನಿಮಾದ ಕಥಾ ಹಂದರದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಎತ್ತುತ್ತಿದ್ದಾರೆ. ಒಟ್ಟಿನಲ್ಲಿ, ನಿರ್ದೇಶಕರ ಈ ದಿಢೀರ್ ಪೋಸ್ಟ್ ಚಿತ್ರದ ಪ್ರಚಾರಕ್ಕೆ ಹೊಸ ವೇಗ ನೀಡಿದೆ ಎಂದರೆ ತಪ್ಪಾಗಲಾರದು. ಸಿನಿರಸಿಕರು ಈಗ ಈ ಚಿತ್ರದ ಅಧಿಕೃತ ಟ್ರೈಲರ್ ಅಥವಾ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಯಾವಾಗ ಹೊರಬೀಳುತ್ತದೆ ಎಂದು ಕಾತುರದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ.",
             "published": "2026-11-19T16:48:25+05:30"
-          },
-          {
-            "title": "ಆರ್‌ಸಿಬಿಗೆ ಮತ್ತೆ ವಾಪಾಸ್‌ ಬರ್ತಾರಾ ಜೇಕಬ್ ಬೆಥೆಲ್: ಯಂಗ್ ಸ್ಟಾರ್ ಭಾವುಕ ಸಂದೇಶದ ಹಿಂದಿದೆ ಮಹತ್ವದ ಸುಳಿವು",
-            "link": "https://kannada.oneindia.com/news/sports/ipl-2027-jacob-bethell-withdraws-from-auction-due-to-knee-injury-shares-emotional-message-for-rcb-474911.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-19T16:46:32+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,6 +1426,34 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "কন্যা অমূল্য, বোঝাতে শুরু মা-মেয়ের নিজস্বী - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQSVM0OUhQa25SVnlzQkhDSVp3NjVmUC05clhudEFxZkFCTHpjQ3lXZ3JmNThBRnNDVkFHZ1ppNUFFQjJiaVpCZm90YnBmaTdENFE1Q3Zld1FfaUc4Q1hUeVRkWmtIeThjRnpaaUlqOVlMcmtaQkRHT2FXeFlRUG8xbDhYWG03U1BaYWZWOWd6S2hkOHlCSEZiblZnTGl6TDVvb2ZCdUtkcEwxcVpzaTc4aFNzSUxKaEMwd2N4MnpGNHBCNmxDb0FiM05YdjRvOGxxdDdDRVlaQU5XU1o0Rjh4S2kzSzNHc2FHUWtuc3hFMFV4YVk5aGc2ODNvMXdKaFlHWkxveG1TMmEwZTlhSHM1eVJUNElMTm9WNUhlaTNYSDTSAaACQVVfeXFMUElTNDlIUGtuUlZ5c0JIQ0ladzY1ZlAtOXJYbnRBcWZBQkx6Y0N5V2dyZjU4QUZzQ1ZBR2daaTVBRUIyYmlaQmZvdGJwZmk3RDRRNUN2ZXdRX2lHOENYVHlUZFprSHk4Y0Z6WmlJajlZTHJrWkJER09hV3hZUVBvMWw4WFhtN1NQWmFmVjlnektoZDh5QkhGYm5WZ0xpekw1b29mQnVLZHBMMXFac2k3OGhTc0lMSmhDMHdjeDJ6RjRwQjZsQ29BYjNOWHY0bzhscXQ3Q0VZWkFOV1NaNEY4eEtpM0szR3NhR1FrbnN4RTBVeGFZOWhnNjgzbzF3SmhZR1pMb3htUzJhMGU5YUhzNXlSVDRJTE5vVjVIZWkzWEg0?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T00:43:51+00:00"
+          },
+          {
+            "title": "প্রাথমিকেই চালু হচ্ছে পঞ্চম শ্রেণি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQWwtaC1sWnJkYUZCQVVnQnBlQUpMQWdETU4wc1pUQjB4bFd3Wkw4Q3E5ZGg3TnNUenBVVXd2QXNkQmQ5Nmg0dHhoalc4TXNwczVRSTZYbEVhYXM4UGlLd29KVkNNRVRrb1RfbnAxV05MVEQxMXF5R29KbHQ3NlJGWmdVaW5fSlJPYVRfYVpOcFBSeDgySUx4VUtDcGpleHJ0YnlzVFFnZDJFYzBsdHlURUcxV3pIcF9Od0paZ3Rjd2lfTVdDcFl5Tzc3RWZjMEI2dFVpbEpxdFFiWEVUS0hQdUk2X1RheEFwVkZZN19BZ21BMmk4UnpoYmFPYUNqZWZITXlEa2dqWVPSAYgCQVVfeXFMT0FsLWgtbFpyZGFGQkFVZ0JwZUFKTEFnRE1OMHNaVEIweGxXd1pMOENxOWRoN05zVHpwVVV3dkFzZEJkOTZoNHR4aGpXOE1zcHM1UUk2WGxFYWFzOFBpS3dvSlZDTUVUa29UX25wMVdOTFREMTFxeUdvSmx0NzZSRlpnVWluX0pST2FUX2FaTnBQUng4MklMeFVLQ3BqZXhydGJ5c1RRZ2QyRWMwbHR5VEVHMVd6SHBfTndKWmd0Y3dpX01XQ3BZeU83N0VmYzBCNnRVaWxKcXRRYlhFVEtIUHVJNl9UYXhBcFZGWTdfQWdtQTJpOFJ6aGJhT2FDamVmSE15RGtnallT?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T00:36:21+00:00"
+          },
+          {
+            "title": "এক বছরে ৫৫৯ সদ্যোজাতের মৃত্যু, প্রশ্ন উত্তরবঙ্গ মেডিক্যালে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPek5aQmpYN3dKUEliUlQ5NkhUZnY2cVQwRm1EaHBzdFp3VHN1cjhPTzBBY0FweWFWaU5EbkZqZlhjcFdMYzJUNENZMlpQRkdaczR3TWgwc3JJczZ3Y0RsQV9IQmNJYXRuSE9ZWlBHODF6QVZVNVFjaHRkbFR3T2p0NDBvWHZoNTV4N09vSVRtTzY4Nzl0dDJjVE81TWQ4WWYtSk5KOS03ajJJZHgwcXVMQ210QzhzajkwRklCMVJFM0RuZHF5cWRscWUxVUpRYTBtbFdjVXJVcVNCUS1JN2hKRW9CNVlncmkzLU1kUmlrY3hkeklRMzN1WElyblVIcGM3Ukk5cGRRMjbSAYgCQVVfeXFMT3pOWkJqWDd3SlBJYlJUOTZIVGZ2NnFUMEZtRGhwc3Rad1RzdXI4T08wQWNBcHlhVmlORG5GamZYY3BXTGMyVDRDWTJaUEZHWnM0d01oMHNySXM2d2NEbEFfSEJjSWF0bkhPWVpQRzgxekFWVTVRY2h0ZGxUd09qdDQwb1h2aDU1eDdPb0lUbU82ODc5dHQyY1RPNU1kOFlmLUpOSjktN2oySWR4MHF1TENtdEM4c2o5MEZJQjFSRTNEbmRxeXFkbHFlMVVKUWEwbWxXY1VyVXFTQlEtSTdoSkVvQjVZZ3JpMy1NZFJpa2N4ZHpJUTMzdVhJcm5VSHBjN1JJOXBkUTI2?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T00:29:15+00:00"
+          },
+          {
+            "title": "শহরে বাড়ছে সঙ্ঘ-শাখা, আজ একত্রীকরণ কর্মসূচি - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGVVU0VFNzlLZXgxQWhpMWVuQ2RnTklDbWZaYjZxcDA0SktOLW1xTUVFcUgtemZWek5sQzFXZXpvNi1TWVRjZFNnX1lDZldLOWlOcTBJdUhIVnliNHJsRUJJcE5ld1hhSjNha0R2WWN6bFZkUy1iOGhpZmhsYUxkUno0WHJIdjFkMGtLSlRSUWliakFMaFk4WnpGWWpYTmNWWFpVU3dPMEg4M2w4MU9YQ2hlSTduZW9mTFktTlo0cUMtYjV3aWZ5UFBDN0UxRUdGMlE5NkF6MldkajQ5QnJ4Q1J2alZyYmRxeHF2eEZxeVBEdTlkLU9XOEo4QTFXQdIB_gFBVV95cUxPWGVVU0VFNzlLZXgxQWhpMWVuQ2RnTklDbWZaYjZxcDA0SktOLW1xTUVFcUgtemZWek5sQzFXZXpvNi1TWVRjZFNnX1lDZldLOWlOcTBJdUhIVnliNHJsRUJJcE5ld1hhSjNha0R2WWN6bFZkUy1iOGhpZmhsYUxkUno0WHJIdjFkMGtLSlRSUWliakFMaFk4WnpGWWpYTmNWWFpVU3dPMEg4M2w4MU9YQ2hlSTduZW9mTFktTlo0cUMtYjV3aWZ5UFBDN0UxRUdGMlE5NkF6MldkajQ5QnJ4Q1J2alZyYmRxeHF2eEZxeVBEdTlkLU9XOEo4QTFXQQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T00:27:58+00:00"
+          },
+          {
             "title": "ক্ষোভ উচ্ছেদের নোটিসে, খনির পরিবহণে বাধা - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTHJpeUQxZWE2ZVN4OXBoLXBSWW4zNGdvdlN0VkJtd2Rka25pWGlMdkdUbzMyNnEwSjJSN1R0Ui13ekJ1Q3VoSng4Q0wyNnp6R2d6VGlOamZJLV9xQVRDMDVrSHRWS3RoSU4zcnphX1FwcVkzTmlONEpEWVlZaGg4N2lRWGN6Y1RWY25LRTBQcFZwOFJZX25TRDhmV25PUnZTYndvNEttSHI0VkpBY1N6UFJobXFJT3ZsNFpLSUFya3lmdm40bVlGaWpXWS1XYmdyUDNnUE5jbnJqYXcycE03WXR1NTRrT2JTVTZMY0kwMlJKTXQ2Tkg2VHFobEFKVTAtRmtQSVZfUGVJVkFCa1ZnTXpBcDJUMjA?oc=5",
             "source": "Anandabazar Patrika",
@@ -1438,13 +1466,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-20T00:08:16+00:00"
-          },
-          {
-            "title": "বনগাঁয় রাজীবের পক্ষ নিয়ে মুখ খুলছেন অনেকে - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV3cyMnF0bno0dlVjNlZQZjR5MWpKUy03RHlUcDY0Zzc4QWZTeXlyaHZEaXpIdlBERm85LWVHNTcyUU43MzRzRjZiN1kwQkNaeWFnRzVOZkt2TWlIcnRITmsyYVhsUkFTX1RRcUF3emtYeW1heHVJNDR1WG1mN1pqbm1Jb3lvekZfSzhpYTZhVkpwejItYWk3MXJwSnN1M2Ridkl5LWRPRG1TSl9vUTdlbGt2RXllUDdfYmNDdzAxUG12dGE0aWR3eWpZVTNfR1Fw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-20T00:07:28+00:00"
           },
           {
             "title": "শিশু পাচারের শিকার হয়েও মূল স্রোতে - Anandabazar Patrika",
@@ -1468,13 +1489,6 @@
             "published": "2026-11-19T23:54:40+00:00"
           },
           {
-            "title": "আজ জন্মদিন হলে ( ১৯ নভেম্বর ২০২৬ ) - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yYzhnc25nNlZZejlBbFJmaXhERWpEMGxhb0UxS2RaUlF2LVBBa3N1OGplX044emlGc1lpZGJkYTBiV2pMcTBBTUhXdE11b1Z2U0tZQzdCRWo3Mm1CYm5hamcydVI5dUN2UGhjd2E5NzlmM210WFVIc9IBfkFVX3lxTE5VTVN2b2dfYW9uTnlUMlBVWW8zN3FRYVZRaGYydUFCNW9JU3E5aHNoYVU2Q2xXaEtaTE5mRG5QMTJnZlg2VnhaOTRKZDE1VFFkNGV4b3BlQ3lRczJwR2R2XzhsTUJtYklRZFFoLXdXOTFaZlc5Y21FWUU1MDQ1dw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-19T23:35:12+00:00"
-          },
-          {
             "title": "বর্জ্য-কঠিন - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1RYbk5YVFIwYkh0VDZ6aFZoTzVMdW1SLUpxNGx5ekRFOVZabWRKcUUweDZ4ZjczMU5KVmh6LU1FeXhUQ25fRE9xX2RUOC1rdkQtZ21OQmNydlU1NnlMamtxN3JKZlRCbzhDQTJQWEg0d1VsbDdRYVU4cFhZM3o2bHA1V0xkXzBjamRuTElZNVZTWjIxRGVkZVJxLTlKUEwtRmVGNXNnUGdjb3lzMUww?oc=5",
             "source": "Anandabazar Patrika",
@@ -1494,20 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-19T17:47:07+00:00"
-          },
-          {
-            "title": "ইউনূসের বাংলাদেশের বাড়িতে আগুন, জেলায় জেলায় হিংসা, নিহত ৪! অনুঘটক কি আওয়ামী লীগ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEpJcDJFOTZYY1dOcVJzTS1vd1dPR0xuS19LaVVlWVdxMkpPUDQtNkMyZGpVZVJOR2NPaXd0UXFDLXFzaXZCbTZUZm00UENSUlVEcFRfamVuUjUtNUxxQlpkd0o0WHB3SG5QYkRNUGZHd1dnZ2hza3VoVGxRNmRnQ05ucXVhSWQ1QXlDRFg4NWI1dmpES0k4UU03bTF0RlpCVVpsYtIBqgFBVV95cUxNYkR4VDZxWGZ4MjNtQ1Y1M0t5VTFhN2FmRkZteW5fWURiSEh3MmlQaG1hcUJBLTFzdVlHSHhvSzZpcGc4ZWRIdDZnSHQ0emhyQkZoRVVvdl84QWdMQjBZa1huOU9XRy0tQWJ2SXBFN1lYdWlOcFNLVktzMGJHdkpxRHJDQjhlNHZKTWtoX0RvUEhmMC1UVDNfRzZZMW5TWnFpeS1pWUtiNXREQQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-19T17:43:00+00:00"
-          },
-          {
-            "title": "সাত পাকে ঘুরে পান-ফুলে দেবীবরণ! অঞ্জনার বাড়িতে বিসর্জনে কী কী হল? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVGhyUGMwbndMLV9MaktHRS1uQ3NzaXBQYzVrTk1zYm5qZ1k2ZWpvdGRNak8tSGlyU1BsM0dNS3JBdFhLaF95UEZFbGxyY0xYb0VBb3hUMFdQS2RSMUQtZFNQTUxONlRLd3IyR00zbHVpSlNHWDFZNVlRNzZHT09YRGFOcE96cWMzYkZKb1dnNUVpWFQtVFZLOWpsYkNaWWR2UThnMXZtX2s4c29EZHVTTnRYUXRzX21PRTNBSlRremZHdFNCdWpXUUhOWWRQaTcxR3JxdUVBSEZTdzVTYVRYQzBCSHIyZHFWbUUxSGFIX0FsV1ZNNkJHMy16YmplMHNuYkxsYlh1emJiN1lFTmJqZlJZUWlJakdzZklSUDkyZEdZWkZfcDltWl94ZXZBSkZUSnJEONIBugJBVV95cUxNU0JrQlRyMnR1UDBmWGJKb1VpaHFqQ3NodE9yOUs3WG1Xd1lMZG0yeFVicTA3Rm9RTlpoX1BONjdCbkN6T2hDWHhSWG12X2FlVTRuTWJERjhMbmNyb0ZqWGx3M1NaZUk4b2IxYm82dzBBM3dnX2VaaGdkeFBNUWtLalR6VWtocjA5MDh4TkpkcTZPVUl6UHFIODFmRGstWG5JcEZnNjhWdlIwZnJWaF9jWVRNZ2o3V25sZDIyc3VKWkM2VFUzMlVFODZ4dWdIcHZSaXhKNjZDcmxBT1c5T2ZkRkhxYkp2eU5XbFcxa3BsdFZCcmpmUDVHNjRrT1NKNG54Vy1ueHJmOV9BQlktZjdPMThXT3NRZFh0cTRWOFBsTElSSkJIeXdqbHp4NS1DcjltWjZ4MFhZZEY5Zw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-19T17:42:28+00:00"
           }
         ]
       }
