@@ -1,16 +1,65 @@
 {
-  "updated_at": "2026-11-20T20:31:05.178896+00:00",
+  "updated_at": "2026-11-20T21:01:14.901940+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Trump threatens ban on US firms building AI data centres overseas",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+            "published": "2026-11-20T20:54:12+00:00"
+          },
+          {
+            "title": "Gaza’s displaced children celebrate World Children’s Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+            "published": "2026-11-20T20:45:09+00:00"
+          },
+          {
+            "title": "Sudan’s war leaves disabled children missing out on education",
+            "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+            "published": "2026-11-20T20:45:08+00:00"
+          },
+          {
+            "title": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
+            "link": "https://timesofindia.indiatimes.com/india/first-regular-india-nepal-passenger-train-to-link-birthplaces-of-lord-ram-and-mata-sita/articleshow/136039011.cms",
+            "source": "Times of India",
+            "summary": "Indian railways is set to launch a direct passenger train service between Ayodhya and Janakpur after two years. This new connection will promote religious tourism by linking Lord Ram's and Mata Sita's birthplaces. The inaugural run is scheduled for November 23, with the train operating weekly. Passengers will travel around 604 kilometers in approximately 19 hours with customs clearance aboard.",
+            "published": "2026-11-21T02:06:08+05:30"
+          },
+          {
+            "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+            "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
+            "published": "2026-11-20T20:30:46+00:00"
+          },
+          {
+            "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
+            "link": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "That worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar also said in a release that it sold 32.5 million units pre-release, setting a record across platforms.",
+            "published": "2026-11-21T02:00:22+05:30"
+          },
+          {
             "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
             "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
             "published": "2026-11-20T20:14:56+00:00"
+          },
+          {
+            "title": "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+            "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+            "source": "The Hindu",
+            "summary": "The development comes ahead of pending civic elections in West Bengal. The State government is keen to hold elections to the civic bodies of Howrah and Kolkata.",
+            "published": "2026-11-21T01:41:35+05:30"
           },
           {
             "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
@@ -53,59 +102,31 @@
             "source": "The Hindu",
             "summary": "Party proposes retaining 543 Lok Sabha seats, existing State-wise distribution and a 25-year freeze, with one-third reservation for women",
             "published": "2026-11-21T01:25:46+05:30"
-          },
-          {
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-            "published": "2026-11-20T19:51:52+00:00"
-          },
-          {
-            "title": "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; premature babies discharged after NICU care",
-            "link": "https://www.thehindu.com/news/cities/Hyderabad/woman-delivers-triplets-after-non-art-treatment-at-telangana-govt-hospital-premature-babies-discharged-after-nicu-care/article71725333.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T01:20:03+05:30"
-          },
-          {
-            "title": "IJCCI to lead business delegation to Japan from Nov. 30",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/ijcci-to-lead-business-delegation-to-japan-from-nov-30/article71725299.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T01:19:59+05:30"
-          },
-          {
-            "title": "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/53-vendors-participate-in-atomic-energy-departments-vendor-buyer-meet/article71725312.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T01:19:54+05:30"
-          },
-          {
-            "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
-            "link": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-            "source": "The Hindu",
-            "summary": "While the coal and electricity sectors saw growth shoot up, a large part of this was due to a statistical effect rather than growth in actual output. On the other hand, fuel-related sectors contracted again",
-            "published": "2026-11-21T01:18:11+05:30"
-          },
-          {
-            "title": "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
-            "source": "The Hindu",
-            "summary": "The RMC has forecast moderate rainfall in coastal districts, including Chennai and Cuddalore, and mild rainfall over adjoining areas; wet weather likely to last till the first week of December",
-            "published": "2026-11-21T01:16:09+05:30"
-          },
-          {
-            "title": "Gérard Depardieu and French author investigated over sexual allegations",
-            "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-            "published": "2026-11-20T19:45:20+00:00"
           }
         ],
         "India": [
           {
+            "title": "First regular India-Nepal passenger train to link birthplaces of Lord Ram and Mata Sita",
+            "link": "https://timesofindia.indiatimes.com/india/first-regular-india-nepal-passenger-train-to-link-birthplaces-of-lord-ram-and-mata-sita/articleshow/136039011.cms",
+            "source": "Times of India",
+            "summary": "Indian railways is set to launch a direct passenger train service between Ayodhya and Janakpur after two years. This new connection will promote religious tourism by linking Lord Ram's and Mata Sita's birthplaces. The inaugural run is scheduled for November 23, with the train operating weekly. Passengers will travel around 604 kilometers in approximately 19 hours with customs clearance aboard.",
+            "published": "2026-11-21T02:06:08+05:30"
+          },
+          {
+            "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
+            "link": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "That worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar also said in a release that it sold 32.5 million units pre-release, setting a record across platforms.",
+            "published": "2026-11-21T02:00:22+05:30"
+          },
+          {
+            "title": "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+            "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+            "source": "The Hindu",
+            "summary": "The development comes ahead of pending civic elections in West Bengal. The State government is keen to hold elections to the civic bodies of Howrah and Kolkata.",
+            "published": "2026-11-21T01:41:35+05:30"
+          },
+          {
             "title": "Trump Defends \"Fantastic\" Ties With Xi, Putin After Summit Backlash",
             "link": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
             "source": "NDTV",
@@ -125,6 +146,13 @@
             "source": "The Hindu",
             "summary": "Party proposes retaining 543 Lok Sabha seats, existing State-wise distribution and a 25-year freeze, with one-third reservation for women",
             "published": "2026-11-21T01:25:46+05:30"
+          },
+          {
+            "title": "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges",
+            "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+            "source": "The Hindu",
+            "summary": "The court has directed the Bihar Education Department to release the grant-in-aid to the university within three months.",
+            "published": "2026-11-21T01:25:15+05:30"
           },
           {
             "title": "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; premature babies discharged after NICU care",
@@ -160,37 +188,37 @@
             "source": "The Hindu",
             "summary": "The RMC has forecast moderate rainfall in coastal districts, including Chennai and Cuddalore, and mild rainfall over adjoining areas; wet weather likely to last till the first week of December",
             "published": "2026-11-21T01:16:09+05:30"
-          },
-          {
-            "title": "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/lawyer-seeks-to-probate-will-left-behind-by-former-dgps-wife-madras-high-court-orders-cb-cid-probe-after-suspecting-its-genuineness/article71725560.ece",
-            "source": "The Hindu",
-            "summary": "Justices N. Sathish Kumar and G.K. Muthukumaar direct incumbent DGP Mahesh Kumar Aggarwal to ensure that an investigation gets conducted after registering a FIR",
-            "published": "2026-11-21T01:14:48+05:30"
-          },
-          {
-            "title": "TNGCTA writes to CM, Higher Education Minister to appoint senior govt. college principal as DCE",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tngcta-writes-to-cm-higher-education-minister-to-appoint-senior-govt-college-principal-as-dce/article71725207.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T01:10:45+05:30"
-          },
-          {
-            "title": "Singareni keen to supply Naini coal to NTPC Kaniha plant after meeting TG needs",
-            "link": "https://www.thehindu.com/news/national/telangana/singareni-keen-to-supply-naini-coal-to-ntpc-kaniha-plant-after-meeting-tg-needs/article71725204.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T00:54:36+05:30"
-          },
-          {
-            "title": "KRRS demands action against sugar factory",
-            "link": "https://www.thehindu.com/news/national/karnataka/krrs-demands-action-against-sugar-factory/article71725886.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-21T00:53:59+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Trump threatens ban on US firms building AI data centres overseas",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+            "published": "2026-11-20T20:54:12+00:00"
+          },
+          {
+            "title": "Gaza’s displaced children celebrate World Children’s Day",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+            "published": "2026-11-20T20:45:09+00:00"
+          },
+          {
+            "title": "Sudan’s war leaves disabled children missing out on education",
+            "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+            "published": "2026-11-20T20:45:08+00:00"
+          },
+          {
+            "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+            "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
+            "published": "2026-11-20T20:30:46+00:00"
+          },
           {
             "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
             "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
@@ -218,13 +246,6 @@
             "source": "Al Jazeera",
             "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
             "published": "2026-11-20T19:57:05+00:00"
-          },
-          {
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-            "published": "2026-11-20T19:51:52+00:00"
           },
           {
             "title": "Gérard Depardieu and French author investigated over sexual allegations",
@@ -253,43 +274,22 @@
             "source": "Al Jazeera",
             "summary": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
             "published": "2026-11-20T19:24:26+00:00"
-          },
-          {
-            "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-            "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
-            "published": "2026-11-20T19:15:18+00:00"
-          },
-          {
-            "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
-            "published": "2026-11-20T19:12:14+00:00"
-          },
-          {
-            "title": "White House removes cyber-security chief after series of tech outages",
-            "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-            "published": "2026-11-20T19:03:56+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Trump threatens ban on US firms building AI data centres overseas",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+            "published": "2026-11-20T20:54:12+00:00"
+          },
           {
             "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
             "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
             "published": "2026-11-20T20:00:53+00:00"
-          },
-          {
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-            "published": "2026-11-20T19:51:52+00:00"
           },
           {
             "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -450,18 +450,18 @@
         ],
         "Technology": [
           {
+            "title": "Trump threatens ban on US firms building AI data centres overseas",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Technology",
+            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+            "published": "2026-11-20T20:54:12+00:00"
+          },
+          {
             "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
             "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
             "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
             "published": "2026-11-20T20:00:53+00:00"
-          },
-          {
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Technology",
-            "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-            "published": "2026-11-20T19:51:52+00:00"
           },
           {
             "title": "White House removes cyber-security chief after series of tech outages",
@@ -648,6 +648,13 @@
             "published": "2026-11-21T12:15:23+05:30"
           },
           {
+            "title": "भारत की जीडीपी ग्रोथ से ट्रंप प्रभावित: बोले- अमेरिका की अर्थव्यवस्था 20% तक बढ़ सकती है, किस पर साधा निशाना?",
+            "link": "https://www.amarujala.com/world/donald-trump-praises-india-low-interest-rates-criticises-us-federal-reserve-2026-11-21",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-21T02:10:09+05:30"
+          },
+          {
             "title": "अमरनाथ यात्रा मार्ग पर भूस्खलन का खतरा:नेशनल इंस्टिट्यूट की रिसर्च, 85% क्षेत्र संवेदनशील; रूट के करीब सुरक्षा बढ़ाने की जरूरत",
             "link": "https://www.bhaskar.com/national/news/amarnath-yatra-route-landslide-risk-jammu-kashmir-safety-alert-139750181.html",
             "source": "Dainik Bhaskar",
@@ -683,7 +690,7 @@
             "published": "2026-11-21T01:05:22+05:30"
           },
           {
-            "title": "मणिपुर में जहरीली शराब से 15 की मौत:200 लोग बीमार पड़े, कई गंभीर मरीजों का डायलिसिस जारी",
+            "title": "मणिपुर में जहरीली शराब से 15 की मौत:600 से ज्यादा अस्पताल में भर्ती, कई गंभीर मरीजों का डायलिसिस जारी",
             "link": "https://www.bhaskar.com/national/news/manipur-chandel-poisonous-liquor-tragedy-deaths-hospital-update-139749885.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-20T17:04:03+00:00"
-          },
-          {
-            "title": "'Nitish Kumar का क्या सम्मान करेंगे, पहले ही पीठ में छुरा घोंप चुके', बिहार सरकार पर पप्पू यादव पर तीखा प्रहार",
-            "link": "https://hindi.oneindia.com/news/bihar/pappu-yadav-attacks-bihar-government-over-nitish-kumar-respect-target-pm-modi-patna-news-hindi-1688759.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-20T22:17:54+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "મણિપુરમાં ઝેરી દારૂથી 15નાં મોત:600થી વધુ હોસ્પિટલમાં દાખલ, અનેક ગંભીર દર્દીઓનું ડાયાલિસિસ ચાલુ",
+            "link": "https://www.divyabhaskar.co.in/national/news/manipur-toxic-liquor-tragedy-chandel-hospital-admissions-139751033.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-20T20:50:36+00:00"
+          },
+          {
             "title": "સ્પાઇસજેટ મુશ્કેલીમાં, કંપની દેવામાં ડૂબી, માત્ર 13 પ્લેન બચ્યાં:DGCAએ ફ્લાઇટ કેન્સલ અને મોડી થવા મામલે જવાબ માંગ્યો; 2019માં દેશની બીજી સૌથી મોટી એરલાઇન હતી",
             "link": "https://www.divyabhaskar.co.in/national/news/dgca-probe-spicejet-flight-cancellations-financial-crisis-139749877.html",
             "source": "Divya Bhaskar",
@@ -879,13 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-11-20T11:31:42+00:00"
-          },
-          {
-            "title": "ગુજરાત સરકારે આઇસક્રીમ કે ફ્રોઝન ડેઝર્ટની ઓળખ માટે અભિયાન ચલાવવાની જરૂરિયાત કેમ પડી? બંનેમાં શું ફેર હોય છે?",
-            "link": "https://www.bbc.com/gujarati/articles/c804wzlpe7vdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-20T11:27:23+00:00"
           }
         ]
       }
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "ఏపీ దూకుడుతో పొరుగు రాష్ట్రాల్లో టెన్షన్.. పెట్టుబడుల వేట, డేటా లీకేజీ వివాదం వెనుక అసలు కథ!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/andhra-pradesh-investment-boom-sparks-rivalry-with-neighbours-amid-data-leak-row-and-cii-deals-515841.html",
-            "source": "Oneindia Telugu",
+            "title": "గుర్తుందిగా.. మర్చిపోవద్దు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40YkpxNXgyeHJoTlVSTnhGMXhPMlYzQkJSYnJrS1dlUlNxaV9FMTBRaWk0Zkc2WUsxVGNieGd3SzMtX0lUWks5V2lxR205ZlpDYzhmZDNaT1NFUUE0Uzd3M19zZ1VtbGlZN0pnQ3pBdkdlM3Bsd28zbFQwUQ?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T22:27:56+05:30"
+            "published": "2026-11-20T20:39:11+00:00"
           },
           {
-            "title": "సోనియా గాంధీ బయోపిక్‌లో ప్రపంచ అందగత్తె.. కానీ కథ అడ్డం తిరిగింది!",
-            "link": "https://telugu.oneindia.com/news/india/sonia-gandhi-biopic-why-hollywood-star-monica-bellucci-walked-out-of-the-2006-film-project-details-515837.html",
-            "source": "Oneindia Telugu",
+            "title": "కొంటె కొటేషన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BdkN5am9rbGJOSzRwVGxJbXZrTlBjQ1NERUM3Rm1uNF80RWtjaWpOZHY2WGtUOVpSX3llVEYxbzIxdXpJRm96amIxa2lrbkFiSWM1UURVcDhKa3NHY2hlUFNDaGpvaGhtbTdGd1hhMFZJV1ox0gF0QVVfeXFMT0F2Q3lqb2tsYk5LNHBUbEltdmtOUGNDU0RFQzdGbW40XzRFa2Npak5kdjZYa1Q5WlJfeWVURjFvMjF1eklGb3pqYjFraWtuQWJJYzVRRFVwOEprc0djaGVQU0Noam9oaG1tN0Z3WGEwVklXWjE?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T21:30:38+05:30"
+            "published": "2026-11-20T19:44:57+00:00"
           },
           {
-            "title": "అసదుద్దీన్ ఒవైసీ గడ్డంపై సమాజ్‌వాది పార్టీ నాయకుడు ఆజం ఖాన్ చేసిన విమర్శలేంటి.. లఖ్‌నవూ బిర్యానీ తిని హైదరాబాద్ తిరిగి వెళ్లిపోవాలని ఎందుకన్నారు?",
-            "link": "https://www.bbc.com/telugu/articles/cqg7l03e9px0o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
+            "title": "నవ్వుబ్రో - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDb2VjVzFHU0VfbDNtaGdyd1JvVU81RDdxWlRxX0k2T2lYdk5iWC1oTERGdXpGNTdkQ3B4aXBoZThrblpMVE5aa2FsdDJKNjhHaGxVbnBETnNBMjFndmpLaU5FUnVEVUJ4U0tPcHc5SGdkZXMx0gF0QVVfeXFMUENvZWNXMUdTRV9sM21oZ3J3Um9VTzVEN3FaVHFfSTZPaVh2TmJYLWhMREZ1ekY1N2RDcHhpcGhlOGtuWkxUTlprYWx0Mko2OEdobFVucEROc0EyMWd2aktpTkVSdURVQnhTS09wdzlIZ2RlczE?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T14:56:00+00:00"
+            "published": "2026-11-20T19:44:21+00:00"
           },
           {
-            "title": "శబరిమల యాత్రికులకు రైల్వే అలర్ట్- తేడా వస్తే మూడేళ్ల జైలుశిక్ష..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/sabarimala-pilgrims-alert-south-coast-railway-issues-fire-safety-guidelines-for-train-journeys-515833.html",
-            "source": "Oneindia Telugu",
+            "title": "# 2 AM మోటివేషన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0LVdqOTg5MUk2TjE2eFlwOEJTUW1xa2xwX3ZjRUpfRUdLbzEyVl9Ic1F3UWltVjQ5MDBUbm5tUGpKdkNMS2tyU1dsNE1zRVRuOW5CZ2M4clpFZXkxMUhlc2VNYjdYLUU2RjB3QjhqWF84WTV40gF0QVVfeXFMUDQtV2o5ODkxSTZOMTZ4WXA4QlNRbXFrbHBfdmNFSl9FR0tvMTJWX0hzUXdRaW1WNDkwMFRubm1Qakp2Q0xLa3JTV2w0TXNFVG45bkJnYzhyWkVleTExSGVzZU1iN1gtRTZGMHdCOGpYXzhZNXg?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T20:18:44+05:30"
+            "published": "2026-11-20T19:43:28+00:00"
           },
           {
-            "title": "స్టాక్ మార్కెట్లోకి ఏపీ ప్రభుత్వ కార్పోరేషన్..! చంద్రబాబు కీలక నిర్ణయం..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/ap-mineral-development-corporation-ipo-by-2027-chandrababu-directs-officials-to-speed-up-preparatio-515829.html",
-            "source": "Oneindia Telugu",
+            "title": "మీకు తెలుసా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCb0RScEtWNDN4UnRpdlhJX2JtdWE3M2hRSG83UlZuYmdRLURIMlMtamRHNkx0RjN2dEd0dXFLd1NBX0lsVWVNTzNvczBRR2NFdjJlVW5PZWJxWUxLei1SQWlUMDVPM1NhRWZSYWFPSk_SAXBBVV95cUxQQm9EUnBLVjQzeFJ0aXZYSV9ibXVhNzNoUUhvN1JWbmJnUS1ESDJTLWpkRzZMdEYzdnRHdHVxS3dTQV9JbFVlTU8zb3MwUUdjRXYyZVVuT2VicVlMS3otUkFpVDA1TzNTYUVmUmFhT0pP?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T19:28:52+05:30"
+            "published": "2026-11-20T19:28:02+00:00"
           },
           {
-            "title": "హనీమూన్‌లో పెను విషాదం.. బార్బెక్యూ మంటలకు బలైన నవవధువు!",
-            "link": "https://telugu.oneindia.com/news/india/darjeeling-honeymoon-tragedy-newlywed-bride-dies-after-two-months-of-barbecue-fire-battle-details-515827.html",
-            "source": "Oneindia Telugu",
+            "title": "offbeat: ఒంటిమీద రూ.10కోట్ల బంగారంతో గోల్డ్‌మ్యాన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUJhSllhclNJWXNLWlhWMnVIWWdJQzZWQWVZMnJUUjlsTGNUcC0wNlRuSVVLSnM3a1B6QXQxMFAxVVMwbjBFOUZER1kxaUdZTzRsNXppVTl5SWx4Q2hRV0xJRFBMd1p0MS0xWC1RTjc3cTRLUXY5NUlEeDRFTUJWQkc3S25RWTBfd0cxd0lSb1dwWWRzUWxseEJpaXRpcFRLVDVKY3FEb3REQ1BzNFVMLUVxYmNWLUhlWGfSAboBQVVfeXFMT1lCYUpZYXJTSVlzS1pYVjJ1SFlnSUM2VkFlWTJyVFI5bExjVHAtMDZUbklVS0pzN2tQekF0MTBQMVVTMG4wRTlGREdZMWlHWU80bDV6aVU5eUlseENoUVdMSURQTHdadDEtMVgtUU43N3E0S1F2OTVJRHg0RU1CVkJHN0tuUVkwX3dHMXdJUm9XcFlkc1FsbHhCaWl0aXBUS1Q1SmNxRG90RENQczRVTC1FcWJjVi1IZVhn?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T19:09:04+05:30"
+            "published": "2026-11-20T19:18:00+00:00"
           },
           {
-            "title": "కాకినాడ కూటమిలో జడ్పీ ఛైర్ చిచ్చు- అలిగి, ప్రమాణానికీ దూరంగా టీడీపీ వైస్ ఛైర్మన్..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/kakinada-zp-chairperson-row-tdp-zptc-pilli-ananta-lakshmi-skips-oath-taking-515825.html",
-            "source": "Oneindia Telugu",
+            "title": "ఆల్బర్ట్‌ ఐన్‌స్టీన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VZnFva084bmh2bHcyNHU4ZDVPb0MxYXZoUTBYZXcxS01zdGlmbS1udWZXOVV3cUtJamY5WE1hOGwtOGUyaHlDOVA3NHpLZ1FoMFpnMDk1Sy16aXRSaHBFZnZDODhCQnNObG0xellpTjVVaWZDSTl6V0ln0gF6QVVfeXFMTlVmcW9rTzhuaHZsdzI0dThkNU9vQzFhdmhRMFhldzFLTXN0aWZtLW51Zlc5VXdxS0lqZjlYTWE4bC04ZTJoeUM5UDc0ektnUWgwWmcwOTVLLXppdFJocEVmdkM4OEJCc05sbTF6WWlONVVpZkNJOXpXSWc?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T18:56:04+05:30"
+            "published": "2026-11-20T18:39:48+00:00"
           },
           {
-            "title": "హెచ్‌డీఎఫ్‌సీ బ్యాంక్‌కు షాక్.. దేశంలోనే నంబర్ 1 బ్రాండ్‌గా ఎయిర్‌టెల్!",
-            "link": "https://telugu.oneindia.com/news/business/airtel-overtakes-hdfc-bank-to-become-india-most-valuable-brand-in-kantar-brandz-2026-report-details-515823.html",
-            "source": "Oneindia Telugu",
+            "title": "కరెంట్‌ అఫైర్స్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9obFk4TGRoX182aUpLc2ktbnluNWIzY1lHVmJWbmFCZkxGSXNjLXhGUm92anRub2NPUG55cW9HaW92bllqVXhHbEFPTmNhLUd4YWtIRXFRSEE5SVdnclNtUFljQXlfaE5GeTR3RkRmZkNMMjVqMVhDa1FB0gF6QVVfeXFMT2hsWThMZGhfXzZpSktzaS1ueW41YjNjWUdWYlZuYUJmTEZJc2MteEZSb3ZqdG5vY09Qbnlxb0dpb3ZuWWpVeEdsQU9OY2EtR3hha0hFcVFIQTlJV2dyU21QWWNBeV9oTkZ5NHdGRGZmQ0wyNWoxWENrUUE?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T18:35:29+05:30"
+            "published": "2026-11-20T18:36:53+00:00"
           },
           {
-            "title": "ఇందిరమ్మ కుటుంబ జీవిత బీమా దరఖాస్తు చేస్తున్నారా? ఇది తప్పక తెలుసుకోండి!",
-            "link": "https://telugu.oneindia.com/news/telangana/indiramma-kutumba-jeevitha-bima-govt-changes-special-camps-to-online-registration-key-guidelines-fo-515795.html",
-            "source": "Oneindia Telugu",
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (21/11/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0l6X2VENXBTaDBFWENCWktzb2FNVmNLeVdfdW5JTWZCVGhDeklDWUItMXFTOThrcEFJeDNWdzhQaUtFaXZ0UkhTbkFqRjFWNFhuZlJvSExpeWh6RzV1bl94dDJLbVMyemFwU1JxWlhKcFlMeTFTOXA1SnVhTTE1YnUwSHpYaWw4czE3VldVS3A1NzJZMmNGSG01azdtWUJqdmczNmFXYVdLX3pwQnFfLVVOc9IBswFBVV95cUxPd0l6X2VENXBTaDBFWENCWktzb2FNVmNLeVdfdW5JTWZCVGhDeklDWUItMXFTOThrcEFJeDNWdzhQaUtFaXZ0UkhTbkFqRjFWNFhuZlJvSExpeWh6RzV1bl94dDJLbVMyemFwU1JxWlhKcFlMeTFTOXA1SnVhTTE1YnUwSHpYaWw4czE3VldVS3A1NzJZMmNGSG01azdtWUJqdmczNmFXYVdLX3pwQnFfLVVOcw?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T18:34:43+05:30"
+            "published": "2026-11-20T18:32:56+00:00"
           },
           {
-            "title": "పవన్ మాటిచ్చారు..వెనక్కి తగ్గండి..! లోకేష్ ను కోరిన జనసేన నేత కోట వినుత..!",
-            "link": "https://telugu.oneindia.com/news/andhra-pradesh/kota-vinutha-appeals-to-nara-lokesh-to-ensure-tdp-mla-follows-pawan-kalyan-s-decision-515819.html",
-            "source": "Oneindia Telugu",
+            "title": "Operation Monsoon Thunder: ఆపరేషన్ మాన్‌సూన్ థండర్‌.. అంతర్జాతీయ డ్రగ్స్‌ నెట్‌వర్క్ గుట్టురట్టు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGZiTkFic3oxMEp1SHdMWTNIN1UwRG02a3liRFhIVVI4VmNGRzdJazRQY3FZZHgtTTRxeWpEOFYzZjR1X2JDYmc4TTRHWU1iMlNwODFqejc0YzhWZ0ZYQkd5U1hpUnNtLVVRX2dqV0tzMzhabm5YcGZUNmVkTlJXWkZuLXVPdEQ1enFOdzdfWUFrWmdTemZoaHk0SHNZSTFwcE5RMNIBpAFBVV95cUxQNGZiTkFic3oxMEp1SHdMWTNIN1UwRG02a3liRFhIVVI4VmNGRzdJazRQY3FZZHgtTTRxeWpEOFYzZjR1X2JDYmc4TTRHWU1iMlNwODFqejc0YzhWZ0ZYQkd5U1hpUnNtLVVRX2dqV0tzMzhabm5YcGZUNmVkTlJXWkZuLXVPdEQ1enFOdzdfWUFrWmdTemZoaHk0SHNZSTFwcE5RMA?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T18:13:54+05:30"
+            "published": "2026-11-20T17:42:21+00:00"
           },
           {
-            "title": "స్టెమ్ సెల్స్: బిడ్డ భవిష్యత్తుకు భద్రతా కవచమా.. ప్రచార ఆర్భాటమా?",
-            "link": "https://www.bbc.com/telugu/articles/cmj4rnz94xkvo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
+            "title": "HYD News: ‘చుక్కా రామయ్య’ పుస్తకావిష్కరణలో పాల్గొన్న ఈనాడు ఎడిటర్‌ ఎం.నాగేశ్వరరావు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlJESF91RUV5X2xtV1BtTkVlM2dKVU1rYXNIemtVdUVBbW90ck5BTkZad1dXRTlKNTFRZFFPMU0ta2xQOF9Xa1F6ZFdWVFlkYk95S0dDcF8zYVZjaVFTYjFrd1FMbzBvV2xJQmphT3g3clB4SlFrN3p4RHljbk1pY3BiQTM5UTNwVHhQTm9LbG14UEo0bjIyZkRxRVdMajMtRHhqWTJGa2NYZXpwaG92Z0J2UWbSAbQBQVVfeXFMT0JSREhfdUVFeV9sbVdQbU5FZTNnSlVNa2FzSHprVXVFQW1vdHJOQU5GWndXV0U5SjUxUWRRTzFNLWtsUDhfV2tRemRXVlRZZGJPeUtHQ3BfM2FWY2lRU2Ixa3dRTG8wb1dsSUJqYU94N3JQeEpRazd6eER5Y25NaWNwYkEzOVEzcFR4UE5vS2xteFBKNG4yMmZEcUVXTGozLUR4alkyRmtjWGV6cGhvdmdCdlFm?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T12:41:49+00:00"
+            "published": "2026-11-20T17:34:59+00:00"
           },
           {
-            "title": "రూ. 12కే బంగారం, రూ. 15కే వెండి: ఎగబడి కొంటున్న జనం.. అసలు విషయం తెలిస్తే షాకే!",
-            "link": "https://telugu.oneindia.com/news/business/gold-for-rs-12-silver-for-rs-15-the-real-truth-behind-the-rising-gold-silver-etf-craze-full-detai-515817.html",
-            "source": "Oneindia Telugu",
+            "title": "Konakalla Narayana: ఆర్టీసీ ఛైర్మన్‌ కొనకళ్ల నారాయణ ఆరోగ్య పరిస్థితిపై చంద్రబాబు ఆరా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONm5rZ0piRE1DZnF3QlRwam9EaDRnN3pBa3c4dkx2LTJ3RVE2NXp0T2hZekpZZDdpM0JVMlp5WGRGQ2pwUTRPc1JpM01xYjloWm56QW44SDZEMFViT0lDN1N5NFZQRGVCcEdvZ2VzUTM4TFFuOGswZUJCNDQ3ZURQMkU1M3VLS2tEWDQxNVRCX2RjOWVCVXJXUUpRZzV0QUIxeE4yMUpCSFlmSjhuSFFpd09ia3FNNzlnYkhfd0JuMlA4NmxqREJpWnAtcXNRaTDSAc8BQVVfeXFMTjZua2dKYkRNQ2Zxd0JUcGpvRGg0Zzd6QWt3OHZMdi0yd0VRNjV6dE9oWXpKWWQ3aTNCVTJaeVhkRkNqcFE0T3NSaTNNcWI5aFpuekFuOEg2RDBVYk9JQzdTeTRWUERlQnBHb2dlc1EzOExRbjhrMGVCQjQ0N2VEUDJFNTN1S0trRFg0MTVUQl9kYzllQlVyV1FKUWc1dEFCMXhOMjFKQkhZZko4bkhRaXdPYmtxTTc5Z2JIX3dCbjJQODZsakRCaVpwLXFzUWkw?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-20T17:57:04+05:30"
+            "published": "2026-11-20T17:18:40+00:00"
           }
         ],
         "Entertainment": [
@@ -1433,27 +1433,6 @@
             "published": "2026-11-20T19:35:20+00:00"
           },
           {
-            "title": "আজকের দিন ধনু রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEhRaXktUUJSekdZU2JWQ1M1b2IyNjNaWjJEWVJoUWFZakZhTkp1N0Y1SERrZmFGYWpPR2FjYmpPYVhtdXRNb05kZmh3YkIxMk1YZjg0aVNSNjEtZzIwR2pqVTIyUy1aWEttYndFSU9wcXFveTFlNEdqUVM2OFlDdkVsc3RVX0FjWUN3a0RGTmU2RHkxWlNUanF2SWxmOUhjNGk2VDVoNmhuajl6bng4NlQ4azHSAboBQVVfeXFMTXZxZlNnYkpOaFlCM1lreGFicW5jNkpKZ1JNRFItVGxxMUZLVmJDM0JxNzI1VXdmaWRST1BMcTZDclc3RGNRbGJUNjU3ZzJzV0hReHZfUzFVQjkzMnlSc1FuaHNOV3JxVXJTNTJDRkh4NTZMWkpTa1JNdTFNTm1mcll1ZUFEMGxmdXNTQ1BCeGxNU2txQ21KemhKd0djR2pVOGN6Y2V5WHhUZ1Y1MlpaOE1paXVwelpPSmxn?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-20T19:35:20+00:00"
-          },
-          {
-            "title": "আজকের দিন কর্কট রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtmeE5WbUxQRmJvVFFCa2RlbDMyNGRXUHNrenBZMm14WURKWE1CRXRNQVNMdEtLTERUZDgxRERMVTBFaklveUtWSERMWHhuVk1oSE0xbGpEN2VRZldadWNNTGFMWmJyeE1WYkNhS2tSWDNaOWhtb2tBOFhvNnlWbU9qNzZPeUxUaTdOT3lYX0JMZUVKSkdOOXJXQ2FNYmowdEItZlFHS25NV3gwOHFIb9IBtgFBVV95cUxQQ184VWd2bGVDTFpmSFFSa3Z2MDd3a0ZQT01pN00xZ2VsbmNEMG1vOTJWY1FlcC1OZk1JTG5KdnVuQmpOTVVLSjBVZmhfdXZMTWc2dkdMUGsxUFJSaUJpeHhlMV9BYTVOX3pHRm5RZGtBUGU3MnJTZ2Q1b21WSmxISXhndFJxRDVkQWpwX0xQbjdRQXluR0duU2hiZkMxd1JvTndmVU54VERnbmxfa3JfdF9qaEVxUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-20T19:35:20+00:00"
-          },
-          {
-            "title": "আজকের দিন মিথুন রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNTaVd5VVhPWHg0WnhrQXdjUHl2Um5JS000NVI5SlhDdkFGTHA5T0U2RlNCVTZGQXdqNnBOTmt4N3Jfa2E4eDU2WWVMdGNqQ0hoUDJHa05OdlhPYV9Ub2o3STdtTmN1Q0VCMXZSRGZUTmRkS3lTd3BVeWtlSHowcldfR1NNWlpNTTZBdEFrc19NQl9DNlZfcVR3c096V0tvbDdyZTZreUhwb2xtMGhibtIBtgFBVV95cUxPWWNUMlRjVVpSTmxUbEctRlM0RW40b3ZJZm82eWpCcERjYXZ1LTNjeE9zckdpQTZabzNrdFN3VXlmZDJHc2RKQTFXbFJtaHByTldLWGQyRERQbktKMnRqLWJBZkp2aTRrT2t3U3JLUWJDSHR1MzVKdGdwSlZsRU1HRm1mdlkxRE9naWp1d0VlUnFPajZPbzlzVVc3N19XalZoUkZTVFVvNGoxTVN5NUFwUF9EaVFBZw?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-20T19:35:20+00:00"
-          },
-          {
             "title": "আজকের দিন কুম্ভ রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1laZWY2YW1sbF9NNUVOcTY1eHBYaFdzTDlab212anEzYU1xa2txQ1RZTDdlNHlCdVZRekpVWExsRFc1ZVJ6R3p0TEx0VmsxVDYwenVnMEtFbDI4S3pXbGZpXzM5eWlJdHJjUXdaVDhRd3hxY2NmRWp3bWJKb1o0WGVjbEVhWDZObDh6TXhYckhMdnFlMkJIbVktMG51QlMxM29lTWVVek84NGlNa3B3ZWpR0gG3AUFVX3lxTE9abDNSMGNhbEdDTThSR08zWEdhRlItRjNLWHBsMGxxRmU3cFBzZUtaRENZWVlFRFNjd3FaR0xNWTNacmVxU3ZIX0dEZGdnSEl5dmFSTHlFbDd4Q2l2aUZienNCLTFEelYzTDB4N0xlSEdlUHlVWFdhYzlWa01HUE0xUlNLLXlRaklxcF83Zm55T1hkZVE2aHdQWmp3YlNHS1BrVmtoanlsZVhwYjFmeGlxSkt2THZUMA?oc=5",
             "source": "Anandabazar Patrika",
@@ -1468,8 +1447,29 @@
             "published": "2026-11-20T19:35:20+00:00"
           },
           {
+            "title": "আজকের দিন কর্কট রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtmeE5WbUxQRmJvVFFCa2RlbDMyNGRXUHNrenBZMm14WURKWE1CRXRNQVNMdEtLTERUZDgxRERMVTBFaklveUtWSERMWHhuVk1oSE0xbGpEN2VRZldadWNNTGFMWmJyeE1WYkNhS2tSWDNaOWhtb2tBOFhvNnlWbU9qNzZPeUxUaTdOT3lYX0JMZUVKSkdOOXJXQ2FNYmowdEItZlFHS25NV3gwOHFIb9IBtgFBVV95cUxQQ184VWd2bGVDTFpmSFFSa3Z2MDd3a0ZQT01pN00xZ2VsbmNEMG1vOTJWY1FlcC1OZk1JTG5KdnVuQmpOTVVLSjBVZmhfdXZMTWc2dkdMUGsxUFJSaUJpeHhlMV9BYTVOX3pHRm5RZGtBUGU3MnJTZ2Q1b21WSmxISXhndFJxRDVkQWpwX0xQbjdRQXluR0duU2hiZkMxd1JvTndmVU54VERnbmxfa3JfdF9qaEVxUQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T19:35:20+00:00"
+          },
+          {
             "title": "আজকের দিন মেষ রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0J4YU1KdEZWS0dkWnhVeWJVT096Y2luUXN3TVRreDZ6QVFIT3Jsd0hmLV82VGQ0UmtfcUhUbzliSnRSOTdFc1pDdTg4YnhYdVZrV2ZNcjI3c0xveGF2MGk3MzNubXFHZXVVWDVWeWIyWlltb1ZRM3dDNklRQWx5dGlhMElzUUFHUGRtMjVQRlhtZ1g2VmhKOWZVd2dkTVVOdERpLXVmYXpudGRU0gGyAUFVX3lxTE1XNlpjbXNJeXZxUkhzaEZ0UnF3clNjUGRQQ1V3TzJwZWhwUlVEYnAxT0NtN0owRTktZ0oxdm5GbEprZENLZnFGX2ViQ3pVcTJxbXdNN1RRNnE2aDZreHJFeTlob3M5Q0VHTldPVjI0aEJ0VVBsVVhYR29TMlpxODBLYVRkTE5DdzFnVEs2RWRmMDZrUm9nekQ5TWlvcExkaFQ5TU5Rbi0xTEVDcmNTOHBJOVE?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T19:35:20+00:00"
+          },
+          {
+            "title": "আজকের দিন মিথুন রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNTaVd5VVhPWHg0WnhrQXdjUHl2Um5JS000NVI5SlhDdkFGTHA5T0U2RlNCVTZGQXdqNnBOTmt4N3Jfa2E4eDU2WWVMdGNqQ0hoUDJHa05OdlhPYV9Ub2o3STdtTmN1Q0VCMXZSRGZUTmRkS3lTd3BVeWtlSHowcldfR1NNWlpNTTZBdEFrc19NQl9DNlZfcVR3c096V0tvbDdyZTZreUhwb2xtMGhibg?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-20T19:35:20+00:00"
+          },
+          {
+            "title": "আজকের দিন ধনু রাশি- ২১ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEhRaXktUUJSekdZU2JWQ1M1b2IyNjNaWjJEWVJoUWFZakZhTkp1N0Y1SERrZmFGYWpPR2FjYmpPYVhtdXRNb05kZmh3YkIxMk1YZjg0aVNSNjEtZzIwR2pqVTIyUy1aWEttYndFSU9wcXFveTFlNEdqUVM2OFlDdkVsc3RVX0FjWUN3a0RGTmU2RHkxWlNUanF2SWxmOUhjNGk2VDVoNmhuajl6bng4NlQ4azHSAboBQVVfeXFMTXZxZlNnYkpOaFlCM1lreGFicW5jNkpKZ1JNRFItVGxxMUZLVmJDM0JxNzI1VXdmaWRST1BMcTZDclc3RGNRbGJUNjU3ZzJzV0hReHZfUzFVQjkzMnlSc1FuaHNOV3JxVXJTNTJDRkh4NTZMWkpTa1JNdTFNTm1mcll1ZUFEMGxmdXNTQ1BCeGxNU2txQ21KemhKd0djR2pVOGN6Y2V5WHhUZ1Y1MlpaOE1paXVwelpPSmxn?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-20T19:35:20+00:00"
