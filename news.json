@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-21T20:01:16.381339+00:00",
+  "updated_at": "2026-11-21T20:31:02.497202+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+            "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+            "published": "2026-11-21T20:15:13+00:00"
+          },
+          {
+            "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+            "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+            "published": "2026-11-21T19:53:00+00:00"
+          },
           {
             "title": "Vasan urges political parties to fight for Cauvery water rights",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/vasan-urges-political-parties-to-fight-for-cauvery-water-rights/article71728246.ece",
@@ -88,20 +102,6 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-22T01:02:57+05:30"
-          },
-          {
-            "title": "BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee",
-            "link": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
-            "source": "The Hindu",
-            "summary": "BJP national president Nitin Nabin on November 21, 2026, announced fresh appointments of national office-bearers, national executive members, and department heads for its OBC Morcha with immediate effect",
-            "published": "2026-11-22T00:58:56+05:30"
-          },
-          {
-            "title": "Indiana condo buyer pays $9,489 in HOA dues, court says he still owes more",
-            "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-bought-a-condo-hoping-to-live-with-his-daughter-but-missed-homeowners-fees-and-faced-a-9213-judgment-even-after-paying-9489-an-appeals-court-ruled-he-still-owed-more/articleshow/136022487.cms",
-            "source": "Times of India",
-            "summary": "Onnie James Florence Jr. encountered significant legal troubles stemming from his failure to pay homeowners' association fees for his condominium in Indiana. After acquiring the unit, he neglected to keep up with payments while residing in Illinois. The Meridian Arch Owners Association successfully secured a default judgment against him for the overdue fees. Despite making a partial payment later, additional fees…",
-            "published": "2026-11-22T00:57:00+05:30"
           }
         ],
         "India": [
@@ -192,6 +192,20 @@
         ],
         "World": [
           {
+            "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+            "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+            "published": "2026-11-21T20:15:13+00:00"
+          },
+          {
+            "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+            "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+            "published": "2026-11-21T19:53:00+00:00"
+          },
+          {
             "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
             "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -260,20 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
             "published": "2026-11-21T17:21:37+00:00"
-          },
-          {
-            "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-            "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-            "published": "2026-11-21T17:20:03+00:00"
-          },
-          {
-            "title": "FBI reportedly investigating apparent hack of its criminal database",
-            "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-            "published": "2026-11-21T16:35:15+00:00"
           }
         ],
         "Business": [
@@ -655,11 +655,11 @@
             "published": "2026-11-22T12:32:28+05:30"
           },
           {
-            "title": "अमेरिका: न्यूयॉर्क सड़क हादसे में तेलंगाना के 25 वर्षीय युवक की मौत, एक हफ्ते पहले ही मिली थी नौकरी",
-            "link": "https://www.amarujala.com/world/telangana-youth-sai-teja-dies-multi-vehicle-crash-new-york-deer-2026-11-22",
+            "title": "मैक्सिको: ड्रग कार्टेल का सरगना एल चापो इसिद्रो गिरफ्तार, सड़कों पर गिरोह के लोगों ने की गोलीबारी; 11 की मौत",
+            "link": "https://www.amarujala.com/world/mexico-cartel-boss-el-chapo-isidro-arrest-violence-11-killed-sinaloa-2026-11-22",
             "source": "Amar Ujala",
             "summary": "",
-            "published": "2026-11-22T12:07:52+05:30"
+            "published": "2026-11-22T01:37:50+05:30"
           },
           {
             "title": "पंजाब की नई औद्योगिक नीति से 75 हजार करोड़ के निवेश का लक्ष्य, टेक्सटाइल से ऑटो सेक्टर तक खुलेंगे अवसर",
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "అల్జీమర్స్‌ని అప్పుడే గుర్తించవచ్చు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkJOaUZNcW5qMXBlQVd2S21pMWRNTlBMZEk5cTgyWHA5SE5KaDBmWl92Tjg4YVdvNzM2R0dtTm43TVpuZEFPaDZTdHRkZTJqakpBeWNxRDVpZVMydWNYWV9FMVRRQnBiQXZwaXh4ZlRhcmNNZUlMVWI4R1NId0xpSVZhWUnSAYQBQVVfeXFMTVpCTmlGTXFuajFwZUFXdkttaTFkTU5QTGRJOXE4MlhwOUhOSmgwZlpfdk44OGFXbzczNkdHbU5uN01abmRBT2g2U3R0ZGUyampKQXljcUQ1aWVTMnVjWFlfRTFUUUJwYkF2cGl4eGZUYXJjTWVJTFViOEdTSHdMaUlWYVlJ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:42:00+00:00"
-          },
-          {
-            "title": "గుండె లయతప్పకుండా... - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGlYbVI3bWViSnZ1ZUQxcnNJc0kxZzBRS3RtTmJwdU1HYlNIMGJiSkdYbExFNk44RWVUOVQ0cDJpRERwNjZZV3N0N0J5cDgxX09NOVZtSldxNUVrV0lTQzNQSS1CeEZVLVJQMTBKMXBHUE93SnRoS09BQmtWYUNRb0Z0U2TSAYQBQVVfeXFMTzhpWG1SN21lYkp2dWVEMXJzSXNJMWcwUUt0bU5icHVNR2JTSDBiYkpHWGxMRTZOOEVlVDlUNHAyaUREcDY2WVdzdDdCeXA4MV9PTTlWbUpXcTVFa1dJU0MzUEktQnhGVS1SUDEwSjFwR1BPd0p0aEtPQUJrVmFDUW9GdFNk?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:40:00+00:00"
-          },
-          {
-            "title": "వంశమంతా ఒకే ఇంట్లో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODgtaWtxZ2FCSFFjdWZTU0VsbVBWa3hrS21tVmduNjluVE5fbDBZN2lHOHQ1azRGOGVDTmdjNVpITGsyZEU3Q3JhMmFjS1kxU3N4ZVNCZ1dKaVp6b2IzcGdXV0swMm9IeUdIUC1Dal93UHhaMjY0b1RvWW5GaEl0WFNEeWzSAYQBQVVfeXFMUDg4LWlrcWdhQkhRY3VmU1NFbG1QVmt4a0ttbVZnbjY5blROX2wwWTdpRzh0NWs0RjhlQ05nYzVaSExrMmRFN0NyYTJhY0tZMVNzeGVTQmdXSmlaem9iM3BnV1dLMDJvSHlHSFAtQ2pfd1B4WjI2NG9Ub1luRmhJdFhTRHls?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:35:00+00:00"
-          },
-          {
-            "title": "విషాద గీతం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzlnN3IzTGI5ZXdZNC1KRWx3SXk5bmFleWsteUoyeE94cHppUVhYdXN2QjRSdW0tLXY0ZUQyQmloZWxXcUF1RUFXSTFqZmZJc1hLWHdUN0tyQzJVVHNLOGVwOXhGRTdHalczUlAzMGdnRzF1S0dlMTZrMFlsOGswUlpoY3jSAYQBQVVfeXFMT285ZzdyM0xiOWV3WTQtSkVsd0l5OW5hZXlrLXlKMnhPeHB6aVFYWHVzdkI0UnVtLS12NGVEMkJpaGVsV3FBdUVBV0kxamZmSXNYS1h3VDdLckMyVVRzSzhlcDl4RkU3R2pXM1JQMzBnZ0cxdUtHZTE2azBZbDhrMFJaaGN4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:34:00+00:00"
-          },
-          {
-            "title": "త్రిశూలం నిలువెత్తు రూపం.. వైజాగ్‌లో - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFF2aGcydlJuTVdSSGxmMWNtRTIwdnViNC1vVUtsX1lpd0w5UUgwZk53TnVLZnR4ck1BZ2NIVURhWlR0eXU1N003S2dwcFp4ZDhyTUdBb2JMRnlaVHJYNnNDY1dHSXJIQnJpdl84alhQWGJWN2NfUUtObEFpeEJJdHdldm_SAYQBQVVfeXFMTjhRdmhnMnZSbk1XUkhsZjFjbUUyMHZ1YjQtb1VLbF9ZaXdMOVFIMGZOd051S2Z0eHJNQWdjSFVEYVpUdHl1NTdNN0tncHBaeGQ4ck1HQW9iTEZ5WlRyWDZzQ2NXR0lySEJyaXZfOGpYUFhiVjdjX1FLTmxBaXhCSXR3ZXZv?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:32:00+00:00"
-          },
-          {
-            "title": "మంచిమాట - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFRXdTBpN05QN2c0b1lfTEZmZVUyVnJ1Q011bG5sVVZqcldVb1BENm9BS0ZGbnVvUGdMU044S1FXVXE1em9QQXV5ekRPUmxKeDQxRE92V0wxdjVnZkRBUERjYTNxT2kxWnhhZ1RtaDE3SEZnbF93UkJvbE8tMFItMVotVWbSAYQBQVVfeXFMT2xUV3UwaTdOUDdnNG9ZX0xGZmVVMlZydUNNdWxubFVWanJXVW9QRDZvQUtGRm51b1BnTFNOOEtRV1VxNXpvUEF1eXpET1JsSng0MURPdldMMXY1Z2ZEQVBEY2EzcU9pMVp4YWdUbWgxN0hGZ2xfd1JCb2xPLTBSLTFaLVVm?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:30:00+00:00"
-          },
-          {
-            "title": "18 దేశాలు చుట్టేశారు.. హోటల్‌ ఖర్చులు లేకుండానే - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFB5bU95TmsxMXVOUFJyWU9hT2N6WUVOS29vcDdtQjVvYjNHa3BsczdNcy1ad0ZKdXd2MlYxV3Z5UTVSUVJzS3FSMEItY3FSZFhRRXk4VUFzaURqT1RKNkxsX3JWdmEzQVZfcUVENjJQS01BTEx5bWdqQXQwWnNNcDFnSzjSAYQBQVVfeXFMUGxQeW1PeU5rMTF1TlBScllPYU9jellFTktvb3A3bUI1b2IzR2twbHM3TXMtWndGSnV3djJWMVd2eVE1UlFSc0txUjBCLWNxUmRYUUV5OFVBc2lEak9USjZMbF9yVnZhM0FWX3FFRDYyUEtNQUxMeW1nakF0MFpzTXAxZ0s4?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:26:00+00:00"
-          },
-          {
-            "title": "padavinodam: పద వినోదం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbG15OFJ5aTNEak1iT3F5WnJFUU1wZzlqVlc4Sl9CdVo0UGhRVG1qTkNoR0R3ekg5VGNvM2taVFI1MlBxUFVjMTA0ZmdVaU1QY3AyNXJzdXUwMEdmYXZ5aVFyRnNJcWkzYjA3MWVONmo0X1EzVk9lTWV4X3o5LVgyZGJMaE1wTlhKdlY5REVNWXVmX05WcUluWTZsSVZHd9IBngFBVV95cUxPbG15OFJ5aTNEak1iT3F5WnJFUU1wZzlqVlc4Sl9CdVo0UGhRVG1qTkNoR0R3ekg5VGNvM2taVFI1MlBxUFVjMTA0ZmdVaU1QY3AyNXJzdXUwMEdmYXZ5aVFyRnNJcWkzYjA3MWVONmo0X1EzVk9lTWV4X3o5LVgyZGJMaE1wTlhKdlY5REVNWXVmX05WcUluWTZsSVZHdw?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:25:00+00:00"
-          },
-          {
-            "title": "నీటిపైన తేలియాడే ‘బిల్‌బోర్డులు’ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYno1d0VnZ0poWmFkbkNFczF0cFdDcXNFbDNiM0hFYl9HcGl2UUpTRUtwQ2xndVNWa2s1bkd5eVdRTDBUUm92M2tLUVd2bGlLaEtxU1VJdGFMQThZaDIxSjZOekZpcm1mSGFfSEE0U1Y1QVI5UVFXZnptLVlZQWxERThIaDLSAYQBQVVfeXFMTmJ6NXdFZ2dKaFphZG5DRXMxdHBXQ3FzRWwzYjNIRWJfR3BpdlFKU0VLcENsZ3VTVmtrNW5HeXlXUUwwVFJvdjNrS1FXdmxpS2hLcVNVSXRhTEE4WWgyMUo2TnpGaXJtZkhhX0hBNFNWNUFSOVFRV2Z6bS1ZWUFsREU4SGgy?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:24:00+00:00"
-          },
-          {
-            "title": "పైన సాగు... కిందే మార్కెట్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXNkNkM2SEEycS1LeTZuMS1TeHQyb0JSdjJZZFdiYUhOOU1ud2pteWtQOVRiZ2doR0oxRXVUM2txbFQ0WnRUaHY2eXM4MWZ6eUcyZDUxdGc1NUlpa1p1b3YtanBLMjB0Qk9qZ3VNcFBUbF9MUGJSNUhMcURoN1hEaVNSbDLSAYQBQVVfeXFMT0FzZDZDNkhBMnEtS3k2bjEtU3h0Mm9CUnYyWWRXYmFITjlNbndqbXlrUDlUYmdnaEdKMUV1VDNrcWxUNFp0VGh2NnlzODFmenlHMmQ1MXRnNTVJaWtadW92LWpwSzIwdEJPamd1TXBQVGxfTFBiUjVITHFEaDdYRGlTUmwy?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T19:23:00+00:00"
-          },
-          {
-            "title": "చర్చి ప్రాంగణంలో ‘ఫిట్‌నెస్‌’ ప్రార్థనలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0JjZldRQjN2THNOWlNqMENfTGFTTzRNOG95ZVdLdmkzN0NoRjFac3lkMnJNOS1SbzRJOEp2X2dobG1tX21NYzFzaWxOTTJSRFFFNVVSMEZhaFQxUFZrd1dvNGVad2dRN28xUVBiR1h3TUY1N0x6UFljM3d2aVdVTnFxd2HSAYQBQVVfeXFMUENCY2ZXUUIzdkxzTlpTajBDX0xhU080TThveWVXS3ZpMzdDaEYxWnN5ZDJyTTktUm80SThKdl9naGxtbV9tTWMxc2lsTk0yUkRRRTVVUjBGYWhUMVBWa3dXbzRlWndnUTdvMVFQYkdYd01GNTdMelBZYzN3dmlXVU5xcXdh?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-21T18:58:00+00:00"
-          },
-          {
             "title": "Kartika Special: కార్తికంలో కమ్మని అల్పాహారాలు - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2J6a01oR0FRdFpKcHNwVEJNRG5qSEZUZUFLaExSYVhWdzBXOUJWdE05UEZ5dG9qZjNrSzItNjBya2VNWkdQWGctbWZHVm15RkZBVVRCV0thY3hjY2ZiRVU4bEFFM0p6aXFCTW1wMEdkZVdiU2dYMGFKZ3AzeC1BUGdNaFBxYlh6YnFOMHdmaFBzalZnbHZoRnFTT3pDYlRRLUxsU0tSS0xlR2h4amF4NE9LeVRpNUowUmfSAboBQVVfeXFMUFNiemtNaEdBUXRaSnBzcFRCTURuakhGVGVBS2hMUmFYVncwVzlCVnRNOVBGeXRvamYza0syLTYwcmtlTVpHUFhnLW1mR1ZteUZGQVVUQldLYWN4Y2NmYkVVOGxBRTNKemlxQk1tcDBHZGVXYlNnWDBhSmdwM3gtQVBnTWhQcWJYemJxTjB3ZmhQc2pWZ2x2aEZxU096Q2JUUS1MbFNLUktMZUdoeGpheDRPS3lUaTVKMFJn?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-21T18:48:00+00:00"
+          },
+          {
+            "title": "Weekly Horoscope: ఈ వారం రాశిఫలం (నవంబరు 22 - నవంబరు 28) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTVpYi1MMWRJbW9OWHM3VTRYbUItLTBfMDdUc1BpaTBLSzl1RVl1Q1hOQU5Cdi1YcnoxRFRmZXUxUnQ1a0N2Nmw4QnNSNjktc05meTlhQ2E3NEJaZXhmWkJoc1g5Q3FjdFZpeDB2akVfOF9FNWxHeFl1bEpsZHZxSmRidW9GWEluaFB3c01HLXRCN0lneWZmT3VTMEJlSl9Bd2xGSlFWeVMwcl9aUTNpNG5GOTMwQ0RjbDdqbFdISzZtaFBleXR4VG9wQ0pPUzY4LUNXMnpSYU0wRlE3TnfSAd4BQVVfeXFMTWE1aWItTDFkSW1vTlhzN1U0WG1CLS0wXzA3VHNQaWkwS0s5dUVZdUNYTkFOQnYtWHJ6MURUZmV1MVJ0NWtDdjZsOEJzUjY5LXNOZnk5YUNhNzRCWmV4ZlpCaHNYOUNxY3RWaXgwdmpFXzhfRTVsR3hZdWxKbGR2cUpkYnVvRlhJbmhQd3NNRy10QjdJZ3lmZk91UzBCZUpfQXdsRkpRVnlTMHJfWlEzaTRuRjkzMENEY2w3amxXSEs2bWhQZXl0eFRvcENKT1M2OC1DVzJ6UmFNMEZRN053?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T18:33:00+00:00"
+          },
+          {
+            "title": "Revanth Reddy: ఈ వృద్ధి కేవలం ఆరంభం మాత్రమే: సీఎం రేవంత్‌రెడ్డి - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd04zaW0yUDNrdHJqZklETS12Q0ZWVFI4bkd0T3A1VVRudG9tRGtoZjFCRUJJaThjTXR4MzBLRFJ5WkJleHo1YTZKZ1BkSWFPY3M3Vk1pOUcyWXJOUVZnZ0MtUVktQW5NbUVyY3dXRWpFRnJqOXhPREFlaUxHTE02OXVFUm5RVndKaGt4LVhob296a2J1dms3S1g3NUJjOFcySGQ4ZlBiSEp6SXd2UjUydG9tNG1zY01CdW11bzFEV0xfZ1nSAcMBQVVfeXFMUHdOM2ltMlAza3RyamZJRE0tdkNGVlRSOG5HdE9wNVVUbnRvbURraGYxQkVCSWk4Y010eDMwS0RSeVpCZXh6NWE2SmdQZElhT2NzN1ZNaTlHMllyTlFWZ2dDLVFZLUFuTW1FcmN3V0VqRUZyajl4T0RBZWlMR0xNNjl1RVJuUVZ3SmhreC1YaG9vemtidXZrN0tYNzVCYzhXMkhkOGZQYkhKekl3dlI1MnRvbTRtc2NNQnVtdW8xRFdMX2dZ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T17:43:15+00:00"
+          },
+          {
+            "title": "Owaisi vs Azam Khan: కొందరు తినడానికే జీవిస్తారు - ఆజం ఖాన్‌పై ఒవైసీ సెటైర్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT21TMzhLWEgxUG13b1VuQmpCdTRPcmhnZlY0NkMyU3FXYkc4UVhHdFV3MTByRGgySG5Ubk1LLUNvcm9YTmJEYnBhQktZR2gyMnRyM2dsWlhHN3QwUEFBcUdNX2ExWWl2bW5zcVZMd2w2TlNkRldET3BYdUtpRXU2elF6N3ZadERJaFVrNnA0cVNTNlItZllRa3czamV4RjVBRFozN2FleFlVejVLYVBoQWU2ZUV1MUlVblN0WDc0cUVWTjFiZXRrX3dnMnIwTGNNMmU5ZWJQa2g5aTA1cldIWWlRcG03TWd2VEJSadIB7AFBVV95cUxPT21TMzhLWEgxUG13b1VuQmpCdTRPcmhnZlY0NkMyU3FXYkc4UVhHdFV3MTByRGgySG5Ubk1LLUNvcm9YTmJEYnBhQktZR2gyMnRyM2dsWlhHN3QwUEFBcUdNX2ExWWl2bW5zcVZMd2w2TlNkRldET3BYdUtpRXU2elF6N3ZadERJaFVrNnA0cVNTNlItZllRa3czamV4RjVBRFozN2FleFlVejVLYVBoQWU2ZUV1MUlVblN0WDc0cUVWTjFiZXRrX3dnMnIwTGNNMmU5ZWJQa2g5aTA1cldIWWlRcG03TWd2VEJSaQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T17:21:47+00:00"
+          },
+          {
+            "title": "తెలంగాణలోని వాహనదారులకు బిగ్ అలర్ట్.. ఏడు రోజులే డెడ్ లైన్..",
+            "link": "https://telugu.oneindia.com/news/telangana/vehicle-big-alert-for-owners-in-telangana-special-drive-on-number-plates-seven-day-deadline-set-515961.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-21T22:45:14+05:30"
+          },
+          {
+            "title": "US F16 Fighter Jet: అమెరికా ఎఫ్‌-16ఫైటర్‌ జెట్‌ను దెబ్బతీశాం: ఇరాన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdENoUEhkUHQyaHI0VnRDVk54a1A0c3p0S0RPcU10cVBKd25tVE93ZUhZMU9sM0Q2X29uWWJESmFEcGxsLWhfNFJYdTlCemFFMXQxNFQ5S2dEQkpMU09yWGpjTzdRZDlSSDJlZFk2ek93ZXpYWEN5MzFGOWJzNC1OWG9hUWdTV1o2RW5hR180Q3FmcEtMay1jbEdEaWhBdUFuWldrYjhkZWQ0Z9IBqgFBVV95cUxOdENoUEhkUHQyaHI0VnRDVk54a1A0c3p0S0RPcU10cVBKd25tVE93ZUhZMU9sM0Q2X29uWWJESmFEcGxsLWhfNFJYdTlCemFFMXQxNFQ5S2dEQkpMU09yWGpjTzdRZDlSSDJlZFk2ek93ZXpYWEN5MzFGOWJzNC1OWG9hUWdTV1o2RW5hR180Q3FmcEtMay1jbEdEaWhBdUFuWldrYjhkZWQ0Zw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T17:00:16+00:00"
+          },
+          {
+            "title": "Chahal in BJP: భాజపాలో చేరిన యుజ్వేంద్ర చాహల్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3JpaUxvN0ZlSkR4S2M0M1NsN1FmcERIc3AxOHhBdEQ5WUV1bkplVmk1RS1XNm50WUVCMXF2OFEtTXk5VFVFLVk2dDJ1am1YOXdLMzBBUmFKLVRjZzNheWZCUGU2SExQT2hHTzZfclloR1NsNUFTaGZpLW1WUlhpMWNzMThrYTE2U1NmQjBZSXROOU42THg1VkVwUE9iNXBEd1B0OXIxV3RLNmJValNRcFBCM2tCMS1Ma2hfOUZUNNIBvwFBVV95cUxPR3JpaUxvN0ZlSkR4S2M0M1NsN1FmcERIc3AxOHhBdEQ5WUV1bkplVmk1RS1XNm50WUVCMXF2OFEtTXk5VFVFLVk2dDJ1am1YOXdLMzBBUmFKLVRjZzNheWZCUGU2SExQT2hHTzZfclloR1NsNUFTaGZpLW1WUlhpMWNzMThrYTE2U1NmQjBZSXROOU42THg1VkVwUE9iNXBEd1B0OXIxV3RLNmJValNRcFBCM2tCMS1Ma2hfOUZUNA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T16:48:36+00:00"
+          },
+          {
+            "title": "Sonam Wangchuk: లద్దాఖ్‌లో పాలనపై సోనమ్‌ వాంగ్‌చుక్‌ తీవ్ర వ్యాఖ్యలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHlQaXpwZGhac0NGNGptNXhjRXJuSXhocnpwLU9MQkhWREVRZTFucUcwaUUtMTAtc19HQU52Z1ZlUnk0WkI2eldlRGZ0ZzlaNTd1WTZ4YmFxSHZPa3VPUkRtMTAyXzJhaTdZVDZxMWdobHYzTWdBbTRpMG1jaDRhN3N4MjRwNEFjMy1UaHprWjc3TjhYREZiMEM1YXZnYzdacXFaaUd4WWQ1dWFPNnViaXRpYURWZFNJQ3J1Q2p4YnUtMDlqa3huYTlNckR2cDY1Y1FSSjln0gHWAUFVX3lxTFB4eVBpenBkaFpzQ0Y0am01eGNFcm5JeGhyenAtT0xCSFZERVFlMW5xRzBpRS0xMC1zX0dBTnZnVmVSeTRaQjZ6V2VEZnRnOVo1N3VZNnhiYXFIdk9rdU9SRG0xMDJfMmFpN1lUNnExZ2hsdjNNZ0FtNGkwbWNoNGE3c3gyNHA0QWMzLVRoemtaNzdOOFhERmIwQzVhdmdjN1pxcVppR3hZZDV1YU82dWJpdGlhRFZkU0lDcnVDanhidS0wOWpreG5hOU1yRHZwNjVjUVJKOWc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T16:25:55+00:00"
+          },
+          {
+            "title": "భారత్ విషయంలో పాక్ డబుల్ గేమ్.. అఫ్గాన్లు బయటపెట్టిన అసలు రంగు!",
+            "link": "https://telugu.oneindia.com/news/international/afghans-slam-pakistan-double-standards-over-minister-musadik-malik-new-delhi-sco-visit-2026-515943.html",
+            "source": "Oneindia Telugu",
+            "summary": "",
+            "published": "2026-11-21T21:50:22+05:30"
+          },
+          {
+            "title": "Microsoft CEO Satya Nadella: వ్యవస్థాపకులు ఏం దేవుళ్లు అయిపోరు కదా : మైక్రోసాఫ్ట్‌ సీఈఓ సత్య నాదెళ్ల - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHZiOHdsQU9oZDRIZHV1Z2EtWmZTTXJ1clZkR0cyandoaXRWTlJpVl9jd3hhNnRGYVdfeWxIbmFlTVJWai1iVDFGVzgtUk9KOFFsNXF1OFI1NDlVS3JaOS1DbERsQ2d1ZDBOcmd5NzcxS1lBZ2h0MDN0Q2ctRlFhaWJoakh6by13WEVpTzBIZUFfV0VldHVCdU52c9IBmwFBVV95cUxPMHZiOHdsQU9oZDRIZHV1Z2EtWmZTTXJ1clZkR0cyandoaXRWTlJpVl9jd3hhNnRGYVdfeWxIbmFlTVJWai1iVDFGVzgtUk9KOFFsNXF1OFI1NDlVS3JaOS1DbERsQ2d1ZDBOcmd5NzcxS1lBZ2h0MDN0Q2ctRlFhaWJoakh6by13WEVpTzBIZUFfV0VldHVCdU52cw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T15:54:50+00:00"
+          },
+          {
+            "title": "Hyderabad: కారులో సీక్రెట్‌ అర.. 25 బంగారు బిస్కెట్లు స్వాధీనం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckQyOVBMQXRkLUJMNHBDV3A1UGtNNmhWNDJDdmo2bzVCV0lzX01LTmZlREwweGJZcWJ6alRNS0tURkJoMGRUYTcwaE95MGtQdG5FeVZsTlNycFRoQzA2dTRvM0NPazlWZk1EbGpoSlloWGk1MmJpOEhKZHZiUHRkYUxQWTJGUdIBhgFBVV95cUxNckQyOVBMQXRkLUJMNHBDV3A1UGtNNmhWNDJDdmo2bzVCV0lzX01LTmZlREwweGJZcWJ6alRNS0tURkJoMGRUYTcwaE95MGtQdG5FeVZsTlNycFRoQzA2dTRvM0NPazlWZk1EbGpoSlloWGk1MmJpOEhKZHZiUHRkYUxQWTJGUQ?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T15:18:07+00:00"
+          },
+          {
+            "title": "JP Nadda: యువ వైద్యులారా.. ఈ-ప్రిస్క్రిప్షన్‌ విధానాన్ని వాడండి : నడ్డా - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWC15MGxqWGZqVkg4Z1R4OHpOa1pDalFXUDhIMXVNNFlUR1VQRFVHYTNPX3NuU2gwOFoxU3EwdzRhOEdLWGl3c3NMZUZQWkVRcGxhU0hTTFdsT2RjWDU5VU1lamlTVW5fbks5UndoTWFyb0g2dE0zZU12dFlidHV4NVNwTTNQaHlncmJyODE2bDV4UTRLa2xxeTNCOFJhbG5UbTh4VWh5QUZhOFNOZXY2MGxDNjFGR3g1N1JlRUt30gG-AUFVX3lxTE1YLXkwbGpYZmpWSDhnVHg4ek5rWkNqUVdQOEgxdU00WVRHVVBEVUdhM09fc25TaDA4WjFTcTB3NGE4R0tYaXdzc0xlRlBaRVFwbGFTSFNMV2xPZGNYNTlVTWVqaVNVbl9uSzlSd2hNYXJvSDZ0TTNlTXZ0WWJ0dXg1U3BNM1BoeWdyYnI4MTZsNXhRNEtrbHF5M0I4UmFsblRtOHhVaHlBRmE4U05ldjYwbEM2MUZHeDU3UmVFS3c?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-21T15:16:31+00:00"
           }
         ],
         "Entertainment": [
@@ -1430,7 +1430,7 @@
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NBY1VFWXl5Vl9SeEViNGZMVk90MzI4RS1kVC15cnNxUU9ZNjFfVVF0Q19qLUtnRDFNTTJzenhLeUdlaUV5ZlRvUjFFVGFwY0FGNVVUQmhqQ09CSHBac2hGM2thSk5HWGpHb3kyYnRWZTFsZGJfc21fbkw2OGYwMTBXZzg1UzFMbzB6N2tMRUE4Uy1Ec1ZPZDFDYVM0N1RpR0R5Vkl1NlVNTVg5aXfSAbMBQVVfeXFMTmlpQV94NFVRTWFVdVV3RURwNnlKQlJ2eU1XQTRscEhNOW9oZk9ySzhYRWo4M05rV3hIVEJWZ0k0R3VEVzJkWnlkTmxLSWVZSmQ4R19fTnV2U1NlRW9WNzZ3QkhnZzBqLUF0cWpaaWVMU18wQktFVUVPMDBHbW5VcmYwMmpCNDdobW5TT09LZC1iRExPUEpVUFZ4NDJMYzBYN1BXbExVWG15SWdSTU5CaFMtMms?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-11-21T18:33:20+00:00"
+            "published": "2026-11-21T20:02:07+00:00"
           },
           {
             "title": "উচ্চতা কম? শীতের ভারী পোশাকেও দেখাতে পারেন লম্বা, পোশাক বাছার আগে মাথায় রাখুন এই ১০টি টিপস - Anandabazar Patrika",
