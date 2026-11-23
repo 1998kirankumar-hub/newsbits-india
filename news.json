@@ -1,196 +1,203 @@
 {
-  "updated_at": "2026-11-23T19:01:30.883307+00:00",
+  "updated_at": "2026-11-23T19:31:13.166293+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "US rapper postpones O2 arena show after Manchester evacuation",
+            "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+            "published": "2026-11-23T19:18:53+00:00"
+          },
+          {
+            "title": "Autism lab, sleep research facility inaugurated in IIT Madras",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/autism-lab-sleep-research-facility-inaugurated-in-iit-madras/article71734588.ece",
+            "source": "The Hindu",
+            "summary": "The sleep study facility will enable individuals to access specialised assessment, consultation, and treatment through experts associated with Kauvery Hospitals",
+            "published": "2026-11-24T00:41:00+05:30"
+          },
+          {
+            "title": "Pammal residents want widening of main road",
+            "link": "https://www.thehindu.com/news/cities/chennai/pammal-residents-want-widening-of-main-road/article71736003.ece",
+            "source": "The Hindu",
+            "summary": "The storm-water drains in Pallavaram Main Road are incomplete and despite the drain, water runs along the sides",
+            "published": "2026-11-24T00:39:56+05:30"
+          },
+          {
+            "title": "Thousands flee Manchester concert after unknown substance released",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+            "published": "2026-11-23T19:07:37+00:00"
+          },
+          {
+            "title": "Jensen Huang Is Back At Nvidia, But Where Is Alice Huang?",
+            "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Alice Huang, a former journalist who went on to become a powerful figure in Southeast Asia's technology industry, was at the centre of a business suspected of helping Chinese companies obtain advanced Nvidia AI chips in possible violation of US laws.",
+            "published": "2026-11-24T00:33:36+05:30"
+          },
+          {
+            "title": "Gatherings Banned In Madurai As Court Allows Deepam On Hill At Centre Of Row",
+            "link": "https://www.ndtv.com/india-news/gatherings-banned-in-madurai-as-court-allows-deepam-on-hill-at-centre-of-row-12368047#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The restrictions will come into effect at 9 pm on November 23 and remain in force until 10 am on November 25, unless withdrawn earlier.",
+            "published": "2026-11-24T00:33:35+05:30"
+          },
+          {
+            "title": "Kolkata Doctors Flag Rising Lung Diseases Among Traffic Police",
+            "link": "https://www.ndtv.com/india-news/kolkata-doctors-flag-rising-lung-diseases-among-traffic-police-12368060#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Despite high-risk conditions, medical experts noted that initial respiratory symptoms are frequently dismissed by the police personnel as routine seasonal discomfort, delaying crucial medical intervention.",
+            "published": "2026-11-24T00:33:29+05:30"
+          },
+          {
+            "title": "SC admits appeal filed by SASTRA against Madras High Court’s eviction order",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/sc-admits-appeal-filed-bysastraagainst-madras-high-courts-eviction-order/article71735147.ece",
+            "source": "The Hindu",
+            "summary": "It issues a rule nisi, which means T.N. will have to show-cause why it wants to contest the appeal rather than settle for any of the three options of alternative land; State says it will file a response",
+            "published": "2026-11-24T00:31:27+05:30"
+          },
+          {
+            "title": "Collector files complaint against Kallakurichi TVK MLA",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-24T00:31:11+05:30"
+          },
+          {
+            "title": "'Coward government': CJP's Saurav Das says he was stopped from flying to London",
+            "link": "https://timesofindia.indiatimes.com/india/coward-government-cjps-saurav-das-says-he-was-stopped-from-flying-for-lecture-at-university-of-oxford/articleshow/136112962.cms",
+            "source": "Times of India",
+            "summary": "CJP activist Saurav Das was allegedly barred from boarding a flight to London by the Indian government. He was set to deliver lectures at several prestigious universities including Oxford and Cambridge. Das expressed concerns that the government feared his views reaching international institutions. Fellow activists criticized the government's actions, highlighting a broader anti-intellectual stance. This incident…",
+            "published": "2026-11-24T00:28:28+05:30"
+          },
+          {
+            "title": "Delhi Cop Suspended After Cancelling Wedding Over Rs 13-Lakh Car",
+            "link": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "According to a complaint filed with Sonipat police by the bride's father, Subhash Kumar, he had booked a Rs 9.5-lakh Hyundai car for the groom. However, the groom, identified as Kuldeep, insisted on a Rs 13-lakh Maruti Brezza, saying he did not like the car booked for him.",
+            "published": "2026-11-24T00:24:22+05:30"
+          },
+          {
+            "title": "Nvidia Live Updates: 'Mistake Corrected': Elon Musk On Jensen Huang's Return To Nvidia",
+            "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Nvidia Jensen Huang Reinstates News Live Updates: According to a statement released by the board, it received input from senior levels of the United States government, and based on that input, the board is confident that Jensen Huang's reinstatement poses no national security risk.",
+            "published": "2026-11-24T00:18:57+05:30"
+          },
+          {
+            "title": "Pregnant Woman Killed After Manipur Ambulance Collides With Pick-Up Truck",
+            "link": "https://www.ndtv.com/india-news/pregnant-woman-killed-after-manipur-ambulance-collides-with-pick-up-truck-12368034#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "CCTV footage of the accident shows the ambulance and the Tata DI pick-up vehicle crashing into each other, and both vehicles turning sideways due to the impact.",
+            "published": "2026-11-24T00:18:36+05:30"
+          },
+          {
             "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
             "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
             "published": "2026-11-23T18:43:00+00:00"
-          },
-          {
-            "title": "PJTSAU to launch two new degree course",
-            "link": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
-            "source": "The Hindu",
-            "summary": "‘Rythu Bharosa Yatras’ planned from January",
-            "published": "2026-11-24T00:10:51+05:30"
-          },
-          {
-            "title": "Rail passenger traffic to cross pre-Covid level, touch 820 crore this fiscal",
-            "link": "https://timesofindia.indiatimes.com/india/rail-passenger-traffic-to-cross-pre-covid-level-touch-820-crore-this-fiscal/articleshow/136112649.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-24T00:06:10+05:30"
-          },
-          {
-            "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
-            "link": "https://www.bbc.co.uk/news/articles/cw8dvq431280o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Tenor Paul Potts would have missed his big chance if a colleague didn't work his Saturday shift.",
-            "published": "2026-11-23T18:33:43+00:00"
-          },
-          {
-            "title": "Don’t use language to divide people",
-            "link": "https://www.thehindu.com/opinion/op-ed/dont-use-language-to-divide-people/article71736080.ece",
-            "source": "The Hindu",
-            "summary": "Political considerations, not scholastic, form the basis for these parties’ resistance to both the three-language formula and the Navodaya scheme",
-            "published": "2026-11-24T00:02:12+05:30"
-          },
-          {
-            "title": "PBKS appoint Paras Mhambrey as bowling coach",
-            "link": "https://www.cricinfo.com/ci/content/story/1563727.html?ex_cid=OTC-RSS",
-            "source": "ESPN Cricinfo",
-            "summary": "Mhambrey brings considerable experience to the PBKS setup, having previously served as India's bowling coach under Rahul Dravid between 2021 and 2024",
-            "published": "2026-11-23T18:32:02+00:00"
-          },
-          {
-            "title": "Amid pressure from different quarters, police bring Thirupparankundram hillock under tight security",
-            "link": "https://www.thehindu.com/news/cities/Madurai/amid-pressure-from-different-quarters-police-bring-thirupparankundram-hillock-under-tight-security/article71734773.ece",
-            "source": "The Hindu",
-            "summary": "The police declared areas around Thirupparankundram a “red zone” and prohibited flying of drones and unmanned aerial vehicles till Tuesday (November 24, 2026). Hundreds of police personnel have been deployed around the hillock that houses the Subramania Swamy Temple to prevent any unauthorised person gaining access to the hilltop where Deepathoon is located near Sikandar Badushah Dargah",
-            "published": "2026-11-24T00:01:06+05:30"
-          },
-          {
-            "title": "Alleged synagogue arson attempt case: court gives NIA custody of accused till Nov. 27",
-            "link": "https://www.thehindu.com/news/national/kerala//article71735231.ece",
-            "source": "The Hindu",
-            "summary": "The accused allegedly set fire to Blossom Nursery, located opposite the Kadavumbhagam synagogue in Ernakulam market within the limits of the Kochi Central police station, in the early hours of October 12.",
-            "published": "2026-11-23T23:58:02+05:30"
-          },
-          {
-            "title": "PA mother's house goes to son, rest to church; daughter's executor bid fails",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-mother-left-her-real-estate-to-one-son-and-the-rest-of-her-estate-to-a-church-while-a-218891-state-care-claim-was-settled-for-about-40000-a-daughters-bid-to-remove-the-executor-has-failed/articleshow/136106900.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-23T23:56:00+05:30"
-          },
-          {
-            "title": "What Russian warship did Ukraine just sink?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here&#039;s why the vessel is significant.",
-            "published": "2026-11-23T18:25:55+00:00"
-          },
-          {
-            "title": "US rapper postpones O2 arena show after Manchester evacuation",
-            "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
-            "published": "2026-11-23T18:23:33+00:00"
-          },
-          {
-            "title": "UK couple in their 70s win eviction appeal and £1,488 AI legal research costs",
-            "link": "https://timesofindia.indiatimes.com/world/uk/a-british-couple-in-their-70s-fought-eviction-from-a-housing-association-flat-over-electricity-charges-after-winning-their-appeal-a-high-court-judge-allowed-1488-they-had-borrowed-for-ai-assisted-legal-research/articleshow/136095855.cms",
-            "source": "Times of India",
-            "summary": "A British couple in their 70s who fought eviction from their home have won the right to recover £1,488 spent on an AI legal research tool. The High Court allowed the expense after finding that the subscription was purchased specifically to help them prepare their case without legal representation. The couple had challenged a housing association's electricity charges, which had formed the basis of possession…",
-            "published": "2026-11-23T23:53:00+05:30"
-          },
-          {
-            "title": "Marshal Zhukov remembered",
-            "link": "https://www.thehindu.com/news/national/kerala/marshal-zhukov-remembered/article71735801.ece",
-            "source": "The Hindu",
-            "summary": "Describing Marshal Zhukov as the ‘captain of the winning team,’ Former Ambassador Seetharam emphasised that his brilliant military strategies and leadership played a crucial role in defeating the Nazi-fascist forces and securing the Soviet victory.",
-            "published": "2026-11-23T23:52:12+05:30"
-          },
-          {
-            "title": "T.N. Speaker declares Kolathur constituency vacant",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-speaker-declares-kolathur-constituency-vacant/article71735919.ece",
-            "source": "The Hindu",
-            "summary": "The announcement comes after the death of sitting TVK MLA V.S. Babu",
-            "published": "2026-11-23T23:51:04+05:30"
           }
         ],
         "India": [
           {
+            "title": "Autism lab, sleep research facility inaugurated in IIT Madras",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/autism-lab-sleep-research-facility-inaugurated-in-iit-madras/article71734588.ece",
+            "source": "The Hindu",
+            "summary": "The sleep study facility will enable individuals to access specialised assessment, consultation, and treatment through experts associated with Kauvery Hospitals",
+            "published": "2026-11-24T00:41:00+05:30"
+          },
+          {
+            "title": "Pammal residents want widening of main road",
+            "link": "https://www.thehindu.com/news/cities/chennai/pammal-residents-want-widening-of-main-road/article71736003.ece",
+            "source": "The Hindu",
+            "summary": "The storm-water drains in Pallavaram Main Road are incomplete and despite the drain, water runs along the sides",
+            "published": "2026-11-24T00:39:56+05:30"
+          },
+          {
+            "title": "Jensen Huang Is Back At Nvidia, But Where Is Alice Huang?",
+            "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Alice Huang, a former journalist who went on to become a powerful figure in Southeast Asia's technology industry, was at the centre of a business suspected of helping Chinese companies obtain advanced Nvidia AI chips in possible violation of US laws.",
+            "published": "2026-11-24T00:33:36+05:30"
+          },
+          {
+            "title": "Gatherings Banned In Madurai As Court Allows Deepam On Hill At Centre Of Row",
+            "link": "https://www.ndtv.com/india-news/gatherings-banned-in-madurai-as-court-allows-deepam-on-hill-at-centre-of-row-12368047#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "The restrictions will come into effect at 9 pm on November 23 and remain in force until 10 am on November 25, unless withdrawn earlier.",
+            "published": "2026-11-24T00:33:35+05:30"
+          },
+          {
+            "title": "Kolkata Doctors Flag Rising Lung Diseases Among Traffic Police",
+            "link": "https://www.ndtv.com/india-news/kolkata-doctors-flag-rising-lung-diseases-among-traffic-police-12368060#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Despite high-risk conditions, medical experts noted that initial respiratory symptoms are frequently dismissed by the police personnel as routine seasonal discomfort, delaying crucial medical intervention.",
+            "published": "2026-11-24T00:33:29+05:30"
+          },
+          {
+            "title": "SC admits appeal filed by SASTRA against Madras High Court’s eviction order",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/sc-admits-appeal-filed-bysastraagainst-madras-high-courts-eviction-order/article71735147.ece",
+            "source": "The Hindu",
+            "summary": "It issues a rule nisi, which means T.N. will have to show-cause why it wants to contest the appeal rather than settle for any of the three options of alternative land; State says it will file a response",
+            "published": "2026-11-24T00:31:27+05:30"
+          },
+          {
+            "title": "Collector files complaint against Kallakurichi TVK MLA",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-24T00:31:11+05:30"
+          },
+          {
+            "title": "'Coward government': CJP's Saurav Das says he was stopped from flying to London",
+            "link": "https://timesofindia.indiatimes.com/india/coward-government-cjps-saurav-das-says-he-was-stopped-from-flying-for-lecture-at-university-of-oxford/articleshow/136112962.cms",
+            "source": "Times of India",
+            "summary": "CJP activist Saurav Das was allegedly barred from boarding a flight to London by the Indian government. He was set to deliver lectures at several prestigious universities including Oxford and Cambridge. Das expressed concerns that the government feared his views reaching international institutions. Fellow activists criticized the government's actions, highlighting a broader anti-intellectual stance. This incident…",
+            "published": "2026-11-24T00:28:28+05:30"
+          },
+          {
+            "title": "Delhi Cop Suspended After Cancelling Wedding Over Rs 13-Lakh Car",
+            "link": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "According to a complaint filed with Sonipat police by the bride's father, Subhash Kumar, he had booked a Rs 9.5-lakh Hyundai car for the groom. However, the groom, identified as Kuldeep, insisted on a Rs 13-lakh Maruti Brezza, saying he did not like the car booked for him.",
+            "published": "2026-11-24T00:24:22+05:30"
+          },
+          {
+            "title": "Nvidia Live Updates: 'Mistake Corrected': Elon Musk On Jensen Huang's Return To Nvidia",
+            "link": "https://www.ndtv.com/world-news/nvidia-board-reinstates-jensen-huang-president-ceo-board-director-live-updates-live-updates-nvidia-stock-jumps-30-after-jensen-huang-returns-as-ceo-12367017#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "Nvidia Jensen Huang Reinstates News Live Updates: According to a statement released by the board, it received input from senior levels of the United States government, and based on that input, the board is confident that Jensen Huang's reinstatement poses no national security risk.",
+            "published": "2026-11-24T00:18:57+05:30"
+          },
+          {
+            "title": "Pregnant Woman Killed After Manipur Ambulance Collides With Pick-Up Truck",
+            "link": "https://www.ndtv.com/india-news/pregnant-woman-killed-after-manipur-ambulance-collides-with-pick-up-truck-12368034#publisher=newsstand",
+            "source": "NDTV",
+            "summary": "CCTV footage of the accident shows the ambulance and the Tata DI pick-up vehicle crashing into each other, and both vehicles turning sideways due to the impact.",
+            "published": "2026-11-24T00:18:36+05:30"
+          },
+          {
             "title": "PJTSAU to launch two new degree course",
             "link": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
             "source": "The Hindu",
             "summary": "‘Rythu Bharosa Yatras’ planned from January",
             "published": "2026-11-24T00:10:51+05:30"
-          },
-          {
-            "title": "Rail passenger traffic to cross pre-Covid level, touch 820 crore this fiscal",
-            "link": "https://timesofindia.indiatimes.com/india/rail-passenger-traffic-to-cross-pre-covid-level-touch-820-crore-this-fiscal/articleshow/136112649.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-24T00:06:10+05:30"
-          },
-          {
-            "title": "Don’t use language to divide people",
-            "link": "https://www.thehindu.com/opinion/op-ed/dont-use-language-to-divide-people/article71736080.ece",
-            "source": "The Hindu",
-            "summary": "Political considerations, not scholastic, form the basis for these parties’ resistance to both the three-language formula and the Navodaya scheme",
-            "published": "2026-11-24T00:02:12+05:30"
-          },
-          {
-            "title": "Amid pressure from different quarters, police bring Thirupparankundram hillock under tight security",
-            "link": "https://www.thehindu.com/news/cities/Madurai/amid-pressure-from-different-quarters-police-bring-thirupparankundram-hillock-under-tight-security/article71734773.ece",
-            "source": "The Hindu",
-            "summary": "The police declared areas around Thirupparankundram a “red zone” and prohibited flying of drones and unmanned aerial vehicles till Tuesday (November 24, 2026). Hundreds of police personnel have been deployed around the hillock that houses the Subramania Swamy Temple to prevent any unauthorised person gaining access to the hilltop where Deepathoon is located near Sikandar Badushah Dargah",
-            "published": "2026-11-24T00:01:06+05:30"
-          },
-          {
-            "title": "Alleged synagogue arson attempt case: court gives NIA custody of accused till Nov. 27",
-            "link": "https://www.thehindu.com/news/national/kerala//article71735231.ece",
-            "source": "The Hindu",
-            "summary": "The accused allegedly set fire to Blossom Nursery, located opposite the Kadavumbhagam synagogue in Ernakulam market within the limits of the Kochi Central police station, in the early hours of October 12.",
-            "published": "2026-11-23T23:58:02+05:30"
-          },
-          {
-            "title": "PA mother's house goes to son, rest to church; daughter's executor bid fails",
-            "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-mother-left-her-real-estate-to-one-son-and-the-rest-of-her-estate-to-a-church-while-a-218891-state-care-claim-was-settled-for-about-40000-a-daughters-bid-to-remove-the-executor-has-failed/articleshow/136106900.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-23T23:56:00+05:30"
-          },
-          {
-            "title": "UK couple in their 70s win eviction appeal and £1,488 AI legal research costs",
-            "link": "https://timesofindia.indiatimes.com/world/uk/a-british-couple-in-their-70s-fought-eviction-from-a-housing-association-flat-over-electricity-charges-after-winning-their-appeal-a-high-court-judge-allowed-1488-they-had-borrowed-for-ai-assisted-legal-research/articleshow/136095855.cms",
-            "source": "Times of India",
-            "summary": "A British couple in their 70s who fought eviction from their home have won the right to recover £1,488 spent on an AI legal research tool. The High Court allowed the expense after finding that the subscription was purchased specifically to help them prepare their case without legal representation. The couple had challenged a housing association's electricity charges, which had formed the basis of possession…",
-            "published": "2026-11-23T23:53:00+05:30"
-          },
-          {
-            "title": "Marshal Zhukov remembered",
-            "link": "https://www.thehindu.com/news/national/kerala/marshal-zhukov-remembered/article71735801.ece",
-            "source": "The Hindu",
-            "summary": "Describing Marshal Zhukov as the ‘captain of the winning team,’ Former Ambassador Seetharam emphasised that his brilliant military strategies and leadership played a crucial role in defeating the Nazi-fascist forces and securing the Soviet victory.",
-            "published": "2026-11-23T23:52:12+05:30"
-          },
-          {
-            "title": "T.N. Speaker declares Kolathur constituency vacant",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-speaker-declares-kolathur-constituency-vacant/article71735919.ece",
-            "source": "The Hindu",
-            "summary": "The announcement comes after the death of sitting TVK MLA V.S. Babu",
-            "published": "2026-11-23T23:51:04+05:30"
-          },
-          {
-            "title": "UK hotel worker takes four-week leave without permission, loses tribunal claims",
-            "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-hotel-worker-booked-a-four-week-holiday-without-his-managers-permission-then-took-his-employer-to-a-tribunal-over-discrimination-and-unfair-dismissal-the-judge-rejected-all-his-claims/articleshow/136093358.cms",
-            "source": "Times of India",
-            "summary": "Dylan Forster, an employee at Inn on the Lake, unilaterally booked a trip to South Africa, despite not receiving permission for a four-week leave due to hotel policies and staffing requirements. Upon resigning, he raised grievances about discrimination and injury. However, an employment tribunal concluded that his claims were baseless, confirming the hotel's adherence to its protocols and reasonable actions.",
-            "published": "2026-11-23T23:50:00+05:30"
-          },
-          {
-            "title": "SRM School of Law opens admissionsfor 2027; five new courses announced",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/srm-school-of-law-opens-admissionsfor-2027-five-new-courses-announced/article71735943.ece",
-            "source": "The Hindu",
-            "summary": "",
-            "published": "2026-11-23T23:49:24+05:30"
-          },
-          {
-            "title": "Election petitions filed challenging bypoll victory of two TVK MLAs",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/election-petitions-filed-challenging-bypoll-victory-of-two-tvk-mlas/article71735864.ece",
-            "source": "The Hindu",
-            "summary": "Dharapuram AIADMK candidate Banumathi and Madurantakam constituency voter S. Umapathi have filed the election petitions",
-            "published": "2026-11-23T23:49:11+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Thousands flee Manchester concert after unknown substance released",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+            "published": "2026-11-23T19:07:37+00:00"
+          },
           {
             "title": "What Russian warship did Ukraine just sink?",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
@@ -267,13 +274,6 @@
             "source": "Al Jazeera",
             "summary": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
             "published": "2026-11-23T16:35:28+00:00"
-          },
-          {
-            "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-            "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Russia has reacted with fury to Ukraine&#039;s continued campaign targeting its naval and merchant shipping.",
-            "published": "2026-11-23T16:23:33+00:00"
           }
         ],
         "Business": [
@@ -536,18 +536,18 @@
         ],
         "Entertainment": [
           {
+            "title": "US rapper postpones O2 arena show after Manchester evacuation",
+            "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+            "published": "2026-11-23T19:18:53+00:00"
+          },
+          {
             "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
             "link": "https://www.bbc.co.uk/news/articles/cw8dvq431280o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
             "summary": "Tenor Paul Potts would have missed his big chance if a colleague didn't work his Saturday shift.",
             "published": "2026-11-23T18:33:43+00:00"
-          },
-          {
-            "title": "US rapper postpones O2 arena show after Manchester evacuation",
-            "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
-            "published": "2026-11-23T18:23:33+00:00"
           },
           {
             "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
@@ -627,7 +627,7 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "यूपी: अखिलेश यादव का फेसबुक पेज बहाल, सपा ने मेटा को दिया धन्यवाद",
+            "title": "यूपी: अखिलेश यादव का फेसबुक पेज बहाल, सपा ने मेटा को दिया धन्यवाद; पार्टी मुखिया के हैं 90 लाख फॉलोअर्स",
             "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-s-facebook-page-restored-sp-thanks-meta-2026-11-24",
             "source": "Amar Ujala",
             "summary": "",
@@ -1072,74 +1072,81 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "కూటమి గూడుపుఠాణి",
-            "link": "https://www.sakshi.com/telugu-news/dr-b-r-ambedkar-konaseema/2968268",
+            "title": "కొండగట్టులో నేడు ఆర్జిత సేవల నిలిపివేత",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968440",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "కచ్చితత్వంతో జనగణన",
-            "link": "https://www.sakshi.com/telugu-news/dr-b-r-ambedkar-konaseema/2968267",
+            "title": "ఫోన్‌లో పిలిచి... కత్తులతో నరికి..",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968439",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "పొమ్మన్నా పోకుండా..",
-            "link": "https://www.sakshi.com/telugu-news/dr-b-r-ambedkar-konaseema/2968266",
+            "title": "సదర్‌ సందడి",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968438",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "● పండ్లు 11.. ధర రూ.వెయ్యి",
-            "link": "https://www.sakshi.com/telugu-news/dr-b-r-ambedkar-konaseema/2968265",
+            "title": "కార్తీకం.. పుణ్యక్షేత్ర దర్శనం",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968437",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "గిరి ప్రదక్షిణకు వేళాయె..",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968264",
+            "title": "కాశి– ప్రయాగ్‌రాజ్‌కు ప్రత్యేక బస్సు",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968436",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "శ్రీశైలం ఘాట్‌ రోడ్డులో ప్రమాదం",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968263",
+            "title": "బందనకల్‌లో ఘోర రోడ్డు ప్రమాదం",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968435",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "సాంకేతిక కారణంతో నామినేషన్‌ తిరస్కరణ దారుణం",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968262",
+            "title": "సాహిత్యంతో అనుబంధం",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968434",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "ఫెన్సింగ్‌ పోటీల్లో విద్యార్థుల ప్రతిభ",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968261",
+            "title": "తాళం వేసిన ఇంట్లో చోరీ",
+            "link": "https://www.sakshi.com/telugu-news/karimnagar/2968433",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "గుర్తుపట్టాల్సిందే!",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968260",
+            "title": "నేడు గూడెంలో కార్తిక జాతర",
+            "link": "https://www.sakshi.com/telugu-news/mancherial/2968432",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
           },
           {
-            "title": "ఒకే వేదికపై ఓటరు సేవలు",
-            "link": "https://www.sakshi.com/telugu-news/east-godavari/2968259",
+            "title": "ప్రతీ కుటుంబానికి భరోసా కల్పిస్తాం",
+            "link": "https://www.sakshi.com/telugu-news/mancherial/2968431",
             "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T18:54:01+00:00"
+            "published": "2026-11-23T19:30:01+00:00"
+          },
+          {
+            "title": "మీరైతే ఏం చేస్తారు? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kcTMwaW5xR01CdnE5a3ZobmE5YWdqN0M1djFlWGpqZDI3Y2gwelBnYkRjM3NsSFlwVlVPOHdYYUVYUjhGNFZjbUxhNWFSSUgtTm9NQlJ1bjdXektscEtBQTNWSlJGMm13ZmJwclJCSlRfMXpPekVaRlRjQTNxZ9IBfkFVX3lxTE9kcTMwaW5xR01CdnE5a3ZobmE5YWdqN0M1djFlWGpqZDI3Y2gwelBnYkRjM3NsSFlwVlVPOHdYYUVYUjhGNFZjbUxhNWFSSUgtTm9NQlJ1bjdXektscEtBQTNWSlJGMm13ZmJwclJCSlRfMXpPekVaRlRjQTNxZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T18:52:34+00:00"
           },
           {
             "title": "అక్రమ అండాల సేకరణ కేసులో వైద్యులకు బిగ్ షాక్ ఇచ్చిన హైకోర్టు..",
@@ -1147,13 +1154,6 @@
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-23T23:49:12+05:30"
-          },
-          {
-            "title": "'నేను ప్రభుత్వానికి కాదు.. ప్రజలకు సమాధానం చెప్పాలి'.. కాంగ్రెస్ ఎమ్మెల్యే సడెన్ రాజీనామా..",
-            "link": "https://telugu.oneindia.com/news/india/karnataka-congress-mla-nayana-motamma-resigns-over-the-relocation-of-wild-elephants-karnataka-news-516225.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T23:24:31+05:30"
           }
         ],
         "Entertainment": [
@@ -1475,6 +1475,13 @@
             "published": "2026-11-23T14:03:06+00:00"
           },
           {
+            "title": "কোকাবুরা বল নিয়ে শুভমনের পাশে নিউ জ়িল্যান্ডের অধিনায়ক, তবে বলে থুতু লাগানো নিয়ে সতর্ক লাথাম - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ1JCcllsTjlsRFREYW0zb3lzN3FFTVEwTm50R3ZzTzdWbkZFLUxOLUJVZlFtWHVmcGFmbkZMM1gzMzM3a2UyTkNUZFVHSHZUU3U4cklzZ19ob3RVWWFjVEtxMjRKUUx0czB2dTZyS1NZamhuT2x1SnVROGNfVnVIang4OUdpcmh3aVNlUFh4RXdzS1pwRkRLdXdBR1JPTnF3MDFkUUtKTkpDVUhtVnpXMXFpOG9QYUNsekoweXdpRdIBxAFBVV95cUxNNUNaQ05ubHdTbXdjWGpTLXBzRGd2VHJkTUluLURxZXNaNEhvWUtSVVRPZUFVT2Fod2I2NGM5OExTUXByM09wZS11QkRCcnZXa2daR3dDMkhZejUyTUFLMnMtRDlvTzF0QmlWQWtUZGVTd1pEa0VFbFBtazQ4TlQtUWk0WVk3enNsa0tJSzAzODJMWHE2ZTY5N29Bd0tMaFlzUk5TT2ttUzNENVFDQnJwZGU1dk9EeGYtU3BUVXVkazZsVmM0?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-23T13:39:19+00:00"
+          },
+          {
             "title": "যশোর থেকে নিঃস্ব হয়ে এসে চন্দননগরের ‘মুকুটহীন সম্রাট’! ইন্দ্রনারায়ণ চৌধুরীর হাত ধরেই কি শুরু হয় ফরাসডাঙার জগদ্ধাত্রী পুজো? - Anandabazar Patrika",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTNNM3I4U0FISjhRcC1qN1FXdGM1aHZROHNvVnRDbjNjc1hWU0U3ZkVrT0p0VmRlUWRIZnVrQ3B5S2tCV3E5LXVjcENscldpdFFIYnEyaFlvUDRucUhQd2w1cDN4Njk4SXYtVk9tOUt1bF9fVmV0N0ttZXczcURlLXdHdnZwVjR2a1d5SFJVVll5MHBEYWQtdUhzai1aM0Y4STBzUmJpTDhFOTNDQmROcVJvVk0wUDhIZlkycU5Ua1BOS3h2YXQ2b3lDTQ?oc=5",
             "source": "Anandabazar Patrika",
@@ -1501,13 +1508,6 @@
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-23T11:17:11+00:00"
-          },
-          {
-            "title": "আজকের দিন মীন রাশি- ২৪ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk9qOUVtcHc0SDV4NUVVMmxnaWx2RlVTRHd0UTN2bU1VRVdZc1JpTFFWRWpPRkhnTWkwaGZYOTQ0RS1DaldmZjd6UjFUMWJMYkZ4c0NFekpZMFh3TnJrTTEzenp2TmVqRG9SWDdKZERTSG1QVVVrTm9tV1E3c1F3a0g3R0dydnhQMThCaTdNTENSamwyYmt6bXN5Z1YtRUtFYWNXSDNzSFVWZ1cybnfSAbMBQVVfeXFMTU5MRm5nQ20xdldJZHFYdXo1NlFBT1VqRm9MMk5VNDRkZnpRWDFtV0hTNkhPMDNMUkxkcVNpMGNVckZoYUZBY1hwWWxUNkpfU0VHa2NKYm0ya1NTTWhibTYwc2xsQVpfQXBCb0E4RW9CbzFyRGE0Rm1UNXNzM3I3eWhNT2JwXzlPMlF1ZU9OS19TT0xBY0lMNUo3NnZ1TGRWVnNtblBTTmQ2M2phMWJ3T0w4TG8?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-23T11:16:44+00:00"
           }
         ]
       }
