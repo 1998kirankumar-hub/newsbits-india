@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-11-23T21:01:20.657884+00:00",
+  "updated_at": "2026-11-23T21:31:07.735069+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
+          {
+            "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+            "published": "2026-11-23T21:23:42+00:00"
+          },
+          {
+            "title": "US drug prices leave patients facing impossible choices",
+            "link": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Despite having jobs and health insurance, some of the US&#039;s sickest patients have trouble affording medicines they need.",
+            "published": "2026-11-23T21:02:00+00:00"
+          },
+          {
+            "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+            "source": "The Hindu",
+            "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
+            "published": "2026-11-24T02:29:04+05:30"
+          },
+          {
+            "title": "SC grants bail to Godhra train burning convict on medical grounds",
+            "link": "https://timesofindia.indiatimes.com/india/sc-grants-bail-to-godhra-train-burning-convict-on-medical-grounds/articleshow/136113798.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-24T02:27:14+05:30"
+          },
           {
             "title": "Monsoon session not yet prorogued, Congress slams government",
             "link": "https://timesofindia.indiatimes.com/india/monsoon-session-not-yet-prorogued-congress-slams-goverment/articleshow/136113779.cms",
@@ -74,37 +102,23 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-24T01:54:32+05:30"
-          },
-          {
-            "title": "Turkish police hunting for lioness stalking Istanbul",
-            "link": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Questions being asked about big cat&#039;s origins, with suspicion falling on the country&#039;s growing role in animal smuggling.",
-            "published": "2026-11-23T20:22:28+00:00"
-          },
-          {
-            "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
-            "published": "2026-11-23T20:22:12+00:00"
-          },
-          {
-            "title": "5 injured as Amtrak train collides with bulldozer-carrying truck and derails in US' Louisiana",
-            "link": "https://timesofindia.indiatimes.com/world/us/5-injured-as-amtrak-train-collides-with-bulldozer-carrying-truck-and-derails-in-us-louisiana/articleshow/136113656.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-24T01:44:53+05:30"
-          },
+          }
+        ],
+        "India": [
           {
             "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
             "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
             "source": "The Hindu",
             "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
-            "published": "2026-11-24T01:35:03+05:30"
-          }
-        ],
-        "India": [
+            "published": "2026-11-24T02:29:04+05:30"
+          },
+          {
+            "title": "SC grants bail to Godhra train burning convict on medical grounds",
+            "link": "https://timesofindia.indiatimes.com/india/sc-grants-bail-to-godhra-train-burning-convict-on-medical-grounds/articleshow/136113798.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-24T02:27:14+05:30"
+          },
           {
             "title": "Monsoon session not yet prorogued, Congress slams government",
             "link": "https://timesofindia.indiatimes.com/india/monsoon-session-not-yet-prorogued-congress-slams-goverment/articleshow/136113779.cms",
@@ -155,13 +169,6 @@
             "published": "2026-11-24T01:44:53+05:30"
           },
           {
-            "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
-            "source": "The Hindu",
-            "summary": "Justice V. Lakshminarayanan grants a day’s time for the police to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused",
-            "published": "2026-11-24T01:35:03+05:30"
-          },
-          {
             "title": "US Targets Iran's Shadow Banking Networks In Latest Wave Of Sanctions",
             "link": "https://www.ndtv.com/world-news/iran-war-us-targets-irans-shadow-banking-networks-in-latest-wave-of-sanctions-12368135#publisher=newsstand",
             "source": "NDTV",
@@ -181,16 +188,16 @@
             "source": "The Hindu",
             "summary": "In posts on X, Mr. Das said he was stopped at the immigration counter at the Delhi airport before boarding his 1 a.m. flight to London",
             "published": "2026-11-24T01:19:46+05:30"
-          },
-          {
-            "title": "The Bilkis Bano order — justice deferred again",
-            "link": "https://www.thehindu.com/opinion/lead/the-bilkis-bano-order-justice-deferred-again/article71735769.ece",
-            "source": "The Hindu",
-            "summary": "The right to liberty cannot undermine a survivor’s dignity, voice and difficult quest for justice",
-            "published": "2026-11-24T01:15:52+05:30"
           }
         ],
         "World": [
+          {
+            "title": "US drug prices leave patients facing impossible choices",
+            "link": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Despite having jobs and health insurance, some of the US&#039;s sickest patients have trouble affording medicines they need.",
+            "published": "2026-11-23T21:02:00+00:00"
+          },
           {
             "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
             "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
@@ -267,16 +274,16 @@
             "source": "Al Jazeera",
             "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
             "published": "2026-11-23T19:07:37+00:00"
-          },
-          {
-            "title": "What Russian warship did Ukraine just sink?",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here&#039;s why the vessel is significant.",
-            "published": "2026-11-23T18:25:55+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+            "published": "2026-11-23T21:23:42+00:00"
+          },
           {
             "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
             "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
@@ -290,13 +297,6 @@
             "source": "BBC Business",
             "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
             "published": "2026-11-23T17:59:55+00:00"
-          },
-          {
-            "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-            "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-            "published": "2026-11-23T17:42:37+00:00"
           },
           {
             "title": "Anthropic options draw brisk trading interest after market debut",
@@ -450,11 +450,11 @@
         ],
         "Technology": [
           {
-            "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+            "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
             "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
             "source": "BBC Technology",
-            "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-            "published": "2026-11-23T17:42:37+00:00"
+            "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+            "published": "2026-11-23T21:23:42+00:00"
           },
           {
             "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -648,6 +648,20 @@
             "published": "2026-11-24T12:04:24+05:30"
           },
           {
+            "title": "म्यूचुअल फंड में महिलाओं का हिस्सा बढ़कर 34.5% हुआ:एसआईपी संपत्ति 30% बढ़कर ₹4.73 लाख करोड़ के पार पहुंची",
+            "link": "https://www.bhaskar.com/business/news/mutual-fund-sip-assets-growth-women-investment-report-2026-139780782.html",
+            "source": "Dainik Bhaskar",
+            "summary": "",
+            "published": "2026-11-23T21:28:01+00:00"
+          },
+          {
+            "title": "'2029 में फिर लाल किले पर होंगे मोदी': नितिन नवीन बोले- राहुल गांधी देश का अपमान कर रहे, घुसपैठियों के समर्थक",
+            "link": "https://www.amarujala.com/india-news/bjp-chief-nitin-nabin-attacks-rahul-gandhi-accuses-him-of-supporting-infiltrators-2026-11-24",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-24T02:33:17+05:30"
+          },
+          {
             "title": "सांसों का संकट: दिल्ली में सतही ओजोन का जहरीला वार, चार केंद्रों पर स्तर 100 के पार; बदला प्रदूषण का मिजाज",
             "link": "https://www.amarujala.com/delhi-ncr/toxic-assault-of-ground-level-ozone-in-delhi-levels-cross-100-at-four-monitoring-stations-2026-11-24",
             "source": "Amar Ujala",
@@ -695,20 +709,6 @@
             "source": "Oneindia Hindi",
             "summary": "",
             "published": "2026-11-23T21:16:40+05:30"
-          },
-          {
-            "title": "38 की उम्र में ADHD जैसी गंभीर बीमारी से जूझ रही हैं ये एक्ट्रेस, लोगों से नहीं करती थीं बात, फिर क्या हुआ?",
-            "link": "https://hindi.oneindia.com/news/entertainment/parvathy-thiruvothu-at-38-age-battling-serious-illness-adhd-stopped-talking-to-people-1690397.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-23T21:03:25+05:30"
-          },
-          {
-            "title": "नाहिद इस्लाम ने 'भारत के ख़िलाफ़ एकजुट' होने की अपील की, पीएम रहमान से मुलाक़ात के बाद और क्या बोले?",
-            "link": "https://www.bbc.com/hindi/articles/cv8e061g20ezo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Hindi",
-            "summary": "",
-            "published": "2026-11-23T15:20:54+00:00"
           }
         ],
         "Entertainment": [
@@ -1072,11 +1072,74 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "రంగంలోకి ఫోరెన్సిక్‌ వ్యాన్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Rc1lJRHJuMXkxSFZUYkZPU3JFbmpEOHhjQnJBNzhHUjBsSlNPY0lHNldrdUxJN0FwZWNwOVJrNzJsb19XT0JZTnZzZE8tbWZTNGd3TmJ6LXNnMlVKY0d0cVdpell6NlUwQmY5aFIyVDlqeGJJWXlXdGNB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T20:12:18+00:00"
+          },
+          {
+            "title": "మీకు తెలుసా? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40dTByNjAxUldGTV9Ic2dyZDE3NU9HRjNNd09DSTFtMnhMZk5oaEV0ZktlQkUySEQ2MDFCRFRxNFBaX0VEZXdqeFV1bFJpYlI0ZF9RSzI4SUF4MVNfbDZucXMyckNWcE8waUpxXzFvb3jSAXBBVV95cUxONHUwcjYwMVJXRk1fSHNncmQxNzVPR0YzTXdPQ0kxbTJ4TGZOaGhFdGZLZUJFMkhENjAxQkRUcTRQWl9FRGV3anhVdWxSaWJSNGRfUUsyOElBeDFTX2w2bnFzMnJDVnBPMGlKcV8xb294?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T19:36:53+00:00"
+          },
+          {
+            "title": "అక్క తీసుకుంటే నేనూ విడాకులు ఇవ్వాలట - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrRlZPUXItUFJWWHFCNlBvQ0hLc1VqclJqNjc0cXVJVmxpY0lnYjVXRVB4ZWN2a01RekdLTW11NHJraW5DLTBwMUtaWFZ2WFlONnEzX2tzRWdHOVZPMzlNalB5eDUzMnVQcHl2UkhpWGTSAXBBVV95cUxQa0ZWT1FyLVBSVlhxQjZQb0NIS3NVanJSajY3NHF1SVZsaWNJZ2I1V0VQeGVjdmtNUXpHS01tdTRya2luQy0wcDFLWlhWdlhZTjZxM19rc0VnRzlWTzM5TWpQeXg1MzJ1UHB5dlJIaVhk?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T19:36:25+00:00"
+          },
+          {
+            "title": "COPD: దగ్గు, ఆయాసమా..? సీవోపీడీ కావొచ్చు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1hWHZRczNrMTdzYXY1Z2lDbk1BNlJtaXZuNzkxLWV3NE9hUDNOR1BocFZhXzJGRTcweWtJd1FhNlZFdWgxQzVQVFJ3SEsycnROSEF2ZE4ydWdrUm5iOUdPYnUySk9WTE9QV1NleU53SUlMcXNOcENDcmh2OUxYUks3SU1SdFZRbmdWZ2xJdlF3SE56NEhhZ3cwLTgxU2vSAZ8BQVVfeXFMTTgtYVh2UXMzazE3c2F2NWdpQ25NQTZSbWl2bjc5MS1ldzRPYVAzTkdQaHBWYV8yRkU3MHlrSXdRYTZWRXVoMUM1UFRSd0hLMnJ0TkhBdmROMnVna1JuYjlHT2J1MkpPVkxPUFdTZXlOd0lJTHFzTnBDQ3JodjlMWFJLN0lNUnRWUW5nVmdsSXZRd0hOejRIYWd3MC04MVNr?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T19:30:23+00:00"
+          },
+          {
+            "title": "Gold and Silver Prices Today: తెలుగు రాష్ట్రాల్లోని ప్రధాన నగరాల్లో బంగారం, వెండి ధరలు ఇలా.. (23/11/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenJDbDFFYzRZUnNjZUFFNzg3aGlUcmJkQkhfMEM5bEtfQlRsSGtCWS1aUHN2cmFCVm1CeWREZ2dORkxkYlVJdFk4NkpDV2JfdEFaYnhEZi1VbE95Smxkbl8yc1pFRUJDRVNfN2dSYlVRU1BaMkFJbU5tSU5TdGtSbXBqU3J2RVdXWWpPQjZqSkVaUmJjN0RjbkFjYkRFbFZlMGJDOFFlbDN1YU45dm9nTFR2VXEtNDBuSmxZT0haY3ktM28teHI5NVQwN0Y5RTZZQ1Vyb0k2bDBYaU9rTVh30gHfAUFVX3lxTE16ckNsMUVjNFlSc2NlQUU3ODdoaVRyYmRCSF8wQzlsS19CVGxIa0JZLVpQc3ZyYUJWbUJ5ZERnZ05GTGRiVUl0WTg2SkNXYl90QVpieERmLVVsT3lKbGRuXzJzWkVFQkNFU183Z1JiVVFTUFoyQUltTm1JTlN0a1JtcGpTcnZFV1dZak9CNmpKRVpSYmM3RGNuQWNiREVsVmUwYkM4UWVsM3VhTjl2b2dMVHZVcS00MG5KbFlPSFpjeS0zby14cjk1VDA3RjlFNllDVXJvSTZsMFhpT2tNWHc?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T19:15:21+00:00"
+          },
+          {
+            "title": "పేగు బ్యాక్టీరియాకు చక్కెర శత్రువు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OU054T19kbWZ0U3dROFpWUm85SWJKNVNfRE12OXAzSXRrVWhyMnZubVMwNUtiXy1hZHpXalgyUWFMaENIVmhGTmlfM0dGWEMxQU41T08xNTc1TnhqMmZYNDkxby1wMUt4Vk5nNUFwdzZwWlVPMkHSAXZBVV95cUxPTlNOeE9fZG1mdFN3UThaVlJvOUliSjVTX0RNdjlwM0l0a1VocjJ2bm1TMDVLYl8tYWR6V2pYMlFhTGhDSFZoRk5pXzNHRlhDMUFONU9PMTU3NU54ajJmWDQ5MW8tcDFLeFZOZzVBcHc2cFpVTzJB?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T19:12:59+00:00"
+          },
+          {
+            "title": "మీరైతే ఏం చేస్తారు? - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kcTMwaW5xR01CdnE5a3ZobmE5YWdqN0M1djFlWGpqZDI3Y2gwelBnYkRjM3NsSFlwVlVPOHdYYUVYUjhGNFZjbUxhNWFSSUgtTm9NQlJ1bjdXektscEtBQTNWSlJGMm13ZmJwclJCSlRfMXpPekVaRlRjQTNxZ9IBfkFVX3lxTE9kcTMwaW5xR01CdnE5a3ZobmE5YWdqN0M1djFlWGpqZDI3Y2gwelBnYkRjM3NsSFlwVlVPOHdYYUVYUjhGNFZjbUxhNWFSSUgtTm9NQlJ1bjdXektscEtBQTNWSlJGMm13ZmJwclJCSlRfMXpPekVaRlRjQTNxZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T18:52:34+00:00"
+          },
+          {
+            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (24/11/2026) - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzN2ZjdSUzJKT09iRlBIdEZLUDRscWpqNTkyTmpUNWVLSHZFN3JodG1xV3hPbXI3NDhtNHl6X3FQS2VZUW5Uc1UzRGpmNkpEVEpvMXBoYnRIVzJZY3dsTU53bmNDaWxzS2dHcE1WeXZFWG1WZktsenc5RF9COF9xVjh4OG9oTGszNmJiXzRTOWFxcWU2QzRaUi1VdVVIalBGTjhnRmZadnl1VVZhc0lzSk9B0gGyAUFVX3lxTE93M3ZmN1JTMkpPT2JGUEh0RktQNGxxamo1OTJOalQ1ZUtIdkU3cmh0bXFXeE9tcjc0OG00eXpfcVBLZVlRblRzVTNEamY2SkRUSm8xcGhidEhXMlljd2xNTnduY0NpbHNLZ0dwTVZ5dkVYbVZmS2x6dzlEX0I4X3FWOHg4b2hMazM2YmJfNFM5YXFxZTZDNFpSLVV1VUhqUEZOOGdGZlp2eXVVVmFzSXNKT0E?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T18:31:22+00:00"
+          },
+          {
             "title": "అక్రమ అండాల సేకరణ కేసులో వైద్యులకు బిగ్ షాక్ ఇచ్చిన హైకోర్టు..",
             "link": "https://telugu.oneindia.com/news/telangana/telangana-big-shock-for-doctors-in-the-telangana-illegal-eggharvesting-case-bail-petitions-rejected-516227.html",
             "source": "Oneindia Telugu",
             "summary": "",
             "published": "2026-11-23T23:49:12+05:30"
+          },
+          {
+            "title": "Manchester Concert: సంగీత కచేరీలో రసాయనం కలకలం.. 12 వేలమంది తరలింపు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTi1aN1dtS2Fxa0ItaV9xTkhMYUw5M1Fybk1XOTNBM2F5MmNxS0laZE5TODBDSzlYeVU0R3N2RFF4NEtnak51Ny01b2Fydm83a3ladjJiWVhSN3BaWTZESFl5WHIxM2xvNUpUOU5VLUFPMzNvd0tMY3padlkyWmZOY244ekFxc19sLXk0RHBObDVGUUdPNlRXQUk3bmEtaXoxYjdUQlhLN2lqYm9Ob1FNYjdiZUdsVFpManU5M9IBvAFBVV95cUxNTi1aN1dtS2Fxa0ItaV9xTkhMYUw5M1Fybk1XOTNBM2F5MmNxS0laZE5TODBDSzlYeVU0R3N2RFF4NEtnak51Ny01b2Fydm83a3ladjJiWVhSN3BaWTZESFl5WHIxM2xvNUpUOU5VLUFPMzNvd0tMY3padlkyWmZOY244ekFxc19sLXk0RHBObDVGUUdPNlRXQUk3bmEtaXoxYjdUQlhLN2lqYm9Ob1FNYjdiZUdsVFpManU5Mw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-23T18:15:28+00:00"
           },
           {
             "title": "'నేను ప్రభుత్వానికి కాదు.. ప్రజలకు సమాధానం చెప్పాలి'.. కాంగ్రెస్ ఎమ్మెల్యే సడెన్ రాజీనామా..",
@@ -1086,74 +1149,11 @@
             "published": "2026-11-23T23:24:31+05:30"
           },
           {
-            "title": "భారత్ కు ఊహించని షాక్.. ఏకంగా 84 వ స్థానానికి పడిపోయిందిగా..!",
-            "link": "https://telugu.oneindia.com/news/international/india-passport-henley-passport-index-2026-report-india-passport-rank-falls-from-80th-to-84th-place-516223.html",
-            "source": "Oneindia Telugu",
+            "title": "Special Train: తిరుపతికి ప్రత్యేక రైలు.. రూట్ ఇదే - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnNQUXk4THgwY0NtVlFzZjFuYzFxaUNzTUd2ekxjc3JPbm12Yk5lckFzbjQzTUtnVTZRRjhOZllPVVVOc2QwbF9TN0dPVlgzaDdfLTlLamZ6XzJrMFQxQXlwcTdDNzFfZDM3VnBmay1BSkV5VTFCcjkwb2Z6MUc1U2RMdkUzd0RITTF4SFZqd3RvdTZQdTA2T0J3ckxyajNkX0RvQnZQbmZ6Q2V5Z2R1N1pwcUhqZkXSAbcBQVVfeXFMTlJzUFF5OEx4MGNDbVZRc2YxbmMxcWlDc01HdnpMY3NyT25tdmJOZXJBc240M01LZ1U2UUY4TmZZT1VVTnNkMGxfUzdHT1ZYM2g3Xy05S2pmel8yazBUMUF5cHE3QzcxX2QzN1ZwZmstQUpFeVUxQnI5MG9mejFHNVNkTHZFM3dESE0xeEhWand0b3U2UHUwNk9Cd3JMcmozZF9Eb0J2UG5mekNleWdkdTdacHFIamZF?oc=5",
+            "source": "Eenadu",
             "summary": "",
-            "published": "2026-11-23T22:56:32+05:30"
-          },
-          {
-            "title": "పోక్సో కేసులో ప్రముఖ నటుడికి ఏడాది జైలు.. సినీ పరిశ్రమ షాక్..",
-            "link": "https://telugu.oneindia.com/news/india/thrissur-court-sentenced-malayalam-actor-sreejith-ravi-to-one-year-in-prison-in-a-2022-pocso-case-516221.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T22:11:53+05:30"
-          },
-          {
-            "title": "వంగవీటి రాధాకృష్ణ, రాధాకృష్ణన్ ఎలా అయ్యారు?",
-            "link": "https://www.bbc.com/telugu/articles/c61wr3g184d8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-11-23T16:10:47+00:00"
-          },
-          {
-            "title": "బ్లాక్ ఫ్రైడే సేల్‌ లో షాపింగ్.. ఇలా చేయకపోతే మీ బ్యాంక్ ఖాతా క్షణాల్లో ఖాళీ..!",
-            "link": "https://telugu.oneindia.com/news/telangana/shopping-black-friday-sale-get-too-carried-away-by-discounts-your-bank-account-could-end-up-empty-516219.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T21:29:12+05:30"
-          },
-          {
-            "title": "ఎన్విడియా ప్రెసిడెంట్, సీఈఓగా జెన్సన్ హ్వాంగ్ పునర్నియామకం",
-            "link": "https://www.bbc.com/telugu/articles/c6ewvdnjz922o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-11-23T15:45:09+00:00"
-          },
-          {
-            "title": "ఆసియాలో మూడో స్థానం మనదే.. మోదీకి రెండో ర్యాంక్!",
-            "link": "https://telugu.oneindia.com/news/international/asia-power-index-2026-india-ranks-3rd-biggest-power-pm-narendra-modi-2nd-most-effective-leader-de-516217.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T21:11:57+05:30"
-          },
-          {
-            "title": "\"గొప్ప దేశభక్తుడు, జాతీయ సంపద\"-NVIDIA సీఈఓను ఆకాశానికెత్తేసిన ట్రంప్..!",
-            "link": "https://telugu.oneindia.com/news/international/trump-backs-nvidia-ceo-jensen-huang-calls-him-great-patriot-and-national-treasure-516215.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T20:49:26+05:30"
-          },
-          {
-            "title": "భారత్- పాకిస్థాన్ మధ్య అణుయుద్ధాన్ని ఎవరూ ఆపలేరు.. పాక్ దౌత్యవేత్త సంచలన వార్నింగ్..!",
-            "link": "https://telugu.oneindia.com/news/international/munirakram-senior-pakistani-diplomat-remarks-there-is-a-risk-of-a-nuclear-war-india-and-pakistan-516213.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T20:42:12+05:30"
-          },
-          {
-            "title": "వెల్లింగ్టన్ టెస్ట్: ఇంకా 15 ఓవర్లున్నా భారత్ మ్యాచ్‌ డ్రాకు ఎందుకు అంగీకరించింది, సిరాజ్‌ను ఎందుకు ఆడించలేదు?",
-            "link": "https://www.bbc.com/telugu/articles/cqr7gz445ezxo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Telugu",
-            "summary": "",
-            "published": "2026-11-23T14:57:34+00:00"
-          },
-          {
-            "title": "తెలంగాణలో గ్లోబల్ జాతర.. ప్రపంచ దేశాల చూపంతా హైదరాబాద్‌పైనే!",
-            "link": "https://telugu.oneindia.com/news/telangana/invest-telangana-global-summit-2026-cm-revanth-reddy-reviews-mega-multi-sector-expo-read-full-det-516203.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-23T19:36:53+05:30"
+            "published": "2026-11-23T17:33:59+00:00"
           }
         ],
         "Entertainment": [
@@ -1455,7 +1455,7 @@
           },
           {
             "title": "হল না পাওয়া নিয়ে হইচইয়ের মাঝেই মুখ্যমন্ত্রীর বার্তা! হল মালিক, প্রযোজকদের সঙ্গে আলোচনায় বসবেন শুভেন্দু - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUW5vR2o0Yk94bGR6Yk9aa0RCV1M5M2JUeGRJSWNxbjNkdUYtSE5zd3lLOFhHQWVuWnBmNTZnYnYxWVlSM3NiSS1oQ1NvS2JDOXZ4YWN5ZE40Tko0QU1Ud0gtSkJuVy1DX3Q5TC1oZnUyZU51WDN6enNQbVI0UG1nMUcwRC02NmhndXM4a2NzeTU1S3psaFBDUUtVVmpnaWhwVmUyNTBpQXhCX1NCY3UyMGQ4Yk5JNENHTGxBaGxuQVZreldjY1JEZ1BxcWM2dXVZbHVPbEdQUldkd2gtMGZWRF8zUmxnTk05MXRzV3hGdk90UmczcmhSS3lVMjZHTzBPNXUyd0ZBaFYwSmYzZE03WDRvNVowRjRsNWfSAZoCQVVfeXFMTVFub0dqNGJPeGxkemJPWmtEQldTOTNiVHhkSUljcW4zZHVGLUhOc3d5SzhYR0FlblpwZjU2Z2J2MVlZUjNzYkktaENTb0tiQzl2eGFjeWRONE5KNEFNVHdILUpCblctQ190OUwtaGZ1MmVOdVgzenpzUG1SNFBtZzFHMEQtNjZoZ3VzOGtjc3k1NUt6bGhQQ1FLVVZqZ2locFZlMjUwaUF4Ql9TQmN1MjBkOGJOSTRDR0xsQWhsbkFWa3pXY2NSRGdQcXFjNnV1WWx1T2xHUFJXZHdoLTBmVkRfM1JsZ05NOTF0c1d4RnZPdFJnM3JoUkt5VTI2R08wTzV1MndGQWhWMEpmM2RNN1g0bzVaMEY0bDVn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdjNHWVpIV2lscWhXT1FoTW5ZZHVheFp5VFhmMWpZb1huaV9hZDRJTnhfamZXdUEySkQ0ajNwX05uUl9Qc0RZQ0ZXQi1tUHJReHVIcURhcm5GbW5OWnBJYWdXWnNQWGtTeGh1d3pZQ2RFYUhIWWZEMEVZSkMtRHNEVGhkN2FPNnJ0aHFkNDFKdkRqMGdXSE44ZldGV09jamZmSzgyamszRGVPTWZGOUZ1TU9RcnhNMmsya1J1QjNXNDlfREMwb3pRQzBUQTkzR1otYUg3eTlQQWoxa05aTWdCNmJvUGRxbGdPYlZoR0tLT1FtcmM4b21ONXM4SERhZ1V4cTFoN1JEa2tGTW1SRW41NGlQbVDSAZoCQVVfeXFMTVFub0dqNGJPeGxkemJPWmtEQldTOTNiVHhkSUljcW4zZHVGLUhOc3d5SzhYR0FlblpwZjU2Z2J2MVlZUjNzYkktaENTb0tiQzl2eGFjeWRONE5KNEFNVHdILUpCblctQ190OUwtaGZ1MmVOdVgzenpzUG1SNFBtZzFHMEQtNjZoZ3VzOGtjc3k1NUt6bGhQQ1FLVVZqZ2locFZlMjUwaUF4Ql9TQmN1MjBkOGJOSTRDR0xsQWhsbkFWa3pXY2NSRGdQcXFjNnV1WWx1T2xHUFJXZHdoLTBmVkRfM1JsZ05NOTF0c1d4RnZPdFJnM3JoUkt5VTI2R08wTzV1MndGQWhWMEpmM2RNN1g0bzVaMEY0bDVn?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-23T16:36:21+00:00"
