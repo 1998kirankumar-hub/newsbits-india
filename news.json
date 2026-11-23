@@ -1,111 +1,139 @@
 {
-  "updated_at": "2026-11-23T00:31:06.649542+00:00",
+  "updated_at": "2026-11-23T01:01:29.768573+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
-            "title": "What is going on with Poundland?",
-            "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-            "published": "2026-11-23T00:22:27+00:00"
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "published": "2026-11-23T00:50:35+00:00"
           },
           {
-            "title": "Oil price cooling flattens bond curve, shifts RBI rate expectations",
-            "link": "https://economictimes.indiatimes.com/markets/bonds/oil-price-cooling-flattens-bond-curve-shifts-rbi-rate-expectations/articleshow/136085868.cms",
-            "source": "Economic Times",
-            "summary": "Yield curves for government bonds have flattened as corporate bond and OIS curves have inverted recently. State Bank of India adjusted its rate hike forecast in response to cooling oil prices. Market expectations have shifted towards a lower terminal rate than earlier anticipated, sparking interest in longer-dated bonds. Despite these changes, inflation remains a concern, particularly with rising consumer price…",
-            "published": "2026-11-23T05:48:57+05:30"
-          },
-          {
-            "title": "Bengal BJP MLA Rekha Patra on ventilator with ‘symptoms of poisoning’",
-            "link": "https://timesofindia.indiatimes.com/city/kolkata/rekha-patra-bjp-mla-from-hingalganj-on-ventilator-mystery-over-cause/articleshow/136083123.cms",
+            "title": "'I could have finished game': Tilak rues Shahbaz's dismissal after Pakistan loss",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-could-have-finished-the-game-tilak-varma-rues-shahbazs-dismissal-after-pakistan-loss/articleshow/136086106.cms",
             "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-23T05:45:36+05:30"
+            "summary": "Chasing 314, India A were struggling at 129/6 before Tilak and Shahbaz Ahmed added 112 runs for the seventh wicket to keep their hopes alive. However, the partnership was not enough as India A were bowled out for 265.",
+            "published": "2026-11-23T06:19:40+05:30"
           },
           {
-            "title": "Gunfire at California concert injures 9; 1 in critical condition",
-            "link": "https://timesofindia.indiatimes.com/world/us/gunfire-at-california-concert-injures-9-1-in-critical-condition/articleshow/136085931.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-23T05:42:37+05:30"
+            "title": "Carlos Alcaraz Downs Alexander Zverev To Win ATP Finals For First Time",
+            "link": "https://sports.ndtv.com/tennis/alcaraz-downs-zverev-to-win-atp-finals-for-first-time-12363463#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Carlos Alcaraz won the ATP Finals with a 6-2, 7-6 (9/7) victory over world number one Alexander Zverev in the title match in Turin on Sunday",
+            "published": "2026-11-23T06:18:01+05:30"
           },
           {
-            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-            "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-            "published": "2026-11-23T00:08:00+00:00"
-          },
-          {
-            "title": "Energy bills will soar - here's how you can ease the pain",
-            "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
-            "published": "2026-11-23T00:05:29+00:00"
-          },
-          {
-            "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
-            "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
-            "published": "2026-11-23T00:03:30+00:00"
-          },
-          {
-            "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-            "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
-            "published": "2026-11-22T23:59:22+00:00"
-          },
-          {
-            "title": "Mystery of the red stream in Turkiye",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
-            "published": "2026-11-22T23:57:58+00:00"
-          },
-          {
-            "title": "SIR: Voters in Karnataka challenge deletions, say officials asking them to withdraw appeals, file Form 6",
-            "link": "https://www.thehindu.com/news/cities/bangalore/sir-voters-challenge-deletions-say-officials-asking-them-to-withdraw-appeals-file-form-6/article71701977.ece",
-            "source": "The Hindu",
-            "summary": "The Hindu spoke to several people in Bengaluru who challenged their deletion, some of whom said officials had themselves submitted Form 6 applications on their behalf when they approached them seeking reversal of their deletion through an appeal",
-            "published": "2026-11-23T05:11:33+05:30"
-          },
-          {
-            "title": "Lion on the loose in Turkiye sparks fear among residents",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "",
-            "published": "2026-11-22T23:40:48+00:00"
-          },
-          {
-            "title": "Police in Karnataka prevent Andhra Pradesh Congress Committee chief Y.S. Sharmila from entering disputed property",
-            "link": "https://www.thehindu.com/news/national/karnataka/police-in-karnataka-prevent-ys-sharmila-from-entering-disputed-property/article71732226.ece",
-            "source": "The Hindu",
-            "summary": "The North East Division police of Bengaluru on Sunday stopped Y.S. Sharmila, president of the Andhra Pradesh Congress Committee and sister of YSRCP chief and former Andhra Pradesh Chief Minister Y.S. Jagan Mohan Reddy, from entering a disputed property in Yelahanka, citing an interim injunction order issued by a court in Devanahalli",
-            "published": "2026-11-23T05:09:11+05:30"
-          },
-          {
-            "title": "Welsh glamping owner loses driveway row over missing map letter; £135k bill",
-            "link": "https://timesofindia.indiatimes.com/world/uk/a-missing-letter-on-a-1964-welsh-map-sparked-a-driveway-row-after-a-glampsite-owner-tried-to-stop-neighbours-parking-in-their-own-garden-she-lost-faced-135000-in-costs-and-is-now-appealing/articleshow/136051786.cms",
-            "source": "Times of India",
-            "summary": "Carol Esteban, owner of a glamping site, is grappling with a hefty £135,000 legal bill stemming from a contentious boundary dispute with neighbors Neil and Nadine Gould. The court has granted the Goulds a right of way to their parking area, dismissing Esteban's claims. Currently, her legal team is appealing this decision, as the ruling's implications may significantly impact both the right of way and her financial…",
-            "published": "2026-11-23T04:55:00+05:30"
-          },
-          {
-            "title": "India vs New Zealand LIVE Score, 1st Test Day 5 LIVE Updates: Prasidh Krishna, Washington Sundar Strike For India, NZ 4 Down; WTC Final Scenarios Explained",
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 5 LIVE Updates: Second Session Begins, India Six Wickets Away From Big Win",
             "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-1st-test-day-5-ind-vs-nz-live-updates-cricket-match-result-scorecard-jasprit-bumrah-shubman-gill-12363110#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 5: Prasidh Krishna has joined the party! After Washington Sundar removed Devon Conway, Prasidh removed the other overnight batter Rachin Ravindra in the first session on Day 5 of the first Test",
-            "published": "2026-11-23T04:54:29+05:30"
+            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 5: The second session of the final day of the 1st India vs New Zealand Test in Wellington is underway. New Zealand are four down with Prasidh Krishna and Washington Sundar removing overnight batter Rachin Ravindra andDevon Conway.",
+            "published": "2026-11-23T06:15:11+05:30"
+          },
+          {
+            "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+            "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+            "published": "2026-11-23T00:39:51+00:00"
+          },
+          {
+            "title": "Kansas Governor-Elect Threatens Kansas City Chiefs’ $1.8 Billion Stadium Move With Funding Concerns",
+            "link": "https://sports.ndtv.com/us/nfl/kansas-governor-elect-threatens-kansas-city-chiefs-1-8-billion-stadium-move-with-funding-concerns-12363730#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Kansas City Chiefs’ planned $1.8 billion move to Kansas faces fresh political opposition as governor-elect Cindy Holscher questions the stadium funding deal and its impact on state finances.",
+            "published": "2026-11-23T06:03:37+05:30"
+          },
+          {
+            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+            "published": "2026-11-23T00:33:36+00:00"
+          },
+          {
+            "title": "$25 million to Trump's library: Did Lutnick's 'donation' save his cabinet job?",
+            "link": "https://timesofindia.indiatimes.com/world/us/25-million-to-trumps-library-did-howard-lutnicks-donation-save-his-cabinet-job/articleshow/136086003.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-23T06:03:30+05:30"
+          },
+          {
+            "title": "Jerry Jones Faces Questions After Dallas Cowboys Fan's Fatal Death At AT&T Stadium",
+            "link": "https://sports.ndtv.com/us/nfl/jerry-jones-faces-questions-after-dallas-cowboys-fans-fatal-death-at-at-t-stadium-12363715#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Jerry Jones breaks his silence after Cowboys fan Mario Narro died following an alleged fight at AT&T Stadium during the 49ers game. The Cowboys owner says the team is investigating.",
+            "published": "2026-11-23T06:03:24+05:30"
+          },
+          {
+            "title": "How Travis And Jason Kelce Turned New Heights Into A $100 Million Podcast Empire",
+            "link": "https://sports.ndtv.com/us/nfl/how-travis-and-jason-kelce-turned-new-heights-into-a-100-million-podcast-empire-12363708#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Travis and Jason Kelce turned New Heights into a podcast powerhouse, securing a reported $100 million Wondery deal after Taylor Swift helped attract a wider audience.",
+            "published": "2026-11-23T06:03:09+05:30"
+          },
+          {
+            "title": "Sensex surges 20% in dollar terms as foreign money chases India",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms",
+            "source": "Economic Times",
+            "summary": "The Sensex has increased by 20% in dollar terms this quarter, marking a potential bull market. Foreign fund flows have contributed significantly to this surge, driven by global investors seeking diversification. The rupee's appreciation has also enhanced returns for foreign investors holding Indian assets. Despite recent gains, many investors remain cautious and have yet to fully engage in the Indian market.",
+            "published": "2026-11-23T06:01:08+05:30"
+          },
+          {
+            "title": "Caitlin Clark Attends Indiana Fever Teammate Lexie Hull's Mexico Wedding With Will Matthiessen",
+            "link": "https://sports.ndtv.com/us/nba/caitlin-clark-attends-lexie-hulls-mexico-wedding-with-indiana-fever-coach-will-matthiessen-12363585#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Caitlin Clark joined Indiana Fever teammate Lexie Hull's wedding celebrations in Mexico, with a social media photo also featuring Fever player development coach, Rob Dosier.",
+            "published": "2026-11-23T06:00:21+05:30"
+          },
+          {
+            "title": "\"Player B Is Nikola\": Josh Kroenke Explains Why Denver Nuggets Chose Jokic Over Jusuf Nurkic",
+            "link": "https://sports.ndtv.com/us/nba/player-b-is-nikola-jokic-josh-kroenke-explains-why-denver-nuggets-chose-him-over-jusuf-nurkic-12363512#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Josh Kroenke recalls how the Denver Nuggets' analytics team compared Nikola Jokic and Jusuf Nurkic before choosing the Serbian center as their franchise cornerstone.",
+            "published": "2026-11-23T05:57:16+05:30"
+          },
+          {
+            "title": "Alaska dentist's child support rises from $698 to $3,780 a month; court agrees",
+            "link": "https://timesofindia.indiatimes.com/world/us/an-alaska-dentist-reported-36960-in-income-and-was-ordered-to-pay-697-94-a-month-for-four-children-but-judges-found-he-understated-his-earnings-and-raised-support-to-3780-the-states-top-court-upheld-the-increase/articleshow/136067716.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-23T05:55:00+05:30"
           }
         ],
         "India": [
           {
+            "title": "'I could have finished game': Tilak rues Shahbaz's dismissal after Pakistan loss",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-could-have-finished-the-game-tilak-varma-rues-shahbazs-dismissal-after-pakistan-loss/articleshow/136086106.cms",
+            "source": "Times of India",
+            "summary": "Chasing 314, India A were struggling at 129/6 before Tilak and Shahbaz Ahmed added 112 runs for the seventh wicket to keep their hopes alive. However, the partnership was not enough as India A were bowled out for 265.",
+            "published": "2026-11-23T06:19:40+05:30"
+          },
+          {
+            "title": "$25 million to Trump's library: Did Lutnick's 'donation' save his cabinet job?",
+            "link": "https://timesofindia.indiatimes.com/world/us/25-million-to-trumps-library-did-howard-lutnicks-donation-save-his-cabinet-job/articleshow/136086003.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-23T06:03:30+05:30"
+          },
+          {
+            "title": "Alaska dentist's child support rises from $698 to $3,780 a month; court agrees",
+            "link": "https://timesofindia.indiatimes.com/world/us/an-alaska-dentist-reported-36960-in-income-and-was-ordered-to-pay-697-94-a-month-for-four-children-but-judges-found-he-understated-his-earnings-and-raised-support-to-3780-the-states-top-court-upheld-the-increase/articleshow/136067716.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-23T05:55:00+05:30"
+          },
+          {
+            "title": "Tamil Nadu CA student cycles 100km for food deliveries, joins office in 6 months",
+            "link": "https://timesofindia.indiatimes.com/life-style/people/a-tamil-nadu-man-packed-grocery-orders-in-freezing-rooms-and-cycled-up-to-100-km-delivering-food-while-studying-for-ca-exams-six-months-later-he-joined-the-bengaluru-office-he-once-looked-at-across-the-road/articleshow/136072191.cms",
+            "source": "Times of India",
+            "summary": "Parthiban Krishnamoorthi's journey to becoming a chartered accountant was fraught with challenges. After failing the CA Intermediate exams twice, he relocated to Bengaluru, where he juggled night shifts packaging orders and cycling for deliveries to make ends meet. His determination paid off as he ultimately passed his exams and joined BDO as an Article Assistant, embodying the spirit of resilience in the face of…",
+            "published": "2026-11-23T05:50:00+05:30"
+          },
+          {
             "title": "Bengal BJP MLA Rekha Patra on ventilator with ‘symptoms of poisoning’",
             "link": "https://timesofindia.indiatimes.com/city/kolkata/rekha-patra-bjp-mla-from-hingalganj-on-ventilator-mystery-over-cause/articleshow/136083123.cms",
             "source": "Times of India",
@@ -118,6 +146,13 @@
             "source": "Times of India",
             "summary": "",
             "published": "2026-11-23T05:42:37+05:30"
+          },
+          {
+            "title": "US put 1,389 Indian children in custody in 4 years; none repatriated",
+            "link": "https://timesofindia.indiatimes.com/india/illegal-immigration-us-put-1389-indian-children-in-custody-in-4-yrs/articleshow/136082286.cms",
+            "source": "Times of India",
+            "summary": "",
+            "published": "2026-11-23T05:36:03+05:30"
           },
           {
             "title": "SIR: Voters in Karnataka challenge deletions, say officials asking them to withdraw appeals, file Form 6",
@@ -148,49 +183,42 @@
             "published": "2026-11-23T04:51:14+05:30"
           },
           {
-            "title": "Delhi's Tanjot Singh wins INSPIRE award for wool-and-cotton HEPA alternative",
-            "link": "https://timesofindia.indiatimes.com/life-style/people/tanjot-singh-a-dps-r-k-puram-student-developed-an-alternative-to-hepa-filter-using-compressed-wool-felt-and-cotton-he-won-the-national-inspire-manak-and-earlier-won-the-young-innovators-award/articleshow/136071531.cms",
-            "source": "Times of India",
-            "summary": "Tanjot Singh from Delhi Public School developed an innovative air filtration system using compressed wool felt and electrostatic cotton. His project aimed to provide a sustainable alternative to synthetic HEPA filters commonly used for air purification. Tanjot initiated this project under the INSPIRE-MANAK programme, gaining recognition for its environmental benefits. He received mentorship at IIT Delhi to refine…",
-            "published": "2026-11-23T04:50:00+05:30"
-          },
-          {
             "title": "Patrick and Brittany Mahomes' $325M stadium investment fuels NWSL title success",
             "link": "https://timesofindia.indiatimes.com/sports/nfl/news/a-sense-of-permanence-how-patrick-mahomes-and-brittany-mahomes-325-million-kansas-city-currents-purpose-built-stadium-helped-shape-its-championship-journey/articleshow/136072662.cms",
             "source": "Times of India",
             "summary": "Kansas City Current's first NWSL Championship rewarded its owners' long-term investment in women's soccer infrastructure. Patrick and Brittany Mahomes were part of the ownership group that backed the club's purpose-built stadium and training facility. Angie Long said the facilities gave the team a sense of permanence and relevance. The Current's 2-1 victory over Washington Spirit turned that vision into a historic…",
             "published": "2026-11-23T04:42:00+05:30"
-          },
-          {
-            "title": "Chiefs heiress Gracie Hunt takes charity mission to South Africa and Brazil",
-            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/chiefs-billionaire-heiress-gracie-hunt-took-her-charity-mission-beyond-america-bringing-hope-to-underprivileged-children-in-south-africa-and-brazil/articleshow/136072409.cms",
-            "source": "Times of India",
-            "summary": "Chiefs heiress Gracie Hunt took her charitable efforts beyond America, supporting underprivileged children in South Africa and Brazil. Through soccer clinics and efforts to provide sporting equipment, she helped young people experience the benefits of sports. Her work reflected a belief that athletics could build confidence, create connections and open doors for children with limited opportunities, long before she…",
-            "published": "2026-11-23T04:26:00+05:30"
-          },
-          {
-            "title": "Carlos Alcaraz scripts history, becomes just 4th player to achieve rare feat",
-            "link": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-scripts-history-becomes-just-fourth-tennis-player-ever-to-achieve-rare-feat-with-atp-finals-win-over-zverev/articleshow/136083784.cms",
-            "source": "Times of India",
-            "summary": "“You’re an absolute legend of our sport and you’re only 23 years old,” Zverev said during his runner-up speech. “If you retire tomorrow, it’s OK, you can just relax.”",
-            "published": "2026-11-23T04:13:18+05:30"
-          },
-          {
-            "title": "Illinois biker's $27.5m award cut by $10m; must accept or face new trial",
-            "link": "https://timesofindia.indiatimes.com/world/us/an-illinois-motorcyclist-badly-injured-when-a-pickup-drove-through-an-intersection-won-a-27-5-million-jury-verdict-an-appeals-court-cut-10-million-from-damages-and-gave-him-a-choice-to-accept-or-seek-a-new-trial/articleshow/136052481.cms",
-            "source": "Times of India",
-            "summary": "In a notable personal injury verdict, an Illinois motorcyclist was awarded $27.5 million for severe injuries sustained in a crash, only for the Fifth District Appellate Court to later trim the amount to $17.5 million. The court deemed the initial sum excessive, allowing the rider the choice to accept the lower amount or request a new trial, underscoring the significant effect appellate reviews can have on trial…",
-            "published": "2026-11-23T03:58:00+05:30"
-          },
-          {
-            "title": "Govt implements over 250 changes for deregulation",
-            "link": "https://timesofindia.indiatimes.com/business/india-business/govt-implements-over-250-changes-for-deregulation/articleshow/136083743.cms",
-            "source": "Times of India",
-            "summary": "Another 300 In Pipeline Based On Report By Gauba Panel",
-            "published": "2026-11-23T03:52:37+05:30"
           }
         ],
         "World": [
+          {
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "published": "2026-11-23T00:50:35+00:00"
+          },
+          {
+            "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+            "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+            "published": "2026-11-23T00:39:51+00:00"
+          },
+          {
+            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+            "published": "2026-11-23T00:33:36+00:00"
+          },
+          {
+            "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+            "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+            "published": "2026-11-23T00:18:03+00:00"
+          },
           {
             "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
             "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
@@ -246,37 +274,23 @@
             "source": "Al Jazeera",
             "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
             "published": "2026-11-22T22:19:47+00:00"
-          },
-          {
-            "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-            "published": "2026-11-22T22:01:48+00:00"
-          },
-          {
-            "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-            "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-            "published": "2026-11-22T21:33:11+00:00"
-          },
-          {
-            "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
-            "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
-            "published": "2026-11-22T21:26:12+00:00"
-          },
-          {
-            "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-            "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The couple have been together for four years and were engaged in 2025.",
-            "published": "2026-11-22T21:22:40+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+            "published": "2026-11-23T00:33:36+00:00"
+          },
+          {
+            "title": "Sensex surges 20% in dollar terms as foreign money chases India",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms",
+            "source": "Economic Times",
+            "summary": "The Sensex has increased by 20% in dollar terms this quarter, marking a potential bull market. Foreign fund flows have contributed significantly to this surge, driven by global investors seeking diversification. The rupee's appreciation has also enhanced returns for foreign investors holding Indian assets. Despite recent gains, many investors remain cautious and have yet to fully engage in the Indian market.",
+            "published": "2026-11-23T06:01:08+05:30"
+          },
           {
             "title": "What is going on with Poundland?",
             "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
@@ -285,7 +299,21 @@
             "published": "2026-11-23T00:22:27+00:00"
           },
           {
-            "title": "Oil price cooling flattens bond curve, shifts RBI rate expectations",
+            "title": "Nifty eyes 26,300 as analysts favour banking, auto and realty stocks",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-targets-26300-banks-auto-and-realty-look-strong/articleshow/136085634.cms",
+            "source": "Economic Times",
+            "summary": "Analysts anticipate a continued upward trend for the Nifty index, targeting levels around 26,000 to 26,300. Recommended strategies include buying on dips while being cautious due to overbought indicators. Key stocks include Federal Bank, Apollo Hospitals, and HDFC Life, among others. The Bank Nifty remains a favored investment due to its relative strength and momentum. Investors are advised to favor large-cap stocks…",
+            "published": "2026-11-23T05:51:55+05:30"
+          },
+          {
+            "title": "FPIs turn aggressive buyers, invest Rs 1.18 lakh crore into Indian equities in November",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-aggressive-buyers-invest-rs-1-18-lakh-crore-in-november/articleshow/136085735.cms",
+            "source": "Economic Times",
+            "summary": "Foreign portfolio investors have become net buyers of Indian equities, making substantial investments in November. They have invested over ₹1.18 lakh crore so far, indicating a strong market reversal. Previously, FPIs were net sellers, offloading equities worth around ₹5.51 lakh crore from October 2024 to mid-October 2026. The recent buying trend has occurred over 13 consecutive trading sessions, averaging around…",
+            "published": "2026-11-23T05:50:12+05:30"
+          },
+          {
+            "title": "Bond market signals softer RBI tightening as crude prices retreat",
             "link": "https://economictimes.indiatimes.com/markets/bonds/oil-price-cooling-flattens-bond-curve-shifts-rbi-rate-expectations/articleshow/136085868.cms",
             "source": "Economic Times",
             "summary": "Yield curves for government bonds have flattened as corporate bond and OIS curves have inverted recently. State Bank of India adjusted its rate hike forecast in response to cooling oil prices. Market expectations have shifted towards a lower terminal rate than earlier anticipated, sparking interest in longer-dated bonds. Despite these changes, inflation remains a concern, particularly with rising consumer price…",
@@ -332,43 +360,57 @@
             "source": "Economic Times",
             "summary": "Nifty’s breakout above 25,650 has strengthened the bullish outlook, with LKP Securities’ Vatsal Bhuva expecting the index to target 26,000 and potentially 26,500. While sustained FII buying and broader participation from IT and auto stocks support the rally, overbought conditions warrant caution. Bhuva recommends a buy-on-dips strategy and favours Tata Elxsi and Nykaa for the week ahead.",
             "published": "2026-11-22T14:14:44+05:30"
-          },
-          {
-            "title": "India does not have FANGs or MANGOes, but has WITCH companies, says PPFAS Mutual Fund’s Rajeev Thakkar",
-            "link": "https://economictimes.indiatimes.com/mf/mf-news/india-does-not-have-fangs-or-mangoes-but-has-witch-companies-says-ppfas-mutual-funds-rajeev-thakkar/articleshow/136069789.cms",
-            "source": "Economic Times",
-            "summary": "PPFAS Mutual Fund continues to hold IT services stocks despite concerns over AI disrupting traditional business models, with exposure below 10% of its portfolio. CIO Rajeev Thakkar explains why negative sentiment could create investment opportunities, how employee additions challenge the obsolescence narrative, and why the fund house remains invested in select IT, banking, energy and real estate companies.",
-            "published": "2026-11-22T13:11:30+05:30"
-          },
-          {
-            "title": "MP criticises Guernsey and Jersey company ownership register plans",
-            "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-            "published": "2026-11-22T07:22:05+00:00"
-          },
-          {
-            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-            "published": "2026-11-22T07:12:41+00:00"
-          },
-          {
-            "title": "Wall Street asks what can save AI trade after Anthropic wipeout",
-            "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout/articleshow/136067463.cms",
-            "source": "Economic Times",
-            "summary": "Wall Street is struggling to find reasons to buy as the AI trade comes under pressure following Anthropic’s lacklustre post-IPO performance. A sharp selloff in tech stocks, mounting concerns over AI-related risks and an expected Federal Reserve rate hike have dampened investor sentiment, leaving markets searching for fresh catalysts to revive the rally.",
-            "published": "2026-11-22T10:13:54+05:30"
           }
         ],
         "Sports": [
           {
-            "title": "India vs New Zealand LIVE Score, 1st Test Day 5 LIVE Updates: Prasidh Krishna, Washington Sundar Strike For India, NZ 4 Down; WTC Final Scenarios Explained",
+            "title": "Carlos Alcaraz Downs Alexander Zverev To Win ATP Finals For First Time",
+            "link": "https://sports.ndtv.com/tennis/alcaraz-downs-zverev-to-win-atp-finals-for-first-time-12363463#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Carlos Alcaraz won the ATP Finals with a 6-2, 7-6 (9/7) victory over world number one Alexander Zverev in the title match in Turin on Sunday",
+            "published": "2026-11-23T06:18:01+05:30"
+          },
+          {
+            "title": "India vs New Zealand LIVE Score, 1st Test Day 5 LIVE Updates: Second Session Begins, India Six Wickets Away From Big Win",
             "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-score-1st-test-day-5-ind-vs-nz-live-updates-cricket-match-result-scorecard-jasprit-bumrah-shubman-gill-12363110#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 5: Prasidh Krishna has joined the party! After Washington Sundar removed Devon Conway, Prasidh removed the other overnight batter Rachin Ravindra in the first session on Day 5 of the first Test",
-            "published": "2026-11-23T04:54:29+05:30"
+            "summary": "India vs New Zealand LIVE Score Updates, 1st Test Day 5: The second session of the final day of the 1st India vs New Zealand Test in Wellington is underway. New Zealand are four down with Prasidh Krishna and Washington Sundar removing overnight batter Rachin Ravindra andDevon Conway.",
+            "published": "2026-11-23T06:15:11+05:30"
+          },
+          {
+            "title": "Kansas Governor-Elect Threatens Kansas City Chiefs’ $1.8 Billion Stadium Move With Funding Concerns",
+            "link": "https://sports.ndtv.com/us/nfl/kansas-governor-elect-threatens-kansas-city-chiefs-1-8-billion-stadium-move-with-funding-concerns-12363730#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "The Kansas City Chiefs’ planned $1.8 billion move to Kansas faces fresh political opposition as governor-elect Cindy Holscher questions the stadium funding deal and its impact on state finances.",
+            "published": "2026-11-23T06:03:37+05:30"
+          },
+          {
+            "title": "Jerry Jones Faces Questions After Dallas Cowboys Fan's Fatal Death At AT&T Stadium",
+            "link": "https://sports.ndtv.com/us/nfl/jerry-jones-faces-questions-after-dallas-cowboys-fans-fatal-death-at-at-t-stadium-12363715#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Jerry Jones breaks his silence after Cowboys fan Mario Narro died following an alleged fight at AT&T Stadium during the 49ers game. The Cowboys owner says the team is investigating.",
+            "published": "2026-11-23T06:03:24+05:30"
+          },
+          {
+            "title": "How Travis And Jason Kelce Turned New Heights Into A $100 Million Podcast Empire",
+            "link": "https://sports.ndtv.com/us/nfl/how-travis-and-jason-kelce-turned-new-heights-into-a-100-million-podcast-empire-12363708#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Travis and Jason Kelce turned New Heights into a podcast powerhouse, securing a reported $100 million Wondery deal after Taylor Swift helped attract a wider audience.",
+            "published": "2026-11-23T06:03:09+05:30"
+          },
+          {
+            "title": "Caitlin Clark Attends Indiana Fever Teammate Lexie Hull's Mexico Wedding With Will Matthiessen",
+            "link": "https://sports.ndtv.com/us/nba/caitlin-clark-attends-lexie-hulls-mexico-wedding-with-indiana-fever-coach-will-matthiessen-12363585#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Caitlin Clark joined Indiana Fever teammate Lexie Hull's wedding celebrations in Mexico, with a social media photo also featuring Fever player development coach, Rob Dosier.",
+            "published": "2026-11-23T06:00:21+05:30"
+          },
+          {
+            "title": "\"Player B Is Nikola\": Josh Kroenke Explains Why Denver Nuggets Chose Jokic Over Jusuf Nurkic",
+            "link": "https://sports.ndtv.com/us/nba/player-b-is-nikola-jokic-josh-kroenke-explains-why-denver-nuggets-chose-him-over-jusuf-nurkic-12363512#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Josh Kroenke recalls how the Denver Nuggets' analytics team compared Nikola Jokic and Jusuf Nurkic before choosing the Serbian center as their franchise cornerstone.",
+            "published": "2026-11-23T05:57:16+05:30"
           },
           {
             "title": "Nawaz's all-round show trumps Tilak's ton as Pakistan A seal win",
@@ -404,48 +446,6 @@
             "source": "NDTV Sports",
             "summary": "LeBron James has been his wife's loudest cheerleader as Savannah James reflects on her journey.",
             "published": "2026-11-23T01:01:41+05:30"
-          },
-          {
-            "title": "Victor Wembanyama Admits Selena Gomez Motivation After Historic Spurs Night",
-            "link": "https://sports.ndtv.com/us/nba/victor-wembanyama-admits-selena-gomez-motivation-after-historic-spurs-night-12363132#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Victor Wembanyama scored 50 against New Orleans, admitted he wanted to impress Selena Gomez and explained his approach to scoring milestones.",
-            "published": "2026-11-23T01:01:13+05:30"
-          },
-          {
-            "title": "Kevin Durant Fires Back At Paul Pierce And Rashad McCants Over Offseason Workouts",
-            "link": "https://sports.ndtv.com/us/nba/kevin-durant-fires-back-at-paul-pierce-and-rashad-mccants-over-offseason-workouts-12363141#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Kevin Durant challenged Rashad McCants over his NBA career after the former guard questioned the Rockets star's decision to train with opposing players.",
-            "published": "2026-11-23T01:01:06+05:30"
-          },
-          {
-            "title": "Dwight Howard Revisits Kobe Bryant Feud And Reveals Why He Left The Los Angeles Lakers",
-            "link": "https://sports.ndtv.com/us/nba/dwight-howard-revisits-kobe-bryant-feud-and-reveals-why-he-left-the-los-angeles-lakers-12362956#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Dwight Howard says media coverage created the Kobe Bryant feud narrative. He also explains why Bryant's comments about his injuries had no role in leaving Los Angeles.",
-            "published": "2026-11-23T01:00:58+05:30"
-          },
-          {
-            "title": "Toss Drama At India vs Pakistan Asia Cup Rising Stars Game. This Happens Next - Video",
-            "link": "https://sports.ndtv.com/cricket/toss-drama-at-india-vs-pakistan-asia-cup-rising-stars-game-this-happens-next-video-12361838#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Pakistan A captain Abdul Samad won the toss and opted to bat during the Asia Cup Rising Stars match in Doha on Sunday but it was not without a little drama.",
-            "published": "2026-11-23T00:56:10+05:30"
-          },
-          {
-            "title": "Liverpool Thrash 10-Man Manchester United 4-0 In Mauricio Pochettino's First Match",
-            "link": "https://sports.ndtv.com/football/liverpool-thrash-10-man-manchester-united-4-0-in-mauricio-pochettinos-first-match-12363341#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Mauricio Pochettino endured a nightmare start as Manchester United manager after Liverpool struck twice inside the first 13 minutes against 10 men to set up a 4-0 win at Anfield.",
-            "published": "2026-11-23T00:51:38+05:30"
-          },
-          {
-            "title": "Asia Cup Rising Stars: Tilak Varma's 100, Abhishek Sharma's 70 In Vain As Pakistan A Beat India A In Heated Clash",
-            "link": "https://sports.ndtv.com/cricket/asia-cup-rising-stars-tilak-varmas-100-abhishek-sharmas-70-in-vain-as-pakistan-a-beat-india-a-in-heated-clash-12363405#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Skipper Tilak Varma's measured hundred and Abhishek Sharma's pitch-defying 70 remained the bright spots as India A succumbed to Pakistan A by 48 runs in a Group B match of the Asia Cup Rising Stars tournament on Sunday.",
-            "published": "2026-11-23T00:48:16+05:30"
           }
         ],
         "Technology": [
@@ -536,6 +536,13 @@
         ],
         "Entertainment": [
           {
+            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Entertainment",
+            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+            "published": "2026-11-23T00:33:36+00:00"
+          },
+          {
             "title": "Miley Cyrus marries Maxx Morando in California ceremony",
             "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
@@ -569,13 +576,6 @@
             "source": "BBC Entertainment",
             "summary": "The singer will make his debut at the festival next year as one of the event's curtain-raising artists.",
             "published": "2026-11-22T07:14:24+00:00"
-          },
-          {
-            "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-            "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Entertainment",
-            "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-            "published": "2026-11-22T07:12:41+00:00"
           },
           {
             "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
@@ -634,6 +634,34 @@
             "published": "2026-11-23T12:40:58+05:30"
           },
           {
+            "title": "IND vs NZ Live Score: पांचवें दिन के दूसरे सत्र का खेल जारी, न्यूजीलैंड 4 विकेट पर 160 के पार, कॉनवे-रचिन आउट",
+            "link": "https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-day-5-live-score-updates-commentary-india-vs-new-zealand-day-5-updates-in-hindi-2026-11-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-23T06:22:54+05:30"
+          },
+          {
+            "title": "दिल्ली: नर्सरी में दाखिले के लिए स्कूल आज जारी करेंगे अंकों का फॉर्मूला, 1 दिसंबर से कर सकेंगे आवेदन",
+            "link": "https://www.amarujala.com/delhi-ncr/delhi-schools-to-release-points-formula-for-nursery-admissions-today-2026-11-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-23T06:17:34+05:30"
+          },
+          {
+            "title": "Bisleri का पानी क्या पीने योग्य नहीं? FSSAI के सेफ्टी टेस्ट में 2 बार सैंपल फेल, मालिक कौन-कितना टर्नओवर?",
+            "link": "https://hindi.oneindia.com/news/india/bisleri-water-safety-test-fssai-sample-fail-twice-know-owner-name-turnover-history-full-detail-1689869.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-23T06:15:07+05:30"
+          },
+          {
+            "title": "नवी मुंबई में तेल के गोदाम में भीषण आग: धुएं के गुबार से भरा आसमान, दमकल की कई गाड़ियां मौके पर पहुंचीं",
+            "link": "https://www.amarujala.com/india-news/navi-mumbai-sanpada-mafco-market-oil-warehouse-massive-fire-2026-11-23",
+            "source": "Amar Ujala",
+            "summary": "",
+            "published": "2026-11-23T06:11:58+05:30"
+          },
+          {
             "title": "सुर्खियां: पीएम मोदी-बालेन शाह की मुलाकात आज, पहाड़ी राज्यों में गिरने लगा पारा; ट्रंप ने फिर ईरान को धमकाया",
             "link": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-23-november-2026-updates-on-amar-ujala-2026-11-23",
             "source": "Amar Ujala",
@@ -641,36 +669,29 @@
             "published": "2026-11-23T05:49:15+05:30"
           },
           {
-            "title": "IND vs NZ Live Score: पांचवें दिन लंच तक न्यूजीलैंड 157/4, कॉनवे-रचिन पवेलियन लौटे, भारत से अभी भी 195 रन पीछे",
-            "link": "https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-day-5-live-score-updates-commentary-india-vs-new-zealand-day-5-updates-in-hindi-2026-11-23",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-23T05:36:55+05:30"
-          },
-          {
             "title": "यूपी-बिहार समेत 8 राज्यों में घने कोहरे का अलर्ट:राजस्थान के माउंट आबू में लगातार दूसरे दिन पारा 0°C; तमिलनाडु-आंध्र में बारिश होगी",
-            "link": "https://www.bhaskar.com/national/news/mount-abu-rajasthan-temperature-drop-fog-alert-india-weather-update-139769125.html",
+            "link": "https://www.bhaskar.com/g/national/news/mount-abu-rajasthan-temperature-drop-fog-alert-india-weather-update-139769125.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-23T00:00:00+00:00"
           },
           {
             "title": "नए तरीके से लौट रहा संयुक्त परिवार का जमाना:एक ही सोसाइटी में अलग-अलग फ्लैट, लाइफ में ज्यादा दखल भी नहीं होता",
-            "link": "https://www.bhaskar.com/national/news/joint-family-model-urban-living-society-flat-lifestyle-trend-139772004.html",
+            "link": "https://www.bhaskar.com/g/national/news/joint-family-model-urban-living-society-flat-lifestyle-trend-139772004.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-22T23:49:08+00:00"
           },
           {
             "title": "भास्कर अपडेट्स:बंगाल की खाड़ी में फिर बन सकता है चक्रवाती सिस्टम",
-            "link": "https://www.bhaskar.com/national/news/bay-of-bengal-cyclone-weather-update-imd-meteorological-department-139772002.html",
+            "link": "https://www.bhaskar.com/g/national/news/bay-of-bengal-cyclone-weather-update-imd-meteorological-department-139772002.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-22T23:48:39+00:00"
           },
           {
             "title": "राहुल के सुप्रीम कोर्ट मार्च को लेकर आज सुनवाई:पिछली सुनवाई में CJI बोले थे- हमें कोई धमका नहीं सकता; 12 अक्टूबर को विपक्ष ने मार्च निकाला था",
-            "link": "https://www.bhaskar.com/national/news/supreme-court-hearing-rahul-gandhi-opposition-march-delhi-139767772.html",
+            "link": "https://www.bhaskar.com/g/national/news/supreme-court-hearing-rahul-gandhi-opposition-march-delhi-139767772.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-22T23:35:00+00:00"
@@ -684,31 +705,10 @@
           },
           {
             "title": "सरकारी ‘खजाने’ में ₹1.32 लाख करोड़:फिर भी देश में आम आदमी इलाज का 67% तक खर्च खुद ही उठा रहा",
-            "link": "https://www.bhaskar.com/national/news/india-health-expenditure-report-out-of-pocket-expenses-nha-cag-139771969.html",
+            "link": "https://www.bhaskar.com/g/national/news/india-health-expenditure-report-out-of-pocket-expenses-nha-cag-139771969.html",
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-22T23:33:39+00:00"
-          },
-          {
-            "title": "मॉर्निंग न्यूज ब्रीफ:सोना सस्ता होने पर व्यापारी बोले- PM मोदी ने बचा लिया; चीन में एनवीडिया चिप की तस्करी; ₹1600 करोड़ पार रामायण की कमाई",
-            "link": "https://www.bhaskar.com/national/news/dainik-bhaskar-morning-news-brief-morning-news-brief-gold-price-drop-nvidia-smuggling-rahul-gandhi-139768714.html",
-            "source": "Dainik Bhaskar",
-            "summary": "",
-            "published": "2026-11-22T23:10:00+00:00"
-          },
-          {
-            "title": "भारत में डिजिटल सुविधाएं बढ़ीं: 83 फीसदी घरों में इंटरनेट, पर 40% ग्रामीण जेन-जी ईमेल की पहुंच से दूर",
-            "link": "https://www.amarujala.com/india-news/rural-india-digital-skills-gap-40-percent-youth-cannot-use-email-rbi-report-2026-11-23",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-23T03:49:27+05:30"
-          },
-          {
-            "title": "PM मोदी-बालेंद्र शाह की आज अहम मुलाकात: अयोध्या-जनकपुर रेल लिंक का होगा उद्घाटन; कई बड़े समझौतों पर लगेगी मुहर",
-            "link": "https://www.amarujala.com/india-news/pm-modi-and-nepal-pm-balen-shah-to-hold-talks-unveil-ayodhya-janakpur-rail-link-2026-11-23",
-            "source": "Amar Ujala",
-            "summary": "",
-            "published": "2026-11-23T03:05:39+05:30"
           }
         ],
         "Entertainment": [
@@ -804,6 +804,20 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "સરકારી ‘ખજાના’માં ₹1.32 લાખ કરોડ:છતાં પણ દેશમાં સામાન્ય માણસ સારવારનો 67% સુધીનો ખર્ચ પોતે જ ઉઠાવી રહ્યો છે",
+            "link": "https://www.divyabhaskar.co.in/national/news/india-healthcare-costs-common-man-medical-burden-report-2026-139772055.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-23T00:57:18+00:00"
+          },
+          {
+            "title": "રાહુલની સુપ્રીમ કોર્ટ માર્ચને લઈને આજે સુનાવણી:પાછલી સુનાવણીમાં CJI બોલ્યા હતા- અમને કોઈ ધમકાવી નહીં શકે; 12 ઓક્ટોબરે વિપક્ષે માર્ચ કાઢી હતી",
+            "link": "https://www.divyabhaskar.co.in/national/news/rahul-gandhi-opposition-leaders-supreme-court-march-hearing-139772050.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-23T00:43:03+00:00"
+          },
+          {
             "title": "મોર્નિંગ ન્યૂઝ બ્રીફ:ઉત્તર-પૂર્વીય પવનો ફૂંકાતા રાજ્યમાં ઠંડી વધી, સોનું સસ્તું થતાં વેપારીઓ બોલ્યા- PM મોદીએ બચાવી લીધા; ચીનમાં એનવિડિયા ચિપની દાણચોરી",
             "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-gujarat-weather-north-east-wind-blowing-winter-139767497.html",
             "source": "Divya Bhaskar",
@@ -872,20 +886,6 @@
             "source": "Divya Bhaskar",
             "summary": "",
             "published": "2026-11-22T10:04:56+00:00"
-          },
-          {
-            "title": "પરસોત્તમ સોલંકી : 'મુંબઈમાં નવ-નવ કેસ, ટાડામાં અટકાયત' બાદ ગુજરાતમાં કોળી સમાજના 'ભાઈ' બનવા સુધીની સફર",
-            "link": "https://www.bbc.com/gujarati/articles/crgj350jyxjjo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-22T09:58:19+00:00"
-          },
-          {
-            "title": "'કોક ત્રિભેટે થઈશું ભેળા, લ્યો હવે ફંટાય છે કેડી'; ગુજરાતી સાહિત્યના પ્રસિદ્ધ કવિ રાજેન્દ્ર શુક્લનું અમદાવાદમાં નિધન",
-            "link": "https://www.bbc.com/gujarati/articles/cmvg2nz8rwv4o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-22T09:26:40+00:00"
           }
         ]
       }
@@ -1072,88 +1072,88 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "పంచాయతీ ఎన్నికల్లో అన్నదమ్ముల సవాల్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42OEFVcHBiaGMzNk0xZ3c3UlZ3NHcwRDRwZWtrZzdCZmJqcWFDUmpaMkEyS0JfM2twVHRzczFhMFNuQlFpeG5jazJOS21BWm5sVjJ1WkYtV2VJaEtOUTFsSTZ1LThVOUhlVHRaOU8yQ1A5T21QdURyclc3ennSAXxBVV95cUxONjhBVXBwYmhjMzZNMWd3N1JWdzR3MEQ0cGVra2c3QmZianFhQ1JqWjJBMktCXzNrcFR0c3MxYTBTbkJRaXhuY2syTkttQVpubFYydVpGLVdlSWhLTlExbEk2dS04VTlIZVR0WjlPMkNQOU9tUHVEcnJXN3p5?oc=5",
-            "source": "Eenadu",
+            "title": ".",
+            "link": "https://www.sakshi.com/web-stories/astrology/today-horoscope-telugu-2967944",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:21:24+00:00"
+            "published": "2026-11-23T00:42:35+00:00"
           },
           {
-            "title": "మీ ఇష్టం వచ్చినట్లు మాట్లాడతారా? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JM3BRNW1VTUMtZEZacDR0SEYtaEIxckZlX3dUTG9GdXc1cEJsd3JCY2w0Z0lWNlhWVzQySms0R0NON1Nwdi1KQmdfNFlUNmRJQWswZDMwclhlUFVSb3NjUWRDLUJkZWtVTDNNd3VqOGhwcjhNVjFvSnJiY0nSAXxBVV95cUxOSTNwUTVtVU1DLWRGWnA0dEhGLWhCMXJGZV93VExvRnV3NXBCbHdyQmNsNGdJVjZYVlc0MkprNEdDTjdTcHYtSkJnXzRZVDZkSUFrMGQzMHJYZVBVUm9zY1FkQy1CZGVrVUwzTXd1ajhocHI4TVYxb0pyYmNJ?oc=5",
-            "source": "Eenadu",
+            "title": "నేటి రాశి ఫలాలు : కుటుంబసభ్యులతో కొద్దిపాటి వివాదాలు",
+            "link": "https://www.sakshi.com/telugu-news/astrology/today-horoscope-telugu-23-11-2026-2967943",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:19:35+00:00"
+            "published": "2026-11-23T00:40:51+00:00"
           },
           {
-            "title": "ఉద్యోగం వదిలి సాగులోకి.. 78 దేశాలకు ‘పసుపు’ ఎగుమతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vYmxLbG9aREMzRmhhVmhqSXBqZm9SQTA1b0FZZGdNUmtoT1ZMWllHeFBWd0M1VjRlMzdJcWxPX3BVQThjei1kdEZfLXBKQzlhcXV4NG5zbWF2dFFBTE1DXzdpLUJ2QVppeDJ3RFhnUWrSAXBBVV95cUxNb2JsS2xvWkRDM0ZoYVZoaklwamZvUkEwNW9BWWRnTVJraE9WTFpZR3hQVndDNVY0ZTM3SXFsT19wVUE4Y3otZHRGXy1wSkM5YXF1eDRuc21hdnRRQUxNQ183aS1CdkFaaXgyd0RYZ1Fq?oc=5",
-            "source": "Eenadu",
+            "title": "ఫణిగిరి ప్రదక్షిణకు వేళాయె",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967942",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:19:17+00:00"
+            "published": "2026-11-23T00:18:01+00:00"
           },
           {
-            "title": "చివరి గంటలో నమోదైన ఓట్ల రికార్డులు గల్లంతయ్యాయి: కాంగ్రెస్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QWU91MGxWQmJPWWFrUHdkSDFfRzIzdzltbUhXb0dCRmxOUEdjRFZTTDJxZ3FwS2tVbXdiQ3ZSa1VsWWNPUnpjR2ZOdHFYSlR4QW5PMlBzeTFUSmhVMXNYZUVQTFA3QzFhLWNmQVEwVWvSAXBBVV95cUxPUFlPdTBsVkJiT1lha1B3ZEgxX0cyM3c5bW1IV29HQkZsTlBHY0RWU0wycWdxcEtrVW13YkN2UmtVbFljT1J6Y0dmTnRxWEpUeEFuTzJQc3kxVEpoVTFzWGVFUExQN0MxYS1jZkFRMFVr?oc=5",
-            "source": "Eenadu",
+            "title": "జాఫ్రా రైతుకు ధరల దెబ్బ!",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967941",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:18:06+00:00"
+            "published": "2026-11-23T00:18:01+00:00"
           },
           {
-            "title": "నాలుగేళ్ల తర్వాత అగ్నివీరుల పెళ్లికి గ్రీన్‌ సిగ్నల్‌? - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kdk1mRVlKcGNmT2lZbWxzSk4zUGNWRkZGSUpDUkE5VHBCMzJBQXBzOWJQbS14SFNuYnJVUkhLZ0M0aXAtZ0xDU1lFbUxEMVJSeDB4cnNGTjVvNzBUYkFFd2pRUHE2UDRPRmlza0IyRVPSAXBBVV95cUxOZHZNZkVZSnBjZk9pWW1sc0pOM1BjVkZGRklKQ1JBOVRwQjMyQUFwczliUG0teEhTbmJyVVJIS2dDNGlwLWdMQ1NZRW1MRDFSUngweHJzRk41bzcwVGJBRXdqUVBxNlA0T0Zpc2tCMkVT?oc=5",
-            "source": "Eenadu",
+            "title": "కొలువుదీరనున్న పురపాలకులు",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967940",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:17:31+00:00"
+            "published": "2026-11-23T00:18:01+00:00"
           },
           {
-            "title": "త్వరలో మహిళా రిజర్వేషన్ల అమలు: భాజపా - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0ZFM3U2hjVVJKUzVMWVltSGVaTHlaR3diQ2FSY2p0QkdBc2pvUWpiTVVscTM2UWhMNkFrU2dxckpHNl9SOENMUUlROE01MXBNd2dlTHdkOHF2QzBMcXJFdVhvN3c3Z0xrWEpLZU1WU0fSAXBBVV95cUxQdGRTN1NoY1VSSlM1TFlZbUhlWkx5Wkd3YkNhUmNqdEJHQXNqb1FqYk1VbHEzNlFoTDZBa1NncXJKRzZfUjhDTFFJUThNNTFwTXdnZUx3ZDhxdkMwTHFyRXVYbzd3N2dMa1hKS2VNVlNH?oc=5",
-            "source": "Eenadu",
+            "title": "ప్రకృతి ఒడిలో పర్యాటకుల సందడి",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967939",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:15:27+00:00"
+            "published": "2026-11-23T00:18:01+00:00"
           },
           {
-            "title": "వార్డు సభ్యులంతా ఏకగ్రీవమైన గ్రామాల్లో.. పోలింగ్‌ కేంద్రాల విలీనం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Sko3Z1h1cW96VUhQZzVycC1raDlYbEp2NGF6WDl1bUd2YW1ndnVuSGNoT0J1WUtfMEdWRVlWRlA0UkVpWHAzM29hSTAwQkRsdmNyYy1MRC1CTkJ1RzNCNDVLaEJ3TERjc0Z0NjI3YWhlM1g3TllndUNPcmXSAXxBVV95cUxQOUpKN2dYdXFvelVIUGc1cnAta2g5WGxKdjRhelg5dW1HdmFtZ3Z1bkhjaE9CdVlLXzBHVkVZVkZQNFJFaVhwMzNvYUkwMEJEbHZjcmMtTEQtQk5CdUczQjQ1S2hCd0xEY3NGdDYyN2FoZTNYN05ZZ3VDT3Jl?oc=5",
-            "source": "Eenadu",
+            "title": "రేపు హేమగిరి తిరిగొద్దాం రండి..",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967938",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:14:42+00:00"
+            "published": "2026-11-23T00:12:01+00:00"
           },
           {
-            "title": "‘పల్లె’వించిన ఏకగ్రీవ మంత్రం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHaDlsMUVwX1FlM241NTZEekNsdGkwSHNjOEdsMGljUXZEM2sxcXoyTE42aWhKQWUzejVjT01aSVFod245cXB6bUFmWjFHdnRRbDlhdkhJSGtja3lBODQ1TUlldmFrRzFKZm5oRkdjSjZpN2E5N1NWcjJDMWTSAXxBVV95cUxQR2g5bDFFcF9RZTNuNTU2RHpDbHRpMEhzYzhHbDBpY1F2RDNrMXF6MkxONmloSkFlM3o1Y09NWklRaHduOXFwem1BZloxR3Z0UWw5YXZISUhrY2t5QTg0NU1JZXZha0cxSmZuaEZHY0o2aTdhOTdTVnIyQzFk?oc=5",
-            "source": "Eenadu",
+            "title": "రాంబిల్లిలో టీడీపీ శ్రేణుల ఆందోళన",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967937",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:12:07+00:00"
+            "published": "2026-11-23T00:12:01+00:00"
           },
           {
-            "title": "ప్రతిధ్వనించిన శరణు ఘోష - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hSVRsVGtkZzIwQk9DajJRb0N4OGhVUGR4WmZsbVpPU1ZkS3JDVUNxVy1NWmV4MVUyaXhrOWQ1dWQ5elhPaUZUb0FGNlNKR09ZcEY3bXlBTm9BVWdmc3pfZWJwdU4yX2pOaEdHMi11eEpNQVFRdE0ydDFFcmzSAXxBVV95cUxOYUlUbFRrZGcyMEJPQ2oyUW9DeDhoVVBkeFpmbG1aT1NWZEtyQ1VDcVctTVpleDFVMml4azlkNXVkOXpYT2lGVG9BRjZTSkdPWXBGN215QU5vQVVnZnN6X2VicHVOMl9qTmhHRzItdXhKTUFRUXRNMnQxRXJs?oc=5",
-            "source": "Eenadu",
+            "title": "జనగణన విధుల్లో తప్పిదాలకు తావివ్వొద్దు",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967936",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:08:22+00:00"
+            "published": "2026-11-23T00:12:01+00:00"
           },
           {
-            "title": "సర్పంచి బరిలో ఆర్‌.నారాయణమూర్తి సోదరుడి కుమారుడు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRYlcwdVBCS3lxSWxyQWxZLV9WY1ZFY2tpRzFzNjZnd3BsX2VJN1dqdjN6NEU3aGRTQUl5TmxYX0hadXluT2NwcVdhcDBtOXVSUkt1QzluV1lhMGNRQklNWVM4UVE2aTFId09PeElBWEw4UHBVZ3BUbE9TMU1zUQ?oc=5",
-            "source": "Eenadu",
+            "title": "పంచారామాలకు బస్సు సర్సీసు",
+            "link": "https://www.sakshi.com/telugu-news/anakapalle/2967935",
+            "source": "Sakshi",
             "summary": "",
-            "published": "2026-11-23T00:07:03+00:00"
+            "published": "2026-11-23T00:12:01+00:00"
           },
           {
-            "title": "ప్రాజెక్టులు తెస్తుంటే అడ్డుకుంటారా?: లోకేశ్‌ - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBySkkwWG5xYXJIRFUzNGJaSjJJTElwazlUdTFJVDBRMWtVeWUtUDZqcVZxZkJNTnNNOG83cDlHX2tudGx2aUQ3eHRSVTN6SXhRVkpuVlhiQjNtcmoySjV1b2ZLY1N4ME9rOTJhb3YyY3VQQWYwVVpNRDJsTVbSAXxBVV95cUxQckpJMFhucWFySERVMzRiWkoySUxJcGs5VHUxSVQwUTFrVXllLVA2anFWcWZCTU5zTThvN3A5R19rbnRsdmlEN3h0UlUzekl4UVZKblZYYkIzbXJqMko1dW9mS2NTeDBPazkyYW92MmN1UEFmMFVaTUQybE1W?oc=5",
-            "source": "Eenadu",
+            "title": "ఘోర రోడ్డు ప్రమాదం.. 8 మంది మృతి, ఇద్దరికి సీరియస్..",
+            "link": "https://telugu.oneindia.com/news/india/tamilnadu-horrific-road-accident-in-tamil-nadu-8-dead-two-in-critical-condition-tamil-nadu-news-516069.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-23T00:06:14+00:00"
+            "published": "2026-11-22T23:15:20+05:30"
           },
           {
-            "title": "పీజీ మెడికల్‌ రెండో విడత కౌన్సెలింగ్‌కు ఆప్షన్లు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2ZklGbDN0NUREV2xhMm84ZDU0enh3SU1rUm9QU1RnTkNfcXZPVUU0Ry1LUV9WbGd0aDA4bEpWZUY5dWdBUGdOUmR4eTllTDlsZnpJem9pUkpXMzFWYkJCZFVNd1dWY2xSZWg3R2N4S3JCcTU3aEZ1dFFrZEnSAXxBVV95cUxQNmZJRmwzdDVERFdsYTJvOGQ1NHp4d0lNa1JvUFNUZ05DX3F2T1VFNEctS1FfVmxndGgwOGxKVmVGOXVnQVBnTlJkeHk5ZUw5bGZ6SXpvaVJKVzMxVmJCQmRVTXdXVmNsUmVoN0djeEtyQnE1N2hGdXRRa2RJ?oc=5",
-            "source": "Eenadu",
+            "title": "రేవంత్ రెడ్డికి కేటీఆర్ సవాల్.. కాంగ్రెస్‌ హామీలు అమలు చేస్తే రాజకీయం వదిలేస్తానంటూ..",
+            "link": "https://telugu.oneindia.com/news/telangana/ktr-challenge-revanthreddy-says-he-will-quit-politics-if-the-congress-party-implements-its-promises-516067.html",
+            "source": "Oneindia Telugu",
             "summary": "",
-            "published": "2026-11-23T00:01:52+00:00"
+            "published": "2026-11-22T22:20:09+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,60 +1426,11 @@
       "categories": {
         "Top Stories": [
           {
-            "title": "মিঠুন চক্রবর্তীকে ডি লিট দিচ্ছে বর্ধমান বিশ্ববিদ্যালয়, সম্মান জি পার্থসারথি ও ভূপেন্দ্রনাথ গোস্বামীকেও - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmlEdnA2ZEg4NlFJd2pmcndpRmNPdlFtaDhYeXM2V2czV2k4dVJHWE9tVnd4eXJ4bnlMblUxbUZialRNMGp5LXp6NGZWekNlZDlrSnRiTnB6MEMxdkk5U2tXUUtBNEMyQ0VSU1NIS3MyNlJQc01ZNG1ONzZ6UzFRRHBSTFphU1BhcHU0Y1dmdEVuRnUyVHR2Q2ZlOGJDZl9BNVBkVUhn0gGmAUFVX3lxTE5aaUR2cDZkSDg2UUl3amZyd2lGY092UW1oOFh5czZXZzNXaTh1UkdYT21Wd3h5cnhueUxuVTFtRmJqVE0wankteno0ZlZ6Q2VkOWtKdGJOcHowQzF2STlTa1dRS0E0QzJDRVJTU0hLczI2UlBzTVk0bU43NnpTMVFEcFJMWmFTUGFwdTRjV2Z0RW5GdTJUdHZDZmU4YkNmX0E1UGRVSGc?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T19:33:29+00:00"
-          },
-          {
-            "title": "আজকের দিন কন্যা রাশি- ২২ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3NBY1VFWXl5Vl9SeEViNGZMVk90MzI4RS1kVC15cnNxUU9ZNjFfVVF0Q19qLUtnRDFNTTJzenhLeUdlaUV5ZlRvUjFFVGFwY0FGNVVUQmhqQ09CSHBac2hGM2thSk5HWGpHb3kyYnRWZTFsZGJfc21fbkw2OGYwMTBXZzg1UzFMbzB6N2tMRUE4Uy1Ec1ZPZDFDYVM0N1RpR0R5Vkl1NlVNTVg5aXfSAbMBQVVfeXFMTmlpQV94NFVRTWFVdVV3RURwNnlKQlJ2eU1XQTRscEhNOW9oZk9ySzhYRWo4M05rV3hIVEJWZ0k0R3VEVzJkWnlkTmxLSWVZSmQ4R19fTnV2U1NlRW9WNzZ3QkhnZzBqLUF0cWpaaWVMU18wQktFVUVPMDBHbW5VcmYwMmpCNDdobW5TT09LZC1iRExPUEpVUFZ4NDJMYzBYN1BXbExVWG15SWdSTU5CaFMtMms?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T19:28:15+00:00"
-          },
-          {
-            "title": "কোচ বদলেও হাল বদলাল না ম্যাঞ্চেস্টার ইউনাইটেডের, লিভারপুলের কাছে চার গোল হজম পোচেত্তিনোর দলের - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0E3ampLM0ZreVFiaWQtVUg1MGVUSTY3bDBhRTJQamVzOVNabU93UDkxTzUwNzNqTTFxOExtZVoxejhPb3FmMmR4UURLU0wwTWVRYTdER3YzMlRtQWpLb3Exdk9wNmJRRURxb0xHZkdGdnBDdmNnbjhaWGdhYTRyMC0zejJtMDB3aHRSTnNHaGp2OEhrTlZibnBneWZEc19VLXA00gGoAUFVX3lxTFBvc0pScmlReU5MTjNkVS0xMGQ4QVNYQ1JNSTgwRjZ6QlpfS0NrSUVjMDRPZ0dnV2RSOHV5UThfdzN1RU1HYWxaTW9nZk56NnB4VDdPdUdlVmZ1RmNfNlVrYUhmMm50a0RRZmItRXdMR1hCeE5xWGFNV2hqQm5JajBZbTkzZmVLcThsdmZVMVNXUDZ1QWNrUmlUMjFLbXFLdFBnQXlZczdGcg?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T18:28:38+00:00"
-          },
-          {
-            "title": "উৎসবের মরসুম পার হতেই মনখারাপ! হাতে মাত্র এক মাস, বড়দিনে বাড়ির ভোল বদলে দিতে কী মাথায় রাখবেন? - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0FpYWZnaGd0X253WXlBQklDNDZHU0tqTmJzUEVmYmN3OXFIQVpKQkZCcUdFSExRTWhfRDl6QmRBZ1psU1VUZ0taUEFYak94ZU9La3ZFQUJ2RGZiVnptZlNkdTZaRHE4SWtjbTZ2LS11bVFKZGlzdC1Cal9NRmtLeUlQc2VlQU9uT2tkMkg5M0hpTHcyOUIyaXFXWXNEWlJKS1ZNV3ZmN0RJOHpLVjlHcFB2b0xMU1pkVjR0czZwQmtOWGJyQ1Zzd0NONG9mMzNfaUs1V1pxdkhBbFRhc290VG50VzJmQ2Yyd2hZUlhGaGjSAfABQVVfeXFMT2tBaWFmZ2hndF9ud1l5QUJJQzQ2R1NLak5ic1BFZmJjdzlxSEFaSkJGQnFHRUhMUU1oX0Q5ekJkQWdabFNVVGdLWlBBWGpPeGVPS2t2RUFCdkRmYlZ6bWZTZHU2WkRxOElrY202di0tdW1RSmRpc3QtQmpfTUZrS3lJUHNlZUFPbk9rZDJIOTNIaUx3MjlCMmlxV1lzRFpSSktWTVd2ZjdESTh6S1Y5R3BQdm9MTFNaZFY0dHM2cEJrTlhickNWc3dDTjRvZjMzX2lLNVdacXZIQWxUYXNvdFRudFcyZkNmMndoWVJYRmho?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T15:35:52+00:00"
-          },
-          {
             "title": "নড়াইলের কালিয়ায় আগুনের ঘটনায় সরেজমিনে যা দেখলেন বিবিসির সংবাদদাতা",
             "link": "https://www.bbc.com/bengali/articles/c5rmg39vz8kwo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-22T14:56:53+00:00"
-          },
-          {
-            "title": "আপনার আজকের দিন- ২৩ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2JNYjlUV0ZFeHl3R09KYk9MdHp5dkxycXJsT0F1RVRxaVVDUkxNOWFCTTNiOGlYd3hwZHUxd1djN1pHWjlhQ0tpQzl5M3ZtY2tidUdsVGhVWEh6SUZTV2FsYlVtMTBBWk1MX3JHZ00yTldHZTZPN3I2QzVzZTFJUEx6WFBMQ1FBWlc5b3VjbUt0c2x1UG9FZnZGSWo4bWlHZElIeUZYbkk0Qzl6WTlxSVk5M3g5aGN2NTVFbNIBwgFBVV95cUxQcmtQc1BSaDIwUEtwYVVwcVVxTHBnNmdYeDd3dHg5YkJtM3hxZUlpRDFWb2NYc2NTS0Uwb3Rhc1lnX1hWcUhzN1VXcmdOQWxpaTFXVnRIZzlJMFF3YndNUUNPbXpIeGVuSk50a05fcXlpa2JtRS0wR2U4QWJsYnI4Qi1CYzVydXhVZ28zNEw3TUdyS0loaERILU8zN0MwZ0pud21aVlRaZklGYjMtMFVJczNyQVpZalBETGtCUnRseFVEUQ?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T13:40:14+00:00"
-          },
-          {
-            "title": "আজকের দিন তুলা রাশি- ২৩ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMER6dnZ3eXlzaldKdkhGMjJmdHhNMnB2XzBrT2pqMm13NWdMTzVPZW1aV1hxS1VuN1hlelpxT3hVRGVsLUdvX2JMVEx0cDRvU3dJQ1dHYkE0YmdrLVpWcnVBbnE3LXlXbjhZeEtNSDdPcXZHaDlHNjJVSTBZYlRUUnhaU1FvRXE4ekN3bmdlSWxhNTBaeGdMaDRadTlTNm9rcERQNzVfLWJQMjBU0gGyAUFVX3lxTE03ZEtpck5kR0hKWmY1RjU5alozdFo1cGgzeTZFa3A0WFZMTWFFNnU3MTNQVlpXSzhZdDFtaEU2Y09uNEdQYld0VkYta1Z6azg0bm5qT01lTVhHUHdsTDUzZE16V3NFd2E4NkZzeTMtOHlGZHYxek9ZSzlFNnlxcmVmZGJVVkJvTG1LZGx1QWJnSHZOOEtuVzVTWVpsVXNFdFJuTWo0YkVRUjhlS1cxeFRtYVE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T13:28:22+00:00"
-          },
-          {
-            "title": "আজকের দিন কন্যা রাশি- ২৩ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXB1eDJjLXp3SWhSZldldnBlMnBETEp6cm16TnlZSDlEREJUUHFrMEw1MHZjQ3hkMkdLbXZjTEJjMzEzUnNpSllNemVjWG1iVWhyeGhmRmhXakl2dF9Ud19GM0R1WUduLTdjcFJ1R3lsdjcweW9qdGZCV3dLeFBHZWd0VDZCTlJ4XzZTRVU5MFhaY3JNUXZQcW1MM1dNUmNERkZ4bVliTXk0Tm9sQVHSAbMBQVVfeXFMT0FqRkNocU54SGo3dERUT3J1VGIwYmlncS1XUmtNVFJEMkc5S3dVSjRlNWZLeDQ1OVZ4V1ZmVWlvY0Nud3NYYjN2TF9NazRnN00tVXBWTjFrVFppN0dVTFpnRGw2LTJkeGtrOUV5NVZhVEttdnF6ZzRTT0VNZHl1dlhKUnpySUR3TFZiZFktR3E4Y3JJOVJRcUNERWhXQjhERmtvR0tnbXBYOTNjYW9MVEc5RUE?oc=5",
-            "source": "Anandabazar Patrika",
-            "summary": "",
-            "published": "2026-11-22T13:26:59+00:00"
           },
           {
             "title": "চলমান রাজনৈতিক সহিংসতার শেষ হবে কীভাবে?",
@@ -1489,25 +1440,74 @@
             "published": "2026-11-22T13:18:05+00:00"
           },
           {
-            "title": "শীতে ঘুরতে যাচ্ছেন? গরম জামার ভিড়ে হাতছাড়া হচ্ছে না তো এই জরুরি জিনিসগুলি? মিলিয়ে নিন - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUVzaEY0alRsVlJlNXFlVjZraGFiWEFvYzBfQVNIRGlYSmtubkcxbUJYYlpKZWpWTC14dVAzWV9tdjFENDB5LUdpbklKMXZ4VUZzSzVUMmZJVmhmNmUtTjRkdTJMT3RTWEl2QWY4YzJPLS05Vkl1dDRGcXJzcEQyTkdqejVsMWZuZjktazlNblVYLU1ua0lpZHMyV1hvWGhESVRiVGp5YzRydUNYM0dMSEd1VXVoMm81Y3IyYl8ta2kxaFVfVDRzNEc4OHFuN2syMVZxQtIB2gFBVV95cUxONG1aSmVGM3FYZXdRSWdiOXlFX2xNLXhqZDJpcFZBTHJYV0VPR2lJeGZNNmd6aUxsSTRqbm0wMkM0RmZvSTN3bm1ocS1obDlaVXpteDZsYmRza09PRW90UF81d08wZjlWTGZUWnZMTXZ6MG9FT2FpYnJCLXRseTQ2UGJRbnVCMUxDT1p2aXBnT0FqZ3h4cUM1QWpGblo2UDRFNWgzUkR2NTh4YlRJZ1BmbmtTM3Rhd2lCdGRsdVE0OFlaSmFUYXZPc2FSb3VjSjJsVTRlZGw2U0FLQQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "অল্পবয়সীদেরও স্ট্রোকের ঝুঁকি, যেসব উপসর্গ উপেক্ষা করা উচিত নয়",
+            "link": "https://www.bbc.com/bengali/articles/cmvgxxq4pzzxo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-11-22T13:05:57+00:00"
+            "published": "2026-11-22T06:15:54+00:00"
           },
           {
-            "title": "তোলা না পেলে ভিডিয়ো কল করে খুনের হুমকি! মালদহের আকাশকে ধরতে পুলিশকে বার্তা মন্ত্রীর - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaW16dGR0NEVLMGhKaVBOdl83TFNueWY0MTFXZGFwaUI4MUVYNG5hYWZ0Z2pOMjU2MVdGLVh5eHF1VGJkUWQ2VWV4NWNQQmxZVjZmNUx5Y1EyMHMycXJ3Tk5nQVlOdVhDOTBpSXZkV1N4WHR4d2o2cXpnY3U4R1B5ZmpmbFhkSWtOLVZHQXhmRlA1VFFpV0F0Nk5fNUdmZHVSZGh2aHllYWktbTVKWEtFUDJn0gG3AUFVX3lxTE8teFNYN05OVDNrMk5NUHpER3FjbWg4OXBzaFJxX3lBV1I2UG83WjdPdFhzd0gtZ0VHYXlOUWNCbHBvbVpTVi1aRE5MdkRRTUFYTTdPTUg1RXZqZUVkWFRwc21leDFSb2JMV1g5VGFJcEpFVXBHSzNEYk02MnJsVDlmVlFUWHltVjZiZ3Y5bFZlNE50b3pWQjhVTS1UT2M2TGhLQUVhb05uckxLWTFCNXV3R2ZfMHBXRQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "যুক্তরাষ্ট্রে 'মাদকের ঢল নামানো' মেক্সিকোর 'মাদক সম্রাট' যেভাবে আটক হলো",
+            "link": "https://www.bbc.com/bengali/articles/ck987gp5g8jlo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-11-22T10:46:01+00:00"
+            "published": "2026-11-22T03:45:15+00:00"
           },
           {
-            "title": "Daily Bengali Horoscopes, Ajker Rashifal, Free Today’s Bangla Rashifal, দৈনিক রাশিফল - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84dDVzdVRJMVpvcWZsZkQyMkRnSHN6ZUV4Tm41UGNwRi11OWQxd2JQaGdLQWd4aVhfQUdpWG1EaEdlZ2xHc1kxNHVkcnRKME91QWZPTEhVOFAyQQ?oc=5",
-            "source": "Anandabazar Patrika",
+            "title": "পত্রিকা: 'দেশি-বিদেশি চাপে পোশাক খাত, রপ্তানি ও দাম কমছে'",
+            "link": "https://www.bbc.com/bengali/articles/c60qjn5583zyo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
             "summary": "",
-            "published": "2026-11-22T10:36:23+00:00"
+            "published": "2026-11-22T03:11:01+00:00"
+          },
+          {
+            "title": "বাথরুমে গোপন বৈঠক, কেজিবি, এমআই-৬ ও ইসলামি প্রজাতন্ত্রের মাঝে আটকে পড়া এক গুপ্তচর",
+            "link": "https://www.bbc.com/bengali/articles/cqp8g3yej67lo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-22T01:39:55+00:00"
+          },
+          {
+            "title": "নড়াইলের কালিয়ার বাড়িঘরে আগুনের ভিডিও, কী জানা যাচ্ছে",
+            "link": "https://www.bbc.com/bengali/articles/c3pw4z24p9j1o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-21T12:26:31+00:00"
+          },
+          {
+            "title": "অক্টোবর-নভেম্বরেই কেন বেশিরভাগ ঘূর্ণিঝড় আঘাত হানে বঙ্গোপসাগর উপকূলে?",
+            "link": "https://www.bbc.com/bengali/articles/cwp9dn4zerj4o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-21T06:01:53+00:00"
+          },
+          {
+            "title": "রোহিঙ্গা শরণার্থীদেরকে মিয়ানমারে ফেরাতে পারবে আইসিজে'র রায়?",
+            "link": "https://www.bbc.com/bengali/articles/c6jd7edm08x9o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-19T15:38:44+00:00"
+          },
+          {
+            "title": "শেখ হাসিনার দেশে ফেরার বিষয়টি দিল্লি যেভাবে দেখছে",
+            "link": "https://www.bbc.com/bengali/articles/c6jredlv5v3jo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-12T12:42:35+00:00"
+          },
+          {
+            "title": "ইদি আমিন, নওয়াজ শরীফ, ফার্দিনান্দ মার্কোস - নির্বাসিত নেতাদের দেশে ফেরা ঘিরে যতো নাটকীয় ঘটনা",
+            "link": "https://www.bbc.com/bengali/articles/cmd6d69xlx9zo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-11T02:35:26+00:00"
+          },
+          {
+            "title": "ট্রাভেল পাস, পাসপোর্ট ও দেশে ফেরায় নিষেধাজ্ঞা – অতীতে যা ঘটেছিল",
+            "link": "https://www.bbc.com/bengali/articles/cm0e0eqlvpg8o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Bangla",
+            "summary": "",
+            "published": "2026-11-10T01:58:43+00:00"
           }
         ]
       }
