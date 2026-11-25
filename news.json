@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T22:26:28.447749+00:00",
+  "updated_at": "2026-11-25T22:31:13.236604+00:00",
   "languages": {
     "en": {
       "label": "English",
@@ -32,13 +32,6 @@
             "source": "BBC Entertainment",
             "summary": "How a wayward child from the north-east of England made it with the world's biggest band.",
             "published": "2026-11-25T22:16:14+00:00"
-          },
-          {
-            "title": "Man United denied at Sporting as referee overshadows Fernandes double",
-            "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bruno Fernandes nets twice in Lisbon, but referee&#039;s decisions in spotlight as Mauricio Pochettino denied first win.",
-            "published": "2026-11-25T22:15:59+00:00"
           },
           {
             "title": "India urges B'desh to probe minority violence, says Hasina's return a separate matter",
@@ -102,6 +95,13 @@
             "source": "Times of India",
             "summary": "Cabinet ministers have been advised to avoid international travel as Parliament may be convened before mid-December. The government aims to introduce a Constitution amendment bill for women's reservation during the next session. This proposal, linked with delimitation, could expand Lok Sabha's strength significantly. Opposition parties have raised concerns regarding its implications, particularly for state…",
             "published": "2026-11-26T03:10:40+05:30"
+          },
+          {
+            "title": "Swepson outshines Lyon with 11 but New South Wales cling on",
+            "link": "https://www.cricinfo.com/ci/content/story/1563880.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Queensland left a target of 282 and were nearly able to dismiss NSW on a turning SCG pitch",
+            "published": "2026-11-25T21:36:24+00:00"
           }
         ],
         "India": [
@@ -199,13 +199,6 @@
             "published": "2026-11-25T22:18:06+00:00"
           },
           {
-            "title": "Man United denied at Sporting as referee overshadows Fernandes double",
-            "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "Bruno Fernandes nets twice in Lisbon, but referee&#039;s decisions in spotlight as Mauricio Pochettino denied first win.",
-            "published": "2026-11-25T22:15:59+00:00"
-          },
-          {
             "title": "North Korea expels Swiss diplomat in sanctions row",
             "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
             "source": "BBC World",
@@ -274,6 +267,13 @@
             "source": "BBC World",
             "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
             "published": "2026-11-25T19:54:52+00:00"
+          },
+          {
+            "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+            "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+            "published": "2026-11-25T19:47:39+00:00"
           }
         ],
         "Business": [
@@ -1072,11 +1072,53 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ఆర్డీ ఇంజినీరింగ్‌కు రూ.225 కోట్ల పెట్టుబడులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zejFBaHhrV1hmSHFZQjhFbFk2QklGT2h5N01ORTlaN3lCTWN1cTFKNFo0WFc3a3owQWIwZlJIOUEwZEVOUUVsdmtHQmoyQXhJMW9SV20zcDN1TkV1Skg3dVBGQWZtR205czFFVUxNTmJhVGxC0gF0QVVfeXFMTjN6MUFoeGtXWGZIcVlCOEVsWTZCSUZPaHk3TU5FOVo3eUJNY3VxMUo0WjRYVzdrejBBYjBmUkg5QTBkRU5RRWx2a0dCajJBeEkxb1JXbTNwM3VORXVKSDd1UEZBZm1HbTlzMUVVTE1OYmFUbEI?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T21:41:31+00:00"
+          },
+          {
+            "title": "Asian Champions Trophy hockey: భారత్‌ అజేయం - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG82OTd5MzVqS0llRzJtX2dZLWhHUV9rX0J4S0h4MG5qcVllWHBiNHRiQS1LUjRYd0Q1SHBhTzBqZDVvdTRlZHVFX1RmaGh5NFBrMG9CaXlGTnVmTHhjUGxHaElsTklDUTItQzZZWVJXVk5XeXRaUUNoV0xxVzhZVWN0aEJscHQ0Tk5nZUdsSC1Ua2tjU0YwY1YyczN2Zm9oVkJ5Y0p6R3FfeUZIZXdLTDVELUtOUlXSAbcBQVVfeXFMTzRvNjk3eTM1aktJZUcybV9nWS1oR1Ffa19CeEtIeDBuanFZZVhwYjR0YkEtS1I0WHdENUhwYU8wamQ1b3U0ZWR1RV9UZmhoeTRQazBvQml5Rk51Zkx4Y1BsR2hJbE5JQ1EyLUM2WVlSV1ZOV3l0WlFDaFdMcVc4WVVjdGhCbHB0NE5OZ2VHbEgtVGtrY1NGMGNWMnMzdmZvaFZCeWNKekdxX3lGSGV3S0w1RC1LTlJV?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T21:13:41+00:00"
+          },
+          {
+            "title": "భారత్‌లో 2028 థామస్‌-ఉబర్‌ కప్‌ - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YbXJ6NFdMd1JjMjFWU3g2dk1yejBfamtvMkM5aUJiNXRkd2JtUTFIT0E4Y3lpckhnN1VrZ1M1bGVpMlZEOHBuTUY4VUM3STFTS0hsdUJHa1RFTy03cUM4Q2ZkaTJobVVoZ2NPWEptV3pyZ9IBckFVX3lxTE9YbXJ6NFdMd1JjMjFWU3g2dk1yejBfamtvMkM5aUJiNXRkd2JtUTFIT0E4Y3lpckhnN1VrZ1M1bGVpMlZEOHBuTUY4VUM3STFTS0hsdUJHa1RFTy03cUM4Q2ZkaTJobVVoZ2NPWEptV3pyZw?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T21:12:03+00:00"
+          },
+          {
             "title": "క్రికెట్‌ పండగొచ్చింది - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91enM1OThmM0RSTXY3eG4tS1pWMDBuTGtleVBJLXhvSUU0ekt6dDlzSmRMbDhSNjRvVzZ6R3k0b2RRSnhmdXd6N0lYbFBXTVNUMm11a2F5Y1ZCTWZEeGNLTE9xT05mZTRsWWVDSEpIRmRxcWJMQmY0VC1TOGJyQQ?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-25T21:06:30+00:00"
+          },
+          {
+            "title": "ఛఠ్‌పై అసభ్య వ్యాఖ్యలు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UREpFTmFwTmJHazFLd0pZUEwzd2I5YnVCdGhoUUhSbjZWVGtjWlc5c2NwY1c2MEdvSGkzcnh3bkNacFY3emZDQlRqeTdlVmFqM0hsa0pVR2k1SEJBa2VsUTlFMlFQUnpRMnVqS1lRTFJBTUk3RzZabA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T20:21:23+00:00"
+          },
+          {
+            "title": "IT sector: ఐటీ రంగానికి కొత్త సవాళ్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUx0YzB6dlpETkJaRGVzYkNqYjd2MmJSRkRJWEF3cmNiVWliNHE4aXZrVzFwR2hpVzhsN0htdnhibkw2SklraWhrRHN4NWx1Y2lCZVlnSmVBYnhGV0Z1bDkwUUVxeGRMZDNXN3M3UzZwVjRJUVpiUWJOSEZTVkhua1R3SWU2c2UtSVR4ZGt0NGV6RktHNmhFMUU2bFVMVWfSAZ8BQVVfeXFMTnlMdGMwenZaRE5CWkRlc2JDamI3djJiUkZESVhBd3JjYlVpYjRxOGl2a1cxcEdoaVc4bDdIbXZ4Ym5MNkpJa2loa0RzeDVsdWNpQmVZZ0plQWJ4RldGdWw5MFFFcXhkTGQzVzdzN1M2cFY0SVFaYlFiTkhGU1ZIbmtUd0llNnNlLUlUeGRrdDRlekZLRzZoRTFFNmxVTFVn?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T20:15:03+00:00"
+          },
+          {
+            "title": "పట్టణాల గుండెలపై కుంపట్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pV01UeWtoRWp5eWJuWEl2U3ZZZFc0MXNIV2lCZ0xzME9EQ3M0ekVaYkRYekxoV0ZOUlhWbTFVSjdvSFhlc3lUUC1aaUJKejJPblFMNnNJRGsyeWdqX0pXMXFJaG5LU3Frd1BFalpfYlo1VnJ0WHfSAXZBVV95cUxNaVdNVHlraEVqeXliblhJdlN2WWRXNDFzSFdpQmdMczBPRENzNHpFWmJEWHpMaFdGTlJYVm0xVUo3b0hYZXN5VFAtWmlCSnoyT25RTDZzSURrMnlnal9KVzFxSWhuS1Nxa3dQRWpaX2JaNVZydFh3?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T19:55:59+00:00"
           },
           {
             "title": "ఈవెంట్‌ ప్లానర్‌ అవ్వాలంటే? - Eenadu",
@@ -1100,60 +1142,18 @@
             "published": "2026-11-25T19:30:00+00:00"
           },
           {
+            "title": "ఎన్‌హెచ్‌పీసీలో ట్రెయినీ ఇంజినీర్లు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ReENvVTR3X2ZiRWsxeXhBZWhNZnh2NkpZUGJGMlZPVThacGtUcjF3Q0wyWDl6QzBLNkxoU1FzcjBTby1ZTEFUQ3ktVEQ3VkgyQTdPd0I2N3cydGdtQTIxa0lUOEdQR0t0RVJleHlpbXgwMFRHZGRRWWxB0gF6QVVfeXFMTlF4Q29VNHdfZmJFazF5eEFlaE1meHY2SllQYkYyVk9VOFpwa1RyMXdDTDJYOXpDMEs2TGhTUXNyMFNvLVlMQVRDeS1URDdWSDJBN093QjY3dzJ0Z21BMjFrSVQ4R1BHS3RFUmV4eWlteDAwVEdkZFFZbEE?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T19:25:51+00:00"
+          },
+          {
             "title": "భార్యను చంపి లొంగిపోయిన భర్త - Eenadu",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMdGYyWjdHZ3RBNnJKTFpVSExScS1EWEk5b0wxNXRKRXh3MHlDREtSVzBFWTVPSUdqVFRDMjhzZUhRM0kzWV94N01TeHpOc0pERUtPbEw5STBtNnQ2T0tnUVVfLTFkZGN0b2xFZTJUbnlRWV9icWZIR3Z5TU00Zw?oc=5",
             "source": "Eenadu",
             "summary": "",
             "published": "2026-11-25T18:35:30+00:00"
-          },
-          {
-            "title": "Today Horoscope in Telugu: నేటి రాశి ఫలాలు.. 12 రాశుల ఫలితాలు ఇలా... (26/11/2026) - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlFHUm11bmQxQV9vZGw0eHRZTWdhcFpSX2pncFBSQjFDVEw1TW1BcHE2Q2Ytd0pia2Q1dExGeXVuX28zSHI2ZUt2bzItM09Da2t0NEpfV0NrVF9SbjJ6aXZERUdiQmN2TGo1bmhlNklxTDVnaGZqZEFOOG95Y2F0ZUdHVGI1bDVQRllmR21mWWotdzFwUWRTWWpIZ1dJWlhvSHBEV3VuZHpUSjhB0gGsAUFVX3lxTFBCUUdSbXVuZDFBX29kbDR4dFlNZ2FwWlJfamdwUFJCMUNUTDVNbUFwcTZDZi13SmJrZDV0TEZ5dW5fbzNIcjZlS3ZvMi0zT0Nra3Q0Sl9XQ2tUX1JuMnppdkRFR2JCY3ZMajVuaGU2SXFMNWdoZmpkQU44b3ljYXRlR0dUYjVsNVBGWWZHbWZZai13MXBRZFNZakhnV0laWG9IcERXdW5kelRKOEE?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-25T18:33:49+00:00"
-          },
-          {
-            "title": "15 ఏళ్ల విద్యార్థితో లేచిపోయిన మహిళా టీచర్.. తోటి విద్యార్థి చెప్పడంతో.. ఏం జరిగింది..?",
-            "link": "https://telugu.oneindia.com/news/india/uttarpradesh-incident-26-year-old-female-teacher-kidnaps-class-11-student-pocso-case-registered-516471.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-25T23:45:15+05:30"
-          },
-          {
-            "title": "Visakhapatnam: ఇన్‌స్టాలో పరిచయమై ఇల్లంతా దోచేసిన యువతి - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObE43cUQ4VV9Ia2g1YWljN25jX1VKNzRWSzd6TzRyNno3SlcxOWt0d2lIZzQ1dllKeWFkV0NqUHl0NkhZT3lLOW43MVY1UkV5V3pHOTZfWXNCSFFsNGhKNktaQTYxcHVOVmRxOGw4OVVxV3l3OVNEeDlmMGc1RFNsNnUyTkduSmxfUjJZWEVZeHliNjExeWdrRjlKaFN1SEdUb1YzNUZ5UdIBpwFBVV95cUxObE43cUQ4VV9Ia2g1YWljN25jX1VKNzRWSzd6TzRyNno3SlcxOWt0d2lIZzQ1dllKeWFkV0NqUHl0NkhZT3lLOW43MVY1UkV5V3pHOTZfWXNCSFFsNGhKNktaQTYxcHVOVmRxOGw4OVVxV3l3OVNEeDlmMGc1RFNsNnUyTkduSmxfUjJZWEVZeHliNjExeWdrRjlKaFN1SEdUb1YzNUZ5UQ?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-25T18:00:00+00:00"
-          },
-          {
-            "title": "Uttarakhand: ఒకే వేదికపై ఒక్కటైన 251 జంటలు - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmRQWUpQZl9BQTJCd3NnMFE0dDdrVlQxYnhiUTdrVWJ6YU5fY1NBQ3Q4cXJGcE1COEw3c2FkYzl2RDlLaTBqOEFfdWpiWXd3TGFjV2FITVlHdk5STVYyMHVBLThMNXc1U1hHeEdQVENqbUM5czNXQ2dRMHRfMU5JWEhVOWFRRTFtX19EajRCd0h4Z3RtcDFwM29NUHlLU0dHS1NIN19hc1lDZzAtNDY40gGvAUFVX3lxTE1GZFBZSlBmX0FBMkJ3c2cwUTR0N2tWVDFieGJRN2tVYnphTl9jU0FDdDhxckZwTUI4TDdzYWRjOXZEOUtpMGo4QV91amJZd3dMYWNXYUhNWUd2TlJNVjIwdUEtOEw1dzVTWEd4R1BUQ2ptQzlzM1dDZ1EwdF8xTklYSFU5YVFFMW1fX0RqNEJ3SHhndG1wMXAzb01QeUtTR0dLU0g3X2FzWUNnMC00Njg?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-25T17:59:35+00:00"
-          },
-          {
-            "title": "చరిత్ర సృష్టించిన పాకిస్థాన్.. సంబరాలు చేసుకుంటున్న దేశ ప్రజలు",
-            "link": "https://telugu.oneindia.com/news/international/pakistan-astronaut-muhammad-zeeshan-ali-has-reached-the-tiangong-space-station-space-celebrats-pak-516469.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-25T23:05:16+05:30"
-          },
-          {
-            "title": "Andhra news: మలి విడత పంచాయతీ ఎన్నికలు.. 1,171 సర్పంచి పదవులు ఏకగ్రీవం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHdyZnVZTExuaS11T25HbmQ5ZkU4bHB4TndxazlYQmw2V0g2Ty1yaDdXeG16d1B6UFkyeW45eElERkZ1OUNaR0JWM0lUc0UzcXY0NmotNl9HbE5EeUVseTdmTXFrR3FhN2RvYmpOMmhJUnItR2xFdGFjWUo5WkZBTndjRV94YzVFbFA0SUVYbnBqdlBPRGExZzZmcjRacFNOa1HSAaIBQVVfeXFMTWx3cmZ1WUxMbmktdU9uR25kOWZFOGxweE53cWs5WEJsNldINk8tcmg3V3htendQelBZMnluOXhJREZGdTlDWkdCVjNJVHNFM3F2NDZqLTZfR2xORHlFbHk3Zk1xa0dxYTdkb2JqTjJoSVJyLUdsRXRhY1lKOVpGQU53Y0VfeGM1RWxQNElFWG5wanZQT0RhMWc2ZnI0WnBTTmtR?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-25T16:58:06+00:00"
-          },
-          {
-            "title": "క్రైస్తవ సోదరులకు రాష్ట్ర ప్రభుత్వం గుడ్ న్యూస్.. ప్రతి చర్చికి రూ. 30 వేలు సాయం",
-            "link": "https://telugu.oneindia.com/news/telangana/christians-good-news-from-the-state-government-for-telangana-a-grant-of-rs-30-000-for-every-church-516467.html",
-            "source": "Oneindia Telugu",
-            "summary": "",
-            "published": "2026-11-25T22:27:49+05:30"
           }
         ],
         "Entertainment": [
@@ -1475,15 +1475,15 @@
             "published": "2026-11-25T19:18:46+00:00"
           },
           {
-            "title": "আজকের দিন ধনু রাশি- ২৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTdLcUdHQWE3RnpDd2ZsSTZ1ZHZ1S3JyZnBHeWVkcXJ6R0s3SUhOUk5vZVcxQXdGTldsX3UwaFdKM3VXVE1RVENJa2diOWU5dUtwWnBNUkJaQUN3bmxNclpTLVRpTGo5THJqcGw0am81TWc5UzFXMzdNV1NLRzBzMnExNGd2bWdXU01hQVNjMU5jX3FRTVFmNWljeVJfbS13aWNrRWp0TXhud1RXOWVkc3ZwWkLSAboBQVVfeXFMTm1aVEJGcWwzdUFCWGZ3Zjc1eUMxcEhuMXlvTzdvOWNYMW5yM0JqcWdJZzFyckJDTEFVY2V3aXFtdmFQUndkc0dNQ2FLd0Y3SGhWd3FJalNCUEQzbmJfZEN1em1ldDY5Uk9feHU3UUp3VGpBWDdKakE2M28xRWpkNUhNbExuRE12UGZCaHEtVERaX0JIbUFRZnpyc1ltWlVjMTQ0Ty02Zk5BNFVpemo1MENzbDkzTDZMVURR?oc=5",
+            "title": "আজকের দিন মীন রাশি- ২৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBjMkpwbHdDbnJfRTlwRzVtRmRMWWN5VzlDaW40RGxyS1VTWk85NVNPTk9SaHAtckZiQkVVei1UZ0tMMHlJQnpuMnZoUHRqbm9VNEFORW91TGt1YXJJWFE1LWpkUlBxUzBaTlpqY19SN3Y0Y1F0XzIwbUNLUFBONEE3djVOS2ticFRlenhRLVhqUjhDWXZEWnNkMS11US13YlNjOHRNb01iejdLVVHSAbMBQVVfeXFMTVA5Vzc0b29vdHJVZ1pnQXotNHZ6MEVwaENtelY0ZnFtRkc5NDVTZjRDS3Mwc1BZM1JrTzE0R0RaR2NWYk05Y0VuZ09XX29yLUVHQVV5NWxxb05kNjFiZlhrU3diRUw3TTRHdU5zRUdyWGQzX2dPTFRReW5DTFl1Nk1aOTZGTHlKZ0VVVjJ5U0FIcFZYVVY2TExBNFc4OE5JaENvU29ma2RWMHJYUVdQOTFWLU0?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-25T19:18:46+00:00"
           },
           {
-            "title": "আজকের দিন মীন রাশি- ২৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDBjMkpwbHdDbnJfRTlwRzVtRmRMWWN5VzlDaW40RGxyS1VTWk85NVNPTk9SaHAtckZiQkVVei1UZ0tMMHlJQnpuMnZoUHRqbm9VNEFORW91TGt1YXJJWFE1LWpkUlBxUzBaTlpqY19SN3Y0Y1F0XzIwbUNLUFBONEE3djVOS2ticFRlenhRLVhqUjhDWXZEWnNkMS11US13YlNjOHRNb01iejdLVVHSAbMBQVVfeXFMTVA5Vzc0b29vdHJVZ1pnQXotNHZ6MEVwaENtelY0ZnFtRkc5NDVTZjRDS3Mwc1BZM1JrTzE0R0RaR2NWYk05Y0VuZ09XX29yLUVHQVV5NWxxb05kNjFiZlhrU3diRUw3TTRHdU5zRUdyWGQzX2dPTFRReW5DTFl1Nk1aOTZGTHlKZ0VVVjJ5U0FIcFZYVVY2TExBNFc4OE5JaENvU29ma2RWMHJYUVdQOTFWLU0?oc=5",
+            "title": "আজকের দিন ধনু রাশি- ২৬ নভেম্বর, ২০২৬ - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTdLcUdHQWE3RnpDd2ZsSTZ1ZHZ1S3JyZnBHeWVkcXJ6R0s3SUhOUk5vZVcxQXdGTldsX3UwaFdKM3VXVE1RVENJa2diOWU5dUtwWnBNUkJaQUN3bmxNclpTLVRpTGo5THJqcGw0am81TWc5UzFXMzdNV1NLRzBzMnExNGd2bWdXU01hQVNjMU5jX3FRTVFmNWljeVJfbS13aWNrRWp0TXhud1RXOWVkc3ZwWkLSAboBQVVfeXFMTm1aVEJGcWwzdUFCWGZ3Zjc1eUMxcEhuMXlvTzdvOWNYMW5yM0JqcWdJZzFyckJDTEFVY2V3aXFtdmFQUndkc0dNQ2FLd0Y3SGhWd3FJalNCUEQzbmJfZEN1em1ldDY5Uk9feHU3UUp3VGpBWDdKakE2M28xRWpkNUhNbExuRE12UGZCaHEtVERaX0JIbUFRZnpyc1ltWlVjMTQ0Ty02Zk5BNFVpemo1MENzbDkzTDZMVURR?oc=5",
             "source": "Anandabazar Patrika",
             "summary": "",
             "published": "2026-11-25T19:18:46+00:00"
