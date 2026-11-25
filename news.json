@@ -1,196 +1,231 @@
 {
-  "updated_at": "2026-11-25T17:01:25.178352+00:00",
+  "updated_at": "2026-11-25T17:31:12.147898+00:00",
   "languages": {
     "en": {
       "label": "English",
       "categories": {
         "Top Stories": [
           {
+            "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+            "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+            "published": "2026-11-25T17:30:16+00:00"
+          },
+          {
+            "title": "Energy price increase 'could put me in hospital'",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+            "published": "2026-11-25T17:26:13+00:00"
+          },
+          {
             "title": "Poundland collapses putting 11,000 jobs at risk",
             "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-            "published": "2026-11-25T17:00:15+00:00"
+            "published": "2026-11-25T17:21:34+00:00"
+          },
+          {
+            "title": "'Children not toys for parents': SC sets aside Madras HC order granting custody to father",
+            "link": "https://www.hindustantimes.com/india-news/children-not-toys-for-parents-sc-sets-aside-madras-hc-order-granting-custody-to-father-101795624770496.html",
+            "source": "Hindustan Times",
+            "summary": "The Supreme Court said the welfare of the child was the paramount consideration in appointing a guardian rather than the legal rights of the parents.",
+            "published": "2026-11-25T22:48:01+05:30"
+          },
+          {
+            "title": "Car mechanic, woman held with 5.72 kg drugs worth ₹5.72 crore, carried from Delhi to Bengaluru",
+            "link": "https://www.thehindu.com/news/national/karnataka/car-mechanic-woman-held-with-572-kg-drugs-worth-572-crore-carried-from-delhi-to-bengaluru/article71742260.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-25T22:46:21+05:30"
           },
           {
             "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
             "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
-            "summary": "Ramsay will take the driving seat alongside unnamed co-presenters when the show starts filming next year.",
-            "published": "2026-11-25T16:58:51+00:00"
+            "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+            "published": "2026-11-25T17:16:19+00:00"
           },
           {
-            "title": "Scots react to news of rising energy prices",
-            "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "Scots describe how an increase in energy bills will affect them.",
-            "published": "2026-11-25T16:56:47+00:00"
-          },
-          {
-            "title": "No evidence that Alice spied on Jensen Huang: US officials to congressional staffers",
-            "link": "https://timesofindia.indiatimes.com/world/us/no-evidence-that-alice-spied-on-jensen-huang-us-officials-to-congressional-staffers/articleshow/136168430.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-25T22:25:02+05:30"
-          },
-          {
-            "title": "203 bird species spotted in district-wide survey",
-            "link": "https://www.thehindu.com/news/national/kerala/203-bird-species-spotted-in-district-wide-survey/article71742944.ece",
+            "title": "Mobile wildlife forensic lab to be stationed at Pethikuttai in Coimbatore district",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/mobile-wildlife-forensic-lab-to-be-stationed-at-pethikuttai-in-coimbatore-district/article71743286.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:24:50+05:30"
+            "published": "2026-11-25T22:45:59+05:30"
           },
           {
-            "title": "CPI(M) asks IUML to clarify stand on Rahul Gandhi’s pro-Israel remarks",
-            "link": "https://www.thehindu.com/news/national/kerala/cpim-asks-iuml-to-clarify-stand-on-rahul-gandhis-pro-israel-remarks/article71743048.ece",
+            "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+            "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
             "source": "The Hindu",
-            "summary": "The CPI(M) said the Congress leader’s position marked a departure from India’s traditional foreign policy, followed since the national movement, and was in line with the Sangh Parivar’s approach",
-            "published": "2026-11-25T22:24:17+05:30"
+            "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
+            "published": "2026-11-25T22:44:35+05:30"
           },
           {
-            "title": "Shifting political allegiance under guise of dissent can topple elected governments, Uddhav Thackeray tells Supreme Court",
-            "link": "https://www.thehindu.com/news/national/shifting-political-allegiance-under-guise-of-dissent-can-topple-elected-governments-uddhav-thackeray-tells-supreme-court/article71742539.ece",
-            "source": "The Hindu",
-            "summary": "The Maharashtra Assembly Speaker committed a constitutional error by treating the Eknath Shinde group’s legislative majority as proof that it represented the original Shiv Sena, the Uddhav Thackeray faction told the Supreme Court",
-            "published": "2026-11-25T22:23:32+05:30"
-          },
-          {
-            "title": "Jacobite Church condemns remarks by Orthodox Church leadership against Patriarch of Antioch",
-            "link": "https://www.thehindu.com/news/national/kerala/jacobite-church-condemns-remarks-by-orthodox-church-leadership-against-patriarch-of-antioch/article71742818.ece",
-            "source": "The Hindu",
-            "summary": "Jacobite Church will extend all support to efforts being made by Chief Minister V. D. Satheesan to resolve the long-standing Malankara Church dispute without hurting the sentiments of both the factions, says Catholicos of the Jacobite Syrian Christian Church Joseph Mar Gregorios",
-            "published": "2026-11-25T22:22:43+05:30"
-          },
-          {
-            "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
-            "link": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
-            "source": "The Hindu",
-            "summary": "‘The case of a citizen willing to return voluntarily to her country on a travel document is a matter separate from the extradition request,’ MEA’s official spokesperson Randhir Jaiswal said",
-            "published": "2026-11-25T22:22:03+05:30"
-          },
-          {
-            "title": "Operation Gaja: Herds scatter, officials to monitor situation until Bengaluru meeting",
-            "link": "https://www.thehindu.com/news/national/karnataka/operation-gaja-herds-scatter-officials-to-monitor-situation-until-bengaluru-meeting/article71743109.ece",
+            "title": "Aero India: Record exhibitor demand prompts capacity expansion by Ministry of Defence",
+            "link": "https://www.thehindu.com/news/national/karnataka/aero-india-record-exhibitor-demand-prompts-capacity-expansion-by-ministry-of-defence/article71743623.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:42+05:30"
+            "published": "2026-11-25T22:43:39+05:30"
           },
           {
-            "title": "R&B Minister’s wife unanimously elected Banaganapalle sarpanch",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/rb-ministers-wife-unanimously-elected-banaganapalle-sarpanch/article71742908.ece",
+            "title": "Telangana Agriculture dept. focuses on value addition to crops, food processing and allied sectors",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-agriculture-dept-focuses-on-crops-value-addition-food-processing-and-allied-sectors/article71742587.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:38+05:30"
+            "published": "2026-11-25T22:42:59+05:30"
           },
           {
-            "title": "Chennithala accuses Centre of prioritising ethanol production over food security",
-            "link": "https://www.thehindu.com/news/national/kerala/chennithala-accuses-centre-of-prioritising-ethanol-production-over-food-security/article71743054.ece",
+            "title": "Public transport key to tackling Hyderabad traffic woes: London official",
+            "link": "https://www.thehindu.com/news/national/telangana/public-transport-key-to-tackling-hyderabad-traffic-woes-london-official/article71743233.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:33+05:30"
+            "published": "2026-11-25T22:42:49+05:30"
           },
           {
-            "title": "The Hindu’s coffee table book on exploration of the Western Ghats released",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/the-hindus-coffee-table-book-on-exploration-of-the-western-ghats-released/article71741421.ece",
-            "source": "The Hindu",
-            "summary": "The book titled, ‘Mountains of Our Destiny: The Western Ghats, A Journey Through The Southern Monsoon Mountains by Vrinda Ramanan and J. Ramanan is a sequel to ‘Mountains of our Destiny: An Expedition to the Indian Himalaya’, also by the same authors.",
-            "published": "2026-11-25T22:20:37+05:30"
-          },
-          {
-            "title": "KSEB inks pact with NTPC Ltd, NGEL for green projects",
-            "link": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+            "title": "Telangana CM keen on expanding ration basket; providing essential commodities to FSC holders comes up for discussion again",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-keen-on-expanding-ration-basket-providing-essential-commodities-to-fsc-holders-comes-up-for-discussion-again/article71743606.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:19:53+05:30"
+            "published": "2026-11-25T22:42:27+05:30"
+          },
+          {
+            "title": "How Patrick Mahomes' Wife Brittany Built Her Own Identity Beyond Being Married To An NFL Superstar",
+            "link": "https://sports.ndtv.com/us/nfl/how-patrick-mahomes-wife-brittany-built-her-own-identity-beyond-being-married-to-an-nfl-superstar-12377299#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Brittany Mahomes helped found the Kansas City Current ownership group in 2020, three years before Patrick joined it. The club's reported value has risen from $75 million in 2024 to about $325 million, though her personal stake is private.",
+            "published": "2026-11-25T22:42:04+05:30"
+          },
+          {
+            "title": "Veronica Burton’s No. 22 Jersey Retired By Newton South High School After WNBA Title",
+            "link": "https://sports.ndtv.com/us/nba/veronica-burton-s-no-22-jersey-retired-by-newton-south-high-school-after-wnba-title-12377334#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Newton South retired Veronica Burton’s No. 22 jersey after the Golden State Valkyries guard helped her team win its first WNBA championship earlier this month.",
+            "published": "2026-11-25T22:41:44+05:30"
           }
         ],
         "India": [
           {
-            "title": "No evidence that Alice spied on Jensen Huang: US officials to congressional staffers",
-            "link": "https://timesofindia.indiatimes.com/world/us/no-evidence-that-alice-spied-on-jensen-huang-us-officials-to-congressional-staffers/articleshow/136168430.cms",
-            "source": "Times of India",
-            "summary": "",
-            "published": "2026-11-25T22:25:02+05:30"
+            "title": "'Children not toys for parents': SC sets aside Madras HC order granting custody to father",
+            "link": "https://www.hindustantimes.com/india-news/children-not-toys-for-parents-sc-sets-aside-madras-hc-order-granting-custody-to-father-101795624770496.html",
+            "source": "Hindustan Times",
+            "summary": "The Supreme Court said the welfare of the child was the paramount consideration in appointing a guardian rather than the legal rights of the parents.",
+            "published": "2026-11-25T22:48:01+05:30"
           },
           {
-            "title": "203 bird species spotted in district-wide survey",
-            "link": "https://www.thehindu.com/news/national/kerala/203-bird-species-spotted-in-district-wide-survey/article71742944.ece",
+            "title": "Car mechanic, woman held with 5.72 kg drugs worth ₹5.72 crore, carried from Delhi to Bengaluru",
+            "link": "https://www.thehindu.com/news/national/karnataka/car-mechanic-woman-held-with-572-kg-drugs-worth-572-crore-carried-from-delhi-to-bengaluru/article71742260.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:24:50+05:30"
+            "published": "2026-11-25T22:46:21+05:30"
           },
           {
-            "title": "CPI(M) asks IUML to clarify stand on Rahul Gandhi’s pro-Israel remarks",
-            "link": "https://www.thehindu.com/news/national/kerala/cpim-asks-iuml-to-clarify-stand-on-rahul-gandhis-pro-israel-remarks/article71743048.ece",
-            "source": "The Hindu",
-            "summary": "The CPI(M) said the Congress leader’s position marked a departure from India’s traditional foreign policy, followed since the national movement, and was in line with the Sangh Parivar’s approach",
-            "published": "2026-11-25T22:24:17+05:30"
-          },
-          {
-            "title": "Shifting political allegiance under guise of dissent can topple elected governments, Uddhav Thackeray tells Supreme Court",
-            "link": "https://www.thehindu.com/news/national/shifting-political-allegiance-under-guise-of-dissent-can-topple-elected-governments-uddhav-thackeray-tells-supreme-court/article71742539.ece",
-            "source": "The Hindu",
-            "summary": "The Maharashtra Assembly Speaker committed a constitutional error by treating the Eknath Shinde group’s legislative majority as proof that it represented the original Shiv Sena, the Uddhav Thackeray faction told the Supreme Court",
-            "published": "2026-11-25T22:23:32+05:30"
-          },
-          {
-            "title": "Jacobite Church condemns remarks by Orthodox Church leadership against Patriarch of Antioch",
-            "link": "https://www.thehindu.com/news/national/kerala/jacobite-church-condemns-remarks-by-orthodox-church-leadership-against-patriarch-of-antioch/article71742818.ece",
-            "source": "The Hindu",
-            "summary": "Jacobite Church will extend all support to efforts being made by Chief Minister V. D. Satheesan to resolve the long-standing Malankara Church dispute without hurting the sentiments of both the factions, says Catholicos of the Jacobite Syrian Christian Church Joseph Mar Gregorios",
-            "published": "2026-11-25T22:22:43+05:30"
-          },
-          {
-            "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
-            "link": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
-            "source": "The Hindu",
-            "summary": "‘The case of a citizen willing to return voluntarily to her country on a travel document is a matter separate from the extradition request,’ MEA’s official spokesperson Randhir Jaiswal said",
-            "published": "2026-11-25T22:22:03+05:30"
-          },
-          {
-            "title": "Operation Gaja: Herds scatter, officials to monitor situation until Bengaluru meeting",
-            "link": "https://www.thehindu.com/news/national/karnataka/operation-gaja-herds-scatter-officials-to-monitor-situation-until-bengaluru-meeting/article71743109.ece",
+            "title": "Mobile wildlife forensic lab to be stationed at Pethikuttai in Coimbatore district",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/mobile-wildlife-forensic-lab-to-be-stationed-at-pethikuttai-in-coimbatore-district/article71743286.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:42+05:30"
+            "published": "2026-11-25T22:45:59+05:30"
           },
           {
-            "title": "R&B Minister’s wife unanimously elected Banaganapalle sarpanch",
-            "link": "https://www.thehindu.com/news/national/andhra-pradesh/rb-ministers-wife-unanimously-elected-banaganapalle-sarpanch/article71742908.ece",
+            "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+            "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+            "source": "The Hindu",
+            "summary": "India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade",
+            "published": "2026-11-25T22:44:35+05:30"
+          },
+          {
+            "title": "Aero India: Record exhibitor demand prompts capacity expansion by Ministry of Defence",
+            "link": "https://www.thehindu.com/news/national/karnataka/aero-india-record-exhibitor-demand-prompts-capacity-expansion-by-ministry-of-defence/article71743623.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:38+05:30"
+            "published": "2026-11-25T22:43:39+05:30"
           },
           {
-            "title": "Chennithala accuses Centre of prioritising ethanol production over food security",
-            "link": "https://www.thehindu.com/news/national/kerala/chennithala-accuses-centre-of-prioritising-ethanol-production-over-food-security/article71743054.ece",
+            "title": "Telangana Agriculture dept. focuses on value addition to crops, food processing and allied sectors",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-agriculture-dept-focuses-on-crops-value-addition-food-processing-and-allied-sectors/article71742587.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:21:33+05:30"
+            "published": "2026-11-25T22:42:59+05:30"
           },
           {
-            "title": "The Hindu’s coffee table book on exploration of the Western Ghats released",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/the-hindus-coffee-table-book-on-exploration-of-the-western-ghats-released/article71741421.ece",
-            "source": "The Hindu",
-            "summary": "The book titled, ‘Mountains of Our Destiny: The Western Ghats, A Journey Through The Southern Monsoon Mountains by Vrinda Ramanan and J. Ramanan is a sequel to ‘Mountains of our Destiny: An Expedition to the Indian Himalaya’, also by the same authors.",
-            "published": "2026-11-25T22:20:37+05:30"
-          },
-          {
-            "title": "KSEB inks pact with NTPC Ltd, NGEL for green projects",
-            "link": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+            "title": "Public transport key to tackling Hyderabad traffic woes: London official",
+            "link": "https://www.thehindu.com/news/national/telangana/public-transport-key-to-tackling-hyderabad-traffic-woes-london-official/article71743233.ece",
             "source": "The Hindu",
             "summary": "",
-            "published": "2026-11-25T22:19:53+05:30"
+            "published": "2026-11-25T22:42:49+05:30"
           },
           {
-            "title": "MVD slaps ₹5.2 lakh penalty on vehicles for overloading, other violations",
-            "link": "https://www.thehindu.com/news/national/kerala/mvd-slaps-52-lakh-penalty-on-vehicles-for-overloading-other-violations/article71743190.ece",
+            "title": "Telangana CM keen on expanding ration basket; providing essential commodities to FSC holders comes up for discussion again",
+            "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-keen-on-expanding-ration-basket-providing-essential-commodities-to-fsc-holders-comes-up-for-discussion-again/article71743606.ece",
             "source": "The Hindu",
-            "summary": "Six vehicles were found transporting goods in excess of the permissible weight. Action was also taken against 57 vehicles for various other violations",
-            "published": "2026-11-25T22:19:50+05:30"
+            "summary": "",
+            "published": "2026-11-25T22:42:27+05:30"
+          },
+          {
+            "title": "Telangana CEO cites RTI guide to justify rejection of SIR expenditure query",
+            "link": "https://www.thehindu.com/news/national/telangana/ceo-cites-rti-guide-to-justify-rejection-of-sir-expenditure-query/article71743184.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-25T22:41:35+05:30"
+          },
+          {
+            "title": "KAHER organises hands-on workshop on network pharmacology",
+            "link": "https://www.thehindu.com/news/national/karnataka/kaher-organises-hands-on-workshop-on-network-pharmacology/article71742933.ece",
+            "source": "The Hindu",
+            "summary": "",
+            "published": "2026-11-25T22:41:30+05:30"
+          },
+          {
+            "title": "Policy stability, speed of doing business fuel Andhra Pradesh’s investment drive, says APEDB CEO",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/policy-stability-speed-of-doing-business-fuel-andhra-pradeshs-investment-drive-says-apedb-ceo/article71742951.ece",
+            "source": "The Hindu",
+            "summary": "A.P. Economic Development Board is confident that at least 75% of the investments worth ₹9.89 lakh crore tied up during CII Partnership Summit 2026 will take tangible shape, says its CEO Shan Mohan",
+            "published": "2026-11-25T22:40:24+05:30"
+          },
+          {
+            "title": "‘Gen Z wants good opportunities, education, and infrastructure’: Dipke on Uttar Pradesh polls",
+            "link": "https://www.hindustantimes.com/india-news/gen-z-wants-good-opportunities-education-and-infrastructure-abhijeet-dipke-on-uttar-pradesh-polls-101795625942790.html",
+            "source": "Hindustan Times",
+            "summary": "Abhijeet Dipke also said that the CJP will not side with any party in the upcoming Uttar Pradesh assembly elections.",
+            "published": "2026-11-25T22:40:01+05:30"
           }
         ],
         "World": [
+          {
+            "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+            "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+            "published": "2026-11-25T17:30:16+00:00"
+          },
+          {
+            "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the detained former Venezuelan president turned 64",
+            "published": "2026-11-25T17:05:35+00:00"
+          },
+          {
+            "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
+            "link": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
+            "published": "2026-11-25T17:01:26+00:00"
+          },
+          {
+            "title": "Djibouti: The Man Who Dared",
+            "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti.",
+            "published": "2026-11-25T17:00:00+00:00"
+          },
+          {
+            "title": "Switzerland forced to close office in North Korea over sanctions feud",
+            "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+            "source": "Al Jazeera",
+            "summary": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+            "published": "2026-11-25T16:58:49+00:00"
+          },
           {
             "title": "Colombian forces rescue all hostages after supermarket siege",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
@@ -227,62 +262,34 @@
             "published": "2026-11-25T16:20:14+00:00"
           },
           {
+            "title": "US stocks fall further as fears over AI intensify",
+            "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC World",
+            "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+            "published": "2026-11-25T16:07:26+00:00"
+          },
+          {
             "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
             "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
             "source": "Al Jazeera",
             "summary": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
             "published": "2026-11-25T16:02:22+00:00"
-          },
-          {
-            "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-            "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
-            "published": "2026-11-25T15:51:58+00:00"
-          },
-          {
-            "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-            "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC World",
-            "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-            "published": "2026-11-25T15:42:50+00:00"
-          },
-          {
-            "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-            "link": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.",
-            "published": "2026-11-25T15:35:33+00:00"
-          },
-          {
-            "title": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-            "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The Salvadoran national&#039;s lawyer said in a statement that it was &#039;a temporary departure&#039;.",
-            "published": "2026-11-25T15:34:59+00:00"
-          },
-          {
-            "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "A Jewish activist has confronted former Mossad chief David Barnea in Germany&#039;s parliament, calling him a &#039;war criminal&#039;.",
-            "published": "2026-11-25T15:15:53+00:00"
-          },
-          {
-            "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
-            "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
-            "source": "Al Jazeera",
-            "summary": "The US Army destroys nearly 4,500kg of lead azide amid fears of toxic fallout affecting residents, farms and livestock.",
-            "published": "2026-11-25T15:14:08+00:00"
           }
         ],
         "Business": [
+          {
+            "title": "Energy price increase 'could put me in hospital'",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Business",
+            "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+            "published": "2026-11-25T17:26:13+00:00"
+          },
           {
             "title": "Poundland collapses putting 11,000 jobs at risk",
             "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Business",
             "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-            "published": "2026-11-25T17:00:15+00:00"
+            "published": "2026-11-25T17:21:34+00:00"
           },
           {
             "title": "Scots react to news of rising energy prices",
@@ -311,13 +318,6 @@
             "source": "BBC Business",
             "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
             "published": "2026-11-25T16:07:26+00:00"
-          },
-          {
-            "title": "Energy price increase 'could put me in hospital'",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Business",
-            "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
-            "published": "2026-11-25T16:06:25+00:00"
           },
           {
             "title": "Fuel price hike will make life 'almost impossible'",
@@ -364,88 +364,88 @@
         ],
         "Sports": [
           {
+            "title": "How Patrick Mahomes' Wife Brittany Built Her Own Identity Beyond Being Married To An NFL Superstar",
+            "link": "https://sports.ndtv.com/us/nfl/how-patrick-mahomes-wife-brittany-built-her-own-identity-beyond-being-married-to-an-nfl-superstar-12377299#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Brittany Mahomes helped found the Kansas City Current ownership group in 2020, three years before Patrick joined it. The club's reported value has risen from $75 million in 2024 to about $325 million, though her personal stake is private.",
+            "published": "2026-11-25T22:42:04+05:30"
+          },
+          {
+            "title": "Veronica Burton’s No. 22 Jersey Retired By Newton South High School After WNBA Title",
+            "link": "https://sports.ndtv.com/us/nba/veronica-burton-s-no-22-jersey-retired-by-newton-south-high-school-after-wnba-title-12377334#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Newton South retired Veronica Burton’s No. 22 jersey after the Golden State Valkyries guard helped her team win its first WNBA championship earlier this month.",
+            "published": "2026-11-25T22:41:44+05:30"
+          },
+          {
+            "title": "DP World Tour Faces Backlash As 31 Former LIV Golf Players Secure 2027 Spots",
+            "link": "https://sports.ndtv.com/us/golf/dp-world-tour-faces-backlash-as-31-former-liv-golf-players-secure-2027-spots-12377344#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Nick O'Hern and Mark Allen have questioned the DP World Tour's 2027 plans, warning that invitations for former LIV Golf players could squeeze existing members.",
+            "published": "2026-11-25T22:41:16+05:30"
+          },
+          {
+            "title": "Dottin returns to West Indies squad for Pakistan series",
+            "link": "https://www.cricinfo.com/ci/content/story/1564154.html?ex_cid=OTC-RSS",
+            "source": "ESPN Cricinfo",
+            "summary": "Dottin's inclusion and the absence of Ashmini Munisar because of injury was the only change to the ODI and T20I side",
+            "published": "2026-11-25T17:07:36+00:00"
+          },
+          {
+            "title": "Tom Brady’s Son Shares What Happens When The NFL Legend Turns Even Casual Dinner Chats Into Teachable Moments",
+            "link": "https://sports.ndtv.com/us/nfl/tom-brady-s-son-shares-what-happens-when-the-nfl-legend-turns-even-casual-dinner-chats-into-teachable-moments-12377081#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Tom Brady, 49, said on Jake Humphrey's High Performance podcast that his son Benjamin, 16, teases him for turning easy dinner conversations into serious lessons. Brady admitted the coach in him shows up.",
+            "published": "2026-11-25T22:34:10+05:30"
+          },
+          {
+            "title": "WWE Star Shaves Her Head Live After Revealing Her Alopecia Diagnosis On NXT",
+            "link": "https://sports.ndtv.com/us/wwe/wwe-star-shaves-her-head-live-after-revealing-her-alopecia-diagnosis-on-nxt-12377082#publisher=newsstand",
+            "source": "NDTV Sports",
+            "summary": "Thea Hail spoke about her alopecia areata diagnosis during WWE NXT on November 24, revealing she had lost around 40% of her hair in less than four months. She then shaved her head in the ring, drawing a standing cheer from the audience in Orlando.",
+            "published": "2026-11-25T22:33:36+05:30"
+          },
+          {
             "title": "Shanto: 'We have to do consistently well to go to the next level'",
             "link": "https://www.cricinfo.com/ci/content/story/1564153.html?ex_cid=OTC-RSS",
             "source": "ESPN Cricinfo",
             "summary": "\"There is certainly a lack of capability,\" Shanto said after Bangladesh lost the second Test by an innings and 219 runs",
-            "published": "2026-11-25T16:39:29+00:00"
+            "published": "2026-11-25T17:02:58+00:00"
           },
           {
-            "title": "D Gukesh vs Javokhir Sindarov Highlights, World Chess Championship 2026 Game 2: D Gukesh Settles For A Draw In 20 Moves",
-            "link": "https://sports.ndtv.com/chess/d-gukesh-vs-javokhir-sindarov-live-updates-world-chess-championship-2026-game-2-geneva-12376317#publisher=newsstand",
+            "title": "Why Paige Spiranac Felt 'True PTSD’ And Shook On First Tee At Payne’s Valley Before Tournament Exit",
+            "link": "https://sports.ndtv.com/us/golf/why-paige-spiranac-felt-true-ptsd-and-shook-on-first-tee-at-payne-s-valley-before-tournament-exit-12377181#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "D Gukesh vs Javokhir Sindarov Highlights, World Chess Championship 2026: Defending champion D Gukesh of India and his Uzbek challenger Javokhir Sindarov settled for an early draw in Game 2.",
-            "published": "2026-11-25T21:49:50+05:30"
+            "summary": "Golf influencer Paige Spiranac revealed she suffered a full-blown panic attack during the $4 million 2026 Internet Invitational, opening up about the intense team pressure and lingering trauma from last year's rules controversy at Payne’s Valley.",
+            "published": "2026-11-25T22:29:19+05:30"
           },
           {
-            "title": "Jeff Hardy Recalls The Terrifying 450 Splash Attempt That Nearly Knocked Him Out",
-            "link": "https://sports.ndtv.com/us/wwe/jeff-hardy-recalls-the-terrifying-450-splash-attempt-that-nearly-knocked-him-out-12376990#publisher=newsstand",
+            "title": "What Is Donovan Clingan's Net Worth In 2026? Contract And Salary Breakdown",
+            "link": "https://sports.ndtv.com/us/nba/what-is-donovan-clingan-s-net-worth-in-2026-contract-and-salary-breakdown-12377150#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Jeff Hardy has revealed why he stopped performing the 450 Splash after a WWE-era attempt nearly knocked him out. He recalled over-rotating during the move, while earlier interviews show he had also dropped other risky aerial moves from his arsenal.",
-            "published": "2026-11-25T21:22:21+05:30"
+            "summary": "Donovan Clingan net worth in 2026: the Blazers center has earned about $21.5 million from his $31.09 million rookie deal. See his salary by year, the 2027-28 option worth $9.55 million, and what his next contract could look like.",
+            "published": "2026-11-25T22:28:39+05:30"
           },
           {
-            "title": "'Better With Bat And Ball': Shubman Gill, Gautam Gambhir Sent Big 'Team Selection' Message",
-            "link": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/better-with-bat-and-ball-shubman-gill-gautam-gambhir-sent-big-team-selection-message-12370605#publisher=newsstand",
+            "title": "WWE Legend Makes Major Admission About His Future Before Survivor Series 2026",
+            "link": "https://sports.ndtv.com/us/wwe/wwe-legend-makes-major-admission-about-his-future-before-survivor-series-2026-12377146#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Former Indian cricket team batter Subramaniam Badrinath criticised the team management for not picking Ravindra Jadeja for the first Test match against New Zealand in Wellington.",
-            "published": "2026-11-25T21:20:04+05:30"
+            "summary": "Stone Cold Steve Austin has addressed his WWE future ahead of Survivor Series: WarGames 2026. The Hall of Famer remains open to delivering another Stunner but explained why he doesn't want to take television time away from today's WWE Superstars.",
+            "published": "2026-11-25T22:28:08+05:30"
           },
           {
-            "title": "History Says The Los Angeles Lakers Are Headed To The Finals, But Tim MacMahon And Sean Elliott Are Not Buying It",
-            "link": "https://sports.ndtv.com/us/nba/history-says-the-los-angeles-lakers-are-headed-to-the-finals-but-tim-macmahon-and-sean-elliott-are-not-buying-it-12376962#publisher=newsstand",
+            "title": "Phil Jackson Found A Prison Mindfulness Coach To Help The Bulls After Michael Jordan's Retirement",
+            "link": "https://sports.ndtv.com/us/nba/phil-jackson-found-a-prison-mindfulness-coach-to-help-the-bulls-after-michael-jordans-retirement-12377229#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "The Lakers are 15-3, and the five other times they started this well this century, they all reached the NBA Finals. See why Tim MacMahon and Sean Elliott are not buying it, and what Friday's game against the Spurs could show.",
-            "published": "2026-11-25T21:17:33+05:30"
+            "summary": "Phil Jackson brought George Mumford to the Chicago Bulls in 1993. Michael Jordan's retirement changed his role, turning a plan to manage success into helping the team through a crisis.",
+            "published": "2026-11-25T22:26:49+05:30"
           },
           {
-            "title": "Will Aleksander Barkov And Brad Marchand Return To Florida Panthers Lineup Against Ottawa Senators?",
-            "link": "https://sports.ndtv.com/us/nhl/will-aleksander-barkov-and-brad-marchand-return-to-florida-panthers-lineup-against-ottawa-senators-12376772#publisher=newsstand",
+            "title": "\"My Grandmother Had A Crush\": How Larry Bird And The 1986 Celtics Shaped Cooper Flagg’s Game",
+            "link": "https://sports.ndtv.com/us/nba/my-grandmother-had-a-crush-how-larry-bird-and-the-1986-celtics-shaped-cooper-flagg-s-game-12377259#publisher=newsstand",
             "source": "NDTV Sports",
-            "summary": "Aleksander Barkov and Brad Marchand could return to the Florida Panthers lineup against Ottawa after missing weeks with knee injuries. Paul Maurice confirmed both remain possible options pending medical clearance.",
-            "published": "2026-11-25T21:16:55+05:30"
-          },
-          {
-            "title": "Kane Williamson Appointed As Durban's Super Giants Head Coach For SA20 2027",
-            "link": "https://sports.ndtv.com/cricket/kane-williamson-appointed-as-durbans-super-giants-head-coach-for-sa20-2027-12376269#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Former New Zealand captain Kane Williamson has been appointed as head coach of Durban's Super Giants (DSG) ahead of the 2027 edition of the SA20. The move means Williamson makes a transition from player to a coaching role in the DSG dugout.",
-            "published": "2026-11-25T21:16:31+05:30"
-          },
-          {
-            "title": "Jade Cargill Shares Details About Her Split Brow After Suffering A Nasty Injury On WWE SmackDown",
-            "link": "https://sports.ndtv.com/us/wwe/jade-cargill-shares-details-about-her-split-brow-after-suffering-a-nasty-injury-on-wwe-smackdown-12376858#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Jade Cargill has revealed why she visited a plastic surgeon after suffering a split brow during a WWE SmackDown match against Nia Jax and Tiffany Stratton. She also recalled the severe back pain caused by a top-rope powerbomb from Charlotte Flair.",
-            "published": "2026-11-25T21:16:31+05:30"
-          },
-          {
-            "title": "WWE Star Opens Up About The Brutal Wrestling Bump She Simply Cannot Take In A Recent Interview",
-            "link": "https://sports.ndtv.com/us/wwe/wwe-star-opens-up-about-the-brutal-wrestling-bump-she-simply-cannot-take-in-a-recent-interview-12376910#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Jade Cargill has taken table bumps, ladder spots and kendo stick shots in WWE, but thumbtacks are a different story. The former Women's Champion explained why she refuses to take that particular risk during an appearance on The Huddle.",
-            "published": "2026-11-25T21:16:02+05:30"
-          },
-          {
-            "title": "Creed Brothers Reveal The Truth Behind Claims Of Backstage Problems During Their WWE Run In New Interview",
-            "link": "https://sports.ndtv.com/us/wwe/creed-brothers-reveal-the-truth-behind-claims-of-backstage-problems-during-their-wwe-run-in-new-interview-12376937#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Julius and Drew Kasper have addressed claims of backstage heat during their WWE run. Julius says neither brother was told of any issue, while Drew reveals WWE made several attempts to re-sign them before they chose AEW after the 2023 Priest match.",
-            "published": "2026-11-25T21:15:41+05:30"
-          },
-          {
-            "title": "Nikola Jokic, Jamal Murray Exposed As Denver Nuggets Coach David Adelman Demands Urgent 'Fluid’ Roster Changes Now",
-            "link": "https://sports.ndtv.com/us/nba/nikola-jokic-jamal-murray-exposed-as-denver-nuggets-coach-david-adelman-demands-urgent-fluid-roster-changes-now-12376940#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Denver Nuggets coach David Adelman says rotation changes are on the table after a heavy 120-101 loss to the Dallas Mavericks dropped the team to 10-6 and ended their NBA Cup run.",
-            "published": "2026-11-25T21:15:05+05:30"
-          },
-          {
-            "title": "Tracy McGrady Questions Jayson Tatum’s Shot Creation As Celtics Hit A Rough Patch",
-            "link": "https://sports.ndtv.com/us/nba/tracy-mcgrady-questions-jayson-tatum-s-shot-creation-as-celtics-hit-a-rough-patch-12376016#publisher=newsstand",
-            "source": "NDTV Sports",
-            "summary": "Tracy McGrady believes Jayson Tatum is settling for difficult shots because he struggles to beat defenders. Carmelo Anthony, however, is not overly concerned about Boston’s four losses.",
-            "published": "2026-11-25T21:14:23+05:30"
+            "summary": "Cooper Flagg revealed how his grandmother's admiration for Larry Bird introduced him to the Boston Celtics legend and shaped the way he learned to play basketball.",
+            "published": "2026-11-25T22:25:59+05:30"
           }
         ],
         "Technology": [
@@ -539,8 +539,8 @@
             "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
             "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Entertainment",
-            "summary": "Ramsay will take the driving seat alongside unnamed co-presenters when the show starts filming next year.",
-            "published": "2026-11-25T16:58:51+00:00"
+            "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+            "published": "2026-11-25T17:16:19+00:00"
           },
           {
             "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
@@ -627,6 +627,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "Kashi Tamil Sangamam: उत्तर-दक्षिण के सांस्कृतिक संबंधों को नई पीढ़ी तक पहुंचाने की पहल",
+            "link": "https://hindi.oneindia.com/news/india/kashi-tamil-sangamam-5-0-thirukkural-cultural-exchange-north-south-unity-india-1691795.html",
+            "source": "Oneindia Hindi",
+            "summary": "",
+            "published": "2026-11-25T22:41:33+05:30"
+          },
+          {
             "title": "UP Election 2027: आज हुए चुनाव तो उप्र में किसकी सरकार, CM कौन? Score Intelligence सर्वे में 42 सीटें गेमचेंजर",
             "link": "https://hindi.oneindia.com/news/uttar-pradesh/up-election-2027-score-intelligence-survey-predicts-nda-india-seat-vote-share-1691787.html",
             "source": "Oneindia Hindi",
@@ -634,7 +641,7 @@
             "published": "2026-11-25T22:29:35+05:30"
           },
           {
-            "title": "15 दिसंबर से संसद सत्र बुला सकती है सरकार:महिला आरक्षण और परिसीमन बिल पास कराने की तैयारी, NDA को विपक्ष के समर्थन की जरूरत",
+            "title": "संसद का शीत सत्र 15 दिसंबर के पहले संभव:सरकार परिसीमन बिल ला सकती है; पीएम ने कैबिनेट से कहा- तैयारियां करें",
             "link": "https://www.bhaskar.com/national/news/parliament-winter-session-pm-modi-women-reservation-delimit-bill-139798158.html",
             "source": "Dainik Bhaskar",
             "summary": "",
@@ -702,13 +709,6 @@
             "source": "Dainik Bhaskar",
             "summary": "",
             "published": "2026-11-25T14:07:34+00:00"
-          },
-          {
-            "title": "UP Chunav 2027: ‘Shivpal चाचा की दुर्गति, एक जिला पंचायत का टिकट भी न दिला सकते’, सपा-कांग्रेस में रार पर BJP",
-            "link": "https://hindi.oneindia.com/news/uttar-pradesh/up-chunav-2027-shivpal-chacha-can-t-even-get-zila-panchayat-ticket-bjp-mocks-sp-congress-rift-1691633.html",
-            "source": "Oneindia Hindi",
-            "summary": "",
-            "published": "2026-11-25T19:34:23+05:30"
           }
         ],
         "Entertainment": [
@@ -804,11 +804,25 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ફૅરનેસ ક્રીમથી કિડનીની ગંભીર બીમારીનું જોખમ? રૂપ નિખારવાનો દાવો કરતી ક્રીમ અંગે ચોંકાવનારો ખુલાસો",
+            "link": "https://www.bbc.com/gujarati/articles/cve870r1p7epo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC Gujarati",
+            "summary": "",
+            "published": "2026-11-25T17:19:39+00:00"
+          },
+          {
+            "title": "સંસદનું શિયાળુ સત્ર 15 ડિસેમ્બર પહેલાં શક્ય:સરકાર સીમાંકન બિલ લાવી શકે છે; PMએ કેબિનેટને કહ્યું- તૈયારીઓ કરો",
+            "link": "https://www.divyabhaskar.co.in/national/news/modi-cabinet-parliament-winter-session-delimitation-bill-planning-139798233.html",
+            "source": "Divya Bhaskar",
+            "summary": "",
+            "published": "2026-11-25T17:15:09+00:00"
+          },
+          {
             "title": "હાથમાં મોબાઇલ ફોન, ખભે બૅગપૅક અને પગમાં સ્પૉર્ટ્સ શૂઝ - ગિરનાર પરિક્રમાનો ધાર્મિક ચહેરો કઈ રીતે બદલાઈ રહ્યો છે?",
             "link": "https://www.bbc.com/gujarati/articles/c977216802jzo?at_medium=RSS&at_campaign=rss",
             "source": "BBC Gujarati",
             "summary": "",
-            "published": "2026-11-25T16:27:43+00:00"
+            "published": "2026-11-25T17:11:42+00:00"
           },
           {
             "title": "અમેરિકાએ ભારત સહિત અનેક દેશો પર નવા ટેરિફ લાદવાની કરી જાહેરાત - ન્યૂઝ અપડેટ",
@@ -816,13 +830,6 @@
             "source": "BBC Gujarati",
             "summary": "સાઉદી અરેબિયામાં હુથી વિદ્રોહીઓ દ્વારા કરવામાં આવેલા હુમલામાં બે ભારતીય નાગરિકો ઘાયલ થયા હોવાના સમાચાર સામે આવ્યા છે. આ ઘટના બાદ વિદેશ મંત્રાલય દ્વારા સક્રિયતા દાખવવામાં આવી રહી છે. મધ્ય-પૂર્વના દેશોમાં ખાસ કરીને યમનના હુથી વિદ્રોહીઓ દ્વારા સમયાંતરે કરવામાં આવતી આક્રમક કાર્યવાહીને કારણે સુરક્ષાનો પ્રશ્ન ગંભીર બનતો જાય છે. આ હુમલામાં ભારતીયો ઘાયલ થવાની ઘટનાને લઈને વિદેશ મંત્રાલયે અત્યંત ગંભીર નોંધ લીધી છે. મંત્રાલય દ્વારા અપેક્ષા રાખવામાં આવી રહી છે કે આ બાબતે વધુ સત્તાવાર અપડેટ્સ જલ્દીથી આપવામાં આવશે. સામાન્ય રીતે આવા કિસ્સાઓમાં ભારત સરકાર દ્વારા સ્થાનિક રાજદૂતાવાસ મારફતે ઘાયલોની તબીબી સહાય અને સુરક્ષા માટે પ્રયત્નો કરવામાં આવતા હોય છે. આ ઘટનાએ વિદેશમાં વસતા ભારતીયોની સુરક્ષા અંગે ફરી એકવાર ચિંતા ઊભી કરી છે. હુથી વિદ્રોહીઓની આ પ્રકારની હિંસક પ્રવૃત્તિઓને પગલે આંતરરાષ્ટ્રીય સ્તરે પણ નિંદા થતી હોય છે. હાલના તબક્કે આ બંને ભારતીયોની હાલત અને તેમને મળેલી મદદ વિશેની વધુ વિગતોની રાહ જોવામાં આવી રહી છે.",
             "published": "2026-11-25T16:08:47+00:00"
-          },
-          {
-            "title": "ફૅરનેસ ક્રીમથી કિડનીની ગંભીર બીમારીનું જોખમ? રૂપ નિખારવાનો દાવો કરતી ક્રીમ અંગે ચોંકાવનારો ખુલાસો",
-            "link": "https://www.bbc.com/gujarati/articles/cve870r1p7epo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Gujarati",
-            "summary": "",
-            "published": "2026-11-25T15:52:18+00:00"
           },
           {
             "title": "પુણેમાં બસ સ્ટોપ પર ટ્રકે વિદ્યાર્થીઓને કચડી નાખ્યા:3નાં મોત; 6 ઘાયલ, ટક્કર બાદ બેલેન્સ બગડ્યું, છતાં ડ્રાઇવર ટ્રક લઈને ભાગ્યો",
@@ -879,13 +886,6 @@
             "source": "BBC Gujarati",
             "summary": "",
             "published": "2026-11-25T10:54:14+00:00"
-          },
-          {
-            "title": "બાંગ્લાદેશ બોર્ડરથી 20 કિમી દૂર આસામમાં એરપોર્ટ બનશે:વાર્ષિક 10 લાખ મુસાફરોની ક્ષમતા, 2014 કરોડ રૂપિયા મંજૂર; કેબિનેટ બેઠકમાં 5 મોટા નિર્ણય",
-            "link": "https://www.divyabhaskar.co.in/national/news/assam-silchar-greenfield-airport-modi-cabinet-approval-139795179.html",
-            "source": "Divya Bhaskar",
-            "summary": "",
-            "published": "2026-11-25T10:27:11+00:00"
           }
         ]
       }
@@ -1100,6 +1100,13 @@
             "published": "2026-11-25T21:39:38+05:30"
           },
           {
+            "title": "CJP Saurav Das: పుట్టిన ప్రదేశంపై స్పష్టత ఇవ్వండి.. సౌరవ్‌దాస్‌కు కేంద్రం నోటీసులు - Eenadu",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMk1fX2lyVGlBVndLY21BSFVDcmNIY1dmc0xQWVZUYm1KSll0WHlHX0V3NDd4NXB5NFpFM2p2clBkUFE4bFEwanRRbE1KNC1rbkpwNHJYRERNSXF2Z3ZkRlB3UWJwa09KcUFueGJidER1WkVUV05ITXZJVmlmSUJ3WWVMX2hNempsLUNsdTlFbktadHlOeld4cWhhS3N6OGswRHNSdF90TnFHVF95LVBRZ1dsS21VMWVMTUx4b2lPYW8tMjQzdHNDZzhqLTdaT3dHZ3FqZElsZGllNEY1NHlOYjNULUY3dVRkU29HMNIB7AFBVV95cUxQMk1fX2lyVGlBVndLY21BSFVDcmNIY1dmc0xQWVZUYm1KSll0WHlHX0V3NDd4NXB5NFpFM2p2clBkUFE4bFEwanRRbE1KNC1rbkpwNHJYRERNSXF2Z3ZkRlB3UWJwa09KcUFueGJidER1WkVUV05ITXZJVmlmSUJ3WWVMX2hNempsLUNsdTlFbktadHlOeld4cWhhS3N6OGswRHNSdF90TnFHVF95LVBRZ1dsS21VMWVMTUx4b2lPYW8tMjQzdHNDZzhqLTdaT3dHZ3FqZElsZGllNEY1NHlOYjNULUY3dVRkU29HMA?oc=5",
+            "source": "Eenadu",
+            "summary": "",
+            "published": "2026-11-25T15:32:14+00:00"
+          },
+          {
             "title": "మళ్లీ టారిఫ్ ల మోత మోగించబోతున్న ట్రంప్..! భారత్ సహా పలు దేశాలకు షాక్?",
             "link": "https://telugu.oneindia.com/news/international/us-tariff-proposal-india-six-other-nations-face-up-to-25-duties-china-hit-with-40-516461.html",
             "source": "Oneindia Telugu",
@@ -1147,13 +1154,6 @@
             "source": "BBC Telugu",
             "summary": "",
             "published": "2026-11-25T14:16:59+00:00"
-          },
-          {
-            "title": "Andhrapradesh News: LIVE: నూజివీడులో ఘనంగా ప్రారంభమైన కార్తిక దీపోత్సవం - Eenadu",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1h3a01jNTBFNzBlMU9zLUNqSnBfSmt2QWxoR0hGQlQ2TmI4R1R6amVoVFN0VWQwbGwwUGJLWkpBS2RmZkJiSzNzVk4zZ3MzTDViMHJYS0xQZ01PNXlERWpkc3N3b2RwcG56SHZGUzJYT3JuN2FFWS1qYjFUV3QtWWM4dG_SAYQBQVVfeXFMTmNYd2tNYzUwRTcwZTFPcy1DakpwX0prdkFsaEdIRkJUNk5iOEdUemplaFRTdFVkMGxsMFBiS1pKQUtkZmZCYkszc1ZOM2dzM0w1YjByWEtMUGdNTzV5REVqZHNzd29kcHBuekh2RlMyWE9ybjdhRVktamIxVFd0LVljOHRv?oc=5",
-            "source": "Eenadu",
-            "summary": "",
-            "published": "2026-11-25T14:00:54+00:00"
           }
         ],
         "Entertainment": [
@@ -1249,6 +1249,13 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "KEA: ಆಯುಷ್ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕೆಇಎ ಮಹತ್ವದ ಮಾಹಿತಿ: ನ. 29 ಅಂತಿಮ ಫಲಿತಾಂಶ, ಸ್ಟ್ರೇ ವೇಕೆನ್ಸಿ ಸುತ್ತಿಗೂ ಅವಕಾಶ",
+            "link": "https://kannada.oneindia.com/news/karnataka/kea-releases-pg-ayush-round-1-mock-result-final-seat-allotment-on-november-29-for-aspirants-475635.html",
+            "source": "Oneindia Kannada",
+            "summary": "",
+            "published": "2026-11-25T22:46:37+05:30"
+          },
+          {
             "title": "Special Trains: ಡಿಸೆಂಬರ್ ನಲ್ಲಿ ಬೆಂಗಳೂರಿನಿಂದ ಈ ಎರಡು ಮಾರ್ಗಗಳಲ್ಲಿ ವಿಶೇಷ ರೈಲುಗಳ ಕಾರ್ಯಾಚರಣೆ, ವೇಳಾಪಟ್ಟಿ",
             "link": "https://kannada.oneindia.com/news/india/south-western-railway-announces-special-weekly-trains-between-bengaluru-subedarganj-and-prayagraj-475633.html",
             "source": "Oneindia Kannada",
@@ -1324,13 +1331,6 @@
             "source": "Oneindia Kannada",
             "summary": "",
             "published": "2026-11-25T13:10:12+05:30"
-          },
-          {
-            "title": "ಸರ್ಕಾರದ ದಾಖಲೆಗಳಿಂದಲೇ ದೇಶದ ಮಹಿಳೆಯರ ಅಪೌಷ್ಟಿಕತೆ ವಿಷಯ ರಿವೀಲ್: ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ ಆಕ್ರೋಶ, ಧ್ರುವರಾಠಿ ಸಾಥ್‌!",
-            "link": "https://kannada.oneindia.com/news/india/mallikarjun-kharge-hits-out-malnutrition-among-indian-women-exposed-govt-data-dhruv-rathee-joins-475565.html",
-            "source": "Oneindia Kannada",
-            "summary": "",
-            "published": "2026-11-25T12:13:58+05:30"
           }
         ],
         "Entertainment": [
@@ -1426,11 +1426,39 @@
       "categories": {
         "Top Stories": [
           {
+            "title": "ফর্মে না থাকলেও দু’জনকে দ্বিতীয় টেস্টে খেলানোর দাবি রাহানের! কাদের হয়ে সওয়াল প্রাক্তন ব্যাটারের - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVHJSWEJsX1ZCbElwZEhpbUNxZGQzVkt0X2w4V2RMcHM0a09ZTGg1UFdtVXJWbVZmTloyai1MTUFPNlVNeGhTaXJNMXBxdldGdnNfYWFUdFRseG9YWDhsR3RndzVueG1LVUZWVm1kTHFwYThxTzFXbmRjekpOWTlqYmpDTTN3UXBuaVVBd2x0SXJZYkw0MmMzUjg0WXNaMVdlTUNfazREd2dvNmFhSm9WVElQRlIwaEdDeVhwR29Fc2Y3R2lXczFKNVJ2WWg0bHJReDl0clhYWVVSUGcxLWRzemh2cExqNVRmNkVhemZKQl93X2VUNi130gH3AUFVX3lxTE5UclJYQmxfVkJsSXBkSGltQ3FkZDNWS3RfbDhXZExwczRrT1lMaDVQV21VclZtVmZOWjJqLUxNQU82VU14aFNpck0xcHF2V0Z2c19hYVR0VGx4b1hYOGxHdGd3NW54bUtVRlZWbWRMcXBhOHFPMVduZGN6Sk5ZOWpiakNNM3dRcG5pVUF3bHRJclliTDQyYzNSODRZc1oxV2VNQ19rNER3Z282YWFKb1ZUSVBGUjBoR0N5WHBHb0VzZjdHaVdzMUo1UnZZaDRsclF4OXRyWFhZVVJQZzEtZHN6aHZwTGo1VGY2RWF6ZkpCX3dfZVQ2LXc?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-25T15:34:47+00:00"
+          },
+          {
+            "title": "বাণিজ্যচুক্তি চূড়ান্ত না হলে ভারতীয় পণ্যের উপর ২৫ শতাংশ শুল্ক! ট্রাম্প সরকারের সুপারিশ, চুক্তি হলে কমে হবে কত শতাংশ? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNclN5YnNpZkg0b0RRaC1lRy1qb25vb3VXeTJJbFBEZnE4T3ZCME9DU0xfcTJhLWtacnVCZE9Ja3hQRWxYbmt0eTlCWk90ME5xMWZQTTk4ZmtrNVQ1eVhoZWVZTDZ3ajEzdnMzeGx4RzMxNHc5REt4T28xd0ZhUFY0OThRUVotckxFSVpCZDFod0Jzb2IxWmRUdGN0MDdMVnM2RzFnSWFpQS1lNmlsdzRyZ2Z5TFNVZDY2dkJpYkFMZDFiRmhzSG02VVdjQVVCWFc3elphZTgwSdIB1wFBVV95cUxNclN5YnNpZkg0b0RRaC1lRy1qb25vb3VXeTJJbFBEZnE4T3ZCME9DU0xfcTJhLWtacnVCZE9Ja3hQRWxYbmt0eTlCWk90ME5xMWZQTTk4ZmtrNVQ1eVhoZWVZTDZ3ajEzdnMzeGx4RzMxNHc5REt4T28xd0ZhUFY0OThRUVotckxFSVpCZDFod0Jzb2IxWmRUdGN0MDdMVnM2RzFnSWFpQS1lNmlsdzRyZ2Z5TFNVZDY2dkJpYkFMZDFiRmhzSG02VVdjQVVCWFc3elphZTgwSQ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-25T15:02:51+00:00"
+          },
+          {
             "title": "সমাবর্তনে গাউন-হুড নয়, উত্তরীয়; পশ্চিমবঙ্গে সরকারি পরামর্শ ঘিরে বিতর্ক",
             "link": "https://www.bbc.com/bengali/articles/cvkg5d10z3n4o?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
             "summary": "",
             "published": "2026-11-25T15:01:57+00:00"
+          },
+          {
+            "title": "বয়স বৃদ্ধির সঙ্গে ত্বকের ঔজ্জ্বল্য কমছে? পাঁচটি ফল নিয়মিত খেলে সক্রিয় হবে কোলাজেন, বজায় থাকবে তারুণ্য - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQUlsYWNOQXdDOFJJbWNrMUlsQTNkeXZJYUZaeHR4bGZjUTByellEVWU1YklZZ3hYZ0xCR0hXdTFyY1dQU3RMa09ENUk4bHNGTmY3RUhUTDlnXzlBY3NwdjRoeUU5RlRzUHdKMGdyWU80SlBhdzJCejVWNms1NHlVRWdfcEZxTHV5V0Rkd012aTZ6Z3FhblN2ekhWWVVPaXU0ZTRTUDQyVGJWV3dIXzBjQjdXS094QU93ZVlFRlVSQW9UcmgwdURzZG5XbS1KOS1BM1hIVjZHZVVNQTNydFNCT1kwWVBXb1V0OTVEUGRGUGNRQdIB9wFBVV95cUxNLXB4V25MQ19TRDVvNmMzSW1EZThvblFzcnZ3b2lLb3NsX3RpMHBELU9KdWowQTlUYS05MU1Vbk0zLTQzTy1FQXR1bGZKWTVBOEMxNnkyX1dwb2EtWDJ4b3MwMEVGRG1yazdRRU81c1RGMTNYQklabXF0QWtyMzNhRDcwQlZBdkxmaEg5NEd5THl3cl9iQ2RtN2NnY1NaNVR5VGVPbnNFd2VoVWdsZ0dEbktMckhMT0JrbkJ0OHVEU0xTbzVMWHp2S29jcnZUZHRGWXA0RUdIdGpqVWxCREVueTZtazM0OVVGUG92RTB2ck9zeFRwaENZ?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-25T13:09:08+00:00"
+          },
+          {
+            "title": "রোজ দু’টি করে কুসুমসমেত ডিম খেলে ত্বক আর চুলের কী কী উপকার হতে পারে জানেন? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWxVcEt4OHlZNDhlUERrZ3VzZkQ3ZUlNbjZPOWNoc3BpSDZ6OWwzNlJKU2JncWF3amVJU1FNWFVaQTJ4bGh2LXNsMHhheVNyc29NSmJiQTFMVTVCTXpheUdJZjhKSDhMQUw4SmJBM1VFTjBWV040NnZmcXhyeFZObTZtQVlSb0FuVzVjOWRhak9qZ0sxbmt6ZVBQYzkxUnVCWnNkaUlCVjBJZTdsT0VpVmVTeDRGdExaeGktbzNwVEVGTlM5d19NS1NhWm02RkZmS0hkU3ZDNXVleVo0RTZKVkJOdkdPMUM3VkdibWh2NNIB7wFBVV95cUxOaWxVcEt4OHlZNDhlUERrZ3VzZkQ3ZUlNbjZPOWNoc3BpSDZ6OWwzNlJKU2JncWF3amVJU1FNWFVaQTJ4bGh2LXNsMHhheVNyc29NSmJiQTFMVTVCTXpheUdJZjhKSDhMQUw4SmJBM1VFTjBWV040NnZmcXhyeFZObTZtQVlSb0FuVzVjOWRhak9qZ0sxbmt6ZVBQYzkxUnVCWnNkaUlCVjBJZTdsT0VpVmVTeDRGdExaeGktbzNwVEVGTlM5d19NS1NhWm02RkZmS0hkU3ZDNXVleVo0RTZKVkJOdkdPMUM3VkdibWh2NA?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-25T13:05:03+00:00"
           },
           {
             "title": "রাশিয়ার নিজস্ব তথ্য অনুযায়ী, ইউক্রেন যুদ্ধে দেশটি প্রায় ৫ লক্ষ মানুষ হারিয়েছে",
@@ -1440,6 +1468,13 @@
             "published": "2026-11-25T12:45:36+00:00"
           },
           {
+            "title": "মহাপতনের পর কি ফের ঘুরে দাঁড়াবে সোনা? আগামী দু’সপ্তাহে তিনটি বিশেষ দিনেই ‘ভাগ্য’ নির্ধারিত হবে হলুদ ধাতুর! - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVVpHYi0yc0tvLWVjZ2dPTlp5UmpaeWJiX3lWdk04V2g2U1BjYUJSUkJsVl96eDdhSjhFLWROVTZPZ1NyRkdsOXpPVE50bEtWeG5QR3B2UG5ZUkg4cFFHbVdsUVhLSjVRN1U2Y09oeEVEaHFlWUZteEVPODVGalpOM2lqQmtCdnk5WWFsbXZqRkVuMU5BMXVnalRfcFVvbl9GSG1mLXg2eVdpR1U3QWRfSjhKUm5MeXFPbHhKMkhPUzBlZl9MOHppclJNRVJiMUFmSVdlNnNoS05ON1M2RjNDTWlnTzhNR2xOWlRF0gHrAUFVX3lxTE1VWkdiLTJzS28tZWNnZ09OWnlSalp5YmJfeVZ2TThXaDZTUGNhQlJSQmxWX3p4N2FKOEUtZE5VNk9nU3JGR2w5ek9UTnRsS1Z4blBHcHZQbllSSDhwUUdtV2xRWEtKNVE3VTZjT2h4RURocWVZRm14RU84NUZqWk4zaWpCa0J2eTlZYWxtdmpGRW4xTkExdWdqVF9wVW9uX0ZIbWYteDZ5V2lHVTdBZF9KOEpSbkx5cU9seEoySE9TMGVmX0w4emlyUk1FUmIxQWZJV2U2c2hLTk43UzZGM0NNaWdPOE1HbE5aVEU?oc=5",
+            "source": "Anandabazar Patrika",
+            "summary": "",
+            "published": "2026-11-25T12:41:34+00:00"
+          },
+          {
             "title": "মজুরি বৃদ্ধির ঘোষণার পরেও পোশাক শ্রমিকদের আন্দোলন থামছে না কেন?",
             "link": "https://www.bbc.com/bengali/articles/c920xrpd3jvro?at_medium=RSS&at_campaign=rss",
             "source": "BBC Bangla",
@@ -1447,67 +1482,32 @@
             "published": "2026-11-25T12:19:48+00:00"
           },
           {
-            "title": "চীনের রকেটে চড়ে প্রথমবার মহাকাশে পাকিস্তানের নভোচারী",
-            "link": "https://www.bbc.com/bengali/articles/ck4gn88qd45vo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "শিক্ষকঘাটতি মেটাতে সরকারপোষিত স্কুলের শিক্ষকদের পাঠানোর সিদ্ধান্ত অন্য সরকারি স্কুলে, সমস্যার স্থায়ী সমাধানের দাবি শিক্ষামহলে - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVU9WcHFBWHZ5cnQyRFdtT0xMcG9jTVhrSVVfMjBhUW1IQUZBYThvUmx1RXZPVXprYW5qNVZxY0RGOGlIYlVXSUJiTGJYWElxOTdOcWFhU1hzMkVzZC00bVJWb0hMb3ppemp0MFh6blJkQmxRaXNFaC1yR3pmRnp2SW5VdG9YZC1ib2lqMWVqWnNGMzV0clJVdWtwcDlUSHk4SlNFTFp4c3JIZ29rMXREcXJWVG1URC15RmZWUml6cThWMDdjMlhvUHoxMlVHUEdwYWIwd3RfbE4zSUt6bGZhYV9MWWQ1cUl1dEcwNElPeUgxbExrLUk1RXE5YUl5MHRwN21LSnNCUkRmWGpTcWdPYk5pMi1BUU5tX1YzQTAyNTgwamNVUWRhLXVVQdIBsAJBVV95cUxNZWhxYTRIRWtJbFZMQWhsMlZ6Y3JBWjhCeHpKaVVSb2tZa0xjczV6bUNnQUJoNl9wQnNJYUZkUEtrQzNKM2Q5VWFMcEJUTnN6ZUJRd0ZSbjRMaDA2Y0dGdVFOcTBZTTg4U2dGd0JIRThmd0djMFM3bDBJaXpSMGRwT0tPM0x0MWVVRk9ublNUTzhacFZyTVBLZEczQ3g0eGxDMTFRWHhlclcxRVpTd1M5VnpveUJJMVZoZG4zbjBHYzBvRjczZ0cwbldzYml4WldWdVRfUjkyZzJrOFZpc2RBYWktNkdqcXR0S25DYzZGZVhzOWFKWnRLeU1icnlRVWlWOWpOMGtRWjJ3OVk5QjNVZE0zdmdYdEwzZmhKSU04cHpYLW1pWEp2dGhfWFZWQ3dT?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-11-25T05:14:50+00:00"
+            "published": "2026-11-25T12:11:31+00:00"
           },
           {
-            "title": "পত্রিকা: পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩৬% বাড়িয়ে ১৭ হাজার টাকা নির্ধারণ",
-            "link": "https://www.bbc.com/bengali/articles/cxj05mz141m8o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "শান্তিনিকেতনের পরে এ বার আসানসোল! পুলিশকে লক্ষ্য করে গুলি চালিয়ে পালালেন অভিযুক্ত, চলছে অভিযান - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdfUUR2WUhGdzE5OUNzS1ZTZEpXZ1Nzc2xMMXJpbkZvVTJKNmhhTG5IQTg2a1BRUGZwdGhHdGt6YXRmV24ySFVjY2xTbDUwNHEwZWxLdmRZdko2Um8zWldTVjBGa3QycFhaQWlxa29TVWVrU2R6R0lndXEtUVNxeGJVNTBkYVdLaFFKLWwwTEFqd3htc1lEOVNyM0wxNnhFQ19jMXFqRXFPUkFvWG9ZX2tweUNTc1Fac1FEdTdhZ9IBxAFBVV95cUxQN2RuYXF6U2k5ejRzb0pIZS04OGd4a25YYXRqR1ZOUk1TU0xuSEhGbkZ0eXdKRW1oV3d2RkNZY1laeTBGUlVwaFEwQ1lwdC1ScDNuX056ZWQ5dkJDY0NZWjM2TVgzb2dQU0FQMjdGcllSNG1Rc1AwbnBDWlNoV0JKeDNMNVloTldQYS1TRmlMdUFOTGthOVNNVmRvODJxQ2pCQ3NydE93X19wVWgyLVNqZU1fSzBrcjAtcmJrSDdwN0kzNmtu?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-11-25T03:06:51+00:00"
+            "published": "2026-11-25T11:45:42+00:00"
           },
           {
-            "title": "একটি চিরুনিকে কেন্দ্র করে যেভাবে এক খ্যাতিমান রাজবংশের পতন হয়েছিল",
-            "link": "https://www.bbc.com/bengali/articles/cxq6n6l71349o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "‘সবলা’ থেকে ‘গৌরী’ হয়েছে মেলা, জল-কাদার ঠেলায় ভুগছেন বিক্রেতারা? - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnpEZ3NSQUdzNTZBQzhKaDViVzNTU1ZORUVLRDVFYldOeE0tV2lJbTlGUUFTNU1acm1sMlc3cU83b1gwcWxiLTFlWW5NWml4dVBxWnVPMGRlTWZGTlVrTWVMd25mLWJqcnplZm04WDdEQ1l5RzFsdlN1bjhQVHltVWpvTDJ1eWlzb2RSa3R4b2hjSkpCRzdiYkJZQXNIZG9RbjJVbA?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-11-25T02:36:53+00:00"
+            "published": "2026-11-25T11:27:00+00:00"
           },
           {
-            "title": "ভারত ২০৭০ সালেও বৃহত্তম হিন্দু সংখ্যাগরিষ্ঠ দেশ থাকবে, পাকিস্তান হবে সবচেয়ে বেশি মুসলমানের দেশ",
-            "link": "https://www.bbc.com/bengali/articles/cmq8l57pg38eo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
+            "title": "খাবারের খোঁজে ঘরে ঢুকল ভালুক, ঘেঁটে দেখল বাসনপত্র! তেড়ে গেল দুই কুকুর, তার পর? ভাইরাল ভিডিয়ো - Anandabazar Patrika",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaWdianJQYlJzU1VKYzVpTWtXNnFZV1YzNjB3VmxBVkNBck4tc1haSEoyTk8weXNTNUNRVmNLMzdpa3lfRFQtbnExRFRMaEhkRlpZX1ZYTkpGWHAxc2JNUmxJcXM0cnd4ZGc2N1NESUVjLVIyQ3JDUEUxM2ItZFdoeUphelhsWHpYZmE1X3VWaWJVb0I1dGIwMkl0T0hCYlRWLTBwQmwtZ1l2bUQ2azAxSTRyNVgzWHBZSkFiWUtLZXdpT3kyaGY2c2VfeXlzRzg4akpwRFhIbmjSAdgBQVVfeXFMTWlnYmpyUGJSc1NVSmM1aU1rVzZxWVdWMzYwd1ZsQVZDQXJOLXNYWkhKMk5PMHlzUzVDUVZjSzM3aWt5X0RULW5xMURUTGhIZEZaWV9WWE5KRlhwMXNiTVJsSXFzNHJ3eGRnNjdTRElFYy1SMkNyQ1BFMTNiLWRXaHlKYXpYbFh6WGZhNV91VmliVW9CNXRiMDJJdE9IQmJUVi0wcEJsLWdZdm1ENmswMUk0cjVYM1hwWUpBYllLS2V3aU95MmhmNnNlX3l5c0c4OGpKcERYSG5o?oc=5",
+            "source": "Anandabazar Patrika",
             "summary": "",
-            "published": "2026-11-24T10:02:03+00:00"
-          },
-          {
-            "title": "শেখ হাসিনা '১৬ই ডিসেম্বর ফিরতে চান', 'বাস্তবতা ভিন্ন' বলছে সরকার",
-            "link": "https://www.bbc.com/bengali/articles/cq742nggglzno?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-24T07:11:39+00:00"
-          },
-          {
-            "title": "জেমস বন্ড সিরিজ যেভাবে বাংলা গোয়েন্দা গল্পকে প্রভাবিত করেছে",
-            "link": "https://www.bbc.com/bengali/articles/cxj05z2elgpro?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-24T01:47:31+00:00"
-          },
-          {
-            "title": "নড়াইলের কালিয়ায় আগুনের ঘটনায় সরেজমিনে যা দেখলেন বিবিসির সংবাদদাতা",
-            "link": "https://www.bbc.com/bengali/articles/c5rmg39vz8kwo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-22T14:56:53+00:00"
-          },
-          {
-            "title": "রোহিঙ্গা শরণার্থীদেরকে মিয়ানমারে ফেরাতে পারবে আইসিজে'র রায়?",
-            "link": "https://www.bbc.com/bengali/articles/c6jd7edm08x9o?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-19T15:38:44+00:00"
-          },
-          {
-            "title": "ইদি আমিন, নওয়াজ শরীফ, ফার্দিনান্দ মার্কোস - নির্বাসিত নেতাদের দেশে ফেরা ঘিরে যতো নাটকীয় ঘটনা",
-            "link": "https://www.bbc.com/bengali/articles/cmd6d69xlx9zo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC Bangla",
-            "summary": "",
-            "published": "2026-11-11T02:35:26+00:00"
+            "published": "2026-11-25T11:15:39+00:00"
           }
         ]
       }
